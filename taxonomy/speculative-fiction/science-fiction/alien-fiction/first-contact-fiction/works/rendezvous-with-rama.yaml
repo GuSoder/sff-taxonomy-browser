@@ -1,0 +1,26 @@
+id: "rendezvous-with-rama"
+title: "Rendezvous with Rama"
+authors:
+  - "Arthur C. Clarke"
+first_published: 1973
+canonical_genre: "first-contact-fiction"
+placement_status: "accepted"
+placement_rationale: "Explorers enter a vast alien cylinder passing through the Solar System and try to understand its purpose without meeting its builders; contact with an alien artifact is the defining encounter."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/first_contact"
+  - "https://www.harpercollins.com/products/rendezvous-with-rama-arthur-c-clarke"
+cover_curation:
+  status: ranked
+  source: Hachette UK / Gollancz SF Masterworks
+  record_url: https://www.hachette.co.uk/titles/arthur-c-clarke/rendezvous-with-rama/9780575077331/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-rendezvous-with-rama-2-236.jpg
+  cover_id: ISBN-9780575077331
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A vivid flat-front space painting sends a gold-lit spacecraft diving past Rama's dark curved hull, with a blue star field, glowing Earth, and brilliant beam creating strong motion, depth, and scale.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 7
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
