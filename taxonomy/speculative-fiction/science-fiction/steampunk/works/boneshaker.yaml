@@ -1,0 +1,31 @@
+id: boneshaker
+title: Boneshaker
+authors:
+- Cherie Priest
+first_published: 2009
+canonical_genre: steampunk
+placement_status: accepted
+placement_rationale: An experimental drill destroys 1860s Seattle and releases zombie-making
+  gas, leaving a walled city of machines, airships and survivors; steam-era invention
+  drives the alternate setting.
+classification_sources:
+- https://torpublishinggroup.com/boneshaker/?format=trade&isbn=9780765318411
+cover_curation:
+  status: ranked
+  source: Tor Publishing Group / Japanese Hayakawa edition
+  record_url: https://torpublishinggroup.com/boneshaker/?format=trade&isbn=9780765318411
+  image_url: https://covers.openlibrary.org/b/isbn/9784150118525-L.jpg
+  cover_id: ISBN-9784150118525
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A masked steampunk fighter in richly detailed brass breathing
+    gear and crimson clothing carries an ornate rifle before a sepia industrial street
+    of timber buildings and machinery on the flat front.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 27
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
