@@ -1,0 +1,31 @@
+id: consider-phlebas
+title: Consider Phlebas
+authors:
+- Iain M. Banks
+first_published: 1987
+canonical_genre: space-opera
+placement_status: accepted
+placement_rationale: A shape-changing mercenary serves one side of a galactic war
+  while hunting a fugitive AI; SFE places the Culture novels in space-opera venues.
+classification_sources:
+- https://sf-encyclopedia.com/entry/banks_iain_m
+- https://www.isfdb.org/cgi-bin/title.cgi?2200
+cover_curation:
+  status: ranked
+  source: Macmillan first edition record via ISFDB
+  record_url: https://www.isfdb.org/cgi-bin/title.cgi?2200
+  image_url: https://covers.openlibrary.org/b/isbn/9780333441381-L.jpg
+  cover_id: ISBN-9780333441381
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A sleek crimson spacecraft banks above a vast gray orbital surface
+    amid stars, debris, and blue planetary light, giving the flat front strong depth,
+    motion, and a richly painted sense of galactic scale.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
