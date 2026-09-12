@@ -1,0 +1,32 @@
+id: ecotopia
+title: 'Ecotopia: The Notebooks and Reports of William Weston'
+authors:
+- Ernest Callenbach
+first_published: 1975
+canonical_genre: utopian-fiction
+placement_status: accepted
+placement_rationale: SFE calls the book an ecology-sensitive Near Future Utopia, while
+  the publisher describes its hopeful ecologically sound future society; constructing
+  and evaluating that social order is central.
+classification_sources:
+- sfe-callenbach
+- https://www.penguinrandomhouse.com/books/23059/ecotopia-by-ernest-callenbach/
+cover_curation:
+  status: ranked
+  source: Penguin Random House
+  record_url: https://www.penguinrandomhouse.com/books/23059/ecotopia-by-ernest-callenbach/
+  image_url: https://images2.penguinrandomhouse.com/cover/9780553348477
+  cover_id: ISBN-9780553348477
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A monumental green tree forms a living globe against a luminous
+    blue sky and banks of soft clouds, turning the ecological-utopia idea into a bold,
+    clean, painterly emblem on a flat front.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
