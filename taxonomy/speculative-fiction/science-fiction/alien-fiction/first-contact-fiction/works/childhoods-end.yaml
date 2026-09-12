@@ -1,0 +1,26 @@
+id: "childhoods-end"
+title: "Childhood's End"
+authors:
+  - "Arthur C. Clarke"
+first_published: 1953
+canonical_genre: "first-contact-fiction"
+placement_status: "accepted"
+placement_rationale: "Alien Overlords arrive above every city, end war and poverty, and guide humanity toward a transformation whose cost only slowly becomes clear; the publisher calls it first contact gone wrong."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/first_contact"
+  - "https://www.penguinrandomhouse.com/books/28158/childhoods-end-by-arthur-c-clarke/"
+cover_curation:
+  status: ranked
+  source: Hachette UK / Gollancz SF Masterworks
+  record_url: https://www.hachette.co.uk/titles/arthur-c-clarke/childhoods-end/9780575082359/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2025/02/hbg-title-childhoods-end-2-159.jpg
+  cover_id: ISBN-9780575082359
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A richly colored flat-front cityscape glows in sulfurous yellow and crimson beneath an immense hovering craft, turning the alien arrival into a dramatic, painterly image with strong scale and atmosphere.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 11
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
