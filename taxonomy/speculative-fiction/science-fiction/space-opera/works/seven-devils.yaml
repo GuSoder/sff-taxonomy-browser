@@ -1,0 +1,32 @@
+id: seven-devils
+title: Seven Devils
+authors:
+- L. R. Lam
+- Elizabeth May
+first_published: 2020
+canonical_genre: space-opera
+placement_status: accepted
+placement_rationale: Penguin Random House explicitly calls the book the first in a
+  feminist space opera duology, following resistance fighters opposing a galaxy-spanning
+  empire.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/607293/seven-devils-by-laura-lam-and-elizabeth-may/
+cover_curation:
+  status: ranked
+  source: Astra Publishing House / DAW
+  record_url: https://astrapublishinghouse.com/product/seven-devils-9780756415808/
+  image_url: https://covers.openlibrary.org/b/isbn/9780756415808-L.jpg
+  cover_id: ISBN-9780756415808
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: Seven sharply painted women and a tiny spacecraft are arranged
+    in prismatic shards of cyan, magenta, and violet, with two split-lit faces anchoring
+    a vivid, densely composed flat front.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 2
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
