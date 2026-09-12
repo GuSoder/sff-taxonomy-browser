@@ -1,0 +1,32 @@
+id: unconquerable-sun
+title: Unconquerable Sun
+authors:
+- Kate Elliott
+first_published: 2020
+canonical_genre: space-opera
+placement_status: accepted
+placement_rationale: Tor presents the book as a space opera with space battles, political
+  intrigue, and a galaxy-scale imperial conflict; Space Opera is the exact current
+  leaf.
+classification_sources:
+- https://torpublishinggroup.com/unconquerable-sun/?format=trade&isbn=9781250197269
+- https://us.macmillan.com/books/9781250197252/unconquerablesun/
+cover_curation:
+  status: ranked
+  source: Tor Publishing Group
+  record_url: https://torpublishinggroup.com/unconquerable-sun/?format=trade&isbn=9781250197269
+  image_url: https://covers.openlibrary.org/b/isbn/9781250197245-L.jpg
+  cover_id: ISBN-9781250197245
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A commanding face emerges from a dense blue-white nebula and starfield,
+    dissolving into luminous particles beside distressed gold lettering for a crisp,
+    dramatic flat front.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 2
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
