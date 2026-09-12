@@ -1,0 +1,26 @@
+id: "the-three-body-problem"
+title: "The Three-Body Problem"
+authors:
+  - "Liu Cixin"
+first_published: 2006
+canonical_genre: "first-contact-fiction"
+placement_status: "accepted"
+placement_rationale: "A secret search for extraterrestrial life reaches a civilization around Alpha Centauri and invites a disastrous response; SFE explicitly describes the event as First Contact."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/liu_cixin"
+  - "https://us.macmillan.com/books/9780765382030/thethreebodyproblem/"
+cover_curation:
+  status: ranked
+  source: Macmillan / Tor Books
+  record_url: https://us.macmillan.com/books/9780765377067/thethreebodyproblem/
+  image_url: https://mpd-biblio-covers.imgix.net/9780765377067.jpg
+  cover_id: ISBN-9780765377067
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A luminous blue flat-front painting layers three suns, orbital diagrams, falling debris, and a solitary figure before a translucent pyramid, creating a richly detailed cosmic scene with superb scale and mystery.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 9
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
