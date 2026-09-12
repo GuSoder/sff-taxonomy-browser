@@ -1,0 +1,28 @@
+id: "the-left-hand-of-darkness"
+title: "The Left Hand of Darkness"
+authors:
+  - "Ursula K. Le Guin"
+first_published: 1969
+canonical_genre: "anthropological-science-fiction"
+placement_status: "accepted"
+placement_rationale: "Genly Ai acts as a participant-observer on Gethen, and the novel makes deciphering gender, kinship, politics and cultural practice its central speculative work. Specialist and peer-reviewed sources treat Le Guin through anthropology and specifically analyze this novel as ethnographic thick description."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/le_guin_ursula_k"
+  - "https://www.ursulakleguin.com/left-hand-darkness"
+  - "sfe-anthropology"
+  - "simonetti-speculative-anthropology"
+cover_curation:
+  status: ranked
+  source: Gollancz / Hachette UK
+  record_url: https://www.hachette.co.uk/titles/ursula-k-le-guin/the-left-hand-of-darkness/9781473221628/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2025/02/hbg-title-the-left-hand-of-darkness-2-378.jpg
+  cover_id: ISBN-9781473221628
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A luminous cosmic yin-yang orb opens within a richly textured blue ice field as two tiny travelers cross the snow, balancing saturated color, fine environmental detail, and a strong symbolic composition.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 10
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
