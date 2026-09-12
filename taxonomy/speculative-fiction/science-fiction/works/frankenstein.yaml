@@ -1,0 +1,35 @@
+id: frankenstein
+title: Frankenstein; or, The Modern Prometheus
+authors:
+- Mary Shelley
+first_published: 1818
+canonical_genre: science-fiction
+placement_status: accepted
+placement_rationale: The animating act is a scientific attempt to create life, and
+  the novel became foundational to later science fiction. But it predates the modern
+  subgenre branches in this taxonomy and remains irreducibly Gothic/horror as well;
+  science fiction itself is the deepest honest canonical home rather than retroactively
+  forcing it into a later leaf.
+classification_sources:
+- sfe-mary-shelley
+- britannica-frankenstein
+- prh-frankenstein
+cover_curation:
+  status: ranked
+  source: Penguin Classics Deluxe Edition / Penguin Random House
+  record_url: https://penguinrandomhousehighereducation.com/book/?isbn=9780143105039
+  image_url: https://covers.openlibrary.org/b/isbn/9780143105039-L.jpg
+  cover_id: ISBN-9780143105039
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A dramatic vintage-comic montage frames the haunted creator and
+    his yellow-eyed creature in heavy ink, pale sulfur yellow, black, and muted violet,
+    giving the flat front kinetic Gothic detail and strong illustrated storytelling.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 11
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
