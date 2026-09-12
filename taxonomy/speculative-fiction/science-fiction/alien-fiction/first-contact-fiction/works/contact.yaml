@@ -1,0 +1,26 @@
+id: "contact"
+title: "Contact"
+authors:
+  - "Carl Sagan"
+first_published: 1985
+canonical_genre: "first-contact-fiction"
+placement_status: "accepted"
+placement_rationale: "Humanity detects an extraterrestrial message and builds the machine encoded within it; SFE calls Sagan’s story a tale of First Contact."
+classification_sources:
+  - "https://www.sf-encyclopedia.com/entry/contact"
+  - "https://www.simonandschuster.com/books/Contact/Carl-Sagan/9781501197987"
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/books/OL23258017M/Contact
+  image_url: https://covers.openlibrary.org/b/id/13110389-L.jpg
+  cover_id: OL13110389L
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A luminous flat-front cosmic painting layers a dark Earth, a brilliant galactic arc, and a dense gold-flecked star field, giving the first-contact theme grand scale with elegant classic typography.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 8
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
