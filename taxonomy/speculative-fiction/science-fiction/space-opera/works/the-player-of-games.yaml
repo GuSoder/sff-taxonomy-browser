@@ -1,0 +1,32 @@
+id: the-player-of-games
+title: The Player of Games
+authors:
+- Iain M. Banks
+first_published: 1988
+canonical_genre: space-opera
+placement_status: accepted
+placement_rationale: A master game player from the Culture is sent to challenge an
+  empire whose social order is embodied in a vast competitive game; it belongs to
+  SFE’s space-opera Culture sequence.
+classification_sources:
+- https://sf-encyclopedia.com/entry/banks_iain_m
+- https://isfdb.org/cgi-bin/pl.cgi?378973
+cover_curation:
+  status: ranked
+  source: HarperPrism edition record
+  record_url: https://biblio.co.uk/9780061000980
+  image_url: https://covers.openlibrary.org/b/isbn/9780061000980-L.jpg
+  cover_id: ISBN-9780061000980
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A multicolored, mask-like face dissolves into digital tiles beside
+    a glossy black game piece, surrounded by tiny symbols, bold geometry, and peach-and-black
+    typography across the intricate flat front.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 25
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
