@@ -1,0 +1,26 @@
+id: "old-mans-war"
+title: "Old Man's War"
+authors:
+  - "John Scalzi"
+first_published: 2005
+canonical_genre: "military-science-fiction"
+placement_status: "accepted"
+placement_rationale: "An elderly recruit receives a new engineered body to fight for human colonies; SFE explicitly calls it military SF."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/scalzi_john"
+  - "https://torpublishinggroup.com/old-mans-war/?format=trade&isbn=9781250359735"
+cover_curation:
+  status: ranked
+  source: Pan Macmillan
+  record_url: https://www.panmacmillan.com/authors/john-scalzi/old-mans-war/9780330538169
+  image_url: https://ik.imagekit.io/panmac/tr:di-placeholder_portrait_aMjPtD9YZ.jpg,tr:w-350,f-jpg,pr-true/edition/9780330538169.jpg
+  cover_id: ISBN-9780330538169
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A detailed orbital station hangs before a huge luminous green moon above a dark planetary horizon, giving the flat front a vivid military-space setting, strong depth, and ominous scale.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 5
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
