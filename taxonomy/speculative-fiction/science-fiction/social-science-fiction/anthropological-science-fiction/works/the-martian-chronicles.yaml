@@ -1,0 +1,25 @@
+id: "the-martian-chronicles"
+title: "The Martian Chronicles"
+authors:
+  - "Ray Bradbury"
+first_published: 1950
+canonical_genre: "anthropological-science-fiction"
+placement_status: "accepted"
+placement_rationale: "Linked stories of humans colonizing Mars whose encounters with the shape-changing Martian culture expose the prejudices and assumptions the colonists bring with them; no hard technology, culture contact is the core."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/bradbury_ray"
+cover_curation:
+  status: ranked
+  source: Open Library cover archive, Bantam 1967 edition
+  record_url: https://openlibrary.org/books/OL57076114M/
+  image_url: https://covers.openlibrary.org/b/id/14828149-L.jpg
+  cover_id: OL-14828149
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Classic painted red-Mars cover with faces, rocket, and insectile Martian detail in the planet disc; richer and higher resolution than the 1963 abstract red scan (180px) and the 2006 hand-and-burning-page (180px); Mondadori 2020 rejected for Italian title, the complete-edition scan is an advance proof.
+  visually_reviewed_on: '2026-09-13'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 8
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false

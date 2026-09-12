@@ -1,0 +1,25 @@
+id: "2001-a-space-odyssey"
+title: "2001: A Space Odyssey"
+authors:
+  - "Arthur C. Clarke"
+first_published: 1968
+canonical_genre: "hard-science-fiction"
+placement_status: "accepted"
+placement_rationale: "SFE identifies Clarke as the writer of his generation most closely identified with knowledgeable, technological hard SF; the novel's rigorously plausible spaceflight, astronomy, and machine intelligence ground its metaphysical arc."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/clarke_arthur_c"
+cover_curation:
+  status: ranked
+  source: Open Library cover archive, Orbit 1998 edition
+  record_url: https://openlibrary.org/books/OL61968380M/
+  image_url: https://covers.openlibrary.org/b/id/15222145-L.jpg
+  cover_id: OL-15222145
+  beauty_score: 7.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Purple painted space scene with the space-suited figure floating in the monolith slab, clean English typography at 303x500; the classic NAL 1968 wheel-station art exists only at 180px, the Penguin Readers scan carries graded-reader branding, and later tie-ins are cluttered with marketing copy.
+  visually_reviewed_on: '2026-09-13'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 9
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
