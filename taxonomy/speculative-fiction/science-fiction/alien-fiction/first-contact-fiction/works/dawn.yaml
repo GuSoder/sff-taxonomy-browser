@@ -1,0 +1,26 @@
+id: "dawn"
+title: "Dawn"
+authors:
+  - "Octavia E. Butler"
+first_published: 1987
+canonical_genre: "first-contact-fiction"
+placement_status: "accepted"
+placement_rationale: "After nuclear war, Lilith wakes aboard an alien Oankali ship and must negotiate their plan to rebuild and genetically merge with humanity; consequential first encounter is deeper than the apocalyptic backstory."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/butler_octavia"
+  - "https://www.hachettebookgroup.com/titles/octavia-e-butler/dawn/9781538753712/"
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/books/OL24736788M/Dawn
+  image_url: https://covers.openlibrary.org/b/id/6790479-L.jpg
+  cover_id: OL6790479L
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A richly painted flat front surrounds Lilith with enormous ochre celestial forms and dense organic ornament, creating a strange, mythic alien atmosphere with more narrative detail than the bright abstract current editions.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
