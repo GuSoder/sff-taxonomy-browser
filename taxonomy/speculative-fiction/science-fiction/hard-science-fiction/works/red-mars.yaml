@@ -1,0 +1,26 @@
+id: "red-mars"
+title: "Red Mars"
+authors:
+  - "Kim Stanley Robinson"
+first_published: 1992
+canonical_genre: "hard-science-fiction"
+placement_status: "accepted"
+placement_rationale: "The first settlers establish a permanent Mars colony and debate terraforming, ecology and political control; the detailed physical and social consequences of colonization make hard SF the strongest home."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/terraforming"
+  - "https://www.penguinrandomhouse.com/books/156201/red-mars-by-kim-stanley-robinson/"
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/books/OL21441703M/Red_Mars
+  image_url: https://covers.openlibrary.org/b/id/8281636-L.jpg
+  cover_id: OL-cover-8281636
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A richly painted Mars fills the black star field behind an astronaut and descending spacecraft, while a fiery terrain strip adds detailed human scale and dramatic red-orange depth.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 7
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
