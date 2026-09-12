@@ -1,0 +1,32 @@
+id: hyperion
+title: Hyperion
+authors:
+- Dan Simmons
+first_published: 1989
+canonical_genre: space-opera
+placement_status: accepted
+placement_rationale: Seven pilgrims travel across an interstellar civilization to
+  the Time Tombs and the lethal Shrike; its galactic pilgrimage, war and far-future
+  scope make space opera the strongest current home.
+classification_sources:
+- https://sf-encyclopedia.com/entry/simmons_dan
+- https://www.penguinrandomhouse.com/books/167468/hyperion-by-dan-simmons/
+cover_curation:
+  status: ranked
+  source: Subterranean Press
+  record_url: https://subterraneanpress.com/hyperion/
+  image_url: https://covers.openlibrary.org/b/isbn/1596064692-L.jpg
+  cover_id: ISBN-1596064692
+  beauty_score: 9.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: The Shrike spreads its intricate blade-like armor around a sleeping
+    infant in a richly painted bronze-and-crimson tableau, pairing terrifying mechanical
+    detail with a starkly intimate focal point across the flat front.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 48
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
