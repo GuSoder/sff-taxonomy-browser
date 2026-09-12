@@ -1,0 +1,26 @@
+id: "nineteen-eighty-four"
+title: "Nineteen Eighty-Four"
+authors:
+  - "George Orwell"
+first_published: 1949
+canonical_genre: "dystopian-fiction"
+placement_status: "accepted"
+placement_rationale: "Winston Smith lives under total surveillance and forced reality in Oceania and attempts a private rebellion; SFE calls it one of the century’s most famous dystopias."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/orwell_george"
+  - "https://isfdb.org/cgi-bin/title.cgi?15862"
+cover_curation:
+  status: ranked
+  source: Signet Classics / Open Library edition scan
+  record_url: https://openlibrary.org/books/OL32086355M/1984
+  image_url: https://covers.openlibrary.org/b/id/10740454-L.jpg
+  cover_id: openlibrary-cover-10740454
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A faceless suited figure with a television eye is surrounded by articulated surveillance cameras against a saturated red field, creating a clear, layered, and darkly playful visual statement of total observation.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 10
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
