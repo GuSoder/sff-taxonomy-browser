@@ -1,0 +1,26 @@
+id: agent-to-the-stars
+title: Agent to the Stars
+authors:
+- John Scalzi
+first_published: 2005
+canonical_genre: first-contact-fiction
+placement_status: accepted
+placement_rationale: SFE explicitly calls Agent to the Stars a First Contact tale in which aliens approaching Earth seek a
+  Hollywood agent to manage humanity’s first encounter with them.
+classification_sources:
+- sfe-scalzi
+cover_curation:
+  status: ranked
+  source: John Scalzi's Whatever
+  record_url: https://whatever.scalzi.com/2015/07/22/agent-to-the-stars-ten-years-on/
+  image_url: http://www.scalzi.com/whatever/a2scover2.jpg
+  cover_id: 2005-Subterranean-Press-cover
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A witty flat-front comic-book composition layers an emerald alien, bright red sports car, Hollywood spotlights, and tabloid panels in saturated pulp colors, giving the first-contact comedy much more personality and visual detail than the restrained later UFO editions.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 7
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
