@@ -1,0 +1,26 @@
+id: "embassytown"
+title: "Embassytown"
+authors:
+  - "China Miéville"
+first_published: 2011
+canonical_genre: "first-contact-fiction"
+placement_status: "accepted"
+placement_rationale: "On an alien world, altered human ambassadors communicate with the Ariekei until a new form of speech destabilizes their civilization; linguistic encounter is the core."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/mieville_china"
+  - "https://www.penguinrandomhouse.com/books/206876/embassytown-by-china-mieville/"
+cover_curation:
+  status: ranked
+  source: Penguin Random House / Del Rey
+  record_url: https://www.penguinrandomhouse.com/books/206876/embassytown-by-china-mieville/
+  image_url: https://images.penguinrandomhouse.com/cover/9780345524508
+  cover_id: ISBN-9780345524508
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A flat-front monochrome city dissolves into a dense field of tiny linguistic marks beneath crisp black, white, and red typography, turning the novel's alien language into an elegant visual texture.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
