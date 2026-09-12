@@ -1,0 +1,31 @@
+id: ancillary-justice
+title: Ancillary Justice
+authors:
+- Ann Leckie
+first_published: 2013
+canonical_genre: space-opera
+placement_status: accepted
+placement_rationale: A former starship AI in one human body pursues revenge across
+  a galactic empire; SFE explicitly calls it complex space opera.
+classification_sources:
+- https://sf-encyclopedia.com/entry/leckie_ann
+- https://www.hachettebookgroup.com/titles/ann-leckie/ancillary-justice/9780316565172/?lens=orbit
+cover_curation:
+  status: ranked
+  source: Orbit / Hachette Book Group
+  record_url: https://www.hachettebookgroup.com/titles/ann-leckie/ancillary-justice/9780316246620/
+  image_url: https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316246620.jpg
+  cover_id: ISBN-9780316246620
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: Angular red, white, and blue craft streak through a smoky abstract
+    star field beside a vast orbital structure, creating a painterly, dynamic flat
+    front with strong motion, scale, and military-space texture.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
