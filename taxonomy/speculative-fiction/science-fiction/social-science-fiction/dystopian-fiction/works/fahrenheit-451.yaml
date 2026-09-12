@@ -1,0 +1,26 @@
+id: "fahrenheit-451"
+title: "Fahrenheit 451"
+authors:
+  - "Ray Bradbury"
+first_published: 1953
+canonical_genre: "dystopian-fiction"
+placement_status: "accepted"
+placement_rationale: "A fireman who burns forbidden books begins to rebel against a conformist future regime; SFE explicitly calls the setting a future dystopia."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/fahrenheit_451"
+  - "https://www.simonandschuster.com/books/Fahrenheit-451/Ray-Bradbury/9781451673265"
+cover_curation:
+  status: ranked
+  source: Open Library edition scan
+  record_url: https://openlibrary.org/books/OL49340160M/Fahrenheit_451
+  image_url: https://covers.openlibrary.org/b/id/14411344-L.jpg
+  cover_id: openlibrary-cover-14411344
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A fragmented human figure strides through dense yellow flames while clutching and shedding book-like forms, with sharp ink detail and restrained red accents turning the act of burning into a tense narrative image.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 10
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
