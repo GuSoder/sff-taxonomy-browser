@@ -1,0 +1,33 @@
+id: foundation
+title: Foundation
+authors:
+- Isaac Asimov
+first_published: 1951
+canonical_genre: space-opera
+placement_status: accepted
+placement_rationale: Psychohistory predicts the fall of a Galactic Empire and a plan
+  attempts to shorten the ensuing dark age; the galactic historical scale makes space
+  opera the strongest home.
+classification_sources:
+- https://sf-encyclopedia.com/entry/foundation_series
+- https://www.penguinrandomhouse.com/books/5655/foundation-by-isaac-asimov/
+cover_curation:
+  status: ranked
+  source: Everyman’s Library / Penguin Random House
+  record_url: https://www.penguinrandomhouse.com/series/FOU/foundation/
+  image_url: https://covers.openlibrary.org/b/isbn/9780307292063-L.jpg
+  cover_id: ISBN-9780307292063
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A robed figure sits before a vast lavender city of impossible
+    towers and circular machinery, framed by intricate circuit-like ornament in violet,
+    green, and silver, giving the flat front exceptional retrofuturist detail and
+    depth.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 12
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
