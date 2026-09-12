@@ -1,0 +1,26 @@
+id: "the-handmaids-tale"
+title: "The Handmaid's Tale"
+authors:
+  - "Margaret Atwood"
+first_published: 1985
+canonical_genre: "dystopian-fiction"
+placement_status: "accepted"
+placement_rationale: "Offred is enslaved for reproduction in the patriarchal totalitarian Republic of Gilead; both SFE and the publisher identify the dystopian structure."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/handmaids_tale_the"
+  - "https://www.harpercollins.com/products/the-handmaids-tale-margaret-atwood"
+cover_curation:
+  status: ranked
+  source: Vintage / Penguin
+  record_url: https://www.penguin.co.nz/books/the-handmaids-tale-9781784871444
+  image_url: https://cdn2.penguin.com.au/covers/400/9781784871444.jpg
+  cover_id: ISBN-9781784871444
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: The red-cloaked figure becomes a finely textured body of rib-like lines and flowering branches beneath a stark white bonnet, giving the cover the richest symbolic detail and strongest red, black, and grey composition.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 9
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
