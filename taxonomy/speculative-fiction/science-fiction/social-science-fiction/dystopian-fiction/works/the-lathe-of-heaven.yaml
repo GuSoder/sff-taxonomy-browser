@@ -1,0 +1,27 @@
+id: "the-lathe-of-heaven"
+title: The Lathe of Heaven
+authors:
+- Ursula K. Le Guin
+first_published: 1971
+canonical_genre: dystopian-fiction
+placement_status: accepted
+placement_rationale: A future of violence and environmental catastrophe is repeatedly remade through coercive social engineering;
+  library cataloging identifies the novel as dystopian fiction.
+classification_sources:
+- https://openlibrary.org/books/OL11758234M/The_Lathe_Of_Heaven
+- https://www.ursulakleguin.com/the-lathe-of-heaven
+cover_curation:
+  status: ranked
+  source: SF Masterworks / Gollancz / Hachette UK
+  record_url: https://www.hachette.co.uk/titles/ursula-k-le-guin/the-lathe-of-heaven/9781857989519/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-lathe-of-heaven-303.jpg
+  cover_id: ISBN-9781857989519
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A firelit face confronts a glowing hexagonal threshold onto an alien shoreline, with layered machinery, deep violet shadows, molten orange light, and a small floating orb creating cinematic depth and tension.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
