@@ -1,0 +1,28 @@
+id: the-word-for-world-is-forest
+title: The Word for World Is Forest
+authors:
+- Ursula K. Le Guin
+first_published: 1972
+canonical_genre: anthropological-science-fiction
+placement_status: accepted
+placement_rationale: The novel’s conflict turns on Terran exploitation of the Athsheans, their forest culture, language, nonviolence,
+  and transformation under colonial force; culture and cross-cultural misunderstanding are the central speculative work.
+classification_sources:
+- sfe-anthropology
+- https://www.ursulakleguin.com/the-word-for-world-is-forest
+- https://www.sapiens.org/culture/ursula-le-guin/
+cover_curation:
+  status: ranked
+  source: Gollancz / Hachette UK
+  record_url: https://www.hachette.co.uk/titles/ursula-k-le-guin/the-word-for-world-is-forest/9781399607797/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2022/05/hbg-title-the-word-for-world-is-forest-291.jpg
+  cover_id: ISBN-9781399607797
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A deep layered forest of dark trunks, vines, leaves, flowers, and a small curled figure opens toward distant turquoise mountains, giving the flat cover strong depth, botanical detail, and restrained but rich color.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 9
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
