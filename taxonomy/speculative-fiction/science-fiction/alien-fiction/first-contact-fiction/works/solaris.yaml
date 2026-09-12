@@ -1,0 +1,26 @@
+id: "solaris"
+title: "Solaris"
+authors:
+  - "Stanisław Lem"
+first_published: 1961
+canonical_genre: "first-contact-fiction"
+placement_status: "accepted"
+placement_rationale: "Scientists orbiting a sentient ocean confront manifestations drawn from their memories and the limits of understanding a truly alien mind; Lem’s site calls it canonical fiction about alien contact."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/solaris"
+  - "https://english.lem.pl/works/novels/solaris"
+cover_curation:
+  status: ranked
+  source: Open Library / Iletisim
+  record_url: https://openlibrary.org/search?title=Solaris&author=Stanislaw+Lem
+  image_url: https://covers.openlibrary.org/b/id/12313764-L.jpg
+  cover_id: OL-cover-12313764
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A bold flat-front surrealist painting uses saturated red, black, and teal geometric forms to turn an alien landscape, machinery, and a fragmented human profile into an energetic modernist composition.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 10
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
