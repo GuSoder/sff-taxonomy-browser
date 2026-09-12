@@ -1,0 +1,26 @@
+id: "enders-game"
+title: "Ender's Game"
+authors:
+  - "Orson Scott Card"
+first_published: 1985
+canonical_genre: "military-science-fiction"
+placement_status: "accepted"
+placement_rationale: "A gifted child is recruited and trained on a military space station to command humanity’s war against the Formics; training and war are structural."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/enders_game"
+  - "https://torpublishinggroup.com/enders-game/?format=hardback&isbn=9780765394866"
+cover_curation:
+  status: ranked
+  source: Macmillan / Tor Books
+  record_url: https://torpublishinggroup.com/enders-game/?format=hardback&isbn=9780765394866
+  image_url: https://mpd-biblio-covers.imgix.net/9780765394866.jpg
+  cover_id: ISBN-9780765394866
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A sharply rendered young soldier strides through a pale zero-gravity battle scene in a detailed armored suit, with drifting debris and restrained gold accents giving the flat front motion, character, and tactical atmosphere.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 8
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
