@@ -1,0 +1,34 @@
+id: the-difference-engine
+title: The Difference Engine
+authors:
+- William Gibson
+- Bruce Sterling
+first_published: 1990
+canonical_genre: steampunk
+placement_status: accepted
+placement_rationale: The publisher calls it a classic steampunk novel; its steam-driven
+  computers bring the information age to an altered 1855.
+classification_sources:
+- sfe-steampunk
+- lcsh-steampunk
+bibliographic_sources:
+- https://www.penguinrandomhouse.com/books/59656/the-difference-engine-by-william-gibson-and-bruce-sterling/
+cover_curation:
+  status: ranked
+  source: Gollancz / Hachette UK
+  record_url: https://www.hachette.co.uk/titles/william-gibson/the-difference-engine/9780575099401/
+  image_url: https://covers.openlibrary.org/b/isbn/0575099402-L.jpg
+  cover_id: ISBN-0575099402
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: An emerald-tinted Victorian mechanism fills the flat front with
+    lenses, gauges, flywheels, pistons, engraved metalwork, and fine circuitry-like
+    texture, creating a dense industrial portrait of the imagined machine.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 36
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
