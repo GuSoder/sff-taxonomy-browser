@@ -24,3 +24,9 @@
 - Intake 71: One Hundred Years of Solitude -> magic-realism. OL 10499988 (Penguin 1999), 8.5. Drive: literary-fantastika 1J3TAEIJdy6DXBsdQeLk-k08FKzN-6Dxl, magic-realism 1ZDtZIPxOZoCGf2R7iE07dk5sfuRbBTnU, works 1nLlrYk_JxJMM_pefA4vgmYyIJARUjsjA, yaml 10j7-4dXNMr8QtJ1jAWp8XEsavG8QSOVL. Commit c14ccc5.
 - BUG FIXED (Gustav report): portraits 60-65 were vertically stretched - my converter cropped 2:3 sources to landscape then resized to portrait. Re-converted without crop, commit f2b6452, remote md5-verified, browser-verified correct proportions.
 - progress.json: next=72, added=54. Site 200/1000.
+
+## 2026-09-13 19:58 - intake 72-73 deployed (commit bc97173, 202/1000)
+- Our Lady of Darkness (1977, Leiber) -> urban-fantasy (SFE leiber_fritz: modern-setting fantasies modeling urban fantasy). Cover OL 10304918 (Fontana 1978), 8.5. Drive 1aza9i23clvzwVqWoFQC5wlMduaiBVaUE. urban-fantasy now 8 works.
+- Replay (1987, Grimwood) -> time-travel-fiction (SFE grimwood_ken: Time Loop fantasy). Cover OL 432217 (Berkley 1986), 8.0. Drive 1wvEx0Xqxze9oNUtg2FOmkro9u8csSZTh. time-travel-fiction now 8 works.
+- New Drive folders: urban-fantasy 1aza9i23... wait works folder id in new_folders.json; time-travel-fiction under unplaceable. Both browser-verified (8 fictions each).
+- Verification note: lazy-loaded below-fold cover imgs have empty currentSrc in DOM checks - verify via works labels/data instead.
