@@ -30,3 +30,9 @@
 - Replay (1987, Grimwood) -> time-travel-fiction (SFE grimwood_ken: Time Loop fantasy). Cover OL 432217 (Berkley 1986), 8.0. Drive 1wvEx0Xqxze9oNUtg2FOmkro9u8csSZTh. time-travel-fiction now 8 works.
 - New Drive folders: urban-fantasy 1aza9i23... wait works folder id in new_folders.json; time-travel-fiction under unplaceable. Both browser-verified (8 fictions each).
 - Verification note: lazy-loaded below-fold cover imgs have empty currentSrc in DOM checks - verify via works labels/data instead.
+
+## 2026-09-13 20:13 — book pages inherit fiction-page edition cover (Gustav report)
+- renderBook hero = active edition's cover for the book (curEd), else the most-books default edition's cover, else the book's own cover. Versions strip 'on' marker follows the shown hero. curEd tracked in state, reset by render/renderFic.
+- Earthsea versions backfilled: every edition cover now appears in each book's versions strip (Wizard 8, Tombs 6, Farthest 7, Tehanu 4, Tales 3, Other Wind 3), edition covers first then prior extras, deduped.
+- INCIDENT: first push (55c9239) shipped a duplicate let curBook declaration (already declared later) - broke all JS for ~1 min until fix commit 27a4f64. Root cause: asserted count on my new string but not on pre-existing declaration. Rule: after state-var edits, grep for ALL declarations of the touched identifiers before pushing.
+- Verified live: fresh deep link to Wizard book page shows 2012 cover bg (10509685); Bantam-1984 tap then Tombs opens with 368884; versions 'on' follows hero.
