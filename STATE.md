@@ -10,3 +10,11 @@
 - touchend swipe-to-shift now returns early when curFic>=0 or curBook>=0 (commit 04541d2). Keyboard arrows unchanged.
 - Verified live with synthetic TouchEvents: fiction page swipe = no nav; genre level swipe still moves to sibling (#heroic-fantasy -> #sword-and-sorcery).
 - GOTCHA: cloud browser served a stale cached copy of the directory URL (Pages max-age=600); verifying fresh deploys needs the explicit index.html URL with a fresh query (?nc=<ts>).
+
+## 2026-09-13 19:30 — historical-fantasy SPLIT (Gustav: by time period) + intake 70
+- historical-fantasy is now an umbrella with 4 attested leaves: gaslight-fantasy (5: Babel, JS&MN, Temeraire, Nights at the Circus, Once and Future Witches), fantasies-of-history (2: Declare, Kingdom of Back), nordic-fantasy (2: Last Light of the Sun, Weaver and the Witch Queen), celtic-fantasy (1: Warrior Bards). New generated portraits 60-63. Commit bcccd42, browser-verified (umbrella shows 4 cards; gaslight leaf 5 works).
+- Editions default-dress rule live (commit 720476a): fiction pages auto-apply the edition with most books, first-listed wins ties. Verified on Earthsea (2012 reissue auto-dressed).
+- Intake 70: Norstrilia -> future-history. OL 477772 (I Books 2003), 8.0, shows_english_title=true. Drive 1D1ebUi97OfLllaVipb1alOEvGGK_d11T.
+- Intake 71 HELD: One Hundred Years of Solitude - magic-realism attested (SFE+Eof) but no cap-safe home (fantasy at 10 children; no umbrella trait fits). Boundary call for Gustav.
+- CACHE GOTCHA confirmed again: always verify deploys via index.html?nc=<ts> URL, never the bare directory URL.
+- Drive scaffolding backlog: new leaves gaslight/fantasies-of-history/nordic/celtic need works folders + yamls moved from historical-fantasy/works.
