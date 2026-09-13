@@ -18,3 +18,9 @@
 - Intake 71 HELD: One Hundred Years of Solitude - magic-realism attested (SFE+Eof) but no cap-safe home (fantasy at 10 children; no umbrella trait fits). Boundary call for Gustav.
 - CACHE GOTCHA confirmed again: always verify deploys via index.html?nc=<ts> URL, never the bare directory URL.
 - Drive scaffolding backlog: new leaves gaslight/fantasies-of-history/nordic/celtic need works folders + yamls moved from historical-fantasy/works.
+
+## 2026-09-13 19:44 — literary-fantastika umbrella (Gustav option 2) + intake 71 + portrait fix
+- New umbrella literary-fantastika (portrait 64, provisional) under fantasy, children: magic-realism (NEW leaf, portrait 65, SFE+Eof attested) + contemporary-fantasy (moved; id unchanged so its deep links survive). Fantasy stays at 10 children.
+- Intake 71: One Hundred Years of Solitude -> magic-realism. OL 10499988 (Penguin 1999), 8.5. Drive: literary-fantastika 1J3TAEIJdy6DXBsdQeLk-k08FKzN-6Dxl, magic-realism 1ZDtZIPxOZoCGf2R7iE07dk5sfuRbBTnU, works 1nLlrYk_JxJMM_pefA4vgmYyIJARUjsjA, yaml 10j7-4dXNMr8QtJ1jAWp8XEsavG8QSOVL. Commit c14ccc5.
+- BUG FIXED (Gustav report): portraits 60-65 were vertically stretched - my converter cropped 2:3 sources to landscape then resized to portrait. Re-converted without crop, commit f2b6452, remote md5-verified, browser-verified correct proportions.
+- progress.json: next=72, added=54. Site 200/1000.
