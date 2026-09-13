@@ -1,0 +1,25 @@
+id: "the-door-into-summer"
+title: "The Door into Summer"
+authors:
+  - "Robert A. Heinlein"
+first_published: 1957
+canonical_genre: "time-travel-fiction"
+placement_status: "accepted"
+placement_rationale: "Cold sleep to 2000 AD plus a genuine time machine for the return; SFE (heinlein_robert_a) calls it flatly 'a Time-Travel story', the mellow counterpart to his 1950s adult novels."
+classification_sources:
+  - "https://sf-encyclopedia.com/entry/heinlein_robert_a"
+cover_curation:
+  status: ranked
+  source: Open Library cover archive, Pan Books 1977 edition
+  record_url: https://openlibrary.org/books/OL51161802M/
+  image_url: https://covers.openlibrary.org/b/id/14589070-L.jpg
+  cover_id: OL-14589070
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A man in a transparent cold-sleep capsule drifting among planets - the time passage made visible - painted, colorful, flat front, English title. Doubleday 1957 first (9315010) man-and-cat through the door amid clocks 7.5; Signet 1981 (10094681) yellow-helmeted figure with orrery 7.5; Del Rey 1986 (207205) woman with cat 7.5; 'A Heinlein Trio' omnibus rejected as the wrong title.
+  visually_reviewed_on: '2026-09-13'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 11
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
