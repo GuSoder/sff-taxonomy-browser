@@ -1,0 +1,26 @@
+id: his-majestys-dragon
+title: His Majesty's Dragon
+authors:
+- Naomi Novik
+first_published: 2006
+canonical_genre: alternate-history-fantasy
+leaf: speculative-fiction/fantasy/real-earth-universe/historical-fantasy/alternate-history-fantasy
+placement_status: accepted
+placement_rationale: A British naval captain bonds with a dragon and joins an aerial corps fighting in the Napoleonic Wars; dragons alter a real historical conflict.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/122950/his-majestys-dragon-by-naomi-novik/
+cover_curation:
+  status: ranked
+  source: Booksense / White Oak Books
+  record_url: https://whiteoakbooks.net/book/9780345481283
+  image_url: https://images.booksense.com/images/283/481/9780345481283.jpg
+  cover_id: ISBN-9780345481283
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: 'A richly colored flat front: a black dragon coils around a luminous naval miniature set like a jewel against a textured crimson field, combining story detail with strong contrast.'
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
