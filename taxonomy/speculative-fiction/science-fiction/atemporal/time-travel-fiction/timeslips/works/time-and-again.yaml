@@ -1,0 +1,24 @@
+id: time-and-again
+title: Time and Again
+authors:
+- Jack Finney
+first_published: 1970
+canonical_genre: timeslips
+placement_status: accepted
+placement_rationale: SFE calls it Time Travel equipoising SF and fantasy and identifies self-hypnosis as its key; the psychological, non-machine transit into 1882 fits Timeslips. Card includes the direct sequel From Time to Time (1995).
+classification_sources:
+- https://sf-encyclopedia.com/entry/finney_jack
+- https://sf-encyclopedia.com/entry/hypnosis
+- https://www.simonandschuster.com/books/Time-and-Again/Jack-Finney/9781982146016
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/3841920-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+books:
+- title: Time and Again
+  year: 1970
+  cover_url: https://covers.openlibrary.org/b/id/3841920-L.jpg
+- title: From Time to Time
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/405925-L.jpg
