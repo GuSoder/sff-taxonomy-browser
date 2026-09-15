@@ -1,0 +1,26 @@
+id: the-age-of-madness
+title: The Age of Madness
+authors:
+- Joe Abercrombie
+first_published: 2019
+canonical_genre: political-fantasy
+placement_status: accepted
+placement_rationale: Abercrombie and Orbit identify a trilogy where crown, banks, industry, war, class unrest and competing ambitions reshape the Union while magic lingers. Its struggle among royal, military, financial and revolutionary powers drives the fantasy, fitting Political fantasy.
+classification_sources:
+- https://joeabercrombie.com/books/a-little-hatred/
+- https://www.hachettebookgroup.com/titles/joe-abercrombie/a-little-hatred/9780316187169/
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/14543428-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+books:
+- title: A Little Hatred
+  first_published: 2019
+  cover_url: https://covers.openlibrary.org/b/id/14543428-L.jpg
+- title: The Trouble with Peace
+  first_published: 2020
+  cover_url: https://covers.openlibrary.org/b/id/14543432-L.jpg
+- title: The Wisdom of Crowds
+  first_published: 2021
+  cover_url: https://covers.openlibrary.org/b/id/14543429-L.jpg
