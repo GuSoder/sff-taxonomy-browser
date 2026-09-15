@@ -1,0 +1,27 @@
+id: a-song-of-ice-and-fire
+title: A Song of Ice and Fire
+authors:
+- George R. R. Martin
+first_published: 1996
+canonical_genre: political-fantasy
+placement_status: accepted
+placement_rationale: The series is already canonical in Political fantasy; A Clash of Kings is officially book two and centers six factions struggling for the Iron Throne.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/108331/a-clash-of-kings-by-george-r-r-martin/
+cover_curation:
+  status: partial-series
+  selected_url: https://covers.openlibrary.org/b/id/8134208-L.jpg
+  shows_english_title: false
+  review_method: one-pass
+books:
+- title: A Game of Thrones
+  first_published: 1996
+- title: A Clash of Kings
+  first_published: 1998
+  cover_url: https://covers.openlibrary.org/b/id/8231751-L.jpg
+- title: A Storm of Swords
+  first_published: 2000
+- title: A Feast for Crows
+  first_published: 2005
+- title: A Dance with Dragons
+  first_published: 2011
