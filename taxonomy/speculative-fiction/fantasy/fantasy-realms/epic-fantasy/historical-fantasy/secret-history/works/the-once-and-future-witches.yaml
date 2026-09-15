@@ -1,0 +1,26 @@
+id: the-once-and-future-witches
+title: The Once and Future Witches
+authors:
+- Alix E. Harrow
+first_published: 2020
+canonical_genre: secret-history
+leaf: speculative-fiction/fantasy/real-earth-universe/historical-fantasy/secret-history
+placement_status: accepted
+placement_rationale: In an alternate 1893, three sisters bring witchcraft into the suffragist struggle and change history; its historical movement and counterfactual magic support historical fantasy.
+classification_sources:
+- https://www.hachettebookgroup.com/titles/alix-e-harrow/the-once-and-future-witches/9780316422017/?lens=redhook
+cover_curation:
+  status: ranked
+  source: Hachette Book Group
+  record_url: https://www.hachettebookgroup.com/titles/alix-e-harrow/the-once-and-future-witches/9780316422017/?lens=redhook
+  image_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9780316422017.jpg
+  cover_id: ISBN-9780316422017
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: An ornate flat-front collage of roses, herbs, ribbon, scissors, a black cat, and other witchcraft emblems; detailed and colorful, with a tactile Victorian-botanical feel.
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
