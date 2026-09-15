@@ -36,3 +36,9 @@
 - Earthsea versions backfilled: every edition cover now appears in each book's versions strip (Wizard 8, Tombs 6, Farthest 7, Tehanu 4, Tales 3, Other Wind 3), edition covers first then prior extras, deduped.
 - INCIDENT: first push (55c9239) shipped a duplicate let curBook declaration (already declared later) - broke all JS for ~1 min until fix commit 27a4f64. Root cause: asserted count on my new string but not on pre-existing declaration. Rule: after state-var edits, grep for ALL declarations of the touched identifiers before pushing.
 - Verified live: fresh deep link to Wizard book page shows 2012 cover bg (10509685); Bantam-1984 tap then Tombs opens with 368884; versions 'on' follows hero.
+
+## 2026-09-15 15:44 - Utopian fiction / Hopepunk restructure
+- Executed Gustav's approved shape with corrected spelling Ecotopian. Utopian fiction stays under Future of Earth fiction and retains its stable id and portrait.
+- New branches: Satirical Utopia (1), Secluded Utopias (2), Hopepunk -> Ecotopian (3) + Feminist Utopia (3). No cards mixed into intermediate nodes.
+- Generated and visually reviewed five new 2:3 detailed colorful portraits (130-134). Drive hierarchy and nine canonical YAMLs mirrored; retired the verified-empty former Utopian works folder.
+- Gate: 122 nodes / 326 works / refs consistent. Deployment verification still pending.
