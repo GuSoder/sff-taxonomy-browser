@@ -1,0 +1,33 @@
+id: oxford-time-travel
+title: Oxford Time Travel
+authors:
+- Connie Willis
+first_published: 1992
+canonical_genre: time-machines
+placement_status: accepted
+placement_rationale: Penguin Random House and SFE identify the Oxford historians sequence,
+  whose institutional Time Gates transport researchers into the past. Blackout and
+  All Clear are one consecutive story within that existing four-fiction card, not
+  a separate intake fiction.
+classification_sources:
+- https://sf-encyclopedia.com/entry/willis_connie
+- https://www.penguinrandomhouse.com/series/EAU/oxford-time-travel/
+cover_curation:
+  status: partial
+  source: Open Library
+  review_method: one-pass series audit
+  visually_reviewed_on: '2026-09-16'
+  selected_url: https://covers.openlibrary.org/b/isbn/9780553081312-L.jpg
+  shows_english_title: true
+books:
+- title: Doomsday Book
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/369478-L.jpg
+- title: To Say Nothing of the Dog
+  year: 1998
+- title: Blackout
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6584391-L.jpg
+- title: All Clear
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6626048-L.jpg
