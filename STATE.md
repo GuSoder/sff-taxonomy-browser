@@ -82,3 +82,8 @@
 - 300 Ariosto -> new Renaissance fantasy leaf under Period fantasy. Hachette anchors an alternate Italian Renaissance federation and the historical poet/Medici court, while Ariosto's magical New World fiction reflects that politics. New portrait 144 generated and inspected.
 - 301 Armed in Her Fashion -> new Medieval fantasy leaf under Period fantasy. SFE/PW anchor 1328 Flanders and the siege of Bruges, with revenants, chimeras, shapeshifters and supernatural Hell woven into documented politics/religion. New portrait 143 generated and inspected.
 - Gate 131 nodes / 385 works / refs consistent. Deployed c079718; public HTML byte-identical. Drive STATE/progress and both YAMLs mirrored. Both new leaf portraits/cards pixel-checked live.
+
+## 2026-09-16 09:50 - intake 302-303 held/skipped
+- 302 Around the World in Eighty Days skipped as non-speculative. SFE explicitly says it is not SF because Verne used travel arrangements then existing and modeled Fogg's route on a real journey; Simon & Schuster lists only boat, train, carriage and elephant travel.
+- 303 Ascent held for Gustav's Alternate history split ruling. Penguin describes a fictional Soviet fighter pilot/cosmonaut inserted into the real Korean War and Space Race; independent review confirms its counterfactual Soviet Moon landing. This fits the proposed Counterfactual history child, but the parent leaf is capped at 10 and restructure remains held.
+- No site mutation. Progress next=304, processed=304, added=243.
