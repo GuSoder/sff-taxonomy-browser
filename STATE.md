@@ -42,3 +42,8 @@
 - New branches: Satirical Utopia (1), Secluded Utopias (2), Hopepunk -> Ecotopian (3) + Feminist Utopia (3). No cards mixed into intermediate nodes.
 - Generated and visually reviewed five new 2:3 detailed colorful portraits (130-134). Drive hierarchy and nine canonical YAMLs mirrored; retired the verified-empty former Utopian works folder.
 - Gate: 122 nodes / 326 works / refs consistent. Deployment verification still pending.
+
+## 2026-09-16 06:41 - intake 290-291 staged
+- Intake 290: All the Murmuring Bones (2021, A.G. Slatter) -> evil-deals. Titan describes the O'Malley family's ancestral bargain with the mer, safe ships for one child each generation; its inherited supernatural bargain is the plot engine. Official Titan front selected in one pass.
+- Intake 291: American War (2017, Omar El Akkad) -> social-dystopia. SFE grounds its near-future dystopian America in climate change, fundamentalism and a second civil war over a fossil-fuel ban; PRH follows the displaced Chestnut family and the generational social consequences. Official PRH front selected in one pass.
+- Local gate: 127 nodes / 375 works / refs consistent. Deployment, Drive mirror and pixel QA pending.
