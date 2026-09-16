@@ -92,3 +92,8 @@
 - Per Gustav ruling, node id/label is now autumn-kingdoms / Autumn Kingdoms. Definition: 14th-century Europe before the Black Death, using Huizinga's autumn-of-the-Middle-Ages framing and leaving room for future Plague fantasy sibling.
 - Armed in Her Fashion remains the sole member. Existing portrait 143 retained byte-for-byte as explicitly requested. #medieval-fantasy redirects to #autumn-kingdoms.
 - Commit 618f732; gate 131 nodes / 385 works / refs consistent. Deployment and screenshot pending.
+
+## 2026-09-16 10:21 - intake 304-305 staged
+- 304 At the Back of the North Wind -> gaslight-fantasy. Penguin anchors a Victorian fairy tale in mid-19th-century working-class England and an ethereal parallel country reached via North Wind spirit. OL 8245161.
+- 305 Atlan -> complete four-book Cija/Atlantis card in sword-and-sorcery. SFE describes imperial conflict, quasihumans, sex, sorcery and garish mad scientists amid collapsing Atlantis. Four one-pass fronts; partial official status.
+- Gate 131 nodes / 387 works / refs consistent. Deploy/Drive/QA pending. Sword and sorcery now 9.
