@@ -52,3 +52,8 @@
 - Hash-route segments are now URI-decoded and normalized through the same slug function as titles. This makes `%27`-encoded and literal-apostrophe links resolve to the canonical `a-wizard-s-...` route instead of falling back to the leaf.
 - Commits 30aef6f + 23ed8d0; public HTML byte-identical to 23ed8d0. Fresh browser QA confirmed the encoded Wizard link opens its fiction page and cover correctly. Screenshot /downloads/cloud-browser-20260916-050730.png.
 - Fabulation and Alternate history restructures remain on hold pending Gustav's ruling.
+
+## 2026-09-16 07:10 - intake 292-293 staged
+- Intake 292 HELD: An American Story (2018, Christopher Priest) grounds closest to Fabulation: SFE says it interrogates rival 9/11 narratives and subverts official appearances; Gollancz centers inconsistent memories, truths and fictions. Fabulation is already at the 10-work cap and its split proposal is with Gustav, so this candidate is not added pending his ruling.
+- Intake 293: An Unkindness of Ghosts (2017, Rivers Solomon) -> generation-starships. SFE explicitly sets it on a generation starship many years into its journey; Akashic identifies the HSS Matilda as carrying the last of humanity for generations. Official Akashic front selected in one pass.
+- Local gate: 127 nodes / 376 works / refs consistent. Deployment, Drive mirror and pixel QA pending.
