@@ -1,0 +1,26 @@
+id: codex-alera
+title: Codex Alera
+authors:
+- Jim Butcher
+first_published: 2004
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: >-
+  Penguin Random House's complete six-book series page defines Alera by furycraft: bonds with elemental forces of earth, air, fire, water, wood and metal that produce specific capabilities used in war, protection and survival. Politics and empire matter, but the explicit, learnable elemental system repeatedly governs what characters and armies can do, making Hard magic closest.
+classification_sources:
+- https://www.penguinrandomhouse.com/series/AQQ/codex-alera/
+- https://www.jim-butcher.com/books/alera
+cover_curation:
+  status: complete
+  source: Ace / Penguin Random House
+  selected_url: https://images1.penguinrandomhouse.com/cover/9780441012688
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass official publisher series
+books:
+- {title: Furies of Calderon, first_published: 2004, cover_url: https://images1.penguinrandomhouse.com/cover/9780441012688}
+- {title: "Academ's Fury", first_published: 2005, cover_url: https://images1.penguinrandomhouse.com/cover/9780441013401}
+- {title: "Cursor's Fury", first_published: 2006, cover_url: https://images1.penguinrandomhouse.com/cover/9780441015474}
+- {title: "Captain's Fury", first_published: 2007, cover_url: https://images1.penguinrandomhouse.com/cover/9780441016556}
+- {title: "Princeps' Fury", first_published: 2008, cover_url: https://images1.penguinrandomhouse.com/cover/9780441017966}
+- {title: "First Lord's Fury", first_published: 2009, cover_url: https://images1.penguinrandomhouse.com/cover/9780441019625}
