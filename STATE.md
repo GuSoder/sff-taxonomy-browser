@@ -77,3 +77,8 @@
 - Fabulation is now umbrella-only, stable #fabulation route retained, with Gustav's children: Books in Books (7 after held intake 292 An American Story) and Worlds in flux (4).
 - Books in Books definition: fabulations where a book, journal, manuscript or story artifact enters and destabilizes the world. Worlds in flux: places, histories, identities or causal world stay visibly mutable. Existing ten cards distributed exactly per Gustav's ruling; An American Story added to Books in Books from the held queue item.
 - New detailed colorful 2:3 portraits 141 and 142 generated, selected and visually inspected. Gate 129 nodes / 383 works / refs consistent. Deployed b468ba8; public HTML byte-identical. An American Story YAML mirrored to Drive. Both new leaf pages and portraits pixel-checked live.
+
+## 2026-09-16 09:20 - intake 300-301 staged
+- 300 Ariosto -> new Renaissance fantasy leaf under Period fantasy. Hachette anchors an alternate Italian Renaissance federation and the historical poet/Medici court, while Ariosto's magical New World fiction reflects that politics. New portrait 144 generated and inspected.
+- 301 Armed in Her Fashion -> new Medieval fantasy leaf under Period fantasy. SFE/PW anchor 1328 Flanders and the siege of Bruges, with revenants, chimeras, shapeshifters and supernatural Hell woven into documented politics/religion. New portrait 143 generated and inspected.
+- Gate 131 nodes / 385 works / refs consistent. Deploy/Drive/live QA pending.
