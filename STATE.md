@@ -66,4 +66,4 @@
 ## 2026-09-16 08:12 - intake 296-297 staged
 - 296 Annex -> alien-invasion-fiction. SFE says high-tech aliens invade, incapacitate adults and occupy the city; Orbit centers Violet's fight to take it back. Official Hachette front selected.
 - 297 Anno Dracula 1999: Daikaiju -> complete six-book Anno Dracula card in vampire-fiction. SFE grounds the alternate world in Dracula marrying Victoria and its vampire history; Titan calls Daikaiju part of the alternate-history vampire series. Official Titan fronts plus one-pass OL 404092 for Dracula Cha Cha Cha.
-- Gate 127 nodes / 380 works / refs consistent. Deployment, Drive and visual QA pending.
+- Gate 127 nodes / 380 works / refs consistent. Deployed 665770a; public HTML byte-identical. Drive STATE/progress and both YAMLs mirrored. Fresh Annex page and complete six-book Anno Dracula grid pixel-checked.
