@@ -87,3 +87,8 @@
 - 302 Around the World in Eighty Days skipped as non-speculative. SFE explicitly says it is not SF because Verne used travel arrangements then existing and modeled Fogg's route on a real journey; Simon & Schuster lists only boat, train, carriage and elephant travel.
 - 303 Ascent held for Gustav's Alternate history split ruling. Penguin describes a fictional Soviet fighter pilot/cosmonaut inserted into the real Korean War and Space Race; independent review confirms its counterfactual Soviet Moon landing. This fits the proposed Counterfactual history child, but the parent leaf is capped at 10 and restructure remains held.
 - No site mutation. Progress next=304, processed=304, added=243.
+
+## 2026-09-16 09:58 - Medieval fantasy renamed Autumn Kingdoms
+- Per Gustav ruling, node id/label is now autumn-kingdoms / Autumn Kingdoms. Definition: 14th-century Europe before the Black Death, using Huizinga's autumn-of-the-Middle-Ages framing and leaving room for future Plague fantasy sibling.
+- Armed in Her Fashion remains the sole member. Existing portrait 143 retained byte-for-byte as explicitly requested. #medieval-fantasy redirects to #autumn-kingdoms.
+- Commit 618f732; gate 131 nodes / 385 works / refs consistent. Deployment and screenshot pending.
