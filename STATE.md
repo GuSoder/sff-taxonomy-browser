@@ -47,3 +47,8 @@
 - Intake 290: All the Murmuring Bones (2021, A.G. Slatter) -> evil-deals. Titan describes the O'Malley family's ancestral bargain with the mer, safe ships for one child each generation; its inherited supernatural bargain is the plot engine. Official Titan front selected in one pass.
 - Intake 291: American War (2017, Omar El Akkad) -> social-dystopia. SFE grounds its near-future dystopian America in climate change, fundamentalism and a second civil war over a fossil-fuel ban; PRH follows the displaced Chestnut family and the generational social consequences. Official PRH front selected in one pass.
 - Local gate: 127 nodes / 375 works / refs consistent. Deployed commit 9b2d534; public HTML byte-identical. Drive STATE/progress and both YAMLs mirrored. Fresh fiction deep links and both official covers pixel-checked.
+
+## 2026-09-16 07:07 - encoded apostrophe route fix
+- Hash-route segments are now URI-decoded and normalized through the same slug function as titles. This makes `%27`-encoded and literal-apostrophe links resolve to the canonical `a-wizard-s-...` route instead of falling back to the leaf.
+- Commits 30aef6f + 23ed8d0; public HTML byte-identical to 23ed8d0. Fresh browser QA confirmed the encoded Wizard link opens its fiction page and cover correctly. Screenshot /downloads/cloud-browser-20260916-050730.png.
+- Fabulation and Alternate history restructures remain on hold pending Gustav's ruling.
