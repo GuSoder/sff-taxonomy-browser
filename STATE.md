@@ -57,3 +57,8 @@
 - Intake 292 HELD: An American Story (2018, Christopher Priest) grounds closest to Fabulation: SFE says it interrogates rival 9/11 narratives and subverts official appearances; Gollancz centers inconsistent memories, truths and fictions. Fabulation is already at the 10-work cap and its split proposal is with Gustav, so this candidate is not added pending his ruling.
 - Intake 293: An Unkindness of Ghosts (2017, Rivers Solomon) -> generation-starships. SFE explicitly sets it on a generation starship many years into its journey; Akashic identifies the HSS Matilda as carrying the last of humanity for generations. Official Akashic front selected in one pass.
 - Local gate: 127 nodes / 376 works / refs consistent. Deployed f467527; public HTML byte-identical. Drive STATE/progress and YAML mirrored. Fresh fiction-page pixel QA passed.
+
+## 2026-09-16 07:41 - intake 294-295 staged
+- 294 Ancestral Night -> complete current 3-book White Space card in new-space-opera: Ancestral Night, Machine, The Folded Sky. SFE calls it interstellar Space Opera with forerunner artefacts and post-scarcity culture; Simon & Schuster centers salvagers, alien wrecks and interstellar war. Coordinated official S&S fronts selected in one pass.
+- 295 Angel Mage -> alternate-history-fantasy. HarperCollins places it in an alternate European world of musketeers and angelic magic; Allen & Unwin specifies an alternative seventeenth century with controlled angel summoning. Actual magic in reworked early-modern Europe makes Alternate history fantasy closest. One-pass OL 8792047.
+- Gate 127 nodes / 378 works / refs consistent. Deployment, Drive and pixel QA pending.
