@@ -76,4 +76,4 @@
 ## 2026-09-16 09:01 - Fabulation split executed by Gustav ruling
 - Fabulation is now umbrella-only, stable #fabulation route retained, with Gustav's children: Books in Books (7 after held intake 292 An American Story) and Worlds in flux (4).
 - Books in Books definition: fabulations where a book, journal, manuscript or story artifact enters and destabilizes the world. Worlds in flux: places, histories, identities or causal world stay visibly mutable. Existing ten cards distributed exactly per Gustav's ruling; An American Story added to Books in Books from the held queue item.
-- New detailed colorful 2:3 portraits 141 and 142 generated, selected and visually inspected. Gate 129 nodes / 383 works / refs consistent. Deployment/Drive/live leaf QA pending.
+- New detailed colorful 2:3 portraits 141 and 142 generated, selected and visually inspected. Gate 129 nodes / 383 works / refs consistent. Deployed b468ba8; public HTML byte-identical. An American Story YAML mirrored to Drive. Both new leaf pages and portraits pixel-checked live.
