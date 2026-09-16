@@ -1,0 +1,33 @@
+id: a-time-of-changes
+title: A Time of Changes
+authors:
+- Robert Silverberg
+first_published: 1971
+canonical_genre: space-dystopias
+placement_status: accepted
+placement_rationale: Tor calls it dystopian science fiction; the closed society on
+  the colony world Borthan prohibits first-person self-expression and makes its social
+  order the engine of the novel. Because the oppression operates off Earth in a spacefaring
+  human future, it belongs in Space dystopias rather than the Earth-only dystopian
+  branch.
+classification_sources:
+- https://torpublishinggroup.com/a-time-of-changes/?format=trade&isbn=9780765322319
+cover_curation:
+  status: ranked
+  source: Gollancz
+  record_url: https://store.gollancz.co.uk/products/a-time-of-changes
+  image_url: https://store.gollancz.co.uk/cdn/shop/products/9781473229235-original.jpg?v=1757037150
+  cover_id: ISBN-9781473229235
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A radiant magenta, violet, and gold mindscape erupts from a sculpted
+    human head into layered faces, energy clouds, and hypnotic concentric rings, creating
+    the most colorful and visually elaborate edition.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 7
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
