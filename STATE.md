@@ -81,4 +81,4 @@
 ## 2026-09-16 09:20 - intake 300-301 staged
 - 300 Ariosto -> new Renaissance fantasy leaf under Period fantasy. Hachette anchors an alternate Italian Renaissance federation and the historical poet/Medici court, while Ariosto's magical New World fiction reflects that politics. New portrait 144 generated and inspected.
 - 301 Armed in Her Fashion -> new Medieval fantasy leaf under Period fantasy. SFE/PW anchor 1328 Flanders and the siege of Bruges, with revenants, chimeras, shapeshifters and supernatural Hell woven into documented politics/religion. New portrait 143 generated and inspected.
-- Gate 131 nodes / 385 works / refs consistent. Deploy/Drive/live QA pending.
+- Gate 131 nodes / 385 works / refs consistent. Deployed c079718; public HTML byte-identical. Drive STATE/progress and both YAMLs mirrored. Both new leaf portraits/cards pixel-checked live.
