@@ -67,3 +67,8 @@
 - 296 Annex -> alien-invasion-fiction. SFE says high-tech aliens invade, incapacitate adults and occupy the city; Orbit centers Violet's fight to take it back. Official Hachette front selected.
 - 297 Anno Dracula 1999: Daikaiju -> complete six-book Anno Dracula card in vampire-fiction. SFE grounds the alternate world in Dracula marrying Victoria and its vampire history; Titan calls Daikaiju part of the alternate-history vampire series. Official Titan fronts plus one-pass OL 404092 for Dracula Cha Cha Cha.
 - Gate 127 nodes / 380 works / refs consistent. Deployed 665770a; public HTML byte-identical. Drive STATE/progress and both YAMLs mirrored. Fresh Annex page and complete six-book Anno Dracula grid pixel-checked.
+
+## 2026-09-16 08:49 - intake 298-299 staged
+- 298 Anthropocene Rag -> technomorphosis. SFE/Tor describe nanotech-remade America and emergent AIs recreating human myths; technology reshapes landscape, minds and culture. Official Tor front.
+- 299 Architects of Memory -> complete two-book Memory War card in new-space-opera. SFE calls it Hard SF Space Opera with military elements across corporate-dominated inhabited space, ancient alien weapons/civilization; Macmillan confirms alien war and corporate intrigue. Official Macmillan fronts.
+- Gate 127 nodes / 382 works / refs consistent. Deployment, Drive and QA pending.
