@@ -62,3 +62,8 @@
 - 294 Ancestral Night -> complete current 3-book White Space card in new-space-opera: Ancestral Night, Machine, The Folded Sky. SFE calls it interstellar Space Opera with forerunner artefacts and post-scarcity culture; Simon & Schuster centers salvagers, alien wrecks and interstellar war. Coordinated official S&S fronts selected in one pass.
 - 295 Angel Mage -> alternate-history-fantasy. HarperCollins places it in an alternate European world of musketeers and angelic magic; Allen & Unwin specifies an alternative seventeenth century with controlled angel summoning. Actual magic in reworked early-modern Europe makes Alternate history fantasy closest. One-pass OL 8792047.
 - Gate 127 nodes / 378 works / refs consistent. Deployed content commits 794d270 + 4bd9bcd; public HTML byte-identical. Drive STATE/progress and both YAMLs current. Pixel QA passed for Angel Mage and corrected complete White Space grid.
+
+## 2026-09-16 08:12 - intake 296-297 staged
+- 296 Annex -> alien-invasion-fiction. SFE says high-tech aliens invade, incapacitate adults and occupy the city; Orbit centers Violet's fight to take it back. Official Hachette front selected.
+- 297 Anno Dracula 1999: Daikaiju -> complete six-book Anno Dracula card in vampire-fiction. SFE grounds the alternate world in Dracula marrying Victoria and its vampire history; Titan calls Daikaiju part of the alternate-history vampire series. Official Titan fronts plus one-pass OL 404092 for Dracula Cha Cha Cha.
+- Gate 127 nodes / 380 works / refs consistent. Deployment, Drive and visual QA pending.
