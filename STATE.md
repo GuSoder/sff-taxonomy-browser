@@ -61,4 +61,4 @@
 ## 2026-09-16 07:41 - intake 294-295 staged
 - 294 Ancestral Night -> complete current 3-book White Space card in new-space-opera: Ancestral Night, Machine, The Folded Sky. SFE calls it interstellar Space Opera with forerunner artefacts and post-scarcity culture; Simon & Schuster centers salvagers, alien wrecks and interstellar war. Coordinated official S&S fronts selected in one pass.
 - 295 Angel Mage -> alternate-history-fantasy. HarperCollins places it in an alternate European world of musketeers and angelic magic; Allen & Unwin specifies an alternative seventeenth century with controlled angel summoning. Actual magic in reworked early-modern Europe makes Alternate history fantasy closest. One-pass OL 8792047.
-- Gate 127 nodes / 378 works / refs consistent. Deployment, Drive and pixel QA pending.
+- Gate 127 nodes / 378 works / refs consistent. Deployed content commits 794d270 + 4bd9bcd; public HTML byte-identical. Drive STATE/progress and both YAMLs current. Pixel QA passed for Angel Mage and corrected complete White Space grid.
