@@ -1,0 +1,32 @@
+id: the-windup-girl
+title: The Windup Girl
+authors:
+- Paolo Bacigalupi
+first_published: 2009
+canonical_genre: cli-fi-dystopia
+placement_status: accepted
+placement_rationale: In climate-ravaged Bangkok, calorie companies control genetically
+  engineered food while an engineered woman struggles against ownership; systemic
+  ecological and corporate oppression make dystopia the current best leaf.
+classification_sources:
+- https://sf-encyclopedia.com/entry/bacigalupi_paolo
+- https://nightshade.start-publishing.com/book/1477/the-windup-girl/
+cover_curation:
+  status: ranked
+  source: Night Shade Books
+  record_url: https://nightshade.start-publishing.com/book/1477/the-windup-girl/
+  image_url: https://cloud.start-publishing.com/public/content/module/public-website/files/2016/01/19/9781597805742_fc-1784.jpg
+  cover_id: ISBN-9781597805742
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
+    artwork over photos of physical book objects
+  beauty_rationale: A richly painted future Bangkok recedes through crowded canals,
+    market stalls, figures, layered rooftops, towers, and hovering craft in warm ochre
+    light, giving the cover exceptional world-building density and depth.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 9
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
+    preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
