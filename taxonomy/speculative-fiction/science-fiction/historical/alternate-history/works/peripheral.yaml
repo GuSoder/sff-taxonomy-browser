@@ -1,0 +1,23 @@
+id: peripheral
+title: Peripheral
+authors:
+- William Gibson
+first_published: 2014
+canonical_genre: alternate-history
+placement_status: accepted
+placement_rationale: SFE identifies Agency as volume two of the Peripheral sequence and says manipulation of Alternate Histories is central, with its Hillary Clinton timeline influenced from later post-Jackpot London. Penguin confirms the different timelines and deliberate nudging of alternate pasts. Alternate history is the defining mechanism.
+classification_sources:
+- https://sf-encyclopedia.com/entry/gibson_william
+- https://www.penguinrandomhouse.com/books/530536/agency-by-william-gibson/
+books:
+- title: The Peripheral
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8787492-L.jpg
+- title: Agency
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/13090570-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/8787492-L.jpg
+  shows_english_title: true
+  review_method: one-pass series search
