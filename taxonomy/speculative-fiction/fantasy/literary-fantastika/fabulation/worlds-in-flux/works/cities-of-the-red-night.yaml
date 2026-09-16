@@ -1,0 +1,31 @@
+id: cities-of-the-red-night
+title: Cities of the Red Night
+authors:
+- William S. Burroughs
+first_published: 1981
+canonical_genre: worlds-in-flux
+placement_status: accepted
+placement_rationale: >-
+  SFE calls the Red Night sequence a mixing and breeding of Western genres, while Penguin describes its mutant empire, radioactive epidemic, pirate history and modern satire as stories woven into one chaotic tale; the sequels move through a surreal Old West toward Egyptian theology. Mutable genre, history and reality make Worlds in flux closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/burroughs_william_s
+- https://www.penguin.co.uk/books/487529/cities-of-the-red-night-by-william-s-burroughs/9780141189932
+- https://www.penguin.co.uk/books/487524/the-place-of-dead-roads-by-william-s-burroughs/9780141189796
+- https://www.penguin.co.uk/books/487523/the-western-lands-by-william-s-burroughs/9780141189949
+cover_curation:
+  status: complete
+  source: Penguin Modern Classics / Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9780141189932-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass series
+books:
+- title: Cities of the Red Night
+  first_published: 1981
+  cover_url: https://covers.openlibrary.org/b/isbn/9780141189932-L.jpg
+- title: The Place of Dead Roads
+  first_published: 1984
+  cover_url: https://covers.openlibrary.org/b/isbn/9780141189796-L.jpg
+- title: The Western Lands
+  first_published: 1987
+  cover_url: https://covers.openlibrary.org/b/id/2385910-L.jpg
