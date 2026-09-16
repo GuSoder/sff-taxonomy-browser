@@ -96,4 +96,4 @@
 ## 2026-09-16 10:21 - intake 304-305 staged
 - 304 At the Back of the North Wind -> gaslight-fantasy. Penguin anchors a Victorian fairy tale in mid-19th-century working-class England and an ethereal parallel country reached via North Wind spirit. OL 8245161.
 - 305 Atlan -> complete four-book Cija/Atlantis card in sword-and-sorcery. SFE describes imperial conflict, quasihumans, sex, sorcery and garish mad scientists amid collapsing Atlantis. Four one-pass fronts; partial official status.
-- Gate 131 nodes / 387 works / refs consistent. Deploy/Drive/QA pending. Sword and sorcery now 9.
+- Gate 131 nodes / 387 works / refs consistent. Deployed 8e30f1a; public HTML byte-identical. Drive STATE/progress and YAMLs mirrored. North Wind pixel QA passed. Cija grid required cover-host correction 17ce202: The Serpent/Some Summer Lands now load from OL; The City external image still fails live, so series cover status remains partial and needs later audit. Sword and sorcery now 9.
