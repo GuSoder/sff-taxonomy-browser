@@ -1,0 +1,29 @@
+id: viriconium
+title: Viriconium
+authors:
+- M. John Harrison
+first_published: 1971
+canonical_genre: dying-earth
+placement_status: accepted
+placement_rationale: SFE describes the sequence as Far-Future science fantasy on a bleak Dying Earth, with Viriconium the City at the end of time; A Storm of Wings recasts alien invasion through insectoid perception. Penguin's collected edition confirms its four core works. The exhausted terminal Earth and decaying city remain the shared frame, making Dying earth closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/harrison_m_john
+- https://www.penguinrandomhouse.com/books/75948/viriconium-by-m-john-harrison/
+cover_curation:
+  status: ranked
+  selected_url: https://images.penguinrandomhouse.com/cover/9780553383157
+  shows_english_title: true
+  review_method: one-pass series search
+books:
+- title: The Pastel City
+  first_published: 1971
+  cover_url: https://covers.openlibrary.org/b/id/9410274-L.jpg
+- title: A Storm of Wings
+  first_published: 1980
+  cover_url: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1294860893i/304254.jpg
+- title: In Viriconium
+  first_published: 1982
+  cover_url: https://covers.openlibrary.org/b/id/8586480-L.jpg
+- title: Viriconium Nights
+  first_published: 1984
+  cover_url: https://covers.openlibrary.org/b/id/13507449-L.jpg
