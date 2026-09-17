@@ -1,0 +1,30 @@
+id: green-town
+title: Green Town
+authors:
+- Ray Bradbury
+first_published: 1957
+last_published: 2007
+canonical_genre: magic-realism
+placement_status: accepted
+included_titles:
+- Dandelion Wine
+- Farewell Summer
+- Summer Morning, Summer Night
+placement_rationale: >-
+  SFE identifies these three associated Green Town books and calls their treatment of adolescent small-town summers Magic Realist in intensity, central to Bradbury's imagination. Their marvels arise inside the ordinary rhythms of 1928 Green Town and are received through memory and wonder rather than explained as a separate magical system, fitting Magic realism.
+classification_sources:
+- https://sf-encyclopedia.com/entry/bradbury_ray
+- https://www.penguinrandomhouse.com/books/17051/dandelion-wine-by-ray-bradbury/
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass
+  selected_covers:
+  - title: Dandelion Wine
+    url: https://covers.openlibrary.org/b/id/14831327-L.jpg
+  - title: Farewell Summer
+    url: https://covers.openlibrary.org/b/id/8291544-L.jpg
+  - title: Summer Morning, Summer Night
+    url: https://covers.openlibrary.org/b/id/9345445-L.jpg
