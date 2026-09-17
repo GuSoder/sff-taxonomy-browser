@@ -12,11 +12,11 @@ classification_sources:
   - https://sf-encyclopedia.com/entry/donovans_brain
 cover_curation:
   status: complete
-  source: Internet Archive / Books.org / Worlds Without End
+  source: Open Library / Worlds Without End
   shows_english_title: true
   visually_reviewed_on: '2026-09-17'
   review_method: one-pass complete series
 books:
-  - {title: Donovan's Brain, first_published: 1942, cover_url: 'https://archive.org/services/img/donovansbrain0000siod'}
-  - {title: Hauser's Memory, first_published: 1968, cover_url: 'https://books.org/cover/9780426057178'}
+  - {title: Donovan's Brain, first_published: 1942, cover_url: 'https://covers.openlibrary.org/b/id/15178384-L.jpg'}
+  - {title: Hauser's Memory, first_published: 1968, cover_url: 'https://covers.openlibrary.org/b/id/11036159-L.jpg'}
   - {title: Gabriel's Body, first_published: 1992, cover_url: 'https://www.worldswithoutend.com/covers/cs_gabriels.jpg'}
