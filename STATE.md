@@ -953,3 +953,9 @@
 - Both new leaves received self-selected generated 1024x1536 portraits, visually checked and deployed. Existing nine YAMLs partitioned into new works folders. Drive: Golden Age 1mosg8OvTIjhxlPfjMPNceUTXFeqCK0WN; Retro 1Copm4ujWU0DhID5CEUcrLCvKWGWm0XRt.
 - Commit 50ee5b9; gate 161 nodes / 467 works / refs consistent; public HTML byte-identical. Pulp umbrella and both new leaf portraits/memberships pixel-verified.
 - 405 Emergence and Anthropological SF split remain held.
+
+### 2026-09-17 14:53 CEST - intake 407-408 closed
+- 407 Empire of the Sun skipped as non-speculative. SFE says Ballard moved away from SF for this psychological war novel based on his childhood in Japanese-occupied Shanghai/Lunghua camp; Harper/4th Estate confirm the wartime survival and internment-camp story. Its hallucinatory style and relevance to Ballard's later SF imagery do not make its events speculative.
+- 408 Empire of Wild -> modern-goth (now 7). SFE calls it a werewolf tale: a Métis man is transformed into a white Christian preacher and his wife must bring him back to the real world to save her people. Predatory religious/colonial occult power haunting contemporary social life makes Modern Gothic more specific than general Paranormal fantasy. One-pass cover review chose the detailed Harper English forest/wolf front, OL 10286612. YAML 10VDbo8-hzZxsjXJZFlOQOWLzYBnSpVVE.
+- Gate 161 nodes / 468 works / refs consistent. Commit e0151a7; public HTML byte-identical and Empire of Wild detail route/cover pixels fresh-loaded and visually verified. Progress next=409, processed=409, added=327.
+- 405 Emergence/Foreigner remains held pending Gustav's Anthropological SF ruling.
