@@ -927,3 +927,8 @@
 - Commit: bd0a48c. Progress: next 405, processed 405, added 325.
 - Drive YAMLs: Prefect Dreyfus 16xUTaoXmcQk4sHZpSGSrKRy7Y_xJxOnA; Embers of War 1siaTMll5-_28qj3KDYhaVTdwKAQVcdCb.
 - Deployment visually verified at exact leaf routes with both complete three-cover grids.
+
+### Parked Star Wars ruling (Gustav, 2026-09-17 13:57 CEST)
+- No action now. When Star Wars novelizations or related works reach intake, place them on the SF side for findability, not under Technofantasy.
+- Treat the Force through the Psi powers convention as SF pseudoscience.
+- Proposed future home at that time: a new `Far Far Away` leaf under Otherworldly fiction under Futurist. Creation waits until intake reaches Star Wars and Gustav approves the proposal then.
