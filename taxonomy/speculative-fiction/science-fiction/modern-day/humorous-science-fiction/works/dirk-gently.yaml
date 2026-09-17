@@ -1,0 +1,22 @@
+id: dirk-gently
+title: Dirk Gently
+authors: [Douglas Adams]
+first_published: 1987
+last_published: 1988
+canonical_genre: humorous-science-fiction
+placement_status: accepted
+included_titles: [Dirk Gently's Holistic Detective Agency, The Long Dark Tea-Time of the Soul]
+placement_rationale: >-
+  SFE identifies the two completed Dirk Gently novels as a sequence carrying its detective through a wide range of SF experiences; Simon & Schuster centers ghosts, time travel and a comic detective mission. The comic collision of speculative modes makes Adams's humorous mode the governing trait.
+classification_sources:
+  - https://sf-encyclopedia.com/entry/adams_douglas
+  - https://www.simonandschuster.net/books/Dirk-Gentlys-Holistic-Detective-Agency/Douglas-Adams/9781439140611
+cover_curation:
+  status: complete
+  source: Simon & Schuster
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass complete series
+  selected_covers:
+    - {title: Dirk Gently's Holistic Detective Agency, url: 'https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781439140611/dirk-gentlys-holistic-detective-agency-9781439140611.jpg'}
+    - {title: The Long Dark Tea-Time of the Soul, url: 'https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476783000/the-long-dark-tea-time-of-the-soul-9781476783000_lg.jpg'}
