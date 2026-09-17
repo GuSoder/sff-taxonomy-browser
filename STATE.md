@@ -918,3 +918,12 @@
 - 401 Elatsoe -> fantasy-mystery (now 5). Levine Querido centers a murder investigation whose essential evidence comes from the victim's ghost, with Ellie using her inherited ability to raise animal spirits. The mystery structure and fantastic evidence are more specific than its alternate-contemporary supernatural setting. SFE notes its fantasy/mythopoeic-SF equipoise and Lipan Apache grounding. One-pass official publisher cover review selected Levine Querido's clean English Rovina Cai paperback front. YAML 18vbknDJrCib_clQ1VDlA5E2LR8Du4IOD.
 - 402 Elric deduped: existing sword-and-sorcery Elric of Melniboné card already contains six core saga volumes, Elric of Melniboné through Stormbringer, with five covers. Existing Drive YAML 1leFd5d8OGvqdoNpxsufNxvO4TW-AquqU. No site or Drive mutation needed.
 - Commit b2c7ef7; public HTML byte-identical. Elatsoe detail route and cover pixels fresh-loaded and visually inspected. Gate 157 nodes/464 works/refs consistent. Progress next=403 processed=403 added=323. Classic space opera remains at 10 pending a sourced pure split proposal.
+
+### Intake 403-404 (2026-09-17 13:52 CEST)
+- Added complete Prefect Dreyfus Emergencies trilogy to Space Techno Fiction, grounded in SFE and Hachette: police procedural across Yellowstone's thousands of habitats, driven by neural implants and networked democracy.
+- Added complete Embers of War trilogy to Alien Delving, grounded in SFE/Titan: alien artefacts, their planetary memorial works, and returning makers drive the sequence.
+- One-pass English-front cover review completed; shipped three covers for each series.
+- Gate: 157 nodes / 466 works, references consistent.
+- Commit: bd0a48c. Progress: next 405, processed 405, added 325.
+- Drive YAMLs: Prefect Dreyfus 16xUTaoXmcQk4sHZpSGSrKRy7Y_xJxOnA; Embers of War 1siaTMll5-_28qj3KDYhaVTdwKAQVcdCb.
+- Deployment visually verified at exact leaf routes with both complete three-cover grids.
