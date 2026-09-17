@@ -12,8 +12,8 @@ classification_sources:
 - https://www.jeffvandermeer.com/book/dead-astronauts
 cover_curation:
   status: ranked
-  source: Open Library catalog
-  selected_url: https://covers.openlibrary.org/b/id/9243411-L.jpg
+  source: MCD / Farrar, Straus and Giroux
+  selected_url: https://s3.amazonaws.com/mcdbookimages/books/cover_images/000/000/162/reg/9780374720704_FC.jpg?1647524192
   shows_english_title: true
   visually_reviewed_on: '2026-09-17'
   review_method: one-pass
