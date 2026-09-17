@@ -1,0 +1,27 @@
+id: fallow-sisters
+title: Fallow Sisters
+authors:
+- Liz Williams
+first_published: 2020
+canonical_genre: contemporary-fantasy
+placement_status: accepted
+placement_rationale: >-
+  SFE identifies the Fallow Sisters sequence as fantasy. NewCon Press calls it a completed four-volume magical quartet about four fey sisters whose lives straddle present-day London and rural Somerset with an otherworld of past and alternative realms, aided by star spirits and the dead. Open magic crossing ordinary current life makes Contemporary fantasy the closest fit.
+classification_sources:
+- https://sf-encyclopedia.com/entry/williams_liz
+- http://www.newconpress.co.uk/info/book.asp?id=151
+- http://www.newconpress.co.uk/info/book.asp?id=172
+- https://www.newconpress.co.uk/info/book.asp?id=202
+- http://www.newconpress.co.uk/info/book.asp?id=224
+cover_curation:
+  status: complete
+  source: NewCon Press
+  selected_url: https://www.newconpress.co.uk/images/book_comet_front_2d.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass official publisher series
+books:
+- {title: Comet Weather, first_published: 2020, cover_url: https://www.newconpress.co.uk/images/book_comet_front_2d.jpg}
+- {title: Blackthorn Winter, first_published: 2021, cover_url: https://www.newconpress.co.uk/images/book_blackthorn_front_6.jpg}
+- {title: Embertide, first_published: 2022, cover_url: https://www.newconpress.co.uk/images/book_embertide_cover_4.jpg}
+- {title: Salt on the Midnight Fire, first_published: 2023, cover_url: https://www.newconpress.co.uk/images/book_salt_front_4.jpg}
