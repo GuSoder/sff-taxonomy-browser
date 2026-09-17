@@ -945,3 +945,11 @@
 - 406 Empire of Sand expanded to two-book Books of Ambha card in Revolutionary fantasy: Empire of Sand and Realm of Ash. Official coordinated Orbit covers shipped. Drive YAML 1qmH7Nb5iOauQS5ati-J3BVS9PXgqZbct.
 - Gate 159 nodes / 467 works / refs consistent. Commit 81d76b2; public HTML byte-identical. Classic umbrella, both new portrait leaves and complete Books of Ambha grid visually verified.
 - 405 Emergence remains held pending Gustav's Anthropological SF split ruling. Progress advances past completed/skipped cycle to next=407, processed=407, added=326; return to 405 immediately when the split decision arrives.
+
+### 2026-09-17 14:48 CEST - Pulp space opera split deployed
+- Owner approval source phonemsg-01M2QPDN4TBNNAJTRK2EP91CKV: `Ok, do Golden Age and Retro`.
+- Pulp space opera is now a pure umbrella with Golden Age space opera (7: Double Star, Stars My Destination, Cities in Flight, Witches of Karres, Nova, Heechee Saga, Canopus in Argos) and Retro space opera (2: Revenger, Finder Chronicles).
+- Golden Age definition names the original 1950s-1970s pulp wave and first maturity. Retro definition names 21st-century deliberate pulp throwbacks and explicitly distinguishes this from New space opera, the 1990s-2000s modernization movement.
+- Both new leaves received self-selected generated 1024x1536 portraits, visually checked and deployed. Existing nine YAMLs partitioned into new works folders. Drive: Golden Age 1mosg8OvTIjhxlPfjMPNceUTXFeqCK0WN; Retro 1Copm4ujWU0DhID5CEUcrLCvKWGWm0XRt.
+- Commit 50ee5b9; gate 161 nodes / 467 works / refs consistent; public HTML byte-identical. Pulp umbrella and both new leaf portraits/memberships pixel-verified.
+- 405 Emergence and Anthropological SF split remain held.
