@@ -932,3 +932,9 @@
 - No action now. When Star Wars novelizations or related works reach intake, place them on the SF side for findability, not under Technofantasy.
 - Treat the Force through the Psi powers convention as SF pseudoscience.
 - Proposed future home at that time: a new `Far Far Away` leaf under Otherworldly fiction under Futurist. Creation waits until intake reaches Star Wars and Gustav approves the proposal then.
+
+### 2026-09-17 14:23 CEST - intake 405 blocked; split proposal sent
+- 405 Emergence dedupe passed and resolves to the complete 22-book Foreigner series. SFE centers its Planetary Romance/alien civilization and Emergence's human adviser to the atevi crown prince; PRH explicitly calls the series anthropological SF and centers diplomacy and sustained cross-cultural analysis. Best fit Anthropological science fiction, currently at 10, so no addition yet.
+- Sent Gustav a sourced pure split proposal: Human anthropology (Ammonite, Hainish, Citizen) and Alien anthropology (Fifth Head, Martian Chronicles, Stranger, Mirror, Under the Skin, Babel-17, Exo, plus Foreigner). Await decision; do not execute unilaterally.
+- 406 Empire of Sand prep complete as the two-book Books of Ambha card (Empire of Sand, Realm of Ash), best fit Revolutionary fantasy. Hachette grounds resistance to an empire built on enslaved gods, then a crumbling empire whose salvation is questioned. One-pass official coordinated Orbit fronts selected. Hold mutation until 405 structure is resolved so progress remains coherent.
+- Cover sheet: /downloads/intake-405-406-cover-sheet.jpg. Progress remains next=405, processed=405, added=325.
