@@ -1,0 +1,15 @@
+id: grendel
+title: Grendel
+authors: [John Gardner]
+first_published: 1971
+canonical_genre: norse-fantasy
+placement_status: accepted
+placement_rationale: >-
+  The publisher explicitly calls Grendel a retelling of Beowulf from the monster's point of view. Its inherited Northern Germanic epic is the story's source material, making Norse fantasy under Mythic retelling closer than Viking fantasy, whose boundary is the historical era.
+classification_sources:
+  - https://www.penguinrandomhouse.com/books/579341/grendel-by-john-gardner/
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/9948473-L.jpg
+  shows_english_title: true
+  review_method: one-pass
