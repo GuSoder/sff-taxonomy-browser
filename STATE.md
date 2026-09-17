@@ -895,3 +895,8 @@
 - Owner selection source phonemsg-01M2QB6B832CSN1H2HX4KQSC3: switch the generated young-Arthur churchyard example onto the Arthurian fantasy site portrait.
 - Replaced crowned Arthur with the sword-through-anvil-on-stone scene, showing young squire Arthur pulling it before astonished witnesses. Updated Drive source PNG in place (1MFKoGAYtFWudMc88x1V3ywtYEvtCgVp7).
 - Commit c02c737; deployed asset hash matches local. Fresh live pixels visually verified: Arthur, sword, anvil and stone remain legible behind the title treatment.
+
+### 2026-09-17 12:06 CEST - intake 397-398 deployed
+- 397 Dread Nation deduped: existing alt-civil-war Dread Nation card already contains both Dread Nation and Deathless Divide with coordinated covers. No site or Drive mutation needed.
+- 398 Dreadful Company expanded to complete three-book Dr. Greta Helsing card in paranormal-fantasy (now 5): Strange Practice, Dreadful Company, Grave Importance. Vivian Shaw and Hachette define a contemporary world adjacent to ours where monsters are real and Greta treats vampires, mummies, ghouls and other undead patients. The supernatural society and creature ensemble make Paranormal fantasy closest. One-pass complete series review selected the three coordinated official author-site English illustrated fronts. YAML 1FWVPAOXPIhHNdYm0KHWLaByQF4qgKclN.
+- Commit e2d5a42; public HTML byte-identical after delayed Pages pickup. Complete Greta Helsing three-cover grid and lead pixels fresh-loaded and visually inspected. Gate 154 nodes/462 works/refs consistent. Progress next=399 processed=399 added=320. No leaf reached 10.
