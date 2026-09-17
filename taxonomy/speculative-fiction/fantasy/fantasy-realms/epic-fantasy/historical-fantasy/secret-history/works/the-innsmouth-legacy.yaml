@@ -1,0 +1,22 @@
+id: the-innsmouth-legacy
+title: The Innsmouth Legacy
+authors: [Ruthanna Emrys]
+first_published: 2017
+last_published: 2018
+canonical_genre: secret-history
+placement_status: accepted
+included_titles: [Winter Tide, Deep Roots]
+placement_rationale: >-
+  SFE identifies a near-future Innsmouth Legacy in which the US government interned Innsmouth's hidden People of the Water; Tor places Winter Tide and Deep Roots in 1940s America as Aphra recovers her secretly persecuted community. Lovecraft's monsters become a concealed historical people whose erasure and recovery drive the sequence, making Secret history closest.
+classification_sources:
+  - https://sf-encyclopedia.com/entry/emrys_ruthanna
+  - https://torpublishinggroup.com/deep-roots/?format=trade&isbn=9780765398093
+cover_curation:
+  status: complete
+  source: Tor Publishing Group
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass
+  selected_covers:
+    - {title: Winter Tide, url: 'https://mpd-biblio-covers.imgix.net/9780765390905.jpg'}
+    - {title: Deep Roots, url: 'https://mpd-biblio-covers.imgix.net/9780765398093.jpg'}

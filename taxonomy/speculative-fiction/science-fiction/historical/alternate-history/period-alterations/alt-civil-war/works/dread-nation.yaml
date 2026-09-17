@@ -1,0 +1,22 @@
+id: dread-nation
+title: Dread Nation
+authors: [Justina Ireland]
+first_published: 2018
+last_published: 2020
+canonical_genre: alt-civil-war
+placement_status: accepted
+included_titles: [Dread Nation, Deathless Divide]
+placement_rationale: >-
+  HarperCollins describes Confederate and Union dead rising on Civil War battlefields, derailing the war and creating a changed America governed through racialized combat schools; Deathless Divide continues that undead alternate 1880s society. The fork occurs during the US Civil War, exactly matching Alt Civil War.
+classification_sources:
+  - https://www.harpercollins.com/products/dread-nation-justina-ireland
+  - https://www.harpercollins.com/products/deathless-divide-justina-ireland
+cover_curation:
+  status: complete
+  source: HarperCollins / Balzer + Bray
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass
+  selected_covers:
+    - {title: Dread Nation, url: 'https://covers.openlibrary.org/b/isbn/9780062570604-L.jpg'}
+    - {title: Deathless Divide, url: 'https://covers.openlibrary.org/b/isbn/9780062570635-L.jpg'}
