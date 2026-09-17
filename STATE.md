@@ -880,3 +880,8 @@
 - Mythic retelling is now a pure umbrella: Arthurian fantasy (5: Avalon, The Once and Future King, Arthurian Saga, A Glastonbury Romance, By Force Alone); Greek myth fantasy (4: Circe, Phaedra, The Song of Achilles, The Minotaur Trilogy); Norse fantasy (1: Grendel).
 - Generated and self-selected immediate 1024x1536 detailed colourful portraits for all three new leaves, deployed and archived full-size on Drive. Arthurian folder 1ZQ51_eaUMz3RVw9HgE9vvNdhVXtbHmJK / works 1DzOdm0hEi0NO0qlUeWTlS7Od82UK9NJF / portrait 1MFKoGAYtFWudMc88x1V3ywtYEvtCgVp7. Greek folder 1rKXbpp1LxyIrrV5r-uhATaHwwB3fjfQU / works 1irNACg6k8OOW3f9x-PFp2sitt3Gb54xO / portrait 1B3iyrBAwl7pW8vukk3RYqgzv---dVPS1. Norse folder 1SLA5cSq0_RcotCSiA1ve5CiGGSyXSjqX / works 1PlQ9eLbZN7RmMcYGE_85il8J6qT9nvOG / portrait 17DrAacBMq842TlvX_HlfoxH62XystWNd. Existing Drive YAMLs partitioned; old era folder renamed Viking fantasy.
 - Commit 0951efc; public HTML byte-identical. All four live routes and portraits fresh-loaded and visually inspected. Gate 154 nodes/459 works/refs consistent.
+
+### 2026-09-17 11:24 CEST - Arthurian portrait veto corrected
+- Owner veto source phonemsg-01M2QAQGDT7BQXTQR68PR03GKW: Arthurian fantasy portrait needed actual Arthur, male king front and centre, rather than another woman-led myth portrait.
+- Generated one dense colourful painted replacement with crowned King Arthur and Excalibur as unmistakable subject; shipped directly, no A/B. Updated deployed 164-arthurian-fantasy.webp and replaced the Drive source PNG in place (1MFKoGAYtFWudMc88x1V3ywtYEvtCgVp7).
+- Commit d655028; deployed asset hash matches local. Fresh live route visual QA confirms Arthur is prominent and fully readable behind the title treatment.
