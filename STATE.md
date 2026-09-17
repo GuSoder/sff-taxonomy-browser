@@ -973,3 +973,9 @@
 - 410 Engine Summer -> books-in-books (now 10). SFE reveals Rush That Speaks and his narrated life as a memory embedded in a crystal device, replayed on command: the protagonist is the recorded story artifact. The nested narration/ontological reversal is more specific than the pastoral post-Holocaust setting. One-pass selected the clean English Gollancz SF front, OL 6744965. YAML 1Ur1QXDvbkavL0rwEtwt_kYUxHhOABG2t.
 - Gate 163 nodes / 471 works / refs consistent. Commit 37ec2cb; public HTML byte-identical. Both exact detail routes and lead covers fresh-loaded and visually verified. Progress next=411 processed=411 added=330.
 - Books in Books is now at 10: do not add another until Gustav approves a sourced pure split proposal.
+
+### 2026-09-17 16:50 CEST - intake 411-412 closed
+- 411 Engine Summer deduped: it was added as intake 410 immediately before this cycle and already exists in Books in Books with Drive YAML and verified cover. No mutation.
+- 412 Escaping Exodus expanded to the complete two-book sequence in generation-starships (now 2): Escaping Exodus and Escaping Exodus: Symbiosis. Harper describes a whole society living in and maintaining the belly of a spacefaring beast; the multigenerational enclosed society and survival of its mobile home make Generation starships closest, with a bioship as the biological variant. One-pass selected coordinated English Harper fronts. YAML 1oICYONAdS37Ay8JUD2u7r73VX_Rkqm1k.
+- Gate 163 nodes / 472 works / refs consistent. Commit 1007b2b; public HTML byte-identical after delayed Pages pickup. Complete two-cover grid and lead pixels fresh-loaded and visually verified. Progress next=413 processed=413 added=331.
+- Books in Books remains at 10, awaiting sourced pure split before another addition.
