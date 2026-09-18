@@ -1,0 +1,55 @@
+id: the-vampire-chronicles
+title: The Vampire Chronicles
+authors:
+- Anne Rice
+first_published: 1976
+last_published: 2018
+canonical_genre: vampire-fiction
+placement_status: accepted
+included_titles:
+- Interview with the Vampire
+- The Vampire Lestat
+- The Queen of the Damned
+- The Tale of the Body Thief
+- Memnoch the Devil
+- The Vampire Armand
+- Merrick
+- Blood and Gold
+- Blackwood Farm
+- Blood Canticle
+- Prince Lestat
+- Prince Lestat and the Realms of Atlantis
+- Blood Communion
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass complete existing-series review
+  selected_covers:
+  - title: Interview with the Vampire
+    url: https://covers.openlibrary.org/b/id/15092741-L.jpg
+  - title: The Vampire Lestat
+    url: https://covers.openlibrary.org/b/id/14843170-L.jpg
+  - title: The Queen of the Damned
+    url: https://covers.openlibrary.org/b/id/10461359-L.jpg
+  - title: The Tale of the Body Thief
+    url: https://covers.openlibrary.org/b/id/15091119-L.jpg
+  - title: Memnoch the Devil
+    url: https://covers.openlibrary.org/b/id/8443562-L.jpg
+  - title: The Vampire Armand
+    url: https://covers.openlibrary.org/b/id/10701753-L.jpg
+  - title: Merrick
+    url: https://covers.openlibrary.org/b/id/15091115-L.jpg
+  - title: Blood and Gold
+    url: https://covers.openlibrary.org/b/id/10703232-L.jpg
+  - title: Blackwood Farm
+    url: https://covers.openlibrary.org/b/id/12630763-L.jpg
+  - title: Blood Canticle
+    url: https://covers.openlibrary.org/b/id/6403780-L.jpg
+  - title: Prince Lestat
+    url: https://covers.openlibrary.org/b/id/11018257-L.jpg
+  - title: Prince Lestat and the Realms of Atlantis
+    url: https://covers.openlibrary.org/b/id/10461336-L.jpg
+  - title: Blood Communion
+    url: https://covers.openlibrary.org/b/id/10701621-L.jpg
