@@ -1,14 +1,14 @@
-id: "blindsight"
-title: "Blindsight"
+id: blindsight
+title: Blindsight
 authors:
-  - "Peter Watts"
+- Peter Watts
 first_published: 2006
-canonical_genre: "first-contact-fiction"
-placement_status: "accepted"
-placement_rationale: "A cognitively modified crew and a suspect AI investigate an alien intelligence at the Solar System’s edge; SFE explicitly calls it a first-contact tale."
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: A cognitively modified crew and a suspect AI investigate an alien intelligence at the Solar System’s edge; SFE explicitly calls it a first-contact tale.
 classification_sources:
-  - "https://sf-encyclopedia.com/entry/watts_peter"
-  - "https://us.macmillan.com/books/9781250237484/blindsight/"
+- https://sf-encyclopedia.com/entry/watts_peter
+- https://us.macmillan.com/books/9781250237484/blindsight/
 cover_curation:
   status: ranked
   source: Open Library

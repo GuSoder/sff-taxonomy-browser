@@ -1,0 +1,12 @@
+id: alien-fiction
+label: Alien fiction
+parent: futurist
+children:
+- anthropological-science-fiction
+- first-contact
+- hard-alien
+- alien-cosmic-history
+- alien-horror
+image: 119-alien-fiction.webp
+definition: Science fiction fundamentally about alien minds, species, cultures, contact and nonhuman civilization.
+status: accepted

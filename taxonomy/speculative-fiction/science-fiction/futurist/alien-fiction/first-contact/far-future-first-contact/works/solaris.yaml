@@ -1,14 +1,14 @@
-id: "solaris"
-title: "Solaris"
+id: solaris
+title: Solaris
 authors:
-  - "Stanisław Lem"
+- Stanisław Lem
 first_published: 1961
-canonical_genre: "first-contact-fiction"
-placement_status: "accepted"
-placement_rationale: "Scientists orbiting a sentient ocean confront manifestations drawn from their memories and the limits of understanding a truly alien mind; Lem’s site calls it canonical fiction about alien contact."
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: Scientists orbiting a sentient ocean confront manifestations drawn from their memories and the limits of understanding a truly alien mind; Lem’s site calls it canonical fiction about alien contact.
 classification_sources:
-  - "https://sf-encyclopedia.com/entry/solaris"
-  - "https://english.lem.pl/works/novels/solaris"
+- https://sf-encyclopedia.com/entry/solaris
+- https://english.lem.pl/works/novels/solaris
 cover_curation:
   status: ranked
   source: Open Library / Iletisim

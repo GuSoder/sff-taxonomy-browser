@@ -1,14 +1,14 @@
-id: "dawn"
-title: "Dawn"
+id: dawn
+title: Dawn
 authors:
-  - "Octavia E. Butler"
+- Octavia E. Butler
 first_published: 1987
-canonical_genre: "first-contact-fiction"
-placement_status: "accepted"
-placement_rationale: "After nuclear war, Lilith wakes aboard an alien Oankali ship and must negotiate their plan to rebuild and genetically merge with humanity; consequential first encounter is deeper than the apocalyptic backstory."
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: After nuclear war, Lilith wakes aboard an alien Oankali ship and must negotiate their plan to rebuild and genetically merge with humanity; consequential first encounter is deeper than the apocalyptic backstory.
 classification_sources:
-  - "https://sf-encyclopedia.com/entry/butler_octavia"
-  - "https://www.hachettebookgroup.com/titles/octavia-e-butler/dawn/9781538753712/"
+- https://sf-encyclopedia.com/entry/butler_octavia
+- https://www.hachettebookgroup.com/titles/octavia-e-butler/dawn/9781538753712/
 cover_curation:
   status: ranked
   source: Open Library

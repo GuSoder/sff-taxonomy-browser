@@ -1,0 +1,26 @@
+id: eifelheim
+title: Eifelheim
+authors:
+- Michael Flynn
+first_published: 2006
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: A medieval priest becomes humanity’s first intermediary with aliens whose ship crashes near his plague-shadowed German village; the first encounter is explicit.
+classification_sources:
+- https://sf-encyclopedia.com/entry/aliens
+- https://torpublishinggroup.com/eifelheim/?format=trade&isbn=9780765319104
+cover_curation:
+  status: ranked
+  source: Tor Publishing Group
+  record_url: https://torpublishinggroup.com/eifelheim/?format=trade&isbn=9780765319104
+  image_url: https://mpd-biblio-covers.imgix.net/9780765319104.jpg
+  cover_id: ISBN-9780765319104
+  beauty_score: 7.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A flat-front field of incandescent gold and burnt orange erupts above a crisp silhouette of medieval rooftops, giving the alien arrival strong atmosphere and scale despite the design's restrained detail.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 5
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
