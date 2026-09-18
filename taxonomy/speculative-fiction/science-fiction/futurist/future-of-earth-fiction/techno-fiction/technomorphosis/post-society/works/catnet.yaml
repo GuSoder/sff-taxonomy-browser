@@ -1,0 +1,32 @@
+id: catnet
+title: CatNet
+authors:
+- Naomi Kritzer
+first_published: 2019
+canonical_genre: post-society
+placement_status: accepted
+placement_rationale: SFE identifies the same benevolent emergent AI across both novels. Pan Macmillan centers a sentient AI administering an ordinary social network and the effects of online privacy and out-of-control technology; Tor's sequel pits that community against an AI hacking networks to trigger real-world violence. Technology reorganizing friendship, mutual aid, privacy and everyday social life makes Technomorphosis closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/kritzer_naomi
+- https://www.panmacmillan.com.au/9781250165091/
+- https://torpublishinggroup.com/chaos-on-catnet/?format=trade&isbn=9781250165213
+books:
+- title: Catfishing on CatNet
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10104877-L.jpg
+- title: Chaos on CatNet
+  year: 2021
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250165213.jpg
+cover_curation:
+  status: complete
+  source: Tor Teen / Macmillan and Open Library
+  record_url: https://us.macmillan.com/books/9781250165213/chaosoncatnet/
+  image_url: https://covers.openlibrary.org/b/id/10104877-L.jpg
+  cover_id: OL-10104877
+  beauty_score: 7.5
+  beauty_rationale: Coordinated neon magenta, cyan, red and green portraits use glitch overlays and phone-lit faces to make social-media identity vivid; both are clean English fronts.
+  visually_reviewed_on: '2026-09-16'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  review_method: one-pass series search
