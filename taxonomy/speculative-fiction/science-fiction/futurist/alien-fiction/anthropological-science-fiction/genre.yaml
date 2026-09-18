@@ -1,0 +1,14 @@
+id: anthropological-science-fiction
+label: Anthropological science fiction
+parent: alien-fiction
+children:
+- earthborn
+- xenanthropology
+- xenolinguistics
+- xenocolonization
+- xenophagy
+image: 6-anthropological-science-fiction.webp
+definition: Umbrella for science fiction that uses cultural encounter to examine societies
+  and the observer’s assumptions, partitioned by whether the estrangement is human
+  or explicitly alien.
+status: accepted
