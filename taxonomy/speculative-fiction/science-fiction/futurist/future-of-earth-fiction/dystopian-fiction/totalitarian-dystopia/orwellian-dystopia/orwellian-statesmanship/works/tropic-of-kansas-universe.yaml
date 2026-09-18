@@ -1,0 +1,23 @@
+id: tropic-of-kansas-universe
+title: Tropic of Kansas universe
+authors:
+- Christopher Brown
+first_published: 2017
+canonical_genre: orwellian-statesmanship
+placement_status: accepted
+placement_rationale: 'SFE treats the books as one near-future American sequence: authoritarian rule and resistance, secret trials of state enemies and extrajudicial murder, then national collapse and a tribunal attempting new law. The sequence''s defining pressure is overt political coercion through law, police power and punishment, making Orwellian dystopia closest.'
+books:
+- title: Tropic of Kansas
+  first_published: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10237276-L.jpg
+- title: Rule of Capture
+  first_published: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10223899-L.jpg
+- title: Failed State
+  first_published: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10394133-L.jpg
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/10237276-L.jpg
+  shows_english_title: true
+  review_method: one-pass

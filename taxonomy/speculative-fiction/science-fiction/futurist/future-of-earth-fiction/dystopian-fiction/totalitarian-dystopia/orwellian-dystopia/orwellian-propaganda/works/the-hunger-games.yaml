@@ -1,0 +1,23 @@
+id: the-hunger-games
+title: The Hunger Games
+authors:
+- Suzanne Collins
+first_published: 2008
+canonical_genre: orwellian-propaganda
+placement_status: accepted
+books:
+- title: The Hunger Games
+  first_published: 2008
+- title: Catching Fire
+  first_published: 2009
+- title: Mockingjay
+  first_published: 2010
+- title: The Ballad of Songbirds and Snakes
+  first_published: 2020
+- title: Sunrise on the Reaping
+  first_published: 2025
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/14819483-L.jpg
+  shows_english_title: true
+  review_method: one-pass

@@ -1,0 +1,12 @@
+id: orwellian-dystopia
+label: Orwellian dystopia
+parent: totalitarian-dystopia
+children:
+- classic-orwellian
+- orwellian-propaganda
+- orwellian-statesmanship
+- orwellian-assimilation
+- orwellianesque
+image: 162-orwellian-dystopia.webp
+definition: Umbrella for coercive dystopias descended from the 1984 formula and its extensions through media, law, identity and related state methods. Coercion, never pleasure or sedation - Huxleyan dystopia is the sibling shelf.
+status: accepted
