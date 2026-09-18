@@ -1,0 +1,35 @@
+id: thursday-next
+title: Thursday Next
+authors:
+- Jasper Fforde
+first_published: 2001
+canonical_genre: remyth
+placement_status: accepted
+placement_rationale: 'SFE calls Thursday Next an Alternate World sequence whose metafictional topoi interpenetrate its setting: characters enter books, alter them from within, and thereby alter the real world. That story-world feedback makes Fabulation the highest defining trait.'
+books:
+- title: The Eyre Affair
+  first_published: 2001
+  cover_url: https://covers.openlibrary.org/b/id/2401550-L.jpg
+- title: Lost in a Good Book
+  first_published: 2002
+- title: The Well of Lost Plots
+  first_published: 2003
+  cover_url: https://covers.openlibrary.org/b/id/205625-L.jpg
+- title: Something Rotten
+  first_published: 2004
+  cover_url: https://covers.openlibrary.org/b/id/400490-L.jpg
+- title: First Among Sequels
+  first_published: 2007
+- title: One of Our Thursdays Is Missing
+  first_published: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6684444-L.jpg
+- title: The Woman Who Died a Lot
+  first_published: 2012
+  cover_url: https://covers.openlibrary.org/b/id/9435520-L.jpg
+- title: Dark Reading Matter
+  first_published: 2026
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/2401550-L.jpg
+  shows_english_title: true
+  review_method: one-pass
