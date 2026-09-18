@@ -1,0 +1,25 @@
+id: chocky
+title: Chocky
+authors:
+- John Wyndham
+first_published: 1968
+canonical_genre: alien-message
+placement_status: accepted
+placement_rationale: Penguin explicitly calls the novel a story of innocence and alien contact, with an unseen presence communicating through an ordinary boy, teaching alien mathematics and anti-gravity ideas and experimenting from afar. The consequential first communication with an extraterrestrial intelligence through Matthew's mind is the story engine.
+classification_sources:
+- https://www.penguin.co.uk/books/4938/chocky-by-john-wyndham/9780141042183
+- https://www.penguinrandomhouse.com/books/243615/chocky-by-john-wyndham/
+- https://sf-encyclopedia.com/entry/wyndham_john
+cover_curation:
+  status: ranked
+  source: New York Review Books via Open Library
+  record_url: https://openlibrary.org/works/OL1911273W/Chocky
+  image_url: https://covers.openlibrary.org/b/id/12215385-L.jpg
+  cover_id: OL-12215385
+  beauty_score: 8.0
+  beauty_rationale: A clean English front of interlocking black, grey and red signal curves around the title, visually evoking an alien intelligence entering a child's thought without literalizing it.
+  visually_reviewed_on: '2026-09-16'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  review_method: one-pass work search

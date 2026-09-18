@@ -1,14 +1,14 @@
-id: "contact"
-title: "Contact"
+id: contact
+title: Contact
 authors:
-  - "Carl Sagan"
+- Carl Sagan
 first_published: 1985
-canonical_genre: "first-contact-fiction"
-placement_status: "accepted"
-placement_rationale: "Humanity detects an extraterrestrial message and builds the machine encoded within it; SFE calls Sagan’s story a tale of First Contact."
+canonical_genre: alien-message
+placement_status: accepted
+placement_rationale: Humanity detects an extraterrestrial message and builds the machine encoded within it; SFE calls Sagan’s story a tale of First Contact.
 classification_sources:
-  - "https://www.sf-encyclopedia.com/entry/contact"
-  - "https://www.simonandschuster.com/books/Contact/Carl-Sagan/9781501197987"
+- https://www.sf-encyclopedia.com/entry/contact
+- https://www.simonandschuster.com/books/Contact/Carl-Sagan/9781501197987
 cover_curation:
   status: ranked
   source: Open Library

@@ -1,8 +1,9 @@
 id: binti
 title: Binti
-authors: [Nnedi Okorafor]
+authors:
+- Nnedi Okorafor
 first_published: 2015
-canonical_genre: first-contact-fiction
+canonical_genre: alien-expedition
 placement_status: accepted
 placement_rationale: SFE and Macmillan follow a Himba student whose journey to an off-world university is attacked by the Meduse; she becomes the sole survivor and intermediary in a conflict rooted in the university's wrong against the alien species. Transformative first communication and mediation drive the trilogy.
 classification_sources:
@@ -15,6 +16,9 @@ cover_curation:
   shows_english_title: true
   review_method: one-pass official series; omnibus used for coherent complete-series card
 books:
-- {title: Binti, first_published: 2015}
-- {title: 'Binti: Home', first_published: 2017}
-- {title: 'Binti: The Night Masquerade', first_published: 2018}
+- title: Binti
+  first_published: 2015
+- title: 'Binti: Home'
+  first_published: 2017
+- title: 'Binti: The Night Masquerade'
+  first_published: 2018

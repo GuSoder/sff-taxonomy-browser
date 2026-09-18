@@ -1,0 +1,25 @@
+id: a-case-of-conscience
+title: A Case of Conscience
+authors:
+- James Blish
+first_published: 1958
+canonical_genre: alien-expedition
+placement_status: accepted
+placement_rationale: 'SFE (blish_james): 1959 Hugo winner and ''one of the first serious attempts to deal with Religion in sf'' - a Jesuit priest on a human expedition to planet Lithia, whose sinless inhabitants he reads as a honey-trap thought experiment. A near-future (2049) human mission making contact with an alien civilization: the first-contact leaf beside Way Station and company.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/blish_james
+cover_curation:
+  status: ranked
+  source: Open Library cover archive, Ballantine Books 1958 first edition
+  record_url: https://openlibrary.org/books/OL22933897M/
+  image_url: https://covers.openlibrary.org/b/id/14924819-L.jpg
+  cover_id: OL-14924819
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: First-edition painted cover - the cassocked priest confronting the reptilian Lithian under an alien sky, detailed and exactly on the book's theme, English title, no marketing callouts. SF Masterworks (8431207) is a fine painted portrait but carries a Hugo-award callout; Arrow 1972 (5540782) muted priest-among-flowers; 4971438 is an interior title page; 209892 typographic.
+  visually_reviewed_on: '2026-09-14'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 8
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false

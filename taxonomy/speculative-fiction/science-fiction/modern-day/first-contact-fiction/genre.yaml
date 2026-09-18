@@ -1,0 +1,10 @@
+id: first-contact-fiction
+label: First contact fiction
+parent: modern-day
+children:
+- alien-arrival
+- alien-expedition
+- alien-message
+image: 14-first-contact-fiction.webp
+definition: Science fiction whose central event is humanity’s first consequential meeting, detection, or attempted communication with a previously unknown extraterrestrial intelligence, species, or artifact, partitioned by how and where the encounter reaches humanity.
+status: accepted
