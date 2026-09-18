@@ -1,0 +1,25 @@
+id: kafka-on-the-shore
+title: Kafka on the Shore
+authors:
+- Haruki Murakami
+first_published: 2002
+canonical_genre: magic-realism
+placement_status: accepted
+placement_rationale: SFE identifies its dovetailed trajectories; Penguin presents talking cats, fish falling from the sky, spirits leaving bodies and ageless wartime soldiers inside recognizable modern Japan. The marvelous arrives as ordinary narrative fact without a technological mechanism, making Magic realism closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/murakami_haruki
+- https://www.penguinrandomhouse.com/books/118718/kafka-on-the-shore-by-haruki-murakami/
+- https://www.penguin.co.uk/books/357849/kafka-on-the-shore-by-murakami-haruki/9780099458326
+cover_curation:
+  status: ranked
+  source: Penguin Random House / Vintage
+  record_url: https://www.penguinrandomhouse.com/books/118718/kafka-on-the-shore-by-haruki-murakami/
+  image_url: https://images1.penguinrandomhouse.com/cover/9781400079278
+  cover_id: ISBN-9781400079278
+  beauty_score: 8.0
+  beauty_rationale: A bold pink, green and navy flat illustration turns the umbrella, walking cat and bird into crisp surreal silhouettes with clear English title and author.
+  visually_reviewed_on: '2026-09-18'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  review_method: one-pass work search
