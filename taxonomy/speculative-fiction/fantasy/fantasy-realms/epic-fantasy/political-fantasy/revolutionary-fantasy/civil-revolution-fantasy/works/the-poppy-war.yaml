@@ -1,0 +1,25 @@
+id: the-poppy-war
+title: The Poppy War
+authors:
+- R. F. Kuang
+first_published: 2018
+canonical_genre: civil-revolution-fantasy
+placement_status: accepted
+placement_rationale: A war orphan enters an elite military academy, discovers shamanic power and is pulled into a brutal empire-wide war; secondary-world scale and existential conflict make epic fantasy the strongest current home. Reclassified in the EoF-aligned audit to High Fantasy as the deeper sourced boundary.
+classification_sources:
+- https://www.harpercollins.com/products/the-poppy-war-r-f-kuang
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL19351054W
+  image_url: https://covers.openlibrary.org/b/id/8797732-L.jpg
+  cover_id: 8797732
+  beauty_score: 6.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings
+  beauty_rationale: The strongest eligible edition uses a vivid orange field and dynamic ink-painted figure; colorful and energetic, though sparse rather than richly detailed.
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 10
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true
+  title_overlay: false
