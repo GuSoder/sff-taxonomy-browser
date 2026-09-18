@@ -1,0 +1,25 @@
+id: lanark
+title: 'Lanark: A Life in Four Books'
+authors:
+- Alasdair Gray
+first_published: 1981
+canonical_genre: inner-space
+placement_status: accepted
+placement_rationale: SFE describes Lanark as equipoisal Fantastika whose Alice-like intercalendrical Zone and Time Distortion emphasize its non-SF character; Canongate calls it a modern vision of hell interweaving realistic Glasgow with disintegrating Unthank. Its double protagonist and unstable boundary between damaged psyche, autobiography and impossible city make Inner Space the closest leaf.
+classification_sources:
+- https://sf-encyclopedia.com/entry/gray_alasdair
+- https://sf-encyclopedia.com/entry/zone
+- https://canongate.co.uk/books/28-lanark-a-life-in-four-books/
+cover_curation:
+  status: ranked
+  source: Canongate
+  record_url: https://canongate.co.uk/books/28-lanark-a-life-in-four-books/
+  image_url: https://canongate.co.uk/wp-content/uploads/2026/06/lanark-642x1024.jpg
+  cover_id: ISBN-9781782117148-current
+  beauty_score: 8.7
+  beauty_rationale: Gray’s own dense color illustration layers bodies, monsters, city fragments and the yellow sun into the book’s unstable double-world, with clear English title and author.
+  visually_reviewed_on: '2026-09-18'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  review_method: one-pass work search
