@@ -1,0 +1,32 @@
+id: metal-trilogy
+title: Metal Trilogy
+authors:
+- John Varley
+first_published: 1992
+last_published: 2018
+canonical_genre: techno-fiction-in-space
+placement_status: accepted
+included_titles:
+- Steel Beach
+- The Golden Globe
+- Irontown Blues
+placement_rationale: >-
+  SFE identifies Steel Beach, The Golden Globe and Irontown Blues as the Metal Trilogy within the Eight Worlds sequence, portraying complex lunar society shaped by advanced engineering and a central AI. Penguin centers Irontown Blues on Lunar life, an AI breakdown, biohackers and a genetically altered dog. Space-habitat computation, identity and bioengineering make Space Techno Fiction closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/varley_john
+- https://www.penguinrandomhouse.com/books/335064/steel-beach-by-john-varley/
+- https://www.penguinrandomhouse.com/books/294839/the-golden-globe-by-john-varley/
+- https://www.penguinrandomhouse.com/books/538757/irontown-blues-by-john-varley/
+cover_curation:
+  status: complete
+  source: Penguin Random House
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-18'
+  review_method: one-pass official publisher series
+  selected_covers:
+  - title: Steel Beach
+    url: https://images3.penguinrandomhouse.com/smedia/9781101656099
+  - title: The Golden Globe
+    url: https://images4.penguinrandomhouse.com/smedia/9780441006434
+  - title: Irontown Blues
+    url: https://images2.penguinrandomhouse.com/smedia/9781101989371
