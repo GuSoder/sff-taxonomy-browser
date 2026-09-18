@@ -1,0 +1,24 @@
+id: green-bone-saga
+title: Green Bone Saga
+authors:
+- Fonda Lee
+first_published: 2017
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: >-
+  SFE identifies the Green Bone Saga as a complex family fantasy, while Orbit describes jade as a magical substance that grants defined enhanced abilities, traditionally controlled by trained Green Bone warriors and later broadened through a drug. Its explicit resource, users, access rules and political consequences make Hard magic the closest leaf.
+classification_sources:
+- https://sf-encyclopedia.com/entry/lee_fonda
+- https://www.hachettebookgroup.com/series/fonda-lee/the-green-bone-saga/
+- https://www.hachettebookgroup.com/titles/fonda-lee/jade-city/9780316440868/
+cover_curation:
+  status: complete
+  source: Orbit / Open Library
+  selected_url: https://covers.openlibrary.org/b/id/10401388-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-18'
+  review_method: one-pass official-series search
+books:
+- {title: Jade City, first_published: 2017, cover_url: https://covers.openlibrary.org/b/id/10401388-L.jpg}
+- {title: Jade War, first_published: 2019, cover_url: https://covers.openlibrary.org/b/id/10315470-L.jpg}
+- {title: Jade Legacy, first_published: 2021, cover_url: https://covers.openlibrary.org/b/id/10863481-L.jpg}
