@@ -1,0 +1,8 @@
+id: paladin-hero
+label: Paladin Hero
+parent: caster-heroes
+children: []
+image: 195-paladin-hero.webp
+definition: Caster-hero fantasy whose protagonist’s primary power joins martial office
+  to sacred or oath-bound magic.
+status: accepted

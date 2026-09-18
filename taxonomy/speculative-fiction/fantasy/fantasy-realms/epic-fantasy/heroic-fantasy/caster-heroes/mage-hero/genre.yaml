@@ -1,0 +1,8 @@
+id: mage-hero
+label: Mage Hero
+parent: caster-heroes
+children: []
+image: 193-mage-hero.webp
+definition: Caster-hero fantasy whose protagonist’s primary power comes from learned
+  arcane spellcraft, true names or direct magical mastery.
+status: accepted

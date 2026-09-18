@@ -1,0 +1,8 @@
+id: cleric-hero
+label: Cleric Hero
+parent: caster-heroes
+children: []
+image: 194-cleric-hero.webp
+definition: Caster-hero fantasy whose protagonist’s primary power comes through service
+  to a deity, sacred calling or accepted divine burden.
+status: accepted

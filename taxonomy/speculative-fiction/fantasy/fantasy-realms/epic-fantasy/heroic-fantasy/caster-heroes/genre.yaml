@@ -1,0 +1,13 @@
+id: caster-heroes
+label: Caster Heroes
+parent: heroic-fantasy
+children:
+- bard-hero
+- mage-hero
+- cleric-hero
+- paladin-hero
+image: 189-caster-heroes.webp
+definition: Heroic fantasy whose protagonist’s primary power source is spellcraft,
+  sacred power, magical performance or an empowered oath; setting and tone do not
+  decide the class.
+status: accepted
