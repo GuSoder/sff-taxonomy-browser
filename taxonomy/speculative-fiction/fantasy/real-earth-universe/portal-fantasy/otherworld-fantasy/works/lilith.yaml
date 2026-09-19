@@ -1,0 +1,20 @@
+id: lilith
+title: Lilith
+authors:
+- George MacDonald
+first_published: 1895
+canonical_genre: Otherworld fantasy
+placement_status: accepted
+placement_rationale: Eerdmans describes Mr. Vane passing through a large old mirror into another world five times; SFE describes parallel universes in a four-dimensional frame, with mirrors and doppelgangers central. An occult mirror crossing between realities makes Eldrich rifts exact.
+classification_sources:
+- https://www.eerdmans.com/9780802860613/lilith/
+- https://sf-encyclopedia.com/entry/macdonald_george
+cover_curation:
+  status: complete
+  source: Eerdmans
+  source_url: https://www.eerdmans.com/9780802860613/lilith/
+  selected_url: https://eerdmans-publishing-us.imgix.net/covers/9780802860613.jpg?auto=format&w=1200
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass official-publisher review
+partition_note: Repartitioned from Eldrich rifts under Gustav's 2026-09-20 ruling (Multiverse fantasy = many-worlds system; Otherworld fantasy = one hidden world revealed).
