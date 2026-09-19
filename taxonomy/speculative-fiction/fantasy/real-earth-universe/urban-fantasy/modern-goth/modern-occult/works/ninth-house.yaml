@@ -1,0 +1,25 @@
+id: ninth-house
+title: Ninth House
+authors:
+- Leigh Bardugo
+first_published: 2019
+canonical_genre: modern-occult
+placement_status: accepted
+placement_rationale: Alex Stern, who can see the dead (Grays), is recruited to police Yale's eight secret societies, whose tombs run real occult rites - portal surgery, shape-shifting, drug-fueled communion with the other side. Occult systems operating inside a contemporary institution fit Modern occult exactly (cf. Conjure Wife's campus witchcraft); the ghost sight serves the occult-institution frame rather than a haunting-centered story.
+classification_sources:
+- https://en.wikipedia.org/wiki/Ninth_House_(novel)
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL19788398W
+  image_url: https://covers.openlibrary.org/b/id/12667414-L.jpg
+  cover_id: id-12667414
+  beauty_score: 7.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Flatiron first-edition flat front - matte black with the serpent curled through the title lettering; the actual published design, clean scan, English title fully legible.
+  visually_reviewed_on: '2026-09-19'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
