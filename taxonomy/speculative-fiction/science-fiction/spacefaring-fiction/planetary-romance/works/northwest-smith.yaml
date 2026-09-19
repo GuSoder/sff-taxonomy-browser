@@ -1,0 +1,25 @@
+id: northwest-smith
+title: Northwest Smith
+authors:
+- C. L. Moore
+first_published: 1933
+canonical_genre: planetary-romance
+placement_status: accepted
+placement_rationale: SFE (entry moore_c_l): from Shambleau (Weird Tales 1933), a psychic-vampire tale set on a Planetary Romance version of Mars, Moore chronicled Northwest Smith, whose character and actions closely follow Western models. SFE's explicit Planetary Romance tag plus weird-fantasy furniture on alien worlds place the series here rather than in the space-opera leaves.
+classification_sources:
+- http://www.sf-encyclopedia.com/entry/moore_c_l
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL1507368W
+  image_url: https://covers.openlibrary.org/b/id/8761043-L.jpg
+  cover_id: id-8761043
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Planet Stories 2007 Northwest of Earth - The Complete Northwest Smith flat front, painted scene of Smith and a companion in a Martian canyon; clean, colorful, English title. Rejected the Ace 1982 front carrying an Anaya (Spanish publisher) imprint mark.
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false

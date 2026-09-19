@@ -1,0 +1,33 @@
+id: no-gods-no-monsters
+title: No Gods, No Monsters
+authors:
+- Cadwell Turnbull
+first_published: 2021
+canonical_genre: publicly-paranormal
+placement_status: accepted
+placement_rationale: Wikipedia: the Convergence Saga opener tells the story of monsters making their existence known to find protection in visibility, from multiple perspectives amid societal and political unrest. Supernatural beings publicly emerging into ordinary civic life is the Publicly paranormal trait (cf. A Song Below Water, Anita Blake).
+classification_sources:
+- https://en.wikipedia.org/wiki/No_Gods,_No_Monsters
+cover_curation:
+  status: ranked
+  source: Wikimedia (print cover as used on Wikipedia)
+  record_url: https://en.wikipedia.org/wiki/File:No_Gods,_No_Monsters.jpg
+  image_url: https://upload.wikimedia.org/wikipedia/en/5/5f/No_Gods%2C_No_Monsters.jpg
+  cover_id: wikimedia-no-gods-no-monsters
+  beauty_score: 7.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Blackstone print flat front - stippled black field with the title scrawled over crescent moon, fish and cat line art; the only portrait-ratio English flat front found (Open Library carried only the square audiobook crop).
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
+books:
+- title: No Gods, No Monsters
+  first_published: 2021
+  cover_url: https://upload.wikimedia.org/wikipedia/en/5/5f/No_Gods%2C_No_Monsters.jpg
+- title: We Are the Crisis
+  first_published: 2023
+- title: Ruin, Great and Free
+  first_published: 2025
