@@ -1,0 +1,36 @@
+id: malazan-book-of-the-fallen
+title: Malazan Book of the Fallen
+authors:
+- Steven Erikson
+first_published: 1999
+canonical_genre: dynastic-epic
+placement_status: accepted
+placement_rationale: Founding work #2 of the Gustav-approved Dynastic epic leaf (his iMessage 2026-09-19 22:33 "Ok, do this" to the split proposal). Queued at intake 527 for a placement ruling: Macmillan calls the ten volumes epic fantasy of gods, mages, humans, dragons, empires and brutal battles spanning political empire, martial heroes, quests and a wholly invented mythology; no prior leaf honestly dominated. Its sprawling multi-POV imperial wars across continents fit Dynastic epic exactly.
+classification_sources:
+- https://us.macmillan.com/series/malazanbookofthefallen
+cover_curation:
+  status: card-only
+  selected_url: https://covers.openlibrary.org/b/id/374277-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+books:
+- title: Gardens of the Moon
+  first_published: 1999
+- title: Deadhouse Gates
+  first_published: 2000
+- title: Memories of Ice
+  first_published: 2001
+- title: House of Chains
+  first_published: 2002
+- title: Midnight Tides
+  first_published: 2004
+- title: The Bonehunters
+  first_published: 2006
+- title: Reaper's Gale
+  first_published: 2007
+- title: Toll the Hounds
+  first_published: 2008
+- title: Dust of Dreams
+  first_published: 2009
+- title: The Crippled God
+  first_published: 2011
