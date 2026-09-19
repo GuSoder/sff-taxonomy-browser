@@ -1,0 +1,49 @@
+id: barsoom
+title: Barsoom
+authors:
+- Edgar Rice Burroughs
+first_published: 1917
+last_published: 1964
+canonical_genre: old-mars
+placement_status: accepted
+included_titles:
+- A Princess of Mars
+- The Gods of Mars
+- The Warlord of Mars
+- Thuvia, Maid of Mars
+- The Chessmen of Mars
+- The Master Mind of Mars
+- A Fighting Man of Mars
+- Swords of Mars
+- Synthetic Men of Mars
+- Llana of Gathol
+- John Carter of Mars
+cover_curation:
+  status: complete
+  source: Internet Archive and Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass complete existing-series review
+  selected_covers:
+  - title: A Princess of Mars
+    url: https://archive.org/download/princessofmars0000edga_b7c1/page/cover.jpg
+  - title: The Gods of Mars
+    url: https://archive.org/download/godofmars0000unse/page/cover.jpg
+  - title: The Warlord of Mars
+    url: https://archive.org/download/warlordofmars0000edga_y3z3/page/cover.jpg
+  - title: Thuvia, Maid of Mars
+    url: https://archive.org/download/thuviamaidofmars00edga/page/cover.jpg
+  - title: The Chessmen of Mars
+    url: https://archive.org/download/chessmenofmars0000edga_e5d9/page/cover.jpg
+  - title: The Master Mind of Mars
+    url: https://archive.org/download/mastermindofmars0000edga/page/cover.jpg
+  - title: A Fighting Man of Mars
+    url: https://archive.org/download/fightingmanofmar0000edga_h4r5/page/cover.jpg
+  - title: Swords of Mars
+    url: https://archive.org/download/swordsofmars0000edga/page/cover.jpg
+  - title: Synthetic Men of Mars
+    url: https://archive.org/download/syntheticmenofma0000edga_d4y4/page/cover.jpg
+  - title: Llana of Gathol
+    url: https://archive.org/download/llanaofgathol0000edga/page/cover.jpg
+  - title: John Carter of Mars
+    url: https://covers.openlibrary.org/b/id/6698861-L.jpg
