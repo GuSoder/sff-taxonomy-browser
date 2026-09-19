@@ -1,0 +1,37 @@
+id: the-chronicles-of-narnia
+title: The Chronicles of Narnia
+authors:
+- C. S. Lewis
+first_published: 1950
+last_published: 1956
+canonical_genre: whimsical-doors
+placement_status: accepted
+included_titles:
+- The Lion, the Witch and the Wardrobe
+- Prince Caspian
+- The Voyage of the Dawn Treader
+- The Silver Chair
+- The Horse and His Boy
+- The Magician's Nephew
+- The Last Battle
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass complete existing-series review
+  selected_covers:
+  - title: The Lion, the Witch and the Wardrobe
+    url: https://covers.openlibrary.org/b/id/8441376-L.jpg
+  - title: Prince Caspian
+    url: https://covers.openlibrary.org/b/id/45897-L.jpg
+  - title: The Voyage of the Dawn Treader
+    url: https://covers.openlibrary.org/b/id/9184719-L.jpg
+  - title: The Silver Chair
+    url: https://covers.openlibrary.org/b/id/6950992-L.jpg
+  - title: The Horse and His Boy
+    url: https://covers.openlibrary.org/b/id/9184792-L.jpg
+  - title: The Magician's Nephew
+    url: https://covers.openlibrary.org/b/id/1072931-L.jpg
+  - title: The Last Battle
+    url: https://covers.openlibrary.org/b/id/6529226-L.jpg
