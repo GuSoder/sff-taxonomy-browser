@@ -1,0 +1,37 @@
+id: harry-potter
+title: Harry Potter
+authors:
+- J. K. Rowling
+first_published: 1997
+last_published: 2007
+canonical_genre: contemporary-fantasy
+placement_status: accepted
+included_titles:
+- Harry Potter and the Philosopher's Stone
+- Harry Potter and the Chamber of Secrets
+- Harry Potter and the Prisoner of Azkaban
+- Harry Potter and the Goblet of Fire
+- Harry Potter and the Order of the Phoenix
+- Harry Potter and the Half-Blood Prince
+- Harry Potter and the Deathly Hallows
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass coordinated classic Bloomsbury review
+  selected_covers:
+  - title: Harry Potter and the Philosopher's Stone
+    url: https://covers.openlibrary.org/b/id/15155833-L.jpg
+  - title: Harry Potter and the Chamber of Secrets
+    url: https://covers.openlibrary.org/b/id/15158664-L.jpg
+  - title: Harry Potter and the Prisoner of Azkaban
+    url: https://covers.openlibrary.org/b/id/10580435-L.jpg
+  - title: Harry Potter and the Goblet of Fire
+    url: https://covers.openlibrary.org/b/id/12059372-L.jpg
+  - title: Harry Potter and the Order of the Phoenix
+    url: https://covers.openlibrary.org/b/id/15158666-L.jpg
+  - title: Harry Potter and the Half-Blood Prince
+    url: https://covers.openlibrary.org/b/id/10716273-L.jpg
+  - title: Harry Potter and the Deathly Hallows
+    url: https://covers.openlibrary.org/b/id/15158660-L.jpg
