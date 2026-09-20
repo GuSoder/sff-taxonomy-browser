@@ -1,0 +1,14 @@
+id: the-old-kingdom
+title: The Old Kingdom
+authors: [Garth Nix]
+first_published: 1995
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> Hard magic. Nix’s official synopsis establishes the Old Kingdom, Charter Mages, Free Magic, the Abhorsen and a quest against forces of life and death; the official system gives seven named bells with distinct effects, Charter marks, costs and boundaries. Quest fantasy loses because the rule-bound Charter/Free Magic and necromancy system is the series’ distinctive engine.'
+classification_sources:
+- https://www.garthnix.com/books/the-old-kingdom/sabriel/
+- http://oldkingdom.com.au/extras_bells.html
+- https://strangehorizons.com/wordpress/non-fiction/reviews/seven-silver-bells-against-darkness-and-death-garth-nixs-abhorsen-trilogy/
+books:
+- {title: Sabriel, first_published: 1995, cover_url: 'https://covers.openlibrary.org/b/id/13165306-L.jpg'}
+cover_curation: {status: partial, source: Open Library, selected_url: 'https://covers.openlibrary.org/b/id/13165306-L.jpg', cover_id: OL-13165306, shows_english_title: true, visually_reviewed_on: '2026-09-20', note: 'Candidate entered as Sabriel; remaining series volumes can be completed by the cover audit.'}
