@@ -1,0 +1,9 @@
+id: gothic-science-fiction
+label: Gothic science fiction
+parent: historical
+children:
+- mad-science-gothic
+- cosmic-gothic
+image: 10-gothic-science-fiction.webp
+definition: 'In this taxonomy, Gothic science fiction is historical science fiction: period-set tales of Promethean creation, mad scientists, doubles and the monstrous, where mystery and terror outweigh cognition. Modern-set Gothic-science-fiction spins live elsewhere in the tree.'
+status: umbrella
