@@ -46,17 +46,17 @@ book_covers:
   books:
   - title: The Dying Earth
     year: 1950
-    cover_id: 4648585
-    cover_url: https://covers.openlibrary.org/b/id/4648585-L.jpg
-    edition: Pocket 1982
-    note: Colorful painted melee scene; Hillman 1950 first (7897019) vintage pulp rejected for price/issue
-      markings
+    cover_id: 8035157
+    cover_url: https://covers.openlibrary.org/b/id/8035157-L.jpg
+    edition: Pocket 1977
+    note: Colorful painted melee scene; Hillman 1950 first (7897019) has price/issue markings; Baen 6578360
+      alternate
   - title: The Eyes of the Overworld
     year: 1966
-    cover_id: 9317367
-    cover_url: https://covers.openlibrary.org/b/id/9317367-L.jpg
-    edition: Underwood-Miller 1977
-    note: Detailed painted fantasy spire-city
+    cover_id: 9317366
+    cover_url: https://covers.openlibrary.org/b/id/9317366-L.jpg
+    edition: Pocket 1977
+    note: Detailed painted spire-city art
   - title: Cugel's Saga
     year: 1983
     cover_id: 7897020
@@ -65,7 +65,7 @@ book_covers:
     note: Colorful painted Cugel; beats Timescape 15207711 and Panther 10208949
   - title: Rhialto the Marvellous
     year: 1984
-    cover_id: 10968183
-    cover_url: https://covers.openlibrary.org/b/id/10968183-L.jpg
-    edition: Baen 1985
-    note: Detailed painted scene; beats Grafton 10922925; J'ai lu 981831 is French
+    cover_id: 10922925
+    cover_url: https://covers.openlibrary.org/b/id/10922925-L.jpg
+    edition: Grafton 1985
+    note: Painted forest scene with crystals; beats Baen 10968183 dragon art; J'ai lu is French
