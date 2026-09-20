@@ -1,0 +1,34 @@
+id: peaces
+title: Peaces
+authors:
+- Helen Oyeyemi
+first_published: 2021
+canonical_genre: inner-space
+placement_status: accepted
+placement_rationale: >-
+  NPR calls Peaces "a bizarre interstitial space between a surrealist narrative and a
+  real one"; Kirkus calls it a surrealist tale of love and being haunted by the past.
+  Otto and Xavier Shin board the sleeper train The Lucky Day and reality stops cohering
+  - no stable boundary between psyche and world, with memory and desire projecting a
+  competing reality: exactly the inner-space definition. The NYT stresses it is NOT a
+  fairy tale, so it is kept out of fairy-tale-revision (where Gingerbread sits).
+  Shelfmates: Lanark, Only Forward. Locus recommended reading 2021.
+classification_sources:
+- https://www.npr.org/2021/04/07/984743862/too-many-peaces-overload-an-otherwise-entertaining-story
+- https://www.nytimes.com/2021/04/06/books/review/peaces-helen-oyeyemi.html
+- https://www.kirkusreviews.com/book-reviews/helen-oyeyemi/peaces/
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL22580983W
+  image_url: https://covers.openlibrary.org/b/id/10478791-L.jpg
+  cover_id: id-10478791
+  beauty_score: 8
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Riverhead 2021 US first - detailed colorful collage art (gloved hand holding the mongoose, suitcase, torn-paper title), English title and author visible. Rejected 10836972 (Faber green/gold graphic), 12424535 (Center Point large-print mongoose watercolor, weaker), 14757376 (Faber blue train-car design with quote lines and prize badge).
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false

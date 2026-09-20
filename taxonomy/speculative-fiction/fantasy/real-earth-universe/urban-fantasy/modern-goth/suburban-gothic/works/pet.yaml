@@ -1,0 +1,34 @@
+id: pet
+title: Pet
+authors:
+- Akwaeke Emezi
+first_published: 2019
+canonical_genre: suburban-gothic
+placement_status: accepted
+placement_rationale: >-
+  Lucille is a utopian town whose children are taught that angels destroyed all
+  monsters; the creature Pet steps out of a painting to hunt a monster - an abuser
+  hidden inside an ordinary family the community refuses to see (PW, NYT). The ordinary
+  community itself is the source of hidden persecution and uncanny menace: the
+  suburban-gothic thesis. Runner-up was contemporary-fantasy, which sits at 9 works and
+  would have forced a partition proposal. Shelfmates: Fear, Good Neighbors. National
+  Book Award finalist; Stonewall Book Award winner. Locus recommended reading 2019.
+classification_sources:
+- https://en.wikipedia.org/wiki/Pet_(novel)
+- https://www.publishersweekly.com/9780525647072
+- https://www.akwaeke.com/pet
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL20150134W
+  image_url: https://covers.openlibrary.org/b/id/8793960-L.jpg
+  cover_id: id-8793960
+  beauty_score: 8
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Make Me A World 2019 first edition - detailed colorful isometric Lucille cityscape in purple with Jam standing in it, textured title, English title and author visible, no stickers. Rejected 9249052 (near-duplicate), 10194807 (Faber painted portrait with wing silhouette and quote text - strong but busier), 10642286 and 11198192 (award-stickered reprints).
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 5
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
