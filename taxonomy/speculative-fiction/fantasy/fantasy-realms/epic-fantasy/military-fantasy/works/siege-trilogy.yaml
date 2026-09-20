@@ -1,0 +1,31 @@
+id: siege-trilogy
+title: Siege trilogy
+authors:
+- K. J. Parker
+first_published: 2019
+canonical_genre: military-fantasy
+placement_status: accepted
+placement_rationale: >-
+  Root-down: Orbit/PW place the trilogy in an invented Roman-like fantasy empire and organize all three books around the siege, defending and ruling the City, and finally a war to end all wars. That passes Fantasy -> Fantasy Realms -> Epic fantasy -> Military fantasy: armies, campaigns, siegecraft and war seen through engineers, civilians and pragmatic participants rather than a quest or magic system.
+classification_sources:
+- https://www.hachettebookgroup.com/titles/k-j-parker/sixteen-ways-to-defend-a-walled-city/9780316270793/
+- https://www.publishersweekly.com/9780316270793
+- https://www.hachettebookgroup.com/titles/k-j-parker/how-to-rule-an-empire-and-get-away-with-it/9780316498678/
+- https://www.hachettebookgroup.com/titles/k-j-parker/a-practical-guide-to-conquering-the-world/9780316498616/
+cover_curation:
+  status: complete
+  source: Orbit / Hachette
+  selected_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9780316270793.jpg?w=640
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass official-publisher series review
+books:
+- title: Sixteen Ways to Defend a Walled City
+  first_published: 2019
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9780316270793.jpg?w=640
+- title: How to Rule an Empire and Get Away with It
+  first_published: 2020
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2020/08/9780316498678-1.jpg
+- title: A Practical Guide to Conquering the World
+  first_published: 2022
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2022/01/9780316498616.jpg
