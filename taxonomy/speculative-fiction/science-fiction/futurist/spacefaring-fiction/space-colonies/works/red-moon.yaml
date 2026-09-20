@@ -1,0 +1,20 @@
+id: red-moon
+title: Red Moon
+authors:
+- Kim Stanley Robinson
+first_published: 2018
+canonical_genre: space-colonies
+placement_status: accepted
+placement_rationale: 'Root-down traversal: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction because the story is set in a permanent, working lunar settlement. SFE and Hachette center a colonized Moon under Chinese influence; Kirkus calls it a political thriller where the Moon is backdrop and game piece for China and the US. Space colonies is exact because the established colony is the arena for murder, surveillance and revolution. It is not about founding the colony, and Space dystopias is rejected because this is a contested functioning settlement with hope threads rather than a nightmare-state.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/robinson_kim_stanley
+- https://www.hachettebookgroup.com/titles/kim-stanley-robinson/red-moon/9780316262378/
+- https://www.kirkusreviews.com/book-reviews/kim-stanley-robinson/red-moon-robinson/
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/10292083-L.jpg
+  cover_id: OL-10292083
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass exact-title review; selected vertical flat front over square audiobook and weaker crop
