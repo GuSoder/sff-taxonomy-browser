@@ -1,0 +1,29 @@
+id: rump
+title: 'Rump: The (Fairly) True Tale of Rumpelstiltskin'
+authors:
+- Liesl Shurtliff
+first_published: 2013
+canonical_genre: fairy-tale-inversion
+placement_status: accepted
+placement_rationale: Penguin Random House calls the novel a fractured fairy tale that
+  retells Rumpelstiltskin from behind the familiar story. Reclassified in the EoF-aligned
+  audit to Fairy Tale Revision as the deeper sourced boundary.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/218540/rump-the-fairly-true-tale-of-rumpelstiltskin-by-liesl-shurtliff/
+cover_curation:
+  status: ranked
+  source: Penguin Random House
+  record_url: https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780804168045
+  image_url: https://images.penguinrandomhouse.com/cover/9780804168045
+  cover_id: ISBN-9780804168045
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings
+  beauty_rationale: Bright blue and gold, lively painted character art, and intricate
+    golden title lettering make it colorful and polished, though less densely detailed
+    than the top fantasy covers.
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 5
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true
+  title_overlay: false

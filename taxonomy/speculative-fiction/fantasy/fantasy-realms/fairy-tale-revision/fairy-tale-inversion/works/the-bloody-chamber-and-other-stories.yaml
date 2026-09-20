@@ -1,0 +1,31 @@
+id: the-bloody-chamber-and-other-stories
+title: The Bloody Chamber and Other Stories
+authors:
+- Angela Carter
+first_published: 1979
+canonical_genre: fairy-tale-inversion
+placement_status: accepted
+placement_rationale: A publisher describes the collection as a classic feminist retelling
+  of favorite fairy tales; inherited tales and their transformation organize the work.
+  Reclassified in the EoF-aligned audit to Fairy Tale Revision as the deeper sourced
+  boundary.
+classification_sources:
+- bisac-fiction
+- https://www.penguin.co.uk/books/359636/the-bloody-chamber-and-other-stories-by-angela-carter/9780099588115
+cover_curation:
+  status: ranked
+  source: Angela Carter Online / Vintage Classics
+  record_url: https://angelacarteronline.com/2016/11/11/vintage-classics-hardback-edition-of-the-bloody-chamber/
+  image_url: https://angelacarteronline.com/wp-content/uploads/2016/11/cover-small.jpg
+  cover_id: vintage-classics-hardback-2016
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings
+  beauty_rationale: Intricate botanical and fairy-tale line art wraps the English
+    title with red, black, and silver accents; richly detailed, though more illustrated
+    than painterly and only selectively colorful.
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true
+  title_overlay: false

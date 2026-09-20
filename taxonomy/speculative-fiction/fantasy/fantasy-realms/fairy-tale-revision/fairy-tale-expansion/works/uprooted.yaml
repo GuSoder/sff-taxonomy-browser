@@ -1,0 +1,31 @@
+id: uprooted
+title: Uprooted
+authors:
+- Naomi Novik
+first_published: 2015
+canonical_genre: fairy-tale-expansion
+placement_status: accepted
+placement_rationale: Publisher descriptions frame the novel as an original variation
+  on ancient stories and a tale familiar as a Grimm fairy tale; folklore and fairy-tale
+  logic organize its magic and plot. Reclassified in the EoF-aligned audit to Fairy
+  Tale Revision as the deeper sourced boundary.
+classification_sources:
+- bisac-fiction
+- https://www.penguinrandomhouse.com/books/236925/uprooted-by-naomi-novik/
+cover_curation:
+  status: ranked
+  source: Penguin Random House
+  record_url: https://www.penguinrandomhouse.com/books/236925/uprooted-by-naomi-novik/
+  image_url: https://images.penguinrandomhouse.com/cover/9780804179058
+  cover_id: ISBN-9780804179058
+  beauty_score: 7.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings
+  beauty_rationale: An elegant, intricate botanical tower illustration with distinctive
+    gold typography; detailed and refined, but the cream-and-green palette is restrained
+    and it is not a full painting.
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true
+  title_overlay: false

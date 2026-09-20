@@ -1,0 +1,30 @@
+id: we-kept-her-in-the-cellar
+title: We Kept Her in the Cellar
+authors:
+- W. R. Gorman
+first_published: 2024
+canonical_genre: fairy-tale-inversion
+placement_status: accepted
+placement_rationale: Penguin Random House describes it as a dark reimagining of Cinderella
+  told from a stepsister’s perspective; fairy-tale transformation organizes the novel.
+  Reclassified in the EoF-aligned audit to Fairy Tale Revision as the deeper sourced
+  boundary.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/759644/we-kept-her-in-the-cellar-by-w-r-gorman/
+cover_curation:
+  status: ranked
+  source: Penguin Random House
+  record_url: https://www.penguinrandomhouse.com/books/759644/we-kept-her-in-the-cellar-by-w-r-gorman/
+  image_url: https://images.penguinrandomhouse.com/cover/9781639109142
+  cover_id: ISBN-9781639109142
+  beauty_score: 5.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings
+  beauty_rationale: The red-black horror palette and luminous glass slipper are striking,
+    but the design is sparse, typography-led, and neither richly detailed nor broadly
+    colorful.
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true
+  title_overlay: false
