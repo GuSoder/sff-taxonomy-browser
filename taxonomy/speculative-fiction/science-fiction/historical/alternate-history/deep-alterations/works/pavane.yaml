@@ -1,0 +1,35 @@
+id: pavane
+title: Pavane
+authors:
+- Keith Roberts
+first_published: 1968
+canonical_genre: deep-alterations
+placement_status: accepted
+placement_rationale: >-
+  SFE (entry roberts_keith): Pavane "superbly depicts an Alternate History in which -
+  Elizabeth I having been assassinated, the Spanish Armada victorious and no Protestant
+  rise of capitalism in the offing - a technologically backward England" persists into
+  the 20th century under the Church, with steam traction engines and the old guilds.
+  The divergence (1588) runs four centuries deep before the story's present (c.1968)
+  and has produced a transformed world order: exactly the deep-alterations definition.
+  Shelfmates: The Alteration (another Catholic-dominated 20th century), Lest Darkness
+  Fall, The Years of Rice and Salt. Pringle 100 Best SF Novels.
+classification_sources:
+- https://sf-encyclopedia.com/entry/roberts_keith
+- https://sf-encyclopedia.com/entry/alternate_history
+- https://en.wikipedia.org/wiki/Pavane_(novel)
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL286374W
+  image_url: https://covers.openlibrary.org/b/id/8667089-L.jpg
+  cover_id: id-8667089
+  beauty_score: 8
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Ace 1982 flat front - painted purple-dusk scene with hooded figure and castle, English title and author visible, no bands. Rejected 8704831 (text-only), 210024 (Del Rey Impact engine/faces art with Aldiss quote band), 14841413 (Doubleday 1968 flat graphic engine), 10476936 (Old Earth Books 2011 stained-glass art but G.R.R. Martin quote band), 10188658 (Hart-Davis first, bold red graphic but not painted).
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
