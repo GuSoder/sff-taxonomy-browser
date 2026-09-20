@@ -1,0 +1,28 @@
+id: out-of-the-silent-planet
+title: Out of the Silent Planet
+authors:
+- C. S. Lewis
+first_published: 1938
+canonical_genre: planetary-romance
+placement_status: accepted
+placement_rationale: >-
+  SFE (entry lewis_c_s) names the Ransom sequence Lewis's primary contribution to SF proper: philologist Ransom is kidnapped aboard a spaceship and taken to Malacandra (Mars), where the plot turns on the planet's nature, its three rational species and its cosmic order. SFE's planetary_romance entry covers tales whose venue is an alien planet and whose plot turns on the nature of that planet, which is exactly the book's shape - adventure on an exotic inhabited Mars. Shelfmates: Pern, Majipoor, Northwest Smith.
+classification_sources:
+- https://sf-encyclopedia.com/entry/lewis_c_s
+- https://sf-encyclopedia.com/entry/planetary_romance
+- https://en.wikipedia.org/wiki/Out_of_the_Silent_Planet
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL71166W
+  image_url: https://covers.openlibrary.org/b/id/8445245-L.jpg
+  cover_id: id-8445245
+  beauty_score: 8
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Voyager 2000 flat front, colorful painted Malacandran landscape (pink planet, spires, waters), English title and author visible. Rejected 14920070 (interior title page, not a cover) and 10092438 (1983 Pan painted art but an angled photo of the physical book, not a flat front).
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
