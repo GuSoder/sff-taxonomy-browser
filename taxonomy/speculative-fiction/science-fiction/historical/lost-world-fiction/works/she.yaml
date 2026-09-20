@@ -1,0 +1,52 @@
+title: She
+author: H. Rider Haggard
+year: 1887
+intake_index: 111
+leaf: speculative-fiction/science-fiction/historical/lost-world-fiction
+fiction_books:
+  - title: She
+    year: 1887
+    cover_url: https://covers.openlibrary.org/b/id/119307-L.jpg
+    shows_english_title: true
+  - title: "Ayesha: The Return of She"
+    year: 1905
+    cover_url: https://covers.openlibrary.org/b/id/12640128-L.jpg
+    shows_english_title: true
+  - title: She and Allan
+    year: 1921
+    cover_url: https://covers.openlibrary.org/b/id/14671312-L.jpg
+    shows_english_title: true
+  - title: Wisdom's Daughter
+    year: 1923
+    cover_url: https://covers.openlibrary.org/b/id/2114038-L.jpg
+    shows_english_title: true
+genre_grounding: >-
+  SFE (haggard_h_rider): the Ayesha sequence - She (1887), Ayesha:
+  The Return of She (1905), She and Allan (1921), Wisdom's Daughter
+  (1923) - the definitive lost-world/lost-race romance: explorers in
+  the African interior discover Kor, a surviving hidden civilization
+  ruled by the immortal Ayesha. SFE's Lost Worlds theme entry cites
+  She as the template after Verne. Shelved in lost world fiction
+  (explorers discover a surviving isolated civilization).
+cover:
+  source: openlibrary
+  cover_id: 119307
+  edition: Oxford World's Classics (1998)
+  url: https://covers.openlibrary.org/b/id/119307-L.jpg
+  shows_english_title: true
+  beauty: 7.5
+  notes: >-
+    Flat painted Ayesha-in-flames portrait, series livery header only
+    (publisher-series livery is allowed). Book covers added 2026-09-20
+    audit: bk1 reuses curated 119307; bk2 12640128 (painted Classic
+    Adventures omnibus, only English Ayesha cover); bk3 14671312
+    (painted portrait, beats 1930790 leopard text); bk4 2114038 (Dodo
+    Press, only English-titled option; Heyne 10531511 is German).
+    Rejected: 9459889 (Ballantine 1978) for the "King Solomon's Mines"
+    corner promo burst plus photographed glare; 10047915 (price sticker);
+    13254040/1654248 (photos of physical copies/film tie-in); 7951183
+    (interior title page); 8239487 (plain 1887 cloth binding);
+    230506/6442792 (weak art); 947740 (busy pulp montage).
+    Non-English editions excluded.
+deep_link: https://gusoder.github.io/sff-taxonomy-browser/#lost-world-fiction/she
+date_added: 2026-09-14
