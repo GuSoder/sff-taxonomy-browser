@@ -1,0 +1,34 @@
+id: paladins-strength
+title: Paladin's Strength
+authors:
+- T. Kingfisher
+first_published: 2021
+canonical_genre: paladin-hero
+placement_status: accepted
+placement_rationale: >-
+  Saint of Steel book 2 (Argyll Productions 2021; Locus recommended reading 2021).
+  Istvhan is literally a paladin of the dead Saint of Steel: his berserker battle-grace
+  is a sacred, oath-bound power joined to martial office - exactly the paladin-hero
+  definition (primary power joins martial office to sacred or oath-bound magic).
+  Hachette bills it as cosy fantasy romance with a swashbuckling paladin tracking a
+  supernatural killer alongside a nun of a secretive order. Shelfmate: Deryni Rising;
+  the site's existing Paladin of Souls sits under cleric-hero's World of the Five Gods.
+classification_sources:
+- https://argyllproductions.com/product/paladins-strength/
+- https://www.hachette.co.uk/titles/t-kingfisher/paladins-strength/9780356524337/
+- https://books.google.com/books/about/Paladin_s_Strength.html?id=33io0AEACAAJ
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL24211259W
+  image_url: https://covers.openlibrary.org/b/id/14342135-L.jpg
+  cover_id: id-14342135
+  beauty_score: 8
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Argyll 2021 first edition flat front - detailed colorful painted scene of paladin and nun in an enchanted wood with rabbit and bear familiars, decorative border, English title and author visible. Rejected 15173902 (Orbit 2025 flat graphic bear-flames-sword design; clean but weaker art, and carries "Book Two of the Saint of Steel" band plus "Hugo Award-winning author" tagline).
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 2
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false

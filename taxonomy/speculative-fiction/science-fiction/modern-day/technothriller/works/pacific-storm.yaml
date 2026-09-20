@@ -1,0 +1,36 @@
+id: pacific-storm
+title: Pacific Storm
+authors:
+- Linda Nagata
+first_published: 2020
+canonical_genre: technothriller
+placement_status: accepted
+placement_rationale: >-
+  Locus (Russell Letson, December 2020 issue) describes Nagata's recent line as the
+  technothriller (The Last Good Man) and shelves Pacific Storm in "near-future-nightmare"
+  territory beside Christopher Brown, Greg Egan and Nancy Kress, calling its shape an
+  intrigue-thriller-disaster format. Honolulu cop Ava Arnett captains the night shift of
+  the autonomous Waikiki District, guided by HADAFA, an AI that observes and predicts
+  human behavior; as a Category 5 hurricane approaches, the AI glitches amid a terrorist
+  conspiracy. The thriller engine is the near-future technology itself - exactly the SFE
+  Technothriller theme. Shelfmates: Little Brother, Pattern Recognition. ISFDB: 2021
+  Locus Best SF Novel nominee.
+classification_sources:
+- https://locusmag.com/review/russell-letson-reviews-pacific-storm-by-linda-nagata/
+- https://mythicisland.com/pacific_storm.php
+- https://www.isfdb.org/cgi-bin/title.cgi?2781833
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL29300546W
+  image_url: https://covers.openlibrary.org/b/id/12996604-L.jpg
+  cover_id: id-12996604
+  beauty_score: 7
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Mythic Island Press 2020 flat front - moody blue hurricane-over-Honolulu scene with running figure and drone, English title and author visible. Only cover in the OL edition set; clean and atmospheric.
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 1
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  title_overlay: false
