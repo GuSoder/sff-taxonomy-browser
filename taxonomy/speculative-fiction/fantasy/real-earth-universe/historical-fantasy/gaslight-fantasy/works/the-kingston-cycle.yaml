@@ -1,0 +1,32 @@
+id: the-kingston-cycle
+title: The Kingston Cycle
+authors:
+- C. L. Polk
+first_published: 2018
+canonical_genre: gaslight-fantasy
+placement_status: accepted
+placement_rationale: >-
+  Root-down: Macmillan defines the complete trilogy as gaslamp historical fantasy in an Edwardian-England setting: witches and wizards, magical cabals, wartime institutions and aether infrastructure govern all three volumes. Soulstar culminates in liberation and democratic revolution, but the whole-series invariant and publisher genre are the gaslit Edwardian magical order, so Gaslight fantasy governs over a finale-only Revolutionary fantasy placement.
+classification_sources:
+- https://us.macmillan.com/books/9781250409225/thekingstoncycle/
+- https://us.macmillan.com/series/thekingstoncycle
+- https://us.macmillan.com/books/9781250162687/witchmark/
+- https://torpublishinggroup.com/stormsong/?format=trade&isbn=9780765398994
+- https://www.panmacmillan.com.au/9781250203571/
+cover_curation:
+  status: complete
+  source: Macmillan / Tor Publishing Group
+  selected_url: https://mpd-biblio-covers.imgix.net/9781250162687.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass official-publisher series review
+books:
+- title: Witchmark
+  first_published: 2018
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250162687.jpg
+- title: Stormsong
+  first_published: 2020
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765398994.jpg
+- title: Soulstar
+  first_published: 2021
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250203571.jpg
