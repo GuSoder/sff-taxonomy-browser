@@ -1,0 +1,24 @@
+id: book-of-elementals
+title: The Book of Elementals
+authors:
+- Phyllis Eisenstein
+first_published: 1979
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: >-
+  Root-down: SFE calls Sorcerer's Son an outright fantasy centered on an oedipal quest and magical apprenticeship, identifies its sequel The Crystal Palace, and specifically says their magic is treated as a form of science. That passes Fantasy -> Fantasy Realms -> Epic fantasy -> Hard magic: apprenticeship, systematic demon conjuration, elemental affinities and magic-as-science govern the two-volume sequence more specifically than the first volume's father-seeking journey.
+classification_sources:
+- https://sf-encyclopedia.com/entry/eisenstein_phyllis
+cover_curation:
+  status: complete
+  source: Open Library / Signet
+  selected_url: https://covers.openlibrary.org/b/id/8021202-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass
+books:
+- title: Sorcerer's Son
+  first_published: 1979
+  cover_url: https://covers.openlibrary.org/b/id/8021202-L.jpg
+- title: The Crystal Palace
+  first_published: 1988
