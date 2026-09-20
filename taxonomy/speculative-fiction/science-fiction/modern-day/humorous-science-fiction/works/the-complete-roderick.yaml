@@ -1,0 +1,14 @@
+id: the-complete-roderick
+title: The Complete Roderick
+authors: [John Sladek]
+first_published: 1980
+canonical_genre: humorous-science-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Modern day -> Humorous science fiction. SFE says the two texts were conceived as one novel and presents the complete tale as the autobiography of a robot with Candide-like innocence; SFE also identifies Sladek as a major satirist. The robot is the innocent observer through which contemporary America is exposed, so satire is the engine. Robots and AI fails its Futurist/Future-of-Earth gate.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/sladek_john_t
+- https://sf-encyclopedia.com/entry/satire
+books:
+- {title: 'Roderick; Or The Education of a Young Machine', first_published: 1980, cover_url: 'https://covers.openlibrary.org/b/id/7007254-L.jpg'}
+- {title: Roderick at Random, first_published: 1983, cover_url: 'https://covers.openlibrary.org/b/id/4744851-L.jpg'}
+cover_curation: {status: complete, source: Open Library, selected_url: 'https://covers.openlibrary.org/b/id/910983-L.jpg', cover_id: OL-910983, shows_english_title: true, visually_reviewed_on: '2026-09-20', note: 'The Complete Roderick SF Masterworks painting selected for card.'}
