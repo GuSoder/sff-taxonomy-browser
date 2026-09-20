@@ -1,0 +1,71 @@
+id: the-dying-earth
+title: The Dying Earth
+authors:
+- Jack Vance
+first_published: 1950
+canonical_genre: dying-earth
+placement_status: accepted
+placement_rationale: 'The genre''s namesake - SFE (vance_jack; dying_earth) treats Vance''s far-future
+  tales under a dying red sun as the eponymous foundation of the Dying Earth subgenre. Grouped fiction:
+  the four Dying Earth books (1950-1984).'
+classification_sources:
+- https://sf-encyclopedia.com/entry/vance_jack
+- https://sf-encyclopedia.com/entry/dying_earth
+cover_curation:
+  status: ranked
+  source: Open Library cover archive, Orb Books 2000 'Tales of the Dying Earth' omnibus (all four novels
+    in one volume)
+  record_url: https://openlibrary.org/books/OL9478547M/
+  image_url: https://covers.openlibrary.org/b/id/183396-L.jpg
+  cover_id: OL-183396
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos
+    of physical book objects
+  beauty_rationale: Series-level omnibus cover - a pale futurist spire-city over the red plain of the
+    dying Earth; detailed, colorful, flat front, English title, 'all four Dying Earth novels in one volume'
+    copy integral. Gollancz Fantasy Masterworks 'Tales of the Dying Earth' pyramid art (911222 has Amazon
+    'Copyrighted Material' watermark; clean variant 9263408) 8.0; Lancer 1950s editions 7.5. Brilliance/MP3
+    audiobooks and a photo of a physical boxed set (10196211) rejected.
+  visually_reviewed_on: '2026-09-13'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 15
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring
+    flat front-cover art over photos of physical book objects; series-level art preferred for grouped
+    fictions
+  title_overlay: false
+series:
+  books:
+  - The Dying Earth (1950)
+  - The Eyes of the Overworld (1966)
+  - Cugel's Saga (1983)
+  - Rhialto the Marvellous (1984)
+book_covers:
+  status: complete
+  audited_on: '2026-09-20'
+  books:
+  - title: The Dying Earth
+    year: 1950
+    cover_id: 4648585
+    cover_url: https://covers.openlibrary.org/b/id/4648585-L.jpg
+    edition: Pocket 1982
+    note: Colorful painted melee scene; Hillman 1950 first (7897019) vintage pulp rejected for price/issue
+      markings
+  - title: The Eyes of the Overworld
+    year: 1966
+    cover_id: 9317367
+    cover_url: https://covers.openlibrary.org/b/id/9317367-L.jpg
+    edition: Underwood-Miller 1977
+    note: Detailed painted fantasy spire-city
+  - title: Cugel's Saga
+    year: 1983
+    cover_id: 7897020
+    cover_url: https://covers.openlibrary.org/b/id/7897020-L.jpg
+    edition: Baen 1984
+    note: Colorful painted Cugel; beats Timescape 15207711 and Panther 10208949
+  - title: Rhialto the Marvellous
+    year: 1984
+    cover_id: 10968183
+    cover_url: https://covers.openlibrary.org/b/id/10968183-L.jpg
+    edition: Baen 1985
+    note: Detailed painted scene; beats Grafton 10922925; J'ai lu 981831 is French
