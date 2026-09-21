@@ -1,0 +1,6 @@
+id: political-space-opera
+label: Political space opera
+parent: new-space-opera
+children: [interstellar-court-politics, revolutionary-space-opera, post-scarcity-politics, space-succession-opera, cosmological-politics]
+definition: Umbrella for new space opera in which relations among large interstellar powers are the primary field of action, partitioned by political engine.
+status: accepted

@@ -1039,3 +1039,9 @@
 - #687 The Breath of the Sun HELD at full Quest fantasy. Aqueduct/PW ground a secondary-world mountain pilgrimage and blasphemous summit expedition; SFE calls it equipoisal fabulation/fantasy/self-parodying SF and notes the summit extends into space and technology may reach it. Root-down the invented-world journey and summit goal reach Quest fantasy; no sibling is better, and Quest is closed at 10.
 - #688 The Bridge -> Atemporal -> Fabulation -> Inner space -> Psychogeographic fabulation (3->4). Banks grounds a comatose man's vast surreal bridge-world where dream/fantasy, past/future and voices fuse and explicitly credits Lanark; SFE calls the Bridge a matrix of his life. Impossible place externalizes damaged psyche and desire to remain unconscious. Official author-site cover inspected.
 - Gate 246 nodes / 681 visible works / refs consistent. Progress next=689, processed=688, added=538.
+
+## 2026-09-21 13:27 CEST - approved Political space opera five-way partition in progress
+- Gustav ordered Political space opera converted to a pure umbrella with five exhaustive leaves: Interstellar court politics (Teixcalaan, Vorkosigan), Revolutionary space opera (Seven Devils, Sun Chronicles, Empress of Forever), Post-scarcity politics (Culture), Space Succession Opera (Dread Empire's Fall, Imperial Radch), Cosmological politics (Hyperion).
+- Revolutionary definition explicitly includes overthrow OR liberation from an imperial order. Record future possible subdivision when capacity/evidence warrants it: pre-collapse/anti-imperial revolts versus pure revolutions.
+- Space Succession concerns succession of political orders after imperial collapse/fracture, not dynastic heirs.
+- Portrait A/B sheets sent to Gustav through main; awaiting five-letter picks before wiring and deployment.
