@@ -1034,3 +1034,8 @@
 - #685 The Book of Three HELD at full Quest fantasy. Macmillan grounds the five-novel Chronicles of Prydain in an invented Welsh-inspired land, Taran's journey to heroism and an epic good/evil struggle; root-down it reaches Quest fantasy, now closed at 10 pending sourced split. No sibling leaf fits and pure-parent rule prevents direct Epic placement.
 - #686 The Breast -> Atemporal -> Fabulation -> Body myth (2->3). SFE explicitly calls Roth's literal giant-breast transformation Fabulation/Absurdist SF; Penguin calls it fantasy reworking Kafka through body, desire and existential meaninglessness. Transformed body is the novella's whole reality/argument. Official Penguin cover inspected.
 - Gate 246 nodes / 680 visible works / refs consistent. Progress next=687, processed=686, added=537.
+
+## 2026-09-21 12:42 CEST - intake 687-688
+- #687 The Breath of the Sun HELD at full Quest fantasy. Aqueduct/PW ground a secondary-world mountain pilgrimage and blasphemous summit expedition; SFE calls it equipoisal fabulation/fantasy/self-parodying SF and notes the summit extends into space and technology may reach it. Root-down the invented-world journey and summit goal reach Quest fantasy; no sibling is better, and Quest is closed at 10.
+- #688 The Bridge -> Atemporal -> Fabulation -> Inner space -> Psychogeographic fabulation (3->4). Banks grounds a comatose man's vast surreal bridge-world where dream/fantasy, past/future and voices fuse and explicitly credits Lanark; SFE calls the Bridge a matrix of his life. Impossible place externalizes damaged psyche and desire to remain unconscious. Official author-site cover inspected.
+- Gate 246 nodes / 681 visible works / refs consistent. Progress next=689, processed=688, added=538.
