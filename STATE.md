@@ -1029,3 +1029,8 @@
 - #683 The Book of Koli -> complete Rampart trilogy in Ruined Earth (8->9). SFE explicitly sets it far after civilization-ending Holocaust: balkanized successor terrain, buried technology treated as magic, ancient AI; Hachette adds engineered deadly nature and lost London tech. Remote inherited ruins govern over immediate survival. Three official Hachette covers inspected.
 - #684 The Book of Lamps and Banners EXCLUDED as predominantly non-speculative crime. Hachette markets it as a hard-boiled psychological thriller/amateur-sleuth hunt; the manuscript's power is only rumored. SFE says the wider Cass Neary series gradually develops uncannily prescient responses, but that marginal thread does not make this candidate's governing engine speculative. Per mixed-oeuvre rule, no card.
 - Gate 246 nodes / 679 visible works / refs consistent. Progress next=685, processed=684, added=536.
+
+## 2026-09-21 12:12 CEST - intake 685-686
+- #685 The Book of Three HELD at full Quest fantasy. Macmillan grounds the five-novel Chronicles of Prydain in an invented Welsh-inspired land, Taran's journey to heroism and an epic good/evil struggle; root-down it reaches Quest fantasy, now closed at 10 pending sourced split. No sibling leaf fits and pure-parent rule prevents direct Epic placement.
+- #686 The Breast -> Atemporal -> Fabulation -> Body myth (2->3). SFE explicitly calls Roth's literal giant-breast transformation Fabulation/Absurdist SF; Penguin calls it fantasy reworking Kafka through body, desire and existential meaninglessness. Transformed body is the novella's whole reality/argument. Official Penguin cover inspected.
+- Gate 246 nodes / 680 visible works / refs consistent. Progress next=687, processed=686, added=537.
