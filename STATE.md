@@ -1024,3 +1024,8 @@
 - #681 The Book of Form and Emptiness -> Magic realism -> Sensory magic realism (2->3). PRH/Ozeki ground contemporary grief, hoarding, school and library life in Benny's impossible hearing of manufactured objects' emotional voices, including a Book narrating his life. Impossible perception reveals hidden knowledge; official PRH cover inspected.
 - #682 The Book of Hidden Things -> Magic realism -> Ontological magic realism (2->3). PRH/PW ground contemporary Puglia crime and friendship alongside miraculous healing, an arcane manuscript and a hidden realm; Dimitri says he used his own world with magic as a base note. Supernatural truth and delusion deliberately remain in competition. Official PRH cover inspected.
 - Gate 246 nodes / 678 visible works / refs consistent. Progress next=683, processed=682, added=535.
+
+## 2026-09-21 11:45 CEST - intake 683-684
+- #683 The Book of Koli -> complete Rampart trilogy in Ruined Earth (8->9). SFE explicitly sets it far after civilization-ending Holocaust: balkanized successor terrain, buried technology treated as magic, ancient AI; Hachette adds engineered deadly nature and lost London tech. Remote inherited ruins govern over immediate survival. Three official Hachette covers inspected.
+- #684 The Book of Lamps and Banners EXCLUDED as predominantly non-speculative crime. Hachette markets it as a hard-boiled psychological thriller/amateur-sleuth hunt; the manuscript's power is only rumored. SFE says the wider Cass Neary series gradually develops uncannily prescient responses, but that marginal thread does not make this candidate's governing engine speculative. Per mixed-oeuvre rule, no card.
+- Gate 246 nodes / 679 visible works / refs consistent. Progress next=685, processed=684, added=536.
