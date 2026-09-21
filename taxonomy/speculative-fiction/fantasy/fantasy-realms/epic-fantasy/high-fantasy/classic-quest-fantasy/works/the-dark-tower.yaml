@@ -1,0 +1,27 @@
+id: the-dark-tower
+title: The Dark Tower
+authors: [Stephen King]
+first_published: 1982
+last_published: 2012
+canonical_genre: classic-quest-fantasy
+placement_status: accepted
+placement_rationale: >-
+  Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> High fantasy -> Quest fantasy -> Classic quest fantasy. SFE says the Fantasy Westerns increasingly take on a quest structure distinct from their early Western topoi, crossing a post-Holocaust landscape with mythic charge; King's official site centers Roland's journey across Mid-World to save the Dark Tower, heart of all worlds. Its fellowship, long secondary-world journey, ancient threat and world-shaping stakes are the classic quest template, while Western and wasteland textures are modes rather than the governing branch.
+classification_sources:
+  - https://sf-encyclopedia.com/entry/king_stephen
+  - https://stephenking.com/DarkTower/
+cover_curation:
+  status: complete
+  source: Stephen King official site coordinated fronts
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-21'
+  review_method: one official complete-series pass
+books:
+  - {title: The Gunslinger, first_published: 1982, cover_url: cover-the-gunslinger.webp}
+  - {title: The Drawing of the Three, first_published: 1987, cover_url: cover-the-drawing-of-the-three.webp}
+  - {title: The Waste Lands, first_published: 1991, cover_url: cover-the-waste-lands.webp}
+  - {title: Wizard and Glass, first_published: 1997, cover_url: cover-wizard-and-glass.webp}
+  - {title: The Wind Through the Keyhole, first_published: 2012, cover_url: cover-the-wind-through-the-keyhole.webp}
+  - {title: Wolves of the Calla, first_published: 2003, cover_url: cover-wolves-of-the-calla.webp}
+  - {title: Song of Susannah, first_published: 2004, cover_url: cover-song-of-susannah.webp}
+  - {title: The Dark Tower, first_published: 2004, cover_url: cover-the-dark-tower-vii.webp}
