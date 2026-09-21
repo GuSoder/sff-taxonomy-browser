@@ -1065,3 +1065,8 @@
 - Released held #685 The Book of Three as complete five-book Chronicles of Prydain -> Classic quest fantasy (5->6): Taran maturation, fellowship, ancient evil, world stakes. Complete series Open Library cover pass. Drive https://drive.google.com/file/d/1oA2pFQqTAOSnY0XZ8OyifhYxFgLUZL-q/view?usp=drivesdk&authuser=gusoder%40gmail.com
 - Released held #687 The Breath of the Sun -> Revisionist quest fantasy (4->5): sacred summit pilgrimage interrogates faith, truth, exploration and heroic conquest. Official Aqueduct cover inspected. Drive https://drive.google.com/file/d/11rcW3ahAVy96ln9iy4EmFq4snLLhtWJl/view?usp=drivesdk&authuser=gusoder%40gmail.com
 - Gate 254 nodes / 686 visible works / refs consistent. Progress next=691, processed=690, added=543. Commit b740353 pushed; Pages propagation pending fresh pixel closeout.
+
+## 2026-09-21 14:09 CEST - intake 691-692
+- #691 The Buried Giant -> Historical fantasy -> Period fantasy -> Celtic fantasy (2->3). SFE/PRH place its memory quest in post-Arthurian Britain amid Britons, Saxons, Gawain, ogres and a dragon-induced amnesia. The Celtic-British legendary-historical stage governs over quest form and memory allegory. Official PRH cover inspected.
+- #692 The Butcher Boy EXCLUDED as non-speculative literary fiction. Pan Macmillan, PRH and Booker describe a 1960s small-town Irish stream-of-consciousness descent into madness and murder; the monstrous language and unstable voice are psychological, with no impossible event or speculative world claim. No card.
+- Gate 254 nodes / 687 visible works / refs consistent. Progress next=693, processed=692, added=544.
