@@ -1,0 +1,15 @@
+id: the-first-law
+title: The First Law Trilogy
+authors: [Joe Abercrombie]
+first_published: 2006
+canonical_genre: court-spies
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Court spies. Hachette grounds a complete trilogy of murderous conspiracies, treason investigation at the rotten heart of government, feuds, torture and brewing war. The insider conspiracy/inquisitor engine is more specific than dynasty or ruler-level statecraft.'
+classification_sources:
+- https://www.hachettebookgroup.com/series/joe-abercrombie/the-first-law-trilogy/
+- https://www.hbglibrary.com/titles/joe-abercrombie/the-blade-itself/9780316387316/
+books:
+- {title: The Blade Itself, first_published: 2006, cover_url: 'https://www.hbglibrary.com/wp-content/uploads/2026/02/9780316387316.jpg'}
+- {title: Before They Are Hanged, first_published: 2007, cover_url: 'https://www.hachettebookgroup.com/wp-content/uploads/2026/05/9780316610032.jpg'}
+- {title: Last Argument of Kings, first_published: 2008, cover_url: 'https://www.hachettebookgroup.com/wp-content/uploads/2026/05/9780316610070.jpg'}
+cover_curation: {status: complete, source: Hachette/Orbit, record_url: 'https://www.hachettebookgroup.com/series/joe-abercrombie/the-first-law-trilogy/', selected_url: 'https://www.hbglibrary.com/wp-content/uploads/2026/02/9780316387316.jpg', visually_reviewed_on: '2026-09-21', shows_english_title: true, display_eligible: true, candidates_visually_reviewed: 3, selection_rule: one-pass official trilogy review}
