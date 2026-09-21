@@ -1,0 +1,16 @@
+id: blacktongue
+title: Blacktongue
+authors: [Christopher Buehlman]
+first_published: 2021
+canonical_genre: caper-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy Realms -> Sword and Sorcery -> Caper fantasy. Macmillan and the author ground a thief indebted to the Takers Guild, trained in lock-picking, lying, traps and small magics, whose attempted roadside robbery launches the adventure. Although the journey is epic and the prequel broadens the goblin-war history, the sequence’s distinctive viewpoint is intimate criminal Sword-and-Sorcery adventure.'
+classification_sources:
+- https://us.macmillan.com/series/blacktongue
+- https://us.macmillan.com/books/9781250799975/theblacktonguethief/
+- https://us.macmillan.com/books/9781250887672/thedaughterswar/
+- https://christopherbuehlmanauthor.com/book/the-blacktongue-thief/
+books:
+- {title: The Blacktongue Thief, first_published: 2021, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250799975.jpg'}
+- {title: The Daughters' War, first_published: 2024, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250887672.jpg'}
+cover_curation: {status: complete, source: Macmillan, record_url: 'https://us.macmillan.com/series/blacktongue', selected_url: 'https://mpd-biblio-covers.imgix.net/9781250799975.jpg', visually_reviewed_on: '2026-09-21', shows_english_title: true, display_eligible: true, candidates_visually_reviewed: 2, selection_rule: one-pass official series review}
