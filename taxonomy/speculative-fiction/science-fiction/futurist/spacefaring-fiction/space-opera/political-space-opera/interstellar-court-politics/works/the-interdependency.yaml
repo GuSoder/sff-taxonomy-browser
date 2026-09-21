@@ -1,0 +1,23 @@
+id: the-interdependency
+title: The Interdependency
+authors: [John Scalzi]
+first_published: 2017
+last_published: 2020
+canonical_genre: interstellar-court-politics
+placement_status: accepted
+included_titles: [The Collapsing Empire, The Consuming Fire, The Last Emperox]
+placement_rationale: >-
+  Macmillan describes a collapsing interstellar travel network and a starship owner, scientist and Emperox racing to preserve political control across the colonies through political skulduggery. The imperial court and elite personal networks are the main arena, making Interstellar court politics the closest leaf.
+classification_sources:
+  - https://us.macmillan.com/series/theinterdependency
+  - https://sf-encyclopedia.com/entry/scalzi_john
+cover_curation:
+  status: complete
+  source: Open Library one-pass coordinated English fronts
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-21'
+  review_method: one-pass
+  selected_covers:
+    - {title: The Collapsing Empire, url: 'https://covers.openlibrary.org/b/id/8443364-L.jpg'}
+    - {title: The Consuming Fire, url: 'https://covers.openlibrary.org/b/id/8788885-L.jpg'}
+    - {title: The Last Emperox, url: 'https://covers.openlibrary.org/b/id/9423954-L.jpg'}
