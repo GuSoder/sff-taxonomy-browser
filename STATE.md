@@ -1058,3 +1058,10 @@
 - Gate 251 nodes / 683 visible works / refs consistent. Progress next=691, processed=690, added=540.
 - Drive YAML: The Bridge https://drive.google.com/file/d/16cejTKY19T6n59TK_9la_37bMhQRTxZU/view?usp=drivesdk&authuser=gusoder%40gmail.com ; Brilliant Death https://drive.google.com/file/d/1g3lu5XhjqeSfQ24pWVIYIJagg7ASWglA/view?usp=drivesdk&authuser=gusoder%40gmail.com
 - Deployment db641d1 fresh-load pixel verification passed: Dark fantasy visibly 7 fictions; Dynastic intrigues visibly 9 fictions, with covers rendering. Public leaves: https://gusoder.github.io/sff-taxonomy-browser/#dark-fantasy and https://gusoder.github.io/sff-taxonomy-browser/#dynastic-intrigues
+
+## 2026-09-21 14:02 CEST - Quest fantasy split and held-queue release
+- Quest fantasy is now a pure umbrella with locked complete partition: Classic quest fantasy 5, Revisionist quest fantasy 3, Fairytalesque quest fantasy 2. Portrait picks AAB installed as images 254-256.
+- Released held #661 Tess of the Road -> Revisionist quest fantasy (3->4): feminist/self-recovery road reframes who may be a quest hero and what victory means. Official PRH cover inspected. Drive https://drive.google.com/file/d/161ecv86O3CgwW4GbrFKb9qdxh9nfrrAH/view?usp=drivesdk&authuser=gusoder%40gmail.com
+- Released held #685 The Book of Three as complete five-book Chronicles of Prydain -> Classic quest fantasy (5->6): Taran maturation, fellowship, ancient evil, world stakes. Complete series Open Library cover pass. Drive https://drive.google.com/file/d/1oA2pFQqTAOSnY0XZ8OyifhYxFgLUZL-q/view?usp=drivesdk&authuser=gusoder%40gmail.com
+- Released held #687 The Breath of the Sun -> Revisionist quest fantasy (4->5): sacred summit pilgrimage interrogates faith, truth, exploration and heroic conquest. Official Aqueduct cover inspected. Drive https://drive.google.com/file/d/11rcW3ahAVy96ln9iy4EmFq4snLLhtWJl/view?usp=drivesdk&authuser=gusoder%40gmail.com
+- Gate 254 nodes / 686 visible works / refs consistent. Progress next=691, processed=690, added=543. Commit b740353 pushed; Pages propagation pending fresh pixel closeout.
