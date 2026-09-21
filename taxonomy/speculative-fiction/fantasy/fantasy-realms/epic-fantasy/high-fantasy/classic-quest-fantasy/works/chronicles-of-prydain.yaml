@@ -1,0 +1,15 @@
+id: chronicles-of-prydain
+title: The Chronicles of Prydain
+authors: [Lloyd Alexander]
+first_published: 1964
+canonical_genre: classic-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. Macmillan presents the five-book Prydain sequence as Taran’s journey from Assistant Pig-Keeper toward heroism through a Welsh-inspired secondary world and an epic good-versus-evil struggle. Fellowship, maturation, ancient evil and world-shaping stakes make it a direct classic quest descendant.'
+classification_sources: ['https://us.macmillan.com/series/thechroniclesofprydain','https://us.macmillan.com/books/9780805080483/thebookofthree/']
+books:
+- {title: The Book of Three, first_published: 1964, cover_url: 'https://covers.openlibrary.org/b/id/580388-L.jpg'}
+- {title: The Black Cauldron, first_published: 1965, cover_url: 'https://covers.openlibrary.org/b/id/580387-L.jpg'}
+- {title: The Castle of Llyr, first_published: 1966, cover_url: 'https://covers.openlibrary.org/b/id/8311440-L.jpg'}
+- {title: Taran Wanderer, first_published: 1967, cover_url: 'https://covers.openlibrary.org/b/id/747261-L.jpg'}
+- {title: The High King, first_published: 1968, cover_url: 'https://covers.openlibrary.org/b/id/677680-L.jpg'}
+cover_curation: {status: complete, source: Open Library, selected_url: 'https://covers.openlibrary.org/b/id/580388-L.jpg', shows_english_title: true, visually_reviewed_on: '2026-09-21', candidates_visually_reviewed: 5, review_method: one-pass complete-series review}
