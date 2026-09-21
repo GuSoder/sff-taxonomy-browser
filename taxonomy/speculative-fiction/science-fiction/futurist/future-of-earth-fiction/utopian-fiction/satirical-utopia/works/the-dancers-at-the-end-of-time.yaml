@@ -1,0 +1,27 @@
+id: the-dancers-at-the-end-of-time
+title: The Dancers at the End of Time
+authors: [Michael Moorcock]
+first_published: 1972
+last_published: 1976
+canonical_genre: satirical-utopia
+placement_status: accepted
+placement_rationale: >-
+  Root-down: Science fiction -> Futurist -> Future of Earth fiction -> Utopian fiction -> Satirical Utopia. SFE describes godlike far-future humans seeking diversion from limitless existence, with a tone from extravagant satire to sentimentality; Gollancz calls the decaying society a place where anything is possible and morality meaningless, built as sharp fin-de-siècle satire. Its post-scarcity social design is used to test morality, love, boredom and decadence, making Satirical Utopia closer than Future history, which requires a sustained historical course.
+classification_sources:
+  - https://sf-encyclopedia.com/entry/moorcock_michael
+  - https://sf-encyclopedia.com/entry/far_future
+  - https://store.gollancz.co.uk/products/the-dancers-at-the-end-of-time
+cover_curation:
+  status: complete
+  source: Avon coordinated English trilogy fronts, documented by Black Gate
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-21'
+  review_method: one complete-series search, single-pass flat-front review
+  selected_covers:
+    - {title: An Alien Heat, url: cover-an-alien-heat.webp}
+    - {title: The Hollow Lands, url: cover-the-hollow-lands.webp}
+    - {title: The End of All Songs, url: cover-the-end-of-all-songs.webp}
+books:
+  - {title: An Alien Heat, first_published: 1972, cover_url: cover-an-alien-heat.webp}
+  - {title: The Hollow Lands, first_published: 1974, cover_url: cover-the-hollow-lands.webp}
+  - {title: The End of All Songs, first_published: 1976, cover_url: cover-the-end-of-all-songs.webp}
