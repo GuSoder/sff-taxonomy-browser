@@ -1,0 +1,48 @@
+id: cosmere
+title: The Cosmere
+authors: [Brandon Sanderson]
+first_published: 2005
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: 'Gustav’s 2026-09-21 ruling merges the separate Mistborn and Stormlight Archive cards into their shared Cosmere universe. Sanderson’s official definition calls the Cosmere one interconnected universe of epic-fantasy worlds, characters and cultures; his official Books page groups Stormlight, both Mistborn eras, Cosmere standalones, White Sand and Arcanum Unbounded beneath it. Each world has an engineered, learnable magic system governed by the shared underlying cosmology, so Hard magic remains the governing leaf.'
+classification_sources:
+- https://www.brandonsanderson.com/pages/what-is-the-cosmere
+- https://www.brandonsanderson.com/pages/books-and-art
+- https://www.brandonsanderson.com/pages/the-stormlight-archive-series
+- https://www.brandonsanderson.com/pages/the-mistborn-saga-the-original-trilogy
+- https://www.brandonsanderson.com/pages/the-mistborn-saga-the-wax-wayne-series
+- https://www.brandonsanderson.com/pages/standalones-cosmere
+- https://www.brandonsanderson.com/pages/white-sand-graphic-novels
+- https://www.brandonsanderson.com/pages/collections-cosmere
+books:
+- {title: Elantris, first_published: 2005, cover_url: 'https://mpd-biblio-covers.imgix.net/9780765350374.jpg'}
+- {title: 'Mistborn: The Final Empire', first_published: 2006, cover_url: 'https://covers.openlibrary.org/b/id/15158368-L.jpg'}
+- {title: The Well of Ascension, first_published: 2007, cover_url: 'https://covers.openlibrary.org/b/id/14658341-L.jpg'}
+- {title: The Hero of Ages, first_published: 2008, cover_url: 'https://covers.openlibrary.org/b/id/14658094-L.jpg'}
+- {title: Warbreaker, first_published: 2009, cover_url: 'https://mpd-biblio-covers.imgix.net/9780765320308.jpg'}
+- {title: The Way of Kings, first_published: 2010, cover_url: 'https://covers.openlibrary.org/b/id/14658316-L.jpg'}
+- {title: The Alloy of Law, first_published: 2011, cover_url: 'https://mpd-biblio-covers.imgix.net/9781429994897.jpg'}
+- {title: Words of Radiance, first_published: 2014, cover_url: 'https://covers.openlibrary.org/b/id/14658334-L.jpg'}
+- {title: Shadows of Self, first_published: 2015, cover_url: 'https://mpd-biblio-covers.imgix.net/9780765378569.jpg'}
+- {title: The Bands of Mourning, first_published: 2016, cover_url: 'https://mpd-biblio-covers.imgix.net/9780765378583.jpg'}
+- {title: 'Arcanum Unbounded: The Cosmere Collection', first_published: 2016, cover_url: 'https://mpd-biblio-covers.imgix.net/9780765391186.jpg'}
+- {title: Edgedancer, first_published: 2016, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250166548.jpg'}
+- {title: Oathbringer, first_published: 2017, cover_url: 'https://covers.openlibrary.org/b/id/14658111-L.jpg'}
+- {title: 'White Sand Omnibus', first_published: 2019, cover_url: 'https://cdn11.bigcommerce.com/s-fle6qzf7oq/images/stencil/608x608/products/57689/57462/TNWhiteSandOmnibusTPBcvr__89835.1772816124.jpg?c=1'}
+- {title: Dawnshard, first_published: 2020, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250850553.jpg'}
+- {title: Rhythm of War, first_published: 2020, cover_url: 'https://covers.openlibrary.org/b/id/14658361-L.jpg'}
+- {title: Mistborn: Secret History, first_published: 2021, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250859143.jpg'}
+- {title: The Lost Metal, first_published: 2022, cover_url: 'https://mpd-biblio-covers.imgix.net/9780765391193.jpg'}
+- {title: Tress of the Emerald Sea, first_published: 2023, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250899668.jpg'}
+- {title: Yumi and the Nightmare Painter, first_published: 2023, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250899699.jpg'}
+- {title: The Sunlit Man, first_published: 2023, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250899712.jpg'}
+- {title: Wind and Truth, first_published: 2024, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250319180.jpg'}
+- {title: Isles of the Emberdark, first_published: 2026, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250415394.jpg'}
+cover_curation:
+  status: complete
+  source: Brandon Sanderson official bibliography; Tor/Dynamite/Open Library fronts
+  record_url: https://www.brandonsanderson.com/pages/books-and-art
+  selected_url: https://covers.openlibrary.org/b/id/15158368-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-21'
+  note: 'Single-pass review of 23 published Cosmere volumes. Future titles, including The Fires of December (on sale December 8, 2026), Elsecaller and King Lopen, are excluded until publication. Arcanum Unbounded is retained as the official collection volume even where separately published novellas also have their own entries.'
