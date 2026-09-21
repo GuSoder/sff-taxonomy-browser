@@ -1071,3 +1071,8 @@
 - #692 The Butcher Boy EXCLUDED as non-speculative literary fiction. Pan Macmillan, PRH and Booker describe a 1960s small-town Irish stream-of-consciousness descent into madness and murder; the monstrous language and unstable voice are psychological, with no impossible event or speculative world claim. No card.
 - Gate 254 nodes / 687 visible works / refs consistent. Progress next=693, processed=692, added=544.
 - Deployment 9dcdd86 fresh-load pixel verification passed: Celtic fantasy visibly 3 fictions with correct breadcrumb/portrait and rendered grid. Public leaf https://gusoder.github.io/sff-taxonomy-browser/#celtic-fantasy
+
+## 2026-09-21 14:41 CEST - intake 693-694
+- #693 The Cabin at the End of the World EXCLUDED as speculative ambiguity insufficient for this taxonomy. Harper and the agency call it psychological/home-invasion horror; its intruders claim a family sacrifice will stop the apocalypse, but the novel preserves the possibility of delusion and supplies no authoritative supernatural mechanism. Physical disasters on television do not establish causation. No card.
+- #694 The Castle -> Atemporal -> Fabulation -> Classic Fabulation (3->4). SFE calls Kafka’s unfinished novel Absurdist SF: K assaults the fog-shrouded workings of the Castle while the world becomes an endless office of transaction. Its inaccessible authority/bureaucracy composes reality itself. Official PRH cover inspected.
+- Gate 254 nodes / 688 visible works / refs consistent. Progress next=695, processed=694, added=545.
