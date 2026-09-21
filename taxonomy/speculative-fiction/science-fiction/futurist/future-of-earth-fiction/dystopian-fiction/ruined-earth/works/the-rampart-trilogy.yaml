@@ -1,0 +1,16 @@
+id: the-rampart-trilogy
+title: The Rampart Trilogy
+authors: [M. R. Carey]
+first_published: 2020
+canonical_genre: ruined-earth
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Future of Earth -> Dystopian fiction -> Ruined Earth. SFE sets the complete sequence in a far-future, balkanized Earth long after a civilization-ending Holocaust, where buried technology is treated as magic and an ancient AI aids an exile. Hachette grounds deadly engineered forests, isolated successor villages and a journey toward the lost technology of London. The catastrophe is remote history and its relics structure successor societies, so Ruined Earth beats Post-Holocaust Survival.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/carey_mike
+- https://www.hachettebookgroup.com/series/m-r-carey/the-rampart-trilogy/
+- https://www.hbgacademic.com/titles/m-r-carey/the-book-of-koli/9780316477536/
+books:
+- {title: The Book of Koli, first_published: 2020, cover_url: 'https://www.hbgacademic.com/wp-content/uploads/2020/04/9780316477536.jpg'}
+- {title: The Trials of Koli, first_published: 2020, cover_url: 'https://www.hbgacademic.com/wp-content/uploads/2024/01/9780316458665.jpg'}
+- {title: The Fall of Koli, first_published: 2021, cover_url: 'https://www.hachettebookgroup.com/wp-content/uploads/2024/11/9780316458726.jpg'}
+cover_curation: {status: complete, source: Hachette Book Group, record_url: 'https://www.hachettebookgroup.com/series/m-r-carey/the-rampart-trilogy/', selected_url: 'https://www.hbgacademic.com/wp-content/uploads/2020/04/9780316477536.jpg', visually_reviewed_on: '2026-09-21', shows_english_title: true, display_eligible: true, candidates_visually_reviewed: 3, selection_rule: one-pass official series review}
