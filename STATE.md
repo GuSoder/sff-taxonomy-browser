@@ -1106,3 +1106,4 @@
 - Terminal wastelands is a flagged taxonomy coinage and condition-based complement: mixed-cause or unspecified collapses whose defining condition is traversing/enduring the devastated landscape rather than one named cause. Recovery may exist, but the wasteland remains governing.
 - Installed AAA portraits 257-259, each cropped from the visually inspected left panel and resized 1024x1536 WebP.
 - Verifier 257 nodes / 692 visible works / refs consistent. Deployment pending.
+- Deployment aa6db24 fresh-load pixel verification passed: pure umbrella visibly has 3 subgenres; Post-pandemic 3, Post-nuclear 2, Terminal wastelands 5. Correct AAA portraits, breadcrumbs and cover grids render on all three leaves. Public umbrella https://gusoder.github.io/sff-taxonomy-browser/#post-holocaust-survival
