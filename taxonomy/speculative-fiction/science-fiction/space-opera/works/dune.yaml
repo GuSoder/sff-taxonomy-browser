@@ -3,14 +3,12 @@ title: Dune
 authors:
 - Frank Herbert
 first_published: 1965
-canonical_genre: space-opera
+canonical_genre: evergreen-space-opera
 placement_status: accepted
-placement_rationale: Galactic politics, dynastic conflict and messianic revolution
-  across an interstellar empire make space opera the strongest single home; ecology
-  is central but not a competing established leaf here.
+placement_rationale: 'Candidate #731 The Dune Chronicles deduped into this complete Frank Herbert six-book saga. SFE treats Dune as a lasting space-opera landmark; PRH confirms the six original novels. Galactic politics, dynastic conflict and messianic revolution span an interstellar empire, and its perpetual readership makes Evergreen space opera exact.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/dune_series
-- https://www.britannica.com/topic/Dune-by-Herbert
+- https://www.penguinrandomhouse.com/books/667073/frank-herberts-dune-saga-6-book-boxed-set-by-frank-herbert/
 cover_curation:
   status: ranked
   source: Gollancz / Hachette UK
@@ -18,15 +16,30 @@ cover_curation:
   image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-dune-5-163.jpg
   cover_id: ISBN-9780575081505
   beauty_score: 8.5
-  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover
-    artwork over photos of physical book objects
-  beauty_rationale: Cloaked figures climb a vast windblown dune beneath a blazing
-    amber sky, their stillsuits, hooks, and trailing fabric rendered in rich painterly
-    detail and dramatic backlight across the flat front.
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Cloaked figures climb a vast windblown dune beneath a blazing amber sky, their stillsuits, hooks, and trailing fabric rendered in rich painterly detail and dramatic backlight across the flat front.
   visually_reviewed_on: '2026-09-12'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 11
-  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
-    preferring flat front-cover art over photos of physical book objects
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
   title_overlay: false
+books:
+- title: Dune
+  first_published: 1965
+  cover_url: https://covers.openlibrary.org/b/isbn/0450042308-L.jpg
+- title: Dune Messiah
+  first_published: 1969
+  cover_url: https://covers.openlibrary.org/b/isbn/9780441172696-L.jpg
+- title: Children of Dune
+  first_published: 1976
+  cover_url: https://covers.openlibrary.org/b/isbn/9780425071793-L.jpg
+- title: God Emperor of Dune
+  first_published: 1981
+  cover_url: https://covers.openlibrary.org/b/id/6711531-L.jpg
+- title: Heretics of Dune
+  first_published: 1984
+  cover_url: https://covers.openlibrary.org/b/isbn/9780425076699-L.jpg
+- title: 'Chapterhouse: Dune'
+  first_published: 1985
+  cover_url: https://covers.openlibrary.org/b/isbn/0575035765-L.jpg
