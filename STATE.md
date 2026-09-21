@@ -1045,3 +1045,9 @@
 - Revolutionary definition explicitly includes overthrow OR liberation from an imperial order. Record future possible subdivision when capacity/evidence warrants it: pre-collapse/anti-imperial revolts versus pure revolutions.
 - Space Succession concerns succession of political orders after imperial collapse/fracture, not dynastic heirs.
 - Portrait A/B sheets sent to Gustav through main; awaiting five-letter picks before wiring and deployment.
+
+## 2026-09-21 13:38 CEST - Political space opera partition deployed
+- Gustav selected portrait string ABBBB. Wired 249 Interstellar court A, 250 Revolutionary B, 251 Post-scarcity B, 252 Space Succession B, 253 Cosmological B; all resized 1024x1536 WebP.
+- Political space opera is now a pure five-child umbrella; exact partition 2/3/1/2/1 and all nine prior cards preserved exactly once. Commit a8d3109 pushed; public deployment live.
+- Fresh independent page loads and actual pixels verified all five portraits, breadcrumbs and leaf titles. Public umbrella: https://gusoder.github.io/sff-taxonomy-browser/#political-space-opera
+- Verifier 251 nodes / 681 visible works / refs consistent.
