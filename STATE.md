@@ -1100,3 +1100,9 @@
 - #700 The Citadel of Fear -> Supernatural dark -> Supernatural fiction -> Ancient tormentors -> Elder gods (3->4). Under Gustav's 2026-09-19 magic/SF dividing rule, actual gods and dark magic make it Fantasy rather than Lost-world SF. Flame Tree grounds the hidden Aztec city, disturbed ancient gods, nightmare creatures and dark magic unleashed into the modern world; the ancient worshipped being's intrusion drives the horror. Official Flame Tree cover inspected.
 - Gate 254 nodes / 692 visible works / refs consistent. Progress next=701, processed=700, added=549.
 - Deployment 657d59c fresh-load pixel/DOM verification passed: Elder gods visibly 4 fictions; The Citadel of Fear cover loaded 162x250 with correct breadcrumb/portrait. Public leaf https://gusoder.github.io/sff-taxonomy-browser/#elder-gods
+
+## 2026-09-21 16:35 CEST - Post-Holocaust Survival split AAA
+- Gustav selected AAA. Converted Post-Holocaust Survival to a pure three-child umbrella: Post-pandemic survival 3 (Earth Abides, I Am Legend, Station Eleven); Post-nuclear survival 2 (Alas, Babylon, Dr. Bloodmoney); Terminal wastelands 5 (Lost Everything, The Road, These Prisoning Hills, In the Country of Last Things, Shelter).
+- Terminal wastelands is a flagged taxonomy coinage and condition-based complement: mixed-cause or unspecified collapses whose defining condition is traversing/enduring the devastated landscape rather than one named cause. Recovery may exist, but the wasteland remains governing.
+- Installed AAA portraits 257-259, each cropped from the visually inspected left panel and resized 1024x1536 WebP.
+- Verifier 257 nodes / 692 visible works / refs consistent. Deployment pending.
