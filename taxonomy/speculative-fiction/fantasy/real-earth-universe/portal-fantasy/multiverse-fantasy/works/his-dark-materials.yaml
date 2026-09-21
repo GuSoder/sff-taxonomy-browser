@@ -1,19 +1,19 @@
+id: his-dark-materials
 title: His Dark Materials
-author: Philip Pullman
-year: 1995
-intake_index: 188
-leaf: speculative-fiction/fantasy/portal-fantasy/eldrich-rifts
-series: His Dark Materials (3 books)
-genre_grounding: >-
-  SFE describes an Alternate Cosmos and the trilogy's travel among parallel
-  worlds through openings cut by the subtle knife. Crossings between
-  self-contained worlds structure the whole sequence, matching Portal fantasy.
-cover:
-  source: Open Library covers 15172988, 12614549, 12613246
-  url: https://covers.openlibrary.org/b/id/15172988-L.jpg
-  shows_english_title: true
-  beauty: 8.5
-sources:
-  - https://sf-encyclopedia.com/entry/pullman_philip
-  - https://sf-encyclopedia.com/entry/parallel_worlds
+canonical_genre: multiverse-fantasy
+authors: [Philip Pullman]
+first_published: 1995
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real Earth Universe -> Portal fantasy -> Eldrich rifts -> Multiverse fantasy. SFE describes the two conjoined trilogies as one alternate-cosmos sequence: openings between parallel worlds and Dust structure His Dark Materials, while The Book of Dust narratively surrounds it and returns to Lyra, daemons, Dust and the same universe. Candidate 680 The Secret Commonwealth is therefore deduped into this complete six-novel shared-world card.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/pullman_philip
+- https://www.penguinrandomhouse.com/books/246698/the-book-of-dust-the-secret-commonwealth-book-of-dust-volume-2-by-philip-pullman/
+books:
+- {title: Northern Lights, first_published: 1995, cover_url: 'https://covers.openlibrary.org/b/id/15172988-L.jpg'}
+- {title: The Subtle Knife, first_published: 1997, cover_url: 'https://covers.openlibrary.org/b/id/12614549-L.jpg'}
+- {title: The Amber Spyglass, first_published: 2000, cover_url: 'https://covers.openlibrary.org/b/id/12613246-L.jpg'}
+- {title: 'The Book of Dust: La Belle Sauvage', first_published: 2017, cover_url: 'https://images.penguinrandomhouse.com/cover/9780375815300'}
+- {title: 'The Book of Dust: The Secret Commonwealth', first_published: 2019, cover_url: 'https://images3.penguinrandomhouse.com/smedia/9780553510706'}
+- {title: 'The Book of Dust: The Rose Field', first_published: 2025, cover_url: 'https://images2.penguinrandomhouse.com/smedia/9780593306666'}
+cover_curation: {status: complete, selected_url: 'https://covers.openlibrary.org/b/id/15172988-L.jpg', visually_reviewed_on: '2026-09-21', shows_english_title: true, display_eligible: true, candidates_visually_reviewed: 6, selection_rule: one-pass series review}
 partition_note: Repartitioned from Eldrich rifts under Gustav's 2026-09-20 ruling (Multiverse fantasy = many-worlds system; Otherworld fantasy = one hidden world revealed).
