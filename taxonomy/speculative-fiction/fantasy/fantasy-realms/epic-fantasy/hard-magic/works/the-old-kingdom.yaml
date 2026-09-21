@@ -10,5 +10,10 @@ classification_sources:
 - http://oldkingdom.com.au/extras_bells.html
 - https://strangehorizons.com/wordpress/non-fiction/reviews/seven-silver-bells-against-darkness-and-death-garth-nixs-abhorsen-trilogy/
 books:
-- {title: Sabriel, first_published: 1995, cover_url: 'https://covers.openlibrary.org/b/id/13165306-L.jpg'}
-cover_curation: {status: partial, source: Open Library, selected_url: 'https://covers.openlibrary.org/b/id/13165306-L.jpg', cover_id: OL-13165306, shows_english_title: true, visually_reviewed_on: '2026-09-20', note: 'Candidate entered as Sabriel; remaining series volumes can be completed by the cover audit.'}
+- {title: Sabriel, first_published: 1995, cover_url: 'https://www.garthnix.com/wp-content/uploads/2022/01/us-cover-sabriel-pichi.jpg'}
+- {title: Lirael, first_published: 2001, cover_url: 'https://www.garthnix.com/wp-content/uploads/2022/01/us-cover-lireal-pichi.jpg'}
+- {title: Abhorsen, first_published: 2003, cover_url: 'https://www.garthnix.com/wp-content/uploads/2022/01/us-cover-abhorsen-pichi-1.jpg'}
+- {title: Clariel, first_published: 2014, cover_url: 'https://www.garthnix.com/wp-content/uploads/2022/01/us-cover-clariel-pichi.jpg'}
+- {title: Goldenhand, first_published: 2016, cover_url: 'https://www.garthnix.com/wp-content/uploads/2022/01/us-cover-goldenhand-pichi.jpg'}
+- {title: Terciel & Elinor, first_published: 2021, cover_url: 'https://www.garthnix.com/wp-content/uploads/2022/01/us-cover-terciel-and-elinor-pichi.jpg'}
+cover_curation: {status: complete, source: Garth Nix official site, record_url: 'https://www.garthnix.com/books/the-old-kingdom/', selected_url: 'https://www.garthnix.com/wp-content/uploads/2022/01/us-cover-sabriel-pichi.jpg', shows_english_title: true, visually_reviewed_on: '2026-09-21', note: 'Single-pass official series review completed all six published core novels with one English front per book.'}
