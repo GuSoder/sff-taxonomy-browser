@@ -1088,3 +1088,9 @@
 - #697 The Centauri Device -> Classic space opera -> Pulp -> Golden-age space opera (9->10). SFE calls it darkly sardonic/disgruntled Space Opera and Hachette grounds a lowlife captain, vicious space war and sentient doomsday bomb; its 1974 attack on first-wave conventions belongs at that tradition’s late edge, before New Space Opera. Cover inspected.
 - #698 The Changeling (Victor LaValle) -> Urban fantasy -> Fae founders (3->4). PRH calls it a dark fairy tale of New York; Time/USA Today ground witches, trolls and changeling folklore remade through parenting, race and internet life. Ancient Faerie child-substitution surviving in modern NYC governs. Official PRH cover inspected.
 - Gate 254 nodes / 691 visible works / refs consistent. Progress next=699, processed=698, added=548. Local only pending GitHub device auth. Golden-age space opera reached 10 and now requires a sourced complete partition proposal before another addition.
+
+## 2026-09-21 16:08 CEST - recovered-auth deployment live
+- GitHub device authentication completed as GuSoder; pushed queue durability and intake commits through e0d41d2.
+- Fresh independent loads and screenshots verified Haunted House at 10 with The Castle of Otranto cover loaded 293x450; Golden Age space opera at 10 with The Centauri Device cover loaded 180x203; Fae Founders at 4 with The Changeling cover loaded 292x450; Multiverse fantasy at 4 and The Incomplete Enchanter detail at 3 books with The Castle of Iron cover loaded 180x243.
+- Public leaves: https://gusoder.github.io/sff-taxonomy-browser/#haunted-house ; https://gusoder.github.io/sff-taxonomy-browser/#golden-age-space-opera ; https://gusoder.github.io/sff-taxonomy-browser/#fae-founders ; https://gusoder.github.io/sff-taxonomy-browser/#multiverse-fantasy/the-incomplete-enchanter
+- Verifier remains 254 nodes / 691 visible works / refs consistent. Progress next=699, processed=698, added=548.
