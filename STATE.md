@@ -1019,3 +1019,8 @@
 - #679 The Bone Shard Daughter -> complete The Drowning Empire trilogy in Political fantasy -> Court intrigue -> Dynastic intrigues (7->8). Hachette grounds bone-shard constructs enforcing imperial rule, a disinherited heir reclaiming the throne, revolution, weak alliances, rebel armies and threatened Sukai dynasty. Magic supplies the means; contested legitimacy/ruling-house survival governs. Three official covers inspected.
 - #680 The Secret Commonwealth DEDUPED into and completed His Dark Materials shared-world card: added the complete Book of Dust trilogy (La Belle Sauvage, The Secret Commonwealth, The Rose Field) to the existing original trilogy. SFE explicitly calls them two conjoined series in one universe. Three Book of Dust publisher covers inspected.
 - Gate 246 nodes / 676 visible works / refs consistent. Progress next=681, processed=680, added=533.
+
+## 2026-09-21 11:13 CEST - intake 681-682
+- #681 The Book of Form and Emptiness -> Magic realism -> Sensory magic realism (2->3). PRH/Ozeki ground contemporary grief, hoarding, school and library life in Benny's impossible hearing of manufactured objects' emotional voices, including a Book narrating his life. Impossible perception reveals hidden knowledge; official PRH cover inspected.
+- #682 The Book of Hidden Things -> Magic realism -> Ontological magic realism (2->3). PRH/PW ground contemporary Puglia crime and friendship alongside miraculous healing, an arcane manuscript and a hidden realm; Dimitri says he used his own world with magic as a base note. Supernatural truth and delusion deliberately remain in competition. Official PRH cover inspected.
+- Gate 246 nodes / 678 visible works / refs consistent. Progress next=683, processed=682, added=535.
