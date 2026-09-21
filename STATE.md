@@ -1051,3 +1051,8 @@
 - Political space opera is now a pure five-child umbrella; exact partition 2/3/1/2/1 and all nine prior cards preserved exactly once. Commit a8d3109 pushed; public deployment live.
 - Fresh independent page loads and actual pixels verified all five portraits, breadcrumbs and leaf titles. Public umbrella: https://gusoder.github.io/sff-taxonomy-browser/#political-space-opera
 - Verifier 251 nodes / 681 visible works / refs consistent.
+
+## 2026-09-21 13:41 CEST - intake 689-690
+- #689 The Bridge (J. S. Breukelaar) -> Supernatural and dark -> Dark fantasy (6->7). SFE grounds an escaped cult-created Monster/story-mediated horror; Meerkat explicitly calls the contemporary college/cult novel Dark Fantasy, supernatural and paranormal, with Mades, part-witch rescuer and necromancy. Official Meerkat cover inspected.
+- #690 The Brilliant Death -> complete two-book duet in Political fantasy -> Court intrigue -> Dynastic intrigues (8->9). PRH grounds five controlling families, poisoned patriarchs, heirs summoned by Vinalia's ruler, palace transformation/infiltration, then allied streghe against the dictatorlike Capo. Magic/gender transformation are deep themes; threats to ruling families and control of Vinalia govern the shared plot. Two official PRH covers inspected.
+- Gate 251 nodes / 683 visible works / refs consistent. Progress next=691, processed=690, added=540.
