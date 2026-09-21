@@ -1,16 +1,20 @@
-id: quicksilver
-title: Quicksilver
+id: the-baroque-cycle
+title: The Baroque Cycle
 authors:
 - Neal Stephenson
 first_published: 2003
 canonical_genre: secret-history
 placement_status: accepted
 placement_rationale: SFE stephenson_neal says the Baroque Cycle is couched as historical novels but does have fantastical elements - the possibly Immortal Enoch Root, who may be a Secret Master tasked with monitoring the creation of modernity; hidden fantastical truth beneath documented Enlightenment history, beside Declare and The Aegypt Cycle.
+books:
+- {title: Quicksilver, first_published: 2003, cover_url: 'https://covers.openlibrary.org/b/id/274243-L.jpg'}
+- {title: The Confusion, first_published: 2004, cover_url: 'https://sf-encyclopedia.com/gallery.php?id=Stephenson-Baroque2.jpg'}
+- {title: The System of the World, first_published: 2004, cover_url: 'https://sf-encyclopedia.com/gallery.php?id=Stephenson-Baroque3.jpg'}
 cover_curation:
-  status: ranked
+  status: complete
   selected_url: https://covers.openlibrary.org/b/id/274243-L.jpg
   shows_english_title: true
-  review_method: one-pass
+  review_method: one-pass official/SFE series review
 classification_source:
 - https://sf-encyclopedia.com/entry/stephenson_neal
 - https://en.wikipedia.org/wiki/Quicksilver_(Stephenson_novel)
