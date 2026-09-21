@@ -1070,3 +1070,4 @@
 - #691 The Buried Giant -> Historical fantasy -> Period fantasy -> Celtic fantasy (2->3). SFE/PRH place its memory quest in post-Arthurian Britain amid Britons, Saxons, Gawain, ogres and a dragon-induced amnesia. The Celtic-British legendary-historical stage governs over quest form and memory allegory. Official PRH cover inspected.
 - #692 The Butcher Boy EXCLUDED as non-speculative literary fiction. Pan Macmillan, PRH and Booker describe a 1960s small-town Irish stream-of-consciousness descent into madness and murder; the monstrous language and unstable voice are psychological, with no impossible event or speculative world claim. No card.
 - Gate 254 nodes / 687 visible works / refs consistent. Progress next=693, processed=692, added=544.
+- Deployment 9dcdd86 fresh-load pixel verification passed: Celtic fantasy visibly 3 fictions with correct breadcrumb/portrait and rendered grid. Public leaf https://gusoder.github.io/sff-taxonomy-browser/#celtic-fantasy
