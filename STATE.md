@@ -1077,3 +1077,9 @@
 - #694 The Castle -> Atemporal -> Fabulation -> Classic Fabulation (3->4). SFE calls Kafka’s unfinished novel Absurdist SF: K assaults the fog-shrouded workings of the Castle while the world becomes an endless office of transaction. Its inaccessible authority/bureaucracy composes reality itself. Official PRH cover inspected.
 - Gate 254 nodes / 688 visible works / refs consistent. Progress next=695, processed=694, added=545.
 - Deployment 4dbdddf fresh-load pixel/DOM verification passed: Classic Fabulation visibly 4 fictions; The Castle cover loaded at 293x450, with correct breadcrumb and portrait. Public leaf https://gusoder.github.io/sff-taxonomy-browser/#classic-fabulation
+
+## 2026-09-21 15:17 CEST - intake 695-696 locally complete, deployment blocked on rebuilt GitHub auth
+- Recovery: restored exact 989-entry queue from Drive; indices 691-694 matched recent work exactly. Progress rebuilt at next=695/processed=694/added=545, then candidates/progress/provenance committed locally for durability; current repo push awaits fresh device auth.
+- #695 The Castle of Iron DEDUPED into existing original Incomplete Enchanter trilogy card in Multiverse fantasy. SFE/Baen establish Harold Shea's symbolic-logic travel among parallel myth/literature worlds; the card already includes Castle. Added its missing cover after one-pass review; visible-work count unchanged.
+- #696 The Castle of Otranto -> Ghost story -> Haunted House (9->10). SFE identifies it as the work that introduced Gothic fiction; PRH grounds supernatural omens, ancestral usurpation curse and threatened dynasty inside Otranto. The castle and place-bound family haunting are the engine. Official PRH cover inspected.
+- Gate 254 nodes / 689 visible works / refs consistent. Progress next=697, processed=696, added=546. Local only pending GitHub device auth; Haunted House has reached 10 and now requires a sourced complete split proposal before any further additions.
