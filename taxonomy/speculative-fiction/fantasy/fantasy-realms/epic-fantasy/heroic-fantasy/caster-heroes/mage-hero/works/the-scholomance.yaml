@@ -1,0 +1,28 @@
+id: the-scholomance
+title: The Scholomance
+authors:
+- Naomi Novik
+first_published: 2020
+canonical_genre: mage-hero
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Heroic fantasy -> Caster heroes -> Mage hero. Penguin
+  Random House describes El surviving the Scholomance through direct spellcraft against endless maleficaria while resisting a foretold destiny of dark sorcery and
+  destruction. Learned magical power is the protagonist’s primary means of action.'
+classification_sources:
+- https://www.penguinrandomhouse.com/books/609362/the-last-graduate-by-naomi-novik/
+- https://www.penguin.co.uk/books/441290/the-last-graduate-by-novik-naomi/9781529100907
+books:
+- title: A Deadly Education
+  year: 2020
+- title: The Last Graduate
+  year: 2021
+  cover_url: cover-the-scholomance.jpg
+- title: The Golden Enclaves
+  year: 2022
+cover_curation:
+  status: complete
+  source: Del Rey / Penguin Random House
+  selected_url: cover-the-scholomance.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
