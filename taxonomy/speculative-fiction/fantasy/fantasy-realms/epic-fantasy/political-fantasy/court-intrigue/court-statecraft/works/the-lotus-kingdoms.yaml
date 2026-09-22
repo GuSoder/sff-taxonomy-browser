@@ -1,0 +1,28 @@
+id: the-lotus-kingdoms
+title: The Lotus Kingdoms
+authors:
+- Elizabeth Bear
+first_published: 2017
+canonical_genre: court-statecraft
+placement_status: accepted
+books:
+- title: The Stone in the Skull
+  year: 2017
+  cover_url: cover-the-stone-in-the-skull.jpg
+- title: The Red-Stained Wings
+  year: 2019
+  cover_url: cover-the-red-stained-wings.jpg
+- title: The Origin of Storms
+  year: 2022
+  cover_url: cover-the-origin-of-storms.jpg
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Court statecraft. Macmillan identifies a complete epic-fantasy trilogy about Lotus Kingdom rulers facing war, siege, refugee armies, wizardly intervention and competing claims over imperial remnants. Ruler-level survival and governance under military pressure govern.'
+classification_sources:
+- https://us.macmillan.com/series/thelotuskingdoms
+- https://www.publishersweekly.com/9780765380159
+cover_curation:
+  status: complete
+  source: Tor/Macmillan and author
+  selected_url: cover-the-stone-in-the-skull.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one series search, all three official covers
