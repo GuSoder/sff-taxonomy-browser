@@ -1,0 +1,11 @@
+id: fantasy-rifts
+label: Fantasy rifts
+parent: portal-fantasy
+status: accepted
+definition: 'Portal fantasy whose crossing is not physically anchored to a place or object: a free-floating tear between
+  realities. Its children distinguish one hidden Otherworld from a many-world Multiverse.'
+children:
+- multiverse-fantasy
+- otherworld-fantasy
+works: []
+ruling: Renamed from Eldritch rifts by Gustav on 2026-09-22; classifier is portal mechanics, not horror flavor.
