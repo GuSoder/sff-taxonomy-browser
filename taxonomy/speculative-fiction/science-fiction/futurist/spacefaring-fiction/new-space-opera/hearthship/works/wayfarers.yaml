@@ -33,3 +33,10 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+  per_book_cover_audit:
+  - title: A Closed and Common Orbit
+    url: cover-a-closed-and-common-orbit.jpg
+  - title: Record of a Spaceborn Few
+    url: cover-record-of-a-spaceborn-few.jpg
+  - title: The Galaxy, and the Ground Within
+    url: cover-the-galaxy-and-the-ground-within.jpg
