@@ -1,0 +1,35 @@
+id: the-cornelius-quartet
+title: The Cornelius Quartet
+authors:
+- Michael Moorcock
+first_published: 1968
+last_published: 1977
+canonical_genre: classic-fabulation
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Atemporal -> Fabulation -> Classic Fabulation. SFE treats the revised central quartet as formally cumulative: Jerry and his recurring troupe move through increasingly unstable Londons under SF/fantasy manipulation, Law/Chaos and multiversal escape. Narrative revision and shifting world-making govern more than the opening novel’s super-science plot, fitting foundational fabulation.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/moorcock_michael
+- https://www.penguinrandomhouse.com/books/250788/the-final-programme-by-michael-moorcock/
+books:
+- title: The Final Programme
+  year: 1968
+  cover_url: cover-final-programme.jpg
+  shows_english_title: true
+- title: A Cure for Cancer
+  year: 1971
+  cover_url: cover-cure-for-cancer.jpg
+  shows_english_title: true
+- title: The English Assassin
+  year: 1972
+  cover_url: cover-english-assassin.jpg
+  shows_english_title: true
+- title: The Condition of Muzak
+  year: 1977
+  cover_url: cover-condition-of-muzak.jpg
+  shows_english_title: true
+cover_curation:
+  status: complete
+  source: Penguin Random House / Titan coordinated Cornelius Quartet fronts
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass complete quartet review
