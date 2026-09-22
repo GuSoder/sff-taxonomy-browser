@@ -29,3 +29,15 @@ cover_curation:
   selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true,
     preferring flat front-cover art over photos of physical book objects
   title_overlay: false
+series:
+  books:
+  - The Handmaid's Tale (1985)
+  - The Testaments (2019)
+book_covers:
+  status: partial
+  audited_on: '2026-09-22'
+  books:
+  - title: The Testaments
+    year: 2019
+    cover_id: 12366815
+    cover_url: cover-the-testaments.jpg
