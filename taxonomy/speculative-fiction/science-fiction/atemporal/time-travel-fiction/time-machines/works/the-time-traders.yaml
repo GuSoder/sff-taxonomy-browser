@@ -1,0 +1,53 @@
+id: the-time-traders
+title: The Time Traders
+authors:
+- Andre Norton
+first_published: 1958
+canonical_genre: time-machines
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Atemporal -> Time travel fiction -> Time Machines. Baen centers a secret Cold War project that creates time-transfer technology to counter enemy agents using the past; a built institutional apparatus governs the sequence.'
+classification_sources:
+- https://www.baen.com/time-traders.html
+- https://sf-encyclopedia.com/entry/norton_andre
+series:
+  books:
+  - The Time Traders (1958)
+  - Galactic Derelict (1959)
+  - The Defiant Agents (1962)
+  - Key Out of Time (1963)
+  - Firehand (1994)
+  - Echoes in Time (1999)
+  - Atlantis Endgame (2002)
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-the-time-traders.jpg
+  cover_id: 8311641
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one series search, single pass
+book_covers:
+  status: partial
+  audited_on: '2026-09-22'
+  books:
+  - title: The Time Traders
+    year: 1958
+    cover_url: cover-the-time-traders.jpg
+  - title: Galactic Derelict
+    year: 1959
+    cover_url: cover-galactic-derelict.jpg
+  - title: The Defiant Agents
+    year: 1962
+    cover_url: cover-the-defiant-agents.jpg
+  - title: Key Out of Time
+    year: 1963
+    cover_url: cover-key-out-of-time.jpg
+  - title: Firehand
+    year: 1994
+    cover_url: cover-firehand.jpg
+  - title: Echoes in Time
+    year: 1999
+    note: No eligible English cover surfaced in the single series pass.
+  - title: Atlantis Endgame
+    year: 2002
+    cover_url: cover-atlantis-endgame.jpg
