@@ -1,0 +1,29 @@
+id: topper
+title: Topper
+authors:
+- Thorne Smith
+first_published: 1926
+canonical_genre: comic-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Comic fantasy (the branch’s explicit realm-fork exception). PRH calls
+  the novel a hilarious ribald comedy in which the reckless ghosts George and Marion Kerby haunt their old car and rescue Cosmo Topper from suburban
+  dullness through madcap adventures. Comedy is the governing engine, not incidental relief; the two-book sequence is complete.'
+classification_sources:
+- https://www.penguinrandomhouse.com/books/169572/topper-by-thorne-smith/
+books:
+- title: Topper
+  year: 1926
+  cover_url: cover-topper.jpg
+- title: Topper Takes a Trip
+  year: 1932
+  cover_url: cover-topper-takes-a-trip.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-topper.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one series search, single pass
+  cover_ids:
+  - 230018
+  - 230020
