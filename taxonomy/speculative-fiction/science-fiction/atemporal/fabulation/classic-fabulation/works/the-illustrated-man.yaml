@@ -1,0 +1,21 @@
+id: the-illustrated-man
+title: The Illustrated Man
+authors:
+- Ray Bradbury
+first_published: 1951
+canonical_genre: classic-fabulation
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Atemporal -> Fabulation -> Classic Fabulation. SFE identifies
+  the collection’s linking framework: eighteen SF tales spring to life as magical tattoos on the Illustrated Man. Simon & Schuster likewise presents
+  living cities, technology and rockets unfolding across tattooed skin. The stories span worlds and times, while the openly magical storytelling
+  frame composes their reality, making the atemporal foundational-fabulation leaf the deepest fit.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/bradbury_ray
+- https://www.simonandschuster.net/books/The-Illustrated-Man/Ray-Bradbury/9781451678185
+cover_curation:
+  status: complete
+  source: Simon & Schuster
+  selected_url: cover-the-illustrated-man.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher cover
