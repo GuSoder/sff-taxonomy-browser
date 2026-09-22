@@ -1,0 +1,31 @@
+id: the-gilded-ones-trilogy
+title: The Gilded Ones trilogy
+authors:
+- Namina Forna
+first_published: 2021
+last_published: 2024
+canonical_genre: messianic-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Revolutionary fantasy -> Messianic fantasy. PRH grounds Deka’s divine origin, her freeing of goddesses, power to remake the world and final choice to become a god or end the world. A divinely marked heroine becomes the force around which empire, war and existing order break, so Messianic fantasy governs.'
+classification_sources:
+- https://www.penguinrandomhouse.com/series/CIH/the-gilded-ones/
+- https://www.penguinrandomhouse.com/books/600179/the-gilded-ones-by-namina-forna/
+books:
+- title: The Gilded Ones
+  year: 2021
+  cover_url: cover-9781984848710.jpg
+  shows_english_title: true
+- title: The Merciless Ones
+  year: 2022
+  cover_url: cover-9781984848741.jpg
+  shows_english_title: true
+- title: The Eternal Ones
+  year: 2024
+  cover_url: cover-9781984848772.jpg
+  shows_english_title: true
+cover_curation:
+  status: complete
+  source: Penguin Random House coordinated trilogy fronts
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass complete series review
