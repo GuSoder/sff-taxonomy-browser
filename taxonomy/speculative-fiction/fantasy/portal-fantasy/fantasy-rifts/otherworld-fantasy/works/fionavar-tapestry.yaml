@@ -1,0 +1,26 @@
+id: fionavar-tapestry
+title: The Fionavar Tapestry
+authors:
+- Guy Gavriel Kay
+first_published: 1984
+canonical_genre: otherworld-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Portal fantasy -> Fantasy rifts -> Otherworld
+  fantasy. A mage summons five Canadians across without a place- or object-bound threshold into one coherent hidden world.'
+classification_sources:
+- https://brightweavings.com/books/books/the-fionavar-tapestry/
+books:
+- title: The Summer Tree
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/295003-L.jpg
+- title: The Wandering Fire
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/295006-L.jpg
+- title: The Darkest Road
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/295011-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/295003-L.jpg
+  shows_english_title: true
+  review_method: existing reviewed cover; held cards one-pass official cover

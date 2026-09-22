@@ -1,0 +1,11 @@
+id: fantasy-rifts
+label: Fantasy rifts
+parent: portal-fantasy
+children:
+- multiverse-fantasy
+- otherworld-fantasy
+works: []
+image: 129-fantasy-rifts.webp
+definition: 'Portal fantasy whose crossing is not physically anchored to a place or object: a free-floating tear between
+  realities. Its children distinguish one hidden Otherworld from a many-world Multiverse.'
+status: accepted
