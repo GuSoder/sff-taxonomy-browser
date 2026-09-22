@@ -1,0 +1,12 @@
+id: gaslight-fantasy
+label: Gaslight fantasy
+parent: industrial-age-fantasy
+children:
+- gaslight-technomancy
+- mythology-in-gaslight
+- folklore-in-gaslight
+image: 60-gaslight-fantasy.webp
+definition: 'Fantasy set in the gaslit long nineteenth century, partitioned by how magic enters the historical setting:
+  engineered wonder, revived mythology, or living folklore.'
+status: umbrella
+works: []
