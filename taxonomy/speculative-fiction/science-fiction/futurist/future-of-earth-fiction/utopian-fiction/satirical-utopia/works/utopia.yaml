@@ -1,0 +1,26 @@
+id: utopia
+title: Utopia
+authors:
+- Thomas More
+first_published: 1516
+canonical_genre: satirical-utopia
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Utopian fiction -> Satirical Utopia.
+  SFE treats More''s book as the founding rationally designed utopia and stresses its satire and unstable advocacy. Same-period imagined societies already
+  sit on this leaf (Gargantua and Pantagruel 1532, Erewhon), so the contemporary island setting does not block the path. Reopened from the #956 hold on
+  that precedent.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/more_sir_thomas
+- https://sf-encyclopedia.com/entry/utopias
+books:
+- title: Utopia
+  year: 1516
+  cover_url: cover-utopia.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-utopia.jpg
+  cover_id: 12051080
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one exact-title search, single pass
