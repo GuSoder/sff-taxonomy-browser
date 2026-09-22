@@ -1,0 +1,37 @@
+id: wayfarers
+title: Wayfarers
+authors:
+- Becky Chambers
+first_published: 2014
+placement_status: pending-structural
+proposed_path:
+- Speculative fiction
+- Science fiction
+- Futurist
+- Spacefaring fiction
+- New space opera
+- Cooperative space opera
+placement_rationale: 'SFE and Harper/Hachette call it humane, character-driven space opera about an alien/AI crew that treats its starship as family and solves crises
+  through cooperation and diplomacy, explicitly eschewing weapons. No live New space opera child fits: it is neither political-power opera nor alien-ruin delving.
+  Proposed Cooperative space opera captures the governing engine without placing directly under Spacefaring.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/chambers_becky
+- https://www.harperlibrarybookclub.com/9780062444127/the-long-way-to-a-small-angry-planet/
+- https://www.hachette.co.uk/titles/becky-chambers/the-long-way-to-a-small-angry-planet/9781473619777/
+books:
+- title: The Long Way to a Small, Angry Planet
+  year: 2014
+  cover_url: cover-the-wayfarers.jpg
+- title: A Closed and Common Orbit
+  year: 2016
+- title: Record of a Spaceborn Few
+  year: 2018
+- title: The Galaxy, and the Ground Within
+  year: 2021
+cover_curation:
+  status: complete
+  source: Hodder / Hachette
+  selected_url: cover-the-wayfarers.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
