@@ -1,0 +1,20 @@
+id: the-wizard-knight
+title: The Wizard Knight
+authors: [Gene Wolfe]
+first_published: 2004
+last_published: 2004
+canonical_genre: otherworld-fantasy
+placement_status: accepted
+included_titles: [The Knight, The Wizard]
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Portal fantasy -> Fantasy rifts -> Otherworld fantasy. Tor explicitly sends a teenager from our world into one magical realm of seven vertical levels, where magic ages him into Sir Able. Though his knightly quest governs inside Mythgarthr, the series is organized by revelation of and life within one hidden mythic Otherworld, not an anchored door or many-world multiverse.'
+classification_sources:
+- https://torpublishinggroup.com/the-wizard-knight/?format=trade&isbn=9781250237446
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one series search; single-pass complete two-book review; localized
+  selected_covers:
+  - {title: The Knight, url: cover-the-knight.jpg}
+  - {title: The Wizard, url: cover-the-wizard.jpg}
