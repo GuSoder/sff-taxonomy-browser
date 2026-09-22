@@ -1,0 +1,25 @@
+id: turnabout
+title: Turnabout
+authors:
+- Thorne Smith
+first_published: 1931
+canonical_genre: comic-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Comic fantasy (the branch’s explicit realm-fork exception). An ancient
+  Egyptian idol responds to a bickering married couple by switching their bodies, producing an escalating domestic and workplace farce. The supernatural
+  body swap is used as the engine of comedy, so Comic fantasy governs over domestic or body-transformation branches.'
+classification_sources:
+- https://www.isfdb.org/cgi-bin/title.cgi?21202=
+- https://www.overdrive.com/media/1554487/turnabout
+books:
+- title: Turnabout
+  year: 1931
+  cover_url: cover-turnabout.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-turnabout.jpg
+  cover_id: 9487211
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one exact-title search, single pass
