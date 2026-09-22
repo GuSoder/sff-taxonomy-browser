@@ -5,12 +5,22 @@ authors:
 first_published: 2007
 canonical_genre: bard-hero
 placement_status: accepted
-placement_rationale: 'Classified by Gustav''s RPG-class partition: the hero''s primary
-  power source matches Bard Hero, not merely the setting or tone.'
-cover_url: https://covers.openlibrary.org/b/id/12065980-L.jpg
-shows_english_title: false
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Heroic fantasy -> Caster heroes -> Bard hero. Penguin
+  Random House describes Kvothe telling his own heroic story: a notorious magician who writes songs that make minstrels weep, with performance, words, lore and magical
+  artistry central to both his power and identity.'
+classification_sources:
+- https://www.penguinrandomhouse.com/series/KKC/kingkiller-chronicle/
+- https://penguinrandomhousehighereducation.com/book/?isbn=9780756405892
+cover_curation:
+  status: complete
+  source: DAW / Penguin Random House
+  selected_url: cover-the-kingkiller-chronicle.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
 books:
 - title: The Name of the Wind
   year: 2007
-- title: The Wise Man's Fear
+  cover_url: cover-the-kingkiller-chronicle.jpg
+- title: The Wise Man’s Fear
   year: 2011
