@@ -1,0 +1,39 @@
+id: uglies
+title: Uglies
+authors:
+- Scott Westerfeld
+first_published: 2005
+canonical_genre: huxleyan-dystopia
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Dystopian Futures ->
+  Totalitarian dystopia -> Huxleyan dystopia. Simon & Schuster’s complete quartet builds conformity through compulsory beauty surgery, neurological
+  conditioning, engineered bodies, high-tech pleasure and later fame rankings. Power manufactures consent and identity through the body rather
+  than relying primarily on overt coercion.'
+classification_sources:
+- https://www.simonandschuster.net/series/Uglies
+- https://parents.simonandschuster.com/9781442479395
+books:
+- title: Uglies
+  year: 2005
+  cover_url: cover-uglies.jpg
+- title: Pretties
+  year: 2005
+  cover_url: cover-pretties.jpg
+- title: Specials
+  year: 2006
+  cover_url: cover-specials.jpg
+- title: Extras
+  year: 2007
+  cover_url: cover-extras.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-uglies.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one series search, single pass
+  cover_ids:
+  - 438244
+  - 1474615
+  - 761913
+  - 1787209
