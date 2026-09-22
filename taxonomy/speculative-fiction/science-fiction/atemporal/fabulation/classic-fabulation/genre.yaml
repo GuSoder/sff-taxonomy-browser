@@ -1,7 +1,11 @@
 id: classic-fabulation
 label: Classic Fabulation
 parent: fabulation
-children: []
+children:
+- metafictional-worldmaking
+- absurdist-constructed-realities
+works: []
 image: 203-classic-fabulation.webp
-definition: Foundational fabulations in which storytelling and cosmological invention openly compose the world, rather than merely describing a stable reality.
+definition: Foundational fabulations in which openly constructed worlds divide between
+  storytelling that makes reality and impossible systems that govern it.
 status: accepted
