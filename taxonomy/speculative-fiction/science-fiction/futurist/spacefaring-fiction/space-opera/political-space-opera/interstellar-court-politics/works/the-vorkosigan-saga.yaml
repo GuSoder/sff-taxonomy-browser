@@ -4,7 +4,7 @@ authors:
 - Lois McMaster Bujold
 first_published: 1986
 last_published: 2016
-canonical_genre: political-space-opera
+canonical_genre: interstellar-court-politics
 placement_status: accepted
 included_titles:
 - Shards of Honor
@@ -28,7 +28,8 @@ cover_curation:
   source: Open Library
   shows_english_title: true
   visually_reviewed_on: '2026-09-18'
-  review_method: one-pass complete series review; replacement of previewless Mirror Dance with clean alternate English front
+  review_method: one-pass complete series review; replacement of previewless Mirror
+    Dance with clean alternate English front
   selected_covers:
   - title: Shards of Honor
     url: https://covers.openlibrary.org/b/isbn/9780671655747-L.jpg
@@ -62,3 +63,11 @@ cover_curation:
     url: https://covers.openlibrary.org/b/isbn/9781451637502-L.jpg
   - title: Gentleman Jole and the Red Queen
     url: https://covers.openlibrary.org/b/isbn/9781481482899-L.jpg
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction ->
+  Futurist -> Spacefaring fiction -> New space opera -> Political space opera -> Interstellar
+  court politics. The sequence follows the Barrayaran imperial court, dynastic succession,
+  diplomacy, covert state service and political legitimacy across an interstellar
+  society.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/miles_vorkosigan_series
+- https://www.baen.com/categories/lois-mcmaster-bujold/vorkosigan-saga.html

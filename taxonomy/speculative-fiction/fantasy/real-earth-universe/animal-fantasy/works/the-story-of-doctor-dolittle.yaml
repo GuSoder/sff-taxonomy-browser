@@ -1,18 +1,47 @@
-id: the-story-of-doctor-dolittle
-title: The Story of Doctor Dolittle
+id: doctor-dolittle-series
+title: Doctor Dolittle
+series_name: Doctor Dolittle
 authors:
 - Hugh Lofting
 first_published: 1920
+last_published: 1952
 canonical_genre: animal-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Animal fantasy. PRH centers Dolittle learning animals’ languages, understanding them as persons and traveling with duck, dog, pig, parrot and owl to treat an African monkey epidemic. Animal speech, agency, friendship and cross-species society govern.'
+included_titles:
+- The Story of Doctor Dolittle
+- The Voyages of Doctor Dolittle
+- Doctor Dolittle's Post Office
+- Doctor Dolittle's Circus
+- Doctor Dolittle's Zoo
+- Doctor Dolittle's Caravan
+- Doctor Dolittle's Garden
+- Doctor Dolittle in the Moon
+- Gub-Gub's Book
+- Doctor Dolittle's Return
+- Doctor Dolittle and the Secret Lake
+- Doctor Dolittle and the Green Canary
+- Doctor Dolittle's Puddleby Adventures
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Animal fantasy. The official Simon & Schuster complete collection establishes the thirteen-text Doctor Dolittle sequence. PRH centers Dolittle learning animals’ languages and understanding them as persons; animal speech, agency, friendship and cross-species society govern throughout.'
 classification_sources:
-- https://www.penguinrandomhouse.com/books/103167/the-story-of-doctor-dolittle-by-hugh-lofting/
-- https://us.macmillan.com/books/9781466804043/thestoryofdrdolittle/
+- https://www.penguinrandomhouse.com/books/103168/the-voyages-of-doctor-dolittle-by-hugh-lofting/
+- https://www.simonandschuster.com/books/Doctor-Dolittle-The-Complete-Collection-(Boxed-Set)/Hugh-Lofting/Doctor-Dolittle/9781534450349
 cover_curation:
   status: complete
-  source: Tor/Macmillan
-  selected_url: cover-the-story-of-doctor-dolittle.jpg
+  source: Open Library
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
-  review_method: one-pass official publisher
+  review_method: one series search; single-pass review; most attractive eligible cover per text, with one usable title-page scan where no illustrated English cover was available
+  selected_covers:
+  - {title: The Story of Doctor Dolittle, url: cover-the-story-of-doctor-dolittle.jpg}
+  - {title: The Voyages of Doctor Dolittle, url: 'https://covers.openlibrary.org/b/id/281218-L.jpg'}
+  - {title: Doctor Dolittle's Post Office, url: 'https://covers.openlibrary.org/b/id/8442100-L.jpg'}
+  - {title: Doctor Dolittle's Circus, url: 'https://covers.openlibrary.org/b/id/14947199-L.jpg'}
+  - {title: Doctor Dolittle's Zoo, url: 'https://covers.openlibrary.org/b/id/9244277-L.jpg'}
+  - {title: Doctor Dolittle's Caravan, url: 'https://covers.openlibrary.org/b/id/7888353-L.jpg'}
+  - {title: Doctor Dolittle's Garden, url: 'https://covers.openlibrary.org/b/id/9244265-L.jpg'}
+  - {title: Doctor Dolittle in the Moon, url: 'https://covers.openlibrary.org/b/id/8443596-L.jpg'}
+  - {title: Gub-Gub's Book, url: 'https://covers.openlibrary.org/b/id/6712029-L.jpg'}
+  - {title: Doctor Dolittle's Return, url: 'https://covers.openlibrary.org/b/id/7364725-L.jpg'}
+  - {title: Doctor Dolittle and the Secret Lake, url: 'https://covers.openlibrary.org/b/id/78687-L.jpg'}
+  - {title: Doctor Dolittle and the Green Canary, url: 'https://covers.openlibrary.org/b/id/6758922-L.jpg'}
+  - {title: Doctor Dolittle's Puddleby Adventures, url: 'https://covers.openlibrary.org/b/id/11621165-L.jpg'}
