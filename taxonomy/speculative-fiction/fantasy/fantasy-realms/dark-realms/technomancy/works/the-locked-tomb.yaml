@@ -1,0 +1,29 @@
+id: the-locked-tomb
+title: The Locked Tomb
+authors:
+- Tamsyn Muir
+first_published: 2019
+canonical_genre: technomancy
+placement_status: accepted
+placement_rationale: 'Actual-tree re-walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Dark Realms -> Technomancy. SFE grounds an interstellar
+  empire balancing Sword and Sorcery and Space Opera, with spacecraft, swordplay and reanimated skeletons. Necromancy systematized through spacefaring
+  institutions is the defining dark technomantic mode.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/muir_tamsyn
+books:
+- title: Gideon the Ninth
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/isbn/9781250313188-L.jpg
+- title: Harrow the Ninth
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/isbn/9781250313218-L.jpg
+- title: Nona the Ninth
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/isbn/9781250854117-L.jpg
+cover_curation:
+  status: complete
+  source: Tor.com first editions / Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9781250313188-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-14'
+  review_method: one-pass complete series review
