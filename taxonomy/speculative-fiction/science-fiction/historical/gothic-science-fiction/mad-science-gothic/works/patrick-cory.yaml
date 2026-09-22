@@ -1,0 +1,31 @@
+id: patrick-cory
+title: Patrick Cory
+authors:
+- Curt Siodmak
+first_published: 1942
+last_published: 1968
+canonical_genre: mad-science-gothic
+placement_status: accepted
+scope_note: 'Historical portion of the trilogy only: Donovan''s Brain and Hauser''s Memory. Gabriel''s Body remains held separately.'
+setting_audit: 'Gustav ruling 2026-09-22 14:59 CEST: Historical is reader-relative. The 1942 and Cold-War 1968 settings now feel clearly historical. Gabriel''s
+  Body (1992) is not source-grounded as clearly historical and remains held.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Historical -> Gothic science fiction -> Mad-science Gothic. SFE identifies
+  Dr Patrick Cory''s preserved-brain psi control and identity transfer; Hauser''s Memory is explicitly a Cold War CIA/East-West international-intrigue story.
+  Forbidden experiment becomes possession and identity terror. Reader-relative doctrine admits these once-contemporary settings to Historical.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/siodmak_curt
+- https://sf-encyclopedia.com/entry/donovans_brain
+- https://www.addall.com/books-in-order/curt-siodmak/
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass complete series (existing approved pass)
+books:
+- title: Donovan's Brain
+  first_published: 1942
+  cover_url: https://covers.openlibrary.org/b/id/15178384-L.jpg
+- title: Hauser's Memory
+  first_published: 1968
+  cover_url: https://covers.openlibrary.org/b/id/11036159-L.jpg
