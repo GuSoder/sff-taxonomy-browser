@@ -1,0 +1,33 @@
+id: the-serpent-gates
+title: The Serpent Gates
+authors:
+- A. K. Larkwood
+first_published: 2020
+canonical_genre: revisionist-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> High fantasy -> Revisionist quest fantasy. Tor calls it an epic fantasy quest about an orc priestess rejecting ordained sacrifice to become a wizard’s assassin; gods, debts and a stolen holy relic revise heroic destiny around coercion, loyalty and betrayal.'
+classification_sources:
+- https://torpublishinggroup.com/the-serpent-gates/?format=ebook&isbn=9781250372390
+- https://us.macmillan.com/series/theserpentgates
+series:
+  books:
+  - The Unspoken Name (2020)
+  - The Thousand Eyes (2022)
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-the-unspoken-name.jpg
+  cover_id: 9271541
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one series search, single pass
+book_covers:
+  status: complete
+  audited_on: '2026-09-22'
+  books:
+  - title: The Unspoken Name
+    year: 2020
+    cover_url: cover-the-unspoken-name.jpg
+  - title: The Thousand Eyes
+    year: 2022
+    cover_url: cover-the-thousand-eyes.jpg
