@@ -1,0 +1,26 @@
+id: weaveworld
+title: Weaveworld
+authors:
+- Clive Barker
+first_published: 1987
+canonical_genre: perilous-fairy-doors
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Portal fantasy -> Eldritch doors -> Perilous fairy doors. The author''s site and
+  Wikipedia describe a dark fantasy in which the Fugue, the world of the magic-wielding Seerkind, is hidden inside a carpet in modern England; two humans
+  cross into it while the Scourge and the sorceress Immacolata hunt it. An anchored object threshold into a dangerous faerie-like realm, with an adult,
+  perilous register, governs.'
+classification_sources:
+- http://www.clivebarker.com/html/visions/bib/book/books/weave.htm
+- https://en.wikipedia.org/wiki/Weaveworld
+books:
+- title: Weaveworld
+  year: 1987
+  cover_url: cover-weaveworld.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-weaveworld.jpg
+  cover_id: 476274
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one work search, single pass
