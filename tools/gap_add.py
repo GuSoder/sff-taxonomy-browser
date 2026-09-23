@@ -25,7 +25,7 @@ for it in json.load(open(sys.argv[1])):
         c = it['card']; leaf = N[it['leaf']]
         assert not leaf.get('children'), f'not a leaf {leaf["id"]}'
         assert len(leaf['works']) < 10, f'leaf frozen at 10: {leaf["id"]}'
-        for b in c.get('books') or [c]: assert norm(b['title']) not in have, f'duplicate {b["title"]} in {have.get(norm(b["title"]))}'
+        for b in c.get('books') or [c]: assert norm(b['title']) not in have or norm(b['title']) in map(norm, it.get('twin_ok', [])), f'duplicate {b["title"]} in {have.get(norm(b["title"]))}'
         w = {'title': c['title'], 'cover_url': c['cover_url'], 'shows_english_title': True, 'authors': c['authors'], 'year': c['year'], 'placement_note': c['note']}
         if c.get('books'): w['books'] = [{'title': b['title'], 'year': b['year'], 'cover_url': b['cover_url']} for b in c['books']]
         leaf['works'].append(w); cid = slug(c['title']); d = path(leaf['id']); os.makedirs(d + '/works', exist_ok=True)
@@ -47,7 +47,7 @@ for it in json.load(open(sys.argv[1])):
         y = yaml.safe_load(open(f)); y['books'] = w['books']; y.setdefault('placement_history', []).append({'date': '2026-09-23', 'change': it['note']}); dump(f, y)
         log.write(f'{k}/{TOTAL} +{it["title"]} → {leaf["label"]} (series: {w["title"]})\n')
     else:
-        log.write(f'{k}/{TOTAL} {"-" if a == "skip" else "?"}{it["title"]} ({it["reason"]})\n')
+        log.write(f'{k}/{TOTAL} {"-" if a == "skip" else "?"}{it["title"]} ({it["reason"].split(":")[0]})\n')
         if a == 'hold': prog.setdefault('held', []).append({'k': k, 'title': it['title'], 'reason': it['reason']})
     prog['awards_processed'] = k; prog['processed'] = prog.get('processed', 0) + 1
 lines[li] = 'const nodes=' + json.dumps(nodes, ensure_ascii=False, separators=(',', ':')) + rest[end:]

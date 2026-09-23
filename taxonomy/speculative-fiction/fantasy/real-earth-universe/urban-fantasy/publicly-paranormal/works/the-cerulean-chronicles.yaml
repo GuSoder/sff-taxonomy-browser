@@ -1,0 +1,26 @@
+id: the-cerulean-chronicles
+title: The Cerulean Chronicles
+authors:
+- TJ Klune
+first_published: 2020
+canonical_genre: publicly-paranormal
+placement_status: accepted
+placement_rationale: 'Magical youth are registered and policed by a government department; a caseworker and an orphanage of magical children push back (BookPage,
+  Locus). Magic public and bureaucratized. Series card: The House in the Cerulean Sea (2020), Somewhere Beyond the Sea (2024).'
+classification_sources:
+- https://www.bookpage.com/reviews/somewhere-beyond-the-sea-tj-klune-book-r/
+- https://locusmag.com/review/somewhere-beyond-the-sea-by-tj-klune-review-by-colleen-mondor/
+intake: 'gap-2022 awards tier #69 ()'
+books:
+- title: The House in the Cerulean Sea
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/9312772-L.jpg
+- title: Somewhere Beyond the Sea
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/isbn/9781250881212-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/9312772-L.jpg
+  visually_reviewed_on: '2026-09-23'
+  review_method: contact-sheet one-pass

@@ -1,7 +1,7 @@
 {
  "next": 1,
- "processed": 50,
- "added": 40,
+ "processed": 75,
+ "added": 55,
  "held": [
   {
    "k": 2,
@@ -42,7 +42,47 @@
    "k": 42,
    "title": "A Granite Silence",
    "reason": "scope question: Historical Novel Society calls it her first historical novel (1934 Aberdeen child murder); BSFA-shortlisted, speculative element unconfirmed - SFF or exclude?"
+  },
+  {
+   "k": 54,
+   "title": "HIM",
+   "reason": "genre question: Jesus born biologically female and identifying as male, a retelling of the Gospels (Locus: 'alternative history'; New Scientist calls it science fiction). No religious-retelling leaf; SF or Fantasy under the magic rule?"
+  },
+  {
+   "k": 61,
+   "title": "Notes from a Regicide",
+   "reason": "no clean leaf: New York a thousand years ahead, a trans man reads the memoir of his late adoptive parents' revolutionary past (PW 'dystopian', Reactor). Social science fiction sits under Modern day; Futurist dystopia leaves don't fit a family memoir."
+  },
+  {
+   "k": 62,
+   "title": "Once Was Willem",
+   "reason": "no clean leaf: dark fantasy in 12th-century England during the Anarchy, a monster who was once a village man (PW, Locus). No 12th-century period leaf (Autumn Kingdoms is 14th c.) and the monster angle is Supernatural, which is frozen."
+  },
+  {
+   "k": 63,
+   "title": "Picks and Shovels",
+   "reason": "genre question (with Red Team Blues and The Bezzle, one Martin Hench series card): forensic-accountant thrillers; Locus says SF only in the sense of edge tech. Technothriller leaf, or not SFF at all?"
+  },
+  {
+   "k": 66,
+   "title": "Red Team Blues",
+   "reason": "genre question, see Picks and Shovels (Martin Hench series)."
+  },
+  {
+   "k": 68,
+   "title": "Slow Gods",
+   "reason": "no confident leaf: deep-space SF (New Scientist, Kirkus) about Mawukana, a remade 'poor copy' of himself, and a planet doomed by a collapsing binary star. Candidates Future history in space or Hard Conceptual SF; reviews don't settle it."
+  },
+  {
+   "k": 71,
+   "title": "Starling House",
+   "reason": "frozen leaf: Gothic haunted house with monsters beneath it in a dying Kentucky coal town (Kirkus, NPR). Fits Contemporary haunted house, which is under Supernatural fantasy (frozen)."
+  },
+  {
+   "k": 75,
+   "title": "The Bezzle",
+   "reason": "genre question, see Picks and Shovels (Martin Hench series)."
   }
  ],
- "awards_processed": 50
+ "awards_processed": 75
 }
