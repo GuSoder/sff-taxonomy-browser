@@ -1129,3 +1129,5 @@
 
 ### 2026-09-23 12:05 CEST - Alt Prewar (Gustav ruling 12:03, verbatim "Alt Prewar then")
 - New leaf Alt Prewar (307) under Period alterations; The Plot Against America moved off the branch (divergence 1940-43, snaps back via ordinary events, not Atemporal). Period alterations now pure; removed from verify KNOWN list. Portrait 307 generated at creation.
+
+- 2026-09-23 12:20 Gustav ruled ("Yes") The Raven Tower -> Epic fantasy > Invented Mythology (its core is the invented theology; dynastic plot is scaffolding). Dynastic intrigues is now pure; KNOWN pure-branch exceptions list is empty. Tree: 305 nodes, 891 cards / 1,910 books.

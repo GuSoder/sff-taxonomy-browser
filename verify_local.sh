@@ -32,7 +32,7 @@ for n in nodes:
         assert c in byid, f'FAIL: dangling child {c} on {n["id"]}'
     p=n.get('parent')
     assert p is None or p in byid, f'FAIL: dangling parent on {n["id"]}'
-KNOWN={'dynastic-intrigues'}  # pre-existing, surfaced to Gustav 2026-09-23 02:59
+KNOWN=set()  # none; last break (dynastic-intrigues) cleared 2026-09-23 12:20
 haskids={n.get('parent') for n in nodes}
 bad=[n['id'] for n in nodes if n.get('works') and n['id'] in haskids]
 new=[b for b in bad if b not in KNOWN]
