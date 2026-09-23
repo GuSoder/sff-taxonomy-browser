@@ -1,19 +1,14 @@
 id: alternate-history-fantasy
 label: Alternate history fantasy
 parent: historical-fantasy
-children: []
+children:
+- alt-crusade-fantasy
+- alt-ming-fantasy
+- alt-spice-route-fantasy
+- alt-flintlock-fantasy
+- alt-diesel-fantasy
 image: 139-alternate-history-fantasy.webp
-definition: 'Divergent timelines where magic is the engine: history is openly rewritten and the world runs on magic.'
+definition: 'Pure umbrella for divergent timelines where magic is the engine: history is openly rewritten and the world runs on magic. Split by era and geography:
+  Alt Crusade, Alt Ming, Alt Spice Route, Alt Flintlock and Alt Diesel fantasy.'
 status: accepted
-works:
-- the-tales-of-alvin-maker
-- temeraire
-- dead-djinn-universe
-- angel-mage
-- burn
-- sorcerer-royal
-- summerland
-- dominion-of-the-fallen
-- the-radiant-emperor
-- the-devils
-- the-devils
+works: []
