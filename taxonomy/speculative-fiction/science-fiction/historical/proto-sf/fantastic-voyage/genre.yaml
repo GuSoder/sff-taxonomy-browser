@@ -1,0 +1,13 @@
+id: fantastic-voyage
+label: Fantastic voyage
+parent: proto-sf
+children: []
+image: 92-fantastic-voyage.webp
+definition: Pre-novelistic speculative journeys to unknown lands and peoples - the Proto SF form named in SFE 'Fantastic Voyages', from Lucian's True History through
+  Gulliver.
+status: provisional
+works:
+- gulliver-s-travels
+history:
+- date: '2026-09-23'
+  change: Moved whole under proto-sf (Historical fold, Gustav 15:05).

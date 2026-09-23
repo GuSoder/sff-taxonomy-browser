@@ -1,0 +1,25 @@
+id: lost-world-fiction
+label: Lost world fiction
+kind: subgenre
+status: provisional
+sources:
+- sfe-theme-lost-worlds
+parent: proto-sf
+children: []
+image: 59-lost-world-fiction.webp
+definition: 'Adventure fiction in which explorers discover a surviving prehistoric or otherwise isolated world: hidden plateaus, hollow-earth caverns and lost valleys
+  where dinosaurs, ancient peoples or vanished civilizations endure. Coined from the SFE Lost Worlds theme entry; Verne''s Journey to the Center of the Earth (1864)
+  is the genre''s founding text.'
+works:
+- journey-to-the-center-of-the-earth
+- she
+- the-narrative-of-arthur-gordon-pym-of-nantucket
+- tarzan
+- the-dwellers-in-the-mirage
+- land-under-england
+- mistress-masham-s-repose
+- the-lost-world
+- valley-of-the-flame
+history:
+- date: '2026-09-23'
+  change: Moved whole under proto-sf (Historical fold, Gustav 15:05).

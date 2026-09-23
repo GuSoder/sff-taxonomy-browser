@@ -4,12 +4,11 @@ original_title: Auf zwei Planeten
 authors:
 - Kurd Lasswitz
 first_published: 1897
-canonical_genre: historical-first-contact
+canonical_genre: scientific-adventure
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Historical -> Historical first contact. Lasswitz''s 1897 novel: a German
-  polar balloon expedition in the late 1890s finds a Martian base at the North Pole and humanity''s first contact with the Martians follows. No magic (SF);
-  no time travel (not Atemporal); the 1890s setting now reads clearly historical under the reader-relative Historical doctrine, and the encounter itself
-  governs. Intake #948, held since 2026-09-23; Gustav ruled ''do the walk'' 2026-09-23 11:35.'
+placement_rationale: 'Lasswitz''s 1897 novel: a German polar balloon expedition finds a Martian base at the North Pole, and the Martians'' spacecraft carry the story
+  to Mars. Written in its own era, so it is Proto SF; a technological marvel and the voyage it enables make it Scientific adventure. Moved from Historical first contact
+  2026-09-23 (Gustav 15:05).'
 classification_sources:
 - https://sf-encyclopedia.com/entry/lasswitz_kurd
 - https://de.wikipedia.org/wiki/Auf_zwei_Planeten
@@ -27,5 +26,9 @@ cover_curation:
   selection_rule: only painted English front cover found; SIU Press hits were title-page scans
 placement_history:
 - date: '2026-09-23'
-  change: 'Released from hold (#948) onto Historical first contact after Gustav ruled "do the walk" (11:35). Walk: Speculative fiction -> Science fiction
-    -> Historical -> Historical first contact'
+  change: 'Released from hold (#948) onto Historical first contact after Gustav ruled "do the walk" (11:35). Walk: Speculative fiction -> Science fiction -> Historical
+    -> Historical first contact'
+- date: '2026-09-23'
+  from: historical-first-contact
+  to: scientific-adventure
+  ruling: Gustav 15:05 "Execute" (Historical fold)
