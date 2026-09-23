@@ -1,0 +1,15 @@
+id: faerie-doors
+label: Faerie Doors
+parent: perilous-fairy-doors
+children: []
+works:
+- lud-in-the-mist
+- stardust
+- the-king-of-elflands-daughter
+- the-land-of-unreason
+- the-memory-theater
+- weaveworld
+image: 293-faerie-doors.webp
+definition: 'Perilous fairy doors that open into Faerie itself: the elf-realm beyond the fields we know, whose glamour, bargains and timeless beauty seduce
+  and endanger those who cross.'
+status: accepted

@@ -3,11 +3,11 @@ title: The Magicians Trilogy
 authors:
 - Lev Grossman
 first_published: 2009
-canonical_genre: perilous-fairy-doors
+canonical_genre: nightmare-doors
 placement_status: accepted
-placement_rationale: "Actual-tree walk: Speculative fiction -> Fantasy -> Portal fantasy -> Eldritch doors -> Perilous fairy doors. Grossman and PRH begin\
-  \ with rigorous modern sorcery at Brakebills, but the trilogy\u2019s governing discovery is that Fillory, the childhood-book magical land, is real; Quentin\
-  \ and friends cross into an adult, dangerous storybook realm where adventure, predation and belonging have costs."
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Portal fantasy -> Eldritch doors -> Perilous fairy doors. Grossman and PRH begin
+  with rigorous modern sorcery at Brakebills, but the trilogy’s governing discovery is that Fillory, the childhood-book magical land, is real; Quentin and
+  friends cross into an adult, dangerous storybook realm where adventure, predation and belonging have costs.'
 classification_sources:
 - https://levgrossman.com/book/the-magicians/
 - https://www.penguinrandomhouse.com/series/208/magicians-trilogy/
@@ -29,3 +29,7 @@ books:
 - title: The Magician's Land
   year: 2014
   cover_url: https://covers.openlibrary.org/b/id/9020300-L.jpg
+placement_history:
+- date: '2026-09-23'
+  change: 'Perilous fairy doors split (Gustav iMessage 2026-09-23 07:49, Execute 1): moved to Nightmare Doors. Walk: Speculative fiction -> Fantasy -> Portal
+    fantasy -> Eldritch doors -> Perilous fairy doors -> Nightmare Doors'
