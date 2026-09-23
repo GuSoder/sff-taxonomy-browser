@@ -53,7 +53,7 @@ for n in nodes:
             _d=_y.safe_load(open(f)) or {}; have.add(_d.get('title')); have.add(('id',_d.get('id')))
         except Exception: _miss.append(('unparseable',f))
     for w in n.get('works',[]):
-        if w['title'] not in have and ('id',w.get('id')) not in have: _miss.append(('work',n['id'],w['title']))
+        if w['title'] not in have and ('id',w.get('id') or __import__('re').sub(r'[^a-z0-9]+','-',w['title'].lower()).strip('-')) not in have: _miss.append(('work',n['id'],w['title']))
 KNOWN_PARITY={('work','technothriller','Little Brother'),('work','postcyberpunk','Little Brother')}
 _new=[m for m in _miss if m not in KNOWN_PARITY]
 assert not _new, f'FAIL: YAML mirror parity {len(_new)}: {_new[:5]}'
