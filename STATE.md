@@ -1126,3 +1126,6 @@
 - Applied: The Merciful Crow Duology keeps Civil revolution fantasy; Medieval dynastic intrigue card + YAML removed (leaf now 4).
 - Applied: Little Brother keeps Technothriller (Modern day gate: recognizable present-day San Francisco, real hacking/crypto drive the thriller); Postcyberpunk card removed (leaf now 5). Card covers aligned to the Tor/Macmillan set; YAML rationale corrected (it wrongly argued Cyberpunk). KNOWN_PARITY exception cleared in verify_local.sh.
 - Totals 304 nodes / 891 cards / 1,910 books.
+
+### 2026-09-23 12:05 CEST - Alt Prewar (Gustav ruling 12:03, verbatim "Alt Prewar then")
+- New leaf Alt Prewar (307) under Period alterations; The Plot Against America moved off the branch (divergence 1940-43, snaps back via ordinary events, not Atemporal). Period alterations now pure; removed from verify KNOWN list. Portrait 307 generated at creation.

@@ -2,6 +2,7 @@ id: period-alterations
 label: Period alterations
 parent: alternate-history
 children:
+- alt-prewar
 - alt-postwar
 - alt-civil-war
 - alt-cold-war
@@ -10,5 +11,7 @@ image: 145-period-alterations.webp
 definition: Alternate histories in which the alteration starts within living memory of the story being depicted, roughly less than a lifetime before its
   present.
 status: accepted
-works:
-- the-plot-against-america
+works: []
+history:
+- date: '2026-09-23'
+  change: Added Alt Prewar leaf (Gustav 12:03); The Plot Against America moved there; branch is now pure.
