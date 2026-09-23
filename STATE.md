@@ -1137,3 +1137,11 @@ Gustav's words: "No, don't visibly park them. If the umbrella genre is far down 
 - Scope: parent umbrella at depth >= 5 (Speculative fiction = 0), currently 2-4 children, and a clear sibling naming pattern to follow -> may create the leaf myself (portrait at creation as usual).
 - Preference: still serve leaf suggestions to him first where possible; always give him a tree link to inspect.
 - Never visibly park books on stems.
+
+## Standing rule: existing-leaf placements and cover art are autonomous (Gustav 2026-09-23 12:33:26)
+Gustav's words: "9,10,11: you don't need my permission to place books with a genre that fits, c'mon. You got guidelines for pick cover art, I don't have time for that"
+- Placing a book in an EXISTING leaf that fits: just do it, report after.
+- Cover art: follow the cover guidelines (one-pass, flat art, English title visible); never bring cover choices to him.
+- Only new leaves, names and structure go to him (within the 12:27 autonomous-leaf grant above).
+- Executed at 12:35: Trail of Lightning (Sixth World, 2 books) -> navajo-myth-fantasy; The Year of the Witching -> isolationist-fantasy; The Sinful Ones (= 1950 "You're All Alone", one card; #870 merged as duplicate) -> absurdist-constructed-realities. added 732 -> 735. Tree: 305 nodes, 894 cards / 1,914 books.
+- Still awaiting Gustav on 8 new-leaf suggestions (Antebellum fantasy, Hidden creators, Theological space opera, Future insurgency, Noir-era fantasy, Tang fantasy, Patriarchal Dystopias, Psi saga).
