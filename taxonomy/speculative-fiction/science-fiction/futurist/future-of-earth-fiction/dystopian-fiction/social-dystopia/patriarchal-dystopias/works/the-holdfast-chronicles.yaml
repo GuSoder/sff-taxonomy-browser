@@ -1,0 +1,35 @@
+id: the-holdfast-chronicles
+title: The Holdfast Chronicles
+authors:
+- Suzy McKee Charnas
+first_published: 1974
+canonical_genre: patriarchal-dystopias
+placement_status: accepted
+placement_rationale: 'SFE (Charnas): Holdfast is ''a misogynist Dystopia'' on a post-holocaust Ruined Earth, where the ruling males treat women (''Fems'') as scapegoats
+  for the Wasting, with breeding as an act of disgust and the dominance of elder males. The four Holdfast Chronicles examine gender relations under and after that
+  rule (The Conqueror''s Child won the Tiptree Award). Placed by Gustav 2026-09-23 17:43.'
+books:
+- title: Walk to the End of the World
+  year: 1974
+  cover_url: https://covers.openlibrary.org/b/id/13266505-L.jpg
+  shows_english_title: true
+- title: Motherlines
+  year: 1978
+  cover_url: https://covers.openlibrary.org/b/id/10290090-L.jpg
+  shows_english_title: true
+- title: The Furies
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/3871354-L.jpg
+  shows_english_title: true
+- title: The Conqueror's Child
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/182451-L.jpg
+  shows_english_title: true
+classification_sources:
+- https://sf-encyclopedia.com/entry/charnas_suzy_mckee
+cover_curation:
+  status: complete
+  source: Open Library (Ballantine 1974 Walk; Coronet Motherlines; Tor Furies, Conqueror's Child)
+  selected_url: https://covers.openlibrary.org/b/id/13266505-L.jpg
+  visually_reviewed_on: '2026-09-23'
+  review_method: one-pass

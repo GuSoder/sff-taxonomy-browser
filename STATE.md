@@ -1190,3 +1190,11 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Hidden history SF: Eifelheim, The Inheritors (moved), Wild Seed (new card, cover OL 10279447 Grand Central 2020). Psi saga name dropped; pending #8 resolved.
 - Historical: Proto SF, Period SF, Alternate history, Hidden history SF. Period SF: Steampunk, Deco SF.
 - added +1. Tree: 314 nodes, 900 cards / 1,920 books.
+
+## 2026-09-23 18:01 - Patriarchal Dystopias created; Hoag placed
+- New leaf Patriarchal Dystopias under Social dystopia (Gustav 17:43:49 "Ok then you can execute Patriarchal dystopia"). Definition: dystopia whose engine is patriarchy, male rule as the organizing principle of the oppression. Portrait 320.
+  - The Handmaid's Tale (series card with The Testaments) moved from Childless Dystopias.
+  - New card: The Holdfast Chronicles (Charnas; Walk to the End of the World, Motherlines, The Furies, The Conqueror's Child), 1 card / 4 books. Source SFE charnas_suzy_mckee.
+  - Gustav stated the Childless Dystopias cards are The Handmaid's Tale, Children of Men, Atomised, Greybeard; with Handmaid's moved, Childless holds 3 cards.
+- The Unpleasant Profession of Jonathan Hoag (Heinlein 1942) added to Absurdist constructed realities, not Supernatural (Gustav 17:47:56: it's fabulation). 5 cards on the leaf.
+- Tree: 315 nodes, 902 cards / 1,925 books.
