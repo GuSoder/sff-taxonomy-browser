@@ -5,7 +5,9 @@ authors:
 first_published: 2006
 canonical_genre: alien-message
 placement_status: accepted
-placement_rationale: 'Gustav’s ruling places the series by its famous first book: The Three-Body Problem unfolds chiefly on modern-day Earth, and the Red Coast telescope message exchange with Trisolaris is the defining first-contact act for the whole sequence, despite later future eras and physical conflict.'
+placement_rationale: "Gustav\u2019s ruling places the series by its famous first book: The Three-Body Problem unfolds chiefly on modern-day Earth, and the\
+  \ Red Coast telescope message exchange with Trisolaris is the defining first-contact act for the whole sequence, despite later future eras and physical\
+  \ conflict."
 classification_sources:
 - https://sf-encyclopedia.com/entry/liu_cixin
 - https://us.macmillan.com/books/9780765382030/thethreebodyproblem/
@@ -17,10 +19,22 @@ cover_curation:
   cover_id: ISBN-9780765377067
   beauty_score: 8.5
   beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
-  beauty_rationale: A luminous blue flat-front painting layers three suns, orbital diagrams, falling debris, and a solitary figure before a translucent pyramid, creating a richly detailed cosmic scene with superb scale and mystery.
+  beauty_rationale: A luminous blue flat-front painting layers three suns, orbital diagrams, falling debris, and a solitary figure before a translucent
+    pyramid, creating a richly detailed cosmic scene with superb scale and mystery.
   visually_reviewed_on: '2026-09-12'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 9
-  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
   title_overlay: false
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
+books:
+- title: The Three-Body Problem
+  year: 2006
+- title: The Dark Forest
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/10526598-L.jpg
+- title: Death's End
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7893958-L.jpg

@@ -1,0 +1,22 @@
+id: lilith-s-brood
+title: Lilith's Brood
+authors:
+- Octavia E. Butler
+first_published: 1987
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Dawn
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/285158-L.jpg
+- title: Adulthood Rites
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/5307026-L.jpg
+- title: Imago
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/8029475-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/6790479-L.jpg
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.

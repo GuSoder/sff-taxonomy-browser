@@ -1,0 +1,20 @@
+id: maddaddam
+title: MaddAddam
+authors:
+- Margaret Atwood
+first_published: 2003
+canonical_genre: pandemic
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Oryx and Crake
+  year: 2003
+- title: The Year of the Flood
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/12816870-L.jpg
+- title: MaddAddam
+  year: 2013
+cover_curation:
+  status: partial
+  selected_url: https://images.penguinrandomhouse.com/cover/9780385721677
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.

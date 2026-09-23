@@ -1,0 +1,21 @@
+id: the-aleutian-trilogy
+title: The Aleutian Trilogy
+authors:
+- Gwyneth Jones
+first_published: 1991
+canonical_genre: alien-invasion-fiction
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: White Queen
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/183621-L.jpg
+- title: North Wind
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/182772-L.jpg
+- title: "Phoenix Caf\xE9"
+  year: 1997
+cover_curation:
+  status: partial
+  selected_url: https://www.hachette.co.uk/wp-content/uploads/2021/03/hbg-title-white-queen-2-28.jpg
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.

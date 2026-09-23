@@ -1,0 +1,21 @@
+id: warrior-bards
+title: Warrior Bards
+authors:
+- Juliet Marillier
+first_published: 2019
+canonical_genre: celtic-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Harp of Kings
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8997082-L.jpg
+- title: A Dance with Fate
+  year: 2020
+- title: A Song of Flight
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10931795-L.jpg
+cover_curation:
+  status: partial
+  selected_url: https://julietmarillier.com/wp-content/uploads/2024/04/Harp-of-Kings.jpg
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.

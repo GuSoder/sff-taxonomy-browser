@@ -1,0 +1,22 @@
+id: the-broken-earth
+title: The Broken Earth
+authors:
+- N. K. Jemisin
+first_published: 2015
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Fifth Season
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8133598-L.jpg
+- title: The Obelisk Gate
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8138324-L.jpg
+- title: The Stone Sky
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8191910-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/14428463-L.jpg
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.
