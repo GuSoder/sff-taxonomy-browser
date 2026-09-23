@@ -9,11 +9,15 @@ placement_rationale: ''
 books:
 - title: Ancillary Justice
   year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7355949-L.jpg
 - title: Ancillary Sword
   year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/7422984-L.jpg
 - title: Ancillary Mercy
   year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/7436540-L.jpg
 cover_curation:
   selected_url: https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316246620.jpg
   shows_english_title: false
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

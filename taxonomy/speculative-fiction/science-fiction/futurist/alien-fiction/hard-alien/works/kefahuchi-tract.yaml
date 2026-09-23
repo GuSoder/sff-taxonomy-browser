@@ -11,11 +11,15 @@ books:
   year: 2002
   authors:
   - M. John Harrison
+  cover_url: https://covers.openlibrary.org/b/id/370096-L.jpg
 - title: Nova Swing
   year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/4673282-L.jpg
 - title: 'Empty Space: A Haunting'
   year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8737935-L.jpg
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/380152-L.jpg
   shows_english_title: false
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
