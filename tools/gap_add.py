@@ -49,7 +49,9 @@ for it in json.load(open(sys.argv[1])):
     else:
         log.write(f'{k}/{TOTAL} {"-" if a == "skip" else "?"}{it["title"]} ({it["reason"].split(":")[0]})\n')
         if a == 'hold': prog.setdefault('held', []).append({'k': k, 'title': it['title'], 'reason': it['reason']})
-    prog['awards_processed'] = k; prog['processed'] = prog.get('processed', 0) + 1
+    ruling = k <= prog.get('awards_processed', 0)
+    if ruling: prog['held'] = [x for x in prog.get('held', []) if x['k'] != k]
+    else: prog['awards_processed'] = k; prog['processed'] = prog.get('processed', 0) + 1
 lines[li] = 'const nodes=' + json.dumps(nodes, ensure_ascii=False, separators=(',', ':')) + rest[end:]
 open('index.html', 'w').write('\n'.join(lines)); json.dump(prog, open(G + '/progress.json', 'w'), indent=1); log.close()
 print(f'awards {prog["awards_processed"]}/{TOTAL}, added {prog["added"]}, held {len(prog.get("held", []))}')
