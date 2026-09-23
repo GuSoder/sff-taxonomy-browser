@@ -5,9 +5,9 @@ authors:
 first_published: 2021
 canonical_genre: court-spies
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Court spies. Hachette
-  and the authors center Ren’s false identity, infiltration of a noble house, a city underworld, secret vigilante and poisonous aristocratic feuds; covert manipulation
-  inside elite society governs the trilogy, while genuine pattern-reading and nightmare magic establish Fantasy.'
+placement_rationale: "Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Court\
+  \ spies. Hachette and the authors center Ren\u2019s false identity, infiltration of a noble house, a city underworld, secret vigilante and poisonous aristocratic\
+  \ feuds; covert manipulation inside elite society governs the trilogy, while genuine pattern-reading and nightmare magic establish Fantasy."
 classification_sources:
 - https://www.hachettebookgroup.com/titles/m-a-carrick/the-mask-of-mirrors/9780316539678/
 - https://www.macarrick.com/writing/mask-of-mirrors/
@@ -18,11 +18,14 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 books:
 - title: The Mask of Mirrors
-  first_published: 2021
+  year: 2021
   cover_url: cover-the-mask-of-mirrors.jpg
 - title: The Liar's Knot
-  first_published: 2021
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/12000165-L.jpg
 - title: Labyrinth's Heart
-  first_published: 2023
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14723790-L.jpg

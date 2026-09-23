@@ -5,9 +5,10 @@ authors:
 first_published: 2015
 canonical_genre: greek-myth-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Mythic retelling -> Greek myth fantasy. SFE describes Pallas Athene
-  creating an island city in the ancient Mediterranean and recruiting people across time to test Plato’s Republic; Apollo becomes mortal and Zeus later moves the
-  cities. Named Greek gods and their divine acts are the causal spine, with time travel and future robots serving Athene’s mythic experiment.'
+placement_rationale: "Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Mythic retelling -> Greek myth fantasy. SFE describes Pallas\
+  \ Athene creating an island city in the ancient Mediterranean and recruiting people across time to test Plato\u2019s Republic; Apollo becomes mortal and\
+  \ Zeus later moves the cities. Named Greek gods and their divine acts are the causal spine, with time travel and future robots serving Athene\u2019s mythic\
+  \ experiment."
 classification_sources:
 - https://sf-encyclopedia.com/entry/walton_jo
 - https://us.macmillan.com/books/9780765332660/thejustcity/
@@ -18,11 +19,14 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 books:
 - title: The Just City
   year: 2015
   cover_url: cover-the-just-city.jpg
 - title: The Philosopher Kings
   year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8572834-L.jpg
 - title: Necessity
   year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8737297-L.jpg

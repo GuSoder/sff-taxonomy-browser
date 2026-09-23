@@ -10,12 +10,15 @@ placement_rationale: "Actual-tree re-walk: Speculative fiction -> Fantasy -> Fan
 books:
 - title: Titus Groan
   year: 1946
+  cover_url: https://covers.openlibrary.org/b/id/11730146-L.jpg
 - title: Gormenghast
   year: 1950
+  cover_url: https://covers.openlibrary.org/b/id/11572290-L.jpg
 - title: Titus Alone
   year: 1959
   cover_url: https://covers.openlibrary.org/b/id/11730144-L.jpg
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/6623928-L.jpg
   shows_english_title: false
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

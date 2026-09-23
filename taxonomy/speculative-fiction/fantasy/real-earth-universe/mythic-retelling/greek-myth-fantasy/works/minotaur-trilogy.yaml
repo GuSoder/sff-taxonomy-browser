@@ -5,7 +5,9 @@ authors:
 first_published: 1966
 canonical_genre: greek-myth-fantasy
 placement_status: accepted
-placement_rationale: SFE places Swann's three-book Minotaur sequence in Mycenaean Crete, where dryads, centaurs, minotaurs and other legendary peoples confront ascendant humanity. Day of the Minotaur retells the Minotaur from Eunostos's perspective and turns the monster into the defender of the mythic old world, matching Mythic retelling's explicit mythic-age rule.
+placement_rationale: SFE places Swann's three-book Minotaur sequence in Mycenaean Crete, where dryads, centaurs, minotaurs and other legendary peoples confront
+  ascendant humanity. Day of the Minotaur retells the Minotaur from Eunostos's perspective and turns the monster into the defender of the mythic old world,
+  matching Mythic retelling's explicit mythic-age rule.
 classification_sources:
 - https://sf-encyclopedia.com/entry/swann_thomas_burnett
 - https://www.isfdb.org/cgi-bin/title.cgi?2140=
@@ -16,7 +18,13 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-17'
   review_method: one-pass series review; catalog supplied a usable English front only for Day of the Minotaur
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 books:
-- {title: Cry Silver Bells, first_published: 1977}
-- {title: The Forest of Forever, first_published: 1971}
-- {title: Day of the Minotaur, first_published: 1966, cover_url: 'https://covers.openlibrary.org/b/id/10186823-L.jpg'}
+- title: Cry Silver Bells
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/14939536-L.jpg
+- title: The Forest of Forever
+  year: 1971
+- title: Day of the Minotaur
+  year: 1966
+  cover_url: https://covers.openlibrary.org/b/id/10186823-L.jpg
