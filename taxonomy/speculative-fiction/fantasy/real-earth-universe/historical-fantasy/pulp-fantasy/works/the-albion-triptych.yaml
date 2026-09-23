@@ -1,15 +1,30 @@
 id: the-albion-triptych
 title: The Albion Triptych
-authors: [Andrew Sinclair]
+authors:
+- Andrew Sinclair
 first_published: 1967
 canonical_genre: pulp-fantasy
 placement_status: accepted
-placement_rationale: 'Root-down: Fantasy -> Real Earth Universe -> Historical fantasy -> Pulp fantasy. SFE calls the Albion Triptych half satire and half mythopoesis; Valancourt describes its hilarious, horrific, bawdy and bizarre picaresque. Gustav’s 2026-09-20 seriousness gate routes unserious/knockabout treatments of mythic national history to Pulp fantasy rather than Mythic retelling.'
+placement_rationale: "Root-down: Fantasy -> Real Earth Universe -> Historical fantasy -> Pulp fantasy. SFE calls the Albion Triptych half satire and half\
+  \ mythopoesis; Valancourt describes its hilarious, horrific, bawdy and bizarre picaresque. Gustav\u2019s 2026-09-20 seriousness gate routes unserious/knockabout\
+  \ treatments of mythic national history to Pulp fantasy rather than Mythic retelling."
 classification_sources:
 - https://sf-encyclopedia.com/entry/sinclair_andrew
 - https://www.valancourtbooks.com/gog-1967.html
 books:
-- {title: Gog, first_published: 1967, cover_url: 'https://www.valancourtbooks.com/uploads/2/7/0/1/27017582/7577186.jpg'}
-- {title: Magog, first_published: 1972}
-- {title: King Ludd, first_published: 1988, cover_url: 'https://covers.openlibrary.org/b/id/9434194-L.jpg'}
-cover_curation: {status: partial, selected_url: 'https://www.valancourtbooks.com/uploads/2/7/0/1/27017582/7577186.jpg', source: 'Valancourt 2015 edition, Henry Petrides', shows_english_title: true, visually_reviewed_on: '2026-09-20'}
+- title: Gog
+  year: 1967
+  cover_url: https://www.valancourtbooks.com/uploads/2/7/0/1/27017582/7577186.jpg
+- title: Magog
+  year: 1972
+  cover_url: https://covers.openlibrary.org/b/id/14125046-L.jpg
+- title: King Ludd
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/9434194-L.jpg
+cover_curation:
+  status: partial
+  selected_url: https://www.valancourtbooks.com/uploads/2/7/0/1/27017582/7577186.jpg
+  source: Valancourt 2015 edition, Henry Petrides
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

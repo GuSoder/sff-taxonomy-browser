@@ -6,17 +6,19 @@ first_published: 2019
 last_published: 2020
 canonical_genre: medieval-dynastic-intrigue
 placement_status: accepted
-placement_rationale: 'Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Dynastic intrigues -> Medieval dynastic intrigue. Macmillan defines the complete dark-fantasy duology around a low-caste chieftain’s bargain with the crown prince, the king’s death, Queen Rhusana’s bid for the throne and protection of the Crows. Medieval caste/crown legitimacy governs the resistance plot.'
+placement_rationale: "Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Dynastic intrigues -> Medieval dynastic\
+  \ intrigue. Macmillan defines the complete dark-fantasy duology around a low-caste chieftain\u2019s bargain with the crown prince, the king\u2019s death,\
+  \ Queen Rhusana\u2019s bid for the throne and protection of the Crows. Medieval caste/crown legitimacy governs the resistance plot."
 classification_sources:
 - https://us.macmillan.com/series/themercifulcrowseries
 - https://margaret-owen.com/tmc-duology/
 books:
 - title: The Merciful Crow
-  first_published: 2019
-  cover_url: 277-the-merciful-crow-1.jpg
+  year: 2019
+  cover_url: cover-the-merciful-crow.jpg
 - title: The Faithless Hawk
-  first_published: 2020
-  cover_url: 277-the-merciful-crow-2.jpg
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10150811-L.jpg
 cover_curation:
   status: complete
   source: Henry Holt/Macmillan editions
@@ -25,3 +27,4 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass coordinated duology review
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

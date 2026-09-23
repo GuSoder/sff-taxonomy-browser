@@ -5,9 +5,10 @@ authors:
 first_published: 2019
 canonical_genre: civil-revolution-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Revolutionary fantasy -> Civil revolution
-  fantasy. Macmillan and Owen center a persecuted low caste of mercy-killers, its young chieftain’s bargain with the crown prince, bone magic and the struggle to
-  preserve and liberate her clan from the kingdom’s internal caste order. Resistance remakes the state from within rather than expelling a foreign occupier.'
+placement_rationale: "Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Revolutionary fantasy ->\
+  \ Civil revolution fantasy. Macmillan and Owen center a persecuted low caste of mercy-killers, its young chieftain\u2019s bargain with the crown prince,\
+  \ bone magic and the struggle to preserve and liberate her clan from the kingdom\u2019s internal caste order. Resistance remakes the state from within\
+  \ rather than expelling a foreign occupier."
 classification_sources:
 - https://us.macmillan.com/series/themercifulcrowseries
 - https://margaret-owen.com/tmc-duology/
@@ -18,9 +19,11 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 books:
 - title: The Merciful Crow
-  first_published: 2019
+  year: 2019
   cover_url: cover-the-merciful-crow.jpg
 - title: The Faithless Hawk
-  first_published: 2020
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10150811-L.jpg

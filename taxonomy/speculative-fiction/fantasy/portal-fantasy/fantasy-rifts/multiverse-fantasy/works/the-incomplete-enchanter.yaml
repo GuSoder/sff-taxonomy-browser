@@ -31,6 +31,7 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/8429024-L.jpg
 - title: Wall of Serpents
   year: 1960
+  cover_url: https://covers.openlibrary.org/b/id/12187527-L.jpg
 cover_audit:
   reviewed_on: '2026-09-21'
   reviewed_this_pass: 1
@@ -41,3 +42,5 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-universe/portal-fantasy/multiverse-fantasy to match live tree; placement
     unchanged on site.'
   previous_canonical_genre: null
+cover_curation:
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

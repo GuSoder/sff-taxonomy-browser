@@ -5,7 +5,8 @@ authors:
 first_published: 1958
 canonical_genre: time-machines
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Atemporal -> Time travel fiction -> Time Machines. Baen centers a secret Cold War project that creates time-transfer technology to counter enemy agents using the past; a built institutional apparatus governs the sequence.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Atemporal -> Time travel fiction -> Time Machines. Baen centers a secret
+  Cold War project that creates time-transfer technology to counter enemy agents using the past; a built institutional apparatus governs the sequence.'
 classification_sources:
 - https://www.baen.com/time-traders.html
 - https://sf-encyclopedia.com/entry/norton_andre
@@ -26,6 +27,7 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one series search, single pass
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 book_covers:
   status: partial
   audited_on: '2026-09-22'
@@ -51,3 +53,25 @@ book_covers:
   - title: Atlantis Endgame
     year: 2002
     cover_url: cover-atlantis-endgame.jpg
+books:
+- title: The Time Traders
+  year: 1958
+  cover_url: cover-the-time-traders.jpg
+- title: Galactic Derelict
+  year: 1959
+  cover_url: cover-galactic-derelict.jpg
+- title: The Defiant Agents
+  year: 1962
+  cover_url: cover-the-defiant-agents.jpg
+- title: Key Out of Time
+  year: 1963
+  cover_url: cover-key-out-of-time.jpg
+- title: Firehand
+  year: 1994
+  cover_url: cover-firehand.jpg
+- title: Echoes in Time
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/182514-L.jpg
+- title: Atlantis Endgame
+  year: 2002
+  cover_url: cover-atlantis-endgame.jpg
