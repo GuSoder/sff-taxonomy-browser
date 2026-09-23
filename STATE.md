@@ -1158,3 +1158,10 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 ## 12:55 - Dystopian rebellion (310) under Totalitarian dystopia
 - Gustav 12:52:19 "Dystopian rebellion is awesome, let's go!"; 12:53:53 "Sure, hang it there" (Totalitarian dystopia, not Social dystopian future, which excludes police states).
 - The Wild Boys first card (Grove cover OL 568697). Totalitarian dystopia definition widened to three modes (Huxleyan, Orwellian, Dystopian rebellion). added -> 738.
+
+## 14:05 - Far shores fantasy (311-314) under Fantasy Realms
+- Gustav 14:02:25 "Go" on the Far shores spec.
+- Fantasy Realms > Far shores fantasy (sibling after Gothic) > Chuanqi (Shenmo moved whole from Fairy-tale revision with Master Li + 278 portrait; Xuanhuan new leaf, Under Heaven first card, Penguin cover OL 9946446) and Khayal (new leaf; The Lions of Al-Rassan moved from Andalusian fantasy, which keeps The Bird King).
+- BANKED (do NOT create): Xianxia (under Chuanqi), Alf Layla (under Khayal).
+- Fairy-tale revision now 3 children (inversion, transplant, expansion). No empty works folders left by the moves.
+- added 738 -> 739 (Under Heaven only). Tree: 312 nodes, 898 cards / 1,918 books.
