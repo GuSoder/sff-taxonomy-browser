@@ -3,7 +3,9 @@ author: Mary Doria Russell
 year: 1996
 intake_index: 128
 leaf: speculative-fiction/science-fiction/modern-day/first-contact-fiction/alien-expedition
-genre_grounding: 'Fiction card for the Emilio Sandoz sequence (The Sparrow 1996, Children of God 1998). SFE (russell_mary_doria): a Jesuit mission (hollowed-out asteroid ship) to the planet Rakhat after SETI picks up broadcasts of haunting music; "First Contact with a complex native culture is established" - and goes disastrously sour. Won the Arthur C Clarke, BSFA and Tiptree awards. Placed in first-contact-fiction.'
+genre_grounding: 'Fiction card for the Emilio Sandoz sequence (The Sparrow 1996, Children of God 1998). SFE (russell_mary_doria): a Jesuit mission (hollowed-out
+  asteroid ship) to the planet Rakhat after SETI picks up broadcasts of haunting music; "First Contact with a complex native culture is established" - and
+  goes disastrously sour. Won the Arthur C Clarke, BSFA and Tiptree awards. Placed in first-contact-fiction.'
 cover:
   source: openlibrary
   cover_id: 418903
@@ -11,7 +13,18 @@ cover:
   url: https://covers.openlibrary.org/b/id/418903-L.jpg
   shows_english_title: true
   beauty: 7.5
-  notes: 'Gold stars on deep blue above a Renaissance fresco strip; title in black band, red author band. Flat front, no marketing copy. Card title = The Sparrow, literally shown in the art, so shows_english_title=true. 12 editions with covers on OL2732491W. Rejected: 291258 Ballantine 1997 (award roundel + NYT review quote), 12658498 Black Swan (John Clute review quote + Arthur C. Clarke Award callout line), 8261354 Ballantine 2004 and 14632996 20th Anniversary (review quotes, ''20th Anniversary Edition'' banner), Brilliance/Nova audiobooks.'
+  notes: 'Gold stars on deep blue above a Renaissance fresco strip; title in black band, red author band. Flat front, no marketing copy. Card title = The
+    Sparrow, literally shown in the art, so shows_english_title=true. 12 editions with covers on OL2732491W. Rejected: 291258 Ballantine 1997 (award roundel
+    + NYT review quote), 12658498 Black Swan (John Clute review quote + Arthur C. Clarke Award callout line), 8261354 Ballantine 2004 and 14632996 20th
+    Anniversary (review quotes, ''20th Anniversary Edition'' banner), Brilliance/Nova audiobooks.'
 deep_link: https://gusoder.github.io/sff-taxonomy-browser/#first-contact-fiction/the-sparrow
 date_added: 2026-09-14
 canonical_genre: alien-expedition
+books:
+- title: The Sparrow
+  year: 1996
+- title: Children of God
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/225523-L.jpg
+cover_curation:
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

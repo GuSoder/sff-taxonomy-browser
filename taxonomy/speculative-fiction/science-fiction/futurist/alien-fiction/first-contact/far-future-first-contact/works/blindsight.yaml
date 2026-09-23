@@ -5,7 +5,8 @@ authors:
 first_published: 2006
 canonical_genre: far-future-first-contact
 placement_status: accepted
-placement_rationale: A cognitively modified crew and a suspect AI investigate an alien intelligence at the Solar System’s edge; SFE explicitly calls it a first-contact tale.
+placement_rationale: "A cognitively modified crew and a suspect AI investigate an alien intelligence at the Solar System\u2019s edge; SFE explicitly calls\
+  \ it a first-contact tale."
 classification_sources:
 - https://sf-encyclopedia.com/entry/watts_peter
 - https://us.macmillan.com/books/9781250237484/blindsight/
@@ -17,10 +18,20 @@ cover_curation:
   cover_id: OL524560L
   beauty_score: 8.0
   beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
-  beauty_rationale: An eerie flat-front painting sets a razor-bright spacecraft over a dark planet and tangled black foreground branches, with a restrained red frame and acid-green lettering sharpening the alien, high-contrast mood.
+  beauty_rationale: An eerie flat-front painting sets a razor-bright spacecraft over a dark planet and tangled black foreground branches, with a restrained
+    red frame and acid-green lettering sharpening the alien, high-contrast mood.
   visually_reviewed_on: '2026-09-12'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 9
-  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
   title_overlay: false
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
+books:
+- title: Blindsight
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/524560-L.jpg
+- title: Echopraxia
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8457790-L.jpg

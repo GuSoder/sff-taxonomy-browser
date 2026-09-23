@@ -15,11 +15,14 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/8760605-L.jpg
   cover_id: OL-cover-8760605
   shows_english_title: true
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 books:
 - title: Vurt
-  first_published: 1993
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/8226901-L.jpg
 - title: Pollen
-  first_published: 1995
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/908150-L.jpg
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/techno-fiction/cyberpunk/neural-fiction to match live tree;

@@ -5,3 +5,11 @@ authors:
 first_published: 1977
 canonical_genre: classic-haunted-house
 placement_status: accepted
+books:
+- title: The Shining
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/12376585-L.jpg
+- title: Doctor Sleep
+  year: 2013
+cover_curation:
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

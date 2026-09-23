@@ -5,8 +5,8 @@ authors:
 first_published: 1993
 canonical_genre: cyberpunk
 placement_status: accepted
-placement_rationale: Penguin Random House calls Vurt the novel that reinvented cyberpunk; its immersive shared reality and
-  alternate Manchester fit the node directly.
+placement_rationale: Penguin Random House calls Vurt the novel that reinvented cyberpunk; its immersive shared reality and alternate Manchester fit the
+  node directly.
 classification_sources:
 - https://www.penguinrandomhouse.com/books/738266/vurt-by-jeff-noon/
 cover_curation:
@@ -17,10 +17,20 @@ cover_curation:
   cover_id: OL-cover-8760605
   beauty_score: 7.5
   beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
-  beauty_rationale: A saturated red flat front centers a glowing yellow feather against a dark organic oval, with distressed black lettering and stark white bands giving the cyberpunk image heat, texture, and menace.
+  beauty_rationale: A saturated red flat front centers a glowing yellow feather against a dark organic oval, with distressed black lettering and stark white
+    bands giving the cyberpunk image heat, texture, and menace.
   visually_reviewed_on: '2026-09-12'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 10
-  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book objects
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
   title_overlay: false
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
+books:
+- title: Vurt
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/8226901-L.jpg
+- title: Pollen
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/908150-L.jpg
