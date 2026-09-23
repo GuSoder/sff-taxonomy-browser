@@ -1208,3 +1208,4 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - BANKED future leaf (do NOT create yet): "Magic school". Seed: teacher-POV magic-school books (The Incandescent); Harry Potter and other school-set coming-of-age books are candidates to revisit if it is created.
 - Gustav 21:48 "Execute": Audition for the Fox (Martin Cahill) -> Epic fantasy > Invented Mythology (3->4). Time-travel-fantasy leaf question now covers only The Everlasting.
 - Gustav 22:00 "Cool, do the umbrella bundle": new umbrella Epic fantasy > Hard fantasy (EoF term, Westfahl), holding Hard magic (moved, 9 cards) and new leaf Time magic; The Everlasting (Harrow) first Time magic card. Portraits 322-hard-fantasy, 323-time-magic.
+- Gustav 22:16 "Execute": new leaf Cyberpunk > LitRPG (sibling of Metaverse; term coined 2013, EKSMO). Seed: Dungeon Crawler Carl series card (8 books). Portrait 324-litrpg.
