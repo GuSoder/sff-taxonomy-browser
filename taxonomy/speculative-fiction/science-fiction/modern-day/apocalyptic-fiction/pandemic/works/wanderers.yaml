@@ -1,0 +1,31 @@
+id: wanderers
+title: Wanderers
+authors:
+- Chuck Wendig
+first_published: 2019
+canonical_genre: pandemic
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Modern day -> Apocalyptic fiction -> Pandemic. SFE calls Wanderers a Near
+  Future tale of the immediate aftermath of a planetary Disaster; NPR and Kirkus center a plague of sleepwalkers and the fungal pandemic that kills most
+  of humanity while a recognizable America tears itself apart. The end of the world by plague, in progress, governs. Two published books; not treated as
+  complete.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/wendig_chuck
+- https://www.npr.org/2019/07/06/738974776/these-wanderers-are-heading-for-the-end-of-the-world
+- https://www.kirkusreviews.com/book-reviews/chuck-wendig/wanderers-wendig/
+books:
+- title: Wanderers
+  year: 2019
+  cover_url: cover-wanderers.jpg
+- title: Wayward
+  year: 2022
+  cover_url: cover-wayward.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  cover_ids:
+  - 11124853
+  - 14806144
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one series search, single pass
