@@ -1131,3 +1131,9 @@
 - New leaf Alt Prewar (307) under Period alterations; The Plot Against America moved off the branch (divergence 1940-43, snaps back via ordinary events, not Atemporal). Period alterations now pure; removed from verify KNOWN list. Portrait 307 generated at creation.
 
 - 2026-09-23 12:20 Gustav ruled ("Yes") The Raven Tower -> Epic fantasy > Invented Mythology (its core is the invented theology; dynastic plot is scaffolding). Dynastic intrigues is now pure; KNOWN pure-branch exceptions list is empty. Tree: 305 nodes, 891 cards / 1,910 books.
+
+## Standing grant: autonomous leaf creation (Gustav 2026-09-23 12:27:10)
+Gustav's words: "No, don't visibly park them. If the umbrella genre is far down the tree, (like at least 5 steps down right now I feel) and there is space (like 2/3/4 genres only), you see a pattern in naming and can follow it, you are allowed to just make leaves yourself. But preferably I would like to be served leaf suggestions here, in any case a link to the tree for me to inspect"
+- Scope: parent umbrella at depth >= 5 (Speculative fiction = 0), currently 2-4 children, and a clear sibling naming pattern to follow -> may create the leaf myself (portrait at creation as usual).
+- Preference: still serve leaf suggestions to him first where possible; always give him a tree link to inspect.
+- Never visibly park books on stems.
