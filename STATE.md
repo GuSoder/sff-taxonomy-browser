@@ -1216,3 +1216,4 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Gustav 23:13: Martin Hench trilogy (Doctorow: Red Team Blues, The Bezzle, Picks and Shovels) EXCLUDED as not SFF - real tech, no speculative premise. Recorded in progress.json excluded[]. Do not resurface.
 - Gustav 23:14: A Granite Silence (Nina Allan) EXCLUDED as not SFF - historical crime novel, no speculative element. Recorded in progress.json excluded[]. Do not resurface.
 - Gustav 23:16: Looking Glass Sound (Catriona Ward) EXCLUDED as not SFF - psychological/metafictional thriller, nothing supernatural on the page. Recorded in progress.json excluded[]. Do not resurface.
+- Gustav 23:22 "Execute": Corey Fah Does Social Mobility (Waidner) is SFF -> Classic Fabulation > Absurdist constructed realities (6->7). Cover: Penguin UK front via Amazon (no OL cover).
