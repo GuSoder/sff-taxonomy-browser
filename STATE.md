@@ -1153,3 +1153,4 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - BANKED future sibling names (Gustav 12:37, do NOT create yet): "Gatsby fantasy", "Deco fantasy".
 - Portraits generated at creation (smart 2:3, 1024x1536 webp). added 735 -> 737. Tree: 307 nodes, 896 cards / 1,916 books.
 - Remaining suggestions awaiting Gustav: Hidden creators, Theological space opera, Future insurgency, Tang fantasy, Patriarchal Dystopias, Psi saga.
+- 12:41 Gustav VETO on Hidden creators: "No, supernatural is getting crowded without a good plan forward, hold it". Supernatural fantasy (Nocturne) is FROZEN for additions (new leaves and placements) until he has a plan. Jonathan Hoag -> pending-ruling queue.
