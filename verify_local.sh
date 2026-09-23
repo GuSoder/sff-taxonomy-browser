@@ -27,6 +27,7 @@ books=sum(len(w.get('books',[])) if w.get('books') else 1 for n in nodes for w i
 ids=[n['id'] for n in nodes]
 assert len(ids)==len(set(ids)), 'FAIL: duplicate node ids'
 byid={n['id']:n for n in nodes}
+assert all('works' in n for n in nodes), 'FAIL: node missing works key (breaks rendering)'
 for n in nodes:
     for c in n.get('children',[]):
         assert c in byid, f'FAIL: dangling child {c} on {n["id"]}'
