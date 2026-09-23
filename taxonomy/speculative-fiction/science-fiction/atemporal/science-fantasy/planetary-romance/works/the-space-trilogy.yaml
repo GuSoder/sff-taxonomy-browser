@@ -1,5 +1,5 @@
 id: out-of-the-silent-planet
-title: Out of the Silent Planet
+title: The Space Trilogy
 authors:
 - C. S. Lewis
 first_published: 1938
@@ -35,3 +35,19 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/planetary-romance to match live tree; placement unchanged
     on site.'
   previous_canonical_genre: planetary-romance
+- date: '2026-09-23'
+  change: Converted single-book card "Out of the Silent Planet" to full series card "The Space Trilogy"
+books:
+- title: Out of the Silent Planet
+  year: 1938
+  cover_url: https://covers.openlibrary.org/b/id/8445245-L.jpg
+- title: Perelandra
+  year: 1943
+  cover_url: https://covers.openlibrary.org/b/id/9186044-L.jpg
+- title: That Hideous Strength
+  year: 1945
+  cover_url: https://covers.openlibrary.org/b/id/9184879-L.jpg
+placement_note: 'SFE (lewis_c_s) names the Ransom sequence Lewis''s primary contribution to SF; SFE planetary_romance covers tales whose venue is an alien
+  planet and whose plot turns on its nature - Ransom is taken by spaceship to Malacandra (Mars) and the story turns on its peoples and cosmic order. Shelfmates:
+  Pern, Majipoor. Series conversion 2026-09-23 (#876): HarperCollins names the three Ransom books as the Space Trilogy. Note: book 3 is Earth-set; series
+  placement kept from the book-1 card.'

@@ -1,0 +1,34 @@
+id: magician
+title: The Riftwar Saga
+authors:
+- Raymond E. Feist
+first_published: 1982
+canonical_genre: classic-quest-fantasy
+placement_status: accepted
+placement_rationale: HarperCollins begins with orphan Pug apprenticed to a magician, then sends him through war, scattered companions and a fate spanning
+  worlds after a foreign ship reaches Midkemia. The long world-crossing journey from kitchen boy to master magician makes Quest fantasy closest.
+classification_sources:
+- https://www.harpercollins.co.nz/9780007466863/magician/
+- https://www.crydee.com/raymond-feist/publication-information/us/riftwar-saga
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/15166513-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass exact-title review
+books:
+- title: Magician
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/15166513-L.jpg
+- title: Silverthorn
+  year: 1985
+- title: A Darkness at Sethanon
+  year: 1986
+placement_note: 'HarperCollins begins with orphan Pug apprenticed to a magician, then sends him through war, scattered companions and a fate spanning worlds
+  after a foreign ship reaches Midkemia. The long world-crossing journey from kitchen boy to master magician makes Quest fantasy closest. Series conversion
+  2026-09-23 (#855): the official Riftwar Saga trilogy per crydee.com and HarperCollins; the Midkemia/Kelewan world-crossing war story continues across
+  all three books.'
+placement_history:
+- date: '2026-09-23'
+  change: Converted single-book card "Magician" to full series card "The Riftwar Saga"
