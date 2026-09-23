@@ -1,12 +1,12 @@
 id: comic-fantasy
 label: Comic fantasy
 parent: sword-and-sorcery
-definition: "Fantasy whose comedy, parody or satire is the governing engine rather than incidental relief. Comic fantasy is an explicit exception to the\
-  \ ordinary realm fork: centrally comical works belong here whether set in an invented world or on Real Earth. Within Sword and sorcery, it expresses the\
-  \ school\u2019s fun-romp tradition through comedy."
+definition: 'Fantasy whose comedy, parody or satire is the governing engine rather than incidental relief. Comic fantasy is an explicit exception to the ordinary
+  realm fork: centrally comical works belong here whether set in an invented world or on Real Earth. Within Sword and sorcery, it expresses the school’s fun-romp
+  tradition through comedy.'
 status: accepted
-doctrine_note: 'Gustav ruling, 2026-09-22 14:40 CEST: comedic engine is definitional; setting is not a gate here, unlike Heritage fantasy. This exception
-  overrides the realm fork only for Comic fantasy.'
+doctrine_note: 'Gustav ruling, 2026-09-22 14:40 CEST: comedic engine is definitional; setting is not a gate here, unlike Heritage fantasy. This exception overrides
+  the realm fork only for Comic fantasy.'
 children: []
 image: 163-comic-fantasy.webp
 works:
@@ -17,3 +17,4 @@ works:
 - turnabout
 - xanth
 - zuleika-dobson
+- im-afraid-youve-got-dragons

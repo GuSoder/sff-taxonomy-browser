@@ -1,7 +1,7 @@
 {
  "next": 1,
- "processed": 100,
- "added": 72,
+ "processed": 125,
+ "added": 88,
  "held": [
   {
    "k": 2,
@@ -112,7 +112,47 @@
    "k": 99,
    "title": "Dungeon Crawler Carl",
    "reason": "new-leaf question: LitRPG, an alien game show turning Earth into a dungeon. No LitRPG / game-world leaf."
+  },
+  {
+   "k": 104,
+   "title": "Looking Glass Sound",
+   "reason": "genre question: horror/metafiction about a writer, a 1989 Maine summer and a serial killer, blurring reality and fiction (PW, Paste). SFF at all?"
+  },
+  {
+   "k": 105,
+   "title": "Metronome",
+   "reason": "leaf question: near-future dystopia, a couple exiled to a remote island by an authoritarian government (Guardian x2). Only Orwellianesque fits, and that is the last-resort leaf."
+  },
+  {
+   "k": 111,
+   "title": "Sleeping Worlds Have No Memory",
+   "reason": "genre question: Kirkus calls it 'fantasy and SF'; a disgraced royal minister, compared to The Vanished Birds (Locus). Needs a read on which side it falls."
+  },
+  {
+   "k": 113,
+   "title": "The Adventures of Amina al-Sirafi",
+   "reason": "leaf question: 12th-century Indian Ocean pirate quest with jinn and sorcery (NYT, BookPage). Real-history setting with no fitting period leaf; Alternate history fantasy is frozen at 10."
+  },
+  {
+   "k": 114,
+   "title": "The Anomaly",
+   "reason": "leaf question: a jet comes out of a storm duplicated with all its passengers, and the world weighs the simulation hypothesis (NYT, Telegraph). Present-day literary SF; no leaf covers it cleanly."
+  },
+  {
+   "k": 119,
+   "title": "The Secret Market of the Dead",
+   "reason": "leaf question: folkloric historical fantasy in a fictional Neapolitan town in 1747 (PW, Library Journal). Rococo fantasy is 18th-century but courtly; this is a village smithy."
+  },
+  {
+   "k": 120,
+   "title": "The Ten Percent Thief",
+   "reason": "leaf question: authoritarian 'meritocratic technocracy' in a future Bengaluru, told as vignettes (PW, Fantasy Hive). Between Huxleyan and Orwellian leaves."
+  },
+  {
+   "k": 121,
+   "title": "The Wings Upon Her Back",
+   "reason": "leaf question: science fantasy of a winged warrior in a god-ruled city (Kirkus, Locus). Hard science fantasy vs Planetary romance unclear."
   }
  ],
- "awards_processed": 100
+ "awards_processed": 125
 }

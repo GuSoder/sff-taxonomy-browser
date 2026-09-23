@@ -3,8 +3,9 @@ label: Paladin Hero
 parent: caster-heroes
 children: []
 image: 195-paladin-hero.webp
-definition: "Caster-hero fantasy whose protagonist\u2019s primary power joins martial office to sacred or oath-bound magic."
+definition: Caster-hero fantasy whose protagonist’s primary power joins martial office to sacred or oath-bound magic.
 status: accepted
 works:
 - deryni-rising
 - paladin-s-strength
+- paladins-faith
