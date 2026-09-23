@@ -1,0 +1,26 @@
+id: war-in-heaven
+title: War in Heaven
+authors:
+- Charles Williams
+first_published: 1930
+canonical_genre: arthurian-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Mythic retelling -> Arthurian fantasy. Eerdmans: Williams
+  gives a contemporary setting to the traditional Search for the Holy Grail, which turns up in an English parish church and is fought over by an archdeacon
+  and black magicians. Real magic and divine power are in play, and the Grail story governs.'
+classification_sources:
+- https://www.eerdmans.com/9780802812193/war-in-heaven/
+- https://www.faber.co.uk/product/9780571271108-war-in-heaven/
+- https://en.wikipedia.org/wiki/War_in_Heaven_(novel)
+books:
+- title: War in Heaven
+  year: 1930
+  cover_url: cover-war-in-heaven.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  cover_ids:
+  - 14680077
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one work search, single pass

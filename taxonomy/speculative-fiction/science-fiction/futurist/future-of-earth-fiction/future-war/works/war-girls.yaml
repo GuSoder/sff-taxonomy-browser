@@ -1,0 +1,30 @@
+id: war-girls
+title: War Girls
+authors:
+- Tochi Onyebuchi
+first_published: 2019
+canonical_genre: future-war
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Future War. SFE sets the sequence
+  in a Near Future Nigeria devastated by Climate Change; NYT, Kirkus and Black Gate center a reimagined Nigerian civil war in 2172 fought by augmented child
+  soldiers and giant mechs. Technology-transformed war on Earth governs over the climate backdrop. Complete duology.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/onyebuchi_tochi
+- https://www.nytimes.com/2019/11/06/books/review/war-girls-tochi-onyebuchi.html
+- https://www.kirkusreviews.com/book-reviews/tochi-onyebuchi/war-girls/
+books:
+- title: War Girls
+  year: 2019
+  cover_url: cover-war-girls.jpg
+- title: Rebel Sisters
+  year: 2020
+  cover_url: cover-rebel-sisters.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  cover_ids:
+  - 8921489
+  - 10335581
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one series search, single pass
