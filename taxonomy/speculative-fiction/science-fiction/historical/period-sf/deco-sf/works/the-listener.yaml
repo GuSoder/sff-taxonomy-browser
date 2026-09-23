@@ -1,0 +1,24 @@
+id: the-listener
+title: The Listener
+authors:
+- Robert McCammon
+first_published: 2018
+placement_status: accepted
+placement_rationale: 'Cemetery Dance and Publishers Weekly set the story in 1934 New Orleans, where Curtis and kidnapped child Nilla share genuine psychic rapport.
+  Written in 2018, set in the Depression-era 1930s: Deco SF. Moved from Psi noir (retired) 2026-09-23 (Gustav 16:00).'
+classification_sources:
+- https://www.cemeterydance.com/the-listener.html
+- https://www.publishersweekly.com/9781587676130
+cover_curation:
+  status: complete
+  source: Cemetery Dance
+  selected_url: cover-the-listener.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
+canonical_genre: deco-sf
+placement_history:
+- date: '2026-09-23'
+  from: psi-noir
+  to: deco-sf
+  ruling: Gustav 16:00:59 "Execute Deco SF"

@@ -1173,3 +1173,9 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Mem (2018, 1920s) NOT moved: no Period SF leaf fits (steam-era / telepathy / aliens). Stays in Mad-science Gothic, flagged to Gustav.
 - Wild Seed leaf NOT created (pending ruling). Tree: 314 nodes, 898 cards / 1,918 books.
 - 15:38 Gustav "Can you change it to Period SF?" -> Period Sci-Fi renamed Period SF (id/anchor period-sf, portrait 316-period-sf.webp), harmonizing with Proto SF.
+
+## 16:10 - Deco SF (317) under Period SF; Psi noir retired
+- Gustav 15:53 "But wait" halted Retro Gothic SF (nothing had been committed). Rule 15:55: direct subgenres under Period umbrellas are named for the era.
+- Gustav 16:00:59 "Yay, finally a Deco Genre! Execute Deco SF" -> Deco SF leaf (Art Deco interwar, ~1918-1939): Mem (from Mad-science Gothic) + The Listener (from Psi noir). Psi noir left empty -> retired (node, folder, portrait 286 file kept in repo root).
+- Period SF children: Steampunk, Deco SF, Historical first contact. Historical first contact (14th c. + prehistory) still breaks the era-naming rule - open question for Gustav.
+- Tree: 314 nodes, 898 cards / 1,918 books.

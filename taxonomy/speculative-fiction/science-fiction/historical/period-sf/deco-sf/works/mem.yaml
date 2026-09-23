@@ -1,0 +1,29 @@
+id: mem
+title: Mem
+authors:
+- Bethany C. Morrow
+first_published: 2018
+canonical_genre: deco-sf
+placement_status: accepted
+placement_rationale: 'Unnamed Press and Publishers Weekly: in 1920s Montreal a scientist''s procedure extracts memories into corporeal mirror-images, and one extract
+  becomes an autonomous person. Written in 2018 and set in the jazz-age city, so Period SF; the interwar setting makes it Deco SF. Moved from Mad-science Gothic 2026-09-23
+  (Gustav 16:00).'
+classification_sources:
+- https://www.unnamedpress.com/all-books/p/mem
+- https://www.publishersweekly.com/9781944700553
+cover_curation:
+  status: complete
+  source: Unnamed Press
+  selected_url: http://static1.squarespace.com/static/669172a9220c0d23ff8b86f1/66955d83710d5f2ad9dea154/66d78e1f0169ae647d23a02b/1787910930032/MEM.jpg?format=1500w
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/gothic-science-fiction/mad-science-gothic to match live tree; placement unchanged
+    on site.'
+  previous_canonical_genre: mad-science-gothic
+- date: '2026-09-23'
+  from: mad-science-gothic
+  to: deco-sf
+  ruling: Gustav 16:00:59 "Execute Deco SF"
