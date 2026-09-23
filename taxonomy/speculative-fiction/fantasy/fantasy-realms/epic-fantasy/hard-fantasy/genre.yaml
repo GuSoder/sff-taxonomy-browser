@@ -1,0 +1,14 @@
+id: hard-fantasy
+label: Hard fantasy
+parent: epic-fantasy
+children:
+- hard-magic
+- time-magic
+image: 322-hard-fantasy.webp
+definition: Epic fantasy in which magic is treated as an almost scientific force of nature, subject to consistent rules and principles - the fantasy analogue of hard
+  SF (Encyclopedia of Fantasy 'Hard Fantasy', Gary Westfahl). Umbrella created by Gustav's 2026-09-23 22:00 ruling, bundling Hard magic and Time magic.
+status: umbrella
+ruling: Created by Gustav's 2026-09-23 22:00 ruling ("Cool, do the umbrella bundle").
+sources:
+- https://en.wikipedia.org/wiki/Hard_fantasy
+works: []
