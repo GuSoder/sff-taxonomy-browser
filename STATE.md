@@ -1198,3 +1198,6 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
   - Gustav stated the Childless Dystopias cards are The Handmaid's Tale, Children of Men, Atomised, Greybeard; with Handmaid's moved, Childless holds 3 cards.
 - The Unpleasant Profession of Jonathan Hoag (Heinlein 1942) added to Absurdist constructed realities, not Supernatural (Gustav 17:47:56: it's fabulation). 5 cards on the leaf.
 - Tree: 315 nodes, 902 cards / 1,925 books.
+
+## 2026-09-23 18:26 - Intake counter fix
+- #989 Zuleika Dobson (Beerbohm) was already placed in Comic fantasy (in tree since before the 03:42 mirror sync); progress.json was one behind. processed=989/989. The added count was not changed.
