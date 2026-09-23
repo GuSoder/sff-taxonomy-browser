@@ -1166,9 +1166,10 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Fairy-tale revision now 3 children (inversion, transplant, expansion). No empty works folders left by the moves.
 - added 738 -> 739 (Under Heaven only). Tree: 312 nodes, 898 cards / 1,918 books.
 
-## 15:27 - Historical fold (Proto SF 315, Period Sci-Fi 316)
-- Gustav 15:05:52 "Execute". SF > Historical: 8 children -> Proto SF / Period Sci-Fi / Alternate history.
-- Proto SF: Lost world fiction, Scientific adventure, Fantastic voyage, Gothic SF (moved whole). Period Sci-Fi: Steampunk, Psi noir, Historical first contact (moved whole).
+## 15:27 - Historical fold (Proto SF 315, Period SF 316)
+- Gustav 15:05:52 "Execute". SF > Historical: 8 children -> Proto SF / Period SF / Alternate history.
+- Proto SF: Lost world fiction, Scientific adventure, Fantastic voyage, Gothic SF (moved whole). Period SF: Steampunk, Psi noir, Historical first contact (moved whole).
 - Two Planets moved Historical first contact -> Scientific adventure (written in its own era).
-- Mem (2018, 1920s) NOT moved: no Period Sci-Fi leaf fits (steam-era / telepathy / aliens). Stays in Mad-science Gothic, flagged to Gustav.
+- Mem (2018, 1920s) NOT moved: no Period SF leaf fits (steam-era / telepathy / aliens). Stays in Mad-science Gothic, flagged to Gustav.
 - Wild Seed leaf NOT created (pending ruling). Tree: 314 nodes, 898 cards / 1,918 books.
+- 15:38 Gustav "Can you change it to Period SF?" -> Period Sci-Fi renamed Period SF (id/anchor period-sf, portrait 316-period-sf.webp), harmonizing with Proto SF.

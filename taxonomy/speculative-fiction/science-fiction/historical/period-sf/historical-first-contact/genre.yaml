@@ -1,6 +1,6 @@
 id: historical-first-contact
 label: Historical first contact
-parent: period-sci-fi
+parent: period-sf
 children: []
 image: 55-historical-first-contact.webp
 definition: First-contact stories set in the historical past. (Coined label for the four-genre time-axis reorganization.)
@@ -10,4 +10,4 @@ works:
 - the-inheritors
 history:
 - date: '2026-09-23'
-  change: Moved whole under period-sci-fi (Historical fold, Gustav 15:05).
+  change: Moved whole under period-sf (Historical fold, Gustav 15:05).
