@@ -1,0 +1,18 @@
+id: homebrew-time-machines
+name: Homebrew time machines
+label: Homebrew time machines
+parent: time-machines
+children: []
+works:
+- the-time-machine
+- the-time-ships
+- the-door-into-summer
+- dirk-gently
+- time-enough-for-love
+- the-silver-wind
+- the-dancers-at-the-end-of-time
+image: 301-homebrew-time-machines.webp
+portrait: 301-homebrew-time-machines.webp
+definition: 'Time Machines owned by an individual: a lone inventor''s, family''s or private person''s built device carries the traveler through time, with
+  no organization behind it. Owner test: take away the organization; if the time travel has no owner left, it is Time travel agency.'
+status: accepted

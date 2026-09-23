@@ -3,7 +3,7 @@ title: The Time Machine
 authors:
 - H. G. Wells
 first_published: 1895
-canonical_genre: time-machines
+canonical_genre: homebrew-time-machines
 placement_status: accepted
 placement_rationale: The machine-mediated journey into Earth's distant future is the book's defining device; SFE treats the title as the key early term
   for a machine designed for time travel.
@@ -32,3 +32,6 @@ placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/time-travel-fiction to match live tree; placement unchanged on site.'
   previous_canonical_genre: time-travel-fiction
+- date: '2026-09-23'
+  change: 'Time Machines split (Gustav ruling 2026-09-23 10:09): moved to Homebrew time machines. Walk: Speculative fiction -> Science fiction -> Atemporal
+    -> Time travel fiction -> Time Machines -> Homebrew time machines'
