@@ -1,10 +1,10 @@
 id: spaceship-drama
 label: Spaceship drama
 parent: new-space-opera
-definition: "Character-driven new space opera focused on intimate interpersonal drama among a spaceship crew or close spacefaring community; cooperation,\
-  \ mutual aid, care and found family drive the story, with diplomacy favored over conquest. Search aliases: cozy space opera, iyashikei (the Japanese healing\
-  \ slice-of-life tradition), found family, Hearthship. Western frontier grammar belongs elsewhere. Named by Gustav S\xF6derstr\xF6m on 2026-09-22; Hearthship\
-  \ is reserved as a possible child if this genre later splits."
+definition: 'Character-driven new space opera focused on intimate interpersonal drama among a spaceship crew or close spacefaring community; cooperation, mutual aid,
+  care and found family drive the story, with diplomacy favored over conquest. Search aliases: cozy space opera, iyashikei (the Japanese healing slice-of-life tradition),
+  found family, Hearthship. Western frontier grammar belongs elsewhere. Named by Gustav Söderström on 2026-09-22; Hearthship is reserved as a possible child if this
+  genre later splits.'
 status: accepted
 image: 286-spaceship-drama.webp
 children: []
@@ -12,3 +12,4 @@ works:
 - wayfarers
 - the-vanished-birds
 - unstoppable
+- the-red-scholars-wake
