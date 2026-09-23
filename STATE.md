@@ -1154,3 +1154,7 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Portraits generated at creation (smart 2:3, 1024x1536 webp). added 735 -> 737. Tree: 307 nodes, 896 cards / 1,916 books.
 - Remaining suggestions awaiting Gustav: Hidden creators, Theological space opera, Future insurgency, Tang fantasy, Patriarchal Dystopias, Psi saga.
 - 12:41 Gustav VETO on Hidden creators: "No, supernatural is getting crowded without a good plan forward, hold it". Supernatural fantasy (Nocturne) is FROZEN for additions (new leaves and placements) until he has a plan. Jonathan Hoag -> pending-ruling queue.
+
+## 12:55 - Dystopian rebellion (310) under Totalitarian dystopia
+- Gustav 12:52:19 "Dystopian rebellion is awesome, let's go!"; 12:53:53 "Sure, hang it there" (Totalitarian dystopia, not Social dystopian future, which excludes police states).
+- The Wild Boys first card (Grove cover OL 568697). Totalitarian dystopia definition widened to three modes (Huxleyan, Orwellian, Dystopian rebellion). added -> 738.
