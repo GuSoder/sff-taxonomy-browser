@@ -1,0 +1,15 @@
+id: ai
+name: AI
+label: AI
+parent: machine-minds
+children: []
+works:
+- dual-memory
+- river-of-gods
+- michaelmas
+- the-outside
+image: 304-ai.webp
+portrait: 304-ai.webp
+definition: 'Disembodied or distributed machine intelligences: minds living in networks, databases and systems rather than a single body. Embodiment test:
+  if the story centers a machine in a body, it is Robots; if it centers a disembodied or distributed intelligence, it is AI.'
+status: leaf

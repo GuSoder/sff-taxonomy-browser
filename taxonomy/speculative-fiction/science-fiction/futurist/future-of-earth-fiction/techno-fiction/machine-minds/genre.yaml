@@ -1,0 +1,12 @@
+id: machine-minds
+label: Machine minds
+parent: techno-fiction
+children:
+- robots
+- ai
+image: 72-robots-and-ai.webp
+definition: 'Science fiction in which machine minds are the central subject - their laws, societies and collisions with humanity - divided by embodiment.
+  Embodiment test: if the story centers a machine in a body, it is Robots; if it centers a disembodied or distributed intelligence, it is AI.'
+status: category
+works: []
+name: Machine minds

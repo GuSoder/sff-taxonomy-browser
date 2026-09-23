@@ -1,0 +1,28 @@
+id: the-stepford-wives
+title: The Stepford Wives
+authors:
+- Ira Levin
+first_published: 1972
+canonical_genre: robots
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine minds -> Robots.
+  Intake #879 released from the Robots and AI 10-card hold; Gustav placed it on Robots 2026-09-23. The wives of Stepford are replaced by embodied robotic
+  replicas, so the embodiment test gives Robots.'
+classification_sources:
+- https://en.wikipedia.org/wiki/The_Stepford_Wives
+- https://www.isfdb.org/cgi-bin/title.cgi?8721+2=
+- https://www.blackstonepublishing.com/products/book-heiz
+cover_curation:
+  status: complete
+  source: Blackstone Publishing
+  record_url: https://www.blackstonepublishing.com/products/book-heiz
+  selected_url: https://www.blackstonepublishing.com/cdn/shop/files/heiz-Rectangle-cover.jpg?v=1786468052
+  visually_reviewed_on: '2026-09-23'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 2
+  selection_rule: one-pass official review
+placement_history:
+- date: '2026-09-23'
+  change: 'Released from hold onto Robots (Gustav ruling 2026-09-23). Walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction
+    -> Techno Fiction -> Machine minds -> Robots'

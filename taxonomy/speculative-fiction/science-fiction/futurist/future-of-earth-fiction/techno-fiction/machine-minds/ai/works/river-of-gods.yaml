@@ -3,7 +3,7 @@ title: River of Gods
 authors:
 - Ian McDonald
 first_published: 2004
-canonical_genre: robots-and-ai
+canonical_genre: ai
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -14,3 +14,7 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/474065-L.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-23'
+  change: 'Robots and AI split into Machine minds (Gustav ruling 2026-09-23 10:37): moved to AI by the embodiment test. Walk: Speculative fiction -> Science
+    fiction -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine minds -> AI'
