@@ -5,9 +5,9 @@ authors:
 first_published: 1988
 canonical_genre: ranger-hero
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Heroic fantasy -> Martial heroes -> Ranger hero. Wizards/PRH
-  identifies Drizzt as the iconic dark-elven ranger and centers his journey with panther companion Guenhwyvar beyond Menzoberranzan; wilderness skill, weapons and
-  animal partnership define the hero.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Heroic fantasy -> Martial heroes -> Ranger hero.
+  Wizards/PRH identifies Drizzt as the iconic dark-elven ranger and centers his journey with panther companion Guenhwyvar beyond Menzoberranzan; wilderness
+  skill, weapons and animal partnership define the hero.'
 classification_sources:
 - https://legend-of-drizzt.com/
 - https://www.penguinrandomhouse.com/books/825763/the-dark-elf-trilogy-dungeons-and-dragons-by-ra-salvatore/
@@ -18,20 +18,25 @@ books:
   cover_url: cover-legend-of-drizzt.jpg
 - title: Exile
   year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/547296-L.jpg
 - title: Sojourn
   year: 1991
 - title: The Crystal Shard
   year: 1988
 - title: Streams of Silver
   year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/547480-L.jpg
 - title: The Halfling's Gem
   year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/547678-L.jpg
 - title: The Legacy
   year: 1992
 - title: Starless Night
   year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/7387428-L.jpg
 - title: Siege of Darkness
   year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/547592-L.jpg
 - title: Passage to Dawn
   year: 1996
 - title: The Silent Blade
@@ -42,54 +47,78 @@ books:
   year: 2001
 - title: Servant of the Shard
   year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/547553-L.jpg
 - title: Promise of the Witch King
   year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/547504-L.jpg
 - title: Road of the Patriarch
   year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/547615-L.jpg
 - title: The Thousand Orcs
   year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/13884667-L.jpg
 - title: The Lone Drow
   year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/8231876-L.jpg
 - title: The Two Swords
   year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/547493-L.jpg
 - title: The Orc King
   year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/6938328-L.jpg
 - title: The Pirate King
   year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6304331-L.jpg
 - title: The Ghost King
   year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6305485-L.jpg
 - title: Gauntlgrym
   year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6581676-L.jpg
 - title: Neverwinter
   year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7989239-L.jpg
 - title: Charon's Claw
   year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7314021-L.jpg
 - title: The Last Threshold
   year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7264788-L.jpg
 - title: The Companions
   year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8992586-L.jpg
 - title: Night of the Hunter
   year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8045885-L.jpg
 - title: Rise of the King
   year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10292327-L.jpg
 - title: Vengeance of the Iron Dwarf
   year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8461296-L.jpg
 - title: Archmage
   year: 2015
 - title: Maestro
   year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8867109-L.jpg
 - title: Hero
   year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8511214-L.jpg
 - title: Timeless
   year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8797739-L.jpg
 - title: Boundless
   year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8781079-L.jpg
 - title: Relentless
   year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10331892-L.jpg
 - title: Starlight Enclave
   year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11520444-L.jpg
 - title: Glacier's Edge
   year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13465254-L.jpg
 - title: Lolth's Warrior
   year: 2023
 cover_curation:
@@ -99,3 +128,5 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+  audit_2026_09_23: 'Series audit: one Open Library author search, single pass; English covers filled; non-English editions (Sojourn, The Crystal Shard,
+    The Legacy, Passage to Dawn, The Silent Blade, The Spine of the World, Sea of Swords, Archmage) and a Lolth''s Warrior placeholder rejected.'
