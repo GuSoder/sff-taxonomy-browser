@@ -1,0 +1,23 @@
+id: the-southern-reach-trilogy
+title: The Southern Reach Trilogy
+authors:
+- Jeff VanderMeer
+first_published: 2014
+canonical_genre: new-weird
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Annihilation
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8408974-L.jpg
+- title: Authority
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10526739-L.jpg
+- title: Acceptance
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8441678-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://images.booksense.com/images/042/824/9781250824042.jpg
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit; per-book covers from one Open Library author search, single
+    pass.

@@ -1,0 +1,23 @@
+id: the-chronicles-of-thomas-covenant-the-unbeliever
+title: The Chronicles of Thomas Covenant the Unbeliever
+authors:
+- Stephen R. Donaldson
+first_published: 1977
+canonical_genre: revisionist-quest-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Lord Foul's Bane
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/207497-L.jpg
+- title: The Illearth War
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/9262495-L.jpg
+- title: The Power That Preserves
+  year: 1979
+  cover_url: https://covers.openlibrary.org/b/id/207499-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/13669103-L.jpg
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit; per-book covers from one Open Library author search, single
+    pass.

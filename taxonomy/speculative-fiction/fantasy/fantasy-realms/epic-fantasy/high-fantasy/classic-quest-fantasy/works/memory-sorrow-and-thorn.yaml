@@ -1,0 +1,23 @@
+id: memory-sorrow-and-thorn
+title: Memory, Sorrow, and Thorn
+authors:
+- Tad Williams
+first_published: 1988
+canonical_genre: classic-quest-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Dragonbone Chair
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/77960-L.jpg
+- title: Stone of Farewell
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/8358179-L.jpg
+- title: To Green Angel Tower
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/683260-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/77960-L.jpg
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit; per-book covers from one Open Library author search, single
+    pass.

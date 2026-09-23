@@ -1,0 +1,23 @@
+id: bas-lag
+title: Bas-Lag
+authors:
+- "China Mi\xE9ville"
+first_published: 2000
+canonical_genre: new-weird
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Perdido Street Station
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/6375226-L.jpg
+- title: The Scar
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/210923-L.jpg
+- title: Iron Council
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/11950425-L.jpg
+cover_curation:
+  status: complete
+  selected_url: https://images.penguinrandomhouse.com/cover/9780345443021
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit; per-book covers from one Open Library author search, single
+    pass.
