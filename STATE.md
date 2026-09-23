@@ -1206,3 +1206,4 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Gustav 21:26 "Execute Wuxia for The Water Outlaws": new leaf Wuxia under Chuanqi (third after Shenmo, Xuanhuan), portrait 321-wuxia.webp; The Water Outlaws (S. L. Huang) first card. Commit 72e1cc3.
 - Gustav 21:39 "Put it in contemporary for now, keep magic school in mind for later": The Incandescent (Emily Tesh) -> Contemporary fantasy > Magical coming-of-age, next to Harry Potter.
 - BANKED future leaf (do NOT create yet): "Magic school". Seed: teacher-POV magic-school books (The Incandescent); Harry Potter and other school-set coming-of-age books are candidates to revisit if it is created.
+- Gustav 21:48 "Execute": Audition for the Fox (Martin Cahill) -> Epic fantasy > Invented Mythology (3->4). Time-travel-fantasy leaf question now covers only The Everlasting.
