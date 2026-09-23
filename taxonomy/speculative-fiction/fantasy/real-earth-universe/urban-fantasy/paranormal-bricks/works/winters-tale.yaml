@@ -1,0 +1,24 @@
+id: winters-tale
+title: Winter's Tale
+authors:
+- Mark Helprin
+first_published: 1983
+canonical_genre: paranormal-bricks
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Urban fantasy -> Paranormal Bricks. SFE calls it an epic
+  Urban Fantasy set in an imaginary New York that tries to be a fantastic history of the City through the whole twentieth century, celebrating the forces
+  that gave birth to it and heading toward an ambiguously redemptive apocalypse in 2000. The city itself is the fantastical subject.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/helprin_mark
+books:
+- title: Winter's Tale
+  year: 1983
+  cover_url: cover-winters-tale.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-winters-tale.jpg
+  cover_id: 112572
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one work search, single pass
