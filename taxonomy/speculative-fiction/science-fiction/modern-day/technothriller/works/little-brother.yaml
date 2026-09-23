@@ -5,9 +5,9 @@ authors:
 first_published: 2008
 canonical_genre: technothriller
 placement_status: accepted
-placement_rationale: SFE identifies Attack Surface as the third Little Brother novel and follows an infotech worker discovering that her corporate employer
-  enables global repression. Macmillan describes surveillance exploits built for repressive regimes and used against dissidents. Networked corporate power,
-  invasive information technology, and hackers caught between the establishment and resistance match Cyberpunk.
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Modern day -> Technothriller. The sequence is set in a recognizable present-day
+  San Francisco (and California): real networks, cryptography, hacking and counter-surveillance drive the thriller plot, so the Modern day gate is met before
+  any Futurist branch. Gustav''s no-duplicates rule (2026-09-23 11:51): the duplicate Postcyberpunk card was removed and this is the book''s only home.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/doctorow_cory
 - https://us.macmillan.com/series/littlebrother
@@ -32,3 +32,6 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/punk-science-fiction/cyberpunk to match live tree; placement unchanged
     on site.'
   previous_canonical_genre: cyberpunk
+- date: '2026-09-23'
+  change: 'No-duplicates rule (Gustav 11:51): Postcyberpunk duplicate card removed; Technothriller kept as sole home (Modern day gate). Card covers aligned
+    to the Tor/Macmillan set.'

@@ -1120,3 +1120,9 @@
 - #948 Two Planets -> Historical first contact after full walk (Gustav "do the walk" 11:35), adcdd0e. No retrofuture node or doctrine (main retracted its gloss).
 - Future possibility (Gustav context 11:43, not a ruling): a proto-SF / Early SF node someday; Two Planets and similar very early SF are candidates. No moves until he opens it.
 - Still held: Little Brother + Merciful Crow duplicates; Plot Against America + Raven Tower pure-branch breaks; 10 stem forks.
+
+### 2026-09-23 11:52 CEST - No-duplicates rule (Gustav ruling 11:51, verbatim: "No duplicates, ever")
+- STANDING RULE: one book = one card = one home. Never place a work in two leaves; resolve any straddle to the single best fit by the top-down walk.
+- Applied: The Merciful Crow Duology keeps Civil revolution fantasy; Medieval dynastic intrigue card + YAML removed (leaf now 4).
+- Applied: Little Brother keeps Technothriller (Modern day gate: recognizable present-day San Francisco, real hacking/crypto drive the thriller); Postcyberpunk card removed (leaf now 5). Card covers aligned to the Tor/Macmillan set; YAML rationale corrected (it wrongly argued Cyberpunk). KNOWN_PARITY exception cleared in verify_local.sh.
+- Totals 304 nodes / 891 cards / 1,910 books.

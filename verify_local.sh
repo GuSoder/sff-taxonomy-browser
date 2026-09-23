@@ -54,7 +54,7 @@ for n in nodes:
         except Exception: _miss.append(('unparseable',f))
     for w in n.get('works',[]):
         if w['title'] not in have and ('id',w.get('id') or __import__('re').sub(r'[^a-z0-9]+','-',w['title'].lower()).strip('-')) not in have: _miss.append(('work',n['id'],w['title']))
-KNOWN_PARITY={('work','technothriller','Little Brother'),('work','postcyberpunk','Little Brother')}
+KNOWN_PARITY=set()
 _new=[m for m in _miss if m not in KNOWN_PARITY]
 assert not _new, f'FAIL: YAML mirror parity {len(_new)}: {_new[:5]}'
 if _miss: print('WARN: known parity gaps pending decision:',_miss)
