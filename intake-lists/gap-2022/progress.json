@@ -1,7 +1,7 @@
 {
  "next": 1,
- "processed": 75,
- "added": 55,
+ "processed": 100,
+ "added": 72,
  "held": [
   {
    "k": 2,
@@ -82,7 +82,37 @@
    "k": 75,
    "title": "The Bezzle",
    "reason": "genre question, see Picks and Shovels (Martin Hench series)."
+  },
+  {
+   "k": 77,
+   "title": "The City in Glass",
+   "reason": "leaf question: an immortal demon's love for her invented city Azril, which angels destroy (Library Journal, Locus). Invented-world demon fantasy; no Fantasy Realms leaf fits."
+  },
+  {
+   "k": 87,
+   "title": "The Siege of Burning Grass",
+   "reason": "leaf question: SF war novel of two rival powers and a captured pacifist (Reactor, Ancillary Review). No clear leaf; Future war is thin on fit and the setting reads secondary-world."
+  },
+  {
+   "k": 92,
+   "title": "Annie Bot",
+   "reason": "frozen leaf: a sentient companion robot in near-future New York (NYT, Kirkus) belongs in Robots, now at 10 cards; needs a Robots split"
+  },
+  {
+   "k": 96,
+   "title": "Audition for the Fox",
+   "reason": "new-leaf question: an invented-world acolyte sent back in time by a trickster god to a revolution (Reactor, Shelf Awareness). Same gap as The Everlasting: time-travel fantasy."
+  },
+  {
+   "k": 98,
+   "title": "Corey Fah Does Social Mobility",
+   "reason": "genre question: surreal literary fable about class with UFOs, mutants and wormholes (NYT, Guardian). SF, fabulation, or out of scope?"
+  },
+  {
+   "k": 99,
+   "title": "Dungeon Crawler Carl",
+   "reason": "new-leaf question: LitRPG, an alien game show turning Earth into a dungeon. No LitRPG / game-world leaf."
   }
  ],
- "awards_processed": 75
+ "awards_processed": 100
 }

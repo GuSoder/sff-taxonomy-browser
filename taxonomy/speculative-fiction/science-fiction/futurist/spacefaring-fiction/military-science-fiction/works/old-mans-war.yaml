@@ -23,10 +23,36 @@ cover_curation:
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 5
-  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
-    book objects
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book
+    objects
   title_overlay: false
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
   previous_canonical_genre: military-science-fiction
+- date: '2026-09-23'
+  change: The Shattering Peace (2025), the seventh Old Man's War novel (BookPage, Kirkus), added to the series card; gap-2022 awards tier.
+- date: '2026-09-23'
+  change: The Shattering Peace (2025), the seventh Old Man's War novel (BookPage, Kirkus), added to the series card; gap-2022 awards tier.
+books:
+- title: Old Man's War
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765309402-L.jpg
+- title: The Ghost Brigades
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765315021-L.jpg
+- title: The Last Colony
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/10376230-L.jpg
+- title: Zoe's Tale
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765356192-L.jpg
+- title: The Human Division
+  year: 2013
+  cover_url: https://www.publishersweekly.com/cover/9780765333513
+- title: The End of All Things
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/10317952-L.jpg
+- title: The Shattering Peace
+  year: 2025
+  cover_url: https://images-na.ssl-images-amazon.com/images/P/1250348447.01.LZZZZZZZ.jpg
