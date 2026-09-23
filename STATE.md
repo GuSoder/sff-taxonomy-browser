@@ -1225,3 +1225,4 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 - Gustav 23:33 "I agree": Sleeping Worlds Have No Memory (Barsukov) -> SF > Atemporal > New Weird (6->7). Cover: Arc Manor (publisher) product image; OL has none.
 - Gustav 23:46 "go": new leaf Fantasy > Real Earth > Mythic retelling > Biblical fantasy (Bible retold as fantasy, miracles are real magic). Seed: HIM (Ryman). Portrait PENDING: daily image limit hit at 23:46; generate 332-biblical-fantasy.webp after midnight. Hanging list A closed.
 - Gustav 23:58 "Sure, go dystopian rebellion": Notes from a Regicide (Fellman) -> Totalitarian dystopia > Dystopian rebellion (1->2).
+- 00:04 Biblical fantasy portrait generated (332-biblical-fantasy.webp, 1024x1536) after the daily image cap reset.
