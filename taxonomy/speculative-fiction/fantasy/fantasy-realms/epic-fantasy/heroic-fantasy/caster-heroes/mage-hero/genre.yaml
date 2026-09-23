@@ -3,8 +3,9 @@ label: Mage Hero
 parent: caster-heroes
 children: []
 image: 193-mage-hero.webp
-definition: "Caster-hero fantasy whose protagonist\u2019s primary power comes from learned arcane spellcraft, true names or direct magical mastery."
+definition: Caster-hero fantasy whose protagonist’s primary power comes from learned arcane spellcraft, true names or direct magical mastery.
 status: accepted
 works:
 - earthsea
 - the-scholomance
+- the-rise-of-the-witch-king

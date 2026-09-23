@@ -1,8 +1,8 @@
 id: fairytalesque-quest-fantasy
 label: Fairytalesque quest fantasy
 parent: high-fantasy
-definition: Original-world quests shaped by fairy-tale grammar - curses, impossible tasks, witches and enchanted objects - without retelling a specific
-  inherited tale.
+definition: Original-world quests shaped by fairy-tale grammar - curses, impossible tasks, witches and enchanted objects - without retelling a specific inherited
+  tale.
 image: 256-fairytalesque-quest-fantasy.webp
 status: accepted
 children: []
@@ -11,3 +11,4 @@ works:
 - song-of-the-crimson-flower
 - the-13-clocks
 - the-story-of-the-glittering-plain
+- nettle-bone

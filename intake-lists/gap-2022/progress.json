@@ -1,6 +1,28 @@
 {
  "next": 1,
- "processed": 0,
- "added": 0,
- "held": []
+ "processed": 25,
+ "added": 20,
+ "held": [
+  {
+   "k": 2,
+   "title": "The Everlasting",
+   "reason": "new-leaf question: invented-nation time-travel fantasy in which a historian is thrown into his country's founding legend (Kirkus 'epic time-travel fantasy'); no Fantasy Realms leaf covers story-rewriting time travel"
+  },
+  {
+   "k": 4,
+   "title": "Death of the Author",
+   "reason": "genre question: realist literary frame (a Nigerian-American novelist's blockbuster) wrapped around an embedded robot/post-human SF novel (NYT, Guardian); is it SF at all, and if so Books in Books or Robots?"
+  },
+  {
+   "k": 10,
+   "title": "The Incandescent",
+   "reason": "leaf question: contemporary English boarding school with a Director of Magic and summoned demons (BookPage, Reactor); adult teacher protagonist, so Magical coming-of-age fits only partly - magic-school leaf or existing?"
+  },
+  {
+   "k": 18,
+   "title": "Katabasis",
+   "reason": "placement question: two Cambridge grad students descend into Hell to rescue their advisor (Guardian, LA Times). Hell-journey leaves (Surreal Afterlife) sit in frozen Supernatural fantasy; Hellscape horror is about Hell breaking into the world"
+  }
+ ],
+ "awards_processed": 25
 }
