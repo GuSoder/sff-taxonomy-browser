@@ -1,0 +1,33 @@
+id: borrowed-man
+title: Borrowed Man
+authors:
+- Gene Wolfe
+first_published: 2015
+last_published: 2020
+canonical_genre: remade-minds
+placement_status: accepted
+included_titles:
+- A Borrowed Man
+- Interlibrary Loan
+placement_rationale: 'SFE identifies the two-book Borrowed Man sequence and its protagonist as a cloned, uploaded personality who is legally a library book:
+  medium and message become identical. Tor likewise centers Smithe as the recorded personality of a dead writer, property rather than a legal human. Technology
+  transforms personhood, embodiment and legal identity, making Posthuman exact.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/wolfe_gene
+- https://torpublishinggroup.com/a-borrowed-man/?format=trade&isbn=9780765381156
+- https://torpublishinggroup.com/interlibrary-loan/?format=trade&isbn=9781250242679
+cover_curation:
+  status: complete
+  source: Tor Publishing Group / Macmillan
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-18'
+  review_method: one-pass official publisher series
+  selected_covers:
+  - title: A Borrowed Man
+    url: https://mpd-biblio-covers.imgix.net/9780765381156.jpg
+  - title: Interlibrary Loan
+    url: https://mpd-biblio-covers.imgix.net/9781250242679.jpg
+placement_history:
+- date: '2026-09-23'
+  change: 'Posthuman split (Gustav approved 2026-09-23 07:13): moved to Remade Minds. Walk: Speculative fiction -> Science fiction -> Futurist -> Future
+    of Earth fiction -> Techno Fiction -> Technomorphosis -> Posthuman -> Remade Minds'

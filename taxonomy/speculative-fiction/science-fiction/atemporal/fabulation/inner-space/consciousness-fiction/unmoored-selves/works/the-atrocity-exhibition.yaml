@@ -1,0 +1,33 @@
+id: the-atrocity-exhibition
+title: The Atrocity Exhibition
+authors:
+- J. G. Ballard
+first_published: 1970
+canonical_genre: unmoored-selves
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction -> Atemporal -> Fabulation -> Inner space -> Consciousness fiction. SFE calls these nonlinear “condensed
+  novels” Ballard’s sustained treatment of media landscape: architecture, celebrity bodies, televised war and assassination are blended with private memories,
+  fantasies, medical reports and astronomical data. The destabilized consciousness that fuses external media with inner reality governs over ordinary dystopia
+  or stable-world social SF.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/ballard_j_g
+- https://sf-encyclopedia.com/entry/media_landscape
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/books/OL4846682M/The_atrocity_exhibition
+  image_url: https://covers.openlibrary.org/b/id/14373591-L.jpg
+  cover_id: OL-14373591
+  visually_reviewed_on: '2026-09-21'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 1
+  selection_rule: one-pass flat-front cover review
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/atemporal/fabulation/inner-space/consciousness-fiction to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: consciousness-fiction
+- date: '2026-09-23'
+  change: 'Consciousness fiction split (Gustav approved 2026-09-23 07:13): moved to Unmoored Selves. Walk: Speculative fiction -> Science fiction -> Atemporal
+    -> Fabulation -> Inner Space -> Consciousness fiction -> Unmoored Selves'

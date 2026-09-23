@@ -1,18 +1,11 @@
 id: posthuman
 label: Posthuman
 parent: technomorphosis
-children: []
+children:
+- remade-bodies
+- remade-minds
 image: 179-posthuman.webp
-definition: 'Technomorphosis centered on transformed bodies, minds, selves or species: technology and engineered systems change what a human being is.'
+definition: 'Technomorphosis centered on transformed bodies, minds, selves or species: technology and engineered systems change what a human being is, divided
+  between remade bodies and remade minds.'
 status: accepted
-works:
-- blood-music
-- a-scanner-darkly
-- darwin
-- fall-or-dodge-in-hell
-- frankissstein
-- borrowed-man
-- limbo
-- man-plus
-- the-ophiuchi-hotline
-- the-shrinking-man
+works: []

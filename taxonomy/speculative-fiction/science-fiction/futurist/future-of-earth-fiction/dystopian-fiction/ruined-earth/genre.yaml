@@ -1,18 +1,11 @@
 id: ruined-earth
 label: Ruined Earth
 parent: dystopian-fiction
-children: []
+children:
+- lost-knowledge
+- wild-ruins
 image: 116-ruined-earth.webp
-definition: "Farther-future tales where civilization\u2019s ruins have become the landscape, relics, myths, and foundations of successor societies."
+definition: Farther-future tales where civilization’s ruins have become the landscape, relics, myths and foundations of successor societies, divided between
+  societies that guard or recover lost knowledge and peoples living wild among the ruins.
 status: candidate
-works:
-- a-canticle-for-leibowitz
-- silo
-- davy
-- riddley-walker
-- after-london-or-wild-england
-- heroes-and-villains
-- archivist-wasp-saga
-- seafire
-- the-rampart-trilogy
-- the-long-tomorrow
+works: []
