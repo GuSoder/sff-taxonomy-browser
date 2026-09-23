@@ -3,12 +3,10 @@ title: The Inheritors
 authors:
 - William Golding
 first_published: 1955
-canonical_genre: historical-first-contact
+canonical_genre: hidden-history-sf
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Historical -> Historical first contact. SFE identifies Prehistoric SF
-  and Anthropology: the morally ambiguous encounter between Neanderthals and Cro-Magnon humans is the story’s governing event. Penguin likewise centers
-  the last Neanderthal people confronting emergent Homo sapiens. The historical meeting of distinct human species makes first contact more exact than future-set
-  anthropological SF.'
+placement_rationale: 'Golding''s 1955 novel: a band of Neanderthals encounters the Homo sapiens who will displace them - a first contact between human kinds in prehistory,
+  before any record could exist. Hidden history SF (prehistoric setting). Moved from Historical first contact (retired) 2026-09-23 (Gustav 16:35).'
 classification_sources:
 - https://sf-encyclopedia.com/entry/golding_william
 - https://www.penguinrandomhouse.com/books/775828/the-inheritors-by-william-golding-foreword-by-ben-okri-suggestions-for-further-exploration-by-rachel-greenwald-smith/
@@ -20,3 +18,8 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+placement_history:
+- date: '2026-09-23'
+  from: historical-first-contact
+  to: hidden-history-sf
+  ruling: Gustav 16:35:22 "Execute"

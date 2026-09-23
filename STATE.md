@@ -1184,3 +1184,9 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Gustav 16:15:12 "Ok, execute" (after the drops-to-4 exchange). Theological space opera leaf beside Political space opera: The Hyperion Cantos (moved; SFE Simmons entry grounds pilgrimage/Papacy/Messiah/Transcendence) + The Unreasoning Mask (new card, intake #3 resolved; cover OL 10176146, 1981 paperback).
 - Cosmological politics left empty -> retired. Political space opera: 4 subgenres.
 - added +1. Tree: 314 nodes, 899 cards / 1,919 books.
+
+## 16:39 - Hidden history SF (319) under Historical; Historical first contact retired
+- Gustav 16:35:22 "Execute, resolve Historical first contact and place a Hidden history SF next to Alternate history with those books, move in Wild seed". 16:37:53 addendum: Hidden history = unrecorded events; Period SF = period aesthetics, SF elements open or hidden (in both genre.yaml `marker` + definitions).
+- Hidden history SF: Eifelheim, The Inheritors (moved), Wild Seed (new card, cover OL 10279447 Grand Central 2020). Psi saga name dropped; pending #8 resolved.
+- Historical: Proto SF, Period SF, Alternate history, Hidden history SF. Period SF: Steampunk, Deco SF.
+- added +1. Tree: 314 nodes, 900 cards / 1,920 books.

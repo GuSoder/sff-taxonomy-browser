@@ -5,12 +5,16 @@ children:
 - proto-sf
 - period-sf
 - alternate-history
+- hidden-history-sf
 image: 51-historical.webp
 definition: 'Science fiction set in a past era as experienced by the present-day reader: real history, alternate timelines or a reimagined past. Partitioned into
-  Proto SF (written in its own era), Period SF (modern books set in the past) and Alternate history (a fork, not an era). A writer-present or writer-future setting
-  must also be tested here once it now feels clearly historical.'
+  Proto SF (written in its own era), Period SF (modern books set in the past, marked by period aesthetics, SF elements open or hidden), Alternate history (a fork,
+  not an era) and Hidden history SF (extraordinary events history never recorded). A writer-present or writer-future setting must also be tested here once it now
+  feels clearly historical.'
 status: accepted
 works: []
 history:
 - date: '2026-09-23'
   change: 'Fold: 8 children -> Proto SF, Period SF, Alternate history (Gustav 15:05 "Execute").'
+- date: '2026-09-23'
+  change: Hidden history SF added beside Alternate history (Gustav 16:35).
