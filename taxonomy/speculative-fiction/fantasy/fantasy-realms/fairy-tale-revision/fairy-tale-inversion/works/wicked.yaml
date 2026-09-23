@@ -1,0 +1,26 @@
+id: wicked
+title: Wicked
+authors:
+- Gregory Maguire
+first_published: 1995
+canonical_genre: fairy-tale-inversion
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Fairy-tale revision -> Fairy-tale inversion. Retells Baum''s
+  Oz from the Wicked Witch of the West''s side, recasting her as an idealistic dissident against the Wizard''s totalitarian regime (NYT; LA Times); Kirkus
+  calls it a magical telling of Oz before Dorothy. Perspective and moral alignment of a familiar fairy tale are reversed, and Oz has actual magic.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/gregory-maguire/wicked/
+- https://www.nytimes.com/1995/10/24/books/books-of-the-times-let-s-get-this-straight-glinda-was-the-bad-one.html
+- https://www.latimes.com/archives/la-xpm-1995-10-29-bk-62279-story.html
+books:
+- title: Wicked
+  year: 1995
+  cover_url: cover-wicked.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-wicked.jpg
+  cover_id: 7483974
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one work search, single pass
