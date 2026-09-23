@@ -4,11 +4,6 @@
  "added": 98,
  "held": [
   {
-   "k": 4,
-   "title": "Death of the Author",
-   "reason": "genre question: realist literary frame (a Nigerian-American novelist's blockbuster) wrapped around an embedded robot/post-human SF novel (NYT, Guardian); is it SF at all, and if so Books in Books or Robots?"
-  },
-  {
    "k": 30,
    "title": "The Salt Oracle",
    "reason": "genre question: seventeen years after the internet crashed, a floating college in the Baltic and an oracle tradition (Locus, FanFiAddict); unclear whether it is post-collapse SF (which leaf) or fantasy"
@@ -104,5 +99,13 @@
    "reason": "leaf question: science fantasy of a winged warrior in a god-ruled city (Kirkus, Locus). Hard science fantasy vs Planetary romance unclear."
   }
  ],
- "awards_processed": 125
+ "awards_processed": 125,
+ "excluded": [
+  {
+   "k": 4,
+   "title": "Death of the Author",
+   "author": "Nnedi Okorafor",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:12): realist literary frame about novelist Zelu; the complete embedded robot/post-human novel does not make the book SFF. Dropped from hanging list and intake queue; do not resurface in any tier."
+  }
+ ]
 }
