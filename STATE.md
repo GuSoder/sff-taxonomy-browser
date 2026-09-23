@@ -1222,3 +1222,4 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 Verbatim: "I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it"
 Apply autonomously without asking per case: too absurd to call SF or Fantasy AND no Fabulation node fits -> exclude as not SFF. Always check the Fabulation branch first (a Fabulation fit keeps the book). Log each kill in sweep.log as "-Title (Absurd Shit rule)" and in progress.json excluded[] with the rule named.
 - Gustav 23:30: The Salt Oracle (Lorraine Wilson) killed under the Absurd Shit rule (first kill). Recorded in progress.json excluded[].
+- Gustav 23:33 "I agree": Sleeping Worlds Have No Memory (Barsukov) -> SF > Atemporal > New Weird (6->7). Cover: Arc Manor (publisher) product image; OL has none.
