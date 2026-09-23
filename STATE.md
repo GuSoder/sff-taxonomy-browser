@@ -1145,3 +1145,11 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Only new leaves, names and structure go to him (within the 12:27 autonomous-leaf grant above).
 - Executed at 12:35: Trail of Lightning (Sixth World, 2 books) -> navajo-myth-fantasy; The Year of the Witching -> isolationist-fantasy; The Sinful Ones (= 1950 "You're All Alone", one card; #870 merged as duplicate) -> absurdist-constructed-realities. added 732 -> 735. Tree: 305 nodes, 894 cards / 1,914 books.
 - Still awaiting Gustav on 8 new-leaf suggestions (Antebellum fantasy, Hidden creators, Theological space opera, Future insurgency, Noir-era fantasy, Tang fantasy, Patriarchal Dystopias, Psi saga).
+
+## 12:40 - Noir fantasy (308) + Antebellum fantasy (309) under Industrial age fantasy
+- Gustav 12:37:26 "Oh, you mean Noir fantasy, yes!" -> Noir fantasy leaf, Trouble the Saints first card (Tor cover OL 10288337).
+- Gustav 12:38:54 "Ok, antebellum is go" -> Antebellum fantasy leaf, The Underground Railroad first card (Doubleday cover isbn 9780385542364).
+- Industrial age fantasy children now in era order: Gaslight, Antebellum, Weird West, Tudorbethan, Dust Bowl, Noir, Neon (7).
+- BANKED future sibling names (Gustav 12:37, do NOT create yet): "Gatsby fantasy", "Deco fantasy".
+- Portraits generated at creation (smart 2:3, 1024x1536 webp). added 735 -> 737. Tree: 307 nodes, 896 cards / 1,916 books.
+- Remaining suggestions awaiting Gustav: Hidden creators, Theological space opera, Future insurgency, Tang fantasy, Patriarchal Dystopias, Psi saga.
