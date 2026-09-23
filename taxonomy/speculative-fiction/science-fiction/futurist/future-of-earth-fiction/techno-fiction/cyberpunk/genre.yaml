@@ -1,0 +1,12 @@
+id: cyberpunk
+label: Cyberpunk
+parent: techno-fiction
+children:
+- metaverse
+- neural-fiction
+- postcyberpunk
+image: 8-cyberpunk.webp
+definition: 'Pure umbrella for futures shaped by invasive network technology: immersive avatar worlds, direct brain-computer interfaces, and postcyberpunk
+  life embedded in pervasive systems.'
+status: accepted
+works: []

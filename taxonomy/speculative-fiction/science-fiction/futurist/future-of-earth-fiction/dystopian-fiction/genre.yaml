@@ -1,0 +1,13 @@
+id: dystopian-fiction
+label: Dystopian Futures
+parent: future-of-earth-fiction
+children:
+- totalitarian-dystopia
+- social-dystopia
+- post-holocaust-survival
+- ruined-earth
+- dying-earth
+image: 10-dystopian-fiction.webp
+definition: Branch for designed, broken, surviving, renewed and terminal futures of Earth.
+status: accepted
+works: []

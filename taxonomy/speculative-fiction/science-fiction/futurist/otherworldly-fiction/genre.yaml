@@ -1,0 +1,9 @@
+id: otherworldly-fiction
+label: Otherworldly fiction
+parent: futurist
+children:
+- otherworldly-hard-sf
+image: 120-otherworldly-fiction.webp
+definition: Science fiction set in an unanchored or fundamentally other cosmos where the world-model itself is central.
+status: accepted
+works: []

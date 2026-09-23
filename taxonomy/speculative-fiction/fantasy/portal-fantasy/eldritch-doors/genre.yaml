@@ -1,9 +1,11 @@
 id: eldritch-doors
 label: Eldritch doors
 parent: portal-fantasy
-children: []
+children:
+- uncanny-thresholds
+- perilous-fairy-doors
 image: 273-eldritch-doors.webp
-definition: Portal fantasy whose crossing is an anchored physical threshold - door, room, border, chasm, pool or other place-
-  or object-bound opening - and whose story is scary, dark or adult rather than child-friendly and bright.
-status: accepted
+definition: Pure umbrella for dark or adult portal fantasy with an anchored physical threshold, partitioned by uncanny metaphysical encounter versus perilous
+  fairy-story or nightmare realms.
+status: umbrella
 works: []

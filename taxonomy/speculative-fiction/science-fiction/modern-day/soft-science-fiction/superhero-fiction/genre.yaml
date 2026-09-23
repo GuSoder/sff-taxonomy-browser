@@ -1,0 +1,10 @@
+id: superhero-fiction
+label: Superhero fiction
+parent: soft-science-fiction
+children: []
+image: 176-superhero-fiction.webp
+definition: Fiction about extraordinary powered heroes and villains, the institutions around them, and the social consequences of their actions. SFE describes
+  the genre as crystallizing in comics before spreading to books.
+status: candidate
+works:
+- hench

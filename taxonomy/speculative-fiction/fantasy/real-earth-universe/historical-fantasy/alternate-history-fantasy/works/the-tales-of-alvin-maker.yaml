@@ -1,0 +1,39 @@
+id: the-tales-of-alvin-maker
+title: The Tales of Alvin Maker
+authors:
+- Orson Scott Card
+first_published: 1987
+last_published: 2003
+canonical_genre: alternate-history-fantasy
+placement_status: accepted
+included_titles:
+- Seventh Son
+- Red Prophet
+- Prentice Alvin
+- Alvin Journeyman
+- Heartfire
+- The Crystal City
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass complete existing-series review
+  selected_covers:
+  - title: Seventh Son
+    url: https://covers.openlibrary.org/b/id/9315050-L.jpg
+  - title: Red Prophet
+    url: https://covers.openlibrary.org/b/id/9315058-L.jpg
+  - title: Prentice Alvin
+    url: https://covers.openlibrary.org/b/id/14476036-L.jpg
+  - title: Alvin Journeyman
+    url: https://covers.openlibrary.org/b/id/6382372-L.jpg
+  - title: Heartfire
+    url: https://covers.openlibrary.org/b/id/10620724-L.jpg
+  - title: The Crystal City
+    url: https://covers.openlibrary.org/b/id/9315019-L.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/historical-fantasy/alternate-history-fantasy to match live tree; placement unchanged
+    on site.'
+  previous_canonical_genre: alternate-history-fantasy

@@ -1,0 +1,20 @@
+id: from-the-earth-to-the-moon-around-the-moon
+title: From the Earth to the Moon / Around the Moon
+authors:
+- Jules Verne
+first_published: 1865
+canonical_genre: orbital-mechanics
+placement_status: accepted
+placement_rationale: SFE treats the pair as Verne's Around the Moon sequence; Simon & Schuster says the first is the engineering challenge of launching
+  a projectile and the second follows its crew to the Moon and back. Worked-through launch and orbital travel make Orbital Mechanics closest.
+books:
+- title: From the Earth to the Moon
+  year: 1865
+  cover_url: https://covers.openlibrary.org/b/id/10209170-L.jpg
+- title: Around the Moon
+  year: 1870
+  cover_url: https://covers.openlibrary.org/b/id/10209170-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/10209170-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

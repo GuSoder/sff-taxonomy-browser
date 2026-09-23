@@ -1,0 +1,14 @@
+id: epic-fantasy
+label: Epic fantasy
+parent: fantasy-realms
+children:
+- heroic-fantasy
+- high-fantasy
+- political-fantasy
+- hard-magic
+- invented-mythology
+- military-fantasy
+image: 11-epic-fantasy.webp
+definition: 'Fantasy driven by worldbuilding at epic scale: long journeys, wars, political stakes, large geographies, cosmic systems and invented gods.'
+status: candidate
+works: []

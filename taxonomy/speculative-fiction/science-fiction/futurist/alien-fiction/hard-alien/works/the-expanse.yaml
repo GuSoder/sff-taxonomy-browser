@@ -1,0 +1,48 @@
+id: the-expanse
+title: The Expanse
+authors:
+- James S. A. Corey
+first_published: 2011
+last_published: 2021
+canonical_genre: hard-alien
+placement_status: accepted
+included_titles:
+- Leviathan Wakes
+- Caliban's War
+- Abaddon's Gate
+- Cibola Burn
+- Nemesis Games
+- Babylon's Ashes
+- Persepolis Rising
+- Tiamat's Wrath
+- Leviathan Falls
+cover_curation:
+  status: complete
+  source: "Open Library plus verified English Abaddon\u2019s Gate edition"
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one official-series lookup and one-pass coordinated-cover review
+  selected_covers:
+  - title: Leviathan Wakes
+    url: https://covers.openlibrary.org/b/id/7314237-L.jpg
+  - title: Caliban's War
+    url: https://covers.openlibrary.org/b/id/7314238-L.jpg
+  - title: Abaddon's Gate
+    url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653774333i/61183016.jpg
+  - title: Cibola Burn
+    url: https://covers.openlibrary.org/b/id/7610576-L.jpg
+  - title: Nemesis Games
+    url: https://covers.openlibrary.org/b/id/8036735-L.jpg
+  - title: Babylon's Ashes
+    url: https://covers.openlibrary.org/b/id/8417833-L.jpg
+  - title: Persepolis Rising
+    url: https://covers.openlibrary.org/b/id/8402849-L.jpg
+  - title: Tiamat's Wrath
+    url: https://covers.openlibrary.org/b/id/8600919-L.jpg
+  - title: Leviathan Falls
+    url: https://covers.openlibrary.org/b/id/14424717-L.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/alien-encounter/hard-alien to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: hard-alien

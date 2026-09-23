@@ -1,0 +1,13 @@
+id: social-dystopia
+label: Social dystopian future
+parent: dystopian-fiction
+children:
+- crowded-dystopias
+- childless-dystopias
+- cli-fi-dystopia
+image: 43-social-dystopia.webp
+definition: Dystopias of a sick society rather than a single police state - collapsing reproduction, media saturation, bioengineered economies (the broader
+  line of SFE 'Dystopias'). Split 2026-09-13 from dystopian fiction to keep leaves under ten works. Set in an extrapolated future; renamed 2026-09-14 when
+  the present-day line split off as Social dystopia under Modern day.
+status: umbrella
+works: []

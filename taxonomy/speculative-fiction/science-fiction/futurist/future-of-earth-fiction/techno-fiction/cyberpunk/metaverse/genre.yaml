@@ -1,0 +1,12 @@
+id: metaverse
+label: Metaverse
+parent: cyberpunk
+children: []
+image: 234-metaverse.webp
+definition: Cyberpunk centered on persistent, shared, immersive virtual worlds inhabited through avatars. Stephenson coined Metaverse in Snow Crash; SFE
+  treats it as a defining virtual-world concept.
+status: accepted
+works:
+- snow-crash
+- ready-player-one
+- alma-sequence

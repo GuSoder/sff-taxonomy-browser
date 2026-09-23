@@ -1,4 +1,14 @@
 id: domestic-fantasy
 name: Domestic fantasy
-definition: Contemporary fantasy in which a household, family or multigenerational domestic life is the primary site through which magic enters and reshapes the everyday world.
+definition: Contemporary fantasy in which a household, family or multigenerational domestic life is the primary site through which magic enters and reshapes
+  the everyday world.
 parent: contemporary-fantasy
+label: Domestic fantasy
+children: []
+image: 262-domestic-fantasy.webp
+status: provisional
+works:
+- ivory-apples
+- little-big
+- fallow-sisters
+- eastwick

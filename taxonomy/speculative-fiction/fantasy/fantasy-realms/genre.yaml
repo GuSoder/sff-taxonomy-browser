@@ -1,0 +1,14 @@
+id: fantasy-realms
+label: Fantasy Realms
+parent: fantasy
+children:
+- epic-fantasy
+- sword-and-sorcery
+- fairy-tale-revision
+- gothic-fantasy
+- cozy-fantasy
+image: 66-fantasy-realms.webp
+definition: "Imaginary-world fantasy organized by epic worldbuilding, action-forward Sword and Sorcery, fairy-tale revision, inherited Heritage schools,\
+  \ or Cozy fantasy. New direct children require Gustav\u2019s ruling."
+status: umbrella
+works: []

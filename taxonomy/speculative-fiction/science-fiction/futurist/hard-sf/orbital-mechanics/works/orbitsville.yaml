@@ -1,0 +1,24 @@
+id: orbitsville
+title: Orbitsville
+authors:
+- Bob Shaw
+first_published: 1975
+canonical_genre: orbital-mechanics
+placement_status: accepted
+placement_rationale: 'Wikipedia: the discovery of a Dyson sphere-like artefact surrounding a star. SFE (shaw_bob) pairs the Orbitsville sequence with Niven''s
+  Ringworld and Clarke''s Rendezvous with Rama as vast-alien-artefact (macrostructure) fiction - shelfed beside Ringworld, the orbital-mechanics anchor.'
+classification_sources:
+- https://en.wikipedia.org/wiki/Orbitsville
+- https://sf-encyclopedia.com/entry/shaw_bob
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14616407-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/hard-sf/orbital-mechanics to match live tree; placement unchanged on
+    site.'
+  previous_canonical_genre: Orbital mechanics

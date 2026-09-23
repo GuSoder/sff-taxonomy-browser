@@ -2,8 +2,11 @@ id: technomancy
 label: Technomancy
 parent: gothic-fantasy
 children: []
-works: []
+works:
+- a-voyage-to-arcturus
+- the-locked-tomb
+- the-thousand-worlds
 image: 276-technomancy.webp
-definition: 'Gothic fantasy where actual magic is organized through technological forms: necromancy as engineering, haunted apparatus, occult systems and
-  ominous science-fantasy. The “-mancy” postfix carries Gustav’s intended necromancy connotation.'
+definition: "Gothic fantasy where actual magic is organized through technological forms: necromancy as engineering, haunted apparatus, occult systems and\
+  \ ominous science-fantasy. The \u201C-mancy\u201D postfix carries Gustav\u2019s intended necromancy connotation."
 status: accepted

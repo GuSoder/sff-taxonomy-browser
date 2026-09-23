@@ -2,5 +2,11 @@ id: post-holocaust-survival
 label: Post-Holocaust Survival
 parent: dystopian-fiction
 status: umbrella
-definition: 'Pure umbrella for survival fiction set in the catastrophe’s living aftermath, partitioned by defining cause where named and by the governing wasteland condition where causes are mixed or unspecified.'
-children: [post-pandemic-survival, post-nuclear-survival, terminal-wastelands]
+definition: "Pure umbrella for survival fiction set in the catastrophe\u2019s living aftermath, partitioned by defining cause where named and by the governing\
+  \ wasteland condition where causes are mixed or unspecified."
+children:
+- post-pandemic-survival
+- post-nuclear-survival
+- terminal-wastelands
+image: 115-post-holocaust-survival.webp
+works: []

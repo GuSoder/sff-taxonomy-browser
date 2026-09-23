@@ -1,0 +1,14 @@
+id: sword-and-sorcery
+label: Sword and sorcery
+parent: fantasy-realms
+children:
+- caper-fantasy
+- sword-and-planet
+- comic-fantasy
+- technofantasy
+- classic-sword-and-sorcery
+image: 7-sword-and-sorcery.webp
+definition: "Action-forward fantasy celebrating combat, glistening spells, clashing swords and the thrill of battle, while retaining the intimate, less\
+  \ solemn and broadly adventurous pulp tradition named by its literal \u201Cand\u201D."
+status: accepted
+works: []

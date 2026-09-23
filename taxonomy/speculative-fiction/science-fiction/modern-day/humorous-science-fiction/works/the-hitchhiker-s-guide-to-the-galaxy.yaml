@@ -1,0 +1,33 @@
+id: the-hitchhiker-s-guide-to-the-galaxy
+title: The Hitchhiker's Guide to the Galaxy
+authors:
+- Douglas Adams
+first_published: 1979
+canonical_genre: humorous-science-fiction
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Hitchhiker's Guide to the Galaxy
+  year: 1979
+  cover_url: https://covers.openlibrary.org/b/id/11464254-L.jpg
+  shows_english_title: true
+- title: The Restaurant at the End of the Universe
+  year: 1980
+  cover_url: https://covers.openlibrary.org/b/id/12714921-L.jpg
+  shows_english_title: true
+- title: Life, the Universe and Everything
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/8569242-L.jpg
+  shows_english_title: true
+- title: So Long, and Thanks for All the Fish
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/12391241-L.jpg
+  shows_english_title: true
+- title: Mostly Harmless
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/11465755-L.jpg
+  shows_english_title: true
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/8594912-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

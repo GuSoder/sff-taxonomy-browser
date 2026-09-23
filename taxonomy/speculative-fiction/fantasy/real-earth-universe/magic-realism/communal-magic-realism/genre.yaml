@@ -1,7 +1,15 @@
 id: communal-magic-realism
 name: Communal magic realism
 parent: magic-realism
-definition: Magic realism in which the marvelous belongs to a community, town or nation’s
-  shared memory.
+definition: "Magic realism in which the marvelous belongs to a community, town or nation\u2019s shared memory."
 image: 215-communal-magic-realism.webp
 status: provisional
+label: Communal magic realism
+children: []
+works:
+- one-hundred-years-of-solitude
+- midnight-s-children
+- green-town
+- the-famished-road
+- the-shipbuilder-of-bellfairie
+- the-twilight-of-the-gods-and-other-tales

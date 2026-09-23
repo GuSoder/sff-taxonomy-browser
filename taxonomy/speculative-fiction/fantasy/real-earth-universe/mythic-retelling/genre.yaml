@@ -1,0 +1,14 @@
+id: mythic-retelling
+label: Mythic retelling
+parent: real-earth-universe
+children:
+- arthurian-fantasy
+- greek-myth-fantasy
+- norse-fantasy
+- mayan-myth-fantasy
+- navajo-myth-fantasy
+image: 5-mythic-retelling.webp
+definition: 'Fantasy anchored to an inherited story, whose source is the myth itself: it retells or reimagines named figures and narratives from mythology
+  or legend. Mythic-age settings such as Homeric Greece and Arthurian Britain count as retelling territory.'
+status: umbrella
+works: []

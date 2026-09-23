@@ -1,0 +1,33 @@
+id: a-transatlantic-tunnel-hurrah
+title: A Transatlantic Tunnel, Hurrah!
+authors:
+- Harry Harrison
+first_published: 1972
+canonical_genre: steampunk
+placement_status: accepted
+placement_rationale: Tor explicitly calls the novel an early classic of steampunk and neo-Victoriana, centered on a retrofuturist transatlantic engineering
+  project.
+classification_sources:
+- https://torpublishinggroup.com/a-transatlantic-tunnel-hurrah/?format=trade&isbn=9780765327864
+cover_curation:
+  status: ranked
+  source: Tor Publishing Group
+  record_url: https://torpublishinggroup.com/a-transatlantic-tunnel-hurrah/?format=trade&isbn=9780765327864
+  image_url: https://covers.openlibrary.org/b/isbn/9780765327864-L.jpg
+  cover_id: ISBN-9780765327864
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A tunnel perspective is surrounded by an exceptionally dense black-and-cream assemblage of locomotives, gears, gauges, bridges, factories,
+    ocean liners, and ornamental flourishes on the flat front.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 5
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/punk-science-fiction/steampunk to match live tree; placement unchanged
+    on site.'
+  previous_canonical_genre: steampunk

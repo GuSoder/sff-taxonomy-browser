@@ -1,0 +1,11 @@
+id: golden-age-sword-and-sorcery
+label: Golden Age S&S
+parent: pulp-sword-and-sorcery
+children: []
+image: golden-age-sword-and-sorcery.webp
+definition: The older pulp Sword and Sorcery wave and its direct late-century continuation, from Fafhrd and the Gray Mouser through The Black Company.
+status: provisional
+works:
+- fafhrd-and-the-gray-mouser
+- the-black-company
+- the-tritonian-ring-and-other-pusadian-tales

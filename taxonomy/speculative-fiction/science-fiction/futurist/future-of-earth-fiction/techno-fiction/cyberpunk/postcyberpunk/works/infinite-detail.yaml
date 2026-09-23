@@ -1,0 +1,26 @@
+id: infinite-detail
+title: Infinite Detail
+authors:
+- Tim Maughan
+first_published: 2019
+canonical_genre: postcyberpunk
+placement_status: accepted
+placement_rationale: SFE describes proactive bondage to omnipresent electronic networks and their surveillance, followed by sabotage that destroys the Internet
+  and leaves far-right governments taking over; FSG centers Big Data dependence, corporate hegemony, cyberterrorism and post-network collapse. Networked
+  power and radical outsiders make Cyberpunk the closest engine-level leaf.
+classification_sources:
+- https://sf-encyclopedia.com/entry/maughan_tim
+- https://www.fsgoriginals.com/books/infinite-detail
+cover_curation:
+  status: ranked
+  source: MCD / FSG Originals
+  record_url: https://www.fsgoriginals.com/books/infinite-detail
+  selected_url: https://s3.amazonaws.com/mcdbookimages/books/cover_images/000/000/118/reg/9780374718602_FC.jpg?1651584877
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-18'
+  review_method: one-pass official publisher
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/techno-fiction/cyberpunk/postcyberpunk to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: cyberpunk

@@ -1,0 +1,14 @@
+id: animal-fantasy
+label: Animal fantasy
+parent: real-earth-universe
+children: []
+image: 31-animal-fantasy.webp
+definition: Fantasy that renders the inner life, society, and mythology of animals on their own terms, lightly anthropomorphized. The Encyclopedia of Fantasy
+  treats animal fantasy as a distinct form; Watership Down's rabbit society is its modern exemplar.
+status: provisional
+works:
+- animal-farm
+- watership-down
+- the-wind-in-the-willows
+- the-little-prince
+- doctor-dolittle

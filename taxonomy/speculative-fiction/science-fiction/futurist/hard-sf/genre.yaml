@@ -1,0 +1,12 @@
+id: hard-sf
+label: Hard Sci-fi
+parent: futurist
+children:
+- orbital-mechanics
+- planetary-science
+- matter-transmission
+- hard-conceptual-sf
+image: 15-hard-sf.webp
+definition: Science fiction whose central reading experience is rigorous scientific constraint, extrapolation, engineering or conceptual problem-solving.
+status: accepted
+works: []

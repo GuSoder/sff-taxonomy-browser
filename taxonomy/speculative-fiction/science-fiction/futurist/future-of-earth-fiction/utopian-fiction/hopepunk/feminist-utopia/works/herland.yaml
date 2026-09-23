@@ -1,0 +1,16 @@
+id: herland
+title: Herland
+authors:
+- Charlotte Perkins Gilman
+first_published: 1915
+canonical_genre: feminist-utopia
+placement_status: accepted
+placement_rationale: 'SFE Gilman calls Herland a book-length feminist Utopia: an isolated parthenogenetic society of 2,000 years visited by three men.'
+books:
+- title: Herland
+  year: 1915
+  cover_url: https://archive.org/download/herland0000gilm/page/cover.jpg
+cover_curation:
+  selected_url: https://archive.org/download/herland0000gilm/page/cover.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

@@ -3,6 +3,8 @@ label: Bard Hero
 parent: caster-heroes
 children: []
 image: 192-bard-hero.webp
-definition: Caster-hero fantasy whose protagonist’s primary power comes through performance,
-  words, lore and charismatic magical artistry.
+definition: "Caster-hero fantasy whose protagonist\u2019s primary power comes through performance, words, lore and charismatic magical artistry."
 status: accepted
+works:
+- the-kingkiller-chronicle
+- the-kingkiller-chronicle

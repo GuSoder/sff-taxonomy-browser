@@ -1,0 +1,10 @@
+id: classic-space-opera
+label: Classic space opera
+parent: spacefaring-fiction
+children:
+- pulp-space-opera
+- evergreen-space-opera
+image: 44-classic-space-opera.webp
+definition: Umbrella for the classic space-opera tradition, partitioned by pulp mode and enduring evergreen status.
+status: candidate
+works: []

@@ -3,6 +3,8 @@ label: Ranger Hero
 parent: martial-heroes
 children: []
 image: 198-ranger-hero.webp
-definition: Martial-hero fantasy whose protagonist’s primary power is wilderness craft,
-  tracking, ranged weapons or animal partnership.
+definition: "Martial-hero fantasy whose protagonist\u2019s primary power is wilderness craft, tracking, ranged weapons or animal partnership."
 status: accepted
+works:
+- the-skybound-saga
+- the-legend-of-drizzt

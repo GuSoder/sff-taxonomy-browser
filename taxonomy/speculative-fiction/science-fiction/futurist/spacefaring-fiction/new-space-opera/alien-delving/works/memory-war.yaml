@@ -1,0 +1,31 @@
+id: memory-war
+title: The Memory War
+authors:
+- Karen Osborne
+first_published: 2020
+canonical_genre: alien-delving
+placement_status: accepted
+placement_rationale: SFE calls the sequence Hard SF Space Opera with military elements, set across corporate-dominated inhabited space and driven by an
+  ancient alien weapon and civilization. Macmillan centers an interstellar alien war, corporate intrigue, salvaged weapons and existential stakes. Its galaxy-scale
+  political and alien conflict makes New Space Opera closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/osborne_karen
+- https://us.macmillan.com/series/thememorywar
+- https://us.macmillan.com/books/9781250215468/architectsofmemory/
+cover_curation:
+  status: complete
+  selected_url: https://mpd-biblio-covers.imgix.net/9781250215475.jpg
+  shows_english_title: true
+  review_method: one-pass official publisher series
+books:
+- title: Architects of Memory
+  first_published: 2020
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250215475.jpg
+- title: Engines of Oblivion
+  first_published: 2021
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250215505.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/new-space-opera to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: new-space-opera

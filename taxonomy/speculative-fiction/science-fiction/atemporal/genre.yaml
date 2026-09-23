@@ -1,0 +1,15 @@
+id: atemporal
+label: Atemporal
+parent: science-fiction
+children:
+- fabulation
+- new-weird
+- reincarnation-fiction
+- science-fantasy
+- time-travel-fiction
+- parallel-world-fiction
+image: 54-unplaceable.webp
+definition: 'Science fiction unplaceable as modern-day, historical, or futuristic: stories that cross eras, worlds with no Earth-time anchor, and realities
+  that resist a stable place in time.'
+status: accepted
+works: []

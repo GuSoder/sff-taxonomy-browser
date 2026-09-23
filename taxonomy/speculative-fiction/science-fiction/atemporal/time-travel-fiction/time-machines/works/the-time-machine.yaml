@@ -1,0 +1,34 @@
+id: the-time-machine
+title: The Time Machine
+authors:
+- H. G. Wells
+first_published: 1895
+canonical_genre: time-machines
+placement_status: accepted
+placement_rationale: The machine-mediated journey into Earth's distant future is the book's defining device; SFE treats the title as the key early term
+  for a machine designed for time travel.
+classification_sources:
+- sfe-time-machine
+bibliographic_sources:
+- https://www.penguinrandomhouse.com/books/316949/the-time-machine-by-hg-wells-with-an-introduction-by-greg-bear-and-an-afterword-by-simon-james/
+cover_curation:
+  status: ranked
+  source: Enriched Classics / Simon & Schuster
+  record_url: https://www.simonandschuster.com/books/The-Time-Machine/H-G-Wells/Enriched-Classics/9780743487733
+  image_url: https://covers.openlibrary.org/b/isbn/9780743487733-L.jpg
+  cover_id: ISBN-9780743487733
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A glowing brass time mechanism floats against a richly mottled field of rust, violet, and midnight blue, giving the flat front a compact
+    jewel-like focal point and evocative antique-machine texture.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 9
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/time-travel-fiction to match live tree; placement unchanged on site.'
+  previous_canonical_genre: time-travel-fiction

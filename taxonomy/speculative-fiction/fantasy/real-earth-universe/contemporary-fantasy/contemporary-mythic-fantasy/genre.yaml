@@ -1,4 +1,17 @@
 id: contemporary-mythic-fantasy
 name: Contemporary mythic fantasy
-definition: Contemporary fantasy in which ancient mythic beings, archetypes or powers remain active within ordinary present-day life, making inherited story a living force.
+definition: Contemporary fantasy in which ancient mythic beings, archetypes or powers remain active within ordinary present-day life, making inherited story
+  a living force.
 parent: contemporary-fantasy
+label: Contemporary mythic fantasy
+children: []
+image: 260-contemporary-mythic-fantasy.webp
+status: provisional
+works:
+- mythago-wood
+- anansi-boys
+- lanny
+- the-dark-is-rising-sequence
+- the-owl-service
+- the-weirdstone-trilogy
+- this-poison-heart

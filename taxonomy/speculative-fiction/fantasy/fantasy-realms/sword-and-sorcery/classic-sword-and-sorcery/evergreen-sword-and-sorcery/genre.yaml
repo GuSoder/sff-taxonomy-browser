@@ -1,0 +1,10 @@
+id: evergreen-sword-and-sorcery
+label: Evergreen S&S
+parent: classic-sword-and-sorcery
+children: []
+image: evergreen-sword-and-sorcery.webp
+definition: Sword and Sorcery foundations that escaped their original moment and remain perpetually current.
+status: provisional
+works:
+- conan
+- elric-of-melnibon

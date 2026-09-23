@@ -1,0 +1,35 @@
+id: the-fifth-head-of-cerberus
+title: The Fifth Head of Cerberus
+authors:
+- Gene Wolfe
+first_published: 1972
+canonical_genre: xenocolonial
+placement_status: accepted
+placement_rationale: "Its interlinked accounts investigate colonial identity, an allegedly displaced indigenous culture, and the observer\u2019s uncertainty;\
+  \ criticism describes its plea for understanding cultures unlike our own."
+classification_sources:
+- sfe-anthropology
+- https://ultan.org.uk/confounding-the-skin-and-the-mask/
+- https://torpublishinggroup.com/the-fifth-head-of-cerberus/?format=trade&isbn=9781250861009
+cover_curation:
+  status: ranked
+  source: Gollancz / Hachette UK
+  record_url: https://www.hachette.co.uk/titles/gene-wolfe/the-fifth-head-of-cerberus/9780575094222/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2024/12/hbg-title-the-fifth-head-of-cerberus-158.jpg
+  cover_id: ISBN-9780575094222
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A saturated violet-and-green colonial cityscape layers monumental architecture, palms, airships, a streetlamp, and a coolly lit human
+    figure into the most vivid and compositionally rich eligible edition.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 10
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/social-science-fiction/anthropological-science-fiction to match live
+    tree; placement unchanged on site.'
+  previous_canonical_genre: anthropological-science-fiction

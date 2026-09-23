@@ -1,0 +1,47 @@
+id: the-sword-of-shannara-trilogy
+title: The Sword of Shannara Trilogy
+authors:
+- Terry Brooks
+first_published: 1977
+canonical_genre: classic-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. SFE
+  calls the opening book heavily Tolkien-influenced fantasy; PRH defines the trilogy as its first three novels, organized around journeys against ancient
+  supernatural evil.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/brooks_terry
+- https://www.penguinrandomhouse.com/books/19046/the-sword-of-shannara-trilogy-by-terry-brooks/
+series:
+  books:
+  - The Sword of Shannara (1977)
+  - The Elfstones of Shannara (1982)
+  - The Wishsong of Shannara (1985)
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-the-sword-of-shannara.jpg
+  cover_id: 908811
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-search single pass
+book_covers:
+  status: complete
+  audited_on: '2026-09-22'
+  books:
+  - title: The Sword of Shannara
+    year: 1977
+    cover_id: 908811
+    cover_url: cover-the-sword-of-shannara.jpg
+  - title: The Elfstones of Shannara
+    year: 1982
+    cover_id: 908796
+    cover_url: cover-the-elfstones-of-shannara.jpg
+  - title: The Wishsong of Shannara
+    year: 1985
+    cover_id: 908803
+    cover_url: cover-the-wishsong-of-shannara.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/quest-fantasy/classic-quest-fantasy to match live
+    tree; placement unchanged on site.'
+  previous_canonical_genre: classic-quest-fantasy

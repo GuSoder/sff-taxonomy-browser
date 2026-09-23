@@ -2,8 +2,11 @@ id: technofantasy
 label: Technofantasy
 parent: sword-and-sorcery
 children: []
-works: []
+works:
+- bluecrowne
+- the-books-of-babel
+- the-iron-dragon-s-mother
 image: 90-technofantasy.webp
-definition: Bright, adventure-forward fantasy whose actual magic wears technological trappings - wondrous machinery, artifacts, chemistry, airships
-  and impossible engineering - without serious scientific justification. Dark necromantic or ominous forms belong in Dark Realms -> Technomancy.
+definition: 'Bright, adventure-forward fantasy whose actual magic wears technological trappings: wondrous machinery, artifacts, airships and impossible
+  engineering. Dark necromantic or ominous forms belong in Technomancy.'
 status: accepted

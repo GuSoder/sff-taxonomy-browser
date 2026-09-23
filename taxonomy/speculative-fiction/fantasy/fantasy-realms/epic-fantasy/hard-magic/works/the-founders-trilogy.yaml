@@ -1,0 +1,23 @@
+id: the-founders-trilogy
+title: The Founders Trilogy
+authors:
+- Robert Jackson Bennett
+first_published: 2018
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: Penguin Random House describes scriving as an engineered magic technology that rewrites objects, minds and reality through explicit
+  commands, rules and constraints. Its rule-bound system drives the trilogy, making Hard magic the closest leaf.
+books:
+- title: Foundryside
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/9252092-L.jpg
+- title: Shorefall
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/13789045-L.jpg
+- title: Locklands
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13249338-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/9252092-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

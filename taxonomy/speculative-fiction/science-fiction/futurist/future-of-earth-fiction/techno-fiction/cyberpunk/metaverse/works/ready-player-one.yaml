@@ -1,0 +1,26 @@
+id: ready-player-one
+title: Ready Player One
+authors:
+- Ernest Cline
+first_published: 2011
+canonical_genre: metaverse
+placement_status: accepted
+placement_rationale: SFE sets the novel in a degraded near-future where people retreat into the total-immersion OASIS, a Cyberspace-style virtual reality
+  governed by corporate technology and contested through avatars and a world-spanning game. Networked altered reality, an unpleasant social order and control
+  of the platform make Cyberpunk the closest leaf.
+classification_sources:
+- https://sf-encyclopedia.com/entry/cline_ernest
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL15625681W
+  selected_url: https://covers.openlibrary.org/b/id/10287476-L.jpg
+  cover_id: OL-cover-10287476
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass Open Library editions; selected detailed teal virtual-city artwork
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/techno-fiction/cyberpunk/metaverse to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: cyberpunk

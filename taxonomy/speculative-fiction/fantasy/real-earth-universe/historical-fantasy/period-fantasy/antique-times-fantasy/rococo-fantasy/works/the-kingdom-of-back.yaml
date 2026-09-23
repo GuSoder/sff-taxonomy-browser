@@ -1,0 +1,34 @@
+id: the-kingdom-of-back
+title: The Kingdom of Back
+authors:
+- Marie Lu
+first_published: 2020
+canonical_genre: rococo-fantasy
+leaf: speculative-fiction/fantasy/real-earth-universe/historical-fantasy/rococo-fantasy
+placement_status: accepted
+placement_rationale: Penguin Random House explicitly calls it historical fantasy, imagining the young Nannerl Mozart and a dangerous fantasy kingdom alongside
+  eighteenth-century musical history.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/554129/the-kingdom-of-back-by-marie-lu/
+cover_curation:
+  status: ranked
+  source: Booksense / BookPeople
+  record_url: https://www.bookpeople.com/book/9781524739010
+  image_url: https://images.booksense.com/images/010/739/9781524739010.jpg
+  cover_id: ISBN-9781524739010
+  beauty_score: 8.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A finely detailed flat front in luminous cyan and deep midnight blue, with mirrored roots and antlers forming an enchanted filigree
+    around the title; intricate, balanced, and atmospheric.
+  visually_reviewed_on: '2026-09-11'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 4
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/historical-fantasy/rococo-fantasy to match live tree;
+    placement unchanged on site.'
+  previous_canonical_genre: rococo-fantasy

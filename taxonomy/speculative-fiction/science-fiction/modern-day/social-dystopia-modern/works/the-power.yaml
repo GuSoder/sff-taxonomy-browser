@@ -1,0 +1,33 @@
+id: the-power
+title: The Power
+authors:
+- Naomi Alderman
+first_published: 2016
+canonical_genre: social-dystopia-modern
+placement_status: accepted
+placement_rationale: Teenage girls develop the ability to release electrical force, and the resulting reversal of physical power transforms religion, politics
+  and violence; its systemic speculative order makes dystopia the strongest current home.
+classification_sources:
+- https://www.hachettebookgroup.com/titles/naomi-alderman/the-power/9780316547604/
+cover_curation:
+  status: ranked
+  source: Viking / Penguin UK
+  record_url: https://www.penguin.co.uk/books/180872/the-power-by-alderman-naomi/9780670919963
+  image_url: https://cdn.penguin.co.uk/dam-assets/books/9780670919963/9780670919963-jacket-large.jpg
+  cover_id: ISBN-9780670919963
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A red woman rises from an opened book beneath monumental black-and-white lettering and small lightning bolts, turning the page itself
+    into a crisp, energetic emblem of power and emergence.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/social-science-fiction/dystopian-fiction to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: dystopian-fiction

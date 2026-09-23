@@ -1,0 +1,15 @@
+id: arthurian-fantasy
+label: Arthurian fantasy
+parent: mythic-retelling
+children: []
+image: 164-arthurian-fantasy.webp
+definition: Fantasy that retells or reimagines Arthur, Avalon, Camelot, the Grail and the Matter of Britain.
+status: accepted
+works:
+- avalon
+- the-once-and-future-king
+- arthurian-saga
+- a-glastonbury-romance
+- by-force-alone
+- the-legendborn-cycle
+- war-in-heaven

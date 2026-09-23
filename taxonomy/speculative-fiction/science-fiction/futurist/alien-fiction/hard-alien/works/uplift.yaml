@@ -1,0 +1,33 @@
+id: uplift
+title: Uplift
+authors:
+- David Brin
+first_published: 1980
+canonical_genre: hard-alien
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Sundiver
+  year: 1980
+  authors:
+  - David Brin
+  cover_url: https://covers.openlibrary.org/b/id/1467048-L.jpg
+- title: Startide Rising
+  year: 1983
+  cover_url: https://covers.openlibrary.org/b/isbn/055327418X-L.jpg
+- title: The Uplift War
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/isbn/0932096441-L.jpg
+- title: Brightness Reef
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/6817756-L.jpg
+- title: Infinity's Shore
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/368017-L.jpg
+- title: Heaven's Reach
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/368018-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/13527094-L.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

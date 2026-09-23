@@ -1,0 +1,13 @@
+id: retro-space-opera
+label: Retro space opera
+parent: pulp-space-opera
+children: []
+image: 173-retro-space-opera.webp
+definition: "Twenty-first-century space opera that deliberately looks backward, channeling the pulp era\u2019s style. Unlike New space opera - the 1990s-2000s\
+  \ movement that modernized the form - Retro space opera is the throwback."
+status: candidate
+works:
+- revenger
+- the-finder-chronicles
+- radiance
+- the-space-opera

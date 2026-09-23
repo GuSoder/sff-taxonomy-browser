@@ -2,9 +2,14 @@ id: whimsical-doors
 label: Whimsical doors
 parent: portal-fantasy
 children: []
-works: []
+works:
+- alice-in-wonderland
+- the-chronicles-of-narnia
+- oz
+- over-the-woodward-wall
+- peter-pan
+- a-peculiar-peril
+- the-phantom-tollbooth
 image: 127-whimsical-doors.webp
-definition: Portal fantasy whose crossing is an anchored physical threshold - door, room, border, hole or other place- or
-  object-bound opening - and whose story is child-friendly and bright. Scary, dark or adult portal stories belong in Eldritch
-  doors.
-status: accepted
+definition: Portal fantasy with an anchored physical threshold and a child-friendly, bright story. Scary, dark or adult stories go to Eldritch doors.
+status: provisional

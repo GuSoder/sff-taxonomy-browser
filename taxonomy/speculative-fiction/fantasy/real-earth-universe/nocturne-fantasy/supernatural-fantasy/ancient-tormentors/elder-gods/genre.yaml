@@ -1,7 +1,17 @@
 id: elder-gods
 name: Elder gods
 parent: ancient-tormentors
-status: active
+status: leaf
 label_status: attested
-definition: 'Supernatural horror driven by ancient beings worshipped as gods, whose awakening or intrusion exposes humanity to powers older than civilization.'
+definition: Supernatural horror driven by ancient beings worshipped as gods, whose awakening or intrusion exposes humanity to powers older than civilization.
 portrait: 241-elder-gods.webp
+label: Elder gods
+children: []
+image: 241-elder-gods.webp
+works:
+- beneath-the-rising
+- providence
+- revelator
+- the-citadel-of-fear
+- the-hungry-moon
+- the-immaculate-void

@@ -1,7 +1,12 @@
 id: sensory-magic-realism
 name: Sensory magic realism
 parent: magic-realism
-definition: Magic realism in which an impossible sense reveals knowledge hidden from
-  ordinary perception.
+definition: Magic realism in which an impossible sense reveals knowledge hidden from ordinary perception.
 image: 217-sensory-magic-realism.webp
 status: provisional
+label: Sensory magic realism
+children: []
+works:
+- perfume
+- eartheater
+- the-book-of-form-and-emptiness

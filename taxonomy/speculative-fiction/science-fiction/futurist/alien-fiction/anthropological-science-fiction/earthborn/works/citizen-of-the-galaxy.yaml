@@ -1,0 +1,27 @@
+id: citizen-of-the-galaxy
+title: Citizen of the Galaxy
+authors:
+- Robert A. Heinlein
+first_published: 1957
+canonical_genre: earthborn
+placement_status: accepted
+placement_rationale: SFE singles out the Free Traders' exogamous kinship system and the book's starship culture, while Simon & Schuster's edition follows
+  Thorby from slavery through adoption into a merchant clan and across the social strata of a Galactic culture. Its sustained examination of family, trade,
+  status, custom and belonging across societies makes Anthropological science fiction closer than general space adventure.
+classification_sources:
+- https://sf-encyclopedia.com/entry/heinlein_robert_a
+- https://sf-encyclopedia.com/entry/exogamy
+- https://sf-encyclopedia.com/entry/spaceships
+- https://books.org/books/citizen-of-the-galaxy/robert-a-heinlein/9781416505525/
+cover_curation:
+  status: ranked
+  source: Pocket Books / Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9781416505525-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/social-science-fiction/anthropological-science-fiction to match live
+    tree; placement unchanged on site.'
+  previous_canonical_genre: anthropological-science-fiction

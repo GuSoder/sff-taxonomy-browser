@@ -1,0 +1,10 @@
+id: classic-sword-and-sorcery
+label: Classic S&S
+parent: sword-and-sorcery
+children:
+- evergreen-sword-and-sorcery
+- pulp-sword-and-sorcery
+image: classic-sword-and-sorcery.webp
+definition: The classic Sword and Sorcery lineage, divided between timeless evergreens and its historical pulp waves.
+status: provisional
+works: []

@@ -1,0 +1,22 @@
+id: fafhrd-and-the-gray-mouser
+title: Fafhrd and the Gray Mouser
+authors:
+- Fritz Leiber
+first_published: 1957
+canonical_genre: golden-age-sword-and-sorcery
+placement_status: accepted
+placement_rationale: SFE identifies Fafhrd and the Gray Mouser as Leiber's central Heroic-Fantasy cycle and credits him with coining Sword and Sorcery;
+  The Swords of Lankhmar is its fifth collected volume.
+classification_sources:
+- https://sf-encyclopedia.com/entry/leiber_fritz
+cover_curation:
+  status: partial
+  latest_added_book: Swords in the Mist
+  latest_added_cover: https://covers.openlibrary.org/b/id/14192616-L.jpg
+  selected_url: https://covers.openlibrary.org/b/id/10185696-L.jpg
+  shows_english_title: true
+  review_method: one-pass series search
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/sword-and-sorcery to match live tree; placement unchanged on site.'
+  previous_canonical_genre: sword-and-sorcery

@@ -2,7 +2,8 @@ id: fantasy-mystery
 label: Fantasy mystery
 parent: gothic-fantasy
 children: []
-works: []
+works:
+- shadow-of-the-leviathan
 image: 2-fantasy-mystery.webp
 definition: 'The occult-detective branch of the Gothic School: investigation into uncanny crimes, monstrous institutions or occult systems in an invented
   world, where Gothic menace is essential to the mystery.'

@@ -1,0 +1,45 @@
+id: hainish-cycle
+title: Hainish Cycle
+authors:
+- Ursula K. Le Guin
+first_published: 1966
+last_published: 2000
+canonical_genre: earthborn
+placement_status: accepted
+included_titles:
+- Rocannon's World
+- Planet of Exile
+- City of Illusions
+- The Left Hand of Darkness
+- The Word for World Is Forest
+- The Dispossessed
+- Four Ways to Forgiveness
+- The Telling
+cover_curation:
+  status: complete
+  source: Open Library, author archive, and Macmillan
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass complete review with two language/scan rescues
+  selected_covers:
+  - title: Rocannon's World
+    url: https://covers.openlibrary.org/b/id/1926090-L.jpg
+  - title: Planet of Exile
+    url: https://static1.squarespace.com/static/5cad42ef90f904e520359371/t/61c182f24375676c474f4166/1640071922550/planet-of-exile-ace-paperback.jpg?format=1500w
+  - title: City of Illusions
+    url: https://covers.openlibrary.org/b/id/1926091-L.jpg
+  - title: The Left Hand of Darkness
+    url: https://covers.openlibrary.org/b/id/10618463-L.jpg
+  - title: The Word for World Is Forest
+    url: https://mpd-biblio-covers.imgix.net/9780765324641.jpg
+  - title: The Dispossessed
+    url: https://covers.openlibrary.org/b/id/6979680-L.jpg
+  - title: Four Ways to Forgiveness
+    url: https://covers.openlibrary.org/b/id/43991-L.jpg
+  - title: The Telling
+    url: https://covers.openlibrary.org/b/id/283945-L.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/earthbound-fiction/earthborn to match live tree; placement unchanged
+    on site.'
+  previous_canonical_genre: earthborn

@@ -1,0 +1,33 @@
+id: the-forever-war
+title: The Forever War
+authors:
+- Joe Haldeman
+first_published: 1974
+canonical_genre: military-science-fiction
+placement_status: accepted
+placement_rationale: A conscript fights an interstellar war while relativistic travel separates him by centuries from home; military service and its alienation
+  organize the novel.
+classification_sources:
+- https://sf-encyclopedia.com/entry/haldeman_joe
+- https://us.macmillan.com/books/9780312536633/theforeverwar/
+cover_curation:
+  status: ranked
+  source: Gollancz / Hachette UK
+  record_url: https://www.hachette.co.uk/titles/joe-haldeman/the-forever-war/9780575094147/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-forever-war-2-178.jpg
+  cover_id: ISBN-9780575094147
+  beauty_score: 9.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A vivid acid-green and violet painted soldier fills the foreground amid ranks of troops, a distant rocket, and dense mechanical armor
+    detail, giving the cover exceptional color, depth, and narrative energy.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 11
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
+  previous_canonical_genre: military-science-fiction

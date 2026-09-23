@@ -1,0 +1,16 @@
+id: modern-day
+label: Modern day
+parent: science-fiction
+children:
+- alien-invasion-fiction
+- apocalyptic-fiction
+- first-contact-fiction
+- genetic-engineering
+- humorous-science-fiction
+- soft-science-fiction
+- technothriller
+- social-dystopia-modern
+image: 53-modern-day.webp
+definition: Science fiction set in the recognizable present.
+status: accepted
+works: []

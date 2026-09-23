@@ -1,0 +1,32 @@
+id: in-the-black
+title: In the Black
+authors:
+- Patrick S. Tomlinson
+first_published: 2020
+canonical_genre: military-science-fiction
+placement_status: accepted
+placement_rationale: Tor explicitly calls the book military science fiction; its naval-style patrol crew confronts an unknown hostile ship in a demilitarized
+  interstellar border zone.
+classification_sources:
+- https://torpublishinggroup.com/in-the-black/?format=trade&isbn=9781250302755
+cover_curation:
+  status: ranked
+  source: Macmillan / Tor Books
+  record_url: https://us.macmillan.com/books/9781250302755/intheblack/
+  image_url: https://mpd-biblio-covers.imgix.net/9781250302755.jpg
+  cover_id: ISBN-9781250302755
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A sleek patrol ship banks past the luminous rings and machinery of a vast blue space station, with polished hull detail, hard-edged
+    perspective, and warm gold type creating a vivid military-SF scene.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 5
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
+  previous_canonical_genre: military-science-fiction

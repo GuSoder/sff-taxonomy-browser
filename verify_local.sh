@@ -38,5 +38,25 @@ bad=[n['id'] for n in nodes if n.get('works') and n['id'] in haskids]
 new=[b for b in bad if b not in KNOWN]
 assert not new, f'FAIL: cards on non-leaf nodes {new}'
 if bad: print('WARN: known pure-branch violations pending decision:',bad)
+import glob as _g, yaml as _y
+def _p(i):
+    q=[]
+    while i: q.append(i); i=byid[i].get('parent')
+    return 'taxonomy/'+'/'.join(reversed(q))
+_miss=[]
+for n in nodes:
+    wd=_p(n['id'])+'/works/'
+    if not __import__('os').path.exists(_p(n['id'])+'/genre.yaml'): _miss.append(('genre',n['id']))
+    have=set()
+    for f in _g.glob(wd+'*.yaml'):
+        try:
+            _d=_y.safe_load(open(f)) or {}; have.add(_d.get('title')); have.add(('id',_d.get('id')))
+        except Exception: _miss.append(('unparseable',f))
+    for w in n.get('works',[]):
+        if w['title'] not in have and ('id',w.get('id')) not in have: _miss.append(('work',n['id'],w['title']))
+KNOWN_PARITY={('work','technothriller','Little Brother'),('work','postcyberpunk','Little Brother')}
+_new=[m for m in _miss if m not in KNOWN_PARITY]
+assert not _new, f'FAIL: YAML mirror parity {len(_new)}: {_new[:5]}'
+if _miss: print('WARN: known parity gaps pending decision:',_miss)
 print(f'OK: script parses, {len(nodes)} nodes, {cards} cards / {books:,} books, refs consistent')
 PY

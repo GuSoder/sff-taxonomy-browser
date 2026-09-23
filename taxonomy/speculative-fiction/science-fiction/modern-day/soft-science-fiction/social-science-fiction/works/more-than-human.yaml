@@ -1,0 +1,35 @@
+id: more-than-human
+title: More Than Human
+authors:
+- Theodore Sturgeon
+first_published: 1953
+canonical_genre: social-science-fiction
+placement_status: accepted
+placement_rationale: Six deficient human beings come together into a gestalt consciousness; the treatment is psychological and emotional rather than technological,
+  the center of soft SF. SFE (sturgeon_theodore) details the fixup and its 1954 International Fantasy Award.
+classification_sources:
+- https://sf-encyclopedia.com/entry/sturgeon_theodore
+- https://sf-encyclopedia.com/entry/soft_sf
+cover_curation:
+  status: ranked
+  source: Open Library cover archive, Ballantine Books 1953 first paperback edition
+  record_url: https://openlibrary.org/books/OL27284367M/
+  image_url: https://covers.openlibrary.org/b/id/8765093-L.jpg
+  cover_id: OL-8765093
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Period painted composite of four faces joined through circuitry - the gestalt made visible - flat front, English title, 316x500. Gollancz
+    2000 (911136) is a cropped photo-real face at 6.5; S&S 1979 is the graphic-novel version, Farrar first is plain cloth, two scans were placeholders or
+    photos of physical books.
+  visually_reviewed_on: '2026-09-13'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 9
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/social-science-fiction/soft-science-fiction to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: soft-science-fiction

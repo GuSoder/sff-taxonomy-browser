@@ -1,7 +1,21 @@
 id: consciousness-fiction
 name: Consciousness fiction
 parent: inner-space
-status: active
+status: leaf
 label_status: attested
 definition: Speculative fiction in which altered, divided or nonordinary consciousness destabilizes time, identity and the reality experienced by the mind.
 portrait: 247-consciousness-fiction.webp
+label: Consciousness fiction
+children: []
+image: 247-consciousness-fiction.webp
+works:
+- briefing-for-a-descent-into-hell
+- love-and-other-thought-experiments
+- martian-time-slip
+- miracle-visitors
+- the-atrocity-exhibition
+- the-glamour
+- the-insult
+- the-memoirs-of-a-survivor
+- the-white-hotel
+- times-arrow

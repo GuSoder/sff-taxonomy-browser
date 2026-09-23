@@ -1,0 +1,36 @@
+id: peter-pan
+title: Peter Pan
+authors:
+- J. M. Barrie
+first_published: 1911
+canonical_genre: whimsical-doors
+placement_status: accepted
+placement_rationale: 'Intake candidates 576 (Peter and Wendy, 1000_Books) and 577 (Peter Pan, 501_MustReads) are one work: the play premiered 1904 and Barrie
+  novelized it as Peter and Wendy in 1911. Peter flies the Darling children out of the nursery window to Neverland - the playful, wondrous threshold into
+  another realm that defines whimsical-doors. Shelfmates: Alice in Wonderland, The Chronicles of Narnia, Oz. Added once; both list entries marked processed.'
+classification_sources:
+- https://en.wikipedia.org/wiki/Peter_and_Wendy
+- https://www.isfdb.org/cgi-bin/ae.cgi?1967=
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL462034W
+  image_url: https://covers.openlibrary.org/b/id/7140081-L.jpg
+  cover_id: id-7140081
+  beauty_score: 8
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Michael Foreman illustrated Peter Pan & Wendy - colorful painted border with mermaids, pirate and crocodile around the title panel,
+    English title and author visible. Rejected title-page scans (6992771, 6050523, 5560179, 5571018), library-stickered 8237052, faded 4648073/8600764,
+    and cartoonish 10505989/15163041.
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 13
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/portal-fantasy/whimsical-doors to match live tree; placement unchanged
+    on site.'
+  previous_canonical_genre: whimsical-doors

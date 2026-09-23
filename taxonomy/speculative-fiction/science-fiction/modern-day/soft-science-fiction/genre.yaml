@@ -1,0 +1,13 @@
+id: soft-science-fiction
+label: Soft science fiction
+parent: modern-day
+children:
+- social-science-fiction
+- psi-powers
+- superhero-fiction
+- cryptid-horror
+image: 32-soft-science-fiction.webp
+definition: 'The broad counterpoint to hard SF: speculative fiction not driven by physical science or engineering, including social-science stories, psi
+  powers and superhero fiction.'
+status: accepted
+works: []

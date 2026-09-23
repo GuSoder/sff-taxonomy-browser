@@ -1,0 +1,10 @@
+id: golden-age-space-opera
+label: Golden Age space opera
+parent: pulp-space-opera
+children:
+- pulp-space-odyssey
+- pulp-space-empire
+image: 172-golden-age-space-opera.webp
+definition: Pure umbrella for the original pulp-space-opera wave, partitioned by whether personal journey or rival-power structure drives the story.
+status: umbrella
+works: []

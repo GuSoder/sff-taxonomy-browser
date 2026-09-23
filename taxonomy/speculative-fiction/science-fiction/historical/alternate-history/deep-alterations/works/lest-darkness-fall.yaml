@@ -1,0 +1,33 @@
+id: lest-darkness-fall
+title: Lest Darkness Fall
+authors:
+- L. Sprague de Camp
+first_published: 1939
+canonical_genre: deep-alterations
+placement_status: accepted
+placement_rationale: SFE and ISFDB describe a modern archaeologist transported to sixth-century Rome who uses knowledge and inventions to prevent the Dark
+  Ages and redirect history. Because his intervention changes the fall of Rome and therefore centuries of world development, Deep alterations is the closest
+  alternate-history leaf.
+classification_sources:
+- https://www.isfdb.org/cgi-bin/title.cgi?1638=
+- https://openlibrary.org/books/OL10682353M/Lest_Darkness_Fall
+- https://sf-encyclopedia.com/entry/de_camp_l_sprague
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL1731641W/Lest_Darkness_Fall
+  image_url: https://covers.openlibrary.org/b/id/7401260-L.jpg
+  cover_id: OL-7401260
+  beauty_score: 8.2
+  beauty_rationale: "A colorful painted Roman scene centers the protagonist\u2019s anachronistic wooden machinery amid soldiers and citizens, with highly\
+    \ legible English title and author."
+  visually_reviewed_on: '2026-09-18'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  review_method: one-pass work search
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/historical/alternate-history/period-alterations/deep-alterations to match
+    live tree; placement unchanged on site.'
+  previous_canonical_genre: deep-alterations

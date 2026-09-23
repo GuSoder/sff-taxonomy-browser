@@ -1,0 +1,16 @@
+id: planetary-romance
+label: Planetary romance
+parent: science-fantasy
+children: []
+image: 168-planetary-romance.webp
+definition: Science fantasy organized around adventure on an exotic alien world or habitat, where the setting carries the sweep and furniture of fantasy
+  without meeting the Hard science fantasy bar.
+status: accepted
+works:
+- the-dragonriders-of-pern
+- majipoor
+- aetherbound
+- northwest-smith
+- out-of-the-silent-planet
+- the-sword-of-rhiannon
+- war-of-the-maps

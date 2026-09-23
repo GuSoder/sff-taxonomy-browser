@@ -1,0 +1,9 @@
+id: evergreen-space-opera
+label: Evergreen space opera
+parent: classic-space-opera
+children: []
+image: 171-evergreen-space-opera.webp
+definition: "Space opera that escaped its era: perpetually current rather than dated, in publishing\u2019s evergreen sense."
+status: candidate
+works:
+- dune

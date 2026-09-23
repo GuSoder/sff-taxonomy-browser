@@ -1,0 +1,10 @@
+id: pulp-space-opera
+label: Pulp space opera
+parent: classic-space-opera
+children:
+- golden-age-space-opera
+- retro-space-opera
+image: 170-pulp-space-opera.webp
+definition: Umbrella for space opera in the pulp tradition, partitioned into its original wave and deliberate modern throwbacks.
+status: candidate
+works: []

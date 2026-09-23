@@ -1,0 +1,43 @@
+id: ninefox-gambit
+title: Ninefox Gambit
+authors:
+- Yoon Ha Lee
+first_published: 2016
+canonical_genre: military-science-fiction
+placement_status: accepted
+placement_rationale: SFE (entry lee_yoon_ha) calls the Machineries of Empire sequence an array of complex Military SF stories in a Space Opera frame, with
+  equipoisal interpositions of action-fantasy figures (the undead master strategist Jedao). The plot is a Kel military campaign - formation warfare and
+  the siege of the Fortress of Scattered Needles - so Military science fiction is the closest existing leaf. NPR 2021 list candidate; Locus best first novel.
+classification_sources:
+- http://www.sf-encyclopedia.com/entry/lee_yoon_ha
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL17357645W
+  image_url: https://covers.openlibrary.org/b/id/13354287-L.jpg
+  cover_id: id-13354287
+  beauty_score: 6.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Solaris first-edition Chris Moore art of the swarm moth formation over a shadowed station; the only English flat front found carries
+    a small library barcode sticker top-left - retained because every alternative was an audiobook square, a Turkish edition, or a blank.
+  visually_reviewed_on: '2026-09-19'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 5
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+books:
+- title: Ninefox Gambit
+  first_published: 2016
+  cover_url: https://covers.openlibrary.org/b/id/13354287-L.jpg
+- title: Raven Stratagem
+  first_published: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8424165-L.jpg
+- title: Revenant Gun
+  first_published: 2018
+  cover_url: https://covers.openlibrary.org/b/isbn/9781781086070-L.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
+  previous_canonical_genre: military-science-fiction

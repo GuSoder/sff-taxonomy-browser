@@ -1,0 +1,30 @@
+id: the-belgariad
+title: The Belgariad
+authors:
+- David Eddings
+first_published: 1982
+canonical_genre: classic-quest-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Pawn of Prophecy
+  year: 1982
+  authors:
+  - David Eddings
+  cover_url: https://covers.openlibrary.org/b/id/6610126-L.jpg
+- title: Queen of Sorcery
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/207288-L.jpg
+- title: Magician's Gambit
+  year: 1983
+  cover_url: https://covers.openlibrary.org/b/id/207283-L.jpg
+- title: Castle of Wizardry
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/207292-L.jpg
+- title: Enchanters' End Game
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/209046-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/6610126-L.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

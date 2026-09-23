@@ -1,0 +1,12 @@
+id: court-intrigue
+label: Court intrigue
+parent: political-fantasy
+children:
+- dynastic-intrigues
+- court-spies
+- court-statecraft
+image: 159-court-intrigue.webp
+definition: Political fantasy driven by insider struggles within courts, partitioned by whether the engine is dynastic legitimacy, covert court action,
+  or ruler-level statecraft.
+status: accepted
+works: []

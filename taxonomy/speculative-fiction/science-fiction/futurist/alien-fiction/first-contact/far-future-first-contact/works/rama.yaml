@@ -1,0 +1,29 @@
+id: rama
+title: Rama
+authors:
+- Arthur C. Clarke
+first_published: 1973
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Rendezvous with Rama
+  year: 1973
+  cover_url: https://covers.openlibrary.org/b/id/1286944-L.jpg
+  shows_english_title: true
+- title: Rama II
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/369123-L.jpg
+  shows_english_title: true
+- title: The Garden of Rama
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/11414593-L.jpg
+  shows_english_title: true
+- title: Rama Revealed
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/372217-L.jpg
+  shows_english_title: true
+cover_curation:
+  selected_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-rendezvous-with-rama-2-236.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

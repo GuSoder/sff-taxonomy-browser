@@ -2,7 +2,13 @@ id: near-future-first-contact
 name: Near-future first contact
 parent: first-contact
 status: active
-definition: 'First-contact stories set on near-future Earth, where alien presence transforms a recognizable human world before any far-future expansion among the stars.'
-label_note: 'Attested review-community usage; mirrors sibling Far-future first contact.'
-representative_cover: 'https://covers.openlibrary.org/b/id/14330969-L.jpg'
+definition: First-contact stories set on near-future Earth, where alien presence transforms a recognizable human world before any far-future expansion among
+  the stars. The label mirrors the review-community phrase near-future first contact and the sibling Far-future first contact.
+label_note: Attested review-community usage; mirrors sibling Far-future first contact.
+representative_cover: https://covers.openlibrary.org/b/id/14330969-L.jpg
 portrait: 235-near-future-first-contact.webp
+label: Near-future first contact
+children: []
+image: 235-near-future-first-contact.webp
+works:
+- wormwood-trilogy

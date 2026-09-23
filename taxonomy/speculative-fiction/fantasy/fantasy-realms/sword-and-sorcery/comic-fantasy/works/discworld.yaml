@@ -1,0 +1,232 @@
+id: discworld
+title: Discworld
+authors:
+- Terry Pratchett
+first_published: 1983
+last_published: 2015
+canonical_genre: comic-fantasy
+placement_status: accepted
+placement_rationale: "SFE calls Discworld the bestselling comic Fantasy series, beginning in broad parody and growing into pun-rich satire of institutions,\
+  \ technology and modernity; Pratchett\u2019s entry calls it the genre\u2019s finest set of pure comedies. Comic mode unifies all 41 novels despite their\
+  \ varied fantasy and SF proportions."
+classification_sources:
+- https://sf-encyclopedia.com/entry/discworld_series
+- https://sf-encyclopedia.com/entry/pratchett_terry
+- https://terrypratchett.com/book-categories/discworld/
+cover_curation:
+  status: complete
+  source: Discworld.com 2022-2023 editions with Open Library fallback for two absent shop singles
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-18'
+  review_method: one-pass series search
+  selected_covers:
+  - title: The Colour of Magic
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-01.png
+  - title: The Light Fantastic
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-02.png
+  - title: Equal Rites
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-03.png
+  - title: Mort
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-04.png
+  - title: Sourcery
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-05.png
+  - title: Wyrd Sisters
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-06.png
+  - title: Pyramids
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-07.png
+  - title: Guards! Guards!
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-08.png
+  - title: Eric
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-09.png
+  - title: Moving Pictures
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-10.png
+  - title: Reaper Man
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-11.png
+  - title: Witches Abroad
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-12.png
+  - title: Small Gods
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-13.png
+  - title: Lords and Ladies
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-14.png
+  - title: Men at Arms
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-15.png
+  - title: Soul Music
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-16.png
+  - title: Interesting Times
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-17.png
+  - title: Maskerade
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-18.png
+  - title: Feet of Clay
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-19.png
+  - title: Hogfather
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-20.png
+  - title: Jingo
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-21.png
+  - title: The Last Continent
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-22.png
+  - title: Carpe Jugulum
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-23.png
+  - title: The Fifth Elephant
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-24.png
+  - title: The Truth
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-25.png
+  - title: Thief of Time
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-26.png
+  - title: The Last Hero
+    url: https://covers.openlibrary.org/b/id/14645749-L.jpg
+  - title: The Amazing Maurice and his educated rodents
+    url: https://covers.openlibrary.org/b/id/14645777-L.jpg
+  - title: Night Watch
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-28.png
+  - title: The Wee Free Men
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-29.png
+  - title: Monstrous Regiment
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-30.png
+  - title: A Hat Full of Sky
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-31.png
+  - title: Going Postal
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-32.png
+  - title: Thud!
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-33.png
+  - title: Wintersmith
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-34.png
+  - title: Making Money
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-35.png
+  - title: Unseen Academicals
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-36.png
+  - title: I Shall Wear Midnight
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-37.png
+  - title: Snuff
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-38.png
+  - title: Raising Steam
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-39.png
+  - title: "The Shepherd\u2019s Crown"
+    url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-40.png
+books:
+- title: The Colour of Magic
+  first_published: 1983
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Colour-of-magic.jpg?fit=192%2C300&ssl=1
+- title: The Light Fantastic
+  first_published: 1986
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-light-fantastic.jpg?fit=192%2C300&ssl=1
+- title: Equal Rites
+  first_published: 1987
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Equal-Rites.jpg?fit=192%2C300&ssl=1
+- title: Mort
+  first_published: 1987
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Mort.jpg?fit=192%2C300&ssl=1
+- title: Sourcery
+  first_published: 1988
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Sourcery.jpg?fit=192%2C300&ssl=1
+- title: Wyrd Sisters
+  first_published: 1988
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Wyrd-Sisters.jpg?fit=192%2C300&ssl=1
+- title: Pyramids
+  first_published: 1989
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Pyramids.jpg?fit=192%2C300&ssl=1
+- title: Guards! Guards!
+  first_published: 1989
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/03/Guards-Guards.jpg?fit=192%2C300&ssl=1
+- title: Eric
+  first_published: 1990
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Eric.jpg?fit=191%2C300&ssl=1
+- title: Moving Pictures
+  first_published: 1990
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Moving-Pictures.jpg?fit=192%2C300&ssl=1
+- title: Reaper Man
+  first_published: 1991
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Reaper-Man.jpg?fit=192%2C300&ssl=1
+- title: Witches Abroad
+  first_published: 1991
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Witches-Abroad.jpg?fit=192%2C300&ssl=1
+- title: Small Gods
+  first_published: 1992
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Small-Gods.jpg?fit=192%2C300&ssl=1
+- title: Lords and Ladies
+  first_published: 1992
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Lords-and-Ladies.jpg?fit=192%2C300&ssl=1
+- title: Men at Arms
+  first_published: 1993
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Men-at-Arms.jpg?fit=192%2C300&ssl=1
+- title: Soul Music
+  first_published: 1994
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Soul-Music.jpg?fit=192%2C300&ssl=1
+- title: Interesting Times
+  first_published: 1994
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Interesting-Times.jpg?fit=192%2C300&ssl=1
+- title: Maskerade
+  first_published: 1995
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Maskerade.jpg?fit=192%2C300&ssl=1
+- title: Feet of Clay
+  first_published: 1996
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Feet-of-Clay.jpg?fit=192%2C300&ssl=1
+- title: Hogfather
+  first_published: 1996
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Hogfather.jpg?fit=198%2C300&ssl=1
+- title: Jingo
+  first_published: 1997
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Jingo.jpg?fit=192%2C300&ssl=1
+- title: The Last Continent
+  first_published: 1998
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-Last-Continent.jpg?fit=192%2C300&ssl=1
+- title: Carpe Jugulum
+  first_published: 1998
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Carpe-Jugulum.jpg?fit=192%2C300&ssl=1
+- title: The Fifth Elephant
+  first_published: 1999
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-Fifth-Elephant.jpg?fit=192%2C300&ssl=1
+- title: The Truth
+  first_published: 2000
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-Truth.jpg?fit=192%2C300&ssl=1
+- title: Thief of Time
+  first_published: 2001
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/thief-of-time-1.jpg?fit=192%2C300&ssl=1
+- title: The Last Hero
+  first_published: 2001
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-Last-Hero.jpg?fit=253%2C300&ssl=1
+- title: The Amazing Maurice and his educated rodents
+  first_published: 2001
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-Amazing-Maurice-and-his-Educated-Rodents-e1664308081644.jpg?fit=186%2C300&ssl=1
+- title: Night Watch
+  first_published: 2002
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Night-Watch.jpg?fit=192%2C300&ssl=1
+- title: The Wee Free Men
+  first_published: 2003
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/wfm.jpg?fit=195%2C300&ssl=1
+- title: Monstrous Regiment
+  first_published: 2003
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Monstrous-Regiment-copy.jpg?fit=192%2C300&ssl=1
+- title: A Hat Full of Sky
+  first_published: 2004
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/81dhDbryZuL.jpg?fit=195%2C300&ssl=1
+- title: Going Postal
+  first_published: 2004
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Going-Postal.jpg?fit=193%2C300&ssl=1
+- title: Thud!
+  first_published: 2005
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Thud.jpg?fit=192%2C300&ssl=1
+- title: Wintersmith
+  first_published: 2006
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Wintersmith.jpg?fit=195%2C300&ssl=1
+- title: Making Money
+  first_published: 2007
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Making-Money.jpg?fit=191%2C300&ssl=1
+- title: Unseen Academicals
+  first_published: 2009
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Unseen-Academicals.jpg?fit=192%2C300&ssl=1
+- title: I Shall Wear Midnight
+  first_published: 2010
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/I-Shall-Wear-Midnight.jpg?fit=195%2C300&ssl=1
+- title: Snuff
+  first_published: 2011
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Snuff.jpg?fit=192%2C300&ssl=1
+- title: Raising Steam
+  first_published: 2013
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Raising-Steam.jpg?fit=193%2C300&ssl=1
+- title: "The Shepherd\u2019s Crown"
+  first_published: 2015
+  cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-Shepherds-Crown.jpg?fit=195%2C300&ssl=1
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/comic-fantasy to match live tree; placement unchanged on site.'
+  previous_canonical_genre: comic-fantasy

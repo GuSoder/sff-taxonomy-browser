@@ -1,0 +1,12 @@
+id: science-fiction
+label: Science fiction
+parent: speculative-fiction
+children:
+- historical
+- futurist
+- modern-day
+- atemporal
+image: 20-science-fiction.webp
+definition: ''
+status: accepted
+works: []

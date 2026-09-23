@@ -1,0 +1,11 @@
+id: generation-starships
+label: Generation Starships
+parent: spacefaring-fiction
+children: []
+image: 111-generation-starships.webp
+definition: "Societies living aboard multigenerational spacecraft, often after the ship\u2019s true nature or mission has been forgotten."
+status: candidate
+works:
+- non-stop
+- escaping-exodus
+- rite-of-passage

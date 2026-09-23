@@ -1,0 +1,11 @@
+id: totalitarian-dystopia
+label: Totalitarian dystopia
+parent: dystopian-fiction
+children:
+- huxleyan-dystopia
+- orwellian-dystopia
+image: 42-totalitarian-dystopia.webp
+definition: 'Umbrella for two classic modes of totalitarian dystopia: Huxleyan control through pleasure, conditioning, drugs and engineered bodies, and
+  Orwellian control through surveillance, censorship, law and force.'
+status: umbrella
+works: []

@@ -1,0 +1,11 @@
+id: techno-fiction
+label: Techno Fiction
+parent: future-of-earth-fiction
+children:
+- robots-and-ai
+- cyberpunk
+- technomorphosis
+image: 87-techno-fiction.webp
+definition: Future-of-Earth fiction organized around technologies that remake minds, bodies, networks and social order.
+status: accepted
+works: []

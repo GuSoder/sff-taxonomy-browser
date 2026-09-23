@@ -2,8 +2,9 @@ id: shenmo
 label: Shenmo
 parent: fairy-tale-revision
 children: []
-works: []
+works:
+- the-chronicles-of-master-li-and-number-ten-ox
 image: 278-shenmo.webp
-definition: '神魔, the Chinese gods-and-demons tradition descending from Journey to the West: mythic adventures shaped by deities, demons, ghosts, animal
-  spirits, celestial bureaucracy and the mingling of Buddhist, Daoist and folk cosmologies.'
+definition: "\u795E\u9B54, the Chinese gods-and-demons tradition descending from Journey to the West: mythic adventures shaped by deities, demons, ghosts,\
+  \ animal spirits, celestial bureaucracy and the mingling of Buddhist, Daoist and folk cosmologies."
 status: accepted

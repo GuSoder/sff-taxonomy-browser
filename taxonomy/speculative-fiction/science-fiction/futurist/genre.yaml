@@ -1,0 +1,14 @@
+id: futurist
+label: Futurist
+parent: science-fiction
+children:
+- hard-sf
+- future-of-earth-fiction
+- spacefaring-fiction
+- alien-fiction
+- otherworldly-fiction
+image: 52-futurist.webp
+definition: "Science fiction organized by rigorous science, Earth futures, spacefaring, alien life or otherworldly cosmology. Reader-relative test: speculative\
+  \ science from a writer\u2019s present that did not pan out can qualify when it now reads as an alternate future\u2019s science."
+status: accepted
+works: []

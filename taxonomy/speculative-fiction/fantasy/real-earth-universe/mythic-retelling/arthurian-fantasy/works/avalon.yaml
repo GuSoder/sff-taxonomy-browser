@@ -1,0 +1,33 @@
+id: avalon
+title: Avalon
+authors:
+- Marion Zimmer Bradley
+first_published: 1982
+canonical_genre: arthurian-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Mists of Avalon
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/14648001-L.jpg
+  shows_english_title: true
+- title: The Forest House
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/6411361-L.jpg
+  shows_english_title: true
+- title: Lady of Avalon
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/8773510-L.jpg
+  shows_english_title: true
+- title: Priestess of Avalon
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/13859344-L.jpg
+  shows_english_title: true
+- title: Ancestors of Avalon
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/10134-L.jpg
+  shows_english_title: true
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/14648001-L.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

@@ -1,0 +1,34 @@
+id: white-space
+title: White Space
+authors:
+- Elizabeth Bear
+first_published: 2019
+canonical_genre: alien-delving
+placement_status: accepted
+placement_rationale: SFE calls White Space an interstellar space-opera sequence and identifies Ancestral Night's forerunner artefacts and post-scarcity
+  culture; Simon & Schuster describes space salvagers, alien wrecks and a discovery that could tip humanity into interstellar war. Its large-scale alien,
+  political and exploratory canvas makes New Space Opera closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/bear_elizabeth
+- https://www.simonandschuster.com/series/White-Space
+- https://www.simonandschuster.com/books/Ancestral-Night/Elizabeth-Bear/White-Space/9781534402997
+cover_curation:
+  status: complete
+  selected_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534402997/ancestral-night-9781534402997.jpg
+  shows_english_title: true
+  review_method: one-pass official publisher series
+books:
+- title: Ancestral Night
+  first_published: 2019
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534402997/ancestral-night-9781534402997.jpg
+- title: Machine
+  first_published: 2020
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534403024/machine-9781534403024.jpg
+- title: The Folded Sky
+  first_published: 2025
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668078112/the-folded-sky-9781668078112_lg.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/new-space-opera to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: new-space-opera

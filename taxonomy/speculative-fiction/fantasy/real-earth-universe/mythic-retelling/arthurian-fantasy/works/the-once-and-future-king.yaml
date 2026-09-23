@@ -1,0 +1,23 @@
+id: the-once-and-future-king
+title: The Once and Future King
+authors:
+- T. H. White
+first_published: 1958
+canonical_genre: arthurian-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Sword in the Stone
+  year: 1938
+  cover_url: https://covers.openlibrary.org/b/id/283473-L.jpg
+  shows_english_title: true
+- title: The Queen of Air and Darkness
+  year: 1939
+- title: The Ill-Made Knight
+  year: 1940
+- title: The Candle in the Wind
+  year: 1958
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/15029718-L.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

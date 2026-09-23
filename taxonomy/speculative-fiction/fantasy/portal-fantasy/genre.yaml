@@ -1,0 +1,12 @@
+id: portal-fantasy
+label: Portal fantasy
+parent: fantasy
+children:
+- whimsical-doors
+- eldritch-doors
+- transporting-tomes
+- fantasy-rifts
+image: 30-portal-fantasy.webp
+definition: 'Fantasy organized by the mechanics of crossing: an anchored physical threshold, a book or text, or an unanchored tear between realities.'
+status: provisional
+works: []

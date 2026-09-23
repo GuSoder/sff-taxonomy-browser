@@ -1,0 +1,11 @@
+id: period-fantasy
+label: Period fantasy
+parent: historical-fantasy
+children:
+- antique-times-fantasy
+- industrial-age-fantasy
+image: 140-period-fantasy.webp
+definition: Historical fantasy anchored to a documented era, whose source is chronicles and recorded history; the era is the stage, not a puzzle secretly
+  explained or rewritten.
+status: umbrella
+works: []

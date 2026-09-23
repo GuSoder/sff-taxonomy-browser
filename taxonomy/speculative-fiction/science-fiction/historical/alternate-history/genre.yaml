@@ -1,0 +1,10 @@
+id: alternate-history
+label: Alternate history
+parent: historical
+children:
+- period-alterations
+- deep-alterations
+image: 5-alternate-history.webp
+definition: Fiction set in a history that diverges from the known world at an identifiable or implied turning point.
+status: accepted
+works: []

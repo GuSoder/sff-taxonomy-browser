@@ -1,0 +1,35 @@
+id: strange-case-of-dr-jekyll-and-mr-hyde
+title: Strange Case of Dr Jekyll and Mr Hyde
+authors:
+- Robert Louis Stevenson
+first_published: 1886
+canonical_genre: mad-science-gothic
+placement_status: accepted
+placement_rationale: A chemically induced double, mad science in the Gothic mode; SFE (stevenson_robert_louis) calls it 'a Faustian moral fable in the form
+  of a tale of mystery and horror' and cross-references Gothic SF and Horror in SF directly. Sits beside Frankenstein, whose paradigm SFE says the tale
+  inherits.
+classification_sources:
+- https://sf-encyclopedia.com/entry/stevenson_robert_louis
+cover_curation:
+  status: ranked
+  source: Open Library cover archive, Grosset & Dunlap 1978 edition
+  record_url: https://openlibrary.org/books/OL10265189M/
+  image_url: https://covers.openlibrary.org/b/id/10767433-L.jpg
+  cover_id: OL-10767433
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: Jekyll at his laboratory bench with Hyde looming behind, flask in hand - the transformation made visible in detailed period painting,
+    flat front, English title. 18 candidates reviewed; Everyman red grotesque 7.5, Canon Press green graphic 7.0, Waverley 2008 carries a FREE BOOK sticker
+    (rejected), Washington Square 1995 scan has a library barcode sticker (rejected), Stone Arch and Acclaim are graphic-novel/comic adaptations (rejected).
+  visually_reviewed_on: '2026-09-13'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 18
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/gothic-science-fiction/mad-science-gothic to match live tree; placement
+    unchanged on site.'
+  previous_canonical_genre: gothic-science-fiction

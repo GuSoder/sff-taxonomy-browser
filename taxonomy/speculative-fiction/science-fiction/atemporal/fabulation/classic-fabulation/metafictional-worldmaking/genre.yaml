@@ -2,8 +2,15 @@ id: metafictional-worldmaking
 label: Metafictional worldmaking
 parent: classic-fabulation
 children: []
-works: []
+works:
+- invisible-cities
+- cosmicomics
+- labyrinths
+- the-cornelius-quartet
+- the-illustrated-man
+- the-invention-of-morel
+- the-land-of-laughs
+- unlanguage
 image: 284-metafictional-worldmaking.webp
-definition: Fabulations where narration, books, frames, revision, recording or projection
-  visibly make the experienced world.
+definition: Fabulations where narration, books, frames, revision, recording or projection visibly make the experienced world.
 status: accepted

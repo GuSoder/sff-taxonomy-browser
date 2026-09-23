@@ -1,9 +1,15 @@
 id: industrial-age-fantasy
 label: Industrial age fantasy
 parent: period-fantasy
-children: [gaslight-fantasy, weird-west-fantasy, tudorbethan-fantasy, dust-bowl-fantasy, neon-fantasy]
+children:
+- gaslight-fantasy
+- weird-west-fantasy
+- tudorbethan-fantasy
+- dust-bowl-fantasy
+- neon-fantasy
 image: 266-industrial-age-fantasy.webp
-definition: >-
-  Umbrella for Period fantasy set from 1788 onward, from the Regency and industrial nineteenth century through the interwar, Depression and late-twentieth-century eras. The boundary follows the median setting-year split across the branch; magic form is not a gate.
+definition: Umbrella for Period fantasy set from 1788 onward, from the Regency and industrial nineteenth century through the interwar, Depression and late-twentieth-century
+  eras.
 status: umbrella
 ruling: Created by Gustav's 2026-09-21 Period fantasy ruling.
+works: []

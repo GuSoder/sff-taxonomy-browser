@@ -1,0 +1,29 @@
+id: the-lord-of-the-rings
+title: The Lord of the Rings
+authors:
+- J. R. R. Tolkien
+first_published: 1937
+canonical_genre: classic-quest-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Hobbit
+  year: 1937
+  cover_url: https://covers.openlibrary.org/b/id/14849956-L.jpg
+  shows_english_title: true
+- title: The Fellowship of the Ring
+  year: 1954
+  cover_url: https://covers.openlibrary.org/b/id/6308837-L.jpg
+  shows_english_title: true
+- title: The Two Towers
+  year: 1954
+  cover_url: https://covers.openlibrary.org/b/id/15084479-L.jpg
+  shows_english_title: true
+- title: The Return of the King
+  year: 1955
+  cover_url: https://covers.openlibrary.org/b/id/14626055-L.jpg
+  shows_english_title: true
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/257294-L.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

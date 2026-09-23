@@ -1,0 +1,33 @@
+id: the-book-of-the-new-sun
+title: The Book of the New Sun
+authors:
+- Gene Wolfe
+first_published: 1980
+canonical_genre: dying-earth
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: The Shadow of the Torturer
+  year: 1980
+  cover_url: https://covers.openlibrary.org/b/id/7150677-L.jpg
+  shows_english_title: true
+- title: The Claw of the Conciliator
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/6623051-L.jpg
+  shows_english_title: true
+- title: The Sword of the Lictor
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/72358-L.jpg
+  shows_english_title: true
+- title: The Citadel of the Autarch
+  year: 1983
+  cover_url: https://covers.openlibrary.org/b/id/10290461-L.jpg
+  shows_english_title: true
+- title: The Urth of the New Sun
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/10155842-L.jpg
+  shows_english_title: true
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/14836065-L.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

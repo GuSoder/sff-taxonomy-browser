@@ -1,0 +1,39 @@
+id: cities-in-flight
+title: Cities in Flight
+authors:
+- James Blish
+first_published: 1956
+canonical_genre: pulp-space-empire
+placement_status: accepted
+placement_rationale: SFE identifies the four Okie novels and their iconic antigravity cities roaming the Galaxy for work, while Hachette calls the omnibus
+  a galaxy-spanning four-volume future of giant city-spaceships and Galactic empire. The pulp-scale interstellar adventure is foundational Classic space
+  opera.
+classification_sources:
+- https://sf-encyclopedia.com/entry/blish_james
+- https://www.hachette.co.uk/titles/james-blish/cities-in-flight/9780575094178/
+- https://openroadmedia.com/ebook/cities-in-flight/9781590209301
+cover_curation:
+  status: complete
+  source: Arrow / Open Library
+  selected_url: https://covers.openlibrary.org/b/id/5540855-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-17'
+  review_method: one-pass coordinated series
+books:
+- title: They Shall Have Stars
+  first_published: 1956
+  cover_url: https://covers.openlibrary.org/b/id/5540855-L.jpg
+- title: A Life for the Stars
+  first_published: 1962
+  cover_url: https://covers.openlibrary.org/b/id/5542304-L.jpg
+- title: Earthman, Come Home
+  first_published: 1955
+  cover_url: https://covers.openlibrary.org/b/id/5540824-L.jpg
+- title: The Triumph of Time
+  first_published: 1958
+  cover_url: https://covers.openlibrary.org/b/id/10616266-L.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/space-opera/classic-space-opera to match
+    live tree; placement unchanged on site.'
+  previous_canonical_genre: classic-space-opera

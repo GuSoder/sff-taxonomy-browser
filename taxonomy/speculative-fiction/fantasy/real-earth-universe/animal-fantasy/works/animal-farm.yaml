@@ -1,0 +1,16 @@
+id: animal-farm
+title: Animal Farm
+authors:
+- George Orwell
+first_published: 1945
+canonical_genre: animal-fantasy
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Animal Farm
+  year: 1945
+  cover_url: https://covers.openlibrary.org/b/id/12408412-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/12408412-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.

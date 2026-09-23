@@ -1,9 +1,15 @@
 id: antique-times-fantasy
 label: Antique times fantasy
 parent: period-fantasy
-children: [celtic-fantasy, viking-fantasy, autumn-kingdoms, andalusian-fantasy, renaissance-fantasy, rococo-fantasy]
+children:
+- celtic-fantasy
+- viking-fantasy
+- autumn-kingdoms
+- andalusian-fantasy
+- renaissance-fantasy
+- rococo-fantasy
 image: 265-antique-times-fantasy.webp
-definition: >-
-  Umbrella for Period fantasy set before 1788, spanning the post-Roman, Viking, medieval, Renaissance, Andalusian and Rococo historical stages. The boundary follows the median setting-year split across the branch; magic form is not a gate.
+definition: Umbrella for Period fantasy set before 1788, spanning the post-Roman, Viking, medieval, Renaissance, Andalusian and Rococo historical stages.
 status: umbrella
 ruling: Created by Gustav's 2026-09-21 Period fantasy ruling; Rococo remains here because The Kingdom of Back is set around 1765.
+works: []

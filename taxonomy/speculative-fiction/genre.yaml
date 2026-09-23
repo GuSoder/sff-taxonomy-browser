@@ -1,0 +1,10 @@
+id: speculative-fiction
+label: Speculative fiction
+parent: null
+children:
+- fantasy
+- science-fiction
+image: 23-speculative-fiction.webp
+definition: Working project root; exact scope is an open decision.
+status: provisional
+works: []

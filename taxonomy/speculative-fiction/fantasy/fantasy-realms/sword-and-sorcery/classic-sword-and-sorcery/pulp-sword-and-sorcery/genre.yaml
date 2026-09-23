@@ -1,0 +1,10 @@
+id: pulp-sword-and-sorcery
+label: Pulp S&S
+parent: classic-sword-and-sorcery
+children:
+- golden-age-sword-and-sorcery
+- sword-and-sorcery-revival
+image: pulp-sword-and-sorcery.webp
+definition: "Sword and Sorcery\u2019s pulp tradition and its modern revival, divided by historical wave."
+status: provisional
+works: []

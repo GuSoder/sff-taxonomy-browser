@@ -1,0 +1,51 @@
+id: culture
+title: Culture
+authors:
+- Iain M. Banks
+first_published: 1987
+last_published: 2012
+canonical_genre: post-scarcity-politics
+placement_status: accepted
+included_titles:
+- Consider Phlebas
+- The Player of Games
+- Use of Weapons
+- The State of the Art
+- Excession
+- Inversions
+- Look to Windward
+- Matter
+- Surface Detail
+- The Hydrogen Sonata
+cover_curation:
+  status: complete
+  source: Open Library and official Hachette/Little, Brown
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass complete existing-series review with two non-English replacements
+  selected_covers:
+  - title: Consider Phlebas
+    url: https://covers.openlibrary.org/b/id/6872572-L.jpg
+  - title: The Player of Games
+    url: https://covers.openlibrary.org/b/id/44077-L.jpg
+  - title: Use of Weapons
+    url: https://covers.openlibrary.org/b/id/6797757-L.jpg
+  - title: The State of the Art
+    url: https://covers.openlibrary.org/b/id/941423-L.jpg
+  - title: Excession
+    url: https://www.littlebrown.co.uk/wp-content/uploads/2023/05/hbg-title-excession-2-34.jpg
+  - title: Inversions
+    url: https://covers.openlibrary.org/b/id/13334421-L.jpg
+  - title: Look to Windward
+    url: https://covers.openlibrary.org/b/id/476421-L.jpg
+  - title: Matter
+    url: https://covers.openlibrary.org/b/id/1174791-L.jpg
+  - title: Surface Detail
+    url: https://covers.openlibrary.org/b/id/6672209-L.jpg
+  - title: The Hydrogen Sonata
+    url: https://www.hachette.co.uk/wp-content/uploads/2023/05/hbg-title-the-hydrogen-sonata-3-29.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/space-opera/political-space-opera to match live tree;
+    placement unchanged on site.'
+  previous_canonical_genre: political-space-opera

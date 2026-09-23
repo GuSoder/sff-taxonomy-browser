@@ -1,0 +1,33 @@
+id: the-martian
+title: The Martian
+authors:
+- Andy Weir
+first_published: 2014
+canonical_genre: planetary-science
+placement_status: accepted
+placement_rationale: A stranded astronaut survives Mars through engineering, chemistry and orbital mechanics; detailed scientific problem-solving is the
+  organizing method.
+classification_sources:
+- https://sf-encyclopedia.com/entry/weir_andy
+- https://www.penguinrandomhouse.com/books/234102/the-martian-by-andy-weir/
+cover_curation:
+  status: ranked
+  source: Open Library / Crown
+  record_url: https://openlibrary.org/books/OL25661982M/The_Martian
+  image_url: https://covers.openlibrary.org/b/id/11446888-L.jpg
+  cover_id: OL-cover-11446888
+  beauty_score: 8.0
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
+  beauty_rationale: A lone astronaut tumbles through a blazing orange Martian dust cloud, with sharp highlights, deep shadow, and vast empty space turning
+    the flat front into a tense, cinematic survival image.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 7
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
+    book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/hard-science-fiction to match live tree; placement unchanged on site.'
+  previous_canonical_genre: hard-science-fiction

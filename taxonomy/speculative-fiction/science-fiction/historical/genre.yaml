@@ -1,0 +1,17 @@
+id: historical
+label: Historical
+parent: science-fiction
+children:
+- alternate-history
+- gothic-science-fiction
+- historical-first-contact
+- lost-world-fiction
+- steampunk
+- scientific-adventure
+- fantastic-voyage
+- psi-noir
+image: 51-historical.webp
+definition: 'Science fiction set in a past era as experienced by the present-day reader: real history, alternate timelines or a reimagined past. A writer-present
+  or writer-future setting must also be tested here once it now feels clearly historical.'
+status: accepted
+works: []
