@@ -3,9 +3,11 @@ title: The Hyperion Cantos
 authors:
 - Dan Simmons
 first_published: 1989
-canonical_genre: cosmological-politics
+canonical_genre: theological-space-opera
 placement_status: accepted
-placement_rationale: ''
+placement_rationale: 'SFE (Dan Simmons): seven pilgrims, on the Canterbury Tales model, travel to the Time Tombs where the Shrike ''promises a dreadful Transcendence''
+  and answers their prayers; in Endymion order returns through ''a renewed Papacy'', and Aenea is ''a final Messiah'' whose martyrdom is the agent for Transcendence.
+  The theology carries all four books; the factional war mainly the first two. Moved from Cosmological politics (retired) 2026-09-23 (Gustav 16:15).'
 books:
 - title: Hyperion
   year: 1989
@@ -27,3 +29,10 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/isbn/1596064692-L.jpg
   shows_english_title: false
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+classification_sources:
+- https://sf-encyclopedia.com/entry/simmons_dan
+placement_history:
+- date: '2026-09-23'
+  from: cosmological-politics
+  to: theological-space-opera
+  ruling: Gustav 16:15:12 "Ok, execute"

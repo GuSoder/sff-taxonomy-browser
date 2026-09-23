@@ -1179,3 +1179,8 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Gustav 16:00:59 "Yay, finally a Deco Genre! Execute Deco SF" -> Deco SF leaf (Art Deco interwar, ~1918-1939): Mem (from Mad-science Gothic) + The Listener (from Psi noir). Psi noir left empty -> retired (node, folder, portrait 286 file kept in repo root).
 - Period SF children: Steampunk, Deco SF, Historical first contact. Historical first contact (14th c. + prehistory) still breaks the era-naming rule - open question for Gustav.
 - Tree: 314 nodes, 898 cards / 1,918 books.
+
+## 16:26 - Theological space opera (318) under New space opera; Cosmological politics retired
+- Gustav 16:15:12 "Ok, execute" (after the drops-to-4 exchange). Theological space opera leaf beside Political space opera: The Hyperion Cantos (moved; SFE Simmons entry grounds pilgrimage/Papacy/Messiah/Transcendence) + The Unreasoning Mask (new card, intake #3 resolved; cover OL 10176146, 1981 paperback).
+- Cosmological politics left empty -> retired. Political space opera: 4 subgenres.
+- added +1. Tree: 314 nodes, 899 cards / 1,919 books.

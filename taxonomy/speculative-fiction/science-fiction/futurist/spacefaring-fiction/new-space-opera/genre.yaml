@@ -3,10 +3,14 @@ label: New space opera
 parent: spacefaring-fiction
 children:
 - political-space-opera
+- theological-space-opera
 - alien-delving
 - spaceship-drama
 image: 45-new-space-opera.webp
-definition: The self-aware revival of space opera from the 1980s on - Banks and his heirs (SFE 'Space Opera' on the New Space Opera; the Dozois/Strahan
-  anthologies). Split 2026-09-13 from space opera to keep leaves under ten works.
+definition: The self-aware revival of space opera from the 1980s on - Banks and his heirs (SFE 'Space Opera' on the New Space Opera; the Dozois/Strahan anthologies).
+  Split 2026-09-13 from space opera to keep leaves under ten works.
 status: accepted
 works: []
+history:
+- date: '2026-09-23'
+  change: Theological space opera added beside Political space opera (Gustav 16:15).
