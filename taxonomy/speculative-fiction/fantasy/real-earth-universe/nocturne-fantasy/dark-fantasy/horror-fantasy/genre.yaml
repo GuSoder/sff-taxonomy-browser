@@ -1,0 +1,12 @@
+id: horror-fantasy
+name: Horror fantasy
+label: Horror fantasy
+parent: dark-fantasy
+children:
+- hellscape-horror
+- unholy-ground-horror
+definition: 'Dark fantasy where the horror lies in the places the characters end up: lands, grounds and buildings where the menace dwells and waits.'
+image: 295-horror-fantasy.webp
+portrait: 295-horror-fantasy.webp
+works: []
+status: category

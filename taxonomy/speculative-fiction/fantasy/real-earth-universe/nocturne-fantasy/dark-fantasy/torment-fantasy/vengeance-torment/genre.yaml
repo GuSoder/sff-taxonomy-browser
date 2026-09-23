@@ -1,0 +1,14 @@
+id: vengeance-torment
+name: Vengeance torment
+label: Vengeance torment
+parent: torment-fantasy
+children: []
+definition: Torment fantasy where a vengeful entity, spirit or bond born of a past wrong hunts, possesses or haunts the main characters.
+image: 299-vengeance-torment.webp
+portrait: 299-vengeance-torment.webp
+works:
+- the-only-good-indians
+- i-am-the-river
+- soul-eater
+- the-bridge-js-breukelaar
+status: leaf

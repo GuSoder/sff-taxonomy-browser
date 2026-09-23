@@ -1,0 +1,12 @@
+id: hellscape-horror
+name: Hellscape horror
+label: Hellscape horror
+parent: horror-fantasy
+children: []
+definition: Horror fantasy where Hell breaks into the world and the land itself becomes the place of damnation the characters cross or are trapped in.
+image: 297-hellscape-horror.webp
+portrait: 297-hellscape-horror.webp
+works:
+- between-two-fires
+- black-easter
+status: leaf

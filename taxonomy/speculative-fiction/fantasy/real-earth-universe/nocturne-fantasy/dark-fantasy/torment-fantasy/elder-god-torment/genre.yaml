@@ -1,0 +1,15 @@
+id: elder-god-torment
+name: Elder god torment
+parent: torment-fantasy
+status: leaf
+label_status: attested
+definition: Torment fantasy driven by ancient beings worshipped as gods, whose awakening or intrusion follows and torments the main characters.
+portrait: 241-elder-gods.webp
+label: Elder god torment
+children: []
+image: 241-elder-gods.webp
+works:
+- beneath-the-rising
+- providence
+- revelator
+- the-immaculate-void

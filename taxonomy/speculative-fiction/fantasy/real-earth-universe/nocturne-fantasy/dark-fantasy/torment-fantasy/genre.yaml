@@ -1,0 +1,16 @@
+id: torment-fantasy
+name: Torment fantasy
+label: Torment fantasy
+parent: dark-fantasy
+children:
+- elder-god-torment
+- satanic-torment
+- primordial-torment
+- demonic-torment
+- vengeance-torment
+definition: 'Dark fantasy where tormentors follow the main characters around: entities, doubles and vengeful powers that pursue, possess or haunt specific
+  people wherever they go.'
+image: 296-torment-fantasy.webp
+portrait: 296-torment-fantasy.webp
+works: []
+status: category

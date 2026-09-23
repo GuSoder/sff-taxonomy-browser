@@ -2,13 +2,16 @@ id: supernatural-fantasy
 label: Supernatural fantasy
 parent: nocturne-fantasy
 children:
-- ancient-tormentors
 - evil-deals
 - surreal-afterlife
 - fungal-horror
 - vampire-fantasy
 - ghost-stories
+- undying
 image: 6-supernatural-fantasy.webp
-definition: Fantasy revolving around supernatural beings and powers on recognizable Earth.
+definition: 'Fantasy above the natural order on recognizable Earth: supernatural beings with their own genres (ghosts, vampires) and fiction whose central
+  theme is cheating death or aging.'
 status: accepted
 works: []
+name: Supernatural fantasy
+portrait: 6-supernatural-fantasy.webp
