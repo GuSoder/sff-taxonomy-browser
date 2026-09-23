@@ -32,5 +32,11 @@ for n in nodes:
         assert c in byid, f'FAIL: dangling child {c} on {n["id"]}'
     p=n.get('parent')
     assert p is None or p in byid, f'FAIL: dangling parent on {n["id"]}'
+KNOWN={'period-alterations','dynastic-intrigues'}  # pre-existing, surfaced to Gustav 2026-09-23 02:59
+haskids={n.get('parent') for n in nodes}
+bad=[n['id'] for n in nodes if n.get('works') and n['id'] in haskids]
+new=[b for b in bad if b not in KNOWN]
+assert not new, f'FAIL: cards on non-leaf nodes {new}'
+if bad: print('WARN: known pure-branch violations pending decision:',bad)
 print(f'OK: script parses, {len(nodes)} nodes, {cards} cards / {books:,} books, refs consistent')
 PY
