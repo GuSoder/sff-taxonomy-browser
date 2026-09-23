@@ -1107,3 +1107,16 @@
 - Installed AAA portraits 257-259, each cropped from the visually inspected left panel and resized 1024x1536 WebP.
 - Verifier 257 nodes / 692 visible works / refs consistent. Deployment pending.
 - Deployment aa6db24 fresh-load pixel verification passed: pure umbrella visibly has 3 subgenres; Post-pandemic 3, Post-nuclear 2, Terminal wastelands 5. Correct AAA portraits, breadcrumbs and cover grids render on all three leaves. Public umbrella https://gusoder.github.io/sff-taxonomy-browser/#post-holocaust-survival
+
+### 2026-09-23 11:48 CEST - Ambiguous-magic rule (Gustav ruling 11:47, verbatim: "If the world is also made up, it's fantasy (like the Baru president). If it's just some real world superstition it's not fiction imo")
+- STANDING RULE (apply autonomously): magic left ambiguous (maybe real, maybe not) counts as Fantasy only when the world is also invented (secondary/made-up world, Baru Cormorant precedent). Ambiguous magic in a real-world setting that is only superstition = not speculative fiction; exclude.
+- Applied: #969 We Ride Upon Sticks (Quan Barry; real Danvers, Massachusetts, 1989; witchcraft pledged, never confirmed; https://www.penguinrandomhouse.com/books/602077/we-ride-upon-sticks-by-quan-barry/, https://www.npr.org/2020/03/04/809741338/witchcraft-field-hockey-and-1980s-massachusetts-meet-in-we-ride-upon-sticks) -> EXCLUDED.
+- Applied: #982 Witch Wood (John Buchan 1927; real 1640s Scottish Borders parish; witch cult, supernatural uncertain; https://en.wikipedia.org/wiki/Witch_Wood) -> EXCLUDED.
+- Consistent with earlier #984 Wuthering Heights exclusion (real Yorkshire, ambiguous ghost). No site change.
+
+### 2026-09-23 notes rebuilt after workspace reset (~10:23)
+- Machine minds split live f01e346 (Robots 7 / AI 4; Stepford released). Token instinct-sff-taxonomy-push-3 (repo-only, Contents RW, exp 2026-12-22), vault "GitHub PAT (sff-taxonomy push)".
+- Anti-colonial fantasy split live 1203c4e (Rebel fantasy 7 / Insurgent fantasy 3; Gustav 11:09). Insurgent portrait hand fix v2 live 3c357f6.
+- #948 Two Planets -> Historical first contact after full walk (Gustav "do the walk" 11:35), adcdd0e. No retrofuture node or doctrine (main retracted its gloss).
+- Future possibility (Gustav context 11:43, not a ruling): a proto-SF / Early SF node someday; Two Planets and similar very early SF are candidates. No moves until he opens it.
+- Still held: Little Brother + Merciful Crow duplicates; Plot Against America + Raven Tower pure-branch breaks; 10 stem forks.
