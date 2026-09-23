@@ -5,14 +5,18 @@ authors:
 first_published: 2014
 canonical_genre: npc-heroes
 placement_status: accepted
-placement_rationale: 'Classified by Gustav''s RPG-class partition: the hero''s primary
-  power source matches NPC Heroes, not merely the setting or tone.'
+placement_rationale: 'Classified by Gustav''s RPG-class partition: the hero''s primary power source matches NPC Heroes, not merely the setting or tone.'
 cover_url: https://covers.openlibrary.org/b/id/9319294-L.jpg
 shows_english_title: true
 books:
 - title: The Goblin Emperor
   year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/9319294-L.jpg
 - title: The Witness for the Dead
   year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11710274-L.jpg
 - title: The Grief of Stones
   year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13131608-L.jpg
+cover_curation:
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

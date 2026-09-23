@@ -5,8 +5,7 @@ authors:
 first_published: 1970
 canonical_genre: paladin-hero
 placement_status: accepted
-placement_rationale: 'Classified by Gustav''s RPG-class partition: the hero''s primary
-  power source matches Paladin Hero, not merely the setting or tone.'
+placement_rationale: 'Classified by Gustav''s RPG-class partition: the hero''s primary power source matches Paladin Hero, not merely the setting or tone.'
 cover_url: https://covers.openlibrary.org/b/id/6486096-L.jpg
 shows_english_title: true
 books:
@@ -14,7 +13,12 @@ books:
   year: 1970
   authors:
   - Katherine Kurtz
+  cover_url: https://covers.openlibrary.org/b/id/207479-L.jpg
 - title: Deryni Checkmate
   year: 1972
+  cover_url: https://covers.openlibrary.org/b/id/284301-L.jpg
 - title: High Deryni
   year: 1973
+  cover_url: https://covers.openlibrary.org/b/id/2404612-L.jpg
+cover_curation:
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
