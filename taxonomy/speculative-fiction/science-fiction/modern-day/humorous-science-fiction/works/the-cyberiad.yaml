@@ -1,0 +1,28 @@
+id: the-cyberiad
+title: The Cyberiad
+authors:
+- Stanisław Lem
+first_published: 1965
+canonical_genre: humorous-science-fiction
+placement_status: accepted
+placement_rationale: 'SFE identifies Lem''s Trurl-Klapaucius cycle as robotic fables; philosophical satire is the mode. Mode wins over subject: moved from Robots
+  to Humorous science fiction by Gustav''s 22:38 ruling.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/lem_stanislaw
+- https://sf-encyclopedia.com/entry/robots
+- https://www.penguin.co.uk/books/256135/the-cyberiad-by-lem-stanislaw/9780241467992
+cover_curation:
+  status: complete
+  source: Penguin Classics official publisher front
+  selected_url: cover-the-cyberiad.webp
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-21'
+  review_method: one-pass official publisher cover
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/techno-fiction/robots-and-ai to match live tree; placement unchanged on
+    site.'
+  previous_canonical_genre: robots-and-ai
+- date: '2026-09-23'
+  change: 'Robots and AI split into Machine minds (Gustav ruling 2026-09-23 10:37): moved to Robots by the embodiment test. Walk: Speculative fiction -> Science fiction
+    -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine minds -> Robots'

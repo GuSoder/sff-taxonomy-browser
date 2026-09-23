@@ -2,20 +2,12 @@ id: robots
 name: Robots
 label: Robots
 parent: machine-minds
-children: []
-works:
-- the-caves-of-steel
-- i-robot
-- do-androids-dream-of-electric-sheep
-- the-murderbot-diaries
-- the-cyberiad
-- the-robots-of-gotham
-- the-stepford-wives
-- service-model
-- luminous
-- neom
+children:
+- androids
+- sentient-robots
+works: []
 image: 303-robots.webp
 portrait: 303-robots.webp
-definition: 'Machine minds in bodies: robots, androids and humanoid replicas whose physical presence among people drives the story. Embodiment test: if the story
-  centers a machine in a body, it is Robots; if it centers a disembodied or distributed intelligence, it is AI.'
+definition: 'Pure umbrella for machine minds in bodies, split by what the body is for: humanoid replicas that pass as human (Androids) and robots whose personhood
+  is the story (Sentient Robots). Embodiment test against AI still holds: a machine in a body is Robots; a disembodied or distributed intelligence is AI.'
 status: leaf
