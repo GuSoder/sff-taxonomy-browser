@@ -1,0 +1,20 @@
+id: flatland
+title: Flatland
+authors:
+- Edwin A. Abbott
+first_published: 1884
+canonical_genre: otherworldly-hard-sf
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Otherworldly fiction -> Otherworldly Hard SF. SFE calls it
+  a study in Mathematics and Perception: a two-dimensional world whose geometry is worked out rigorously. (Originally placed in the Mathematics leaf; that
+  leaf was later folded into this one.)'
+books:
+- title: Flatland
+  year: 1884
+  cover_url: https://archive.org/download/flatlandromanceo0000edwi_x0a2/page/cover.jpg
+cover_curation:
+  status: complete
+  selected_url: https://archive.org/download/flatlandromanceo0000edwi_x0a2/page/cover.jpg
+  note: Backfilled 2026-09-23 from the live index.html entry (YAML parity gap)
+classification_sources:
+- https://sf-encyclopedia.com/entry/abbott_edwin_a
