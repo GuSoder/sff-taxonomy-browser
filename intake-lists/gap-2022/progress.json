@@ -1,7 +1,7 @@
 {
  "next": 1,
- "processed": 125,
- "added": 89,
+ "processed": 126,
+ "added": 90,
  "held": [
   {
    "k": 2,
@@ -12,11 +12,6 @@
    "k": 4,
    "title": "Death of the Author",
    "reason": "genre question: realist literary frame (a Nigerian-American novelist's blockbuster) wrapped around an embedded robot/post-human SF novel (NYT, Guardian); is it SF at all, and if so Books in Books or Robots?"
-  },
-  {
-   "k": 10,
-   "title": "The Incandescent",
-   "reason": "leaf question: contemporary English boarding school with a Director of Magic and summoned demons (BookPage, Reactor); adult teacher protagonist, so Magical coming-of-age fits only partly - magic-school leaf or existing?"
   },
   {
    "k": 18,
@@ -149,5 +144,5 @@
    "reason": "leaf question: science fantasy of a winged warrior in a god-ruled city (Kirkus, Locus). Hard science fantasy vs Planetary romance unclear."
   }
  ],
- "awards_processed": 125
+ "awards_processed": 10
 }
