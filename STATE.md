@@ -1217,3 +1217,7 @@ Gustav's words: "9,10,11: you don't need my permission to place books with a gen
 - Gustav 23:14: A Granite Silence (Nina Allan) EXCLUDED as not SFF - historical crime novel, no speculative element. Recorded in progress.json excluded[]. Do not resurface.
 - Gustav 23:16: Looking Glass Sound (Catriona Ward) EXCLUDED as not SFF - psychological/metafictional thriller, nothing supernatural on the page. Recorded in progress.json excluded[]. Do not resurface.
 - Gustav 23:22 "Execute": Corey Fah Does Social Mobility (Waidner) is SFF -> Classic Fabulation > Absurdist constructed realities (6->7). Cover: Penguin UK front via Amazon (no OL cover).
+
+## STANDING INTAKE RULE - "Absurd Shit" rule (Gustav 2026-09-23 23:29)
+Verbatim: "I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it"
+Apply autonomously without asking per case: too absurd to call SF or Fantasy AND no Fabulation node fits -> exclude as not SFF. Always check the Fabulation branch first (a Fabulation fit keeps the book). Log each kill in sweep.log as "-Title (Absurd Shit rule)" and in progress.json excluded[] with the rule named.
