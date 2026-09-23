@@ -1,7 +1,7 @@
 id: satanic-torment
 name: Satanic torment
 parent: torment-fantasy
-status: leaf
+status: accepted
 label_status: attested
 definition: Torment fantasy centered on Satan, his cults, bargains, offspring or doubles, pursuing and tormenting the main characters.
 portrait: 242-satanic-horror.webp
@@ -10,5 +10,5 @@ children: []
 image: 242-satanic-horror.webp
 works:
 - the-master-and-margarita
-- rosemarys-baby
-- justified-sinner
+- rosemary-s-baby
+- the-private-memoirs-and-confessions-of-a-justified-sinner
