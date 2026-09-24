@@ -28,7 +28,7 @@
    What: Aina and Whitney had a child without state permission and serve 12 years' exile on a northern island croft, tethered by a pill clock against toxic spores from melting permafrost; on parole day the Warden doesn't come (Guardian x2).
    Why held: only Orwellianesque fit.
    Options: Cli-fi dystopia (7) - climate collapse and scarcity behind the birth licensing; fault: Guardian says climate stays background. Crowded Dystopias (4) - "population in crisis", licensed births; fault: overpopulation is only hinted. Orwellianesque (3) - fault: last-resort leaf.
-   Pick: Cli-fi dystopia.
+   RULED 2026-09-24 14:15 (Gustav): -> Cli-fi dystopia ("Ok, execute", after asking whether the leaf was crowded). Placed; next held item: The Anomaly.
 
 6. The Anomaly - Hervé Le Tellier, 2022 (trans. Adriana Hunter). Clarke 2023 shortlist; Prix Goncourt 2020.
    What: Air France 006 flies through a storm in 2021 and lands twice, months apart, with identical passengers; governments debate whether we live in a simulation while each person meets their double (NYT, Telegraph, Kirkus, Irish Times).
