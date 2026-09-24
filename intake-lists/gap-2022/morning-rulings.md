@@ -22,7 +22,7 @@
    What: pacifist Alefret, jailed and tortured by his warring nation Varkal, is sent with fanatical soldier Qhudur to infiltrate the enemy's floating capital. Healing wasps, tank-pillbugs, pteranodons, a camp in a giant skeleton (Reactor, Locus/Brookins, Ancillary).
    Why held: SF-war label vs secondary-world setting.
    Options: Military fantasy (3) - war from the ranks in an invented world; fault: no confirmed magic, biotech reads SF (Reactor calls it SF, Locus files it Fantasy). Future War (2) - fault: must be Earth. Planetary romance (7) - fault: grim war, not setting-driven adventure.
-   Pick: Military fantasy (Locus's own Fantasy filing tips it).
+   RULED 2026-09-24 13:28 (Gustav): -> Hard science fantasy. His reasoning, verbatim: "*wanted hard science fantasy*"; "The trick of placing the story far ahead and hiding the fact this is even our universe at the beginning was exactly the rea[son]" - the hidden lost-Earth-colony reveal is the masquerade pattern the leaf was built for; Earthborn's cards are all open-origin books. Research behind it: no magic trace in any review; creatures are bioengineered (Locus/Brookins: "bioengineered creatures"); late-book reveal admits Earth-descended colonists and colony-ship tech (Redheaded Femme); The Blurb calls it a trope-worn "rational explanation".
 
 5. Metronome - Tom Watson, 2022. Clarke 2023 shortlist.
    What: Aina and Whitney had a child without state permission and serve 12 years' exile on a northern island croft, tethered by a pill clock against toxic spores from melting permafrost; on parole day the Warden doesn't come (Guardian x2).
