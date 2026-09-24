@@ -1,0 +1,3349 @@
+{
+ "tier": 2,
+ "definition": "Locus Recommended-only candidates from the 447 queue (no award-list backing)",
+ "chunk_size": 20,
+ "count": 322,
+ "chunk_count": 17,
+ "cursor_key": "tier2_processed",
+ "chunks": [
+  {
+   "chunk": 1,
+   "k2_from": 1,
+   "k2_to": 20,
+   "items": [
+    {
+     "k2": 1,
+     "n": 96,
+     "title": "51",
+     "author": "Patrick O’Leary",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 2,
+     "n": 97,
+     "title": "A Half-Built Garden",
+     "author": "Ruthanna Emrys",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 3,
+     "n": 98,
+     "title": "A Haunting on the Hill",
+     "author": "Elizabeth Hand",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 4,
+     "n": 99,
+     "title": "A House with Good Bones",
+     "author": "T. Kingfisher",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 5,
+     "n": 100,
+     "title": "A Letter to the Luminous Deep",
+     "author": "Sylvie Cathrall",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 6,
+     "n": 101,
+     "title": "A Market of Dreams and Destiny",
+     "author": "Trip Galey",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 7,
+     "n": 102,
+     "title": "A Midwinter’s Tail",
+     "author": "Lili Hayward",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 8,
+     "n": 103,
+     "title": "A Philosophy of Thieves",
+     "author": "Fran Wilde",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 9,
+     "n": 104,
+     "title": "A Song of Legends Lost",
+     "author": "M.H. Ayinde",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 10,
+     "n": 105,
+     "title": "A Song of Salvation",
+     "author": "Alechia Dow",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 11,
+     "n": 106,
+     "title": "A Stranger in the Citadel",
+     "author": "Tobias S. Buckell",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 12,
+     "n": 107,
+     "title": "A Tempest of Tea",
+     "author": "Hafsah Faizal",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 13,
+     "n": 108,
+     "title": "A Thousand Blues",
+     "author": "Cheon Seon-Ran",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 14,
+     "n": 109,
+     "title": "Acts of God",
+     "author": "Kanan Gill",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 15,
+     "n": 110,
+     "title": "After the Forest",
+     "author": "Kell Woods",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 16,
+     "n": 111,
+     "title": "Age of Ash",
+     "author": "Daniel Abraham",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 17,
+     "n": 112,
+     "title": "All the Seas of the World",
+     "author": "Guy Gavriel Kay",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 18,
+     "n": 113,
+     "title": "Among Ghosts",
+     "author": "Rachel Hartman",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 19,
+     "n": 114,
+     "title": "An Arrow to the Moon",
+     "author": "Emily X.R. Pan",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 20,
+     "n": 115,
+     "title": "Angel Maker",
+     "author": "Elizabeth Bear",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 2,
+   "k2_from": 21,
+   "k2_to": 40,
+   "items": [
+    {
+     "k2": 21,
+     "n": 116,
+     "title": "Animals",
+     "author": "Geoff Ryman",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 22,
+     "n": 117,
+     "title": "Annie LeBlanc Is Not Dead Yet",
+     "author": "Molly Morris",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 23,
+     "n": 118,
+     "title": "Archive of Unknown Universes",
+     "author": "Ruben Reyes Jr.",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 24,
+     "n": 119,
+     "title": "Artificial Truth",
+     "author": "J.M. Lee",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 25,
+     "n": 120,
+     "title": "Aspects",
+     "author": "John M. Ford",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 26,
+     "n": 122,
+     "title": "Awake in the Floating City",
+     "author": "Susanna Kwan",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 27,
+     "n": 123,
+     "title": "Ballad & Dagger",
+     "author": "Daniel José Older",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 28,
+     "n": 124,
+     "title": "Beautyland",
+     "author": "Marie-Helene Bertino",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 29,
+     "n": 125,
+     "title": "Beyond the Burn Line",
+     "author": "Paul McAuley",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 30,
+     "n": 126,
+     "title": "Beyond the Light Horizon",
+     "author": "Ken Macleod",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 31,
+     "n": 127,
+     "title": "Biography of X",
+     "author": "Catherine Lacey",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 32,
+     "n": 128,
+     "title": "Bitter",
+     "author": "Akwaeke Emezi",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 33,
+     "n": 129,
+     "title": "Black Brane",
+     "author": "Michael Cisco",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 34,
+     "n": 130,
+     "title": "Black River Orchard",
+     "author": "Chuck Wendig",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 35,
+     "n": 131,
+     "title": "Blackheart Man",
+     "author": "Nalo Hopkinson",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 36,
+     "n": 132,
+     "title": "Blade of Dream",
+     "author": "Daniel Abraham",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 37,
+     "n": 133,
+     "title": "Blob",
+     "author": "Maggie Su",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 38,
+     "n": 134,
+     "title": "Blood Debts",
+     "author": "Terry J. Benton-Walker",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 39,
+     "n": 135,
+     "title": "Blood for the Undying Throne",
+     "author": "Sung-il Kim",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 40,
+     "n": 136,
+     "title": "Blood Justice",
+     "author": "Terry J. Benton-Walker",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 3,
+   "k2_from": 41,
+   "k2_to": 60,
+   "items": [
+    {
+     "k2": 41,
+     "n": 137,
+     "title": "Blood of the Old Kings, Sung-Il Kim",
+     "author": "trans. Anton Hur",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 42,
+     "n": 138,
+     "title": "Blood Scion",
+     "author": "Deborah Falaye",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 43,
+     "n": 139,
+     "title": "Bluebird",
+     "author": "Ciel Pierlot",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 44,
+     "n": 140,
+     "title": "Book of Night",
+     "author": "Holly Black",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 45,
+     "n": 141,
+     "title": "Bridge",
+     "author": "Lauren Beukes",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 46,
+     "n": 142,
+     "title": "Burn Down, Rise Up",
+     "author": "Vincent Tirado",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 47,
+     "n": 143,
+     "title": "Bury Your Gays",
+     "author": "Chuck Tingle",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 48,
+     "n": 144,
+     "title": "Cahokia Jazz",
+     "author": "Francis Spufford",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 49,
+     "n": 146,
+     "title": "Castle of the Cursed",
+     "author": "Romina Garber",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 50,
+     "n": 147,
+     "title": "Cicadas Sing of Summer Graves",
+     "author": "Quinn Connor",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 51,
+     "n": 148,
+     "title": "City of Dancing Gargoyles",
+     "author": "Tara Campbell",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 52,
+     "n": 149,
+     "title": "Cold Water",
+     "author": "Dave Hutchinson",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 53,
+     "n": 150,
+     "title": "Compound Fracture",
+     "author": "Andrew Joseph White",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 54,
+     "n": 151,
+     "title": "Conquest",
+     "author": "Nina Allan",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 55,
+     "n": 153,
+     "title": "Costumes for Time Travelers",
+     "author": "A.R. Capetta",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 56,
+     "n": 154,
+     "title": "Creation Node",
+     "author": "Stephen Baxter",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 57,
+     "n": 155,
+     "title": "Cuckoo",
+     "author": "Gretchen Felker-Martin",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 58,
+     "n": 156,
+     "title": "Damned If You Do",
+     "author": "Alex Brown",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 59,
+     "n": 157,
+     "title": "Dark Diamond",
+     "author": "Neal Asher",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 60,
+     "n": 158,
+     "title": "Dark Factory",
+     "author": "Kathe Koja",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 4,
+   "k2_from": 61,
+   "k2_to": 80,
+   "items": [
+    {
+     "k2": 61,
+     "n": 159,
+     "title": "Days of Shattered Faith",
+     "author": "Adrian Tchaikovsky",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 62,
+     "n": 160,
+     "title": "Dazzling",
+     "author": "Chikọdịlị Emelụmadụ",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 63,
+     "n": 161,
+     "title": "Dead Hand Rule",
+     "author": "Max Gladstone",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 64,
+     "n": 162,
+     "title": "Dead Souls",
+     "author": "Han Song",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 65,
+     "n": 163,
+     "title": "Dengue Boy, Michel Nieva",
+     "author": "tr. Rahul Bery",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 66,
+     "n": 164,
+     "title": "Divine Rivals",
+     "author": "Rebecca Ross",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 67,
+     "n": 165,
+     "title": "Don’t Fear the Reaper",
+     "author": "Stephen Graham Jones",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 68,
+     "n": 166,
+     "title": "Dragonfall",
+     "author": "L.R. Lam",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 69,
+     "n": 167,
+     "title": "Dry Land",
+     "author": "B. Pladek",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 70,
+     "n": 169,
+     "title": "Dwelling",
+     "author": "Emily Hunt Kivel",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 71,
+     "n": 170,
+     "title": "Echo",
+     "author": "Thomas Olde Heuvelt",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 72,
+     "n": 171,
+     "title": "Echo of Worlds",
+     "author": "M.R. Carey",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 73,
+     "n": 174,
+     "title": "Emily Wilde’s Encyclopaedia of Faeries",
+     "author": "Heather Fawcett",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 74,
+     "n": 175,
+     "title": "Equimedian",
+     "author": "Alvaro Zinos-Amaro",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 75,
+     "n": 176,
+     "title": "Esperance",
+     "author": "Adam Oyebanji",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 76,
+     "n": 177,
+     "title": "Exordia",
+     "author": "Seth Dickinson",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 77,
+     "n": 178,
+     "title": "Expect Me Tomorrow",
+     "author": "Christopher Priest",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 78,
+     "n": 179,
+     "title": "Extended Stay",
+     "author": "Juan Martinez",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 79,
+     "n": 181,
+     "title": "Fall of the Iron Gods",
+     "author": "Olivia Chadha",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 80,
+     "n": 182,
+     "title": "Fault Tolerance",
+     "author": "Valerie Valdes",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 5,
+   "k2_from": 81,
+   "k2_to": 100,
+   "items": [
+    {
+     "k2": 81,
+     "n": 183,
+     "title": "Fire Becomes Her",
+     "author": "Rosiee Thor",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 82,
+     "n": 184,
+     "title": "Flawless Girls",
+     "author": "Anna-Marie McLemore",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 83,
+     "n": 185,
+     "title": "Flint and Mirror",
+     "author": "John Crowley",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 84,
+     "n": 186,
+     "title": "Flux",
+     "author": "Jinwoo Chong",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 85,
+     "n": 187,
+     "title": "Forgotten Sisters",
+     "author": "Cynthia Pelayo",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 86,
+     "n": 188,
+     "title": "Fraternity",
+     "author": "Andy Mientus",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 87,
+     "n": 189,
+     "title": "From Dust, a Flame",
+     "author": "Rebecca Podos",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 88,
+     "n": 190,
+     "title": "Godkiller",
+     "author": "Hannah Kaner",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 89,
+     "n": 191,
+     "title": "Godly Heathens",
+     "author": "H.E. Edgmon",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 90,
+     "n": 192,
+     "title": "Guardians of Dawn: Zhara",
+     "author": "S. Jae-Jones",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 91,
+     "n": 193,
+     "title": "Gwendy’s Final Task",
+     "author": "Stephen King & Richard Chizmar",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 92,
+     "n": 194,
+     "title": "Halcyon Years",
+     "author": "Alastair Reynolds",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 93,
+     "n": 195,
+     "title": "Hammajang Luck",
+     "author": "Makana Yamamoto",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 94,
+     "n": 196,
+     "title": "Harmattan Season",
+     "author": "Tochi Onyebuchi",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 95,
+     "n": 197,
+     "title": "Hell Followed With Us",
+     "author": "Andrew Joseph White",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 96,
+     "n": 198,
+     "title": "Hidden Pictures",
+     "author": "Jason Rekulak",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 97,
+     "n": 199,
+     "title": "Hokuloa Road",
+     "author": "Elizabeth Hand",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 98,
+     "n": 200,
+     "title": "Hole in the Sky",
+     "author": "Daniel H. Wilson",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 99,
+     "n": 201,
+     "title": "Honeyeater",
+     "author": "Kathleen Jennings",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 100,
+     "n": 202,
+     "title": "Hopeland",
+     "author": "Ian McDonald",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 6,
+   "k2_from": 101,
+   "k2_to": 120,
+   "items": [
+    {
+     "k2": 101,
+     "n": 203,
+     "title": "Horror Movie",
+     "author": "Paul Tremblay",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 102,
+     "n": 204,
+     "title": "Hospital",
+     "author": "Han Song",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 103,
+     "n": 205,
+     "title": "House of Bone and Rain",
+     "author": "Gabino Iglesias",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 104,
+     "n": 206,
+     "title": "House of Hunger",
+     "author": "Alexis Henderson",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 105,
+     "n": 207,
+     "title": "House of Open Wounds",
+     "author": "Adrian Tchaikovsky",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 106,
+     "n": 208,
+     "title": "How High We Go in the Dark",
+     "author": "Sequoia Nagamatsu",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 107,
+     "n": 209,
+     "title": "How to Make a Horror Movie and Survive",
+     "author": "Craig DiLouie",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 108,
+     "n": 210,
+     "title": "How to Sell a Haunted House",
+     "author": "Grady Hendrix",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 109,
+     "n": 211,
+     "title": "How To Succeed in Witchcraft",
+     "author": "Aislinn Brophy",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 110,
+     "n": 212,
+     "title": "I Am Homeless if This Is Not My Home",
+     "author": "Lorrie Moore",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 111,
+     "n": 213,
+     "title": "I Am Not Jessica Chen",
+     "author": "Ann Liang",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 112,
+     "n": 215,
+     "title": "Ice",
+     "author": "Jacek Dukaj",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 113,
+     "n": 216,
+     "title": "In Universes",
+     "author": "Emet North",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 114,
+     "n": 217,
+     "title": "Incidents Around the House",
+     "author": "Josh Malerman",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 115,
+     "n": 218,
+     "title": "Infinity Gate",
+     "author": "M.R. Carey",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 116,
+     "n": 219,
+     "title": "Ink Blood Sister Scribe",
+     "author": "Emma Törzs",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 117,
+     "n": 220,
+     "title": "Into the Light",
+     "author": "Mark Oshiro",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 118,
+     "n": 221,
+     "title": "Into the Sun",
+     "author": "C.F. Ramuz",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 119,
+     "n": 222,
+     "title": "It Was Her House First",
+     "author": "Cherie Priest",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 120,
+     "n": 223,
+     "title": "I’m Afraid You’ve Got Dragons",
+     "author": "Peter S. Beagle",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 7,
+   "k2_from": 121,
+   "k2_to": 140,
+   "items": [
+    {
+     "k2": 121,
+     "n": 224,
+     "title": "Just Like Home",
+     "author": "Sarah Gailey",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 122,
+     "n": 225,
+     "title": "King Sorrow",
+     "author": "Joe Hill",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 123,
+     "n": 226,
+     "title": "Lady Eve’s Last Con",
+     "author": "Rebecca Fraimow",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 124,
+     "n": 227,
+     "title": "Lake of Darkness",
+     "author": "Adam Roberts",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 125,
+     "n": 228,
+     "title": "Lakelore",
+     "author": "Anna-Marie McLemore",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 126,
+     "n": 229,
+     "title": "Lamb",
+     "author": "Matt Hill",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 127,
+     "n": 230,
+     "title": "Landfall",
+     "author": "James Bradley",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 128,
+     "n": 231,
+     "title": "Lapvona",
+     "author": "Ottessa Moshfegh",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 129,
+     "n": 232,
+     "title": "Last Exit",
+     "author": "Max Gladstone",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 130,
+     "n": 233,
+     "title": "Lone Women",
+     "author": "Victor LaValle",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 131,
+     "n": 235,
+     "title": "Mad Sisters of Esi",
+     "author": "Tashan Mehta",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 132,
+     "n": 236,
+     "title": "Mage of Fools",
+     "author": "Eugen Bacon",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 133,
+     "n": 237,
+     "title": "Major Arcana",
+     "author": "John Pistelli",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 134,
+     "n": 238,
+     "title": "Make Me a Monster",
+     "author": "Kalynn Bayron",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 135,
+     "n": 239,
+     "title": "Malarkoi",
+     "author": "Alex Pheby",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 136,
+     "n": 240,
+     "title": "Manhunt",
+     "author": "Gretchen Felker-Martin",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 137,
+     "n": 241,
+     "title": "Metal from Heaven",
+     "author": "August Clarke",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 138,
+     "n": 242,
+     "title": "Metallic Realms",
+     "author": "Lincoln Michel",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 139,
+     "n": 244,
+     "title": "Model Home",
+     "author": "Rivers Solomon",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 140,
+     "n": 245,
+     "title": "Moderation",
+     "author": "Elaine Castillo",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 8,
+   "k2_from": 141,
+   "k2_to": 160,
+   "items": [
+    {
+     "k2": 141,
+     "n": 246,
+     "title": "Moonstorm",
+     "author": "Yoon Ha Lee",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 142,
+     "n": 247,
+     "title": "Motherthing",
+     "author": "Ainslie Hogarth",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 143,
+     "n": 248,
+     "title": "Mothtown",
+     "author": "Caroline Hardaker",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 144,
+     "n": 249,
+     "title": "Mr. Breakfast",
+     "author": "Jonathan Carroll",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 145,
+     "n": 250,
+     "title": "My Brother’s Keeper",
+     "author": "Tim Powers",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 146,
+     "n": 252,
+     "title": "Navola",
+     "author": "Paolo Bacigalupi",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 147,
+     "n": 253,
+     "title": "Needle",
+     "author": "Linda Nagata",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 148,
+     "n": 254,
+     "title": "Needy Little Things",
+     "author": "Channelle Desamours",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 149,
+     "n": 255,
+     "title": "Never Flinch",
+     "author": "Stephen King",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 150,
+     "n": 256,
+     "title": "Night Swimming",
+     "author": "Aaron Starmer",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 151,
+     "n": 257,
+     "title": "No Gods for Drowning",
+     "author": "Hailey Piper",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 152,
+     "n": 258,
+     "title": "North Sun, Or The Voyage of the Whaleship Esther",
+     "author": "Ethan Rutherford",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 153,
+     "n": 259,
+     "title": "Nothing in the Basement",
+     "author": "Romie Stott",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 154,
+     "n": 260,
+     "title": "On the Calculation of Volume III",
+     "author": "Solvej Balle",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 155,
+     "n": 261,
+     "title": "One Way Witch",
+     "author": "Nnedi Okorafor",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 156,
+     "n": 262,
+     "title": "Only a Monster",
+     "author": "Vanessa Len",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 157,
+     "n": 263,
+     "title": "Otherworldly",
+     "author": "F.T. Lukens",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 158,
+     "n": 264,
+     "title": "Our Wives Under the Sea",
+     "author": "Julia Armfield",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 159,
+     "n": 265,
+     "title": "Outlaw Planet",
+     "author": "M.R. Carey",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 160,
+     "n": 267,
+     "title": "Paladin’s Faith",
+     "author": "T. Kingfisher",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 9,
+   "k2_from": 161,
+   "k2_to": 180,
+   "items": [
+    {
+     "k2": 161,
+     "n": 268,
+     "title": "Patricia Wants to Cuddle",
+     "author": "Samantha Allen",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 162,
+     "n": 269,
+     "title": "Pink Slime",
+     "author": "Fernanda Trías",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 163,
+     "n": 270,
+     "title": "Playground",
+     "author": "Richard Powers",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 164,
+     "n": 272,
+     "title": "Prison of Sleep",
+     "author": "Tim Pratt",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 165,
+     "n": 274,
+     "title": "Prophet",
+     "author": "Sin Blaché & Helen Macdonald",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 166,
+     "n": 276,
+     "title": "Red Rabbit Ghost",
+     "author": "Jen Julian",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 167,
+     "n": 277,
+     "title": "Red Star Hustle",
+     "author": "Sam J. Miller",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 168,
+     "n": 278,
+     "title": "Red Sword",
+     "author": "Bora Chung",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 169,
+     "n": 279,
+     "title": "Remember You Will Die",
+     "author": "Eden Robins",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 170,
+     "n": 280,
+     "title": "Rest in Peaches",
+     "author": "Alex Brown",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 171,
+     "n": 281,
+     "title": "River Mumma",
+     "author": "Zalika Reid-Benta",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 172,
+     "n": 282,
+     "title": "Road of Bones",
+     "author": "Christopher Golden",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 173,
+     "n": 283,
+     "title": "Road to Ruin",
+     "author": "Hana Lee",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 174,
+     "n": 284,
+     "title": "Rook",
+     "author": "William Ritter",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 175,
+     "n": 285,
+     "title": "Rust in the Root",
+     "author": "Justina Ireland",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 176,
+     "n": 286,
+     "title": "Saint Death’s Daughter",
+     "author": "C.S.E. Cooney",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 177,
+     "n": 287,
+     "title": "Sargassa",
+     "author": "Sophie Burnham",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 178,
+     "n": 288,
+     "title": "Saturnalia",
+     "author": "Stephanie Feldman",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 179,
+     "n": 289,
+     "title": "Scale",
+     "author": "Greg Egan",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 180,
+     "n": 290,
+     "title": "School of Shards",
+     "author": "Marina & Sergey Dyachenko",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 10,
+   "k2_from": 181,
+   "k2_to": 200,
+   "items": [
+    {
+     "k2": 181,
+     "n": 291,
+     "title": "Sea Now, Eva Meijer",
+     "author": "tr. Anne Thompson Melo",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 182,
+     "n": 292,
+     "title": "Secrets of the First School",
+     "author": "T.L. Huchu",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 183,
+     "n": 293,
+     "title": "Shadow Ticket",
+     "author": "Thomas Pynchon",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 184,
+     "n": 294,
+     "title": "Shark Heart",
+     "author": "Emily Habeck",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 185,
+     "n": 295,
+     "title": "Sheine Lende",
+     "author": "Darcie Little Badger",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 186,
+     "n": 296,
+     "title": "Silver Nitrate",
+     "author": "Silvia Moreno-Garcia",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 187,
+     "n": 297,
+     "title": "Singer Distance",
+     "author": "Ethan Chatagnier",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 188,
+     "n": 298,
+     "title": "Sky on Fire",
+     "author": "E.K. Johnston",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 189,
+     "n": 299,
+     "title": "Sleep Like Death",
+     "author": "Kalynn Bayron",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 190,
+     "n": 301,
+     "title": "Small Town Horror",
+     "author": "Ronald Malfi",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 191,
+     "n": 302,
+     "title": "Snake-Eater",
+     "author": "T. Kingfisher",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 192,
+     "n": 303,
+     "title": "Song of Spores",
+     "author": "Bogi Takács",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 193,
+     "n": 304,
+     "title": "Spell Bound",
+     "author": "F.T. Lukens",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 194,
+     "n": 305,
+     "title": "Spells to Forget Us",
+     "author": "Aislinn Brophy",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 195,
+     "n": 306,
+     "title": "Spread Me",
+     "author": "Sarah Gailey",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 196,
+     "n": 308,
+     "title": "Starstrike",
+     "author": "Yoon Ha Lee",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 197,
+     "n": 309,
+     "title": "Sundial",
+     "author": "Catriona Ward",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 198,
+     "n": 310,
+     "title": "Sunward",
+     "author": "William Alexander",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 199,
+     "n": 311,
+     "title": "Terrace Story",
+     "author": "Hilary Leichter",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 200,
+     "n": 312,
+     "title": "That Self-Same Metal",
+     "author": "Brittany N. Williams",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 11,
+   "k2_from": 201,
+   "k2_to": 220,
+   "items": [
+    {
+     "k2": 201,
+     "n": 314,
+     "title": "The Angel of Indian Lake",
+     "author": "Stephen Graham Jones",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 202,
+     "n": 316,
+     "title": "The Art of Destiny",
+     "author": "Wesley Chu",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 203,
+     "n": 317,
+     "title": "The Bewitching",
+     "author": "Silvia Moreno-Garcia",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 204,
+     "n": 318,
+     "title": "The Blue, Beautiful World",
+     "author": "Karen Lord",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 205,
+     "n": 320,
+     "title": "The Bone Orchard",
+     "author": "Sara A. Mueller",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 206,
+     "n": 321,
+     "title": "The Book Censor’s Library",
+     "author": "Bothayna Al-Essa",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 207,
+     "n": 322,
+     "title": "The Book Eaters",
+     "author": "Sunyi Dean",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 208,
+     "n": 323,
+     "title": "The Book of Doors",
+     "author": "Gareth Brown",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 209,
+     "n": 324,
+     "title": "The Book of Gold",
+     "author": "Ruth Frances Long",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 210,
+     "n": 325,
+     "title": "The Book of Guilt",
+     "author": "Catherine Chidgey",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 211,
+     "n": 326,
+     "title": "The Book of Records",
+     "author": "Madeleine Thien",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 212,
+     "n": 327,
+     "title": "The Briar Book of the Dead",
+     "author": "A.G. Slatter",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 213,
+     "n": 328,
+     "title": "The Bruising of Qilwa",
+     "author": "Naseem Jamnia",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 214,
+     "n": 329,
+     "title": "The Candy House",
+     "author": "Jennifer Egan",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 215,
+     "n": 330,
+     "title": "The Cartographers",
+     "author": "Peng Shepherd",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 216,
+     "n": 331,
+     "title": "The Cautious Traveller’s Guide to the Wastelands",
+     "author": "Sarah Brooks",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 217,
+     "n": 332,
+     "title": "The Circumference of the World",
+     "author": "Lavie Tidhar",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 218,
+     "n": 333,
+     "title": "The Crimson Road",
+     "author": "A.G. Slatter",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 219,
+     "n": 334,
+     "title": "The Deep Sky",
+     "author": "Yume Kitasei",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 220,
+     "n": 335,
+     "title": "The Deluge",
+     "author": "Stephen Markley",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 12,
+   "k2_from": 221,
+   "k2_to": 240,
+   "items": [
+    {
+     "k2": 221,
+     "n": 336,
+     "title": "The Devil Takes You Home",
+     "author": "Gabino Iglesias",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 222,
+     "n": 337,
+     "title": "The Doloriad",
+     "author": "Missouri Williams",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 223,
+     "n": 338,
+     "title": "The Embroidered Book",
+     "author": "Kate Heartfield",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 224,
+     "n": 339,
+     "title": "The Essence",
+     "author": "Dave Hutchinson",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 225,
+     "n": 340,
+     "title": "The Executioners Three",
+     "author": "Susan Dennard",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 226,
+     "n": 341,
+     "title": "The Fae Keeper",
+     "author": "H.E. Edgmon",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 227,
+     "n": 342,
+     "title": "The Familiar",
+     "author": "Leigh Bardugo",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 228,
+     "n": 343,
+     "title": "The Fervor",
+     "author": "Alma Katsu",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 229,
+     "n": 345,
+     "title": "The Garden of Delights",
+     "author": "Amal Singh",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 230,
+     "n": 346,
+     "title": "The Genesis of Misery",
+     "author": "Neon Yang",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 231,
+     "n": 347,
+     "title": "The Hacienda",
+     "author": "Isabel Cañas",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 232,
+     "n": 348,
+     "title": "The Honeys",
+     "author": "Ryan La Sala",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 233,
+     "n": 349,
+     "title": "The Immortal King Rao",
+     "author": "Vauhini Vara",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 234,
+     "n": 350,
+     "title": "The Invisible Hotel",
+     "author": "Yeji Y. Ham",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 235,
+     "n": 351,
+     "title": "The Isle in the Silver Sea",
+     "author": "Tasha Suri",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 236,
+     "n": 352,
+     "title": "The Jaguar Mask",
+     "author": "Michael J. Deluca",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 237,
+     "n": 354,
+     "title": "The Keeper’s Six",
+     "author": "Kate Elliott",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 238,
+     "n": 355,
+     "title": "The Kindred",
+     "author": "Alechia Dow",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 239,
+     "n": 356,
+     "title": "The King Must Die",
+     "author": "Kemi Ashing-Giwa",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 240,
+     "n": 357,
+     "title": "The Knife and the Serpent",
+     "author": "Tim Pratt",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 13,
+   "k2_from": 241,
+   "k2_to": 260,
+   "items": [
+    {
+     "k2": 241,
+     "n": 358,
+     "title": "The Last Hour Between Worlds",
+     "author": "Melissa Caruso",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 242,
+     "n": 359,
+     "title": "The Last Storm",
+     "author": "Tim Lebbon",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 243,
+     "n": 360,
+     "title": "The Leaving Room",
+     "author": "Amber McBride",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 244,
+     "n": 361,
+     "title": "The Legend of Charlie Fish",
+     "author": "Josh Rountree",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 245,
+     "n": 362,
+     "title": "The Library at Hellebore",
+     "author": "Cassandra Khaw",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 246,
+     "n": 363,
+     "title": "The Library of Broken Worlds",
+     "author": "Alaya Dawn Johnson",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 247,
+     "n": 364,
+     "title": "The Maid and the Crocodile",
+     "author": "Jordan Ifueko",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-YA"
+     ]
+    },
+    {
+     "k2": 248,
+     "n": 365,
+     "title": "The Making of Yolanda la Bruja",
+     "author": "Lorraine Avila",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 249,
+     "n": 366,
+     "title": "The Marigold",
+     "author": "Andrew F. Sullivan",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 250,
+     "n": 367,
+     "title": "The Melancholy of Untold History",
+     "author": "Minsoo Kang",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 251,
+     "n": 368,
+     "title": "The Midnight Shift",
+     "author": "Cheon Seon-Ran",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 252,
+     "n": 369,
+     "title": "The Midnight Timetable",
+     "author": "Bora Chung",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 253,
+     "n": 370,
+     "title": "The Moonday Letters",
+     "author": "Emmi Itäranta",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 254,
+     "n": 371,
+     "title": "The Moth Girl",
+     "author": "Heather Kamins",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 255,
+     "n": 372,
+     "title": "The Nightward",
+     "author": "R.S.A. Garcia",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 256,
+     "n": 373,
+     "title": "The Oleander Sword",
+     "author": "Tasha Suri",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 257,
+     "n": 374,
+     "title": "The Pallbearers Club",
+     "author": "Paul Tremblay",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 258,
+     "n": 375,
+     "title": "The Paradox Hotel",
+     "author": "Rob Hart",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 259,
+     "n": 376,
+     "title": "The Parliament",
+     "author": "Aimee Pokwatka",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 260,
+     "n": 377,
+     "title": "The Path of Thorns",
+     "author": "A.G. Slatter",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 14,
+   "k2_from": 261,
+   "k2_to": 280,
+   "items": [
+    {
+     "k2": 261,
+     "n": 378,
+     "title": "The Place of Shells",
+     "author": "Mai Ishizawa",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 262,
+     "n": 379,
+     "title": "The Pomegranate Gate",
+     "author": "Ariel Kaplan",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 263,
+     "n": 380,
+     "title": "The Possession of Alba Díaz",
+     "author": "Isabel Cañas",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 264,
+     "n": 382,
+     "title": "The Red Scholar’s Wake",
+     "author": "Aliette de Bodard",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 265,
+     "n": 383,
+     "title": "The Repeat Room",
+     "author": "Jesse Ball",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 266,
+     "n": 384,
+     "title": "The Rose Field",
+     "author": "Philip Pullman",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 267,
+     "n": 385,
+     "title": "The Scholar and the Last Faerie Door",
+     "author": "H.G. Parry",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 268,
+     "n": 387,
+     "title": "The Shadow Sister",
+     "author": "Lily Meade",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 269,
+     "n": 388,
+     "title": "The Silverberg Business",
+     "author": "Robert Freeman Wexler",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 270,
+     "n": 389,
+     "title": "The Singular Life of Aria Patel",
+     "author": "Samira Ahmed",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 271,
+     "n": 390,
+     "title": "The Siren, the Song, and the Spy",
+     "author": "Maggie Tokuda-Hall",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 272,
+     "n": 391,
+     "title": "The Sky on Fire",
+     "author": "Jenn Lyons",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 273,
+     "n": 392,
+     "title": "The Sovereign",
+     "author": "C.L. Clark",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 274,
+     "n": 393,
+     "title": "The Spear Cuts Through Water",
+     "author": "Simon Jimenez",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Fantasy"
+     ]
+    },
+    {
+     "k2": 275,
+     "n": 394,
+     "title": "The Spice Gate",
+     "author": "Prashanth Srivatsa",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 276,
+     "n": 395,
+     "title": "The Spirit Bares Its Teeth",
+     "author": "Andrew Joseph White",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 277,
+     "n": 396,
+     "title": "The Splinter in the Sky",
+     "author": "Kemi Ashing-Giwa",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 278,
+     "n": 397,
+     "title": "The Staircase in the Woods",
+     "author": "Chuck Wendig",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 279,
+     "n": 398,
+     "title": "The Strange",
+     "author": "Nathan Ballingrud",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 280,
+     "n": 399,
+     "title": "The Tapestry of Time",
+     "author": "Kate Heartfield",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 15,
+   "k2_from": 281,
+   "k2_to": 300,
+   "items": [
+    {
+     "k2": 281,
+     "n": 401,
+     "title": "The Thick and the Lean",
+     "author": "Chana Porter",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 282,
+     "n": 402,
+     "title": "The Thing in the Snow",
+     "author": "Sean Adams",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 283,
+     "n": 403,
+     "title": "The Thousand Earths",
+     "author": "Stephen Baxter",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    },
+    {
+     "k2": 284,
+     "n": 404,
+     "title": "The Tongue Trade",
+     "author": "Michael J. Martineck",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 285,
+     "n": 405,
+     "title": "The Transition",
+     "author": "Logan-Ashley Kisner",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 286,
+     "n": 406,
+     "title": "The Unbalancing",
+     "author": "R.B. Lemberg",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 287,
+     "n": 407,
+     "title": "The Underhistory",
+     "author": "Kaaron Warren",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Horror"
+     ]
+    },
+    {
+     "k2": 288,
+     "n": 408,
+     "title": "The Underwood Tapes",
+     "author": "Amanda DeWitt",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 289,
+     "n": 409,
+     "title": "The Unmothers",
+     "author": "Leslie J. Anderson",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 290,
+     "n": 410,
+     "title": "The Unworthy",
+     "author": "Agustina Bazterrica",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 291,
+     "n": 411,
+     "title": "The Village at the Edge of Noon",
+     "author": "Darya Bobyleva",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 292,
+     "n": 412,
+     "title": "The Warden",
+     "author": "Daniel M. Ford",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 293,
+     "n": 413,
+     "title": "The Warm Hands of Ghosts",
+     "author": "Katherine Arden",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 294,
+     "n": 414,
+     "title": "The Wax Child",
+     "author": "Olga Ravn",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 295,
+     "n": 415,
+     "title": "The West Passage",
+     "author": "Jared Pechaček",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 296,
+     "n": 417,
+     "title": "The Works of Vermin",
+     "author": "Hiron Ennes",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 297,
+     "n": 419,
+     "title": "These Burning Stars",
+     "author": "Bethany Jacobs",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 298,
+     "n": 420,
+     "title": "They Bloom at Night",
+     "author": "Trang Thanh Tran",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-YA"
+     ]
+    },
+    {
+     "k2": 299,
+     "n": 422,
+     "title": "Threads That Bind",
+     "author": "Kika Hatzopoulou",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    },
+    {
+     "k2": 300,
+     "n": 423,
+     "title": "Tim Te Maro and the Subterranean Heartsick Blues",
+     "author": "H.S. Valley",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-First"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 16,
+   "k2_from": 301,
+   "k2_to": 320,
+   "items": [
+    {
+     "k2": 301,
+     "n": 424,
+     "title": "Titanium Noir",
+     "author": "Nick Harkaway",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 302,
+     "n": 426,
+     "title": "To Shape a Dragon’s Breath",
+     "author": "Moniquill Blackgoose",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Fantasy"
+     ]
+    },
+    {
+     "k2": 303,
+     "n": 427,
+     "title": "Toward Eternity",
+     "author": "Anton Hur",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 304,
+     "n": 428,
+     "title": "Transmentation | Transience",
+     "author": "Darkly Lem",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 305,
+     "n": 429,
+     "title": "Under the Eye of the Big Bird",
+     "author": "Hiromi Kawakami",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-SF"
+     ]
+    },
+    {
+     "k2": 306,
+     "n": 430,
+     "title": "Unraveller",
+     "author": "Frances Hardinge",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-YA"
+     ]
+    },
+    {
+     "k2": 307,
+     "n": 431,
+     "title": "Vampires of El Norte",
+     "author": "Isabel Cañas",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-Horror"
+     ]
+    },
+    {
+     "k2": 308,
+     "n": 432,
+     "title": "Vanishing World",
+     "author": "Sayaka Murata",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 309,
+     "n": 433,
+     "title": "Waterblack",
+     "author": "Alex Pheby",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 310,
+     "n": 434,
+     "title": "We Computers",
+     "author": "Hamid Ismailov",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Translated"
+     ]
+    },
+    {
+     "k2": 311,
+     "n": 435,
+     "title": "We Lived on the Horizon",
+     "author": "Erika Swyler",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-SF"
+     ]
+    },
+    {
+     "k2": 312,
+     "n": 436,
+     "title": "We Love You, Bunny",
+     "author": "Mona Awad",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Horror"
+     ]
+    },
+    {
+     "k2": 313,
+     "n": 438,
+     "title": "What Moves the Dead",
+     "author": "T. Kingfisher",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-Horror"
+     ]
+    },
+    {
+     "k2": 314,
+     "n": 439,
+     "title": "When Devils Sing",
+     "author": "Xan Kaur",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-First"
+     ]
+    },
+    {
+     "k2": 315,
+     "n": 440,
+     "title": "When the Angels Left the Old Country",
+     "author": "Sacha Lamb",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    },
+    {
+     "k2": 316,
+     "n": 441,
+     "title": "Where Echoes Die",
+     "author": "Courtney Gould",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-YA"
+     ]
+    },
+    {
+     "k2": 317,
+     "n": 442,
+     "title": "Where Peace Is Lost",
+     "author": "Valerie Valdes",
+     "year": 2023,
+     "lists": [
+      "LocusRec2023-SF"
+     ]
+    },
+    {
+     "k2": 318,
+     "n": 443,
+     "title": "Wicked Problems",
+     "author": "Max Gladstone",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-Fantasy"
+     ]
+    },
+    {
+     "k2": 319,
+     "n": 444,
+     "title": "Womb City",
+     "author": "Tlotlo Tsamaase",
+     "year": 2024,
+     "lists": [
+      "LocusRec2024-First"
+     ]
+    },
+    {
+     "k2": 320,
+     "n": 445,
+     "title": "Wrath Goddess Sing",
+     "author": "Maya Deane",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-First"
+     ]
+    }
+   ]
+  },
+  {
+   "chunk": 17,
+   "k2_from": 321,
+   "k2_to": 322,
+   "items": [
+    {
+     "k2": 321,
+     "n": 446,
+     "title": "Written on the Dark",
+     "author": "Guy Gavriel Kay",
+     "year": 2025,
+     "lists": [
+      "LocusRec2025-Fantasy"
+     ]
+    },
+    {
+     "k2": 322,
+     "n": 447,
+     "title": "Ymir",
+     "author": "Rich Larson",
+     "year": 2022,
+     "lists": [
+      "LocusRec2022-SF"
+     ]
+    }
+   ]
+  }
+ ]
+}
