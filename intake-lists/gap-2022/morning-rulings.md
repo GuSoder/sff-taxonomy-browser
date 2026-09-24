@@ -34,7 +34,7 @@
    What: Air France 006 flies through a storm in 2021 and lands twice, months apart, with identical passengers; governments debate whether we live in a simulation while each person meets their double (NYT, Telegraph, Kirkus, Irish Times).
    Why held: present-day literary SF, no clean leaf.
    Options: Unmoored Selves (4) - identity divides from itself; fault: cause is external (simulation glitch), not consciousness. Parallel World fiction (7) - fault: one world, duplicated people, no crossing. Alt Present (1) - fault: nothing in history changes before the event.
-   Pick: Unmoored Selves.
+   RULED 2026-09-24 15:51 (Gustav): new leaf under Books in Books. Naming trail: 'Ebooks in books' -> 'Scripted books in books'. Definition (his approved text): 'Books-in-books fiction where reality itself turns out to be authored - a world written, narrated or computed from inside, whose inhabitants discover their lives are someone else's text.' Seeded with The Anomaly (metafiction through-line: passenger-novelist Victor Miesel writes 'The anomaly' inside the book; text disintegrates on the last page - LRB, Telegraph, sffworld). His words: 'Ok execute'. Next held: The Secret Market of the Dead.
 
 7. The Secret Market of the Dead - Giovanni De Feo, 2025. WFA 2026.
    What: Lucerìa, a fictional Neapolitan town, 1747. Oriana fights her twin to inherit their father's smithy while crossing into the Night, a shadow world of seven Nocturnals and phantoms ruling destiny ("for those who loved Neverwhere") (PW, LJ, BookPage, FantasyLiterature).
