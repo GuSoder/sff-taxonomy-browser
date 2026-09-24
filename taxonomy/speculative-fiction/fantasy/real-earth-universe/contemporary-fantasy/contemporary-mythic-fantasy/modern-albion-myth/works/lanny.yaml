@@ -1,0 +1,31 @@
+id: lanny
+title: Lanny
+authors:
+- Max Porter
+first_published: 2019
+canonical_genre: modern-albion-myth
+placement_status: accepted
+placement_rationale: Faber places an ordinary present-day English village alongside its mysterious past and the listening folkloric figure Dead Papa Toothwort; Graywolf
+  describes the same living village and ancient green presence. A mythic being inhabiting contemporary village life makes Contemporary fantasy the closest current
+  leaf.
+classification_sources:
+- https://www.faber.co.uk/product/9780571340293-lanny/
+- https://www.graywolfpress.org/books/lanny
+- https://www.publishersweekly.com/9781555978402
+cover_curation:
+  status: ranked
+  source: Open Library / Graywolf
+  record_url: https://openlibrary.org/works/OL20097593W/Lanny
+  image_url: https://covers.openlibrary.org/b/id/8760252-L.jpg
+  cover_id: OL-8760252
+  beauty_score: 8.6
+  beauty_rationale: A restrained cream front turns the village, woods and folkloric face into one carved leaf-mask, with the title threaded through it and author
+    clear below.
+  visually_reviewed_on: '2026-09-18'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  review_method: one-pass work search
+placement_history:
+- date: '2026-09-24'
+  change: Moved contemporary-mythic-fantasy -> modern-albion-myth in Gustav's four-way split of the frozen leaf (19:56 ruling)

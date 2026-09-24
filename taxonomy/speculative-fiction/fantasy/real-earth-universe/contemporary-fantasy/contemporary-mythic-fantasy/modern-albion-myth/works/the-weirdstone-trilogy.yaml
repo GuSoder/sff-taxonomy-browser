@@ -1,0 +1,36 @@
+id: the-weirdstone-trilogy
+title: The Weirdstone Trilogy
+series_name: The Weirdstone Trilogy
+authors:
+- Alan Garner
+first_published: 1960
+last_published: 2012
+canonical_genre: modern-albion-myth
+placement_status: accepted
+included_titles:
+- The Weirdstone of Brisingamen
+- The Moon of Gomrath
+- Boneland
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Contemporary fantasy -> Contemporary mythic fantasy. HarperCollins
+  roots Colin and Susan’s modern lives at Alderley Edge in the awakened local legend of the sleeping knights, the Morrigan, wizard and magical Weirdstone. Fourth
+  Estate confirms Boneland concludes the story begun fifty years earlier. Ancient Northern and Cheshire myth remains active in ordinary modern life across the trilogy.'
+classification_sources:
+- https://harpercollinschildrensbooks.co.uk/products/the-weirdstone-of-brisingamen-alan-garner-9780007539062/
+- https://harpercollinschildrensbooks.co.uk/products/the-moon-of-gomrath-alan-garner-9780007127870/
+- https://www.4thestate.co.uk/products/boneland-alan-garner-9780007463251/
+cover_curation:
+  status: complete
+  source: Open Library
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one series search; single-pass complete three-book review; localized for reliable display
+  selected_covers:
+  - title: The Weirdstone of Brisingamen
+    url: cover-the-weirdstone-of-brisingamen.jpg
+  - title: The Moon of Gomrath
+    url: cover-the-moon-of-gomrath.jpg
+  - title: Boneland
+    url: cover-boneland.jpg
+placement_history:
+- date: '2026-09-24'
+  change: Moved contemporary-mythic-fantasy -> modern-albion-myth in Gustav's four-way split of the frozen leaf (19:56 ruling)

@@ -65,3 +65,15 @@ Gustav 18:30 "I'm reading a lot of 'Fairy'... 'Fairies in Gaslight' should be on
 - Portraits: 336-faeries-in-gaslight.webp, 337-monsters-in-gaslight.webp, 338-circus-in-gaslight.webp (smart mode, 1024x1536, no text). Gustav vetoes live.
 - Market cover: Penguin Random House CDN (Titan/PRH 9781803363684), visually verified. No OL cover exists.
 - Totals: 333 nodes (+3), 1,029 cards / 2,071 books. Tier-2 held: 4.
+
+## 2026-09-24 evening - Contemporary mythic fantasy thawed by four-way split (Gustav 19:56, verified on his channel)
+Naming dialogue (all his): 19:46 "Ok, maybe just like this: Modern Greek Myth / Modern Albion Myth / Modern Anansi Myth"; 19:49 "I prefer just adding Modern Orisha Myth to not dilute the evocative words of distinct cultural myths with that of a continent" (NAMING PRINCIPLE recorded: distinct cultural myth names over continent-level labels); 19:51 "No! No dirty branches and let's fix all when we are here"; 19:56:23 "Ok, execute the split anyway so we won't have to redo the discussion later".
+- Contemporary mythic fantasy (frozen at 10) becomes a PURE BRANCH (0 direct cards) with four sibling leaves:
+  - Modern Albion Myth (7): Mythago Wood, Lanny, The Dark Is Rising Sequence, The Owl Service, The Weirdstone Trilogy, The Green Man's Quarry, + A Midwinter's Tail (Hayward) - resolves tier-2 held #7
+  - Modern Greek Myth (1): This Poison Heart
+  - Modern Anansi Myth (1): Anansi Boys
+  - Modern Orisha Myth (1): Shigidi and the Brass Head of Obalufon
+- The Book of Love (Link) LEAVES the tree: invented cosmology (Malo Mogge, Bogomil - no reviewer finds Orpheus/Persephone/any tradition; Wolfe: "posthumous fantasy"; Pulley: "modern fairytale"), fails the inherited-story clause, and the no-dirty-branches rule bars a direct card. Parked in progress.json pending_ruling[] with both candidates (new posthumous-fantasy leaf it would seed vs ghost-stories > revenants) and its full card+yaml stashed for restoration. Gustav has been told it's waiting.
+- Midwinter's Tail cover: OL isbn 9781408729557 (Sphere hardback), visually verified. Sources: littlebrown.co.uk + Fantasy-Hive (tags it "Cosy Folk").
+- Portraits: 339-albion, 340-greek, 341-anansi, 342-orisha (smart mode, 1024x1536 webp, no text). Gustav vetoes live.
+- Totals: 337 nodes (+4), 1,029 cards / 2,071 books (Midwinter's +1, Book of Love -1). Tier-2 held: 3.

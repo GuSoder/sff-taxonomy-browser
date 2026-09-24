@@ -1,21 +1,14 @@
 id: contemporary-mythic-fantasy
 name: Contemporary mythic fantasy
-definition: Contemporary fantasy in which ancient mythic beings, archetypes or powers remain active within ordinary present-day life, making inherited story a living
-  force.
+definition: 'Contemporary fantasy in which ancient mythic beings, archetypes or powers remain active within ordinary present-day life, making inherited story a living
+  force, partitioned by the myth tradition that stays alive: Albion, Greek, Anansi, or orisha.'
 parent: contemporary-fantasy
 label: Contemporary mythic fantasy
-children: []
+children:
+- modern-albion-myth
+- modern-greek-myth
+- modern-anansi-myth
+- modern-orisha-myth
 image: 260-contemporary-mythic-fantasy.webp
 status: provisional
-works:
-- mythago-wood
-- anansi-boys
-- lanny
-- the-dark-is-rising-sequence
-- the-owl-service
-- the-weirdstone-trilogy
-- this-poison-heart
-- shigidi-and-the-brass-head-of-obalufon
-- the-book-of-love
-- the-book-of-love
-- the-green-mans-quarry
+works: []
