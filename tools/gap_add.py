@@ -34,7 +34,7 @@ for it in json.load(open(sys.argv[1])):
         y = {'id': cid, 'title': c['title'], 'authors': c['authors'], 'first_published': c['year'], 'canonical_genre': leaf['id'], 'placement_status': 'accepted',
              'placement_rationale': c['note'], 'classification_sources': c['sources'], 'intake': f'gap-2022 awards tier #{k} ({", ".join(it.get("lists", []))})'}
         if c.get('books'): y['books'] = w['books']
-        y['cover_curation'] = {'status': 'complete', 'source': 'Open Library', 'selected_url': c['cover_url'], 'visually_reviewed_on': '2026-09-23', 'review_method': 'contact-sheet one-pass'}
+        y['cover_curation'] = {'status': 'complete', 'source': 'Open Library', 'selected_url': c['cover_url'], 'visually_reviewed_on': '2026-09-24', 'review_method': 'contact-sheet one-pass'}
         dump(f'{d}/works/{cid}.yaml', y); g = yaml.safe_load(open(d + '/genre.yaml')); g.setdefault('works', []).append(cid); dump(d + '/genre.yaml', g)
         for b in c.get('books') or [c]: have[norm(b['title'])] = (leaf['id'], c['title'])
         prog['added'] += 1; log.write(f'{"T2 " if tier==2 else ""}{k}/{TOTAL[tier]} +{c["title"]} → {leaf["label"]}\n')
@@ -46,7 +46,7 @@ for it in json.load(open(sys.argv[1])):
             w['books'].append({'title': b['title'], 'year': b['year'], 'cover_url': b['cover_url']}); have[norm(b['title'])] = (leaf['id'], w['title'])
         d = path(leaf['id']); f = next(p for p in [f'{d}/works/{slug(w["title"])}.yaml'] + [os.path.join(d, 'works', x) for x in os.listdir(d + '/works')]
                                      if os.path.exists(p) and (yaml.safe_load(open(p)) or {}).get('title') == w['title'])
-        y = yaml.safe_load(open(f)); y['books'] = w['books']; y.setdefault('placement_history', []).append({'date': '2026-09-23', 'change': it['note']}); dump(f, y)
+        y = yaml.safe_load(open(f)); y['books'] = w['books']; y.setdefault('placement_history', []).append({'date': '2026-09-24', 'change': it['note']}); dump(f, y)
         log.write(f'{"T2 " if tier==2 else ""}{k}/{TOTAL[tier]} +{it["title"]} → {leaf["label"]} (series: {w["title"]})\n')
     else:
         log.write(f'{"T2 " if tier==2 else ""}{k}/{TOTAL[tier]} {"-" if a == "skip" else "?"}{it["title"]} ({it["reason"].split(":")[0]})\n')

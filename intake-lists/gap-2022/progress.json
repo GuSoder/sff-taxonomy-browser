@@ -1,8 +1,39 @@
 {
  "next": 1,
- "processed": 125,
- "added": 111,
- "held": [],
+ "processed": 145,
+ "added": 126,
+ "held": [
+  {
+   "tier": 2,
+   "k": 6,
+   "title": "A Market of Dreams and Destiny",
+   "reason": "Folklore in Gaslight frozen at 10: best-fit leaf closed; needs Gustav ruling (exception or new leaf)."
+  },
+  {
+   "tier": 2,
+   "k": 7,
+   "title": "A Midwinter's Tail",
+   "reason": "Contemporary mythic fantasy frozen at 10: best-fit leaf closed; needs Gustav ruling (exception or new leaf)."
+  },
+  {
+   "tier": 2,
+   "k": 9,
+   "title": "A Song of Legends Lost",
+   "reason": "No clean leaf: secondary-world epic of spirit-summoning and god-war; existing epic leaves fail on setting or structure. Possible new leaf - Gustav ruling."
+  },
+  {
+   "tier": 2,
+   "k": 18,
+   "title": "Among Ghosts",
+   "reason": "Dark Fantasy realms fit is shaky: ghost-plagued secondary world with a flight/quest structure; needs Gustav ruling (dark-fantasy realms or new leaf)."
+  },
+  {
+   "tier": 2,
+   "k": 19,
+   "title": "An Arrow to the Moon",
+   "reason": "No Chinese-myth leaf: Chang'e/Houyi retelling in contemporary Montana; no existing leaf for contemporary myth retellings outside the frozen ones. Gustav ruling."
+  }
+ ],
  "awards_processed": 125,
  "excluded": [
   {
@@ -55,5 +86,6 @@
    "source": "Gustav: \"I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it\"",
    "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
   }
- ]
+ ],
+ "tier2_processed": 20
 }
