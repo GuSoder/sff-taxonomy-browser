@@ -77,3 +77,10 @@ Naming dialogue (all his): 19:46 "Ok, maybe just like this: Modern Greek Myth / 
 - Midwinter's Tail cover: OL isbn 9781408729557 (Sphere hardback), visually verified. Sources: littlebrown.co.uk + Fantasy-Hive (tags it "Cosy Folk").
 - Portraits: 339-albion, 340-greek, 341-anansi, 342-orisha (smart mode, 1024x1536 webp, no text). Gustav vetoes live.
 - Totals: 337 nodes (+4), 1,029 cards / 2,071 books (Midwinter's +1, Book of Love -1). Tier-2 held: 3.
+
+## 2026-09-24 22:07 - Modern invented myth (new leaf, Gustav ruling)
+Gustav on his channel: "So it's invented mythology, just not on an epic scale?" -> "Ok, execute" (22:07:02), accepting the proposal for a contemporary sibling of Epic fantasy's Invented Mythology: an authored cosmology with mythic weight, real world, intimate scale.
+- New leaf: modern-invented-myth under Contemporary fantasy. Def: "Contemporary fantasy in which an author's invented cosmology - beings, realms and rules with mythic weight - anchors the story; the mythology is original, not inherited."
+- Concept discussion logged: myth = inheritance + archetype + explanation + numinous weight; The Book of Love has the furniture (goddess, death-realm, bargains) but not the inheritance - myth-shaped, not myth. Invented Mythology (epic-fantasy) failed on address, not concept.
+- The Book of Love (Kelly Link, 2024) placed as seed from the pending-ruling queue; queue now empty. Adult shelving confirmed (Random House adult trade; Locus/Guardian/NPR reviews); no YA axis exists in the tree.
+- Portrait 343-modern-invented-myth.webp (smart mode, 1024x1536, no text; veto live).
