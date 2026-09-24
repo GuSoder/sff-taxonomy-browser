@@ -1,18 +1,12 @@
 id: folklore-in-gaslight
 label: Folklore in Gaslight
 parent: gaslight-fantasy
-children: []
+children:
+- faeries-in-gaslight
+- monsters-in-gaslight
+- circus-in-gaslight
 image: 272-folklore-in-gaslight.webp
-definition: Gaslight-era fantasy where fairies, folk beings, oral wonders and traditional supernatural lore enter historical life.
+definition: 'Gaslight-era fantasy where fairies, folk beings, oral wonders and traditional supernatural lore enter historical life, partitioned by the kind of lore:
+  the Fair Folk, creature-lore, or the wonder-tale.'
 status: accepted
-works:
-- jonathan-strange-mr-norrell
-- at-the-back-of-the-north-wind
-- the-golem-and-the-jinni
-- the-angel-of-the-crows
-- the-deep
-- nights-at-the-circus
-- the-adventures-of-mary-darling
-- emily-wildes-encyclopaedia-of-faeries
-- my-brothers-keeper
-- the-fox-wife
+works: []

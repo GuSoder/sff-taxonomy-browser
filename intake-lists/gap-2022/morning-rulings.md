@@ -54,3 +54,14 @@
    Options: Hard science fantasy (4) - reads as fantasy, engine is technology, no FTL; fault: Wolfe says it keeps SF/F deliberately unresolved. Planetary romance (7) - fault: one city, not an exotic world. Civil revolution fantasy (4) - resistance vs its own regime; fault: Fantasy Realms, loses the science-fantasy frame.
    OMISSION (caught by Gustav 16:29): Invented Mythology was not walked; it should have been listed with the fault 'gods are withdrawn backstory, not characters'. He probed; walk now amended. Consequence: COMPLETENESS RULE adopted 16:38 - every umbrella on a plausible route gets ALL children listed, entered or not.
    RULED 2026-09-24 16:38 (Gustav, verbatim): 'the visitor notes opens up the whole sci fan branch and the author goes through lengths to fit fantasy elements like wings in a scientific setting (surgery etc). So hard science fantasy may be executed.' Also: Invented Mythology + whole mythological branch ruled out ('I read alien'). Gods per Wolfe: five gods (scholarship, labor, technology, agriculture, defense) left boons + physical portals, withdrew to sleep; in-text scholars speculate 'visitors'. -> Hard science fantasy (5->6). Cover: OL id 14744077 (Tachyon 2024). HANGING LIST CLEARED - no held items remain.
+
+## 2026-09-24 evening - Folklore in Gaslight thawed by three-way split (Gustav 18:38, verified on his channel)
+Gustav 18:30 "I'm reading a lot of 'Fairy'... 'Fairies in Gaslight' should be one subgenre, no?"; agent proposed Faeries / Monsters / Circus split; Gustav 18:38:30 "Ok, would these cover the books (even the 11th?): Faeries in Gaslight / Monsters in Gaslight / Circus in Gaslight. If so, execute".
+- Folklore in Gaslight (frozen at 10) becomes a PURE BRANCH (0 direct cards) with three sibling leaves, same parent (Gaslight fantasy):
+  - Faeries in Gaslight (5): Jonathan Strange & Mr Norrell, At the Back of the North Wind, Emily Wilde's Encyclopaedia of Faeries, The Adventures of Mary Darling, + A Market of Dreams and Destiny (Galey) - resolves tier-2 held #6
+  - Monsters in Gaslight (5): The Golem and the Jinni, The Angel of the Crows, The Deep, My Brother's Keeper, The Fox Wife
+  - Circus in Gaslight (1): Nights at the Circus
+- Rationale: the frozen 10 split cleanly by kind of lore - the Fair Folk, creature-lore, and the wonder-tale; the split thaws the leaf and places the held book without breaking the 10-card freeze rule.
+- Portraits: 336-faeries-in-gaslight.webp, 337-monsters-in-gaslight.webp, 338-circus-in-gaslight.webp (smart mode, 1024x1536, no text). Gustav vetoes live.
+- Market cover: Penguin Random House CDN (Titan/PRH 9781803363684), visually verified. No OL cover exists.
+- Totals: 333 nodes (+3), 1,029 cards / 2,071 books. Tier-2 held: 4.

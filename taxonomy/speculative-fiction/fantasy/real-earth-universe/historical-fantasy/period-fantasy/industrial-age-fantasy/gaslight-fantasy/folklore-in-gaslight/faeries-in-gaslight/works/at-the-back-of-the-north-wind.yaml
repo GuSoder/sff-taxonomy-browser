@@ -1,0 +1,24 @@
+id: at-the-back-of-the-north-wind
+title: At the Back of the North Wind
+authors:
+- George MacDonald
+first_published: 1871
+canonical_genre: faeries-in-gaslight
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real Earth Universe -> Historical fantasy -> Period fantasy -> Industrial age fantasy ->
+  Gaslight fantasy -> Folklore in Gaslight. A Victorian cabman’s son meets the personified North Wind, placing folktale wonder inside ordinary nineteenth-century
+  domestic life.'
+classification_sources:
+- https://www.penguinrandomhouse.com/books/105028/at-the-back-of-the-north-wind-by-george-macdonald-illustrated-by-arthur-hughes/
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/8245161-L.jpg
+  shows_english_title: true
+  review_method: existing reviewed cover; Golem sequence one-pass English covers
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-universe/historical-fantasy/gaslight-fantasy/folklore-in-gaslight to match live
+    tree; placement unchanged on site.'
+  previous_canonical_genre: folklore-in-gaslight
+- date: '2026-09-24'
+  change: Moved folklore-in-gaslight -> faeries-in-gaslight in Gustav's three-way split of the frozen leaf (18:38 ruling)
