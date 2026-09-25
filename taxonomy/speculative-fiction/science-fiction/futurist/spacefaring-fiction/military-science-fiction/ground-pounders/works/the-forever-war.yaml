@@ -3,7 +3,7 @@ title: The Forever War
 authors:
 - Joe Haldeman
 first_published: 1974
-canonical_genre: military-science-fiction
+canonical_genre: ground-pounders
 placement_status: accepted
 placement_rationale: A conscript fights an interstellar war while relativistic travel separates him by centuries from home; military service and its alienation
   organize the novel.
@@ -29,9 +29,11 @@ cover_curation:
   title_overlay: false
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 placement_history:
+- date: '2026-09-25'
+  change: Moved to ground-pounders in the military-science-fiction four-way split (Gustav ruling).
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
-  previous_canonical_genre: military-science-fiction
+  previous_canonical_genre: ground-pounders
 books:
 - title: The Forever War
   year: 1974

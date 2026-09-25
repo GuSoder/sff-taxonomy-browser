@@ -3,7 +3,7 @@ title: Providence
 authors:
 - Max Barry
 first_published: 2020
-canonical_genre: military-science-fiction
+canonical_genre: space-navy
 placement_status: accepted
 placement_rationale: SFE barry_max calls Providence Military SF set in an interstellar Space Opera venue - a starship crew beset by inimical aliens whose
   reports are scripted by the AI commanding their dreadnought; beside Starship Troopers, Old Man's War and The Forever War.
@@ -16,6 +16,8 @@ classification_source:
 - https://sf-encyclopedia.com/entry/barry_max
 - https://en.wikipedia.org/wiki/Providence_(Barry_novel)
 placement_history:
+- date: '2026-09-25'
+  change: Moved to space-navy in the military-science-fiction four-way split (Gustav ruling).
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
-  previous_canonical_genre: military-science-fiction
+  previous_canonical_genre: space-navy

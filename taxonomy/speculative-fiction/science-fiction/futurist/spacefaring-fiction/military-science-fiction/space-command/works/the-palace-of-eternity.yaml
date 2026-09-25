@@ -3,7 +3,7 @@ title: The Palace of Eternity
 authors:
 - Bob Shaw
 first_published: 1969
-canonical_genre: military-science-fiction
+canonical_genre: space-command
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Military science fiction. Hachette/Orion centers a losing interstellar war against the Syccans, military high command converting refuge-world Mnemosyne into a colony, and veteran Mack Taverner choosing between brutal occupation and resistance. Identity and transcendence deepen the conflict, but military coercion and war govern.'
 classification_sources:
@@ -16,3 +16,6 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+placement_history:
+- date: '2026-09-25'
+  change: Moved to space-command in the military-science-fiction four-way split (Gustav ruling).

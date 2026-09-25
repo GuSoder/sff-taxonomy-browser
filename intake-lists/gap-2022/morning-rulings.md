@@ -145,3 +145,13 @@ Gustav, verbatim (phonemsg-01M3CBN7GVGQD6W543B28YXWHX, 15:21:43): "I think this 
 
 ## 2026-09-25 15:50 - Contemporary haunted house split (Gustav)
 "Execute" (phonemsg-01M3CD9BVMX13FWZ3CTZ30325Z, 15:50:12), after naming chain 15:40-15:48: Housebound (dead bound to place, 4), Feral house (house as agent, dangerous-not-evil incl. protectors, 3; his pick over Brooding/Baleful/Hungry/Unhomely/Domovoi/Rogue/Dread), Residual haunting (attested term, locked 15:02, 3). Split-with-umbrella: CHH stays on top. Era boundary untouched; Eldritch Fungi stays sibling under Haunted House.
+
+## 2026-09-25 16:11 - Military science fiction split (four-way, split-with-umbrella)
+Ruling (phonemsg-01M3CEG3ECB1QSW6TRRV8KAFX6, author=user, 16:11:21): "Space Command is perfect, execute"
+Naming chain on channel: Ground-pounders (his pick, attested military slang), Space Navy (his pick), Space Academy (his suggestion, confirmed), Space Command (his pick over War Room/Grand strategy).
+Layout: MSF stays as umbrella (def written - was empty) with four children by warfare mode:
+- Ground-pounders (4): Starship Troopers, The Forever War, Old Man's War, The Light Brigade
+- Space Navy (2): In the Black, Providence
+- Space Academy (2): Ender's Game, Some Desperate Glory
+- Space Command (2): Ninefox Gambit, The Palace of Eternity
+Portraits 354-357 per standing rule. Frozen list drops to 4.

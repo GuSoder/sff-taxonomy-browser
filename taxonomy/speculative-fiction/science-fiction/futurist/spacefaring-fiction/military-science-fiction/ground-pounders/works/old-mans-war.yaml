@@ -3,7 +3,7 @@ title: Old Man's War
 authors:
 - John Scalzi
 first_published: 2005
-canonical_genre: military-science-fiction
+canonical_genre: ground-pounders
 placement_status: accepted
 placement_rationale: An elderly recruit receives a new engineered body to fight for human colonies; SFE explicitly calls it military SF.
 classification_sources:
@@ -27,9 +27,11 @@ cover_curation:
     objects
   title_overlay: false
 placement_history:
+- date: '2026-09-25'
+  change: Moved to ground-pounders in the military-science-fiction four-way split (Gustav ruling).
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
-  previous_canonical_genre: military-science-fiction
+  previous_canonical_genre: ground-pounders
 - date: '2026-09-23'
   change: The Shattering Peace (2025), the seventh Old Man's War novel (BookPage, Kirkus), added to the series card; gap-2022 awards tier.
 - date: '2026-09-23'

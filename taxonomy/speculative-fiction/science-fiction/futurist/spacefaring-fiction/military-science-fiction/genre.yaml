@@ -1,18 +1,13 @@
 id: military-science-fiction
 label: Military science fiction
 parent: spacefaring-fiction
-children: []
+children:
+- ground-pounders
+- space-navy
+- space-academy
+- space-command
 image: 17-military-science-fiction.webp
-definition: ''
+definition: 'Military science fiction across every warfare mode: the infantry''s mud, the navy''s ship, the academy''s formation and the command''s campaign. Umbrella since 2026-09-25: split-with-umbrella into Ground-pounders, Space Navy, Space Academy and Space Command by warfare mode (Gustav ruling phonemsg-01M3CEG3ECB1QSW6TRRV8KAFX6).'
 status: accepted
-works:
-- ender-s-game
-- in-the-black
-- old-man-s-war
-- starship-troopers
-- the-forever-war
-- ninefox-gambit
-- providence
-- the-light-brigade
-- the-palace-of-eternity
-- some-desperate-glory
+works: []
+ruling: 'Split-with-umbrella 2026-09-25 (phonemsg-01M3CEG3ECB1QSW6TRRV8KAFX6): four children by warfare mode - Ground-pounders (infantry), Space Navy (ship crews), Space Academy (training), Space Command (command view).'

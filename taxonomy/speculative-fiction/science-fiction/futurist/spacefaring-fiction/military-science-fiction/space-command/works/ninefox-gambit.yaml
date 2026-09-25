@@ -3,7 +3,7 @@ title: Ninefox Gambit
 authors:
 - Yoon Ha Lee
 first_published: 2016
-canonical_genre: military-science-fiction
+canonical_genre: space-command
 placement_status: accepted
 placement_rationale: SFE (entry lee_yoon_ha) calls the Machineries of Empire sequence an array of complex Military SF stories in a Space Opera frame, with
   equipoisal interpositions of action-fantasy figures (the undead master strategist Jedao). The plot is a Kel military campaign - formation warfare and
@@ -38,6 +38,8 @@ books:
   first_published: 2018
   cover_url: https://covers.openlibrary.org/b/isbn/9781781086070-L.jpg
 placement_history:
+- date: '2026-09-25'
+  change: Moved to space-command in the military-science-fiction four-way split (Gustav ruling).
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
-  previous_canonical_genre: military-science-fiction
+  previous_canonical_genre: space-command

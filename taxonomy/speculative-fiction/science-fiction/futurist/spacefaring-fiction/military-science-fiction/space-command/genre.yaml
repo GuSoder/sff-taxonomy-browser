@@ -1,0 +1,11 @@
+id: space-command
+label: Space Command
+parent: military-science-fiction
+children: []
+image: 357-space-command.webp
+definition: 'Military SF of the command view: campaigns, sieges and wars directed from the top rather than fought in the ranks. Split 2026-09-25 from Military science fiction (Gustav ruling).'
+status: accepted
+works:
+- ninefox-gambit
+- the-palace-of-eternity
+ruling: 'Split from military-science-fiction by Gustav 2026-09-25 (phonemsg-01M3CEG3ECB1QSW6TRRV8KAFX6): four-way split by warfare mode; split-with-umbrella keeps MSF on top.'

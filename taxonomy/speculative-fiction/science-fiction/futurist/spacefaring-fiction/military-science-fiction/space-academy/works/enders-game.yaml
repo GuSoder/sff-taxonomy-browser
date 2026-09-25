@@ -3,7 +3,7 @@ title: Ender's Game
 authors:
 - Orson Scott Card
 first_published: 1985
-canonical_genre: military-science-fiction
+canonical_genre: space-academy
 placement_status: accepted
 placement_rationale: "A gifted child is recruited and trained on a military space station to command humanity\u2019s war against the Formics; training and\
   \ war are structural."
@@ -28,6 +28,8 @@ cover_curation:
     book objects
   title_overlay: false
 placement_history:
+- date: '2026-09-25'
+  change: Moved to space-academy in the military-science-fiction four-way split (Gustav ruling).
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
-  previous_canonical_genre: military-science-fiction
+  previous_canonical_genre: space-academy

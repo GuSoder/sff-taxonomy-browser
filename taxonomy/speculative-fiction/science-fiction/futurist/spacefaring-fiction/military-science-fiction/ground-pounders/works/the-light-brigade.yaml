@@ -3,7 +3,7 @@ title: The Light Brigade
 authors:
 - Kameron Hurley
 first_published: 2019
-canonical_genre: military-science-fiction
+canonical_genre: ground-pounders
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Military science fiction. Simon & Schuster and
   Angry Robot explicitly call it future-war military SF: corporate infantry are broken into light for interplanetary combat drops, while a grunt experiences missions
@@ -18,3 +18,6 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+placement_history:
+- date: '2026-09-25'
+  change: Moved to ground-pounders in the military-science-fiction four-way split (Gustav ruling).

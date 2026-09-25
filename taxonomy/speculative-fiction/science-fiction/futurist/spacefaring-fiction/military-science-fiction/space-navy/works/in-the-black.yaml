@@ -3,7 +3,7 @@ title: In the Black
 authors:
 - Patrick S. Tomlinson
 first_published: 2020
-canonical_genre: military-science-fiction
+canonical_genre: space-navy
 placement_status: accepted
 placement_rationale: Tor explicitly calls the book military science fiction; its naval-style patrol crew confronts an unknown hostile ship in a demilitarized
   interstellar border zone.
@@ -27,6 +27,8 @@ cover_curation:
     book objects
   title_overlay: false
 placement_history:
+- date: '2026-09-25'
+  change: Moved to space-navy in the military-science-fiction four-way split (Gustav ruling).
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live tree; placement unchanged on site.'
-  previous_canonical_genre: military-science-fiction
+  previous_canonical_genre: space-navy
