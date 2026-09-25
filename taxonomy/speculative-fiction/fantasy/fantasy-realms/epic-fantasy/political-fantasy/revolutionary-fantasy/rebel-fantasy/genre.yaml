@@ -1,7 +1,7 @@
 id: rebel-fantasy
 name: Rebel fantasy
 label: Rebel fantasy
-parent: anti-colonial-fantasy
+parent: revolutionary-fantasy
 children: []
 works:
 - tigana
@@ -20,3 +20,6 @@ definition: 'Anti-colonial fantasy of open revolt: colonized peoples take up arm
   fight the empire in open revolt, it is Rebel fantasy; if the story''s resistance works by subversion from within the imperial order (infiltration, conspiracy, turning),
   it is Insurgent fantasy.'
 status: leaf
+history:
+- date: '2026-09-25'
+  change: Anti-colonial fantasy umbrella dissolved (Gustav ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y); lifted directly under Revolutionary fantasy. The resistance-mode test stays in this def.

@@ -169,3 +169,9 @@ Layout: Pandemic stays umbrella with three children by plague mode:
 - The Die-off (3): The Stand, Wanderers, MaddAddam
 Slug for The Die-off is die-off (no node id starts with "the-"). Marjorie Westriding had already moved out to space-colonies (16:22 ruling), so 9 cards split, no rump, no hanging list needed.
 Portraits 358-360 per standing rule. Frozen list drops to 3 (Rebel Fantasy, Revenants, Time Travel Agency).
+
+## 2026-09-25 23:08 - Dissolve Anti-colonial fantasy umbrella (flatten)
+Ruling (phonemsg-01M3D6BN40R19Y8KGXB8P9898Y, author=user, 23:08:22): "Do 2"
+Context: his findability complaint (23:04) - 7-level chain to Rebel fantasy, no site search, truncating breadcrumb. Options offered: (1) site search + breadcrumb fix, (2) dissolve the Anti-colonial umbrella, (3) rename it Resistance fantasy. He picked 2.
+Execution: rebel-fantasy and insurgent-fantasy lifted directly under revolutionary-fantasy (now a 4-leaf branch: civil-revolution, messianic, rebel, insurgent). Resistance-mode test preserved in both leaf defs + history lines in all three genre.yamls. Umbrella portrait 212-anti-colonial-fantasy.webp kept in repo (reusable if a third resistance mode ever rebuilds the umbrella). Nodes 355 -> 354.
+STILL AWAITING RULING: the Rebel fantasy split proposal (Memory war / The Rising, 4/4, Phoenix Extravagant to Insurgent, Unconquered Country hanging).

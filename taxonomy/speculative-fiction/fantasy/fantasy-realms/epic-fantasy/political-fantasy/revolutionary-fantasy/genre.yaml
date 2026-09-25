@@ -2,11 +2,15 @@ id: revolutionary-fantasy
 label: Revolutionary fantasy
 parent: political-fantasy
 children:
-- anti-colonial-fantasy
 - civil-revolution-fantasy
 - messianic-fantasy
+- rebel-fantasy
+- insurgent-fantasy
 image: 160-revolutionary-fantasy.webp
 definition: Political fantasy driven by uprising, resistance, liberation and the overthrow or remaking of an oppressive order, partitioned by what legitimates
   and organizes the overthrow.
 status: accepted
 works: []
+history:
+- date: '2026-09-25'
+  change: Anti-colonial fantasy umbrella dissolved (Gustav ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y, 'Do 2'); rebel-fantasy and insurgent-fantasy lifted directly under this node. The anti-colonial mode test lives on in both leaf defs.

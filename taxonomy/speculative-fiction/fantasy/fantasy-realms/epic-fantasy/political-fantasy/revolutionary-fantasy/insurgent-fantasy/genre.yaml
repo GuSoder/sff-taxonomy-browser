@@ -1,7 +1,7 @@
 id: insurgent-fantasy
 name: Insurgent fantasy
 label: Insurgent fantasy
-parent: anti-colonial-fantasy
+parent: revolutionary-fantasy
 children: []
 works:
 - the-masquerade
@@ -14,3 +14,6 @@ definition: 'Anti-colonial fantasy of subversion from within: agents, officials 
   and turning. Resistance-mode test: if the colonized fight the empire in open revolt, it is Rebel fantasy; if the story''s resistance works by subversion from within
   the imperial order (infiltration, conspiracy, turning), it is Insurgent fantasy.'
 status: leaf
+history:
+- date: '2026-09-25'
+  change: Anti-colonial fantasy umbrella dissolved (Gustav ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y); lifted directly under Revolutionary fantasy. The resistance-mode test stays in this def.
