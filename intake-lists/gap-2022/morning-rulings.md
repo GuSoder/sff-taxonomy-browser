@@ -155,3 +155,7 @@ Layout: MSF stays as umbrella (def written - was empty) with four children by wa
 - Space Academy (2): Ender's Game, Some Desperate Glory
 - Space Command (2): Ninefox Gambit, The Palace of Eternity
 Portraits 354-357 per standing rule. Frozen list drops to 4.
+
+## 2026-09-25 18:34 - Rename Classic dystopias -> Classic social dystopias
+Ruling (phonemsg-01M3CPNNCYVDHVYMG1JBY7Q1K7, author=user, 18:34:12): "We have to rename Classic dystopias to Classic social dystopias because if people go in there and don't find Orwell 1987 they will complain (even if they already went into social dystopias)" [verbatim; "1987" is his typo for 1984]
+Execution: label AND slug renamed (majority tree convention: id = kebab of label); dir, image webp, parent children, 4 cards' canonical_genre all updated. Anchor moves to #classic-social-dystopias.
