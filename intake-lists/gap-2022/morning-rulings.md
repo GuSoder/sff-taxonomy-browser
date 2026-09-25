@@ -122,3 +122,7 @@ Gustav's chain: "What about new leaf under contemporary mythic fantasy?" (12:43)
 - CMF site chosen over Mythic retelling on his 12:43 steer: the branches fork on SETTING - mythic/past retellings vs myths alive in the modern world; this book's conceit is Chang'e and Houyi playing out in modern Montana.
 - An Arrow to the Moon (Pan, 2022) placed from held #19 - HELD LIST EMPTY. Cover: Little Brown via OL ISBN 9780316464055, visually verified.
 - Portrait 345-modern-chinese-myth.webp (smart, 1024x1536, no text; veto live). Next free: 346.
+
+## 2026-09-25 13:08 - Protocol: keep it LEAN (Gustav)
+"Ok, let's keep it lean for now then." (phonemsg-01M3C40H4KCTTPVF3Q319ENQRA, 13:08:05)
+Full written completeness walks (top-down, every umbrella's children, one-line faults) are produced ONLY for held books. Clean placements keep the lean trail: 1-3 review/publisher searches, def-match at the decision point, placement_rationale + 2 sources in the yaml, sweep.log line. Protocol switch (full walk per placed book) remains available if Gustav asks.
