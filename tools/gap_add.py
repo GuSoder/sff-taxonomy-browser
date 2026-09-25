@@ -34,7 +34,7 @@ for it in json.load(open(sys.argv[1])):
         y = {'id': cid, 'title': c['title'], 'authors': c['authors'], 'first_published': c['year'], 'canonical_genre': leaf['id'], 'placement_status': 'accepted',
              'placement_rationale': c['note'], 'classification_sources': c['sources'], 'intake': f'gap-2022 awards tier #{k} ({", ".join(it.get("lists", []))})'}
         if c.get('books'): y['books'] = w['books']
-        y['cover_curation'] = {'status': 'complete', 'source': 'Open Library', 'selected_url': c['cover_url'], 'visually_reviewed_on': '2026-09-24', 'review_method': 'contact-sheet one-pass'}
+        y['cover_curation'] = {'status': 'complete', 'source': c.get('cover_source', 'Open Library'), 'selected_url': c['cover_url'], 'visually_reviewed_on': '2026-09-25', 'review_method': 'contact-sheet one-pass'}
         dump(f'{d}/works/{cid}.yaml', y); g = yaml.safe_load(open(d + '/genre.yaml')); g.setdefault('works', []).append(cid); dump(d + '/genre.yaml', g)
         for b in c.get('books') or [c]: have[norm(b['title'])] = (leaf['id'], c['title'])
         prog['added'] += 1; log.write(f'{"T2 " if tier==2 else ""}{k}/{TOTAL[tier]} +{c["title"]} → {leaf["label"]}\n')

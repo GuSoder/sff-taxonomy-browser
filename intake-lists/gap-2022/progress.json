@@ -1,7 +1,7 @@
 {
  "next": 1,
- "processed": 145,
- "added": 128,
+ "processed": 165,
+ "added": 148,
  "held": [],
  "awards_processed": 125,
  "excluded": [
@@ -56,6 +56,6 @@
    "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
   }
  ],
- "tier2_processed": 20,
+ "tier2_processed": 40,
  "pending_ruling": []
 }

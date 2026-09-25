@@ -4,8 +4,8 @@ parent: ghost-stories
 status: active
 label_status: taxonomy-coinage
 label_note: 'Taxonomy coinage built on the established folklore term revenant: one who returns after death.'
-definition: "Ghost stories in which a specific dead person returns or remains as a purposeful presence bound to the living through love, guilt, grief or\
-  \ memory. \u201CRevenants\u201D is a taxonomy coinage built on the established folklore term revenant for one who returns after death."
+definition: Ghost stories in which a specific dead person returns or remains as a purposeful presence bound to the living through love, guilt, grief or memory. “Revenants”
+  is a taxonomy coinage built on the established folklore term revenant for one who returns after death.
 representative_cover: https://covers.openlibrary.org/b/isbn/0330027530-L.jpg
 portrait: 234-revenants.webp
 label: Revenants
@@ -21,3 +21,4 @@ works:
 - the-city-beautiful
 - the-influence
 - the-things-she-s-seen
+- annie-leblanc-is-not-dead-yet
