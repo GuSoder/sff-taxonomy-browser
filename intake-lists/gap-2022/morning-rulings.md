@@ -137,3 +137,8 @@ Gustav, verbatim (phonemsg-01M3C6GAD6M05JSV9RBTHDFN1T, 13:51:39): "My god, have 
 - A split NEVER dissolves the original node: the original stays as umbrella and the new leaves go in as its children. Purpose: relieve trunk pressure, move weight further out the branches.
 - First applied retroactively same day: Social dystopia restored as umbrella over its five new leaves (Classic/Ballardian/Bread & Circus/Algorithmic surveillance/Power inversion).
 - Precedent check: earlier splits already complied (folklore-in-gaslight kept as umbrella over faeries/monsters/circus; CMF umbrella over its six myth leaves). No violations found.
+
+## 2026-09-25 15:21 - PROTOCOL REVERSAL + Haunted House restructure (Gustav)
+Gustav, verbatim (phonemsg-01M3CBN7GVGQD6W543B28YXWHX, 15:21:43): "I think this is the nail in the coffin (no pun intended) you need to start doing the algorithmic walk for all entries, not just wing it. For now lift up Haunted house from Ghost Stories and put Eldritch Fungi inside it"
+1. PROTOCOL REVERSAL - REPLACES the 13:08 keep-it-lean ruling: the full algorithmic completeness walk runs for ALL entries from now on, not just held books. Trigger: the Mexican Gothic ghost inconsistency (excluded from Ghost stories for lacking a ghost while both Haunted House leaves already hold ghost-less entity/echo books, incl. the genre's founding text Hill House - found by audit 15:12).
+2. RESTRUCTURE (executed): haunted-house lifted out of ghost-stories to sit directly under supernatural-fantasy (sibling of Ghost stories); fungal-horror (Eldritch Fungi, 1 card: Mexican Gothic) moved inside Haunted House as third child leaf. Card stays; nothing dissolves; portraits/defs kept.

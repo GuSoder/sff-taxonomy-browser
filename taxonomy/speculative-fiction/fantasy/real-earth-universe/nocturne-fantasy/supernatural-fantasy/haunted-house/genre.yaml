@@ -1,0 +1,15 @@
+id: haunted-house
+label: Haunted House
+parent: supernatural-fantasy
+children:
+- classic-haunted-house
+- contemporary-haunted-house
+- fungal-horror
+image: 157-haunted-house.webp
+definition: 'Ghost stories where the haunting is anchored to a place: the building is the engine. Lifted out of Ghost stories to sit directly under Supernatural fantasy
+  and given Eldritch Fungi as third child 2026-09-25 (Gustav ruling phonemsg-01M3CBN7GVGQD6W543B28YXWHX): place-anchored haunting spans ghosted and ghost-less houses
+  alike.'
+status: umbrella
+works: []
+ruling: 'Lifted out of Ghost stories and given Eldritch Fungi as child by Gustav 2026-09-25 (phonemsg-01M3CBN7GVGQD6W543B28YXWHX): place-anchored haunting spans ghosted
+  and ghost-less houses; Mexican Gothic consistency fix.'
