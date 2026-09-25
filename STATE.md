@@ -1257,3 +1257,6 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 ## 2026-09-25 12:46 - STANDING FIX: seeding rule
 - Walks: "def fits, no leaf exists" = always a new-leaf candidate at EVERY def-fitting branch, never a bare fail. Completeness lists children; seeding covers their gaps.
 - OPEN: An Arrow to the Moon placement - Modern Chinese Myth under CMF (Gustav's 12:43 steer, my updated pick) vs Chinese myth fantasy under Mythic retelling. Awaiting his ruling.
+
+## 2026-09-25 12:47 - Modern Chinese Myth leaf
+- modern-chinese-myth created under contemporary-mythic-fantasy (Gustav ruling 12:47); An Arrow to the Moon seeded from held #19 - HELD LIST EMPTY. CMF def updated (Chinese added). Portrait 345. Next free portrait: 346. Tier-2 cursor 20/322; chunk 2 (21-40) awaits his go.

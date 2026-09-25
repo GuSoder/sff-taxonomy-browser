@@ -114,3 +114,11 @@ Gustav, verbatim (12:46:08): "Then why did you say 'CMF's five leaves all fail' 
 - Walk fault caught on An Arrow to the Moon: the walk seeded a new leaf under Mythic retelling (first exact def-match) but under CMF - also a def-match - recorded the missing Chinese leaf as "fail on tradition" instead of generating a seed candidate there too.
 - STANDING FIX (log verbatim, apply from next walk): the seeding test applies at EVERY branch whose def fits - "def fits, no leaf exists" is always a new-leaf candidate, never a bare fail. The completeness rule lists children; the seeding rule covers their gaps.
 - Post-mortem on the fault: evaluation error, not a yaml problem. The walk treated CMF's five existing leaves as the candidate set and faulted each on tradition, then let Mythic retelling's exact def-match capture the seed. CMF's def fits equally ("ancient mythic beings remain active within ordinary present-day life") - the branches fork on SETTING (mythic/past retelling vs myth alive in the modern world), so both seed sites should have been presented.
+
+## 2026-09-25 12:47 - Modern Chinese Myth (new leaf, Gustav ruling)
+Gustav's chain: "What about new leaf under contemporary mythic fantasy?" (12:43) -> seeding-fix discussion -> "Ok, after that you can execute" (12:47:31, after the fix was logged).
+- New leaf modern-chinese-myth under Contemporary mythic fantasy, sixth sibling (Albion/Greek/Anansi/Orisha/Invented/Chinese). Def in the branch style: "Contemporary fantasy in which the figures and powers of Chinese myth - Chang'e, Houyi, the moon, celestial and ancestral legend - remain alive within ordinary present-day life."
+- CMF branch def updated: inherited traditions now "Albion, Greek, Anansi, Chinese and orisha".
+- CMF site chosen over Mythic retelling on his 12:43 steer: the branches fork on SETTING - mythic/past retellings vs myths alive in the modern world; this book's conceit is Chang'e and Houyi playing out in modern Montana.
+- An Arrow to the Moon (Pan, 2022) placed from held #19 - HELD LIST EMPTY. Cover: Little Brown via OL ISBN 9780316464055, visually verified.
+- Portrait 345-modern-chinese-myth.webp (smart, 1024x1536, no text; veto live). Next free: 346.

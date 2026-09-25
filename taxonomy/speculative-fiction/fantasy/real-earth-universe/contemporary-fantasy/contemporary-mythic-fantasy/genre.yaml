@@ -1,7 +1,7 @@
 id: contemporary-mythic-fantasy
 name: Contemporary mythic fantasy
 definition: 'Contemporary fantasy in which ancient mythic beings, archetypes or powers remain active within ordinary present-day life, making myth a living force,
-  partitioned by which mythology stays alive: the inherited traditions of Albion, Greek, Anansi and orisha, or an invented cosmology an author built outright.'
+  partitioned by which mythology stays alive: the inherited traditions of Albion, Greek, Anansi, Chinese and orisha, or an invented cosmology an author built outright.'
 parent: contemporary-fantasy
 label: Contemporary mythic fantasy
 children:
@@ -10,6 +10,7 @@ children:
 - modern-anansi-myth
 - modern-orisha-myth
 - modern-invented-myth
+- modern-chinese-myth
 image: 260-contemporary-mythic-fantasy.webp
 status: provisional
 works: []
