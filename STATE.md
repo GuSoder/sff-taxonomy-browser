@@ -1240,3 +1240,6 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 
 ## 2026-09-24 22:07 - Modern invented myth leaf
 - modern-invented-myth created under contemporary-fantasy (Gustav ruling 22:07); The Book of Love seeded from pending-ruling queue (queue empty). Portrait 343. Next free portrait: 344.
+
+## 2026-09-25 07:49 - Modern Invented Myth moved
+- modern-invented-myth now under contemporary-mythic-fantasy (Gustav 07:49); label capitalized "Modern Invented Myth"; CMF def updated.

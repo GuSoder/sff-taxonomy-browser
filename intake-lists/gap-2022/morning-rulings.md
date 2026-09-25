@@ -84,3 +84,9 @@ Gustav on his channel: "So it's invented mythology, just not on an epic scale?" 
 - Concept discussion logged: myth = inheritance + archetype + explanation + numinous weight; The Book of Love has the furniture (goddess, death-realm, bargains) but not the inheritance - myth-shaped, not myth. Invented Mythology (epic-fantasy) failed on address, not concept.
 - The Book of Love (Kelly Link, 2024) placed as seed from the pending-ruling queue; queue now empty. Adult shelving confirmed (Random House adult trade; Locus/Guardian/NPR reviews); no YA axis exists in the tree.
 - Portrait 343-modern-invented-myth.webp (smart mode, 1024x1536, no text; veto live).
+
+## 2026-09-25 07:49 - Modern Invented Myth moved + renamed (Gustav ruling)
+Gustav on his channel (07:49:59): "Wait, one thing, I wanted to have modern invented myth next to modern X myth where X is Greek, Albion etc, capitalized M also like the others"
+- Leaf moved: contemporary-fantasy/modern-invented-myth -> contemporary-fantasy/contemporary-mythic-fantasy/modern-invented-myth (sibling of Albion/Greek/Anansi/Orisha).
+- Renamed: "Modern Invented Myth" (capital M).
+- CMF branch definition updated to include the invented sibling: partitioned by which mythology stays alive - inherited Albion/Greek/Anansi/orisha, or an author's invented cosmology.
