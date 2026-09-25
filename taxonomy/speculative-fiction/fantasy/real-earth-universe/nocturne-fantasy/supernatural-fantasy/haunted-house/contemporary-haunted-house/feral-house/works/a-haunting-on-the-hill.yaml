@@ -3,7 +3,7 @@ title: A Haunting on the Hill
 authors:
 - Elizabeth Hand
 first_published: 2023
-canonical_genre: contemporary-haunted-house
+canonical_genre: feral-house
 placement_status: accepted
 placement_rationale: 'Authorized return to Shirley Jackson''s Hill House: a playwright and her actors rent the house in the present day, and the house itself does
   the haunting.'
@@ -17,3 +17,6 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/isbn/9780316527323-L.jpg
   visually_reviewed_on: '2026-09-24'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-09-25'
+  change: Moved to feral-house in the contemporary-haunted-house three-way split (Gustav ruling).

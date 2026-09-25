@@ -1,18 +1,14 @@
 id: contemporary-haunted-house
 label: Contemporary haunted house
 parent: haunted-house
-children: []
+children:
+- housebound
+- feral-house
+- residual-haunting
 image: 269-contemporary-haunted-house.webp
-definition: Place-anchored haunted-house fiction in the contemporary era, beginning with Bag of Bones (1998).
+definition: 'Place-anchored haunted-house fiction in the contemporary era, beginning with Bag of Bones (1998). Umbrella since 2026-09-25: split-with-umbrella into
+  Housebound, Feral house and Residual haunting by haunting mechanism (Gustav ruling phonemsg-01M3CD9BVMX13FWZ3CTZ30325Z).'
 status: accepted
-works:
-- a-room-away-from-the-wolves
-- bag-of-bones
-- lost-boy-lost-girl
-- plain-bad-heroines
-- the-agony-house
-- the-invited
-- white-smoke
-- starling-house
-- a-haunting-on-the-hill
-- a-house-with-good-bones
+works: []
+ruling: 'Split-with-umbrella 2026-09-25 (phonemsg-01M3CD9BVMX13FWZ3CTZ30325Z): three children by haunting mechanism - Housebound (dead bound to place), Feral house
+  (house as agent), Residual haunting (trauma replay).'
