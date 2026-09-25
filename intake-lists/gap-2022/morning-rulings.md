@@ -90,3 +90,10 @@ Gustav on his channel (07:49:59): "Wait, one thing, I wanted to have modern inve
 - Leaf moved: contemporary-fantasy/modern-invented-myth -> contemporary-fantasy/contemporary-mythic-fantasy/modern-invented-myth (sibling of Albion/Greek/Anansi/Orisha).
 - Renamed: "Modern Invented Myth" (capital M).
 - CMF branch definition updated to include the invented sibling: partitioned by which mythology stays alive - inherited Albion/Greek/Anansi/orisha, or an author's invented cosmology.
+
+## 2026-09-25 11:21 - Ozymandian tech (new leaf, Gustav ruling)
+Gustav's chain on his channel: "could this be another Sci fi in disguise, the typical hard science fantasy trick" (11:06) -> "I'm strongly suspecting that this will be a trilogy what will turn out to do the science fantasy trick" (11:12) -> new leaf "next to hard science fantasy that captures the ancient high tech culture" (11:15) -> named it: "Ozymandian tech?" (11:19:47) -> "Ok, execute with Ozymandian tech" (11:21:59).
+- New leaf ozymandian-tech under science-fantasy (sibling of Hard science fantasy, Planetary romance, Old Mars). Def: "Science fantasy whose fantasy surface is built on the buried remains of an ancient high-tech culture, whose surviving technology is worshipped, mistaken for magic, or rivals it."
+- Naming discussion logged: Sufficiently Advanced (rejected: wanted more evocative), Precursor fantasy / Atlantean / The Old Science / Krell (faults given), Ozymandian (Shelley: "Look on my Works, ye Mighty, and despair") + "tech" to fix the not-tech-specific fault.
+- A Song of Legends Lost (Ayinde, 2025) seeded from held #9 (held now 2: #18, #19). Cover: Saga Press official (Simon & Schuster CDN), visually verified. Research basis: SFFWorld ("voices that could be spirits or some of the Scathed's old technology"), JamReads + Fantasy Book Critic (call it science fantasy), publisher tagline ("not everything that can be invoked is an ancestor"). Trilogy unresolved - if sequels confirm spirits-as-tech with physics holding, Hard science fantasy remains a possible future home.
+- Portrait 344-ozymandian-tech.webp (smart mode, 1024x1536, no text; veto live). Next free: 345.

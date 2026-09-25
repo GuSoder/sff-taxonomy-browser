@@ -1243,3 +1243,6 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 
 ## 2026-09-25 07:49 - Modern Invented Myth moved
 - modern-invented-myth now under contemporary-mythic-fantasy (Gustav 07:49); label capitalized "Modern Invented Myth"; CMF def updated.
+
+## 2026-09-25 11:21 - Ozymandian tech leaf
+- ozymandian-tech created under science-fantasy (Gustav ruling 11:21); A Song of Legends Lost seeded from held #9 (held now 2). Portrait 344. Next free portrait: 345.

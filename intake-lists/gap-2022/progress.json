@@ -1,80 +1,74 @@
 {
-  "next": 1,
-  "processed": 145,
-  "added": 128,
-  "held": [
-    {
-      "tier": 2,
-      "k": 9,
-      "title": "A Song of Legends Lost",
-      "reason": "No clean leaf: secondary-world epic of spirit-summoning and god-war; existing epic leaves fail on setting or structure. Possible new leaf - Gustav ruling."
-    },
-    {
-      "tier": 2,
-      "k": 18,
-      "title": "Among Ghosts",
-      "reason": "Dark Fantasy realms fit is shaky: ghost-plagued secondary world with a flight/quest structure; needs Gustav ruling (dark-fantasy realms or new leaf)."
-    },
-    {
-      "tier": 2,
-      "k": 19,
-      "title": "An Arrow to the Moon",
-      "reason": "No Chinese-myth leaf: Chang'e/Houyi retelling in contemporary Montana; no existing leaf for contemporary myth retellings outside the frozen ones. Gustav ruling."
-    }
-  ],
-  "awards_processed": 125,
-  "excluded": [
-    {
-      "k": 4,
-      "title": "Death of the Author",
-      "author": "Nnedi Okorafor",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:12): realist literary frame about novelist Zelu; the complete embedded robot/post-human novel does not make the book SFF. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 63,
-      "title": "Picks and Shovels",
-      "author": "Cory Doctorow",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 66,
-      "title": "Red Team Blues",
-      "author": "Cory Doctorow",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 75,
-      "title": "The Bezzle",
-      "author": "Cory Doctorow",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 42,
-      "title": "A Granite Silence",
-      "author": "Nina Allan",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:14): historical novel about a 1934 Aberdeen child murder, no speculative element. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 104,
-      "title": "Looking Glass Sound",
-      "author": "Catriona Ward",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 30,
-      "title": "The Salt Oracle",
-      "author": "Lorraine Wilson",
-      "reason": "Killed under the Absurd Shit rule, Gustav 23:30 (\"It's absurd shit, kill it\"). First kill under the rule. Do not resurface in any tier."
-    }
-  ],
-  "standing_rules": [
-    {
-      "name": "Absurd Shit rule",
-      "since": "2026-09-23 23:29",
-      "source": "Gustav: \"I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it\"",
-      "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
-    }
-  ],
-  "tier2_processed": 20,
-  "pending_ruling": []
+ "next": 1,
+ "processed": 145,
+ "added": 128,
+ "held": [
+  {
+   "tier": 2,
+   "k": 18,
+   "title": "Among Ghosts",
+   "reason": "Dark Fantasy realms fit is shaky: ghost-plagued secondary world with a flight/quest structure; needs Gustav ruling (dark-fantasy realms or new leaf)."
+  },
+  {
+   "tier": 2,
+   "k": 19,
+   "title": "An Arrow to the Moon",
+   "reason": "No Chinese-myth leaf: Chang'e/Houyi retelling in contemporary Montana; no existing leaf for contemporary myth retellings outside the frozen ones. Gustav ruling."
+  }
+ ],
+ "awards_processed": 125,
+ "excluded": [
+  {
+   "k": 4,
+   "title": "Death of the Author",
+   "author": "Nnedi Okorafor",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:12): realist literary frame about novelist Zelu; the complete embedded robot/post-human novel does not make the book SFF. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 63,
+   "title": "Picks and Shovels",
+   "author": "Cory Doctorow",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 66,
+   "title": "Red Team Blues",
+   "author": "Cory Doctorow",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 75,
+   "title": "The Bezzle",
+   "author": "Cory Doctorow",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 42,
+   "title": "A Granite Silence",
+   "author": "Nina Allan",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:14): historical novel about a 1934 Aberdeen child murder, no speculative element. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 104,
+   "title": "Looking Glass Sound",
+   "author": "Catriona Ward",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 30,
+   "title": "The Salt Oracle",
+   "author": "Lorraine Wilson",
+   "reason": "Killed under the Absurd Shit rule, Gustav 23:30 (\"It's absurd shit, kill it\"). First kill under the rule. Do not resurface in any tier."
+  }
+ ],
+ "standing_rules": [
+  {
+   "name": "Absurd Shit rule",
+   "since": "2026-09-23 23:29",
+   "source": "Gustav: \"I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it\"",
+   "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
+  }
+ ],
+ "tier2_processed": 20,
+ "pending_ruling": []
 }
