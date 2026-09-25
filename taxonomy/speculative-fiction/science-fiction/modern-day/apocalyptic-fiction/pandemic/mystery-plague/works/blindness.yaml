@@ -3,7 +3,7 @@ title: Blindness
 authors:
 - José Saramago
 first_published: 1995
-canonical_genre: pandemic
+canonical_genre: mystery-plague
 placement_status: accepted
 placement_rationale: SFE identifies an inexplicable epidemic of white blindness that strikes nearly everyone in an unnamed city, scales as a disaster and collapses the social contract. The Saramago Foundation says it could occur yesterday, today or tomorrow. The spreading epidemic and civilization-in-progress collapse make the Modern day Pandemic leaf closest.
 classification_sources:
@@ -20,3 +20,6 @@ cover_curation:
   display_eligible: true
   candidates_visually_reviewed: 1
   review_method: one-pass work search
+placement_history:
+- date: '2026-09-25'
+  change: Moved to mystery-plague in the pandemic three-way split (Gustav ruling phonemsg-01M3D543ZBP2R9WMQH420W2D1P).

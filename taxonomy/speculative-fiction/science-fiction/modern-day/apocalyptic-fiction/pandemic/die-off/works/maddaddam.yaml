@@ -3,7 +3,7 @@ title: MaddAddam
 authors:
 - Margaret Atwood
 first_published: 2003
-canonical_genre: pandemic
+canonical_genre: die-off
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -18,3 +18,6 @@ cover_curation:
   status: partial
   selected_url: https://images.penguinrandomhouse.com/cover/9780385721677
   audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.
+placement_history:
+- date: '2026-09-25'
+  change: Moved to die-off in the pandemic three-way split (Gustav ruling phonemsg-01M3D543ZBP2R9WMQH420W2D1P).

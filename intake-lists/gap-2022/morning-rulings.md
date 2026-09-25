@@ -159,3 +159,13 @@ Portraits 354-357 per standing rule. Frozen list drops to 4.
 ## 2026-09-25 18:34 - Rename Classic dystopias -> Classic social dystopias
 Ruling (phonemsg-01M3CPNNCYVDHVYMG1JBY7Q1K7, author=user, 18:34:12): "We have to rename Classic dystopias to Classic social dystopias because if people go in there and don't find Orwell 1987 they will complain (even if they already went into social dystopias)" [verbatim; "1987" is his typo for 1984]
 Execution: label AND slug renamed (majority tree convention: id = kebab of label); dir, image webp, parent children, 4 cards' canonical_genre all updated. Anchor moves to #classic-social-dystopias.
+
+## 2026-09-25 22:46 - Pandemic split (three-way, split-with-umbrella)
+Ruling (phonemsg-01M3D543ZBP2R9WMQH420W2D1P, author=user, 22:46:46): "Go"
+Naming thread (evening): he ruled "Zombie dystopias" OUT (dystopia not a hint in this branch - Pandemic sits under Modern day > Apocalyptic fiction, not a dystopia branch; his own catch), "Zombie apocalypse" IN; "Mystery plague" (his pick over Mystery pandemic); "The Die-off" (his pick; pluralization block dissolved by singular category names). Final trio his words 22:45:39: "Zombie apocalypse / Mystery plague / The Die-off - What do you think?" then "Go".
+Layout: Pandemic stays umbrella with three children by plague mode:
+- Zombie apocalypse (3): World War Z, Survivor Song, Severance
+- Mystery plague (3): Blindness, The Migration, Animals
+- The Die-off (3): The Stand, Wanderers, MaddAddam
+Slug for The Die-off is die-off (no node id starts with "the-"). Marjorie Westriding had already moved out to space-colonies (16:22 ruling), so 9 cards split, no rump, no hanging list needed.
+Portraits 358-360 per standing rule. Frozen list drops to 3 (Rebel Fantasy, Revenants, Time Travel Agency).

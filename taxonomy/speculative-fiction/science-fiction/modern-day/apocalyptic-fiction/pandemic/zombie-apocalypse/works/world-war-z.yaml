@@ -3,7 +3,7 @@ title: World War Z
 authors:
 - Max Brooks
 first_published: 2006
-canonical_genre: pandemic
+canonical_genre: zombie-apocalypse
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -14,3 +14,6 @@ cover_curation:
   selected_url: https://images.penguinrandomhouse.com/cover/9780307346612
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-25'
+  change: Moved to zombie-apocalypse in the pandemic three-way split (Gustav ruling phonemsg-01M3D543ZBP2R9WMQH420W2D1P).

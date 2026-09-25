@@ -1,17 +1,12 @@
 id: pandemic
 label: Pandemic
 parent: apocalyptic-fiction
-children: []
+children:
+- zombie-apocalypse
+- mystery-plague
+- die-off
 image: 80-pandemic.webp
-definition: Civilization ends by plague - superflu, zombie outbreak, engineered virus. Coined by Gustav 2026-09-14; not an SFE/EoF headword.
+definition: 'Civilization ends by plague - superflu, zombie outbreak, engineered virus. Coined by Gustav 2026-09-14; not an SFE/EoF headword. Umbrella since 2026-09-25: split-with-umbrella into Zombie apocalypse, Mystery plague and The Die-off by plague mode (Gustav ruling phonemsg-01M3D543ZBP2R9WMQH420W2D1P).'
 status: provisional
-works:
-- the-stand
-- world-war-z
-- maddaddam
-- blindness
-- severance
-- survivor-song
-- the-migration
-- wanderers
-- animals
+works: []
+ruling: 'Split-with-umbrella 2026-09-25 (phonemsg-01M3D543ZBP2R9WMQH420W2D1P): three children by plague mode - Zombie apocalypse (the plague turns people), Mystery plague (inexplicable affliction), The Die-off (mass dying and the world after). Names are his picks from the naming thread.'

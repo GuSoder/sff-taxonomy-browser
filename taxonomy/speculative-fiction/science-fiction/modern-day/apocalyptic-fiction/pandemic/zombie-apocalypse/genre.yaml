@@ -1,0 +1,12 @@
+id: zombie-apocalypse
+label: Zombie apocalypse
+parent: pandemic
+children: []
+image: 358-zombie-apocalypse.webp
+definition: 'Pandemic fiction in which the plague turns people: the infected, the risen dead, the fevered - the monster is the victim. Split 2026-09-25 from Pandemic (Gustav ruling).'
+status: accepted
+works:
+- world-war-z
+- survivor-song
+- severance
+ruling: 'Split from pandemic by Gustav 2026-09-25 (phonemsg-01M3D543ZBP2R9WMQH420W2D1P): three-way split by plague mode; split-with-umbrella keeps Pandemic on top.'
