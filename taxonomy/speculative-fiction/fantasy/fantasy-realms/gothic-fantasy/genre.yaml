@@ -2,14 +2,14 @@ id: gothic-fantasy
 label: Gothic fantasy
 parent: fantasy-realms
 children:
-- dark-fantasy-realms
+- dark-realms
 - technomancy
 - isolationist-fantasy
 - fantasy-of-manners
 - fantasy-mystery
 works: []
 image: 274-gothic-fantasy.webp
-definition: 'The Gothic School of invented-world fantasy: the Walpole-to-Poe lineage of haunted architecture, ancestral dread, confinement, transgression
-  and the uncanny, widened to include Pax Britannica cultural mannerisms - British imperial-era gentlemen, etiquette, class performance and social codes.
-  Its branches range from Dark Fantasy and isolation to manners, occult detection and necromantic machinery.'
+definition: 'The Gothic School of invented-world fantasy: the Walpole-to-Poe lineage of haunted architecture, ancestral dread, confinement, transgression and the
+  uncanny, widened to include Pax Britannica cultural mannerisms - British imperial-era gentlemen, etiquette, class performance and social codes. Its branches range
+  from Dark Fantasy and isolation to manners, occult detection and necromantic machinery.'
 status: accepted

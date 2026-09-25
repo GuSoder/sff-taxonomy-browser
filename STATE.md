@@ -1250,3 +1250,6 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 ## 2026-09-25 11:29 - STANDING RULE: no magic on the SF side
 - Magic-actual books never land on the science-fiction side; crossing requires ambiguous/revealed tech (Ozymandian tech / HSF pattern). Catch in walks before presenting candidates.
 - REVISIT: Invoker Trilogy book 2 publication -> re-examine A Song of Legends Lost (ozymandian-tech): tech confirmed -> hard-science-fantasy; magic confirmed -> fantasy side.
+
+## 2026-09-25 12:36 - Dark realms rename + Among Ghosts
+- dark-fantasy-realms renamed dark-realms ("Dark realms"), distinguishing from Real-Earth dark-fantasy; Among Ghosts placed from held #18 (held now 1: #19). Portrait 275 kept.

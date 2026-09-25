@@ -1,11 +1,12 @@
-id: dark-fantasy-realms
-label: Dark Fantasy
+id: dark-realms
+label: Dark realms
 parent: gothic-fantasy
 children: []
 works:
 - the-death-of-jane-lawrence
 - someone-you-can-build-a-nest-in
 - asunder
+- among-ghosts
 image: 275-dark-fantasy.webp
 definition: Invented-world Gothic fantasy governed by dread, haunting, enclosure and dark magic more than adventure, etiquette or investigation.
 status: accepted
