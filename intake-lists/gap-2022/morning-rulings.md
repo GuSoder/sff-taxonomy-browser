@@ -131,3 +131,9 @@ Full written completeness walks (top-down, every umbrella's children, one-line f
 Gustav, verbatim (phonemsg-01M3C61MRH0E8XS88BFTX8B4H5, 13:43:38): "No slush-buckets or dirty branches, ok? please remember these principles since they are important to the health of the taxonomy."
 - EXTENDS the no-dirty-branches rule (2026-09-24 19:51) from branches to LEAVES: a rump leaf holding unrelated leftover cards is banned; every card needs a thematically named home, even if that means single-card leaves. Single-card named leaves are legal; catch-all leaves are not.
 - First applied in the Social dystopia (modern) split: no rump leaf, two single-card leaves seeded (Bread & Circus, Algorithmic surveillance, Power inversion).
+
+## 2026-09-25 13:51 - STANDING RULE: SPLIT-WITH-UMBRELLA (Gustav)
+Gustav, verbatim (phonemsg-01M3C6GAD6M05JSV9RBTHDFN1T, 13:51:39): "My god, have you forgotten, when we talk about a 'split' we by default mean 'split with the original as umbrella'. This is to relieve the trunk of the tree from pressure and move if further out the branches. Let's call this the split-with-umbrella rule."
+- A split NEVER dissolves the original node: the original stays as umbrella and the new leaves go in as its children. Purpose: relieve trunk pressure, move weight further out the branches.
+- First applied retroactively same day: Social dystopia restored as umbrella over its five new leaves (Classic/Ballardian/Bread & Circus/Algorithmic surveillance/Power inversion).
+- Precedent check: earlier splits already complied (folklore-in-gaslight kept as umbrella over faeries/monsters/circus; CMF umbrella over its six myth leaves). No violations found.
