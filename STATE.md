@@ -1253,3 +1253,7 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 
 ## 2026-09-25 12:36 - Dark realms rename + Among Ghosts
 - dark-fantasy-realms renamed dark-realms ("Dark realms"), distinguishing from Real-Earth dark-fantasy; Among Ghosts placed from held #18 (held now 1: #19). Portrait 275 kept.
+
+## 2026-09-25 12:46 - STANDING FIX: seeding rule
+- Walks: "def fits, no leaf exists" = always a new-leaf candidate at EVERY def-fitting branch, never a bare fail. Completeness lists children; seeding covers their gaps.
+- OPEN: An Arrow to the Moon placement - Modern Chinese Myth under CMF (Gustav's 12:43 steer, my updated pick) vs Chinese myth fantasy under Mythic retelling. Awaiting his ruling.

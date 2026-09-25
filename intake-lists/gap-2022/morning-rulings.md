@@ -108,3 +108,9 @@ Gustav's chain: "Shit I just realized there is two 'Dark fantasy' in different p
 - dark-fantasy-realms RENAMED to dark-realms, label "Dark realms" (gothic-fantasy child; id, directory, canonical_genre of its 3 existing cards all updated). Coined to distinguish from Real-Earth Dark fantasy (nocturne side) and to hint at the Fantasy Realms grandparent.
 - Among Ghosts (Hartman, 2025) placed from held #18 (held now 1: #19 An Arrow to the Moon). Cover: PRH official, visually verified.
 - Portrait: kept 275-dark-fantasy.webp (rename is nominal; art still on-brief).
+
+## 2026-09-25 12:46 - STANDING FIX: seeding test fires at every def-fitting branch (Gustav)
+Gustav, verbatim (12:46:08): "Then why did you say 'CMF's five leaves all fail' before, is there something wrong in your evaluation algorithm or was there something in the yaml of contemporary fantasy umbrella that blocked you ('fail on tradition') from even investigating it?"
+- Walk fault caught on An Arrow to the Moon: the walk seeded a new leaf under Mythic retelling (first exact def-match) but under CMF - also a def-match - recorded the missing Chinese leaf as "fail on tradition" instead of generating a seed candidate there too.
+- STANDING FIX (log verbatim, apply from next walk): the seeding test applies at EVERY branch whose def fits - "def fits, no leaf exists" is always a new-leaf candidate, never a bare fail. The completeness rule lists children; the seeding rule covers their gaps.
+- Post-mortem on the fault: evaluation error, not a yaml problem. The walk treated CMF's five existing leaves as the candidate set and faulted each on tradition, then let Mythic retelling's exact def-match capture the seed. CMF's def fits equally ("ancient mythic beings remain active within ordinary present-day life") - the branches fork on SETTING (mythic/past retelling vs myth alive in the modern world), so both seed sites should have been presented.
