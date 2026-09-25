@@ -126,3 +126,8 @@ Gustav's chain: "What about new leaf under contemporary mythic fantasy?" (12:43)
 ## 2026-09-25 13:08 - Protocol: keep it LEAN (Gustav)
 "Ok, let's keep it lean for now then." (phonemsg-01M3C40H4KCTTPVF3Q319ENQRA, 13:08:05)
 Full written completeness walks (top-down, every umbrella's children, one-line faults) are produced ONLY for held books. Clean placements keep the lean trail: 1-3 review/publisher searches, def-match at the decision point, placement_rationale + 2 sources in the yaml, sweep.log line. Protocol switch (full walk per placed book) remains available if Gustav asks.
+
+## 2026-09-25 13:43 - STANDING PRINCIPLE: NO SLUSH BUCKETS (Gustav)
+Gustav, verbatim (phonemsg-01M3C61MRH0E8XS88BFTX8B4H5, 13:43:38): "No slush-buckets or dirty branches, ok? please remember these principles since they are important to the health of the taxonomy."
+- EXTENDS the no-dirty-branches rule (2026-09-24 19:51) from branches to LEAVES: a rump leaf holding unrelated leftover cards is banned; every card needs a thematically named home, even if that means single-card leaves. Single-card named leaves are legal; catch-all leaves are not.
+- First applied in the Social dystopia (modern) split: no rump leaf, two single-card leaves seeded (Bread & Circus, Algorithmic surveillance, Power inversion).
