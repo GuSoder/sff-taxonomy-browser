@@ -1,68 +1,96 @@
 {
-  "next": 1,
-  "processed": 165,
-  "added": 148,
-  "held": [
-    {
-      "title": "The Unconquered Country",
-      "author": "Geoff Ryman",
-      "year": 1984,
-      "reason": "Rebel fantasy split 2026-09-26 (Gustav ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1): survival under occupation, no revolt engine - fits neither Samizdat fantasy nor Tinderbox fantasy; no-slush-bucket rule bars a rump. Hanging list pending his ruling or a future fitting leaf."
-    }
-  ],
-  "awards_processed": 125,
-  "excluded": [
-    {
-      "k": 4,
-      "title": "Death of the Author",
-      "author": "Nnedi Okorafor",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:12): realist literary frame about novelist Zelu; the complete embedded robot/post-human novel does not make the book SFF. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 63,
-      "title": "Picks and Shovels",
-      "author": "Cory Doctorow",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 66,
-      "title": "Red Team Blues",
-      "author": "Cory Doctorow",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 75,
-      "title": "The Bezzle",
-      "author": "Cory Doctorow",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 42,
-      "title": "A Granite Silence",
-      "author": "Nina Allan",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:14): historical novel about a 1934 Aberdeen child murder, no speculative element. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 104,
-      "title": "Looking Glass Sound",
-      "author": "Catriona Ward",
-      "reason": "Not SFF (Gustav, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 30,
-      "title": "The Salt Oracle",
-      "author": "Lorraine Wilson",
-      "reason": "Killed under the Absurd Shit rule, Gustav 23:30 (\"It's absurd shit, kill it\"). First kill under the rule. Do not resurface in any tier."
-    }
-  ],
-  "standing_rules": [
-    {
-      "name": "Absurd Shit rule",
-      "since": "2026-09-23 23:29",
-      "source": "Gustav: \"I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it\"",
-      "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
-    }
-  ],
-  "tier2_processed": 40,
-  "pending_ruling": []
+ "next": 1,
+ "processed": 165,
+ "added": 148,
+ "held": [
+  {
+   "title": "The Unconquered Country",
+   "author": "Geoff Ryman",
+   "year": 1984,
+   "reason": "Rebel fantasy split 2026-09-26 (Gustav ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1): survival under occupation, no revolt engine - fits neither Samizdat fantasy nor Tinderbox fantasy; no-slush-bucket rule bars a rump. Hanging list pending his ruling or a future fitting leaf."
+  },
+  {
+   "title": "Bluebird",
+   "author": "Ciel Pierlot",
+   "year": 2022,
+   "tier2_k": 43,
+   "reason": "Chunk 3: ex-rebel gunslinger action-thriller space opera. spaceship-drama is cozy/interpersonal; political-space-opera leaves do not fit. No-slush-bucket rule bars a rump. Candidate for an adventure/action space opera leaf - same gap as Dark Diamond; leaf suggestion served to Gustav."
+  },
+  {
+   "title": "Bury Your Gays",
+   "author": "Chuck Tingle",
+   "year": 2024,
+   "tier2_k": 47,
+   "reason": "Chunk 3: Hollywood meta-horror; Misha's own horror creations manifest and hunt him after he refuses to kill his gay characters. No fitting horror leaf (hellscape/unholy-ground/ghosts/evil-deals all miss; haunted-house is place-bound). Hanging pending his ruling or a future fitting leaf."
+  },
+  {
+   "title": "Costumes for Time Travelers",
+   "author": "A.R. Capetta",
+   "year": 2025,
+   "tier2_k": 55,
+   "reason": "Chunk 3: the Pocket, a waystation outside time, with Time Wardens - not an agency-owned machine per the owner test, not homebrew; no waystation/tourism leaf under time-travel-fiction. Candidate for a new time-waystation leaf; suggestion served to Gustav."
+  },
+  {
+   "title": "Dark Diamond",
+   "author": "Neal Asher",
+   "year": 2025,
+   "tier2_k": 59,
+   "reason": "Chunk 3: Polity-universe high-octane adventure space opera (Time's Shadow trilogy, dark AI Penny Royal). new-space-opera children are political/theological/alien-delving/spaceship-drama; none fits action-adventure NSO. Same gap as Bluebird - leaf suggestion served to Gustav."
+  }
+ ],
+ "awards_processed": 125,
+ "excluded": [
+  {
+   "k": 4,
+   "title": "Death of the Author",
+   "author": "Nnedi Okorafor",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:12): realist literary frame about novelist Zelu; the complete embedded robot/post-human novel does not make the book SFF. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 63,
+   "title": "Picks and Shovels",
+   "author": "Cory Doctorow",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 66,
+   "title": "Red Team Blues",
+   "author": "Cory Doctorow",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 75,
+   "title": "The Bezzle",
+   "author": "Cory Doctorow",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 42,
+   "title": "A Granite Silence",
+   "author": "Nina Allan",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:14): historical novel about a 1934 Aberdeen child murder, no speculative element. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 104,
+   "title": "Looking Glass Sound",
+   "author": "Catriona Ward",
+   "reason": "Not SFF (Gustav, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier."
+  },
+  {
+   "k": 30,
+   "title": "The Salt Oracle",
+   "author": "Lorraine Wilson",
+   "reason": "Killed under the Absurd Shit rule, Gustav 23:30 (\"It's absurd shit, kill it\"). First kill under the rule. Do not resurface in any tier."
+  }
+ ],
+ "standing_rules": [
+  {
+   "name": "Absurd Shit rule",
+   "since": "2026-09-23 23:29",
+   "source": "Gustav: \"I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it\"",
+   "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
+  }
+ ],
+ "tier2_processed": 60,
+ "pending_ruling": []
 }
