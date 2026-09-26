@@ -2,20 +2,16 @@ id: time-travel-agency
 name: Time travel agency
 label: Time travel agency
 parent: time-machines
-children: []
-works:
-- oxford-time-travel
-- the-time-traders
-- the-year-of-the-quiet-sun
-- no-enemy-but-time
-- the-end-of-eternity
-- the-future-of-another-timeline
-- this-is-how-you-lose-the-time-war
-- ilium-olympos
-- the-ministry-of-time
-- sea-of-tranquility
+children:
+- classic-time-agencies
+- time-agency-revival
+works: []
 image: 302-time-travel-agency.webp
 portrait: 302-time-travel-agency.webp
-definition: 'Time Machines owned by an organization: agencies, government projects, institutions or factions run the apparatus and send their people through time.
-  Owner test: take away the organization; if the time travel has no owner left, it is Time travel agency.'
-status: accepted
+definition: 'Time Machines owned by an organization: agencies, government projects, institutions or factions
+  run the apparatus and send their people through time. Owner test: take away the organization; if the
+  time travel has no owner left, it is Time travel agency. Split by Gustav 2026-09-26 into Classic time
+  agencies (pulp era to early 1990s) and Time agency revival (post-2010 literary wave).'
+status: umbrella
+ruling: Split into Classic/Revival era leaves under Gustav's 20:11 ruling ('Do it, they seem to split
+  that way so let's see how it will work out').

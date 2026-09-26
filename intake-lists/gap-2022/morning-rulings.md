@@ -222,3 +222,12 @@ Gustav: "Can you hide the currently empty S&S revival? Actually I think golden a
 - Pulp S&S: now a leaf holding Fafhrd and the Gray Mouser, The Black Company, The Tritonian Ring directly (3 cards). Def updated to name the pulp span and note the hidden sub-shelves.
 - verify_local: haskids check now skips status=hidden nodes.
 - Counts unchanged: 361 / 1,053 / 2,095.
+
+## 2026-09-26 20:11 - Time Travel Agency split: Classic/Revival era leaves (phonemsg-01M3FEMRMMS1GRBH716XZ87EGH)
+Gustav: "Do it, they seem to split that way so let's see how it will work out" (the Classic/Revival era split from the workshop)
+- time-travel-agency: leaf -> umbrella, keeps portrait 302. Owner test retained in def.
+- NEW LEAF classic-time-agencies (368): End of Eternity '55, Time Traders '58, Year of the Quiet Sun '70, No Enemy But Time '82, Oxford Time Travel '92.
+- NEW LEAF time-agency-revival (369): Ilium/Olympos '03, This Is How You Lose the Time War '19, Future of Another Timeline '19, Sea of Tranquility '22, Ministry of Time '24.
+- Revival def frames the axis as era/sensibility (the tree's one non-content axis) - his explicit call after the workshop named that fault.
+- Portraits 368 (retro 60s time-lab) + 369 (two-era city square, letters through the seam). Next free: 370.
+- Counts: 363 nodes / 1,053 cards / 2,095 books.
