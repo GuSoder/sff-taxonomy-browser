@@ -207,3 +207,11 @@ Gustav: "I'm gonna trust your judgment, can you implement putting those six in F
 - Far shores genre.yaml + index def strengthened with the ABOUT-NESS TEST: a book belongs only when it is ABOUT the far-shore setting; engine-themed books (war, rebellion, mystery, chosen one) stay in engine leaves.
 - Portraits: 363-katha, 364-griot, 365-fifth-sun, 366-silkpunk. Next free: 367.
 - Counts: 360 nodes / 1,053 cards / 2,095 books.
+
+## 2026-09-26 19:29 - Silkpunk promoted to East Asian umbrella, Genso leaf created (phonemsg-01M3FC7BMWEZXPYYFSCE1P2W9H)
+Gustav: "Go with that" (answering the served pick: Silkpunk umbrella, Chuanqi + Genso under it, rest untouched - phonemsg-01M3FC1FNCQQ36K735B4CS59ES)
+- Silkpunk: leaf -> umbrella under Far shores; keeps portrait 366; def notes reader-usage widening over Ken Liu's narrower coinage.
+- Chuanqi: parent far-shores-fantasy -> silkpunk (trunk unchanged: shenmo, xuanhuan, wuxia; xianxia banked).
+- NEW LEAF Genso 幻想 (silkpunk child): modern/re-imagined East Asian fantasy outside the classical Chinese lineages. Japanese publishing word for fantasy; Korean hwansang same hanja. Cards: The Sword of Kaigen, Green Bone Saga. Portrait 367-genso.webp.
+- Far shores children: [silkpunk, khayal, katha, griot, fifth-sun].
+- Counts: 361 nodes / 1,053 cards / 2,095 books. Next free portrait: 368.

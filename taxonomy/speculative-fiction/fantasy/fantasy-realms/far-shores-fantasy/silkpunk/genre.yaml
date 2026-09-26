@@ -1,9 +1,16 @@
 id: silkpunk
 label: Silkpunk
 parent: far-shores-fantasy
-children: []
+children:
+- chuanqi
+- genso
 image: 366-silkpunk.webp
-definition: 'Silkpunk, Ken Liu''s coinage that Western readers latched onto for East Asian-inspired fantasy: East Asian-tradition fantasy in invented worlds beyond the classical Chinese trunk housed in Chuanqi - diaspora port cities, island empires, clan codes, jade, ink and silk-and-bamboo machinery. About-ness test (Gustav 2026-09-26): the culture does the work. Created by Gustav''s 2026-09-26 16:31 ruling.'
-status: accepted
-ruling: "Created by Gustavs 16:31 ruling (trust my judgment, implement the six Far Shore placements, and strengthen the yaml with this test)."
+definition: 'Ken Liu''s coinage for the Dandelion Dynasty''s silk-and-bamboo technology aesthetic, widened
+  by reader usage to pan-East-Asian fantasy - umbrella for the East Asian heritage branch of Far shores.
+  Chuanqi holds the classical Chinese lineages; Genso holds modern and re-imagined East Asia. Named Silkpunk
+  by reader usage over Liu''s narrower definition (Gustav 2026-09-26). About-ness test: the culture does
+  the work.'
+status: umbrella
+ruling: Promoted to East Asian umbrella under Gustav's 19:29 ruling ('Go with that' on the Silkpunk-umbrella
+  model); leaf cards moved to new sibling leaf Genso.
 works: []

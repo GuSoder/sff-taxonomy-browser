@@ -3,7 +3,7 @@ title: Green Bone Saga
 authors:
 - Fonda Lee
 first_published: 2017
-canonical_genre: silkpunk
+canonical_genre: genso
 placement_status: accepted
 placement_rationale: >-
   SFE identifies the Green Bone Saga as a complex family fantasy, while Orbit describes jade as a magical substance that grants defined enhanced abilities, traditionally controlled by trained Green Bone warriors and later broadened through a drug. Its explicit resource, users, access rules and political consequences make Hard magic the closest leaf.
@@ -25,3 +25,5 @@ books:
 placement_history:
 - date: '2026-09-26'
   change: 'Moved to Far shores > silkpunk under Gustav''s 16:31 ruling (he said to trust my judgment, implement putting those six in Far Shore, and strengthen the yaml with this test) - culture-led per the about-ness test.'
+- date: '2026-09-26'
+  change: 'Silkpunk became the East Asian umbrella under Gustav''s 19:29 ruling (''Go with that'' on the Silkpunk-umbrella model); this card moved to the new sibling leaf Genso (modern/re-imagined East Asia).'
