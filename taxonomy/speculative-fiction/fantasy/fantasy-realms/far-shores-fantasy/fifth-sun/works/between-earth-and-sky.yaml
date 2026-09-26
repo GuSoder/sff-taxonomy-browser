@@ -14,4 +14,7 @@ cover:
   beauty: 8
   notes: Matched Picacio set, one search one pass. Ken Liu blurb quote on Black Sun - allowed under Gustav's 14:56 rule (quotes are tiebreaker only, not DQ).
 deep_link: https://gusoder.github.io/sff-taxonomy-browser/#political-fantasy/between-earth-and-sky
-canonical_genre: messianic-fantasy
+canonical_genre: fifth-sun
+placement_history:
+- date: '2026-09-26'
+  change: 'Moved to Far shores > fifth-sun under Gustav''s 16:31 ruling (he said to trust my judgment, implement putting those six in Far Shore, and strengthen the yaml with this test) - culture-led per the about-ness test.'

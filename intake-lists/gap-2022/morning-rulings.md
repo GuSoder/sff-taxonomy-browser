@@ -195,3 +195,15 @@ Portraits: 361-samizdat-fantasy (REUSED the judged example render per his recove
 
 ## 2026-09-26 13:19 - Native-script display under Far shores (phonemsg-01M3EQ1MYGRJ8YDW96W3AR9PQN, author=user)
 He ruled: every genre under Far shores with a genuine native written term displays it discretely at the end of the name, light transparent grey, smaller than the name text. Scope executed: Chuanqi 传奇, Shenmo 神魔, Wuxia 武侠, Xuanhuan 玄幻, Khayal خيال (RTL span). Far shores umbrella itself is his English coinage - no native. Mechanism is generic: `native` field in genre.yaml + node data; Xianxia 仙侠 inherits it when its node exists. Rendered on grid tiles and node page headers (static span after the animated leaf title).
+
+## 2026-09-26 16:31 - Six culture-led books to Far shores (phonemsg-01M3F2125VK668EW3SN7DWK2RM)
+Gustav: "I'm gonna trust your judgment, can you implement putting those six in Far Shore, and strengthen the yaml with this test"
+- The Daevabad Trilogy: renaissance-dynastic-intrigue -> khayal
+- The Saint of Bright Doors: messianic-fantasy -> NEW LEAF katha (कथा, South Asian)
+- The Dark Star Trilogy: sword-and-sorcery-revival -> NEW LEAF griot (West African); S&S Revival left EMPTY, def still cites Dark Star as its seed - flagged for his ruling
+- Between Earth and Sky: messianic-fantasy -> NEW LEAF fifth-sun (Indigenous American)
+- The Sword of Kaigen: held -> NEW LEAF silkpunk (East Asian, un-parked)
+- Green Bone Saga: hard-magic -> silkpunk
+- Far shores genre.yaml + index def strengthened with the ABOUT-NESS TEST: a book belongs only when it is ABOUT the far-shore setting; engine-themed books (war, rebellion, mystery, chosen one) stay in engine leaves.
+- Portraits: 363-katha, 364-griot, 365-fifth-sun, 366-silkpunk. Next free: 367.
+- Counts: 360 nodes / 1,053 cards / 2,095 books.

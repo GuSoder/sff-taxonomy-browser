@@ -4,7 +4,7 @@ authors:
 - S. A. Chakraborty
 first_published: 2017
 last_published: 2020
-canonical_genre: renaissance-dynastic-intrigue
+canonical_genre: khayal
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Renaissance dynastic intrigue. Harper Voyager defines a complete trilogy driven by Daevabad''s royal court, ruling family, succession, inherited legitimacy, murderous family politics, conquest and civil war. Magic and djinn mythology supply the world; the contest over the ruling house and who may govern Daevabad is the shared engine.'
 classification_sources:
@@ -28,3 +28,6 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-21'
   review_method: one-pass coordinated trilogy review
+placement_history:
+- date: '2026-09-26'
+  change: 'Moved to Far shores > khayal under Gustav''s 16:31 ruling (he said to trust my judgment, implement putting those six in Far Shore, and strengthen the yaml with this test) - culture-led per the about-ness test.'
