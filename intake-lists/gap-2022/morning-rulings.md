@@ -180,3 +180,8 @@ STILL AWAITING RULING: the Rebel fantasy split proposal (Memory war / The Rising
 Ruling (phonemsg-01M3E5TBJ8367MFXAGM9WABGX5, author=user, 08:18:09): "Ok, rename it to Overthrow fantasy"
 Context: he found Civil-revolution boring next to its siblings; his own offer, endorsed over Crownbreaker/Kingfall/Regicide. Thread: the enemy is your OWN ruler.
 Execution: label + slug renamed per convention; dir, image (213-overthrow-fantasy.webp), parent children, 4 cards' canonical_genre updated. Old anchor #civil-revolution-fantasy dies; new anchor #overthrow-fantasy.
+
+## 2026-09-26 08:21 - High fantasy does not exist; Poppy War re-homed
+His catch (phonemsg-01M3E602HS8GR5S68R84EWR14P, author=user, 08:21:17): "There is no high fantasy in the taxonomy"
+Verified true: node id high-fantasy was relabeled Quest fantasy (umbrella); old dir sits in taxonomy/_retired/. The Poppy War's "reclassified to High Fantasy" rationale was stale; the move never happened.
+Execution (existing-leaf placement, standing delegation): The Poppy War moved overthrow-fantasy -> military-fantasy after fresh walk (foreign war fails internal-rebellion def; armies/campaigns/ranks fit). Military fantasy now 4 (Malazan, Siege trilogy, Ascendant Trilogy, Poppy War); Overthrow fantasy drops to 3.

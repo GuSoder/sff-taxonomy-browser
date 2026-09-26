@@ -3,11 +3,10 @@ title: The Poppy War
 authors:
 - R. F. Kuang
 first_published: 2018
-canonical_genre: overthrow-fantasy
+canonical_genre: military-fantasy
 placement_status: accepted
-placement_rationale: A war orphan enters an elite military academy, discovers shamanic power and is pulled into a brutal empire-wide war; secondary-world
-  scale and existential conflict make epic fantasy the strongest current home. Reclassified in the EoF-aligned audit to High Fantasy as the deeper sourced
-  boundary.
+placement_rationale: 'Fresh walk 2026-09-26 after his catch (''There is no high fantasy in the taxonomy'', phonemsg-01M3E602HS8GR5S68R84EWR14P): the earlier ''reclassified to High Fantasy'' note was stale - the old high-fantasy node had been relabeled Quest fantasy and the move never happened. Against the real tree: civil-revolution fails by def (foreign war against Mugen, not internal rebellion); military fantasy fits - armies, campaigns, soldiers and war seen from the ranks: Sinegard academy, the Cike, the Mugen front. Shelfmates Malazan, Siege trilogy.'
+
 classification_sources:
 - https://www.harpercollins.com/products/the-poppy-war-r-f-kuang
 cover_curation:
@@ -37,3 +36,6 @@ books:
 - title: The Burning God
   year: 2020
   cover_url: https://covers.openlibrary.org/b/id/10329759-L.jpg
+placement_history:
+- date: '2026-09-26'
+  change: Moved from overthrow-fantasy to military-fantasy after the fresh walk; the 'High fantasy' note was stale (node relabeled Quest fantasy).
