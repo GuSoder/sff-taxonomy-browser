@@ -1,0 +1,12 @@
+id: space-western
+label: Space western
+parent: new-space-opera
+definition: 'New space opera in the western register: frontier lawlessness, gunslingers, smugglers and bounty hunters, rattletrap
+  ships and misfit crews making their living out past the law''s reach, in the Firefly tradition. Contrast Spaceship drama,
+  where the crew is a found family and care is the engine; here the frontier is the engine and the tone is pulp-adventure.
+  Named by Gustav Söderström on 2026-09-26 after Bluebird.'
+status: accepted
+image: 372-space-western.webp
+children: []
+works:
+- bluebird
