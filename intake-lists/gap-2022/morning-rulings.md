@@ -175,3 +175,8 @@ Ruling (phonemsg-01M3D6BN40R19Y8KGXB8P9898Y, author=user, 23:08:22): "Do 2"
 Context: his findability complaint (23:04) - 7-level chain to Rebel fantasy, no site search, truncating breadcrumb. Options offered: (1) site search + breadcrumb fix, (2) dissolve the Anti-colonial umbrella, (3) rename it Resistance fantasy. He picked 2.
 Execution: rebel-fantasy and insurgent-fantasy lifted directly under revolutionary-fantasy (now a 4-leaf branch: civil-revolution, messianic, rebel, insurgent). Resistance-mode test preserved in both leaf defs + history lines in all three genre.yamls. Umbrella portrait 212-anti-colonial-fantasy.webp kept in repo (reusable if a third resistance mode ever rebuilds the umbrella). Nodes 355 -> 354.
 STILL AWAITING RULING: the Rebel fantasy split proposal (Memory war / The Rising, 4/4, Phoenix Extravagant to Insurgent, Unconquered Country hanging).
+
+## 2026-09-26 08:18 - Rename Civil revolution fantasy -> Overthrow fantasy
+Ruling (phonemsg-01M3E5TBJ8367MFXAGM9WABGX5, author=user, 08:18:09): "Ok, rename it to Overthrow fantasy"
+Context: he found Civil-revolution boring next to its siblings; his own offer, endorsed over Crownbreaker/Kingfall/Regicide. Thread: the enemy is your OWN ruler.
+Execution: label + slug renamed per convention; dir, image (213-overthrow-fantasy.webp), parent children, 4 cards' canonical_genre updated. Old anchor #civil-revolution-fantasy dies; new anchor #overthrow-fantasy.
