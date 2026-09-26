@@ -3,7 +3,7 @@ title: Peace
 authors:
 - Gene Wolfe
 first_published: 1975
-canonical_genre: revenants
+canonical_genre: ghosts-and-grief
 placement_status: accepted
 placement_rationale: 'Wikipedia classifies Peace as a psychological fantasy / ghost story; the publisher copy calls it "an extraordinary combination of
   the mythic vision of fantasy and the thrilling, disquieting suspense of a mastercrafted ghost story." Alden Dennis Weer, an embittered old man, relives
@@ -31,3 +31,6 @@ cover_curation:
   selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
     book objects
   title_overlay: false
+placement_history:
+- date: '2026-09-26'
+  change: 'Revenants split into Ghosts & grief / Vengeful spirits under Gustav''s 20:20 ruling (''Execute'' on the Ghosts & grief / Vengeful spirits split as served); this card lands in ghosts-and-grief.'

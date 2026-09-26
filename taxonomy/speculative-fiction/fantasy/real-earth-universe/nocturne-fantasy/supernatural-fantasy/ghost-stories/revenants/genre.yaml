@@ -1,24 +1,20 @@
 id: revenants
 name: Revenants
 parent: ghost-stories
-status: active
+status: umbrella
 label_status: taxonomy-coinage
 label_note: 'Taxonomy coinage built on the established folklore term revenant: one who returns after death.'
-definition: Ghost stories in which a specific dead person returns or remains as a purposeful presence bound to the living through love, guilt, grief or memory. “Revenants”
-  is a taxonomy coinage built on the established folklore term revenant for one who returns after death.
+definition: Ghost stories in which a specific dead person returns or remains as a purposeful presence
+  bound to the living through love, guilt, grief or memory. "Revenants" is a taxonomy coinage built on
+  the established folklore term revenant for one who returns after death. Split by Gustav 2026-09-26 into
+  Ghosts & grief (love, guilt and memory) and Vengeful spirits (menace and justice).
 representative_cover: https://covers.openlibrary.org/b/isbn/0330027530-L.jpg
 portrait: 234-revenants.webp
 label: Revenants
-children: []
+children:
+- ghosts-and-grief
+- vengeful-spirits
 image: 234-revenants.webp
-works:
-- neither-the-sea-nor-the-sand
-- cold-heaven
-- melmoth
-- on-fragile-waves
-- peace
-- sisters
-- the-city-beautiful
-- the-influence
-- the-things-she-s-seen
-- annie-leblanc-is-not-dead-yet
+works: []
+ruling: Split into Ghosts & grief / Vengeful spirits under Gustav's 20:20 ruling ('Execute' on the split
+  as served, his names).

@@ -231,3 +231,13 @@ Gustav: "Do it, they seem to split that way so let's see how it will work out" (
 - Revival def frames the axis as era/sensibility (the tree's one non-content axis) - his explicit call after the workshop named that fault.
 - Portraits 368 (retro 60s time-lab) + 369 (two-era city square, letters through the seam). Next free: 370.
 - Counts: 363 nodes / 1,053 cards / 2,095 books.
+
+## 2026-09-26 20:20 - Revenants split: Ghosts & grief / Vengeful spirits (phonemsg-01M3FF56BTFZKVES2WJDWC5KE7) + def cleaning (phonemsg-01M3FF65PT16Q7ZVRHXKRV67PR) + chunk 3 un-parked (phonemsg-01M3FF6EXDKR8YJBTCYR7SC837)
+Gustav: "Execute" (Revenants split as served, his names) / "Then do the def cleaning" / "Then start the next batch"
+- revenants: leaf -> umbrella under Ghost stories, keeps portrait 234, def spine retained.
+- NEW LEAF ghosts-and-grief (370): Neither the Sea nor the Sand, On Fragile Waves, Peace, Annie LeBlanc Is Not Dead Yet, Cold Heaven, Melmoth, The Things She's Seen (7).
+- NEW LEAF vengeful-spirits (371): The Influence, The City Beautiful, Sisters (3).
+- Portraits 370 (shoreline almost-touch) + 371 (portrait-frame spectre). Next free: 372.
+- Def cleaning: rebel-fantasy "Anti-colonial fantasy of open revolt:" -> "Rebel fantasy of open revolt:"; insurgent-fantasy "Anti-colonial fantasy of subversion from within:" -> "Insurgent fantasy of subversion from within:"; political-fantasy + hard-magic openers "High fantasy" -> "Epic fantasy".
+- Both frozen workshops now resolved (Time Travel Agency + Revenants). Chunk 3 un-parked.
+- Counts: 365 nodes / 1,053 cards / 2,095 books.
