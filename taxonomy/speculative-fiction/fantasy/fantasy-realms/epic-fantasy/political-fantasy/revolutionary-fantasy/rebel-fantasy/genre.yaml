@@ -2,24 +2,17 @@ id: rebel-fantasy
 name: Rebel fantasy
 label: Rebel fantasy
 parent: revolutionary-fantasy
-children: []
-works:
-- tigana
-- phoenix-extravagant
-- shadow-players
-- the-unconquered-country
-- the-jasmine-throne
-- nameless-republic
-- books-of-ambha
-- city-of-last-chances
-- blackheart-man
-- blood-for-the-undying-throne
+children:
+- samizdat-fantasy
+- tinderbox-fantasy
+works: []
 image: 305-rebel-fantasy.webp
 portrait: 305-rebel-fantasy.webp
 definition: 'Anti-colonial fantasy of open revolt: colonized peoples take up arms, magic and banners against the occupying empire. Resistance-mode test: if the colonized
   fight the empire in open revolt, it is Rebel fantasy; if the story''s resistance works by subversion from within the imperial order (infiltration, conspiracy, turning),
-  it is Insurgent fantasy.'
+  it is Insurgent fantasy. Umbrella since 2026-09-26: split-with-umbrella into Samizdat fantasy and Tinderbox fantasy by resistance engine (Gustav ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1).'
 status: leaf
 history:
 - date: '2026-09-25'
   change: Anti-colonial fantasy umbrella dissolved (Gustav ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y); lifted directly under Revolutionary fantasy. The resistance-mode test stays in this def.
+ruling: 'Split-with-umbrella 2026-09-26 (phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1): two children by resistance engine - Samizdat fantasy (memory war: erased names, forbidden texts) and Tinderbox fantasy (open rising in the streets). Phoenix Extravagant moved to Insurgent fantasy (mode test re-applied); The Unconquered Country to the hanging list (no revolt engine).'

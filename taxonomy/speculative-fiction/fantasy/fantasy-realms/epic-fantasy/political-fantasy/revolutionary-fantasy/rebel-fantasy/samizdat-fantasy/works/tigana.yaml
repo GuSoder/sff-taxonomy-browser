@@ -3,7 +3,7 @@ title: Tigana
 authors:
 - Guy Gavriel Kay
 first_published: 1990
-canonical_genre: rebel-fantasy
+canonical_genre: samizdat-fantasy
 placement_status: accepted
 placement_rationale: Penguin Random House describes a magically cursed homeland struggling against a despotic conqueror, with rebels seeking to overthrow
   him and restore its erased name; tyranny, conquest and liberation drive the secondary-world fantasy.
@@ -15,6 +15,8 @@ cover_curation:
   shows_english_title: true
   review_method: one-pass
 placement_history:
+- date: '2026-09-26'
+  change: Moved to samizdat-fantasy in the rebel-fantasy split (Gustav ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1).
 - date: '2026-09-23'
   change: 'Anti-colonial fantasy split into Rebel fantasy / Insurgent fantasy (Gustav ruling 2026-09-23 11:09): moved to Rebel fantasy by the resistance-mode
     test. Walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Revolutionary fantasy -> Anti-colonial fantasy

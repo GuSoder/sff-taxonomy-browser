@@ -19,8 +19,10 @@ sources:
 - https://www.harpercollins.com/products/for-a-muse-of-fire-heidi-heilig
 - https://www.harpercollins.com/products/on-this-unworthy-scaffold-heidi-heilig
 - https://isfdb.stoecker.eu/cgi-bin/pe.cgi?50938=
-canonical_genre: rebel-fantasy
+canonical_genre: tinderbox-fantasy
 placement_history:
+- date: '2026-09-26'
+  change: Moved to tinderbox-fantasy in the rebel-fantasy split (Gustav ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1).
 - date: '2026-09-23'
   change: 'Anti-colonial fantasy split into Rebel fantasy / Insurgent fantasy (Gustav ruling 2026-09-23 11:09): moved to Rebel fantasy by the resistance-mode
     test. Walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Revolutionary fantasy -> Anti-colonial fantasy

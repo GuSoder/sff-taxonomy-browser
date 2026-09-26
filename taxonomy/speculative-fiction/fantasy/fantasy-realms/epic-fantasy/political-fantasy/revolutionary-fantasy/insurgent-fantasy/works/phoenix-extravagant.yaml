@@ -4,7 +4,7 @@ authors:
 year: 2020
 cover_url: https://covers.openlibrary.org/b/id/10169497-L.jpg
 shows_english_title: true
-canonical_genre: rebel-fantasy
+canonical_genre: insurgent-fantasy
 placement_status: accepted
 placement_note: An artist in occupied Hwaguk, colonized by the Razan empire and stripped of its magic pigments, is conscripted to paint for the occupier's
   dragon automata and joins the resistance; anti-colonial fantasy per core premise. Strange Horizons calls it Lee's first full-length fantasy, set in an
@@ -15,6 +15,8 @@ sources:
 - https://locusmag.com/review/liz-bourke-reviews-pheonix-extravagant-by-yoon-ha-lee/
 - https://reactormag.com/book-reviews-phoenix-extravagant-by-yoon-ha-lee/
 placement_history:
+- date: '2026-09-26'
+  change: "Moved to insurgent-fantasy - mode test re-applied in the rebel split audit (Gustav ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1): conscripted artist turns the occupier's own art-magic from within = subversion, not open revolt."
 - date: '2026-09-23'
   change: 'Anti-colonial fantasy split into Rebel fantasy / Insurgent fantasy (Gustav ruling 2026-09-23 11:09): moved to Rebel fantasy by the resistance-mode
     test. Walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Political fantasy -> Revolutionary fantasy -> Anti-colonial fantasy

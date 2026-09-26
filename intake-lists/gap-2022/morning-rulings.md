@@ -185,3 +185,10 @@ Execution: label + slug renamed per convention; dir, image (213-overthrow-fantas
 His catch (phonemsg-01M3E602HS8GR5S68R84EWR14P, author=user, 08:21:17): "There is no high fantasy in the taxonomy"
 Verified true: node id high-fantasy was relabeled Quest fantasy (umbrella); old dir sits in taxonomy/_retired/. The Poppy War's "reclassified to High Fantasy" rationale was stale; the move never happened.
 Execution (existing-leaf placement, standing delegation): The Poppy War moved overthrow-fantasy -> military-fantasy after fresh walk (foreign war fails internal-rebellion def; armies/campaigns/ranks fit). Military fantasy now 4 (Malazan, Siege trilogy, Ascendant Trilogy, Poppy War); Overthrow fantasy drops to 3.
+
+## 2026-09-26 09:01 - Rebel fantasy split (two-way, split-with-umbrella)
+Ruling (phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1, author=user, 09:01:11): "Yeah, they'll get the point, execute" - on the Samizdat example portrait.
+Naming thread (morning): he rejected Memory war/The Rising as not evocative; took Tinderbox (his pick from my list) and proposed Samizdat after the samizdat explanation; judged the example portrait sufficient for browsers without the glossary.
+Scope note: the split package was served 08:27 with "riding with the split unless you say otherwise: Phoenix Extravagant to Insurgent, Unconquered Country to the hanging list" (phonemsg-01M3E6BK2KW4599CV3S1VCRXCC); he never objected, so the execute covers the riding items.
+Layout: Rebel fantasy stays umbrella; Samizdat fantasy (4: Tigana, The Nameless Republic trilogy, The Books of Ambha, The Jasmine Throne) + Tinderbox fantasy (4: City of Last Chances, Blackheart Man, Blood for the Undying Throne, Shadow Players). Phoenix Extravagant -> insurgent-fantasy (mode test re-applied; Insurgent now 5). The Unconquered Country -> held list in progress.json (no revolt engine; no-slush-bucket bars a rump). Cards 1053 -> 1052 on site.
+Portraits: 361-samizdat-fantasy (REUSED the judged example render per his recover-a-liked-image rule), 362-tinderbox-fantasy (new). Next free: 363. Frozen leaves now 2 (Revenants, Time Travel Agency).
