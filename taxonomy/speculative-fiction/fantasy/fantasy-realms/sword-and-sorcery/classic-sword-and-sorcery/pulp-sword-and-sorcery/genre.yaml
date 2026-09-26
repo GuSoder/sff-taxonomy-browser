@@ -1,10 +1,15 @@
 id: pulp-sword-and-sorcery
 label: Pulp S&S
 parent: classic-sword-and-sorcery
-children:
-- golden-age-sword-and-sorcery
-- sword-and-sorcery-revival
+children: []
 image: pulp-sword-and-sorcery.webp
-definition: "Sword and Sorcery\u2019s pulp tradition and its modern revival, divided by historical wave."
+definition: Sword and Sorcery's pulp tradition, from the golden-age wave of Fafhrd and the Gray Mouser
+  through The Black Company. Golden Age and Revival sub-shelves hidden by Gustav 2026-09-26; Revival left
+  empty when Dark Star moved to Griot.
 status: provisional
-works: []
+works:
+- fafhrd-and-the-gray-mouser
+- the-black-company
+- the-tritonian-ring-and-other-pusadian-tales
+ruling: Golden Age + S&S Revival hidden and works pulled up under Gustav's 19:52 ruling ('Pulp S&S only
+  need to contain the works currently under Golden age').

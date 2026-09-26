@@ -215,3 +215,10 @@ Gustav: "Go with that" (answering the served pick: Silkpunk umbrella, Chuanqi + 
 - NEW LEAF Genso 幻想 (silkpunk child): modern/re-imagined East Asian fantasy outside the classical Chinese lineages. Japanese publishing word for fantasy; Korean hwansang same hanja. Cards: The Sword of Kaigen, Green Bone Saga. Portrait 367-genso.webp.
 - Far shores children: [silkpunk, khayal, katha, griot, fifth-sun].
 - Counts: 361 nodes / 1,053 cards / 2,095 books. Next free portrait: 368.
+
+## 2026-09-26 19:52 - S&S Revival + Golden Age hidden, works pulled up to Pulp S&S (phonemsg-01M3FDHMEBS89TVFNMWHXTD2QY)
+Gustav: "Can you hide the currently empty S&S revival? Actually I think golden age S&S can be hidden also and Pulp S&S only need to contain the works currently under Golden age."
+- golden-age-sword-and-sorcery + sword-and-sorcery-revival: status hidden (unlinked from Pulp's children; data intact, reversible).
+- Pulp S&S: now a leaf holding Fafhrd and the Gray Mouser, The Black Company, The Tritonian Ring directly (3 cards). Def updated to name the pulp span and note the hidden sub-shelves.
+- verify_local: haskids check now skips status=hidden nodes.
+- Counts unchanged: 361 / 1,053 / 2,095.

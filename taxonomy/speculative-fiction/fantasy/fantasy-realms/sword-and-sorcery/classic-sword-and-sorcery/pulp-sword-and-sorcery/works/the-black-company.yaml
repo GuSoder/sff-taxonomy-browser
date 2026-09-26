@@ -4,7 +4,7 @@ authors:
 - Glen Cook
 first_published: 1984
 last_published: 2000
-canonical_genre: golden-age-sword-and-sorcery
+canonical_genre: pulp-sword-and-sorcery
 placement_status: accepted
 included_titles:
 - The Black Company
@@ -46,3 +46,5 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/sword-and-sorcery/golden-age-sword-and-sorcery to match live tree; placement
     unchanged on site.'
   previous_canonical_genre: golden-age-sword-and-sorcery
+- date: '2026-09-26'
+  change: 'Golden Age S&S hidden by Gustav''s 19:52 ruling; card moved up to Pulp S&S, which now holds these works directly.'

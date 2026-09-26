@@ -34,7 +34,7 @@ for n in nodes:
     p=n.get('parent')
     assert p is None or p in byid, f'FAIL: dangling parent on {n["id"]}'
 KNOWN=set()  # none; last break (dynastic-intrigues) cleared 2026-09-23 12:20
-haskids={n.get('parent') for n in nodes}
+haskids={n.get('parent') for n in nodes if n.get('status')!='hidden'}
 bad=[n['id'] for n in nodes if n.get('works') and n['id'] in haskids]
 new=[b for b in bad if b not in KNOWN]
 assert not new, f'FAIL: cards on non-leaf nodes {new}'
