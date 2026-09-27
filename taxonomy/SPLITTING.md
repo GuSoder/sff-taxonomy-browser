@@ -1,6 +1,6 @@
 # How splits are done
 
-Living doc of the split method, recorded from Gustav's rulings on the project channel.
+Living doc of the split method, recorded from the curator's rulings on the project channel.
 Refine as the project goes. Rulings cited by message id.
 
 ## When a split triggers
@@ -13,7 +13,7 @@ Refine as the project goes. Rulings cited by message id.
   (phonemsg-01M3D5MS4PKWV7Y4XS9MEX8XNR).
 - **Don't wait for more data.** "Delaying the split to an 11th book arrive only gives us one
   more data point." (phonemsg-01M3FEEXQG3EBK5S4DDXKTPQ67)
-- Gustav can also call a split or an umbrella any time for browsability, freeze or not
+- the curator can also call a split or an umbrella any time for browsability, freeze or not
   (Escapist fantasy over Cozy + Romantasy, phonemsg-01M3HZGQ42BN5B26D374MHFJFQ).
 
 ## The default shape: split-with-umbrella
@@ -47,13 +47,20 @@ Let's call this the split-with-umbrella rule." (phonemsg-01M3C6GAD6M05JSV9RBTHDF
    didn't find the names evocative" (phonemsg-01M3E6A747NSQ6FDQT90N5NFHZ). Prefer established
    terms ("Silkpunk... is a very punchy and established term so I want to keep it",
    phonemsg-01M3FBXAHJTKQ7S907H5R1CTK5), the era's own names (Great War, Blitz), and the
-   culture's own romanized word (the Far Shore rule). Gustav's ear is the tiebreaker.
+   culture's own romanized word (the Far Shore rule). the curator's ear is the tiebreaker.
 4. **New leaves get a def and a portrait at creation.** Portrait: 2:3, no text, unmistakably
    original art.
 5. **Every card is re-walked root-down into its new leaf.** The walk is recorded in the
    card's works yaml placement history.
-6. **Gustav rules on the evidence before execution.** The serve is the cluster, the axis,
+6. **the curator rules on the evidence before execution.** The serve is the cluster, the axis,
    the names and the per-card mapping. Execute only on his word.
+
+## Standing rule: curator anonymity
+
+The curator's name never appears in public artifacts - site data, tree yamls, docs,
+commit messages. Rulings are attributed to "the curator" with message ids.
+(Ruling 2026-09-27, phonemsg-01M3J6KH21XA86S6D6EGRFE2NS - the curator's name
+removed from any public facing things.)
 
 ## Precedent log
 

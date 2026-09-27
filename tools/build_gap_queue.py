@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the 2022+ gap intake queue (Gustav 2026-09-23 "set up that sweep").
+"""Build the 2022+ gap intake queue (the curator 2026-09-23 "set up that sweep").
 Sources (cached raw HTML in intake-lists/gap-2022/sources/, refetch with --fetch):
   sfadb.com award pages, novel categories, winners + shortlists:
     Hugo (Novel), Nebula (Novel), Arthur C. Clarke (Winner + Shortlist),

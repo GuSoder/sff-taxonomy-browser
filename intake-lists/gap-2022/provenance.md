@@ -1,6 +1,6 @@
 # Gap intake 2022+ (queue built 2026-09-23)
 
-Gustav 2026-09-23 19:02 via parent: "Ok, then I want you to set up that sweep" - fill the post-2021 coverage gap shown by tools/year_sweep.py.
+the curator 2026-09-23 19:02 via parent: "Ok, then I want you to set up that sweep" - fill the post-2021 coverage gap shown by tools/year_sweep.py.
 
 - Builder: `python3 tools/build_gap_queue.py` (add `--fetch` to refresh cached pages in sources/). Deterministic.
 - Sources: sfadb.com award pages 2022-2026, novel categories, winners and shortlists: Hugo, Nebula, Arthur C. Clarke, World Fantasy, Locus Awards (SF novel + fantasy novel), BSFA. Plus locusmag.com Recommended Reading 2022-2025, novel sections (SF, Fantasy, Horror, YA, First; 2025 adds Translated), the same sections the first intake used.

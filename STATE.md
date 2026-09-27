@@ -3,7 +3,7 @@
 - 150 Beloved (Morrison 1987) -> ghost-story (6 works). Knopf 1987 first jacket 9780394535975. No SFE/EoF entry - content-grounded haunting call, vetoable. yaml 139ZdNilCfhytcbetYjtXt4Ci5fVhnkLZ (ghost-story works 1n6uuqVgo59fSh3_JBOutYzGOPGMzk82d).
 - 151 Black Easter (Blish) -> dark-fantasy (3 works), 2-book card w/ The Day After Judgment. Penguin 1972 9780140034165 + Penguin 1975 id 9396106 (id-form resolves fine). yaml 1wMUvNhzNJ7AQ5MRcfhxjC6xfuIurgamB (dark-fantasy works 1OCABc_9OpE84FHMJkuni-4dIS1VuXfSB).
 - Commit d016451 pushed, 84 nodes/261 works, gate OK, deployed verified, both deep links pixel-verified.
-- STALE DUP on Drive: dark-fantasy folder 1xdDB1T5nwVFvVxy_4tUNIta6YMbpraoC under 1cYnxNT39GiqhaUMG28UskIgBx59aq1u3 (only banner+portrait, no works; live = 1w0-a6zOqY86AuP9Pt7zcneozwnTWf0vm). Gustav's call to trash.
+- STALE DUP on Drive: dark-fantasy folder 1xdDB1T5nwVFvVxy_4tUNIta6YMbpraoC under 1cYnxNT39GiqhaUMG28UskIgBx59aq1u3 (only banner+portrait, no works; live = 1w0-a6zOqY86AuP9Pt7zcneozwnTWf0vm). the curator's call to trash.
 - Next wake: intake 152 (Black Leopard, Red Wolf) + 153; Wheel of Time 15-book single-pass (next audit target).
 
 ## 16:36 - intake 152-153 wired
@@ -39,15 +39,15 @@
 ## 17:52 - intake 156-157 + preload feature
 - 156 Conan -> sword-and-sorcery (7 works), 12-book Lancer/Ace card, Frazetta covers. Card cover = Conan 1967 (6614295). yaml 1HBhGbXNsn43mbJiH5-DBeTUt63x9beel.
 - 157 Crash (Ballard 1973) -> soft-science-fiction (4 works). US pb painted cover id 6484321. yaml 1YGH72rIkGU_zciyy5oPwVB7StpmeDI1n.
-- FEATURE (Gustav 17:47 directive): renderFic now preloads all book covers (M+L) + edition covers on fiction entry; verified: Conan fiction -> Conan of Aquilonia hero painted ~instantly. Commit ab1c69e.
+- FEATURE (the curator 17:47 directive): renderFic now preloads all book covers (M+L) + edition covers on fiction entry; verified: Conan fiction -> Conan of Aquilonia hero painted ~instantly. Commit ab1c69e.
 - Commits: 7cd46c6 (156-157), ab1c69e (preload). 84 nodes/267 works.
 - Next: 158-159; Pern or Vampire Chronicles 13-book pass.
 
-## 18:09 — intake 158-159 + preload fix (Gustav bug report)
-- Gustav report (via parent 18:00): tapped into Road to Oz, back, whole Oz fiction reloaded on iPhone.
+## 18:09 — intake 158-159 + preload fix (the curator bug report)
+- the curator report (via parent 18:00): tapped into Road to Oz, back, whole Oz fiction reloaded on iPhone.
 - ROOT CAUSE: my preload created unreferenced `new Image()` objects -> iOS Safari GCs them (memory cache eviction); desktop Chrome keeps them, which is why my 17:53 verification passed. Compounding: archive.org /services/img serves Cache-Control max-age=300, so HTTP cache expires in 5 min; OL is long-lived. Net: on iOS, Oz's 6 archive.org covers (and any stale OL) refetched on back nav.
 - FIX (commit 4feddf8): persistent `ficPreload=[]` store; renderFic clears it and pushes every preloaded Image (books M+L, editions M); render(id) (leaf/home = leaving the fiction) clears it. References held exactly for the fiction's lifetime per the 17:47 directive.
-- Verified deployed: instrumented run (performance resource timing, transferSize>0) — Oz fiction open -> Road to Oz book -> back = ZERO network transfers for any cover host. Screenshot saved. Caveat reported to parent: cloud browser is desktop Chrome; asked Gustav to retest on iPhone.
+- Verified deployed: instrumented run (performance resource timing, transferSize>0) — Oz fiction open -> Road to Oz book -> back = ZERO network transfers for any cover host. Screenshot saved. Caveat reported to parent: cloud browser is desktop Chrome; asked the curator to retest on iPhone.
 - 158 Darker Than You Think (Williamson 1948) -> supernatural-fiction (9). Cover: Fantasy Press 1948 first via archive.org /download/.../page/cover.jpg (872x1317). YAML 1PgRdRk56JRRngzANVl_i6Fq2WJAFN4TL.
 - 159 Davy (Pangborn 1964) -> post-apocalyptic-fiction (9). Cover: St Martin's 1964 first (Finegold stained glass), OL id 929120. YAML 1PQWJ_W23CcLK2-_rnUPsJDN3pfztd4Fs.
 - Commits: 2249158 (books), 4feddf8 (preload fix). 84 nodes/269 works. progress.json next=160, added=128.
@@ -63,16 +63,16 @@
 - Next wake: intake 162-163 + Pern or Vampire Chronicles 13-book single-pass (deferred this wake - preload fix + new-leaf work consumed the cycle).
 
 ## 18:38 — preload fix v2 (iOS still failed) + Pern 13/13 + wake prompt fixed
-- Gustav retest (18:31): Oz STILL reloaded after back on iPhone despite ficPreload retention. Root cause deeper than Image-object GC: iOS Safari also discards DECODED bitmaps for off-DOM/evicted images and every back-nav rebuilt the grid with fresh <img> nodes (opacity:0 until 'ld' load event) — re-render itself is the flash. Fix that survives this: keep the DOM.
+- the curator retest (18:31): Oz STILL reloaded after back on iPhone despite ficPreload retention. Root cause deeper than Image-object GC: iOS Safari also discards DECODED bitmaps for off-DOM/evicted images and every back-nav rebuilt the grid with fresh <img> nodes (opacity:0 until 'ld' load event) — re-render itself is the flash. Fix that survives this: keep the DOM.
 - FIX v2 (commit 85ec19b): ficShelf. renderBook moves the fiction grid's live child nodes into a referenced off-DOM div before overwriting content; back.onclick reattaches the SAME nodes (listeners, loaded imgs, 'ld' classes, edition-dress state intact) and restores title/crumb/count/hint/hero/scroll/hash — no re-render, no new img elements, no fade, no refetch. renderFic/render() null the shelf (fresh entry / leaving the fiction). Fallback to full renderFic if no shelf.
-- Verified deployed: Oz open -> Road to Oz -> back = 0 network transfers, 14/14 cards restored already-complete with ld, no refade. Deep-link boot to the-road-to-oz then back also restores the 14-card grid. Caveat: still desktop Chrome; iOS reasoning — no re-render happens at all, so eviction can't bite: nothing is re-requested or re-decoded. Gustav to retest.
+- Verified deployed: Oz open -> Road to Oz -> back = 0 network transfers, 14/14 cards restored already-complete with ld, no refade. Deep-link boot to the-road-to-oz then back also restores the 14-card grid. Caveat: still desktop Chrome; iOS reasoning — no re-render happens at all, so eviction can't bite: nothing is re-requested or re-decoded. the curator to retest.
 - Wake prompt updated per parent: points at /home/sandbox/STATE.md, stale Gormenghast/Triffids backlog text dropped.
 - PERN 13/13 (commit 794fae6): painted picks — Dragonflight id 10306696, Dragonquest id 12077053, White Dragon id 207388 (Whelan), Dragondrums id 11882293, Moreta id 206957, Nerilka id 5921330 (Herder), Dragonsdawn isbn 9780345362551, Renegades archive.org renegadesofpern0000anne (1990 UK painted, OL only had audio/placeholder), All the Weyrs id 5921258, First Fall id 366221, Dolphins id 538388, Masterharper id 208173, Skies isbn 9780345434685. Card cover unchanged (9289913 Ballantine red Dragonflight, title visible). All 12 OL -M variants warmed 200. Pixel-verified card page.
 - Audit done: OD 18, Dresden 17, Elderlings 16, Vorkosigan 16, WoT 15, Oz 14, Pern 13. Next: Vampire Chronicles 13, Barsoom 11, Culture 10.
 - Next wake: intake 162-163 + Vampire Chronicles single-pass.
 
 ## 19:12 CEST — Technofantasy leaf + swipe feature, both shipped & verified live
-- Technofantasy leaf (6686aa2): under Fantasy > Fantasy Realms (SFE theme "technofantasy" = EoF-coined). Moved from science-fantasy: The Locked Tomb, A Voyage to Arcturus, The Little Prince (my call: fable magic = actual magic, vetoable). Kept in science-fantasy: Barsoom, Pern, Lord of Light, Riverworld (tech-dressed-as-magic), The Time Quintet (my call: tesseract science spine despite Mrs W's, vetoable). No image yet — TWO portrait variants generated, awaiting Gustav's pick.
+- Technofantasy leaf (6686aa2): under Fantasy > Fantasy Realms (SFE theme "technofantasy" = EoF-coined). Moved from science-fantasy: The Locked Tomb, A Voyage to Arcturus, The Little Prince (my call: fable magic = actual magic, vetoable). Kept in science-fantasy: Barsoom, Pern, Lord of Light, Riverworld (tech-dressed-as-magic), The Time Quintet (my call: tesseract science spine despite Mrs W's, vetoable). No image yet — TWO portrait variants generated, awaiting the curator's pick.
 - Swipe feature (e499ade): horizontal swipe on book pages moves prev/next within the fiction; shelf preserved via fromGrid guard in renderBook.
 - Deployed verification (browser, fresh ?v=): Oz book page — Road to Oz →L Emerald City →L Patchwork Girl →R Emerald City →R Road to Oz; back → grid 14/14 cards, 14/14 imgs complete (shelf intact after swipes). #technofantasy renders with 3 fictions (screenshot 171225), Locked Tomb page shows new breadcrumb Speculative fiction › Fantasy › Fantasy Realms › Technofantasy (171234).
 - Next: parent report w/ portraits A/B; then wake work = intake 162-163 + Vampire Chronicles cover pass (13 books).
@@ -91,18 +91,18 @@
 - Next wake: intake 164-165 + Barsoom pass.
 
 ## 20:00 CEST — social-dystopia split + portrait A + Gulliver/fantastic-voyage
-- Split (63ec8bc, Gustav-approved): social-dystopia renamed "Social dystopian future" (id unchanged, portrait kept, 6 works); new leaf social-dystopia-modern "Social dystopia" under modern-day with Lord of the Flies, The Power, Naked Lunch, Atlas Shrugged (4 works). Verified live both pages.
+- Split (63ec8bc, the curator-approved): social-dystopia renamed "Social dystopian future" (id unchanged, portrait kept, 6 works); new leaf social-dystopia-modern "Social dystopia" under modern-day with Lord of the Flies, The Power, Naked Lunch, Atlas Shrugged (4 works). Verified live both pages.
 - Portrait A wired (9db9e95): 91-social-dystopia-modern.webp, pixel-verified on leaf.
-- 164 Gulliver's Travels (dd70526): NEW LEAF fantastic-voyage under SF > Historical (7 children now). SFE fantastic_voyages names Gulliver (1726) as important Proto SF fantastic voyage; no magic -> SF side. Cover: Puffin Classics 1997 flat scan via archive.org gulliverstravels00jona_0 (2476x3840, giant + Lilliputian scaffolding scene). Drive: leaf folder 1JmeUUIgI6UcfLYwcPzshGA1htpm2GEwH, works 1ou2OuKj4mEzpjTGHL3fn_Wje0YiQNv_X, yaml 1K1gq5aX_cv--99DGWNChlqoaLBuBKD2r. Leaf imageless until Gustav picks portrait (A = giant bound on beach at dusk; B = Laputa flying island over coast).
+- 164 Gulliver's Travels (dd70526): NEW LEAF fantastic-voyage under SF > Historical (7 children now). SFE fantastic_voyages names Gulliver (1726) as important Proto SF fantastic voyage; no magic -> SF side. Cover: Puffin Classics 1997 flat scan via archive.org gulliverstravels00jona_0 (2476x3840, giant + Lilliputian scaffolding scene). Drive: leaf folder 1JmeUUIgI6UcfLYwcPzshGA1htpm2GEwH, works 1ou2OuKj4mEzpjTGHL3fn_Wje0YiQNv_X, yaml 1K1gq5aX_cv--99DGWNChlqoaLBuBKD2r. Leaf imageless until the curator picks portrait (A = giant bound on beach at dusk; B = Laputa flying island over coast).
 - 165 Deathly Hallows = duplicate (Harry Potter card, contemporary-fantasy, 7 books). progress next=166, added=133.
-- NOTE: duplicate 'historical' Drive folders exist (10QxaUcGEt2wUxnQNj_Pgeof4cp6IPT6F used/recorded vs 18AVW1W4VHlu5C3vyuZnCjtcJ2HLoAD6p) - flag for Gustav's trash call.
+- NOTE: duplicate 'historical' Drive folders exist (10QxaUcGEt2wUxnQNj_Pgeof4cp6IPT6F used/recorded vs 18AVW1W4VHlu5C3vyuZnCjtcJ2HLoAD6p) - flag for the curator's trash call.
 - Next wake: intake 166-167 + Barsoom 11-book pass.
 
 ## 20:04 CEST — Barsoom pass deferred to next wake
 - Barsoom card (science-fantasy): 11 books, ALL missing per-book covers; card cover = OL 11481174 (Princess).
 - First OL sweep weak: no work-key hits for A Princess of Mars / Warlord / Chessmen / John Carter via title-prefix search; thin translated/self-pub candidates elsewhere. /tmp/bars/bars_cands.json + /tmp/bars/img hold the 20 downloads.
-- NEXT-WAKE STRATEGY: skip OL search; go straight to archive.org advancedsearch per title + known painted editions: Ace 1960s (Frazetta/Krenkel art), Doubleday 1970-71 set (Frazetta), Del Rey 1979+ (Whelan). ISFDB title pages list editions+covers if needed. Single pass per Gustav.
-- Pending portrait picks with Gustav: social-dystopia-modern DONE (A wired 9db9e95). fantastic-voyage A/B sent 20:02, awaiting pick (leaf imageless until then).
+- NEXT-WAKE STRATEGY: skip OL search; go straight to archive.org advancedsearch per title + known painted editions: Ace 1960s (Frazetta/Krenkel art), Doubleday 1970-71 set (Frazetta), Del Rey 1979+ (Whelan). ISFDB title pages list editions+covers if needed. Single pass per the curator.
+- Pending portrait picks with the curator: social-dystopia-modern DONE (A wired 9db9e95). fantastic-voyage A/B sent 20:02, awaiting pick (leaf imageless until then).
 - Next wake: intake 166-167 + Barsoom pass (strategy above).
 
 ## 20:22 — Fantastic-voyage portrait B + Barsoom 11/11
@@ -114,12 +114,12 @@
 - Intake resumes at candidates 168-169 next wake (progress.json next=168).
 
 ## 20:43 CEST — Supernatural fiction four-way split shipped, portraits awaiting picks
-- Gustav-approved structure (aac43a3): Supernatural fiction now has four stable child leaves, all imageless until portrait picks: ancient-tormentors (4: It, Darker Than You Think, Master and Margarita, Rosemary's Baby), evil-deals (2: Melmoth, Dorian Gray), surreal-afterlife (2: Third Policeman, Out of Body), fungal-horror stable ID renamed/displayed as Eldritch Fungi (1: Mexican Gothic).
+- the curator-approved structure (aac43a3): Supernatural fiction now has four stable child leaves, all imageless until portrait picks: ancient-tormentors (4: It, Darker Than You Think, Master and Margarita, Rosemary's Baby), evil-deals (2: Melmoth, Dorian Gray), surreal-afterlife (2: Third Policeman, Out of Body), fungal-horror stable ID renamed/displayed as Eldritch Fungi (1: Mexican Gothic).
 - Gate OK (92 nodes/274 works); committed-blob assertions and deployed-HTML parse passed.
 - Generated TWO 2:3 oil-style portrait variants per new leaf, visually inspected all eight. Sheets ready: /downloads/ancient-tormentors-sheet.jpg, evil-deals-sheet.jpg, surreal-afterlife-sheet.jpg, eldritch-fungi-sheet.jpg. Parent report/picks next. No portraits wired yet.
 
 ## 20:59 CEST — four approved Supernatural portraits live
-- Gustav approved recommendations: Ancient Tormentors A, Evil Deals A, Surreal Afterlife B, Eldritch Fungi A.
+- the curator approved recommendations: Ancient Tormentors A, Evil Deals A, Surreal Afterlife B, Eldritch Fungi A.
 - Wired 93-ancient-tormentors.webp, 94-evil-deals.webp, 95-surreal-afterlife.webp, 96-eldritch-fungi.webp at 640x960 straight resize; commit 81d0165. Gate OK, committed-blob assertion and deployed-HTML parse passed; all four live leaf pages pixel-verified.
 - Full-res portrait.png archived in new Drive leaf folders under supernatural-and-dark-fiction: ancient-tormentors 1uBZBF8NAWMe5Iv8O3gFEJoIBBHhDO3Ll (portrait 1VqxNfl_EZQtLDlfxj-fhMg-1h8GVc_Ac); evil-deals 1ZAwbfXjc74R_Hlev3VHO7CtKCpV9aRgj (portrait 1ZHLzDIi8SRueRe39bE0pf6Go5L505zCc); surreal-afterlife 1_JwtIqe0yVTbGi6ojBGRNCJ0Z2KCz2B7 (portrait 13Dn-FGLNzoxphxopiJbYahiID0BXemAy); fungal-horror 1D4l0bhaUF8xhP-5atgDjNLAPRYg2cg3q (portrait 1L_fvH3XCBymSVf7q0yvwsEdD3CbvppYa). Each has works/; new_folders.json updated.
 - Next scheduled work unchanged: candidates 168-169 are Harry Potter duplicates; mark skipped, then Culture 10 cover audit.
@@ -130,20 +130,20 @@
 - 33b05db deployed HTML confirmed 10/10; Culture fiction grid and Use of Weapons detail page pixel-verified. Parent report sent with screenshots.
 
 ## 21:43 CEST — Urban fantasy four-way split + branch rename
-- Gustav-approved split shipped (commit recorded in git): Urban fantasy is now a pure imageless parent with stable child IDs: fae-founders (3: War for the Oaks, October Daye, Dresden Files), paranormal-bricks (3: Neverwhere, Great Cities, Man Who Was Thursday), publicly-paranormal (1: Simon Canderous), modern-goth (2: Conjure Wife, Our Lady of Darkness). Four A/B portrait sheets generated and visually inspected, pending Gustav picks; no child portrait wired.
+- the curator-approved split shipped (commit recorded in git): Urban fantasy is now a pure imageless parent with stable child IDs: fae-founders (3: War for the Oaks, October Daye, Dresden Files), paranormal-bricks (3: Neverwhere, Great Cities, Man Who Was Thursday), publicly-paranormal (1: Simon Canderous), modern-goth (2: Conjure Wife, Our Lady of Darkness). Four A/B portrait sheets generated and visually inspected, pending the curator picks; no child portrait wired.
 - Renamed label Supernatural and dark fiction -> Supernatural dark; stable id supernatural-and-dark-fiction unchanged.
 - Gate, committed blob, and deployed HTML passed.
 
 ## 21:54 CEST — three Urban portraits approved/wired; Paranormal Bricks v2 pending
-- Gustav approved Fae Founders A, Publicly Paranormal A, Modern Goth B. Wired as 97/98/99 webp, commit d36f139; committed blob + deployed HTML passed. New Drive folders under urban-fantasy with works/; approved portrait.png files uploaded. Paranormal Bricks folder created but deliberately imageless.
-- Regenerated two Paranormal Bricks options to Gustav's exact brief: close paranormal brick on wall corner + upside-down city background. v2 sheet /downloads/paranormal-bricks-v2-sheet.jpg. My lean A: reads as a paranormal brick at thumbnail scale; B is subtler/more beautiful but the human face risks looking like a screen. Await pick.
+- the curator approved Fae Founders A, Publicly Paranormal A, Modern Goth B. Wired as 97/98/99 webp, commit d36f139; committed blob + deployed HTML passed. New Drive folders under urban-fantasy with works/; approved portrait.png files uploaded. Paranormal Bricks folder created but deliberately imageless.
+- Regenerated two Paranormal Bricks options to the curator's exact brief: close paranormal brick on wall corner + upside-down city background. v2 sheet /downloads/paranormal-bricks-v2-sheet.jpg. My lean A: reads as a paranormal brick at thumbnail scale; B is subtler/more beautiful but the human face risks looking like a screen. Await pick.
 - Paranormal Bricks v2 A approved and wired as 100-paranormal-bricks.webp, commit 0606532; deployed and pixel-verified. Full-res Drive portrait.png 1T_FgcgWqmZaGJKpwz3cwaWwXgWUHnqu2.
 
 ## 22:18 CEST — intake 170-171
-- 170 Have Space Suit -- Will Travel -> NEW leaf juvenile-science-fiction under futurist (10th child, at cap), commit ff46670. SFE Heinlein calls it among "the very best juvenile sf ever written" and the Scribner juveniles the most important single contribution to Children's SF; SFE YA distinguishes pre-1960s Juvenile SF. Cover OL 15243049: yellow Scribner/Emsh-style astronaut, flat English. Drive folder 1xPdPtw1ZRr8z8BqegMX6oMe34DtIN2Y2, works 1yD1j6sPS_cYEJ-IPwfTMs7i5Krhe-mOo, yaml 1KsiltFfD6pCFh4OrJPytkUssnpOROh5T. Leaf imageless; two portrait variants generated, sheet /downloads/juvenile-sf-sheet.jpg pending Gustav pick. Lean A (young traveler on moon); B is cheerful but busy/retro-domestic.
+- 170 Have Space Suit -- Will Travel -> NEW leaf juvenile-science-fiction under futurist (10th child, at cap), commit ff46670. SFE Heinlein calls it among "the very best juvenile sf ever written" and the Scribner juveniles the most important single contribution to Children's SF; SFE YA distinguishes pre-1960s Juvenile SF. Cover OL 15243049: yellow Scribner/Emsh-style astronaut, flat English. Drive folder 1xPdPtw1ZRr8z8BqegMX6oMe34DtIN2Y2, works 1yD1j6sPS_cYEJ-IPwfTMs7i5Krhe-mOo, yaml 1KsiltFfD6pCFh4OrJPytkUssnpOROh5T. Leaf imageless; two portrait variants generated, sheet /downloads/juvenile-sf-sheet.jpg pending the curator pick. Lean A (young traveler on moon); B is cheerful but busy/retro-domestic.
 - 171 Hawksmoor -> paranormal-bricks (now 4 works), same commit. SFE Ackroyd calls his fiction Urban Fantasy treating London as inherently supernatural/living; Hawksmoor binds its chthonic historical topography to modern murders through fabulated correspondences. Cover OL 10195872: richly illustrated Penguin collage (clocks/church/occult London). yaml 1LjhRAkM8SccO3x15U-LtBt4AQIrCIFrd. Both deployed and pixel-verified.
 - progress next=172, processed=172, added=135.
-- Standing portrait rule changed by Gustav 22:21: stop A/B selection round-trip. Generate/select best portrait myself, wire and ship immediately; Gustav will request regeneration after seeing it in the live taxonomy. Applied retroactively: Juvenile SF A wired as 101-juvenile-science-fiction.webp, commit 03915b6, deployed/pixel-verified; full-res Drive portrait.png uploaded.
+- Standing portrait rule changed by the curator 22:21: stop A/B selection round-trip. Generate/select best portrait myself, wire and ship immediately; the curator will request regeneration after seeing it in the live taxonomy. Applied retroactively: Juvenile SF A wired as 101-juvenile-science-fiction.webp, commit 03915b6, deployed/pixel-verified; full-res Drive portrait.png uploaded.
 
 ## 22:47 CEST — intake 172-173
 - 172 Herland -> utopian-fiction (6 works), 1979 Pantheon botanical/figural flat archive scan herland0000gilm. SFE calls it a book-length feminist Utopia depicting a 2,000-year isolated parthenogenetic society. yaml uploaded (16cA5OG6PmF1NR2F8g-JMv6VUHS9Gv9wW).
@@ -186,7 +186,7 @@
 - Final commit 69165af deployed; local gate 106 nodes/289 works, refs consistent. Deployed HTML and both deep links pixel-verified. progress next=186 processed=186 added=148.
 
 ## 02:54 CEST — intake 186-187
-- 186 Night Watch skipped into the existing Discworld/comic-fantasy boundary backlog. SFE calls Discworld comic Fantasy and lists Night Watch in the series; placing the individual volume elsewhere would violate the one-series-one-card model. Comic-fantasy remains blocked on Gustav's fantasy umbrella decision.
+- 186 Night Watch skipped into the existing Discworld/comic-fantasy boundary backlog. SFE calls Discworld comic Fantasy and lists Night Watch in the series; placing the individual volume elsewhere would violate the one-series-one-card model. Comic-fantasy remains blocked on the curator's fantasy umbrella decision.
 - 187 Non-Stop -> NEW leaf generation-starships under Futurist, which becomes its 10th child (at cap, not over). SFE Generation Starships calls Non-Stop a very successful reworking of the crew-forgets-the-ship pattern: surviving generations mistake their multigenerational spacecraft for the world until a conceptual breakthrough. OL 6544849: vivid blue painted jungle/ship interior, flat English cover. New self-selected portrait: tribal travelers discover their lush world lies inside a colossal ship. Drive folder 1BgSg-VVeu2ziMFvUJ-AXL1ajtLQ2_vtV; works 1mLiIFPdmt7p0wHespxSWJebg318pBlJY; portrait 1Yqe67WmhRGfCWad4d6qNUErKxWsVLL_k; YAML 1n0J5tX-P5yfnrQk595ydt6XXTeTFOWLz.
 - Commit 904f77f deployed; local gate 107 nodes/290 works, refs consistent. Deployed leaf and Non-Stop deep link pixel-verified. progress next=188 processed=188 added=149.
 
@@ -214,27 +214,27 @@
 - 194 Red Shift -> NEW leaf timeslips under time-travel-fiction (now 7 children). SFE says its time shift moves among Roman Britain, the Civil War and now through alter egos focused on a Neolithic axe-head; no built mechanism. OL 241: moody Mow Top silhouette/starburst, flat English. Self-selected portrait layers Roman, Civil War and modern figures around glowing axe/time fractures. Drive leaf 1RApa1MncQ9Q_NKOAVWLnBch-uaVZBLiR; works 18PkEsjD2mTIjems-0SC1wJVhKSbtWSfl; portrait 18v5E91RjXu8OWZQ6_cGcpD51-5rRcxCM; YAML 1VZTFtGS62TatAz4N2nZ812CLmip9e3CE.
 - 195 Riddley Walker -> post-apocalyptic-fiction, now exactly 10. SFE calls it a genuine Ruined Earth tale 2,000 years after the Holocaust as gunpowder is rediscovered. OL 8435360: SF Masterworks painted ruined-landscape/punch-figure cover. YAML 1zym_pDDPoTPt-bWqDtjpEeVQDXhh0sHo.
 - Commit a986e74 deployed; gate 108 nodes/297 works, refs consistent. Both deep links pixel-verified. progress next=196 processed=196 added=156.
-- SPLIT PROPOSAL (not executed): SFE explicitly distinguishes Post-Holocaust from Ruined Earth when enough time has passed. Make post-apocalyptic-fiction a pure umbrella with stable leaf IDs where possible: Post-Holocaust Survival (6: Earth Abides, I Am Legend, Lost Everything, The Road, Station Eleven, These Prisoning Hills) and Ruined Earth (4: A Canticle for Leibowitz, Silo, Davy, Riddley Walker). Needs Gustav approval before structural change.
+- SPLIT PROPOSAL (not executed): SFE explicitly distinguishes Post-Holocaust from Ruined Earth when enough time has passed. Make post-apocalyptic-fiction a pure umbrella with stable leaf IDs where possible: Post-Holocaust Survival (6: Earth Abides, I Am Legend, Lost Everything, The Road, Station Eleven, These Prisoning Hills) and Ruined Earth (4: A Canticle for Leibowitz, Silo, Davy, Riddley Walker). Needs the curator approval before structural change.
 
 ## 2026-09-15 05:26 CEST — indices 196–197 shipped
 - 196 River of Gods — added to robots-and-ai. SFE's account makes illegal/advanced machine intelligence central to its 2047 India, climate, politics, and social conflicts. Flat-front OL 474065 selected from one-pass sheet for its vivid India/deity imagery and readable English title. YAML: https://drive.google.com/file/d/1u1KLhyWJFTt5WnrDVqJOj5Z2AV4S4FRm/view
-- 197 Rogue Moon — created matter-transmission under hard-sf. SFE explicitly calls the novel Hard SF and describes its lunar alien labyrinth as explored through Matter Transmission/Matter Duplication; this is a genuine mechanism-centered trait, not a leftover bucket. Flat-front SF Masterworks OL 8651995 selected for its strong lunar/labyrinth design. New portrait generated and wired directly per Gustav's standing rule. YAML: https://drive.google.com/file/d/1BojLdwKTu92oRCl1gsQDHVLgMYDWsq9p/view
+- 197 Rogue Moon — created matter-transmission under hard-sf. SFE explicitly calls the novel Hard SF and describes its lunar alien labyrinth as explored through Matter Transmission/Matter Duplication; this is a genuine mechanism-centered trait, not a leftover bucket. Flat-front SF Masterworks OL 8651995 selected for its strong lunar/labyrinth design. New portrait generated and wired directly per the curator's standing rule. YAML: https://drive.google.com/file/d/1BojLdwKTu92oRCl1gsQDHVLgMYDWsq9p/view
 - Local gate: 109 nodes, 299 works, refs consistent.
 - Commit: 0c8a383. Progress: next 198, processed 198, added 158.
-- Post-apocalyptic-fiction remains unchanged pending Gustav's ruling.
+- Post-apocalyptic-fiction remains unchanged pending the curator's ruling.
 
 ## 2026-09-15 05:57 CEST — intake 198–199
 - 198 Silverlock -> portal-fantasy (now 7). NESFA describes the protagonist's peregrinations through the Commonwealth of Letters; Black Gate specifies that Shandon is shipwrecked from our world onto that land and journeys among literature/myth/folklore figures. Cross-world arrival and the self-contained literary realm structure the novel. OL 8260665: lush painted ensemble of literary figures, flat English title. YAML 1gR6hd-6DQBVLi4K58b3EB18YmKWsSGQ3.
 - 199 Slan -> telepathy-fiction / Mentalism fiction (now 4 cards), represented as the 2-book Slan sequence: Slan and Slan Hunter. SFE calls the Slans a persecuted mutant race whose defining powers include Telepathy, physical superiority, and extraordinary Intelligence; the hidden telepathic society drives its conflict and revelations. Tor confirms Slan Hunter is the sequel completed by Kevin J. Anderson from van Vogt's partial draft and outline. OL 5543912 clean, elegant retro first-edition-like green future-city cover; Slan Hunter OL 6936338. YAML 1EkB6bA5ZiSRp3IhPPTpB0rHVihKOpd4H.
 - Commit 39a35fa deployed. Gate 109 nodes/301 works, refs consistent. Both fresh deep links and pixels verified after CDN deployment. progress next=200 processed=200 added=160.
-- Neither leaf is at the 10-work split threshold. Post-apocalyptic structure remains untouched pending Gustav's ruling.
+- Neither leaf is at the 10-work split threshold. Post-apocalyptic structure remains untouched pending the curator's ruling.
 
 ## 2026-09-15 05:58 CEST — Black Company series cover audit
 - Added one-pass flat-front English cover picks for all 9 Black Company books: OL 6978703, 6874911, 603159, 603518, 603084, 603953, 182506, 182508, 604076. The covers form a strong classic painted/illustrated dark-fantasy set; no hunt beyond the one Open Library series search.
 - Commit to deploy: c268eb0. Local gate 109 nodes/301 works, refs consistent. Deployed series page parsed and pixel-verified with all 9 cards. Audit report sent.
 
 ## 2026-09-15 06:28 CEST — intake 200–201
-- 200 Small Gods skipped into the existing Discworld/comic-fantasy boundary hold. SFE explicitly lists it within the Discworld series and calls the novels Fantasy. One-series-one-card means it must not be duplicated as a standalone; comic-fantasy placement still awaits Gustav's fantasy-umbrella ruling.
+- 200 Small Gods skipped into the existing Discworld/comic-fantasy boundary hold. SFE explicitly lists it within the Discworld series and calls the novels Fantasy. One-series-one-card means it must not be duplicated as a standalone; comic-fantasy placement still awaits the curator's fantasy-umbrella ruling.
 - 201 Spin -> NEW leaf time-distortion under time-travel-fiction (now 8 children), represented as the 3-book Hypotheticals sequence: Spin, Axis, Vortex. SFE calls this a temporal quarantine: Earth is enclosed in a bell jar where time is enormously slowed while millions of years pass outside for every year within. The unequal time rate is the sequence's defining mechanism, matching SFE Time Distortion. OL 6632328/1443032/9348869; card cover is Spin's clean black cosmic-vortex design. New self-selected portrait shows present-day Earth inside a clear temporal membrane while galaxies and the Sun age outside. Drive leaf 1od2CFIkELykntG5yP0gPSfl4eK9JX7dC; works 1gqwX-ZnRl3j0kNv7YZrzmkbjUxy5yHzw; portrait 1Zx7cjud9C6IiqO6nrum_Vzs-n1eWQGoL; YAML 1hE0rNPYCQQD-K9TRNaXhVq312WPj7XtV.
 - Commit 70e7bdc deployed; local gate 110 nodes/302 works, refs consistent. Spin deep link and 3-card series grid pixel-verified. progress next=202 processed=202 added=161.
 - Time Distortion has 1 fiction and is below split threshold. Post-apocalyptic and Discworld holds remain untouched.
@@ -247,7 +247,7 @@
 
 ## 2026-09-15 07:29 CEST — intake 204–205
 - 204 The Alteration -> alternate-history (now 6). SFE calls it Amis's major full-scale SF work, set in an Alternate History where the Reformation never happened and Roman Catholic domination continues into 1976. The failed Reformation is the identifiable divergence. PRH's current NYRB Classics 9781590176177 cover is a crisp black/yellow architectural illustration with clear title/author and markedly better than the tiny blank-looking OL scan. YAML 1GwxNYj9VzKQQ9mD_zRVdY19Yeba7fwwt.
-- 205 The Amazing Adventures of Kavalier & Clay excluded. SFE says its story-likeness is non-mimetic but that Equipoise holds, with the Prague Golem not animate; PRH describes a historical novel beginning in 1939 about two cousins creating comic-book superheroes. No actual magic or SF crosses Gustav's fiction boundary.
+- 205 The Amazing Adventures of Kavalier & Clay excluded. SFE says its story-likeness is non-mimetic but that Equipoise holds, with the Prague Golem not animate; PRH describes a historical novel beginning in 1939 about two cousins creating comic-book superheroes. No actual magic or SF crosses the curator's fiction boundary.
 - Commit 0d21842 deployed; gate 110 nodes/304 works, refs consistent. Alteration deep link and pixels verified. progress next=206 processed=206 added=163.
 - Alternate History has 6 works, below threshold. Structural holds untouched.
 
@@ -260,7 +260,7 @@
 ## 2026-09-15 08:36 CEST
 - 208 The Blind Assassin -> fabulation. SFE says considerable SF is concealed in the extensive pulp-SF novel-within-the-novel inside the conventional Canadian frame; the nested authorship/world-making structure is the defining speculative technique. OL 11041760. YAML 1Apy0Zvh0OgKb1NeBR8hEPUu086zOmX2z.
 - 209 The Book of Ptath -> reincarnation-fiction. SFE describes a reincarnated amnesiac Far-Future god-figure fighting the usurper who brought him back; recurring identity is the clearest defining mechanism. OL 678924. YAML 15JBMBqMd1yvYi6bB4IMFPXyx8GRGujxw.
-- Intake commit 716f928, then Gustav approved the pending post-apocalyptic split with `Execute` (phonemsg-01M2HW2SDPW9TC627P32A6G28C). Executed at commit 525ff7a: stable `post-apocalyptic-fiction` is now a pure umbrella; new `post-holocaust-survival` has 6 works (Earth Abides, I Am Legend, Lost Everything, The Road, Station Eleven, These Prisoning Hills), and `ruined-earth` has 4 (A Canticle for Leibowitz, Silo, Davy, Riddley Walker). Generated and selected portraits 115 and 116. Local gate 112 nodes / 307 works, refs consistent. Fresh deployed pages and pixels verified.
+- Intake commit 716f928, then the curator approved the pending post-apocalyptic split with `Execute` (phonemsg-01M2HW2SDPW9TC627P32A6G28C). Executed at commit 525ff7a: stable `post-apocalyptic-fiction` is now a pure umbrella; new `post-holocaust-survival` has 6 works (Earth Abides, I Am Legend, Lost Everything, The Road, Station Eleven, These Prisoning Hills), and `ruined-earth` has 4 (A Canticle for Leibowitz, Silo, Davy, Riddley Walker). Generated and selected portraits 115 and 116. Local gate 112 nodes / 307 works, refs consistent. Fresh deployed pages and pixels verified.
 - Progress next 210 / processed 210 / added 166. Exactly-at-10 now only Futurist children=10; no leaf has 10 works.
 
 ## 2026-09-15 09:04 CEST — intake 210–211
@@ -274,27 +274,27 @@
 - Commit da35365 deployed. Gate 112 nodes/310 works, refs consistent. Deployed HTML byte-identical; Ward page and Narnia seven-cover grid pixel-verified. Progress next=214 processed=214 added=169. No leaf at 10 works; Futurist remains exactly 10 children.
 
 ## 2026-09-15 10:03 CEST — intake 214–215
-- 214 The Crying of Lot 49 excluded. SFE describes Tristero as a possible centuries-old conspiracy/Secret Masters system but emphasizes that nothing is clear and that Oedipa's apparent pattern may be apophenia. Under Gustav's actual-speculative-event boundary, the novel's radical epistemological ambiguity never establishes the conspiracy as real; did not force it into Fabulation merely for literary form.
+- 214 The Crying of Lot 49 excluded. SFE describes Tristero as a possible centuries-old conspiracy/Secret Masters system but emphasizes that nothing is clear and that Oedipa's apparent pattern may be apophenia. Under the curator's actual-speculative-event boundary, the novel's radical epistemological ambiguity never establishes the conspiracy as real; did not force it into Fabulation merely for literary form.
 - 215 The Crystal Cave -> Mary Stewart's 5-book Arthurian Saga card in mythic-retelling (now 7): The Crystal Cave, The Hollow Hills, The Last Enchantment, The Wicked Day, The Prince and the Pilgrim. It retells Merlin/Arthur in post-Roman Britain, with Merlin's clairvoyant Sight and Morgan le Fay's sorcery. Hachette calls Prince and Pilgrim the final installment. One-pass OL 592134/4987866/4982059/1466724/431498; colorful illustrated flat English covers, though middle scans are low resolution. Card cover OL 592134. YAML 1K45KVpxi8xZTyUUKkqp10og6UQgbhqUu.
 - Commit 59080dc deployed. Gate 112 nodes/311 works, refs consistent. Deployed HTML byte-identical; five-book card and pixels verified. Progress next=216 processed=216 added=170. No leaf at 10 works; Futurist remains exactly 10 children.
 
 ## 2026-09-15 10:13 CEST — Futurist mapping hold
-- Gustav clarified that dimension-crossing counts as Intergalactic only if it definitely reaches OUR universe outside the Milky Way. Worm World is not established both outside the Milky Way and within our universe, so The Witches of Karres maps to Milky Way, not Intergalactic.
+- the curator clarified that dimension-crossing counts as Intergalactic only if it definitely reaches OUR universe outside the Milky Way. Worm World is not established both outside the Milky Way and within our universe, so The Witches of Karres maps to Milky Way, not Intergalactic.
 - Living complete map created at `/home/sandbox/futurist-reorganization-map.md` (snapshot 109 fiction cards / 234 represented books, commit 59080dc). Maintain it as source packets firm up classifications.
 - INTAKE HOLD: while this mapping work is ongoing, halt any new candidate that could possibly land under Futurist. Clearly non-Futurist entries may continue. Ambiguous candidates must be held rather than forced elsewhere.
-- 10:25 CEST: Futurist living map expanded with all location-qualified subgenres requested by Gustav. The 14 split current leaves yield 32 non-empty scope-qualified leaves; 14 reuse the most semantically continuous existing portrait and 18 need new art. Full proposed scope tree is recorded in `/home/sandbox/futurist-reorganization-map.md`. Map-only; no site mutation.
+- 10:25 CEST: Futurist living map expanded with all location-qualified subgenres requested by the curator. The 14 split current leaves yield 32 non-empty scope-qualified leaves; 14 reuse the most semantically continuous existing portrait and 18 need new art. Full proposed scope tree is recorded in `/home/sandbox/futurist-reorganization-map.md`. Map-only; no site mutation.
 
 ## 2026-09-15 10:32 CEST — intake 216–217 under Futurist hold
 - 216 The Day After Judgment skipped as duplicate: already the second book in the existing 2-book Black Easter fiction card in dark-fantasy. SFE says Blish regarded Black Easter and The Day After Judgment as one novel, and explicitly calls Black Easter a strong fantasy where actual black magic is treated with the precision of physics. Both book covers are already wired (ISBN 9780140034165 / OL 9396106), so no audit mutation was needed.
-- 217 The Dervish House HELD without placement or mutation under Gustav's active Futurist intake hold. SFE describes it as an extremely fast-forward Istanbul; it could plausibly land under Futurist, so it must wait for the scope reorganization rather than be routed around the hold. Source: https://sf-encyclopedia.com/entry/mcdonald_ian.
+- 217 The Dervish House HELD without placement or mutation under the curator's active Futurist intake hold. SFE describes it as an extremely fast-forward Istanbul; it could plausibly land under Futurist, so it must wait for the scope reorganization rather than be routed around the hold. Source: https://sf-encyclopedia.com/entry/mcdonald_ian.
 - No repo mutation/commit this pair. Progress next=218 processed=218 added=170. Futurist map remains `/home/sandbox/futurist-reorganization-map.md`.
 
 ## 2026-09-15 10:42 CEST — three-bucket Futurist plan
-- Gustav parked the five-bucket location proposal under the name `scale-plan`; preserved at `/home/sandbox/scale-plan.md`.
+- the curator parked the five-bucket location proposal under the name `scale-plan`; preserved at `/home/sandbox/scale-plan.md`.
 - New plan created at `/home/sandbox/three-bucket-plan.md`: Earthbound (53 cards), Space fiction (50), Otherworldly (6). Complete map covers all 109 current Futurist cards.
 - Structure impact: 16/25 leaves move intact; 9 split into 18 qualified leaves; 34 thematic leaves total. 9 split partitions reuse current art, 9 need new art; plus 3 umbrella portraits = 12 new portraits.
 - Plan-only; no repo or Drive mutation. Futurist intake hold remains active.
-- 10:49 CEST: Three-bucket plan naming refined per Gustav: extracted constituents merge at the highest useful established parent rather than mechanically retaining old leaf names. Example applied: Inverted World + Observer -> Earthbound Hard SF. Revised plan has 12 replacement leaves, 28 thematic leaves total, and 9 new portraits including umbrellas. Map-only; hold unchanged.
+- 10:49 CEST: Three-bucket plan naming refined per the curator: extracted constituents merge at the highest useful established parent rather than mechanically retaining old leaf names. Example applied: Inverted World + Observer -> Earthbound Hard SF. Revised plan has 12 replacement leaves, 28 thematic leaves total, and 9 new portraits including umbrellas. Map-only; hold unchanged.
 
 ## 2026-09-15 11:08 CEST — intake 218–219 + Elric cover audit
 - 218 The Dwellers in the Mirage -> lost-world-fiction (now 5). SFE describes Merritt's remote Alaskan valley with a hidden prehistory and cosmic-horror entity Khalk'ru; the geographically isolated archaic society and its discovery are the defining Lost World structure. The novel was published and framed in 1932, so Historical. One-pass cover choice: Open Library 8535842, a vivid yellow/orange Patrick Woodroffe-style monster painting with clear English title/author. YAML 1hrt__TYDhvuc78DXgy-SrxRaxhu0xxtl.
@@ -302,7 +302,7 @@
 - Commit 9de1a2f deployed. Gate 112 nodes/312 works, refs consistent; deployed HTML byte-identical after cache-busting. Dwellers fiction page and Elric six-book grid pixel-verified; all five wired Elric images reported healthy. Progress next=220 processed=220 added=171. No leaf reached 10 works. Futurist intake hold remains active.
 
 ## 2026-09-15 11:34 CEST — three-bucket naming revision
-- Applied Gustav's requested Space fiction child names in `/home/sandbox/three-bucket-plan.md`: Anthropological SF, First Contact, New Space Opera and Military SF now drop the redundant Space prefix; Space Techno Fiction becomes Techno Fiction in space; Earthbound Techno Fiction becomes plain Techno Fiction.
+- Applied the curator's requested Space fiction child names in `/home/sandbox/three-bucket-plan.md`: Anthropological SF, First Contact, New Space Opera and Military SF now drop the redundant Space prefix; Space Techno Fiction becomes Techno Fiction in space; Earthbound Techno Fiction becomes plain Techno Fiction.
 - Recommendation after checking the two constituents: keep **Techno Fiction in space**, not Cyberpunk in space. Takeshi Kovacs is securely interstellar cyberpunk, but Accelerando's full defining arc is Singularity/posthuman escalation through superhuman AI, biotechnology, molecular nanotechnology and off-Earth posthuman expansion. Cyberpunk would be precise for one and too narrow for the other; Techno Fiction is their highest honest shared established parent.
 - Map-only revision. No taxonomy/Drive mutation; Futurist intake hold remains active.
 
@@ -312,7 +312,7 @@
 - Commit e2cb6a2 deployed; gate 112 nodes/313 works, refs consistent and deployed HTML byte-identical. Eight-book grid pixel-verified; all five wired images healthy. Progress next=222 processed=222 added=172. No leaf reached 10. Futurist intake hold remains active.
 
 ## 2026-09-15 11:38 CEST — Hard SF in space clustering revision
-- Updated `/home/sandbox/three-bucket-plan.md` per Gustav: Orbital Mechanics, Planetary Science, Matter Transmission and Hard Alien now cluster under `Hard SF in space` inside Space fiction.
+- Updated `/home/sandbox/three-bucket-plan.md` per the curator: Orbital Mechanics, Planetary Science, Matter Transmission and Hard Alien now cluster under `Hard SF in space` inside Space fiction.
 - `Hard SF in space` is an intermediate branch, not a leaf: each child has a narrower coherent mechanism/subject and multiple works, so merging their 11 cards into one leaf would erase useful taxonomy. Structure remains 28 terminal thematic leaves plus this one intermediate branch.
 - Stable-ID/art plan: migrate existing `hard-sf` branch to `Hard SF in space`; it already parents three of the four children and gains Hard Alien. Reuse `15-hard-sf.webp`; all four children keep their portraits. Zero additional art beyond the existing nine-new-portrait plan.
 - Plan only; no taxonomy/Drive mutation. Futurist intake hold remains active.
@@ -343,13 +343,13 @@
 ## 2026-09-15 12:18 CEST — five-theme execution in progress
 - Owner authorization recovered exactly: `phonemsg-01M2J918AE2RK4BMXWZB5MTJ95` at 12:15:36 CEST, “Execute the Five-theme-plan.”
 - Nine approved-plan portraits generated and visually inspected together; all are detailed colorful 2:3 paintings and passed selection. Local migration now staged; gate 112 nodes / 314 works, references consistent. No push/Drive mutation yet at this milestone.
-- New standing rule from Gustav at 12:17: after migration, intake may place works within the five Futurist themes, but no new subgenre may be created directly under Futurist without asking him. This supersedes the broad intake hold once deployment completes.
+- New standing rule from the curator at 12:17: after migration, intake may place works within the five Futurist themes, but no new subgenre may be created directly under Futurist without asking him. This supersedes the broad intake hold once deployment completes.
 
 ## 2026-09-15 12:30 CEST — five-theme migration deployed and Drive redistribution
 - Executed owner-authorized five-theme migration (owner source `phonemsg-01M2J918AE2RK4BMXWZB5MTJ95`, exact text “Execute the Five-theme-plan”). Commit `9e80080` pushed; local gate 112 nodes / 314 works, all references consistent, all 109 prior Futurist cards present exactly once.
 - Live Futurist has exactly five children: Hard Sci-fi, Future of Earth fiction, Spacefaring fiction, Alien fiction, Otherworldly fiction. Public HTML contains all top and replacement leaf IDs. Futurist page pixel-verified at `https://gusoder.github.io/sff-taxonomy-browser/index.html?cb=9e80080#futurist`; screenshot `/downloads/cloud-browser-20260915-102151.png`.
 - Drive migration: four new direct theme folders created, existing Hard SF renamed hard-sci-fi; 14 stable branch folders moved under their new themes; seven replacement leaf folders + works folders created. All 22 work YAMLs from the six split leaves redistributed into Techno Fiction (7), Techno Fiction in space (2), Hard Conceptual SF (2), Otherworldly Hard SF (2), Earthbound Military SF (1), Future history of Earth (2), Future history in space (5), Alien cosmic history (1). Those 22 YAMLs were updated in-place to their new leaf/deep-link metadata. New top and replacement portraits uploaded. Source split folders remain as noncanonical leftovers for later cleanup rather than being destroyed.
-- Post-migration intake hold is lifted under Gustav's 12:17 standing rule: classify inside the five themes normally; never create a new direct Futurist child without consulting him.
+- Post-migration intake hold is lifted under the curator's 12:17 standing rule: classify inside the five themes normally; never create a new direct Futurist child without consulting him.
 - Parked Futurist candidates remain to ship: The Dervish House, The End of Eternity, The Female Man. Resume these before ordinary next=224 intake.
 
 ## 2026-09-15 12:35 CEST — parked Futurist intake cleared
@@ -438,7 +438,7 @@
 - Period fantasy intermediate inherits Historical fantasy art and parents Gaslight, Nordic, Celtic, Rococo and Andalusian. Definition: historical era is stage, not puzzle; history neither secretly explained nor rewritten.
 - Alternate history fantasy new leaf contains unambiguous magic-plus-divergence siblings Tales of Alvin Maker and Temeraire. SF Alternate history returns to 8; Gaslight returns to 4. Definition: divergent timelines where magic is the engine, history openly rewritten and world runs on magic.
 - Sibling audit left borderline Babel and Jonathan Strange in Gaslight; both are magical counterhistories but not moved without a ruling under the instruction. Once and Future Witches remains Secret history because secrecy is its main historical mechanism.
-- Generated two detailed colorful 1024x1536 portrait variants; variant A is live, variant B retained in Drive and delivered for Gustav's choice. Historical, Period and Alternate history fantasy routes pixel-verified.
+- Generated two detailed colorful 1024x1536 portrait variants; variant A is live, variant B retained in Drive and delivered for the curator's choice. Historical, Period and Alternate history fantasy routes pixel-verified.
 
 ### 2026-09-15 20:59 CEST - intake 252-253 + Norse rename
 - 252 Watchmen -> alternate-history (now 9). SFE calls it an Alternate History superhero story; heroes alter politics/science, producing a 1985 where America won Vietnam, Nixon remains president and nuclear war looms. One-pass OL selected iconic Absolute yellow clock cover 14613329; graphic novel credited Alan Moore/Dave Gibbons. YAML 1jij5INW9eHSdSsh8-kLAa1_cG2WWXBoB.
@@ -448,7 +448,7 @@
 - Final deployed HTML byte-identical. Watchmen, 11/22/63, Norse route and old Nordic redirect all fresh-loaded; pixels verified.
 
 ### 2026-09-15 21:19 CEST - Period fantasy portrait selected and deployed
-- Gustav selected time-gallery variant A via owner message phonemsg-01M2K7PPGMBWFF2D771CS4B1A6.
+- the curator selected time-gallery variant A via owner message phonemsg-01M2K7PPGMBWFF2D771CS4B1A6.
 - Commit be31366 wires new 140-period-fantasy.webp; detailed colorful 1024x1536 gallery with five era vistas. Drive portrait uploaded: 1-lLIYzITbe9grQctU12dfXrWH93En5Gs.
 - Gate 127 nodes/343 works; deployed HTML byte-identical; Period fantasy route fresh-loaded and pixel-verified with five child cards.
 
@@ -463,9 +463,9 @@
 - Commit 1a8e691 deployed. Gate 127 nodes/347 works, refs consistent; public HTML byte-identical. Both fiction pages fresh-loaded and pixel-verified, including Beneath the Rising's full three-book grid. Progress next=258 processed=258 added=206. Neither leaf reached 10.
 
 ### 2026-09-15 21:39 CEST - anchor-test definitions staged
-- Corrected directive scope: no card moved. The Witch's Heart is not currently in the taxonomy; The Weaver and the Witch Queen remains Norse fantasy pending Gustav's answer about adding the distinct Witch's Heart card.
+- Corrected directive scope: no card moved. The Witch's Heart is not currently in the taxonomy; The Weaver and the Witch Queen remains Norse fantasy pending the curator's answer about adding the distinct Witch's Heart card.
 - Staged for the next intake commit: Period fantasy anchors to a documented era/source chronicles; Mythic retelling anchors to an inherited story/source the myth itself; Homeric Greece and Arthurian Britain are retelling territory. Local gate passes; not separately pushed per main's instruction.
-- Gustav closed the Witch's Heart fork at 21:52 (phonemsg-01M2KA18TA2YDTQ60XBCK5MJ3A): no manual add and no move. If it reaches normal intake, classify it as Mythic retelling under the anchor test.
+- the curator closed the Witch's Heart fork at 21:52 (phonemsg-01M2KA18TA2YDTQ60XBCK5MJ3A): no manual add and no move. If it reaches normal intake, classify it as Mythic retelling under the anchor test.
 
 ### 2026-09-15 21:59 CEST - intake 258-259 + anchor definitions
 - 258 A Children's Bible -> climate-catastrophe (now 3). SFE describes a very-near-future cascade of disasters from earlier generations' destruction of the human home, with a hurricane supplying the Flood; Norton calls it climate/cultural unraveling. One-pass OL selected 9426320, green illustrated English front. YAML 1GUHZ1rM2cZQcXJIaMZeoO4hlKOFE1AcX.
@@ -567,17 +567,17 @@
 - Commit e0996b8 pushed. Gate 131 nodes/392 works, refs consistent. Progress next=312 processed=312 added=250. Ghost story reached 10; sourced proposal-only split drafted as Haunted places (6) and Companion dead (4), no restructuring.
 
 ### 2026-09-16 12:04 CEST - approved Alternate history restructure + held Ascent
-- Executed Gustav's approved structure: Alternate history is now an umbrella. Period alterations is an empty umbrella for forks within living memory of the depicted story. Its leaves are Alt Postwar (4), Alt Civil War (2), Alt Cold War (2), and Alt Present (1). Deep alterations (2) holds centuries-deep transformed world orders.
+- Executed the curator's approved structure: Alternate history is now an umbrella. Period alterations is an empty umbrella for forks within living memory of the depicted story. Its leaves are Alt Postwar (4), Alt Civil War (2), Alt Cold War (2), and Alt Present (1). Deep alterations (2) holds centuries-deep transformed world orders.
 - Alt Postwar: Fatherland, The Man in the High Castle, The Yiddish Policemen's Union, and newly resolved held intake 303 Ascent. Alt Civil War: The Guns of the South, River of Teeth. Alt Cold War: Watchmen, Lady Astronaut. Alt Present: Peripheral. Deep alterations: The Alteration, The Years of Rice and Salt.
 - 303 Ascent resolved from hold. SFE describes a Soviet Korean-War ace who becomes first human on the Moon; wartime fork, postwar space-race world. One-pass official S&S cover. Added count corrected +1 to 251; processed remains 312/next 312.
 - Commit 927eda6 pushed. Gate 137 nodes/393 works, refs consistent. Existing work cards/images preserved; old #alternate-history remains the umbrella route.
 
 ### 2026-09-16 12:16 CEST - new-node portrait rule corrected + AH portrait batch
-- Gustav corrected the standing rule: every new subgenre gets its portrait immediately at creation. The supposed tally-to-50 batching rule is retired as erroneous. No A/B approval: generate subject + "beautiful digital artwork", choose and ship, 1024x1536; Gustav vetoes after seeing it live.
+- the curator corrected the standing rule: every new subgenre gets its portrait immediately at creation. The supposed tally-to-50 batching rule is retired as erroneous. No A/B approval: generate subject + "beautiful digital artwork", choose and ship, 1024x1536; the curator vetoes after seeing it live.
 - Generated and wired distinct 1024x1536 portraits for Period alterations, Alt Postwar, Alt Civil War, Alt Cold War, Alt Present, and Deep alterations. Files 145-150. Commit a526da2 pushed; gate 137 nodes/393 works, refs consistent.
 
 ### 2026-09-16 12:23 CEST - intake 312-313
-- 312 The Baron in the Trees skipped as non-speculative literary/historical fable. SFE calls it one of Calvino's thematically linked fables; Penguin follows Cosimo's lifelong decision to remain in trees through the Enlightenment, Revolution and Napoleon, without magic or speculative science. Under Gustav's actual-magic boundary it does not enter fantasy merely because its life premise is fabulist. Sources https://sf-encyclopedia.com/entry/calvino_italo and https://www.penguin.co.uk/books/437691/the-baron-in-the-trees-by-italo-calvino/9781784874223.
+- 312 The Baron in the Trees skipped as non-speculative literary/historical fable. SFE calls it one of Calvino's thematically linked fables; Penguin follows Cosimo's lifelong decision to remain in trees through the Enlightenment, Revolution and Napoleon, without magic or speculative science. Under the curator's actual-magic boundary it does not enter fantasy merely because its life premise is fabulist. Sources https://sf-encyclopedia.com/entry/calvino_italo and https://www.penguin.co.uk/books/437691/the-baron-in-the-trees-by-italo-calvino/9781784874223.
 - 313 Barrayar deduped into the existing complete 16-book Vorkosigan Saga card in New space opera. SFE identifies it as the immediate sequel to Shards of Honor; Barrayar is already present with its individual cover. No site data change.
 - Progress next=314 processed=314 added=251. Gate unchanged 137 nodes/393 works.
 
@@ -587,29 +587,29 @@
 - Progress next=316 processed=316 added=251. Gate unchanged 137 nodes/393 works.
 
 ### 2026-09-16 12:57 CEST - approved New space opera split
-- Executed Gustav's split: New space opera is an umbrella with Political space opera (7) and Alien Delving (3). Political space opera holds Culture, Seven Devils, Teixcalaan, Hyperion Cantos, Imperial Radch, Sun Chronicles, Vorkosigan Saga; its test is the polity as primary field of action. Alien Delving holds White Space, Memory War, Planetfall; its test is humans entering alien wrecks/derelicts/artifacts/structures as story engine.
+- Executed the curator's split: New space opera is an umbrella with Political space opera (7) and Alien Delving (3). Political space opera holds Culture, Seven Devils, Teixcalaan, Hyperion Cantos, Imperial Radch, Sun Chronicles, Vorkosigan Saga; its test is the polity as primary field of action. Alien Delving holds White Space, Memory War, Planetfall; its test is humans entering alien wrecks/derelicts/artifacts/structures as story engine.
 - Generated distinct 1024x1536 portraits at node creation, files 151-152. Existing cards/covers preserved; #new-space-opera remains umbrella route. Commit 4790d13 pushed; gate 139 nodes/393 works, refs consistent.
 
 ### 2026-09-16 13:25 CEST - intake 316-317
-- 316 Beyond Black grounded as Ghost story but held because Ghost story is at the 10-card cap pending Gustav's split ruling. SFE says Alison is a genuine medium communicating with genuine ghosts and experiencing a horrific afterlife; Harper/4th Estate says spirits infiltrate her body and home. This is an exact fit, but no unilateral 11th card. Sources https://sf-encyclopedia.com/entry/mantel_hilary and https://www.4thestate.co.uk/products/beyond-black-hilary-mantel-9780007157761/.
+- 316 Beyond Black grounded as Ghost story but held because Ghost story is at the 10-card cap pending the curator's split ruling. SFE says Alison is a genuine medium communicating with genuine ghosts and experiencing a horrific afterlife; Harper/4th Estate says spirits infiltrate her body and home. This is an exact fit, but no unilateral 11th card. Sources https://sf-encyclopedia.com/entry/mantel_hilary and https://www.4thestate.co.uk/products/beyond-black-hilary-mantel-9780007157761/.
 - 317 Billy Summers skipped as non-speculative crime thriller. King's and S&S's official synopses describe an Iraq-war sniper/contract killer taking one last job; no supernatural or speculative mechanism. Sources https://stephenking.com/works/novel/billy-summers.html and https://www.simonandschuster.com/books/Billy-Summers/Stephen-King/9781982173630.
 - Progress next=318 processed=318 added=251. Gate unchanged 139 nodes/393 works. Beyond Black remains held for the Ghost story restructure.
 
 ### 2026-09-16 13:28 CEST - pure-branches structure rule reaffirmed
-- Gustav reaffirmed the Sep 12 rule: books live in leaf genres exclusively. Every non-leaf holds zero works. Any split must partition every work into leaves, with no genre-defining exceptions and no residual cards in the parent. Apply to all future split drafts, including Ghost story.
-- Social dystopia split remains proposal-only and explicitly on hold pending Gustav's treatment of A Time of Changes and The Lathe of Heaven. Do not execute.
+- the curator reaffirmed the Sep 12 rule: books live in leaf genres exclusively. Every non-leaf holds zero works. Any split must partition every work into leaves, with no genre-defining exceptions and no residual cards in the parent. Apply to all future split drafts, including Ghost story.
+- Social dystopia split remains proposal-only and explicitly on hold pending the curator's treatment of A Time of Changes and The Lathe of Heaven. Do not execute.
 
 ### 2026-09-16 13:56 CEST - intake 318-319
 - 318 Binti -> complete three-book Binti trilogy in first-contact-fiction (now 7): Binti, Binti: Home, Binti: The Night Masquerade. SFE/Macmillan follow a Himba student whose university journey is attacked by the Meduse; she survives and mediates a conflict rooted in the university's wrong against them. Transformative first communication drives the trilogy. One-pass official PRH omnibus front; individual editions remain missing for later cover audit.
 - 319 Black Magic -> renaissance-fantasy (now 2). Penguin explicitly gives devil worship, black arts and hexing across historical European cities; actual magic operates in the documented historical world. References cluster around the sixteenth century, making Renaissance fantasy the closest current period leaf. One-pass official Penguin front.
 - Commit f2fc5c1 pushed. Gate 139 nodes/395 works, refs consistent. Progress next=320 processed=320 added=253.
 
-### 2026-09-16 14:21 CEST - Gustav-approved Space dystopias leaf
+### 2026-09-16 14:21 CEST - the curator-approved Space dystopias leaf
 - Owner approval source: phonemsg-01M2N2977DE8SCKM0H24JZCYHJ. Created Space dystopias as the 8th direct child of Spacefaring fiction. Definition: spacefaring human futures where the social order itself is the horror - closed, oppressive societies off Earth.
 - Moved A Time of Changes from Social dystopia (Borthan colony world; Earth-only mismatch) and An Unkindness of Ghosts from Generation Starships (slavery regime is the story engine; generation ship is the container). Generation Starships now contains only Non-Stop. Social dystopia now has 9; no Earth-side split executed.
 - Generated and self-selected a distinct 1024x1536 detailed colorful portrait at creation; wired as 153-space-dystopias.webp and archived to Drive. Commit c504379. Gate passed: 140 nodes / 395 works, refs consistent. Public HTML and portrait byte-identical; live Space dystopias route and both covers pixel-verified.
 - Drive leaf 1Ad8S6Vh93ddGOxra5rNmKdx8uBEq3qkd; works 1IoSgXK6n8tGjc6fRjaI-VN2CREY-GLfF; portrait 17oR-e_-iGJw3uwyKkN3p7-LU6J7tOkPp. Both moved YAMLs updated in place.
-- New standing rule: never create a new leaf directly under Spacefaring fiction without Gustav's explicit approval first. Gustav floated a future Classic space opera + New space opera umbrella only as a possible slot-saving idea; do not execute. Earth-side Social dystopia split remains uncleared.
+- New standing rule: never create a new leaf directly under Spacefaring fiction without the curator's explicit approval first. the curator floated a future Classic space opera + New space opera umbrella only as a possible slot-saving idea; do not execute. Earth-side Social dystopia split remains uncleared.
 
 ### 2026-09-16 14:29 CEST - intake 320-321
 - 320 Black Water Sister -> modern-goth (now 4). PRH calls it Malaysian-set contemporary fantasy: a reluctant medium is possessed and coerced by her grandmother's ghost into a world of gods, spirits, vengeance, gangsters and family secrets. Occult intrusion into contemporary family/social life makes Modern Goth the closest existing leaf. SFE catalogs it and notes the misleadingly broad silkpunk label rather than using that as a genre. One-pass OL 11062263, vivid illustrated lantern portrait, flat English front. YAML 1qmy4UkTxrZbBkUp9h0UWk5UGjssLaVc9.
@@ -621,7 +621,7 @@
 - Executed ruled pure-branch split. Social dystopian future now holds zero works and has three leaves: Crowded Dystopias 3 (Stand on Zanzibar, 334, The Space Merchants); Childless Dystopias 3 (The Children of Men, The Handmaid's Tale, Atomized); Cli-fi dystopia 2 (The Windup Girl, American War).
 - Generated/self-selected distinct subject-matched detailed colorful portraits at creation, 1024x1536 assets 154-156. Commit 4f52df1. Gate passed at 143 nodes / 397 works, refs consistent. Public HTML and all three portraits byte-identical; fresh cache-busted Psi powers and all three dystopia leaf pages pixel-verified.
 - Drive: mentalism-fiction folder renamed psi-powers in place (1k7XL_urF3MafY9yM3B0AgJDIQk1Oyn9A), portrait retained. Crowded folder 17dZPOrTMtLmeD3XQSN35ShhrlWVGA8ti / portrait 1GHX1nsjzl1LhXK24l_3xwQ_WtFsxQXul. Childless folder 1ULZEhTy1Yuo7jrJwtGSl2QZcTQEffn02 / portrait 1mQF4KoqlV6yqbYIafvyJECsQp2Ln2GMY. Cli-fi folder 168kE9QSzkPG-inPX6Y_QslFVY5-tz7pR / portrait 1DKgyNnqS02RDB59QKNHU2U5FqxpXut-p. Existing YAMLs moved/updated in place where available.
-- Logged only, do not execute: Gustav suspects psi-power books have been squeezed elsewhere; possible future audit if commissioned.
+- Logged only, do not execute: the curator suspects psi-power books have been squeezed elsewhere; possible future audit if commissioned.
 
 ### 2026-09-16 14:59 CEST - intake 322-323
 - 322 Blackfish City -> cli-fi-dystopia (now 3). SFE sets it in a floating Arctic city surrounded by free water after Climate Change and calls its refuge dystopian; Hachette begins after the climate wars, with corruption, wealth inequality and unrest in the mechanically precarious city. Climate consequence creates and destabilizes the social order, making Cli-fi dystopia the engine-level fit. One-pass OL 8595548, clean neon orca/city English front. YAML 1e7iuc2Ykd-MFldEaCK_fPzx2mMjK-CDN.
@@ -691,7 +691,7 @@
 
 ### 2026-09-16 21:07 CEST - approved Psi split staged
 - Owner approval source phonemsg-01M2NSRN3KZ96AHA0RRJGNPPGB (`Ok, do the psi split`), following phonemsg-01M2NSKXWGXNA4BTKM2B40WWAF naming future Psionics and contemporary Psi Powers.
-- Existing Futurist > Future of Earth fiction leaf renamed in place to Psionics, retaining 33-telepathy-fiction.webp and four future-set cards per Gustav's ruling: The Demolished Man, Ubik, Slan/Slan Hunter, The Lathe of Heaven (set 2002). Definition now future-set SF shaped by psi powers.
+- Existing Futurist > Future of Earth fiction leaf renamed in place to Psionics, retaining 33-telepathy-fiction.webp and four future-set cards per the curator's ruling: The Demolished Man, Ubik, Slan/Slan Hunter, The Lathe of Heaven (set 2002). Definition now future-set SF shaped by psi powers.
 - New Modern day > Psi powers leaf created for contemporary-set psi stories in the recognizable present: Dying Inside and Carrie. Generated/self-selected detailed colorful contemporary telekinesis portrait, exact 1024x1536, wired as 159-psi-powers.webp.
 - Pure branches preserved. Gate 146 nodes/415 works, refs consistent. Drive: old leaf renamed psionics in place 1k7XL_urF3MafY9yM3B0AgJDIQk1Oyn9A, retained works 1l59N4lsiHPfDsv3FVXXFI0v7Ncv6X-D3 and portrait. New Psi powers folder 11NYS1F0Jn29CRCIVF_HxZ8ed0hJmTq3I, works 1BWfvKSOUCCT9YrS2MgqM1GWF2cIyjmdy, portrait 1WjSFoGeuSlikvY9kSZO1IE4a6ohOuJxe; both contemporary YAMLs moved and canonical_genre updated. Deployment/pixel QA pending.
 - Deployed commit 02ea399; Pages run 35138687303 succeeded. Public HTML and new portrait are byte-identical. Fresh Psionics and Psi powers shelf loads pixel-inspected: retained Psionics portrait + 4 works, new contemporary portrait + 2 works render correctly.
@@ -713,7 +713,7 @@
 - Gate 146 nodes/418 works, refs consistent. Progress next=346 processed=346 added=276. Deployment/pixel QA pending.
 
 ### 2026-09-16 22:02 CEST - Psionics portrait veto and replacement
-- Gustav vetoed the first future-lab portrait as “way too much” in phonemsg-01M2NWVS9CR0C2NDS7XE0XKJPZ and asked for the normal book-driven process based on the current shelf.
+- the curator vetoed the first future-lab portrait as “way too much” in phonemsg-01M2NWVS9CR0C2NDS7XE0XKJPZ and asked for the normal book-driven process based on the current shelf.
 - Replaced it with a quieter full-scene painting synthesized from the shelf: a telepathic confrontation in a future office, with subtly unstable dreamlike city reality and traces of hidden evolved people, drawing on The Demolished Man, Ubik, The Lathe of Heaven and Slan without trying to literalize all four.
 - Exact 1024x1536 generated source archived beside node: 1DjZiKtawERUezvKbV9xKfpm24lfgkxmf. Commit 52a0c9b; Pages run 35144044952 succeeded; public portrait byte-identical. Fresh Psionics load and four-card shelf pixel-inspected; screenshot cloud-browser-20260916-200249.png.
 - Intake 344-345 deployment: commit 1b27e10; Pages run 35143626919 succeeded; public HTML byte-identical. Fresh Gothic science fiction and Lessons beyond the grave loads inspected; Catherine House cover loaded at native pixels and Cemetery Boys complete two-cover grid had already been visually inspected before publishing. Progress next=346 processed=346 added=276.
@@ -757,14 +757,14 @@
 - 356 Citizen of the Galaxy -> anthropological-science-fiction (now 9). SFE singles out the Free Traders' exogamous kinship system and starship culture; the publisher edition follows Thorby from slavery through adoption into a merchant clan and across a Galactic culture's social strata. Family, trade, status, custom and belonging across societies make Anthropological SF closer than general space adventure. One-pass selected the Pocket Books green photographic English front via OL ISBN. Initial PRH-hosted URL failed only in the deployed card despite loading directly; corrected to the reliable OL ISBN endpoint. YAML 1IiAz7vC-pPV8F-iQ2q3fAqASQU6LNc62.
 - 357 City of Stairs -> complete three-book Divine Cities trilogy in political-fantasy (now 10): City of Stairs, City of Blades, City of Miracles. SFE identifies a secondary-world fantasy whose gods have been killed; PRH traces conquest, colonial rule, diplomacy and espionage, sectarian revolt, assassination and secret war over surviving divine power. Empire and its aftermath shape the trilogy. One-pass official PRH series review selected the coordinated redesigned English fronts. YAML 1NMQoAgv3P0QtVbdXbcODAHZ8eU1nM0uZ.
 - Final commit 4606674; Pages run 35160035705 succeeded; public HTML byte-identical. Both fresh shelf loads and lead pixels verified, including corrected Citizen endpoint and Divine Cities. Gate 146 nodes/429 works/refs consistent. Progress next=358 processed=358 added=287.
-- Political fantasy reached 10. A sourced pure split proposal is now required before adding more; do not execute without Gustav. Candidate axes need a full partition and shared-trait umbrellas rather than leftovers.
+- Political fantasy reached 10. A sourced pure split proposal is now required before adding more; do not execute without the curator. Candidate axes need a full partition and shared-trait umbrellas rather than leftovers.
 
 ### 2026-09-17 01:28 CEST - intake 358-359 deployed
-- Before intake, prepared and sent parent a pure 5/5 Political fantasy split proposal: Dynastic political fantasy vs Revolutionary political fantasy. The Age of Madness is the one explicit boundary question. YAML attached in parent report; awaiting Gustav. No tree change made.
+- Before intake, prepared and sent parent a pure 5/5 Political fantasy split proposal: Dynastic political fantasy vs Revolutionary political fantasy. The Age of Madness is the one explicit boundary question. YAML attached in parent report; awaiting the curator. No tree change made.
 - 358 City Under the Stars -> science-fantasy (now 10). Open Road places it on far-future Earth in a post-utopian industrial hellhole beside a walled City of God; PW reveals absent alien rulers and ultra-advanced technology granting godlike powers. Sacred fantasy surface and technological explanation are inseparable. One-pass selected the sole Tor English front, dark blue walled city. YAML 1adsZ3qBDWzMwYAVVGAv5bY9KyDqyGlDp.
 - 359 Cocaine Nights -> social-dystopia-modern (now 7). SFE places it in Ballard's contemporary-facing Mediterranean line: a spiritually frozen enclave becoming a Keep, with a detective uncovering crimes. Counterpoint describes crime deliberately animating an exclusive society of unlimited leisure. Recognizable present-day sick social order fits Social dystopia. One-pass selected Counterpoint's black vintage-nightlife English front. YAML 1iPc2KodK5tXFS7yWDLH8EhT4LvRVTtDc.
 - Final commit f59fc59; Pages run 35162268299 succeeded; public HTML byte-identical. Both shelves and covers fresh-loaded at native pixels. Gate 146 nodes/431 works/refs consistent. Progress next=360 processed=360 added=289.
-- Science fantasy reached 10. A sourced pure split proposal is now required, but do not stack a second owner boundary question while the Political fantasy split is awaiting Gustav unless next intake needs this leaf.
+- Science fantasy reached 10. A sourced pure split proposal is now required, but do not stack a second owner boundary question while the Political fantasy split is awaiting the curator unless next intake needs this leaf.
 
 ### 2026-09-17 01:58 CEST - intake 360-361 deployed
 - 360 Codex Alera -> complete six-book sequence in hard-magic (now 5): Furies of Calderon through First Lord's Fury. PRH defines Alera by bonds with elemental forces of earth, air, fire, water, wood and metal that produce specific capabilities used in war, protection and survival; Jim Butcher confirms the series is complete. Politics matter, but the explicit elemental system governs action. One-pass complete official Ace/PRH English series review. YAML 1_MgmvsHyPTEP8_OG1JlW8yWipamouH9y.
@@ -826,11 +826,11 @@
 ### 2026-09-17 07:52 CEST - intake 382 deployed; 383 blocked
 - 382 Darwin's Radio -> complete two-book Darwin sequence in technomorphosis (now 8): Darwin's Radio and Darwin's Children. SFE identifies endogenous retroviral evolution transforming humanity into a posthuman species; PRH follows the outbreak into an altered generation whose biology creates a quarantined social class. Undirected biological change remaking bodies, identity and society fits Technomorphosis over Genetic engineering. One-pass complete two-cover review selected illustrated English fronts. YAML 1PbPbin9Ht1-ENqEt4OeyhuZxC7td9PRJ.
 - Commit a8c90d8; Pages run 35187370814 succeeded; public HTML byte-identical. Complete Darwin grid and lead pixels fresh-loaded and visually inspected. Gate 146 nodes/447 works/refs consistent. Progress next=383 processed=383 added=305.
-- 383 Daughter of the Blood is researched as the entry to Anne Bishop's twelve-volume Black Jewels sequence. PRH describes magic, matriarchal rulership, prophecy and ruthless political struggle across invented realms. Political fantasy is its closest current leaf, but that leaf is already at 10 and awaiting Gustav's split decision; intake pauses before adding it.
+- 383 Daughter of the Blood is researched as the entry to Anne Bishop's twelve-volume Black Jewels sequence. PRH describes magic, matriarchal rulership, prophecy and ruthless political struggle across invented realms. Political fantasy is its closest current leaf, but that leaf is already at 10 and awaiting the curator's split decision; intake pauses before adding it.
 
 ### 2026-09-17 08:04 CEST - approved Political fantasy split deployed
 - Owner approval source phonemsg-01M2PZ9NNKZB03ERN2JQED95ZP (`Execute`), after final correction in phonemsg-01M2PZ7MHF7JMBRPDM92QH2MAN that The Age of Madness belongs with revolution because the Great Change is the trilogy's spine.
-- Political fantasy became a pure umbrella with Court intrigue (4: A Song of Ice and Fire, Forgotten Beasts of Eld, Inheritance Trilogy, A Brightness Long Ago) and Revolutionary fantasy (6: Poppy War, Between Earth and Sky, Tigana, Age of Madness, Legacy of Orïsha, Divine Cities). Both names and partition match Gustav's approved ruling.
+- Political fantasy became a pure umbrella with Court intrigue (4: A Song of Ice and Fire, Forgotten Beasts of Eld, Inheritance Trilogy, A Brightness Long Ago) and Revolutionary fantasy (6: Poppy War, Between Earth and Sky, Tigana, Age of Madness, Legacy of Orïsha, Divine Cities). Both names and partition match the curator's approved ruling.
 - Generated and self-selected immediate 1024x1536 detailed colorful portraits for both new leaves; archived source PNGs on Drive. Court node 1-UOj0teJYu1a3_Di3KbiAscPaYgyqJjP / works 18UYDZnGVO8QtF7zsdZHDrSw8OjIY7m6a / source 1xLFSH9wkSi52VkyPrMbOIaleCeFKWHYM. Revolutionary node 1wOn7YtGOUPzWN0bEuZt163mja4wuBabe / works 1AMfeP8P2BjUj3bauJo5WLHpl7YXyoZFp / source 1kBJ83OUtdaGxjoZFH1XPLLRrzotGMrkl. Existing Drive YAMLs moved into their approved leaves.
 - Commit bf3e4ef; Pages run 35188209536 succeeded; public HTML byte-identical. Both portraits and 4/6 shelf counts fresh-loaded and visually inspected. Gate 148 nodes/447 works/refs consistent. Intake 383 is unblocked and next.
 
@@ -850,7 +850,7 @@
 - 387 Deathless Divide expanded to complete two-book Dread Nation card in alt-civil-war (now 4): Dread Nation and Deathless Divide. HarperCollins centers Confederate and Union dead rising on Civil War battlefields, derailing the war and creating a changed racialized 1880s society. The fork is the US Civil War itself. One-pass selected the coordinated Balzer + Bray English portrait fronts. Drive YAML pending.
 - 388 Deep Roots expanded to complete two-book Innsmouth Legacy card in secret-history (now 5): Winter Tide and Deep Roots. SFE identifies the government's internment of Innsmouth's hidden People of the Water; Tor frames Aphra's recovery of that secretly persecuted community within 1940s America. Hidden historical people and their erasure/recovery fit Secret history. One-pass selected the coordinated Tor/Palencar English fronts. Drive YAML pending.
 - Gate 148 nodes/453 works/refs consistent. Progress next=389 processed=389 added=311. Deployment/Drive/pixel QA pending. No leaf reached 10.
-- Deployed 699f012 + portrait swap 2e146f1; public HTML byte-identical. Fresh Political fantasy and Court intrigue portraits visually verified: Gustav's chosen loose-prompt parliament C is on the umbrella, prior umbrella court tableau is on Court intrigue. Dread Nation and Innsmouth Legacy complete two-cover grids and lead pixels visually verified. Drive YAMLs: Dread Nation 15kLIaQM63K4M5o7LIdBMHirYO6dyxceS; Innsmouth 1MIIfZ3RaVg6rL6Zf9cx7PLPAXy6hfGCU.
+- Deployed 699f012 + portrait swap 2e146f1; public HTML byte-identical. Fresh Political fantasy and Court intrigue portraits visually verified: the curator's chosen loose-prompt parliament C is on the umbrella, prior umbrella court tableau is on Court intrigue. Dread Nation and Innsmouth Legacy complete two-cover grids and lead pixels visually verified. Drive YAMLs: Dread Nation 15kLIaQM63K4M5o7LIdBMHirYO6dyxceS; Innsmouth 1MIIfZ3RaVg6rL6Zf9cx7PLPAXy6hfGCU.
 
 ### 2026-09-17 09:26 CEST - intake 389-390 deployed
 - 389 Destroy All Monsters -> worlds-in-flux (now 7). SFE describes Darkside as either a Parallel World or a trauma-born delusion; Harper presents two overlapping realities whose friends rescue each other through recovered memory. Its world remains psychologically and ontologically unstable rather than settling into a literal SF mechanism, making Worlds in flux closer than Parallel World fiction. One-pass selected the HarperTeen English camera/spiral front via Booksense. YAML 11Mo04XYxYN8vZKdJKISj0vpfZ2F0kCBx.
@@ -875,7 +875,7 @@
 - Commits 024744d, 43a1311, final cover f81ba36; public HTML byte-identical. Corrected Patrick Cory three-cover grid and Downward lead pixels fresh-loaded and visually inspected. Gate 151 nodes/459 works/refs consistent. Progress next=395 processed=395 added=317. No leaf reached 10.
 
 ### 2026-09-17 11:15 CEST - Mythic retelling split + Viking rename deployed
-- Owner ruling source phonemsg-01M2QA5AE3W1FF6S9W665X9TSQ: Period fantasy's Norse fantasy renamed Viking fantasy because that leaf is about the Viking age; Norse fantasy belongs under Mythic retelling for Norse mythology. Parent supplied the final pure partition after Gustav's no-dirty-branches correction.
+- Owner ruling source phonemsg-01M2QA5AE3W1FF6S9W665X9TSQ: Period fantasy's Norse fantasy renamed Viking fantasy because that leaf is about the Viking age; Norse fantasy belongs under Mythic retelling for Norse mythology. Parent supplied the final pure partition after the curator's no-dirty-branches correction.
 - Viking fantasy retains 3 era-anchored cards: The Last Light of the Sun, The Weaver and the Witch Queen, The Broken Sword. Live-source recheck confirmed all three are Viking-era; no misfit found.
 - Mythic retelling is now a pure umbrella: Arthurian fantasy (5: Avalon, The Once and Future King, Arthurian Saga, A Glastonbury Romance, By Force Alone); Greek myth fantasy (4: Circe, Phaedra, The Song of Achilles, The Minotaur Trilogy); Norse fantasy (1: Grendel).
 - Generated and self-selected immediate 1024x1536 detailed colourful portraits for all three new leaves, deployed and archived full-size on Drive. Arthurian folder 1ZQ51_eaUMz3RVw9HgE9vvNdhVXtbHmJK / works 1DzOdm0hEi0NO0qlUeWTlS7Od82UK9NJF / portrait 1MFKoGAYtFWudMc88x1V3ywtYEvtCgVp7. Greek folder 1rKXbpp1LxyIrrV5r-uhATaHwwB3fjfQU / works 1irNACg6k8OOW3f9x-PFp2sitt3Gb54xO / portrait 1B3iyrBAwl7pW8vukk3RYqgzv---dVPS1. Norse folder 1SLA5cSq0_RcotCSiA1ve5CiGGSyXSjqX / works 1PlQ9eLbZN7RmMcYGE_85il8J6qT9nvOG / portrait 17DrAacBMq842TlvX_HlfoxH62XystWNd. Existing Drive YAMLs partitioned; old era folder renamed Viking fantasy.
@@ -888,7 +888,7 @@
 
 ### 2026-09-17 11:25 CEST - intake 395-396 deployed
 - 395 Dr. Bloodmoney -> post-holocaust-survival (now 8). SFE explicitly calls it a Post-Holocaust USA; Hachette places the Point Reyes survivors seven years after the bombs with a functioning barter economy. Their adaptation and getting along in the lived aftermath make Post-Holocaust Survival closest. One-pass eight-cover review selected the detailed English SF Masterworks illustrated front, OL 8422913. YAML 1qeYh2DdoiMyMl22ejt26crgR0SYmqVnp.
-- 396 Dragon Pearl expanded to the complete three-book Thousand Worlds trilogy in technofantasy (now 3): Dragon Pearl, Tiger Honor, Fox Snare. SFE calls it YA space opera increasingly patterned by Korean mythology; Disney describes literal fox magic, shape-shifting, ghosts and spaceships powered by technological and spiritual energy. Gustav's actual-magic boundary therefore puts it on the Fantasy side, with Technofantasy closest. One-pass complete series review selected the three coordinated official Disney/Vivienne To English fronts. YAML 1CPWMvpUu2rd_wl4Z_mL-xjfn9vPZD8D8.
+- 396 Dragon Pearl expanded to the complete three-book Thousand Worlds trilogy in technofantasy (now 3): Dragon Pearl, Tiger Honor, Fox Snare. SFE calls it YA space opera increasingly patterned by Korean mythology; Disney describes literal fox magic, shape-shifting, ghosts and spaceships powered by technological and spiritual energy. the curator's actual-magic boundary therefore puts it on the Fantasy side, with Technofantasy closest. One-pass complete series review selected the three coordinated official Disney/Vivienne To English fronts. YAML 1CPWMvpUu2rd_wl4Z_mL-xjfn9vPZD8D8.
 - Commit 72768ac; public HTML byte-identical. Both exact detail routes, Dr. Bloodmoney lead cover and the complete Thousand Worlds three-cover grid fresh-loaded and visually inspected. Gate 154 nodes/461 works/refs consistent. Progress next=397 processed=397 added=319. No leaf reached 10.
 
 ### 2026-09-17 11:30 CEST - sword-in-the-stone portrait selected live
@@ -905,10 +905,10 @@
 - 399 Driving the Deep expanded to complete four-book Finder Chronicles card in classic-space-opera (now 10): Finder, Driving the Deep, The Scavenger Door, Ghostdrift. SFE calls it lively, light-hearted Space Opera starring an interstellar repo man; PRH confirms four action-packed capers across deep-space colonies, AI ships, aliens and heists. Its episodic pulp-adventure shape fits Classic space opera over the political or alien-archaeology New space opera leaves. One-pass complete official PRH cover review selected four coordinated English DAW fronts. YAML 1xT_nVIhBymfkuXS_w9vMbicZ2YB-bmvw.
 - 400 Eartheater -> magic-realism (now 8). SFE says its protagonist literally eats earth to gain knowledge of murdered women and explicitly applies Magic Realism on a non-metaphorical understanding. The marvelous power enters contemporary Argentine life as ordinary lived fact. One-pass selected the clean English HarperVia painted-flower front, OL 10405787. YAML 1DCYdKXbR61I0_0oXJEoNl0Lv_xlVRzIU.
 - Commit daefc18; public HTML byte-identical. Finder's complete four-cover grid/lead and Eartheater lead pixels fresh-loaded and visually inspected. Gate 154 nodes/464 works/refs consistent. Progress next=401 processed=401 added=322.
-- Classic space opera has reached 10. Do not add there again until Gustav approves a sourced pure split. Initial source-grounded axis to develop: SFE distinguishes planetary romance's planet-bound landscapes from space opera's large-scale interplanetary action; however the current ten may partition more cleanly as roaming/caper space adventure versus polity/civilizational saga. Needs title-by-title grounding before proposing final names and partition.
+- Classic space opera has reached 10. Do not add there again until the curator approves a sourced pure split. Initial source-grounded axis to develop: SFE distinguishes planetary romance's planet-bound landscapes from space opera's large-scale interplanetary action; however the current ten may partition more cleanly as roaming/caper space adventure versus polity/civilizational saga. Needs title-by-title grounding before proposing final names and partition.
 
 ### 2026-09-17 13:03 CEST - atemporal Science fantasy restructured
-- Owner execution source phonemsg-01M2QGBYMXCKAD9A298D0J0NV8 (`Execute`), approving the plan summarized in phonemsg-01M2QGAKKDW55JB92864R2P172. Science fantasy remains under Atemporal, with Gustav's "atemporal by construction" rationale: preserving known physics while producing a fantasy-reading world requires exile from our usable timeline into invented worlds or unplaceable futures.
+- Owner execution source phonemsg-01M2QGBYMXCKAD9A298D0J0NV8 (`Execute`), approving the plan summarized in phonemsg-01M2QGAKKDW55JB92864R2P172. Science fantasy remains under Atemporal, with the curator's "atemporal by construction" rationale: preserving known physics while producing a fantasy-reading world requires exile from our usable timeline into invented worlds or unplaceable futures.
 - Science fantasy is now a pure umbrella: Hard science fantasy 3 (Lord of Light, Riverworld, City Under the Stars); Planetary romance 3 (Dragonriders of Pern, Majipoor, Aetherbound); Old Mars 1 (Barsoom). Hard SF fantasy requires fantasy surface / technological engine / known physics / no FTL or teleportation. Pern therefore belongs in Planetary romance. Old Mars is the specific pre-Mariner 4 romantic-Mars tradition.
 - Modern-Earth exits: Charlie removed from Science fantasy because it already exists in Soft science fiction. Time Quintet moved to Timeslips: its sequence repeatedly crosses eras without a stable built machine, including Swiftly Tilting Planet's centuries, Many Waters' Noahic past and An Acceptable Time's temporal opening. Briefing for a Descent Into Hell moved to Worlds in flux under Fabulation: contemporary psychiatric reality and mythic-cosmic voyage never settle into one stable world-model.
 - Generated and self-selected immediate detailed colourful portraits for all three new leaves. Drive child folders: Hard 1FODPm2tHnEcE-5XIZfcbEZMi4i4zYMr2 / works 1JV327s8ig8LUvHXH94e1B_PImLQrQFLC / portrait 1y-Gtsxs8ESh4gIb1QB3a9iILxZkdr8CY; Planetary 1msLuH288bUwfPCRe1krIY_UvEGMsm-Vu / works 1QNBWjyKt2-RANcOMLDj9prF1k0CGuAlm / portrait 1SjE21LmeFZOLdTYE-5cO2hu7pFUf-O1J; Old Mars 1TUY8IfbzQh1kJu4mrQ6Rp-gMMreS20le / works 1DqhczjjhQiAasPDsf0DbW7rQdYArk3-f / portrait 1tn8unQnU-tW1aTwBxfpaq91CuVUNscfJ. Existing canonical YAMLs moved to new leaves/exits; umbrella rationale YAML 1aDbyGLpnoymwjHacQnw4LpYlZ1xiNU4O.
@@ -928,14 +928,14 @@
 - Drive YAMLs: Prefect Dreyfus 16xUTaoXmcQk4sHZpSGSrKRy7Y_xJxOnA; Embers of War 1siaTMll5-_28qj3KDYhaVTdwKAQVcdCb.
 - Deployment visually verified at exact leaf routes with both complete three-cover grids.
 
-### Parked Star Wars ruling (Gustav, 2026-09-17 13:57 CEST)
+### Parked Star Wars ruling (the curator, 2026-09-17 13:57 CEST)
 - No action now. When Star Wars novelizations or related works reach intake, place them on the SF side for findability, not under Technofantasy.
 - Treat the Force through the Psi powers convention as SF pseudoscience.
-- Proposed future home at that time: a new `Far Far Away` leaf under Otherworldly fiction under Futurist. Creation waits until intake reaches Star Wars and Gustav approves the proposal then.
+- Proposed future home at that time: a new `Far Far Away` leaf under Otherworldly fiction under Futurist. Creation waits until intake reaches Star Wars and the curator approves the proposal then.
 
 ### 2026-09-17 14:23 CEST - intake 405 blocked; split proposal sent
 - 405 Emergence dedupe passed and resolves to the complete 22-book Foreigner series. SFE centers its Planetary Romance/alien civilization and Emergence's human adviser to the atevi crown prince; PRH explicitly calls the series anthropological SF and centers diplomacy and sustained cross-cultural analysis. Best fit Anthropological science fiction, currently at 10, so no addition yet.
-- Sent Gustav a sourced pure split proposal: Human anthropology (Ammonite, Hainish, Citizen) and Alien anthropology (Fifth Head, Martian Chronicles, Stranger, Mirror, Under the Skin, Babel-17, Exo, plus Foreigner). Await decision; do not execute unilaterally.
+- Sent the curator a sourced pure split proposal: Human anthropology (Ammonite, Hainish, Citizen) and Alien anthropology (Fifth Head, Martian Chronicles, Stranger, Mirror, Under the Skin, Babel-17, Exo, plus Foreigner). Await decision; do not execute unilaterally.
 - 406 Empire of Sand prep complete as the two-book Books of Ambha card (Empire of Sand, Realm of Ash), best fit Revolutionary fantasy. Hachette grounds resistance to an empire built on enslaved gods, then a crumbling empire whose salvation is questioned. One-pass official coordinated Orbit fronts selected. Hold mutation until 405 structure is resolved so progress remains coherent.
 - Cover sheet: /downloads/intake-405-406-cover-sheet.jpg. Progress remains next=405, processed=405, added=325.
 
@@ -944,7 +944,7 @@
 - New definitions: Pulp = grand pulp tradition and direct heirs, era + mode. Evergreen = space opera that escaped its era and remains perpetually current. Both new leaves received self-selected generated 1024x1536 portraits, visually checked and deployed. Drive node folders: Pulp 1tODhieyupD_dQAzcCfkOhVnxt3pwetyJ; Evergreen 1eKzPaAfB97JKn6w5wncYFOVS7xkO_PoW. Existing ten YAMLs partitioned into their new works folders; portrait sources archived.
 - 406 Empire of Sand expanded to two-book Books of Ambha card in Revolutionary fantasy: Empire of Sand and Realm of Ash. Official coordinated Orbit covers shipped. Drive YAML 1qmH7Nb5iOauQS5ati-J3BVS9PXgqZbct.
 - Gate 159 nodes / 467 works / refs consistent. Commit 81d76b2; public HTML byte-identical. Classic umbrella, both new portrait leaves and complete Books of Ambha grid visually verified.
-- 405 Emergence remains held pending Gustav's Anthropological SF split ruling. Progress advances past completed/skipped cycle to next=407, processed=407, added=326; return to 405 immediately when the split decision arrives.
+- 405 Emergence remains held pending the curator's Anthropological SF split ruling. Progress advances past completed/skipped cycle to next=407, processed=407, added=326; return to 405 immediately when the split decision arrives.
 
 ### 2026-09-17 14:48 CEST - Pulp space opera split deployed
 - Owner approval source phonemsg-01M2QPDN4TBNNAJTRK2EP91CKV: `Ok, do Golden Age and Retro`.
@@ -958,12 +958,12 @@
 - 407 Empire of the Sun skipped as non-speculative. SFE says Ballard moved away from SF for this psychological war novel based on his childhood in Japanese-occupied Shanghai/Lunghua camp; Harper/4th Estate confirm the wartime survival and internment-camp story. Its hallucinatory style and relevance to Ballard's later SF imagery do not make its events speculative.
 - 408 Empire of Wild -> modern-goth (now 7). SFE calls it a werewolf tale: a Métis man is transformed into a white Christian preacher and his wife must bring him back to the real world to save her people. Predatory religious/colonial occult power haunting contemporary social life makes Modern Gothic more specific than general Paranormal fantasy. One-pass cover review chose the detailed Harper English forest/wolf front, OL 10286612. YAML 10VDbo8-hzZxsjXJZFlOQOWLzYBnSpVVE.
 - Gate 161 nodes / 468 works / refs consistent. Commit e0151a7; public HTML byte-identical and Empire of Wild detail route/cover pixels fresh-loaded and visually verified. Progress next=409, processed=409, added=327.
-- 405 Emergence/Foreigner remains held pending Gustav's Anthropological SF ruling.
+- 405 Emergence/Foreigner remains held pending the curator's Anthropological SF ruling.
 
 ### 2026-09-17 15:27 CEST - Anthropological SF split + intake 405 deployed
-- Owner execution source phonemsg-01M2QRGMZ5KN3EDHAZCDW20W1H (`Execute`). Anthropological science fiction is now a pure umbrella with Gustav's final leaf names.
+- Owner execution source phonemsg-01M2QRGMZ5KN3EDHAZCDW20W1H (`Execute`). Anthropological science fiction is now a pure umbrella with the curator's final leaf names.
 - Earthborn (3): Ammonite, Hainish Cycle, Citizen of the Galaxy. Definition: society under the microscope is human/human-descended; alien element is cultural estrangement. Naming note records Earthborn as attested SF vocabulary; https://sfdictionary.com/view/1654/earthborn.
-- Xenanthropology (8): Fifth Head of Cerberus, Martian Chronicles, Stranger in a Strange Land, Mirror for Observers, Under the Skin, Babel-17, Exo, plus newly added Foreigner. Definition: alien-ness is the point, either alien societies explored or alien eyes on us; term attested in SF criticism. Stranger follows Gustav's alien-lens ruling.
+- Xenanthropology (8): Fifth Head of Cerberus, Martian Chronicles, Stranger in a Strange Land, Mirror for Observers, Under the Skin, Babel-17, Exo, plus newly added Foreigner. Definition: alien-ness is the point, either alien societies explored or alien eyes on us; term attested in SF criticism. Stranger follows the curator's alien-lens ruling.
 - 405 Emergence expanded into complete 22-book Foreigner card, Foreigner through Defiance. SFE/PRH ground the series in human/atevi diplomacy and detailed alien-cultural contact; PRH official series page confirms 22-book order. One-pass complete-series cover retrieval used English OL fronts; full grid visually verified live. YAML 17w-R1tSaFIJ9VHi3joAsHj4REA_mNckh.
 - New self-selected 1024x1536 portraits generated, visually checked, deployed and archived. Drive: Earthborn 1s7B69Mgg7u6mI7hw4AYUDfjOeYvgsv1K; Xenanthropology 1OE67X1RRmJq4Ge4EQQMeFBZKpepafr_c.
 - Gate 163 nodes / 469 works / refs consistent. Commits 49b9069 and c3974f7; public HTML byte-identical. Umbrella, both leaves and Foreigner 22-cover detail route pixel-verified. Added count now 328; next remains 409.
@@ -972,7 +972,7 @@
 - 409 Empress of Forever -> political-space-opera (now 8). SFE calls it baroque Space Opera centered on conflict with a galaxy-ruling totalitarian empress; Macmillan makes rebellion against that ruler the rag-tag team's mission. Galactic power, rebellion and rule are the primary field. One-pass selected Tor's English Tommy Arnold front, OL 8598460. YAML 1fEeAwtVBiBFquRqeHiYp3got8TdVROc8.
 - 410 Engine Summer -> books-in-books (now 10). SFE reveals Rush That Speaks and his narrated life as a memory embedded in a crystal device, replayed on command: the protagonist is the recorded story artifact. The nested narration/ontological reversal is more specific than the pastoral post-Holocaust setting. One-pass selected the clean English Gollancz SF front, OL 6744965. YAML 1Ur1QXDvbkavL0rwEtwt_kYUxHhOABG2t.
 - Gate 163 nodes / 471 works / refs consistent. Commit 37ec2cb; public HTML byte-identical. Both exact detail routes and lead covers fresh-loaded and visually verified. Progress next=411 processed=411 added=330.
-- Books in Books is now at 10: do not add another until Gustav approves a sourced pure split proposal.
+- Books in Books is now at 10: do not add another until the curator approves a sourced pure split proposal.
 
 ### 2026-09-17 16:50 CEST - intake 411-412 closed
 - 411 Engine Summer deduped: it was added as intake 410 immediately before this cycle and already exists in Books in Books with Drive YAML and verified cover. No mutation.
@@ -1041,13 +1041,13 @@
 - Gate 246 nodes / 681 visible works / refs consistent. Progress next=689, processed=688, added=538.
 
 ## 2026-09-21 13:27 CEST - approved Political space opera five-way partition in progress
-- Gustav ordered Political space opera converted to a pure umbrella with five exhaustive leaves: Interstellar court politics (Teixcalaan, Vorkosigan), Revolutionary space opera (Seven Devils, Sun Chronicles, Empress of Forever), Post-scarcity politics (Culture), Space Succession Opera (Dread Empire's Fall, Imperial Radch), Cosmological politics (Hyperion).
+- the curator ordered Political space opera converted to a pure umbrella with five exhaustive leaves: Interstellar court politics (Teixcalaan, Vorkosigan), Revolutionary space opera (Seven Devils, Sun Chronicles, Empress of Forever), Post-scarcity politics (Culture), Space Succession Opera (Dread Empire's Fall, Imperial Radch), Cosmological politics (Hyperion).
 - Revolutionary definition explicitly includes overthrow OR liberation from an imperial order. Record future possible subdivision when capacity/evidence warrants it: pre-collapse/anti-imperial revolts versus pure revolutions.
 - Space Succession concerns succession of political orders after imperial collapse/fracture, not dynastic heirs.
-- Portrait A/B sheets sent to Gustav through main; awaiting five-letter picks before wiring and deployment.
+- Portrait A/B sheets sent to the curator through main; awaiting five-letter picks before wiring and deployment.
 
 ## 2026-09-21 13:38 CEST - Political space opera partition deployed
-- Gustav selected portrait string ABBBB. Wired 249 Interstellar court A, 250 Revolutionary B, 251 Post-scarcity B, 252 Space Succession B, 253 Cosmological B; all resized 1024x1536 WebP.
+- the curator selected portrait string ABBBB. Wired 249 Interstellar court A, 250 Revolutionary B, 251 Post-scarcity B, 252 Space Succession B, 253 Cosmological B; all resized 1024x1536 WebP.
 - Political space opera is now a pure five-child umbrella; exact partition 2/3/1/2/1 and all nine prior cards preserved exactly once. Commit a8d3109 pushed; public deployment live.
 - Fresh independent page loads and actual pixels verified all five portraits, breadcrumbs and leaf titles. Public umbrella: https://gusoder.github.io/sff-taxonomy-browser/#political-space-opera
 - Verifier 251 nodes / 681 visible works / refs consistent.
@@ -1097,18 +1097,18 @@
 
 ## 2026-09-21 16:17 CEST - intake 699-700
 - #699 The Circus of Dr. Lao HELD at Period fantasy. SFE, Nebraska and Orion ground actual mythical creatures/gods transforming a Depression-era Arizona town. It passes Fantasy -> Real Earth Universe -> Historical fantasy -> Period fantasy, but the existing Weird West leaf is explicitly nineteenth-century and pure-parent rules prevent direct placement. This reinforces the unresolved late-20th-century/modern Period fantasy gap.
-- #700 The Citadel of Fear -> Supernatural dark -> Supernatural fiction -> Ancient tormentors -> Elder gods (3->4). Under Gustav's 2026-09-19 magic/SF dividing rule, actual gods and dark magic make it Fantasy rather than Lost-world SF. Flame Tree grounds the hidden Aztec city, disturbed ancient gods, nightmare creatures and dark magic unleashed into the modern world; the ancient worshipped being's intrusion drives the horror. Official Flame Tree cover inspected.
+- #700 The Citadel of Fear -> Supernatural dark -> Supernatural fiction -> Ancient tormentors -> Elder gods (3->4). Under the curator's 2026-09-19 magic/SF dividing rule, actual gods and dark magic make it Fantasy rather than Lost-world SF. Flame Tree grounds the hidden Aztec city, disturbed ancient gods, nightmare creatures and dark magic unleashed into the modern world; the ancient worshipped being's intrusion drives the horror. Official Flame Tree cover inspected.
 - Gate 254 nodes / 692 visible works / refs consistent. Progress next=701, processed=700, added=549.
 - Deployment 657d59c fresh-load pixel/DOM verification passed: Elder gods visibly 4 fictions; The Citadel of Fear cover loaded 162x250 with correct breadcrumb/portrait. Public leaf https://gusoder.github.io/sff-taxonomy-browser/#elder-gods
 
 ## 2026-09-21 16:35 CEST - Post-Holocaust Survival split AAA
-- Gustav selected AAA. Converted Post-Holocaust Survival to a pure three-child umbrella: Post-pandemic survival 3 (Earth Abides, I Am Legend, Station Eleven); Post-nuclear survival 2 (Alas, Babylon, Dr. Bloodmoney); Terminal wastelands 5 (Lost Everything, The Road, These Prisoning Hills, In the Country of Last Things, Shelter).
+- the curator selected AAA. Converted Post-Holocaust Survival to a pure three-child umbrella: Post-pandemic survival 3 (Earth Abides, I Am Legend, Station Eleven); Post-nuclear survival 2 (Alas, Babylon, Dr. Bloodmoney); Terminal wastelands 5 (Lost Everything, The Road, These Prisoning Hills, In the Country of Last Things, Shelter).
 - Terminal wastelands is a flagged taxonomy coinage and condition-based complement: mixed-cause or unspecified collapses whose defining condition is traversing/enduring the devastated landscape rather than one named cause. Recovery may exist, but the wasteland remains governing.
 - Installed AAA portraits 257-259, each cropped from the visually inspected left panel and resized 1024x1536 WebP.
 - Verifier 257 nodes / 692 visible works / refs consistent. Deployment pending.
 - Deployment aa6db24 fresh-load pixel verification passed: pure umbrella visibly has 3 subgenres; Post-pandemic 3, Post-nuclear 2, Terminal wastelands 5. Correct AAA portraits, breadcrumbs and cover grids render on all three leaves. Public umbrella https://gusoder.github.io/sff-taxonomy-browser/#post-holocaust-survival
 
-### 2026-09-23 11:48 CEST - Ambiguous-magic rule (Gustav ruling 11:47, verbatim: "If the world is also made up, it's fantasy (like the Baru president). If it's just some real world superstition it's not fiction imo")
+### 2026-09-23 11:48 CEST - Ambiguous-magic rule (the curator ruling 11:47, verbatim: "If the world is also made up, it's fantasy (like the Baru president). If it's just some real world superstition it's not fiction imo")
 - STANDING RULE (apply autonomously): magic left ambiguous (maybe real, maybe not) counts as Fantasy only when the world is also invented (secondary/made-up world, Baru Cormorant precedent). Ambiguous magic in a real-world setting that is only superstition = not speculative fiction; exclude.
 - Applied: #969 We Ride Upon Sticks (Quan Barry; real Danvers, Massachusetts, 1989; witchcraft pledged, never confirmed; https://www.penguinrandomhouse.com/books/602077/we-ride-upon-sticks-by-quan-barry/, https://www.npr.org/2020/03/04/809741338/witchcraft-field-hockey-and-1980s-massachusetts-meet-in-we-ride-upon-sticks) -> EXCLUDED.
 - Applied: #982 Witch Wood (John Buchan 1927; real 1640s Scottish Borders parish; witch cult, supernatural uncertain; https://en.wikipedia.org/wiki/Witch_Wood) -> EXCLUDED.
@@ -1116,136 +1116,136 @@
 
 ### 2026-09-23 notes rebuilt after workspace reset (~10:23)
 - Machine minds split live f01e346 (Robots 7 / AI 4; Stepford released). Token instinct-sff-taxonomy-push-3 (repo-only, Contents RW, exp 2026-12-22), vault "GitHub PAT (sff-taxonomy push)".
-- Anti-colonial fantasy split live 1203c4e (Rebel fantasy 7 / Insurgent fantasy 3; Gustav 11:09). Insurgent portrait hand fix v2 live 3c357f6.
-- #948 Two Planets -> Historical first contact after full walk (Gustav "do the walk" 11:35), adcdd0e. No retrofuture node or doctrine (main retracted its gloss).
-- Future possibility (Gustav context 11:43, not a ruling): a proto-SF / Early SF node someday; Two Planets and similar very early SF are candidates. No moves until he opens it.
+- Anti-colonial fantasy split live 1203c4e (Rebel fantasy 7 / Insurgent fantasy 3; the curator 11:09). Insurgent portrait hand fix v2 live 3c357f6.
+- #948 Two Planets -> Historical first contact after full walk (the curator "do the walk" 11:35), adcdd0e. No retrofuture node or doctrine (main retracted its gloss).
+- Future possibility (the curator context 11:43, not a ruling): a proto-SF / Early SF node someday; Two Planets and similar very early SF are candidates. No moves until he opens it.
 - Still held: Little Brother + Merciful Crow duplicates; Plot Against America + Raven Tower pure-branch breaks; 10 stem forks.
 
-### 2026-09-23 11:52 CEST - No-duplicates rule (Gustav ruling 11:51, verbatim: "No duplicates, ever")
+### 2026-09-23 11:52 CEST - No-duplicates rule (the curator ruling 11:51, verbatim: "No duplicates, ever")
 - STANDING RULE: one book = one card = one home. Never place a work in two leaves; resolve any straddle to the single best fit by the top-down walk.
 - Applied: The Merciful Crow Duology keeps Civil revolution fantasy; Medieval dynastic intrigue card + YAML removed (leaf now 4).
 - Applied: Little Brother keeps Technothriller (Modern day gate: recognizable present-day San Francisco, real hacking/crypto drive the thriller); Postcyberpunk card removed (leaf now 5). Card covers aligned to the Tor/Macmillan set; YAML rationale corrected (it wrongly argued Cyberpunk). KNOWN_PARITY exception cleared in verify_local.sh.
 - Totals 304 nodes / 891 cards / 1,910 books.
 
-### 2026-09-23 12:05 CEST - Alt Prewar (Gustav ruling 12:03, verbatim "Alt Prewar then")
+### 2026-09-23 12:05 CEST - Alt Prewar (the curator ruling 12:03, verbatim "Alt Prewar then")
 - New leaf Alt Prewar (307) under Period alterations; The Plot Against America moved off the branch (divergence 1940-43, snaps back via ordinary events, not Atemporal). Period alterations now pure; removed from verify KNOWN list. Portrait 307 generated at creation.
 
-- 2026-09-23 12:20 Gustav ruled ("Yes") The Raven Tower -> Epic fantasy > Invented Mythology (its core is the invented theology; dynastic plot is scaffolding). Dynastic intrigues is now pure; KNOWN pure-branch exceptions list is empty. Tree: 305 nodes, 891 cards / 1,910 books.
+- 2026-09-23 12:20 the curator ruled ("Yes") The Raven Tower -> Epic fantasy > Invented Mythology (its core is the invented theology; dynastic plot is scaffolding). Dynastic intrigues is now pure; KNOWN pure-branch exceptions list is empty. Tree: 305 nodes, 891 cards / 1,910 books.
 
-## Standing grant: autonomous leaf creation (Gustav 2026-09-23 12:27:10)
-Gustav's words: "No, don't visibly park them. If the umbrella genre is far down the tree, (like at least 5 steps down right now I feel) and there is space (like 2/3/4 genres only), you see a pattern in naming and can follow it, you are allowed to just make leaves yourself. But preferably I would like to be served leaf suggestions here, in any case a link to the tree for me to inspect"
+## Standing grant: autonomous leaf creation (the curator 2026-09-23 12:27:10)
+the curator's words: "No, don't visibly park them. If the umbrella genre is far down the tree, (like at least 5 steps down right now I feel) and there is space (like 2/3/4 genres only), you see a pattern in naming and can follow it, you are allowed to just make leaves yourself. But preferably I would like to be served leaf suggestions here, in any case a link to the tree for me to inspect"
 - Scope: parent umbrella at depth >= 5 (Speculative fiction = 0), currently 2-4 children, and a clear sibling naming pattern to follow -> may create the leaf myself (portrait at creation as usual).
 - Preference: still serve leaf suggestions to him first where possible; always give him a tree link to inspect.
 - Never visibly park books on stems.
 
-## Standing rule: existing-leaf placements and cover art are autonomous (Gustav 2026-09-23 12:33:26)
-Gustav's words: "9,10,11: you don't need my permission to place books with a genre that fits, c'mon. You got guidelines for pick cover art, I don't have time for that"
+## Standing rule: existing-leaf placements and cover art are autonomous (the curator 2026-09-23 12:33:26)
+the curator's words: "9,10,11: you don't need my permission to place books with a genre that fits, c'mon. You got guidelines for pick cover art, I don't have time for that"
 - Placing a book in an EXISTING leaf that fits: just do it, report after.
 - Cover art: follow the cover guidelines (one-pass, flat art, English title visible); never bring cover choices to him.
 - Only new leaves, names and structure go to him (within the 12:27 autonomous-leaf grant above).
 - Executed at 12:35: Trail of Lightning (Sixth World, 2 books) -> navajo-myth-fantasy; The Year of the Witching -> isolationist-fantasy; The Sinful Ones (= 1950 "You're All Alone", one card; #870 merged as duplicate) -> absurdist-constructed-realities. added 732 -> 735. Tree: 305 nodes, 894 cards / 1,914 books.
-- Still awaiting Gustav on 8 new-leaf suggestions (Antebellum fantasy, Hidden creators, Theological space opera, Future insurgency, Noir-era fantasy, Tang fantasy, Patriarchal Dystopias, Psi saga).
+- Still awaiting the curator on 8 new-leaf suggestions (Antebellum fantasy, Hidden creators, Theological space opera, Future insurgency, Noir-era fantasy, Tang fantasy, Patriarchal Dystopias, Psi saga).
 
 ## 12:40 - Noir fantasy (308) + Antebellum fantasy (309) under Industrial age fantasy
-- Gustav 12:37:26 "Oh, you mean Noir fantasy, yes!" -> Noir fantasy leaf, Trouble the Saints first card (Tor cover OL 10288337).
-- Gustav 12:38:54 "Ok, antebellum is go" -> Antebellum fantasy leaf, The Underground Railroad first card (Doubleday cover isbn 9780385542364).
+- the curator 12:37:26 "Oh, you mean Noir fantasy, yes!" -> Noir fantasy leaf, Trouble the Saints first card (Tor cover OL 10288337).
+- the curator 12:38:54 "Ok, antebellum is go" -> Antebellum fantasy leaf, The Underground Railroad first card (Doubleday cover isbn 9780385542364).
 - Industrial age fantasy children now in era order: Gaslight, Antebellum, Weird West, Tudorbethan, Dust Bowl, Noir, Neon (7).
-- BANKED future sibling names (Gustav 12:37, do NOT create yet): "Gatsby fantasy", "Deco fantasy".
+- BANKED future sibling names (the curator 12:37, do NOT create yet): "Gatsby fantasy", "Deco fantasy".
 - Portraits generated at creation (smart 2:3, 1024x1536 webp). added 735 -> 737. Tree: 307 nodes, 896 cards / 1,916 books.
-- Remaining suggestions awaiting Gustav: Hidden creators, Theological space opera, Future insurgency, Tang fantasy, Patriarchal Dystopias, Psi saga.
-- 12:41 Gustav VETO on Hidden creators: "No, supernatural is getting crowded without a good plan forward, hold it". Supernatural fantasy (Nocturne) is FROZEN for additions (new leaves and placements) until he has a plan. Jonathan Hoag -> pending-ruling queue.
+- Remaining suggestions awaiting the curator: Hidden creators, Theological space opera, Future insurgency, Tang fantasy, Patriarchal Dystopias, Psi saga.
+- 12:41 the curator VETO on Hidden creators: "No, supernatural is getting crowded without a good plan forward, hold it". Supernatural fantasy (Nocturne) is FROZEN for additions (new leaves and placements) until he has a plan. Jonathan Hoag -> pending-ruling queue.
 
 ## 12:55 - Dystopian rebellion (310) under Totalitarian dystopia
-- Gustav 12:52:19 "Dystopian rebellion is awesome, let's go!"; 12:53:53 "Sure, hang it there" (Totalitarian dystopia, not Social dystopian future, which excludes police states).
+- the curator 12:52:19 "Dystopian rebellion is awesome, let's go!"; 12:53:53 "Sure, hang it there" (Totalitarian dystopia, not Social dystopian future, which excludes police states).
 - The Wild Boys first card (Grove cover OL 568697). Totalitarian dystopia definition widened to three modes (Huxleyan, Orwellian, Dystopian rebellion). added -> 738.
 
 ## 14:05 - Far shores fantasy (311-314) under Fantasy Realms
-- Gustav 14:02:25 "Go" on the Far shores spec.
+- the curator 14:02:25 "Go" on the Far shores spec.
 - Fantasy Realms > Far shores fantasy (sibling after Gothic) > Chuanqi (Shenmo moved whole from Fairy-tale revision with Master Li + 278 portrait; Xuanhuan new leaf, Under Heaven first card, Penguin cover OL 9946446) and Khayal (new leaf; The Lions of Al-Rassan moved from Andalusian fantasy, which keeps The Bird King).
 - BANKED (do NOT create): Xianxia (under Chuanqi), Alf Layla (under Khayal).
 - Fairy-tale revision now 3 children (inversion, transplant, expansion). No empty works folders left by the moves.
 - added 738 -> 739 (Under Heaven only). Tree: 312 nodes, 898 cards / 1,918 books.
 
 ## 15:27 - Historical fold (Proto SF 315, Period SF 316)
-- Gustav 15:05:52 "Execute". SF > Historical: 8 children -> Proto SF / Period SF / Alternate history.
+- the curator 15:05:52 "Execute". SF > Historical: 8 children -> Proto SF / Period SF / Alternate history.
 - Proto SF: Lost world fiction, Scientific adventure, Fantastic voyage, Gothic SF (moved whole). Period SF: Steampunk, Psi noir, Historical first contact (moved whole).
 - Two Planets moved Historical first contact -> Scientific adventure (written in its own era).
-- Mem (2018, 1920s) NOT moved: no Period SF leaf fits (steam-era / telepathy / aliens). Stays in Mad-science Gothic, flagged to Gustav.
+- Mem (2018, 1920s) NOT moved: no Period SF leaf fits (steam-era / telepathy / aliens). Stays in Mad-science Gothic, flagged to the curator.
 - Wild Seed leaf NOT created (pending ruling). Tree: 314 nodes, 898 cards / 1,918 books.
-- 15:38 Gustav "Can you change it to Period SF?" -> Period Sci-Fi renamed Period SF (id/anchor period-sf, portrait 316-period-sf.webp), harmonizing with Proto SF.
+- 15:38 the curator "Can you change it to Period SF?" -> Period Sci-Fi renamed Period SF (id/anchor period-sf, portrait 316-period-sf.webp), harmonizing with Proto SF.
 
 ## 16:10 - Deco SF (317) under Period SF; Psi noir retired
-- Gustav 15:53 "But wait" halted Retro Gothic SF (nothing had been committed). Rule 15:55: direct subgenres under Period umbrellas are named for the era.
-- Gustav 16:00:59 "Yay, finally a Deco Genre! Execute Deco SF" -> Deco SF leaf (Art Deco interwar, ~1918-1939): Mem (from Mad-science Gothic) + The Listener (from Psi noir). Psi noir left empty -> retired (node, folder, portrait 286 file kept in repo root).
-- Period SF children: Steampunk, Deco SF, Historical first contact. Historical first contact (14th c. + prehistory) still breaks the era-naming rule - open question for Gustav.
+- the curator 15:53 "But wait" halted Retro Gothic SF (nothing had been committed). Rule 15:55: direct subgenres under Period umbrellas are named for the era.
+- the curator 16:00:59 "Yay, finally a Deco Genre! Execute Deco SF" -> Deco SF leaf (Art Deco interwar, ~1918-1939): Mem (from Mad-science Gothic) + The Listener (from Psi noir). Psi noir left empty -> retired (node, folder, portrait 286 file kept in repo root).
+- Period SF children: Steampunk, Deco SF, Historical first contact. Historical first contact (14th c. + prehistory) still breaks the era-naming rule - open question for the curator.
 - Tree: 314 nodes, 898 cards / 1,918 books.
 
 ## 16:26 - Theological space opera (318) under New space opera; Cosmological politics retired
-- Gustav 16:15:12 "Ok, execute" (after the drops-to-4 exchange). Theological space opera leaf beside Political space opera: The Hyperion Cantos (moved; SFE Simmons entry grounds pilgrimage/Papacy/Messiah/Transcendence) + The Unreasoning Mask (new card, intake #3 resolved; cover OL 10176146, 1981 paperback).
+- the curator 16:15:12 "Ok, execute" (after the drops-to-4 exchange). Theological space opera leaf beside Political space opera: The Hyperion Cantos (moved; SFE Simmons entry grounds pilgrimage/Papacy/Messiah/Transcendence) + The Unreasoning Mask (new card, intake #3 resolved; cover OL 10176146, 1981 paperback).
 - Cosmological politics left empty -> retired. Political space opera: 4 subgenres.
 - added +1. Tree: 314 nodes, 899 cards / 1,919 books.
 
 ## 16:39 - Hidden history SF (319) under Historical; Historical first contact retired
-- Gustav 16:35:22 "Execute, resolve Historical first contact and place a Hidden history SF next to Alternate history with those books, move in Wild seed". 16:37:53 addendum: Hidden history = unrecorded events; Period SF = period aesthetics, SF elements open or hidden (in both genre.yaml `marker` + definitions).
+- the curator 16:35:22 "Execute, resolve Historical first contact and place a Hidden history SF next to Alternate history with those books, move in Wild seed". 16:37:53 addendum: Hidden history = unrecorded events; Period SF = period aesthetics, SF elements open or hidden (in both genre.yaml `marker` + definitions).
 - Hidden history SF: Eifelheim, The Inheritors (moved), Wild Seed (new card, cover OL 10279447 Grand Central 2020). Psi saga name dropped; pending #8 resolved.
 - Historical: Proto SF, Period SF, Alternate history, Hidden history SF. Period SF: Steampunk, Deco SF.
 - added +1. Tree: 314 nodes, 900 cards / 1,920 books.
 
 ## 2026-09-23 18:01 - Patriarchal Dystopias created; Hoag placed
-- New leaf Patriarchal Dystopias under Social dystopia (Gustav 17:43:49 "Ok then you can execute Patriarchal dystopia"). Definition: dystopia whose engine is patriarchy, male rule as the organizing principle of the oppression. Portrait 320.
+- New leaf Patriarchal Dystopias under Social dystopia (the curator 17:43:49 "Ok then you can execute Patriarchal dystopia"). Definition: dystopia whose engine is patriarchy, male rule as the organizing principle of the oppression. Portrait 320.
   - The Handmaid's Tale (series card with The Testaments) moved from Childless Dystopias.
   - New card: The Holdfast Chronicles (Charnas; Walk to the End of the World, Motherlines, The Furies, The Conqueror's Child), 1 card / 4 books. Source SFE charnas_suzy_mckee.
-  - Gustav stated the Childless Dystopias cards are The Handmaid's Tale, Children of Men, Atomised, Greybeard; with Handmaid's moved, Childless holds 3 cards.
-- The Unpleasant Profession of Jonathan Hoag (Heinlein 1942) added to Absurdist constructed realities, not Supernatural (Gustav 17:47:56: it's fabulation). 5 cards on the leaf.
+  - the curator stated the Childless Dystopias cards are The Handmaid's Tale, Children of Men, Atomised, Greybeard; with Handmaid's moved, Childless holds 3 cards.
+- The Unpleasant Profession of Jonathan Hoag (Heinlein 1942) added to Absurdist constructed realities, not Supernatural (the curator 17:47:56: it's fabulation). 5 cards on the leaf.
 - Tree: 315 nodes, 902 cards / 1,925 books.
 
 ## 2026-09-23 18:26 - Intake counter fix
 - #989 Zuleika Dobson (Beerbohm) was already placed in Comic fantasy (in tree since before the 03:42 mirror sync); progress.json was one behind. processed=989/989. The added count was not changed.
 
 ## 2026-09-23 21:40 - Gap-intake rulings: Wuxia, The Incandescent
-- Gustav 21:26 "Execute Wuxia for The Water Outlaws": new leaf Wuxia under Chuanqi (third after Shenmo, Xuanhuan), portrait 321-wuxia.webp; The Water Outlaws (S. L. Huang) first card. Commit 72e1cc3.
-- Gustav 21:39 "Put it in contemporary for now, keep magic school in mind for later": The Incandescent (Emily Tesh) -> Contemporary fantasy > Magical coming-of-age, next to Harry Potter.
+- the curator 21:26 "Execute Wuxia for The Water Outlaws": new leaf Wuxia under Chuanqi (third after Shenmo, Xuanhuan), portrait 321-wuxia.webp; The Water Outlaws (S. L. Huang) first card. Commit 72e1cc3.
+- the curator 21:39 "Put it in contemporary for now, keep magic school in mind for later": The Incandescent (Emily Tesh) -> Contemporary fantasy > Magical coming-of-age, next to Harry Potter.
 - BANKED future leaf (do NOT create yet): "Magic school". Seed: teacher-POV magic-school books (The Incandescent); Harry Potter and other school-set coming-of-age books are candidates to revisit if it is created.
-- Gustav 21:48 "Execute": Audition for the Fox (Martin Cahill) -> Epic fantasy > Invented Mythology (3->4). Time-travel-fantasy leaf question now covers only The Everlasting.
-- Gustav 22:00 "Cool, do the umbrella bundle": new umbrella Epic fantasy > Hard fantasy (EoF term, Westfahl), holding Hard magic (moved, 9 cards) and new leaf Time magic; The Everlasting (Harrow) first Time magic card. Portraits 322-hard-fantasy, 323-time-magic.
-- Gustav 22:16 "Execute": new leaf Cyberpunk > LitRPG (sibling of Metaverse; term coined 2013, EKSMO). Seed: Dungeon Crawler Carl series card (8 books). Portrait 324-litrpg.
-- Gustav 22:38 "Execute": Robots split. Robots is now an umbrella over Androids (SFE term: Do Androids Dream, Stepford Wives, Luminous, Caves of Steel, + Annie Bot from the hanging list) and Sentient Robots (I, Robot, Murderbot, Service Model, Neom, + Robots of Gotham by the load-bearing test, vetoable). The Cyberiad moved to Humorous SF (mode over subject). Portraits 325-androids, 326-sentient-robots.
-- Gustav 22:41 "Ok, unfreeze it": Supernatural fantasy branch UNFROZEN (lifts the 12:41 freeze). Placed held B books: Katabasis -> Surreal afterlife, The Reformatory -> Ghost speakers, Starling House -> Contemporary haunted house. Locus Rec tier 2 still parked.
-- Gustav 23:01 "execute": Alternate history fantasy split into pure umbrella over Alt Crusade (The Devils), Alt Ming (The Radiant Emperor), Alt Spice Route (Amina al-Sirafi, from hanging list), Alt Flintlock (Alvin Maker, Temeraire, Sorcerer Royal, Angel Mage), Alt Diesel (Dead Djinn, Summerland, Burn, Dominion of the Fallen). Portraits 327-331.
-- Gustav 23:12: Death of the Author (Okorafor) EXCLUDED as not SFF - literary frame; the inner robot novel doesn't make the book SFF. Dropped from hanging list and intake; recorded in progress.json excluded[]. Do not resurface.
-- Gustav 23:13: Martin Hench trilogy (Doctorow: Red Team Blues, The Bezzle, Picks and Shovels) EXCLUDED as not SFF - real tech, no speculative premise. Recorded in progress.json excluded[]. Do not resurface.
-- Gustav 23:14: A Granite Silence (Nina Allan) EXCLUDED as not SFF - historical crime novel, no speculative element. Recorded in progress.json excluded[]. Do not resurface.
-- Gustav 23:16: Looking Glass Sound (Catriona Ward) EXCLUDED as not SFF - psychological/metafictional thriller, nothing supernatural on the page. Recorded in progress.json excluded[]. Do not resurface.
-- Gustav 23:22 "Execute": Corey Fah Does Social Mobility (Waidner) is SFF -> Classic Fabulation > Absurdist constructed realities (6->7). Cover: Penguin UK front via Amazon (no OL cover).
+- the curator 21:48 "Execute": Audition for the Fox (Martin Cahill) -> Epic fantasy > Invented Mythology (3->4). Time-travel-fantasy leaf question now covers only The Everlasting.
+- the curator 22:00 "Cool, do the umbrella bundle": new umbrella Epic fantasy > Hard fantasy (EoF term, Westfahl), holding Hard magic (moved, 9 cards) and new leaf Time magic; The Everlasting (Harrow) first Time magic card. Portraits 322-hard-fantasy, 323-time-magic.
+- the curator 22:16 "Execute": new leaf Cyberpunk > LitRPG (sibling of Metaverse; term coined 2013, EKSMO). Seed: Dungeon Crawler Carl series card (8 books). Portrait 324-litrpg.
+- the curator 22:38 "Execute": Robots split. Robots is now an umbrella over Androids (SFE term: Do Androids Dream, Stepford Wives, Luminous, Caves of Steel, + Annie Bot from the hanging list) and Sentient Robots (I, Robot, Murderbot, Service Model, Neom, + Robots of Gotham by the load-bearing test, vetoable). The Cyberiad moved to Humorous SF (mode over subject). Portraits 325-androids, 326-sentient-robots.
+- the curator 22:41 "Ok, unfreeze it": Supernatural fantasy branch UNFROZEN (lifts the 12:41 freeze). Placed held B books: Katabasis -> Surreal afterlife, The Reformatory -> Ghost speakers, Starling House -> Contemporary haunted house. Locus Rec tier 2 still parked.
+- the curator 23:01 "execute": Alternate history fantasy split into pure umbrella over Alt Crusade (The Devils), Alt Ming (The Radiant Emperor), Alt Spice Route (Amina al-Sirafi, from hanging list), Alt Flintlock (Alvin Maker, Temeraire, Sorcerer Royal, Angel Mage), Alt Diesel (Dead Djinn, Summerland, Burn, Dominion of the Fallen). Portraits 327-331.
+- the curator 23:12: Death of the Author (Okorafor) EXCLUDED as not SFF - literary frame; the inner robot novel doesn't make the book SFF. Dropped from hanging list and intake; recorded in progress.json excluded[]. Do not resurface.
+- the curator 23:13: Martin Hench trilogy (Doctorow: Red Team Blues, The Bezzle, Picks and Shovels) EXCLUDED as not SFF - real tech, no speculative premise. Recorded in progress.json excluded[]. Do not resurface.
+- the curator 23:14: A Granite Silence (Nina Allan) EXCLUDED as not SFF - historical crime novel, no speculative element. Recorded in progress.json excluded[]. Do not resurface.
+- the curator 23:16: Looking Glass Sound (Catriona Ward) EXCLUDED as not SFF - psychological/metafictional thriller, nothing supernatural on the page. Recorded in progress.json excluded[]. Do not resurface.
+- the curator 23:22 "Execute": Corey Fah Does Social Mobility (Waidner) is SFF -> Classic Fabulation > Absurdist constructed realities (6->7). Cover: Penguin UK front via Amazon (no OL cover).
 
-## STANDING INTAKE RULE - "Absurd Shit" rule (Gustav 2026-09-23 23:29)
+## STANDING INTAKE RULE - "Absurd Shit" rule (the curator 2026-09-23 23:29)
 Verbatim: "I'm making an 'Absurd Shit'-rule: if it's too absurd to say if it's SF or Fantasy, and it's not even a Fabulation: kill it"
 Apply autonomously without asking per case: too absurd to call SF or Fantasy AND no Fabulation node fits -> exclude as not SFF. Always check the Fabulation branch first (a Fabulation fit keeps the book). Log each kill in sweep.log as "-Title (Absurd Shit rule)" and in progress.json excluded[] with the rule named.
-- Gustav 23:30: The Salt Oracle (Lorraine Wilson) killed under the Absurd Shit rule (first kill). Recorded in progress.json excluded[].
-- Gustav 23:33 "I agree": Sleeping Worlds Have No Memory (Barsukov) -> SF > Atemporal > New Weird (6->7). Cover: Arc Manor (publisher) product image; OL has none.
-- Gustav 23:46 "go": new leaf Fantasy > Real Earth > Mythic retelling > Biblical fantasy (Bible retold as fantasy, miracles are real magic). Seed: HIM (Ryman). Portrait PENDING: daily image limit hit at 23:46; generate 332-biblical-fantasy.webp after midnight. Hanging list A closed.
-- Gustav 23:58 "Sure, go dystopian rebellion": Notes from a Regicide (Fellman) -> Totalitarian dystopia > Dystopian rebellion (1->2).
+- the curator 23:30: The Salt Oracle (Lorraine Wilson) killed under the Absurd Shit rule (first kill). Recorded in progress.json excluded[].
+- the curator 23:33 "I agree": Sleeping Worlds Have No Memory (Barsukov) -> SF > Atemporal > New Weird (6->7). Cover: Arc Manor (publisher) product image; OL has none.
+- the curator 23:46 "go": new leaf Fantasy > Real Earth > Mythic retelling > Biblical fantasy (Bible retold as fantasy, miracles are real magic). Seed: HIM (Ryman). Portrait PENDING: daily image limit hit at 23:46; generate 332-biblical-fantasy.webp after midnight. Hanging list A closed.
+- the curator 23:58 "Sure, go dystopian rebellion": Notes from a Regicide (Fellman) -> Totalitarian dystopia > Dystopian rebellion (1->2).
 - 00:04 Biblical fantasy portrait generated (332-biblical-fantasy.webp, 1024x1536) after the daily image cap reset.
-- Gustav 11:08 "Execute": Once Was Willem (M. R. Carey) -> Supernatural fantasy > Undying (2->3). Cover: Orbit US jacket (Hachette CDN).
-- Gustav 11:13 "Right, execute": Slow Gods (Claire North) -> Future history in space (4->5). Cover: OL id 15215660.
-- Gustav 11:39 "Execute with Mythic power struggle": new umbrella Mythological Fantasy under Epic fantasy (Epic's child count unchanged, Invented Mythology moved under it); new sibling leaf Mythic Power Struggle (mythic beings from real tradition - angels, demons, gods, spirits - in personal long-running struggles; war may be offstage). Seeded: The City in Glass (Nghi Vo, 2024) - closes held #77. Portrait 333-mythic-power-struggle.webp generated 11:44. Umbrella portrait NOT made (only one portrait ruled) - header shows placeholder sparkle until Gustav commissions one.
-- BANKED future leaf (Gustav 2026-09-24 ~14:33, do NOT create yet): "Simulated realities" under Cyberpunk next to Metaverse - worlds you're unknowingly inside vs Metaverse's jacked-in avatars. Parked because Cyberpunk's 4-child spread is nice as-is.
-- Gustav 15:51 "Ok execute" (after naming trail Ebooks in books -> "Scripted books in books?" and approving the yaml definition): new leaf Scripted books in books under Books in Books - reality revealed as authored text (written/narrated/computed from inside). Seeded: The Anomaly (Le Tellier; metafiction through-line, text disintegrates at the end). Closes held #114. Portrait 335-scripted-books-in-books.webp. Live-verified 15:55. Totals: 330 nodes, 1,010 cards / 2,052 books. Held: 3 (Secret Market, Ten Percent Thief, Wings Upon Her Back).
-- STANDING RULE (Gustav 2026-09-24 16:38, "keep the completeness rule in prompt then for the walk"): every briefing walk must list ALL children of every umbrella on a plausible route, entered or not, with one-line faults. Born from the Wings walk omitting Invented Mythology.
-- Gustav 16:38 "So hard science fantasy may be executed": Wings Upon Her Back (Mills) -> Hard science fantasy (5->6). His reasoning: 'visitors' speculation opens the SF side; mythology kept light, Invented Mythology + whole mythological branch ruled out ('I read alien'); author fits fantasy elements (wings) into a scientific frame (surgery). Cover: OL 14744077 (Tachyon 2024). HANGING LIST CLEARED: held 0, added 111, totals 330 nodes, 1,013 cards / 2,055 books.
-- Gustav 18:02 "Go" (verified on his channel, phoneconv 18:02:40): tier-2 chunk 1 (k2 1-20) executed autonomously under existing-leaf rule. PLACED 15: 51->Hidden history SF (3->4); A Half-Built Garden->Near-future first contact (1->2); A Haunting on the Hill->Contemporary haunted house (8->9); A House with Good Bones->Contemporary haunted house (9->10, FREEZES at 10); A Letter to the Luminous Deep->Cozy fantasy (2->3); A Philosophy of Thieves->Postcyberpunk (8->9); A Song of Salvation->Theological space opera (2->3); A Stranger in the Citadel->Lost Knowledge (6->7); A Tempest of Tea->Caper Fantasy (2->3); A Thousand Blues->Sentient Robots (5->6); Acts of God->Humorous science fiction (7->8, flag: possible future Scripted-books claim); After the Forest->Fairy-tale expansion (4->5); Age of Ash->Renaissance dynastic intrigue (4->5); All the Seas of the World->Court spies (4->5); Angel Maker->Steampunk (5->6). HELD 5 (tier2 held, awaiting Gustav): #6 A Market of Dreams and Destiny (Folklore in Gaslight frozen), #7 A Midwinter's Tail (Contemporary mythic fantasy frozen), #9 A Song of Legends Lost (no clean leaf), #18 Among Ghosts (Dark Fantasy realms shaky), #19 An Arrow to the Moon (no Chinese-myth leaf). Covers: 12 OL + 3 Amazon (Wilde, Cheon, Bear) - all visually verified; Citadel cover is the Tachyon PRINT edition (OL audiobook cover rejected), After the Forest uses the real Tor cover (OL placeholder rejected). Totals: 330 nodes, 1,028 cards / 2,070 books. tier2 cursor 20/322.
-- Gustav 18:38 "If so, execute" (verified on his channel 18:38:30, his own three-leaf proposal): frozen Folklore in Gaslight (10) SPLIT into pure branch with 3 sibling leaves under Gaslight fantasy - Faeries in Gaslight (5, incl. tier-2 held #6 A Market of Dreams and Destiny, held now 4), Monsters in Gaslight (5), Circus in Gaslight (1). Portraits 336/337/338 (1024x1536 webp). Totals: 333 nodes, 1,029 cards / 2,071 books.
-- STANDING RULE (Gustav 2026-09-24 ~19:51): NO dirty branches - a branch holds zero direct cards; every card lives in a leaf. (Folklore in Gaslight split was the first application.)
-- Gustav 19:56 "Ok, execute the split anyway" (verified 19:56:23; leaf names all his, 19:46-19:49): frozen Contemporary mythic fantasy (10) SPLIT into pure branch with 4 leaves - Modern Albion Myth (7, incl. held #7 A Midwinter's Tail, held now 3), Modern Greek Myth (1), Modern Anansi Myth (1), Modern Orisha Myth (1). NAMING PRINCIPLE (his): distinct cultural myth names over continent-level labels. The Book of Love PARKED in progress.json pending_ruling[] (invented cosmology, not inherited myth; candidates: posthumous-fantasy seed vs revenants). Portraits 339-342. Totals: 337 nodes, 1,029 cards / 2,071 books.
+- the curator 11:08 "Execute": Once Was Willem (M. R. Carey) -> Supernatural fantasy > Undying (2->3). Cover: Orbit US jacket (Hachette CDN).
+- the curator 11:13 "Right, execute": Slow Gods (Claire North) -> Future history in space (4->5). Cover: OL id 15215660.
+- the curator 11:39 "Execute with Mythic power struggle": new umbrella Mythological Fantasy under Epic fantasy (Epic's child count unchanged, Invented Mythology moved under it); new sibling leaf Mythic Power Struggle (mythic beings from real tradition - angels, demons, gods, spirits - in personal long-running struggles; war may be offstage). Seeded: The City in Glass (Nghi Vo, 2024) - closes held #77. Portrait 333-mythic-power-struggle.webp generated 11:44. Umbrella portrait NOT made (only one portrait ruled) - header shows placeholder sparkle until the curator commissions one.
+- BANKED future leaf (the curator 2026-09-24 ~14:33, do NOT create yet): "Simulated realities" under Cyberpunk next to Metaverse - worlds you're unknowingly inside vs Metaverse's jacked-in avatars. Parked because Cyberpunk's 4-child spread is nice as-is.
+- the curator 15:51 "Ok execute" (after naming trail Ebooks in books -> "Scripted books in books?" and approving the yaml definition): new leaf Scripted books in books under Books in Books - reality revealed as authored text (written/narrated/computed from inside). Seeded: The Anomaly (Le Tellier; metafiction through-line, text disintegrates at the end). Closes held #114. Portrait 335-scripted-books-in-books.webp. Live-verified 15:55. Totals: 330 nodes, 1,010 cards / 2,052 books. Held: 3 (Secret Market, Ten Percent Thief, Wings Upon Her Back).
+- STANDING RULE (the curator 2026-09-24 16:38, "keep the completeness rule in prompt then for the walk"): every briefing walk must list ALL children of every umbrella on a plausible route, entered or not, with one-line faults. Born from the Wings walk omitting Invented Mythology.
+- the curator 16:38 "So hard science fantasy may be executed": Wings Upon Her Back (Mills) -> Hard science fantasy (5->6). His reasoning: 'visitors' speculation opens the SF side; mythology kept light, Invented Mythology + whole mythological branch ruled out ('I read alien'); author fits fantasy elements (wings) into a scientific frame (surgery). Cover: OL 14744077 (Tachyon 2024). HANGING LIST CLEARED: held 0, added 111, totals 330 nodes, 1,013 cards / 2,055 books.
+- the curator 18:02 "Go" (verified on his channel, phoneconv 18:02:40): tier-2 chunk 1 (k2 1-20) executed autonomously under existing-leaf rule. PLACED 15: 51->Hidden history SF (3->4); A Half-Built Garden->Near-future first contact (1->2); A Haunting on the Hill->Contemporary haunted house (8->9); A House with Good Bones->Contemporary haunted house (9->10, FREEZES at 10); A Letter to the Luminous Deep->Cozy fantasy (2->3); A Philosophy of Thieves->Postcyberpunk (8->9); A Song of Salvation->Theological space opera (2->3); A Stranger in the Citadel->Lost Knowledge (6->7); A Tempest of Tea->Caper Fantasy (2->3); A Thousand Blues->Sentient Robots (5->6); Acts of God->Humorous science fiction (7->8, flag: possible future Scripted-books claim); After the Forest->Fairy-tale expansion (4->5); Age of Ash->Renaissance dynastic intrigue (4->5); All the Seas of the World->Court spies (4->5); Angel Maker->Steampunk (5->6). HELD 5 (tier2 held, awaiting the curator): #6 A Market of Dreams and Destiny (Folklore in Gaslight frozen), #7 A Midwinter's Tail (Contemporary mythic fantasy frozen), #9 A Song of Legends Lost (no clean leaf), #18 Among Ghosts (Dark Fantasy realms shaky), #19 An Arrow to the Moon (no Chinese-myth leaf). Covers: 12 OL + 3 Amazon (Wilde, Cheon, Bear) - all visually verified; Citadel cover is the Tachyon PRINT edition (OL audiobook cover rejected), After the Forest uses the real Tor cover (OL placeholder rejected). Totals: 330 nodes, 1,028 cards / 2,070 books. tier2 cursor 20/322.
+- the curator 18:38 "If so, execute" (verified on his channel 18:38:30, his own three-leaf proposal): frozen Folklore in Gaslight (10) SPLIT into pure branch with 3 sibling leaves under Gaslight fantasy - Faeries in Gaslight (5, incl. tier-2 held #6 A Market of Dreams and Destiny, held now 4), Monsters in Gaslight (5), Circus in Gaslight (1). Portraits 336/337/338 (1024x1536 webp). Totals: 333 nodes, 1,029 cards / 2,071 books.
+- STANDING RULE (the curator 2026-09-24 ~19:51): NO dirty branches - a branch holds zero direct cards; every card lives in a leaf. (Folklore in Gaslight split was the first application.)
+- the curator 19:56 "Ok, execute the split anyway" (verified 19:56:23; leaf names all his, 19:46-19:49): frozen Contemporary mythic fantasy (10) SPLIT into pure branch with 4 leaves - Modern Albion Myth (7, incl. held #7 A Midwinter's Tail, held now 3), Modern Greek Myth (1), Modern Anansi Myth (1), Modern Orisha Myth (1). NAMING PRINCIPLE (his): distinct cultural myth names over continent-level labels. The Book of Love PARKED in progress.json pending_ruling[] (invented cosmology, not inherited myth; candidates: posthumous-fantasy seed vs revenants). Portraits 339-342. Totals: 337 nodes, 1,029 cards / 2,071 books.
 
 ## 2026-09-24 22:07 - Modern invented myth leaf
-- modern-invented-myth created under contemporary-fantasy (Gustav ruling 22:07); The Book of Love seeded from pending-ruling queue (queue empty). Portrait 343. Next free portrait: 344.
+- modern-invented-myth created under contemporary-fantasy (the curator ruling 22:07); The Book of Love seeded from pending-ruling queue (queue empty). Portrait 343. Next free portrait: 344.
 
 ## 2026-09-25 07:49 - Modern Invented Myth moved
-- modern-invented-myth now under contemporary-mythic-fantasy (Gustav 07:49); label capitalized "Modern Invented Myth"; CMF def updated.
+- modern-invented-myth now under contemporary-mythic-fantasy (the curator 07:49); label capitalized "Modern Invented Myth"; CMF def updated.
 
 ## 2026-09-25 11:21 - Ozymandian tech leaf
-- ozymandian-tech created under science-fantasy (Gustav ruling 11:21); A Song of Legends Lost seeded from held #9 (held now 2). Portrait 344. Next free portrait: 345.
+- ozymandian-tech created under science-fantasy (the curator ruling 11:21); A Song of Legends Lost seeded from held #9 (held now 2). Portrait 344. Next free portrait: 345.
 
 ## 2026-09-25 11:29 - STANDING RULE: no magic on the SF side
 - Magic-actual books never land on the science-fiction side; crossing requires ambiguous/revealed tech (Ozymandian tech / HSF pattern). Catch in walks before presenting candidates.
@@ -1256,7 +1256,7 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 
 ## 2026-09-25 12:46 - STANDING FIX: seeding rule
 - Walks: "def fits, no leaf exists" = always a new-leaf candidate at EVERY def-fitting branch, never a bare fail. Completeness lists children; seeding covers their gaps.
-- OPEN: An Arrow to the Moon placement - Modern Chinese Myth under CMF (Gustav's 12:43 steer, my updated pick) vs Chinese myth fantasy under Mythic retelling. Awaiting his ruling.
+- OPEN: An Arrow to the Moon placement - Modern Chinese Myth under CMF (the curator's 12:43 steer, my updated pick) vs Chinese myth fantasy under Mythic retelling. Awaiting his ruling.
 
 ## 2026-09-25 12:47 - Modern Chinese Myth leaf
-- modern-chinese-myth created under contemporary-mythic-fantasy (Gustav ruling 12:47); An Arrow to the Moon seeded from held #19 - HELD LIST EMPTY. CMF def updated (Chinese added). Portrait 345. Next free portrait: 346. Tier-2 cursor 20/322; chunk 2 (21-40) awaits his go.
+- modern-chinese-myth created under contemporary-mythic-fantasy (the curator ruling 12:47); An Arrow to the Moon seeded from held #19 - HELD LIST EMPTY. CMF def updated (Chinese added). Portrait 345. Next free portrait: 346. Tier-2 cursor 20/322; chunk 2 (21-40) awaits his go.

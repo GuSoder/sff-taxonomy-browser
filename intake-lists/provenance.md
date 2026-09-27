@@ -1,6 +1,6 @@
 # Candidate queue 2026-09-12 (1000-book goal)
 
-`candidates-2026-09-12.json` is the active intake queue for Gustav's 2026-09-12 work order: grow the taxonomy toward 1000 books from published best-of lists.
+`candidates-2026-09-12.json` is the active intake queue for the curator's 2026-09-12 work order: grow the taxonomy toward 1000 books from published best-of lists.
 
 - 989 unique candidates (updated same day with modern-decade lists), pre-sorted by list frequency (score = number of source lists citing the book).
 - Fields: title, author, score, lists (source list ids).
