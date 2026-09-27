@@ -2,7 +2,36 @@
  "next": 1,
  "processed": 165,
  "added": 148,
- "held": [],
+ "held": [
+  {
+   "k2": 81,
+   "title": "Fire Becomes Her",
+   "author": "Rosiee Thor",
+   "year": 2022,
+   "reason": "No electoral-politics home: Ingrid spies on a senatorial campaign in a flare-as-money 1920s-flavored invented world. Political fantasy's leaves are court-statecraft/court-spies/overthrow — none names election politics; hard-magic stretch rejected (about-ness is class/politics). Serve ready."
+  },
+  {
+   "k2": 82,
+   "title": "Flawless Girls",
+   "author": "Anna-Marie McLemore",
+   "year": 2024,
+   "reason": "Walk ends at unholy-ground-horror (Alarie House transforms the girls who enter; the menace dwells in the place) but that leaf is FROZEN at 10 cards. Needs Gustav split ruling. Serve ready."
+  },
+  {
+   "k2": 90,
+   "title": "Guardians of Dawn: Zhara",
+   "author": "S. Jae-Jones",
+   "year": 2023,
+   "reason": "Magicians outlawed on pain of death; the Guardians of Dawn smuggle them to safety (resistance cell, not open colonial revolt = rebel-fantasy, not embedded agents = insurgent, not occupied-city street revolt = tinderbox). No leaf names persecuted-magician resistance. Serve ready."
+  },
+  {
+   "k2": 97,
+   "title": "Hokuloa Road",
+   "author": "Elizabeth Hand",
+   "year": 2022,
+   "reason": "Walk ends at unholy-ground-horror (Hokuloa peninsula: specter plus disappearances on the point; menace dwells in the place) but that leaf is FROZEN at 10 cards. Needs Gustav split ruling. Serve ready."
+  }
+ ],
  "awards_processed": 125,
  "excluded": [
   {
@@ -56,6 +85,6 @@
    "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
   }
  ],
- "tier2_processed": 80,
+ "tier2_processed": 100,
  "pending_ruling": []
 }
