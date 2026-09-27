@@ -7,14 +7,10 @@ Refine as the project goes. Rulings cited by message id.
 
 - **A leaf freezes at 10 cards.** No 11th direct placement. Books that walk to a frozen leaf
   hold on the hanging list until the split lands.
-  The math behind it: "if all of fantasy should fit in a browsable taxonomy with no more than
-  10 choices to consider we need to sometimes generalize" (phonemsg-01M3HZGQ42BN5B26D374MHFJFQ).
 - **Split frozen leaves before the next intake chunk** "so the next chunk has an open field"
   (phonemsg-01M3D5MS4PKWV7Y4XS9MEX8XNR).
 - **Don't wait for more data.** "Delaying the split to an 11th book arrive only gives us one
   more data point." (phonemsg-01M3FEEXQG3EBK5S4DDXKTPQ67)
-- the curator can also call a split or an umbrella any time for browsability, freeze or not
-  (Escapist fantasy over Cozy + Romantasy, phonemsg-01M3HZGQ42BN5B26D374MHFJFQ).
 
 ## The default shape: split-with-umbrella
 
@@ -73,4 +69,3 @@ removed from any public facing things.)
 | 2026-09-26 | Sword & sorcery (classic) | Evergreen / Pulp | timeless vs historical wave |
 | 2026-09-26 | Time travel agency | Classic time agencies / Time agency revival | era and sensibility |
 | 2026-09-26 | Revenants | Ghosts & grief / Vengeful spirits | why the ghost stays |
-| 2026-09-27 | (umbrella, no freeze) | Escapist fantasy over Cozy + Romantasy | browsability math |
