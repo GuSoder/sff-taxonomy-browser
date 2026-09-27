@@ -29,27 +29,38 @@ Let's call this the split-with-umbrella rule." (phonemsg-01M3C6GAD6M05JSV9RBTHDF
 
 ## The method
 
-1. **Cluster the actual cards.** Read what each card IS. The split is discovered in the
-   cluster, not invented above it. ("How would Revenants split under 'Ghosts & Grief' and
-   'Vengeful Spirits'?" - "Do it, they seem to split that way so let's see how it will work
-   out", phonemsg-01M3FET989JTR8Y4CQQABDPPN0 / phonemsg-01M3FEMRMMS1GRBH716XZ87EGH)
-2. **One clear axis per split.** Precedent axes:
+1. **Interrogate the content of each work in the frozen leaf first.** Before any axis is
+   proposed, answer "what does each work actually contain" - the split is discovered in the
+   cards, not invented above them. ("You have to go through the other genres currently under
+   Fantasy and see if they fit cleanly... in worst case even splits up fictions of a leaf
+   node", phonemsg-01M2E76GSGXZ117HWHWYV32S90; "they seem to split that way",
+   phonemsg-01M3FEMRMMS1GRBH716XZ87EGH)
+2. **Propose candidate axes and present the DISTRIBUTION before splitting.** The serve shows
+   the actual mapping: which cards land where, and how many land in each. Even partitions win
+   over lopsided ones - a split that leaves most cards in one child is the wrong axis.
+   ("If you were to split those 10 in 'Hard Magic' and 'Mystic Magic', would they come out
+   evenly split or most in the same category?", phonemsg-01M2EADDVQ23RVMZS5DP33A6CC;
+   "Likewise, if you did 'Quests' and 'Political' would you group up most in those, most in
+   one of them, or most outside?", phonemsg-01M2EANCTX8MRFY4Y9MVBJA3YK.) Precedent: the
+   lopsided Hard/Mystic partition was not executed; the near-even Quests/Political partition
+   was (phonemsg-01M2EB1F76BCN4Y8DCJ0JP8SNJ).
+3. **One clear axis per split.** Precedent axes:
    - haunting mechanism: Housebound / Feral house / Residual haunting
    - why the ghost stays: Ghosts & grief / Vengeful spirits
    - plague type: Zombie apocalypse / Mystery plague / Die-off
    - scale and posture of revolt: Rebel / Insurgent / Tinderbox
    - era or sensibility: Classic time agencies / Time agency revival; Evergreen / Pulp S&S
-3. **Names must latch.** Punchy, evocative, recognizable on sight. A proposal dies if "I just
+4. **Names must latch.** Punchy, evocative, recognizable on sight. A proposal dies if "I just
    didn't find the names evocative" (phonemsg-01M3E6A747NSQ6FDQT90N5NFHZ). Prefer established
    terms ("Silkpunk... is a very punchy and established term so I want to keep it",
    phonemsg-01M3FBXAHJTKQ7S907H5R1CTK5), the era's own names (Great War, Blitz), and the
    culture's own romanized word (the Far Shore rule). the curator's ear is the tiebreaker.
-4. **New leaves get a def and a portrait at creation.** Portrait: 2:3, no text, unmistakably
+5. **New leaves get a def and a portrait at creation.** Portrait: 2:3, no text, unmistakably
    original art.
-5. **Every card is re-walked root-down into its new leaf.** The walk is recorded in the
+6. **Every card is re-walked root-down into its new leaf.** The walk is recorded in the
    card's works yaml placement history.
-6. **the curator rules on the evidence before execution.** The serve is the cluster, the axis,
-   the names and the per-card mapping. Execute only on his word.
+7. **the curator rules on the evidence before execution.** The serve is the cluster, the axis,
+   the names, the per-card mapping and the distribution counts. Execute only on his word.
 
 ## Standing rule: curator anonymity
 
