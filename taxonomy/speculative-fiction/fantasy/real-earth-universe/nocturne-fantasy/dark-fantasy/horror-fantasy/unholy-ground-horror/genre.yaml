@@ -2,19 +2,16 @@ id: unholy-ground-horror
 name: Unholy ground horror
 label: Unholy ground horror
 parent: horror-fantasy
-children: []
-definition: Horror fantasy anchored to a cursed place - an island, town, lost city, road or wood - where an unholy power dwells
-  and waits for those who arrive.
+children:
+- unholy-halls
+- cursed-towns
+- haunted-wilds
+definition: 'Horror fantasy anchored to a cursed place - an island, town, lost city, road or wood - where
+  an unholy power dwells and waits for those who arrive. Umbrella since 2026-09-27: split-with-umbrella
+  into Unholy halls, Cursed towns and Haunted wilds by the kind of place (curator ruling, phonemsg-01M3J7F2J00X8WA0YQ8AYTJZ5P).'
 image: 298-unholy-ground-horror.webp
 portrait: 298-unholy-ground-horror.webp
-works:
-- old-house-of-fear
-- the-citadel-of-fear
-- the-hungry-moon
-- the-toll
-- the-twisted-ones
-- black-river-orchard
-- don-t-fear-the-reaper
-- echo
-- extended-stay
+works: []
 status: accepted
+ruling: 'Split by the curator 2026-09-27 (phonemsg-01M3J7F2J00X8WA0YQ8AYTJZ5P): three-way by the kind
+  of place (halls/towns/wilds); split-with-umbrella keeps this node as umbrella.'
