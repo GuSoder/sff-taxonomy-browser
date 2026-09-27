@@ -3,7 +3,8 @@ name: Unholy ground horror
 label: Unholy ground horror
 parent: horror-fantasy
 children: []
-definition: Horror fantasy anchored to a cursed place - an island, town, lost city, road or wood - where an unholy power dwells and waits for those who arrive.
+definition: Horror fantasy anchored to a cursed place - an island, town, lost city, road or wood - where an unholy power dwells
+  and waits for those who arrive.
 image: 298-unholy-ground-horror.webp
 portrait: 298-unholy-ground-horror.webp
 works:
@@ -13,4 +14,7 @@ works:
 - the-toll
 - the-twisted-ones
 - black-river-orchard
+- don-t-fear-the-reaper
+- echo
+- extended-stay
 status: accepted

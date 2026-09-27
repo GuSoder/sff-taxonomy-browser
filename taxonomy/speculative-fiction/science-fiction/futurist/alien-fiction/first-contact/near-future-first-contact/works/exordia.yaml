@@ -1,0 +1,20 @@
+id: exordia
+title: Exordia
+authors:
+- Seth Dickinson
+first_published: 2024
+canonical_genre: near-future-first-contact
+placement_status: accepted
+placement_rationale: 'Present-day first contact: the alien Ssrin in New York, a war orphan rescued and bonded, militaries
+  converging on the technology. Alien presence transforms a recognizable human world before any expansion among the stars.'
+classification_sources: []
+intake: gap-2022 tier-2 chunk 4 (Locus Recommended-only)
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13297923-L.jpg
+  visually_reviewed_on: null
+  review_method: openlibrary-api pending contact-sheet review
+placement_history:
+- date: '2026-09-27'
+  change: Placed in near-future-first-contact during tier-2 chunk 4 sweep.
