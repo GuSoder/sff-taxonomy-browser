@@ -62,13 +62,6 @@ Let's call this the split-with-umbrella rule." (phonemsg-01M3C6GAD6M05JSV9RBTHDF
 7. **the curator rules on the evidence before execution.** The serve is the cluster, the axis,
    the names, the per-card mapping and the distribution counts. Execute only on his word.
 
-## Standing rule: curator anonymity
-
-The curator's name never appears in public artifacts - site data, tree yamls, docs,
-commit messages. Rulings are attributed to "the curator" with message ids.
-(Ruling 2026-09-27, phonemsg-01M3J6KH21XA86S6D6EGRFE2NS - the curator's name
-removed from any public facing things.)
-
 ## Precedent log
 
 | Date | Node | Split | Axis |
