@@ -1,0 +1,30 @@
+id: galaxies
+title: Galaxies
+authors:
+- Barry N. Malzberg
+first_published: 1975
+canonical_genre: written-worlds
+placement_status: accepted
+placement_rationale: 'Presents itself as the author''s notes toward an unwritten novel of the same name (''this will not be
+  a novel so much as a series of notes toward one''); the hypothetical text is named and visible inside the book, so its unwritten
+  fabric is the world - the leaf''s def. The walk rejected books-in-books at the fabulation gate: no invented document exists
+  inside the fiction; the inner novel is declared unwritable and the notes address the reader directly. Walked out of the
+  hard-conceptual-sf split as too metafictional for hard SF; placed here by the curator''s EXECUTE (phonemsg-01M3M6YKR3QMEREZSK7WZ27S5E),
+  6->7.'
+books:
+- title: Galaxies
+  year: 1975
+  cover_url: https://www.hachette.co.uk/wp-content/uploads/2019/11/hbg-title-galaxies-10.jpg
+cover_curation:
+  selected_url: https://www.hachette.co.uk/wp-content/uploads/2019/11/hbg-title-galaxies-10.jpg
+  shows_english_title: true
+placement_history:
+- date: '2026-09-23'
+  to: hard-conceptual-sf
+  reason: Mirror sync from live index.html card data; no reclassification.
+- date: '2026-09-28'
+  to: held
+  reason: 'Walk-out from the hard-conceptual-sf split: metafictional/absurdist critique of SF itself (SFE).'
+- date: '2026-09-28'
+  to: written-worlds
+  reason: 'The curator''s EXECUTE phonemsg-01M3M6YKR3QMEREZSK7WZ27S5E after the destination dry-run: Written Worlds over absurdist-constructed-realities.'
