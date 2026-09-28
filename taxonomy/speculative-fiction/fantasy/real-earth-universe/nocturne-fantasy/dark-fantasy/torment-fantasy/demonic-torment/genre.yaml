@@ -3,10 +3,10 @@ name: Demonic torment
 parent: torment-fantasy
 status: accepted
 label_status: attested
-label_note: Attested critical and market vocabulary for horror organized around demons rather than Satan
-  specifically.
-definition: Torment fantasy driven by a demon that attaches to and torments specific people without necessarily
-  being Satanic.
+label_note: Attested critical and market vocabulary for horror organized around demons
+  rather than Satan specifically.
+definition: Torment fantasy driven by a demon that attaches to and torments specific
+  people without necessarily being Satanic.
 portrait: 245-demonic-horror.webp
 label: Demonic torment
 children: []
@@ -15,3 +15,6 @@ works:
 - who-made-stevie-crye
 - temper
 - fraternity
+- horror-movie
+- how-to-make-a-horror-movie-and-survive
+- incidents-around-the-house
