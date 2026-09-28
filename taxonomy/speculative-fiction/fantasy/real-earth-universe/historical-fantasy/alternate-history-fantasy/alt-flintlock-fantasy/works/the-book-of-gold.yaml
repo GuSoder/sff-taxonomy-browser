@@ -1,0 +1,24 @@
+id: the-book-of-gold
+title: The Book of Gold
+authors:
+- Ruth Frances Long
+first_published: 2024
+canonical_genre: alt-flintlock-fantasy
+placement_status: accepted
+placement_rationale: 'Locus (Bourke): historically inspired caper in a version of Renaissance Europe where the Roman Empire
+  endured as the Church Imperial; magic and hidden gods in the corners, a thief of Amberes entangled with kings. Musket-age
+  Europe with history openly rewritten and magic as engine: alt-flintlock-fantasy, beside Angel Mage.'
+classification_sources:
+- https://locusmag.com/review/the-book-of-gold-by-ruth-frances-long-review-by-liz-bourke/
+intake: 'gap-2022 #324 (LocusRec2024-Fantasy)'
+cover_curation:
+  status: complete
+  source: Publisher (Hachette UK CDN)
+  selected_url: https://www.hachette.co.uk/wp-content/uploads/2025/05/hbg-title-the-book-of-gold-6-50.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: alt-flintlock-fantasy
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'

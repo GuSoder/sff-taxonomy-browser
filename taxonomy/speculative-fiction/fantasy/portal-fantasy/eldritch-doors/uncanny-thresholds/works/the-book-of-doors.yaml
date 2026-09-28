@@ -1,0 +1,25 @@
+id: the-book-of-doors
+title: The Book of Doors
+authors:
+- Gareth Brown
+first_published: 2024
+canonical_genre: uncanny-thresholds
+placement_status: accepted
+placement_rationale: 'Locus (Mondor): a bookstore clerk inherits the Book of Doors - walk through any doorway to any other
+  doorway, with time-travel surprises and dark pursuers; adult suspense, not child-friendly (rules out whimsical-doors), not
+  Faerie (rules out perilous-fairy-doors). Eldritch-doors'' non-Faerie child: uncanny-thresholds. Bend: destinations are our
+  own world and history rather than otherworlds; the anchored-threshold mechanic and Gothic-dark register carry the fit.'
+classification_sources:
+- https://locusmag.com/review/colleen-mondor-reviews-the-book-of-doors-by-gareth-brown/
+intake: 'gap-2022 #323 (LocusRec2024-First)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/15097879-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: uncanny-thresholds
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'

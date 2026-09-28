@@ -1,0 +1,25 @@
+id: the-candy-house
+title: The Candy House
+authors:
+- Jennifer Egan
+first_published: 2022
+canonical_genre: unmoored-selves
+placement_status: accepted
+placement_rationale: 'Kirkus: Bix''s Own Your Unconscious externalizes consciousness onto a cube, then Collective Consciousness
+  uploads memory to a shared pool - anonymous thoughts of everyone, living or dead, with eluders and weevil implants to the
+  2030s. Identity and memory come loose from the body and from the private skull: unmoored-selves. Mind-models considered
+  (the cognitive model is rigorous) - the through-line is the unmoored self, not the model as physics.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/jennifer-egan/the-candy-house-egan/
+intake: 'gap-2022 #329 (LocusRec2022-SF)'
+cover_curation:
+  status: complete
+  source: Open Library (ISBN)
+  selected_url: https://covers.openlibrary.org/b/isbn/9781476716763-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: unmoored-selves
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'

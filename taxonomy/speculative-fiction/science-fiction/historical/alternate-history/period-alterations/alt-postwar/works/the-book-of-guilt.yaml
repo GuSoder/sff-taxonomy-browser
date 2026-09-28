@@ -1,0 +1,24 @@
+id: the-book-of-guilt
+title: The Book of Guilt
+authors:
+- Catherine Chidgey
+first_published: 2025
+canonical_genre: alt-postwar
+placement_status: accepted
+placement_rationale: 'Kirkus: alternative Britain where WWII ended in a treaty after Hitler''s 1943 assassination; 1979, triplet
+  orphans raised in the government''s Sycamore Homes on camp-derived science. Fork during WWII (1943), changed world depicted
+  after it (1979): alt-postwar, beside Fatherland and The Yiddish Policemen''s Union.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/catherine-chidgey/the-book-of-guilt/
+intake: 'gap-2022 #325 (LocusRec2025-SF)'
+cover_curation:
+  status: complete
+  source: Publishers Weekly CDN
+  selected_url: https://www.publishersweekly.com/cover/9781538774076
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: alt-postwar
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'

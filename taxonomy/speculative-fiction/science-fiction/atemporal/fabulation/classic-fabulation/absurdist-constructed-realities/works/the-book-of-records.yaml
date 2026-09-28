@@ -1,0 +1,24 @@
+id: the-book-of-records
+title: The Book of Records
+authors:
+- Madeleine Thien
+first_published: 2025
+canonical_genre: absurdist-constructed-realities
+placement_status: accepted
+placement_rationale: 'Kirkus: the Sea, a haven for the displaced whose ''buildings are made of time'', where refugees across
+  centuries - neighbors who are, or are as good as, Spinoza, Arendt and Du Fu - shelter a girl and her father. An impossible
+  place sustained as the world''s ruling condition: absurdist-constructed-realities.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/madeleine-thien/the-book-of-records/
+intake: 'gap-2022 #326 (LocusRec2025-SF)'
+cover_curation:
+  status: complete
+  source: Publishers Weekly CDN
+  selected_url: https://www.publishersweekly.com/cover/9781324078654
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: absurdist-constructed-realities
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'

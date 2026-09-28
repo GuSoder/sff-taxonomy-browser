@@ -1,0 +1,25 @@
+id: the-book-eaters
+title: The Book Eaters
+authors:
+- Sunyi Dean
+first_published: 2022
+canonical_genre: vampire-fantasy
+placement_status: accepted
+placement_rationale: 'Locus (Wolfe): six ancestral families across England with extra sets of teeth for chewing books, ''a
+  rather gruesome but original variation on the traditional vampire conundrum of finding something good to eat'' - a hidden
+  hereditary people feeding on Real Earth, cult repression and escape. Vampire-fantasy via the sourced vampire-variation reading.
+  Bend: they eat books, not blood; modern-occult considered (the Families as occult institution).'
+classification_sources:
+- https://locusmag.com/review/gary-k-wolfe-reviews-the-book-eaters-by-sunyi-dean/
+intake: 'gap-2022 #322 (LocusRec2022-First)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/12856803-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: vampire-fantasy
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'

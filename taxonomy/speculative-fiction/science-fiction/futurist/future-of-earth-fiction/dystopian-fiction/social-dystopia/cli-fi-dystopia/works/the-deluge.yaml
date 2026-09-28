@@ -1,0 +1,24 @@
+id: the-deluge
+title: The Deluge
+authors:
+- Stephen Markley
+first_published: 2023
+canonical_genre: cli-fi-dystopia
+placement_status: accepted
+placement_rationale: 'Kirkus: ~900 pages spanning 2013 to a cataclysmic near future - climate scientists, domestic terrorists,
+  political leaders, social and ecological collapse as rising temperatures accelerate. Climate change as the engine of social
+  collapse: cli-fi-dystopia.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/stephen-markley/the-deluge-markley/
+intake: 'gap-2022 #335 (LocusRec2023-SF)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13136814-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: cli-fi-dystopia
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'

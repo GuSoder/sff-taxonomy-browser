@@ -1,0 +1,25 @@
+id: the-book-censors-library
+title: The Book Censor’s Library
+authors:
+- Bothayna Al-Essa
+first_published: 2024
+canonical_genre: written-worlds
+placement_status: accepted
+placement_rationale: 'Necessary Fiction (Cordasco): a nameless Book Censor in an autocracy where interpretation is banned,
+  and the classics - Pinocchio, Alice, Zorba, 1984 - ''pop up like human characters just when they''re needed''; the censor''s
+  own library becomes the resistance. Books-within-books whose written fabric enters reality: written-worlds. Orwellian-statesmanship
+  considered (the censor regime IS Orwell''s machinery) - the marvelous engine is the texts, so written-worlds.'
+classification_sources:
+- https://necessaryfiction.com/reviews/the-book-censors-library/
+intake: 'gap-2022 #321 (LocusRec2024-SF)'
+cover_curation:
+  status: complete
+  source: Open Library (ISBN)
+  selected_url: https://covers.openlibrary.org/b/isbn/9781632063342-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: written-worlds
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'
