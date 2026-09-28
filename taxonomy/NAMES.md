@@ -13,8 +13,6 @@ Living doc of naming doctrine, recorded from the curator's rulings in live namin
 - **Evocative beats contrived.** Idiom-games die - Collar, Hat, Seat, Pocket: "Not evocative, to contrived" (phonemsg-01M3JC1MYPAG08T2VGZKPB4N8W). Less about aesthetics (phonemsg-01M3J9R0QTS2MHV9BA603NXAZ9): Chrome, Octane, Skyline died here.
 - **Punchy, but sayable.** No tongue-stuck consonant clusters: "Suit fantasy is almost to short, the tongue gets stuck between those consonants" (phonemsg-01M3JBZ9BV8XFHJDY4V156KBMQ).
 - **Engine, not cover.** The name must name the axis of the split, not the surface furniture. The Underground fault: samizdat is underground too - the axis is WHAT is saved: texts vs bodies (phonemsg-01M3K8NHWWEKN50AJKYBFKWBQ6).
-- **Person-names only after commonization.** Kafkaesque, Orwellian, Lovecraftian escaped their owners into the language; Schindler didn't escape the film. Gravity rule: don't borrow weight the genre hasn't earned. A biography on the shelf breaks the naming grammar (phonemsg-01M3K8DARQNBGS85BBEKA3D565, phonemsg-01M3K8HRT9N0H1B73YE1QEDZB2).
-- **Flee "modern" itself.** The word is the thing to escape, not to use: "I'm fleeing that word, you are the tool I'm using" (phonemsg-01M3J9TJQBT5TRDTPDKXSQXDPA).
 
 ## Case study: Election fantasy (2026-09-27/28)
 
