@@ -2,7 +2,23 @@
 
 Living doc of naming doctrine, recorded from the curator's rulings in live naming workshops on the project channel. Reference for future shelf naming. Refine as the project goes. Rulings cited by message id.
 
+## The method: the search order
+
+(the curator, phonemsg-01M3KD3Q6JVBBTXK6P7J3KG7AT)
+
+1. **First: is there an established term? If yes, use it.**
+2. **If not: go with catchy.** To find catchy, ask: what is a common thing in all these books? The most catchy uniting thing can, in unlikely cases, be a little tongue-in-cheek about a detail the authors always re-use - but put the bar HIGH for tongue-in-cheek (his note: an AI struggles with humor).
+3. **If no perfect evocative word is found: go for the general thing** - the environment where an archetypal scene of the genre takes place.
+
+### Special cases: help we're handed
+
+- **Period branches** (appear here and there in the taxonomy): find aesthetics that unite the era of the books being named - short, catchy, evocative words. His example: Rococo fantasy.
+- **Culture/geographic branches** (also appear here and there): find evocative words for the time and place. His example: Andalusian fantasy.
+
 ## The tests a name must pass
+
+The method above is the search order; these tests are the quality gates a candidate must pass.
+
 
 - **Latch test.** Instant personal recognition - the name clicks on sight, no explanation needed.
 - **Seed test.** The name must describe what the seed book actually contains. Podium died here: punchy, mic-forest image, "I can't shake the punchyness of Podium fantasy" (phonemsg-01M3JBJDSK9HWW9M3BG83FATEP) - but the seed has no podium scenes ("Is there podiums in our seed book?", phonemsg-01M3JB38FT6YW3HE5R9S0EBTRG; text-level probe of the publisher excerpt: none).
