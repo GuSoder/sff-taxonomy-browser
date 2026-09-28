@@ -1,0 +1,28 @@
+id: moonstorm
+title: Moonstorm
+authors:
+- Yoon Ha Lee
+first_published: 2024
+canonical_genre: space-adventure
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Spacefaring fiction
+  -> New space opera -> Space adventure. Author''s page: teen pilot trainee stranded
+  on an imperial fleet volunteers for lancer duty - giant martial robots, boarding-school
+  rivalries, a conspiracy engine; comps Iron Widow and Skyward. Action, training,
+  battles and momentum are the engine; mecha is furniture, not axis. Moonstorm #1
+  - series card, later volumes fold here. LocusRec2024-YA.'
+classification_sources:
+- https://www.yoonhalee.com/?p=1232
+intake: 'gap-2022 #246 (LocusRec2024-YA)'
+cover_curation:
+  status: complete
+  source: Author site (yoonhalee.com)
+  selected_url: https://www.yoonhalee.com/wp-content/uploads/2023/10/moonstorm.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: space-adventure
+  reason: 'Intake placement (gap-2022 batch n=246-260), autonomous per standing instruction:
+    existing-leaf fit.'

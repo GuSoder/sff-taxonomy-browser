@@ -1,0 +1,34 @@
+id: navola
+title: Navola
+authors:
+- Paolo Bacigalupi
+first_published: 2024
+canonical_genre: renaissance-dynastic-intrigue
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Political
+  fantasy -> Court intrigue -> Dynastic intrigues -> Renaissance dynastic intrigue.
+  PW: rivalries between powerful banking families in a 15th-century-Florence-analog
+  world; Devonaci seeks to ''shape the politics of the city to his will'' and groom
+  Davico as successor until a betrayal forces flight. Rival ruling houses and heirs
+  contesting power in a Renaissance-court shape - the leaf''s def; the Medici mapping
+  is exact (a banking house IS a ruling house here). The dragon''s-eye relic keeps
+  the marvelous present. LocusRec2024-Fantasy.'
+classification_sources:
+- https://www.publishersweekly.com/9780593535059
+intake: 'gap-2022 #252 (LocusRec2024-Fantasy)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9780593535059-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: dynastic-intrigues
+  reason: 'Intake placement (gap-2022 batch n=246-260), autonomous per standing instruction:
+    existing-leaf fit.'
+- date: '2026-09-28'
+  to: renaissance-dynastic-intrigue
+  reason: Verifier caught the parent as umbrella; walked one level deeper to the era/inheritance
+    leaf.

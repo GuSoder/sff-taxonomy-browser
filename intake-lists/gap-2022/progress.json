@@ -1,7 +1,7 @@
 {
   "next": 1,
-  "processed": 172,
-  "added": 151,
+  "processed": 185,
+  "added": 159,
   "held": [
     {
       "n": 231,
@@ -46,6 +46,56 @@
       "date_held": "2026-09-28",
       "sources": [
         "https://en.wikipedia.org/wiki/Moderation_(novel)"
+      ]
+    },
+    {
+      "n": 248,
+      "title": "Mothtown",
+      "author": "Caroline Hardaker",
+      "reason": "Register unverified: transformation/becoming tale with missing people and a door-world package; nearest leaf metamorphic-magic-realism sits at 9, so a freeze-triggering placement needs a solid mechanism read first. Reviews stress the book \"begs not to be defined\".",
+      "date_held": "2026-09-28",
+      "sources": [
+        "https://carolinehardakerwrites.com/books-2-2/mothtown/"
+      ]
+    },
+    {
+      "n": 255,
+      "title": "Never Flinch",
+      "author": "Stephen King",
+      "reason": "Not-SFF exclusion question: King's own blurb is a pure crime thriller (threat letter, stalker, bodyguard Holly Gibney) with zero supernatural content.",
+      "date_held": "2026-09-28",
+      "sources": [
+        "https://stephenking.com/works/novel/never-flinch.html"
+      ]
+    },
+    {
+      "n": 256,
+      "title": "Night Swimming",
+      "author": "Aaron Starmer",
+      "reason": "About-ness: a 90s summer romance whose speculative element is one unearthly twist at a hidden pool (\"one unearthly twist\", \"plays with the boundaries of reality\") - seasoning, not engine, on current evidence.",
+      "date_held": "2026-09-28",
+      "sources": [
+        "http://www.aaronstarmer.com/night-swimming"
+      ]
+    },
+    {
+      "n": 258,
+      "title": "North Sun, Or The Voyage of the Whaleship Esther",
+      "author": "Ethan Rutherford",
+      "reason": "About-ness + nature unverified: PW grounds a harsh 1878 whaling novel with one supernatural presence (a seabird-man spirit, Old Sorrel, haunting the crew) - single spirit in a literary historical; whether the haunting is engine or seasoning unclear.",
+      "date_held": "2026-09-28",
+      "sources": [
+        "https://www.publishersweekly.com/9781646053582"
+      ]
+    },
+    {
+      "n": 259,
+      "title": "Nothing in the Basement",
+      "author": "Romie Stott",
+      "reason": "Mechanism ambiguous: domestic water-attacks (bathtub near-drowning, sewage) plus a repeated denial refrain \"There is nothing in the basement\" - feral house (house as agent) vs a denied presence (which would need a specific dead person for housebound). Blurb does not resolve it.",
+      "date_held": "2026-09-28",
+      "sources": [
+        "https://www.barnesandnoble.com/w/nothing-in-the-basement-romie-stott/1147793293"
       ]
     }
   ],
