@@ -2,7 +2,32 @@
  "next": 1,
  "processed": 165,
  "added": 148,
- "held": [],
+ "held": [
+  {
+   "n": 231,
+   "title": "Lapvona",
+   "author": "Ottessa Moshfegh",
+   "reason": "Folk horror (NYT: 'Gloomy Folk Horror Set Long Ago'); no folk-horror leaf exists and the torment/hellscape leaves do not fit a medieval-fief grotesque. New-leaf candidate - the curator's ruling."
+  },
+  {
+   "n": 233,
+   "title": "Lone Women",
+   "author": "Victor LaValle",
+   "reason": "Trunk-bound monster traveling with Adelaide on the 1915 frontier (NYRB); the creature's nature unverified, so no clean torment-leaf call. One more grounding pass owed."
+  },
+  {
+   "n": 236,
+   "title": "Mage of Fools",
+   "author": "Eugen Bacon",
+   "reason": "Fantasy dystopia (book-banning king + sorcerer, Meerkat Press); orwellianesque is SF-side and explicitly not a leftover bin. No fantasy-dystopia thread yet - near-trunk question for the curator."
+  },
+  {
+   "n": 237,
+   "title": "Major Arcana",
+   "author": "John Pistelli",
+   "reason": "About-ness fails the marvelous: campus/comics novel with magic-realist seasoning (PW). Candidate not-SFF exclusion question - the curator's ruling, per the exclusion protocol."
+  }
+ ],
  "awards_processed": 125,
  "excluded": [
   {
