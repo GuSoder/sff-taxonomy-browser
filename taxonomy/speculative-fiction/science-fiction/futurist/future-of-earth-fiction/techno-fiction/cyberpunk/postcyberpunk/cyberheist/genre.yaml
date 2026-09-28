@@ -1,0 +1,15 @@
+id: cyberheist
+label: Cyberheist
+parent: postcyberpunk
+definition: 'Postcyberpunk of jobs against the system from inside it: heists, sabotage and resistance
+  crews working the networked order. Name coined by the curator 2026-09-28; split from Postcyberpunk at
+  ten cards (curator ruling phonemsg-01M3MJ2KZ6F0GXN70FHXQYJZ3X ''Execute'').'
+image: 426-cyberheist.webp
+status: accepted
+children: []
+works:
+- infinite-detail
+- stealing-worlds
+- the-jinn-bot-of-shantiport
+- extremophile
+- a-philosophy-of-thieves

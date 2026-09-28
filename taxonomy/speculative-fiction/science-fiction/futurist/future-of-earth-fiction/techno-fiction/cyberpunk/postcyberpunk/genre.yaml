@@ -1,21 +1,14 @@
 id: postcyberpunk
 label: Postcyberpunk
 parent: cyberpunk
-children: []
+definition: 'Cyberpunk technology without classic noir alienation: socially embedded protagonists confront
+  near-now networks, surveillance, augmented reality and institutional power. Term attested by Lawrence
+  Person''s 1998 Notes Toward a Postcyberpunk Manifesto. Umbrella since 2026-09-28: direct cards moved
+  to Terms of Service (lives inside the algorithmic order) and Cyberheist (jobs against the system) (curator
+  ruling phonemsg-01M3MJ2KZ6F0GXN70FHXQYJZ3X ''Execute'').'
 image: 236-postcyberpunk.webp
-definition: 'Cyberpunk technology without classic noir alienation: socially embedded protagonists confront near-now networks, surveillance, augmented reality and
-  institutional power. Term attested by Lawrence Person’s 1998 Notes Toward a Postcyberpunk Manifesto.'
 status: accepted
-sources:
-- Lawrence Person, Notes Toward a Postcyberpunk Manifesto (1998)
-works:
-- rainbows-end
-- chosen-spirits
-- infinite-detail
-- stealing-worlds
-- this-is-not-the-jess-show
-- the-jinn-bot-of-shantiport
-- the-jinn-bot-of-shantiport
-- extremophile
-- the-ten-percent-thief
-- a-philosophy-of-thieves
+children:
+- terms-of-service
+- cyberheist
+works: []
