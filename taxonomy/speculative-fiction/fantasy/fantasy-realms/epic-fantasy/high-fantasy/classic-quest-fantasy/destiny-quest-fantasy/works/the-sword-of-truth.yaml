@@ -3,17 +3,19 @@ title: The Sword of Truth
 authors:
 - Terry Goodkind
 first_published: 1994
-canonical_genre: classic-quest-fantasy
+canonical_genre: destiny-quest-fantasy
 placement_status: accepted
-placement_rationale: "Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. Tor\
-  \ calls Wizard\u2019s First Rule the start of Goodkind\u2019s epic Sword of Truth series; Richard, Kahlan and allies undertake linked journeys against\
-  \ world-controlling oppressors and magical evil."
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy
+  Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. Tor calls Wizard’s
+  First Rule the start of Goodkind’s epic Sword of Truth series; Richard, Kahlan and
+  allies undertake linked journeys against world-controlling oppressors and magical
+  evil.'
 classification_sources:
 - https://torpublishinggroup.com/series/sword-of-truth/
 - https://torpublishinggroup.com/wizards-first-rule/?format=mass&isbn=9780812548051
 series:
   books:
-  - "Wizard\u2019s First Rule (1994)"
+  - Wizard’s First Rule (1994)
   - Stone of Tears (1995)
   - Blood of the Fold (1996)
   - Temple of the Winds (1997)
@@ -35,7 +37,7 @@ book_covers:
   status: complete
   audited_on: '2026-09-22'
   books:
-  - title: "Wizard\u2019s First Rule"
+  - title: Wizard’s First Rule
     year: 1994
     cover_url: cover-wizards-first-rule.jpg
   - title: Stone of Tears
@@ -70,6 +72,9 @@ book_covers:
     cover_url: cover-confessor.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/quest-fantasy/classic-quest-fantasy to match live
-    tree; placement unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/quest-fantasy/classic-quest-fantasy
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: classic-quest-fantasy
+- date: '2026-09-28'
+  change: Moved to destiny-quest-fantasy in the classic-quest-fantasy split (the curator
+    ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).

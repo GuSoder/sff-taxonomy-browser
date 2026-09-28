@@ -3,11 +3,12 @@ title: The Sword of Shannara Trilogy
 authors:
 - Terry Brooks
 first_published: 1977
-canonical_genre: classic-quest-fantasy
+canonical_genre: fellowship-quest-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. SFE
-  calls the opening book heavily Tolkien-influenced fantasy; PRH defines the trilogy as its first three novels, organized around journeys against ancient
-  supernatural evil.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy
+  Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. SFE calls the
+  opening book heavily Tolkien-influenced fantasy; PRH defines the trilogy as its
+  first three novels, organized around journeys against ancient supernatural evil.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/brooks_terry
 - https://www.penguinrandomhouse.com/books/19046/the-sword-of-shannara-trilogy-by-terry-brooks/
@@ -42,6 +43,9 @@ book_covers:
     cover_url: cover-the-wishsong-of-shannara.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/quest-fantasy/classic-quest-fantasy to match live
-    tree; placement unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/quest-fantasy/classic-quest-fantasy
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: classic-quest-fantasy
+- date: '2026-09-28'
+  change: Moved to fellowship-quest-fantasy in the classic-quest-fantasy split (the
+    curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
