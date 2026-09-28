@@ -1,0 +1,30 @@
+id: manhunt
+title: Manhunt
+authors:
+- Gretchen Felker-Martin
+first_published: 2022
+canonical_genre: zombie-apocalypse
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Modern day -> Apocalyptic fiction
+  -> Pandemic -> Zombie apocalypse. NPR (McBain, cited in Wikipedia): ''a virus turns
+  anyone with enough testosterone into a feral beast''; Wikipedia genres it horror/post-apocalyptic;
+  PW: ''a plague turns men into violent cannibals''. The plague turns people - the
+  transformed men are the victims made monsters, matching the leaf''s the-infected
+  mode (leaf-mate Survivor Song is likewise a non-undead turning plague); collapse
+  of civilization is the ground. LocusRec2022-First.'
+classification_sources:
+- https://en.wikipedia.org/wiki/Manhunt_(novel)
+- https://www.publishersweekly.com/9781250794642
+intake: 'gap-2022 #240 (LocusRec2022-First)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9781250794642-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: zombie-apocalypse
+  reason: 'Intake placement (gap-2022 batch n=239-245), autonomous per standing instruction:
+    existing-leaf fit.'

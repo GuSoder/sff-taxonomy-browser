@@ -1,7 +1,7 @@
 {
   "next": 1,
-  "processed": 165,
-  "added": 148,
+  "processed": 172,
+  "added": 151,
   "held": [
     {
       "n": 231,
@@ -26,6 +26,27 @@
       "title": "Major Arcana",
       "author": "John Pistelli",
       "reason": "About-ness fails the marvelous: campus/comics novel with magic-realist seasoning (PW). Candidate not-SFF exclusion question - the curator's ruling, per the exclusion protocol."
+    },
+    {
+      "n": 244,
+      "title": "Model Home",
+      "author": "Rivers Solomon",
+      "reason": "Mechanism unresolved: contemporary-haunted-house is split by haunting mechanism (housebound / feral house / residual haunting) and the reviews stress designed ambiguity - Kirkus: the siblings 'can't agree whether their parents were killed by supernatural forces'; Reactor's review is literally titled 'Is the House What's Haunted?'; Locus: the house is 'cursed and malignant' (a malign agent would break feral-house's not-evil clause; no specific dead person verified for housebound; a dark presence contradicts residual's no-agent). Needs a mechanism-establishing source or the curator's ear.",
+      "date_held": "2026-09-28",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/rivers-solomon/model-home-2/",
+        "https://locusmag.com/"
+      ]
+    },
+    {
+      "n": 245,
+      "title": "Moderation",
+      "author": "Elaine Castillo",
+      "reason": "About-ness fails the speculative engine test: Locus (Niall Harrison): 'the romance is in the foreground, which means the science fiction is in the background'; contemporary tech-industry novel with VR worlds as setting, not engine. Candidate not-SFF exclusion question - the curator's ruling.",
+      "date_held": "2026-09-28",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moderation_(novel)"
+      ]
     }
   ],
   "awards_processed": 125,
