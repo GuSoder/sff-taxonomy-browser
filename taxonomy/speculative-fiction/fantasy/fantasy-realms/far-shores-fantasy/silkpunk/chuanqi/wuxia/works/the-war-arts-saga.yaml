@@ -1,0 +1,31 @@
+id: the-war-arts-saga
+title: The War Arts Saga
+authors:
+- Wesley Chu
+first_published: 2022
+canonical_genre: wuxia
+placement_status: accepted
+placement_rationale: 'Locus (Martini): book 2 of Chu''s Chinese-tradition martial-arts saga - wandering martial artists, qi
+  arts, jianghu honor-world. Wuxia def. Series card per DUPLICATES.md (one card per series, titled like the-continuance by
+  series name); books list carries The Art of Prophecy (2022) and the intake volume The Art of Destiny (2023).'
+classification_sources:
+- https://locusmag.com/review/adrienne-martini-reviews-the-art-of-destiny-by-wesley-chu-the-blighted-stars-by-megan-e-okeefe-and-the-fragile-threads-of-power-by-v-e-schwab/
+intake: 'gap-2022 #316 (LocusRec2023-Fantasy)'
+cover_curation:
+  status: complete
+  source: Open Library (ISBN)
+  selected_url: https://covers.openlibrary.org/b/isbn/9780593237656-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: wuxia
+  reason: 'Intake placement (gap-2022 batch n=306-320), autonomous per standing instruction: existing-leaf fit.'
+books:
+- title: The Art of Prophecy
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/isbn/9780593237656-L.jpg
+- title: The Art of Destiny
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/isbn/9780593237663-L.jpg

@@ -1,0 +1,24 @@
+id: spread-me
+title: Spread Me
+authors:
+- Sarah Gailey
+first_published: 2025
+canonical_genre: alien-horror
+placement_status: accepted
+placement_rationale: 'Locus (Mond): Gailey''s take on Campbell''s ''Who Goes There?'' and Carpenter''s The Thing - a shapeshifting
+  organism infiltrates the half-built Kangas Station research base in the scorching desert; paranoia, bodily violation and
+  the terror of nonhuman life are the engine. Alien horror''s def verbatim.'
+classification_sources:
+- https://locusmag.com/review/spread-me-by-sarah-gailey-review-by-ian-mond/
+intake: 'gap-2022 #306 (LocusRec2025-Horror)'
+cover_curation:
+  status: complete
+  source: Publisher (Macmillan imgix CDN)
+  selected_url: https://mpd-biblio-covers.imgix.net/9781250387332.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: alien-horror
+  reason: 'Intake placement (gap-2022 batch n=306-320), autonomous per standing instruction: existing-leaf fit.'
