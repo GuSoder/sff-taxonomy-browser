@@ -3,11 +3,12 @@ title: The Time Quintet
 authors:
 - Madeleine L'Engle
 first_published: 1962
-canonical_genre: timeslips
+canonical_genre: time-strays
 placement_status: accepted
-placement_rationale: 'The sequence repeatedly crosses time without a stable built time machine: A Swiftly Tilting Planet rides through centuries, Many Waters
-  sends the twins to the world of Noah, and An Acceptable Time opens into another era. Its varied, psychologically and cosmologically entangled transfers
-  fit Timeslips best among the existing time-travel leaves.'
+placement_rationale: 'The sequence repeatedly crosses time without a stable built time machine: A Swiftly
+  Tilting Planet rides through centuries, Many Waters sends the twins to the world of Noah, and An Acceptable
+  Time opens into another era. Its varied, psychologically and cosmologically entangled transfers fit
+  Timeslips best among the existing time-travel leaves.'
 books:
 - title: A Wrinkle in Time
   year: 1962
@@ -33,3 +34,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/8732056-L.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-28'
+  to: time-strays
+  reason: 'Timeslips split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M503SY87HJJYFAH10788WH,
+    by who moves.'

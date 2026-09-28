@@ -1,17 +1,17 @@
 id: timeslips
 label: Timeslips
 parent: time-travel-fiction
-children: []
+children:
+- time-strays
+- time-bleeds
 image: 112-timeslips.webp
-definition: Time transfer through an unexplained or natural shift rather than a built machine, often one-off and psychologically entangled (SFE Timeslip).
-status: candidate
-works:
-- the-dream-years
-- red-shift
-- time-and-again
-- 11-22-63
-- a-connecticut-yankee-in-king-arthur-s-court
-- darkmans
-- the-time-quintet
-- lest-darkness-fall
-- woman-on-the-edge-of-time
+definition: Time transfer through an unexplained or natural shift rather than a built machine, often one-off
+  and psychologically entangled (SFE Timeslip).
+status: umbrella
+works: []
+ruling: 'Split by the curator 2026-09-28, EXECUTE ruling (phonemsg-01M3M503SY87HJJYFAH10788WH): split-with-umbrella
+  by who moves - the person crosses, time bleeds, or the person is caught. Matched Time set; ''time-strays''
+  is his coinage (phonemsg-01M3M4ZBWK8PKGX20D813QYNGD, ''Why not Time strays?''). EXECUTION NOTE: the
+  ruled third leaf ''time loops'' already existed as a sibling leaf under time-travel-fiction (6 cards,
+  portrait 105); On the Calculation of Volume III was placed there (6->7) instead of duplicating the node.
+  Flagged to the curator via main.'

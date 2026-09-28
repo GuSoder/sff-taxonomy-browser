@@ -3,9 +3,10 @@ title: 11/22/63
 authors:
 - Stephen King
 first_published: 2011
-canonical_genre: timeslips
+canonical_genre: time-strays
 placement_status: accepted
-placement_rationale: A diner storeroom is an unexplained portal fixed to 1958; repeated one-way entries and attempts to prevent Kennedy's assassination make non-machine timeslip travel the core mechanism.
+placement_rationale: A diner storeroom is an unexplained portal fixed to 1958; repeated one-way entries
+  and attempts to prevent Kennedy's assassination make non-machine timeslip travel the core mechanism.
 classification_sources:
 - https://www.simonandschuster.com/books/11-22-63/Stephen-King/9781451627282
 - https://stephenking.com/works/novel/11-22-63.html
@@ -15,3 +16,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/10713447-L.jpg
   shows_english_title: true
   review_method: one-pass
+placement_history:
+- date: '2026-09-28'
+  to: time-strays
+  reason: 'Timeslips split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M503SY87HJJYFAH10788WH,
+    by who moves.'
