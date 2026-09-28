@@ -3,11 +3,12 @@ title: White Space
 authors:
 - Elizabeth Bear
 first_published: 2019
-canonical_genre: alien-delving
+canonical_genre: wreck-delving
 placement_status: accepted
-placement_rationale: SFE calls White Space an interstellar space-opera sequence and identifies Ancestral Night's forerunner artefacts and post-scarcity
-  culture; Simon & Schuster describes space salvagers, alien wrecks and a discovery that could tip humanity into interstellar war. Its large-scale alien,
-  political and exploratory canvas makes New Space Opera closest.
+placement_rationale: SFE calls White Space an interstellar space-opera sequence and identifies Ancestral
+  Night's forerunner artefacts and post-scarcity culture; Simon & Schuster describes space salvagers,
+  alien wrecks and a discovery that could tip humanity into interstellar war. Its large-scale alien, political
+  and exploratory canvas makes New Space Opera closest.
 classification_sources:
 - https://sf-encyclopedia.com/entry/bear_elizabeth
 - https://www.simonandschuster.com/series/White-Space
@@ -29,6 +30,10 @@ books:
   cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668078112/the-folded-sky-9781668078112_lg.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/new-space-opera to match live tree; placement
-    unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/new-space-opera
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: new-space-opera
+- date: '2026-09-28'
+  to: wreck-delving
+  reason: 'Alien-delving split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M4DCTVJB5VHDC4580MSW3P,
+    by what they go into.'

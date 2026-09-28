@@ -91,6 +91,56 @@
    "sources": [
     "https://www.barnesandnoble.com/w/nothing-in-the-basement-romie-stott/1147793293"
    ]
+  },
+  {
+   "n": null,
+   "title": "Planetfall",
+   "author": "Emma Newman",
+   "reason": "Walk-out from the alien-delving split: never delves (colony/survival engine, New Space Opera shape). The curator ruled the walk-out to the hanging list - Twilight treatment, no re-home - pending his destination call (phonemsg-01M3M435834V3T6BF0V2JWPMKZ + EXECUTE phonemsg-01M3M4DCTVJB5VHDC4580MSW3P).",
+   "date_held": "2026-09-28",
+   "card_snapshot": {
+    "id": "planetfall",
+    "title": "Planetfall",
+    "authors": [
+     "Emma Newman"
+    ],
+    "first_published": 2015,
+    "canonical_genre": "alien-delving",
+    "placement_status": "accepted",
+    "placement_rationale": "Penguin describes four linked standalone novels in which humanity escapes to the stars, spanning an alien-planet colony, corporate Earth, Mars and survivors leaving a destroyed Earth. Atlas Alone follows a colony ship where immersive games kill real people and hidden plans threaten humanity's future. The multi-world, interplanetary social and technological scope makes New Space Opera closest.",
+    "classification_sources": [
+     "https://www.penguinrandomhouse.com/series/PN3/a-planetfall-novel/",
+     "https://www.penguinrandomhouse.com/books/556331/atlas-alone-by-emma-newman/"
+    ],
+    "cover_curation": {
+     "status": "complete",
+     "selected_url": "https://images4.penguinrandomhouse.com/smedia/9780425282397",
+     "shows_english_title": true,
+     "review_method": "one-pass official publisher series"
+    },
+    "books": [
+     {
+      "title": "Planetfall",
+      "first_published": 2015,
+      "cover_url": "https://images4.penguinrandomhouse.com/smedia/9780425282397"
+     },
+     {
+      "title": "After Atlas",
+      "first_published": 2016,
+      "cover_url": "https://images3.penguinrandomhouse.com/smedia/9780425282403"
+     },
+     {
+      "title": "Before Mars",
+      "first_published": 2018,
+      "cover_url": "https://images3.penguinrandomhouse.com/smedia/9780399587320"
+     },
+     {
+      "title": "Atlas Alone",
+      "first_published": 2019,
+      "cover_url": "https://images2.penguinrandomhouse.com/smedia/9780399587344"
+     }
+    ]
+   }
   }
  ],
  "awards_processed": 125,

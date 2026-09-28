@@ -1,0 +1,28 @@
+id: road-of-bones
+title: Road of Bones
+authors:
+- Christopher Golden
+first_published: 2022
+canonical_genre: haunted-wilds
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Nocturne fantasy -> Dark fantasy ->
+  Horror fantasy -> Unholy ground horror -> Haunted wilds. A documentary crew on Siberia''s haunted Kolyma
+  highway, stalked on the road of bones itself (Macmillan copy): wilderness-anchored menace tied to place.
+  Edge noted: the leaf def says ''something ancient waits'' while the dead here are 20th-century gulag
+  dead - the anchor (wild place that waits for those who arrive) fits even though the haunting is recent.'
+classification_sources:
+- https://us.macmillan.com/books/9781250274163/roadofbones
+- https://books.google.com/books/about/Road_of_Bones.html
+intake: 'gap-2022 #282 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/12587848-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: haunted-wilds
+  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf
+    fit.'

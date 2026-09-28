@@ -1,0 +1,27 @@
+id: rust-in-the-root
+title: Rust in the Root
+authors:
+- Justina Ireland
+first_published: 2022
+canonical_genre: alt-diesel-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Historical fantasy -> Alternate history
+  fantasy -> Alt-diesel fantasy. A 1937 America openly rewritten around magic - the Great Rust and the
+  mystical Mechomancy economy (PW; CCBC): machine-age 20th century, openly altered history, magic as engine.
+  The leaf def exactly.'
+classification_sources:
+- https://www.publishersweekly.com/9780063038226
+- https://ccbc.education.wisc.edu/books/detailBook.asp?idBook=24417
+intake: 'gap-2022 #285 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/12945190-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: alt-diesel-fantasy
+  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf
+    fit.'

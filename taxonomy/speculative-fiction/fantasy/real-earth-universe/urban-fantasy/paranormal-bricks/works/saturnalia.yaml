@@ -1,0 +1,28 @@
+id: saturnalia
+title: Saturnalia
+authors:
+- Stephanie Feldman
+first_published: 2022
+canonical_genre: paranormal-bricks
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Urban fantasy -> Paranormal bricks.
+  Kirkus: an ''alternate Philadelphia'' with a hidden occult double city, elite clubs and the Saturnalia
+  festival night (unnamedpress; Locus): the city itself as fantastical subject - hidden double - the leaf
+  def. Climate backdrop is seasoning, not engine.'
+classification_sources:
+- https://www.unnamedpress.com/books/book?title=Saturnalia
+- https://www.kirkusreviews.com/book-reviews/stephanie-feldman/saturnalia/
+- https://locusmag.com/2022/11/gary-k-wolfe-reviews-saturnalia-by-stephanie-feldman/
+intake: 'gap-2022 #288 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13238248-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: paranormal-bricks
+  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf
+    fit.'

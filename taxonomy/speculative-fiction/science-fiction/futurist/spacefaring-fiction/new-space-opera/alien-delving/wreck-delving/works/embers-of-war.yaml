@@ -3,11 +3,11 @@ title: Embers of War
 authors:
 - Gareth L. Powell
 first_published: 2018
-canonical_genre: alien-delving
+canonical_genre: wreck-delving
 placement_status: accepted
-placement_rationale: "SFE calls the trilogy Space Opera driven by alien artefacts that carve planets into memorial art, an approaching Forerunner species\
-  \ and the mysteries they leave. Entering and interpreting alien works is the trilogy\u2019s engine, so Alien Delving is more specific than Political space\
-  \ opera."
+placement_rationale: SFE calls the trilogy Space Opera driven by alien artefacts that carve planets into
+  memorial art, an approaching Forerunner species and the mysteries they leave. Entering and interpreting
+  alien works is the trilogy’s engine, so Alien Delving is more specific than Political space opera.
 books:
 - title: Embers of War
   year: 2018
@@ -22,3 +22,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/10131776-L.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-28'
+  to: wreck-delving
+  reason: 'Alien-delving split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M4DCTVJB5VHDC4580MSW3P,
+    by what they go into.'

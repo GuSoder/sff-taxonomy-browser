@@ -1,0 +1,27 @@
+id: scale
+title: Scale
+authors:
+- Greg Egan
+first_published: 2023
+canonical_genre: hard-conceptual-sf
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Hard SF -> Hard conceptual SF. Egan builds
+  a rigorous lepton-scale world-model - matter and chemistry rebuilt at smaller scale - whose recognition
+  drives the story (gregegan.net bibliography; Wikipedia): the leaf def exactly. Placement freezes the
+  leaf at 10 - golden rule fires.'
+classification_sources:
+- https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html
+- https://en.wikipedia.org/wiki/Scale_(Egan_novel)
+intake: 'gap-2022 #289 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13125278-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: hard-conceptual-sf
+  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf
+    fit.'
