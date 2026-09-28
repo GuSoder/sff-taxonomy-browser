@@ -5,8 +5,10 @@ authors:
 first_published: 2022
 canonical_genre: tinderbox-fantasy
 placement_status: accepted
-placement_rationale: The occupied city of Ilmar under the Palleseen empire's rule, with its factions pushed toward uprising (Locus, GeekDad). Open revolt against
-  a foreign occupier, so Rebel fantasy. First of the Tyrant Philosophers books; later volumes pending.
+placement_rationale: The occupied city of Ilmar under the Palleseen empire's rule,
+  with its factions pushed toward uprising (Locus, GeekDad). Open revolt against a
+  foreign occupier, so Rebel fantasy. First of the Tyrant Philosophers books; later
+  volumes pending.
 classification_sources:
 - https://locusmag.com/review/russell-letson-reviews-the-city-of-last-chances-by-adrian-tchaikovsky/
 - https://geekdad.com/2022/12/city-of-last-chances-by-adrian-tchaikovsky-a-book-review/
@@ -19,4 +21,16 @@ cover_curation:
   review_method: contact-sheet one-pass
 placement_history:
 - date: '2026-09-26'
-  change: Moved to tinderbox-fantasy in the rebel-fantasy split (the curator ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1).
+  change: Moved to tinderbox-fantasy in the rebel-fantasy split (the curator ruling
+    phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1).
+- date: '2026-09-28'
+  change: House of Open Wounds (2023), second Tyrant Philosophers novel, standalone
+    sequel in the same world (Locus), added to the series card; gap-2022 awards tier
+    candidate n=207.
+books:
+- title: City of Last Chances
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13509614-L.jpg
+- title: House of Open Wounds
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14637841-L.jpg
