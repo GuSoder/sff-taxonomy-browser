@@ -1,19 +1,14 @@
 id: climate-catastrophe
 label: Climate Catastrophe
 parent: apocalyptic-fiction
-children: []
+children:
+- drowned-worlds
+- scorched-worlds
 image: 79-climate-catastrophe.webp
 definition: The climate itself turns against civilization - drowned tropical cities, an America unravelling
   under ecological collapse. Coined by the curator 2026-09-14; not an SFE/EoF headword.
-status: provisional
-works:
-- the-drowned-world
-- parable
-- a-children-s-bible
-- theory-of-bastards
-- private-rites
-- the-coral-bones
-- the-coral-bones
-- awake-in-the-floating-city
-- landfall
-- pink-slime
+status: umbrella
+works: []
+ruling: 'Split by the curator 2026-09-28, EXECUTE ruling (phonemsg-01M3M5K29WBTHB0T80D02MCZXE): split-with-umbrella
+  by the element that turns. ''scorched-worlds'' is his name steer over the served ''parched-worlds''
+  (phonemsg-01M3M5HRQ3DFYEBCHA2V0TBVM7, ''Why not Scorched?'').'

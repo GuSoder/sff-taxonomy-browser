@@ -3,7 +3,7 @@ title: City of Dancing Gargoyles
 authors:
 - Tara Campbell
 first_published: 2024
-canonical_genre: climate-catastrophe
+canonical_genre: scorched-worlds
 placement_status: accepted
 placement_rationale: Circa 2120 the western US has dried up under climate change; a government alchemy
   experiment animates gargoyles, plants and animals in the parched post-collapse cities - the climate-unravelled
@@ -19,3 +19,7 @@ cover_curation:
 placement_history:
 - date: '2026-09-26'
   change: Placed in climate-catastrophe during tier-2 chunk 3 intake.
+- date: '2026-09-28'
+  to: scorched-worlds
+  reason: 'Climate-catastrophe split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M5K29WBTHB0T80D02MCZXE,
+    by the element that turns.'

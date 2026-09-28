@@ -3,7 +3,7 @@ title: Pink Slime
 authors:
 - Fernanda Trías
 first_published: 2024
-canonical_genre: climate-catastrophe
+canonical_genre: scorched-worlds
 placement_status: accepted
 placement_rationale: 'Root-down: Science fiction -> Modern day -> Apocalyptic fiction -> Climate catastrophe.
   A red algal bloom turns airborne into a toxic wind that obliterates living things and empties the coastal
@@ -28,3 +28,7 @@ placement_history:
   to: climate-catastrophe
   reason: 'Intake placement (gap-2022 batch n=261-275), autonomous per standing instruction: existing-leaf
     fit.'
+- date: '2026-09-28'
+  to: scorched-worlds
+  reason: 'Climate-catastrophe split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M5K29WBTHB0T80D02MCZXE,
+    by the element that turns.'
