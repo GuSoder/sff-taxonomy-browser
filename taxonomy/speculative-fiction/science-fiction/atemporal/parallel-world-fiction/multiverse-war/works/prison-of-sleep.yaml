@@ -1,0 +1,30 @@
+id: prison-of-sleep
+title: Prison of Sleep
+authors:
+- Tim Pratt
+first_published: 2022
+canonical_genre: multiverse-war
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Atemporal -> Parallel world fiction -> Multiverse
+  war. Journals of Zaxony Delatree book 2 (book 1 not in the tree, the card stands as this intake item).
+  Zax wakes on a new world every time he sleeps; the Cult of the Worm serves the Prisoner, an entity trapped
+  between universes that wants every world collapsed ''like bars in its prison'', and Zax, Ana and the
+  Sleepers band together to stop them (PW: ''fanatics bent on destroying the multiverse''). Worlds and
+  their destruction are the stakes of a war fought across parallel realities - the leaf def.'
+classification_sources:
+- https://www.penguinrandomhouse.com/books/697257/prison-of-sleep-by-tim-pratt/
+- https://paulsemel.com/exclusive-interview-prison-of-sleep-author-tim-pratt/
+- https://www.publishersweekly.com/9780857669421
+intake: 'gap-2022 #272 (LocusRec2022-SF)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9780857669421-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: multiverse-war
+  reason: 'Intake placement (gap-2022 batch n=261-275), autonomous per standing instruction: existing-leaf
+    fit.'

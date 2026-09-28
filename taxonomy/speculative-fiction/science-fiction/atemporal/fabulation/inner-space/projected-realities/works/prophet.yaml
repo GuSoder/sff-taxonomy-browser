@@ -1,0 +1,30 @@
+id: prophet
+title: Prophet
+authors:
+- Sin Blaché
+- Helen Macdonald
+first_published: 2023
+canonical_genre: projected-realities
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Atemporal -> Fabulation -> Inner space -> Projected
+  realities. The military drug Prophet ''induces material approximations of fond memories'' (PW) - nostalgia
+  made physical as EPGOs, ending in a landscape booby-trapped with rogue memory-objects (a Pac-Man cabinet
+  that physically consumes a man). Memory and desire project a competing shared reality whose boundary
+  with the ordinary world cannot be stabilized - the leaf def.'
+classification_sources:
+- https://www.publishersweekly.com/9780802162021
+- https://www.abovethetreeline.com/edelvoice-helen-macdonald-and-sin-blache-on-prophet/
+- https://crimereads.com/2023/08/08/helen-macdonald-sin-blache-prophet-genre/
+intake: 'gap-2022 #274 (LocusRec2023-SF)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9780802162021-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: projected-realities
+  reason: 'Intake placement (gap-2022 batch n=261-275), autonomous per standing instruction: existing-leaf
+    fit.'

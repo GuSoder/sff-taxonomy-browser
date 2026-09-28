@@ -3,7 +3,12 @@ label: Griot
 parent: far-shores-fantasy
 children: []
 image: 364-griot.webp
-definition: 'Griot, the West African storyteller and keeper of memory whose art is the epic itself: West African-tradition fantasy in invented worlds - hunters and tricksters, gods, witches and monsters of African myth, told in the oral-epic register. About-ness test (the curator 2026-09-26): the culture does the work. Created by the curator''s 2026-09-26 16:31 ruling.'
+definition: 'Griot, the West African storyteller and keeper of memory whose art is the epic itself: West
+  African-tradition fantasy in invented worlds - hunters and tricksters, gods, witches and monsters of
+  African myth, told in the oral-epic register. About-ness test (the curator 2026-09-26): the culture
+  does the work. Created by the curator''s 2026-09-26 16:31 ruling.'
 status: accepted
-ruling: "Created by the curators 16:31 ruling (trust my judgment, implement the six Far Shore placements, and strengthen the yaml with this test)."
-works: []
+ruling: Created by the curators 16:31 ruling (trust my judgment, implement the six Far Shore placements,
+  and strengthen the yaml with this test).
+works:
+- one-way-witch

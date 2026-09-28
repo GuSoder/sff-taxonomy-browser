@@ -1,0 +1,30 @@
+id: pink-slime
+title: Pink Slime
+authors:
+- Fernanda Trías
+first_published: 2024
+canonical_genre: climate-catastrophe
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Modern day -> Apocalyptic fiction -> Climate catastrophe.
+  A red algal bloom turns airborne into a toxic wind that obliterates living things and empties the coastal
+  city; food collapses to a corporate ''pink slime'' (NYT: ''an environmental disaster has unspooled'';
+  S&S: ''literary horror and climate fiction''). The climate itself turns against civilization - the leaf
+  def; elegiac caregiving, not dystopian social conflict, so not cli-fi-dystopia. English translation
+  2024 (original Mugre rosa 2020). Placement freezes the leaf at 10 - golden rule fires.'
+classification_sources:
+- https://www.simonandschuster.com/books/Pink-Slime/Fernanda-Trias/9781668049778
+- https://www.publishersweekly.com/9781668049778
+- https://www.nytimes.com/2024/06/29/books/review/pink-slime-fernanda-trias.html
+intake: 'gap-2022 #269 (LocusRec2023-Horror)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9781668049778-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: climate-catastrophe
+  reason: 'Intake placement (gap-2022 batch n=261-275), autonomous per standing instruction: existing-leaf
+    fit.'

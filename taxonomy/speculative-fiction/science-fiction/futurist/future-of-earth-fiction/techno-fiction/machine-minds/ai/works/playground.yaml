@@ -1,0 +1,30 @@
+id: playground
+title: Playground
+authors:
+- Richard Powers
+first_published: 2024
+canonical_genre: ai
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Future of Earth fiction -> Techno-fiction
+  -> Machine minds -> AI. Todd Keane narrates his life to Playground''s generative AI Profunda, and the
+  novel''s third-person narrative is the story Profunda invents from his memories and the public record
+  (Wikipedia plot summary); the disembodied machine mind is the book''s co-author and frame, and the seasteading
+  referendum on Makatea is the plot''s hinge. Guardian: ''disquieting AI thriller''. The speculative frame
+  is structural, not seasoning.'
+classification_sources:
+- https://www.richardpowers.net/playground/
+- https://en.wikipedia.org/wiki/Playground_(novel)
+- https://www.theguardian.com/books/2024/sep/29/playground-richard-powers-review-ai-ocean
+intake: 'gap-2022 #270 (LocusRec2024-SF)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14827115-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: ai
+  reason: 'Intake placement (gap-2022 batch n=261-275), autonomous per standing instruction: existing-leaf
+    fit.'

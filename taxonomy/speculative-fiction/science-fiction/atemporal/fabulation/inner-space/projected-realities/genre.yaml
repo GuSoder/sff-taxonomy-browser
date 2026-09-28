@@ -3,8 +3,10 @@ name: Projected realities
 parent: inner-space
 status: leaf
 label_status: taxonomy-coinage
-label_note: Taxonomy coinage for realities materially projected by memory, trauma or desire rather than reached as stable parallel worlds.
-definition: Fabulation in which trauma, memory or desire projects a competing shared reality whose boundary with the ordinary world cannot be stabilized.
+label_note: Taxonomy coinage for realities materially projected by memory, trauma or desire rather than
+  reached as stable parallel worlds.
+definition: Fabulation in which trauma, memory or desire projects a competing shared reality whose boundary
+  with the ordinary world cannot be stabilized.
 portrait: 248-projected-realities.webp
 label: Projected realities
 children: []
@@ -16,3 +18,4 @@ works:
 - the-unlimited-dream-company
 - the-wind-up-bird-chronicle
 - time-out-of-joint
+- prophet
