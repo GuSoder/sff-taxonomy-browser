@@ -1,0 +1,23 @@
+id: inverted-world
+title: Inverted World
+authors:
+- Christopher Priest
+first_published: 1974
+canonical_genre: world-models
+placement_status: accepted
+placement_rationale: SFE Priest calls it a major pure-SF novel whose hyperboloid world, hard-SF time distortion,
+  and pocket-universe geometry drive the conceptual breakthrough. Its mathematical topology is the engine,
+  so Mathematics is the exact existing leaf.
+books:
+- title: Inverted World
+  year: 1974
+  cover_url: https://covers.openlibrary.org/b/id/2950338-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/2950338-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-28'
+  to: world-models
+  reason: 'Hard-conceptual-sf split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M5PBBA0SXNCTXWKGX7EC2A,
+    by the kind of world-model.'

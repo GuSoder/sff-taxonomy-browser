@@ -1,19 +1,16 @@
 id: hard-conceptual-sf
 label: Hard Conceptual SF
 parent: hard-sf
-children: []
+children:
+- world-models
+- mind-models
+- thought-experiments
 image: 89-mathematics.webp
 definition: Hard science fiction built around a rigorous conceptual world-model whose recognition drives
   the story.
-status: accepted
-works:
-- inverted-world
-- observer
-- brain-wave
-- exhalation
-- galaxies
-- stories-of-your-life-and-others
-- tau-zero
-- the-gods-themselves
-- there-is-no-antimemetics-division
-- scale
+status: umbrella
+works: []
+ruling: 'Split by the curator 2026-09-28, EXECUTE ruling (phonemsg-01M3M5PBBA0SXNCTXWKGX7EC2A): split-with-umbrella
+  by the kind of world-model whose recognition drives the story, plain triple names as served. Galaxies
+  walked out to the hanging list under the same Execute (the serve''s stated recommendation, same shape
+  as the alien-delving walk-out), pending his destination call.'

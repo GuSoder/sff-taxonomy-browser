@@ -3,7 +3,7 @@ title: Scale
 authors:
 - Greg Egan
 first_published: 2023
-canonical_genre: hard-conceptual-sf
+canonical_genre: world-models
 placement_status: accepted
 placement_rationale: 'Root-down: Science fiction -> Futurist -> Hard SF -> Hard conceptual SF. Egan builds
   a rigorous lepton-scale world-model - matter and chemistry rebuilt at smaller scale - whose recognition
@@ -25,3 +25,7 @@ placement_history:
   to: hard-conceptual-sf
   reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf
     fit.'
+- date: '2026-09-28'
+  to: world-models
+  reason: 'Hard-conceptual-sf split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M5PBBA0SXNCTXWKGX7EC2A,
+    by the kind of world-model.'
