@@ -1,18 +1,15 @@
 id: parallel-world-fiction
 label: Parallel World fiction
 parent: atemporal
-children: []
+children:
+- multiverse-odyssey
+- multiverse-war
+- multiverse-mirror
 image: 135-parallel-world-fiction.webp
-definition: Science fiction whose central mechanism is travel, communication or identity across multiple parallel versions
-  of reality (SFE Parallel Worlds).
+definition: 'Science fiction whose central mechanism is travel, communication or identity
+  across multiple parallel versions of reality (SFE Parallel Worlds). Umbrella since
+  2026-09-28: split-with-umbrella into Multiverse odyssey, Multiverse war and Multiverse
+  mirror by what the crossing serves (the curator ruling: split greenlit "Do it" 2026-09-28
+  11:57 CEST, names locked in the phonemsg-01M3KQ53CJENKAF3B1533ZFAX7 exchange).'
 status: accepted
-works:
-- the-space-between-worlds
-- million-mile-road-trip
-- ring-around-the-sun
-- the-need
-- unholy-land
-- rabbit-in-the-moon
-- the-possibilities
-- archive-of-unknown-universes
-- echo-of-worlds
+works: []
