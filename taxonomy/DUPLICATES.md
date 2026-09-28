@@ -16,4 +16,4 @@ The walk runs on the series as a whole, not on each book's local flavor. One hom
 
 ## Instance: the Red Hand duology (2026-09-28)
 
-Rise of the Red Hand (2021) and Fall of the Iron Gods (2024) sat as two cards in Cli-fi dystopia, inflating the leaf to 10 and nearly triggering a phantom split. Folded under the rules above: one card, series walk, count drops to 9. (Fold pending the curator's coalesce ruling on the cli-fi serve.)
+Rise of the Red Hand (2021) and Fall of the Iron Gods (2024) sat as two cards in Cli-fi dystopia, inflating the leaf to 10 and nearly triggering a phantom split. Folded under the rules above 2026-09-28: one card, both volumes in its books list, the leaf drops to 9 and the golden rule goes quiet. The curator delegated the call ("according to the doc, what's YOUR ruling?", phonemsg-01M3KVTCS5D0PM7KNK2NJ1RPSS); ruling per this doc: coalesce only, no split.
