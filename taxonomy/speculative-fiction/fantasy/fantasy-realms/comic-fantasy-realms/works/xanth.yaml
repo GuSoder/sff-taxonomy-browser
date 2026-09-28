@@ -3,7 +3,7 @@ title: Xanth
 authors:
 - Piers Anthony
 first_published: 1977
-canonical_genre: comic-otherworlds
+canonical_genre: comic-fantasy-realms
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Sword and Sorcery -> Comic fantasy.
   Xanth is a magical Florida-shaped peninsula where every human has a magical talent. Wikipedia and NPR note the series''
@@ -164,3 +164,8 @@ placement_history:
   to: comic-otherworlds
   reason: 'Comic fantasy split (frozen at 10, golden rule): three-way by where the comic fantastic lives; the curator ruling
     phonemsg-01M3M9XTE4K01WB9QMQ66JAFXV.'
+- date: '2026-09-28'
+  to: comic-fantasy-realms
+  reason: 'Restructure (the curator ruling phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0, reinstated phonemsg-01M3MDWYSYC0C681522QDD6GY1):
+    Comic fantasy leaves dissolved with the realm-fork exception; invented-world comicals to Comic fantasy realms, Real Earth
+    comicals to Earthly comic fantasy.'
