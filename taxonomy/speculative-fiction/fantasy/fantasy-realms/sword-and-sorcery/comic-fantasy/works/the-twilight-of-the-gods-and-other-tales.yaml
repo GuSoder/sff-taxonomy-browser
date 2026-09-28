@@ -1,0 +1,35 @@
+id: the-twilight-of-the-gods-and-other-tales
+title: The Twilight of the Gods and Other Tales
+authors:
+- Richard Garnett
+first_published: 1888
+canonical_genre: comic-fantasy
+placement_status: accepted
+placement_rationale: 'SFE: ''a well-known collection of fables and other fantasies''; Gutenberg spans Arabic, Chinese, Roman
+  and Greek materials with gods, miracles, demons and talismans treated as shared reality. The engine is the register: deadpan
+  ironic mythological parody (the curator''s walk-out diagnosis). Comic-fantasy''s def covers Real Earth parody; the shelf
+  holds this book''s direct lineage (The Night Life of the Gods, Topper, Zuleika Dobson). Pan-mythological, so no single mythic-retelling
+  leaf fits. Placed by the curator''s EXECUTE phonemsg-01M3M8Y2GAETQW7QAMWSDHSSEF after dry-run walk - 9->10, FREEZES comic-fantasy
+  (golden rule #8).'
+classification_sources:
+- https://sf-encyclopedia.com/entry/garnett_richard
+- https://www.gutenberg.org/ebooks/10095
+cover_curation:
+  status: complete
+  source: Project Gutenberg
+  selected_url: cover-the-twilight-of-the-gods-and-other-tales.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-search single pass
+placement_history:
+- date: '2026-09-23'
+  to: communal-magic-realism
+  reason: Mirror sync from live index.html card data; no reclassification.
+- date: '2026-09-28'
+  to: held
+  reason: 'Walked out of the communal-magic-realism split with the curator''s approval: deadpan ironic mythological parody,
+    not communal magic realism.'
+- date: '2026-09-28'
+  to: comic-fantasy
+  reason: 'The curator''s EXECUTE phonemsg-01M3M8Y2GAETQW7QAMWSDHSSEF after destination dry-run: comic-fantasy over a new
+    mythic-retelling leaf.'
