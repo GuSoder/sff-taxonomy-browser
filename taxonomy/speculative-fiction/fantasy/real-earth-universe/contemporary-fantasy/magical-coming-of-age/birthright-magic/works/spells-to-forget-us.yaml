@@ -1,0 +1,26 @@
+id: spells-to-forget-us
+title: Spells to Forget Us
+authors:
+- Aislinn Brophy
+first_published: 2024
+canonical_genre: birthright-magic
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Contemporary fantasy -> Magical coming-of-age
+  -> Birthright magic. Kirkus: witch Luna Gold faces inheriting her grandmother''s seat on the Witch Council
+  while her hidden magic shapes the romance - the magic is inherited heritage and claiming it drives identity
+  - the leaf def. Boston setting is urban-fantasy-flavored but the coming-of-age birthright engine governs.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/aislinn-brophy/spells-to-forget-us/
+intake: 'gap-2022 #305 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: PRH CDN
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780593354551
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: birthright-magic
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf
+    fit.'

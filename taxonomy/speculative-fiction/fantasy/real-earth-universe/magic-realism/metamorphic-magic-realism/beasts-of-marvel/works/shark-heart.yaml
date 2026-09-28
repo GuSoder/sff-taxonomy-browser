@@ -1,0 +1,26 @@
+id: shark-heart
+title: Shark Heart
+authors:
+- Emily Habeck
+first_published: 2023
+canonical_genre: beasts-of-marvel
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Magic realism -> Metamorphic magic
+  realism -> Beasts of marvel. A marriage in which the husband slowly, impossibly transforms into a shark,
+  accepted inside ordinary literary life (NYT review): transformation takes the person out of human form
+  entirely - the leaf def verbatim.'
+classification_sources:
+- https://www.nytimes.com/2023/08/08/books/review/shark-heart-emily-habeck.html
+intake: 'gap-2022 #294 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14406690-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: beasts-of-marvel
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf
+    fit.'

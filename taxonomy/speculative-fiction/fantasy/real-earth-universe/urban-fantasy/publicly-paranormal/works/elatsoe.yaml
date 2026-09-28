@@ -5,10 +5,24 @@ authors:
 first_published: 2020
 canonical_genre: publicly-paranormal
 placement_status: accepted
-placement_rationale: 'the curator ruled 2026-09-22 that Fantasy must be traversed in user order: Real Earth vs invented world first. Ghosts and magic are publicly known and absorbed into civic life in a recognizable America, making Publicly Paranormal exact.'
+placement_rationale: 'the curator ruled 2026-09-22 that Fantasy must be traversed in user order: Real
+  Earth vs invented world first. Ghosts and magic are publicly known and absorbed into civic life in a
+  recognizable America, making Publicly Paranormal exact.'
 classification_sources:
 - the curator realm-first taxonomy ruling, 2026-09-22
 cover_curation:
   status: inherited
   selected_url: http://www.levinequerido.com/cdn/shop/files/LQ_Elatsoepbk_CVR_9781646142767.jpg?v=1764398661
   shows_english_title: true
+books:
+- title: Elatsoe
+  year: 2020
+  cover_url: http://www.levinequerido.com/cdn/shop/files/LQ_Elatsoepbk_CVR_9781646142767.jpg?v=1764398661
+- title: Sheine Lende
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/15123230-L.jpg
+placement_history:
+- date: '2026-09-28'
+  to: publicly-paranormal
+  reason: 'Series coalesce per DUPLICATES.md: Sheine Lende (2024 prequel to Elatsoe) folded into this
+    card''s books list - one card per series.'

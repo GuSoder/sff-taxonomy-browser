@@ -1,0 +1,27 @@
+id: spell-bound
+title: Spell Bound
+authors:
+- F.T. Lukens
+first_published: 2023
+canonical_genre: found-magic
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Contemporary fantasy -> Magical coming-of-age
+  -> Found magic. Kirkus: nonmagical teen Rook schemes an illegal scientific device to access magic and
+  is swept into the magical world''s conflict - magic stumbled into via an artifact rather than taught
+  (not school) or inherited (no bloodline) - the leaf def. Edge: cozy/romance tone noted, but the coming-of-age
+  magic-access engine governs.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/ft-lukens/spell-bound-lukens/
+intake: 'gap-2022 #304 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: S&S CDN
+  selected_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781665916226/spell-bound-9781665916226_lg.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: found-magic
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf
+    fit.'

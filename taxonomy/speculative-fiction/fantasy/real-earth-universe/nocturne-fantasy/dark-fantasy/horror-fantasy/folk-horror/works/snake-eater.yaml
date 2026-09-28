@@ -1,0 +1,27 @@
+id: snake-eater
+title: Snake-Eater
+authors:
+- T. Kingfisher
+first_published: 2025
+canonical_genre: folk-horror
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Nocturne fantasy -> Dark fantasy ->
+  Horror fantasy -> Folk horror. Locus (Wolfe): a remote desert village with local spirits, a nature-godlet
+  in the garden, ghostlike figures - ''the plot quickly accelerates toward a more familiar sort of folk
+  horror'' (Wolfe''s own words). Rural isolation, old local powers, the land''s own rules - the leaf def
+  as created this morning.'
+classification_sources:
+- https://locusmag.com/review/snake-eater-by-t-kingfisher-review-by-gary-k-wolfe/
+intake: 'gap-2022 #302 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: PRH CDN (47North)
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9781662525094
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: folk-horror
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf
+    fit.'

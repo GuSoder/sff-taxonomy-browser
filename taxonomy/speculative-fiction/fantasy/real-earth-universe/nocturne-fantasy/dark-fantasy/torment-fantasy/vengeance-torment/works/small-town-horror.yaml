@@ -1,0 +1,27 @@
+id: small-town-horror
+title: Small Town Horror
+authors:
+- Ronald Malfi
+first_published: 2024
+canonical_genre: vengeance-torment
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Nocturne fantasy -> (torment walk)
+  -> vengeance-torment. Locus (Iglesias): ''a spooky tale about a haunting with a tragic beginning'' -
+  friends dragged back to their hometown to face a darkness from their shared past. A vengeful spirit
+  born of a past wrong tormenting the living - the leaf def. Edge: not cursed-towns because the agent
+  is the personal ghost, not the town itself.'
+classification_sources:
+- https://locusmag.com/review/gabino-iglesias-reviews-small-town-horror-by-ronald-malfi/
+intake: 'gap-2022 #301 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: PRH CDN (Titan)
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9781803365657
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: vengeance-torment
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf
+    fit.'
