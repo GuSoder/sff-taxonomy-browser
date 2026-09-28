@@ -1,20 +1,14 @@
 id: evil-deals
 label: Evil Deals
 parent: supernatural-fantasy
-children: []
+children:
+- deal-with-the-devil
+- wicked-wishes
 image: 94-evil-deals.webp
-definition: Supernatural fiction in which a bargain with evil trades the soul, conscience, or humanity
-  for worldly advantage.
+definition: 'Supernatural fiction in which a bargain with evil trades the soul, conscience, or humanity
+  for worldly advantage. Umbrella since 2026-09-28: split-with-umbrella into Deal with the devil and Wicked
+  wishes by the counterparty (the curator ruling phonemsg-01M3KFHJ54DC0JWEX3KA03GG04).'
 status: accepted
-works:
-- melmoth-the-wanderer
-- the-picture-of-dorian-gray
-- the-monk
-- vathek
-- all-the-murmuring-bones
-- we-sold-our-souls
-- the-invisible-life-of-addie-larue
-- something-wicked-this-way-comes
-- gwendys-final-task
+works: []
 name: Evil Deals
 portrait: 94-evil-deals.webp
