@@ -4,11 +4,11 @@ authors:
 - Terry Pratchett
 first_published: 1983
 last_published: 2015
-canonical_genre: comic-fantasy
+canonical_genre: comic-otherworlds
 placement_status: accepted
-placement_rationale: "SFE calls Discworld the bestselling comic Fantasy series, beginning in broad parody and growing into pun-rich satire of institutions,\
-  \ technology and modernity; Pratchett\u2019s entry calls it the genre\u2019s finest set of pure comedies. Comic mode unifies all 41 novels despite their\
-  \ varied fantasy and SF proportions."
+placement_rationale: SFE calls Discworld the bestselling comic Fantasy series, beginning in broad parody and growing into
+  pun-rich satire of institutions, technology and modernity; Pratchett’s entry calls it the genre’s finest set of pure comedies.
+  Comic mode unifies all 41 novels despite their varied fantasy and SF proportions.
 classification_sources:
 - https://sf-encyclopedia.com/entry/discworld_series
 - https://sf-encyclopedia.com/entry/pratchett_terry
@@ -100,7 +100,7 @@ cover_curation:
     url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-38.png
   - title: Raising Steam
     url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-39.png
-  - title: "The Shepherd\u2019s Crown"
+  - title: The Shepherd’s Crown
     url: https://discworld.com/wp-content/uploads/2026/07/discworld-novels-nikoll-cover-editions-40.png
 books:
 - title: The Colour of Magic
@@ -223,10 +223,15 @@ books:
 - title: Raising Steam
   first_published: 2013
   cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/Raising-Steam.jpg?fit=193%2C300&ssl=1
-- title: "The Shepherd\u2019s Crown"
+- title: The Shepherd’s Crown
   first_published: 2015
   cover_url: https://i0.wp.com/terrypratchett.com/management/wp-content/uploads/2021/05/The-Shepherds-Crown.jpg?fit=195%2C300&ssl=1
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/comic-fantasy to match live tree; placement unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/comic-fantasy to match live tree;
+    placement unchanged on site.'
   previous_canonical_genre: comic-fantasy
+- date: '2026-09-28'
+  to: comic-otherworlds
+  reason: 'Comic fantasy split (frozen at 10, golden rule): three-way by where the comic fantastic lives; the curator ruling
+    phonemsg-01M3M9XTE4K01WB9QMQ66JAFXV.'

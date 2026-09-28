@@ -3,12 +3,12 @@ title: Xanth
 authors:
 - Piers Anthony
 first_published: 1977
-canonical_genre: comic-fantasy
+canonical_genre: comic-otherworlds
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Sword and Sorcery -> Comic fantasy. Xanth is a magical Florida-shaped
-  peninsula where every human has a magical talent. Wikipedia and NPR note the series'' extensive wordplay and puns: its places, creatures and plots are
-  built on puns (Lake Ogre-Chobee, the Isle of View), and Anthony describes the Adult Conspiracy as parody. Comedy is the governing engine across the 49-novel
-  series.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Sword and Sorcery -> Comic fantasy.
+  Xanth is a magical Florida-shaped peninsula where every human has a magical talent. Wikipedia and NPR note the series''
+  extensive wordplay and puns: its places, creatures and plots are built on puns (Lake Ogre-Chobee, the Isle of View), and
+  Anthony describes the Adult Conspiracy as parody. Comedy is the governing engine across the 49-novel series.'
 classification_sources:
 - https://en.wikipedia.org/wiki/Xanth
 - https://www.npr.org/2013/10/06/203284105/spell-bound-by-a-goofy-book-and-later-united-by-it
@@ -157,6 +157,10 @@ cover_curation:
   review_method: one series search, single pass
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/sword-and-sorcery/comic-fantasy to match live tree;
-    placement unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/sword-and-sorcery/comic-fantasy
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: comic-fantasy
+- date: '2026-09-28'
+  to: comic-otherworlds
+  reason: 'Comic fantasy split (frozen at 10, golden rule): three-way by where the comic fantastic lives; the curator ruling
+    phonemsg-01M3M9XTE4K01WB9QMQ66JAFXV.'

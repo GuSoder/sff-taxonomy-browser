@@ -3,7 +3,7 @@ title: The Twilight of the Gods and Other Tales
 authors:
 - Richard Garnett
 first_published: 1888
-canonical_genre: comic-fantasy
+canonical_genre: gods-at-large
 placement_status: accepted
 placement_rationale: 'SFE: ''a well-known collection of fables and other fantasies''; Gutenberg spans Arabic, Chinese, Roman
   and Greek materials with gods, miracles, demons and talismans treated as shared reality. The engine is the register: deadpan
@@ -33,3 +33,7 @@ placement_history:
   to: comic-fantasy
   reason: 'The curator''s EXECUTE phonemsg-01M3M8Y2GAETQW7QAMWSDHSSEF after destination dry-run: comic-fantasy over a new
     mythic-retelling leaf.'
+- date: '2026-09-28'
+  to: gods-at-large
+  reason: 'Comic fantasy split (frozen at 10, golden rule): three-way by where the comic fantastic lives; the curator ruling
+    phonemsg-01M3M9XTE4K01WB9QMQ66JAFXV.'
