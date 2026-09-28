@@ -7,7 +7,7 @@ Living doc of naming doctrine, recorded from the curator's rulings in live namin
 (the curator, phonemsg-01M3KD3Q6JVBBTXK6P7J3KG7AT)
 
 1. **First: is there an established term? If yes, use it.**
-2. **If not: go with catchy.** To find catchy, ask: what is a common thing in all these books? The most catchy uniting thing can, in unlikely cases, be a little tongue-in-cheek about a detail the authors always re-use - but put the bar HIGH for tongue-in-cheek (his note: an AI struggles with humor).
+2. **If not: go with catchy.** To find catchy, ask: what is a common thing in all these books? The most catchy uniting thing can often come from unlikely places - a detail the authors always re-use - and that kind of name tends to be tongue-in-cheek; put the bar HIGH for tongue-in-cheek (his note: an AI struggles with humor).
 3. **If no perfect evocative word is found: go for the general thing** - the environment where an archetypal scene of the genre takes place.
 
 ### Special cases: help we're handed
