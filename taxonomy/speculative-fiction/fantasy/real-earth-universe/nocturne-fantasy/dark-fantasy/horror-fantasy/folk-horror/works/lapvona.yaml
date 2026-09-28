@@ -1,0 +1,36 @@
+id: lapvona
+title: Lapvona
+authors:
+- Ottessa Moshfegh
+first_published: 2022
+canonical_genre: folk-horror
+placement_status: accepted
+placement_rationale: 'Held at intake (gap-2022 #231) as folk horror with no leaf; the curator ruled it
+  in-genre 2026-09-28 (''there seems to be some magic'') and created this leaf for it. NYT genres it folk
+  horror twice (''a mix of fairy tale and folk horror''; Kunzru: Ina is ''an ancient and magical blind
+  woman... a sort of supernatural wet nurse, suckling generations of Lapvonians''). An isolated medieval
+  fief whose communal cruelty, superstition and old rites are the engine; the marvel is real but marginal
+  - a working horse-eyes charm, the ending''s life-drain - which the curator weighed and accepted. About-ness
+  call was his, per the corrected brief.'
+classification_sources:
+- https://www.publishersweekly.com/9780593300268
+- https://www.nytimes.com/2022/06/21/books/review/ottessa-moshfegh-lapvona.html
+- https://www.nytimes.com/2022/06/13/books/ottessa-moshfegh-lapvona-review.html
+- https://www.theguardian.com/books/2022/jul/06/lapvona-by-ottessa-moshfegh-review-a-grim-fairytale
+- https://www.reddit.com/r/books/comments/1jash3a/lapvona_ending/
+intake: 'gap-2022 #231 (held 2026-09-28, unheld into the new folk-horror leaf by the curator)'
+cover_curation:
+  status: complete
+  source: Publisher CDN (Penguin Random House)
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780593300268
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: montage one-pass (OL vs PRH, identical)
+placement_history:
+- date: '2026-09-28'
+  change: 'Held at intake: folk horror, no leaf existed; about-ness (real but marginal magic) referred
+    to the curator'
+- date: '2026-09-28'
+  to: folk-horror
+  reason: The curator ruled it in-genre and created the leaf (phonemsg-01M3M3DBAC7DPNKTR90912W8JN proposal,
+    phonemsg-01M3M3HHJZK9YZ21QNQGGRHZ8F 'Ok execute')
