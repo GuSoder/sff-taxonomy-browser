@@ -4,17 +4,11 @@ definition: Contemporary fantasy in which young people discover or develop magic
   abilities while forming identity, relationships and an adult place in the world.
 parent: contemporary-fantasy
 label: Magical coming-of-age
-children: []
+children:
+- magic-school
+- birthright-magic
+- found-magic
 image: 261-magical-coming-of-age.webp
 status: provisional
-works:
-- harry-potter
-- among-others
-- all-our-hidden-gifts
-- the-shadowshaper-cypher
-- the-mirror-season
-- the-scapegracers
-- the-incandescent
-- bitter
-- from-dust-a-flame
-- how-to-succeed-in-witchcraft
+works: []
+type: umbrella

@@ -4,14 +4,18 @@ authors:
 - Daniel José Older
 first_published: 2015
 last_published: 2020
-canonical_genre: magical-coming-of-age
+canonical_genre: birthright-magic
 placement_status: accepted
 included_titles:
 - Shadowshaper
 - Shadowhouse Fall
 - Shadowshaper Legacy
-placement_rationale: >-
-  Scholastic describes a present-day Brooklyn series whose ancestral spirits inhabit paintings, music and stories, then expands into a war among magical houses and a deal with Death. It passes Fantasy -> Real Earth Universe -> Contemporary fantasy. Urban fantasy is tempting, but none of its pure children fits: the spirits are ancestral rather than fae, publicly absorbed, city-as-being or police-centered, and the magic is not primarily Gothic haunting.
+placement_rationale: 'Scholastic describes a present-day Brooklyn series whose ancestral
+  spirits inhabit paintings, music and stories, then expands into a war among magical
+  houses and a deal with Death. It passes Fantasy -> Real Earth Universe -> Contemporary
+  fantasy. Urban fantasy is tempting, but none of its pure children fits: the spirits
+  are ancestral rather than fae, publicly absorbed, city-as-being or police-centered,
+  and the magic is not primarily Gothic haunting.'
 classification_sources:
 - https://schol.ca/our-books/book/shadowshaper-9781338032475
 - https://www.scholastic.ca/our-books/book/shadowshaper-legacy-9780545953009
@@ -31,3 +35,8 @@ books:
 - title: Shadowshaper Legacy
   first_published: 2020
   cover_url: https://covers.openlibrary.org/b/isbn/9780545953009-L.jpg
+placement_history:
+- date: '2026-09-28'
+  change: Moved to birthright-magic. Split 2026-09-28 from Magical coming-of-age on
+    how the magic arrives (the curator, 'Execute' 1:39 CEST; serve phonemsg-01M3KWZ54MHWSFT04050VQ2GEG).
+    Umbrella holds 0 cards.

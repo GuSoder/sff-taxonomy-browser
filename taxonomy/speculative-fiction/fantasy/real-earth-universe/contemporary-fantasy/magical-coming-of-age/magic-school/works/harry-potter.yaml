@@ -4,7 +4,7 @@ authors:
 - J. K. Rowling
 first_published: 1997
 last_published: 2007
-canonical_genre: magical-coming-of-age
+canonical_genre: magic-school
 placement_status: accepted
 included_titles:
 - Harry Potter and the Philosopher's Stone
@@ -35,3 +35,8 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/10716273-L.jpg
   - title: Harry Potter and the Deathly Hallows
     url: https://covers.openlibrary.org/b/id/15158660-L.jpg
+placement_history:
+- date: '2026-09-28'
+  change: Moved to magic-school. Split 2026-09-28 from Magical coming-of-age on how
+    the magic arrives (the curator, 'Execute' 1:39 CEST; serve phonemsg-01M3KWZ54MHWSFT04050VQ2GEG).
+    Umbrella holds 0 cards.
