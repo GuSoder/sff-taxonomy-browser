@@ -4,11 +4,13 @@ authors:
 - Michael Moorcock
 first_published: 1968
 last_published: 1977
-canonical_genre: metafictional-worldmaking
+canonical_genre: written-worlds
 placement_status: accepted
-placement_rationale: 'Root-down: Science fiction -> Atemporal -> Fabulation -> Classic Fabulation -> Metafictional worldmaking. SFE treats the revised central quartet
-  as formally cumulative: Jerry and his recurring troupe move through increasingly unstable Londons under SF/fantasy manipulation, Law/Chaos and multiversal escape.
-  Narrative revision and shifting world-making govern more than the opening novel’s super-science plot, fitting foundational fabulation.'
+placement_rationale: 'Root-down: Science fiction -> Atemporal -> Fabulation -> Classic Fabulation -> Metafictional
+  worldmaking. SFE treats the revised central quartet as formally cumulative: Jerry and his recurring
+  troupe move through increasingly unstable Londons under SF/fantasy manipulation, Law/Chaos and multiversal
+  escape. Narrative revision and shifting world-making govern more than the opening novel’s super-science
+  plot, fitting foundational fabulation.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/moorcock_michael
 - https://www.penguinrandomhouse.com/books/250788/the-final-programme-by-michael-moorcock/
@@ -35,3 +37,8 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass complete quartet review
+placement_history:
+- date: '2026-09-28'
+  to: written-worlds
+  reason: 'Metafictional-worldmaking split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M3WEFK7NSWAXDVMY6THZPH,
+    instrument axis.'

@@ -1,17 +1,14 @@
 id: metafictional-worldmaking
 label: Metafictional worldmaking
 parent: classic-fabulation
-children: []
-works:
-- invisible-cities
-- cosmicomics
-- labyrinths
-- the-cornelius-quartet
-- the-illustrated-man
-- the-invention-of-morel
-- the-land-of-laughs
-- unlanguage
-- three-eight-one
+children:
+- told-worlds
+- written-worlds
+- projected-worlds
+works: []
 image: 284-metafictional-worldmaking.webp
-definition: Fabulations where narration, books, frames, revision, recording or projection visibly make the experienced world.
-status: accepted
+definition: Fabulations where narration, books, frames, revision, recording or projection visibly make
+  the experienced world.
+status: umbrella
+ruling: 'Split by the curator 2026-09-28, EXECUTE ruling (phonemsg-01M3M3WEFK7NSWAXDVMY6THZPH): split-with-umbrella
+  by the instrument that makes the world, plain triple names told/written/projected-worlds.'

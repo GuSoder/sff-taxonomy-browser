@@ -3,11 +3,13 @@ title: The Invention of Morel
 authors:
 - Adolfo Bioy Casares
 first_published: 1940
-canonical_genre: metafictional-worldmaking
+canonical_genre: projected-worlds
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Atemporal -> Fabulation -> Classic Fabulation -> Metafictional worldmaking. SFE
-  describes an abstract, parodic and metaphysical use of SF: Morel’s machine kills its models to make eternal three-dimensional projected avatars, composing an island
-  reality around chimerical copies, invisibility and immortality. The story-making machine openly constructs the world.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Atemporal -> Fabulation
+  -> Classic Fabulation -> Metafictional worldmaking. SFE describes an abstract, parodic and metaphysical
+  use of SF: Morel’s machine kills its models to make eternal three-dimensional projected avatars, composing
+  an island reality around chimerical copies, invisibility and immortality. The story-making machine openly
+  constructs the world.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/bioy_casares_adolfo
 - https://www.penguinrandomhouse.com/books/13671/the-invention-of-morel-by-adolfo-bioy-casares-introduction-by-suzanne-jill-levine-translated-by-ruth-lc-simms-prologue-by-jorge-luis-borges/
@@ -19,3 +21,8 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
+placement_history:
+- date: '2026-09-28'
+  to: projected-worlds
+  reason: 'Metafictional-worldmaking split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M3WEFK7NSWAXDVMY6THZPH,
+    instrument axis.'
