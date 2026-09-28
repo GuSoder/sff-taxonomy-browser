@@ -56,15 +56,6 @@ The commission: a leaf under Political fantasy for post-feudal mass-franchise po
 - **Costume family:** Suit (the robes-vs-suits pair with Court intrigue was the most readable of the night; died: tongue-stuck, too short); Pinstripe (liked, but too decade-pinned - "less specific age stuff please", phonemsg-01M3JBZ9BV8XFHJDY4V156KBMQ); Collar, Hat, Seat, Pocket (contrived).
 - **Evocative family:** Anthem (no medieval king had a national anthem - unbuyable by earlier ages; hymn smell); Square (the public square; geometry); Voice (court whispers vs this shelf SPEAKS; generic); March (month + military).
 
-## Open workshop: the rescue leaf
-
-For the persecuted-magician rescue-network leaf (serve delivered; no ruling yet):
-- **Harbor** - the crime verb: harboring the hunted. OPEN.
-- **Conductor** - the Railroad's people; orchestra misread. OPEN.
-- **Safe-passage** - descriptive fallback, zero latch. OPEN.
-
-Rejected: Schindler (register break; shape mismatch - one man, not a network; gravity); Underground (names the cover, not the engine; samizdat overlap); Railroad ("Railroad has no hint", phonemsg-01M3K8TX74FVCY415PXQJ875AK - doesn't signal genre content).
-
 ## Technique notes
 
 - **The participle gift.** A word that is its own past participle signals completed state for free ("broadcast" - cast/cast); the -ed participle is the pattern behind Defeudalized. The question that surfaced it: "I want it somehow to be 'BroadcastEd..' but language doesn't work that way, why do I want that?" (phonemsg-01M3JAB4VDTN3BXW8PAF1T20F1).
