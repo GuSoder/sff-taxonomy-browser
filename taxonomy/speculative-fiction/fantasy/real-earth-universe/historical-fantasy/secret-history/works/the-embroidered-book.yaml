@@ -1,0 +1,24 @@
+id: the-embroidered-book
+title: The Embroidered Book
+authors:
+- Kate Heartfield
+first_published: 2022
+canonical_genre: secret-history
+placement_status: accepted
+placement_rationale: 'Locus (Wolfe): ''the secret role of magic in European politics around the time of the French Revolution'';
+  nearly all central characters are actual historical figures; Heartfield sits at the conservation-of-history end. Documented
+  history secretly explained by a hidden magical truth: secret-history, textbook fit.'
+classification_sources:
+- https://locusmag.com/review/gary-k-wolfe-reviews-the-embroidered-book-by-kate-heartfield/
+intake: 'gap-2022 #338 (LocusRec2022-Fantasy)'
+cover_curation:
+  status: complete
+  source: Publishers Weekly CDN
+  selected_url: https://www.publishersweekly.com/cover/9780008380595
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: secret-history
+  reason: 'Intake placement (gap-2022 batch n=336-350), autonomous per standing instruction: existing-leaf fit.'

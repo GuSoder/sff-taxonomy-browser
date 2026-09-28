@@ -1,0 +1,25 @@
+id: the-devil-takes-you-home
+title: The Devil Takes You Home
+authors:
+- Gabino Iglesias
+first_published: 2022
+canonical_genre: postcolonial-gothic
+placement_status: accepted
+placement_rationale: 'NPR (Masad): barrio noir - a father driven to cartel work by his daughter''s leukemia; ''religious,
+  superstitious, and supernatural elements add a dimension to the novel that heightens its horror, but also its social commentary'';
+  Mario''s waking visions since childhood. Border violence returning as vision and haunting beside Coyote Songs (same author):
+  postcolonial-gothic. Bend: crime-noir spine, the supernatural ambient rather than a single engine.'
+classification_sources:
+- https://www.npr.org/2022/08/06/1115450955/the-devil-takes-you-home-invites-readers-to-consider-the-depths-of-darkness
+intake: 'gap-2022 #336 (LocusRec2022-Horror)'
+cover_curation:
+  status: complete
+  source: Open Library (ISBN)
+  selected_url: https://covers.openlibrary.org/b/isbn/9780316426916-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: postcolonial-gothic
+  reason: 'Intake placement (gap-2022 batch n=336-350), autonomous per standing instruction: existing-leaf fit.'

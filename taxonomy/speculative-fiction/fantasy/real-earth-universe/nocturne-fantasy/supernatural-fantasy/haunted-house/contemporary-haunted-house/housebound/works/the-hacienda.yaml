@@ -1,0 +1,26 @@
+id: the-hacienda
+title: The Hacienda
+authors:
+- Isabel Cañas
+first_published: 2022
+canonical_genre: housebound
+placement_status: accepted
+placement_rationale: 'Locus (James): after the Mexican War of Independence, Beatriz marries into a hacienda where something
+  is deeply wrong - blood drips down walls, cold hands wait to push inhabitants down stairs; ''a mix between Rebecca and Mexican
+  Gothic'', a story that ''invokes the dead''; the witch-priest Andres is called to rid the house of its evil presence. A
+  dead person bound to the place on the Rebecca frame: housebound. Bend: historical setting (1820s Mexico), colonial-violence
+  theme.'
+classification_sources:
+- https://locusmag.com/review/maya-c-james-reviews-the-hacienda-by-isabel-canas/
+intake: 'gap-2022 #347 (LocusRec2022-First)'
+cover_curation:
+  status: complete
+  source: Open Library (ISBN)
+  selected_url: https://covers.openlibrary.org/b/isbn/9780593436691-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: housebound
+  reason: 'Intake placement (gap-2022 batch n=336-350), autonomous per standing instruction: existing-leaf fit.'
