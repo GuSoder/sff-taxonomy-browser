@@ -1,17 +1,14 @@
 id: arthurian-fantasy
 label: Arthurian fantasy
 parent: mythic-retelling
-children: []
+children:
+- arthur-classic
+- arthur-reimagined
+- arthur-returned
 image: 164-arthurian-fantasy.webp
-definition: Fantasy that retells or reimagines Arthur, Avalon, Camelot, the Grail and the Matter of Britain.
+definition: 'Fantasy centered on Arthur, Camelot, Avalon, the Grail and the Arthurian legend. Umbrella
+  since the curator''s 2026-09-29 split at ten cards: Arthur Classic tells the legend in its own mode,
+  Arthur Reimagined recasts it as an argument, and Arthur Returned carries it into later worlds (phonemsg-01M3NVHS8KEANY81ZFSMB9WXHZ
+  ''Execute'').'
 status: accepted
-works:
-- avalon
-- the-once-and-future-king
-- arthurian-saga
-- a-glastonbury-romance
-- by-force-alone
-- the-legendborn-cycle
-- war-in-heaven
-- spear
-- the-bright-sword
+works: []
