@@ -3,9 +3,12 @@ title: Anno Dracula
 authors:
 - Kim Newman
 first_published: 1992
-canonical_genre: vampire-fantasy
+canonical_genre: vampire-worlds
 placement_status: accepted
-placement_rationale: SFE identifies the sequence's transformed alternate world as beginning when Dracula marries Queen Victoria, with vampires and supernatural figures continuing through later eras; Titan calls Daikaiju part of its alternate-history vampire series. Vampires are the shared actors and the counterfactual world's governing condition, making Vampire closest.
+placement_rationale: SFE identifies the sequence's transformed alternate world as beginning when Dracula marries
+  Queen Victoria, with vampires and supernatural figures continuing through later eras; Titan calls Daikaiju part
+  of its alternate-history vampire series. Vampires are the shared actors and the counterfactual world's governing
+  condition, making Vampire closest.
 classification_sources:
 - https://sf-encyclopedia.com/entry/newman_kim
 - https://titanbooks.com/9593-anno-dracula-1999-daikaiju/
@@ -31,6 +34,11 @@ books:
 - title: One Thousand Monsters
   first_published: 2017
   cover_url: https://media.titanbooks.com/catalog/products/AD_1000Monsters_V5a.jpg
-- title: "Anno Dracula 1999: Daikaiju"
+- title: 'Anno Dracula 1999: Daikaiju'
   first_published: 2019
   cover_url: https://media.titanbooks.com/catalog/products/Daikaiju.jpg
+placement_history:
+- date: '2026-09-29'
+  from: vampire-fantasy
+  to: vampire-worlds
+  reason: Curator split and Fringe rename ruling phonemsg-01M3PB3NP69Q1FH8ND9YY997Q0.

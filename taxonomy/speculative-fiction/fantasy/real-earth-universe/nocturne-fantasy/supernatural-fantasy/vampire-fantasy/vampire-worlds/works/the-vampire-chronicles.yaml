@@ -4,7 +4,7 @@ authors:
 - Anne Rice
 first_published: 1976
 last_published: 2018
-canonical_genre: vampire-fantasy
+canonical_genre: vampire-worlds
 placement_status: accepted
 included_titles:
 - Interview with the Vampire
@@ -55,6 +55,10 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/10701621-L.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/dark-fantasy/gothic-horror/vampire-fiction to match live tree; placement unchanged
-    on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/dark-fantasy/gothic-horror/vampire-fiction
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: vampire-fiction
+- date: '2026-09-29'
+  from: vampire-fantasy
+  to: vampire-worlds
+  reason: Curator split and Fringe rename ruling phonemsg-01M3PB3NP69Q1FH8ND9YY997Q0.

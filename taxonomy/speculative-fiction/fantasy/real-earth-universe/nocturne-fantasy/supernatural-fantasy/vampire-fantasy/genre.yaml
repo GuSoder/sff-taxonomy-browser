@@ -1,16 +1,14 @@
 id: vampire-fantasy
 label: Vampire fantasy
 parent: supernatural-fantasy
-children: []
+children:
+- vampire-hunt
+- vampire-worlds
+- vampire-fringe
 image: 67-vampire-fantasy.webp
-definition: Supernatural fantasy on recognizable Earth specifically centered on vampires and vampirism (SFE Vampires theme entry; EoF VAMPIRES headword).
+definition: Supernatural fantasy on recognizable Earth centered on vampires and vampirism (SFE Vampires; EoF VAMPIRES).
+  Umbrella split at ten cards into Vampire Hunt (predator confronted), Vampire Worlds (vampire societies and lineages),
+  and Vampire Fringe (formal variations and deliberate ambiguity), under curator ruling phonemsg-01M3PB3NP69Q1FH8ND9YY997Q0
+  ('Execute') 2026-09-29.
 status: provisional
-works:
-- dracula
-- the-southern-book-club-s-guide-to-slaying-vampires
-- the-vampire-chronicles
-- salem-s-lot
-- anno-dracula
-- lost-souls
-- prisoner-of-midnight
-- sunshine
+works: []
