@@ -1,0 +1,31 @@
+id: the-last-storm
+title: The Last Storm
+authors:
+- Tim Lebbon
+first_published: 2022
+canonical_genre: world-bleeds
+placement_status: accepted
+placement_rationale: 'World Bleeds: Ash and Jesse''s inherited rainmaking gift uses improvised wired apparatus to
+  tap our world and ''other worlds'' (Lebbon interview); storms bring rain, snakes, scorpions and spiders into a
+  drought-ravaged near-future America. One review calls the glimpsed place Skunkville, but its cosmology and each
+  creature''s origin are not established. The crossing affects the home world without a human journey. No-magic-in-SF
+  policy removes this from Cli-fi dystopia; curator ruling phonemsg-01M3P75RM8YV1VNTH0R3E65J53.'
+classification_sources:
+- https://archive.gnofhorror.com/interviews/theres-a-big-storm-coming-and-its-gonna-wash-us-all-away-an-interview-with-tim-lebbon.html
+- https://www.horrordna.com/books/the-last-storm-tim-lebbon-book-review
+- https://locusmag.com/review/gabino-iglesias-reviews-the-last-storm-by-tim-lebbon/
+- https://www.publishersweekly.com/9781803360423
+intake: gap-2022 tier-2 chunk n=351-365
+cover_curation:
+  status: complete
+  source: Amazon
+  selected_url: cover-9781803360423.jpg
+  visually_reviewed_on: '2026-09-28'
+  review_method: montage visual review (agent)
+placement_history:
+- date: '2026-09-28'
+  change: Placed in intake batch n=351-365.
+- date: '2026-09-29'
+  from: cli-fi-dystopia
+  to: world-bleeds
+  reason: Curator no-magic-in-SF policy and new World Bleeds leaf, ruling phonemsg-01M3P75RM8YV1VNTH0R3E65J53.
