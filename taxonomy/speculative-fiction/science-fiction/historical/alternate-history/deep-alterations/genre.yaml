@@ -3,10 +3,16 @@ label: Deep alterations
 parent: alternate-history
 children: []
 image: 150-deep-alterations.webp
-definition: Alternate histories whose alterations run centuries deep and produce transformed world orders.
+definition: Alternate histories where an enduring divergence makes a different world to live in, whether it remakes political orders and cultures or transforms one
+  field of knowledge and experience. The alteration outlasts a single era; the book is about living in its changed world rather than replaying a period’s events.
 status: accepted
 works:
 - the-alteration
 - the-years-of-rice-and-salt
 - pavane
 - sargassa
+- singer-distance
+history:
+- date: '2026-09-29'
+  change: Definition broadened for enduring lived-in alternate worlds; Singer Distance placed by curator ruling.
+  source_message: phonemsg-01M3QGCC70GAAP7RFTC18VJCDQ
