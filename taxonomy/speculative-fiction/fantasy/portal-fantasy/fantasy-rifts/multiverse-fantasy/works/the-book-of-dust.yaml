@@ -1,0 +1,31 @@
+id: the-book-of-dust
+title: The Book of Dust
+authors:
+- Philip Pullman
+first_published: 2017
+canonical_genre: multiverse-fantasy
+placement_status: accepted
+placement_rationale: The Book of Dust trilogy continues Lyra’s cross-world cosmology and passage among alternate
+  realities; Rose Field completes the same series and is folded onto its first book card.
+classification_sources:
+- https://locusmag.com/review/the-rose-field-by-philip-pullman-review-by-graham-sleight/
+intake: gap-2022 tier-2 n=384 (LocusRec2025-Fantasy)
+cover_curation:
+  status: complete
+  source: Open Library / Amazon
+  selected_url: cover-la-belle-sauvage.jpg
+  visually_reviewed_on: '2026-09-29'
+  review_method: 16-cover contact-sheet visual review
+books:
+- title: La Belle Sauvage
+  year: 2017
+  cover_url: cover-la-belle-sauvage.jpg
+  shows_english_title: true
+- title: The Secret Commonwealth
+  year: 2019
+  cover_url: cover-the-secret-commonwealth.jpg
+  shows_english_title: true
+- title: The Rose Field
+  year: 2025
+  cover_url: cover-9780593306635.jpg
+  shows_english_title: true
