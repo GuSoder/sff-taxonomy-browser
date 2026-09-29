@@ -1,7 +1,7 @@
 id: found-magic
 name: Found magic
-definition: Magical coming-of-age in which the magic is stumbled into rather than taught or inherited
-  - an artifact, an erupting talent, a coven joined - and is developed informally with friends.
+definition: Magical coming-of-age in which the magic is stumbled into rather than taught or inherited - an artifact, an erupting talent, a coven joined - and is developed
+  informally with friends.
 parent: magical-coming-of-age
 label: Found magic
 children: []
@@ -12,3 +12,4 @@ works:
 - the-scapegracers
 - bitter
 - spell-bound
+- night-swimming
