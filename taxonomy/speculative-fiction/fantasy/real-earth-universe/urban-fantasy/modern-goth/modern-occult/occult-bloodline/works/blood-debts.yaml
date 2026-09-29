@@ -3,10 +3,10 @@ title: Blood Debts
 authors:
 - Terry J. Benton-Walker
 first_published: 2023
-canonical_genre: modern-occult
+canonical_genre: occult-bloodline
 placement_status: accepted
-placement_rationale: Twin heirs of a secret magical dynasty operate inside contemporary New Orleans' organized
-  magical community.
+placement_rationale: Twin heirs of a secret magical dynasty operate inside contemporary New Orleans' organized magical
+  community.
 classification_sources:
 - https://tjbentonwalker.com/blood-debts
 - https://www.kirkusreviews.com/book-reviews/terry-j-benton-walker/blood-debts/
@@ -26,5 +26,9 @@ books:
   cover_url: https://images-na.ssl-images-amazon.com/images/P/1250825954.01.LZZZZZZZ.jpg
 placement_history:
 - date: '2026-09-28'
-  change: Blood Justice (2024) folded onto this card per DUPLICATES.md one-card-per-series (standing series
-    rule; same New Orleans magical-dynasty series). modern-occult 8 -> 7 cards.
+  change: Blood Justice (2024) folded onto this card per DUPLICATES.md one-card-per-series (standing series rule;
+    same New Orleans magical-dynasty series). modern-occult 8 -> 7 cards.
+- date: '2026-09-29'
+  from: modern-occult
+  to: occult-bloodline
+  reason: Curator harmonized-names ruling phonemsg-01M3P9RM636KMZRM7J0PR29XGC.

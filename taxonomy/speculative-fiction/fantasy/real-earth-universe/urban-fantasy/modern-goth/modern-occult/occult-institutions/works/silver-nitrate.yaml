@@ -1,0 +1,29 @@
+id: silver-nitrate
+title: Silver Nitrate
+authors:
+- Silvia Moreno-Garcia
+first_published: 2023
+canonical_genre: occult-institutions
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Urban fantasy -> Modern goth -> Modern occult.
+  1990s Mexico City film industry: Nazi occultism, a cursed film, working magic inside a contemporary profession
+  and city (Washington Post: ''the alchemy of film isn''t just a metaphor''; satanic cults, runes, glyphs all real
+  in-world). Occult systems operating inside contemporary institutions/professions - the leaf def.'
+classification_sources:
+- https://www.washingtonpost.com/books/2023/07/17/silver-nitrate-silvia-moreno-garcia-review/
+intake: 'gap-2022 #296 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14377540-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: modern-occult
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-09-29'
+  from: modern-occult
+  to: occult-institutions
+  reason: Curator harmonized-names ruling phonemsg-01M3P9RM636KMZRM7J0PR29XGC.
