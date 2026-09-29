@@ -3,9 +3,12 @@ title: Blackfish City
 authors:
 - Sam J. Miller
 first_published: 2018
-canonical_genre: cli-fi-dystopia
+canonical_genre: climate-class-divide
 placement_status: accepted
-placement_rationale: SFE sets it in an Arctic floating city surrounded by open water after climate change and calls the refuge dystopian; Hachette begins after the climate wars, with corruption, inequality and unrest inside the floating city. Climate consequence creates and destabilizes the society, making Cli-fi dystopia the engine-level fit.
+placement_rationale: SFE sets it in an Arctic floating city surrounded by open water after climate change and calls
+  the refuge dystopian; Hachette begins after the climate wars, with corruption, inequality and unrest inside the
+  floating city. Climate consequence creates and destabilizes the society, making Cli-fi dystopia the engine-level
+  fit.
 classification_sources:
 - https://sf-encyclopedia.com/entry/miller_sam_j
 - https://www.hachette.co.uk/titles/sam-j-miller/blackfish-city/9781405541343/
@@ -20,3 +23,8 @@ cover_curation:
   display_eligible: true
   candidates_visually_reviewed: 4
   review_method: one-pass work search
+placement_history:
+- date: '2026-09-29'
+  from: cli-fi-dystopia
+  to: climate-class-divide
+  reason: Curator split ruling phonemsg-01M3P8H4RAJVY4Y2ACXN9QKEVZ.

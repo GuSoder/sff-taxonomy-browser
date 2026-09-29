@@ -1,17 +1,14 @@
 id: cli-fi-dystopia
 label: Cli-fi dystopia
 parent: social-dystopia
-children: []
+children:
+- climate-class-divide
+- climate-displacement
+- climate-breakdown
 image: 156-cli-fi-dystopia.webp
-definition: Dystopian futures where climate change is the engine of social collapse and conflict.
+definition: Dystopian futures where climate change is the engine of social collapse and conflict. Umbrella split
+  at nine cards into Climate Class Divide (inequality and market capture), Climate Displacement (uprooting and exile),
+  and Climate Breakdown (society-wide ecological and institutional failure), under curator ruling phonemsg-01M3P8H4RAJVY4Y2ACXN9QKEVZ
+  ('Execute') 2026-09-29. The Last Storm was separately moved to fantasy for its magical rainmaking.
 status: accepted
-works:
-- the-windup-girl
-- american-war
-- blackfish-city
-- bridge-108
-- rise-of-the-red-hand
-- the-sheep-look-up
-- venomous-lumpsucker
-- metronome
-- the-deluge
+works: []
