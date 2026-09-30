@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 416,
+    "represented": 417,
     "excluded": 13,
-    "held": 18
+    "held": 17
   },
   "outcomes": [
     {
@@ -5046,8 +5046,14 @@
       "n": 397,
       "intake_title": "The Staircase in the Woods",
       "intake_author": "Chuck Wendig",
-      "status": "held",
-      "reason": "Parent queued Uncanny thresholds vs Unholy halls ruling."
+      "status": "represented",
+      "action": "add",
+      "card": "The Staircase in the Woods",
+      "leaf": "uncanny-thresholds",
+      "sources": [
+        "https://locusmag.com/review/the-staircase-in-the-woods-by-chuck-wendig-review-by-ian-mond/",
+        "https://www.penguinrandomhouse.com/books/646869/the-staircase-in-the-woods-by-chuck-wendig/"
+      ]
     },
     {
       "n": 398,

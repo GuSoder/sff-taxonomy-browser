@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 397,
-      "title": "The Staircase in the Woods",
-      "reason": "Parent queued Uncanny thresholds vs Unholy halls ruling."
-    },
-    {
       "n": 404,
       "title": "The Tongue Trade",
       "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
@@ -216,11 +211,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 397,
-      "title": "The Staircase in the Woods",
-      "reason": "Parent queued Uncanny thresholds vs Unholy halls ruling."
-    },
-    {
       "n": 404,
       "title": "The Tongue Trade",
       "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
@@ -280,8 +270,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 429,
-  "represented": 416,
+  "resolved": 430,
+  "represented": 417,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -412,9 +402,8 @@
       "start": 386,
       "end": 405,
       "audited": 20,
-      "resolved": 17,
+      "resolved": 18,
       "held": [
-        397,
         404,
         405
       ]
