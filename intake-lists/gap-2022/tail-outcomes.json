@@ -304,11 +304,21 @@
   },
   {
     "n": 414,
-    "intake_title": "The Wax Child",
-    "intake_author": "Olga Ravn",
-    "status": "held",
-    "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary.",
-    "action": "held"
+    "title": "The Wax Child",
+    "authors": [
+      "Olga Ravn"
+    ],
+    "year": 2023,
+    "action": "add",
+    "leaf": "renaissance-fantasy",
+    "rationale": "Root-down: Speculative fiction -> Fantasy -> Real earth fantasy -> Historical fantasy -> Period fantasy -> Antique times fantasy -> Renaissance fantasy. Olga Ravn gives a magical wax doll voice and a 400-year life to observe Christenze Kruckow and women accused of witchcraft in documented Danish trials around 1596-1621, compressed into the novels 1620s stage. The National Museum of Denmark explicitly dates Danish Renaissance 1536-1660, resolving the held era boundary. Historical sources and period society govern over dark magical register or folk-horror atmosphere. Secret history fails magical explanation/secrecy as engine; alternate history fails divergent timeline; Norse myth retelling fails inherited-myth source. The dolls magical consciousness grounds fantasy; other witchcraft effects and Devil allegations remain unresolved, not evidence of Satanic torment. Author interview and publisher ground the premise. Curator Execute on 2026-09-30 approved Renaissance fantasy7->8.",
+    "sources": [
+      "https://en.natmus.dk/historical-knowledge/denmark/renaissance-1536-1660/",
+      "https://www.gyldendal.dk/produkter/voksbarnet-9788702395501",
+      "https://www.gyldendal.dk/artikler/voksbarnet-olga-ravn-interview",
+      "https://www.ndbooks.com/book/the-wax-child/",
+      "https://locusmag.com/review/the-wax-child-by-olga-ravn-review-by-ian-mond/"
+    ]
   },
   {
     "n": 415,

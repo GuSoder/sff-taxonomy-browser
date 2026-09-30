@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 419,
+    "represented": 420,
     "excluded": 13,
-    "held": 15
+    "held": 14
   },
   "outcomes": [
     {
@@ -5276,8 +5276,17 @@
       "n": 414,
       "intake_title": "The Wax Child",
       "intake_author": "Olga Ravn",
-      "status": "held",
-      "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
+      "status": "represented",
+      "action": "add",
+      "card": "The Wax Child",
+      "leaf": "renaissance-fantasy",
+      "sources": [
+        "https://en.natmus.dk/historical-knowledge/denmark/renaissance-1536-1660/",
+        "https://www.gyldendal.dk/produkter/voksbarnet-9788702395501",
+        "https://www.gyldendal.dk/artikler/voksbarnet-olga-ravn-interview",
+        "https://www.ndbooks.com/book/the-wax-child/",
+        "https://locusmag.com/review/the-wax-child-by-olga-ravn-review-by-ian-mond/"
+      ]
     },
     {
       "n": 415,

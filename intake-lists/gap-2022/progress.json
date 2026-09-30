@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 414,
-      "title": "The Wax Child",
-      "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
-    },
-    {
       "n": 417,
       "title": "The Works of Vermin",
       "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
@@ -201,11 +196,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 414,
-      "title": "The Wax Child",
-      "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
-    },
-    {
       "n": 417,
       "title": "The Works of Vermin",
       "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
@@ -250,8 +240,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 432,
-  "represented": 419,
+  "resolved": 433,
+  "represented": 420,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -390,9 +380,8 @@
       "start": 406,
       "end": 425,
       "audited": 20,
-      "resolved": 17,
+      "resolved": 18,
       "held": [
-        414,
         417,
         420
       ]
