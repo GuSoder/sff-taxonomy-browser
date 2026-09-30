@@ -1,0 +1,23 @@
+{
+  "status": "prepared; no new books added while Remade bodies waits at ten",
+  "series": [
+    {
+      "candidate": 412,
+      "card": "The Warden",
+      "source": "https://us.macmillan.com/series/thewardenseries",
+      "need": "Verify all released continuation titles, covers and years, then coalesce."
+    },
+    {
+      "candidate": 419,
+      "card": "These Burning Stars",
+      "source": "https://www.hbgacademic.com/series/bethany-jacobs/the-kindom-trilogy/",
+      "need": "Add On Vicious Worlds and This Brutal Moon to first-book card after covers/years verified."
+    },
+    {
+      "candidate": 422,
+      "card": "Threads That Bind",
+      "source": "https://www.penguinrandomhouse.com/series/T2D/threads-that-bind/",
+      "need": "Add Hearts That Cut after cover/year verified."
+    }
+  ]
+}
