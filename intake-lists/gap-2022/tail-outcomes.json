@@ -500,5 +500,92 @@
     ],
     "cover_url": "https://www.publishersweekly.com/cover/9780316416580",
     "cover_path": "/downloads/tail447.jpg"
+  },
+  {
+    "n": 406,
+    "title": "The Unbalancing",
+    "authors": [
+      "R. B. Lemberg"
+    ],
+    "year": 2022,
+    "action": "add",
+    "leaf": "romantasy",
+    "rationale": "Root-down: Fantasy -> Fantasy realms -> Romantasy. Poet Lilun and starkeeper Ranra fall in love while trying to save Gelle-Geu from its unstable underwater star; publisher expressly centers new love and their alternating intimate arcs are co-equal with the catastrophe. Deepnames supply rule-bound collective magic, but the romantic relationship is the plot's spine, not a technical system-solving epic alone. Neither an inherited real-Earth mythology nor cozy safety: invented Birdverse cosmology with bittersweet disaster. Birdverse is a shared setting with different protagonists, not one continuous series card.",
+    "sources": [
+      "https://tachyonpublications.com/product/the-unbalancing/",
+      "https://locusmag.com/review/gary-k-wolfe-reviews-the-unbalancing-by-r-b-lemberg/",
+      "https://www.publishersweekly.com/9781616963804"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9781616963804",
+    "cover_path": "/downloads/tail406.jpg"
+  },
+  {
+    "n": 432,
+    "title": "Vanishing World",
+    "authors": [
+      "Sayaka Murata"
+    ],
+    "year": 2015,
+    "action": "add",
+    "leaf": "alt-postwar",
+    "rationale": "Root-down: SF -> Historical -> Alternate history -> Period alterations -> Alt postwar. PW explicitly anchors artificial insemination's rapid development to WWII; Amane lives in the changed postwar Japan where sex is taboo and Experiment City makes parenthood collective. A WWII fork within the generation preceding the depicted adulthood satisfies Alt postwar, not undated future dystopia or unanchored fabulation. Deep alterations is less exact because the named WWII-period fork and its immediate social legacy govern. Scientific reproduction, no literal magic.",
+    "sources": [
+      "https://www.publishersweekly.com/9780802164667",
+      "https://groveatlantic.com/book/vanishing-world/",
+      "https://www.theguardian.com/books/2025/apr/30/vanishing-world-by-sayaka-murata-review-a-future-without-sex"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9780802164667",
+    "cover_path": "/downloads/tail432.jpg"
+  },
+  {
+    "n": 435,
+    "title": "We Lived on the Horizon",
+    "authors": [
+      "Erika Swyler"
+    ],
+    "year": 2025,
+    "action": "add",
+    "leaf": "sentient-robots",
+    "rationale": "Root-down: SF -> Futurist -> Future of Earth -> Techno fiction -> Machine minds -> Robots -> Sentient robots. Enita builds her personal AI Nix a body and the narrative explores its divergent consciousness, bodily autonomy and claim to personhood during Bulwark's class revolt. Author and Locus center the surgeon and embodied AI rather than revolution organizers. Parallax's distributed city intelligence is context; Nix's body and becoming someone govern, not indistinguishable-human passing, generalized surveillance or the class struggle alone.",
+    "sources": [
+      "https://www.erikaswyler.com/we-lived-on-the-horizon",
+      "https://locusmag.com/review/we-lived-on-the-horizon-by-erika-swyler-review-by-jake-casella-brookins/",
+      "https://www.kirkusreviews.com/book-reviews/erika-swyler/we-lived-on-the-horizon/"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9781668049594",
+    "cover_path": "/downloads/tail435.jpg"
+  },
+  {
+    "n": 436,
+    "title": "Bunny",
+    "authors": [
+      "Mona Awad"
+    ],
+    "year": 2019,
+    "action": "add",
+    "leaf": "earthly-comic-fantasy",
+    "rationale": "Root-down: Fantasy -> Real earth -> Earthly comic fantasy. MFA students form a coven and turn real rabbits into imperfect male Darlings/Drafts, a literal supernatural workshop used for savage academic satire. We Love You, Bunny revisits the same coven, protagonist and created First Boy, expanding the shared events; coalesced on the first book's card. Kirkus centers hilarious grotesquerie and satire. Not SF Written worlds: drafting is figurative language for physical witchcraft, not proof the world is made of text, and literal magic excludes the SF side.",
+    "sources": [
+      "https://www.kirkusreviews.com/book-reviews/mona-awad/bunny/",
+      "https://www.kirkusreviews.com/book-reviews/mona-awad/we-love-you-bunny/",
+      "https://reviewcanada.ca/magazine/2026/04/thats-not-all-folks-review-bunny-we-love-you-bunny/",
+      "https://www.penguinrandomhouse.com/books/576726/bunny-by-mona-awad/"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9780525559757",
+    "cover_path": "/downloads/bunny.jpg",
+    "series_completion": {
+      "n": 1436,
+      "title": "We Love You, Bunny",
+      "action": "merge",
+      "leaf": "earthly-comic-fantasy",
+      "into": "Bunny",
+      "year": 2025,
+      "cover_url": "https://www.publishersweekly.com/cover/9781668059869",
+      "cover_path": "/downloads/tail436.jpg",
+      "reason": "Direct follow-up revisits Bunny characters and same events; coalesced on first-book card.",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/mona-awad/we-love-you-bunny/"
+      ]
+    }
   }
 ]
