@@ -1,11 +1,6 @@
 {
   "held": [
     {
-      "n": 222,
-      "title": "It Was Her House First",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 232,
       "title": "Last Exit",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -126,11 +121,6 @@
   ],
   "pending_ruling": [
     {
-      "n": 222,
-      "title": "It Was Her House First",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 232,
       "title": "Last Exit",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -170,8 +160,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 440,
-  "represented": 427,
+  "resolved": 441,
+  "represented": 428,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -219,10 +209,8 @@
       "start": 206,
       "end": 225,
       "audited": 20,
-      "resolved": 19,
-      "held": [
-        222
-      ]
+      "resolved": 20,
+      "held": []
     },
     {
       "tier": "locus-only",

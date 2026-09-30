@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 427,
+    "represented": 428,
     "excluded": 13,
-    "held": 7
+    "held": 6
   },
   "outcomes": [
     {
@@ -2855,8 +2855,18 @@
       "n": 222,
       "intake_title": "It Was Her House First",
       "intake_author": "Cherie Priest",
-      "status": "held",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+      "status": "represented",
+      "action": "add",
+      "card": "It Was Her House First",
+      "leaf": "housebound",
+      "sources": [
+        "https://www.sourcebooks.com/it-was-her-house-first.html",
+        "https://www.cheriepriest.com/blog/it-was-her-house-first-coming-july-22-2025",
+        "https://www.publishersweekly.com/9781728292854",
+        "https://locusmag.com/review/it-was-her-house-first-by-cherie-priest-review-by-colleen-mondor/",
+        "https://fantasyliterature.com/reviews/it-was-her-house-first/",
+        "https://reactormag.com/book-review-it-was-her-house-first-by-cherie-priest/"
+      ]
     },
     {
       "n": 223,
