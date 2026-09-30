@@ -1,0 +1,11 @@
+id: space-soap-opera
+label: Space soap opera
+parent: new-space-opera
+children:
+- spaceship-drama
+- space-romance
+image: 444-space-soap-opera.webp
+definition: 'Interstellar stories whose engine is relationships: drama, romance and the bonds between people. Adventure and politics supply the stakes rather than
+  displacing the relationships. Umbrella for Spaceship drama and Space romance, created by the curator on 2026-09-30.'
+status: accepted
+works: []
