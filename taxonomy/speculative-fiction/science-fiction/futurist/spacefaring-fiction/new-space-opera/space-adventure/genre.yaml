@@ -1,11 +1,9 @@
 id: space-adventure
 label: Space adventure
 parent: new-space-opera
-definition: 'New space opera whose engine is adventure: action, chases, daring and momentum, with physical
-  danger as the story''s driver - rather than politics (Political space opera), transcendence (Theological),
-  going into alien things (Alien delving), the frontier myth (Space western) or character drama (Spaceship
-  drama). Posthuman or galaxy-scale furniture is the stage, not the book. SFE-recognized term; Named by
-  the curator on 2026-09-27 after Dark Diamond.'
+definition: 'New space opera whose engine is adventure: action, chases, daring and momentum, with physical danger as the story''s driver - rather than politics (Political
+  space opera), transcendence (Theological), going into alien things (Alien delving), the frontier myth (Space western) or character drama (Spaceship drama). Posthuman
+  or galaxy-scale furniture is the stage, not the book. SFE-recognized term; Named by the curator on 2026-09-27 after Dark Diamond.'
 status: accepted
 image: 373-space-adventure.webp
 children: []
@@ -15,3 +13,4 @@ works:
 - lady-eves-last-con
 - red-star-hustle
 - song-of-spores
+- where-peace-is-lost
