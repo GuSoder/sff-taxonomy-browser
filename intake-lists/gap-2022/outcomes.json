@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 424,
+    "represented": 425,
     "excluded": 13,
-    "held": 10
+    "held": 9
   },
   "outcomes": [
     {
@@ -5618,8 +5618,17 @@
       "n": 438,
       "intake_title": "What Moves the Dead",
       "intake_author": "T. Kingfisher",
-      "status": "held",
-      "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
+      "status": "represented",
+      "action": "add",
+      "card": "What Moves the Dead",
+      "leaf": "fungal-horror",
+      "sources": [
+        "https://us.macmillan.com/books/9781250830753/whatmovesthedead/",
+        "https://dorisvsutherland.com/2023/10/10/what-moves-the-dead-by-t-kingfisher-2023-hugo-awards/",
+        "https://chireviewofbooks.com/2022/07/18/what-moves-the-dead/",
+        "https://sfbook.com/what-moves-the-dead.htm",
+        "https://www.horrorgeeklife.com/2022/07/12/what-moves-the-dead-review/"
+      ]
     },
     {
       "n": 439,

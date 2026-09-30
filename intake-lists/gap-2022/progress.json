@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 438,
-      "title": "What Moves the Dead",
-      "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
-    },
-    {
       "n": 440,
       "title": "When the Angels Left the Old Country",
       "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
@@ -176,11 +171,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 438,
-      "title": "What Moves the Dead",
-      "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
-    },
-    {
       "n": 440,
       "title": "When the Angels Left the Old Country",
       "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
@@ -200,8 +190,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 437,
-  "represented": 424,
+  "resolved": 438,
+  "represented": 425,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -348,9 +338,8 @@
       "start": 426,
       "end": 445,
       "audited": 20,
-      "resolved": 17,
+      "resolved": 18,
       "held": [
-        438,
         440,
         441
       ]
