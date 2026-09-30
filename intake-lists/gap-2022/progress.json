@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 434,
-      "title": "We Computers",
-      "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
-    },
-    {
       "n": 438,
       "title": "What Moves the Dead",
       "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
@@ -181,11 +176,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 434,
-      "title": "We Computers",
-      "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
-    },
-    {
       "n": 438,
       "title": "What Moves the Dead",
       "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
@@ -210,8 +200,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 436,
-  "represented": 423,
+  "resolved": 437,
+  "represented": 424,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -358,9 +348,8 @@
       "start": 426,
       "end": 445,
       "audited": 20,
-      "resolved": 16,
+      "resolved": 17,
       "held": [
-        434,
         438,
         440,
         441

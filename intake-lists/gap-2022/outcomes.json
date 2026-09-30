@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 423,
+    "represented": 424,
     "excluded": 13,
-    "held": 11
+    "held": 10
   },
   "outcomes": [
     {
@@ -5560,8 +5560,17 @@
       "n": 434,
       "intake_title": "We Computers",
       "intake_author": "Hamid Ismailov",
-      "status": "held",
-      "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
+      "status": "represented",
+      "action": "add",
+      "card": "We Computers",
+      "leaf": "scripted-books-in-books",
+      "sources": [
+        "https://yalebooks.yale.edu/book/9780300272741/we-computers/",
+        "https://electricliterature.com/we-computers-by-hamid-ismailov/",
+        "https://wordswithoutborders.org/book-reviews/and-the-time-you-turned-me-into-a-storyteller-hamid-ismailovs-we-computers-fairweather-vega-hannah-weber/",
+        "https://complete-review.com/reviews/centralasia/ismailovh2.htm",
+        "https://www.full-stop.net/2026/06/03/reviews/alex-lanz/we-computers-hamid-ismailov/"
+      ]
     },
     {
       "n": 435,

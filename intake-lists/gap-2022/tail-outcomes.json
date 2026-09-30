@@ -638,11 +638,21 @@
   },
   {
     "n": 434,
-    "intake_title": "We Computers",
-    "intake_author": "Hamid Ismailov",
-    "status": "held",
-    "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established.",
-    "action": "held"
+    "title": "We Computers",
+    "authors": [
+      "Hamid Ismailov"
+    ],
+    "year": 2022,
+    "action": "add",
+    "leaf": "scripted-books-in-books",
+    "rationale": "Root-down: Speculative fiction -> Science fiction -> Atemporal -> Fabulation -> Books in books -> Scripted books in books. The collective manufactured consciousness narrates Jon-Perse, a1980s French poet whose computer generates and analyzes poetry; its self-interrupting and revising narrative may fabricate the human creator and its own origin. Translator asks whether AI programs the poet, Full Stop identifies uncertainty over real/imagined figures, and Words Without Borders names a computerized lyrical consciousness. No claim of proven literal reality rewriting: reader-facing authored-world uncertainty is the engine. Original2022 Uzbek Telegram serialization, English2025 Shelley Fairweather-Vega. SF digital speculation, not verified magic; Atemporal because unstable authorship frames resist a reliable historical world, not merely because prose is experimental or earlier poems appear. No literal time travel established. Fabulation over conventional AI/Period SF: foregrounded storytelling/reliability. Books in books over Classic Metafictional worldmaking on the curator's Scripted fit: authorial program and text within the narrated world put its reality in question. Siblings Contradiction fiction (conflicting documents), Meta remyth (inherited myth replay), Textual trespass (crossing in/out of texts) are less exact. Scripted definition previously required inhabitants discovering lives as someone else's text; curator explicitly loosened it to reader-facing uncertainty and placed this second card. Late1980s frame still noted; no forced Steampunk/Deco Period SF leaf. Written worlds remains9, no new digital node or other card move.",
+    "sources": [
+      "https://yalebooks.yale.edu/book/9780300272741/we-computers/",
+      "https://electricliterature.com/we-computers-by-hamid-ismailov/",
+      "https://wordswithoutborders.org/book-reviews/and-the-time-you-turned-me-into-a-storyteller-hamid-ismailovs-we-computers-fairweather-vega-hannah-weber/",
+      "https://complete-review.com/reviews/centralasia/ismailovh2.htm",
+      "https://www.full-stop.net/2026/06/03/reviews/alex-lanz/we-computers-hamid-ismailov/"
+    ]
   },
   {
     "n": 435,
