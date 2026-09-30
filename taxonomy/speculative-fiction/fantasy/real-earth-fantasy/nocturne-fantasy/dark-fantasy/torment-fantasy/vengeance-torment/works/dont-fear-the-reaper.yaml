@@ -1,0 +1,37 @@
+id: dont-fear-the-reaper
+title: Don't Fear the Reaper
+authors:
+- Stephen Graham Jones
+first_published: 2023
+canonical_genre: vengeance-torment
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Fantasy -> Real earth fantasy -> Nocturne -> Dark fantasy -> Torment fantasy -> Vengeance
+  torment. Jade Daniels returns to Proofrock as the Dark Mill South killer - a vengeful supernatural slasher born of historical
+  wrong - hunts again (Reactor; Bookreporter). Same shelf as The Only Good Indians. Trilogy card: My Heart Is a Chainsaw (2021),
+  Don''t Fear the Reaper (2023), The Angel of Indian Lake (2024; Locus Guran: the Final Girl''s last stand in Proofrock).'
+classification_sources:
+- https://reactormag.com/book-review-dont-fear-the-reaper-by-stephen-graham-jones/
+- https://www.bookreporter.com/reviews/dont-fear-the-reaper
+intake: gap-2022 awards tier candidate n=165 (LocusRec2023-Horror)
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13778222-L.jpg
+  visually_reviewed_on: '2026-09-28'
+  review_method: single-pass OL title/author lookup; contact-sheet pass owed
+books:
+- title: My Heart Is a Chainsaw
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10550458-L.jpg
+- title: Don't Fear the Reaper
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13778222-L.jpg
+- title: The Angel of Indian Lake
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14642611-L.jpg
+placement_history:
+- date: '2026-09-28'
+  to: vengeance-torment
+  reason: 'DUPLICATES.md dedupe: card existed in BOTH vengeance-torment and cursed-towns; the Indian Lake trilogy engine is
+    vengeful entities born of past wrongs hunting the Final Girl (series about-ness), so the cursed-towns duplicate was removed.
+    My Heart Is a Chainsaw + The Angel of Indian Lake folded in - one card per series.'
