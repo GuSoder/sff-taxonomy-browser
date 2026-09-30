@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-30",
+  "commits": [
+    "3f98012",
+    "9223d99"
+  ],
+  "counts": {
+    "nodes": 440,
+    "cards": 1293,
+    "books": 2355
+  },
+  "distribution": {
+    "cyborgs": 2,
+    "altered-flesh": 5,
+    "successor-species": 3
+  },
+  "umbrella_direct_cards": 0,
+  "uncanny_thresholds": 9,
+  "dirty_branches": [],
+  "visual_inspection": "Inspected live pixels of umbrella, three new portraits/leaves, all ten moved fiction pages, Staircase page and leaf. Correct covers, headings and 2/5/3 mapping; Blood Music in Altered flesh.",
+  "urls": {
+    "umbrella": "https://gusoder.github.io/sff-taxonomy-browser/#remade-bodies",
+    "blood-music": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=blood-music#altered-flesh/blood-music",
+    "staircase": "https://gusoder.github.io/sff-taxonomy-browser/?stairqa=1#uncanny-thresholds/the-staircase-in-the-woods",
+    "the-ophiuchi-hotline": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=the-ophiuchi-hotline#altered-flesh/the-ophiuchi-hotline",
+    "toward-eternity": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=toward-eternity#successor-species/toward-eternity",
+    "darwin": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=darwin#successor-species/darwin",
+    "under-the-eye-of-the-big-bird": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=under-the-eye-of-the-big-bird#successor-species/under-the-eye-of-the-big-bird",
+    "titanium-noir": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=titanium-noir#altered-flesh/titanium-noir",
+    "lamb": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=lamb#altered-flesh/lamb",
+    "man-plus": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=man-plus#cyborgs/man-plus",
+    "the-shrinking-man": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=the-shrinking-man#altered-flesh/the-shrinking-man",
+    "cyborgs": "https://gusoder.github.io/sff-taxonomy-browser/?splitqa=cyborgs#cyborgs",
+    "altered-flesh": "https://gusoder.github.io/sff-taxonomy-browser/?splitqa=altered-flesh#altered-flesh",
+    "successor-species": "https://gusoder.github.io/sff-taxonomy-browser/?splitqa=successor-species#successor-species",
+    "limbo": "https://gusoder.github.io/sff-taxonomy-browser/?bookqa=limbo#cyborgs/limbo",
+    "staircase-leaf": "https://gusoder.github.io/sff-taxonomy-browser/?stairqa=leaf#uncanny-thresholds"
+  }
+}
