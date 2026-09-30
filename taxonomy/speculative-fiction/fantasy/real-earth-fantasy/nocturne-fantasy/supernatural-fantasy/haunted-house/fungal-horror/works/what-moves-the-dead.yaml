@@ -39,3 +39,30 @@ cover_curation:
   source: English hardcover cover from Better World Books, visually inspected
   selected_url: https://product-images.bwbcontent.com/125/51869132_9781250830753_COV.jpg
   visually_reviewed_on: '2026-09-30'
+books:
+- title: What Moves the Dead
+  year: 2022
+  cover_url: cover-what-moves-the-dead.jpg
+  shows_english_title: true
+- title: What Feasts at Night
+  year: 2024
+  cover_url: cover-what-feasts-at-night.jpg
+  shows_english_title: true
+- title: What Stalks the Deep
+  year: 2025
+  cover_url: cover-what-stalks-the-deep.jpg
+  shows_english_title: true
+series_completion:
+  date: '2026-09-30'
+  note: 'Sworn Soldier coalesced into the first-book card under the owner''s2026-09-13 all-books-on-one-fiction-page instruction. Eldritch fungi is the curator-approved
+    first-book about-ness, not a claim that every companion uses fungus: What Feasts at Night centers a folkloric breath-stealing monster and What Stalks the Deep
+    an uncanny abandoned coal mine. The series follows Alex Easton''s encounters and investigations of Gothic supernatural threats; this broader series-vs-leaf tension
+    is recorded rather than silently recategorizing the card. First-book placement ruling preserved.'
+  authority_message_id: phonemsg-01M2D4HK31P1NX4V4KE5KP0SCY
+  sources:
+  - https://us.macmillan.com/books/9781250830852/whatfeastsatnight/
+  - https://us.macmillan.com/books/9781250354921/whatstalksthedeep/
+  edition_dates:
+  - '2024-02-13'
+  - '2025-09-30'
+  covers_visually_reviewed: true
