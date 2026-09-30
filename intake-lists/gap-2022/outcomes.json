@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 420,
+    "represented": 421,
     "excluded": 13,
-    "held": 14
+    "held": 13
   },
   "outcomes": [
     {
@@ -5318,8 +5318,19 @@
       "n": 417,
       "intake_title": "The Works of Vermin",
       "intake_author": "Hiron Ennes",
-      "status": "held",
-      "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
+      "status": "represented",
+      "action": "add",
+      "card": "The Works of Vermin",
+      "leaf": "isolationist-fantasy",
+      "sources": [
+        "https://us.macmillan.com/books/9781250811219/theworksofvermin/",
+        "https://www.hironennes.com/",
+        "https://howlsociety.com/2025/12/08/13-questions-with-hiron-ennes/",
+        "https://locusmag.com/review/the-works-of-vermin-by-hiron-ennes-review-by-paul-di-filippo/",
+        "https://www.bookpage.com/reviews/the-works-of-vermin-hiron-ennes-book-review/",
+        "https://www.grimdarkmagazine.com/review-the-works-of-vermin-by-hiron-ennes/",
+        "https://ancillaryreviewofbooks.org/2026/01/05/synesthetic-uncapturable-uninterpretable-irreproducible/"
+      ]
     },
     {
       "n": 418,

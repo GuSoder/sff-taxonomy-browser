@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 417,
-      "title": "The Works of Vermin",
-      "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
-    },
-    {
       "n": 420,
       "title": "They Bloom at Night",
       "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
@@ -196,11 +191,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 417,
-      "title": "The Works of Vermin",
-      "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
-    },
-    {
       "n": 420,
       "title": "They Bloom at Night",
       "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
@@ -240,8 +230,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 433,
-  "represented": 420,
+  "resolved": 434,
+  "represented": 421,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -380,9 +370,8 @@
       "start": 406,
       "end": 425,
       "audited": 20,
-      "resolved": 18,
+      "resolved": 19,
       "held": [
-        417,
         420
       ]
     },
