@@ -1,9 +1,96 @@
 {
-  "next": 1,
-  "processed": 185,
-  "added": 174,
-  "held": [],
-  "awards_processed": 125,
+  "held": [
+    {
+      "n": 220,
+      "title": "Into the Light",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 222,
+      "title": "It Was Her House First",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 232,
+      "title": "Last Exit",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 235,
+      "title": "Mad Sisters of Esi",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 280,
+      "title": "Rest in Peaches",
+      "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
+    },
+    {
+      "n": 327,
+      "title": "The Briar Book of the Dead",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 330,
+      "title": "The Cartographers",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 397,
+      "title": "The Staircase in the Woods",
+      "reason": "Parent queued Uncanny thresholds vs Unholy halls ruling."
+    },
+    {
+      "n": 404,
+      "title": "The Tongue Trade",
+      "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
+    },
+    {
+      "n": 405,
+      "title": "The Transition",
+      "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
+    },
+    {
+      "n": 414,
+      "title": "The Wax Child",
+      "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
+    },
+    {
+      "n": 417,
+      "title": "The Works of Vermin",
+      "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
+    },
+    {
+      "n": 420,
+      "title": "They Bloom at Night",
+      "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
+    },
+    {
+      "n": 431,
+      "title": "Vampires of El Norte",
+      "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
+    },
+    {
+      "n": 434,
+      "title": "We Computers",
+      "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
+    },
+    {
+      "n": 438,
+      "title": "What Moves the Dead",
+      "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
+    },
+    {
+      "n": 440,
+      "title": "When the Angels Left the Old Country",
+      "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
+    },
+    {
+      "n": 441,
+      "title": "Where Echoes Die",
+      "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
+    }
+  ],
   "excluded": [
     {
       "k": 4,
@@ -34,12 +121,6 @@
       "title": "A Granite Silence",
       "author": "Nina Allan",
       "reason": "Not SFF (the curator, 2026-09-23 23:14): historical novel about a 1934 Aberdeen child murder, no speculative element. Dropped from hanging list and intake queue; do not resurface in any tier."
-    },
-    {
-      "k": 104,
-      "title": "Looking Glass Sound",
-      "author": "Catriona Ward",
-      "reason": "Not SFF (the curator, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier."
     },
     {
       "k": 30,
@@ -82,6 +163,12 @@
       "title": "The Parliament",
       "author": "Aimee Pokwatka",
       "reason": "Excluded as unconfirmed speculative by curator original iMessage 2026-09-30 12:05:24: \"A, next\", answering option A exclude. Author calls the outer owl siege maybe-supernatural; Locus says its cause stays unexplained through the ending. No confirmed magical/engineered/hidden-species owls. The explicit fantasy is the embedded Silent Queen, which does not admit an unconfirmed outer frame under the Death of the Author precedent. No claim of an ending debunk. Sources: https://paulsemel.com/exclusive-interview-the-parliament-author-aimee-pokwatka/ ; https://locusmag.com/review/alexandra-pierce-reviews-the-parliament-by-aimee-pokwatka/ ; https://locusmag.com/review/colleen-mondor-reviews-the-parliament-by-aimee-pokwatka/ . Do not resurface in another tier."
+    },
+    {
+      "title": "Looking Glass Sound",
+      "author": "Catriona Ward",
+      "reason": "Not SFF (the curator, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier.",
+      "n": 234
     }
   ],
   "standing_rules": [
@@ -92,6 +179,279 @@
       "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
     }
   ],
-  "tier2_processed": 100,
-  "pending_ruling": []
+  "pending_ruling": [
+    {
+      "n": 220,
+      "title": "Into the Light",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 222,
+      "title": "It Was Her House First",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 232,
+      "title": "Last Exit",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 235,
+      "title": "Mad Sisters of Esi",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 280,
+      "title": "Rest in Peaches",
+      "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
+    },
+    {
+      "n": 327,
+      "title": "The Briar Book of the Dead",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 330,
+      "title": "The Cartographers",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 397,
+      "title": "The Staircase in the Woods",
+      "reason": "Parent queued Uncanny thresholds vs Unholy halls ruling."
+    },
+    {
+      "n": 404,
+      "title": "The Tongue Trade",
+      "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
+    },
+    {
+      "n": 405,
+      "title": "The Transition",
+      "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
+    },
+    {
+      "n": 414,
+      "title": "The Wax Child",
+      "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
+    },
+    {
+      "n": 417,
+      "title": "The Works of Vermin",
+      "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
+    },
+    {
+      "n": 420,
+      "title": "They Bloom at Night",
+      "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
+    },
+    {
+      "n": 431,
+      "title": "Vampires of El Norte",
+      "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
+    },
+    {
+      "n": 434,
+      "title": "We Computers",
+      "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
+    },
+    {
+      "n": 438,
+      "title": "What Moves the Dead",
+      "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
+    },
+    {
+      "n": 440,
+      "title": "When the Angels Left the Old Country",
+      "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
+    },
+    {
+      "n": 441,
+      "title": "Where Echoes Die",
+      "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
+    }
+  ],
+  "legacy_counter_snapshot": {
+    "next": 1,
+    "processed": 185,
+    "added": 174,
+    "awards_processed": 125,
+    "tier2_processed": 100
+  },
+  "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
+  "processed": 447,
+  "resolved": 429,
+  "represented": 416,
+  "awards_processed": 125,
+  "tier2_processed": 322,
+  "next": null,
+  "chunks": [
+    {
+      "tier": "awards",
+      "start": 1,
+      "end": 125,
+      "audited": 125
+    },
+    {
+      "tier": "locus-only",
+      "start": 126,
+      "end": 145,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 146,
+      "end": 165,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 166,
+      "end": 185,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 186,
+      "end": 205,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 206,
+      "end": 225,
+      "audited": 20,
+      "resolved": 18,
+      "held": [
+        220,
+        222
+      ]
+    },
+    {
+      "tier": "locus-only",
+      "start": 226,
+      "end": 245,
+      "audited": 20,
+      "resolved": 18,
+      "held": [
+        232,
+        235
+      ]
+    },
+    {
+      "tier": "locus-only",
+      "start": 246,
+      "end": 265,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 266,
+      "end": 285,
+      "audited": 20,
+      "resolved": 19,
+      "held": [
+        280
+      ]
+    },
+    {
+      "tier": "locus-only",
+      "start": 286,
+      "end": 305,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 306,
+      "end": 325,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 326,
+      "end": 345,
+      "audited": 20,
+      "resolved": 18,
+      "held": [
+        327,
+        330
+      ]
+    },
+    {
+      "tier": "locus-only",
+      "start": 346,
+      "end": 365,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 366,
+      "end": 385,
+      "audited": 20,
+      "resolved": 20,
+      "held": []
+    },
+    {
+      "tier": "locus-only",
+      "start": 386,
+      "end": 405,
+      "audited": 20,
+      "resolved": 17,
+      "held": [
+        397,
+        404,
+        405
+      ]
+    },
+    {
+      "tier": "locus-only",
+      "start": 406,
+      "end": 425,
+      "audited": 20,
+      "resolved": 17,
+      "held": [
+        414,
+        417,
+        420
+      ]
+    },
+    {
+      "tier": "locus-only",
+      "start": 426,
+      "end": 445,
+      "audited": 20,
+      "resolved": 15,
+      "held": [
+        431,
+        434,
+        438,
+        440,
+        441
+      ]
+    },
+    {
+      "tier": "locus-only",
+      "start": 446,
+      "end": 447,
+      "audited": 2,
+      "resolved": 2,
+      "held": []
+    }
+  ]
 }

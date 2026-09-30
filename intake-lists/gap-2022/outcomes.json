@@ -1,0 +1,5661 @@
+{
+  "audit_date": "2026-09-30",
+  "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
+  "counts": {
+    "represented": 416,
+    "excluded": 13,
+    "held": 18
+  },
+  "outcomes": [
+    {
+      "n": 1,
+      "intake_title": "Witch King",
+      "intake_author": "Martha Wells",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Rise of the Witch King",
+      "book": "Witch King",
+      "leaf": "mage-hero",
+      "authors": [
+        "Martha Wells"
+      ]
+    },
+    {
+      "n": 2,
+      "intake_title": "The Everlasting",
+      "intake_author": "Alix E. Harrow",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Everlasting",
+      "book": "The Everlasting",
+      "leaf": "time-magic",
+      "authors": [
+        "Alix E. Harrow"
+      ]
+    },
+    {
+      "n": 3,
+      "intake_title": "A Sorceress Comes to Call",
+      "intake_author": "T. Kingfisher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Sorceress Comes to Call",
+      "book": "A Sorceress Comes to Call",
+      "leaf": "fantasy-of-manners",
+      "authors": [
+        "T. Kingfisher"
+      ]
+    },
+    {
+      "n": 4,
+      "intake_title": "Death of the Author",
+      "intake_author": "Nnedi Okorafor",
+      "status": "excluded",
+      "reason": "Not SFF (the curator, 2026-09-23 23:12): realist literary frame about novelist Zelu; the complete embedded robot/post-human novel does not make the book SFF. Dropped from hanging list and intake queue; do not resurface in any tier."
+    },
+    {
+      "n": 5,
+      "intake_title": "Nettle & Bone",
+      "intake_author": "T. Kingfisher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Nettle & Bone",
+      "book": "Nettle & Bone",
+      "leaf": "fairytalesque-quest-fantasy",
+      "authors": [
+        "T. Kingfisher"
+      ]
+    },
+    {
+      "n": 6,
+      "intake_title": "Alien Clay",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Alien Clay",
+      "book": "Alien Clay",
+      "leaf": "xenocolonial",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 7,
+      "intake_title": "Service Model",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Service Model",
+      "book": "Service Model",
+      "leaf": "sentient-robots",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 8,
+      "intake_title": "Shigidi and the Brass Head of Obalufon",
+      "intake_author": "Wole Talabi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Shigidi and the Brass Head of Obalufon",
+      "book": "Shigidi and the Brass Head of Obalufon",
+      "leaf": "modern-orisha-myth",
+      "authors": [
+        "Wole Talabi"
+      ]
+    },
+    {
+      "n": 9,
+      "intake_title": "Spear",
+      "intake_author": "Nicola Griffith",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Spear",
+      "book": "Spear",
+      "leaf": "arthur-reimagined",
+      "authors": [
+        "Nicola Griffith"
+      ]
+    },
+    {
+      "n": 10,
+      "intake_title": "The Incandescent",
+      "intake_author": "Emily Tesh",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Incandescent",
+      "book": "The Incandescent",
+      "leaf": "magic-school",
+      "authors": [
+        "Emily Tesh"
+      ]
+    },
+    {
+      "n": 11,
+      "intake_title": "Translation State",
+      "intake_author": "Ann Leckie",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Imperial Radch",
+      "book": "Translation State",
+      "leaf": "space-succession-opera",
+      "authors": [
+        "Ann Leckie"
+      ]
+    },
+    {
+      "n": 12,
+      "intake_title": "City of Last Chances",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "City of Last Chances",
+      "book": "City of Last Chances",
+      "leaf": "tinderbox-fantasy",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 13,
+      "intake_title": "Some Desperate Glory",
+      "intake_author": "Emily Tesh",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Some Desperate Glory",
+      "book": "Some Desperate Glory",
+      "leaf": "space-academy",
+      "authors": [
+        "Emily Tesh"
+      ]
+    },
+    {
+      "n": 14,
+      "intake_title": "Someone You Can Build a Nest In",
+      "intake_author": "John Wiswell",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Someone You Can Build a Nest In",
+      "book": "Someone You Can Build a Nest In",
+      "leaf": "dark-realms",
+      "authors": [
+        "John Wiswell"
+      ]
+    },
+    {
+      "n": 15,
+      "intake_title": "The Kaiju Preservation Society",
+      "intake_author": "John Scalzi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Kaiju Preservation Society",
+      "book": "The Kaiju Preservation Society",
+      "leaf": "humorous-science-fiction",
+      "authors": [
+        "John Scalzi"
+      ]
+    },
+    {
+      "n": 16,
+      "intake_title": "The Saint of Bright Doors",
+      "intake_author": "Vajra Chandrasekera",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Saint of Bright Doors",
+      "book": "The Saint of Bright Doors",
+      "leaf": "katha",
+      "authors": [
+        "Vajra Chandrasekera"
+      ]
+    },
+    {
+      "n": 17,
+      "intake_title": "Asunder",
+      "intake_author": "Kerstin Hall",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Asunder",
+      "book": "Asunder",
+      "leaf": "dark-realms",
+      "authors": [
+        "Kerstin Hall"
+      ]
+    },
+    {
+      "n": 18,
+      "intake_title": "Katabasis",
+      "intake_author": "R. F. Kuang",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Katabasis",
+      "book": "Katabasis",
+      "leaf": "surreal-afterlife",
+      "authors": [
+        "R.F. Kuang"
+      ]
+    },
+    {
+      "n": 19,
+      "intake_title": "Legends & Lattes",
+      "intake_author": "Travis Baldree",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Legends & Lattes",
+      "book": "Legends & Lattes",
+      "leaf": "cozy-fantasy",
+      "authors": [
+        "Travis Baldree"
+      ]
+    },
+    {
+      "n": 20,
+      "intake_title": "Rakesfall",
+      "intake_author": "Vajra Chandrasekera",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Rakesfall",
+      "book": "Rakesfall",
+      "leaf": "reincarnation-fiction",
+      "authors": [
+        "Vajra Chandrasekera"
+      ]
+    },
+    {
+      "n": 21,
+      "intake_title": "Shroud",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Shroud",
+      "book": "Shroud",
+      "leaf": "alien-expedition",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 22,
+      "intake_title": "Siren Queen",
+      "intake_author": "Nghi Vo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Siren Queen",
+      "book": "Siren Queen",
+      "leaf": "noir-fantasy",
+      "authors": [
+        "Nghi Vo"
+      ]
+    },
+    {
+      "n": 23,
+      "intake_title": "Starter Villain",
+      "intake_author": "John Scalzi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Starter Villain",
+      "book": "Starter Villain",
+      "leaf": "superhero-fiction",
+      "authors": [
+        "John Scalzi"
+      ]
+    },
+    {
+      "n": 24,
+      "intake_title": "The Bright Sword",
+      "intake_author": "Lev Grossman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Bright Sword",
+      "book": "The Bright Sword",
+      "leaf": "arthur-classic",
+      "authors": [
+        "Lev Grossman"
+      ]
+    },
+    {
+      "n": 25,
+      "intake_title": "The Daughter of Doctor Moreau",
+      "intake_author": "Silvia Moreno-Garcia",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Daughter of Doctor Moreau",
+      "book": "The Daughter of Doctor Moreau",
+      "leaf": "mad-science-gothic",
+      "authors": [
+        "Silvia Moreno-Garcia"
+      ]
+    },
+    {
+      "n": 26,
+      "intake_title": "The Ministry of Time",
+      "intake_author": "Kaliane Bradley",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Ministry of Time",
+      "book": "The Ministry of Time",
+      "leaf": "time-agency-revival",
+      "authors": [
+        "Kaliane Bradley"
+      ]
+    },
+    {
+      "n": 27,
+      "intake_title": "The Mountain in the Sea",
+      "intake_author": "Ray Nayler",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Mountain in the Sea",
+      "book": "The Mountain in the Sea",
+      "leaf": "xenolinguistics",
+      "authors": [
+        "Ray Nayler"
+      ]
+    },
+    {
+      "n": 28,
+      "intake_title": "The Raven Scholar",
+      "intake_author": "Antonia Hodgson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Raven Scholar",
+      "book": "The Raven Scholar",
+      "leaf": "fantasy-mystery",
+      "authors": [
+        "Antonia Hodgson"
+      ]
+    },
+    {
+      "n": 29,
+      "intake_title": "The Red Scholar's Wake",
+      "intake_author": "Aliette de Bodard",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Red Scholar's Wake",
+      "book": "The Red Scholar's Wake",
+      "leaf": "spaceship-drama",
+      "authors": [
+        "Aliette de Bodard"
+      ]
+    },
+    {
+      "n": 30,
+      "intake_title": "The Salt Oracle",
+      "intake_author": "Lorraine Wilson",
+      "status": "excluded",
+      "reason": "Killed under the Absurd Shit rule, the curator 23:30 (\"It's absurd shit, kill it\"). First kill under the rule. Do not resurface in any tier."
+    },
+    {
+      "n": 31,
+      "intake_title": "The Spare Man",
+      "intake_author": "Mary Robinette Kowal",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Spare Man",
+      "book": "The Spare Man",
+      "leaf": "techno-fiction-in-space",
+      "authors": [
+        "Mary Robinette Kowal"
+      ]
+    },
+    {
+      "n": 32,
+      "intake_title": "The Terraformers",
+      "intake_author": "Annalee Newitz",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Terraformers",
+      "book": "The Terraformers",
+      "leaf": "ecotopian",
+      "authors": [
+        "Annalee Newitz"
+      ]
+    },
+    {
+      "n": 33,
+      "intake_title": "The Water Outlaws",
+      "intake_author": "S. L. Huang",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Water Outlaws",
+      "book": "The Water Outlaws",
+      "leaf": "wuxia",
+      "authors": [
+        "S. L. Huang"
+      ]
+    },
+    {
+      "n": 34,
+      "intake_title": "When We Were Real",
+      "intake_author": "Daryl Gregory",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "When We Were Real",
+      "book": "When We Were Real",
+      "leaf": "absurdist-constructed-realities",
+      "authors": [
+        "Daryl Gregory"
+      ]
+    },
+    {
+      "n": 35,
+      "intake_title": "When There Are Wolves Again",
+      "intake_author": "E. J. Swift",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "When There Are Wolves Again",
+      "book": "When There Are Wolves Again",
+      "leaf": "ecotopian",
+      "authors": [
+        "E. J. Swift"
+      ]
+    },
+    {
+      "n": 36,
+      "intake_title": "In Ascension",
+      "intake_author": "Martin MacInnes",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "In Ascension",
+      "book": "In Ascension",
+      "leaf": "alien-message",
+      "authors": [
+        "Martin MacInnes"
+      ]
+    },
+    {
+      "n": 37,
+      "intake_title": "The Buffalo Hunter Hunter",
+      "intake_author": "Stephen Graham Jones",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Buffalo Hunter Hunter",
+      "book": "The Buffalo Hunter Hunter",
+      "leaf": "weird-west-fantasy",
+      "authors": [
+        "Stephen Graham Jones"
+      ]
+    },
+    {
+      "n": 38,
+      "intake_title": "The Man Who Saw Seconds",
+      "intake_author": "Alexander Boldizar",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Man Who Saw Seconds",
+      "book": "The Man Who Saw Seconds",
+      "leaf": "psi-powers",
+      "authors": [
+        "Alexander Boldizar"
+      ]
+    },
+    {
+      "n": 39,
+      "intake_title": "The Reformatory",
+      "intake_author": "Tananarive Due",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Reformatory",
+      "book": "The Reformatory",
+      "leaf": "ghost-speakers",
+      "authors": [
+        "Tananarive Due"
+      ]
+    },
+    {
+      "n": 40,
+      "intake_title": "Three Eight One",
+      "intake_author": "Aliya Whiteley",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Three Eight One",
+      "book": "Three Eight One",
+      "leaf": "written-worlds",
+      "authors": [
+        "Aliya Whiteley"
+      ]
+    },
+    {
+      "n": 41,
+      "intake_title": "A Fire Born of Exile",
+      "intake_author": "Aliette de Bodard",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Fire Born of Exile",
+      "book": "A Fire Born of Exile",
+      "leaf": "interstellar-court-politics",
+      "authors": [
+        "Aliette de Bodard"
+      ]
+    },
+    {
+      "n": 42,
+      "intake_title": "A Granite Silence",
+      "intake_author": "Nina Allan",
+      "status": "excluded",
+      "reason": "Not SFF (the curator, 2026-09-23 23:14): historical novel about a 1934 Aberdeen child murder, no speculative element. Dropped from hanging list and intake queue; do not resurface in any tier."
+    },
+    {
+      "n": 43,
+      "intake_title": "Absolution",
+      "intake_author": "Jeff VanderMeer",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Southern Reach Trilogy",
+      "book": "Absolution",
+      "leaf": "new-weird",
+      "authors": [
+        "Jeff VanderMeer"
+      ]
+    },
+    {
+      "n": 44,
+      "intake_title": "Airside",
+      "intake_author": "Christopher Priest",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Airside",
+      "book": "Airside",
+      "leaf": "psychogeographic-fabulation",
+      "authors": [
+        "Christopher Priest"
+      ]
+    },
+    {
+      "n": 45,
+      "intake_title": "All That We See or Seem",
+      "intake_author": "Ken Liu",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "All That We See or Seem",
+      "book": "All That We See or Seem",
+      "leaf": "neural-fiction",
+      "authors": [
+        "Ken Liu"
+      ]
+    },
+    {
+      "n": 46,
+      "intake_title": "Chain-Gang All-Stars",
+      "intake_author": "Nana Kwame Adjei-Brenyah",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Chain-Gang All-Stars",
+      "book": "Chain-Gang All-Stars",
+      "leaf": "bread-and-circus-dystopias",
+      "authors": [
+        "Nana Kwame Adjei-Brenyah"
+      ]
+    },
+    {
+      "n": 47,
+      "intake_title": "Dead Country",
+      "intake_author": "Max Gladstone",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dead Country",
+      "book": "Dead Country",
+      "leaf": "technomancy",
+      "authors": [
+        "Max Gladstone"
+      ]
+    },
+    {
+      "n": 48,
+      "intake_title": "Descendant Machine",
+      "intake_author": "Gareth L. Powell",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Continuance",
+      "book": "Descendant Machine",
+      "leaf": "big-dumb-objects",
+      "authors": [
+        "Gareth L. Powell"
+      ]
+    },
+    {
+      "n": 49,
+      "intake_title": "Eversion",
+      "intake_author": "Alastair Reynolds",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Eversion",
+      "book": "Eversion",
+      "leaf": "big-dumb-objects",
+      "authors": [
+        "Alastair Reynolds"
+      ]
+    },
+    {
+      "n": 50,
+      "intake_title": "Eyes of the Void",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Final Architecture",
+      "book": "Eyes of the Void",
+      "leaf": "hard-alien",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 51,
+      "intake_title": "Goliath",
+      "intake_author": "Tochi Onyebuchi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Goliath",
+      "book": "Goliath",
+      "leaf": "wild-ruins",
+      "authors": [
+        "Tochi Onyebuchi"
+      ]
+    },
+    {
+      "n": 52,
+      "intake_title": "He Who Drowned the World",
+      "intake_author": "Shelley Parker-Chan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Radiant Emperor",
+      "book": "He Who Drowned the World",
+      "leaf": "alt-ming-fantasy",
+      "authors": [
+        "Shelley Parker-Chan"
+      ]
+    },
+    {
+      "n": 53,
+      "intake_title": "Hemlock & Silver",
+      "intake_author": "T. Kingfisher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hemlock & Silver",
+      "book": "Hemlock & Silver",
+      "leaf": "fairy-tale-expansion",
+      "authors": [
+        "T. Kingfisher"
+      ]
+    },
+    {
+      "n": 54,
+      "intake_title": "HIM",
+      "intake_author": "Geoff Ryman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "HIM",
+      "book": "HIM",
+      "leaf": "biblical-fantasy",
+      "authors": [
+        "Geoff Ryman"
+      ]
+    },
+    {
+      "n": 55,
+      "intake_title": "Kinning",
+      "intake_author": "Nisi Shawl",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Everfair",
+      "book": "Kinning",
+      "leaf": "steampunk",
+      "authors": [
+        "Nisi Shawl"
+      ]
+    },
+    {
+      "n": 56,
+      "intake_title": "Lessons in Magic and Disaster",
+      "intake_author": "Charlie Jane Anders",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Lessons in Magic and Disaster",
+      "book": "Lessons in Magic and Disaster",
+      "leaf": "domestic-fantasy",
+      "authors": [
+        "Charlie Jane Anders"
+      ]
+    },
+    {
+      "n": 57,
+      "intake_title": "Long Live Evil",
+      "intake_author": "Sarah Rees Brennan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Long Live Evil",
+      "book": "Long Live Evil",
+      "leaf": "transporting-tomes",
+      "authors": [
+        "Sarah Rees Brennan"
+      ]
+    },
+    {
+      "n": 58,
+      "intake_title": "Lords of Uncreation",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Final Architecture",
+      "book": "Lords of Uncreation",
+      "leaf": "hard-alien",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 59,
+      "intake_title": "Luminous",
+      "intake_author": "Silvia Park",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Luminous",
+      "book": "Luminous",
+      "leaf": "androids",
+      "authors": [
+        "Silvia Park"
+      ]
+    },
+    {
+      "n": 60,
+      "intake_title": "Neom",
+      "intake_author": "Lavie Tidhar",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Neom",
+      "book": "Neom",
+      "leaf": "sentient-robots",
+      "authors": [
+        "Lavie Tidhar"
+      ]
+    },
+    {
+      "n": 61,
+      "intake_title": "Notes from a Regicide",
+      "intake_author": "Isaac Fellman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Notes from a Regicide",
+      "book": "Notes from a Regicide",
+      "leaf": "dystopian-rebellion",
+      "authors": [
+        "Isaac Fellman"
+      ]
+    },
+    {
+      "n": 62,
+      "intake_title": "Once Was Willem",
+      "intake_author": "M. R. Carey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Once Was Willem",
+      "book": "Once Was Willem",
+      "leaf": "undying",
+      "authors": [
+        "M. R. Carey"
+      ]
+    },
+    {
+      "n": 63,
+      "intake_title": "Picks and Shovels",
+      "intake_author": "Cory Doctorow",
+      "status": "excluded",
+      "reason": "Not SFF (the curator, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+    },
+    {
+      "n": 64,
+      "intake_title": "Private Rites",
+      "intake_author": "Julia Armfield",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Private Rites",
+      "book": "Private Rites",
+      "leaf": "drowned-worlds",
+      "authors": [
+        "Julia Armfield"
+      ]
+    },
+    {
+      "n": 65,
+      "intake_title": "Queen Demon",
+      "intake_author": "Martha Wells",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Rise of the Witch King",
+      "book": "Queen Demon",
+      "leaf": "mage-hero",
+      "authors": [
+        "Martha Wells"
+      ]
+    },
+    {
+      "n": 66,
+      "intake_title": "Red Team Blues",
+      "intake_author": "Cory Doctorow",
+      "status": "excluded",
+      "reason": "Not SFF (the curator, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+    },
+    {
+      "n": 67,
+      "intake_title": "Sea of Tranquility",
+      "intake_author": "Emily St. John Mandel",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sea of Tranquility",
+      "book": "Sea of Tranquility",
+      "leaf": "time-agency-revival",
+      "authors": [
+        "Emily St. John Mandel"
+      ]
+    },
+    {
+      "n": 68,
+      "intake_title": "Slow Gods",
+      "intake_author": "Claire North",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Slow Gods",
+      "book": "Slow Gods",
+      "leaf": "future-history-in-space",
+      "authors": [
+        "Claire North"
+      ]
+    },
+    {
+      "n": 69,
+      "intake_title": "Somewhere Beyond the Sea",
+      "intake_author": "TJ Klune",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Cerulean Chronicles",
+      "book": "Somewhere Beyond the Sea",
+      "leaf": "publicly-paranormal",
+      "authors": [
+        "TJ Klune"
+      ]
+    },
+    {
+      "n": 70,
+      "intake_title": "Sour Cherry",
+      "intake_author": "Natalia Theodoridou",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sour Cherry",
+      "book": "Sour Cherry",
+      "leaf": "fairy-tale-inversion",
+      "authors": [
+        "Natalia Theodoridou"
+      ]
+    },
+    {
+      "n": 71,
+      "intake_title": "Starling House",
+      "intake_author": "Alix E. Harrow",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Starling House",
+      "book": "Starling House",
+      "leaf": "feral-house",
+      "authors": [
+        "Alix E. Harrow"
+      ]
+    },
+    {
+      "n": 72,
+      "intake_title": "Sweep of Stars",
+      "intake_author": "Maurice Broaddus",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sweep of Stars",
+      "book": "Sweep of Stars",
+      "leaf": "revolutionary-space-opera",
+      "authors": [
+        "Maurice Broaddus"
+      ]
+    },
+    {
+      "n": 73,
+      "intake_title": "The Adventures of Mary Darling",
+      "intake_author": "Pat Murphy",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Adventures of Mary Darling",
+      "book": "The Adventures of Mary Darling",
+      "leaf": "faeries-in-gaslight",
+      "authors": [
+        "Pat Murphy"
+      ]
+    },
+    {
+      "n": 74,
+      "intake_title": "The Ballad of Perilous Graves",
+      "intake_author": "Alex Jennings",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Ballad of Perilous Graves",
+      "book": "The Ballad of Perilous Graves",
+      "leaf": "otherworld-fantasy",
+      "authors": [
+        "Alex Jennings"
+      ]
+    },
+    {
+      "n": 75,
+      "intake_title": "The Bezzle",
+      "intake_author": "Cory Doctorow",
+      "status": "excluded",
+      "reason": "Not SFF (the curator, 2026-09-23 23:13): Martin Hench forensic-accountant thrillers - real tech, no speculative premise. Dropped from hanging list and intake queue; do not resurface in any tier."
+    },
+    {
+      "n": 76,
+      "intake_title": "The Book of Love",
+      "intake_author": "Kelly Link",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book of Love",
+      "book": "The Book of Love",
+      "leaf": "modern-invented-myth",
+      "authors": [
+        "Kelly Link"
+      ]
+    },
+    {
+      "n": 77,
+      "intake_title": "The City in Glass",
+      "intake_author": "Nghi Vo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The City in Glass",
+      "book": "The City in Glass",
+      "leaf": "mythic-power-struggle",
+      "authors": [
+        "Nghi Vo"
+      ]
+    },
+    {
+      "n": 78,
+      "intake_title": "The Coral Bones",
+      "intake_author": "E. J. Swift",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Coral Bones",
+      "book": "The Coral Bones",
+      "leaf": "drowned-worlds",
+      "authors": [
+        "E. J. Swift"
+      ]
+    },
+    {
+      "n": 79,
+      "intake_title": "The Dead Cat Tail Assassins",
+      "intake_author": "P. Djèlí Clark",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Dead Cat Tail Assassins",
+      "book": "The Dead Cat Tail Assassins",
+      "leaf": "rogue-hero",
+      "authors": [
+        "P. Djèlí Clark"
+      ]
+    },
+    {
+      "n": 80,
+      "intake_title": "The Devils",
+      "intake_author": "Joe Abercrombie",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Devils",
+      "book": "The Devils",
+      "leaf": "alt-crusade-fantasy",
+      "authors": [
+        "Joe Abercrombie"
+      ]
+    },
+    {
+      "n": 81,
+      "intake_title": "The Dream Hotel",
+      "intake_author": "Laila Lalami",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Dream Hotel",
+      "book": "The Dream Hotel",
+      "leaf": "algorithmic-surveillance-dystopias",
+      "authors": [
+        "Laila Lalami"
+      ]
+    },
+    {
+      "n": 82,
+      "intake_title": "The Imposition of Unnecessary Obstacles",
+      "intake_author": "Malka Older",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Investigations of Mossa & Pleiti",
+      "book": "The Imposition of Unnecessary Obstacles",
+      "leaf": "space-colonies",
+      "authors": [
+        "Malka Older"
+      ]
+    },
+    {
+      "n": 83,
+      "intake_title": "The Jinn-Bot of Shantiport",
+      "intake_author": "Samit Basu",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Jinn-Bot of Shantiport",
+      "book": "The Jinn-Bot of Shantiport",
+      "leaf": "cyberheist",
+      "authors": [
+        "Samit Basu"
+      ]
+    },
+    {
+      "n": 84,
+      "intake_title": "The Mercy of Gods",
+      "intake_author": "James S. A. Corey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Mercy of Gods",
+      "book": "The Mercy of Gods",
+      "leaf": "xenocolonial",
+      "authors": [
+        "James S. A. Corey"
+      ]
+    },
+    {
+      "n": 85,
+      "intake_title": "The Road to Roswell",
+      "intake_author": "Connie Willis",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Road to Roswell",
+      "book": "The Road to Roswell",
+      "leaf": "humorous-science-fiction",
+      "authors": [
+        "Connie Willis"
+      ]
+    },
+    {
+      "n": 86,
+      "intake_title": "The Shattering Peace",
+      "intake_author": "John Scalzi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Old Man's War",
+      "book": "The Shattering Peace",
+      "leaf": "ground-pounders",
+      "authors": [
+        "John Scalzi"
+      ]
+    },
+    {
+      "n": 87,
+      "intake_title": "The Siege of Burning Grass",
+      "intake_author": "Premee Mohamed",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Siege of Burning Grass",
+      "book": "The Siege of Burning Grass",
+      "leaf": "hard-science-fantasy",
+      "authors": [
+        "Premee Mohamed"
+      ]
+    },
+    {
+      "n": 88,
+      "intake_title": "The This",
+      "intake_author": "Adam Roberts",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The This",
+      "book": "The This",
+      "leaf": "remade-minds",
+      "authors": [
+        "Adam Roberts"
+      ]
+    },
+    {
+      "n": 89,
+      "intake_title": "The Tomb of Dragons",
+      "intake_author": "Katherine Addison",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Goblin Emperor",
+      "book": "The Tomb of Dragons",
+      "leaf": "npc-heroes",
+      "authors": [
+        "Katherine Addison"
+      ]
+    },
+    {
+      "n": 90,
+      "intake_title": "When Women Were Dragons",
+      "intake_author": "Kelly Barnhill",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "When Women Were Dragons",
+      "book": "When Women Were Dragons",
+      "leaf": "beasts-of-marvel",
+      "authors": [
+        "Kelly Barnhill"
+      ]
+    },
+    {
+      "n": 91,
+      "intake_title": "Where the Axe is Buried",
+      "intake_author": "Ray Nayler",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Where the Axe Is Buried",
+      "book": "Where the Axe Is Buried",
+      "leaf": "ai",
+      "authors": [
+        "Ray Nayler"
+      ]
+    },
+    {
+      "n": 92,
+      "intake_title": "Annie Bot",
+      "intake_author": "Sierra Greer",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Annie Bot",
+      "book": "Annie Bot",
+      "leaf": "androids",
+      "authors": [
+        "Sierra Greer"
+      ]
+    },
+    {
+      "n": 93,
+      "intake_title": "Saint Death's Daughter",
+      "intake_author": "C. S. E. Cooney",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Saint Death's Daughter",
+      "book": "Saint Death's Daughter",
+      "leaf": "mage-hero",
+      "authors": [
+        "C. S. E. Cooney"
+      ]
+    },
+    {
+      "n": 94,
+      "intake_title": "The Green Man's Quarry",
+      "intake_author": "Juliet E. McKenna",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Green Man's Quarry",
+      "book": "The Green Man's Quarry",
+      "leaf": "modern-albion-myth",
+      "authors": [
+        "Juliet E. McKenna"
+      ]
+    },
+    {
+      "n": 95,
+      "intake_title": "Venomous Lumpsucker",
+      "intake_author": "Ned Beauman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Venomous Lumpsucker",
+      "book": "Venomous Lumpsucker",
+      "leaf": "climate-class-divide",
+      "authors": [
+        "Ned Beauman"
+      ]
+    },
+    {
+      "n": 96,
+      "intake_title": "51",
+      "intake_author": "Patrick O’Leary",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "51",
+      "book": "51",
+      "leaf": "hidden-history-sf",
+      "authors": [
+        "Patrick O'Leary"
+      ]
+    },
+    {
+      "n": 97,
+      "intake_title": "A Half-Built Garden",
+      "intake_author": "Ruthanna Emrys",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Half-Built Garden",
+      "book": "A Half-Built Garden",
+      "leaf": "near-future-first-contact",
+      "authors": [
+        "Ruthanna Emrys"
+      ]
+    },
+    {
+      "n": 98,
+      "intake_title": "A Haunting on the Hill",
+      "intake_author": "Elizabeth Hand",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Haunting on the Hill",
+      "book": "A Haunting on the Hill",
+      "leaf": "feral-house",
+      "authors": [
+        "Elizabeth Hand"
+      ]
+    },
+    {
+      "n": 99,
+      "intake_title": "A House with Good Bones",
+      "intake_author": "T. Kingfisher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A House with Good Bones",
+      "book": "A House with Good Bones",
+      "leaf": "residual-haunting",
+      "authors": [
+        "T. Kingfisher"
+      ]
+    },
+    {
+      "n": 100,
+      "intake_title": "A Letter to the Luminous Deep",
+      "intake_author": "Sylvie Cathrall",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Letter to the Luminous Deep",
+      "book": "A Letter to the Luminous Deep",
+      "leaf": "cozy-fantasy",
+      "authors": [
+        "Sylvie Cathrall"
+      ]
+    },
+    {
+      "n": 101,
+      "intake_title": "A Market of Dreams and Destiny",
+      "intake_author": "Trip Galey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Market of Dreams and Destiny",
+      "book": "A Market of Dreams and Destiny",
+      "leaf": "faeries-in-gaslight",
+      "authors": [
+        "Trip Galey"
+      ]
+    },
+    {
+      "n": 102,
+      "intake_title": "A Midwinter’s Tail",
+      "intake_author": "Lili Hayward",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Midwinter's Tail",
+      "book": "A Midwinter's Tail",
+      "leaf": "modern-albion-myth",
+      "authors": [
+        "Lili Hayward"
+      ]
+    },
+    {
+      "n": 103,
+      "intake_title": "A Philosophy of Thieves",
+      "intake_author": "Fran Wilde",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Philosophy of Thieves",
+      "book": "A Philosophy of Thieves",
+      "leaf": "cyberheist",
+      "authors": [
+        "Fran Wilde"
+      ]
+    },
+    {
+      "n": 104,
+      "intake_title": "A Song of Legends Lost",
+      "intake_author": "M.H. Ayinde",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Song of Legends Lost",
+      "book": "A Song of Legends Lost",
+      "leaf": "ozymandian-tech",
+      "authors": [
+        "M. H. Ayinde"
+      ]
+    },
+    {
+      "n": 105,
+      "intake_title": "A Song of Salvation",
+      "intake_author": "Alechia Dow",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Song of Salvation",
+      "book": "A Song of Salvation",
+      "leaf": "theological-space-opera",
+      "authors": [
+        "Alechia Dow"
+      ]
+    },
+    {
+      "n": 106,
+      "intake_title": "A Stranger in the Citadel",
+      "intake_author": "Tobias S. Buckell",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Stranger in the Citadel",
+      "book": "A Stranger in the Citadel",
+      "leaf": "lost-knowledge",
+      "authors": [
+        "Tobias S. Buckell"
+      ]
+    },
+    {
+      "n": 107,
+      "intake_title": "A Tempest of Tea",
+      "intake_author": "Hafsah Faizal",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Tempest of Tea",
+      "book": "A Tempest of Tea",
+      "leaf": "caper-fantasy",
+      "authors": [
+        "Hafsah Faizal"
+      ]
+    },
+    {
+      "n": 108,
+      "intake_title": "A Thousand Blues",
+      "intake_author": "Cheon Seon-Ran",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "A Thousand Blues",
+      "book": "A Thousand Blues",
+      "leaf": "sentient-robots",
+      "authors": [
+        "Cheon Seon-Ran"
+      ]
+    },
+    {
+      "n": 109,
+      "intake_title": "Acts of God",
+      "intake_author": "Kanan Gill",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Acts of God",
+      "book": "Acts of God",
+      "leaf": "humorous-science-fiction",
+      "authors": [
+        "Kanan Gill"
+      ]
+    },
+    {
+      "n": 110,
+      "intake_title": "After the Forest",
+      "intake_author": "Kell Woods",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "After the Forest",
+      "book": "After the Forest",
+      "leaf": "fairy-tale-expansion",
+      "authors": [
+        "Kell Woods"
+      ]
+    },
+    {
+      "n": 111,
+      "intake_title": "Age of Ash",
+      "intake_author": "Daniel Abraham",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Age of Ash",
+      "book": "Age of Ash",
+      "leaf": "renaissance-dynastic-intrigue",
+      "authors": [
+        "Daniel Abraham"
+      ]
+    },
+    {
+      "n": 112,
+      "intake_title": "All the Seas of the World",
+      "intake_author": "Guy Gavriel Kay",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "All the Seas of the World",
+      "book": "All the Seas of the World",
+      "leaf": "court-spies",
+      "authors": [
+        "Guy Gavriel Kay"
+      ]
+    },
+    {
+      "n": 113,
+      "intake_title": "Among Ghosts",
+      "intake_author": "Rachel Hartman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Among Ghosts",
+      "book": "Among Ghosts",
+      "leaf": "dark-realms",
+      "authors": [
+        "Rachel Hartman"
+      ]
+    },
+    {
+      "n": 114,
+      "intake_title": "An Arrow to the Moon",
+      "intake_author": "Emily X.R. Pan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "An Arrow to the Moon",
+      "book": "An Arrow to the Moon",
+      "leaf": "modern-chinese-myth",
+      "authors": [
+        "Emily X.R. Pan"
+      ]
+    },
+    {
+      "n": 115,
+      "intake_title": "Angel Maker",
+      "intake_author": "Elizabeth Bear",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Angel Maker",
+      "book": "Angel Maker",
+      "leaf": "steampunk",
+      "authors": [
+        "Elizabeth Bear"
+      ]
+    },
+    {
+      "n": 116,
+      "intake_title": "Animals",
+      "intake_author": "Geoff Ryman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Animals",
+      "book": "Animals",
+      "leaf": "mystery-plague",
+      "authors": [
+        "Geoff Ryman"
+      ]
+    },
+    {
+      "n": 117,
+      "intake_title": "Annie LeBlanc Is Not Dead Yet",
+      "intake_author": "Molly Morris",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Annie LeBlanc Is Not Dead Yet",
+      "book": "Annie LeBlanc Is Not Dead Yet",
+      "leaf": "called-back",
+      "authors": [
+        "Molly Morris"
+      ]
+    },
+    {
+      "n": 118,
+      "intake_title": "Archive of Unknown Universes",
+      "intake_author": "Ruben Reyes Jr.",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Archive of Unknown Universes",
+      "book": "Archive of Unknown Universes",
+      "leaf": "multiverse-mirror",
+      "authors": [
+        "Ruben Reyes Jr."
+      ]
+    },
+    {
+      "n": 119,
+      "intake_title": "Artificial Truth",
+      "intake_author": "J.M. Lee",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Artificial Truth",
+      "book": "Artificial Truth",
+      "leaf": "ai",
+      "authors": [
+        "J.M. Lee"
+      ]
+    },
+    {
+      "n": 120,
+      "intake_title": "Aspects",
+      "intake_author": "John M. Ford",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Aspects",
+      "book": "Aspects",
+      "leaf": "fantasy-of-manners",
+      "authors": [
+        "John M. Ford"
+      ]
+    },
+    {
+      "n": 121,
+      "intake_title": "Audition for the Fox",
+      "intake_author": "Martin Cahill",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Audition for the Fox",
+      "book": "Audition for the Fox",
+      "leaf": "invented-mythology",
+      "authors": [
+        "Martin Cahill"
+      ]
+    },
+    {
+      "n": 122,
+      "intake_title": "Awake in the Floating City",
+      "intake_author": "Susanna Kwan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Awake in the Floating City",
+      "book": "Awake in the Floating City",
+      "leaf": "drowned-worlds",
+      "authors": [
+        "Susanna Kwan"
+      ]
+    },
+    {
+      "n": 123,
+      "intake_title": "Ballad & Dagger",
+      "intake_author": "Daniel José Older",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Ballad & Dagger",
+      "book": "Ballad & Dagger",
+      "leaf": "modern-orisha-myth",
+      "authors": [
+        "Daniel José Older"
+      ]
+    },
+    {
+      "n": 124,
+      "intake_title": "Beautyland",
+      "intake_author": "Marie-Helene Bertino",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Beautyland",
+      "book": "Beautyland",
+      "leaf": "xenanthropology",
+      "authors": [
+        "Marie-Helene Bertino"
+      ]
+    },
+    {
+      "n": 125,
+      "intake_title": "Beyond the Burn Line",
+      "intake_author": "Paul McAuley",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Beyond the Burn Line",
+      "book": "Beyond the Burn Line",
+      "leaf": "lost-knowledge",
+      "authors": [
+        "Paul McAuley"
+      ]
+    },
+    {
+      "n": 126,
+      "intake_title": "Beyond the Light Horizon",
+      "intake_author": "Ken Macleod",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Beyond the Light Horizon",
+      "book": "Beyond the Light Horizon",
+      "leaf": "near-future-first-contact",
+      "authors": [
+        "Ken MacLeod"
+      ]
+    },
+    {
+      "n": 127,
+      "intake_title": "Biography of X",
+      "intake_author": "Catherine Lacey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Biography of X",
+      "book": "Biography of X",
+      "leaf": "alt-postwar",
+      "authors": [
+        "Catherine Lacey"
+      ]
+    },
+    {
+      "n": 128,
+      "intake_title": "Bitter",
+      "intake_author": "Akwaeke Emezi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Bitter",
+      "book": "Bitter",
+      "leaf": "found-magic",
+      "authors": [
+        "Akwaeke Emezi"
+      ]
+    },
+    {
+      "n": 129,
+      "intake_title": "Black Brane",
+      "intake_author": "Michael Cisco",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Black Brane",
+      "book": "Black Brane",
+      "leaf": "visionary-minds",
+      "authors": [
+        "Michael Cisco"
+      ]
+    },
+    {
+      "n": 130,
+      "intake_title": "Black River Orchard",
+      "intake_author": "Chuck Wendig",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Black River Orchard",
+      "book": "Black River Orchard",
+      "leaf": "cursed-towns",
+      "authors": [
+        "Chuck Wendig"
+      ]
+    },
+    {
+      "n": 131,
+      "intake_title": "Blackheart Man",
+      "intake_author": "Nalo Hopkinson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Blackheart Man",
+      "book": "Blackheart Man",
+      "leaf": "tinderbox-fantasy",
+      "authors": [
+        "Nalo Hopkinson"
+      ]
+    },
+    {
+      "n": 132,
+      "intake_title": "Blade of Dream",
+      "intake_author": "Daniel Abraham",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Blade of Dream",
+      "book": "Blade of Dream",
+      "leaf": "renaissance-dynastic-intrigue",
+      "authors": [
+        "Daniel Abraham"
+      ]
+    },
+    {
+      "n": 133,
+      "intake_title": "Blob",
+      "intake_author": "Maggie Su",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Blob",
+      "book": "Blob",
+      "leaf": "earthly-comic-fantasy",
+      "authors": [
+        "Maggie Su"
+      ]
+    },
+    {
+      "n": 134,
+      "intake_title": "Blood Debts",
+      "intake_author": "Terry J. Benton-Walker",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Blood Debts",
+      "book": "Blood Debts",
+      "leaf": "occult-bloodline",
+      "authors": [
+        "Terry J. Benton-Walker"
+      ]
+    },
+    {
+      "n": 135,
+      "intake_title": "Blood for the Undying Throne",
+      "intake_author": "Sung-il Kim",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Blood of the Old Kings Trilogy",
+      "book": "Blood for the Undying Throne",
+      "leaf": "tinderbox-fantasy",
+      "authors": [
+        "Sung-il Kim"
+      ]
+    },
+    {
+      "n": 136,
+      "intake_title": "Blood Justice",
+      "intake_author": "Terry J. Benton-Walker",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Blood Debts",
+      "book": "Blood Justice",
+      "leaf": "occult-bloodline",
+      "authors": [
+        "Terry J. Benton-Walker"
+      ]
+    },
+    {
+      "n": 137,
+      "intake_title": "Blood of the Old Kings, Sung-Il Kim",
+      "intake_author": "trans. Anton Hur",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Blood of the Old Kings Trilogy",
+      "book": "Blood of the Old Kings",
+      "leaf": "tinderbox-fantasy",
+      "authors": [
+        "Sung-il Kim"
+      ],
+      "alias_note": "Malformed intake title includes author; actual book appears on first-book series card."
+    },
+    {
+      "n": 138,
+      "intake_title": "Blood Scion",
+      "intake_author": "Deborah Falaye",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Blood Scion",
+      "book": "Blood Scion",
+      "leaf": "messianic-fantasy",
+      "authors": [
+        "Deborah Falaye"
+      ]
+    },
+    {
+      "n": 139,
+      "intake_title": "Bluebird",
+      "intake_author": "Ciel Pierlot",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Bluebird",
+      "book": "Bluebird",
+      "leaf": "space-western",
+      "authors": [
+        "Ciel Pierlot"
+      ]
+    },
+    {
+      "n": 140,
+      "intake_title": "Book of Night",
+      "intake_author": "Holly Black",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Book of Night",
+      "book": "Book of Night",
+      "leaf": "occult-city",
+      "authors": [
+        "Holly Black"
+      ]
+    },
+    {
+      "n": 141,
+      "intake_title": "Bridge",
+      "intake_author": "Lauren Beukes",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Bridge",
+      "book": "Bridge",
+      "leaf": "multiverse-odyssey",
+      "authors": [
+        "Lauren Beukes"
+      ]
+    },
+    {
+      "n": 142,
+      "intake_title": "Burn Down, Rise Up",
+      "intake_author": "Vincent Tirado",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Burn Down, Rise Up",
+      "book": "Burn Down, Rise Up",
+      "leaf": "postcolonial-gothic",
+      "authors": [
+        "Vincent Tirado"
+      ]
+    },
+    {
+      "n": 143,
+      "intake_title": "Bury Your Gays",
+      "intake_author": "Chuck Tingle",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Bury Your Gays",
+      "book": "Bury Your Gays",
+      "leaf": "textual-trespass",
+      "authors": [
+        "Chuck Tingle"
+      ]
+    },
+    {
+      "n": 144,
+      "intake_title": "Cahokia Jazz",
+      "intake_author": "Francis Spufford",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Cahokia Jazz",
+      "book": "Cahokia Jazz",
+      "leaf": "deep-alterations",
+      "authors": [
+        "Francis Spufford"
+      ]
+    },
+    {
+      "n": 145,
+      "intake_title": "Calypso",
+      "intake_author": "Oliver K. Langmead",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Calypso",
+      "book": "Calypso",
+      "leaf": "generation-starships",
+      "authors": [
+        "Oliver K. Langmead"
+      ]
+    },
+    {
+      "n": 146,
+      "intake_title": "Castle of the Cursed",
+      "intake_author": "Romina Garber",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Castle of the Cursed",
+      "book": "Castle of the Cursed",
+      "leaf": "fairy-tale-transplant",
+      "authors": [
+        "Romina Garber"
+      ]
+    },
+    {
+      "n": 147,
+      "intake_title": "Cicadas Sing of Summer Graves",
+      "intake_author": "Quinn Connor",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Cicadas Sing of Summer Graves",
+      "book": "Cicadas Sing of Summer Graves",
+      "leaf": "grief-imprinted",
+      "authors": [
+        "Quinn Connor"
+      ]
+    },
+    {
+      "n": 148,
+      "intake_title": "City of Dancing Gargoyles",
+      "intake_author": "Tara Campbell",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "City of Dancing Gargoyles",
+      "book": "City of Dancing Gargoyles",
+      "leaf": "scorched-worlds",
+      "authors": [
+        "Tara Campbell"
+      ]
+    },
+    {
+      "n": 149,
+      "intake_title": "Cold Water",
+      "intake_author": "Dave Hutchinson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Cold Water",
+      "book": "Cold Water",
+      "leaf": "technothriller",
+      "authors": [
+        "Dave Hutchinson"
+      ]
+    },
+    {
+      "n": 150,
+      "intake_title": "Compound Fracture",
+      "intake_author": "Andrew Joseph White",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Compound Fracture",
+      "book": "Compound Fracture",
+      "leaf": "unfinished-business",
+      "authors": [
+        "Andrew Joseph White"
+      ]
+    },
+    {
+      "n": 151,
+      "intake_title": "Conquest",
+      "intake_author": "Nina Allan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Conquest",
+      "book": "Conquest",
+      "leaf": "alien-message",
+      "authors": [
+        "Nina Allan"
+      ]
+    },
+    {
+      "n": 152,
+      "intake_title": "Corey Fah Does Social Mobility",
+      "intake_author": "Isabel Waidner",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Corey Fah Does Social Mobility",
+      "book": "Corey Fah Does Social Mobility",
+      "leaf": "absurdist-constructed-realities",
+      "authors": [
+        "Isabel Waidner"
+      ]
+    },
+    {
+      "n": 153,
+      "intake_title": "Costumes for Time Travelers",
+      "intake_author": "A.R. Capetta",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Costumes for Time Travelers",
+      "book": "Costumes for Time Travelers",
+      "leaf": "time-crossroads",
+      "authors": [
+        "A.R. Capetta"
+      ]
+    },
+    {
+      "n": 154,
+      "intake_title": "Creation Node",
+      "intake_author": "Stephen Baxter",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Creation Node",
+      "book": "Creation Node",
+      "leaf": "big-dumb-objects",
+      "authors": [
+        "Stephen Baxter"
+      ]
+    },
+    {
+      "n": 155,
+      "intake_title": "Cuckoo",
+      "intake_author": "Gretchen Felker-Martin",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Cuckoo",
+      "book": "Cuckoo",
+      "leaf": "cursed-towns",
+      "authors": [
+        "Gretchen Felker-Martin"
+      ]
+    },
+    {
+      "n": 156,
+      "intake_title": "Damned If You Do",
+      "intake_author": "Alex Brown",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Damned If You Do",
+      "book": "Damned If You Do",
+      "leaf": "deal-with-the-devil",
+      "authors": [
+        "Alex Brown"
+      ]
+    },
+    {
+      "n": 157,
+      "intake_title": "Dark Diamond",
+      "intake_author": "Neal Asher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dark Diamond",
+      "book": "Dark Diamond",
+      "leaf": "space-adventure",
+      "authors": [
+        "Neal Asher"
+      ]
+    },
+    {
+      "n": 158,
+      "intake_title": "Dark Factory",
+      "intake_author": "Kathe Koja",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dark Factory",
+      "book": "Dark Factory",
+      "leaf": "metaverse",
+      "authors": [
+        "Kathe Koja"
+      ]
+    },
+    {
+      "n": 159,
+      "intake_title": "Days of Shattered Faith",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Days of Shattered Faith",
+      "book": "Days of Shattered Faith",
+      "leaf": "tinderbox-fantasy",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 160,
+      "intake_title": "Dazzling",
+      "intake_author": "Chikọdịlị Emelụmadụ",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dazzling",
+      "book": "Dazzling",
+      "leaf": "nation-of-marvels",
+      "authors": [
+        "Chikọdịlị Emelụmadụ"
+      ]
+    },
+    {
+      "n": 161,
+      "intake_title": "Dead Hand Rule",
+      "intake_author": "Max Gladstone",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dead Hand Rule",
+      "book": "Dead Hand Rule",
+      "leaf": "technomancy",
+      "authors": [
+        "Max Gladstone"
+      ]
+    },
+    {
+      "n": 162,
+      "intake_title": "Dead Souls",
+      "intake_author": "Han Song",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dead Souls",
+      "book": "Dead Souls",
+      "leaf": "space-dystopias",
+      "authors": [
+        "Han Song"
+      ]
+    },
+    {
+      "n": 163,
+      "intake_title": "Dengue Boy, Michel Nieva",
+      "intake_author": "tr. Rahul Bery",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dengue Boy",
+      "book": "Dengue Boy",
+      "leaf": "new-weird",
+      "authors": [
+        "Michel Nieva"
+      ],
+      "alias_note": "Malformed intake title includes author; exact real author/title represented."
+    },
+    {
+      "n": 164,
+      "intake_title": "Divine Rivals",
+      "intake_author": "Rebecca Ross",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Divine Rivals",
+      "book": "Divine Rivals",
+      "leaf": "romantasy",
+      "authors": [
+        "Rebecca Ross"
+      ]
+    },
+    {
+      "n": 165,
+      "intake_title": "Don’t Fear the Reaper",
+      "intake_author": "Stephen Graham Jones",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Don't Fear the Reaper",
+      "book": "Don't Fear the Reaper",
+      "leaf": "vengeance-torment",
+      "authors": [
+        "Stephen Graham Jones"
+      ]
+    },
+    {
+      "n": 166,
+      "intake_title": "Dragonfall",
+      "intake_author": "L.R. Lam",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dragonfall",
+      "book": "Dragonfall",
+      "leaf": "romantasy",
+      "authors": [
+        "L.R. Lam"
+      ]
+    },
+    {
+      "n": 167,
+      "intake_title": "Dry Land",
+      "intake_author": "B. Pladek",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dry Land",
+      "book": "Dry Land",
+      "leaf": "wwi-fantasy",
+      "authors": [
+        "B. Pladek"
+      ]
+    },
+    {
+      "n": 168,
+      "intake_title": "Dungeon Crawler Carl",
+      "intake_author": "Matt Dinniman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dungeon Crawler Carl",
+      "book": "Dungeon Crawler Carl",
+      "leaf": "litrpg",
+      "authors": [
+        "Matt Dinniman"
+      ]
+    },
+    {
+      "n": 169,
+      "intake_title": "Dwelling",
+      "intake_author": "Emily Hunt Kivel",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Dwelling",
+      "book": "Dwelling",
+      "leaf": "hometown-of-marvels",
+      "authors": [
+        "Emily Hunt Kivel"
+      ]
+    },
+    {
+      "n": 170,
+      "intake_title": "Echo",
+      "intake_author": "Thomas Olde Heuvelt",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Echo",
+      "book": "Echo",
+      "leaf": "haunted-wilds",
+      "authors": [
+        "Thomas Olde Heuvelt"
+      ]
+    },
+    {
+      "n": 171,
+      "intake_title": "Echo of Worlds",
+      "intake_author": "M.R. Carey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Echo of Worlds",
+      "book": "Echo of Worlds",
+      "leaf": "multiverse-war",
+      "authors": [
+        "M.R. Carey"
+      ]
+    },
+    {
+      "n": 172,
+      "intake_title": "Edge of Oblivion",
+      "intake_author": "Kirk Weddell",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Edge of Oblivion",
+      "book": "Edge of Oblivion",
+      "leaf": "time-loops",
+      "authors": [
+        "Kirk Weddell"
+      ]
+    },
+    {
+      "n": 173,
+      "intake_title": "Emily Wilde's Encyclopaedia of Faeries",
+      "intake_author": "Heather Fawcett",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Emily Wilde's Encyclopaedia of Faeries",
+      "book": "Emily Wilde's Encyclopaedia of Faeries",
+      "leaf": "faeries-in-gaslight",
+      "authors": [
+        "Heather Fawcett"
+      ]
+    },
+    {
+      "n": 174,
+      "intake_title": "Emily Wilde’s Encyclopaedia of Faeries",
+      "intake_author": "Heather Fawcett",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Emily Wilde's Encyclopaedia of Faeries",
+      "book": "Emily Wilde's Encyclopaedia of Faeries",
+      "leaf": "faeries-in-gaslight",
+      "authors": [
+        "Heather Fawcett"
+      ]
+    },
+    {
+      "n": 175,
+      "intake_title": "Equimedian",
+      "intake_author": "Alvaro Zinos-Amaro",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Equimedian",
+      "book": "Equimedian",
+      "leaf": "alternate-worlds",
+      "authors": [
+        "Alvaro Zinos-Amaro"
+      ]
+    },
+    {
+      "n": 176,
+      "intake_title": "Esperance",
+      "intake_author": "Adam Oyebanji",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Esperance",
+      "book": "Esperance",
+      "leaf": "alien-arrival",
+      "authors": [
+        "Adam Oyebanji"
+      ]
+    },
+    {
+      "n": 177,
+      "intake_title": "Exordia",
+      "intake_author": "Seth Dickinson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Exordia",
+      "book": "Exordia",
+      "leaf": "near-future-first-contact",
+      "authors": [
+        "Seth Dickinson"
+      ]
+    },
+    {
+      "n": 178,
+      "intake_title": "Expect Me Tomorrow",
+      "intake_author": "Christopher Priest",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Expect Me Tomorrow",
+      "book": "Expect Me Tomorrow",
+      "leaf": "ancestral-time-travel",
+      "authors": [
+        "Christopher Priest"
+      ]
+    },
+    {
+      "n": 179,
+      "intake_title": "Extended Stay",
+      "intake_author": "Juan Martinez",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Extended Stay",
+      "book": "Extended Stay",
+      "leaf": "unholy-halls",
+      "authors": [
+        "Juan Martinez"
+      ]
+    },
+    {
+      "n": 180,
+      "intake_title": "Extremophile",
+      "intake_author": "Ian Green",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Extremophile",
+      "book": "Extremophile",
+      "leaf": "revolutionary-cyberpunk",
+      "authors": [
+        "Ian Green"
+      ]
+    },
+    {
+      "n": 181,
+      "intake_title": "Fall of the Iron Gods",
+      "intake_author": "Olivia Chadha",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Rise of the Red Hand",
+      "book": "Fall of the Iron Gods",
+      "leaf": "climate-class-divide",
+      "authors": [
+        "Olivia Chadha"
+      ]
+    },
+    {
+      "n": 182,
+      "intake_title": "Fault Tolerance",
+      "intake_author": "Valerie Valdes",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Fault Tolerance",
+      "book": "Fault Tolerance",
+      "leaf": "humorous-science-fiction",
+      "authors": [
+        "Valerie Valdes"
+      ]
+    },
+    {
+      "n": 183,
+      "intake_title": "Fire Becomes Her",
+      "intake_author": "Rosiee Thor",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Fire Becomes Her",
+      "book": "Fire Becomes Her",
+      "leaf": "election-fantasy",
+      "authors": [
+        "Rosiee Thor"
+      ]
+    },
+    {
+      "n": 184,
+      "intake_title": "Flawless Girls",
+      "intake_author": "Anna-Marie McLemore",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Flawless Girls",
+      "book": "Flawless Girls",
+      "leaf": "unholy-halls",
+      "authors": [
+        "Anna-Marie McLemore"
+      ]
+    },
+    {
+      "n": 185,
+      "intake_title": "Flint and Mirror",
+      "intake_author": "John Crowley",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Flint and Mirror",
+      "book": "Flint and Mirror",
+      "leaf": "renaissance-fantasy",
+      "authors": [
+        "John Crowley"
+      ]
+    },
+    {
+      "n": 186,
+      "intake_title": "Flux",
+      "intake_author": "Jinwoo Chong",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Flux",
+      "book": "Flux",
+      "leaf": "extra-dimensional-awareness",
+      "authors": [
+        "Jinwoo Chong"
+      ]
+    },
+    {
+      "n": 187,
+      "intake_title": "Forgotten Sisters",
+      "intake_author": "Cynthia Pelayo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Forgotten Sisters",
+      "book": "Forgotten Sisters",
+      "leaf": "housebound",
+      "authors": [
+        "Cynthia Pelayo"
+      ]
+    },
+    {
+      "n": 188,
+      "intake_title": "Fraternity",
+      "intake_author": "Andy Mientus",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Fraternity",
+      "book": "Fraternity",
+      "leaf": "demonic-torment",
+      "authors": [
+        "Andy Mientus"
+      ]
+    },
+    {
+      "n": 189,
+      "intake_title": "From Dust, a Flame",
+      "intake_author": "Rebecca Podos",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "From Dust, a Flame",
+      "book": "From Dust, a Flame",
+      "leaf": "birthright-magic",
+      "authors": [
+        "Rebecca Podos"
+      ]
+    },
+    {
+      "n": 190,
+      "intake_title": "Godkiller",
+      "intake_author": "Hannah Kaner",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Godkiller",
+      "book": "Godkiller",
+      "leaf": "warrior-hero",
+      "authors": [
+        "Hannah Kaner"
+      ]
+    },
+    {
+      "n": 191,
+      "intake_title": "Godly Heathens",
+      "intake_author": "H.E. Edgmon",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Godly Heathens",
+      "book": "Godly Heathens",
+      "leaf": "modern-invented-myth",
+      "authors": [
+        "H.E. Edgmon"
+      ]
+    },
+    {
+      "n": 192,
+      "intake_title": "Guardians of Dawn: Zhara",
+      "intake_author": "S. Jae-Jones",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Guardians of Dawn: Zhara",
+      "book": "Guardians of Dawn: Zhara",
+      "leaf": "outlaw-fantasy",
+      "authors": [
+        "S. Jae-Jones"
+      ]
+    },
+    {
+      "n": 193,
+      "intake_title": "Gwendy’s Final Task",
+      "intake_author": "Stephen King & Richard Chizmar",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Gwendy's Final Task",
+      "book": "Gwendy's Final Task",
+      "leaf": "wicked-wishes",
+      "authors": [
+        "Stephen King",
+        "Richard Chizmar"
+      ]
+    },
+    {
+      "n": 194,
+      "intake_title": "Halcyon Years",
+      "intake_author": "Alastair Reynolds",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Halcyon Years",
+      "book": "Halcyon Years",
+      "leaf": "generation-starships",
+      "authors": [
+        "Alastair Reynolds"
+      ]
+    },
+    {
+      "n": 195,
+      "intake_title": "Hammajang Luck",
+      "intake_author": "Makana Yamamoto",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hammajang Luck",
+      "book": "Hammajang Luck",
+      "leaf": "space-adventure",
+      "authors": [
+        "Makana Yamamoto"
+      ]
+    },
+    {
+      "n": 196,
+      "intake_title": "Harmattan Season",
+      "intake_author": "Tochi Onyebuchi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Harmattan Season",
+      "book": "Harmattan Season",
+      "leaf": "fantasy-mystery",
+      "authors": [
+        "Tochi Onyebuchi"
+      ]
+    },
+    {
+      "n": 197,
+      "intake_title": "Hell Followed With Us",
+      "intake_author": "Andrew Joseph White",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hell Followed With Us",
+      "book": "Hell Followed With Us",
+      "leaf": "die-off",
+      "authors": [
+        "Andrew Joseph White"
+      ]
+    },
+    {
+      "n": 198,
+      "intake_title": "Hidden Pictures",
+      "intake_author": "Jason Rekulak",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hidden Pictures",
+      "book": "Hidden Pictures",
+      "leaf": "vengeful-spirits",
+      "authors": [
+        "Jason Rekulak"
+      ]
+    },
+    {
+      "n": 199,
+      "intake_title": "Hokuloa Road",
+      "intake_author": "Elizabeth Hand",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hokuloa Road",
+      "book": "Hokuloa Road",
+      "leaf": "haunted-wilds",
+      "authors": [
+        "Elizabeth Hand"
+      ]
+    },
+    {
+      "n": 200,
+      "intake_title": "Hole in the Sky",
+      "intake_author": "Daniel H. Wilson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hole in the Sky",
+      "book": "Hole in the Sky",
+      "leaf": "alien-arrival",
+      "authors": [
+        "Daniel H. Wilson"
+      ]
+    },
+    {
+      "n": 201,
+      "intake_title": "Honeyeater",
+      "intake_author": "Kathleen Jennings",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Honeyeater",
+      "book": "Honeyeater",
+      "leaf": "hometown-of-marvels",
+      "authors": [
+        "Kathleen Jennings"
+      ]
+    },
+    {
+      "n": 202,
+      "intake_title": "Hopeland",
+      "intake_author": "Ian McDonald",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hopeland",
+      "book": "Hopeland",
+      "leaf": "ancestral-time-travel",
+      "authors": [
+        "Ian McDonald"
+      ]
+    },
+    {
+      "n": 203,
+      "intake_title": "Horror Movie",
+      "intake_author": "Paul Tremblay",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Horror Movie",
+      "book": "Horror Movie",
+      "leaf": "demonic-torment",
+      "authors": [
+        "Paul Tremblay"
+      ]
+    },
+    {
+      "n": 204,
+      "intake_title": "Hospital",
+      "intake_author": "Han Song",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Hospital",
+      "book": "Hospital",
+      "leaf": "orwellianesque",
+      "authors": [
+        "Han Song"
+      ]
+    },
+    {
+      "n": 205,
+      "intake_title": "House of Bone and Rain",
+      "intake_author": "Gabino Iglesias",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "House of Bone and Rain",
+      "book": "House of Bone and Rain",
+      "leaf": "hellscape-horror",
+      "authors": [
+        "Gabino Iglesias"
+      ]
+    },
+    {
+      "n": 206,
+      "intake_title": "House of Hunger",
+      "intake_author": "Alexis Henderson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "House of Hunger",
+      "book": "House of Hunger",
+      "leaf": "dark-realms",
+      "authors": [
+        "Alexis Henderson"
+      ]
+    },
+    {
+      "n": 207,
+      "intake_title": "House of Open Wounds",
+      "intake_author": "Adrian Tchaikovsky",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "City of Last Chances",
+      "book": "House of Open Wounds",
+      "leaf": "tinderbox-fantasy",
+      "authors": [
+        "Adrian Tchaikovsky"
+      ]
+    },
+    {
+      "n": 208,
+      "intake_title": "How High We Go in the Dark",
+      "intake_author": "Sequoia Nagamatsu",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "How High We Go in the Dark",
+      "book": "How High We Go in the Dark",
+      "leaf": "post-pandemic-survival",
+      "authors": [
+        "Sequoia Nagamatsu"
+      ]
+    },
+    {
+      "n": 209,
+      "intake_title": "How to Make a Horror Movie and Survive",
+      "intake_author": "Craig DiLouie",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "How to Make a Horror Movie and Survive",
+      "book": "How to Make a Horror Movie and Survive",
+      "leaf": "demonic-torment",
+      "authors": [
+        "Craig DiLouie"
+      ]
+    },
+    {
+      "n": 210,
+      "intake_title": "How to Sell a Haunted House",
+      "intake_author": "Grady Hendrix",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "How to Sell a Haunted House",
+      "book": "How to Sell a Haunted House",
+      "leaf": "housebound",
+      "authors": [
+        "Grady Hendrix"
+      ]
+    },
+    {
+      "n": 211,
+      "intake_title": "How To Succeed in Witchcraft",
+      "intake_author": "Aislinn Brophy",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "How To Succeed in Witchcraft",
+      "book": "How To Succeed in Witchcraft",
+      "leaf": "magic-school",
+      "authors": [
+        "Aislinn Brophy"
+      ]
+    },
+    {
+      "n": 212,
+      "intake_title": "I Am Homeless if This Is Not My Home",
+      "intake_author": "Lorrie Moore",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "I Am Homeless if This Is Not My Home",
+      "book": "I Am Homeless if This Is Not My Home",
+      "leaf": "called-back",
+      "authors": [
+        "Lorrie Moore"
+      ]
+    },
+    {
+      "n": 213,
+      "intake_title": "I Am Not Jessica Chen",
+      "intake_author": "Ann Liang",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "I Am Not Jessica Chen",
+      "book": "I Am Not Jessica Chen",
+      "leaf": "body-swap",
+      "authors": [
+        "Ann Liang"
+      ]
+    },
+    {
+      "n": 214,
+      "intake_title": "I'm Afraid You've Got Dragons",
+      "intake_author": "Peter S. Beagle",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "I'm Afraid You've Got Dragons",
+      "book": "I'm Afraid You've Got Dragons",
+      "leaf": "comic-fantasy-realms",
+      "authors": [
+        "Peter S. Beagle"
+      ]
+    },
+    {
+      "n": 215,
+      "intake_title": "Ice",
+      "intake_author": "Jacek Dukaj",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Ice",
+      "book": "Ice",
+      "leaf": "alt-great-war",
+      "authors": [
+        "Jacek Dukaj"
+      ]
+    },
+    {
+      "n": 216,
+      "intake_title": "In Universes",
+      "intake_author": "Emet North",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "In Universes",
+      "book": "In Universes",
+      "leaf": "multiverse-odyssey",
+      "authors": [
+        "Emet North"
+      ]
+    },
+    {
+      "n": 217,
+      "intake_title": "Incidents Around the House",
+      "intake_author": "Josh Malerman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Incidents Around the House",
+      "book": "Incidents Around the House",
+      "leaf": "demonic-torment",
+      "authors": [
+        "Josh Malerman"
+      ]
+    },
+    {
+      "n": 218,
+      "intake_title": "Infinity Gate",
+      "intake_author": "M.R. Carey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Infinity Gate",
+      "book": "Infinity Gate",
+      "leaf": "multiverse-war",
+      "authors": [
+        "M.R. Carey"
+      ]
+    },
+    {
+      "n": 219,
+      "intake_title": "Ink Blood Sister Scribe",
+      "intake_author": "Emma Törzs",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Ink Blood Sister Scribe",
+      "book": "Ink Blood Sister Scribe",
+      "leaf": "domestic-fantasy",
+      "authors": [
+        "Emma Törzs"
+      ]
+    },
+    {
+      "n": 220,
+      "intake_title": "Into the Light",
+      "intake_author": "Mark Oshiro",
+      "status": "held",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 221,
+      "intake_title": "Into the Sun",
+      "intake_author": "C.F. Ramuz",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Into the Sun",
+      "book": "Into the Sun",
+      "leaf": "hometown-of-marvels",
+      "authors": [
+        "C. F. Ramuz"
+      ]
+    },
+    {
+      "n": 222,
+      "intake_title": "It Was Her House First",
+      "intake_author": "Cherie Priest",
+      "status": "held",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 223,
+      "intake_title": "I’m Afraid You’ve Got Dragons",
+      "intake_author": "Peter S. Beagle",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "I'm Afraid You've Got Dragons",
+      "book": "I'm Afraid You've Got Dragons",
+      "leaf": "comic-fantasy-realms",
+      "authors": [
+        "Peter S. Beagle"
+      ]
+    },
+    {
+      "n": 224,
+      "intake_title": "Just Like Home",
+      "intake_author": "Sarah Gailey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Just Like Home",
+      "book": "Just Like Home",
+      "leaf": "housebound",
+      "authors": [
+        "Sarah Gailey"
+      ]
+    },
+    {
+      "n": 225,
+      "intake_title": "King Sorrow",
+      "intake_author": "Joe Hill",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "King Sorrow",
+      "book": "King Sorrow",
+      "leaf": "deal-with-the-devil",
+      "authors": [
+        "Joe Hill"
+      ]
+    },
+    {
+      "n": 226,
+      "intake_title": "Lady Eve’s Last Con",
+      "intake_author": "Rebecca Fraimow",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Lady Eve's Last Con",
+      "book": "Lady Eve's Last Con",
+      "leaf": "space-adventure",
+      "authors": [
+        "Rebecca Fraimow"
+      ]
+    },
+    {
+      "n": 227,
+      "intake_title": "Lake of Darkness",
+      "intake_author": "Adam Roberts",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Lake of Darkness",
+      "book": "Lake of Darkness",
+      "leaf": "cosmic-gothic",
+      "authors": [
+        "Adam Roberts"
+      ]
+    },
+    {
+      "n": 228,
+      "intake_title": "Lakelore",
+      "intake_author": "Anna-Marie McLemore",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Lakelore",
+      "book": "Lakelore",
+      "leaf": "ontological-magic-realism",
+      "authors": [
+        "Anna-Marie McLemore"
+      ]
+    },
+    {
+      "n": 229,
+      "intake_title": "Lamb",
+      "intake_author": "Matt Hill",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Lamb",
+      "book": "Lamb",
+      "leaf": "remade-bodies",
+      "authors": [
+        "Matt Hill"
+      ]
+    },
+    {
+      "n": 230,
+      "intake_title": "Landfall",
+      "intake_author": "James Bradley",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Landfall",
+      "book": "Landfall",
+      "leaf": "drowned-worlds",
+      "authors": [
+        "James Bradley"
+      ]
+    },
+    {
+      "n": 231,
+      "intake_title": "Lapvona",
+      "intake_author": "Ottessa Moshfegh",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Lapvona",
+      "book": "Lapvona",
+      "leaf": "folk-horror",
+      "authors": [
+        "Ottessa Moshfegh"
+      ]
+    },
+    {
+      "n": 232,
+      "intake_title": "Last Exit",
+      "intake_author": "Max Gladstone",
+      "status": "held",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 233,
+      "intake_title": "Lone Women",
+      "intake_author": "Victor LaValle",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Lone Women",
+      "book": "Lone Women",
+      "leaf": "bowler-hat-fantasy",
+      "authors": [
+        "Victor LaValle"
+      ]
+    },
+    {
+      "n": 234,
+      "intake_title": "Looking Glass Sound",
+      "intake_author": "Catriona Ward",
+      "status": "excluded",
+      "reason": "Not SFF (the curator, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier."
+    },
+    {
+      "n": 235,
+      "intake_title": "Mad Sisters of Esi",
+      "intake_author": "Tashan Mehta",
+      "status": "held",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 236,
+      "intake_title": "Mage of Fools",
+      "intake_author": "Eugen Bacon",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Mage of Fools",
+      "book": "Mage of Fools",
+      "leaf": "overthrow-fantasy",
+      "authors": [
+        "Eugen Bacon"
+      ]
+    },
+    {
+      "n": 237,
+      "intake_title": "Major Arcana",
+      "intake_author": "John Pistelli",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Major Arcana",
+      "book": "Major Arcana",
+      "leaf": "retconned-worlds",
+      "authors": [
+        "John Pistelli"
+      ]
+    },
+    {
+      "n": 238,
+      "intake_title": "Make Me a Monster",
+      "intake_author": "Kalynn Bayron",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Make Me a Monster",
+      "book": "Make Me a Monster",
+      "leaf": "undying",
+      "authors": [
+        "Kalynn Bayron"
+      ]
+    },
+    {
+      "n": 239,
+      "intake_title": "Malarkoi",
+      "intake_author": "Alex Pheby",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Mordew",
+      "book": "Malarkoi",
+      "leaf": "dying-earth",
+      "authors": [
+        "Alex Pheby"
+      ]
+    },
+    {
+      "n": 240,
+      "intake_title": "Manhunt",
+      "intake_author": "Gretchen Felker-Martin",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Manhunt",
+      "book": "Manhunt",
+      "leaf": "zombie-apocalypse",
+      "authors": [
+        "Gretchen Felker-Martin"
+      ]
+    },
+    {
+      "n": 241,
+      "intake_title": "Metal from Heaven",
+      "intake_author": "August Clarke",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Metal from Heaven",
+      "book": "Metal from Heaven",
+      "leaf": "overthrow-fantasy",
+      "authors": [
+        "August Clarke"
+      ]
+    },
+    {
+      "n": 242,
+      "intake_title": "Metallic Realms",
+      "intake_author": "Lincoln Michel",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Metallic Realms",
+      "book": "Metallic Realms",
+      "leaf": "written-worlds",
+      "authors": [
+        "Lincoln Michel"
+      ]
+    },
+    {
+      "n": 243,
+      "intake_title": "Metronome",
+      "intake_author": "Tom Watson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Metronome",
+      "book": "Metronome",
+      "leaf": "climate-displacement",
+      "authors": [
+        "Tom Watson"
+      ]
+    },
+    {
+      "n": 244,
+      "intake_title": "Model Home",
+      "intake_author": "Rivers Solomon",
+      "status": "excluded",
+      "reason": "Not SFF (curator, 2026-09-29 15:46, phonemsg-01M3PPNQVFVXPZ1QJAN38V3AZD): the apparent haunted-house events receive a human explanation at the ending; the supernatural frame was a reader trick. Exclude from hanging list and intake queue; do not resurface in any tier. Spoiler source: https://www.seizethepress.com/2025/03/29/model-home-reiew-stp12/ ; corroboration: https://brettmilam.com/2025/11/01/book-review-model-home/ ."
+    },
+    {
+      "n": 245,
+      "intake_title": "Moderation",
+      "intake_author": "Elaine Castillo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Moderation",
+      "book": "Moderation",
+      "leaf": "terms-of-service",
+      "authors": [
+        "Elaine Castillo"
+      ]
+    },
+    {
+      "n": 246,
+      "intake_title": "Moonstorm",
+      "intake_author": "Yoon Ha Lee",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Moonstorm",
+      "book": "Moonstorm",
+      "leaf": "space-adventure",
+      "authors": [
+        "Yoon Ha Lee"
+      ]
+    },
+    {
+      "n": 247,
+      "intake_title": "Motherthing",
+      "intake_author": "Ainslie Hogarth",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Motherthing",
+      "book": "Motherthing",
+      "leaf": "vengeful-spirits",
+      "authors": [
+        "Ainslie Hogarth"
+      ]
+    },
+    {
+      "n": 248,
+      "intake_title": "Mothtown",
+      "intake_author": "Caroline Hardaker",
+      "status": "excluded",
+      "reason": "Excluded by curator on 2026-09-29 (original curator message: \"Exclude Mothtown, speculative not confirmed. Next?\"): speculative content is not confirmed on the page. The door/multiverse quest is David’s conviction under unreliable narration, not an established literal crossing; detailed spoiler review describes family intervention and treatment, with no verified portal or reunion. Do not resurface in any tier. Sources: https://deborahjross.blogspot.com/2023/11/book-review-mothtown-brilliant-second.html ; https://elenalinville.com/2025/01/27/mothtown-by-caroline-hardaker/ ."
+    },
+    {
+      "n": 249,
+      "intake_title": "Mr. Breakfast",
+      "intake_author": "Jonathan Carroll",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Mr. Breakfast",
+      "book": "Mr. Breakfast",
+      "leaf": "multiverse-odyssey",
+      "authors": [
+        "Jonathan Carroll"
+      ]
+    },
+    {
+      "n": 250,
+      "intake_title": "My Brother’s Keeper",
+      "intake_author": "Tim Powers",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "My Brother's Keeper",
+      "book": "My Brother's Keeper",
+      "leaf": "monsters-in-gaslight",
+      "authors": [
+        "Tim Powers"
+      ]
+    },
+    {
+      "n": 251,
+      "intake_title": "My Mother's Keeper",
+      "intake_author": "Tim Powers",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "My Brother's Keeper",
+      "book": "My Brother's Keeper",
+      "leaf": "monsters-in-gaslight",
+      "authors": [
+        "Tim Powers"
+      ],
+      "alias_note": "Intake title typo; Tim Powers 2023 book is My Brother's Keeper."
+    },
+    {
+      "n": 252,
+      "intake_title": "Navola",
+      "intake_author": "Paolo Bacigalupi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Navola",
+      "book": "Navola",
+      "leaf": "renaissance-dynastic-intrigue",
+      "authors": [
+        "Paolo Bacigalupi"
+      ]
+    },
+    {
+      "n": 253,
+      "intake_title": "Needle",
+      "intake_author": "Linda Nagata",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Needle",
+      "book": "Needle",
+      "leaf": "big-dumb-objects",
+      "authors": [
+        "Linda Nagata"
+      ]
+    },
+    {
+      "n": 254,
+      "intake_title": "Needy Little Things",
+      "intake_author": "Channelle Desamours",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Needy Little Things",
+      "book": "Needy Little Things",
+      "leaf": "birthright-magic",
+      "authors": [
+        "Channelle Desamours"
+      ]
+    },
+    {
+      "n": 255,
+      "intake_title": "Never Flinch",
+      "intake_author": "Stephen King",
+      "status": "excluded",
+      "reason": "Excluded on about-ness by curator, 2026-09-29 16:23 (original iMessage \"Ok, cross it, next?\" answering the epilogue-ambiguity discussion). Human crime investigation drives the entire book; Trig’s dead father’s voice reads as internal trauma. An epilogue ceramic-horse voice hints at but does not confirm supernatural influence; neither it nor the voice supplies investigative clues. Not an SFF engine. Do not resurface in any tier. Sources: https://stephenking.com/works/novel/never-flinch.html ; https://lesserjoke.home.blog/2025/05/29/book-review-never-flinch-by-stephen-king/ ; https://restforlittle.wordpress.com/2025/07/21/never-flinch-by-stephen-king-book-review/ ."
+    },
+    {
+      "n": 256,
+      "intake_title": "Night Swimming",
+      "intake_author": "Aaron Starmer",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Night Swimming",
+      "book": "Night Swimming",
+      "leaf": "found-magic",
+      "authors": [
+        "Aaron Starmer"
+      ]
+    },
+    {
+      "n": 257,
+      "intake_title": "No Gods for Drowning",
+      "intake_author": "Hailey Piper",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "No Gods for Drowning",
+      "book": "No Gods for Drowning",
+      "leaf": "fantasy-mystery",
+      "authors": [
+        "Hailey Piper"
+      ]
+    },
+    {
+      "n": 258,
+      "intake_title": "North Sun, Or The Voyage of the Whaleship Esther",
+      "intake_author": "Ethan Rutherford",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "North Sun, or the Voyage of the Whaleship Esther",
+      "book": "North Sun, or the Voyage of the Whaleship Esther",
+      "leaf": "monsters-in-gaslight",
+      "authors": [
+        "Ethan Rutherford"
+      ]
+    },
+    {
+      "n": 259,
+      "intake_title": "Nothing in the Basement",
+      "intake_author": "Romie Stott",
+      "status": "excluded",
+      "reason": "Excluded by curator as unconfirmed speculative, 2026-09-29 19:07 (phonemsg-01M3Q25QWV507T3XRMRJPZPNQ4): the author calls it a haunted-house story but explains \"what haunts the characters is nothing\" and \"the real horror is yourself\"; the domestic mishaps and denial do not confirm a supernatural force. Do not resurface in any tier. Sources: https://nightbeatseu.ca/2025/10/14/behind-the-screens-tuesday-author-interview-172/ ; https://bookjockeyalex.com/2025/11/12/review-nothing-in-the-basement-by-romie-stott/ ."
+    },
+    {
+      "n": 260,
+      "intake_title": "On the Calculation of Volume III",
+      "intake_author": "Solvej Balle",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "On the Calculation of Volume III",
+      "book": "On the Calculation of Volume III",
+      "leaf": "time-loops",
+      "authors": [
+        "Solvej Balle"
+      ]
+    },
+    {
+      "n": 261,
+      "intake_title": "One Way Witch",
+      "intake_author": "Nnedi Okorafor",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "One Way Witch",
+      "book": "One Way Witch",
+      "leaf": "griot",
+      "authors": [
+        "Nnedi Okorafor"
+      ]
+    },
+    {
+      "n": 262,
+      "intake_title": "Only a Monster",
+      "intake_author": "Vanessa Len",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Only a Monster",
+      "book": "Only a Monster",
+      "leaf": "birthright-magic",
+      "authors": [
+        "Vanessa Len"
+      ]
+    },
+    {
+      "n": 263,
+      "intake_title": "Otherworldly",
+      "intake_author": "F.T. Lukens",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Otherworldly",
+      "book": "Otherworldly",
+      "leaf": "romantasy",
+      "authors": [
+        "F.T. Lukens"
+      ]
+    },
+    {
+      "n": 264,
+      "intake_title": "Our Wives Under the Sea",
+      "intake_author": "Julia Armfield",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Our Wives Under the Sea",
+      "book": "Our Wives Under the Sea",
+      "leaf": "flesh-of-marvel",
+      "authors": [
+        "Julia Armfield"
+      ]
+    },
+    {
+      "n": 265,
+      "intake_title": "Outlaw Planet",
+      "intake_author": "M.R. Carey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Outlaw Planet",
+      "book": "Outlaw Planet",
+      "leaf": "multiverse-war",
+      "authors": [
+        "M.R. Carey"
+      ]
+    },
+    {
+      "n": 266,
+      "intake_title": "Paladin's Faith",
+      "intake_author": "T. Kingfisher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Paladin's Faith",
+      "book": "Paladin's Faith",
+      "leaf": "paladin-hero",
+      "authors": [
+        "T. Kingfisher"
+      ]
+    },
+    {
+      "n": 267,
+      "intake_title": "Paladin’s Faith",
+      "intake_author": "T. Kingfisher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Paladin's Faith",
+      "book": "Paladin's Faith",
+      "leaf": "paladin-hero",
+      "authors": [
+        "T. Kingfisher"
+      ]
+    },
+    {
+      "n": 268,
+      "intake_title": "Patricia Wants to Cuddle",
+      "intake_author": "Samantha Allen",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Patricia Wants to Cuddle",
+      "book": "Patricia Wants to Cuddle",
+      "leaf": "cryptid-horror",
+      "authors": [
+        "Samantha Allen"
+      ]
+    },
+    {
+      "n": 269,
+      "intake_title": "Pink Slime",
+      "intake_author": "Fernanda Trías",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Pink Slime",
+      "book": "Pink Slime",
+      "leaf": "scorched-worlds",
+      "authors": [
+        "Fernanda Trías"
+      ]
+    },
+    {
+      "n": 270,
+      "intake_title": "Playground",
+      "intake_author": "Richard Powers",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Playground",
+      "book": "Playground",
+      "leaf": "ai",
+      "authors": [
+        "Richard Powers"
+      ]
+    },
+    {
+      "n": 271,
+      "intake_title": "Plutoshine",
+      "intake_author": "Lucy Kissick",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Plutoshine",
+      "book": "Plutoshine",
+      "leaf": "planetary-science",
+      "authors": [
+        "Lucy Kissick"
+      ]
+    },
+    {
+      "n": 272,
+      "intake_title": "Prison of Sleep",
+      "intake_author": "Tim Pratt",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Prison of Sleep",
+      "book": "Prison of Sleep",
+      "leaf": "multiverse-war",
+      "authors": [
+        "Tim Pratt"
+      ]
+    },
+    {
+      "n": 273,
+      "intake_title": "Project Hanuman",
+      "intake_author": "Stewart Hotston",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Project Hanuman",
+      "book": "Project Hanuman",
+      "leaf": "remade-minds",
+      "authors": [
+        "Stewart Hotston"
+      ]
+    },
+    {
+      "n": 274,
+      "intake_title": "Prophet",
+      "intake_author": "Sin Blaché & Helen Macdonald",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Prophet",
+      "book": "Prophet",
+      "leaf": "projected-realities",
+      "authors": [
+        "Sin Blaché",
+        "Helen Macdonald"
+      ]
+    },
+    {
+      "n": 275,
+      "intake_title": "Rabbit in the Moon",
+      "intake_author": "Fiona Moore",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Rabbit in the Moon",
+      "book": "Rabbit in the Moon",
+      "leaf": "multiverse-war",
+      "authors": [
+        "Fiona Moore"
+      ]
+    },
+    {
+      "n": 276,
+      "intake_title": "Red Rabbit Ghost",
+      "intake_author": "Jen Julian",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Red Rabbit Ghost",
+      "book": "Red Rabbit Ghost",
+      "leaf": "residual-haunting",
+      "authors": [
+        "Jen Julian"
+      ]
+    },
+    {
+      "n": 277,
+      "intake_title": "Red Star Hustle",
+      "intake_author": "Sam J. Miller",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Red Star Hustle",
+      "book": "Red Star Hustle",
+      "leaf": "space-adventure",
+      "authors": [
+        "Sam J. Miller"
+      ]
+    },
+    {
+      "n": 278,
+      "intake_title": "Red Sword",
+      "intake_author": "Bora Chung",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Red Sword",
+      "book": "Red Sword",
+      "leaf": "ground-pounders",
+      "authors": [
+        "Bora Chung"
+      ]
+    },
+    {
+      "n": 279,
+      "intake_title": "Remember You Will Die",
+      "intake_author": "Eden Robins",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Remember You Will Die",
+      "book": "Remember You Will Die",
+      "leaf": "sentient-robots",
+      "authors": [
+        "Eden Robins"
+      ]
+    },
+    {
+      "n": 280,
+      "intake_title": "Rest in Peaches",
+      "intake_author": "Alex Brown",
+      "status": "held",
+      "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
+    },
+    {
+      "n": 281,
+      "intake_title": "River Mumma",
+      "intake_author": "Zalika Reid-Benta",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "River Mumma",
+      "book": "River Mumma",
+      "leaf": "modern-jamaican-myth",
+      "authors": [
+        "Zalika Reid-Benta"
+      ]
+    },
+    {
+      "n": 282,
+      "intake_title": "Road of Bones",
+      "intake_author": "Christopher Golden",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Road of Bones",
+      "book": "Road of Bones",
+      "leaf": "haunted-wilds",
+      "authors": [
+        "Christopher Golden"
+      ]
+    },
+    {
+      "n": 283,
+      "intake_title": "Road to Ruin",
+      "intake_author": "Hana Lee",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Road to Ruin",
+      "book": "Road to Ruin",
+      "leaf": "technofantasy",
+      "authors": [
+        "Hana Lee"
+      ]
+    },
+    {
+      "n": 284,
+      "intake_title": "Rook",
+      "intake_author": "William Ritter",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Rook",
+      "book": "Rook",
+      "leaf": "monsters-in-gaslight",
+      "authors": [
+        "William Ritter"
+      ]
+    },
+    {
+      "n": 285,
+      "intake_title": "Rust in the Root",
+      "intake_author": "Justina Ireland",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Rust in the Root",
+      "book": "Rust in the Root",
+      "leaf": "alt-diesel-fantasy",
+      "authors": [
+        "Justina Ireland"
+      ]
+    },
+    {
+      "n": 286,
+      "intake_title": "Saint Death’s Daughter",
+      "intake_author": "C.S.E. Cooney",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Saint Death's Daughter",
+      "book": "Saint Death's Daughter",
+      "leaf": "mage-hero",
+      "authors": [
+        "C. S. E. Cooney"
+      ]
+    },
+    {
+      "n": 287,
+      "intake_title": "Sargassa",
+      "intake_author": "Sophie Burnham",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sargassa",
+      "book": "Sargassa",
+      "leaf": "deep-alterations",
+      "authors": [
+        "Sophie Burnham"
+      ]
+    },
+    {
+      "n": 288,
+      "intake_title": "Saturnalia",
+      "intake_author": "Stephanie Feldman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Saturnalia",
+      "book": "Saturnalia",
+      "leaf": "paranormal-bricks",
+      "authors": [
+        "Stephanie Feldman"
+      ]
+    },
+    {
+      "n": 289,
+      "intake_title": "Scale",
+      "intake_author": "Greg Egan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Scale",
+      "book": "Scale",
+      "leaf": "world-models",
+      "authors": [
+        "Greg Egan"
+      ]
+    },
+    {
+      "n": 290,
+      "intake_title": "School of Shards",
+      "intake_author": "Marina & Sergey Dyachenko",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "School of Shards",
+      "book": "School of Shards",
+      "leaf": "magic-school",
+      "authors": [
+        "Marina & Sergey Dyachenko"
+      ]
+    },
+    {
+      "n": 291,
+      "intake_title": "Sea Now, Eva Meijer",
+      "intake_author": "tr. Anne Thompson Melo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sea Now",
+      "book": "Sea Now",
+      "leaf": "drowned-worlds",
+      "authors": [
+        "Eva Meijer"
+      ],
+      "alias_note": "Malformed intake title includes author; exact real author/title represented."
+    },
+    {
+      "n": 292,
+      "intake_title": "Secrets of the First School",
+      "intake_author": "T.L. Huchu",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Secrets of the First School",
+      "book": "Secrets of the First School",
+      "leaf": "the-reckoning-dead",
+      "authors": [
+        "T.L. Huchu"
+      ]
+    },
+    {
+      "n": 293,
+      "intake_title": "Shadow Ticket",
+      "intake_author": "Thomas Pynchon",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Shadow Ticket",
+      "book": "Shadow Ticket",
+      "leaf": "earthly-comic-fantasy",
+      "authors": [
+        "Thomas Pynchon"
+      ]
+    },
+    {
+      "n": 294,
+      "intake_title": "Shark Heart",
+      "intake_author": "Emily Habeck",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Shark Heart",
+      "book": "Shark Heart",
+      "leaf": "beasts-of-marvel",
+      "authors": [
+        "Emily Habeck"
+      ]
+    },
+    {
+      "n": 295,
+      "intake_title": "Sheine Lende",
+      "intake_author": "Darcie Little Badger",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Elatsoe",
+      "book": "Sheine Lende",
+      "leaf": "publicly-paranormal",
+      "authors": [
+        "Darcie Little Badger"
+      ]
+    },
+    {
+      "n": 296,
+      "intake_title": "Silver Nitrate",
+      "intake_author": "Silvia Moreno-Garcia",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Silver Nitrate",
+      "book": "Silver Nitrate",
+      "leaf": "occult-institutions",
+      "authors": [
+        "Silvia Moreno-Garcia"
+      ]
+    },
+    {
+      "n": 297,
+      "intake_title": "Singer Distance",
+      "intake_author": "Ethan Chatagnier",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Singer Distance",
+      "book": "Singer Distance",
+      "leaf": "deep-alterations",
+      "authors": [
+        "Ethan Chatagnier"
+      ]
+    },
+    {
+      "n": 298,
+      "intake_title": "Sky on Fire",
+      "intake_author": "E.K. Johnston",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Aetherbound",
+      "book": "Sky on Fire",
+      "leaf": "planetary-romance",
+      "authors": [
+        "E. K. Johnston"
+      ]
+    },
+    {
+      "n": 299,
+      "intake_title": "Sleep Like Death",
+      "intake_author": "Kalynn Bayron",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sleep Like Death",
+      "book": "Sleep Like Death",
+      "leaf": "fairy-tale-expansion",
+      "authors": [
+        "Kalynn Bayron"
+      ]
+    },
+    {
+      "n": 300,
+      "intake_title": "Sleeping Worlds Have No Memory",
+      "intake_author": "Yaroslav Barsukov",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sleeping Worlds Have No Memory",
+      "book": "Sleeping Worlds Have No Memory",
+      "leaf": "new-weird",
+      "authors": [
+        "Yaroslav Barsukov"
+      ]
+    },
+    {
+      "n": 301,
+      "intake_title": "Small Town Horror",
+      "intake_author": "Ronald Malfi",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Small Town Horror",
+      "book": "Small Town Horror",
+      "leaf": "vengeance-torment",
+      "authors": [
+        "Ronald Malfi"
+      ]
+    },
+    {
+      "n": 302,
+      "intake_title": "Snake-Eater",
+      "intake_author": "T. Kingfisher",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Snake-Eater",
+      "book": "Snake-Eater",
+      "leaf": "folk-horror",
+      "authors": [
+        "T. Kingfisher"
+      ]
+    },
+    {
+      "n": 303,
+      "intake_title": "Song of Spores",
+      "intake_author": "Bogi Takács",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Song of Spores",
+      "book": "Song of Spores",
+      "leaf": "space-adventure",
+      "authors": [
+        "Bogi Takács"
+      ]
+    },
+    {
+      "n": 304,
+      "intake_title": "Spell Bound",
+      "intake_author": "F.T. Lukens",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Spell Bound",
+      "book": "Spell Bound",
+      "leaf": "found-magic",
+      "authors": [
+        "F.T. Lukens"
+      ]
+    },
+    {
+      "n": 305,
+      "intake_title": "Spells to Forget Us",
+      "intake_author": "Aislinn Brophy",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Spells to Forget Us",
+      "book": "Spells to Forget Us",
+      "leaf": "birthright-magic",
+      "authors": [
+        "Aislinn Brophy"
+      ]
+    },
+    {
+      "n": 306,
+      "intake_title": "Spread Me",
+      "intake_author": "Sarah Gailey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Spread Me",
+      "book": "Spread Me",
+      "leaf": "alien-horror",
+      "authors": [
+        "Sarah Gailey"
+      ]
+    },
+    {
+      "n": 307,
+      "intake_title": "Stars and Bones",
+      "intake_author": "Gareth L. Powell",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Continuance",
+      "book": "Stars and Bones",
+      "leaf": "big-dumb-objects",
+      "authors": [
+        "Gareth L. Powell"
+      ]
+    },
+    {
+      "n": 308,
+      "intake_title": "Starstrike",
+      "intake_author": "Yoon Ha Lee",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Moonstorm",
+      "book": "Starstrike",
+      "leaf": "space-adventure",
+      "authors": [
+        "Yoon Ha Lee"
+      ]
+    },
+    {
+      "n": 309,
+      "intake_title": "Sundial",
+      "intake_author": "Catriona Ward",
+      "status": "excluded",
+      "reason": "Excluded by curator as unconfirmed speculative, 2026-09-30 09:19 (original iMessage: \"Exclude as unconfined speculative, next?\", answering the Sundial exclusion/hold question): psychological family horror is the engine; the real-world-inspired dog experiments do not establish SF, and Callie's apparent ghost visions are not confirmed literal. Do not resurface in any tier. Sources: https://paulsemel.com/exclusive-interview-sundial-author-catriona-ward/ ; https://crimereads.com/why-catriona-ward-decided-to-explore-the-abhorrent-world-of-animal-testing/ ; https://booksbonesbuffy.com/2022/02/17/sundial-by-catriona-ward-review/ ."
+    },
+    {
+      "n": 310,
+      "intake_title": "Sunward",
+      "intake_author": "William Alexander",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Sunward",
+      "book": "Sunward",
+      "leaf": "sentient-robots",
+      "authors": [
+        "William Alexander"
+      ]
+    },
+    {
+      "n": 311,
+      "intake_title": "Terrace Story",
+      "intake_author": "Hilary Leichter",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Terrace Story",
+      "book": "Terrace Story",
+      "leaf": "psychogeographic-fabulation",
+      "authors": [
+        "Hilary Leichter"
+      ]
+    },
+    {
+      "n": 312,
+      "intake_title": "That Self-Same Metal",
+      "intake_author": "Brittany N. Williams",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "That Self-Same Metal",
+      "book": "That Self-Same Metal",
+      "leaf": "renaissance-fantasy",
+      "authors": [
+        "Brittany N. Williams"
+      ]
+    },
+    {
+      "n": 313,
+      "intake_title": "The Adventures of Amina al-Sirafi",
+      "intake_author": "Shannon Chakraborty",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Adventures of Amina al-Sirafi",
+      "book": "The Adventures of Amina al-Sirafi",
+      "leaf": "alt-spice-route-fantasy",
+      "authors": [
+        "Shannon Chakraborty"
+      ]
+    },
+    {
+      "n": 314,
+      "intake_title": "The Angel of Indian Lake",
+      "intake_author": "Stephen Graham Jones",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Don't Fear the Reaper",
+      "book": "The Angel of Indian Lake",
+      "leaf": "vengeance-torment",
+      "authors": [
+        "Stephen Graham Jones"
+      ]
+    },
+    {
+      "n": 315,
+      "intake_title": "The Anomaly",
+      "intake_author": "Herv� Le Tellier & Adriana Hunter",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Anomaly",
+      "book": "The Anomaly",
+      "leaf": "scripted-books-in-books",
+      "authors": [
+        "Hervé Le Tellier"
+      ]
+    },
+    {
+      "n": 316,
+      "intake_title": "The Art of Destiny",
+      "intake_author": "Wesley Chu",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The War Arts Saga",
+      "book": "The Art of Destiny",
+      "leaf": "wuxia",
+      "authors": [
+        "Wesley Chu"
+      ]
+    },
+    {
+      "n": 317,
+      "intake_title": "The Bewitching",
+      "intake_author": "Silvia Moreno-Garcia",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Bewitching",
+      "book": "The Bewitching",
+      "leaf": "occult-institutions",
+      "authors": [
+        "Silvia Moreno-Garcia"
+      ]
+    },
+    {
+      "n": 318,
+      "intake_title": "The Blue, Beautiful World",
+      "intake_author": "Karen Lord",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Blue, Beautiful World",
+      "book": "The Blue, Beautiful World",
+      "leaf": "near-future-first-contact",
+      "authors": [
+        "Karen Lord"
+      ]
+    },
+    {
+      "n": 319,
+      "intake_title": "The Bog Wife",
+      "intake_author": "Kay Chronister",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Bog Wife",
+      "book": "The Bog Wife",
+      "leaf": "domestic-fantasy",
+      "authors": [
+        "Kay Chronister"
+      ]
+    },
+    {
+      "n": 320,
+      "intake_title": "The Bone Orchard",
+      "intake_author": "Sara A. Mueller",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Bone Orchard",
+      "book": "The Bone Orchard",
+      "leaf": "early-modern-dynastic-intrigue",
+      "authors": [
+        "Sara A. Mueller"
+      ]
+    },
+    {
+      "n": 321,
+      "intake_title": "The Book Censor’s Library",
+      "intake_author": "Bothayna Al-Essa",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book Censor’s Library",
+      "book": "The Book Censor’s Library",
+      "leaf": "written-worlds",
+      "authors": [
+        "Bothayna Al-Essa"
+      ]
+    },
+    {
+      "n": 322,
+      "intake_title": "The Book Eaters",
+      "intake_author": "Sunyi Dean",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book Eaters",
+      "book": "The Book Eaters",
+      "leaf": "vampire-fringe",
+      "authors": [
+        "Sunyi Dean"
+      ]
+    },
+    {
+      "n": 323,
+      "intake_title": "The Book of Doors",
+      "intake_author": "Gareth Brown",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book of Doors",
+      "book": "The Book of Doors",
+      "leaf": "uncanny-thresholds",
+      "authors": [
+        "Gareth Brown"
+      ]
+    },
+    {
+      "n": 324,
+      "intake_title": "The Book of Gold",
+      "intake_author": "Ruth Frances Long",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book of Gold",
+      "book": "The Book of Gold",
+      "leaf": "alt-flintlock-fantasy",
+      "authors": [
+        "Ruth Frances Long"
+      ]
+    },
+    {
+      "n": 325,
+      "intake_title": "The Book of Guilt",
+      "intake_author": "Catherine Chidgey",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book of Guilt",
+      "book": "The Book of Guilt",
+      "leaf": "alt-postwar",
+      "authors": [
+        "Catherine Chidgey"
+      ]
+    },
+    {
+      "n": 326,
+      "intake_title": "The Book of Records",
+      "intake_author": "Madeleine Thien",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book of Records",
+      "book": "The Book of Records",
+      "leaf": "absurdist-constructed-realities",
+      "authors": [
+        "Madeleine Thien"
+      ]
+    },
+    {
+      "n": 327,
+      "intake_title": "The Briar Book of the Dead",
+      "intake_author": "A.G. Slatter",
+      "status": "held",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 328,
+      "intake_title": "The Bruising of Qilwa",
+      "intake_author": "Naseem Jamnia",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Bruising of Qilwa",
+      "book": "The Bruising of Qilwa",
+      "leaf": "khayal",
+      "authors": [
+        "Naseem Jamnia"
+      ]
+    },
+    {
+      "n": 329,
+      "intake_title": "The Candy House",
+      "intake_author": "Jennifer Egan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Candy House",
+      "book": "The Candy House",
+      "leaf": "unmoored-selves",
+      "authors": [
+        "Jennifer Egan"
+      ]
+    },
+    {
+      "n": 330,
+      "intake_title": "The Cartographers",
+      "intake_author": "Peng Shepherd",
+      "status": "held",
+      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+    },
+    {
+      "n": 331,
+      "intake_title": "The Cautious Traveller’s Guide to the Wastelands",
+      "intake_author": "Sarah Brooks",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Cautious Traveller’s Guide to the Wastelands",
+      "book": "The Cautious Traveller’s Guide to the Wastelands",
+      "leaf": "monsters-in-gaslight",
+      "authors": [
+        "Sarah Brooks"
+      ]
+    },
+    {
+      "n": 332,
+      "intake_title": "The Circumference of the World",
+      "intake_author": "Lavie Tidhar",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Circumference of the World",
+      "book": "The Circumference of the World",
+      "leaf": "written-worlds",
+      "authors": [
+        "Lavie Tidhar"
+      ]
+    },
+    {
+      "n": 333,
+      "intake_title": "The Crimson Road",
+      "intake_author": "A.G. Slatter",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Crimson Road",
+      "book": "The Crimson Road",
+      "leaf": "dark-quest-fantasy",
+      "authors": [
+        "A.G. Slatter"
+      ]
+    },
+    {
+      "n": 334,
+      "intake_title": "The Deep Sky",
+      "intake_author": "Yume Kitasei",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Deep Sky",
+      "book": "The Deep Sky",
+      "leaf": "generation-starships",
+      "authors": [
+        "Yume Kitasei"
+      ]
+    },
+    {
+      "n": 335,
+      "intake_title": "The Deluge",
+      "intake_author": "Stephen Markley",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Deluge",
+      "book": "The Deluge",
+      "leaf": "climate-breakdown",
+      "authors": [
+        "Stephen Markley"
+      ]
+    },
+    {
+      "n": 336,
+      "intake_title": "The Devil Takes You Home",
+      "intake_author": "Gabino Iglesias",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Devil Takes You Home",
+      "book": "The Devil Takes You Home",
+      "leaf": "postcolonial-gothic",
+      "authors": [
+        "Gabino Iglesias"
+      ]
+    },
+    {
+      "n": 337,
+      "intake_title": "The Doloriad",
+      "intake_author": "Missouri Williams",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Doloriad",
+      "book": "The Doloriad",
+      "leaf": "terminal-wastelands",
+      "authors": [
+        "Missouri Williams"
+      ]
+    },
+    {
+      "n": 338,
+      "intake_title": "The Embroidered Book",
+      "intake_author": "Kate Heartfield",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Embroidered Book",
+      "book": "The Embroidered Book",
+      "leaf": "secret-history",
+      "authors": [
+        "Kate Heartfield"
+      ]
+    },
+    {
+      "n": 339,
+      "intake_title": "The Essence",
+      "intake_author": "Dave Hutchinson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Essence",
+      "book": "The Essence",
+      "leaf": "social-science-fiction",
+      "authors": [
+        "Dave Hutchinson"
+      ]
+    },
+    {
+      "n": 340,
+      "intake_title": "The Executioners Three",
+      "intake_author": "Susan Dennard",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Executioners Three",
+      "book": "The Executioners Three",
+      "leaf": "vengeful-spirits",
+      "authors": [
+        "Susan Dennard"
+      ]
+    },
+    {
+      "n": 341,
+      "intake_title": "The Fae Keeper",
+      "intake_author": "H.E. Edgmon",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Witch King",
+      "book": "The Fae Keeper",
+      "leaf": "fae-founders",
+      "authors": [
+        "H.E. Edgmon"
+      ]
+    },
+    {
+      "n": 342,
+      "intake_title": "The Familiar",
+      "intake_author": "Leigh Bardugo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Familiar",
+      "book": "The Familiar",
+      "leaf": "renaissance-fantasy",
+      "authors": [
+        "Leigh Bardugo"
+      ]
+    },
+    {
+      "n": 343,
+      "intake_title": "The Fervor",
+      "intake_author": "Alma Katsu",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Fervor",
+      "book": "The Fervor",
+      "leaf": "wwii-fantasy",
+      "authors": [
+        "Alma Katsu"
+      ]
+    },
+    {
+      "n": 344,
+      "intake_title": "The Fox Wife",
+      "intake_author": "Yangsze Choo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Fox Wife",
+      "book": "The Fox Wife",
+      "leaf": "monsters-in-gaslight",
+      "authors": [
+        "Yangsze Choo"
+      ]
+    },
+    {
+      "n": 345,
+      "intake_title": "The Garden of Delights",
+      "intake_author": "Amal Singh",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Garden of Delights",
+      "book": "The Garden of Delights",
+      "leaf": "cozy-fantasy",
+      "authors": [
+        "Amal Singh"
+      ]
+    },
+    {
+      "n": 346,
+      "intake_title": "The Genesis of Misery",
+      "intake_author": "Neon Yang",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Genesis of Misery",
+      "book": "The Genesis of Misery",
+      "leaf": "theological-space-opera",
+      "authors": [
+        "Neon Yang"
+      ]
+    },
+    {
+      "n": 347,
+      "intake_title": "The Hacienda",
+      "intake_author": "Isabel Cañas",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Hacienda",
+      "book": "The Hacienda",
+      "leaf": "housebound",
+      "authors": [
+        "Isabel Cañas"
+      ]
+    },
+    {
+      "n": 348,
+      "intake_title": "The Honeys",
+      "intake_author": "Ryan La Sala",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Honeys",
+      "book": "The Honeys",
+      "leaf": "folk-horror",
+      "authors": [
+        "Ryan La Sala"
+      ]
+    },
+    {
+      "n": 349,
+      "intake_title": "The Immortal King Rao",
+      "intake_author": "Vauhini Vara",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Immortal King Rao",
+      "book": "The Immortal King Rao",
+      "leaf": "terms-of-service",
+      "authors": [
+        "Vauhini Vara"
+      ]
+    },
+    {
+      "n": 350,
+      "intake_title": "The Invisible Hotel",
+      "intake_author": "Yeji Y. Ham",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Invisible Hotel",
+      "book": "The Invisible Hotel",
+      "leaf": "unholy-halls",
+      "authors": [
+        "Yeji Y. Ham"
+      ]
+    },
+    {
+      "n": 351,
+      "intake_title": "The Isle in the Silver Sea",
+      "intake_author": "Tasha Suri",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Isle in the Silver Sea",
+      "book": "The Isle in the Silver Sea",
+      "leaf": "arthur-returned",
+      "authors": [
+        "Tasha Suri"
+      ]
+    },
+    {
+      "n": 352,
+      "intake_title": "The Jaguar Mask",
+      "intake_author": "Michael J. Deluca",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Jaguar Mask",
+      "book": "The Jaguar Mask",
+      "leaf": "dark-magical-realism",
+      "authors": [
+        "Michael J. DeLuca"
+      ]
+    },
+    {
+      "n": 353,
+      "intake_title": "The Keeper's Six",
+      "intake_author": "Kate Elliott",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Keeper's Six",
+      "book": "The Keeper's Six",
+      "leaf": "multiverse-fantasy",
+      "authors": [
+        "Kate Elliott"
+      ]
+    },
+    {
+      "n": 354,
+      "intake_title": "The Keeper’s Six",
+      "intake_author": "Kate Elliott",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Keeper's Six",
+      "book": "The Keeper's Six",
+      "leaf": "multiverse-fantasy",
+      "authors": [
+        "Kate Elliott"
+      ]
+    },
+    {
+      "n": 355,
+      "intake_title": "The Kindred",
+      "intake_author": "Alechia Dow",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Kindred",
+      "book": "The Kindred",
+      "leaf": "space-romance",
+      "authors": [
+        "Alechia Dow"
+      ]
+    },
+    {
+      "n": 356,
+      "intake_title": "The King Must Die",
+      "intake_author": "Kemi Ashing-Giwa",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The King Must Die",
+      "book": "The King Must Die",
+      "leaf": "sword-and-planet",
+      "authors": [
+        "Kemi Ashing-Giwa"
+      ]
+    },
+    {
+      "n": 357,
+      "intake_title": "The Knife and the Serpent",
+      "intake_author": "Tim Pratt",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Knife and the Serpent",
+      "book": "The Knife and the Serpent",
+      "leaf": "multiverse-war",
+      "authors": [
+        "Tim Pratt"
+      ]
+    },
+    {
+      "n": 358,
+      "intake_title": "The Last Hour Between Worlds",
+      "intake_author": "Melissa Caruso",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Last Hour Between Worlds",
+      "book": "The Last Hour Between Worlds",
+      "leaf": "time-magic",
+      "authors": [
+        "Melissa Caruso"
+      ]
+    },
+    {
+      "n": 359,
+      "intake_title": "The Last Storm",
+      "intake_author": "Tim Lebbon",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Last Storm",
+      "book": "The Last Storm",
+      "leaf": "world-bleeds",
+      "authors": [
+        "Tim Lebbon"
+      ]
+    },
+    {
+      "n": 360,
+      "intake_title": "The Leaving Room",
+      "intake_author": "Amber McBride",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Leaving Room",
+      "book": "The Leaving Room",
+      "leaf": "surreal-afterlife",
+      "authors": [
+        "Amber McBride"
+      ]
+    },
+    {
+      "n": 361,
+      "intake_title": "The Legend of Charlie Fish",
+      "intake_author": "Josh Rountree",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Legend of Charlie Fish",
+      "book": "The Legend of Charlie Fish",
+      "leaf": "monsters-in-gaslight",
+      "authors": [
+        "Josh Rountree"
+      ]
+    },
+    {
+      "n": 362,
+      "intake_title": "The Library at Hellebore",
+      "intake_author": "Cassandra Khaw",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Library at Hellebore",
+      "book": "The Library at Hellebore",
+      "leaf": "unholy-halls",
+      "authors": [
+        "Cassandra Khaw"
+      ]
+    },
+    {
+      "n": 363,
+      "intake_title": "The Library of Broken Worlds",
+      "intake_author": "Alaya Dawn Johnson",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Library of Broken Worlds",
+      "book": "The Library of Broken Worlds",
+      "leaf": "theological-space-opera",
+      "authors": [
+        "Alaya Dawn Johnson"
+      ]
+    },
+    {
+      "n": 364,
+      "intake_title": "The Maid and the Crocodile",
+      "intake_author": "Jordan Ifueko",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Maid and the Crocodile",
+      "book": "The Maid and the Crocodile",
+      "leaf": "romantasy",
+      "authors": [
+        "Jordan Ifueko"
+      ]
+    },
+    {
+      "n": 365,
+      "intake_title": "The Making of Yolanda la Bruja",
+      "intake_author": "Lorraine Avila",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Making of Yolanda la Bruja",
+      "book": "The Making of Yolanda la Bruja",
+      "leaf": "occult-bloodline",
+      "authors": [
+        "Lorraine Avila"
+      ]
+    },
+    {
+      "n": 366,
+      "intake_title": "The Marigold",
+      "intake_author": "Andrew F. Sullivan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Marigold",
+      "book": "The Marigold",
+      "leaf": "fungal-horror",
+      "authors": [
+        "Andrew F. Sullivan"
+      ]
+    },
+    {
+      "n": 367,
+      "intake_title": "The Melancholy of Untold History",
+      "intake_author": "Minsoo Kang",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Melancholy of Untold History",
+      "book": "The Melancholy of Untold History",
+      "leaf": "told-worlds",
+      "authors": [
+        "Minsoo Kang"
+      ]
+    },
+    {
+      "n": 368,
+      "intake_title": "The Midnight Shift",
+      "intake_author": "Cheon Seon-Ran",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Midnight Shift",
+      "book": "The Midnight Shift",
+      "leaf": "occult-police-fiction",
+      "authors": [
+        "Cheon Seon-ran"
+      ]
+    },
+    {
+      "n": 369,
+      "intake_title": "The Midnight Timetable",
+      "intake_author": "Bora Chung",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Midnight Timetable",
+      "book": "The Midnight Timetable",
+      "leaf": "haunted-objects",
+      "authors": [
+        "Bora Chung"
+      ]
+    },
+    {
+      "n": 370,
+      "intake_title": "The Moonday Letters",
+      "intake_author": "Emmi Itäranta",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Moonday Letters",
+      "book": "The Moonday Letters",
+      "leaf": "space-colonies",
+      "authors": [
+        "Emmi Itäranta"
+      ]
+    },
+    {
+      "n": 371,
+      "intake_title": "The Moth Girl",
+      "intake_author": "Heather Kamins",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Moth Girl",
+      "book": "The Moth Girl",
+      "leaf": "flesh-of-marvel",
+      "authors": [
+        "Heather Kamins"
+      ]
+    },
+    {
+      "n": 372,
+      "intake_title": "The Nightward",
+      "intake_author": "R.S.A. Garcia",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Nightward",
+      "book": "The Nightward",
+      "leaf": "revisionist-quest-fantasy",
+      "authors": [
+        "R.S.A. Garcia"
+      ]
+    },
+    {
+      "n": 373,
+      "intake_title": "The Oleander Sword",
+      "intake_author": "Tasha Suri",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Jasmine Throne",
+      "book": "The Oleander Sword",
+      "leaf": "samizdat-fantasy",
+      "authors": [
+        "Tasha Suri"
+      ]
+    },
+    {
+      "n": 374,
+      "intake_title": "The Pallbearers Club",
+      "intake_author": "Paul Tremblay",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Pallbearers Club",
+      "book": "The Pallbearers Club",
+      "leaf": "vampire-fringe",
+      "authors": [
+        "Paul Tremblay"
+      ]
+    },
+    {
+      "n": 375,
+      "intake_title": "The Paradox Hotel",
+      "intake_author": "Rob Hart",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Paradox Hotel",
+      "book": "The Paradox Hotel",
+      "leaf": "time-agency-revival",
+      "authors": [
+        "Rob Hart"
+      ]
+    },
+    {
+      "n": 376,
+      "intake_title": "The Parliament",
+      "intake_author": "Aimee Pokwatka",
+      "status": "excluded",
+      "reason": "Excluded as unconfirmed speculative by curator original iMessage 2026-09-30 12:05:24: \"A, next\", answering option A exclude. Author calls the outer owl siege maybe-supernatural; Locus says its cause stays unexplained through the ending. No confirmed magical/engineered/hidden-species owls. The explicit fantasy is the embedded Silent Queen, which does not admit an unconfirmed outer frame under the Death of the Author precedent. No claim of an ending debunk. Sources: https://paulsemel.com/exclusive-interview-the-parliament-author-aimee-pokwatka/ ; https://locusmag.com/review/alexandra-pierce-reviews-the-parliament-by-aimee-pokwatka/ ; https://locusmag.com/review/colleen-mondor-reviews-the-parliament-by-aimee-pokwatka/ . Do not resurface in another tier."
+    },
+    {
+      "n": 377,
+      "intake_title": "The Path of Thorns",
+      "intake_author": "A.G. Slatter",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Path of Thorns",
+      "book": "The Path of Thorns",
+      "leaf": "dark-realms",
+      "authors": [
+        "A.G. Slatter"
+      ]
+    },
+    {
+      "n": 378,
+      "intake_title": "The Place of Shells",
+      "intake_author": "Mai Ishizawa",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Place of Shells",
+      "book": "The Place of Shells",
+      "leaf": "called-back",
+      "authors": [
+        "Mai Ishizawa"
+      ]
+    },
+    {
+      "n": 379,
+      "intake_title": "The Pomegranate Gate",
+      "intake_author": "Ariel Kaplan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Pomegranate Gate",
+      "book": "The Pomegranate Gate",
+      "leaf": "mythic-power-struggle",
+      "authors": [
+        "Ariel Kaplan"
+      ]
+    },
+    {
+      "n": 380,
+      "intake_title": "The Possession of Alba Díaz",
+      "intake_author": "Isabel Cañas",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Possession of Alba Díaz",
+      "book": "The Possession of Alba Díaz",
+      "leaf": "demonic-torment",
+      "authors": [
+        "Isabel Cañas"
+      ]
+    },
+    {
+      "n": 381,
+      "intake_title": "The Possibilities",
+      "intake_author": "Yael Goldstein-Love",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Possibilities",
+      "book": "The Possibilities",
+      "leaf": "multiverse-odyssey",
+      "authors": [
+        "Yael Goldstein-Love"
+      ]
+    },
+    {
+      "n": 382,
+      "intake_title": "The Red Scholar’s Wake",
+      "intake_author": "Aliette de Bodard",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Red Scholar's Wake",
+      "book": "The Red Scholar's Wake",
+      "leaf": "spaceship-drama",
+      "authors": [
+        "Aliette de Bodard"
+      ]
+    },
+    {
+      "n": 383,
+      "intake_title": "The Repeat Room",
+      "intake_author": "Jesse Ball",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Repeat Room",
+      "book": "The Repeat Room",
+      "leaf": "mind-models",
+      "authors": [
+        "Jesse Ball"
+      ]
+    },
+    {
+      "n": 384,
+      "intake_title": "The Rose Field",
+      "intake_author": "Philip Pullman",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Book of Dust",
+      "book": "The Rose Field",
+      "leaf": "multiverse-fantasy",
+      "authors": [
+        "Philip Pullman"
+      ]
+    },
+    {
+      "n": 385,
+      "intake_title": "The Scholar and the Last Faerie Door",
+      "intake_author": "H.G. Parry",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Scholar and the Last Faerie Door",
+      "book": "The Scholar and the Last Faerie Door",
+      "leaf": "magic-school",
+      "authors": [
+        "H.G. Parry"
+      ]
+    },
+    {
+      "n": 386,
+      "intake_title": "The Secret Market of the Dead",
+      "intake_author": "Giovanni De Feo",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Secret Market of the Dead",
+      "book": "The Secret Market of the Dead",
+      "leaf": "otherworld-fantasy",
+      "authors": [
+        "Giovanni De Feo"
+      ]
+    },
+    {
+      "n": 387,
+      "intake_title": "The Shadow Sister",
+      "intake_author": "Lily Meade",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Shadow Sister",
+      "book": "The Shadow Sister",
+      "leaf": "occult-bloodline",
+      "authors": [
+        "Lily Meade"
+      ]
+    },
+    {
+      "n": 388,
+      "intake_title": "The Silverberg Business",
+      "intake_author": "Robert Freeman Wexler",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Silverberg Business",
+      "book": "The Silverberg Business",
+      "leaf": "weird-west-fantasy",
+      "authors": [
+        "Robert Freeman Wexler"
+      ]
+    },
+    {
+      "n": 389,
+      "intake_title": "The Singular Life of Aria Patel",
+      "intake_author": "Samira Ahmed",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Singular Life of Aria Patel",
+      "book": "The Singular Life of Aria Patel",
+      "leaf": "multiverse-odyssey",
+      "authors": [
+        "Samira Ahmed"
+      ]
+    },
+    {
+      "n": 390,
+      "intake_title": "The Siren, the Song, and the Spy",
+      "intake_author": "Maggie Tokuda-Hall",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Siren, the Song, and the Spy",
+      "book": "The Siren, the Song, and the Spy",
+      "leaf": "insurgent-fantasy",
+      "authors": [
+        "Maggie Tokuda-Hall"
+      ]
+    },
+    {
+      "n": 391,
+      "intake_title": "The Sky on Fire",
+      "intake_author": "Jenn Lyons",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Sky on Fire",
+      "book": "The Sky on Fire",
+      "leaf": "caper-fantasy",
+      "authors": [
+        "Jenn Lyons"
+      ]
+    },
+    {
+      "n": 392,
+      "intake_title": "The Sovereign",
+      "intake_author": "C.L. Clark",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Unbroken",
+      "book": "The Sovereign",
+      "leaf": "insurgent-fantasy",
+      "authors": [
+        "C.L. Clark"
+      ]
+    },
+    {
+      "n": 393,
+      "intake_title": "The Spear Cuts Through Water",
+      "intake_author": "Simon Jimenez",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Spear Cuts Through Water",
+      "book": "The Spear Cuts Through Water",
+      "leaf": "invented-mythology",
+      "authors": [
+        "Simon Jimenez"
+      ]
+    },
+    {
+      "n": 394,
+      "intake_title": "The Spice Gate",
+      "intake_author": "Prashanth Srivatsa",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Spice Gate",
+      "book": "The Spice Gate",
+      "leaf": "emancipation-fantasy",
+      "authors": [
+        "Prashanth Srivatsa"
+      ]
+    },
+    {
+      "n": 395,
+      "intake_title": "The Spirit Bares Its Teeth",
+      "intake_author": "Andrew Joseph White",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Spirit Bares Its Teeth",
+      "book": "The Spirit Bares Its Teeth",
+      "leaf": "ghost-speakers",
+      "authors": [
+        "Andrew Joseph White"
+      ]
+    },
+    {
+      "n": 396,
+      "intake_title": "The Splinter in the Sky",
+      "intake_author": "Kemi Ashing-Giwa",
+      "status": "represented",
+      "action": "add",
+      "card": "The Splinter in the Sky",
+      "leaf": "interstellar-court-politics",
+      "sources": [
+        "https://www.simonandschuster.net/books/The-Splinter-in-the-Sky/Kemi-Ashing-Giwa/9781668008478",
+        "https://reactormag.com/book-review-the-splinter-in-the-sky-by-kemi-ashing-giwa/"
+      ]
+    },
+    {
+      "n": 397,
+      "intake_title": "The Staircase in the Woods",
+      "intake_author": "Chuck Wendig",
+      "status": "held",
+      "reason": "Parent queued Uncanny thresholds vs Unholy halls ruling."
+    },
+    {
+      "n": 398,
+      "intake_title": "The Strange",
+      "intake_author": "Nathan Ballingrud",
+      "status": "represented",
+      "action": "add",
+      "card": "The Strange",
+      "leaf": "deep-alterations",
+      "sources": [
+        "https://locusmag.com/review/sean-dowie-reviews-the-strange-by-nathan-ballingrud/",
+        "https://www.publishersweekly.com/9781534449954",
+        "https://www.grimdarkmagazine.com/review-the-strange-by-nathan-ballingrud/"
+      ]
+    },
+    {
+      "n": 399,
+      "intake_title": "The Tapestry of Time",
+      "intake_author": "Kate Heartfield",
+      "status": "represented",
+      "action": "add",
+      "card": "The Tapestry of Time",
+      "leaf": "wwii-fantasy",
+      "sources": [
+        "https://locusmag.com/review/the-tapestry-of-time-by-kate-heartfield-review-by-gary-k-wolfe/",
+        "https://www.harperreach.com/products/the-tapestry-of-time-kate-heartfield-9780008567811/"
+      ]
+    },
+    {
+      "n": 400,
+      "intake_title": "The Ten Percent Thief",
+      "intake_author": "Lavanya Lakshminarayan",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Ten Percent Thief",
+      "book": "The Ten Percent Thief",
+      "leaf": "terms-of-service",
+      "authors": [
+        "Lavanya Lakshminarayan"
+      ]
+    },
+    {
+      "n": 401,
+      "intake_title": "The Thick and the Lean",
+      "intake_author": "Chana Porter",
+      "status": "represented",
+      "action": "add",
+      "card": "The Thick and the Lean",
+      "leaf": "space-dystopias",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/chana-porter/the-thick-and-the-lean/",
+        "https://www.lightspeedmagazine.com/nonfiction/book-review-the-thick-and-the-lean-by-chana-porter/",
+        "https://www.eater.com/23690240/chana-porter-interview-the-thick-and-the-lean-sci-fi-novel-diet-culture-cults"
+      ]
+    },
+    {
+      "n": 402,
+      "intake_title": "The Thing in the Snow",
+      "intake_author": "Sean Adams",
+      "status": "represented",
+      "action": "add",
+      "card": "The Thing in the Snow",
+      "leaf": "absurdist-constructed-realities",
+      "sources": [
+        "https://lithub.com/sean-adams-melding-corporate-office-culture-into-a-dystopian-horror-novel/",
+        "https://locusmag.com/review/ian-mond-reviews-the-thing-in-the-snow-by-sean-adams/"
+      ]
+    },
+    {
+      "n": 403,
+      "intake_title": "The Thousand Earths",
+      "intake_author": "Stephen Baxter",
+      "status": "represented",
+      "action": "add",
+      "card": "The Thousand Earths",
+      "leaf": "hard-time-travel",
+      "sources": [
+        "https://www.orionbooks.co.uk/titles/stephen-baxter/the-thousand-earths/9781473228924/",
+        "https://locusmag.com/review/russell-letson-reviews-the-thousand-earths-by-stephen-baxter/"
+      ]
+    },
+    {
+      "n": 404,
+      "intake_title": "The Tongue Trade",
+      "intake_author": "Michael J. Martineck",
+      "status": "held",
+      "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
+    },
+    {
+      "n": 405,
+      "intake_title": "The Transition",
+      "intake_author": "Logan-Ashley Kisner",
+      "status": "held",
+      "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
+    },
+    {
+      "n": 406,
+      "intake_title": "The Unbalancing",
+      "intake_author": "R.B. Lemberg",
+      "status": "represented",
+      "action": "add",
+      "card": "The Unbalancing",
+      "leaf": "romantasy",
+      "sources": [
+        "https://tachyonpublications.com/product/the-unbalancing/",
+        "https://locusmag.com/review/gary-k-wolfe-reviews-the-unbalancing-by-r-b-lemberg/",
+        "https://www.publishersweekly.com/9781616963804"
+      ]
+    },
+    {
+      "n": 407,
+      "intake_title": "The Underhistory",
+      "intake_author": "Kaaron Warren",
+      "status": "represented",
+      "action": "add",
+      "card": "The Underhistory",
+      "leaf": "alt-postwar",
+      "sources": [
+        "https://locusmag.com/review/ian-mond-reviews-the-underhistory-by-kaaron-warren/",
+        "https://mondyboy.com/?p=10026",
+        "https://www.hachette.com.au/kaaron-warren/the-underhistory"
+      ]
+    },
+    {
+      "n": 408,
+      "intake_title": "The Underwood Tapes",
+      "intake_author": "Amanda DeWitt",
+      "status": "represented",
+      "action": "add",
+      "card": "The Underwood Tapes",
+      "leaf": "time-bleeds",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/amanda-dewitt/the-underwood-tapes/",
+        "https://www.peachtreebooks.com/book/the-underwood-tapes/"
+      ]
+    },
+    {
+      "n": 409,
+      "intake_title": "The Unmothers",
+      "intake_author": "Leslie J. Anderson",
+      "status": "represented",
+      "action": "add",
+      "card": "The Unmothers",
+      "leaf": "folk-horror",
+      "sources": [
+        "https://www.publishersweekly.com/9781683694298",
+        "https://www.libraryjournal.com/review/the-unmothers-1807841"
+      ]
+    },
+    {
+      "n": 410,
+      "intake_title": "The Unworthy",
+      "intake_author": "Agustina Bazterrica",
+      "status": "represented",
+      "action": "add",
+      "card": "The Unworthy",
+      "leaf": "patriarchal-dystopias",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/agustina-bazterrica/the-unworthy/",
+        "https://www.simonandschuster.com/books/The-Unworthy/Agustina-Bazterrica/9781668051887",
+        "https://www.penguinrandomhouse.com/books/748934/las-indignas--the-unworthy-by-agustina-bazterrica/"
+      ]
+    },
+    {
+      "n": 411,
+      "intake_title": "The Village at the Edge of Noon",
+      "intake_author": "Darya Bobyleva",
+      "status": "represented",
+      "action": "add",
+      "card": "The Village at the Edge of Noon",
+      "leaf": "cursed-towns",
+      "sources": [
+        "https://locusmag.com/review/the-village-at-the-edge-of-noon-by-darya-bobyleva-review-by-paul-di-filippo/",
+        "https://wiedling-litag.com/docs/Expos/Bobyleva-Vyurki-expo.pdf"
+      ]
+    },
+    {
+      "n": 412,
+      "intake_title": "The Warden",
+      "intake_author": "Daniel M. Ford",
+      "status": "represented",
+      "action": "add",
+      "card": "The Warden",
+      "leaf": "mage-hero",
+      "sources": [
+        "https://us.macmillan.com/books/9781250815651/thewarden/",
+        "https://locusmag.com/review/adrienne-martini-reviews-the-warden-by-daniel-m-ford/",
+        "https://us.macmillan.com/series/thewardenseries"
+      ]
+    },
+    {
+      "n": 413,
+      "intake_title": "The Warm Hands of Ghosts",
+      "intake_author": "Katherine Arden",
+      "status": "represented",
+      "action": "add",
+      "card": "The Warm Hands of Ghosts",
+      "leaf": "wwi-fantasy",
+      "sources": [
+        "https://locusmag.com/review/colleen-mondor-reviews-the-warm-hands-of-ghosts-by-katherine-arden/",
+        "https://www.bookreporter.com/reviews/the-warm-hands-of-ghosts"
+      ]
+    },
+    {
+      "n": 414,
+      "intake_title": "The Wax Child",
+      "intake_author": "Olga Ravn",
+      "status": "held",
+      "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
+    },
+    {
+      "n": 415,
+      "intake_title": "The West Passage",
+      "intake_author": "Jared Pechaček",
+      "status": "represented",
+      "action": "add",
+      "card": "The West Passage",
+      "leaf": "isolationist-fantasy",
+      "sources": [
+        "https://locusmag.com/review/jake-casella-brookins-reviews-the-west-passage-by-jared-pechacek/",
+        "https://www.kirkusreviews.com/book-reviews/jared-pechacek/the-west-passage/"
+      ]
+    },
+    {
+      "n": 416,
+      "intake_title": "The Wings Upon Her Back",
+      "intake_author": "Samantha Mills",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "The Wings Upon Her Back",
+      "book": "The Wings Upon Her Back",
+      "leaf": "hard-science-fantasy",
+      "authors": [
+        "Samantha Mills"
+      ]
+    },
+    {
+      "n": 417,
+      "intake_title": "The Works of Vermin",
+      "intake_author": "Hiron Ennes",
+      "status": "held",
+      "reason": "New Weird endorsement, but root scientific biology vs literal magic remains unresolved."
+    },
+    {
+      "n": 418,
+      "intake_title": "There Is No Antimemetics Division",
+      "intake_author": "QNTM",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "There Is No Antimemetics Division",
+      "book": "There Is No Antimemetics Division",
+      "leaf": "mind-models",
+      "authors": [
+        "qntm"
+      ]
+    },
+    {
+      "n": 419,
+      "intake_title": "These Burning Stars",
+      "intake_author": "Bethany Jacobs",
+      "status": "represented",
+      "action": "add",
+      "card": "These Burning Stars",
+      "leaf": "interstellar-court-politics",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/bethany-jacobs/these-burning-stars/",
+        "https://locusmag.com/review/liz-bourke-reviews-these-burning-stars-by-bethany-jacobs/",
+        "https://www.hachettebookgroup.com/titles/bethany-jacobs/these-burning-stars/9780316463324/"
+      ]
+    },
+    {
+      "n": 420,
+      "intake_title": "They Bloom at Night",
+      "intake_author": "Trang Thanh Tran",
+      "status": "held",
+      "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
+    },
+    {
+      "n": 421,
+      "intake_title": "Thirteen Ways to Kill Lulabelle Rock",
+      "intake_author": "Maud Woolf",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Thirteen Ways to Kill Lulabelle Rock",
+      "book": "Thirteen Ways to Kill Lulabelle Rock",
+      "leaf": "genetic-engineering",
+      "authors": [
+        "Maud Woolf"
+      ]
+    },
+    {
+      "n": 422,
+      "intake_title": "Threads That Bind",
+      "intake_author": "Kika Hatzopoulou",
+      "status": "represented",
+      "action": "add",
+      "card": "Threads That Bind",
+      "leaf": "fantasy-mystery",
+      "sources": [
+        "https://locusmag.com/review/colleen-mondor-reviews-threads-that-bind-by-kika-hatzopoulou/",
+        "https://www.kirkusreviews.com/book-reviews/kika-hatzopoulou/threads-that-bind/",
+        "https://www.penguinrandomhouse.com/books/713613/hearts-that-cut-by-kika-hatzopoulou/"
+      ]
+    },
+    {
+      "n": 423,
+      "intake_title": "Tim Te Maro and the Subterranean Heartsick Blues",
+      "intake_author": "H.S. Valley",
+      "status": "represented",
+      "action": "add",
+      "card": "Tim Te Maro and the Subterranean Heartsick Blues",
+      "leaf": "magic-school",
+      "sources": [
+        "https://www.publishersweekly.com/9781760508753",
+        "https://thissplendidshambles.com/tim-te-maro-and-the-subterranean-heartsick-blues/"
+      ]
+    },
+    {
+      "n": 424,
+      "intake_title": "Titanium Noir",
+      "intake_author": "Nick Harkaway",
+      "status": "represented",
+      "action": "add",
+      "card": "Titanium Noir",
+      "leaf": "remade-bodies",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/710281/titanium-noir-by-nick-harkaway/",
+        "https://www.publishersweekly.com/9780593535363",
+        "https://www.newscientist.com/article/2374894-titanium-noir-review-gripping-philosophical-science-fiction/"
+      ]
+    },
+    {
+      "n": 425,
+      "intake_title": "To Shape a Dragon's Breath",
+      "intake_author": "Moniquill Blackgoose",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "To Shape a Dragon's Breath",
+      "book": "To Shape a Dragon's Breath",
+      "leaf": "insurgent-fantasy",
+      "authors": [
+        "Moniquill Blackgoose"
+      ]
+    },
+    {
+      "n": 426,
+      "intake_title": "To Shape a Dragon’s Breath",
+      "intake_author": "Moniquill Blackgoose",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "To Shape a Dragon's Breath",
+      "book": "To Shape a Dragon's Breath",
+      "leaf": "insurgent-fantasy",
+      "authors": [
+        "Moniquill Blackgoose"
+      ]
+    },
+    {
+      "n": 427,
+      "intake_title": "Toward Eternity",
+      "intake_author": "Anton Hur",
+      "status": "represented",
+      "action": "add",
+      "card": "Toward Eternity",
+      "leaf": "remade-bodies",
+      "sources": [
+        "https://locusmag.com/review/jake-casella-brookins-reviews-toward-eternity-by-anton-hur/",
+        "https://www.scientificamerican.com/article/review-in-toward-eternity-people-merge-with-ai-but-cling-to-music-and-poetry/",
+        "https://www.kirkusreviews.com/book-reviews/anton-hur/toward-eternity/"
+      ]
+    },
+    {
+      "n": 428,
+      "intake_title": "Transmentation | Transience",
+      "intake_author": "Darkly Lem",
+      "status": "represented",
+      "action": "add",
+      "card": "Transmentation | Transience",
+      "leaf": "multiverse-war",
+      "sources": [
+        "https://locusmag.com/review/transmentation-transience-by-darkly-lem-review-by-jake-casella-brookins/",
+        "https://locusmag.com/review/transmentation-transience-by-darkly-lem-review-by-alexandra-pierce/"
+      ]
+    },
+    {
+      "n": 429,
+      "intake_title": "Under the Eye of the Big Bird",
+      "intake_author": "Hiromi Kawakami",
+      "status": "represented",
+      "action": "add",
+      "card": "Under the Eye of the Big Bird",
+      "leaf": "remade-bodies",
+      "sources": [
+        "https://softskull.com/books/under-the-eye-of-the-big-bird/",
+        "https://www.theguardian.com/books/2025/jan/02/under-the-eye-of-the-big-bird-by-hiromi-kawakami-review-when-humans-dont-come-first",
+        "https://en.wikipedia.org/wiki/Under_the_Eye_of_the_Big_Bird"
+      ]
+    },
+    {
+      "n": 430,
+      "intake_title": "Unraveller",
+      "intake_author": "Frances Hardinge",
+      "status": "represented",
+      "action": "add",
+      "card": "Unraveller",
+      "leaf": "mage-hero",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/frances-hardinge/unraveller/",
+        "https://locusmag.com/review/alexandra-pierce-reviews-unraveller-by-frances-hardinge/",
+        "https://www.panmacmillan.com/authors/frances-hardinge/unraveller/9781509836970"
+      ]
+    },
+    {
+      "n": 431,
+      "intake_title": "Vampires of El Norte",
+      "intake_author": "Isabel Cañas",
+      "status": "held",
+      "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
+    },
+    {
+      "n": 432,
+      "intake_title": "Vanishing World",
+      "intake_author": "Sayaka Murata",
+      "status": "represented",
+      "action": "add",
+      "card": "Vanishing World",
+      "leaf": "alt-postwar",
+      "sources": [
+        "https://www.publishersweekly.com/9780802164667",
+        "https://groveatlantic.com/book/vanishing-world/",
+        "https://www.theguardian.com/books/2025/apr/30/vanishing-world-by-sayaka-murata-review-a-future-without-sex"
+      ]
+    },
+    {
+      "n": 433,
+      "intake_title": "Waterblack",
+      "intake_author": "Alex Pheby",
+      "status": "represented",
+      "action": "merge",
+      "card": "Mordew",
+      "leaf": "dying-earth",
+      "sources": [
+        "https://locusmag.com/review/waterblack-by-alex-pheby-review-by-ian-mond/"
+      ]
+    },
+    {
+      "n": 434,
+      "intake_title": "We Computers",
+      "intake_author": "Hamid Ismailov",
+      "status": "held",
+      "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
+    },
+    {
+      "n": 435,
+      "intake_title": "We Lived on the Horizon",
+      "intake_author": "Erika Swyler",
+      "status": "represented",
+      "action": "add",
+      "card": "We Lived on the Horizon",
+      "leaf": "sentient-robots",
+      "sources": [
+        "https://www.erikaswyler.com/we-lived-on-the-horizon",
+        "https://locusmag.com/review/we-lived-on-the-horizon-by-erika-swyler-review-by-jake-casella-brookins/",
+        "https://www.kirkusreviews.com/book-reviews/erika-swyler/we-lived-on-the-horizon/"
+      ]
+    },
+    {
+      "n": 436,
+      "intake_title": "We Love You, Bunny",
+      "intake_author": "Mona Awad",
+      "status": "represented",
+      "action": "add",
+      "card": "Bunny",
+      "leaf": "earthly-comic-fantasy",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/mona-awad/bunny/",
+        "https://www.kirkusreviews.com/book-reviews/mona-awad/we-love-you-bunny/",
+        "https://reviewcanada.ca/magazine/2026/04/thats-not-all-folks-review-bunny-we-love-you-bunny/",
+        "https://www.penguinrandomhouse.com/books/576726/bunny-by-mona-awad/"
+      ]
+    },
+    {
+      "n": 437,
+      "intake_title": "Wearing the Lion",
+      "intake_author": "John Wiswell",
+      "status": "represented",
+      "action": "already-in-tree",
+      "card": "Wearing the Lion",
+      "book": "Wearing the Lion",
+      "leaf": "greek-myth-fantasy",
+      "authors": [
+        "John Wiswell"
+      ]
+    },
+    {
+      "n": 438,
+      "intake_title": "What Moves the Dead",
+      "intake_author": "T. Kingfisher",
+      "status": "held",
+      "reason": "1890 scientific fungal Gothic: Period SF era gap; not own-era Proto SF."
+    },
+    {
+      "n": 439,
+      "intake_title": "When Devils Sing",
+      "intake_author": "Xan Kaur",
+      "status": "represented",
+      "action": "add",
+      "card": "When Devils Sing",
+      "leaf": "deal-with-the-devil",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/xan-kaur/when-devils-sing/",
+        "https://www.slj.com/review/when-devils-sing",
+        "https://us.macmillan.com/books/9781250357175/whendevilssing/"
+      ]
+    },
+    {
+      "n": 440,
+      "intake_title": "When the Angels Left the Old Country",
+      "intake_author": "Sacha Lamb",
+      "status": "held",
+      "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
+    },
+    {
+      "n": 441,
+      "intake_title": "Where Echoes Die",
+      "intake_author": "Courtney Gould",
+      "status": "held",
+      "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
+    },
+    {
+      "n": 442,
+      "intake_title": "Where Peace Is Lost",
+      "intake_author": "Valerie Valdes",
+      "status": "represented",
+      "action": "add",
+      "card": "Where Peace Is Lost",
+      "leaf": "space-adventure",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/valerie-valdes/where-peace-is-lost/",
+        "https://www.bookpage.com/reviews/where-peace-is-lost/",
+        "https://www.publishersweekly.com/9780063085930"
+      ]
+    },
+    {
+      "n": 443,
+      "intake_title": "Wicked Problems",
+      "intake_author": "Max Gladstone",
+      "status": "represented",
+      "action": "merge",
+      "card": "Dead Country",
+      "leaf": "technomancy",
+      "sources": [
+        "https://us.macmillan.com/books/9780765395931/wickedproblems/",
+        "https://maxgladstone.com/writing/wicked-problems/"
+      ]
+    },
+    {
+      "n": 444,
+      "intake_title": "Womb City",
+      "intake_author": "Tlotlo Tsamaase",
+      "status": "represented",
+      "action": "add",
+      "card": "Womb City",
+      "leaf": "vengeance-torment",
+      "sources": [
+        "https://locusmag.com/review/ian-mond-reviews-womb-city-by-tlotlo-tsamaase/",
+        "https://reactormag.com/book-review-womb-city-by-tlotlo-tsamaase/",
+        "https://www.tlotlotsamaase.com/womb-city"
+      ]
+    },
+    {
+      "n": 445,
+      "intake_title": "Wrath Goddess Sing",
+      "intake_author": "Maya Deane",
+      "status": "represented",
+      "action": "add",
+      "card": "Wrath Goddess Sing",
+      "leaf": "greek-myth-fantasy",
+      "sources": [
+        "https://www.kirkusreviews.com/book-reviews/maya-deane/wrath-goddess-sing/",
+        "https://www.bookpage.com/reviews/wrath-goddess-sing-review/",
+        "https://www.publishersweekly.com/9780063161184"
+      ]
+    },
+    {
+      "n": 446,
+      "intake_title": "Written on the Dark",
+      "intake_author": "Guy Gavriel Kay",
+      "status": "represented",
+      "action": "add",
+      "card": "Written on the Dark",
+      "leaf": "court-spies",
+      "sources": [
+        "https://locusmag.com/review/written-on-the-dark-by-guy-gavriel-kay-review-by-gary-k-wolfe/",
+        "https://www.penguinrandomhouseretail.com/book/?isbn=9780593953983"
+      ]
+    },
+    {
+      "n": 447,
+      "intake_title": "Ymir",
+      "intake_author": "Rich Larson",
+      "status": "represented",
+      "action": "add",
+      "card": "Ymir",
+      "leaf": "space-adventure",
+      "sources": [
+        "https://www.publishersweekly.com/9780316416580",
+        "https://locusmag.com/review/paul-di-filippo-reviews-ymir-by-rich-larson/"
+      ]
+    }
+  ]
+}
