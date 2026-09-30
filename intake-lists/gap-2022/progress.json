@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 405,
-      "title": "The Transition",
-      "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
-    },
-    {
       "n": 414,
       "title": "The Wax Child",
       "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
@@ -206,11 +201,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 405,
-      "title": "The Transition",
-      "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
-    },
-    {
       "n": 414,
       "title": "The Wax Child",
       "reason": "1621 Denmark: Renaissance vs missing early-modern period boundary."
@@ -260,8 +250,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 431,
-  "represented": 418,
+  "resolved": 432,
+  "represented": 419,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -392,10 +382,8 @@
       "start": 386,
       "end": 405,
       "audited": 20,
-      "resolved": 19,
-      "held": [
-        405
-      ]
+      "resolved": 20,
+      "held": []
     },
     {
       "tier": "locus-only",

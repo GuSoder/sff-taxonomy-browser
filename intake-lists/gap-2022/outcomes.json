@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 418,
+    "represented": 419,
     "excluded": 13,
-    "held": 16
+    "held": 15
   },
   "outcomes": [
     {
@@ -5152,8 +5152,17 @@
       "n": 405,
       "intake_title": "The Transition",
       "intake_author": "Logan-Ashley Kisner",
-      "status": "held",
-      "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
+      "status": "represented",
+      "action": "add",
+      "card": "The Transition",
+      "leaf": "werewolf-fantasy",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/751110/the-transition-by-logan-ashley-kisner/",
+        "https://loganashleykisner.com/the-transition",
+        "https://www.publishersweekly.com/9780593814789",
+        "https://www.kirkusreviews.com/book-reviews/logan-ashley-kisner/the-transition-2/",
+        "https://sf-encyclopedia.com/entry/werewolves"
+      ]
     },
     {
       "n": 406,
