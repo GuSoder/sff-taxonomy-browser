@@ -17,6 +17,23 @@
     "cover_path": "/downloads/tail396.jpg"
   },
   {
+    "n": 397,
+    "title": "The Staircase in the Woods",
+    "authors": [
+      "Chuck Wendig"
+    ],
+    "year": 2025,
+    "action": "add",
+    "leaf": "uncanny-thresholds",
+    "rationale": "Root-down: Speculative fiction -> Fantasy -> Portal fantasy -> Eldritch doors -> Uncanny thresholds. An anchored physical staircase takes the friends out of ordinary reality into a terrifying otherworld; their entry, search and escape make the threshold journey the engine. Whimsical doors and perilous fairy doors fail the register and fairy-logic tests; transporting tomes and spontaneous fantasy rifts fail the portal mechanism. Unholy halls is the genuine alternative for the malevolent dwelling, but the curator explicitly selected Uncanny thresholds on 2026-09-30. Feral house does not fit an evil place. The crossing and return govern over place-dwelling horror.",
+    "sources": [
+      "https://locusmag.com/review/the-staircase-in-the-woods-by-chuck-wendig-review-by-ian-mond/",
+      "https://www.penguinrandomhouse.com/books/646869/the-staircase-in-the-woods-by-chuck-wendig/"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9780593156568",
+    "cover_path": "/downloads/staircase-cover.jpg"
+  },
+  {
     "n": 398,
     "title": "The Strange",
     "authors": [
@@ -118,11 +135,14 @@
   },
   {
     "n": 404,
-    "intake_title": "The Tongue Trade",
-    "intake_author": "Michael J. Martineck",
-    "status": "held",
-    "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap.",
-    "action": "held"
+    "title": "The Tongue Trade",
+    "action": "add",
+    "leaf": "future-social-sf",
+    "rationale": "Root-down: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Future societies -> Future social SF. A century-future Earth society has mutually unintelligible professional dialects; interpreter William Kirst's confidentiality oath traps him in a murder conspiracy. Linguistics and social mediation govern, not a gadget. Modern-day Social science fiction fails its temporal parent; Alien fiction/Earthborn fails browser expectations because this is Earthbound, not human-descended cultures in space. Dystopian-future children, Psionics, Techno fiction, Future war and Utopian fiction do not supply the engine. Future history of Earth fails the sustained-course gate: this is one future investigation. Curator explicitly chose the Future societies umbrella and Future social SF leaf, then Execute on 2026-09-30.",
+    "sources": [
+      "https://locusmag.com/review/the-tongue-trade-by-michael-j-martineck-review-by-paul-di-filippo/",
+      "http://www.edgewebsite.com/books/tonguetrade/tonguetrade-catalog1.html"
+    ]
   },
   {
     "n": 405,
@@ -779,22 +799,5 @@
     ],
     "cover_url": "https://www.publishersweekly.com/cover/9780316416580",
     "cover_path": "/downloads/tail447.jpg"
-  },
-  {
-    "n": 397,
-    "title": "The Staircase in the Woods",
-    "authors": [
-      "Chuck Wendig"
-    ],
-    "year": 2025,
-    "action": "add",
-    "leaf": "uncanny-thresholds",
-    "rationale": "Root-down: Speculative fiction -> Fantasy -> Portal fantasy -> Eldritch doors -> Uncanny thresholds. An anchored physical staircase takes the friends out of ordinary reality into a terrifying otherworld; their entry, search and escape make the threshold journey the engine. Whimsical doors and perilous fairy doors fail the register and fairy-logic tests; transporting tomes and spontaneous fantasy rifts fail the portal mechanism. Unholy halls is the genuine alternative for the malevolent dwelling, but the curator explicitly selected Uncanny thresholds on 2026-09-30. Feral house does not fit an evil place. The crossing and return govern over place-dwelling horror.",
-    "sources": [
-      "https://locusmag.com/review/the-staircase-in-the-woods-by-chuck-wendig-review-by-ian-mond/",
-      "https://www.penguinrandomhouse.com/books/646869/the-staircase-in-the-woods-by-chuck-wendig/"
-    ],
-    "cover_url": "https://www.publishersweekly.com/cover/9780593156568",
-    "cover_path": "/downloads/staircase-cover.jpg"
   }
 ]

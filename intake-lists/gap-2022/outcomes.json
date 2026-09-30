@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 417,
+    "represented": 418,
     "excluded": 13,
-    "held": 17
+    "held": 16
   },
   "outcomes": [
     {
@@ -5139,8 +5139,14 @@
       "n": 404,
       "intake_title": "The Tongue Trade",
       "intake_author": "Michael J. Martineck",
-      "status": "held",
-      "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
+      "status": "represented",
+      "action": "add",
+      "card": "The Tongue Trade",
+      "leaf": "future-social-sf",
+      "sources": [
+        "https://locusmag.com/review/the-tongue-trade-by-michael-j-martineck-review-by-paul-di-filippo/",
+        "http://www.edgewebsite.com/books/tonguetrade/tonguetrade-catalog1.html"
+      ]
     },
     {
       "n": 405,

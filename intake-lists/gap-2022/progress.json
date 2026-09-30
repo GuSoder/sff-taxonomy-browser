@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 404,
-      "title": "The Tongue Trade",
-      "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
-    },
-    {
       "n": 405,
       "title": "The Transition",
       "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
@@ -211,11 +206,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 404,
-      "title": "The Tongue Trade",
-      "reason": "Century-future linguistic society fails Modern day social SF; future-social branch gap."
-    },
-    {
       "n": 405,
       "title": "The Transition",
       "reason": "Contemporary werewolf transformation; existing Supernatural beings leaves do not cleanly cover it."
@@ -270,8 +260,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 430,
-  "represented": 417,
+  "resolved": 431,
+  "represented": 418,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -402,9 +392,8 @@
       "start": 386,
       "end": 405,
       "audited": 20,
-      "resolved": 18,
+      "resolved": 19,
       "held": [
-        404,
         405
       ]
     },
