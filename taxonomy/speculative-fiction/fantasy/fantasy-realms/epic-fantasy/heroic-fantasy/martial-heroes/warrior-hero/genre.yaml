@@ -1,10 +1,9 @@
 id: warrior-hero
-label: Warrior Hero
+label: Warrior hero
 parent: martial-heroes
 children: []
 image: 196-warrior-hero.webp
-definition: Martial-hero fantasy whose protagonist’s primary power is direct armed combat, physical courage
-  and battlefield leadership.
+definition: Martial-hero fantasy whose protagonist’s primary power is direct armed combat, physical courage and battlefield leadership.
 status: accepted
 works:
 - jirel-of-joiry

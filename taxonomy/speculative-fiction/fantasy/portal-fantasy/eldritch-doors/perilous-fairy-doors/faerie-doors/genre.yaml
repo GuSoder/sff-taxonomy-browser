@@ -1,5 +1,5 @@
 id: faerie-doors
-label: Faerie Doors
+label: Faerie doors
 parent: perilous-fairy-doors
 children: []
 works:
@@ -10,6 +10,6 @@ works:
 - the-memory-theater
 - weaveworld
 image: 293-faerie-doors.webp
-definition: 'Perilous fairy doors that open into Faerie itself: the elf-realm beyond the fields we know, whose glamour, bargains and timeless beauty seduce
-  and endanger those who cross.'
+definition: 'Perilous fairy doors that open into Faerie itself: the elf-realm beyond the fields we know, whose glamour, bargains and timeless beauty seduce and endanger
+  those who cross.'
 status: accepted
