@@ -17,3 +17,18 @@ cover_curation:
   selected_url: https://images-na.ssl-images-amazon.com/images/P/0765395916.01.LZZZZZZZ.jpg
   visually_reviewed_on: '2026-09-23'
   review_method: contact-sheet one-pass
+books:
+- title: Dead Country
+  year: 2023
+  cover_url: https://images-na.ssl-images-amazon.com/images/P/0765395916.01.LZZZZZZZ.jpg
+- title: Wicked Problems
+  year: 2024
+  cover_url: cover-wicked-problems.jpg
+  shows_english_title: true
+placement_history:
+- date: '2026-09-30'
+  change: Craft Wars book 2, direct sequel to Dead Country. Publisher and author identify series; preserve existing Technomancy card.
+  sources:
+  - https://us.macmillan.com/books/9780765395931/wickedproblems/
+  - https://maxgladstone.com/writing/wicked-problems/
+  cover_visual_check: individual English title/author inspection

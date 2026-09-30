@@ -401,5 +401,104 @@
     ],
     "cover_url": "https://www.publishersweekly.com/cover/9780593953983",
     "cover_path": "/downloads/tail446.jpg"
+  },
+  {
+    "n": 433,
+    "title": "Waterblack",
+    "action": "merge",
+    "leaf": "dying-earth",
+    "into": "Mordew",
+    "year": 2025,
+    "cover_url": "https://www.publishersweekly.com/cover/9781250817297",
+    "cover_path": "/downloads/tail433.jpg",
+    "reason": "Cities of the Weft trilogy finale, publisher/review confirms existing Mordew series card. Preserve existing classification; no new card.",
+    "sources": [
+      "https://locusmag.com/review/waterblack-by-alex-pheby-review-by-ian-mond/"
+    ]
+  },
+  {
+    "n": 443,
+    "title": "Wicked Problems",
+    "action": "merge",
+    "leaf": "technomancy",
+    "into": "Dead Country",
+    "year": 2024,
+    "cover_url": "https://www.publishersweekly.com/cover/9780765395931",
+    "cover_path": "/downloads/tail443.jpg",
+    "reason": "Craft Wars book 2, direct sequel to Dead Country. Publisher and author identify series; preserve existing Technomancy card.",
+    "sources": [
+      "https://us.macmillan.com/books/9780765395931/wickedproblems/",
+      "https://maxgladstone.com/writing/wicked-problems/"
+    ]
+  },
+  {
+    "n": 407,
+    "title": "The Underhistory",
+    "authors": [
+      "Kaaron Warren"
+    ],
+    "year": 2024,
+    "action": "add",
+    "leaf": "alt-postwar",
+    "rationale": "Root-down: SF -> Historical -> Alternate history -> Period alterations -> Alt postwar. In 1941 a plane intentionally crashes into Sinclair House, killing the Australian PM and his wife; main action is in 1993 as survivor Pera confronts escaped convicts. Ian Mond explicitly identifies the PM's impossible death as the sole speculative element. A WWII-era fork depicted after the war, within a lifetime, fits Alt postwar; no real ghosts or supernatural house, so Gothic atmosphere is not Fantasy. The divergence is not an enduring transformed-world premise.",
+    "sources": [
+      "https://locusmag.com/review/ian-mond-reviews-the-underhistory-by-kaaron-warren/",
+      "https://mondyboy.com/?p=10026",
+      "https://www.hachette.com.au/kaaron-warren/the-underhistory"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9781800812024",
+    "cover_path": "/downloads/tail407.jpg"
+  },
+  {
+    "n": 423,
+    "title": "Tim Te Maro and the Subterranean Heartsick Blues",
+    "authors": [
+      "H. S. Valley"
+    ],
+    "year": 2021,
+    "action": "add",
+    "leaf": "magic-school",
+    "rationale": "Root-down: Fantasy -> Real earth -> Contemporary -> Magical coming-of-age -> Magic school. At New Zealand's Fox Glacier High School for the Magically Adept, Tim and Elliott develop their relationship and identity through a formal class assignment caring for an enchanted egg that responds to their emotions. Magical school life provides the narrative structure, not an inherited-magic awakening or household fantasy. The real-Earth contemporary gate rejects secondary-world Romantasy despite romance being the emotional spine.",
+    "sources": [
+      "https://www.publishersweekly.com/9781760508753",
+      "https://thissplendidshambles.com/tim-te-maro-and-the-subterranean-heartsick-blues/"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9781760508753",
+    "cover_path": "/downloads/tail423.jpg"
+  },
+  {
+    "n": 429,
+    "title": "Under the Eye of the Big Bird",
+    "authors": [
+      "Hiromi Kawakami"
+    ],
+    "year": 2016,
+    "action": "add",
+    "leaf": "remade-bodies",
+    "rationale": "Root-down: SF -> Futurist -> Future of Earth -> Techno -> Technomorphosis -> Posthuman -> Remade bodies. Engineered human descendants combine animal DNA, plant nutrition and accelerated breeding across fourteen far-future communities; AI Mothers and watchers attempt to jumpstart evolution against genetic extinction. The designed organism/species is the experiment, not mind uploading or barren childless society. Geological scope supports future history, but bodily redesign and what counts as humanity govern; no actual travel through time or literal magic is established.",
+    "sources": [
+      "https://softskull.com/books/under-the-eye-of-the-big-bird/",
+      "https://www.theguardian.com/books/2025/jan/02/under-the-eye-of-the-big-bird-by-hiromi-kawakami-review-when-humans-dont-come-first",
+      "https://en.wikipedia.org/wiki/Under_the_Eye_of_the_Big_Bird"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9781593766115",
+    "cover_path": "/downloads/tail429.jpg"
+  },
+  {
+    "n": 447,
+    "title": "Ymir",
+    "authors": [
+      "Rich Larson"
+    ],
+    "year": 2022,
+    "action": "add",
+    "leaf": "space-adventure",
+    "rationale": "Root-down: SF -> Futurist -> Spacefaring -> New space opera -> Space adventure. Corporate hunter-killer Yorick returns to icy mining planet Ymir to kill an alien technological grendel, is coerced by his brother into sabotage and must survive violent reversals. PW identifies nonstop action, Locus the compressed few-days momentum. The anti-company plot and estranged family supply stakes, but physical danger and the hunt govern, not a broad imperial revolution, social dystopia or exploration of an alien megastructure. Beowulf is inspiration, not literal Norse myth.",
+    "sources": [
+      "https://www.publishersweekly.com/9780316416580",
+      "https://locusmag.com/review/paul-di-filippo-reviews-ymir-by-rich-larson/"
+    ],
+    "cover_url": "https://www.publishersweekly.com/cover/9780316416580",
+    "cover_path": "/downloads/tail447.jpg"
   }
 ]

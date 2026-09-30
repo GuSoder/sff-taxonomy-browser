@@ -1,7 +1,7 @@
 id: magic-school
 name: Magic school
-definition: 'Magical coming-of-age in which the craft is taught: a school or academy for magic where young people
-  develop ability through formal instruction, houses, exams and school life.'
+definition: 'Magical coming-of-age in which the craft is taught: a school or academy for magic where young people develop ability through formal instruction, houses,
+  exams and school life.'
 parent: magical-coming-of-age
 label: Magic school
 children: []
@@ -13,3 +13,4 @@ works:
 - the-incandescent
 - school-of-shards
 - the-scholar-and-the-last-faerie-door
+- tim-te-maro-and-the-subterranean-heartsick-blues
