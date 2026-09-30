@@ -73,3 +73,7 @@ Let's call this the split-with-umbrella rule." (phonemsg-01M3C6GAD6M05JSV9RBTHDF
 | 2026-09-26 | Sword & sorcery (classic) | Evergreen / Pulp | timeless vs historical wave |
 | 2026-09-26 | Time travel agency | Classic time agencies / Time agency revival | era and sensibility |
 | 2026-09-26 | Revenants | Ghosts & grief / Vengeful spirits | why the ghost stays |
+
+## Browser expectation precedent, 2026-09-30
+
+Blood Music was assigned to Altered flesh rather than Successor species on the curator's explicit ruling: "the cover and name leads to expectations for the browser that force us to put it in altered flesh". A card's title and cover can settle a genuine boundary when they set a clear browsing expectation, even if its plot endpoint supports another child. This is a boundary precedent, not permission to ignore the root gates or invent plot facts. The amended Cyborgs / Altered flesh / Successor species distribution (2/5/3) was explicitly approved with "Execute" at 13:27:40 CEST.
