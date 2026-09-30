@@ -403,11 +403,22 @@
   },
   {
     "n": 420,
-    "intake_title": "They Bloom at Night",
-    "intake_author": "Trang Thanh Tran",
-    "status": "held",
-    "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved.",
-    "action": "held"
+    "title": "They Bloom at Night",
+    "authors": [
+      "Trang Thanh Tran"
+    ],
+    "year": 2025,
+    "action": "add",
+    "leaf": "birthright-magic",
+    "rationale": "Root-down: Speculative fiction -> Fantasy -> Real earth fantasy -> Contemporary fantasy -> Magical coming-of-age -> Birthright magic. Near-future Mercy, Louisiana, and its red algae/body horror are organized around Noon claiming a changed body, gender selfhood and family-linked Vietnamese water-deity heritage. Author interviews explicitly blend the supernatural and describe the family's guardian deity tradition; Locus says the family water-spirit myth proves truer than expected. The curator chose Birthright magic after asking whether that guardian is central: the inherited heritage/guardian connection, rather than a verified genetic ability, is this leaf's edge. Timing caveat: reviewers call the setting near-future without a precise calendar date or quantified offset, so Contemporary's present-day wording is a curator-accepted stretch; no source establishes 'months'. Mother's reincarnation belief alone does not prove relatives literally reincarnate. Full horror-place alternate: Real earth -> Nocturne -> Dark -> Horror -> Unholy ground -> Cursed towns or Haunted wilds; those fit ecology but calling the liberating spirit an unholy curse stretches the engine. Elder god torment is less apt because the deity is not chiefly a persecutor. No inherited named-myth retelling, urban institutional engine, ordinary accepted magic-realism, portal or invented realm. Coming-of-age siblings: Magic school fails no institution; Found magic loses to the curator's family-heritage hearing. Root Fantasy, not purely biological SF mutation.",
+    "sources": [
+      "https://trangthanhtran.com/book/theybloomatnight/",
+      "https://bookcrushin.com/new-release-interview-they-bloom-at-night-by-trang-thanh-tran/",
+      "https://goodreadingmagazine.com.au/article/trang-thanh-tran-on-they-bloom-at-night/",
+      "https://locusmag.com/review/they-bloom-at-night-by-trang-thanh-tran-review-by-colleen-mondor/",
+      "https://www.kirkusreviews.com/book-reviews/trang-thanh-tran/they-bloom-at-night/",
+      "https://diversityhorror.com/2025/06/22/they-bloom-at-night-by-trang-thanh-tran/"
+    ]
   },
   {
     "n": 421,

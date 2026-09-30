@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 421,
+    "represented": 422,
     "excluded": 13,
-    "held": 13
+    "held": 12
   },
   "outcomes": [
     {
@@ -5363,8 +5363,18 @@
       "n": 420,
       "intake_title": "They Bloom at Night",
       "intake_author": "Trang Thanh Tran",
-      "status": "held",
-      "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
+      "status": "represented",
+      "action": "add",
+      "card": "They Bloom at Night",
+      "leaf": "birthright-magic",
+      "sources": [
+        "https://trangthanhtran.com/book/theybloomatnight/",
+        "https://bookcrushin.com/new-release-interview-they-bloom-at-night-by-trang-thanh-tran/",
+        "https://goodreadingmagazine.com.au/article/trang-thanh-tran-on-they-bloom-at-night/",
+        "https://locusmag.com/review/they-bloom-at-night-by-trang-thanh-tran-review-by-colleen-mondor/",
+        "https://www.kirkusreviews.com/book-reviews/trang-thanh-tran/they-bloom-at-night/",
+        "https://diversityhorror.com/2025/06/22/they-bloom-at-night-by-trang-thanh-tran/"
+      ]
     },
     {
       "n": 421,

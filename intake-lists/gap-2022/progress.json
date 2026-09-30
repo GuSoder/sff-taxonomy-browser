@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 420,
-      "title": "They Bloom at Night",
-      "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
-    },
-    {
       "n": 431,
       "title": "Vampires of El Norte",
       "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
@@ -191,11 +186,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 420,
-      "title": "They Bloom at Night",
-      "reason": "Locus hints at literal water-spirit family myth; SF algae vs Fantasy root unresolved."
-    },
-    {
       "n": 431,
       "title": "Vampires of El Norte",
       "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
@@ -230,8 +220,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 434,
-  "represented": 421,
+  "resolved": 435,
+  "represented": 422,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -370,10 +360,8 @@
       "start": 406,
       "end": 425,
       "audited": 20,
-      "resolved": 19,
-      "held": [
-        420
-      ]
+      "resolved": 20,
+      "held": []
     },
     {
       "tier": "locus-only",
