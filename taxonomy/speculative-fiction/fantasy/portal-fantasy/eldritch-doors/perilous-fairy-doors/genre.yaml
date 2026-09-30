@@ -1,12 +1,16 @@
 id: perilous-fairy-doors
 label: Perilous fairy doors
 parent: eldritch-doors
-definition: Anchored crossings into Faerie, nightmare or storybook-derived realms where seduction, predation, combat or dangerous belonging governs, divided
-  between doors into Faerie and doors into nightmare or storybook-derived realms.
-status: accepted
-ruling: the curator, 2026-09-22 15:05 CEST
-children:
-- faerie-doors
-- nightmare-doors
+children: []
+works:
+- lud-in-the-mist
+- the-land-of-unreason
+- the-king-of-elflands-daughter
+- the-memory-theater
+- weaveworld
+- stardust
 image: 283-perilous-fairy-doors.webp
-works: []
+definition: 'Perilous fairy doors that open into Faerie itself: the elf-realm beyond the fields we know, whose glamour, bargains and timeless beauty seduce and endanger
+  those who cross.'
+status: accepted
+ruling: Original owner Execute, let the umbrella picture also follow the name, 2026-09-30 13:36:15 CEST

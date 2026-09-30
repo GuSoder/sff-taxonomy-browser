@@ -1,0 +1,1 @@
+The former umbrella was explicitly dissolved by the curator on 2026-09-30. Portrait 283 follows the Perilous fairy doors name; portrait 293 is retained here and at repository root, recoverable rather than regenerated. Former definitions preserved for history. Faerie doors redirects to Perilous fairy doors.
