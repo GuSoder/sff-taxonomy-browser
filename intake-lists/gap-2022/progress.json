@@ -1,11 +1,6 @@
 {
   "held": [
     {
-      "n": 220,
-      "title": "Into the Light",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 222,
       "title": "It Was Her House First",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -131,11 +126,6 @@
   ],
   "pending_ruling": [
     {
-      "n": 220,
-      "title": "Into the Light",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 222,
       "title": "It Was Her House First",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -180,8 +170,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 439,
-  "represented": 426,
+  "resolved": 440,
+  "represented": 427,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -229,9 +219,8 @@
       "start": 206,
       "end": 225,
       "audited": 20,
-      "resolved": 18,
+      "resolved": 19,
       "held": [
-        220,
         222
       ]
     },

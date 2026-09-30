@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 426,
+    "represented": 427,
     "excluded": 13,
-    "held": 8
+    "held": 7
   },
   "outcomes": [
     {
@@ -2825,8 +2825,18 @@
       "n": 220,
       "intake_title": "Into the Light",
       "intake_author": "Mark Oshiro",
-      "status": "held",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+      "status": "represented",
+      "action": "add",
+      "card": "Into the Light",
+      "leaf": "folk-horror",
+      "sources": [
+        "https://us.macmillan.com/books/9781250812254/intothelight",
+        "https://locusmag.com/review/colleen-mondor-reviews-into-the-light-by-mark-oshiro/",
+        "https://locusmag.com/feature/the-year-in-review-2023-by-colleen-mondor/",
+        "https://subjectifymedia.com/mark-oshiro-interview-into-the-light/",
+        "https://www.criminalelement.com/book-review-into-the-light-by-mark-oshiro/",
+        "https://paigesmith.net/2023/02/27/into-the-light-review/"
+      ]
     },
     {
       "n": 221,
