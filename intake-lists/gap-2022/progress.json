@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 431,
-      "title": "Vampires of El Norte",
-      "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
-    },
-    {
       "n": 434,
       "title": "We Computers",
       "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
@@ -186,11 +181,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 431,
-      "title": "Vampires of El Norte",
-      "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
-    },
-    {
       "n": 434,
       "title": "We Computers",
       "reason": "1980s conscious generative-literature computer: Period SF era gap; Written worlds not established."
@@ -220,8 +210,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 435,
-  "represented": 422,
+  "resolved": 436,
+  "represented": 423,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -368,9 +358,8 @@
       "start": 426,
       "end": 445,
       "audited": 20,
-      "resolved": 15,
+      "resolved": 16,
       "held": [
-        431,
         434,
         438,
         440,

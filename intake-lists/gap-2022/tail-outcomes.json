@@ -588,11 +588,21 @@
   },
   {
     "n": 431,
-    "intake_title": "Vampires of El Norte",
-    "intake_author": "Isabel Cañas",
-    "status": "held",
-    "reason": "1840s border vampires: Monsters in Gaslight vs Weird West.",
-    "action": "held"
+    "title": "Vampires of El Norte",
+    "authors": [
+      "Isabel Cañas"
+    ],
+    "year": 2023,
+    "action": "add",
+    "leaf": "weird-west-fantasy",
+    "rationale": "Root-down: Speculative fiction -> Fantasy -> Real earth fantasy -> Historical fantasy -> Period fantasy -> Industrial age fantasy -> Weird West fantasy. In the documented Rio Grande Valley and1846 Mexican-American War, rancher's daughter/curandera Nena and vaquero Néstor reunite amid US invasion, territorial dispossession and literal blood-draining vampires. Publisher calls this a supernatural Western; author connects its ranch/frontier register to Lone Women. Romance is the beating heart, but this is real-Earth historical fiction, not the secondary-world Romantasy leaf. Historical furniture organizes the beings over Nocturne Vampire fantasy. Period over Secret history (no central secret explanatory engine), Alternate history (no divergent timeline/world running on magic), Pulp (no knockabout legendary adventure). Industrial1788-onward over Antique. Weird West's nineteenth-century North American frontier is exact, without requiring the land already be United States territory. Gaslight -> Folklore -> Monsters in gaslight would fit broad era and creature lore but loses the more specific frontier/vaquero/war mode. Antebellum Southern slavery/freedom furniture fails this Mexican border setting; later-period siblings fail era. The vampires remain literal as well as metaphors for invaders; do not imply vampire action dominates. Curator Execute Weird West approved4->5.",
+    "sources": [
+      "https://www.penguinrandomhouse.com/books/676677/vampires-of-el-norte-by-isabel-canas/",
+      "https://www.barnesandnoble.com/blog/poured-over-isabel-canas-on-vampires-of-el-norte",
+      "https://www.npr.org/2023/08/18/1194150491/book-review-isabel-canas-vampires-of-el-norte",
+      "https://www.kirkusreviews.com/book-reviews/isabel-canas/vampires-of-el-norte/",
+      "https://www.lightspeedmagazine.com/nonfiction/book-review-vampires-of-el-norte-by-isabel-canas/"
+    ]
   },
   {
     "n": 432,

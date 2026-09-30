@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 422,
+    "represented": 423,
     "excluded": 13,
-    "held": 12
+    "held": 11
   },
   "outcomes": [
     {
@@ -5518,8 +5518,17 @@
       "n": 431,
       "intake_title": "Vampires of El Norte",
       "intake_author": "Isabel Cañas",
-      "status": "held",
-      "reason": "1840s border vampires: Monsters in Gaslight vs Weird West."
+      "status": "represented",
+      "action": "add",
+      "card": "Vampires of El Norte",
+      "leaf": "weird-west-fantasy",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/676677/vampires-of-el-norte-by-isabel-canas/",
+        "https://www.barnesandnoble.com/blog/poured-over-isabel-canas-on-vampires-of-el-norte",
+        "https://www.npr.org/2023/08/18/1194150491/book-review-isabel-canas-vampires-of-el-norte",
+        "https://www.kirkusreviews.com/book-reviews/isabel-canas/vampires-of-el-norte/",
+        "https://www.lightspeedmagazine.com/nonfiction/book-review-vampires-of-el-norte-by-isabel-canas/"
+      ]
     },
     {
       "n": 432,
