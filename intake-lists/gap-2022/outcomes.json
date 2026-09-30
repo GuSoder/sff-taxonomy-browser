@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 425,
+    "represented": 426,
     "excluded": 13,
-    "held": 9
+    "held": 8
   },
   "outcomes": [
     {
@@ -5648,8 +5648,18 @@
       "n": 440,
       "intake_title": "When the Angels Left the Old Country",
       "intake_author": "Sacha Lamb",
-      "status": "held",
-      "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
+      "status": "represented",
+      "action": "add",
+      "card": "When the Angels Left the Old Country",
+      "leaf": "bowler-hat-fantasy",
+      "sources": [
+        "https://www.levinequerido.com/products/when-the-angels-left-the-old-country",
+        "https://sachalamb.wordpress.com/when-the-angels-left-the-old-country/",
+        "https://www.hbook.com/story/bookreviews/review-of-when-the-angels-left-the-old-country",
+        "https://www.jewishbookcouncil.org/book/when-the-angels-left-the-old-country",
+        "https://www.kirkusreviews.com/book-reviews/sacha-lamb/when-the-angels-left-the-old-country/",
+        "https://www.sydneytaylorshmooze.com/2022/11/review-when-angels-left-old-country.html"
+      ]
     },
     {
       "n": 441,

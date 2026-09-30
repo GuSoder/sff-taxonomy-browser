@@ -36,11 +36,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 440,
-      "title": "When the Angels Left the Old Country",
-      "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
-    },
-    {
       "n": 441,
       "title": "Where Echoes Die",
       "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
@@ -171,11 +166,6 @@
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
     },
     {
-      "n": 440,
-      "title": "When the Angels Left the Old Country",
-      "reason": "Early-twentieth-century Jewish angel/demon immigration: Gaslight era gate."
-    },
-    {
       "n": 441,
       "title": "Where Echoes Die",
       "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
@@ -190,8 +180,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 438,
-  "represented": 425,
+  "resolved": 439,
+  "represented": 426,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -338,9 +328,8 @@
       "start": 426,
       "end": 445,
       "audited": 20,
-      "resolved": 18,
+      "resolved": 19,
       "held": [
-        440,
         441
       ]
     },
