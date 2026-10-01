@@ -1,11 +1,6 @@
 {
   "held": [
     {
-      "n": 327,
-      "title": "The Briar Book of the Dead",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 330,
       "title": "The Cartographers",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -112,11 +107,6 @@
   ],
   "pending_ruling": [
     {
-      "n": 327,
-      "title": "The Briar Book of the Dead",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 330,
       "title": "The Cartographers",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -136,8 +126,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 444,
-  "represented": 430,
+  "resolved": 445,
+  "represented": 431,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -233,9 +223,8 @@
       "start": 326,
       "end": 345,
       "audited": 20,
-      "resolved": 18,
+      "resolved": 19,
       "held": [
-        327,
         330
       ]
     },

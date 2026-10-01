@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 430,
+    "represented": 431,
     "excluded": 14,
-    "held": 3
+    "held": 2
   },
   "outcomes": [
     {
@@ -4202,8 +4202,19 @@
       "n": 327,
       "intake_title": "The Briar Book of the Dead",
       "intake_author": "A.G. Slatter",
-      "status": "held",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+      "status": "represented",
+      "reason": "Speculative fiction -> Fantasy -> Fantasy realms -> Gothic fantasy -> Fantasy mystery. Actual witch magic and ghosts exclude SF; invented Sourdough universe Silverton/Lodellan and no Earth exclude Real earth/Portal. Ghost-assisted investigation connects disappearances, mysterious deaths, suppressed ghosts, lost grimoire and family conspiracy. Gothic menace and occult institutional wrongs are essential. Invented fairytales is a real rival (original fable/blood bargains), but investigation drives while fable is mode. Dark realms too broad; no technological magic, sealed-world premise or Pax manners. Realms siblings Epic/Sword and sorcery/Far shores/Comic/Cozy/Romantasy lack governing epic-scale, combat, culture-proxy, comedy, safety or romance engine. Owner Execute2026-10-01 11:41:34 phonemsg-01M3VDEDGTBTKJ31FWVF28XY23, answering reviewed Fantasy mystery pick.",
+      "action": "add",
+      "card": "The Briar Book of the Dead",
+      "leaf": "fantasy-mystery",
+      "sources": [
+        "https://titanbooks.com/71440-the-briar-book-of-the-dead/",
+        "https://www.penguinrandomhouse.com/books/742367/the-briar-book-of-the-dead-by-ag-slatter/",
+        "https://www.angelaslatter.com/publications/the-briar-book-of-the-dead/",
+        "https://locusmag.com/review/alexandra-pierce-reviews-the-briar-book-of-the-dead-by-a-g-slatter/",
+        "https://locusmag.com/review/ian-mond-reviews-the-briar-book-of-the-dead-by-a-g-slatter/",
+        "https://psychopomp.com/briar-book-of-the-dead/"
+      ]
     },
     {
       "n": 328,
