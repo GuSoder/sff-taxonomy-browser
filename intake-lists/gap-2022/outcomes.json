@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 429,
+    "represented": 430,
     "excluded": 13,
-    "held": 5
+    "held": 4
   },
   "outcomes": [
     {
@@ -673,7 +673,7 @@
       "action": "already-in-tree",
       "card": "Hemlock & Silver",
       "book": "Hemlock & Silver",
-      "leaf": "fairy-tale-expansion",
+      "leaf": "fairytale-expansion",
       "authors": [
         "T. Kingfisher"
       ]
@@ -882,7 +882,7 @@
       "action": "already-in-tree",
       "card": "Sour Cherry",
       "book": "Sour Cherry",
-      "leaf": "fairy-tale-inversion",
+      "leaf": "fairytale-inversion",
       "authors": [
         "Natalia Theodoridou"
       ]
@@ -1396,7 +1396,7 @@
       "action": "already-in-tree",
       "card": "After the Forest",
       "book": "After the Forest",
-      "leaf": "fairy-tale-expansion",
+      "leaf": "fairytale-expansion",
       "authors": [
         "Kell Woods"
       ]
@@ -1865,7 +1865,7 @@
       "action": "already-in-tree",
       "card": "Castle of the Cursed",
       "book": "Castle of the Cursed",
-      "leaf": "fairy-tale-transplant",
+      "leaf": "fairytale-transplant",
       "authors": [
         "Romina Garber"
       ]
@@ -3029,8 +3029,17 @@
       "n": 235,
       "intake_title": "Mad Sisters of Esi",
       "intake_author": "Tashan Mehta",
-      "status": "held",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+      "status": "represented",
+      "reason": "Speculative fiction -> Fantasy -> Fantasy realms -> Fairytale fantasy -> Invented fairytales. Actual opaque magic in wholly invented universes, no Earth. Original sister fables, memory curse, ghost descendants bound to a forbidden island and wish-giving whale fabric organize an intimate family story; no source tale retelling, uninterrupted heroic quest, literal fae or Silmarillion-register lore required. Rejected Epic aboutness because cosmic scale carries the intimate story rather than worldbuilding governing it. Owner11:01:53 approval phonemsg-01M3VB5RS19WN2A3YAWQG8ZRTV of bundle phonemsg-01M3VB4DWBRJJVGAJPY2ZDEQ95.",
+      "action": "add",
+      "card": "Mad Sisters of Esi",
+      "leaf": "invented-fairytales",
+      "sources": [
+        "https://astrapublishinghouse.com/product/mad-sisters-of-esi-9780756420062/",
+        "https://locusmag.com/review/niall-harrison-reviews-mad-sisters-of-esi-by-tashan-mehta/",
+        "https://kunzum.com/mad-sisters-of-esi-book-review/",
+        "https://harpercollins.co.in/interviews/between-the-lines-tashan-mehta/"
+      ]
     },
     {
       "n": 236,
@@ -3832,7 +3841,7 @@
       "action": "already-in-tree",
       "card": "Sleep Like Death",
       "book": "Sleep Like Death",
-      "leaf": "fairy-tale-expansion",
+      "leaf": "fairytale-expansion",
       "authors": [
         "Kalynn Bayron"
       ]

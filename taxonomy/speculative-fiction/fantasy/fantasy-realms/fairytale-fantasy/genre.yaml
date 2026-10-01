@@ -1,0 +1,17 @@
+id: fairytale-fantasy
+label: Fairytale fantasy
+parent: fantasy-realms
+children:
+- fairytale-inversion
+- fairytale-transplant
+- fairytale-expansion
+- invented-fairytales
+image: 1-fairy-tale-revision.webp
+definition: An umbrella for fiction that deliberately revises a recognizable fairy tale through inversion, transplantation, or expansion - or that purposely
+  borrows fairy-tale mechanics to create an invented fairy tale.
+status: accepted
+works: []
+history:
+- date: '2026-09-23'
+  change: Shenmo moved to Far shores fantasy > Chuanqi.
+ruling: Owner11:01:53 approval phonemsg-01M3VB5RS19WN2A3YAWQG8ZRTV of bundle phonemsg-01M3VB4DWBRJJVGAJPY2ZDEQ95.

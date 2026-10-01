@@ -68,3 +68,7 @@ A substantive naming decision still belongs to the curator. An explicit instruct
 5. Do not alter slugs or book-title spelling for a capitalization-only change.
 
 Authority: the curator's September 30 approval to execute the capitalization harmonization, followed by his 11:49:04 instruction to codify the spelling and continue following it despite phone autocorrection.
+
+## Fairytale family, October1,2026
+
+Owner bundle approval phonemsg-01M3VB5RS19WN2A3YAWQG8ZRTV: Fairytale fantasy, Fairytale inversion, Fairytale transplant, Fairytale expansion, Invented fairytales. One-word fairytale standard; Fairytalesque quest fantasy unchanged. Old node routes redirect.

@@ -1,11 +1,6 @@
 {
   "held": [
     {
-      "n": 235,
-      "title": "Mad Sisters of Esi",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 280,
       "title": "Rest in Peaches",
       "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
@@ -116,11 +111,6 @@
   ],
   "pending_ruling": [
     {
-      "n": 235,
-      "title": "Mad Sisters of Esi",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 280,
       "title": "Rest in Peaches",
       "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
@@ -150,8 +140,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 442,
-  "represented": 429,
+  "resolved": 443,
+  "represented": 430,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -207,10 +197,8 @@
       "start": 226,
       "end": 245,
       "audited": 20,
-      "resolved": 19,
-      "held": [
-        235
-      ]
+      "resolved": 20,
+      "held": []
     },
     {
       "tier": "locus-only",
