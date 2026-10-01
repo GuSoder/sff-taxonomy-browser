@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 431,
+    "represented": 432,
     "excluded": 14,
-    "held": 2
+    "held": 1
   },
   "outcomes": [
     {
@@ -4246,8 +4246,15 @@
       "n": 330,
       "intake_title": "The Cartographers",
       "intake_author": "Peng Shepherd",
-      "status": "held",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+      "status": "represented",
+      "action": "curator-add",
+      "card": "The Cartographers",
+      "book": "The Cartographers",
+      "leaf": "transporting-tomes",
+      "authors": [
+        "Peng Shepherd"
+      ],
+      "ruling": "Speculative fiction -> Fantasy -> Portal fantasy -> Transporting tomes. Literal map magic, not science: Agloe exists through its depiction and is enterable while possessing a copy of the map. Earth New York/NYPL passes the Portal gate. The map itself creates and permits access, rather than merely guiding toward an independently magical fixed door. Cartographic text carries the crossing. Uncanny thresholds is the geographic rival; Occult institutions the professional-mystery rival, but text-mediated access is more specific. Owner Execute2026-10-01 11:48:36 phonemsg-01M3VDVA4TGJNMEKV5XGN7R16P answering the reviewed Tomes pick and map/text boundary. Cartographic text accepted; Tomes is not prose-only."
     },
     {
       "n": 331,

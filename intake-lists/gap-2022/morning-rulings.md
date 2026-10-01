@@ -241,3 +241,6 @@ the curator: "Execute" (Revenants split as served, his names) / "Then do the def
 - Def cleaning: rebel-fantasy "Anti-colonial fantasy of open revolt:" -> "Rebel fantasy of open revolt:"; insurgent-fantasy "Anti-colonial fantasy of subversion from within:" -> "Insurgent fantasy of subversion from within:"; political-fantasy + hard-magic openers "High fantasy" -> "Epic fantasy".
 - Both frozen workshops now resolved (Time Travel Agency + Revenants). Chunk 3 un-parked.
 - Counts: 365 nodes / 1,053 cards / 2,095 books.
+
+## Cartographic text, #330
+Owner "Execute" phonemsg-01M3VDVA4TGJNMEKV5XGN7R16P2026-10-01 11:48:36 answering reviewed Transporting tomes4->5 and explicit map/text boundary question. The Cartographers accepted; maps count as text, Tomes is not prose-only. Definition records this scope.

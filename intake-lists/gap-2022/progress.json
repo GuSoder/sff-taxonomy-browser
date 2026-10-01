@@ -1,11 +1,6 @@
 {
   "held": [
     {
-      "n": 330,
-      "title": "The Cartographers",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 441,
       "title": "Where Echoes Die",
       "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
@@ -107,11 +102,6 @@
   ],
   "pending_ruling": [
     {
-      "n": 330,
-      "title": "The Cartographers",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 441,
       "title": "Where Echoes Die",
       "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
@@ -126,8 +116,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 445,
-  "represented": 431,
+  "resolved": 446,
+  "represented": 432,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -223,10 +213,8 @@
       "start": 326,
       "end": 345,
       "audited": 20,
-      "resolved": 19,
-      "held": [
-        330
-      ]
+      "resolved": 20,
+      "held": []
     },
     {
       "tier": "locus-only",
