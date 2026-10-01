@@ -1,11 +1,6 @@
 {
   "held": [
     {
-      "n": 232,
-      "title": "Last Exit",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 235,
       "title": "Mad Sisters of Esi",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -121,11 +116,6 @@
   ],
   "pending_ruling": [
     {
-      "n": 232,
-      "title": "Last Exit",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
-    },
-    {
       "n": 235,
       "title": "Mad Sisters of Esi",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -160,8 +150,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 441,
-  "represented": 428,
+  "resolved": 442,
+  "represented": 429,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -217,9 +207,8 @@
       "start": 226,
       "end": 245,
       "audited": 20,
-      "resolved": 18,
+      "resolved": 19,
       "held": [
-        232,
         235
       ]
     },

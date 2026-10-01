@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 428,
+    "represented": 429,
     "excluded": 13,
-    "held": 6
+    "held": 5
   },
   "outcomes": [
     {
@@ -2990,8 +2990,20 @@
       "n": 232,
       "intake_title": "Last Exit",
       "intake_author": "Max Gladstone",
-      "status": "held",
-      "reason": "Prior sweep outcome absent; needs source research and root-down placement."
+      "status": "represented",
+      "action": "add",
+      "card": "Last Exit",
+      "leaf": "multiverse-fantasy",
+      "sources": [
+        "https://us.macmillan.com/books/9780765335739/lastexit/",
+        "https://maxgladstone.com/writing/last-exit/",
+        "https://clarkesworldmagazine.com/gladstone_interview/",
+        "https://www.publishersweekly.com/9780765335739",
+        "https://www.bookpage.com/reviews/last-exit/",
+        "https://locusmag.com/review/adrienne-martini-reviews-last-exit-by-max-gladstone/",
+        "https://chireviewofbooks.com/2022/03/30/last-exit/",
+        "https://reactormag.com/book-reviews-last-exit-by-max-gladstone/"
+      ]
     },
     {
       "n": 233,
