@@ -3,8 +3,8 @@
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
     "represented": 430,
-    "excluded": 13,
-    "held": 4
+    "excluded": 14,
+    "held": 3
   },
   "outcomes": [
     {
@@ -3595,8 +3595,15 @@
       "n": 280,
       "intake_title": "Rest in Peaches",
       "intake_author": "Alex Brown",
-      "status": "held",
-      "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
+      "status": "excluded",
+      "reason": "Owner original iMessage2026-10-01 11:27:12 phonemsg-01M3VCM46BPQFDN16K04J6A749: \"Definitely exclude, next\", answering exclude recommendation. Non-SFF human slasher: killer in parrot mascot costume, no speculative mechanism or magic established; author/PW/Kirkus/SLJ agree. Do not resurface in any tier.",
+      "action": "exclude-non-SFF",
+      "sources": [
+        "https://www.slj.com/review/rest-in-peaches",
+        "https://www.kirkusreviews.com/book-reviews/alex-brown/rest-in-peaches/",
+        "http://www.publishersweekly.com/9798890030702",
+        "https://alexlandwrites.com/rest-in-peaches"
+      ]
     },
     {
       "n": 281,

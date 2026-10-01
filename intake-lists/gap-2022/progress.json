@@ -1,11 +1,6 @@
 {
   "held": [
     {
-      "n": 280,
-      "title": "Rest in Peaches",
-      "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
-    },
-    {
       "n": 327,
       "title": "The Briar Book of the Dead",
       "reason": "Prior sweep outcome absent; needs source research and root-down placement."
@@ -99,6 +94,12 @@
       "author": "Catriona Ward",
       "reason": "Not SFF (the curator, 2026-09-23 23:16): psychological/metafictional thriller (human serial killer, stories blurring with memory); nothing supernatural on the page despite WFA shortlist. Dropped from hanging list and intake queue; do not resurface in any tier.",
       "n": 234
+    },
+    {
+      "n": 280,
+      "title": "Rest in Peaches",
+      "author": "Alex Brown",
+      "reason": "Owner original iMessage2026-10-01 11:27:12 phonemsg-01M3VCM46BPQFDN16K04J6A749: \"Definitely exclude, next\", answering exclude recommendation. Non-SFF human slasher: killer in parrot mascot costume, no speculative mechanism or magic established; author/PW/Kirkus/SLJ agree. Do not resurface in any tier."
     }
   ],
   "standing_rules": [
@@ -110,11 +111,6 @@
     }
   ],
   "pending_ruling": [
-    {
-      "n": 280,
-      "title": "Rest in Peaches",
-      "reason": "Earlier sweep report held as human slasher/not-SFF; final curator exclusion not recovered."
-    },
     {
       "n": 327,
       "title": "The Briar Book of the Dead",
@@ -140,7 +136,7 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 443,
+  "resolved": 444,
   "represented": 430,
   "awards_processed": 125,
   "tier2_processed": 322,
@@ -213,10 +209,8 @@
       "start": 266,
       "end": 285,
       "audited": 20,
-      "resolved": 19,
-      "held": [
-        280
-      ]
+      "resolved": 20,
+      "held": []
     },
     {
       "tier": "locus-only",
