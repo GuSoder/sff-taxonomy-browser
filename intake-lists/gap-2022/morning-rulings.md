@@ -244,3 +244,6 @@ the curator: "Execute" (Revenants split as served, his names) / "Then do the def
 
 ## Cartographic text, #330
 Owner "Execute" phonemsg-01M3VDVA4TGJNMEKV5XGN7R16P2026-10-01 11:48:36 answering reviewed Transporting tomes4->5 and explicit map/text boundary question. The Cartographers accepted; maps count as text, Tomes is not prose-only. Definition records this scope.
+
+## Time tonics, #441
+Owner "Execute on time tonics" phonemsg-01M3W8QVCJQY3YTMDRRH8201ZV 2026-10-01 19:38:34 after reviewed options (Time tonics / Time doses / Time cures). New leaf under Time travel fiction: substance-mediated time travel or rewind, natural or manufactured. Where Echoes Die placed as first card; hold resolved. Caveat: mineral/unspooling mechanism rests on one Goodreads spoiler review, partly corroborated (second Goodreads review, Haley, Locus, Metaphorosis); no primary-text confirmation.

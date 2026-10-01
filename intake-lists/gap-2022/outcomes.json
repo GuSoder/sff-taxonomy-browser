@@ -2,9 +2,9 @@
   "audit_date": "2026-09-30",
   "basis": "Current local tree at f6d0464; represented means in tree, not proof of historical addition during this sweep. Excluded entries carried from recorded rulings, title/index cross-checked. Held retains unresolved research and boundaries.",
   "counts": {
-    "represented": 432,
+    "represented": 433,
     "excluded": 14,
-    "held": 1
+    "held": 0
   },
   "outcomes": [
     {
@@ -5732,8 +5732,15 @@
       "n": 441,
       "intake_title": "Where Echoes Die",
       "intake_author": "Courtney Gould",
-      "status": "held",
-      "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
+      "status": "represented",
+      "action": "curator-add",
+      "card": "Where Echoes Die",
+      "book": "Where Echoes Die",
+      "leaf": "time-tonics",
+      "authors": [
+        "Courtney Gould"
+      ],
+      "ruling": "Speculative fiction -> Science fiction -> Atemporal -> Time travel fiction -> Time tonics. Backravel, Arizona: a former weapons-testing town where a strange mineral in the soil can turn time back through a procedure called unspooling; staying too long without it causes illness, and Ricky Carnes seeks the mineral's source to rewind to his dead son. Substance-mediated time rewind, not a built machine. Source caveat: the mineral/unspooling account comes from one Goodreads spoiler review (display name Rhonda, 2023-07), partly corroborated by a second Goodreads review naming unspooling, Haley's Book Haven calling the treatments time travel, Locus (SF, no magic, military town, medical treatments, amnesia, illness) and Metaphorosis (military-site pollution with unlikely effects). No primary-text confirmation; whether unspooling moves people or rewinds in place is unresolved, which the leaf definition covers. Owner Execute 2026-10-01 19:38:34 phonemsg-01M3W8QVCJQY3YTMDRRH8201ZV."
     },
     {
       "n": 442,

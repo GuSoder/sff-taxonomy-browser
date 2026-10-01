@@ -1,11 +1,5 @@
 {
-  "held": [
-    {
-      "n": 441,
-      "title": "Where Echoes Die",
-      "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
-    }
-  ],
+  "held": [],
   "excluded": [
     {
       "k": 4,
@@ -100,13 +94,7 @@
       "apply": "Autonomous, no per-case ask: if a book is too absurd to call SF or Fantasy AND fits no Fabulation node, exclude as not SFF. Log each kill in sweep.log as '-Title (Absurd Shit rule)' and in excluded[] with reason citing the rule."
     }
   ],
-  "pending_ruling": [
-    {
-      "n": 441,
-      "title": "Where Echoes Die",
-      "reason": "Clinical time manipulation hinted, mechanism not verified; research gap."
-    }
-  ],
+  "pending_ruling": [],
   "legacy_counter_snapshot": {
     "next": 1,
     "processed": 185,
@@ -116,8 +104,8 @@
   },
   "counter_note": "Legacy scalar counts were stale and are preserved only for provenance. Outcome audit is authoritative for row accounting; historical added-card total not reconstructed.",
   "processed": 447,
-  "resolved": 446,
-  "represented": 432,
+  "resolved": 447,
+  "represented": 433,
   "awards_processed": 125,
   "tier2_processed": 322,
   "next": null,
@@ -253,10 +241,8 @@
       "start": 426,
       "end": 445,
       "audited": 20,
-      "resolved": 19,
-      "held": [
-        441
-      ]
+      "resolved": 20,
+      "held": []
     },
     {
       "tier": "locus-only",
