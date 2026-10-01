@@ -5,10 +5,9 @@ authors:
 - Philip Pullman
 first_published: 1995
 placement_status: accepted
-placement_rationale: 'Root-down: Fantasy -> Real earth fantasy -> Portal fantasy -> Fantasy rifts -> Multiverse fantasy. SFE describes the two conjoined
-  trilogies as one alternate-cosmos sequence: openings between parallel worlds and Dust structure His Dark Materials, while The Book of Dust narratively
-  surrounds it and returns to Lyra, daemons, Dust and the same universe. Candidate 680 The Secret Commonwealth is therefore deduped into this complete six-novel
-  shared-world card.'
+placement_rationale: 'Root-down: Fantasy -> Real earth fantasy -> Portal fantasy -> Fantasy rifts -> Multiverse fantasy. SFE describes the two conjoined trilogies
+  as one alternate-cosmos sequence: openings between parallel worlds and Dust structure His Dark Materials, while The Book of Dust narratively surrounds it and returns
+  to Lyra, daemons, Dust and the same universe. Candidate 680 The Secret Commonwealth is therefore deduped into this complete six-novel shared-world card.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/pullman_philip
 - https://www.penguinrandomhouse.com/books/246698/the-book-of-dust-the-secret-commonwealth-book-of-dust-volume-2-by-philip-pullman/
@@ -39,10 +38,13 @@ cover_curation:
   display_eligible: true
   candidates_visually_reviewed: 6
   selection_rule: one-pass series review
-partition_note: Repartitioned from Fantasy rifts under the curator's 2026-09-20 ruling (Multiverse fantasy = many-worlds system; Otherworld fantasy = one hidden
-  world revealed).
+partition_note: Repartitioned from Fantasy rifts under the curator's 2026-09-20 ruling (Multiverse fantasy = many-worlds system; Otherworld fantasy = one hidden world
+  revealed).
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/portal-fantasy/multiverse-fantasy to match live tree; placement
-    unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/portal-fantasy/multiverse-fantasy to match live tree; placement unchanged
+    on site.'
   previous_canonical_genre: multiverse-fantasy
+- date: '2026-10-01'
+  note: 'Removed duplicate separate Book of Dust card; all three novels remain here. Owner phonemsg-01M3TXJV5305CGK0V900N2EG1Q: Yes ofc, clean up, there shall be
+    no duplicates. Old Book of Dust routes redirect here.'

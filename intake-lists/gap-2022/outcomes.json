@@ -4898,13 +4898,14 @@
       "intake_title": "The Rose Field",
       "intake_author": "Philip Pullman",
       "status": "represented",
-      "action": "already-in-tree",
-      "card": "The Book of Dust",
+      "action": "deduplicated",
+      "card": "His Dark Materials",
       "book": "The Rose Field",
       "leaf": "multiverse-fantasy",
       "authors": [
         "Philip Pullman"
-      ]
+      ],
+      "reason": "Book of Dust trilogy already included in six-book HDM card; duplicate separate card removed on2026-10-01 owner ruling."
     },
     {
       "n": 385,
