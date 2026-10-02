@@ -1,0 +1,742 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 4004
+  title: "The Broken Hearts Agency"
+  author: "Clarence A. Haynes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 4005
+  title: "The Ghosts of Gwendolyn Montgomery"
+  author: "Clarence A. Haynes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4006
+  title: "Weird World War III"
+  author: "Sean Patrick Hazlett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 4007
+  title: "Weird World War IV"
+  author: "Sean Patrick Hazlett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 4008
+  title: "The Tallest Doll in New York City"
+  author: "Maria Dahvana Headley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 4009
+  title: "Some Gods of El Paso"
+  author: "Maria Dahvana Headley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 4010
+  title: "The Girlfriend's Guide to Gods"
+  author: "Maria Dahvana Headley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 4012
+  title: "Grimoire of the Lamb: An Iron Druid Chronicles Novella"
+  author: "Kevin Hearne"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4013
+  title: "A Plague of Giants"
+  author: "Kevin Hearne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4015
+  title: "A Blight of Blackwings"
+  author: "Kevin Hearne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4030
+  title: "A Curse of Krakens"
+  author: "Kevin Hearne"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4031
+  title: "Candle & Crow"
+  author: "Kevin Hearne"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4032
+  title: "A Fairy-tale Ending"
+  author: "Jack Heckel"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 4033
+  title: "Happily Never After"
+  author: "Jack Heckel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 4034
+  title: "The Dark Lord"
+  author: "Jack Heckel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 4035
+  title: "The Darker Lord"
+  author: "Jack Heckel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 4036
+  title: "The Darkest Lord"
+  author: "Jack Heckel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 4037
+  title: "The Pitchfork of Destiny"
+  author: "Jack Heckel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 4038
+  title: "The Unicorns Who Saved Christmas"
+  author: "Mary Winn Heider"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 4039
+  title: "Variable Star"
+  author: "Robert A. Heinlein"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4041
+  title: "Starman Jones"
+  author: "Robert A. Heinlein"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4042
+  title: "The Star Beast"
+  author: "Robert A. Heinlein"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4043
+  title: "The Man Who Sold the Moon & Orphans of the Sky"
+  author: "Robert A. Heinlein"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 4044
+  title: "Beyond This Horizon"
+  author: "Robert A. Heinlein"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4045
+  title: "Waldo & Magic, Inc."
+  author: "Robert A. Heinlein"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 4046
+  title: "I Will Fear No Evil"
+  author: "Robert A. Heinlein"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4047
+  title: "Raging Storm"
+  author: "Markus Heitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4048
+  title: "The Dwarves"
+  author: "Markus Heitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4049
+  title: "The Fate of the Dwarves"
+  author: "Markus Heitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4050
+  title: "The Revenge of the Dwarves"
+  author: "Markus Heitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4051
+  title: "The Triumph of the Dwarves"
+  author: "Markus Heitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4052
+  title: "The War of the Dwarves"
+  author: "Markus Heitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4056
+  title: "The Valdemar Companion"
+  author: "John Helfers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 4057
+  title: "The Freedom of Navid Leahy"
+  author: "Jenna Helland"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4058
+  title: "Our Dark Incantations"
+  author: "Wanda Hellmund"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 4059
+  title: "The Greenstone Grail"
+  author: "Amanda Hemingway"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: arthur-returned
+  note: ""
+- id: 4060
+  title: "The Sword of Straw"
+  author: "Amanda Hemingway"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: arthur-returned
+  note: ""
+- id: 4061
+  title: "The Poisoned Crown"
+  author: "Amanda Hemingway"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: arthur-returned
+  note: ""
+- id: 4062
+  title: "The God Peak"
+  author: "Patrick Hemstreet"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 4063
+  title: "The God Wave"
+  author: "Patrick Hemstreet"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 4079
+  title: "The Dog in the Dark"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 4080
+  title: "The Mist-Torn Witches"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4081
+  title: "Witches in Red"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4082
+  title: "A Wind in the Night"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 4083
+  title: "First and Last Sorcerer"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4084
+  title: "Witches with the Enemy"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4085
+  title: "The Night Voice"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 4086
+  title: "To Kill a Kettle Witch"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4087
+  title: "The Dead Seekers"
+  author: "Barb Hendee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 4088
+  title: "An Academy for Liars"
+  author: "Alexis Henderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4089
+  title: "The Godfrey Home for Demonic Children"
+  author: "Alexis Henderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4090
+  title: "Central Park Knight"
+  author: "C. J. Henderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4091
+  title: "The Magic in Changing Your Stars"
+  author: "Leah Henderson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 4092
+  title: "Finn Fancy Necromancy"
+  author: "Randy Henderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4093
+  title: "Bigfootloose and Finn Fancy Free"
+  author: "Randy Henderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4094
+  title: "Smells Like Finn Spirit"
+  author: "Randy Henderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4095
+  title: "Spears of God"
+  author: "Howard Hendrix"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""

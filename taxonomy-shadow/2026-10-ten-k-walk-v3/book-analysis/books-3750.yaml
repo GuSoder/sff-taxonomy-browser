@@ -987,6 +987,19 @@
   source: web
   decision: campus-and-coven
   note: ""
+- id: 3843
+  title: "Firstdawn"
+  author: "Lana Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
 - id: 3844
   title: "Succubus in the City"
   author: "Nina Harper"
@@ -1753,4 +1766,394 @@
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3962
+  title: "The Science Fiction Century, Volume One"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3963
+  title: "Year's Best Fantasy 9"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3964
+  title: "The Palencar Project"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3965
+  title: "Twenty-First Century Science Fiction"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3966
+  title: "Year's Best SF 18"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3967
+  title: "Christmas Magic"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3968
+  title: "Northern Stars"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3969
+  title: "Merciful Carnage"
+  author: "Sara Hashem"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 3970
+  title: "The Jasad Crown"
+  author: "Sara Hashem"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 3971
+  title: "The Jasad Heir"
+  author: "Sara Hashem"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 3972
+  title: "Blood and Fate"
+  author: "A.C. Haskins"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3973
+  title: "Blood and Whispers"
+  author: "A.C. Haskins"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3974
+  title: "Graveyard Shift"
+  author: "Michael F. Haspil"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 3975
+  title: "A Matter of Security"
+  author: "Bjorn Hasseler"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 3976
+  title: "Faithful"
+  author: "Michelle Hauck"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 3977
+  title: "Grudging"
+  author: "Michelle Hauck"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 3978
+  title: "Steadfast"
+  author: "Michelle Hauck"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 3979
+  title: "Gallow: The Crimson Shield"
+  author: "Nathan Hawke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 3980
+  title: "Gallow: The Fateguard Trilogy"
+  author: "Nathan Hawke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 3981
+  title: "Gallow: The Last Bastion"
+  author: "Nathan Hawke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 3984
+  title: "Spell Bound"
+  author: "Rachel Hawkins"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3985
+  title: "Servant of Earth"
+  author: "Sarah Hawley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 3986
+  title: "Princess of Blood"
+  author: "Sarah Hawley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 3987
+  title: "Warrior of the Shards"
+  author: "Sarah Hawley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 3988
+  title: "A Demon's Guide to Wooing a Witch"
+  author: "Sarah Hawley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3989
+  title: "A Werewolf's Guide to Seducing a Vampire"
+  author: "Sarah Hawley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3990
+  title: "A Witch's Guide to Fake Dating a Demon"
+  author: "Sarah Hawley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3991
+  title: "Starlight 3"
+  author: "Patrick Nielsen Hayden"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3992
+  title: "Some of the Best from Tor.com: 2011 Edition"
+  author: "Patrick Nielsen Hayden"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
+  note: ""
+- id: 3993
+  title: "Some of the Best from Tor.com: 2012 Edition"
+  author: "Patrick Nielsen Hayden"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION
   note: ""
