@@ -480,3 +480,1147 @@
   source: web
   decision: dying-earth
   note: ""
+- id: 3567
+  title: "Fat"
+  author: "Rob Grant"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-capers
+  note: ""
+- id: 3568
+  title: "Incompetence"
+  author: "Rob Grant"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-capers
+  note: ""
+- id: 3569
+  title: "The Queens of Innis Lear"
+  author: "Tessa Gratton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 3570
+  title: "Lady Hotspur"
+  author: "Tessa Gratton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 3571
+  title: "The Mercy Makers"
+  author: "Tessa Gratton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 3572
+  title: "The Shape of Monsters"
+  author: "Tessa Gratton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 3574
+  title: "Bright and Broken Things"
+  author: "Ryan Graudin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: society-and-sleuths
+  note: ""
+- id: 3575
+  title: "Invictus"
+  author: "Ryan Graudin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-romance
+  note: ""
+- id: 3576
+  title: "The Walled City"
+  author: "Ryan Graudin"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dystopian-rebellion
+  note: ""
+- id: 3578
+  title: "The Ghost Line"
+  author: "Andrew Neil Gray"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 3579
+  title: "Defy the Fates"
+  author: "Claudia Gray"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-romance
+  note: ""
+- id: 3580
+  title: "Defy the Stars"
+  author: "Claudia Gray"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-romance
+  note: ""
+- id: 3581
+  title: "Defy the Worlds"
+  author: "Claudia Gray"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-romance
+  note: ""
+- id: 3582
+  title: "By the Light of the Stars"
+  author: "Emily Gray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 3583
+  title: "The Wicked Sea"
+  author: "Jordan Stephanie Gray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 3584
+  title: "Cursebreaker"
+  author: "R. M. Gray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 3585
+  title: "Nightweaver"
+  author: "R. M. Gray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 3586
+  title: "Starchaser"
+  author: "R. M. Gray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 3587
+  title: "The City of the Wise"
+  author: "J.T. Greathouse"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3588
+  title: "The Tower of the Tyrant"
+  author: "J.T. Greathouse"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3589
+  title: "Red Rabbit"
+  author: "Alex Grecian"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 3590
+  title: "Rose of Jericho"
+  author: "Alex Grecian"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 3591
+  title: "Emerald Magic"
+  author: "Andrew M. Greeley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3592
+  title: "The Magic Cup"
+  author: "Andrew M. Greeley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: arthur-returned
+  note: ""
+- id: 3593
+  title: "God Game"
+  author: "Andrew M. Greeley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3594
+  title: "The Final Planet"
+  author: "Andrew M. Greeley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 3605
+  title: "The Man with the Golden Torc"
+  author: "Simon R. Green"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3607
+  title: "Jekyll & Hyde Inc."
+  author: "Simon R. Green"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 3608
+  title: "Haunted by the Past"
+  author: "Simon R. Green"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 3609
+  title: "The Dark Side of the Road"
+  author: "Simon R. Green"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 3610
+  title: "Dead Man Walking"
+  author: "Simon R. Green"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 3611
+  title: "For Love of Magic"
+  author: "Simon R. Green"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3612
+  title: "Hyde & Seek"
+  author: "Simon R. Green"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 3613
+  title: "Blue Limbo"
+  author: "Terence. M. Green"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 3614
+  title: "Give Me Liberty"
+  author: "Martin Harry Greenberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3615
+  title: "Visions of Liberty"
+  author: "Martin Harry Greenberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3616
+  title: "Freedom!"
+  author: "Martin Harry Greenberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3617
+  title: "Questions Asked in the Belly of the World"
+  author: "A. T. Greenblatt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3618
+  title: "Between Home and a House on Fire"
+  author: "A. T. Greenblatt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3622
+  title: "Finders Seekers"
+  author: "Gayle Greeno"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3623
+  title: "Mindspeakers' Call"
+  author: "Gayle Greeno"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3624
+  title: "Exiles' Return"
+  author: "Gayle Greeno"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3625
+  title: "Mind Snare"
+  author: "Gayle Greeno"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3626
+  title: "Sunderlies Seeking"
+  author: "Gayle Greeno"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3627
+  title: "The Farthest Seeking"
+  author: "Gayle Greeno"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3628
+  title: "We Three Dragons"
+  author: "Ed Greenwood"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 3629
+  title: "The Iron Assassin"
+  author: "Ed Greenwood"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 3631
+  title: "Pandemonium"
+  author: "Daryl Gregory"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: extra-dimensional-awareness
+  note: ""
+- id: 3632
+  title: "The Devil's Alphabet"
+  author: "Daryl Gregory"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: extra-dimensional-awareness
+  note: ""
+- id: 3633
+  title: "Raising Stony Mayhall"
+  author: "Daryl Gregory"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-pandemic-survival
+  note: ""
+- id: 3634
+  title: "Afterparty"
+  author: "Daryl Gregory"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: altered-selves
+  note: ""
+- id: 3635
+  title: "Harrison Squared"
+  author: "Daryl Gregory"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: cryptid-horror
+  note: ""
+- id: 3636
+  title: "Nine Last Days on Planet Earth"
+  author: "Daryl Gregory"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3637
+  title: "The Album of Dr. Moreau"
+  author: "Daryl Gregory"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 3638
+  title: "Im Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe"
+  author: "Daryl Gregory"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3639
+  title: "A Walk Through the Woods"
+  author: "Louise Greig"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3640
+  title: "Vor: Operation Sierra-75"
+  author: "Thomas S. Gressman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 3641
+  title: "Flight of the King"
+  author: "C. R. Grey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: animal-fantasy
+  note: ""
+- id: 3645
+  title: "Eat the Ones You Love"
+  author: "Sarah Maria Griffin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 3646
+  title: "Strange Is the Light"
+  author: "Sarah Maria Griffin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 3650
+  title: "A Honeymoon in Space"
+  author: "George Griffith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 3651
+  title: "Slow River"
+  author: "Nicola Griffith"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 3652
+  title: "Cold Wind"
+  author: "Nicola Griffith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3653
+  title: "In a Fix"
+  author: "Linda Grimes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3654
+  title: "Quick Fix"
+  author: "Linda Grimes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3655
+  title: "Pre-Fix"
+  author: "Linda Grimes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3656
+  title: "The Big Fix"
+  author: "Linda Grimes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3657
+  title: "All Fixed Up"
+  author: "Linda Grimes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3658
+  title: "The Ordinary"
+  author: "Jim Grimsley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3659
+  title: "The Last Green Tree"
+  author: "Jim Grimsley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3664
+  title: "End of the World Blues"
+  author: "Jon Courtenay Grimwood"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 3668
+  title: "Bad Glass"
+  author: "Richard E. Gropp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: terminal-wastelands
+  note: ""
+- id: 3669
+  title: "The Guns of Two-Space"
+  author: "Dave Grossman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: multiverse
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: war-across-worlds
+  note: ""
+- id: 3670
+  title: "9780316281225"
+  author: "Lev Grossman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 3671
+  title: "The Golden Swift"
+  author: "Lev Grossman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 3672
+  title: "The Silver Arrow"
+  author: "Lev Grossman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 3673
+  title: "Key to Conflict"
+  author: "Talia Gryphon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3674
+  title: "Key to Conspiracy"
+  author: "Talia Gryphon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3675
+  title: "Key to Redemption"
+  author: "Talia Gryphon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3676
+  title: "Key to Justice"
+  author: "Talia Gryphon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3677
+  title: "The Hurricane Wars"
+  author: "Deluxe Collectors Edition Thea Guanzon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 3678
+  title: "This Shattered Tempest"
+  author: "Deluxe Limited Edition Thea Guanzon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 3679
+  title: "A Monsoon Rising"
+  author: "Thea Guanzon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 3680
+  title: "The Cathedral of Known Things"
+  author: "The Relic Guild"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3681
+  title: "The Relic Guild"
+  author: "The Relic Guild"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3682
+  title: "The Watcher of Dead Time"
+  author: "The Relic Guild"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3683
+  title: "The Eye of the Heron"
+  author: "Ursula K. Le Guin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 3685
+  title: "Worlds of Exile and Illusion"
+  author: "Ursula K. Le Guin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
