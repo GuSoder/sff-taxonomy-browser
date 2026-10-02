@@ -119,12 +119,12 @@
 - id: 2266
   title: "Foreign Bodies"
   author: "Stephen Dedman"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
@@ -361,7 +361,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2293
   title: "Among the Silvering Herd"
@@ -374,7 +374,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2294
   title: "Blue Magic"
@@ -400,7 +400,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2296
   title: "The Ugly Woman of Castello di Putti"
@@ -413,7 +413,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2297
   title: "1635: The Tangled Web"
@@ -457,12 +457,12 @@
 - id: 2300
   title: "Total Oblivion, More or Less"
   author: "Alan DeNiro"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
@@ -582,7 +582,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 2310
   title: "The Watchers Out of Time"
@@ -673,7 +673,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
   note: ""
 - id: 2321
   title: "A Maze of Death"
@@ -691,12 +691,12 @@
 - id: 2323
   title: "Cantata-140"
   author: "Philip K Dick"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
@@ -764,7 +764,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2330
   title: "Human Is?"
@@ -777,7 +777,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2331
   title: "Humpty Dumpty In Oakland"
@@ -790,7 +790,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2332
   title: "In Milton Lumky Territory"
@@ -803,17 +803,17 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2333
   title: "Lies, Inc."
   author: "Philip K Dick"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
@@ -829,7 +829,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2335
   title: "Minority Report"
@@ -842,7 +842,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2336
   title: "Nick and the Glimmung"
@@ -894,7 +894,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2340
   title: "Solar Lottery"
@@ -920,7 +920,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2342
   title: "The Cosmic Puppets"
@@ -959,7 +959,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2346
   title: "The Simulacra"
@@ -977,12 +977,12 @@
 - id: 2347
   title: "The Transmigration of Timothy Archer"
   author: "Philip K Dick"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
@@ -1037,7 +1037,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2353
   title: "The Best Military Science Fiction of the 20th Century"
@@ -1492,7 +1492,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 2388
   title: "Bull Moon Rising"
@@ -1588,12 +1588,12 @@
 - id: 2395
   title: "Someone Comes to Town, Someone Leaves Town"
   author: "Cory Doctorow"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
@@ -2038,7 +2038,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 2449
   title: "Fantasy Football The Next Level"
@@ -2051,7 +2051,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 2450
   title: "The Thirteenth Man"

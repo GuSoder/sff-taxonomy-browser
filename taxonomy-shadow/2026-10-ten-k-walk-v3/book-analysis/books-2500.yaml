@@ -145,12 +145,12 @@
 - id: 2511
   title: "Go, Mutants!"
   author: "Larry Doyle"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
@@ -764,17 +764,17 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 2562
   title: "Redliners"
   author: "David Drake"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -920,7 +920,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2582
   title: "Other Times Than Peace"
@@ -977,12 +977,12 @@
 - id: 2596
   title: "Patriots"
   author: "David Drake"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -1063,7 +1063,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2606
   title: "Voyage Across the Stars"
@@ -1076,7 +1076,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 2607
   title: "An Honorable Defense"
@@ -1198,12 +1198,12 @@
 - id: 2617
   title: "Redliners, Second Edition"
   author: "David Drake"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -1401,7 +1401,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2643
   title: "The Asylum Interviews: Bronx"
@@ -1536,12 +1536,12 @@
 - id: 2657
   title: "Stealing the Elf-Kings Roses"
   author: "Diane Duane"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -2272,7 +2272,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 2738
   title: "Crystal Gorge"
@@ -2337,7 +2337,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2745
   title: "Sandymancer"
@@ -2363,7 +2363,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2747
   title: "Norse Code"

@@ -2251,12 +2251,12 @@
 - id: 2234
   title: "The Thin Place"
   author: "Kathryn Davis"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
@@ -2272,7 +2272,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2236
   title: "The Violence"
@@ -2290,12 +2290,12 @@
 - id: 2237
   title: "It Will Only Hurt for a Moment"
   author: "Delilah S. Dawson"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
@@ -2316,12 +2316,12 @@
 - id: 2239
   title: "The Lighthouse at the Edge of the World"
   author: "J.R. Dawson"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
@@ -2350,7 +2350,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
   note: ""
 - id: 2242
   title: "Eve of Chaos"
@@ -2454,5 +2454,5 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""

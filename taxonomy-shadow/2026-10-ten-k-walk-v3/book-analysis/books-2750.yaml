@@ -23,7 +23,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 2755
   title: "Uncanny Valley"
@@ -49,17 +49,17 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2757
   title: "Perihelion Summer"
   author: "Greg Egan"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
@@ -75,7 +75,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2759
   title: "Axiomatic"
@@ -88,7 +88,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 2761
   title: "Distress"
@@ -127,7 +127,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2764
   title: "Oceanic"
@@ -140,7 +140,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2766
   title: "Quarantine"
@@ -179,7 +179,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 2773
   title: "Zendegi"
@@ -197,12 +197,12 @@
 - id: 2774
   title: "The Lightest Object in the Universe"
   author: "Kimi Eisele"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
@@ -296,7 +296,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2783
   title: "The Andromeda Anthology"
@@ -309,7 +309,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2796
   title: "Servant Mage"
@@ -335,7 +335,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2798
   title: "The Nameless Land"
@@ -478,7 +478,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2812
   title: "Greatest Hits"
@@ -491,7 +491,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 2813
   title: "Starfire: A Red Peace"
@@ -530,7 +530,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 2816
   title: "Starfire: Memory's Blade"
@@ -556,7 +556,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 2820
   title: "Keeper of the King"
@@ -595,7 +595,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 2824
   title: "The Daughters of Izdihar"
@@ -738,7 +738,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2835
   title: "All that Means or Mourns"
@@ -751,7 +751,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2836
   title: "First Born"
@@ -894,7 +894,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2847
   title: "Endless Blue Beneath"
@@ -1037,7 +1037,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 2860
   title: "The Wurms of Blearmouth"
@@ -1102,7 +1102,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2891
   title: "Notorious Sorcerer"
@@ -1237,12 +1237,12 @@
 - id: 2902
   title: "Imaginary Friend"
   author: "Events"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
@@ -1258,7 +1258,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 2905
   title: "The Whispering Dark"
