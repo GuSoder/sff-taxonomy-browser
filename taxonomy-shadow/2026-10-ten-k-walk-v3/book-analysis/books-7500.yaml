@@ -1819,3 +1819,913 @@
   source: web
   decision: city-magic-urban
   note: ""
+- id: 7642
+  title: "Even White Trash Zombies Get the Blues"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7643
+  title: "Sins of the Demon"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7644
+  title: "Touch of the Demon"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7645
+  title: "White Trash Zombie Apocalypse"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7646
+  title: "Fury of the Demon"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7647
+  title: "How the White Trash Zombie Got Her Groove Back"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7648
+  title: "Vengeance of the Demon"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7649
+  title: "White Trash Zombie Gone Wild"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7650
+  title: "Legacy of the Demon"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7651
+  title: "White Trash Zombie Unchained"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7652
+  title: "Rise of the Demon"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7653
+  title: "Night Owls"
+  author: "Lauren M. Roy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 7654
+  title: "Grave Matters"
+  author: "Lauren M. Roy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 7655
+  title: "The Freedom Race"
+  author: "Lucinda Roy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7656
+  title: "Flying the Coop"
+  author: "Lucinda Roy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7657
+  title: "The Bird Tribe"
+  author: "Lucinda Roy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7658
+  title: "Psychopomp & Circumstance"
+  author: "Eden Royce"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-small-towns
+  note: ""
+- id: 7659
+  title: "Spaceland"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7660
+  title: "Frek and the Elixir"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7661
+  title: "Hylozoic"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7662
+  title: "Postsingular"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7663
+  title: "Jack and the Aktuals, or, Physical Applications of Transfinite Set Theory"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7664
+  title: "Where the Lost Things Are"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7665
+  title: "Totem Poles"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7666
+  title: "Mad Professor"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7667
+  title: "The Hacker and the Ants"
+  author: "Rudy Rucker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7668
+  title: "The Edinburgh Dead"
+  author: "Brian Ruckley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 7669
+  title: "The Free"
+  author: "Brian Ruckley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7670
+  title: "Sword & Planet"
+  author: "Christopher Ruocchio"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7679
+  title: "Songs of the Sun Eater"
+  author: "Christopher Ruocchio"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7680
+  title: "The Tenth Planet"
+  author: "Kristine Kathryn Rusch"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moon-bases-and-neighbour-worlds
+  note: ""
+- id: 7681
+  title: "The Tenth Planet: Oblivion"
+  author: "Kristine Kathryn Rusch"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moon-bases-and-neighbour-worlds
+  note: ""
+- id: 7682
+  title: "Women of Futures Past"
+  author: "Kristine Kathryn Rusch"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7683
+  title: "Erased"
+  author: "Jennifer Rush"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-gifted-and-immortals
+  note: ""
+- id: 7684
+  title: "Reborn"
+  author: "Jennifer Rush"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-gifted-and-immortals
+  note: ""
+- id: 7685
+  title: "Wasp"
+  author: "Eric Frank Russell"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7686
+  title: "World Without End"
+  author: "Sean Russell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7687
+  title: "Sea Without a Shore"
+  author: "Sean Russell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7688
+  title: "Beneath the Vaulted Hills"
+  author: "Sean Russell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7689
+  title: "The Compass of the Soul"
+  author: "Sean Russell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7690
+  title: "The Initiate Brother Duology"
+  author: "Sean Russell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 7691
+  title: "Moontide and Magic Rise"
+  author: "Sean Russell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7692
+  title: "River Into Darkness"
+  author: "Sean Russell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7693
+  title: "Ship of Fools"
+  author: "Richard Paul Russo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 7694
+  title: "The Rosetta Codex"
+  author: "Richard Paul Russo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 7695
+  title: "Jacks and Queens at the Green Mill"
+  author: "Marie Rutkoski"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7696
+  title: "Red River Seven"
+  author: "A. J. Ryan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7700
+  title: "The Waking Fire"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7701
+  title: "The Legion of Flame"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7702
+  title: "The Empire of Ashes"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7705
+  title: "A Tide of Black Steel"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7706
+  title: "Born of an Iron Storm"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7707
+  title: "The Martyr"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7708
+  title: "The Pariah"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7709
+  title: "The Traitor"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7710
+  title: "Upon the Forge of Battle"
+  author: "Anthony Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7711
+  title: "Dexta"
+  author: "C.J. Ryan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7712
+  title: "Glorious Treason"
+  author: "C.J. Ryan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7713
+  title: "The Fifth Quadrant"
+  author: "C.J. Ryan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7714
+  title: "Burdens of Empire"
+  author: "C.J. Ryan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7715
+  title: "City of Thirst"
+  author: "Carrie Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7716
+  title: "Iron Tide Rising"
+  author: "Carrie Ryan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7720
+  title: "The Child Garden"
+  author: "Geoff Ryman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7721
+  title: "Was"
+  author: "Geoff Ryman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7722
+  title: "Empire of the East"
+  author: "Fred Saberhagen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7723
+  title: "Ardneh's Sword"
+  author: "Fred Saberhagen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7724
+  title: "Of Berserkers, Swords and Vampires"
+  author: "Fred Saberhagen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7725
+  title: "Golden Reflections"
+  author: "Fred Saberhagen"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-small-towns
+  note: ""
+- id: 7726
+  title: "The Magician of Tiger Castle"
+  author: "Louis Sachar"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7727
+  title: "Arbitrium"
+  author: "Anjali Sachdeva"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
