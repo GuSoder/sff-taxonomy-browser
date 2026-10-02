@@ -1,0 +1,898 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 10000
+  title: "Anything With Nothing"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10001
+  title: "Free Nonfiction 2022"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 10002
+  title: "Free Stories 2022"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 10003
+  title: "Liberty's Daughter"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ark-dreamers-and-girls
+  note: ""
+- id: 10004
+  title: "Feuds"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10005
+  title: "Smoke and Mirrors"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10006
+  title: "A Many-Splintered Thing"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10007
+  title: "Paranormal Payback"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10008
+  title: "Death Maidens"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10009
+  title: "Acorna's Quest"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: searchers-and-outback-stars
+  note: ""
+- id: 10010
+  title: "Angel's Ink"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: supernatural-big-cities
+  note: ""
+- id: 10011
+  title: "Arslan"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10012
+  title: "Dead Man's Deal"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: supernatural-big-cities
+  note: ""
+- id: 10013
+  title: "Death's Head Legion"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SERIAL-EPISODES
+  note: ""
+- id: 10014
+  title: "Death's Sweet Embrace"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 10015
+  title: "Demon's Vengeance"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 10016
+  title: "Demon's Vow"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10017
+  title: "Emperor's Dragon"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: heroes-and-beasts
+  note: ""
+- id: 10018
+  title: "Empire of the Saviours"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 10019
+  title: "Exile's Return"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 10020
+  title: "Foundation's Fear"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: foundation-league-and-children
+  note: ""
+- id: 10021
+  title: "Gallowglass"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-realm-novels-b
+  note: ""
+- id: 10022
+  title: "Gateway of the Saviours"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 10023
+  title: "Hunter's Run"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 10024
+  title: "I'm Waiting for You"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 10025
+  title: "Ilario: The Lion's Eye"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: assassin-series
+  note: ""
+- id: 10026
+  title: "King's Wrath"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: heirs-and-bastards
+  note: ""
+- id: 10027
+  title: "Lincoln's Sword"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: alt_history
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 10028
+  title: "Magician's End"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 10029
+  title: "Market Forces"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: minds-and-mathematics-of-the-near-future
+  note: ""
+- id: 10030
+  title: "Night's Cold Kiss"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 10031
+  title: "On Her Majesty's Behalf"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10032
+  title: "Rebellion's Fury"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 10033
+  title: "Renegade's Magic"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: outlaws-exiles-and-villains
+  note: ""
+- id: 10034
+  title: "Shaman's Crossing"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: outlaws-exiles-and-villains
+  note: ""
+- id: 10035
+  title: "Sin's Dark Caress"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 10036
+  title: "Syndicate's Pawns"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10037
+  title: "The Blind King's Wrath"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10038
+  title: "The Complete Chronicles Of Conan"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 10039
+  title: "The Devil's Bag Man"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10040
+  title: "The Devil's Diadem"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 10041
+  title: "The Emperor's Fist"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10042
+  title: "The Eye of Winter's Fury"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 10043
+  title: "The Flight of the Aphrodite"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 10044
+  title: "The Heart of Fire"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 10045
+  title: "The Legion of Shadow"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 10046
+  title: "The Puzzler's War"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dark-lands-and-weavers
+  note: ""
+- id: 10047
+  title: "The Queen's Necklace"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 10048
+  title: "The Song of the Sycamore"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 10049
+  title: "The Wood Bee Queen"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 10050
+  title: "Time's Child"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 10051
+  title: "Tithe of the Saviours"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 10052
+  title: "Tyrant's Blood"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: heirs-and-bastards
+  note: ""
+- id: 10053
+  title: "Year's Best Fantasy"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10054
+  title: "Year's Best Fantasy 2"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10055
+  title: "Year's Best Fantasy 3"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10056
+  title: "Year's Best SF"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10057
+  title: "Year's Best SF 10"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10058
+  title: "Year's Best SF 11"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10059
+  title: "Year's Best SF 13"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10060
+  title: "Year's Best SF 14"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10061
+  title: "Year's Best SF 15"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10062
+  title: "Year's Best SF 17"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10063
+  title: "Year's Best SF 2"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10064
+  title: "Year's Best SF 3"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10065
+  title: "Year's Best SF 4"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10066
+  title: "Year's Best SF 6"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10067
+  title: "Year's Best SF 7"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 10068
+  title: "Year's Best SF 8"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""

@@ -2586,3 +2586,406 @@
   source: web
   decision: HOLD:NON-FICTION
   note: ""
+- id: 9969
+  title: "Black Tide Rising"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9970
+  title: "Dark Shadows: Heiress of Collinwood"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 9971
+  title: "Shadowed Souls"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 9972
+  title: "Down and Out in Purgatory"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9973
+  title: "Red Vengeance"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 9974
+  title: "Deep State"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: minds-and-mathematics-of-the-near-future
+  note: ""
+- id: 9975
+  title: "Diamonds From Tequila"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9976
+  title: "Target Rich Environment"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9977
+  title: "The Clan Chronicles: Tales from Plexis"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9978
+  title: "The Fourth Wall"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: minds-and-mathematics-of-the-near-future
+  note: ""
+- id: 9979
+  title: "This Is Not a Game"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: minds-and-mathematics-of-the-near-future
+  note: ""
+- id: 9980
+  title: "Geosynchron"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: minds-and-mathematics-of-the-near-future
+  note: ""
+- id: 9981
+  title: "Infoquake"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: minds-and-mathematics-of-the-near-future
+  note: ""
+- id: 9982
+  title: "MultiReal"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: minds-and-mathematics-of-the-near-future
+  note: ""
+- id: 9983
+  title: "Seasons"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9984
+  title: "Albion"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9985
+  title: "Fire with Fire, Third Edition"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: conflict-and-closed-societies
+  note: ""
+- id: 9986
+  title: "Horngard"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingslayers-and-standalone-fantasies
+  note: ""
+- id: 9987
+  title: "Ice Trials"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9988
+  title: "Passages"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9989
+  title: "Tempered By Fire"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9990
+  title: "The World"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9991
+  title: "A Dirge for Sabis"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hard-swords
+  note: ""
+- id: 9992
+  title: "Boundaries"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9993
+  title: "Wizard Spawn"
+  author: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hard-swords
+  note: ""
+- id: 9994
+  title: "Agent of Change: Thirtieth"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9995
+  title: "Ballistic"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9996
+  title: "Days of Future Past, Part 2: Present Tense"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 9997
+  title: "Days of Future Past, Part 3: Future Tense"
+  author: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 9998
+  title: "Free Nonfiction 2021"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 9999
+  title: "Heroic Hearts"
+  author: ""
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
