@@ -1845,3 +1845,913 @@
   source: web
   decision: city-thieves
   note: ""
+- id: 6903
+  title: "The Devil You Know"
+  author: "K. J. Parker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6904
+  title: "Prosper's Demon"
+  author: "K. J. Parker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6905
+  title: "Inside Man"
+  author: "K. J. Parker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6906
+  title: "Pulling the Wings Off Angels"
+  author: "K. J. Parker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6907
+  title: "Burning Books for Pleasure and Profit"
+  author: "K. J. Parker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6908
+  title: "Set in Stone"
+  author: "K. J. Parker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 6909
+  title: "Making History"
+  author: "K. J. Parker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 6918
+  title: "Sister Svangerd and the Chosen One"
+  author: "K. J. Parker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6919
+  title: "Sister Svangerd and the Devil You Know"
+  author: "K. J. Parker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6920
+  title: "Sister Svangerd and the Not Quite Dead"
+  author: "K. J. Parker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6928
+  title: "The Radiant Emperor Duology"
+  author: "Shelley Parker-Chan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6929
+  title: "Four Horsemen, at Their Leisure"
+  author: "Richard Parks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 6930
+  title: "The EARTH Book"
+  author: "Todd Parr"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6934
+  title: "The Magicians Daughter"
+  author: "H. G. Parry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 6935
+  title: "The Unlikely Escape of Uriah Heep"
+  author: "H. G. Parry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 6936
+  title: "The Witch Below the Dreaming Wood"
+  author: "H. G. Parry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 6937
+  title: "Picture Perfect"
+  author: "Serena Patel"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6938
+  title: "Thoughts Be Bloody"
+  author: "Auden Patrick"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-cities-and-liars
+  note: ""
+- id: 6939
+  title: "The Boy Who Wept Blood"
+  author: "Den Patrick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6940
+  title: "The Boy with the Porcelain Blade"
+  author: "Den Patrick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6941
+  title: "The Girl on the Liar's Throne"
+  author: "Den Patrick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6942
+  title: "Monster Slayer"
+  author: "Brian Patten"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6943
+  title: "An Armada of Trouble"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6944
+  title: "Crazy House"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6945
+  title: "Cross and Sampson"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6946
+  title: "Holmes, Marple & Poe"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6947
+  title: "Maximum Ride: Schools Out Forever: Booktrack Edition"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6948
+  title: "Not So Normal Norbert"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6949
+  title: "The"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6950
+  title: "The Angel Experiment: Booktrack Edition"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6951
+  title: "The Fire"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6952
+  title: "The Gift"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-PATTERSON-WITCH-AND-WIZARD-UNCLEAR
+  note: ""
+- id: 6953
+  title: "The Invisible Woman"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6954
+  title: "The Kiss"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-PATTERSON-WITCH-AND-WIZARD-UNCLEAR
+  note: ""
+- id: 6955
+  title: "The Lake House"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6956
+  title: "The Lost"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-PATTERSON-WITCH-AND-WIZARD-UNCLEAR
+  note: ""
+- id: 6957
+  title: "The Pharaohs Tomb"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6958
+  title: "The Texas Murders"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6959
+  title: "The Time Travel Twins"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6960
+  title: "Witch & Wizard"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-PATTERSON-WITCH-AND-WIZARD-UNCLEAR
+  note: ""
+- id: 6961
+  title: "Witch & Wizard: Booktrack Edition"
+  author: "James Patterson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-PATTERSON-WITCH-AND-WIZARD-UNCLEAR
+  note: ""
+- id: 6964
+  title: "The Stone Prince"
+  author: "Fiona Patton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6965
+  title: "The Painter Knight"
+  author: "Fiona Patton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6966
+  title: "The Granite Shield"
+  author: "Fiona Patton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6967
+  title: "The Golden Sword"
+  author: "Fiona Patton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6968
+  title: "The Silver Lake"
+  author: "Fiona Patton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6969
+  title: "The Golden Tower"
+  author: "Fiona Patton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6970
+  title: "The Shining City"
+  author: "Fiona Patton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6975
+  title: "A Widow's Charm"
+  author: "Caitlyn Paxson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: romance-in-fae-cities
+  note: ""
+- id: 6976
+  title: "Rogue Charmers"
+  author: "Caitlyn Paxson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: romance-in-fae-cities
+  note: ""
+- id: 6977
+  title: "The Hallowed Isle Book Four"
+  author: "Diana L Paxson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 6978
+  title: "Marion Zimmer Bradley's Ancestors of Avalon"
+  author: "Diana L. Paxson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 6979
+  title: "The Golden Hills of Westria"
+  author: "Diana L. Paxson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 6980
+  title: "Marion Zimmer Bradley's Ravens of Avalon"
+  author: "Diana L. Paxson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 6981
+  title: "Marion Zimmer Bradley's Sword of Avalon"
+  author: "Diana L. Paxson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 6982
+  title: "The Inkwell Chronicles Collection"
+  author: "J. D. Peabody"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6983
+  title: "The Inkwell Chronicles: Operation Bungaree, Book 3"
+  author: "J. D. Peabody"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6984
+  title: "The Inkwell Chronicles: Race to Krakatoa, Book 2"
+  author: "J. D. Peabody"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6985
+  title: "The Inkwell Chronicles: The Ink of Elspet, Book 1"
+  author: "J. D. Peabody"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6986
+  title: "Inherit the Stars"
+  author: "Tony Peak"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6987
+  title: "Bigfoot and the Wild Boys"
+  author: "Jenny Pearson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6988
+  title: "1635: The Wars for the Rhine"
+  author: "Anette Pedersen"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6989
+  title: "Gunpowder Moon"
+  author: "David Pedreira"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 6990
+  title: "Jinn and Juice"
+  author: "Nicole Peeler"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6991
+  title: "Shadow Prowler"
+  author: "Alexey Pehov"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 6992
+  title: "A Pehov Duet"
+  author: "Alexey Pehov"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 6993
+  title: "Extinction Agenda (Skinners)"
+  author: "Marcus Pelegrimas"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6994
+  title: "Teeth of Beasts (Skinners)"
+  author: "Marcus Pelegrimas"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6995
+  title: "Vampire Uprising (Skinners)"
+  author: "Marcus Pelegrimas"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6996
+  title: "Howling Legion"
+  author: "Skinners Book 2 Marcus Pelegrimas"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
