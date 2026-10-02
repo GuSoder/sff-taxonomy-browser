@@ -1,4 +1,17 @@
 # per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 11
+  title: "Light As A Feather, Stiff As A Board"
+  author: "Zoe Aarsen"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "ya,supernatural-mystery"
+  confidence: moderate
+  source: web
+  decision: paranormal-fantasy
+  note: ""
 - id: 17
   title: "Alliana, Girl of Dragons"
   author: "Julie Abe"
@@ -64,6 +77,19 @@
   source: knowledge
   decision: romantasy
   note: ""
+- id: 38
+  title: "Judge of Worlds"
+  author: "Daniel Abraham"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "city-year"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
 - id: 49
   title: "Combat Command: Lord of Lances"
   author: "Mark Acres"
@@ -76,6 +102,32 @@
   confidence: high
   source: title_form
   decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 50
+  title: "Olga"
+  author: "C.T. Adams"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "wizards,uf"
+  confidence: moderate
+  source: web
+  decision: occult-police-fiction
+  note: ""
+- id: 58
+  title: "All Your Wishes"
+  author: "Cat Adams"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "wizards,uf"
+  confidence: moderate
+  source: web
+  decision: occult-police-fiction
   note: ""
 - id: 60
   title: "The Salmon of Doubt"
@@ -181,6 +233,32 @@
   source: knowledge
   decision: paranormal-fantasy
   note: ""
+- id: 69
+  title: "Battleground"
+  author: "Terry A. Adams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "telepaths"
+  confidence: moderate
+  source: web
+  decision: xenanthropology
+  note: ""
+- id: 70
+  title: "The D'neeran Factor"
+  author: "Terry A. Adams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "telepaths"
+  confidence: moderate
+  source: web
+  decision: xenanthropology
+  note: ""
 - id: 71
   title: "Kids Letters to Harry Potter"
   author: "Bill Adler"
@@ -193,6 +271,19 @@
   confidence: high
   source: title_form
   decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 72
+  title: "A Glimpse of Darkness (Short Story)"
+  author: "Lara Adrian"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
   note: ""
 - id: 73
   title: "The Year's Best Military SF & Space Opera"
@@ -246,6 +337,227 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 77
+  title: "A Testimony of Blood"
+  author: "Coming Of Age"
+  form: ?
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "author field is a label (\\\"Coming Of Age\\\") not an author; books are mixed: Testimony of Blood, New Horizons, Dance of Shadows"
+  confidence: low
+  source: web
+  decision: HOLD:UNIDENTIFIED-PUBLISHER-SECTION-LABEL
+  note: ""
+- id: 78
+  title: "New Horizons"
+  author: "Coming Of Age"
+  form: ?
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "author field is a label (\\\"Coming Of Age\\\") not an author; books are mixed: Testimony of Blood, New Horizons, Dance of Shadows"
+  confidence: low
+  source: web
+  decision: HOLD:UNIDENTIFIED-PUBLISHER-SECTION-LABEL
+  note: ""
+- id: 79
+  title: "The Dance of Shadows"
+  author: "Coming Of Age"
+  form: ?
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "author field is a label (\\\"Coming Of Age\\\") not an author; books are mixed: Testimony of Blood, New Horizons, Dance of Shadows"
+  confidence: low
+  source: web
+  decision: HOLD:UNIDENTIFIED-PUBLISHER-SECTION-LABEL
+  note: ""
+- id: 80
+  title: "The Hand of the Sun King"
+  author: "Coming Of Age"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "wen-alder,pact-and-pattern"
+  confidence: moderate
+  source: web
+  decision: reincarnation-sagas
+  note: ""
+- id: 81
+  title: "The Pattern of the World"
+  author: "Coming Of Age"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "wen-alder,pact-and-pattern"
+  confidence: moderate
+  source: web
+  decision: reincarnation-sagas
+  note: ""
+- id: 93
+  title: "If You Could See Me Now"
+  author: "Cecelia Ahern"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "imaginary-friend-ghost"
+  confidence: moderate
+  source: web
+  decision: the-comforting-dead
+  note: ""
+- id: 95
+  title: "Amira & Hamza: The War to Save the Worlds"
+  author: "Samira Ahmed"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "mg,djinn"
+  confidence: moderate
+  source: web
+  decision: otherworld-fantasy
+  note: ""
+- id: 96
+  title: "Bound by Fate"
+  author: "Cairo Aibangbee"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "greek-yoruba-myth,romance"
+  confidence: moderate
+  source: web
+  decision: modern-orisha-myth
+  note: ""
+- id: 97
+  title: "Knight Watch"
+  author: "Tim Akers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "larp,hell"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 98
+  title: "Valhellions"
+  author: "Tim Akers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "larp,hell"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 99
+  title: "Wraithbound"
+  author: "Tim Akers"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "spiritbinder"
+  confidence: low
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 100
+  title: "The Eccentrics"
+  author: "Tim Akers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "tesla,society"
+  confidence: moderate
+  source: web
+  decision: secret-societies
+  note: ""
+- id: 101
+  title: "Westside"
+  author: "Wm Akers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "alt-1920s-manhattan,pi"
+  confidence: high
+  source: web
+  decision: noir-fantasy
+  note: ""
+- id: 102
+  title: "Westside Lights"
+  author: "Wm Akers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "alt-1920s-manhattan,pi"
+  confidence: high
+  source: web
+  decision: noir-fantasy
+  note: ""
+- id: 103
+  title: "Westside Saints"
+  author: "Wm Akers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "alt-1920s-manhattan,pi"
+  confidence: high
+  source: web
+  decision: noir-fantasy
+  note: ""
+- id: 104
+  title: "The Eye of Night"
+  author: "Pauline Alama"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dwarf-hero"
+  confidence: low
+  source: web
+  decision: rogues-abroad
+  note: ""
+- id: 105
+  title: "Metal Slinger"
+  author: "Alchemy"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "ya"
+  confidence: low
+  source: web
+  decision: magic-by-the-rules
+  note: ""
 - id: 106
   title: "Little Women and Werewolves"
   author: "Louisa May Alcott"
@@ -259,6 +571,58 @@
   source: knowledge
   decision: werewolf-fantasy
   note: ""
+- id: 109
+  title: "Heir to Thorn and Flame"
+  author: "Ben Alderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "romance"
+  confidence: moderate
+  source: web
+  decision: romantasy
+  note: ""
+- id: 110
+  title: "Cryptozoic!"
+  author: "Brian Aldiss"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "psychic-time-travel,dystopia"
+  confidence: moderate
+  source: web
+  decision: time-agency-revival
+  note: ""
+- id: 113
+  title: "The Black Market"
+  author: "Jed Alexander"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "grades 3-6"
+  confidence: high
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 118
+  title: "Close Encounters"
+  author: "Katherine Allred"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "engineered-empath"
+  confidence: low
+  source: web
+  decision: xenanthropology
+  note: ""
 - id: 121
   title: "Blades of Winter"
   author: "G. T. Almasi"
@@ -271,6 +635,175 @@
   confidence: moderate
   source: knowledge
   decision: alt-cold-war
+  note: ""
+- id: 122
+  title: "Hammer of Angels"
+  author: "G. T. Almasi"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "alt-history"
+  confidence: moderate
+  source: web
+  decision: alt-cold-war
+  note: ""
+- id: 123
+  title: "Alien Boy"
+  author: "Fawaz Al-Matrouk"
+  form: short_story
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "Tor.com short"
+  confidence: high
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 124
+  title: "The Empire Burns at Dawn"
+  author: "Fatima Al-Shemary"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "sisters,warrior"
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 128
+  title: "Weavingshaw"
+  author: "Heba Al-Wasity"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dark"
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 129
+  title: "The Saint of Silence"
+  author: "Heba Al-Wasity"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "gothic-romance"
+  confidence: moderate
+  source: web
+  decision: ghost-speakers
+  note: ""
+- id: 130
+  title: "The Burning"
+  author: "E.C. Ambrose"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "14c-england,necromancy"
+  confidence: high
+  source: web
+  decision: renaissance-fantasy
+  note: ""
+- id: 131
+  title: "Elisha Barber"
+  author: "E.C. Ambrose"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "14c-england,necromancy"
+  confidence: high
+  source: web
+  decision: renaissance-fantasy
+  note: ""
+- id: 132
+  title: "Elisha Magus"
+  author: "E.C. Ambrose"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "14c-england,necromancy"
+  confidence: high
+  source: web
+  decision: renaissance-fantasy
+  note: ""
+- id: 133
+  title: "Elisha Rex"
+  author: "E.C. Ambrose"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "14c-england,necromancy"
+  confidence: high
+  source: web
+  decision: renaissance-fantasy
+  note: ""
+- id: 134
+  title: "Elisha Mancer"
+  author: "E.C. Ambrose"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "14c-england,necromancy"
+  confidence: high
+  source: web
+  decision: renaissance-fantasy
+  note: ""
+- id: 135
+  title: "Elisha Daemon"
+  author: "E.C. Ambrose"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "14c-england,necromancy"
+  confidence: high
+  source: web
+  decision: renaissance-fantasy
+  note: ""
+- id: 136
+  title: "By Slanderous Tongues"
+  author: "Mercedes Lackey and"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "tudor-elves"
+  confidence: high
+  source: web
+  decision: renaissance-fantasy
+  note: ""
+- id: 137
+  title: "Exodus"
+  author: "Steve White and"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "aliens-flee-nova"
+  confidence: moderate
+  source: web
+  decision: space-navy
   note: ""
 - id: 138
   title: "Six Months, Three Days"
@@ -322,6 +855,32 @@
   tags: ""
   confidence: high
   source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 142
+  title: "All the Birds in the Sky"
+  author: "Charlie Jane Anders"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: sf-fantasy
+  tags: "witch-vs-scientist"
+  confidence: high
+  source: web
+  decision: found-magic
+  note: ""
+- id: 143
+  title: "Clover"
+  author: "Charlie Jane Anders"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
   decision: HOLD:COLLECTION
   note: ""
 - id: 144
@@ -402,6 +961,123 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 150
+  title: "The Patron Saint of Plagues"
+  author: "Barth Anderson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "biothriller"
+  confidence: low
+  source: web
+  decision: techno-fiction-in-space
+  note: ""
+- id: 151
+  title: "The Magician and the Fool"
+  author: "Barth Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "tarot"
+  confidence: moderate
+  source: web
+  decision: secret-history
+  note: ""
+- id: 152
+  title: "A Chorus of Fire"
+  author: "Brian D. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "prophecy"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 153
+  title: "The Bard's Blade"
+  author: "Brian D. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "prophecy"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 154
+  title: "The Sword's Elegy"
+  author: "Brian D. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "prophecy"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 155
+  title: "Bitter Angels"
+  author: "C. L. Anderson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "spy"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 156
+  title: "A Step Beyond"
+  author: "Christopher K Anderson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "mars-mission"
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 157
+  title: "Hearts in the Hard Ground"
+  author: "G. V. Anderson"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 158
+  title: "The Lay of Lilyfinger"
+  author: "G. V. Anderson"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
 - id: 159
   title: "Some of the Best of Tor.com 2021"
   author: "G.V Anderson"
@@ -414,6 +1090,32 @@
   confidence: high
   source: title_form
   decision: HOLD:COLLECTION
+  note: ""
+- id: 160
+  title: "The Darkling Fields of Arvon"
+  author: "James G. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "prince"
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 161
+  title: "The Stoneholding"
+  author: "James G. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "prince"
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
   note: ""
 - id: 162
   title: "100 Prompts for Science Fiction Writers"
@@ -441,6 +1143,71 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 167
+  title: "Island in a Sea of Stars"
+  author: "Kevin J. Anderson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "space-opera"
+  confidence: moderate
+  source: web
+  decision: evergreen-space-opera
+  note: ""
+- id: 168
+  title: "Uncharted"
+  author: "Kevin J. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "arcane-america"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 169
+  title: "Spine of the Dragon"
+  author: "Kevin J. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragons"
+  confidence: moderate
+  source: web
+  decision: destiny-quest-fantasy
+  note: ""
+- id: 170
+  title: "Vengewar"
+  author: "Kevin J. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragons"
+  confidence: moderate
+  source: web
+  decision: destiny-quest-fantasy
+  note: ""
+- id: 171
+  title: "Gods and Dragons"
+  author: "Kevin J. Anderson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragons"
+  confidence: moderate
+  source: web
+  decision: destiny-quest-fantasy
+  note: ""
 - id: 172
   title: "All One Universe"
   author: "Poul Anderson"
@@ -453,6 +1220,71 @@
   confidence: high
   source: title_form
   decision: HOLD:COLLECTION
+  note: ""
+- id: 174
+  title: "To Outlive Eternity"
+  author: "Poul Anderson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "heat-death"
+  confidence: moderate
+  source: web
+  decision: future-history-in-space
+  note: ""
+- id: 204
+  title: "Your Blood, My Bones"
+  author: "Kelly Andrew"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: "gothic"
+  confidence: moderate
+  source: web
+  decision: housebound
+  note: ""
+- id: 205
+  title: "Spindlefish and Stars"
+  author: "Christiane M. Andrews"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 221
+  title: "Alphas: Origins"
+  author: "Ilona Andrews"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "gifts"
+  confidence: moderate
+  source: web
+  decision: birthright-magic
+  note: ""
+- id: 226
+  title: "This Kingdom Will Not Kill Me"
+  author: "Ilona Andrews"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "isekai-into-book"
+  confidence: moderate
+  source: web
+  decision: transporting-tomes
   note: ""
 - id: 234
   title: "The Time Traveler's Almanac"
@@ -492,6 +1324,19 @@
   confidence: high
   source: title_form
   decision: HOLD:NOT-A-BOOK-PLACEHOLDER
+  note: ""
+- id: 237
+  title: "Slender Man"
+  author: "Anonymous"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: "modern-myth"
+  confidence: moderate
+  source: web
+  decision: cryptid-horror
   note: ""
 - id: 238
   title: "Beyond the Pale"

@@ -1,4 +1,30 @@
 # per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 253
+  title: "Hope of Earth"
+  author: "Piers Anthony"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "human-family-through-time"
+  confidence: moderate
+  source: web
+  decision: reincarnation-fiction
+  note: ""
+- id: 254
+  title: "DoOon Mode"
+  author: "Piers Anthony"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: multiverse
+  genre: fantasy
+  tags: "reality-hopping"
+  confidence: moderate
+  source: web
+  decision: multiverse-fantasy
+  note: ""
 - id: 258
   title: "Interstellar Patrol"
   author: "Christopher Anvil"
@@ -77,6 +103,240 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 265
+  title: "Light From Uncommon Stars"
+  author: "Ryka Aoki"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "music,devils"
+  confidence: moderate
+  source: web
+  decision: hometown-of-marvels
+  note: ""
+- id: 266
+  title: "The Demon Star"
+  author: "Jesse Aragon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dark"
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 267
+  title: "Nemesis Mine"
+  author: "Amy Archer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "supers,romance"
+  confidence: moderate
+  source: web
+  decision: superhero-fiction
+  note: ""
+- id: 268
+  title: "Dark Light of Day"
+  author: "Jill Archer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "post-armageddon-demons"
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 269
+  title: "Fiery Edge of Steel"
+  author: "Jill Archer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "post-armageddon-demons"
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 270
+  title: "White Heart of Justice"
+  author: "Jill Archer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "post-armageddon-demons"
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 274
+  title: "The Unicorn Hunters"
+  author: "Katherine Arden"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "brittany-1490"
+  confidence: moderate
+  source: web
+  decision: renaissance-dynastic-intrigue
+  note: ""
+- id: 275
+  title: "A Dance of Lies"
+  author: "Brittney Arena"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "romantasy"
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 276
+  title: "To Dance with Death"
+  author: "Brittney Arena"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "romantasy"
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 277
+  title: "Dayfall"
+  author: "Michael David Ares"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "nuclear-winter"
+  confidence: moderate
+  source: web
+  decision: post-nuclear-survival
+  note: ""
+- id: 278
+  title: "Chaotic"
+  author: "Kelley Armstrong"
+  form: novella
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 279
+  title: "The Hidden War"
+  author: "Michael Armstrong"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "hide-skin"
+  confidence: moderate
+  source: web
+  decision: social-science-fiction
+  note: ""
+- id: 285
+  title: "I Was Told There Would Be Romance"
+  author: "Marie Arnold"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "YA contemporary per Kirkus; Split the Sky unclear"
+  confidence: low
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-YA
+  note: ""
+- id: 286
+  title: "Split the Sky (Coretta Scott King Author Honor Title)"
+  author: "Marie Arnold"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "YA contemporary per Kirkus; Split the Sky unclear"
+  confidence: low
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-YA
+  note: ""
+- id: 287
+  title: "Ghoster"
+  author: "Jason Arnopp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: "ghost"
+  confidence: moderate
+  source: web
+  decision: haunted-objects
+  note: ""
+- id: 288
+  title: "The Last Days of Jack Sparks"
+  author: "Jason Arnopp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: "occult"
+  confidence: moderate
+  source: web
+  decision: satanic-torment
+  note: ""
+- id: 289
+  title: "The Wikkeling"
+  author: "Steven Arntson"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 290
+  title: "Steel Crow Saga"
+  author: "Individual Artists"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "asian-inspired"
+  confidence: moderate
+  source: web
+  decision: mythic-power-struggle
+  note: ""
 - id: 291
   title: "Terry Pratchett's Discworld Imaginarium"
   author: "Individual Artists"
@@ -89,6 +349,240 @@
   confidence: high
   source: title_form
   decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 298
+  title: "Of Gods and Men"
+  author: "Stephen Aryan"
+  form: novella
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 309
+  title: "Lord of Snow and Shadows"
+  author: "Sarah Ash"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragon-daemon"
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 310
+  title: "Children of the Serpent Gate"
+  author: "Sarah Ash"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragon-daemon"
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 311
+  title: "Prisoner of the Iron Tower"
+  author: "Sarah Ash"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragon-daemon"
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 312
+  title: "Tracing the Shadow"
+  author: "Sarah Ash"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "purged-magi"
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 313
+  title: "Flight into Darkness"
+  author: "Sarah Ash"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "purged-magi"
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 314
+  title: "Company Town"
+  author: "Madeline Ashby"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "oil-rig"
+  confidence: moderate
+  source: web
+  decision: altered-flesh
+  note: ""
+- id: 315
+  title: "Turned All to Silver Screens"
+  author: "Madeline Ashby"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 316
+  title: "Cowl"
+  author: "Neal Asher"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "prehistory"
+  confidence: moderate
+  source: web
+  decision: ancestral-time-travel
+  note: ""
+- id: 317
+  title: "Spellcast"
+  author: "Barbara Ashford"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "faerie-theatre"
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 318
+  title: "Spellcrossed"
+  author: "Barbara Ashford"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "faerie-theatre"
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 319
+  title: "Fruiting Bodies"
+  author: "Kemi Ashing-Giwa"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 320
+  title: "The Sufficient Loss Protocol"
+  author: "Kemi Ashing-Giwa"
+  form: novella
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "alien-saboteur"
+  confidence: moderate
+  source: web
+  decision: alien-horror
+  note: ""
+- id: 321
+  title: "The Puppetmaster"
+  author: "Kemi Ashing-Giwa"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 322
+  title: "You Don't Belong Where You Don't Belong"
+  author: "Kemi Ashing-Giwa"
+  form: novella
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "con-artist"
+  confidence: moderate
+  source: web
+  decision: crooks-and-cons
+  note: ""
+- id: 323
+  title: "The End of Ordinary"
+  author: "Edward Ashton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "satire"
+  confidence: moderate
+  source: web
+  decision: social-science-fiction
+  note: ""
+- id: 324
+  title: "Three Days in April"
+  author: "Edward Ashton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "enhancement-divide"
+  confidence: moderate
+  source: web
+  decision: genetic-engineering
+  note: ""
+- id: 326
+  title: "The Garden of Empire"
+  author: "East Asia"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "east-asian"
+  confidence: low
+  source: web
+  decision: mages-at-war
   note: ""
 - id: 328
   title: "Robot Dreams"
@@ -168,6 +662,58 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 339
+  title: "For King and Country"
+  author: "Robert Asprin"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "belfast,time"
+  confidence: low
+  source: web
+  decision: time-agency-revival
+  note: ""
+- id: 340
+  title: "E. Godz"
+  author: "Robert Asprin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "comic"
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 341
+  title: "Dragons Wild"
+  author: "Robert Asprin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "dragons-new-orleans"
+  confidence: moderate
+  source: web
+  decision: paranormal-bricks
+  note: ""
+- id: 342
+  title: "Dragons Luck"
+  author: "Robert Asprin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "dragons-new-orleans"
+  confidence: moderate
+  source: web
+  decision: paranormal-bricks
+  note: ""
 - id: 343
   title: "MYTH-Interpretations: The Worlds of Robert Asprin"
   author: "Robert Asprin"
@@ -232,6 +778,19 @@
   confidence: high
   source: title_form
   decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 349
+  title: "Not the End of the World"
+  author: "Kate Atkinson"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
   note: ""
 - id: 353
   title: "Love Binds"
@@ -310,6 +869,19 @@
   confidence: high
   source: title_form
   decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 359
+  title: "Second Contact"
+  author: "J. D. Austin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "comic"
+  confidence: moderate
+  source: web
+  decision: comic-capers
   note: ""
 - id: 360
   title: "The Many Deaths of Joe Buckley"
@@ -675,6 +1247,32 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 388
+  title: "The Beautiful Land"
+  author: "Alan Averill"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: multiverse
+  genre: sf
+  tags: "parallel-timelines"
+  confidence: moderate
+  source: web
+  decision: multiverse-odyssey
+  note: ""
+- id: 389
+  title: "The Thorns We Wear Inside"
+  author: "Amy Avery"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "sapphic"
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
 - id: 390
   title: "Tempest"
   author: "Deluxe Limited Edition Victoria Aveyard"
@@ -700,6 +1298,97 @@
   confidence: high
   source: title_form
   decision: HOLD:NOT-A-BOOK-PLACEHOLDER
+  note: ""
+- id: 396
+  title: "Viper & Lilies"
+  author: "Lexie Axon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "romantasy"
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 403
+  title: "A Legacy of Daemons"
+  author: "Camille Bacon-Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "detective"
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 404
+  title: "Birth of a Dynasty"
+  author: "Chinaza Bado"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dynasty"
+  confidence: moderate
+  source: web
+  decision: empire-successions
+  note: ""
+- id: 405
+  title: "The Call of Crowns"
+  author: "Chinaza Bado"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dynasty"
+  confidence: moderate
+  source: web
+  decision: empire-successions
+  note: ""
+- id: 406
+  title: "Ecdysis"
+  author: "Julianna Baggott"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 407
+  title: "Mental Diplopia"
+  author: "Julianna Baggott"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 408
+  title: "The Virtual Swallows of Hog Island"
+  author: "Julianna Baggott"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
   note: ""
 - id: 411
   title: "A Rumor of Angels"
@@ -753,6 +1442,84 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 418
+  title: "Dark Heart"
+  author: "Margaret Weisdavid Baldwin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "dragon-cop"
+  confidence: low
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 419
+  title: "The Forge of Mars"
+  author: "Bruce Balfour"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "alien-ruins"
+  confidence: moderate
+  source: web
+  decision: relics-under-study
+  note: ""
+- id: 420
+  title: "Acorna"
+  author: "Anne Mccaffreymargaret Ball"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "unicorn-girl"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 422
+  title: "Capacity"
+  author: "Tony Ballantyne"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "constructs"
+  confidence: moderate
+  source: web
+  decision: remade-minds
+  note: ""
+- id: 423
+  title: "Recursion"
+  author: "Tony Ballantyne"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "constructs"
+  confidence: moderate
+  source: web
+  decision: remade-minds
+  note: ""
+- id: 424
+  title: "Life During Wartime"
+  author: "J.G. Ballard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "war,psychic"
+  confidence: moderate
+  source: web
+  decision: psionics
+  note: ""
 - id: 425
   title: "Cathedral of the Drowned"
   author: "Nathan Ballingrud"
@@ -791,6 +1558,97 @@
   confidence: high
   source: title_form
   decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 429
+  title: "The Hexologists"
+  author: "Josiah Bancroft"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "steampunk-magic"
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 430
+  title: "The Hexologists: A Tangle of Time"
+  author: "Josiah Bancroft"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "steampunk-magic"
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 431
+  title: "A Season of Sinister Dreams"
+  author: "Tracy Banghart"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 436
+  title: "Dark Time"
+  author: "Dakota Banks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "demon-assassin"
+  confidence: moderate
+  source: web
+  decision: deal-with-the-devil
+  note: ""
+- id: 437
+  title: "Deliverance"
+  author: "Dakota Banks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "demon-assassin"
+  confidence: moderate
+  source: web
+  decision: deal-with-the-devil
+  note: ""
+- id: 438
+  title: "Sacrifice"
+  author: "Dakota Banks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "demon-assassin"
+  confidence: moderate
+  source: web
+  decision: deal-with-the-devil
+  note: ""
+- id: 439
+  title: "Against a Dark Background"
+  author: "Iain M. Banks"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
   note: ""
 - id: 441
   title: "Feersum Endjinn"
@@ -857,6 +1715,19 @@
   source: title_guess
   decision: HOLD:ROMANCE-OUT-OF-SCOPE
   note: "hold may be wrong; needs lookup"
+- id: 451
+  title: "The Court of Venus"
+  author: "Bel Banta"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: courts-and-courtesans
+  note: ""
 - id: 453
   title: "Mermaid and Pirate"
   author: "Tracey Baptiste"
@@ -895,4 +1766,225 @@
   confidence: high
   source: title_form
   decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 467
+  title: "Heart of Granite"
+  author: "James Barclay"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "reptile-troops"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 472
+  title: "The Queen's Assassin"
+  author: "James Barclay"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "assassin"
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 473
+  title: "Dead Beat"
+  author: "Leigh Bardugo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "yale"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 475
+  title: "Mortedant's Peril"
+  author: "RJ Barker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: doomed-lands
+  note: ""
+- id: 479
+  title: "Gods of the Wyrdwood"
+  author: "RJ Barker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "forest"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 480
+  title: "Heart of the Wyrdwood"
+  author: "RJ Barker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "forest"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 484
+  title: "Warlords of Wyrdwood"
+  author: "RJ Barker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "forest"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 485
+  title: "The House in the High Wood"
+  author: "Jeffrey E. Barlough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: cursed-towns
+  note: ""
+- id: 486
+  title: "God's Demon"
+  author: "Wayne Barlowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "hell"
+  confidence: moderate
+  source: web
+  decision: hellscape-horror
+  note: ""
+- id: 487
+  title: "The Heart of Hell"
+  author: "Wayne Barlowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "hell"
+  confidence: moderate
+  source: web
+  decision: hellscape-horror
+  note: ""
+- id: 489
+  title: "The Merchants of Souls"
+  author: "John Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 490
+  title: "The Armies of Memory"
+  author: "John Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 491
+  title: "The Sky So Big and Black"
+  author: "John Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "mars"
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 492
+  title: "Candle"
+  author: "John Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-of-earth
+  note: ""
+- id: 493
+  title: "Kaleidoscope Century"
+  author: "John Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-of-earth
+  note: ""
+- id: 498
+  title: "The Domino Men"
+  author: "Jonathan Barnes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "leviathan"
+  confidence: moderate
+  source: web
+  decision: hidden-hands
+  note: ""
+- id: 499
+  title: "The Somnambulist"
+  author: "Jonathan Barnes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "victorian-london"
+  confidence: moderate
+  source: web
+  decision: society-and-sleuths
   note: ""

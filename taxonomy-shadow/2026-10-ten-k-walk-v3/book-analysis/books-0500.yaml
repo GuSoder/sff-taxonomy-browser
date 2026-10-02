@@ -1,4 +1,95 @@
 # per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 502
+  title: "Cold Eternity"
+  author: "S.A. Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "station"
+  confidence: moderate
+  source: web
+  decision: alien-horror
+  note: ""
+- id: 503
+  title: "Charisma"
+  author: "Steven Barnes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "psychic"
+  confidence: low
+  source: web
+  decision: psi-powers
+  note: ""
+- id: 504
+  title: "Great Sky Woman"
+  author: "Steven Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "prehistoric"
+  confidence: moderate
+  source: web
+  decision: lost-world-fiction
+  note: ""
+- id: 505
+  title: "Shadow Valley"
+  author: "Steven Barnes"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "prehistoric"
+  confidence: moderate
+  source: web
+  decision: lost-world-fiction
+  note: ""
+- id: 506
+  title: "Twelve Days"
+  author: "Steven Barnes"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "psychic"
+  confidence: low
+  source: web
+  decision: psi-powers
+  note: ""
+- id: 507
+  title: "Business As Usual"
+  author: "David Barnett"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 509
+  title: "Work Sets You Free"
+  author: "David Barnett"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
 - id: 513
   title: "Oh No! Not Again!"
   author: "Mac Barnett"
@@ -11,6 +102,19 @@
   confidence: high
   source: title_form
   decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 514
+  title: "Mrs. Sorensen and the Sasquatch"
+  author: "Kelly Barnhill"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
   note: ""
 - id: 515
   title: "Dreadful Young Ladies and Other Stories"
@@ -38,6 +142,32 @@
   source: title_form
   decision: HOLD:CHILDREN-MG
   note: ""
+- id: 521
+  title: "Redemption Song"
+  author: "Quan Barry"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "post-apocalyptic"
+  confidence: low
+  source: web
+  decision: terminal-wastelands
+  note: ""
+- id: 522
+  title: "We Rule the Night"
+  author: "Claire Eliza Bartlett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "night-witches"
+  confidence: moderate
+  source: web
+  decision: wwii-fantasy
+  note: ""
 - id: 523
   title: "Fire Truck vs. Dragon"
   author: "Chris Barton"
@@ -50,6 +180,45 @@
   confidence: high
   source: title_form
   decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 526
+  title: "The City Inside"
+  author: "Samit Basu"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 535
+  title: "Unbreakable"
+  author: "W. C. Bauers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "mech"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 536
+  title: "Indomitable"
+  author: "W. C. Bauers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "mech"
+  confidence: moderate
+  source: web
+  decision: space-marines
   note: ""
 - id: 550
   title: "Navigator"
@@ -64,6 +233,32 @@
   source: title_form
   decision: HOLD:COLLECTION
   note: ""
+- id: 556
+  title: "Bronze Summer"
+  author: "Stephen Baxter"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "bronze-age-alt"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 557
+  title: "Iron Winter"
+  author: "Stephen Baxter"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "bronze-age-alt"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
 - id: 558
   title: "Doctor Who: the Wheel of Ice"
   author: "Stephen Baxter"
@@ -76,6 +271,71 @@
   confidence: high
   source: title_form
   decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 561
+  title: "The Martian in the Wood"
+  author: "Stephen Baxter"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 562
+  title: "Behemoth"
+  author: "Stephen Baxter"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "mammoths"
+  confidence: low
+  source: web
+  decision: animal-fantasy
+  note: ""
+- id: 563
+  title: "Fortress Sol"
+  author: "Stephen Baxter"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-dystopias
+  note: ""
+- id: 564
+  title: "Galaxias"
+  author: "Stephen Baxter"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-cosmic-history
+  note: ""
+- id: 566
+  title: "Obelisk"
+  author: "Stephen Baxter"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
   note: ""
 - id: 569
   title: "The Massacre of Mankind"
@@ -102,6 +362,19 @@
   confidence: high
   source: title_form
   decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 578
+  title: "The Innkeeper's Song"
+  author: "Peter S. Beagle"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revisionist-quest-fantasy
   note: ""
 - id: 602
   title: "On Safari in R'lyeh and Carcosa with Gun and Camera"
