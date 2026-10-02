@@ -103,3 +103,913 @@
   source: web
   decision: fae-retellings-and-celtic-lines
   note: ""
+- id: 6508
+  title: "The Faerie Morgana"
+  author: "Louisa Morgan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6509
+  title: "The Ghosts of Beatrice Bird"
+  author: "Louisa Morgan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: teen-witches-and-curses
+  note: ""
+- id: 6510
+  title: "The Great Witch of Brittany"
+  author: "Louisa Morgan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: teen-witches-and-curses
+  note: ""
+- id: 6511
+  title: "The Witchs Kind"
+  author: "Louisa Morgan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: teen-witches-and-curses
+  note: ""
+- id: 6512
+  title: "Thirteen"
+  author: "Richard K. Morgan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6516
+  title: "Thin Air"
+  author: "Richard K. Morgan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6517
+  title: "No Man's Land"
+  author: "Richard K. Morgan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6518
+  title: "The Inventors at No. 8"
+  author: "A. M. Morgen"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-children-wonderlands
+  note: ""
+- id: 6519
+  title: "Spin State"
+  author: "Chris Moriarty"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6520
+  title: "Spin Control"
+  author: "Chris Moriarty"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6521
+  title: "Ghost Spin"
+  author: "Chris Moriarty"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6522
+  title: "Long Lost"
+  author: "David Morrell"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: thriller
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thriller-defence
+  note: ""
+- id: 6523
+  title: "Phoenix Rising"
+  author: "Pip Ballantinetee Morris"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6524
+  title: "The Janus Affair"
+  author: "Pip Ballantinetee Morris"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6525
+  title: "Luda"
+  author: "Grant Morrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6526
+  title: "Porn & Revolution in the Peaceable Kingdom"
+  author: "Micaela Morrissette"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR
+  note: ""
+- id: 6527
+  title: "The SFWA European Hall of Fame"
+  author: "James Morrow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 6528
+  title: "Bible Stories For Adults"
+  author: "James Morrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6529
+  title: "Blameless In Abaddon"
+  author: "James Morrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6530
+  title: "City Of Truth"
+  author: "James Morrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6531
+  title: "Nebula Awards 28"
+  author: "James Morrow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 6532
+  title: "The Eternal Footman"
+  author: "James Morrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6533
+  title: "This Is The Way The World Ends"
+  author: "James Morrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6534
+  title: "Towing Jehovah"
+  author: "James Morrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6535
+  title: "Lentala of the South Seas"
+  author: "W.C. Morrow"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 6536
+  title: "First Casualty"
+  author: "Mike Moscoe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6537
+  title: "The Price of Peace"
+  author: "Mike Moscoe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6538
+  title: "They Also Serve"
+  author: "Mike Moscoe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6539
+  title: "Disciple"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6540
+  title: "Merge"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6541
+  title: "Merge and Disciple"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6542
+  title: "On the Head of a Pin"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6543
+  title: "The Gift of Fire"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6544
+  title: "The Gift of Fire and On the Head of a Pin"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6545
+  title: "Love Machine"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6546
+  title: "Stepping Stone"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6547
+  title: "Stepping Stone and Love Machine"
+  author: "Walter Mosley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-NOVELLA-PAIRS
+  note: ""
+- id: 6548
+  title: "Inside a Silver Box"
+  author: "Walter Mosley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6549
+  title: "The Need"
+  author: "Megan Mostyn-Brown"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6550
+  title: "Delia's Shadow"
+  author: "Jaime Lee Moyer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6551
+  title: "A Barricade in Hell"
+  author: "Jaime Lee Moyer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6552
+  title: "Against a Brightening Sky"
+  author: "Jaime Lee Moyer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6553
+  title: "The Locked Tomb Series"
+  author: "Tamsyn Muir"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6554
+  title: "A Heart of Crimson Flames"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6555
+  title: "A River of Golden Bones"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6556
+  title: "A Sky of Emerald Stars"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6557
+  title: "Dreamslayer"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6558
+  title: "The Amethyst Kingdom"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6559
+  title: "The Evergreen Heir"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6560
+  title: "The High Mountain Court"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6561
+  title: "The Rogue Crown"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6562
+  title: "The Witches' Blade"
+  author: "Ak Mulford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 6563
+  title: "A Trip to Venus"
+  author: "John Munro"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 6564
+  title: "About Fairies"
+  author: "Pat Murphy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6565
+  title: "Not Alone"
+  author: "Pat Murphy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6566
+  title: "Cat on the Edge"
+  author: "Shirley Rousseau Murphy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6567
+  title: "Cat Raise the Dead"
+  author: "Shirley Rousseau Murphy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6568
+  title: "Cat Under Fire"
+  author: "Shirley Rousseau Murphy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6569
+  title: "The Catswold Portal"
+  author: "Shirley Rousseau Murphy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6570
+  title: "Everything Happens So Much"
+  author: "Andrew H. Murray"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6571
+  title: "Bloodangel"
+  author: "Justine Musk"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6572
+  title: "Lord of Bones"
+  author: "Justine Musk"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6573
+  title: "A Sense of Infinity"
+  author: "Howard L. Myers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6574
+  title: "The Martian Obelisk"
+  author: "Linda Nagata"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6575
+  title: "Train Man: The Novel"
+  author: "Hitori Nakano"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR
+  note: ""
+- id: 6576
+  title: "One Jump Ahead"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6577
+  title: "Transhuman"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6578
+  title: "Slanted Jack"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6579
+  title: "Children No More"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6580
+  title: "Jump Gate Twist"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
