@@ -1585,6 +1585,19 @@
   source: web
   decision: ghosts-and-damned-places
   note: ""
+- id: 6159
+  title: "An Island Drowned in Blood"
+  author: "Katie McNey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
 - id: 6160
   title: "A Strange and Stubborn Endurance"
   author: "Foz Meadows"
@@ -2325,4 +2338,238 @@
   confidence: moderate
   source: web
   decision: pirates-and-pilots
+  note: ""
+- id: 6226
+  title: "Three Moments of an Explosion"
+  author: "China Mieville"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6227
+  title: "This Census-Taker"
+  author: "China Mieville"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6228
+  title: "The Last Days of New Paris"
+  author: "China Mieville"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6229
+  title: "The Book of Elsewhere"
+  author: "China Mieville"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 6230
+  title: "The Rouse"
+  author: "China Mieville"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6231
+  title: "The Spineless Trilogy"
+  author: "Samantha San Miguel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6238
+  title: "Mechwarior: Dark Age #10"
+  author: "Victor Milan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 6239
+  title: "The Dinosaur Lords"
+  author: "Victor Milan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6240
+  title: "The Dinosaur Knights"
+  author: "Victor Milan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6241
+  title: "The Dinosaur Princess"
+  author: "Victor Milan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6242
+  title: "The Dinosaur Lords Trilogy"
+  author: "Victor Milan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6243
+  title: "Rabbits"
+  author: "Terry Miles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6244
+  title: "The Quiet Room"
+  author: "Terry Miles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6245
+  title: "A Blight of Mages"
+  author: "Karen Miller"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 6246
+  title: "Empress"
+  author: "Karen Miller"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 6247
+  title: "Hammer of God"
+  author: "Karen Miller"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 6248
+  title: "The Falcon Throne"
+  author: "Karen Miller"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6249
+  title: "The Prodigal Mage"
+  author: "Karen Miller"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
   note: ""
