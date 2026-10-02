@@ -1,5 +1,7 @@
-# SHADOW TREE (work in progress) - NOT the live taxonomy
-Pure text artifact. Nothing here touches taxonomy/ or the live site.
-- results.txt: one line per placement decision. C = card (series folded) with book index list, leaf id and about-ness note; +C = folded onto an existing tree card; H = held (not placed) with reason. Indexes refer to the author-sorted non-Titan queue of the merged candidate list.
-- notes_judgment.md: running log of judgment calls and doc gaps.
-Walk status: in progress (author-sorted order).
+# Shadow tree, 10k-works walk (2026-10)
+SHADOW ONLY. Live tree untouched; no YAML intake, no portraits.
+- shadow-tree.txt: full text render (current tree + walked-in works + new leaves/splits)
+- results.txt: per-card placement decisions (C new card, +C fold onto existing card, H held)
+- splits.txt: phase B splits (S) and series dedupes (D)
+- notes_judgment.md: doc gaps and judgment calls
+Titan rows (2,029) skipped by agent judgment. Walk covered the 10,069 other rows.
