@@ -1,0 +1,872 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 7000
+  title: "The Bloodfire Oath"
+  author: "Chloe C. Penaranda"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 7001
+  title: "Daughter of the Merciful Deep"
+  author: "Leslye Penelope"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7002
+  title: "The Inevitable Undoing of Zahara Douglass"
+  author: "Leslye Penelope"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7003
+  title: "The Monsters We Defy"
+  author: "Leslye Penelope"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7004
+  title: "Dragons, Heists, and Other Retirement Plans"
+  author: "Meg Pennerson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 7005
+  title: "Everything Belongs to the Future"
+  author: "Laurie Penny"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7006
+  title: "Your Orisons May Be Recorded"
+  author: "Laurie Penny"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7007
+  title: "The Hundredth House Had No Walls"
+  author: "Laurie Penny"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7008
+  title: "Dhampira"
+  author: "Amy Pennza"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 7009
+  title: "Delirium"
+  author: "Amy Pennza"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 7010
+  title: "Elysium Girls"
+  author: "Kate Pentecost"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7011
+  title: "That Dark Infinity"
+  author: "Kate Pentecost"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7012
+  title: "Trail Cam"
+  author: "Benjamin Percy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7013
+  title: "Dark Descent"
+  author: "Marlene Perez"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7014
+  title: "Fortunes Favors"
+  author: "Marlene Perez"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7015
+  title: "Strange Fates"
+  author: "Marlene Perez"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7016
+  title: "Chris Bunch's The Gangster Conspiracy"
+  author: "Steve Perry"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 7017
+  title: "The Ramal Extraction"
+  author: "Steve Perry"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 7018
+  title: "The Vastalimi Gambit"
+  author: "Steve Perry"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 7019
+  title: "The Tejano Conflict"
+  author: "Steve Perry"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 7021
+  title: "Ghost Ocean"
+  author: "S.M. Peters"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7022
+  title: "From Darkest Skies"
+  author: "Sam Peters"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 7023
+  title: "From Distant Stars"
+  author: "Sam Peters"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 7024
+  title: "From Divergent Suns"
+  author: "Sam Peters"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 7025
+  title: "Dead Mann Walking"
+  author: "Stefan Petrucha"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7026
+  title: "Dead Mann Running"
+  author: "Stefan Petrucha"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7027
+  title: "Blood Prophecy"
+  author: "Stefan Petrucha"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7028
+  title: "Dark Matters"
+  author: "Vicki Pettersson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7029
+  title: "The Harvest"
+  author: "Vicki Pettersson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7030
+  title: "Angel Season"
+  author: "J.T. Petty"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7031
+  title: "The Knight"
+  author: "Pierre Pevel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 7032
+  title: "The Kite Maker"
+  author: "Brenda Peynado"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7033
+  title: "The Touches"
+  author: "Brenda Peynado"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7034
+  title: "Sword & Spore"
+  author: "Dominica Phetteplace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7035
+  title: "The Vanishing Bookstore"
+  author: "Helen Phifer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7040
+  title: "The Darker Mask"
+  author: "Gary Phillips"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7041
+  title: "The Engine's Child"
+  author: "Holly Phillips"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruined-futures
+  note: ""
+- id: 7042
+  title: "Headstone City"
+  author: "Tom Piccirilli"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7043
+  title: "The Science Of Aliens"
+  author: "Clifford A Pickover"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 7044
+  title: "A Gathering of Gargoyles"
+  author: "Meredith Ann Pierce"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 7045
+  title: "The Pearl of the Soul of the World"
+  author: "Meredith Ann Pierce"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 7046
+  title: "A Matter of Blood"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7047
+  title: "The Chosen Seed"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7048
+  title: "The Shadow of the Soul"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7052
+  title: "The Death House"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7053
+  title: "Blood"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7054
+  title: "Magic"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-retellings
+  note: ""
+- id: 7055
+  title: "The Double-Edged Sword"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-retellings
+  note: ""
+- id: 7056
+  title: "The London Stone"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-retellings
+  note: ""
+- id: 7057
+  title: "The Traitor's Gate"
+  author: "Sarah Pinborough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-retellings
+  note: ""
+- id: 7058
+  title: "The Lion & the Mouse (Caldecott Medal Winner)"
+  author: "Jerry Pinkney"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7059
+  title: "The Tortoise & the Hare"
+  author: "Jerry Pinkney"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7060
+  title: "Two Truths and a Lie"
+  author: "Sarah Pinsker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7061
+  title: "A Better Way of Saying"
+  author: "Sarah Pinsker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7065
+  title: "The Complete Paratime"
+  author: "H. Beam Piper"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 7066
+  title: "The Greenest Gecko"
+  author: "Ploy Pirapokin"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-futures
+  note: ""
+- id: 7071
+  title: "Black Blade Blues"
+  author: "J. A. Pitts"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 7072
+  title: "Honeyed Words"
+  author: "J. A. Pitts"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 7073
+  title: "Forged in Fire"
+  author: "John A. Pitts"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 7074
+  title: "The Coming of the Quantum Cats"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7075
+  title: "Platinum Pohl"
+  author: "Frederik Pohl"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7076
+  title: "All the Lives He Led"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7077
+  title: "Black Star Rising"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7078
+  title: "Drunkard's Walk"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7079
+  title: "Homegoing"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7080
+  title: "Jem"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7081
+  title: "Mining the Oort"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moon-bases-and-neighbour-worlds
+  note: ""

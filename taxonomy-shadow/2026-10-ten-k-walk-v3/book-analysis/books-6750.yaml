@@ -2755,3 +2755,42 @@
   source: web
   decision: urban-fey-and-monsters
   note: ""
+- id: 6997
+  title: "Empire V"
+  author: "Victor Pelevin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 6998
+  title: "S.N.U.F.F."
+  author: "Victor Pelevin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 6999
+  title: "Sneak Peek for The Bloodfire Oath"
+  author: "Chloe C. Penaranda"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
