@@ -1533,3 +1533,913 @@
   source: web
   decision: ark-and-collapse-teens
   note: ""
+- id: 8388
+  title: "Architects of Emortality"
+  author: "Brian Stableford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8389
+  title: "The Cassandra Complex"
+  author: "Brian Stableford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8390
+  title: "Shadows Over Baker Street"
+  author: "Brian Stableford"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8391
+  title: "Dark Ararat"
+  author: "Brian Stableford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8392
+  title: "The Fountains of Youth"
+  author: "Brian Stableford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8393
+  title: "The Omega Expedition"
+  author: "Brian Stableford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8394
+  title: "Beginning Operations"
+  author: "James White; introduction by Brian Stableford"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 8395
+  title: "Once a Hero"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8396
+  title: "Talion"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8397
+  title: "Eyes of Silver"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8398
+  title: "The Dark Glory War"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8399
+  title: "Fortress Draconis"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8400
+  title: "When Dragons Rage"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8401
+  title: "The Grand Crusade"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8402
+  title: "A Secret Atlas"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: voyages-and-dragon-deals
+  note: ""
+- id: 8403
+  title: "Cartomancy"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: voyages-and-dragon-deals
+  note: ""
+- id: 8404
+  title: "The New World"
+  author: "Michael A. Stackpole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: voyages-and-dragon-deals
+  note: ""
+- id: 8408
+  title: "The Starving Saints"
+  author: "Caitlin Starling"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8409
+  title: "Walk Among Us"
+  author: "Cassandra Khawgenevieve Gornicheccaitlin Starling"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8410
+  title: "Here be Monsters"
+  author: "Christopher Stasheff"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8411
+  title: "Saint Vidicon To The Rescue"
+  author: "Christopher Stasheff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 8412
+  title: "The Gods of War"
+  author: "Christopher Stasheff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8413
+  title: "Dragon's Eye"
+  author: "Christopher Stasheff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8414
+  title: "The Day the Magic Stopped"
+  author: "Christopher Stasheff"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8415
+  title: "Wing Commander: End Run"
+  author: "Christopher Stasheff"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8416
+  title: "The Emperor's Blades"
+  author: "Brian Staveley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8417
+  title: "The Providence of Fire"
+  author: "Brian Staveley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8418
+  title: "Chronicle of the Unhewn Throne"
+  author: "Brian Staveley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 8419
+  title: "The Last Mortal Bond"
+  author: "Brian Staveley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8420
+  title: "Skullsworn"
+  author: "Brian Staveley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8421
+  title: "The Empire's Ruin"
+  author: "Brian Staveley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8422
+  title: "Robot Overlords"
+  author: "Mark Stay"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8423
+  title: "Vampires"
+  author: "John Steakley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-enforcers-and-zombies
+  note: ""
+- id: 8424
+  title: "Armor"
+  author: "John Steakley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: virga-and-reynolds-wars
+  note: ""
+- id: 8425
+  title: "The Mirror Halls"
+  author: "Cailean Steed"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8426
+  title: "Sanctuary"
+  author: "Allen Steele"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8427
+  title: "Go-Man vs. the Star Dragon"
+  author: "Hamish Steele"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8437
+  title: "The Sol Majestic"
+  author: "Ferrett Steinmetz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: virga-and-reynolds-wars
+  note: ""
+- id: 8438
+  title: "Automatic Reload"
+  author: "Ferrett Steinmetz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: virga-and-reynolds-wars
+  note: ""
+- id: 8439
+  title: "Singer of Souls"
+  author: "Adam Stemple"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-realm-novels-b
+  note: ""
+- id: 8440
+  title: "Steward of Song"
+  author: "Adam Stemple"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-realm-novels-b
+  note: ""
+- id: 8441
+  title: "In the Garden of Bones"
+  author: "Ki Stephens"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8442
+  title: "Witch Queen Rising"
+  author: "Savannah Stephens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-and-bloodrights-b
+  note: ""
+- id: 8443
+  title: "Bigfoot and Friends (Board Book)"
+  author: "Wendy Stephens"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8444
+  title: "Interface"
+  author: "Neal Stephenson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8445
+  title: "The Cobweb"
+  author: "Neal Stephenson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8446
+  title: "Schismatrix Plus"
+  author: "Bruce Sterling"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: virga-and-reynolds-wars
+  note: ""
+- id: 8447
+  title: "The Zenith Angle"
+  author: "Bruce Sterling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8448
+  title: "The Caryatids"
+  author: "Bruce Sterling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8449
+  title: "Silvercloak"
+  author: "L. K. Steven"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8450
+  title: "Turncloak"
+  author: "L. K. Steven"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8451
+  title: "The Glass Magician"
+  author: "Caroline Stevermer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 8452
+  title: "Shooting the Rift"
+  author: "Alex Stewart"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: virga-and-reynolds-wars
+  note: ""
+- id: 8453
+  title: "A Fistful of Elven Gold"
+  author: "Alex Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8454
+  title: "The Gods Below"
+  author: "Andrea Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-bloodrights-b
+  note: ""
+- id: 8455
+  title: "The Legend Eternal"
+  author: "Andrea Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-bloodrights-b
+  note: ""
+- id: 8456
+  title: "The War Beyond"
+  author: "Andrea Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-bloodrights-b
+  note: ""
+- id: 8457
+  title: "We Shall Sing a Song into the Deep"
+  author: "Andrew Kelly Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8458
+  title: "A Devil in the Details"
+  author: "K. A. Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8459
+  title: "A Shot in the Dark"
+  author: "K. A. Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8460
+  title: "A Wolf at the Door"
+  author: "K. A. Stewart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8461
+  title: "The Merlin Trilogy"
+  author: "Mary Stewartmary Stewart"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 8462
+  title: "Earthweb"
+  author: "Marc Stiegler"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8463
+  title: "David's Sling"
+  author: "Marc Stiegler"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8464
+  title: "The Gentle Seduction"
+  author: "Marc Stiegler"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8465
+  title: "Earthweb, Second Edition"
+  author: "Marc Stiegler"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8466
+  title: "Jimmy the Hand"
+  author: "Raymond E Feistsm Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8467
+  title: "Island in the Sea of Time"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8468
+  title: "Against the Tide of Years"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8469
+  title: "Drakas!"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
