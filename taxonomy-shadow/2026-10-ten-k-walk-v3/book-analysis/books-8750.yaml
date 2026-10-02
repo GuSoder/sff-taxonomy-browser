@@ -1,0 +1,456 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 8750
+  title: "Apogee"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 8751
+  title: "Battle Luna"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 8752
+  title: "Crisis at Proxima"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 8753
+  title: "Saving Proxima"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 8754
+  title: "Why We Love The Matrix"
+  author: "Kim Taylor-Foster"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 8755
+  title: "Spiderlight"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dark-lands-and-weavers
+  note: ""
+- id: 8756
+  title: "The Expert System's Brother"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: robot-lineages-and-revolts
+  note: ""
+- id: 8757
+  title: "Made Things"
+  author: "Adrian Tchaikovsky"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8758
+  title: "Precious Little Things"
+  author: "Adrian Tchaikovsky"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8759
+  title: "Elder Race"
+  author: "Adrian Tchaikovsky"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8760
+  title: "The Expert System's Champion"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: robot-lineages-and-revolts
+  note: ""
+- id: 8761
+  title: "Human Resources"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: servants-with-opinions
+  note: ""
+- id: 8762
+  title: "Engines of Reason"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: keepers-of-the-books
+  note: ""
+- id: 8763
+  title: "Green City Wars"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: keepers-of-the-books
+  note: ""
+- id: 8764
+  title: "The Doors of Eden"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 8765
+  title: "The Eighth Face"
+  author: "Adrian Tchaikovsky"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 8766
+  title: "Of Men and Monsters"
+  author: "William Tenn"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 8767
+  title: "Fish Tails"
+  author: "Sheri S Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-allies-a
+  note: ""
+- id: 8768
+  title: "Singer from the Sea"
+  author: "Sheri S Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-allies-a
+  note: ""
+- id: 8769
+  title: "Six Moon Dance"
+  author: "Sheri S Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-allies-a
+  note: ""
+- id: 8770
+  title: "The Companions"
+  author: "Sheri S Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-allies-a
+  note: ""
+- id: 8771
+  title: "The Margarets"
+  author: "Sheri S Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-allies-a
+  note: ""
+- id: 8772
+  title: "The Visitor"
+  author: "Sheri S Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-allies-a
+  note: ""
+- id: 8773
+  title: "The Waters Rising"
+  author: "Sheri S Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 8774
+  title: "Beauty"
+  author: "Sheri S. Tepper"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 8775
+  title: "The Gate to Women's Country"
+  author: "Sheri S. Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: living-among-the-dead
+  note: ""
+- id: 8776
+  title: "Shadow's End"
+  author: "Sheri S. Tepper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: magic-against-fate
+  note: ""
+- id: 8777
+  title: "The True Game"
+  author: "Sheri S. Tepper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 8778
+  title: "Gibbon's Decline and Fall"
+  author: "Sheri S. Tepper"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 8779
+  title: "A Plague of Angels"
+  author: "Sheri S. Tepper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: magic-against-fate
+  note: ""
+- id: 8780
+  title: "Silver in the Wood"
+  author: "Emily Tesh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 8781
+  title: "Drowned Country"
+  author: "Emily Tesh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 8782
+  title: "The Greenhollow Duology"
+  author: "Emily Tesh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 8783
+  title: "Hidden Things"
+  author: "Doyce Testerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: inherited-family-magic
+  note: ""
+- id: 8784
+  title: "Mockingbird"
+  author: "Walter Tevis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""

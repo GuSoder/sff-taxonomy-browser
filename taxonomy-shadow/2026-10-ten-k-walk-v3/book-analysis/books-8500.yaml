@@ -2508,3 +2508,458 @@
   source: web
   decision: old-heroic-romance
   note: ""
+- id: 8715
+  title: "King's Blood"
+  author: "Judith Tarr"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: troy-and-after
+  note: ""
+- id: 8716
+  title: "Bring Down the Sun"
+  author: "Judith Tarr"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: troy-and-after
+  note: ""
+- id: 8717
+  title: "The Scandalous Confessions of Lydia Bennet, Witch"
+  author: "Melinda Taub"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 8718
+  title: "The Shocking Experiments of Miss Mary Bennet"
+  author: "Melinda Taub"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 8719
+  title: "The Dark Griffin"
+  author: "K. J. Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-riders
+  note: ""
+- id: 8720
+  title: "The Griffin's Flight"
+  author: "K. J. Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-riders
+  note: ""
+- id: 8721
+  title: "The Griffin's War"
+  author: "K. J. Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-riders
+  note: ""
+- id: 8722
+  title: "The Shadow's Heir"
+  author: "K. J. Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-riders
+  note: ""
+- id: 8723
+  title: "The Shadowed Throne"
+  author: "K. J. Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-riders
+  note: ""
+- id: 8724
+  title: "The Shadow's Heart"
+  author: "K. J. Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-riders
+  note: ""
+- id: 8725
+  title: "Daughter of Smoke & Bone"
+  author: "Laini Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-and-fae-lovers
+  note: ""
+- id: 8726
+  title: "Daughter of Smoke & Bone: The Complete Gift Set"
+  author: "Laini Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-and-fae-lovers
+  note: ""
+- id: 8727
+  title: "Days of Blood & Starlight"
+  author: "Laini Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-and-fae-lovers
+  note: ""
+- id: 8728
+  title: "Dreams of Gods & Monsters"
+  author: "Laini Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-and-fae-lovers
+  note: ""
+- id: 8729
+  title: "Muse of Nightmares"
+  author: "Laini Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: shadow-magic-realms
+  note: ""
+- id: 8730
+  title: "Night of Cake & Puppets"
+  author: "Laini Taylor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8731
+  title: "Night of Cake & Puppets: Booktrack Edition"
+  author: "Laini Taylor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8732
+  title: "Strange the Dreamer"
+  author: "Laini Taylor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: shadow-magic-realms
+  note: ""
+- id: 8733
+  title: "Sweetlings"
+  author: "Lucy Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: flooded-cities
+  note: ""
+- id: 8734
+  title: "The Narrow Road Between Desires"
+  author: "Nate Taylor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8735
+  title: "The Quantum Connection"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8736
+  title: "Neighborhood Watch Final Report"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8737
+  title: "One Day on Mars"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8738
+  title: "The Tau Ceti Agenda"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8739
+  title: "One Good Soldier"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8740
+  title: "The Science Behind the Secret"
+  author: "Travis S. Taylor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 8741
+  title: "Back to the Moon"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 8742
+  title: "Alien Invasion"
+  author: "Travis S. Taylor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 8743
+  title: "A New American Space Plan"
+  author: "Travis S. Taylor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 8744
+  title: "Trail of Evil"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8745
+  title: "Kill Before Dying"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8746
+  title: "On to the Asteroid"
+  author: "Travis S. Taylor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 8747
+  title: "Bringers of Hell"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: long-series-fixers
+  note: ""
+- id: 8748
+  title: "Moon Beam"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 8749
+  title: "Moon Tracks"
+  author: "Travis S. Taylor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
