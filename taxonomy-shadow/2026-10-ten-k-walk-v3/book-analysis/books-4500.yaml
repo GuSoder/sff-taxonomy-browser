@@ -1,0 +1,859 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 4500
+  title: "On Vicious Worlds"
+  author: "Bethany Jacobs"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4501
+  title: "This Brutal Moon"
+  author: "Bethany Jacobs"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4502
+  title: "The Princess Knight"
+  author: "Cait Jacobs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4503
+  title: "A Lush and Seething Hell"
+  author: "John Hornor Jacobs"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4504
+  title: "Foreign Devils"
+  author: "John Hornor Jacobs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4505
+  title: "Infernal Machines"
+  author: "John Hornor Jacobs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4506
+  title: "The Incorruptibles"
+  author: "John Hornor Jacobs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4507
+  title: "The Sea Dreams It Is the Sky"
+  author: "John Hornor Jacobs"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4508
+  title: "Ramses: The Eternal Temple Volume II"
+  author: "Christian Jacq"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4539
+  title: "Votan and Other Novels"
+  author: "John James"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4540
+  title: "Bittershore"
+  author: "V.V. James"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4541
+  title: "Redhaven"
+  author: "V.V. James"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4542
+  title: "Gilded Cage"
+  author: "Vic James"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4543
+  title: "Tarnished City"
+  author: "Vic James"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4544
+  title: "Bright Ruin"
+  author: "Vic James"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4545
+  title: "The Deep-Sea Duke"
+  author: "Wren James"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4546
+  title: "The Starlight Watchmaker"
+  author: "Wren James"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4547
+  title: "Death Most Definite"
+  author: "Trent Jamieson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4548
+  title: "The Last Dragon in Moominvalley"
+  author: "Tove Jansson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4549
+  title: "Burn Down the Sky"
+  author: "James Jaros"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 4550
+  title: "Carry the Flame"
+  author: "James Jaros"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 4551
+  title: "Radio Freefall"
+  author: "Matthew Jarpe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4552
+  title: "The Blood Plagues"
+  author: "Anavrin Jay"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 4553
+  title: "Empress of all Seasons"
+  author: "Emiko Jean"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4554
+  title: "The City Born Great"
+  author: "N. K. Jemisin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4555
+  title: "How Long til Black Future Month?"
+  author: "N. K. Jemisin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4556
+  title: "Shades in Shadow: An Inheritance Triptych"
+  author: "N. K. Jemisin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4558
+  title: "The Dreamblood Duology"
+  author: "N. K. Jemisin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4560
+  title: "The Killing Moon"
+  author: "N. K. Jemisin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4562
+  title: "The Shadowed Sun"
+  author: "N. K. Jemisin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4564
+  title: "Wildflower"
+  author: "Becky Jenkinson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4565
+  title: "Wayfinder"
+  author: "Becky Jenkinson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4568
+  title: "The Heart of Owl Abbas"
+  author: "Kathleen Jennings"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4569
+  title: "Flyaway"
+  author: "Kathleen Jennings"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4570
+  title: "The Wonderful Stag, or The Courtship of Red Elsie"
+  author: "Kathleen Jennings"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4571
+  title: "In Connorville"
+  author: "Kathleen Jennings"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4572
+  title: "A Fate Inked in Blood"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4573
+  title: "The Bridge Kingdom"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4574
+  title: "The Endless War"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4575
+  title: "The Twisted Throne"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4576
+  title: "A Curse Carved in Bone"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4577
+  title: "Defy the Dusk"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4578
+  title: "The Inadequate Heir"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4579
+  title: "The Tempest Blade"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4580
+  title: "The Traitor Queen"
+  author: "Danielle L. Jensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4581
+  title: "Dante's Equation"
+  author: "Jane Jensen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4582
+  title: "Written in Time"
+  author: "Jerry"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4583
+  title: "Noir"
+  author: "K. W. Jeter"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4585
+  title: "Books & Bewitchment"
+  author: "Isla Jewell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4586
+  title: "Coffee & Conjuring"
+  author: "Isla Jewell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4587
+  title: "The Principle of Moments"
+  author: "Esmie Jikiemi-Pearson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4588
+  title: "More Than Meets the Eye"
+  author: "Iris Johansen"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4589
+  title: "What I Saw Before the War"
+  author: "Alaya Dawn Johnson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4592
+  title: "A Well-Fed Companion"
+  author: "Congyun \"Mu Ming\" Gu; translated by Kiera Johnson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4593
+  title: "The Reimagining of Thornwood House"
+  author: "Jaleigh Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 4599
+  title: "The Terrans"
+  author: "Jean Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4600
+  title: "The V'Dan"
+  author: "Jean Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4601
+  title: "The Blockade"
+  author: "Jean Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4602
+  title: "The Forever Sea"
+  author: "Joshua Phillip Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4603
+  title: "The Endless Song"
+  author: "Joshua Phillip Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4604
+  title: "The Bloodless Queen"
+  author: "Joshua Phillip Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4605
+  title: "The Sea Spinner"
+  author: "Julie Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4606
+  title: "The Wind Weaver"
+  author: "Julie Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4607
+  title: "The Realm Reaper"
+  author: "Julie Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4610
+  title: "The Cat Who Walked a Thousand Miles"
+  author: "Kij Johnson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4611
+  title: "The Dream-Quest of Vellitt Boe"
+  author: "Kij Johnson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
