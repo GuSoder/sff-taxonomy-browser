@@ -1,0 +1,625 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 3751
+  title: "The Affair of the Mysterious Letter"
+  author: "Alexis Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: society-and-sleuths
+  note: ""
+- id: 3752
+  title: "Mortal Follies"
+  author: "Alexis Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: society-and-sleuths
+  note: ""
+- id: 3753
+  title: "Confounding Oaths"
+  author: "Alexis Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: society-and-sleuths
+  note: ""
+- id: 3754
+  title: "Hell's Heart"
+  author: "Alexis Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 3755
+  title: "The Secrets of Everlight"
+  author: "Julie Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: court-spies
+  note: ""
+- id: 3756
+  title: "The Border Keeper"
+  author: "Kerstin Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 3757
+  title: "Star Eater"
+  author: "Kerstin Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 3758
+  title: "Second Spear"
+  author: "Kerstin Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 3759
+  title: "A Heart Between Teeth"
+  author: "Kerstin Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 3760
+  title: "The Mkalis Cycle"
+  author: "Kerstin Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 3761
+  title: "Deaths Redemption"
+  author: "Marie Hall"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3762
+  title: "The Twice-Damned Demon"
+  author: "Katie Hallahan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3763
+  title: "The Twice-Sold Soul"
+  author: "Katie Hallahan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3764
+  title: "The Twice-Wanted Witch"
+  author: "Katie Hallahan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3765
+  title: "Hollow"
+  author: "Karina Halle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 3766
+  title: "Legend"
+  author: "Karina Halle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 3767
+  title: "Realm of Thieves"
+  author: "Karina Halle"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogues-abroad
+  note: ""
+- id: 3768
+  title: "The Halls of the Dead"
+  author: "S M Hallow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: cursed-towns
+  note: ""
+- id: 3769
+  title: "The Quest For Alien Planets"
+  author: "Paul Halpern"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 3770
+  title: "Icefalcon's Quest"
+  author: "Barbara Hambly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3771
+  title: "Mother of Winter"
+  author: "Barbara Hambly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3772
+  title: "Dragonshadow"
+  author: "Barbara Hambly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3773
+  title: "Dragonstar"
+  author: "Barbara Hambly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3774
+  title: "Knight of the Demon Queen"
+  author: "Barbara Hambly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3775
+  title: "Circle of the Moon"
+  author: "Barbara Hambly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3776
+  title: "Sisters of the Raven"
+  author: "Barbara Hambly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3777
+  title: "Forever"
+  author: "Pete Hamill"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 3778
+  title: "Dragonslayer"
+  author: "Duncan M. Hamilton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: slayer-hero
+  note: ""
+- id: 3779
+  title: "Knight of the Silver Circle"
+  author: "Duncan M. Hamilton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: slayer-hero
+  note: ""
+- id: 3780
+  title: "Servant of the Crown"
+  author: "Duncan M. Hamilton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: slayer-hero
+  note: ""
+- id: 3781
+  title: "A Yank at Valhalla"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 3782
+  title: "Battle for the Stars"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 3783
+  title: "City at World's End"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3785
+  title: "Doomstar"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 3786
+  title: "Fugitive of the Stars"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 3787
+  title: "Outside the Universe"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 3788
+  title: "The Closed Worlds"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: settler-worlds-old
+  note: ""
+- id: 3789
+  title: "The Haunted Stars"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 3790
+  title: "The Star of Life"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 3791
+  title: "The Sun Smasher"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 3792
+  title: "The Valley of Creation"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 3793
+  title: "The Weapon From Beyond"
+  author: "Edmond Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: settler-worlds-old
+  note: ""
+- id: 3795
+  title: "Ascendancy"
+  author: "Emily Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 3796
+  title: "The Stars Too Fondly"
+  author: "Emily Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 3797
+  title: "Nightseer"
+  author: "Laurell K. Hamilton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 3800
+  title: "Misspent Youth"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-in-space
+  note: ""
+- id: 3803
+  title: "If at First . . . (Short Story)"
+  author: "Peter F. Hamilton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 3805
+  title: "Manhattan In Reverse"
+  author: "Peter F. Hamilton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  note: ""
