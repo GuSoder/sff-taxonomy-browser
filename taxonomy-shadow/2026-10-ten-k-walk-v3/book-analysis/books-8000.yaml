@@ -116,3 +116,913 @@
   source: web
   decision: fae-courts-of-the-realm
   note: ""
+- id: 8009
+  title: "A Heart So Green"
+  author: "Lyra Selene"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8010
+  title: "The Fairy Swarm"
+  author: "Suzanne Selfors"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8011
+  title: "The Griffins Riddle"
+  author: "Suzanne Selfors"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8012
+  title: "The Lonely Lake Monster"
+  author: "Suzanne Selfors"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8013
+  title: "The Order of the Unicorn"
+  author: "Suzanne Selfors"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8014
+  title: "The Rain Dragon Rescue"
+  author: "Suzanne Selfors"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8015
+  title: "The Sasquatch Escape"
+  author: "Suzanne Selfors"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8016
+  title: "The Losting Fountain"
+  author: "Lora Senf"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8017
+  title: "Alchemised"
+  author: "SenLinYu"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 8018
+  title: "The Burned Tower"
+  author: "Sergey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 8019
+  title: "Daughter from the Dark"
+  author: "Sergey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 8020
+  title: "Vita Nostra"
+  author: "Sergey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 8021
+  title: "The Devil and Deep Space"
+  author: "Book Five of the Jurisdiction Universe series"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 8022
+  title: "Hour of Judgement"
+  author: "Book Four of the Jurisdiction Universe series"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 8023
+  title: "An Exchange of Hostages"
+  author: "Book One of the Jurisdiction Universe series"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 8024
+  title: "Warring States"
+  author: "Book Six of the Jurisdiction Universe series"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 8025
+  title: "Angel of Destruction"
+  author: "Book Three of the Jurisdiction Universe series"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 8026
+  title: "Prisoner of Conscience"
+  author: "Book Two of the Jurisdiction Universe series"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 8027
+  title: "A Columbus of Space"
+  author: "Garrett P. Serviss"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 8028
+  title: "A Fool's Hope"
+  author: "Mike Shackle"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 8029
+  title: "Until the Last"
+  author: "Mike Shackle"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 8030
+  title: "We Are The Dead"
+  author: "Mike Shackle"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 8031
+  title: "Journey to the Heart of the Abyss"
+  author: "London Shah"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8032
+  title: "The Light at the Bottom of the World"
+  author: "London Shah"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8033
+  title: "The Beast's Heart"
+  author: "Leife Shallcross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8034
+  title: "City of the Snakes"
+  author: "Darren Shan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8035
+  title: "Illusions of Fire"
+  author: "Nisha Sharma"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8036
+  title: "Rag and Bone"
+  author: "Priya Sharma"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunting-futures-and-cairns
+  note: ""
+- id: 8037
+  title: "Ormeshadow"
+  author: "Priya Sharma"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunting-futures-and-cairns
+  note: ""
+- id: 8038
+  title: "Cold Counsel"
+  author: "Chris Sharp"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: renshai-and-kingkillers
+  note: ""
+- id: 8039
+  title: "When the Sparrow Falls"
+  author: "Neil Sharpson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 8040
+  title: "Bitter Waters"
+  author: "Vivian Shaw"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8041
+  title: "Strange New World"
+  author: "Vivian Shaw"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8042
+  title: "Unicorn Is Maybe Not So Great After All"
+  author: "Bob Shea"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8043
+  title: "Unicorn Thinks Hes Pretty Great"
+  author: "Bob Shea"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8044
+  title: "The Extra"
+  author: "Michael Shea"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 8045
+  title: "Assault on Sunrise"
+  author: "Michael Shea"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 8046
+  title: "Magic Lost, Trouble Found"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8047
+  title: "Armed & Magical"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8048
+  title: "The Trouble with Demons"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8049
+  title: "Bewitched & Betrayed"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8050
+  title: "Con & Conjure"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8051
+  title: "All Spell Breaks Loose"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8052
+  title: "The Grendel Affair"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8053
+  title: "The Dragon Conspiracy"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8054
+  title: "The Brimstone Deception"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8055
+  title: "The Ghoul Vendetta"
+  author: "Lisa Shearin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8056
+  title: "Godshome"
+  author: "Robert Sheckley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 8057
+  title: "A Long, Long Sleep"
+  author: "Anna Sheehan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8058
+  title: "No Life But This"
+  author: "Anna Sheehan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8059
+  title: "Spinning Thorns"
+  author: "Anna Sheehan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8060
+  title: "Dark as Day"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8061
+  title: "Higher Education"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8062
+  title: "Godspeed"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8063
+  title: "Proteus in the Underworld"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8064
+  title: "Proteus Unbound"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8065
+  title: "Sight of Proteus"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8066
+  title: "Tomorrow and Tomorrow"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8067
+  title: "Trader's World"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8068
+  title: "Aftermath"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8069
+  title: "Brother to Dragons"
+  author: "Charles Sheffield"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8070
+  title: "Cold As Ice"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8071
+  title: "Georgia on My Mind and Other Places"
+  author: "Charles Sheffield"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8072
+  title: "Hidden Variables"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8073
+  title: "Starfire"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8074
+  title: "The Ganymede Club"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8075
+  title: "The Mind Pool"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8076
+  title: "Vectors"
+  author: "Charles Sheffield"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8077
+  title: "Red"
+  author: "Ramsey Shehadeh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8078
+  title: "The Tale of Clancy the Scrivener"
+  author: "Ramsey Shehadeh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
