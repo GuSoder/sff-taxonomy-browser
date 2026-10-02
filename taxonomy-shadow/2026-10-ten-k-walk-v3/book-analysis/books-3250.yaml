@@ -205,7 +205,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3281
   title: "Chicks 'n Chained Males"
@@ -218,7 +218,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3282
   title: "Strip Mauled"
@@ -270,7 +270,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3286
   title: "A Song with Teeth"
@@ -504,7 +504,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 3307
   title: "The Exile"
@@ -517,7 +517,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3308
   title: "The World of the End"
@@ -595,7 +595,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:ILLUSTRATED-EDITION-OR-NON-FICTION
   note: ""
 - id: 3314
   title: "The Best of R. A. Lafferty"
@@ -608,7 +608,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3315
   title: "Unexploded Remnants"
@@ -621,7 +621,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3316
   title: "Worlds Seen in Passing"
@@ -634,7 +634,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3317
   title: "Doctor Omega"
@@ -764,7 +764,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 3347
   title: "Before the Claiming"
@@ -790,7 +790,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3351
   title: "Dream Dark: A Beautiful Creatures Story"
@@ -842,7 +842,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3360
   title: "Vampires Thirst"
@@ -868,7 +868,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:FREE-SAMPLER-NONFICTION
   note: ""
 - id: 3363
   title: "Shadow of the Void"
@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 3369
   title: "Cries from the Lost Island"
@@ -1219,7 +1219,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-SHORT-NONSPEC-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3390
   title: "Bond of Blood"
@@ -1427,7 +1427,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3425
   title: "The Carnivale of Curiosities"
@@ -1466,7 +1466,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3434
   title: "Genellan: Planetfall"
@@ -1492,7 +1492,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3436
   title: "Hammerjack"
@@ -1635,7 +1635,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3453
   title: "The Rise of Ransom City"
@@ -1713,7 +1713,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3475
   title: "The Conductors"
@@ -1791,7 +1791,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3484
   title: "Original Edition of edited Godwin Stories"
@@ -1804,7 +1804,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3485
   title: "Baltimore,"
@@ -1843,7 +1843,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3488
   title: "Cursed City"
@@ -1874,12 +1874,12 @@
 - id: 3490
   title: "The Silent Gondoliers"
   author: "William Goldman"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
@@ -1895,7 +1895,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 3492
   title: "Ill Be Your Mirror"
@@ -1908,7 +1908,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 3493
   title: "Dark Cities Underground"

@@ -75,7 +75,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3519
   title: "The Anderson Project"
@@ -88,7 +88,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3520
   title: "Gideon"
@@ -192,7 +192,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3528
   title: "Come See the Living Dryad"
@@ -205,7 +205,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3529
   title: "Flesh And Gold"
@@ -309,7 +309,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3543
   title: "Holly: A Belladonna Novella"
@@ -322,7 +322,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3544
   title: "The Belladonna Collection"
@@ -348,7 +348,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3546
   title: "The Wretched Divine"
@@ -439,7 +439,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3554
   title: "Apocalypse Scenario #683: The Box"
@@ -452,7 +452,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3557
   title: "Coming to You Live"
@@ -777,7 +777,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3592
   title: "The Magic Cup"

@@ -205,7 +205,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 3028
   title: "War Games"
@@ -218,7 +218,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3032
   title: "Mother of Demons"
@@ -283,7 +283,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 3037
   title: "The Philosophical Strangler"
@@ -301,12 +301,12 @@
 - id: 3038
   title: "The Tide of Victory"
   author: "Eric Flint"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
@@ -881,7 +881,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3138
   title: "Mutant Chronicles"
@@ -1011,7 +1011,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3148
   title: "The Twilight Pariah"
@@ -1024,7 +1024,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3149
   title: "The Spew"
@@ -1037,7 +1037,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3150
   title: "The Last Hot Time"
@@ -1063,7 +1063,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3152
   title: "The Scholars of Night"
@@ -1271,7 +1271,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3195
   title: "Drowning World"
@@ -1297,7 +1297,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3198
   title: "Lost and Found"
@@ -1375,7 +1375,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3205
   title: "Trouble Magnet"
@@ -1401,7 +1401,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3207
   title: "Patrimony"
@@ -1466,7 +1466,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3214
   title: "Strange Music"
@@ -1570,7 +1570,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 3223
   title: "Love, Politics, and Other Acts of War"
@@ -1674,7 +1674,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 3231
   title: "Light of the Veil"

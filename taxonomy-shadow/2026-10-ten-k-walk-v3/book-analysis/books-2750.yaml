@@ -777,7 +777,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 2838
   title: "The Continuous Katherine Mortenhoe"
@@ -795,12 +795,12 @@
 - id: 2839
   title: "The Flying Legion"
   author: "George Allen England"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -1232,7 +1232,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2902
   title: "Imaginary Friend"
@@ -1302,12 +1302,12 @@
 - id: 2908
   title: "American Desert"
   author: "Percival Everett"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
@@ -1388,7 +1388,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 2915
   title: "The Strange Case of Mr. Salad Monday"
@@ -1401,7 +1401,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2916
   title: "Eye of the Labyrinth"
@@ -1505,7 +1505,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2928
   title: "The Lyre Thief"
@@ -1531,7 +1531,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 2938
   title: "The World of Tiers: Volume One"
@@ -1674,7 +1674,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2952
   title: "Cats in Space and Other Places"
@@ -1687,7 +1687,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 2955
   title: "Agnes Aubert's Mystical Cat Shelter"
@@ -1731,12 +1731,12 @@
 - id: 2959
   title: "Spirit of the Place"
   author: "Gregory Feeley"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
@@ -1817,7 +1817,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2968
   title: "King of Ashes"
@@ -1978,12 +1978,12 @@
 - id: 2990
   title: "The Two Doctors Gorski"
   author: "Isaac Fellman"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
@@ -2064,7 +2064,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 2997
   title: "The Book of Joby"
@@ -2090,5 +2090,5 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
