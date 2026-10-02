@@ -1,0 +1,573 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 9000
+  title: "Typecasting"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9001
+  title: "Fallout"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9002
+  title: "Armistice"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9003
+  title: "Through Darkest Europe"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9004
+  title: "Alpha and Omega"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9005
+  title: "Manuscript Tradition"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9006
+  title: "No Period"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9007
+  title: "Three Bill Williamson Stories"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9008
+  title: "Three Miles Down"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9009
+  title: "The Mysteries"
+  author: "Lisa Tuttle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-family-magic
+  note: ""
+- id: 9010
+  title: "The Silver Bough"
+  author: "Lisa Tuttle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-family-magic
+  note: ""
+- id: 9011
+  title: "Eve's Diary"
+  author: "Mark Twain"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9012
+  title: "Extract from Captain Stormfield's Visit to Heaven"
+  author: "Mark Twain"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9013
+  title: "Cobra Outlaw"
+  author: "Cobra Rebellion: Book Two"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crossfire-and-spin
+  note: ""
+- id: 9014
+  title: "Bad Order"
+  author: "B.B. Ullman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9015
+  title: "The Shootout Solution"
+  author: "Michael R. Underwood"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9016
+  title: "The Absconded Ambassador"
+  author: "Michael R. Underwood"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9017
+  title: "There Will Always Be a Max (A Genrenauts story)"
+  author: "Michael R. Underwood"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9018
+  title: "The One Safe Place"
+  author: "Tania Unsworth"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9019
+  title: "The City Quiet as Death"
+  author: "Steven Utley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9020
+  title: "The Lies of the Ajungo"
+  author: "Moses Ose Utomi"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9021
+  title: "The Truth of the Aleke"
+  author: "Moses Ose Utomi"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9022
+  title: "The Memory of the Ogisi"
+  author: "Moses Ose Utomi"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9023
+  title: "The End of Books"
+  author: "Octave Uzanne"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9024
+  title: "Her Scales Shine Like Music"
+  author: "Rajnar Vajra"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9025
+  title: "Chilling Effect"
+  author: "Valerie Valdes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: comic-aliens-and-troops
+  note: ""
+- id: 9026
+  title: "Prime Deceptions"
+  author: "Valerie Valdes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: comic-aliens-and-troops
+  note: ""
+- id: 9027
+  title: "A Spell of Heart & Havoc"
+  author: "Kristen Vale"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-romance
+  note: ""
+- id: 9028
+  title: "A Tale of Mirth & Magic"
+  author: "Kristen Vale"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-romance
+  note: ""
+- id: 9029
+  title: "Deathless"
+  author: "Catherynne M. Valente"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: older-tale-retellings
+  note: ""
+- id: 9030
+  title: "Comfort Me With Apples"
+  author: "Catherynne M. Valente"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9031
+  title: "L'Esprit de L'Escalier"
+  author: "Catherynne M. Valente"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9032
+  title: "The Past Is Red"
+  author: "Catherynne M. Valente"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9033
+  title: "The Orphan's Tales: In the Night Garden"
+  author: "Catherynne Valente"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: newer-tale-retellings
+  note: ""
+- id: 9034
+  title: "The Orphan's Tales: In the Cities of Coin and Spice"
+  author: "Catherynne Valente"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: newer-tale-retellings
+  note: ""
+- id: 9035
+  title: "Palimpsest"
+  author: "Catherynne Valente"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: modern-doors-and-wonderlands
+  note: ""
+- id: 9036
+  title: "Terrain"
+  author: "Genevieve Valentine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9037
+  title: "The Insects of Love"
+  author: "Genevieve Valentine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9038
+  title: "La beaute sans vertu"
+  author: "Genevieve Valentine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9039
+  title: "A Daring Trip to Mars"
+  author: "Max Valier"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9045
+  title: "Alastor"
+  author: "Jack Vance"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 9046
+  title: "Emphyrio"
+  author: "Jack Vance"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 9047
+  title: "Night Lamp"
+  author: "Jack Vance"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 9048
+  title: "The Weird"
+  author: "Ann VanderMeer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""

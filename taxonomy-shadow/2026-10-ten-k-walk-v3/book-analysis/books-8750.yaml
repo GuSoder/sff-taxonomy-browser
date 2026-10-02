@@ -2274,3 +2274,341 @@
   source: web
   decision: lost-legions
   note: ""
+- id: 8966
+  title: "Krispos Rising (The Tale of Krispos, Book One)"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8967
+  title: "The Breath of God"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8968
+  title: "The Gladiator"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8969
+  title: "The Man with the Iron Heart"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8970
+  title: "Liberating Atlantis"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8971
+  title: "The Golden Shrine"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8972
+  title: "The United States of Atlantis"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8973
+  title: "The Valley-Westside War"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8974
+  title: "Gunpowder Empire"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8978
+  title: "Atlantis and Other Places"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8979
+  title: "Departures"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8980
+  title: "Krispos of Videssos (The Tale of Krispos, Book Two)"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8981
+  title: "Krispos the Emperor (The Tale of Krispos, Book Three)"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8982
+  title: "Lee at the Alamo"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8983
+  title: "The Disunited States of America"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8984
+  title: "The Star and the Rockets"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8985
+  title: "Vilcabamba"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8987
+  title: "Supervolcano: Eruption"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 8990
+  title: "Supervolcano: All Fall Down"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 8991
+  title: "Videssos Cycle: Volume One"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 8992
+  title: "Videssos Cycle: Volume Two"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 8994
+  title: "Something Going Around"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8995
+  title: "Supervolcano: Things Fall Apart"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 8997
+  title: "Joe Steele"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8998
+  title: "Bombs Away"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8999
+  title: "The House of Daniel"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
