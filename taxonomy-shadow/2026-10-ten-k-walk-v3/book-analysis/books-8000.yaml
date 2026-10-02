@@ -1936,3 +1936,289 @@
   source: web
   decision: hunts-abysses-and-gothic-thrones
   note: ""
+- id: 8179
+  title: "The Meridian Forge"
+  author: "Tara Sim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 8180
+  title: "The Midnight Kingdom"
+  author: "Tara Sim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 8184
+  title: "The Hollow Man"
+  author: "Dan Simmons"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8185
+  title: "Prayers to Broken Stones"
+  author: "Dan Simmons"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8186
+  title: "Black Hills"
+  author: "Dan Simmons"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8187
+  title: "Flashback"
+  author: "Dan Simmons"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8188
+  title: "Song of Kali"
+  author: "Dan Simmons"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8189
+  title: "Worlds Enough & Time"
+  author: "Dan Simmons"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8190
+  title: "Dead On My Feet"
+  author: "William Mark Simmons"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 8191
+  title: "One Foot in the Grave"
+  author: "William Mark Simmons"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 8192
+  title: "Habeas Corpses"
+  author: "William Mark Simmons"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 8193
+  title: "Dead Easy"
+  author: "William Mark Simmons"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 8194
+  title: "Red Sonja: Consumed"
+  author: "Gail Simone"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8195
+  title: "The Paper Museum"
+  author: "Kate S. Simpson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: literary-and-woodland-magic
+  note: ""
+- id: 8196
+  title: "Darkborn"
+  author: "Alison Sinclair"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8197
+  title: "Lightborn"
+  author: "Alison Sinclair"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8198
+  title: "Shadowborn"
+  author: "Alison Sinclair"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8199
+  title: "Gabriel's Ghost"
+  author: "Linnea Sinclair"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rain-fountains-and-hex
+  note: ""
+- id: 8200
+  title: "The Gulmohar of Mehranpur"
+  author: "Amal Singh"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: literary-and-woodland-magic
+  note: ""
+- id: 8247
+  title: "Ambiguity Machines: An Examination"
+  author: "Vandana Singh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8248
+  title: "Laws of the Blood 1: The Hunt"
+  author: "Susan Sizemore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 8249
+  title: "Laws of the Blood 2: Partners"
+  author: "Susan Sizemore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""

@@ -1,0 +1,625 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 8250
+  title: "Laws of the Blood 4: Deceptions"
+  author: "Susan Sizemore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 8251
+  title: "Laws of The Blood 5: Heroes"
+  author: "Susan Sizemore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 8252
+  title: "Personal Demon"
+  author: "Susan Sizemore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 8253
+  title: "The Chaos Function"
+  author: "Jack Skillingstead"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-war-and-sparrows
+  note: ""
+- id: 8254
+  title: "Bane and Shadow"
+  author: "Jon Skovron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: isles-and-griaule
+  note: ""
+- id: 8255
+  title: "Blood and Tempest"
+  author: "Jon Skovron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: isles-and-griaule
+  note: ""
+- id: 8256
+  title: "Hope and Red"
+  author: "Jon Skovron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: isles-and-griaule
+  note: ""
+- id: 8257
+  title: "The Queen of Izmoroz"
+  author: "Jon Skovron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 8258
+  title: "The Ranger of Marzanna"
+  author: "Jon Skovron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 8259
+  title: "The Wizard of Eventide"
+  author: "Jon Skovron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 8260
+  title: "Bonds of Brass"
+  author: "Emily Skrutskie"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8261
+  title: "Oaths of Legacy"
+  author: "Emily Skrutskie"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8262
+  title: "The Salvation Gambit"
+  author: "Emily Skrutskie"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-and-agents
+  note: ""
+- id: 8263
+  title: "Vows of Empire"
+  author: "Emily Skrutskie"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8264
+  title: "A Legionnaire's Guide to Love and Peace"
+  author: "Emily Skrutskie"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8265
+  title: "One Year Ago in Spain"
+  author: "Evelyn Skye"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 8266
+  title: "The Hundred Loves of Juliet"
+  author: "Evelyn Skye"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 8267
+  title: "Damsel"
+  author: "Evelyn Skye"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: older-tale-retellings
+  note: ""
+- id: 8268
+  title: "Nightstrider"
+  author: "Sophia Slade"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8269
+  title: "Of Sorrow and Such"
+  author: "Angela Slatter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8270
+  title: "Finnegan's Field"
+  author: "Angela Slatter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8271
+  title: "Spaceman Blues"
+  author: "Brian Francis Slattery"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8272
+  title: "The Children Star"
+  author: "Joan Slonczewski"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-with-allies
+  note: ""
+- id: 8273
+  title: "A Door Into Ocean"
+  author: "Joan Slonczewski"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-with-allies
+  note: ""
+- id: 8274
+  title: "Clash of Eagles"
+  author: "Alan Smale"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8275
+  title: "Eagle in Exile"
+  author: "Alan Smale"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8276
+  title: "Eagle and Empire"
+  author: "Alan Smale"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ships-and-rising-powers
+  note: ""
+- id: 8277
+  title: "A Pest Most Fiendish"
+  author: "Caighlan Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wolves-golds-and-karavans
+  note: ""
+- id: 8278
+  title: "The Weather"
+  author: "Caighlan Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wolves-golds-and-karavans
+  note: ""
+- id: 8279
+  title: "Alien on a Rampage"
+  author: "Clete Barrett Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8280
+  title: "Aliens in Disguise"
+  author: "Clete Barrett Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8281
+  title: "Aliens on Vacation"
+  author: "Clete Barrett Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8282
+  title: "The Rediscovery of Man"
+  author: "Cordwainer Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8283
+  title: "The Beast of Harwood Forest"
+  author: "Dan Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8284
+  title: "The Horror of Dunwick Farm"
+  author: "Dan Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8285
+  title: "The Invasion of Crooked Oak"
+  author: "Dan Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8286
+  title: "The Collected Chronicles of Red Sonja"
+  author: "David C. Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 8287
+  title: "Vor: Island of Power"
+  author: "Dean Wesley Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-with-allies
+  note: ""
+- id: 8292
+  title: "A Quantum Mythology"
+  author: "Gavin G. Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 8293
+  title: "The Age of Scorpio"
+  author: "Gavin G. Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 8297
+  title: "The Beauty of Destruction"
+  author: "Gavin G. Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 8298
+  title: "Veteran"
+  author: "Gavin G. Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 8299
+  title: "War in Heaven"
+  author: "Gavin G. Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 8300
+  title: "Enchantra"
+  author: "Kaylie Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rain-fountains-and-hex
+  note: ""
+- id: 8301
+  title: "Phantasma"
+  author: "Kaylie Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rain-fountains-and-hex
+  note: ""
+- id: 8302
+  title: "Bretta Martyn"
+  author: "L. Neil Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-war-and-sparrows
+  note: ""
+- id: 8303
+  title: "Forge of the Elders"
+  author: "L. Neil Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-war-and-sparrows
+  note: ""
+- id: 8304
+  title: "The American Zone"
+  author: "L. Neil Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-war-and-sparrows
+  note: ""
