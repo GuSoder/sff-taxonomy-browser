@@ -454,3 +454,913 @@
   source: web
   decision: near-centuries
   note: ""
+- id: 8785
+  title: "The Man Who Fell to Earth"
+  author: "Walter Tevis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 8786
+  title: "The Steps of the Sun and Far From Home"
+  author: "Walter Tevis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 8787
+  title: "Every Ghost Story"
+  author: "Natalia Theodoridou"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-institutions-and-voices
+  note: ""
+- id: 8788
+  title: "Asperfell"
+  author: "Jamie Thomas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: truths-hunts-and-archives
+  note: ""
+- id: 8789
+  title: "The Forest Kingdom"
+  author: "Jamie Thomas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: truths-hunts-and-archives
+  note: ""
+- id: 8790
+  title: "The Shining City"
+  author: "Jamie Thomas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: truths-hunts-and-archives
+  note: ""
+- id: 8791
+  title: "Dark Matter"
+  author: "Sheree R. Thomas"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8792
+  title: "Africa Risen"
+  author: "Sheree Renee Thomas"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8793
+  title: "Crygender"
+  author: "Thomas T. Thomas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8794
+  title: "First Citizen"
+  author: "Thomas T. Thomas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8795
+  title: "Sunflowers"
+  author: "Thomas T. Thomas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8796
+  title: "Trojan Horse"
+  author: "Thomas T. Thomas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8797
+  title: "The Children of Possibility"
+  author: "Thomas T. Thomas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8798
+  title: "ME, Too: Loose in the Network"
+  author: "Thomas T. Thomas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8799
+  title: "The House at the Crossroads"
+  author: "Thomas T. Thomas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8800
+  title: "The Divine Talisman"
+  author: "Eldon Thompson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 8801
+  title: "King of RPGs 1"
+  author: "Jason Thompson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8802
+  title: "King of RPGs 2"
+  author: "Jason Thompson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8803
+  title: "When Isaac Hears the Rain"
+  author: "Julie Thompson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8818
+  title: "Liberation"
+  author: "Tade Thompson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 8819
+  title: "Far from the Light of Heaven"
+  author: "Tade Thompson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 8820
+  title: "Wombat Underground"
+  author: "Sarah L. Thomson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8821
+  title: "A Crown of Darkness"
+  author: "Jessica Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-fae-courts-a
+  note: ""
+- id: 8822
+  title: "A Kiss of Flame"
+  author: "Jessica Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-fae-courts-a
+  note: ""
+- id: 8823
+  title: "A Touch of Shadows"
+  author: "Jessica Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-fae-courts-a
+  note: ""
+- id: 8824
+  title: "Mageborn"
+  author: "Jessica Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-fae-courts-a
+  note: ""
+- id: 8825
+  title: "Nightborn"
+  author: "Jessica Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-fae-courts-a
+  note: ""
+- id: 8826
+  title: "A Pirate's Life for Tea"
+  author: "Rebecca Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 8827
+  title: "Can't Spell Treason Without Tea"
+  author: "Rebecca Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 8828
+  title: "Alchemy and a Cup of Tea"
+  author: "Rebecca Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 8829
+  title: "Tea You at the Altar"
+  author: "Rebecca Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 8830
+  title: "This Gilded Abyss"
+  author: "Rebecca Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: shadow-kings-and-werewolf-realms
+  note: ""
+- id: 8831
+  title: "This Crimson Ruin"
+  author: "Rebecca Thorne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: shadow-kings-and-werewolf-realms
+  note: ""
+- id: 8832
+  title: "Nightlife"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8833
+  title: "Moonshine"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8834
+  title: "Madhouse"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8835
+  title: "Deathwish"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8836
+  title: "Trick of the Light"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: supernatural-big-cities
+  note: ""
+- id: 8837
+  title: "Roadkill"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8838
+  title: "The Grimrose Path"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: supernatural-big-cities
+  note: ""
+- id: 8839
+  title: "Blackout"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8840
+  title: "Doubletake"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8841
+  title: "Slashback"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8842
+  title: "Downfall"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8843
+  title: "Nevermore"
+  author: "Rob Thurman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 8844
+  title: "Sing"
+  author: "Karin Tidbeck"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8845
+  title: "Listen"
+  author: "Karin Tidbeck"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8846
+  title: "The Last Voyage of Skidbladnir"
+  author: "Karin Tidbeck"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8847
+  title: "Dragonkin"
+  author: "Lavie Tidhar"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crossfire-and-spin
+  note: ""
+- id: 8848
+  title: "Terminal"
+  author: "Lavie Tidhar"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-and-sadiri-futures
+  note: ""
+- id: 8849
+  title: "The Old Dispensation"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8850
+  title: "Yiwu"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8851
+  title: "In Xanadu"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8852
+  title: "Judge Dee and the Limits of the Law"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8853
+  title: "Judge Dee and the Poisoner of Montmartre"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8854
+  title: "Judge Dee and the Three Deaths of Count Werdenfels"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8855
+  title: "Judge Dee and the Mystery of the Missing Manuscript"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8856
+  title: "Seven Vampires: A Judge Dee Mystery"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8857
+  title: "The Locked Coffin: A Judge Dee Mystery"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8858
+  title: "Judge Dee and the Executioner of Epinal"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8859
+  title: "Joiner and Rust"
+  author: "Lavie Tidhar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8860
+  title: "Blake's 7"
+  author: "Media Tie-in"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8861
+  title: "Mecha Samurai Empire"
+  author: "Peter Tieryas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8862
+  title: "Cyber Shogun Revolution"
+  author: "Peter Tieryas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8863
+  title: "The God Game"
+  author: "Danny Tobey"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: virtual-lives-and-fears
+  note: ""
+- id: 8865
+  title: "Sir Gawain and the Green Knight, Pearl, Sir Orfeo"
+  author: "J.R.R. Tolkien"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8866
+  title: "Smith of Wootton Major & Farmer Giles of Ham"
+  author: "J.R.R. Tolkien"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8867
+  title: "The Tolkien Reader"
+  author: "J.R.R. Tolkien"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8873
+  title: "The Fourth Island"
+  author: "Sarah Tolmie"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: scholars-and-markets-of-faerie
+  note: ""
+- id: 8874
+  title: "All the Horses of Iceland"
+  author: "Sarah Tolmie"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: scholars-and-markets-of-faerie
+  note: ""
