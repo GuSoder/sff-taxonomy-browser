@@ -935,3 +935,913 @@
   source: web
   decision: ghosts-and-damned-places
   note: ""
+- id: 6830
+  title: "The Impossible Bird"
+  author: "Patrick O'Leary"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 6831
+  title: "Door Number Three"
+  author: "Patrick O'Leary"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 6832
+  title: "Nightshades"
+  author: "Melissa F. Olson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6833
+  title: "Switchback"
+  author: "Melissa F. Olson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6834
+  title: "Outbreak"
+  author: "Melissa F. Olson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6835
+  title: "Fast Times in Palestine"
+  author: "Pamela j. Olson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6837
+  title: "The Human Disguise"
+  author: "James O'Neal"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: bodies-and-singularities
+  note: ""
+- id: 6838
+  title: "The Double Human"
+  author: "James O'Neal"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: bodies-and-singularities
+  note: ""
+- id: 6839
+  title: "CHOP Line"
+  author: "Henry V Oneil"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6840
+  title: "Dire Steps"
+  author: "Henry V Oneil"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6841
+  title: "Glory Main"
+  author: "Henry V Oneil"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6842
+  title: "Live Echoes"
+  author: "Henry V Oneil"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6843
+  title: "Orphan Brigade"
+  author: "Henry V Oneil"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6844
+  title: "Rumblewicks Diary: My Unwilling Witch Gets a Makeover"
+  author: "Hiawyn Oram"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6845
+  title: "Rumblewicks Diary: My Unwilling Witch Goes to Ballet School"
+  author: "Hiawyn Oram"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6846
+  title: "Rumblewicks Diary: My Unwilling Witch Sleeps Over"
+  author: "Hiawyn Oram"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6847
+  title: "Rumblewicks Diary: My Unwilling Witch Starts a Girl Band"
+  author: "Hiawyn Oram"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6848
+  title: "Outlaw School"
+  author: "Rebecca Ore"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-futures
+  note: ""
+- id: 6849
+  title: "Sacrifice of the First Sheason"
+  author: "Peter Orullian"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6850
+  title: "The Battle of the Round"
+  author: "Peter Orullian"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6851
+  title: "The Great Defense of Layosah"
+  author: "Peter Orullian"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6852
+  title: "The Unremembered"
+  author: "Peter Orullian"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6853
+  title: "A Beautiful Accident"
+  author: "Peter Orullian"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6854
+  title: "The Hell of It"
+  author: "Peter Orullian"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6855
+  title: "Trial of Intentions"
+  author: "Peter Orullian"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6856
+  title: "Song of Ireland"
+  author: "Juilene Osborne-McKnight"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 6857
+  title: "Awakened"
+  author: "A.E. Osworth"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-odd-cities
+  note: ""
+- id: 6858
+  title: "Sweetheart"
+  author: "Abbey Mei Otis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6859
+  title: "A Mothers Guide to the Apocalypse"
+  author: "Hollie Overton"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 6860
+  title: "Braking Day"
+  author: "Adam Oyebanji"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-with-allies
+  note: ""
+- id: 6861
+  title: "Line of Descent"
+  author: "Adam Oyebanji"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-with-allies
+  note: ""
+- id: 6862
+  title: "Homegrown Magic"
+  author: "Jamie Pacton"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-odd-cities
+  note: ""
+- id: 6863
+  title: "Homeward for a Spell"
+  author: "Jamie Pacton"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-odd-cities
+  note: ""
+- id: 6864
+  title: "The Spider: Robot Titans of Gotham"
+  author: "Norvell W. Page"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 6865
+  title: "The Spider: City of Doom"
+  author: "Norvell W. Page"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 6866
+  title: "City of Eternal Night"
+  author: "Kristen Painter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6867
+  title: "Garden of Dreams and Desires"
+  author: "Kristen Painter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6868
+  title: "House of the Rising Sun"
+  author: "Kristen Painter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6869
+  title: "Last Blood"
+  author: "Kristen Painter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6870
+  title: "City of Wolves"
+  author: "Willow Palecek"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6871
+  title: "Leaves of Flame"
+  author: "Joshua Palmatier"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 6872
+  title: "Well of Sorrows"
+  author: "Joshua Palmatier"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 6873
+  title: "Too Like the Lightning"
+  author: "Ada Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 6874
+  title: "Seven Surrenders"
+  author: "Ada Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 6875
+  title: "The Will to Battle"
+  author: "Ada Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 6876
+  title: "Perhaps the Stars"
+  author: "Ada Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 6879
+  title: "Artemis"
+  author: "Philip Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6880
+  title: "Debatable Space"
+  author: "Philip Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6881
+  title: "Hell Ship"
+  author: "Philip Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6882
+  title: "Red Claw"
+  author: "Philip Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6883
+  title: "Version 43"
+  author: "Philip Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6884
+  title: "Ode to the Half-Broken"
+  author: "Suzanne Palmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6885
+  title: "Cupids Match"
+  author: "Lauren Palphreyman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 6886
+  title: "The Necessary Beggar"
+  author: "Susan Palwick"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 6887
+  title: "Homecoming"
+  author: "Susan Palwick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6888
+  title: "Recoveries"
+  author: "Susan Palwick"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 6889
+  title: "The Long View"
+  author: "Susan Palwick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6890
+  title: "The Burning Isle"
+  author: "Will Panzo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: realms-and-outlaws
+  note: ""
+- id: 6891
+  title: "To Sleep in a Sea of Stars"
+  author: "Christopher Paolini"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 6892
+  title: "Fractal Noise"
+  author: "Christopher Paolini"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 6893
+  title: "A Princess of Roumania"
+  author: "Paul Park"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6894
+  title: "The Tourmaline"
+  author: "Paul Park"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6895
+  title: "The White Tyger"
+  author: "Paul Park"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6896
+  title: "The Hidden World"
+  author: "Paul Park"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6897
+  title: "Ragnarok"
+  author: "Paul Park"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6898
+  title: "Celestis"
+  author: "Paul Park"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-futures
+  note: ""
+- id: 6899
+  title: "More Real Than Him"
+  author: "Silvia Park"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 6900
+  title: "Alien Life"
+  author: "Barry Parker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 6901
+  title: "Cosmic Time Travel"
+  author: "Barry Parker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 6902
+  title: "The Last Witness"
+  author: "K. J. Parker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
