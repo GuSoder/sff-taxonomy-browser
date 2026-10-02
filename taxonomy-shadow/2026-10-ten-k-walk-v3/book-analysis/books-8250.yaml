@@ -623,3 +623,913 @@
   source: web
   decision: post-war-and-sparrows
   note: ""
+- id: 8305
+  title: "The Probability Broach"
+  author: "L. Neil Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: post-war-and-sparrows
+  note: ""
+- id: 8306
+  title: "Kingmaker"
+  author: "Lindsay Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8307
+  title: "Beauty Belongs to the Flowers"
+  author: "Matthew Sanborn Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8308
+  title: "The Servants"
+  author: "Michael Marshall Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rain-fountains-and-hex
+  note: ""
+- id: 8309
+  title: "Kingdom River"
+  author: "Mitchell Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8310
+  title: "Moonrise"
+  author: "Mitchell Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8311
+  title: "Snowfall"
+  author: "Mitchell Smith"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8318
+  title: "Gene Roddenberry's Andromeda: Paradise Drift"
+  author: "Sherwood Smith"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8319
+  title: "Zapped"
+  author: "Sherwood Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 8320
+  title: "A Sword Named Truth"
+  author: "Sherwood Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-queens-a
+  note: ""
+- id: 8321
+  title: "Black Shield Maiden"
+  author: "Willow Smith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-legacies
+  note: ""
+- id: 8322
+  title: "The Echo"
+  author: "James Smythe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 8323
+  title: "The Explorer"
+  author: "James Smythe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 8331
+  title: "The Demonists"
+  author: "Thomas E. Sniegoski"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8332
+  title: "Dark Exodus"
+  author: "Thomas E. Sniegoski"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 8333
+  title: "The Lies of Lena"
+  author: "Kylie Snow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-and-bloodrights-b
+  note: ""
+- id: 8334
+  title: "The Sins of Silas"
+  author: "Kylie Snow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-and-bloodrights-b
+  note: ""
+- id: 8335
+  title: "Spellbent"
+  author: "Lucy A. Snyder"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""
+- id: 8336
+  title: "Shotgun Sorceress"
+  author: "Lucy A. Snyder"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""
+- id: 8337
+  title: "Switchblade Goddess"
+  author: "Lucy A. Snyder"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""
+- id: 8338
+  title: "Except the Queen"
+  author: "Midori Snyder"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: older-tale-retellings
+  note: ""
+- id: 8339
+  title: "Blood Is Another Word for Hunger"
+  author: "Rivers Solomon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunting-futures-and-cairns
+  note: ""
+- id: 8340
+  title: "The Final Evolution"
+  author: "Jeff Somers"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8341
+  title: "Vampirates: Tide of Terror"
+  author: "Justin Somper"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: voyages-and-dragon-deals
+  note: ""
+- id: 8342
+  title: "The Night Ends with Fire"
+  author: "K. X. Song"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moonfall-and-dark-gods
+  note: ""
+- id: 8343
+  title: "The Dragon Wakes with Thunder"
+  author: "K. X. Song"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moonfall-and-dark-gods
+  note: ""
+- id: 8344
+  title: "Mermaid and Me"
+  author: "Soosh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8345
+  title: "Dire Bound"
+  author: "Sable Sorensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moonfall-and-dark-gods
+  note: ""
+- id: 8346
+  title: "Fury Bound"
+  author: "Sable Sorensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moonfall-and-dark-gods
+  note: ""
+- id: 8347
+  title: "Ruin Bound"
+  author: "Sable Sorensen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moonfall-and-dark-gods
+  note: ""
+- id: 8348
+  title: "The Cottage Around the Corner"
+  author: "D. L. Soria"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: newer-tale-retellings
+  note: ""
+- id: 8349
+  title: "Thief Liar Lady"
+  author: "D. L. Soria"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: newer-tale-retellings
+  note: ""
+- id: 8350
+  title: "Flight"
+  author: "Charlie Sorrenson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rain-fountains-and-hex
+  note: ""
+- id: 8351
+  title: "Rose in Chains"
+  author: "Julie Soto"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-realm-novels-b
+  note: ""
+- id: 8352
+  title: "Vine of Hearts"
+  author: "Julie Soto"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-realm-novels-b
+  note: ""
+- id: 8353
+  title: "The Court of Broken Knives"
+  author: "Anna Smith Spark"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 8354
+  title: "The House of Sacrifice"
+  author: "Anna Smith Spark"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 8355
+  title: "The Tower of Living and Dying"
+  author: "Anna Smith Spark"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 8356
+  title: "Alien Taste"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 8357
+  title: "Tainted Trail"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 8358
+  title: "Bitter Waters"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 8359
+  title: "Tinker"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8360
+  title: "Dog Warrior"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8361
+  title: "A Brother's Price"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8362
+  title: "Wolf Who Rules"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8363
+  title: "Endless Blue"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: virga-and-reynolds-wars
+  note: ""
+- id: 8364
+  title: "Elfhome"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8365
+  title: "Eight Million Gods"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8366
+  title: "Wood Sprites"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8367
+  title: "Project Elfhome"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8368
+  title: "The Black Wolves of Boston"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8369
+  title: "Black Tie and Tails"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: pet-and-preternatural-sleuths
+  note: ""
+- id: 8370
+  title: "Harbinger"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8371
+  title: "Storm Furies"
+  author: "Wen Spencer"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8372
+  title: "He Walked Among Us"
+  author: "Norman Spinrad"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8373
+  title: "Phoenix Rising"
+  author: "Ryk E. Spoor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: isles-and-griaule
+  note: ""
+- id: 8374
+  title: "Paradigms Lost"
+  author: "Ryk E. Spoor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: virga-and-reynolds-wars
+  note: ""
+- id: 8375
+  title: "Phoenix in Shadow"
+  author: "Ryk E. Spoor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: isles-and-griaule
+  note: ""
+- id: 8376
+  title: "Phoenix Ascendant"
+  author: "Ryk E. Spoor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: isles-and-griaule
+  note: ""
+- id: 8377
+  title: "Phoenix Rising, Second Edition"
+  author: "Ryk E. Spoor"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: isles-and-griaule
+  note: ""
+- id: 8378
+  title: "Blood Riders"
+  author: "Michael P Spradlin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-enforcers-and-zombies
+  note: ""
+- id: 8379
+  title: "Growing Up Weightless"
+  author: "John M. Ford; introduction by Francis Spufford"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8380
+  title: "Three Californias"
+  author: "Kim Stanley Robinson; introduction by Francis Spufford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8381
+  title: "The Book of Wizard Craft"
+  author: "Union Square"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8382
+  title: "The Book of Wizard Magic"
+  author: "Union Square"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8383
+  title: "The Book of Wizard Parties"
+  author: "Union Square"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8384
+  title: "Floe"
+  author: "Arlan Andrews Sr."
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8385
+  title: "Thaw"
+  author: "Arlan Andrews Sr."
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ruin-lists-a
+  note: ""
+- id: 8386
+  title: "And the Burned Moths Remain"
+  author: "Benjanun Sriduangkaew"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8387
+  title: "Inherit the Earth"
+  author: "Brian Stableford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
