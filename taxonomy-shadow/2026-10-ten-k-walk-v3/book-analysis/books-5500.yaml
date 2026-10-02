@@ -402,3 +402,1108 @@
   source: web
   decision: haunted-towns-and-gray
   note: ""
+- id: 5543
+  title: "The Wild Huntress"
+  author: "Emily Lloyd-Jones"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 5544
+  title: "The Greener Shore"
+  author: "Morgan Llywelyn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: celtic-fantasy
+  note: ""
+- id: 5545
+  title: "Etruscans"
+  author: "Morgan Llywelyn"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5546
+  title: "The Elementals"
+  author: "Morgan Llywelyn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: celtic-fantasy
+  note: ""
+- id: 5547
+  title: "Only the Stones Survive"
+  author: "Morgan Llywelyn"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5548
+  title: "Drop by Drop"
+  author: "Morgan Llywelyn"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: climate-and-scarcity-societies
+  note: ""
+- id: 5549
+  title: "Inch by Inch"
+  author: "Morgan Llywelyn"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: climate-and-scarcity-societies
+  note: ""
+- id: 5550
+  title: "Breath by Breath"
+  author: "Morgan Llywelyn"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: climate-and-scarcity-societies
+  note: ""
+- id: 5551
+  title: "Ash"
+  author: "Malinda Lo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5552
+  title: "Huntress"
+  author: "Malinda Lo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5553
+  title: "The Sin in the Steel"
+  author: "Ryan Van Loan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sea-beggars-and-rogues
+  note: ""
+- id: 5554
+  title: "The Justice in Revenge"
+  author: "Ryan Van Loan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sea-beggars-and-rogues
+  note: ""
+- id: 5555
+  title: "The Memory in the Blood"
+  author: "Ryan Van Loan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sea-beggars-and-rogues
+  note: ""
+- id: 5556
+  title: "Seven Faceless Saints"
+  author: "M. K. Lobb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5557
+  title: "Disciples of Chaos"
+  author: "M. K. Lobb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5558
+  title: "To Deal with Kings"
+  author: "M.K. Lobb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5559
+  title: "To Steal from Thieves"
+  author: "M.K. Lobb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5560
+  title: "Being Friends with Dragons"
+  author: "Katherine Locke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5561
+  title: "The Summer Dragon"
+  author: "Todd Lockwood"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5562
+  title: "The Silverblood Promise"
+  author: "James Logan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5563
+  title: "The Blackfire Blade"
+  author: "James Logan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5564
+  title: "Dreki: My Icelandic Dragon"
+  author: "Mary Logue"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5565
+  title: "Survival in Space"
+  author: "David Long"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5566
+  title: "The Animals We Became"
+  author: "Finn Longman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 5567
+  title: "The Wolf and His King"
+  author: "Finn Longman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 5568
+  title: "Nothing Up My Sleeve"
+  author: "Diana Lopez"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5569
+  title: "The Best of All Possible Worlds"
+  author: "Karen Lord"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5570
+  title: "The Galaxy Game"
+  author: "Karen Lord"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5571
+  title: "Redemption in Indigo"
+  author: "Karen Lord"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
+- id: 5572
+  title: "Unraveling"
+  author: "Karen Lord"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
+- id: 5573
+  title: "Activation Degradation"
+  author: "Marina J Lostetter"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: generation-ships-core
+  note: ""
+- id: 5577
+  title: "The Helm of Midnight"
+  author: "Marina Lostetter"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5578
+  title: "The Cage of Dark Hours"
+  author: "Marina Lostetter"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5579
+  title: "The Teeth of Dawn"
+  author: "Marina Lostetter"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5580
+  title: "The Impossible Us"
+  author: "Sarah Lotz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 5581
+  title: "Bloodcurdling Tales of Horror and the Macabre: The Best of H. P. Lovecraft"
+  author: "H. P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5582
+  title: "Waking Up Screaming"
+  author: "H. P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5583
+  title: "The Horror in the Museum"
+  author: "H. P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5584
+  title: "The Dream Cycle of H. P. Lovecraft: Dreams of Terror and Death"
+  author: "H.P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5585
+  title: "The Road to Madness"
+  author: "H.P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5586
+  title: "Shadows of Death"
+  author: "H.P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5587
+  title: "Eldritch Tales"
+  author: "H.P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5588
+  title: "Necronomicon"
+  author: "H.P. Lovecraft"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5589
+  title: "Adrift in the Stratosphere"
+  author: "A.M. Low"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5590
+  title: "These Deathless Shores"
+  author: "P. H. Low"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-gray
+  note: ""
+- id: 5591
+  title: "Daughter of Blood"
+  author: "Helen Lowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5592
+  title: "The Gathering of the Lost"
+  author: "Helen Lowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5593
+  title: "The Heir of Night"
+  author: "Helen Lowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5594
+  title: "Red City"
+  author: "Marie Lu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: big-city-underworlds
+  note: ""
+- id: 5595
+  title: "Anything Resembling Love"
+  author: "S. Qiouyi Lu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5596
+  title: "In the Watchful City"
+  author: "S. Qiouyi Lu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5597
+  title: "The Fifth Ward: First Watch"
+  author: "Dale Lucas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5598
+  title: "The Fifth Ward: Friendly Fire"
+  author: "Dale Lucas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5599
+  title: "The Fifth Ward: Good Company"
+  author: "Dale Lucas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5600
+  title: "Hello, Star"
+  author: "Stephanie V.W. Lucianovic"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5601
+  title: "Wanda Seasongood and the Almost Perfect Lie"
+  author: "Susan Lurie"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5602
+  title: "Wanda Seasongood and the Mostly True Secret"
+  author: "Susan Lurie"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5603
+  title: "The Ring of Five Dragons"
+  author: "Eric Van Lustbader"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-wars-and-lights
+  note: ""
+- id: 5604
+  title: "Mistress of the Pearl"
+  author: "Eric Van Lustbader"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-wars-and-lights
+  note: ""
+- id: 5605
+  title: "The Veil of A Thousand Tears"
+  author: "Eric Van Lustbader"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-wars-and-lights
+  note: ""
+- id: 5606
+  title: "Watchtower"
+  author: "Elizabeth A. Lynn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 5607
+  title: "The Name of All Things"
+  author: "Jenn Lyons"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5608
+  title: "The Ruin of Kings"
+  author: "Jenn Lyons"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5609
+  title: "The Memory of Souls"
+  author: "Jenn Lyons"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5610
+  title: "The House of Always"
+  author: "Jenn Lyons"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5611
+  title: "The Discord of Gods"
+  author: "Jenn Lyons"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5612
+  title: "A Chorus of Dragons"
+  author: "Jenn Lyons"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5613
+  title: "Green & Deadly Things"
+  author: "Jenn Lyons"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 5614
+  title: "The Seer"
+  author: "Sonia Orin Lyris"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 5615
+  title: "Weave a Circle Round"
+  author: "Kari Maaren"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5616
+  title: "Deadlands: Ghostwalkers"
+  author: "Jonathan Maberry"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5620
+  title: "Day of the Dragon"
+  author: "Katie MacAlister"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 5621
+  title: "Dragon Fall"
+  author: "Katie MacAlister"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 5622
+  title: "Dragon Soul"
+  author: "Katie MacAlister"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 5623
+  title: "Dragon Storm"
+  author: "Katie MacAlister"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 5624
+  title: "Memoirs of a Dragon Hunter"
+  author: "Katie MacAlister"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-urban-hunters
+  note: ""
+- id: 5625
+  title: "The Long Hunt"
+  author: "Debra Doyle; James D. MacDonald"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5626
+  title: "The Apocalypse Door"
+  author: "James D. Macdonald"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: bureaucracies-of-the-occult
+  note: ""
+- id: 5627
+  title: "The Mammoth Book of SF Stories by Women"
+  author: "Alex Dally MacFarlane"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5628
+  title: "Seonag and the Seawolves"
+  author: "M.E. MacGriogair"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5632
+  title: "Calling All Angels"
+  author: "Hazel Mack"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5633
+  title: "Red Hot Fury"
+  author: "Kasey Mackenzie"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5634
+  title: "Green-Eyed Envy"
+  author: "Kasey Mackenzie"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5635
+  title: "Blackhearted Betrayal"
+  author: "Kasey Mackenzie"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5636
+  title: "Sunsplitter"
+  author: "S. A. MacLean"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
