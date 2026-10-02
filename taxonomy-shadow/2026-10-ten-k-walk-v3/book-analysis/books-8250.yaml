@@ -2443,3 +2443,224 @@
   source: web
   decision: ruin-lists-a
   note: ""
+- id: 8470
+  title: "On the Oceans of Eternity"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8471
+  title: "The Reformer"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: reynolds-clans-and-virga
+  note: ""
+- id: 8472
+  title: "The Peshawar Lancers"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: brothers-floes-and-overlords
+  note: ""
+- id: 8473
+  title: "Conquistador"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: brothers-floes-and-overlords
+  note: ""
+- id: 8480
+  title: "A Taint in the Blood"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghost-servants-and-sisters
+  note: ""
+- id: 8481
+  title: "Exiled: Clan of the Claw"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghost-servants-and-sisters
+  note: ""
+- id: 8482
+  title: "The Council of Shadows"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghost-servants-and-sisters
+  note: ""
+- id: 8483
+  title: "The Domination"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: brothers-floes-and-overlords
+  note: ""
+- id: 8484
+  title: "The High King of Montival"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: stackpole-and-throne-cycles
+  note: ""
+- id: 8485
+  title: "Drakon"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 8488
+  title: "By Tooth and Claw"
+  author: "S. M. Stirling"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 8489
+  title: "Shadows of Falling Night"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghost-servants-and-sisters
+  note: ""
+- id: 8492
+  title: "Prince of Outcasts"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: stackpole-and-throne-cycles
+  note: ""
+- id: 8494
+  title: "The Desert and the Blade"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: stackpole-and-throne-cycles
+  note: ""
+- id: 8496
+  title: "The Sea Peoples"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: stackpole-and-throne-cycles
+  note: ""
+- id: 8498
+  title: "Shadows of Annihilation"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghost-servants-and-sisters
+  note: ""
+- id: 8499
+  title: "To Turn the Tide"
+  author: "S. M. Stirling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: brothers-floes-and-overlords
+  note: ""
