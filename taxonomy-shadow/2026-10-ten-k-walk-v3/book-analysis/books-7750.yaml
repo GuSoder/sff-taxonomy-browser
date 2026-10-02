@@ -1533,3 +1533,796 @@
   source: web
   decision: HOLD:COLLECTION
   note: ""
+- id: 7936
+  title: "Blackjack"
+  author: "Veronica Schanoes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7937
+  title: "Slaves of the Switchboard of Doom"
+  author: "Bradley W. Schenck"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7938
+  title: "Game of the Gods"
+  author: "Jay Schiffman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7939
+  title: "Oliver and his Egg"
+  author: "Paul Schmid"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7940
+  title: "Shattered Shields"
+  author: "Bryan Thomas Schmidt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7941
+  title: "Mission: Tomorrow"
+  author: "Bryan Thomas Schmidt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7942
+  title: "Galactic Games"
+  author: "Bryan Thomas Schmidt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7943
+  title: "Little Green Men - Attack!"
+  author: "Bryan Thomas Schmidt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7944
+  title: "Original Edition of edited Schmitz Stories"
+  author: "James H. Schmitz"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7945
+  title: "Telzey Amberdon"
+  author: "James H. Schmitz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 7946
+  title: "Agent of Vega"
+  author: "James H. Schmitz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 7947
+  title: "The Hub: Dangerous Territory"
+  author: "James H. Schmitz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 7948
+  title: "Trigger and Friends"
+  author: "James H. Schmitz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 7949
+  title: "Eternal Frontier"
+  author: "James H. Schmitz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7950
+  title: "Barsk: The Elephants' Graveyard"
+  author: "Lawrence M. Schoen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-with-allies
+  note: ""
+- id: 7951
+  title: "The Moons of Barsk"
+  author: "Lawrence M. Schoen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contact-with-allies
+  note: ""
+- id: 7952
+  title: "Canticle"
+  author: "Ken Scholes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7953
+  title: "Lamentation"
+  author: "Ken Scholes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7954
+  title: "A Weeping Czar Beholds the Fallen Moon"
+  author: "Ken Scholes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7955
+  title: "Antiphon"
+  author: "Ken Scholes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7956
+  title: "Making My Entrance Again With My Usual Flair"
+  author: "Ken Scholes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7957
+  title: "Two Stories"
+  author: "Ken Scholes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7958
+  title: "If Dragon's Mass Eve Be Cold And Clear"
+  author: "Ken Scholes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7959
+  title: "Requiem"
+  author: "Ken Scholes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7960
+  title: "Hymn"
+  author: "Ken Scholes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7961
+  title: "The Psalms of Isaak Series"
+  author: "Ken Scholes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 7962
+  title: "Eat the Dark"
+  author: "Joe Schreiber"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 7963
+  title: "No Doors, No Windows"
+  author: "Joe Schreiber"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 7964
+  title: "Ventus"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7965
+  title: "Permanence"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7966
+  title: "Lady of Mazes"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7967
+  title: "Sun of Suns"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7968
+  title: "Queen of Candesce"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7969
+  title: "The Sunless Countries"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7970
+  title: "Pirate Sun"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7971
+  title: "Virga: Cities of the Air"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7972
+  title: "Ashes of Candesce"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7973
+  title: "Jubilee"
+  author: "Karl Schroeder"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7974
+  title: "Lockstep"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 7975
+  title: "The Complete Virga Series"
+  author: "Karl Schroeder"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 7976
+  title: "The Million"
+  author: "Karl Schroeder"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 7977
+  title: "Orson Scott Card's InterGalactic Medicine Show"
+  author: "Edmund R. Schubert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7978
+  title: "The Whisperwood Legacy"
+  author: "Jo Schulte"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 7979
+  title: "Premonitions"
+  author: "Jamie Schultz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7980
+  title: "Splintered"
+  author: "Jamie Schultz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7981
+  title: "Say It Out Loud"
+  author: "Ashley Schumacher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7983
+  title: "The Fragile Threads of Power"
+  author: "V. E. Schwab"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: literary-and-woodland-magic
+  note: ""
+- id: 7984
+  title: "Bury Our Bones in the Midnight Soil"
+  author: "V. E. Schwab"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: literary-and-woodland-magic
+  note: ""
+- id: 7987
+  title: "A Conspiracy of Alchemists"
+  author: "Liesel Schwarz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 7988
+  title: "A Clockwork Heart"
+  author: "Liesel Schwarz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 7989
+  title: "Sky Pirates"
+  author: "Liesel Schwarz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 7990
+  title: "Hex"
+  author: "Darieck Scott"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 7991
+  title: "The Thirteen Hallows"
+  author: "Michael Scott"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-and-woodland-magic
+  note: ""
+- id: 7992
+  title: "Chosen Soldiers"
+  author: "R H Scott"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 7993
+  title: "Love in the Time of Fridges"
+  author: "Tim Scott"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7994
+  title: "Outrageous Fortune"
+  author: "Tim Scott"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7995
+  title: "PetWizards"
+  author: "Kirk Scroggs"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7996
+  title: "PetWizards: Master of Puppies"
+  author: "Kirk Scroggs"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7997
+  title: "The Grim Company"
+  author: "Luke Scull"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7998
+  title: "Sword of the North"
+  author: "Luke Scull"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7999
+  title: "Dead Man's Steel"
+  author: "Luke Scull"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""

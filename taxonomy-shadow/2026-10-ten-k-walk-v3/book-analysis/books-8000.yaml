@@ -1,0 +1,118 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 8000
+  title: "Half Sick of Shadows"
+  author: "Laura Sebastian"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 8001
+  title: "The Passage"
+  author: "Computer Security"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NOT-A-BOOK-PLACEHOLDER
+  note: ""
+- id: 8002
+  title: "Ravencave"
+  author: "Marcus Sedgwick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8003
+  title: "Under the Spinodal Curve"
+  author: "Hanus Seiner"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8004
+  title: "Brother Red"
+  author: "Adrian Selby"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 8005
+  title: "Snakewood"
+  author: "Adrian Selby"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 8006
+  title: "The Winter Road"
+  author: "Adrian Selby"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 8007
+  title: "A Crown So Silver"
+  author: "Lyra Selene"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8008
+  title: "A Feather So Black"
+  author: "Lyra Selene"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
