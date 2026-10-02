@@ -701,3 +701,952 @@
   source: web
   decision: dragons-and-courts
   note: ""
+- id: 5095
+  title: "Bedlam's Edge"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5099
+  title: "Ill Met by Moonlight"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 5100
+  title: "Music to My Sorrow"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5105
+  title: "And Less Than Kind"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5108
+  title: "The Robin and the Kestrel"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
+- id: 5110
+  title: "Firebird"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-and-hidden-peoples
+  note: ""
+- id: 5112
+  title: "Changing the World"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5116
+  title: "Gwenhwyfar"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: arthur-classic
+  note: ""
+- id: 5118
+  title: "Trio of Sorcery"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5119
+  title: "The Fire Rose"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5121
+  title: "A Host of Furious Fancies"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5122
+  title: "Crown of Vengeance"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: truth-and-flame-swords
+  note: ""
+- id: 5123
+  title: "Elemental Magic"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5124
+  title: "Burdens of the Dead"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5125
+  title: "Dragon's Teeth"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5126
+  title: "Elementary (All-New Tales of the Elemental Masters)"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5128
+  title: "The Eagle & the Nightingales"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: riders-and-wolfwalkers
+  note: ""
+- id: 5129
+  title: "Blood Red"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5130
+  title: "Closer to Home"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: valdemar
+  note: ""
+- id: 5132
+  title: "No True Way"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5135
+  title: "The House of the Four Winds"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sea-beggars-and-rogues
+  note: ""
+- id: 5137
+  title: "Closer to the Heart"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: valdemar
+  note: ""
+- id: 5138
+  title: "Crucible"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5140
+  title: "Closer to the Chest"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: valdemar
+  note: ""
+- id: 5141
+  title: "Silence"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: teen-and-student-witches
+  note: ""
+- id: 5142
+  title: "Tempest"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5145
+  title: "Blade of Empire"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: truth-and-flame-swords
+  note: ""
+- id: 5146
+  title: "Pathways"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5149
+  title: "Choices"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5152
+  title: "Breaking Silence"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: teen-and-student-witches
+  note: ""
+- id: 5154
+  title: "The Waters and the Wild"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5156
+  title: "The Ship Who Dared"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5157
+  title: "Beyond"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: valdemar
+  note: ""
+- id: 5158
+  title: "Shenanigans"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
+  note: ""
+- id: 5159
+  title: "Into the West"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: valdemar
+  note: ""
+- id: 5161
+  title: "The Serpent's Shadow"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5163
+  title: "A Scandal in Battersea"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5164
+  title: "A Study in Sable"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5167
+  title: "Deliverance of Dragons"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: truth-and-flame-swords
+  note: ""
+- id: 5169
+  title: "From a High Tower"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5170
+  title: "Home From the Sea"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5172
+  title: "Jolene"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5173
+  title: "Miss Amelia's List"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5174
+  title: "Phoenix and Ashes"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5176
+  title: "Reserved for the Cat"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5177
+  title: "Steadfast"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5178
+  title: "The Bartered Brides"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5179
+  title: "The Case of the Spellbound Child"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5180
+  title: "The Cyprian"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5181
+  title: "The Gates of Sleep"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5182
+  title: "The Silver Bullets of Annie Oakley"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5183
+  title: "The Wizard of London"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5184
+  title: "Unnatural Issue"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: elemental-masters
+  note: ""
+- id: 5188
+  title: "The River and the Star"
+  author: "Gabriela Romero Lacruz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-wild-lands
+  note: ""
+- id: 5189
+  title: "The Sun and the Void"
+  author: "Gabriela Romero Lacruz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-and-wild-lands
+  note: ""
+- id: 5190
+  title: "Once Upon a Memory"
+  author: "Nina Laden"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 5191
+  title: "Station Eternity"
+  author: "Mur Lafferty"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 5192
+  title: "Chaos Terminal"
+  author: "Mur Lafferty"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 5193
+  title: "Infinite Archive"
+  author: "Mur Lafferty"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 5194
+  title: "Ghost Train to New Orleans"
+  author: "Mur Lafferty"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: big-city-underworlds
+  note: ""
+- id: 5195
+  title: "Six Wakes"
+  author: "Mur Lafferty"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: voyages-gone-wrong-core
+  note: ""
+- id: 5197
+  title: "R. A. Lafferty: Three Great Novels"
+  author: "R. A. Lafferty"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5198
+  title: "The Best of R. A. Lafferty"
+  author: "R. A. Lafferty"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5199
+  title: "How to Make a Triffid"
+  author: "Kelly Lagor"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5200
+  title: "Billy Moon"
+  author: "Douglas Lain"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5201
+  title: "The Mage and the Liar Knight"
+  author: "T. G. Laine"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5203
+  title: "Green"
+  author: "Jay Lake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5204
+  title: "A Water Matter"
+  author: "Jay Lake"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5206
+  title: "Endurance"
+  author: "Jay Lake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5208
+  title: "Kalimpura"
+  author: "Jay Lake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5209
+  title: "The Green Universe Trilogy"
+  author: "Jay Lake"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5210
+  title: "Witpunk"
+  author: "Claude Lalumiere"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5211
+  title: "Seven Mercies"
+  author: "L. R. Lam"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
