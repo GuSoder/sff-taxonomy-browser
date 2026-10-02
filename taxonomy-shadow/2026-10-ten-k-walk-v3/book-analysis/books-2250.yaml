@@ -2014,3 +2014,341 @@
   source: web
   decision: fleet-wars
   note: ""
+- id: 2444
+  title: "The Rising"
+  author: "James Doohan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2445
+  title: "Device Free Weekend"
+  author: "Sean Doolittle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 2449
+  title: "Fantasy Football The Next Level"
+  author: "David Dorey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 2450
+  title: "The Thirteenth Man"
+  author: "Jl Doty"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 2451
+  title: "The Apocalypse Seven"
+  author: "Gene Doucette"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2452
+  title: "The Spaceship Next Door"
+  author: "Gene Doucette"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2454
+  title: "Alien Agendas"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2455
+  title: "Alien Hostiles"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2456
+  title: "Alien Secrets"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2457
+  title: "Altered Starscape"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2459
+  title: "Bloodstar"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2460
+  title: "Bright Light"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2463
+  title: "Dark Mind"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2470
+  title: "Galaxy Raiders: Abyss"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2471
+  title: "Galaxy Raiders: Battlestorm"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2479
+  title: "Stargods"
+  author: "Ian Douglas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2480
+  title: "The Sacred Pool"
+  author: "L. Warren Douglas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2481
+  title: "The Veil of Years"
+  author: "L. Warren Douglas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2482
+  title: "The Isle Beyond Time"
+  author: "L. Warren Douglas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2485
+  title: "Sinner"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2486
+  title: "Threshold"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2488
+  title: "Beyond the Hanging Wall"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2489
+  title: "Pilgrim"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2491
+  title: "Crusader"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2492
+  title: "Druid's Sword"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2499
+  title: "The Serpent Bride"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""

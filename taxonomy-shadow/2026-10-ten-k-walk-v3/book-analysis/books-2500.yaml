@@ -1,0 +1,807 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 2500
+  title: "The Twisted Citadel"
+  author: "Sara Douglass"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2501
+  title: "The Bone Palace"
+  author: "Amanda Downum"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2502
+  title: "The Kingdoms of Dust"
+  author: "Amanda Downum"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2503
+  title: "The Price of the Stars"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2504
+  title: "Starpilot's Grave"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2505
+  title: "By Honor Betray'd"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2506
+  title: "The Gathering Flame"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2507
+  title: "A Working of Stars"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2508
+  title: "The Stars Asunder"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2509
+  title: "The Devil in the Details"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2510
+  title: "Knight's Wyrd"
+  author: "Debra Doyle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2511
+  title: "Go, Mutants!"
+  author: "Larry Doyle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 2515
+  title: "A Day in the Life"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2516
+  title: "Another World"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2517
+  title: "Morning Child and Other Stories"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2518
+  title: "Nightmare Blue"
+  author: "Gardner Dozois"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2519
+  title: "Strange Days: Fabulous Journeys with Gardner Dozois"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2520
+  title: "Strangers"
+  author: "Gardner Dozois"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2521
+  title: "The Visible Man"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2522
+  title: "AIs"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2523
+  title: "Aliens Among Us"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2524
+  title: "Angels!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2525
+  title: "Armageddons"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2526
+  title: "Bestiary"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2527
+  title: "Beyond Flesh"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2528
+  title: "Beyond Singularity"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2529
+  title: "Clones"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2530
+  title: "Dangerous Games"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2531
+  title: "Demons!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2532
+  title: "Dinosaurs II"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2533
+  title: "Dogtales!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2534
+  title: "Dragons"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2535
+  title: "Future Crimes"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2536
+  title: "Future Sports"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2537
+  title: "Future War"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2538
+  title: "Futures Past"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2539
+  title: "Genometry"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2540
+  title: "Hackers"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2541
+  title: "Horses!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2542
+  title: "Immortals"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2543
+  title: "Invaders!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2544
+  title: "Little People!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2545
+  title: "Magicats II"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2546
+  title: "Mermaids!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2547
+  title: "Nanotech"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2548
+  title: "Robots"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2549
+  title: "Sea Serpents!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2550
+  title: "Sorcerers!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2551
+  title: "Space Soldiers"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2552
+  title: "Timegates"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2553
+  title: "Unicorns I"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2554
+  title: "Unicorns II"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2555
+  title: "Dinosaurs!"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2556
+  title: "Galileo's Children: Tales of Science vs. Superstition"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2557
+  title: "One Million A.D."
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2558
+  title: "Slow Dancing Through Time"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2559
+  title: "Dying For It"
+  author: "Gardner Dozois"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2560
+  title: "Phobos"
+  author: "Ty Drago"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 2561
+  title: "Old Nathan"
+  author: "David Drake"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 2562
+  title: "Redliners"
+  author: "David Drake"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 2563
+  title: "An Oblique Approach"
+  author: "David Drake"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2565
+  title: "Cross the Stars"
+  author: "David Drake"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
