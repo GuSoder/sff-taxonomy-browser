@@ -1832,3 +1832,705 @@
   source: web
   decision: HOLD:TIE-IN-MERCH
   note: ""
+- id: 5442
+  title: "Harry Potter Weasley & Weasley Magical Mischief Deck and Book"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5443
+  title: "Harry Potter Wizard Chess Set"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5444
+  title: "Harry Potter: Albus Dumbledore Light and Sound Wand Set"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5445
+  title: "Harry Potter: Dolores Umbridge Collectible Cat Plate Set"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5446
+  title: "Harry Potter: Harry Potter Light and Sound Wand Set"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5447
+  title: "Harry Potter: Hermione Granger Light and Sound Wand Set"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5448
+  title: "That Time I Got Drunk and Saved a Demon"
+  author: "Kimberly Lemming"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-wild-lands
+  note: ""
+- id: 5449
+  title: "That Time I Got Drunk and Saved a Human"
+  author: "Kimberly Lemming"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-wild-lands
+  note: ""
+- id: 5450
+  title: "That Time I Got Drunk and Yeeted a Love Potion at a Werewolf"
+  author: "Kimberly Lemming"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-wild-lands
+  note: ""
+- id: 5451
+  title: "A Dark and Wild Wood"
+  author: "Sarah Nicole Lemon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-gray
+  note: ""
+- id: 5452
+  title: "Badlands"
+  author: "Melissa Lenhardt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5453
+  title: "Blood Oath"
+  author: "Melissa Lenhardt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5454
+  title: "Sawbones"
+  author: "Melissa Lenhardt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5455
+  title: "The Umbrella Makers Son"
+  author: "Katrina Leno"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5456
+  title: "The Teller of Small Fortunes"
+  author: "Julie Leong"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 5457
+  title: "The Keeper of Magical Things"
+  author: "Julie Leong"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 5458
+  title: "The Isle of Lonely Monsters"
+  author: "Julie Leong"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 5459
+  title: "The Nameless God"
+  author: "Amy Leow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: courts-and-succession-wars
+  note: ""
+- id: 5460
+  title: "The Scarlet Throne"
+  author: "Amy Leow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: courts-and-succession-wars
+  note: ""
+- id: 5461
+  title: "The Legend of Croquemitaine"
+  author: "Ernest L'Epine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5462
+  title: "California"
+  author: "Edan Lepucki"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: climate-and-scarcity-societies
+  note: ""
+- id: 5463
+  title: "Highlander(TM): Zealot"
+  author: "Donna Lettow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5464
+  title: "The World Gives Way"
+  author: "Marissa Levien"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: generation-ships-core
+  note: ""
+- id: 5465
+  title: "Damage"
+  author: "David D. Levine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5466
+  title: "Dog Days"
+  author: "John Levitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: bureaucracies-of-the-occult
+  note: ""
+- id: 5467
+  title: "New Tricks"
+  author: "John Levitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: bureaucracies-of-the-occult
+  note: ""
+- id: 5468
+  title: "Unleashed"
+  author: "John Levitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: bureaucracies-of-the-occult
+  note: ""
+- id: 5469
+  title: "Play Dead"
+  author: "John Levitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: bureaucracies-of-the-occult
+  note: ""
+- id: 5470
+  title: "Death in Verse"
+  author: "Julie Lew"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: teen-and-student-witches
+  note: ""
+- id: 5471
+  title: "Game of Shadows"
+  author: "Erika Lewis"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5472
+  title: "Beautiful Decay"
+  author: "Sylvia Lewis"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5473
+  title: "The Failures"
+  author: "Benjamin Liar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5474
+  title: "DragonForged: Sword of the Champion"
+  author: "Eric Lide"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5475
+  title: "The Five Daughters of the Moon"
+  author: "Leena Likitalo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: courts-and-succession-wars
+  note: ""
+- id: 5476
+  title: "The Sisters of the Crescent Empress"
+  author: "Leena Likitalo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: courts-and-succession-wars
+  note: ""
+- id: 5477
+  title: "Fishbone Cinderella"
+  author: "Elizabeth Lim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5478
+  title: "Night for Day"
+  author: "Roselle Lim"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5479
+  title: "Eternity in Three Acts"
+  author: "Ann Sei Lin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-wild-lands
+  note: ""
+- id: 5480
+  title: "Once Upon a Book"
+  author: "Grace Lin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5481
+  title: "The Gate, the Girl, and the Dragon"
+  author: "Grace Lin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5482
+  title: "When the Sea Turned to Silver (National Book Award Finalist)"
+  author: "Grace Lin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5483
+  title: "Where the Mountain Meets the Moon (Newbery Honor Award Winner)"
+  author: "Grace Lin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5484
+  title: "Thirteen Steps in the Underworld"
+  author: "Su-Yee Lin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5485
+  title: "Babylon, South Dakota"
+  author: "Tom Lin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sea-beggars-and-rogues
+  note: ""
+- id: 5486
+  title: "Dragon Keeper with Bonus Material"
+  author: "Robin Hobbmegan Lindholm"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 5487
+  title: "The Inheritance"
+  author: "Robin Hobbmegan Lindholm"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5488
+  title: "Aurora Borealis Bridge"
+  author: "Jane Lindskold"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 5489
+  title: "Library of the Sapphire Wind"
+  author: "Jane Lindskold"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 5490
+  title: "Uncle Flower's Homecoming Waltz"
+  author: "Marissa K. Lingen"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5491
+  title: "Points of Origin"
+  author: "Marissa Lingen"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5493
+  title: "Yarrow"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5497
+  title: "Into the Green"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5498
+  title: "The Little Country"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5499
+  title: "Angel of Darkness"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""

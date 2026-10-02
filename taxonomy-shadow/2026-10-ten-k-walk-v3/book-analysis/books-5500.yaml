@@ -1,0 +1,404 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 5503
+  title: "Mulengro"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5505
+  title: "I'll Be Watching You"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5506
+  title: "Spirits in the Wires"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5509
+  title: "Trader"
+  author: "Charles de Lint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5516
+  title: "The Future Eve"
+  author: "Villiers de L'Isle-Adam"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5517
+  title: "The Weight of Memories"
+  author: "Cixin Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5518
+  title: "The Three-Body Problem Series"
+  author: "Cixin Liu"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 5519
+  title: "To Hold Up the Sky"
+  author: "Cixin Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5520
+  title: "The Wandering Earth"
+  author: "Cixin Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5521
+  title: "A View from the Stars"
+  author: "Cixin Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5522
+  title: "Invisible Planets"
+  author: "Ken Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5523
+  title: "Broken Stars"
+  author: "Ken Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5524
+  title: "The Passing of the Dragon"
+  author: "Ken Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5525
+  title: "If a Digitized Tree Falls"
+  author: "Ken Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5526
+  title: "The Iron Hunt"
+  author: "Marjorie M. Liu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5527
+  title: "Darkness Calls"
+  author: "Marjorie M. Liu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5528
+  title: "Hunter Kiss"
+  author: "Marjorie M. Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5529
+  title: "A Wild Light"
+  author: "Marjorie M. Liu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5530
+  title: "Armor of Roses and The Silver Voice"
+  author: "Marjorie M. Liu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5531
+  title: "The Mortal Bone"
+  author: "Marjorie M. Liu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5532
+  title: "Labyrinth of Stars"
+  author: "Marjorie M. Liu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5533
+  title: "At the End of Babel"
+  author: "Michael Livingston"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: states-and-societies-tomorrow
+  note: ""
+- id: 5534
+  title: "The Dusk Watchman"
+  author: "Tom Lloyd"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 5535
+  title: "The God Tattoo"
+  author: "Tom Lloyd"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 5536
+  title: "The Grave Thief"
+  author: "Tom Lloyd"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 5537
+  title: "The Ragged Man"
+  author: "Tom Lloyd"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 5538
+  title: "The Stormcaller"
+  author: "Tom Lloyd"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 5539
+  title: "The Twilight Herald"
+  author: "Tom Lloyd"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 5540
+  title: "Murder on the Disoriented Express"
+  author: "Emily Lloyd-Jones"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 5541
+  title: "The Bone Houses"
+  author: "Emily Lloyd-Jones"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-gray
+  note: ""
+- id: 5542
+  title: "The Drowned Woods"
+  author: "Emily Lloyd-Jones"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-gray
+  note: ""
