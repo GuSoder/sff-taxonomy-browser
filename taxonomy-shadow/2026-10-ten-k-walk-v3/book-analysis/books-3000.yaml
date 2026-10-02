@@ -1,0 +1,872 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 3000
+  title: "Light Wielder"
+  author: "Fire"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 3001
+  title: "The Cursed Fate of Sabrina Parry"
+  author: "Anna Fiteni"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 3002
+  title: "The Wicked Lies of Habren Faire"
+  author: "Anna Fiteni"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 3003
+  title: "Beyond the Ruby Veil"
+  author: "Mara Fitzgerald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebels-spies-and-villains
+  note: ""
+- id: 3004
+  title: "Into the Midnight Void"
+  author: "Mara Fitzgerald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebels-spies-and-villains
+  note: ""
+- id: 3005
+  title: "Stranger Magics"
+  author: "Ash Fitzsimmons"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 3006
+  title: "City of Secrets"
+  author: "Liz Flanagan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 3007
+  title: "Into the Dark Forest"
+  author: "Liz Flanagan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 3008
+  title: "Magical Mountain Rescue"
+  author: "Liz Flanagan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 3009
+  title: "The Hidden Sea"
+  author: "Liz Flanagan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 3011
+  title: "Dead Water"
+  author: "C. A. Fletcher"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 3013
+  title: "The Oversight"
+  author: "Charlie Fletcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3014
+  title: "The Paradox"
+  author: "Charlie Fletcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3015
+  title: "The Remnant"
+  author: "Charlie Fletcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3016
+  title: "Beyond Redemption"
+  author: "Michael R Fletcher"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 3027
+  title: "Eric Flint's Islands"
+  author: "An Audio Drama Based on the Novella Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  note: ""
+- id: 3028
+  title: "War Games"
+  author: "Christopher Anviledited by Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  note: ""
+- id: 3032
+  title: "Mother of Demons"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 3033
+  title: "Destiny's Shield"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 3034
+  title: "Fortune's Stroke"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 3035
+  title: "In the Heart of Darkness"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 3036
+  title: "T.N.T: Telzey Amberdon & Trigger Argee Together"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  note: ""
+- id: 3037
+  title: "The Philosophical Strangler"
+  author: "Eric Flint"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 3038
+  title: "The Tide of Victory"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-UNCLEAR
+  note: ""
+- id: 3040
+  title: "Forward the Mage"
+  author: "Eric Flint"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 3041
+  title: "The Tyrant"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 3044
+  title: "The Rats, the Bats and the Ugly"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 3047
+  title: "The Dance of Time"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 3050
+  title: "Jim Baen's Universe Vol 1 Num 1"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3051
+  title: "Jim Baen's Universe Vol 1 Num 2"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3052
+  title: "Jim Baen's Universe Vol 1 Num 3"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3053
+  title: "Jim Baen's Universe Vol 1 Num 4"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3054
+  title: "Jim Baen's Universe Vol 1 Num 5"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3055
+  title: "Jim Baen's Universe Vol 1 Num 6"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3056
+  title: "Jim Baen's Universe Vol 2 Num 1"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3057
+  title: "Jim Baen's Universe Vol 2 Num 2"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3058
+  title: "Jim Baen's Universe Vol 2 Num 3"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3059
+  title: "Jim Baen's Universe Vol 2 Num 4"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3061
+  title: "The Best of Jim Baen's Universe"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3062
+  title: "The Dragon Done It"
+  author: "Eric Flint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3065
+  title: "Jim Baen's Universe Vol 2 Num 5"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3066
+  title: "Jim Baen's Universe Vol 2 Num 6"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3067
+  title: "Jim Baen's Universe Vol 3 Num 1"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3068
+  title: "Jim Baen's Universe Vol 3 Num 2"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3069
+  title: "Jim Baen's Universe Vol 3 Num 3"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3070
+  title: "Jim Baen's Universe Vol 3 Num 4"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3071
+  title: "Slow Train to Arcturus"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3072
+  title: "The Best of Jim Baen's Universe II"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3073
+  title: "Worlds"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3074
+  title: "Jim Baen's Universe Vol 3 Num 5"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3075
+  title: "Jim Baen's Universe Vol 3 Num 6"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3076
+  title: "Jim Baen's Universe Vol 4 Num 1"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3077
+  title: "Jim Baen's Universe Vol 4 Num 2"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3078
+  title: "Jim Baen's Universe Vol 4 Num 3"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3079
+  title: "Jim Baen's Universe Vol 4 Num 4"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3080
+  title: "The Crucible of Empire"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: visitors-and-watchers
+  note: ""
+- id: 3082
+  title: "Threshold"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3085
+  title: "Jim Baen's Universe Vol 4 Num 5"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3086
+  title: "Jim Baen's Universe Vol 4 Num 6"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3104
+  title: "The Span of Empire"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: visitors-and-watchers
+  note: ""
+- id: 3108
+  title: "Iron Angels"
+  author: "Eric Flint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3111
+  title: "All the Plagues of Hell"
+  author: "Eric Flint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3113
+  title: "Worlds II"
+  author: "Eric Flint"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:MAGAZINE-ISSUE-OR-ANTHOLOGY
+  note: ""
+- id: 3116
+  title: "Council of Fire"
+  author: "Eric Flint"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 3127
+  title: "1812: The Rivers of War"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-civil-war
+  note: ""
+- id: 3128
+  title: "1824: The Arkansas War"
+  author: "Eric Flint"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-civil-war
+  note: ""
+- id: 3133
+  title: "In the Country of the Blind"
+  author: "Michael Flynn"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
