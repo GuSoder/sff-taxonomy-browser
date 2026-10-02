@@ -690,7 +690,7 @@
   note: ""
 - id: 4592
   title: "A Well-Fed Companion"
-  author: "Congyun \"Mu Ming\" Gu; translated by Kiera Johnson"
+  author: "Congyun \\\\\\\"Mu Ming\\\\\\\" Gu; translated by Kiera Johnson"
   form: x
   has_magic: 
   is_real_earth: 
@@ -856,4 +856,1239 @@
   confidence: moderate
   source: web
   decision: whimsical-doors
+  note: ""
+- id: 4612
+  title: "Going Interstellar"
+  author: "Les Johnson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4613
+  title: "Mission to Methone"
+  author: "Les Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4614
+  title: "Stellaris: People of the Stars"
+  author: "Les Johnson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4615
+  title: "The Spacetime War"
+  author: "Les Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4616
+  title: "The Ross 248 Project"
+  author: "Les Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4617
+  title: "Those Beyond the Wall"
+  author: "Micaiah Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4623
+  title: "Command Combat: Slammers Down!"
+  author: "Todd Johnson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4624
+  title: "Soleri"
+  author: "Michael Johnston"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4625
+  title: "Silence of the Soleri"
+  author: "Michael Johnston"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4626
+  title: "Skinner Box"
+  author: "Carole Johnstone"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4627
+  title: "Deep Secret"
+  author: "Diana Wynne Jones"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4628
+  title: "Proof of Concept"
+  author: "Gwyneth Jones"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4629
+  title: "Kairos"
+  author: "Gwyneth Jones"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4630
+  title: "Life"
+  author: "Gwyneth Jones"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4631
+  title: "The City of Marble and Blood"
+  author: "Howard Andrew Jones"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4632
+  title: "Master and Fool"
+  author: "J. V. Jones"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4633
+  title: "Written in the Blood"
+  author: "Stephen Lloyd Jones"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4634
+  title: "What the Storm Means: Prologue to the Gathering Storm"
+  author: "By Robert Jordan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4635
+  title: "From The Two Rivers"
+  author: "Robert Jordan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4636
+  title: "Distinctions: Prologue to Towers of Midnight"
+  author: "Robert Jordan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4637
+  title: "By Grace and Banners Fallen: Prologue to A Memory of Light"
+  author: "Robert Jordan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4641
+  title: "Warrior of the Altaii"
+  author: "Robert Jordan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4642
+  title: "The World of Robert Jordan's The Wheel of Time"
+  author: "Robert Jordan;"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4643
+  title: "The Last Human"
+  author: "Zack Jordan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4644
+  title: "Nemo Rising"
+  author: "C. Courtney Joyner"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4645
+  title: "Two Great Novels"
+  author: "James Tiptree Jr."
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4646
+  title: "Saga of Recluce: Books 1-5"
+  author: "L. E. Modesitt Jr."
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4647
+  title: "Legalist"
+  author: "L. E. Modesitt Jr."
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4648
+  title: "Flash"
+  author: "L.E. Modesitt Jr."
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4649
+  title: "Scepters"
+  author: "L.E. Modesitt Jr."
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4650
+  title: "Dark Benediction"
+  author: "Walter M. Miller Jr"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4651
+  title: "Apex"
+  author: "Aer Ki Jyr"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4652
+  title: "Water: A History"
+  author: "KJ Kabza"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4653
+  title: "Fate of the Fallen"
+  author: "Kel Kade"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4654
+  title: "Destiny of the Dead"
+  author: "Kel Kade"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4655
+  title: "Sanctum of the Soul"
+  author: "Kel Kade"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4656
+  title: "Across the Dark Water"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4657
+  title: "Aloha from Hell"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4658
+  title: "Ballistic Kiss"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4659
+  title: "Dead Set"
+  author: "Richard Kadrey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-UNCLEAR
+  note: ""
+- id: 4660
+  title: "Devil in the Dollhouse"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4661
+  title: "Devil Said Bang"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4662
+  title: "Hollywood Dead"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4663
+  title: "In the Devil Wind"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4664
+  title: "Kill City Blues"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4665
+  title: "Kill the Dead"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4666
+  title: "Killing Pretty"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4667
+  title: "King Bullet"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4668
+  title: "Metrophage"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 4669
+  title: "Suspect Zero"
+  author: "Richard Kadrey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 4670
+  title: "The Everything Box"
+  author: "Richard Kadrey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 4671
+  title: "The Getaway God"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4672
+  title: "The Grand Dark"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4673
+  title: "The Kill Society"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4674
+  title: "The Perdition Score"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4675
+  title: "The Wrong Dead Guy"
+  author: "Richard Kadrey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4676
+  title: "Her Silhouette, Drawn in Water"
+  author: "Vylar Kaftan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4678
+  title: "Mirabile"
+  author: "Janet Kagan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4679
+  title: "The Collected Kagan"
+  author: "Janet Kagan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4680
+  title: "The Joplin Horror"
+  author: "Jason Kaleko"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4681
+  title: "A Brief History of Living Forever"
+  author: "Jaroslav Kalfar"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4686
+  title: "Finding Magic (Novella)"
+  author: "Stacia Kane"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4688
+  title: "A Snake Among Swans"
+  author: "Hannah Kaner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4689
+  title: "Faithbreaker"
+  author: "Hannah Kaner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4690
+  title: "Sunbringer"
+  author: "Hannah Kaner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4691
+  title: "Cursed by the Dawn"
+  author: "Logan Karlie"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4692
+  title: "Dream by the Shadows"
+  author: "Logan Karlie"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4693
+  title: "Children of Fire (The Chaos Born, Book One)"
+  author: "Drew Karpyshyn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4694
+  title: "The Scorched Earth"
+  author: "Drew Karpyshyn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4695
+  title: "Chaos Unleashed"
+  author: "Drew Karpyshyn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4696
+  title: "Ice Song"
+  author: "Kirsten Imani Kasai"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4697
+  title: "Tattoo (with Bonus Content)"
+  author: "Kirsten Imani Kasai"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4698
+  title: "White Lights"
+  author: "Lauren Kate"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4699
+  title: "The Ocean Would Paint Me Blue"
+  author: "Zoulfa Katouh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4703
+  title: "The Quantum Thief"
+  author: "Hannu Rajaniemi; introduction by Roz Kaveney"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 4704
+  title: "The Last Hot Time"
+  author: "John M. Ford; introduction by Roz Kaveney"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4705
+  title: "A Song for Arbonne"
+  author: "Guy Gavriel Kay"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4706
+  title: "Ysabel"
+  author: "Guy Gavriel Kay"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4707
+  title: "Lord of Emperors"
+  author: "Guy Gavriel Kay"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4708
+  title: "Sailing to Sarantium"
+  author: "Guy Gavriel Kay"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4709
+  title: "The Mark of Ran"
+  author: "Paul Kearney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4710
+  title: "This Forsaken Earth"
+  author: "Paul Kearney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4711
+  title: "In the Eye of Heaven"
+  author: "David Keck"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4712
+  title: "In a Time of Treason"
+  author: "David Keck"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4713
+  title: "A King in Cobwebs"
+  author: "David Keck"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4714
+  title: "Combat Command: The Legion At War"
+  author: "Andrew Keith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4715
+  title: "Sharuq"
+  author: "Bill Keith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4716
+  title: "Stingray"
+  author: "Bill Keith"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4717
+  title: "The Museum and the Music Box"
+  author: "Noah Keller"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4718
+  title: "Glimmer"
+  author: "Marjorie B Kellogg"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4719
+  title: "The Book of Earth"
+  author: "Marjorie B. Kellogg"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4720
+  title: "The Book of Water"
+  author: "Marjorie B. Kellogg"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4721
+  title: "Book Of Fire"
+  author: "Marjorie B. Kellogg"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4722
+  title: "The Book of Air"
+  author: "Marjorie B. Kellogg"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4723
+  title: "The Frozen Crown"
+  author: "Greta Kelly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
   note: ""
