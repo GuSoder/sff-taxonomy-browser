@@ -12,3 +12,913 @@
   source: web
   decision: HOLD:CHILDREN-MG
   note: ""
+- id: 9501
+  title: "Hide"
+  author: "Kiersten White"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 9502
+  title: "Mister Magic"
+  author: "Kiersten White"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 9503
+  title: "Lucy Undying"
+  author: "Kiersten White"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: classic-and-literary-vampires
+  note: ""
+- id: 9504
+  title: "The Fox and the Devil"
+  author: "Kiersten White"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 9505
+  title: "Strongest Conjuration"
+  author: "Skyler White"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-witches-and-seers
+  note: ""
+- id: 9506
+  title: "Eagle Against the Stars"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9507
+  title: "Emperor of Dawn"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9508
+  title: "Forge of the Titans"
+  author: "Steve White"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9509
+  title: "Demon's Gate"
+  author: "Steve White"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9510
+  title: "The Prometheus Project"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: invasions-and-fermi
+  note: ""
+- id: 9511
+  title: "Blood of the Heroes"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9512
+  title: "Prince of Sunset"
+  author: "Steve White"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9513
+  title: "Debt of Ages"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9514
+  title: "Legacy"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9515
+  title: "Saint Antony's Fire"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9516
+  title: "The Disinherited"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9517
+  title: "Extremis"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9518
+  title: "Wolf Among the Stars"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9519
+  title: "Sunset of the Gods"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9522
+  title: "Imperative"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9524
+  title: "Gods of Dawn"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9525
+  title: "Her Majesty's American"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9526
+  title: "Oblivion"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9527
+  title: "Her Majesty's Rebel"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9528
+  title: "The Malice of Fortune"
+  author: "Steve White"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9529
+  title: "The Book of Merlyn"
+  author: "T. H. White"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: old-heroic-romance
+  note: ""
+- id: 9530
+  title: "The Adventurers Guide to Dragons (and Why They Keep Biting Me)"
+  author: "Wade Albert White"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9531
+  title: "The Adventurers Guide to Successful Escapes"
+  author: "Wade Albert White"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9532
+  title: "The Adventurers Guide to Treasure (and How to Steal It)"
+  author: "Wade Albert White"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9533
+  title: "The Last Lies of Ardor Benn"
+  author: "Tyler Whitesides"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: truth-and-flame-swords
+  note: ""
+- id: 9534
+  title: "The Shattered Realm of Ardor Benn"
+  author: "Tyler Whitesides"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: truth-and-flame-swords
+  note: ""
+- id: 9535
+  title: "The Thousand Deaths of Ardor Benn"
+  author: "Tyler Whitesides"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: truth-and-flame-swords
+  note: ""
+- id: 9536
+  title: "Benighted"
+  author: "Kit Whitfield"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: alt_history
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9537
+  title: "In Great Waters"
+  author: "Kit Whitfield"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: alt_history
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9538
+  title: "For the Throne"
+  author: "Hannah Whitten"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 9539
+  title: "For the Wolf"
+  author: "Hannah Whitten"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 9540
+  title: "The Foxglove King"
+  author: "Hannah Whitten"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dynasties-and-cities
+  note: ""
+- id: 9541
+  title: "The Hemlock Queen"
+  author: "Hannah Whitten"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dynasties-and-cities
+  note: ""
+- id: 9542
+  title: "The Nightshade God"
+  author: "Hannah Whitten"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dynasties-and-cities
+  note: ""
+- id: 9543
+  title: "The Wilderwood Duology"
+  author: "Hannah Whitten"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 9553
+  title: "To Mars via the Moon"
+  author: "Mark Wicks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9554
+  title: "House of Frost and Feathers"
+  author: "Lauren Wiesebron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-kings-and-werewolf-realms
+  note: ""
+- id: 9555
+  title: "The Palace Beneath the Sea"
+  author: "Lauren Wiesebron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-kings-and-werewolf-realms
+  note: ""
+- id: 9556
+  title: "The Compendium of Magical Beasts"
+  author: "Dr. Veronica Wigberht-Blackwater"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 9557
+  title: "When We Were Lost"
+  author: "Kevin Wignall"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 9558
+  title: "The Emperor Without Mercy"
+  author: "Maithree Wijesekara"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 9559
+  title: "The Prince Without Sorrow"
+  author: "Maithree Wijesekara"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 9560
+  title: "The Witch Without Memory"
+  author: "Maithree Wijesekara"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 9561
+  title: "Alien Morning"
+  author: "Rick Wilber"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: contact-comes-home
+  note: ""
+- id: 9562
+  title: "Alien Day"
+  author: "Rick Wilber"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: contact-comes-home
+  note: ""
+- id: 9563
+  title: "The Jewel and Her Lapidary"
+  author: "Fran Wilde"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9564
+  title: "The Fire Opal Mechanism"
+  author: "Fran Wilde"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9565
+  title: "An Explorer's Cartography of Already Settled Lands"
+  author: "Fran Wilde"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9566
+  title: "The Book of Gems"
+  author: "Fran Wilde"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9567
+  title: "Where Late The Sweet Birds Sang"
+  author: "Kate Wilhelm"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9568
+  title: "The Veil of Gold"
+  author: "Kim Wilkins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moon-rings-and-spirit-foxes
+  note: ""
+- id: 9569
+  title: "Daughters of the Storm"
+  author: "Kim Wilkins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moon-rings-and-spirit-foxes
+  note: ""
+- id: 9570
+  title: "Sisters of the Fire"
+  author: "Kim Wilkins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moon-rings-and-spirit-foxes
+  note: ""
+- id: 9571
+  title: "Giants of the Frost"
+  author: "Kim Wilkins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moon-rings-and-spirit-foxes
+  note: ""
+- id: 9572
+  title: "The Autumn Castle"
+  author: "Kim Wilkins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moon-rings-and-spirit-foxes
+  note: ""
+- id: 9573
+  title: "The Cityborn"
+  author: "Edward Willett"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 9574
+  title: "Worldshaper"
+  author: "Edward Willett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 9575
+  title: "Master of the World"
+  author: "Edward Willett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 9576
+  title: "The Moonlit World"
+  author: "Edward Willett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 9577
+  title: "The Tangled Stars"
+  author: "Edward Willett"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 9578
+  title: "The Whisper of Stars"
+  author: "Cristin Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 9579
+  title: "When the English Fall"
+  author: "David Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9580
+  title: "The Stars Now Unclaimed"
+  author: "Drew Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: searchers-and-outback-stars
+  note: ""
+- id: 9581
+  title: "A Chain Across the Dawn"
+  author: "Drew Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: searchers-and-outback-stars
+  note: ""
+- id: 9582
+  title: "The Firmament of Flame"
+  author: "Drew Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: searchers-and-outback-stars
+  note: ""
