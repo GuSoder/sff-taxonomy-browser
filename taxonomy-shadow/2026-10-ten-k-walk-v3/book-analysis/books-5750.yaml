@@ -2040,3 +2040,393 @@
   source: web
   decision: moons-and-lost-worlds
   note: ""
+- id: 5963
+  title: "Tyger Burning"
+  author: "T.C. McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 5964
+  title: "Tyger Bright"
+  author: "T.C. McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 5965
+  title: "Antediluvian"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 5966
+  title: "The Collapsium"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: expanse-and-grand-tours
+  note: ""
+- id: 5967
+  title: "Lost in Transmission"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 5968
+  title: "Orbital Bombardment Victory Road eARC"
+  author: "Wil McCarthy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5969
+  title: "Rich Man's Sky"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: expanse-and-grand-tours
+  note: ""
+- id: 5970
+  title: "The Wellstone"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: expanse-and-grand-tours
+  note: ""
+- id: 5971
+  title: "Thieves' Sky"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: expanse-and-grand-tours
+  note: ""
+- id: 5972
+  title: "To Crush the Moon"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: expanse-and-grand-tours
+  note: ""
+- id: 5973
+  title: "Poor Man's Sky"
+  author: "Wil McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: expanse-and-grand-tours
+  note: ""
+- id: 5974
+  title: "The Tricky Business of Faerie Bargains"
+  author: "Reena McCarty"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 5975
+  title: "Mage Knight 1: Rebel Thunder"
+  author: "Bill McCay"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5976
+  title: "War Cry"
+  author: "Brian McClellan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5977
+  title: "In the Shadow of Lightning"
+  author: "Brian McClellan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5985
+  title: "The Questing Road"
+  author: "Lyn McConchie"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 5986
+  title: "Highlander(TM): Scimitar"
+  author: "Ashley McConnell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5987
+  title: "The Undefeated"
+  author: "Una McCormack"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5988
+  title: "Sold"
+  author: "Patricia McCormick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5989
+  title: "WebMage"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 5990
+  title: "Cybermancy"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 5991
+  title: "Codespell"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 5992
+  title: "MythOS"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 5993
+  title: "Spellcrash"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 5994
+  title: "Broken Blade"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5995
+  title: "Bared Blade"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5996
+  title: "Crossed Blades"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5997
+  title: "Blade Reforged"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5998
+  title: "Drawn Blades"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 5999
+  title: "Darkened Blade"
+  author: "Kelly McCullough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""

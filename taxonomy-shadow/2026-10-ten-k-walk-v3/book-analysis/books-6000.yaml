@@ -1,0 +1,521 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 6000
+  title: "House of the Dragon: Balerion Light-Up Dragon Skull"
+  author: "Jim McDermott"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6001
+  title: "House of the Dragon: Light-Up Dragon Egg"
+  author: "Jim McDermott"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6002
+  title: "The Fortress at the End of Time"
+  author: "Joe M. McDermott"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6003
+  title: "Triquetra"
+  author: "Kirstyn McDermott"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6013
+  title: "Time Travelers Never Die"
+  author: "Jack McDevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6016
+  title: "Starhawk"
+  author: "Jack McDevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6018
+  title: "The Hercules Text"
+  author: "Jack McDevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6019
+  title: "Thunderbird"
+  author: "Jack McDevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6020
+  title: "Ancient Shores"
+  author: "Jack Mcdevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6021
+  title: "Deepsix"
+  author: "Jack Mcdevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6022
+  title: "Eternity Road"
+  author: "Jack Mcdevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6023
+  title: "Infinity Beach"
+  author: "Jack Mcdevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6024
+  title: "Moonfall"
+  author: "Jack Mcdevitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6025
+  title: "Blackwing"
+  author: "Ed McDonald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6026
+  title: "Ravencry"
+  author: "Ed McDonald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6027
+  title: "Crowfall"
+  author: "Ed McDonald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6028
+  title: "Daughter of Redwinter"
+  author: "Ed McDonald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 6029
+  title: "Traitor of Redwinter"
+  author: "Ed McDonald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 6030
+  title: "Witch Queen of Redwinter"
+  author: "Ed McDonald"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 6033
+  title: "The Guile"
+  author: "Ian McDonald"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6035
+  title: "The Menace from Farside"
+  author: "Ian McDonald"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6036
+  title: "Boy, with Accidental Dinosaur"
+  author: "Ian McDonald"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6037
+  title: "The Date"
+  author: "Ian McDonald"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6038
+  title: "Brasyl"
+  author: "Ian McDonald"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6039
+  title: "Cyberabad Days"
+  author: "Ian McDonald"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6040
+  title: "Desolation Road"
+  author: "Ian McDonald"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6042
+  title: "Necroville"
+  author: "Ian McDonald"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6043
+  title: "The Stars Blue Yonder"
+  author: "Sandra McDonald"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6044
+  title: "The Outback Stars"
+  author: "Sandra McDonald"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6045
+  title: "The Stars Down Under"
+  author: "Sandra McDonald"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6046
+  title: "Gene Roddenberry's Andromeda: Waystation"
+  author: "Steven McDonald"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6050
+  title: "Illumination"
+  author: "Terry McGarry"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6051
+  title: "The Binder's Road"
+  author: "Terry Mcgarry"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6052
+  title: "Triad"
+  author: "Terry Mcgarry"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6053
+  title: "The Dragon Seekers"
+  author: "Christopher Mcgowan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6054
+  title: "Midway Relics and Dying Breeds"
+  author: "Seanan McGuire"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6055
+  title: "Full of Briars"
+  author: "Seanan McGuire"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 6056
+  title: "Deadlands: Boneyard"
+  author: "Seanan McGuire"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 6057
+  title: "Dusk or Dark or Dawn or Day"
+  author: "Seanan McGuire"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 6058
+  title: "Sparrow Hill Road"
+  author: "Seanan McGuire"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
