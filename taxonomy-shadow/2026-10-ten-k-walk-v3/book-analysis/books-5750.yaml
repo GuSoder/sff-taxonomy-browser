@@ -1065,3 +1065,978 @@
   source: web
   decision: ship-soldiers-and-starmen
   note: ""
+- id: 5857
+  title: "Crimes Against Humanity"
+  author: "Susan R. Matthews"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5858
+  title: "Nocturne For A Dangerous Man"
+  author: "Marc Matz"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5859
+  title: "King Rat"
+  author: "China Mieville; introduction by Tim Maughan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: big-city-underworlds
+  note: ""
+- id: 5860
+  title: "A Curse of Shadows and Ice"
+  author: "Catharina Maura"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 5861
+  title: "These Cursed Fates"
+  author: "Catharina Maura"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 5865
+  title: "Sneak Peek for Call Me Traitor"
+  author: "Everina Maxwell"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 5866
+  title: "To Cage a God"
+  author: "Elizabeth May"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5867
+  title: "Seven Mercies"
+  author: "Elizabeth May"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5868
+  title: "The Falconer"
+  author: "Elizabeth May"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 5869
+  title: "The Fallen Kingdom"
+  author: "Elizabeth May"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 5870
+  title: "The Vanishing Throne"
+  author: "Elizabeth May"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 5871
+  title: "This Vicious Hunger"
+  author: "Francesca May"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 5872
+  title: "Wild and Wicked Things"
+  author: "Francesca May"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 5874
+  title: "Orion Arm"
+  author: "Julian May"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5875
+  title: "The Sagittarius Whorl"
+  author: "Julian May"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5876
+  title: "Conqueror's Moon"
+  author: "Julian May"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 5877
+  title: "Sorcerer's Moon"
+  author: "Julian May"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 5878
+  title: "Perseus Spur"
+  author: "Julian May"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5881
+  title: "EXIT: The Book The Dragons Cave"
+  author: "Anna Maybach"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5882
+  title: "Im Laughing Because Im Crying"
+  author: "Youngmi Mayer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5883
+  title: "How to Summon a Fairy Godmother"
+  author: "Laura J. Mayo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 5884
+  title: "How to Survive a Fairy Bargain"
+  author: "Laura J. Mayo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 5885
+  title: "Theres Something Wrong with Prince Charming"
+  author: "Laura J. Mayo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 5886
+  title: "A Million Dragons"
+  author: "Lulu Mayo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5887
+  title: "The Courtship of the Queen"
+  author: "Bruce McAllister"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5888
+  title: "La Signora"
+  author: "Bruce McAllister"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5889
+  title: "Where Are the Aliens?"
+  author: "Stacy McAnulty"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5890
+  title: "Less Than Human"
+  author: "Maxine McArthur"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5891
+  title: "Time Future"
+  author: "Maxine McArthur"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5892
+  title: "Time Past"
+  author: "Maxine McArthur"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5893
+  title: "Whole Wide World"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5894
+  title: "Something Happened Here, But We're Not Quite Sure What It Was"
+  author: "Paul McAuley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5895
+  title: "400 Billion Stars"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5896
+  title: "Austral"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5897
+  title: "Confluence - The Trilogy"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5898
+  title: "Evening's Empires"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5899
+  title: "Fairyland"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 5900
+  title: "Gardens of the Sun"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5901
+  title: "In the Mouth of the Whale"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5902
+  title: "Into Everywhere"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5903
+  title: "Loss Protocol"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5904
+  title: "Something Coming Through"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5905
+  title: "The Quiet War"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5906
+  title: "The Secret of Life"
+  author: "Paul McAuley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5907
+  title: "Heads Will Roll"
+  author: "Lish McBride"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 5908
+  title: "Crystal Singer"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5910
+  title: "Killashandra"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5912
+  title: "Decision at Doona"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5913
+  title: "Get Off the Unicorn"
+  author: "Anne McCaffrey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5916
+  title: "Crystal Line"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5919
+  title: "Powers That Be"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5921
+  title: "Power Lines"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5922
+  title: "Freedom's Landing"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5923
+  title: "Power Play"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5925
+  title: "Freedom's Choice"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5926
+  title: "Freedom's Challenge"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5930
+  title: "Nimisha's Ship"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5931
+  title: "Restoree"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5933
+  title: "Freedom's Ransom"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5934
+  title: "The Mystery of Ireta"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5936
+  title: "Doona"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5939
+  title: "Changelings"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5941
+  title: "Sassinak"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5943
+  title: "Maelstrom"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5944
+  title: "Deluge"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5945
+  title: "Generation Warriors"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5946
+  title: "The Death of Sleep"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5947
+  title: "Catalyst"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5949
+  title: "Catacombs"
+  author: "Anne McCaffrey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5951
+  title: "The Girl Who Heard Dragons"
+  author: "Anne McCaffrey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5955
+  title: "Dragon's Code"
+  author: "Gigi McCaffrey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-bonded-heroes
+  note: ""
+- id: 5959
+  title: "Swift, Brutal Retaliation"
+  author: "Meghan McCarron"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5960
+  title: "Blue is a Darkness Weakened by Light"
+  author: "Sarah McCarry"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5961
+  title: "The Color of Rain"
+  author: "Cori McCarthy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5962
+  title: "Sword in the Stars"
+  author: "Cory McCarthy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
