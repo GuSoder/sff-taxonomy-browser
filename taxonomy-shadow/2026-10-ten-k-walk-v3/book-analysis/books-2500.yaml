@@ -1949,3 +1949,445 @@
   source: web
   decision: wanderers-and-fixers
   note: ""
+- id: 2698
+  title: "Stars Uncharted"
+  author: "S. K. Dunstall"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2699
+  title: "Stars Beyond"
+  author: "S. K. Dunstall"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2700
+  title: "Mage Knight 2: Dark Debts"
+  author: "Doranna Durgin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2701
+  title: "Race the Sands"
+  author: "Sarah Beth Durst"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2702
+  title: "The Bone Maker"
+  author: "Sarah Beth Durst"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2703
+  title: "The Deepest Blue"
+  author: "Sarah Beth Durst"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2708
+  title: "Assassin of Reality"
+  author: "Marina Sergey Dyachenko"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 2709
+  title: "Daughter from the Dark"
+  author: "Marina Sergey Dyachenko"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 2710
+  title: "School of Shards"
+  author: "Marina Sergey Dyachenko"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 2712
+  title: "You Dont Want a Dragon!"
+  author: "Ame Dyckman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2713
+  title: "You Dont Want a Unicorn!"
+  author: "Ame Dyckman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2714
+  title: "Crossroads of Canopy"
+  author: "Thoraiya Dyer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2715
+  title: "Echoes of Understorey"
+  author: "Thoraiya Dyer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2716
+  title: "Tides of the Titans"
+  author: "Thoraiya Dyer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2717
+  title: "The Titan's Forest Trilogy"
+  author: "Thoraiya Dyer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2718
+  title: "Victory Citrus is Sweet"
+  author: "Thoraiya Dyer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2719
+  title: "The Fastest Martian Mile"
+  author: "Thoraiya Dyer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2723
+  title: "How Rory Thorne Destroyed the Multiverse"
+  author: "K. Eason"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2724
+  title: "How the Multiverse Got Its Revenge"
+  author: "K. Eason"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2725
+  title: "Nightwatch on the Hinterlands"
+  author: "K. Eason"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2726
+  title: "Nightwatch over Windscar"
+  author: "K. Eason"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2727
+  title: "Rest the Dawn"
+  author: "Megan Jauregui Eccles"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2728
+  title: "Sing the Night"
+  author: "Megan Jauregui Eccles"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2734
+  title: "The Redemption of Althalus"
+  author: "David Eddings"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2735
+  title: "Regina's Song"
+  author: "David Eddings"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 2738
+  title: "Crystal Gorge"
+  author: "David Eddings"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2739
+  title: "The Elder Gods"
+  author: "David Eddings"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2740
+  title: "The Treasured One"
+  author: "David Eddings"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2742
+  title: "The Warslayer"
+  author: "Rosemary Edghill"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2743
+  title: "Murder by Magic"
+  author: "Rosemary Edghill"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2745
+  title: "Sandymancer"
+  author: "David Edison"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2747
+  title: "Norse Code"
+  author: "Greg Van Eekhout"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2748
+  title: "California Bones"
+  author: "Greg van Eekhout"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2749
+  title: "Dragon Coast"
+  author: "Greg Van Eekhout"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""

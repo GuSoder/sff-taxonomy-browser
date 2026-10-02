@@ -1,0 +1,690 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 2750
+  title: "Pacific Fire"
+  author: "Greg Van Eekhout"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2754
+  title: "Flesh for Fantasy"
+  author: "Danielle Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 2755
+  title: "Uncanny Valley"
+  author: "Greg Egan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 2756
+  title: "The Nearest"
+  author: "Greg Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 2757
+  title: "Perihelion Summer"
+  author: "Greg Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2758
+  title: "Zeitgeber"
+  author: "Greg Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2759
+  title: "Axiomatic"
+  author: "Greg Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2761
+  title: "Distress"
+  author: "Greg Egan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2762
+  title: "Incandescence"
+  author: "Greg Egan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 2763
+  title: "Luminous"
+  author: "Greg Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2764
+  title: "Oceanic"
+  author: "Greg Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2766
+  title: "Quarantine"
+  author: "Greg Egan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2768
+  title: "Teranesia"
+  author: "Greg Egan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2770
+  title: "The Best of Greg Egan"
+  author: "Greg Egan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2773
+  title: "Zendegi"
+  author: "Greg Egan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 2774
+  title: "The Lightest Object in the Universe"
+  author: "Kimi Eisele"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2775
+  title: "The Final Strife"
+  author: "Saara El-Arifi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 2776
+  title: "Faebound"
+  author: "Saara El-Arifi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2777
+  title: "The Battle Drum"
+  author: "Saara El-Arifi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 2778
+  title: "The Ending Fire"
+  author: "Saara El-Arifi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 2779
+  title: "Cursebound"
+  author: "Saara El-Arifi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2780
+  title: "Earthbound"
+  author: "Saara El-Arifi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2782
+  title: "Like Water for Quarks"
+  author: "Elton Elliott"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2783
+  title: "The Andromeda Anthology"
+  author: "John Elliott"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2796
+  title: "Servant Mage"
+  author: "Kate Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2797
+  title: "Barnacle"
+  author: "Kate Elliott"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2798
+  title: "The Nameless Land"
+  author: "Kate Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2799
+  title: "The Witch Roads"
+  author: "Kate Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2800
+  title: "Buried Heart"
+  author: "Kate Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2804
+  title: "Court of Fives"
+  author: "Kate Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2805
+  title: "Poisoned Blade"
+  author: "Kate Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2806
+  title: "The Pilgrims"
+  author: "Will Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2807
+  title: "Shadow"
+  author: "Will Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2808
+  title: "World's End"
+  author: "Will Elliott"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2809
+  title: "Vor: The Rescue"
+  author: "Don Ellis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2810
+  title: "Blackfin Sky"
+  author: "Kat Ellis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2811
+  title: "Cthulhu 2000"
+  author: "Harlan Ellison"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2812
+  title: "Greatest Hits"
+  author: "Harlan Ellison"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2813
+  title: "Starfire: A Red Peace"
+  author: "Spencer Ellsworth"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2814
+  title: "Starfire: Shadow Sun Seven"
+  author: "Spencer Ellsworth"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2815
+  title: "When Stars Are Scattered"
+  author: "Spencer Ellsworth"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2816
+  title: "Starfire: Memory's Blade"
+  author: "Spencer Ellsworth"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2817
+  title: "Worlds of Exile and Illusion"
+  author: "Ursula K. Le Guin; introduction by Amal El-Mohtar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2820
+  title: "Keeper of the King"
+  author: "P. N. Elrod"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2822
+  title: "The Hanged Man"
+  author: "P. N. Elrod"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2823
+  title: "The Franchise"
+  author: "Thomas Elrod"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 2824
+  title: "The Daughters of Izdihar"
+  author: "Hadeer Elsbai"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2825
+  title: "The Weavers of Alamaxa"
+  author: "Hadeer Elsbai"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2826
+  title: "Seconds"
+  author: "David Ely"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: androids
+  note: ""
+- id: 2827
+  title: "Eclipse & the Wolf"
+  author: "Akwaeke Emezi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2828
+  title: "Shield Maiden"
+  author: "Sharon Emmerichs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2829
+  title: "The Bloody Throne"
+  author: "S. C. Emmett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2830
+  title: "The Poison Prince"
+  author: "S. C. Emmett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
