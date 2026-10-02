@@ -1429,3 +1429,900 @@
   source: web
   decision: big-city-underworlds
   note: ""
+- id: 6143
+  title: "Priest of Lies"
+  author: "Peter McLean"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: big-city-underworlds
+  note: ""
+- id: 6148
+  title: "Souls in the Great Machine"
+  author: "Sean McMullen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6149
+  title: "The Miocene Arrow"
+  author: "Sean McMullen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6150
+  title: "Eyes of the Calculor"
+  author: "Sean McMullen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6151
+  title: "Glass Dragons"
+  author: "Sean McMullen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6152
+  title: "Voidfarer"
+  author: "Sean McMullen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6153
+  title: "The Time Engine"
+  author: "Sean McMullen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6154
+  title: "Voyage of the Shadowmoon"
+  author: "Sean McMullen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 6155
+  title: "A Rose by Any Other Name"
+  author: "Mary McMyne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6156
+  title: "The Book of Gothel"
+  author: "Mary McMyne"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6157
+  title: "They Fear Not Men in the Woods"
+  author: "Gretchen McNeil"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6158
+  title: "We Are for the Dark"
+  author: "Gretchen McNeil"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6160
+  title: "A Strange and Stubborn Endurance"
+  author: "Foz Meadows"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6161
+  title: "All the Hidden Paths"
+  author: "Foz Meadows"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6162
+  title: "Blood of the Gods"
+  author: "David Mealing"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6163
+  title: "Chains of the Earth"
+  author: "David Mealing"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6164
+  title: "Soul of the World"
+  author: "David Mealing"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6165
+  title: "Bone Song"
+  author: "John Meaney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: big-city-underworlds
+  note: ""
+- id: 6166
+  title: "Black Blood"
+  author: "John Meaney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: big-city-underworlds
+  note: ""
+- id: 6167
+  title: "Dark Blood"
+  author: "John Meaney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: big-city-underworlds
+  note: ""
+- id: 6168
+  title: "Stray Magic"
+  author: "Kelly Meding"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6169
+  title: "Stray Moon"
+  author: "Kelly Meding"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6170
+  title: "Mahimata"
+  author: "Rati Mehrotra"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 6171
+  title: "Markswoman"
+  author: "Rati Mehrotra"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 6172
+  title: "Singularity's Ring"
+  author: "Paul Melko"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6173
+  title: "The Walls of the Universe"
+  author: "Paul Melko"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6174
+  title: "The Broken Universe"
+  author: "Paul Melko"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6175
+  title: "Cascadia"
+  author: "Colin Meloy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 6181
+  title: "Tour of the Merrimack: Volume One"
+  author: "R. M. Meluch"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6183
+  title: "The Twice and Future Caesar"
+  author: "R. M. Meluch"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6184
+  title: "The Dominion of Leviathan"
+  author: "Manish Melwani"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 6185
+  title: "City of Mirth and Malice"
+  author: "Alexis L. Menard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6186
+  title: "House of Bane and Blood"
+  author: "Alexis L. Menard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6187
+  title: "The Alchemy of Desire"
+  author: "Alexis L. Menard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6188
+  title: "The Anatomy of Magic"
+  author: "Alexis L. Menard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6189
+  title: "Vices & Virtues"
+  author: "Alexis L. Menard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6190
+  title: "A Gorgon's Guide to Getting a Life"
+  author: "Ellen Meny"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 6191
+  title: "Bite"
+  author: "K. S. Merbeth"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: plagues-and-pandemics
+  note: ""
+- id: 6192
+  title: "Raid"
+  author: "K. S. Merbeth"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: plagues-and-pandemics
+  note: ""
+- id: 6193
+  title: "The Wastelanders"
+  author: "K. S. Merbeth"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: plagues-and-pandemics
+  note: ""
+- id: 6194
+  title: "Discordia"
+  author: "Kristyn Merbeth"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6195
+  title: "Fortuna"
+  author: "Kristyn Merbeth"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6196
+  title: "Memoria"
+  author: "Kristyn Merbeth"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6197
+  title: "Bride of the Shadow King"
+  author: "Sylvia Mercedes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6198
+  title: "Vow of the Shadow King"
+  author: "Sylvia Mercedes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6199
+  title: "Heart of the Shadow King"
+  author: "Sylvia Mercedes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-court-romance
+  note: ""
+- id: 6200
+  title: "The Seventh Champion"
+  author: "Sylvia Mercedes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-bonded-heroes
+  note: ""
+- id: 6201
+  title: "The Last Dragon Queen"
+  author: "Sylvia Mercedes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-bonded-heroes
+  note: ""
+- id: 6202
+  title: "The Presence Malign"
+  author: "Michael Mersault"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6203
+  title: "The Redline Heist"
+  author: "Michael Mersault"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6204
+  title: "The Silent Hand"
+  author: "Michael Mersault"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6205
+  title: "The Deep Man"
+  author: "Michael Mersault"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6206
+  title: "The Undead Hordes of Kan-Gul"
+  author: "Jon F. Merz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6207
+  title: "Slavers of the Savage Catacombs"
+  author: "Jon F. Merz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6208
+  title: "Bindle Punk Bruja"
+  author: "Desideria Mesa"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6209
+  title: "Bindle Punk Jefe"
+  author: "Desideria Mesa"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6210
+  title: "Cusp"
+  author: "Robert A. Metzger"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6211
+  title: "The Mortal Queen"
+  author: "Ashley Metzler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 6212
+  title: "Twilight Forever Rising"
+  author: "Lena Meydan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: teen-witches-and-curses
+  note: ""
+- id: 6215
+  title: "Chrysanthe"
+  author: "Yves Meynard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6216
+  title: "The Lost Princess"
+  author: "Yves Meynard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6217
+  title: "The Rebel Prince"
+  author: "Yves Meynard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6218
+  title: "The War for the Realm"
+  author: "Yves Meynard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6219
+  title: "The Body Scout"
+  author: "Lincoln Michel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 6220
+  title: "Firethorn"
+  author: "Sarah Micklem"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6221
+  title: "King Rat"
+  author: "China Mieville"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6222
+  title: "Looking for Jake"
+  author: "China Mieville"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6223
+  title: "Un Lun Dun"
+  author: "China Mieville"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: school-witches
+  note: ""
+- id: 6225
+  title: "Railsea"
+  author: "China Mieville"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
