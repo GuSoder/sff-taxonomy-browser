@@ -1026,3 +1026,913 @@
   source: web
   decision: HOLD:UNCLEAR-REVISIT
   note: ""
+- id: 8079
+  title: "Frankenstein"
+  author: "Mary Shelley"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-and-agents
+  note: ""
+- id: 8080
+  title: "Mary Shelleys Frankenstein"
+  author: "Mary Shelley"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-and-agents
+  note: ""
+- id: 8081
+  title: "God of Thieves"
+  author: "Katie Shepard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8082
+  title: "The Younger Gods"
+  author: "Katie Shepard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8083
+  title: "The Dragon Griaule"
+  author: "Lucius Shepard"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 8084
+  title: "Blood Drunk"
+  author: "Ben Shepherd"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 8104
+  title: "The Future Library"
+  author: "Peng Shepherd"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8105
+  title: "Cosmic Crust"
+  author: "Alex Sherman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8106
+  title: "The Tourist"
+  author: "Alex Sherman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8110
+  title: "The Great Detective"
+  author: "Delia Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8111
+  title: "The Fall of the Kings"
+  author: "Delia Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: period-sleuths
+  note: ""
+- id: 8112
+  title: "Gene Roddenberry's Andromeda: Through the Looking Glass"
+  author: "Josepha Sherman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8113
+  title: "A Strange and Ancient Name"
+  author: "Josepha Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 8114
+  title: "Forging the Runes"
+  author: "Josepha Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 8115
+  title: "King's Son, Magic's Son"
+  author: "Josepha Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 8116
+  title: "The Chaos Gate"
+  author: "Josepha Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 8117
+  title: "The Shattered Oath"
+  author: "Josepha Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 8118
+  title: "Highlander(TM): The Captive Soul"
+  author: "Josepha Sherman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8119
+  title: "The Wood Wife"
+  author: "Terri Windling; introduction by Delia Sherman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 8120
+  title: "An Arcane Study of Stars"
+  author: "Sydney J. Shields"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8121
+  title: "The Honey Witch"
+  author: "Sydney J. Shields"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8122
+  title: "Friedrich the Snow Man"
+  author: "Lewis Shiner"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8123
+  title: "Archangel"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8124
+  title: "Jovah's Angel"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8125
+  title: "The Alleluia Files"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8126
+  title: "Jenna Starborn"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8127
+  title: "Summers at Castle Auburn"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8128
+  title: "The Shape-Changer's Wife"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8129
+  title: "Angelica"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8130
+  title: "Angel-Seeker"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 8131
+  title: "Mystic and Rider"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8132
+  title: "Dark Moon Defender"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8133
+  title: "The Thirteenth House"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8134
+  title: "Reader and Raelynx"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8135
+  title: "Fortune and Fate"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 8136
+  title: "Quatrain"
+  author: "Sharon Shinn"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 8137
+  title: "Troubled Waters"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8138
+  title: "Still Life with Shape-shifter"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8139
+  title: "The Shape of Desire"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8140
+  title: "Royal Airs"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8141
+  title: "The Turning Season"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8142
+  title: "Unquiet Land"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8143
+  title: "Heart of Gold"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 8144
+  title: "Jeweled Fire"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 8145
+  title: "Wrapt in Crystal"
+  author: "Sharon Shinn"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 8146
+  title: "Bedfellow"
+  author: "Jeremy C. Shipp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8147
+  title: "The Atrocities"
+  author: "Jeremy C. Shipp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 8148
+  title: "Crawlers"
+  author: "John Shirley"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghost-towns
+  note: ""
+- id: 8149
+  title: "Today I Am Carey"
+  author: "Martin L. Shoemaker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-futures-a
+  note: ""
+- id: 8150
+  title: "Aptitude"
+  author: "Cooper Shrivastava"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8151
+  title: "Six Truths and a Lie"
+  author: "Ream Shukairy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8152
+  title: "The Next New Syrian Girl"
+  author: "Ream Shukairy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8158
+  title: "The Cackle of Cthulhu"
+  author: "Alex Shvartsman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8159
+  title: "The Tale of Ak and Humanity"
+  author: "Yefim Zozulya; translated by Alex Shvartsman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8160
+  title: "Second Chances"
+  author: "Susan Shwartz"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 8161
+  title: "The Witch Queen"
+  author: "Jan Siegel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8162
+  title: "Prospero's Children"
+  author: "Jan Siegel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8163
+  title: "The Dragon Charmer"
+  author: "Jan Siegel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-spell-houses
+  note: ""
+- id: 8167
+  title: "Legends"
+  author: "Robert Silverberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8168
+  title: "The Science Fiction Hall of Fame, Volume One 1929-1964"
+  author: "Robert Silverberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8169
+  title: "The World Inside"
+  author: "Robert Silverberg"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8170
+  title: "Legends 2: New Short Novels By The Masters of Modern Fantasy"
+  author: "Robert Silverberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8171
+  title: "Time Gate"
+  author: "Robert Silverberg"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8172
+  title: "Far Horizons"
+  author: "Robert Silverberg"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8173
+  title: "Needle in a Timestack"
+  author: "Robert Silverberg"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8174
+  title: "The Book Of Skulls"
+  author: "Robert Silverberg"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: archipelagos-and-futures-b
+  note: ""
+- id: 8175
+  title: "Ravage the Dark"
+  author: "Tara Sim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 8176
+  title: "Scavenge the Stars"
+  author: "Tara Sim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 8177
+  title: "The City of Dusk"
+  author: "Tara Sim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 8178
+  title: "The Dawn Throne"
+  author: "Tara Sim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
