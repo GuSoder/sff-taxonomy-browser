@@ -25,3 +25,913 @@
   source: web
   decision: celtic-and-fairyland-lines
   note: ""
+- id: 6752
+  title: "The Forerunner Factor"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6753
+  title: "Forerunner"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6754
+  title: "Ice and Shadow"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6755
+  title: "The Iron Breed"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6756
+  title: "Children of the Gates"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6757
+  title: "Secret of the Stars"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6758
+  title: "Ciaras Song"
+  author: "Andre Norton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: celtic-and-fairyland-lines
+  note: ""
+- id: 6760
+  title: "Hexagrammaton"
+  author: "Hanus Seiner; translated by Julie Novakova"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6762
+  title: "Will Supervillains Be on the Final?"
+  author: "Naomi Novik"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6763
+  title: "Buried Deep and Other Stories"
+  author: "Naomi Novik"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6764
+  title: "The Summer War"
+  author: "Naomi Novik"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6765
+  title: "School of Light"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-odd-cities
+  note: ""
+- id: 6766
+  title: "The Grand Tour"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6767
+  title: "Dragons Deal"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 6768
+  title: "View from the Imperium"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6769
+  title: "Waking in Dreamland"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-odd-cities
+  note: ""
+- id: 6770
+  title: "Robert Asprin's Dragons Run"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 6771
+  title: "Fortunes of the Imperium"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6772
+  title: "Rhythm of the Imperium"
+  author: "Jody Lynn Nye"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6776
+  title: "A Maids Friends and Fantasies"
+  author: "Devlin O"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 6777
+  title: "Game of Thrones & House of the Dragon: Women of Westeros Oracle"
+  author: "Ivy O"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6778
+  title: "Hortense and the Shadow"
+  author: "Lauren O"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6779
+  title: "Catalyst Gate"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6780
+  title: "Chaos Vector"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6781
+  title: "The Blighted Stars"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6782
+  title: "The Bound Worlds"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6783
+  title: "The First Omega"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6784
+  title: "The Fractured Dark"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6785
+  title: "The Two Lies of Faven Sythe"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6786
+  title: "Velocity Weapon"
+  author: "Megan E. O"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6787
+  title: "Greenteeth"
+  author: "Molly O"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-and-fairyland-lines
+  note: ""
+- id: 6788
+  title: "Nightshade and Oak"
+  author: "Molly O"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-and-fairyland-lines
+  note: ""
+- id: 6789
+  title: "The Returned"
+  author: "Bishop Oconnell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6790
+  title: "Three Promises"
+  author: "Bishop Oconnell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6791
+  title: "A Study in Honor"
+  author: "Claire Odell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6792
+  title: "The Hound of Justice"
+  author: "Claire Odell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6793
+  title: "The Rover"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6794
+  title: "Lord of the Libraries"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6795
+  title: "The Quest for the Trilogy"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6796
+  title: "Boneslicer: The Quest for the Trilogy"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6797
+  title: "Seaspray: The Quest for the Trilogy"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6798
+  title: "The Destruction of the Books"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6799
+  title: "Guerilla"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 6800
+  title: "Warlord"
+  author: "Mel Odom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 6803
+  title: "Sun-Daughters, Sea-Daughters"
+  author: "Aimee Ogden"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 6804
+  title: "Emergent Properties"
+  author: "Aimee Ogden"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 6805
+  title: "In the Shadow of the Fall"
+  author: "Tobi Ogundiran"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6806
+  title: "At the Fount of Creation"
+  author: "Tobi Ogundiran"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6807
+  title: "Hello, Moto"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6808
+  title: "The Book of Phoenix"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wasteland-survivors
+  note: ""
+- id: 6810
+  title: "Who Fears Death"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wasteland-survivors
+  note: ""
+- id: 6811
+  title: "Remote Control"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6812
+  title: "Noor"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6813
+  title: "Like Thunder"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-and-fairyland-lines
+  note: ""
+- id: 6814
+  title: "Shadow Speaker"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-and-fairyland-lines
+  note: ""
+- id: 6815
+  title: "She Who Knows"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: future_earth
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wasteland-survivors
+  note: ""
+- id: 6816
+  title: "The Daughter Who Remains"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 6817
+  title: "Death of the Author"
+  author: "Nnedi Okorafor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 6818
+  title: "Exiled by Iron"
+  author: "Ehigbor Okosun"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-rogues
+  note: ""
+- id: 6819
+  title: "Forged by Blood"
+  author: "Ehigbor Okosun"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-rogues
+  note: ""
+- id: 6820
+  title: "Lost Ark Dreaming"
+  author: "Suyi Davies Okungbowa"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wasteland-survivors
+  note: ""
+- id: 6821
+  title: "Anyway: Angie"
+  author: "Daniel Jose Older"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 6822
+  title: "Ginga"
+  author: "Daniel Jose Older"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 6823
+  title: "Kia and Gio"
+  author: "Daniel Jose Older"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 6824
+  title: "Tear Tracks"
+  author: "Malka Older"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6825
+  title: "Infomocracy"
+  author: "Malka Older"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6826
+  title: "Null States"
+  author: "Malka Older"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6827
+  title: "State Tectonics"
+  author: "Malka Older"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6828
+  title: "The Potency of Ungovernable Impulses"
+  author: "Malka Older"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6829
+  title: "The Gift"
+  author: "Patrick O'Leary"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
