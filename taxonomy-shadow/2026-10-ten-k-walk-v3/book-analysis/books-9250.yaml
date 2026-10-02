@@ -1520,3 +1520,900 @@
   source: web
   decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
+- id: 9423
+  title: "The Food of the Gods"
+  author: "H.G. Wells"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 9425
+  title: "The Shape Of Things To Come"
+  author: "H.G. Wells"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-centuries
+  note: ""
+- id: 9426
+  title: "Blue-Blooded Vamp"
+  author: "Jaye Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: vampire-streets
+  note: ""
+- id: 9427
+  title: "Cursed Moon"
+  author: "Jaye Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: state-magic-offices
+  note: ""
+- id: 9428
+  title: "Deadly Spells"
+  author: "Jaye Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: state-magic-offices
+  note: ""
+- id: 9429
+  title: "Dirty Magic"
+  author: "Jaye Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: state-magic-offices
+  note: ""
+- id: 9430
+  title: "Silver-Tongued Devil"
+  author: "Jaye Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: vampire-streets
+  note: ""
+- id: 9431
+  title: "The Mage in Black"
+  author: "Jaye Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: vampire-streets
+  note: ""
+- id: 9432
+  title: "Home: Habitat, Range, Niche, Territory"
+  author: "Martha Wells"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9433
+  title: "City of Bones"
+  author: "Martha Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 9434
+  title: "The Book of Ile-Rien"
+  author: "Martha Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9435
+  title: "Wheel of the Infinite"
+  author: "Martha Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 9436
+  title: "Rapport: Friendship, Solidarity, Communion, Empathy"
+  author: "Martha Wells"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9437
+  title: "The Emilie Adventures"
+  author: "Martha Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: frontier-steam
+  note: ""
+- id: 9438
+  title: "The Gate of Gods"
+  author: "Martha Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 9439
+  title: "The Ships of Air"
+  author: "Martha Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9440
+  title: "The Wizard Hunters"
+  author: "Martha Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9441
+  title: "The Book of Accidents"
+  author: "Chuck Wendig"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-monster-magic
+  note: ""
+- id: 9442
+  title: "The Calamities"
+  author: "Chuck Wendig"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-monster-magic
+  note: ""
+- id: 9443
+  title: "Dust & Grim"
+  author: "Chuck Wendig"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9444
+  title: "Invasive"
+  author: "Chuck Wendig"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9445
+  title: "The Boy Who Dreamed of Doors"
+  author: "Chuck Wendig"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9446
+  title: "Zeroes"
+  author: "Chuck Wendig"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: virtual-lives-and-fears
+  note: ""
+- id: 9447
+  title: "Face"
+  author: "Joma West"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 9448
+  title: "Twice Lived"
+  author: "Joma West"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 9449
+  title: "Hunter's Oath"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: holdings-and-brothers
+  note: ""
+- id: 9450
+  title: "Hunter's Death"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: holdings-and-brothers
+  note: ""
+- id: 9451
+  title: "The Hidden City"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9452
+  title: "City of Night"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9453
+  title: "House Name"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9454
+  title: "Battle"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9455
+  title: "Skirmish"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9456
+  title: "Oracle"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9457
+  title: "The Sacred Hunt Duology"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: holdings-and-brothers
+  note: ""
+- id: 9458
+  title: "Sea of Sorrows"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 9459
+  title: "The Broken Crown"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 9460
+  title: "The Riven Shield"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 9461
+  title: "The Shining Court"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 9462
+  title: "The Sun Sword"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 9463
+  title: "The Uncrowned King"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: ring-and-law-intrigue
+  note: ""
+- id: 9464
+  title: "Firstborn"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9465
+  title: "War"
+  author: "Michelle West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: spies-and-schemers
+  note: ""
+- id: 9466
+  title: "Morfran, Dark Lord Reformed"
+  author: "S.B. West"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 9467
+  title: "City of Iron and Ivy"
+  author: "Thomas Kent West"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: gaslight-detectives
+  note: ""
+- id: 9468
+  title: "The Killing of Worlds"
+  author: "Scott Westerfeld"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: encounters-with-big-visitors
+  note: ""
+- id: 9476
+  title: "Hard Reboot"
+  author: "Django Wexler"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-aliens-and-troops
+  note: ""
+- id: 9477
+  title: "Ashes of the Sun"
+  author: "Django Wexler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9478
+  title: "Blood of the Chosen"
+  author: "Django Wexler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9479
+  title: "Emperor of Ruin"
+  author: "Django Wexler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9480
+  title: "Everybody Wants to Rule the World Except Me"
+  author: "Django Wexler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 9481
+  title: "How to Become the Dark Lord and Die Trying"
+  author: "Django Wexler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 9482
+  title: "The Only Way Out Is Up"
+  author: "Django Wexler"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-aliens-and-troops
+  note: ""
+- id: 9483
+  title: "Three Princes"
+  author: "Ramona Wheeler"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9484
+  title: "A Bad Deal for the Whole Galaxy"
+  author: "Alex White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9485
+  title: "A Big Ship at the Edge of the Universe"
+  author: "Alex White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9486
+  title: "Ardent Violet and the Infinite Eye"
+  author: "Alex White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9487
+  title: "August Kitko and the Mechas from Space"
+  author: "Alex White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9488
+  title: "The Worst of All Possible Worlds"
+  author: "Alex White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9489
+  title: "Killing Gravity"
+  author: "Corey J. White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9490
+  title: "Static Ruin"
+  author: "Corey J. White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9491
+  title: "Void Black Shadow"
+  author: "Corey J. White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9492
+  title: "Repo Virtual"
+  author: "Corey J. White"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: virtual-lives-and-fears
+  note: ""
+- id: 9493
+  title: "Dragonshadow"
+  author: "Elle Katharine White"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 9494
+  title: "Flamebringer"
+  author: "Elle Katharine White"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 9495
+  title: "Heartstone"
+  author: "Elle Katharine White"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 9496
+  title: "General Practice"
+  author: "James White"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9497
+  title: "Alien Emergencies"
+  author: "James White"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9498
+  title: "Mind Changer"
+  author: "James White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: healers-and-doctors
+  note: ""
+- id: 9499
+  title: "Double Contact"
+  author: "James White"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: healers-and-doctors
+  note: ""
