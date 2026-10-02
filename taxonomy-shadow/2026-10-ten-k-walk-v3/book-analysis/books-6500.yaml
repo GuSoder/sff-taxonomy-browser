@@ -1013,3 +1013,913 @@
   source: web
   decision: ship-soldiers-and-starmen
   note: ""
+- id: 6581
+  title: "Overthrowing Heaven"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6582
+  title: "The Wild Side: Urban Fantasy with an Erotic Edge"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6583
+  title: "No Going Back"
+  author: "Mark L. Van Name"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6584
+  title: "The Tale of Custard the Dragon"
+  author: "Ogden Nash"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 6585
+  title: "The Houses of Time"
+  author: "Jamil Nasir"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6586
+  title: "Tunnel Out of Death"
+  author: "Jamil Nasir"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6587
+  title: "Blood of an Exile"
+  author: "Brian Naslund"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6588
+  title: "Sorcery of a Queen"
+  author: "Brian Naslund"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6589
+  title: "Fury of a Demon"
+  author: "Brian Naslund"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6590
+  title: "By the Blood of Heroes"
+  author: "Joseph Nassise"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6591
+  title: "Urban Allies"
+  author: "Joseph Nassise"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 6592
+  title: "Reverse Documentary"
+  author: "Marisela Navarro"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6593
+  title: "Crow & Shadow"
+  author: "Hemant Nayak"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-rogues
+  note: ""
+- id: 6594
+  title: "The Job at the End of the World"
+  author: "Ray Nayler"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6595
+  title: "The Tusks of Extinction"
+  author: "Ray Nayler"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6596
+  title: "Friends 'Til the End"
+  author: "Bethany Neal"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-odd-cities
+  note: ""
+- id: 6597
+  title: "Highlander(TM): Shadow of Obsession"
+  author: "Rebecca Neason"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 6598
+  title: "Highlander(TM): The Path"
+  author: "Rebecca Neason"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 6599
+  title: "The Thirteenth Scroll"
+  author: "Rebecca Neason"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6600
+  title: "The Truest Power"
+  author: "Rebecca Neason"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6607
+  title: "Ember Eternal"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6611
+  title: "Charmfall"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6612
+  title: "Cold Curses"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6614
+  title: "Devouring Darkness"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6615
+  title: "Firespell"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6618
+  title: "Shadowed Steel"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6619
+  title: "The Hunt"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6620
+  title: "The Sight"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6621
+  title: "The Veil"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-fey-and-monsters
+  note: ""
+- id: 6622
+  title: "Wicked Hour"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6624
+  title: "Wild Things"
+  author: "Chloe Neill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 6625
+  title: "Tales Before Tolkien: The Roots of Modern Fantasy"
+  author: "E. Nesbit"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 6626
+  title: "In the Greenwood"
+  author: "Mari Ness"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6627
+  title: "House of Shadows"
+  author: "Rachel Neumeier"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: romance-in-fae-cities
+  note: ""
+- id: 6631
+  title: "The Test"
+  author: "Sylvain Neuvel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6632
+  title: "A History of What Comes Next"
+  author: "Sylvain Neuvel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6633
+  title: "Until the Last of Me"
+  author: "Sylvain Neuvel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6634
+  title: "For the First Time, Again"
+  author: "Sylvain Neuvel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6635
+  title: "The Fifth Sorceress"
+  author: "Robert Newcomb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6636
+  title: "The Gates of Dawn"
+  author: "Robert Newcomb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6637
+  title: "The Scrolls of the Ancients"
+  author: "Robert Newcomb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6638
+  title: "Savage Messiah"
+  author: "Robert Newcomb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6639
+  title: "A March into Darkness"
+  author: "Robert Newcomb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6640
+  title: "Rise of the Blood Royal"
+  author: "Robert Newcomb"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6641
+  title: "Autonomous"
+  author: "Annalee Newitz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 6642
+  title: "Old Media"
+  author: "Annalee Newitz"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6643
+  title: "#Selfcare"
+  author: "Annalee Newitz"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6644
+  title: "Automatic Noodle"
+  author: "Annalee Newitz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 6645
+  title: "A Wall Is Also a Road"
+  author: "Annalee Newitz"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 6646
+  title: "Brother's Ruin"
+  author: "Emma Newman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-rogues
+  note: ""
+- id: 6647
+  title: "Weaver's Lament"
+  author: "Emma Newman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-rogues
+  note: ""
+- id: 6650
+  title: "Girls of Fate and Fury"
+  author: "Natasha Ngan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6651
+  title: "Girls of Storm and Shadow"
+  author: "Natasha Ngan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-and-realms
+  note: ""
+- id: 6652
+  title: "We Have Always Been Here"
+  author: "Lena Nguyen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6653
+  title: "Dune Time"
+  author: "Jack Nicholls"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 6654
+  title: "Orcs"
+  author: "Stan Nicholls"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6655
+  title: "Orcs: Army of Shadows"
+  author: "Stan Nicholls"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6656
+  title: "Orcs: Bad Blood"
+  author: "Stan Nicholls"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6657
+  title: "Orcs: Inferno"
+  author: "Stan Nicholls"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6658
+  title: "The Covenant Rising"
+  author: "Stan Nicholls"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 6659
+  title: "The Caretakers"
+  author: "David Nickle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6660
+  title: "Seven Circles 1: Circle at Center"
+  author: "Douglas Niles"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6661
+  title: "The Goddess Worldweaver"
+  author: "Douglas Niles"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6662
+  title: "War of the Worlds: New Millennium"
+  author: "Douglas Niles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6663
+  title: "Starstrike: Task Force Mars"
+  author: "Douglas Niles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: military-thrillers
+  note: ""
+- id: 6664
+  title: "Starstrike: Operation Orion"
+  author: "Douglas Niles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: military-thrillers
+  note: ""
+- id: 6665
+  title: "The Man-Kzin Wars"
+  author: "By Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6666
+  title: "Man-Kzin Wars XIV"
+  author: "created Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6667
+  title: "Man-Kzin Wars III"
+  author: "Created Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6668
+  title: "Man-Kzin Wars IV"
+  author: "created Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
