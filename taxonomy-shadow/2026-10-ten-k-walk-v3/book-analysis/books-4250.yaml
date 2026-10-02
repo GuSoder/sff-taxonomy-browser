@@ -62,7 +62,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4255
   title: "Catastrophes, Chaos and Convolutions"
@@ -75,7 +75,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4256
   title: "Echoes of an Alien Sky"
@@ -205,7 +205,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4266
   title: "A Crucible of Souls"
@@ -257,17 +257,17 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 4277
   title: "Dragon Heart"
   author: "Cecelia Holland"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
@@ -387,7 +387,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4287
   title: "Child Zero"
@@ -426,7 +426,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4290
   title: "The Last Dogs: Journeys End"
@@ -439,7 +439,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4291
   title: "The Last Dogs: The Long Road"
@@ -452,7 +452,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4292
   title: "An Orc on the Wild Side"
@@ -712,7 +712,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4318
   title: "The Ship"
@@ -751,7 +751,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4321
   title: "Sister Mine"
@@ -1037,7 +1037,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4349
   title: "Bran Mak Morn: The Last King"
@@ -1050,7 +1050,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4352
   title: "The Horror Stories of Robert E. Howard"

@@ -777,7 +777,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4099
   title: "Such a Witch"
@@ -985,7 +985,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4145
   title: "The Dosadi Experiment and The Eyes of Heisenberg"
@@ -998,7 +998,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4146
   title: "Frank Herbert's Dune Saga Collection: Books 1 - 6"
@@ -1011,7 +1011,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4147
   title: "Frank Herbert's Dune Saga Collection: Books 1-3"
@@ -1024,7 +1024,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4148
   title: "Chapter House Dune"
@@ -1050,7 +1050,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4150
   title: "The Second Great Dune Trilogy"
@@ -1185,12 +1185,12 @@
 - id: 4163
   title: "The Seven Miracles of Beatrix Holland"
   author: "Rachael Herron"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
@@ -1219,7 +1219,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4166
   title: "Burn"
@@ -1245,7 +1245,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4168
   title: "The Ink Readers of Doi Saket"
@@ -1258,7 +1258,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4169
   title: "The Nightjar"
@@ -1817,7 +1817,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4212
   title: "20th Century Ghosts"
@@ -1830,7 +1830,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4213
   title: "Full Throttle"
@@ -1843,7 +1843,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4214
   title: "Horns"
@@ -1869,7 +1869,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4220
   title: "Slayers of Old"
@@ -1947,7 +1947,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 4226
   title: "Forest Mage"
@@ -1986,7 +1986,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4229
   title: "Bored Of The Rings"
@@ -2012,7 +2012,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4233
   title: "Blood and Ivory: A Tapestry"
@@ -2194,7 +2194,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4247
   title: "The Fox in Winter"

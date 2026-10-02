@@ -244,7 +244,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 3770
   title: "Icefalcon's Quest"
@@ -340,12 +340,12 @@
 - id: 3777
   title: "Forever"
   author: "Pete Hamill"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
@@ -608,7 +608,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3805
   title: "Manhattan In Reverse"
@@ -621,7 +621,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3806
   title: "Great North Road"
@@ -647,7 +647,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3810
   title: "Salvation"
@@ -764,7 +764,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3820
   title: "The Late Great Wizard"
@@ -816,7 +816,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 3827
   title: "The Sword Defiant"
@@ -920,7 +920,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3838
   title: "The Clockwork Key"
@@ -959,7 +959,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3841
   title: "The Shadow of Ararat"
@@ -1167,7 +1167,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3879
   title: "Maiden, Mother, Crone"
@@ -1180,7 +1180,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 3880
   title: "Orfeia"
@@ -1193,7 +1193,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3884
   title: "The Moonlight Market"
@@ -1206,7 +1206,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3886
   title: "Tor.com Publishing Editorial Spotlight #2"
@@ -1219,7 +1219,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3887
   title: "The Magic Misfits"
@@ -1375,7 +1375,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3907
   title: "Homeworld"
@@ -1570,7 +1570,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3937
   title: "Pet Shop Boys"
@@ -1583,7 +1583,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3938
   title: "Sudden Backtrack"
@@ -1596,7 +1596,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3939
   title: "The Good, the Bad, and the Undead"
@@ -1635,7 +1635,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 3946
   title: "Empty Space"
@@ -1713,7 +1713,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3958
   title: "The Undead Fox of Deadwood Forest (Newbery Honor Award Winner)"
@@ -1739,7 +1739,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3960
   title: "The Hard SF Renaissance"
@@ -1752,7 +1752,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3961
   title: "Christmas Stars"
@@ -1765,7 +1765,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3962
   title: "The Science Fiction Century, Volume One"

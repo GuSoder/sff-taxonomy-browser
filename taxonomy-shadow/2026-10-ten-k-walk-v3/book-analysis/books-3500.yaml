@@ -795,12 +795,12 @@
 - id: 3593
   title: "God Game"
   author: "Andrew M. Greeley"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
@@ -933,7 +933,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3615
   title: "Visions of Liberty"
@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3616
   title: "Freedom!"
@@ -959,7 +959,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3617
   title: "Questions Asked in the Belly of the World"
@@ -972,7 +972,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3618
   title: "Between Home and a House on Fire"
@@ -985,7 +985,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3622
   title: "Finders Seekers"
@@ -1167,7 +1167,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3637
   title: "The Album of Dr. Moreau"
@@ -1193,7 +1193,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3639
   title: "A Walk Through the Woods"
@@ -1206,7 +1206,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 3640
   title: "Vor: Operation Sierra-75"
@@ -1297,7 +1297,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3653
   title: "In a Fix"
@@ -1635,7 +1635,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3687
   title: "Dreams Must Explain Themselves"
@@ -1648,7 +1648,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 3688
   title: "Five Ways to Forgiveness"
@@ -1687,7 +1687,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3691
   title: "Powers"
@@ -1726,7 +1726,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3694
   title: "Voices"
@@ -1765,7 +1765,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3700
   title: "Bedlam Boyz, Second Edition"
@@ -1791,7 +1791,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 3702
   title: "The Mammoth Book of Cthulhu"
@@ -1804,7 +1804,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3708
   title: "The Fury of the Gods"
@@ -1960,7 +1960,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 3731
   title: "Master of Poisons"
@@ -2064,7 +2064,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 3741
   title: "Future Weapons of War"
@@ -2077,7 +2077,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 3743
   title: "Marsbound"
@@ -2142,5 +2142,5 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
