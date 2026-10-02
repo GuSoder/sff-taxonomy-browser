@@ -690,7 +690,7 @@
   note: ""
 - id: 4592
   title: "A Well-Fed Companion"
-  author: "Congyun \\\\\\\"Mu Ming\\\\\\\" Gu; translated by Kiera Johnson"
+  author: "Congyun \\\\\\\\\\\\\\\"Mu Ming\\\\\\\\\\\\\\\" Gu; translated by Kiera Johnson"
   form: x
   has_magic: 
   is_real_earth: 
@@ -2091,4 +2091,225 @@
   confidence: moderate
   source: web
   decision: dragons-and-courts
+  note: ""
+- id: 4724
+  title: "The Queen of Days"
+  author: "Greta Kelly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4725
+  title: "The Seventh Queen"
+  author: "Greta Kelly"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4726
+  title: "Crazy Me"
+  author: "James Patrick Kelly"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4727
+  title: "Grace's Family"
+  author: "James Patrick Kelly"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4728
+  title: "What It Means To Be A Car"
+  author: "James Patrick Kelly"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4729
+  title: "No Agency Without Identity! Stay In Character Always!"
+  author: "James Patrick Kelly"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4730
+  title: "Omega Morales and the Curse of El Cucuy"
+  author: "Laekan Zea Kemp"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4731
+  title: "Omega Morales and the Legend of La Lechuza"
+  author: "Laekan Zea Kemp"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4732
+  title: "A Discourse in Steel"
+  author: "Paul S. Kemp"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4733
+  title: "The Hammer and the Blade"
+  author: "Paul S. Kemp"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4734
+  title: "A Conversation in Blood"
+  author: "Paul S. Kemp"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4735
+  title: "The Song"
+  author: "Erinn L. Kemper"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4736
+  title: "The Book of Forbidden Wisdom"
+  author: "Gillian Murray Kendall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4737
+  title: "The Devouring God"
+  author: "James Kendley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4738
+  title: "The Drowning God"
+  author: "James Kendley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4739
+  title: "Blood Beneath the Snow"
+  author: "Alexandra Kennington"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4740
+  title: "Gods Beneath the Ice"
+  author: "Alexandra Kennington"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
   note: ""

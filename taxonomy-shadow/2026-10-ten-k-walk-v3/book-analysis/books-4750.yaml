@@ -1,0 +1,924 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 4751
+  title: "Deadmen Walking"
+  author: "Sherrilyn Kenyon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 4752
+  title: "Death Doesn't Bargain"
+  author: "Sherrilyn Kenyon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 4753
+  title: "At Death's Door"
+  author: "Sherrilyn Kenyon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 4754
+  title: "Deadman's Cross"
+  author: "Sherrilyn Kenyon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 4755
+  title: "The Lesser Kindred"
+  author: "Elizabeth Kerner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4756
+  title: "Song In The Silence"
+  author: "Elizabeth Kerner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4757
+  title: "Redeeming the Lost"
+  author: "Elizabeth Kerner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4772
+  title: "License to Ensorcell"
+  author: "Katharine Kerr"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4774
+  title: "Water to Burn"
+  author: "Katharine Kerr"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4775
+  title: "Apocalypse to Go"
+  author: "Katharine Kerr"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4776
+  title: "Love on the Run"
+  author: "Katharine Kerr"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4777
+  title: "Sword of Fire"
+  author: "Katharine Kerr"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4778
+  title: "Corrupting Dr. Nice"
+  author: "John Kessel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4779
+  title: "Good News from Outer Space"
+  author: "John Kessel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4780
+  title: "Black and White"
+  author: "Jackie Kessler"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4781
+  title: "Shades of Gray"
+  author: "Jackie Kessler"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4782
+  title: "The Perfection of Theresa Watkins"
+  author: "Justin C. Key"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4783
+  title: "The Briar King"
+  author: "Greg Keyes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4784
+  title: "The Charnel Prince"
+  author: "Greg Keyes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4785
+  title: "The Blood Knight"
+  author: "Greg Keyes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4786
+  title: "The Born Queen"
+  author: "Greg Keyes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4787
+  title: "The Infernal City: An Elder Scrolls Novel"
+  author: "Greg Keyes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4788
+  title: "The Black Khan"
+  author: "Ausma Zehanat Khan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4789
+  title: "The Bladebone"
+  author: "Ausma Zehanat Khan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4790
+  title: "The Bloodprint"
+  author: "Ausma Zehanat Khan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4791
+  title: "The Blue Eye"
+  author: "Ausma Zehanat Khan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4792
+  title: "Burning Magic"
+  author: "Joshua Khan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4793
+  title: "Dream Magic"
+  author: "Joshua Khan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4794
+  title: "Shadow Magic"
+  author: "Joshua Khan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4795
+  title: "A Song for Quiet"
+  author: "Cassandra Khaw"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4796
+  title: "The John Persons Files"
+  author: "Cassandra Khaw"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4797
+  title: "Sweet Saints"
+  author: "Cassandra Khaw"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4798
+  title: "Silk"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4799
+  title: "Threshold"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4800
+  title: "Low Red Moon"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4801
+  title: "Daughter of Hounds"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4802
+  title: "Murder of Angels"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4803
+  title: "The Red Tree"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4804
+  title: "The Drowning Girl"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4805
+  title: "Blood Oranges"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 4806
+  title: "Red Delicious"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 4807
+  title: "Cherry Bomb"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 4808
+  title: "Agents of Dreamland"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4809
+  title: "Black Helicopters"
+  author: "Caitlin R. Kiernan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4810
+  title: "The Tindalos Asset"
+  author: "Caitlin R. Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4811
+  title: "The Crowded Shadows"
+  author: "Celine Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4812
+  title: "The Poison Throne"
+  author: "Celine Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4813
+  title: "The Rebel Prince"
+  author: "Celine Kiernan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4814
+  title: "Everything That Isn't Winter"
+  author: "Margaret Killjoy"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4815
+  title: "The Lamb Will Slaughter the Lion"
+  author: "Margaret Killjoy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4816
+  title: "In Our Own Worlds"
+  author: "Margaret Killjoy"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4817
+  title: "Into the Gray"
+  author: "Margaret Killjoy"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4818
+  title: "The Barrow Will Send What it May"
+  author: "Margaret Killjoy"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4819
+  title: "Mrs. Flannery's Flowers"
+  author: "Bethanne Kim"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4820
+  title: "Red Shield"
+  author: "Bethanne Kim"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4821
+  title: "The Gourmets of Grantville"
+  author: "Bethanne Kim"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4822
+  title: "Freediver"
+  author: "Isabel J. Kim"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4823
+  title: "The Apprentice Liar and the Death of the World"
+  author: "Isabel J. Kim"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4824
+  title: "The God and the Gumiho"
+  author: "Sophie Kim"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4825
+  title: "The God and the Gwisin"
+  author: "Sophie Kim"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4826
+  title: "The Winged Game"
+  author: "Sophie Kim"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4827
+  title: "Ask the Passengers"
+  author: "A.S. King"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4828
+  title: "Everybody Sees the Ants"
+  author: "A.S. King"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4829
+  title: "Glory OBriens History of the Future"
+  author: "A.S. King"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4835
+  title: "Califia's Daughters"
+  author: "Laurie R. King"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4836
+  title: "An Excess Male"
+  author: "Maggie Shen King"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4837
+  title: "Excess Male, An"
+  author: "Maggie Shen King"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4838
+  title: "Thornhedge"
+  author: "T. Kingfisher"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4839
+  title: "Nine Goblins"
+  author: "T. Kingfisher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 4840
+  title: "The Serpents Bride"
+  author: "Kathryn Ann Kingsley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4841
+  title: "To Charm a Dark Prince"
+  author: "Kathryn Ann Kingsley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
