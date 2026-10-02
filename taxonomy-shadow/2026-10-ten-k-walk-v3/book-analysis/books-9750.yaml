@@ -90,3 +90,913 @@
   source: web
   decision: classic-animal-tales
   note: ""
+- id: 9757
+  title: "Retribution Falls"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wings-and-hulls
+  note: ""
+- id: 9758
+  title: "The Black Lung Captain"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wings-and-hulls
+  note: ""
+- id: 9759
+  title: "The Ace of Skulls"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wings-and-hulls
+  note: ""
+- id: 9760
+  title: "The Braided Path"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dark-lands-and-weavers
+  note: ""
+- id: 9761
+  title: "The Ember Blade"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: heirs-and-bastards
+  note: ""
+- id: 9762
+  title: "The Fade"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: beneath-and-within
+  note: ""
+- id: 9763
+  title: "The Iron Jackal"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wings-and-hulls
+  note: ""
+- id: 9764
+  title: "The Shadow Casket"
+  author: "Chris Wooding"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: heirs-and-bastards
+  note: ""
+- id: 9765
+  title: "Give Me Libertycon"
+  author: "Christopher Woods"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9766
+  title: "Life Eternal"
+  author: "Yvonne Woon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-pasts
+  note: ""
+- id: 9767
+  title: "Love Reborn"
+  author: "Yvonne Woon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-pasts
+  note: ""
+- id: 9768
+  title: "A Matter of Magic"
+  author: "Patricia C. Wrede"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9769
+  title: "The Doomsday Effect"
+  author: "Thomas T. Thomas as Thomas Wren"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: extinction-probes
+  note: ""
+- id: 9770
+  title: "Fugitives of Chaos"
+  author: "John C. Wright"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-monster-magic
+  note: ""
+- id: 9771
+  title: "Orphans of Chaos"
+  author: "John C. Wright"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-monster-magic
+  note: ""
+- id: 9772
+  title: "Titans of Chaos"
+  author: "John C. Wright"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-monster-magic
+  note: ""
+- id: 9773
+  title: "Count to a Trillion"
+  author: "John C. Wright"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 9774
+  title: "The Hermetic Millennia"
+  author: "John C. Wright"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 9775
+  title: "The Judge of Ages"
+  author: "John C. Wright"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 9776
+  title: "Null-A Continuum"
+  author: "John C. Wright"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9777
+  title: "The Architect of Aeons"
+  author: "John C. Wright"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 9778
+  title: "The Vindication of Man"
+  author: "John C. Wright"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 9779
+  title: "Count to Infinity"
+  author: "John C. Wright"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 9780
+  title: "Confessions of a Demon"
+  author: "S.L. Wright"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witch-romance-and-demons
+  note: ""
+- id: 9781
+  title: "Demon Underground"
+  author: "S.L. Wright"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witch-romance-and-demons
+  note: ""
+- id: 9782
+  title: "To Serve and Submit"
+  author: "Susan Wright"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 9783
+  title: "A Pound of Flesh"
+  author: "Susan Wright"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 9784
+  title: "Domnall and the Borrowed Child"
+  author: "Sylvia Spruck Wrigley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9785
+  title: "Madder Lake"
+  author: "Katie Wu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: magic-schools
+  note: ""
+- id: 9791
+  title: "The Chrysalids"
+  author: "John Wyndham"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-dreamers-and-girls
+  note: ""
+- id: 9792
+  title: "The Outward Urge"
+  author: "John Wyndham"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-dreamers-and-girls
+  note: ""
+- id: 9793
+  title: "The Sword of Michael"
+  author: "Marcus Wynne"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-enforcers-and-zombies
+  note: ""
+- id: 9794
+  title: "The Kouga Ninja Scrolls"
+  author: "Futaro Yamada"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: assassin-series
+  note: ""
+- id: 9795
+  title: "The Obake Code"
+  author: "Makana Yamamoto"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: virtual-lives-and-fears
+  note: ""
+- id: 9796
+  title: "Water Moon"
+  author: "Samantha Sotto Yambao"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-corners-of-the-modern
+  note: ""
+- id: 9797
+  title: "The Elsewhere Express"
+  author: "Samantha Sotto Yambao"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-corners-of-the-modern
+  note: ""
+- id: 9798
+  title: "A Dream of Trees"
+  author: "Samantha Sotto Yambao"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-corners-of-the-modern
+  note: ""
+- id: 9799
+  title: "The Beginning of Always"
+  author: "Samantha Sotto Yambao"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-corners-of-the-modern
+  note: ""
+- id: 9800
+  title: "The Night Movers Disappearing Service"
+  author: "Samantha Sotto Yambao"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-corners-of-the-modern
+  note: ""
+- id: 9801
+  title: "The Black Tides of Heaven"
+  author: "Neon Yang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 9802
+  title: "The Red Threads of Fortune"
+  author: "Neon Yang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 9803
+  title: "Waiting on a Bright Moon"
+  author: "Neon Yang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9804
+  title: "The Descent of Monsters"
+  author: "Neon Yang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 9805
+  title: "Circus Girl, The Hunter, and Mirror Boy"
+  author: "Neon Yang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9806
+  title: "The Ascent to Godhood"
+  author: "Neon Yang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 9807
+  title: "The Tensorate Series"
+  author: "Neon Yang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9808
+  title: "Brighter than Scale, Swifter than Flame"
+  author: "Neon Yang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9809
+  title: "A Cup of Salt Tears"
+  author: "Isabel Yap"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9810
+  title: "Milagroso"
+  author: "Isabel Yap"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9811
+  title: "Into Your Sun-Blessed Life"
+  author: "Isabel Yap"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9812
+  title: "Crown of Empire"
+  author: "Chelsea Quinn Yarbro"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9813
+  title: "Puff, the Magic Dragon"
+  author: "Peter Yarrow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9814
+  title: "A Most Decadent Curse"
+  author: "Deborah Yelle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9815
+  title: "The Rainfall Market"
+  author: "You Yeong-Gwang"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-cities-and-liars
+  note: ""
+- id: 9816
+  title: "After the King"
+  author: "Martin H. Greenberg; Introduction by Jane Yolen"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9817
+  title: "Companys Coming"
+  author: "Arthur Yorinks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9818
+  title: "Companys Going"
+  author: "Arthur Yorinks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9819
+  title: "The White-Throated Transmigrant"
+  author: "E. Lily Yu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9820
+  title: "The Time Invariance of Snow"
+  author: "E. Lily Yu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9821
+  title: "Small Monsters"
+  author: "E. Lily Yu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9822
+  title: "The River and the World Remade"
+  author: "E. Lily Yu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9823
+  title: "Empress of Flames"
+  author: "Mimi Yu"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynasties-and-cities
+  note: ""
+- id: 9824
+  title: "The Girl King"
+  author: "Mimi Yu"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynasties-and-cities
+  note: ""
+- id: 9825
+  title: "Elleander Morning"
+  author: "Jerry Yulsman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: alt_history
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9826
+  title: "The Collarbound"
+  author: "Rebecca Zahabi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9827
+  title: "The Hawkling"
+  author: "Rebecca Zahabi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9828
+  title: "The Lightborn"
+  author: "Rebecca Zahabi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9829
+  title: "Conquerors' Pride"
+  author: "Timothy Zahn"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9830
+  title: "The Icarus Hunt"
+  author: "Timothy Zahn"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9832
+  title: "Blackcollar: The Judas Solution"
+  author: "Timothy Zahn"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
