@@ -740,3 +740,1134 @@
   source: web
   decision: disaster-and-defence
   note: ""
+- id: 4096
+  title: "Empty Cities of the Full Moon"
+  author: "Howard V. Hendrix"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 4097
+  title: "The Labyrinth Key"
+  author: "Howard V. Hendrix"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 4098
+  title: "Lets Not Go Overboard Here"
+  author: "Erica Hendry"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4099
+  title: "Such a Witch"
+  author: "Sarah Henning"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4100
+  title: "Black Wings"
+  author: "Christina Henry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 4101
+  title: "Black Night"
+  author: "Christina Henry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 4102
+  title: "Black Howl"
+  author: "Christina Henry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 4103
+  title: "Black Lament"
+  author: "Christina Henry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 4104
+  title: "Black City"
+  author: "Christina Henry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 4105
+  title: "Black Heart"
+  author: "Christina Henry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 4106
+  title: "Black Spring"
+  author: "Christina Henry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 4135
+  title: "The Dosadi Experiment"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4136
+  title: "The Eyes of Heisenberg"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4137
+  title: "The Green Brain"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4138
+  title: "The Santaroga Barrier"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4139
+  title: "Hellstrom's Hive"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4143
+  title: "Whipping Star"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4144
+  title: "The Collected Stories of Frank Herbert"
+  author: "Frank Herbert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4145
+  title: "The Dosadi Experiment and The Eyes of Heisenberg"
+  author: "Frank Herbert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4146
+  title: "Frank Herbert's Dune Saga Collection: Books 1 - 6"
+  author: "Frank Herbert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4147
+  title: "Frank Herbert's Dune Saga Collection: Books 1-3"
+  author: "Frank Herbert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4148
+  title: "Chapter House Dune"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-in-space
+  note: ""
+- id: 4149
+  title: "The Great Dune Trilogy"
+  author: "Frank Herbert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4150
+  title: "The Second Great Dune Trilogy"
+  author: "Frank Herbert"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-in-space
+  note: ""
+- id: 4151
+  title: "A Destiny So Cruel"
+  author: "C. L. Herman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 4152
+  title: "A Fate So Cold"
+  author: "C. L. Herman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 4153
+  title: "All of Our Demise"
+  author: "C. L. Herman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 4154
+  title: "All of Us Villains"
+  author: "C. L. Herman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 4155
+  title: "The Devouring Gray"
+  author: "Christine Lynn Herman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4156
+  title: "The Deck of Omens"
+  author: "Christine Lynn Herman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4157
+  title: "The Drowning Summer"
+  author: "Christine Lynn Herman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4161
+  title: "The Tiltersmith"
+  author: "Amy Herrick"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4162
+  title: "The Time Fetch"
+  author: "Amy Herrick"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4163
+  title: "The Seven Miracles of Beatrix Holland"
+  author: "Rachael Herron"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4164
+  title: "Evening's Empire"
+  author: "David Herter"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fantastic-voyage
+  note: ""
+- id: 4165
+  title: "Islands Off the Coast of Capitola, 1978"
+  author: "David Herter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4166
+  title: "Burn"
+  author: "Monica Hesse"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 4167
+  title: "Instar"
+  author: "Karen Heuler"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4168
+  title: "The Ink Readers of Doi Saket"
+  author: "Thomas Olde Heuvelt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4169
+  title: "The Nightjar"
+  author: "Deborah Hewitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 4170
+  title: "The Rookery"
+  author: "Deborah Hewitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 4171
+  title: "Guardians of the Lost"
+  author: "Margaret Weistracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4172
+  title: "Well of Darkness"
+  author: "Margaret Weistracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4173
+  title: "Forging the Darksword"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4174
+  title: "Doom of the Darksword"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4175
+  title: "Dragon Wing"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4176
+  title: "Elven Star"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4177
+  title: "Fire Sea"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4178
+  title: "Serpent Mage"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4179
+  title: "The Hand of Chaos"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4180
+  title: "Into the Labyrinth"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4181
+  title: "Nightsword"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4182
+  title: "The Seventh Gate"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-masters
+  note: ""
+- id: 4183
+  title: "Triumph of the Darksword"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4184
+  title: "Legacy of the Darksword"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 4185
+  title: "Song of the Dragon"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4186
+  title: "Citadels of the Lost"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4187
+  title: "Blood of the Emperor"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4188
+  title: "Unwept"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 4189
+  title: "The Sword of Midras"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: destiny-quest-fantasy
+  note: ""
+- id: 4190
+  title: "Unhonored"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 4191
+  title: "The Eye of Scales"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: destiny-quest-fantasy
+  note: ""
+- id: 4192
+  title: "Mystic Warrior"
+  author: "Tracy Hickman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4193
+  title: "Break The Bodies, Haunt The Bones"
+  author: "Micah Dean Hicks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 4194
+  title: "The Eterna Files"
+  author: "Leanna Renee Hieber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4195
+  title: "Eterna and Omega"
+  author: "Leanna Renee Hieber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4196
+  title: "Strangely Beautiful"
+  author: "Leanna Renee Hieber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: faeries-in-gaslight
+  note: ""
+- id: 4197
+  title: "Perilous Prophecy"
+  author: "Leanna Renee Hieber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4198
+  title: "The Eterna Solution"
+  author: "Leanna Renee Hieber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4199
+  title: "Miss Violet and the Great War"
+  author: "Leanna Renee Hieber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 4200
+  title: "The Strangely Beautiful Saga"
+  author: "Leanna Renee Hieber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: faeries-in-gaslight
+  note: ""
+- id: 4201
+  title: "Lightless"
+  author: "C.A. Higgins"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4202
+  title: "Supernova"
+  author: "C.A. Higgins"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4203
+  title: "Radiate"
+  author: "C.A. Higgins"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4204
+  title: "Guards! Guards!"
+  author: "Graham Higgins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4205
+  title: "Dragon Heart"
+  author: "Peter Higgins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4206
+  title: "Radiant State"
+  author: "Peter Higgins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 4207
+  title: "Truth and Fear"
+  author: "Peter Higgins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 4208
+  title: "Wolfhound Century"
+  author: "Peter Higgins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 4209
+  title: "Wolfhound Empire"
+  author: "Peter Higgins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 4210
+  title: "The Lantern of Lost Memories"
+  author: "Sanaka Hiiragi"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4211
+  title: "The Hotel Nantucket"
+  author: "Elin Hilderbrand"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4212
+  title: "20th Century Ghosts"
+  author: "Joe Hill"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4213
+  title: "Full Throttle"
+  author: "Joe Hill"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4214
+  title: "Horns"
+  author: "Joe Hill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 4215
+  title: "Strange Weather"
+  author: "Joe Hill"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NON-SPECULATIVE
+  note: ""
+- id: 4220
+  title: "Slayers of Old"
+  author: "Jim C. Hines"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: slayer-hero
+  note: ""
