@@ -1507,3 +1507,1121 @@
   source: web
   decision: shadow-and-folk-realms
   note: ""
+- id: 5637
+  title: "The Phoenix Keeper"
+  author: "S. A. MacLean"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5638
+  title: "Voidwalker"
+  author: "S. A. MacLean"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5639
+  title: "The Chronologist"
+  author: "Ian R. MacLeod"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5642
+  title: "Dark Light"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5643
+  title: "Engine City"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5644
+  title: "Newton's Wake"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-and-space-first-contact
+  note: ""
+- id: 5645
+  title: "Fractions"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: war-and-memory-states
+  note: ""
+- id: 5646
+  title: "The Execution Channel"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 5647
+  title: "Divisions"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: war-and-memory-states
+  note: ""
+- id: 5648
+  title: "Cosmonaut Keep"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 5649
+  title: "Earth Hour"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-and-space-first-contact
+  note: ""
+- id: 5650
+  title: "Learning the World"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-and-space-first-contact
+  note: ""
+- id: 5653
+  title: "The Corporation Wars: Dissidence"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: war-and-memory-states
+  note: ""
+- id: 5654
+  title: "The Corporation Wars: Emergence"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: war-and-memory-states
+  note: ""
+- id: 5655
+  title: "The Corporation Wars: Insurgence"
+  author: "Ken MacLeod"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: war-and-memory-states
+  note: ""
+- id: 5656
+  title: "Between Dragons and Their Wrath"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5657
+  title: "The Blood of Whisperers"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5658
+  title: "The Gods of Vice"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5659
+  title: "The Grave at Storms End"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5660
+  title: "We Cry for Blood"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5661
+  title: "We Dream of Gods"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5662
+  title: "We Lie with Death"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5663
+  title: "We Ride the Storm"
+  author: "Devin Madson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5664
+  title: "Under the Sea to the North Pole"
+  author: "Pierre Mael"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5665
+  title: "The World of Lore: Dreadful Places"
+  author: "Aaron Mahnke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5666
+  title: "The World of Lore: Monstrous Creatures"
+  author: "Aaron Mahnke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5667
+  title: "The World of Lore: Wicked Mortals"
+  author: "Aaron Mahnke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5668
+  title: "The Godstone"
+  author: "Violette Malan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 5669
+  title: "The Court War"
+  author: "Violette Malan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 5670
+  title: "The Factory Witches of Lowell"
+  author: "C. S. Malerich"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 5671
+  title: "Inspection"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5672
+  title: "Unbury Carol"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5673
+  title: "A House at the Bottom of a Lake"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5674
+  title: "Malorie"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 5675
+  title: "Goblin"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5676
+  title: "Pearl"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5677
+  title: "Daphne"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5678
+  title: "Spin a Black Yarn"
+  author: "Josh Malerman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5679
+  title: "Watching Evil Dead"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5680
+  title: "Pictures of You"
+  author: "Josh Malerman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5681
+  title: "The Pauper Prince and the Eucalyptus Jinn"
+  author: "Usman T. Malik"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5682
+  title: "#Spring Love, #Pichal Pairi"
+  author: "Usman T. Malik"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5683
+  title: "Time Traveler"
+  author: "Dr. Ronald L. Mallett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5684
+  title: "Merlin: The Old Magic Part 1"
+  author: "James Mallory"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: arthur-classic
+  note: ""
+- id: 5685
+  title: "Breakfast in the Ruins"
+  author: "Barry N. Malzberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5686
+  title: "Farewell Performance"
+  author: "Nick Mamatas"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5694
+  title: "The Misfit Soldier"
+  author: "Michael Mammay"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5695
+  title: "Vox Populi"
+  author: "A Novel of the Common Man"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5696
+  title: "Method Man"
+  author: "Method Man"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5697
+  title: "Dawn of the Dragons"
+  author: "Mari Mancusi"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5698
+  title: "Dragon Ops"
+  author: "Mari Mancusi"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5699
+  title: "Dragon Ops: Dragons vs. Robots"
+  author: "Mari Mancusi"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5700
+  title: "New Dragon City"
+  author: "Mari Mancusi"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5701
+  title: "War of the Wings"
+  author: "Mari Mancusi"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragon-champions-and-dragoneers
+  note: ""
+- id: 5702
+  title: "Though Smoke Shall Hide the Sun"
+  author: "Lee Mandelo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5703
+  title: "The Finite Canvas"
+  author: "Lee Mandelo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5704
+  title: "The Writ of Years"
+  author: "Lee Mandelo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5705
+  title: "The Pigeon Summer"
+  author: "Lee Mandelo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5706
+  title: "Summer Sons"
+  author: "Lee Mandelo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 5707
+  title: "Feed Them Silence"
+  author: "Lee Mandelo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5708
+  title: "The Geomagician"
+  author: "Jennifer Mandula"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 5709
+  title: "The Paleomancer"
+  author: "Jennifer Mandula"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 5710
+  title: "Blood's Pride"
+  author: "Evie Manieri"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5711
+  title: "Fortune's Blight"
+  author: "Evie Manieri"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5712
+  title: "Strife's Bane"
+  author: "Evie Manieri"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 5713
+  title: "Kingdom of the Cursed"
+  author: "Kerri Maniscalco"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5714
+  title: "Kingdom of the Feared"
+  author: "Kerri Maniscalco"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5715
+  title: "Kingdom of the Wicked"
+  author: "Kerri Maniscalco"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5716
+  title: "Throne of Nightmares"
+  author: "Kerri Maniscalco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5717
+  title: "Throne of Secrets"
+  author: "Kerri Maniscalco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5718
+  title: "Throne of the Fallen"
+  author: "Kerri Maniscalco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 5719
+  title: "SEAL Team Six: Hunt the Dragon"
+  author: "Don Mann"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5726
+  title: "The Disestablishment of Paradise"
+  author: "Phillip Mann"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5727
+  title: "Be the Dragon: 9 Keys to Unlocking Your Inner Magic"
+  author: "Catherine J. Manning"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5728
+  title: "The Dead Run"
+  author: "Adam Mansbach"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5729
+  title: "Twilight Rising, Serpent's Dream"
+  author: "Diana Marcellas"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5730
+  title: "The Grand Design"
+  author: "John Marco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5731
+  title: "The Saints of the Sword"
+  author: "John Marco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5732
+  title: "The Eyes of God"
+  author: "John Marco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5733
+  title: "The Devil's Armor"
+  author: "John Marco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5734
+  title: "The Sword of Angels"
+  author: "John Marco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5735
+  title: "Starfinder"
+  author: "John Marco"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  note: ""
+- id: 5736
+  title: "The Forever Knight"
+  author: "John Marco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5737
+  title: "The Jackal of Nar"
+  author: "John Marco"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 5738
+  title: "Cosmic Love at the Multiverse Hair Salon"
+  author: "Annie Mare"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 5739
+  title: "A Star-Cursed Heart"
+  author: "Annie Mare"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
