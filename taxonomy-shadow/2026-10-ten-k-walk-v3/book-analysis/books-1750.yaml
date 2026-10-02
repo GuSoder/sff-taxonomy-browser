@@ -883,6 +883,19 @@
   source: web
   decision: packs-and-courts
   note: ""
+- id: 1840
+  title: "Scarlet"
+  author: "Genevieve Cogman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: succession-wars
+  note: ""
 - id: 1841
   title: "Tuckitor's Last Swim"
   author: "Edith Cohn"
@@ -924,6 +937,19 @@
   note: ""
 - id: 1846
   title: "This Ends in Embers"
+  author: "Kamilah Cole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1847
+  title: "Wicked Endeavors"
   author: "Kamilah Cole"
   form: novel
   has_magic: true
@@ -1766,4 +1792,82 @@
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1978
+  title: "Chalk"
+  author: "Paul Cornell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1979
+  title: "Rosebud"
+  author: "Paul Cornell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1980
+  title: "True Crime"
+  author: "Patricia Cornwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1984
+  title: "Dead Six"
+  author: "Larry Correia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 1989
+  title: "Swords of Exodus"
+  author: "Larry Correia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 1994
+  title: "Alliance of Shadows"
+  author: "Larry Correia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
   note: ""

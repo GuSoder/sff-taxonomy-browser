@@ -325,12 +325,12 @@ C|Those Across the River|1272|folk-horror|v3
 C|Thrice-Bound Fool|1273|rogues-abroad|v3
 C|Bone Dance|1291|neural-fiction|v3
 C|Inn at Mount Venge|1292|cozy-fantasy|v3
-C|Bullington|1293,1294,1295|dark-realms|v3
+C|Bullington|1293,1294,1295|gothic-houses|v3
 C|House Like an Accordion|1302|sensory-magic-realism|v3
 C|Contains Multitudes|1303|alien-arrival|v3
 C|Immunity Index|1306|post-pandemic-survival|v3
 C|Bloodtide|1308|alt-prewar|v3
-C|Aftermath|1310|alt-postwar|v3
+C|Aftermath|1310|postwar-turns|v3
 C|Kelleher|1311,1312|farm-boy-fellowships|v3
 C|Dead Man's Hand|1313,1314,1315,1316|badge-and-bounty|v3
 C|Dresden Twelve Months|1324|city-underworlds|v3
@@ -341,7 +341,7 @@ C|Indrajit and Fix|1331,1335|comic-fantasy-realms|v3
 C|Witchy War|1332|alt-flintlock-fantasy|v3
 C|Reiffen's Choice|1346|royal-house-quests|v3
 C|Feral Creatures|1347|post-nuclear-survival|v3
-C|Fools|1351|remade-minds|v3
+C|Fools|1351|altered-selves|v3
 C|With Only a Razor Between|1354|empire-successions|v3
 C|Master Artificer|1357|apprentices-and-schools|v3
 C|Master of Sorrows|1358|mages-with-burdens|v3
@@ -359,11 +359,11 @@ C|Doomed Earth|1420,1421|far-future-first-contact|v3
 C|Archive Undying|1435|space-dystopias|v3
 C|Lovelock|1446|genetic-engineering|v3
 C|Songmaster|1449|visionary-minds|v3
-C|Hart's Hope|1450|dark-realms|v3
-C|Wyrms|1452|xenocolonial|v3
+C|Hart's Hope|1450|doomed-lands|v3
+C|Wyrms|1452|settler-worlds-old|v3
 C|Magic Street|1456|hometown-of-marvels|v3
 C|Treason|1458|settled-other-stars|v3
-C|Invasive Procedures|1463|technothriller|v3
+C|Invasive Procedures|1463|disaster-and-defence|v3
 C|Starless|1495|chosen-heirs|v3
 C|Santa Olivia|1498,1499|walled-in-survivors|v3
 C|City of Silk and Steel|1500|courts-and-courtesans|v3
@@ -415,7 +415,7 @@ C|Of Sorcery and Science|1679|doors-to-other-worlds|v3
 C|Seat of Magic|1681|emancipation-fantasy|v3
 C|Golden City|1682|faeries-in-gaslight|v3
 C|Bright Heart|1683,1684|xuanhuan|v3
-C|Forge of Heaven|1685|xenocolonial|v3
+C|Forge of Heaven|1685|settler-worlds-old|v3
 C|Fortress|1686,1687,1688|wars-of-wizards|v3
 C|The Paladin|1699|hard-swords|v3
 C|Rider at the Gate|1706,1710|heralds-and-companions|v3
@@ -454,7 +454,7 @@ C|Wit'ch Fire|1808|chosen-heirs|v3
 C|Wit'ch|1809,1810,1811,1812|chosen-heirs|v3
 C|Godslayer Chronicles|1813,1814|wars-of-wizards|v3
 C|Hal Clement|1816,1818|stations-and-the-belt|v3
-C|Stations of the Tide|1821|xenocolonial|v3
+C|Stations of the Tide|1821|strange-new-ecologies|v3
 C|Humanity's Fire|1826,1827,1828|fleet-wars|v3
 C|Justis Fearsson|1829,1830,1831|packs-and-courts|v3
 C|Divine Traitors|1845,1846|dragons-and-courts|v3
@@ -470,10 +470,71 @@ C|Contessa|1902,1903|thrones-under-threat|v3
 C|Instrumentalities of the Night|1914,1917,1918,1923,1929|wars-of-wizards|v3
 C|Black Company|1933,1934|wars-of-wizards|v3
 C|Wizardry|1935,1936,1937,1938,1939|whimsical-doors|v3
-C|Limbo System|1940|alien-arrival|v3
+C|Limbo System|1940|visitors-and-watchers|v3
 C|Coombe|1943,1944|witches-and-libraries|v3
 C|Wild Hunt|1947,1948,1949|chosen-heirs|v3
-C|Season of Fear|1950|housebound|v3
-C|Chaos and Consequences|1953|alien-arrival|v3
-C|Cordova|1955,1956|alien-arrival|v3
+C|Season of Fear|1950|houses-that-keep-you|v3
+C|Chaos and Consequences|1953|first-signs-and-lone-contact|v3
+C|Cordova|1955,1956|first-signs-and-lone-contact|v3
 C|Illusionary|1958,1959|dragons-and-courts|v3
+C|Scarlet (Cogman)|1840|succession-wars|v3
+C|Wicked Endeavors|1847|dragons-and-courts|v3
+C|Chalk|1978|odd-journeys-and-mishaps|v3
+C|Dead Six|1984,1989,1994,2003|space-marines|v3
+C|Saga of the Forgotten Warrior|2005|wars-of-wizards|v3
+C|Gun Runner|2006|space-marines|v3
+C|Saga of the Forgotten Warrior|2007|wars-of-wizards|v3
+C|No Game for Knights|2011|farm-boy-fellowships|v3
+C|Servants of War|2012|succession-wars|v3
+C|Perfect Circle|2014|mars-and-luna|v3
+C|The Prisoner (Cortes)|2015|near-future-society|v3
+C|Arcane Arts|2017|witches-and-libraries|v3
+C|Love Witches and Wahala|2018|witches-and-libraries|v3
+C|Which Way to Anywhere|2040,2041,2042|odd-journeys-and-mishaps|v3
+C|Out of the Silence|2043|relics-under-study|v3
+C|The Librarians|2045,2046,2047,2048|odd-journeys-and-mishaps|v3
+C|The God Particle|2049|near-future-society|v3
+C|Einstein's Bridge|2070,2071|first-signs-and-lone-contact|v3
+C|Song of Scarabaeus|2075|strange-new-ecologies|v3
+C|Dragon Temple Saga|2078,2079,2080|dragons-and-courts|v3
+C|Magnolia League|2081,2082|witches-and-libraries|v3
+C|Unmagical Life of Briar Jones|2083|chosen-heirs|v3
+C|Great and Terrible Land|2084,2085|odd-journeys-and-mishaps|v3
+C|The Deep (Crowley)|2086|strange-new-ecologies|v3
+C|Vampires of Manhattan|2088|packs-and-courts|v3
+C|Cullen Chalice|2091,2092|wars-of-wizards|v3
+C|Girl in the Golden Atom|2093|relics-under-study|v3
+C|Pile of Bones|2094,2095,2096|odd-journeys-and-mishaps|v3
+C|Gwen Gellman|2097,2098|packs-and-courts|v3
+C|Last Truth|2099|chosen-heirs|v3
+C|Grace Curtis|2100,2101,2102|wanderers-and-fixers|v3
+C|Lost Continent|2103|relics-under-study|v3
+C|Clan Chronicles|2104,2105,2108,2110,2118,2119,2122,2125,2128,2115,2116,2117,2120|wanderers-and-fixers|v3
+C|Species Imperative|2106,2107,2109,2114,2127|first-signs-and-lone-contact|v3
+C|Web Shifters Reunification|2111,2112|settler-worlds-old|v3
+C|Marrowdell|2113,2124,2130,2131|odd-journeys-and-mishaps|v3
+C|Gossamer Mage|2126|witches-and-libraries|v3
+C|To Each This World|2129|settler-worlds-old|v3
+C|Shadowdance|2132,2133,2134,2135,2136,2137|rogue-hero|v3
+C|Dalglish Daughter of Destruction|2138|wars-of-wizards|v3
+C|Seraphim|2139,2144,2145|dragons-and-courts|v3
+C|Keepers|2143,2146,2151|wars-of-wizards|v3
+C|Vagrant Gods|2147,2149,2150|wars-of-wizards|v3
+C|Radiant King|2148|succession-wars|v3
+C|Genpei|2152|wuxia|v3
+C|Dalmas space|2153,2158|fleet-wars|v3
+C|Lizard War|2154,2156,2164|visitors-and-watchers|v3
+C|Lion of Farside|2155,2160|farm-boy-fellowships|v3
+C|Puppet Master|2157|war-across-worlds|v3
+C|Yuulith|2159,2162,2163|odd-journeys-and-mishaps|v3
+C|Tony Daniel|2171,2172|space-marines|v3
+C|Wulf's Saga|2173,2175|farm-boy-fellowships|v3
+C|Dantec|2182,2183|near-future-society|v3
+C|Dart-Thornton|2188,2189,2190|faeries-in-gaslight|v3
+C|Combat Codes|2191,2192,2193|space-marines|v3
+C|The Devourers|2194|packs-and-courts|v3
+C|N E Davenport|2199,2200,2201|dragons-and-courts|v3
+C|Fable|2203,2204|wars-of-wizards|v3
+C|Jennifer Scales|2205,2206,2208,2209|packs-and-courts|v3
+C|Caeli-Amur|2211,2212,2213|court-intrigue|v3
+C|Evangelina|2210|androids|v3

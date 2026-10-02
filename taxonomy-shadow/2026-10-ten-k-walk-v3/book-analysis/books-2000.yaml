@@ -1,0 +1,2185 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 2002
+  title: "Noir Fatale"
+  author: "Larry Correia"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2003
+  title: "Invisible Wars: The Collected Dead Six"
+  author: "Larry Correia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2005
+  title: "Graveyard of Demons"
+  author: "Larry Correia"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2006
+  title: "Gun Runner"
+  author: "Larry Correia"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2007
+  title: "Heart of the Mountain"
+  author: "Larry Correia"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2011
+  title: "No Game for Knights"
+  author: "Larry Correia"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2012
+  title: "Servants of War"
+  author: "Larry Correia"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: succession-wars
+  note: ""
+- id: 2014
+  title: "Perfect Circle"
+  author: "Carlos J. Cortes"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 2015
+  title: "The Prisoner"
+  author: "Carlos J. Cortes"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2016
+  title: "Borderline"
+  author: "Lilia Vargas Costello"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2017
+  title: "The Arcane Arts"
+  author: "S. D. Coverly"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2018
+  title: "Love, Witches, and Wahala"
+  author: "Christine Cowan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2035
+  title: "The Complete Book of Dragons"
+  author: "Cressida Cowell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2040
+  title: "Which Way Around the Galaxy"
+  author: "Cressida Cowell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2041
+  title: "Which Way to Anywhere"
+  author: "Cressida Cowell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2042
+  title: "Which Way to the Future"
+  author: "Cressida Cowell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2043
+  title: "Out of the Silence"
+  author: "Erle Cox"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: relics-under-study
+  note: ""
+- id: 2044
+  title: "Crossroads"
+  author: "F. Brett Cox"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2045
+  title: "The Librarians and The Lost Lamp"
+  author: "Greg Cox"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2046
+  title: "The Librarians and the Mother Goose Chase"
+  author: "Greg Cox"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2047
+  title: "The Librarians and the Pot of Gold"
+  author: "Greg Cox"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2048
+  title: "The Librarians Trilogy"
+  author: "Greg Cox"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2049
+  title: "The God Particle"
+  author: "Richard Cox"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2070
+  title: "Einstein's Bridge"
+  author: "John Cramer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2071
+  title: "Fermi's Question"
+  author: "John Cramer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2072
+  title: "The Space Opera Renaissance"
+  author: "Kathryn Cramer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2073
+  title: "Dark Hedges, Wizard Island, and Other Magical Places That Really Exist"
+  author: "L. Rader Crandall"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2074
+  title: "Tourists"
+  author: "Sean Craven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2075
+  title: "Song of Scarabaeus"
+  author: "Sara Creasy"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 2076
+  title: "Lilla the Accidental Witch"
+  author: "Eleanor Crewes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2078
+  title: "Touched By Venom"
+  author: "Janine Cross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2079
+  title: "Shadowed By Wings"
+  author: "Janine Cross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2080
+  title: "Forged By Fire"
+  author: "Janine Cross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2081
+  title: "The Magnolia League"
+  author: "Katie Crouch"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2082
+  title: "The White Glove War"
+  author: "Katie Crouch"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2083
+  title: "The Unmagical Life of Briar Jones"
+  author: "Lex Croucher"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2084
+  title: "East of Envy"
+  author: "Nikki St. Crowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2085
+  title: "West of Wicked"
+  author: "Nikki St. Crowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2086
+  title: "The Deep"
+  author: "John Crowley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: other_planet
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 2088
+  title: "Vampires of Manhattan"
+  author: "Melissa de la Cruz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2091
+  title: "Seekers of the Chalice"
+  author: "Brian Cullen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2092
+  title: "The Valley of Shadows"
+  author: "Brian Cullen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2093
+  title: "The Girl in the Golden Atom"
+  author: "Ray Cummings"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: relics-under-study
+  note: ""
+- id: 2094
+  title: "Pile of Bones"
+  author: "Bailey Cunningham"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2095
+  title: "Path of Smoke"
+  author: "Bailey Cunningham"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2096
+  title: "Prize of Night"
+  author: "Bailey Cunningham"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2097
+  title: "Shadows in the Darkness"
+  author: "Elaine Cunningham"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2098
+  title: "Shadows in the Starlight"
+  author: "Elaine Cunningham"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2099
+  title: "The Last Truth"
+  author: "AnaMaria Curtis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2100
+  title: "Floating Hotel"
+  author: "Grace Curtis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2101
+  title: "Heaven's Graveyard"
+  author: "Grace Curtis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2102
+  title: "Idolfire"
+  author: "Grace Curtis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2103
+  title: "The Lost Continent"
+  author: "C.J. Cutcliffe-Hyne"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: relics-under-study
+  note: ""
+- id: 2104
+  title: "Ties of Power"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2105
+  title: "To Trade the Stars"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2106
+  title: "Survival"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2107
+  title: "Migration"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2108
+  title: "A Thousand Words for Stranger"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2109
+  title: "Regeneration"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2110
+  title: "Reap the Wild Wind"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2111
+  title: "Riders of the Storm"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 2112
+  title: "Rift in the Sky"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 2113
+  title: "A Play of Shadow"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2114
+  title: "Species Imperative"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2115
+  title: "Beholder's Eye"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2116
+  title: "Changing Vision"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2117
+  title: "Hidden in Sight"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2118
+  title: "This Gulf of Time and Stars"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2119
+  title: "The Gate to Futures Past"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2120
+  title: "Search Image"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2121
+  title: "The Only Thing to Fear"
+  author: "Julie E. Czerneda"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2122
+  title: "To Guard Against the Dark"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2123
+  title: "A Dragon for William"
+  author: "Julie E. Czerneda"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2124
+  title: "A Turn of Light"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2125
+  title: "Mirage"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2126
+  title: "The Gossamer Mage"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2127
+  title: "In the Company of Others"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2128
+  title: "Spectrum"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2129
+  title: "To Each This World"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 2130
+  title: "A Change of Place"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2131
+  title: "A Shift of Time"
+  author: "Julie E. Czerneda"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2132
+  title: "A Dance of Blades"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: assassins-and-thieves
+  note: ""
+- id: 2133
+  title: "A Dance of Chaos"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: assassins-and-thieves
+  note: ""
+- id: 2134
+  title: "A Dance of Cloaks"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: assassins-and-thieves
+  note: ""
+- id: 2135
+  title: "A Dance of Ghosts"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: assassins-and-thieves
+  note: ""
+- id: 2136
+  title: "A Dance of Mirrors"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: assassins-and-thieves
+  note: ""
+- id: 2137
+  title: "A Dance of Shadows"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: assassins-and-thieves
+  note: ""
+- id: 2138
+  title: "Daughter of Destruction"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2139
+  title: "Fireborn"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2143
+  title: "Ravencaller"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2144
+  title: "Shadowborn"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2145
+  title: "Skyborn"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2146
+  title: "Soulkeeper"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2147
+  title: "The Bladed Faith"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2148
+  title: "The Radiant King"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: succession-wars
+  note: ""
+- id: 2149
+  title: "The Sapphire Altar"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2150
+  title: "The Slain Divine"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2151
+  title: "Voidbreaker"
+  author: "David Dalglish"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2152
+  title: "Genpei"
+  author: "Kara Dalkey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wuxia
+  note: ""
+- id: 2153
+  title: "Soldiers"
+  author: "John Dalmas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2154
+  title: "The Helverti Invasion"
+  author: "John Dalmas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2155
+  title: "The Lion of Farside"
+  author: "John Dalmas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2156
+  title: "The Lizard War"
+  author: "John Dalmas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2157
+  title: "The Puppet Master"
+  author: "John Dalmas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: multiverse
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: war-across-worlds
+  note: ""
+- id: 2158
+  title: "Fanglith"
+  author: "John Dalmas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2159
+  title: "The Bavarian Gate"
+  author: "John Dalmas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2160
+  title: "The Lion Returns"
+  author: "John Dalmas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2161
+  title: "Otherwhens, Otherwheres"
+  author: "John Dalmas"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2162
+  title: "The Kalif's War"
+  author: "John Dalmas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2163
+  title: "The Three-Cornered War"
+  author: "John Dalmas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2164
+  title: "The Orc Wars"
+  author: "John Dalmas"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2168
+  title: "School of Fear: Class Is Not Dismissed!"
+  author: "Gitty Daneshvari"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2169
+  title: "THE School of Fear: The Final Exam"
+  author: "Gitty Daneshvari"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2170
+  title: "Earthling"
+  author: "Tony Daniel"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2171
+  title: "Guardian of Night"
+  author: "Tony Daniel"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2172
+  title: "The Savior"
+  author: "Tony Daniel"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2173
+  title: "The Dragon Hammer"
+  author: "Tony Daniel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2174
+  title: "Star Destroyers"
+  author: "Tony Daniel"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2175
+  title: "The Amber Arrow"
+  author: "Tony Daniel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 2176
+  title: "World Breakers"
+  author: "Tony Daniel"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2177
+  title: "EVE: The Burning Life"
+  author: "Hjalti Danielsson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2181
+  title: "Dreaming Again"
+  author: "Jack Dann"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2182
+  title: "Babylon Babies"
+  author: "Maurice G. Dantec"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2183
+  title: "Grand Junction"
+  author: "Maurice G. Dantec"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2184
+  title: "All the Snake Handlers I Know Are Dead"
+  author: "Dennis Danvers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2185
+  title: "Adult Children of Alien Beings"
+  author: "Dennis Danvers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2186
+  title: "Once More Into The Abyss"
+  author: "Dennis Danvers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2187
+  title: "Orphan Pirates of the Spanish Main"
+  author: "Dennis Danvers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2188
+  title: "The Iron Tree"
+  author: "Cecilia Dart-Thornton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: faeries-in-gaslight
+  note: ""
+- id: 2189
+  title: "Weatherwitch"
+  author: "Cecilia Dart-Thornton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: faeries-in-gaslight
+  note: ""
+- id: 2190
+  title: "The Well of Tears"
+  author: "Cecilia Dart-Thornton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: faeries-in-gaslight
+  note: ""
+- id: 2191
+  title: "Blacklight Born"
+  author: "Alexander Darwin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2192
+  title: "Grievars Blood"
+  author: "Alexander Darwin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2193
+  title: "The Combat Codes"
+  author: "Alexander Darwin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2194
+  title: "The Devourers"
+  author: "Indra Das"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2195
+  title: "Of All the New Yorks in All the Worlds"
+  author: "Indrapramit Das"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2196
+  title: "Queen Victoria's Book of Spells"
+  author: "Ellen Datlow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2197
+  title: "Mad Hatters and March Hares"
+  author: "Ellen Datlow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2198
+  title: "Tor.com Publishing Editorial Spotlight #3"
+  author: "Ellen Datlow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2199
+  title: "Our Vicious Oaths"
+  author: "Ne Davenport"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2200
+  title: "The Blood Gift"
+  author: "Ne Davenport"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2201
+  title: "The Blood Trials"
+  author: "Ne Davenport"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2203
+  title: "Fable: The Balverine Order"
+  author: "Peter David"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2204
+  title: "Fable: Blood Ties"
+  author: "Peter David"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2205
+  title: "Jennifer Scales and the Ancient Furnace"
+  author: "MaryJanice Davidson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2206
+  title: "Jennifer Scales and the Messenger of Light"
+  author: "MaryJanice Davidson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2207
+  title: "The Silver Moon Elm"
+  author: "MaryJanice Davidson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2208
+  title: "Seraph of Sorrow"
+  author: "MaryJanice Davidson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2209
+  title: "Rise of the Poison Moon"
+  author: "MaryJanice Davidson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2210
+  title: "Evangelina"
+  author: "MaryJanice Davidson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: androids
+  note: ""
+- id: 2211
+  title: "Nighttime in Caeli-Amur"
+  author: "Rjurik Davidson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2212
+  title: "Unwrapped Sky"
+  author: "Rjurik Davidson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2213
+  title: "The Stars Askew"
+  author: "Rjurik Davidson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2214
+  title: "Benjamin 2073"
+  author: "Rjurik Davidson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 2215
+  title: "The Mushroom of Doom!"
+  author: "Becky Davies"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2216
+  title: "A Cosmic Christmas"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2217
+  title: "A Cosmic Christmas 2 You"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2218
+  title: "In Space No One Can Hear You Scream"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2219
+  title: "As Time Goes By"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2220
+  title: "The Baen Big Book of Monsters"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2221
+  title: "Future Wars ... and Other Punchlines"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2222
+  title: "Worst Contact"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2223
+  title: "If This Goes Wrong . . ."
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2224
+  title: "Things From Outer Space"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2225
+  title: "Overruled"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2226
+  title: "All Roads Lead to Rome"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2227
+  title: "Cosmic Corsairs"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 2228
+  title: "Depth Charge"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
