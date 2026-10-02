@@ -1159,12 +1159,12 @@
 - id: 7905
   title: "The Human Division #10: This Must Be the Place"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1172,12 +1172,12 @@
 - id: 7906
   title: "The Human Division #11: A Problem of Proportion"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1185,12 +1185,12 @@
 - id: 7907
   title: "The Human Division #13: Earth Below, Sky Above"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1198,12 +1198,12 @@
 - id: 7908
   title: "The Human Division #1: The B-Team"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1211,12 +1211,12 @@
 - id: 7909
   title: "The Human Division #2: Walk the Plank"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1224,12 +1224,12 @@
 - id: 7910
   title: "The Human Division #3: We Only Need the Heads"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1237,12 +1237,12 @@
 - id: 7911
   title: "The Human Division #4: A Voice in the Wilderness"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1250,12 +1250,12 @@
 - id: 7912
   title: "The Human Division #5: Tales From the Clarke"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1263,12 +1263,12 @@
 - id: 7913
   title: "The Human Division #6: The Back Channel"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1276,12 +1276,12 @@
 - id: 7914
   title: "The Human Division #7: The Dog King"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1289,12 +1289,12 @@
 - id: 7915
   title: "The Human Division #8: The Sound of Rebellion"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1302,12 +1302,12 @@
 - id: 7916
   title: "The Human Division #9: The Observers"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-HUMAN-DIVISION
@@ -1341,12 +1341,12 @@
 - id: 7919
   title: "The End of All Things #1: The Life of the Mind"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-END-OF-ALL-THINGS
@@ -1354,12 +1354,12 @@
 - id: 7920
   title: "The End of All Things #2: This Hollow Union"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-END-OF-ALL-THINGS
@@ -1367,12 +1367,12 @@
 - id: 7921
   title: "The End of All Things #3: Can Long Endure"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-END-OF-ALL-THINGS
@@ -1380,12 +1380,12 @@
 - id: 7922
   title: "The End of All Things #4: To Stand or Fall"
   author: "John Scalzi"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:SERIAL-EPISODES-OF-END-OF-ALL-THINGS

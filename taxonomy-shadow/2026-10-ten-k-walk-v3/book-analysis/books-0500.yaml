@@ -324,6 +324,19 @@
   source: web
   decision: alien-cosmic-history
   note: ""
+- id: 565
+  title: "Hearthspace"
+  author: "Stephen Baxter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
 - id: 566
   title: "Obelisk"
   author: "Stephen Baxter"
@@ -362,6 +375,19 @@
   confidence: high
   source: title_form
   decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 577
+  title: "The Way Home"
+  author: "Peter S. Beagle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 578
   title: "The Innkeeper's Song"
@@ -466,6 +492,19 @@
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 599
+  title: "Stone Mad"
+  author: "Elizabeth Bear"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 601
   title: "Deriving Life"
@@ -960,6 +999,19 @@
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 669
+  title: "Backscatter"
+  author: "Gregory Benford"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 672
   title: "Glorious"

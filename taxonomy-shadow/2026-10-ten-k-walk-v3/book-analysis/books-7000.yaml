@@ -1323,7 +1323,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 7121
   title: "Red Heroin"
@@ -1336,7 +1336,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 7122
   title: "Starswarm"
@@ -1843,7 +1843,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY
   note: ""
 - id: 7176
   title: "Fathom"

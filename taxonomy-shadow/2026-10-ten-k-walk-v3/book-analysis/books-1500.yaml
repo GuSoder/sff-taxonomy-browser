@@ -64,6 +64,19 @@
   source: web
   decision: domestic-fantasy
   note: ""
+- id: 1513
+  title: "The Tinder Box"
+  author: "M. R. Carey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
 - id: 1520
   title: "Dreams and Shadows"
   author: "C Robert Cargill"
@@ -519,6 +532,19 @@
   source: web
   decision: court-statecraft
   note: ""
+- id: 1588
+  title: "The Missing Guests of the Magic Grove Hotel"
+  author: "David Casarett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
 - id: 1589
   title: "The Meq"
   author: "Steve Cash"
@@ -844,6 +870,19 @@
   source: web
   decision: housebound
   note: ""
+- id: 1625
+  title: "The Fairest Kind of Love"
+  author: "Crystal Cestari"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
 - id: 1626
   title: "Gentlemen of the Road"
   author: "Michael Chabon"
@@ -895,6 +934,19 @@
   confidence: moderate
   source: web
   decision: crooks-and-cons
+  note: ""
+- id: 1630
+  title: "Chain of Command"
+  author: "Frank Chadwick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
   note: ""
 - id: 1631
   title: "Ship of Destiny"

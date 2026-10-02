@@ -49,7 +49,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY
   note: ""
 - id: 7254
   title: "The Deadliest Bite"
@@ -249,12 +249,12 @@
 - id: 7275
   title: "Mr. Twilight"
   author: "Michael Reaves"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -829,7 +829,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
   note: ""
 - id: 7326
   title: "The Sacred Space Between"
@@ -842,7 +842,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
   note: ""
 - id: 7327
   title: "Year Zero"
@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY
   note: ""
 - id: 7335
   title: "Sunset Mantle"

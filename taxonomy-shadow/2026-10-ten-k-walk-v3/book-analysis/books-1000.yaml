@@ -649,6 +649,19 @@
   source: web
   decision: post-society
   note: ""
+- id: 1102
+  title: "Lucid"
+  author: "Great Britain"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
 - id: 1104
   title: "The Arcane Archives"
   author: "Great Britain"
@@ -1260,6 +1273,19 @@
   source: web
   decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
   note: ""
+- id: 1218
+  title: "Here There Be Dragonnes"
+  author: "Mary Brown"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heroes-and-beasts
+  note: ""
 - id: 1219
   title: "The Curious Garden"
   author: "Peter Brown"
@@ -1337,6 +1363,19 @@
   confidence: moderate
   source: web
   decision: algorithmic-surveillance-dystopias
+  note: ""
+- id: 1230
+  title: "The Sun, the Moon, and the Stars"
+  author: "Steven Brust"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 1238
   title: "The Gypsy"

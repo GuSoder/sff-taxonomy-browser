@@ -888,13 +888,13 @@
   author: "Genevieve Cogman"
   form: novel
   has_magic: true
-  is_real_earth: false
-  setting: invented_world
+  is_real_earth: true
+  setting: earth_past
   genre: fantasy
-  tags: "low"
+  tags: "moderate"
   confidence: moderate
   source: web
-  decision: succession-wars
+  decision: flintlock-fantasy
   note: ""
 - id: 1841
   title: "Tuckitor's Last Swim"
@@ -956,10 +956,10 @@
   is_real_earth: false
   setting: invented_world
   genre: fantasy
-  tags: "low"
+  tags: "moderate"
   confidence: moderate
   source: web
-  decision: dragons-and-courts
+  decision: young-heroes-and-guilds
   note: ""
 - id: 1857
   title: "Where the Lockwood Grows"
@@ -1089,7 +1089,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 1869
   title: "And Another Thing..."
@@ -1536,12 +1536,12 @@
 - id: 1941
   title: "Mall Purchase Night"
   author: "Rick Cook"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
@@ -1666,12 +1666,12 @@
 - id: 1951
   title: "1636: Seas of Fortune"
   author: "Iver Cooper"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:NON-SPECULATIVE-OR-NONFICTION

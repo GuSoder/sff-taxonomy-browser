@@ -80,12 +80,12 @@
 - id: 7506
   title: "Life and Limb"
   author: "Jennifer Roberson"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -574,12 +574,12 @@
 - id: 7544
   title: "Galileo's Dream"
   author: "Kim Stanley Robinson"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -660,7 +660,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 7553
   title: "Very Bad Deaths"
@@ -2415,7 +2415,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY
   note: ""
 - id: 7696
   title: "Red River Seven"
