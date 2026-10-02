@@ -688,3 +688,1134 @@
   source: web
   decision: court-intrigue
   note: ""
+- id: 2831
+  title: "The Throne of the Five Winds"
+  author: "S. C. Emmett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-intrigue
+  note: ""
+- id: 2832
+  title: "The Litany of Earth"
+  author: "Ruthanna Emrys"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 2833
+  title: "The Deepest Rift"
+  author: "Ruthanna Emrys"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 2834
+  title: "The Word of Flesh and Soul"
+  author: "Ruthanna Emrys"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2835
+  title: "All that Means or Mourns"
+  author: "Ruthanna Emrys"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2836
+  title: "First Born"
+  author: "Genetic Engineering"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2837
+  title: "RUR & War with the Newts"
+  author: "Genetic Engineering"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 2838
+  title: "The Continuous Katherine Mortenhoe"
+  author: "Genetic Engineering"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2839
+  title: "The Flying Legion"
+  author: "George Allen England"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 2840
+  title: "The Impossible Garden of Clara Thorne"
+  author: "Summer N. England"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2841
+  title: "The Outlaw Librarian"
+  author: "Summer N. England"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2842
+  title: "The Long Man"
+  author: "Steve Englehart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2843
+  title: "The Point Man"
+  author: "Steve Englehart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2844
+  title: "The Plain Man"
+  author: "Steve Englehart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2845
+  title: "The Arena Man"
+  author: "Steve Englehart"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2846
+  title: "Tor.com Publishing Editorial Spotlight #1"
+  author: "Carl Engle-Laird"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2847
+  title: "Endless Blue Beneath"
+  author: "Shannon English"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2848
+  title: "Corporate Gunslinger"
+  author: "Doug Engstrom"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2849
+  title: "Leech"
+  author: "Hiron Ennes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: minds-and-bodies-rewired
+  note: ""
+- id: 2850
+  title: "Lord of Ruin"
+  author: "K. M. Enright"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2851
+  title: "Mistress of Lies"
+  author: "K. M. Enright"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2852
+  title: "Prince of Ash"
+  author: "K. M. Enright"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2853
+  title: "Second Times a Charm"
+  author: "Taylor Epperson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2854
+  title: "You Had Me at Halo"
+  author: "Taylor Epperson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2855
+  title: "Bauchelain and Korbal Broach"
+  author: "Steven Erikson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2856
+  title: "Crack'd Pot Trail"
+  author: "Steven Erikson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2858
+  title: "The Devil Delivered and Other Tales"
+  author: "Steven Erikson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2860
+  title: "The Wurms of Blearmouth"
+  author: "Steven Erikson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2867
+  title: "The Fiends of Nightmaria"
+  author: "Steven Erikson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2871
+  title: "Rejoice"
+  author: "Steven Erikson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2872
+  title: "The Carpet Makers"
+  author: "Andreas Eschbach"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2890
+  title: "The 25:00 Magic Lantern Express"
+  author: "Shim Eunjung"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2891
+  title: "Notorious Sorcerer"
+  author: "Davinia Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rebels-spies-and-villains
+  note: ""
+- id: 2892
+  title: "Rebel Blade"
+  author: "Davinia Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rebels-spies-and-villains
+  note: ""
+- id: 2893
+  title: "Shadow Baron"
+  author: "Davinia Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rebels-spies-and-villains
+  note: ""
+- id: 2894
+  title: "Empire of Exiles"
+  author: "Erin M Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2895
+  title: "Relics of Ruin"
+  author: "Erin M Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2896
+  title: "Fire on the Rio Grande"
+  author: "Kevin H. Evans"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 2897
+  title: "No Ship for Tranquebar"
+  author: "Kevin H. Evans"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 2898
+  title: "Immobility"
+  author: "Brian Evenson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2899
+  title: "The Warren"
+  author: "Brian Evenson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 2900
+  title: "Solution"
+  author: "Brian Evenson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2902
+  title: "Imaginary Friend"
+  author: "Events"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2903
+  title: "The Devil's Blade"
+  author: "Events"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2905
+  title: "The Whispering Dark"
+  author: "Events"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2906
+  title: "Magic and Mischief at the Wayside Hotel"
+  author: "Elizabeth Everett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2907
+  title: "The Wayside Guide to Baking and Bloodlust"
+  author: "Elizabeth Everett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2908
+  title: "American Desert"
+  author: "Percival Everett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2909
+  title: "Takeover"
+  author: "Forrest Evers"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2910
+  title: "The Summoning"
+  author: "Lynne Ewing"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2911
+  title: "Blood on the Sand"
+  author: "Kacey Ezell"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2912
+  title: "House of Dusk"
+  author: "Deva Fagan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2913
+  title: "Harrowmark"
+  author: "Deva Fagan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2914
+  title: "Monster Hunter Fantom"
+  author: "Martin Fajkus"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2915
+  title: "The Strange Case of Mr. Salad Monday"
+  author: "G.D. Falksen"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2916
+  title: "Eye of the Labyrinth"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2917
+  title: "Lord of the Shadows"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2918
+  title: "The Lion of Senet"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2923
+  title: "The Immortal Prince"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2924
+  title: "The Gods of Amyrantha"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2925
+  title: "The Palace of Impossible Dreams"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2926
+  title: "The Chaos Crystal"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2927
+  title: "First Kill"
+  author: "Jennifer Fallon"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2928
+  title: "The Lyre Thief"
+  author: "Jennifer Fallon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rebels-spies-and-villains
+  note: ""
+- id: 2929
+  title: "Men Who Wish to Drown"
+  author: "Elizabeth Fama"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2938
+  title: "The World of Tiers: Volume One"
+  author: "Philip Jose Farmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: portal
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2939
+  title: "The World of Tiers: Volume Two"
+  author: "Philip Jose Farmer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: portal
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 2940
+  title: "Icehenge"
+  author: "Kim Stanley Robinson; introduction by Henry Farrell"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 2941
+  title: "Holder of Lightning"
+  author: "S. L. Farrell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2942
+  title: "Mage of Clouds"
+  author: "S. L. Farrell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2943
+  title: "Heir of Stone"
+  author: "S. L. Farrell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2947
+  title: "Conflagration"
+  author: "Mick Farren"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2948
+  title: "Kindling"
+  author: "Mick Farren"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2949
+  title: "The Counterclockwise Heart"
+  author: "Brian Farrey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2950
+  title: "The Secret of Dreadwillow Carse"
+  author: "Brian Farrey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2951
+  title: "Masters of Fantasy"
+  author: "Bill Fawcett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2952
+  title: "Cats in Space and Other Places"
+  author: "Bill Fawcett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2955
+  title: "Agnes Aubert's Mystical Cat Shelter"
+  author: "Heather Fawcett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2957
+  title: "Face of the Enemy"
+  author: "Richard Fawkes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2958
+  title: "Nature of the Beast"
+  author: "Richard Fawkes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 2959
+  title: "Spirit of the Place"
+  author: "Gregory Feeley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 2960
+  title: "The Fury of Dragons"
+  author: "Sarah Feely"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2961
+  title: "A Crown Imperiled"
+  author: "Raymond E Feist"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2962
+  title: "A Darkness Returns"
+  author: "Raymond E Feist"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2963
+  title: "A Kingdom Besieged"
+  author: "Raymond E Feist"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2964
+  title: "At the Gates of Darkness"
+  author: "Raymond E Feist"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2967
+  title: "Jimmy and the Crawler"
+  author: "Raymond E Feist"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
