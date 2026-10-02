@@ -1,0 +1,703 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 5000
+  title: "Steel Crow Saga"
+  author: "Paul Krueger"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5001
+  title: "Driftwood Orphans"
+  author: "Paul Krueger"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-apoc-journeys
+  note: ""
+- id: 5002
+  title: "Dungeons & Dragons: How to Be More D&D"
+  author: "Kat Kruger"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5003
+  title: "A Big Important Art Book (Now with Women)"
+  author: "Danielle Krysa"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5006
+  title: "Vectors"
+  author: "Michael P. Kube-Mcdowell"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 5007
+  title: "Among Thieves"
+  author: "M.J. Kuhn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 5015
+  title: "Bigfoot Confidential"
+  author: "Jasmine Kuliasha"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 5016
+  title: "The Midnight Pack"
+  author: "Jasmine Kuliasha"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 5017
+  title: "Salt & Storm"
+  author: "Kendall Kulper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 5018
+  title: "Pray for Us Sinners"
+  author: "Fredrick Kunkle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 5019
+  title: "Her Brother's Keeper"
+  author: "Mike Kupari"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 5020
+  title: "Sins of Her Father"
+  author: "Mike Kupari"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 5021
+  title: "Twin Star"
+  author: "Mike Kupari"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 5022
+  title: "The Family Business"
+  author: "Mike Kupari"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 5023
+  title: "Trouble Walked In"
+  author: "Mike Kupari"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 5024
+  title: "Evan: A Remainder"
+  author: "Jordan Kurella"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5025
+  title: "Teeth in the Mist"
+  author: "Dawn Kurtagich"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-wilds
+  note: ""
+- id: 5026
+  title: "King Kelson's Bride"
+  author: "Katherine Kurtz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5027
+  title: "In the King's Service"
+  author: "Katherine Kurtz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5028
+  title: "Childe Morgan"
+  author: "Katherine Kurtz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5029
+  title: "The King's Deryni"
+  author: "Katherine Kurtz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5030
+  title: "Crusade of Fire"
+  author: "Katherine Kurtz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 5031
+  title: "On Crusade"
+  author: "Katherine Kurtz"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5032
+  title: "Thomas the Rhymer"
+  author: "Ellen Kushner"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 5035
+  title: "Mountain Magic"
+  author: "Henry Kuttner"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-collapse-quests
+  note: ""
+- id: 5036
+  title: "The Last Mimzy"
+  author: "Henry Kuttner"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5037
+  title: "Fury"
+  author: "Henry Kuttner"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 5038
+  title: "An Uncertain Magic"
+  author: "AM Kvita"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 5039
+  title: "An Unlikely Coven"
+  author: "AM Kvita"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 5040
+  title: "The Dragonsitter"
+  author: "Josh Lacey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5041
+  title: "The Dragonsitter Takes Off"
+  author: "Josh Lacey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5042
+  title: "The Dragonsitter to the Rescue"
+  author: "Josh Lacey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5043
+  title: "The Dragonsitters Castle"
+  author: "Josh Lacey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5044
+  title: "The Dragonsitters Island"
+  author: "Josh Lacey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5045
+  title: "The Dragonsitters Party"
+  author: "Josh Lacey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5046
+  title: "Celestial"
+  author: "M.D. Lachlan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 5049
+  title: "The Night Lies Bleeding"
+  author: "M.D. Lachlan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 5052
+  title: "Aleriel"
+  author: "W.S. Lach-Szyrma"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 5064
+  title: "The Lark and the Wren"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5066
+  title: "Sacred Ground"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 5077
+  title: "The Black Swan"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 5078
+  title: "Beyond World's End"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 5080
+  title: "Fiddler Fair"
+  author: "Mercedes Lackey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 5081
+  title: "Spirits White as Lightning"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 5082
+  title: "Werehunter"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 5083
+  title: "Take a Thief"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: riddle-masters-and-riders
+  note: ""
+- id: 5084
+  title: "The Shadow of the Lion"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5085
+  title: "Exile's Honor"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5086
+  title: "Mad Maudlin"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 5088
+  title: "This Rough Magic"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5089
+  title: "Exile's Valor"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5090
+  title: "Four and Twenty Blackbirds - Lackey"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 5092
+  title: "The Wizard of Karres"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 5093
+  title: "This Scepter'd Isle"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""

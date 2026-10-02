@@ -2157,3 +2157,445 @@
   source: web
   decision: disaster-and-defence
   note: ""
+- id: 4962
+  title: "Training for War"
+  author: "Tom Kratman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4963
+  title: "A Pillar of Fire by Night"
+  author: "Tom Kratman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4964
+  title: "Terra Nova: The Wars of Liberation"
+  author: "Tom Kratman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4965
+  title: "Principles of Organization for War and Organizing for War in the Carreraverse"
+  author: "Tom Kratman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4966
+  title: "Days of Burning, Days of Wrath"
+  author: "Tom Kratman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 4967
+  title: "Dirty Water"
+  author: "Tom Kratman"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4968
+  title: "The Romanov Rescue"
+  author: "Tom Kratman"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4969
+  title: "The Physics of Star Trek"
+  author: "Lawrence M. Krauss"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4970
+  title: "Violet Thistlewaite Is Not a Villain Anymore"
+  author: "Emily Krempholtz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4971
+  title: "Prudence Marsh Is Not a Nobody Anymore"
+  author: "Emily Krempholtz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 4972
+  title: "Ghost Circus"
+  author: "Adrienne Kress"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4973
+  title: "Beaker's Dozen"
+  author: "Nancy Kress"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4974
+  title: "Maximum Light"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 4977
+  title: "Crossfire"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settler-worlds-old
+  note: ""
+- id: 4979
+  title: "Crucible"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settler-worlds-old
+  note: ""
+- id: 4980
+  title: "Steal Across the Sky"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4981
+  title: "One"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4982
+  title: "Yesterday's Kin Trilogy"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4983
+  title: "The Eleventh Gate"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4984
+  title: "The Alice Run"
+  author: "Nancy Kress"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4986
+  title: "The Last Novelist (or A Dead Lizard in the Yard)"
+  author: "Matthew Kressel"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4987
+  title: "Now We Paint Worlds"
+  author: "Matthew Kressel"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4988
+  title: "The Rainseekers"
+  author: "Matthew Kressel"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 4989
+  title: "Freeze Warning"
+  author: "Susan Krinard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4990
+  title: "Mist"
+  author: "Susan Krinard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4991
+  title: "Black Ice"
+  author: "Susan Krinard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4992
+  title: "Battlestorm"
+  author: "Susan Krinard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4993
+  title: "Fires of the Faithful"
+  author: "Naomi Kritzer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4994
+  title: "Freedom's Apprentice"
+  author: "Naomi Kritzer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4995
+  title: "Freedom's Gate"
+  author: "Naomi Kritzer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4996
+  title: "Freedom's Sisters"
+  author: "Naomi Kritzer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4997
+  title: "Turning the Storm"
+  author: "Naomi Kritzer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4998
+  title: "Little Free Library"
+  author: "Naomi Kritzer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
+- id: 4999
+  title: "Obstetrix"
+  author: "Naomi Kritzer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  note: ""
