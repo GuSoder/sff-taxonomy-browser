@@ -922,3 +922,913 @@
   source: web
   decision: searchers-and-outback-stars
   note: ""
+- id: 9583
+  title: "The Universe After"
+  author: "Drew Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: searchers-and-outback-stars
+  note: ""
+- id: 9588
+  title: "Happy Hour In Hell"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: supernatural-big-cities
+  note: ""
+- id: 9589
+  title: "The Dirty Streets of Heaven"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: supernatural-big-cities
+  note: ""
+- id: 9592
+  title: "Sleeping Late On Judgement Day"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: supernatural-big-cities
+  note: ""
+- id: 9595
+  title: "The Heart of What Was Lost"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: clans-and-courts
+  note: ""
+- id: 9596
+  title: "The Witchwood Crown"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: clans-and-courts
+  note: ""
+- id: 9597
+  title: "Empire of Grass"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: clans-and-courts
+  note: ""
+- id: 9598
+  title: "The War of the Flowers"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: modern-doors-and-wonderlands
+  note: ""
+- id: 9599
+  title: "Brothers of the Wind"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: clans-and-courts
+  note: ""
+- id: 9600
+  title: "Into the Narrowdark"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: clans-and-courts
+  note: ""
+- id: 9601
+  title: "Tailchaser's Song"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: classic-animal-tales
+  note: ""
+- id: 9602
+  title: "The Navigator's Children"
+  author: "Tad Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: clans-and-courts
+  note: ""
+- id: 9605
+  title: "Sneak Peek for The Splintered Sun"
+  author: "Tad Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9606
+  title: "The Splintered Sun"
+  author: "Tad Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9607
+  title: "Ambassador of Progress"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9608
+  title: "Angel Station"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9609
+  title: "Aristoi"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9610
+  title: "Aristoi - French Edition"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9611
+  title: "City on Fire"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-guilds-and-gangs
+  note: ""
+- id: 9612
+  title: "Daddy's World"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9613
+  title: "Days of Atonement"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9614
+  title: "Hardwired"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9615
+  title: "House of Shards"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9616
+  title: "Investments"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9617
+  title: "Knight Moves"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9618
+  title: "Metropolitan"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9619
+  title: "Prayers in the Wind"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9620
+  title: "Rock of Ages"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9621
+  title: "Solip:System"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9622
+  title: "The Crown Jewels"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9623
+  title: "The Rift"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9624
+  title: "Voice of the Whirlwind"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9625
+  title: "Dinosaurs"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9626
+  title: "No Spot of Ground"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9627
+  title: "Surfacing"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9628
+  title: "The Tang Dynasty Underwater Pyramid"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9629
+  title: "Video Star (Voice of the Whirlwind)"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9630
+  title: "Wall, Stone, Craft"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9631
+  title: "Wolf Time (Voice of the Whirlwind)"
+  author: "Walter Jon Williams"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: cyber-flesh-classics
+  note: ""
+- id: 9632
+  title: "The Last Ride of German Freddie"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9633
+  title: "Impersonations"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9634
+  title: "The Boolean Gate"
+  author: "Walter Jon Williams"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9635
+  title: "The Humanoids"
+  author: "Jack Williamson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: android-detectives-and-servants
+  note: ""
+- id: 9636
+  title: "Terraforming Earth"
+  author: "Jack Williamson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: searchers-and-outback-stars
+  note: ""
+- id: 9637
+  title: "The Stonehenge Gate"
+  author: "Jack Williamson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: searchers-and-outback-stars
+  note: ""
+- id: 9640
+  title: "Contact with Chaos"
+  author: "Michael Z. Williamson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: conflict-and-closed-societies
+  note: ""
+- id: 9647
+  title: "Angeleyes"
+  author: "Michael Z. Williamson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: conflict-and-closed-societies
+  note: ""
+- id: 9648
+  title: "Forged in Blood"
+  author: "Michael Z. Williamson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9649
+  title: "Tide of Battle"
+  author: "Michael Z. Williamson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9652
+  title: "That was Now, This is Then"
+  author: "Michael Z. Williamson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9653
+  title: "Target: Terror"
+  author: "Michael Z. Williamson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9654
+  title: "Lincoln's Dreams"
+  author: "Connie Willis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 9655
+  title: "Impossible Things"
+  author: "Connie Willis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9656
+  title: "Uncharted Territory"
+  author: "Connie Willis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 9657
+  title: "Remake"
+  author: "Connie Willis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: virtual-lives-and-fears
+  note: ""
+- id: 9658
+  title: "Bellwether"
+  author: "Connie Willis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: comic-science-and-satire
+  note: ""
+- id: 9659
+  title: "Fire Watch"
+  author: "Connie Willis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9660
+  title: "The Best of Connie Willis"
+  author: "Connie Willis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9661
+  title: "A Lot Like Christmas"
+  author: "Connie Willis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9662
+  title: "Crosstalk"
+  author: "Connie Willis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 9663
+  title: "Terra Incognita"
+  author: "Connie Willis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9664
+  title: "A Womans Liberation"
+  author: "Connie Willis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9665
+  title: "Time is the Fire"
+  author: "Connie Willis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9666
+  title: "The Enchanted Library: Tales from Fairy Glade Forest"
+  author: "Marnie Willow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9667
+  title: "Nine Billion Turing Tests"
+  author: "Chris Willrich"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9668
+  title: "Super Bass"
+  author: "Kai Ashante Wilson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9669
+  title: "The Devil in America"
+  author: "Kai Ashante Wilson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9670
+  title: "The Sorcerer of the Wildeeps"
+  author: "Kai Ashante Wilson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9671
+  title: "A Taste of Honey"
+  author: "Kai Ashante Wilson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9672
+  title: "The Lamentation of Their Women"
+  author: "Kai Ashante Wilson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
