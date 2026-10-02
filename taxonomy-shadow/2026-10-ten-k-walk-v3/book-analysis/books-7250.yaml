@@ -1,0 +1,729 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 7250
+  title: "Bitten to Death"
+  author: "Jennifer Rardin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7251
+  title: "Once Bitten, Twice Shy"
+  author: "Jennifer Rardin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7252
+  title: "One More Bite"
+  author: "Jennifer Rardin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7253
+  title: "Paul and Brady Get Hoodoo with the Voodoo"
+  author: "Jennifer Rardin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7254
+  title: "The Deadliest Bite"
+  author: "Jennifer Rardin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7255
+  title: "Sisters of the Vast Black"
+  author: "Lina Rather"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7256
+  title: "Sisters of the Forsaken Stars"
+  author: "Lina Rather"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7257
+  title: "A Season of Monstrous Conceptions"
+  author: "Lina Rather"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7258
+  title: "In the Palm of My Hand"
+  author: "Jennifer Raudenbush"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-novels
+  note: ""
+- id: 7261
+  title: "Exiles"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7262
+  title: "The Mageborn Traitor"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7266
+  title: "Spellbinder"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7267
+  title: "Fire Raiser"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7268
+  title: "The Diviner"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7269
+  title: "Touchstone"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7270
+  title: "Elsewhens"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7271
+  title: "Thornlost"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7272
+  title: "Window Wall"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7273
+  title: "Playing to the Gods"
+  author: "Melanie Rawn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7275
+  title: "Mr. Twilight"
+  author: "Michael Reaves"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7276
+  title: "The Red Wolf Conspiracy"
+  author: "Robert V. S. Redick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7277
+  title: "The Ruling Sea"
+  author: "Robert V. S. Redick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7278
+  title: "The River of Shadows"
+  author: "Robert V. S. Redick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7279
+  title: "The Night of the Swarm"
+  author: "Robert V. S. Redick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7280
+  title: "The Rats and the Ruling Sea"
+  author: "Robert V.S. Redick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7281
+  title: "Wildwood Magic"
+  author: "Willa Reece"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7282
+  title: "Wildwood Whispers"
+  author: "Willa Reece"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7283
+  title: "The Fortunate Fall"
+  author: "Cameron Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 7284
+  title: "Congenital Agenesis of Gender Ideation by K.N. Sirsi and Sandra Botkin"
+  author: "Cameron Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 7285
+  title: "What We Are Seeking"
+  author: "Cameron Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 7286
+  title: "Dogs of Truth"
+  author: "Kit Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7287
+  title: "Thinner Than Thou"
+  author: "Kit Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7288
+  title: "The Baby Merchant"
+  author: "Kit Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7289
+  title: "Where"
+  author: "Kit Reed"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-small-towns
+  note: ""
+- id: 7290
+  title: "Four Futures by Kit Reed"
+  author: "Kit Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7291
+  title: "Mormama"
+  author: "Kit Reed"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-small-towns
+  note: ""
+- id: 7292
+  title: "Sister Alice"
+  author: "Robert Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7293
+  title: "The Well of Stars"
+  author: "Robert Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7294
+  title: "Swingers"
+  author: "Robert Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7295
+  title: "The Next Invasion"
+  author: "Robert Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7296
+  title: "Marrow"
+  author: "Robert Reed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7300
+  title: "Legend of Nightfall"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7301
+  title: "The Unknown Soldier"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7305
+  title: "Spirit Fox"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 7306
+  title: "The Bifrost Guardians"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7307
+  title: "The Bifrost Guardians: Volume Two"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7308
+  title: "The Flightless Falcon"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7309
+  title: "The Beasts of Barakhai"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 7310
+  title: "Lost Dragons of Barakhai"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 7311
+  title: "The Return of Nightfall"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7312
+  title: "Flight of the Renshai"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7313
+  title: "Isaac Asimov's I, Robot: To Protect"
+  author: "Mickey Zucker Reichert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7314
+  title: "The Books of Barakhai"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 7315
+  title: "Isaac Asimov's I Robot: To Obey"
+  author: "Mickey Zucker Reichert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7316
+  title: "Fields of Wrath"
+  author: "Mickey Zucker Reichert"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7317
+  title: "Isaac Asimov's I, Robot: To Preserve"
+  author: "Mickey Zucker Reichert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
