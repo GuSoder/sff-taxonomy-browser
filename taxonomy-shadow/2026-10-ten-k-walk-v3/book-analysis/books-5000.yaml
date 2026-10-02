@@ -792,6 +792,19 @@
   source: web
   decision: HOLD:ANTHOLOGY-OR-SHORT-FICTION-COLLECTION
   note: ""
+- id: 5113
+  title: "Much Fall of Blood"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
 - id: 5116
   title: "Gwenhwyfar"
   author: "Mercedes Lackey"
@@ -1145,6 +1158,19 @@
   note: ""
 - id: 5159
   title: "Into the West"
+  author: "Mercedes Lackey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: valdemar
+  note: ""
+- id: 5160
+  title: "Gryphon in Light"
   author: "Mercedes Lackey"
   form: novel
   has_magic: true
@@ -1649,4 +1675,433 @@
   confidence: moderate
   source: web
   decision: pirates-and-pilots
+  note: ""
+- id: 5212
+  title: "Pantomime"
+  author: "L. R. Lam"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: circus-in-gaslight
+  note: ""
+- id: 5213
+  title: "Shadowplay"
+  author: "L. R. Lam"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: circus-in-gaslight
+  note: ""
+- id: 5214
+  title: "Emberclaw"
+  author: "L. R. Lam"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragon-riders
+  note: ""
+- id: 5215
+  title: "Masquerade"
+  author: "L. R. Lam"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: circus-in-gaslight
+  note: ""
+- id: 5216
+  title: "Goldilocks"
+  author: "L. R. Lam"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: generation-ships-core
+  note: ""
+- id: 5217
+  title: "False Hearts"
+  author: "Laura Lam"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: minds-and-bodies-rewired
+  note: ""
+- id: 5218
+  title: "Shattered Minds"
+  author: "Laura Lam"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: minds-and-bodies-rewired
+  note: ""
+- id: 5219
+  title: "Exodus"
+  author: "Alex Lamb"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
+- id: 5220
+  title: "Nemesis"
+  author: "Alex Lamb"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
+- id: 5221
+  title: "Roboteer"
+  author: "Alex Lamb"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
+- id: 5222
+  title: "Lucy's Blade"
+  author: "John Lambshead"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5223
+  title: "Wolf in Shadow"
+  author: "John Lambshead"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5224
+  title: "Pride and Prejudice in Space"
+  author: "Alexis Lampley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 5225
+  title: "Alienated"
+  author: "Melissa Landers"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: aliens-and-space-first-contact
+  note: ""
+- id: 5226
+  title: "Invaded"
+  author: "Melissa Landers"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: aliens-and-space-first-contact
+  note: ""
+- id: 5227
+  title: "Starfall"
+  author: "Melissa Landers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
+- id: 5228
+  title: "Starflight"
+  author: "Melissa Landers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
+- id: 5229
+  title: "The Hidden Worlds"
+  author: "Kristin Landon"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5230
+  title: "The Cold Minds"
+  author: "Kristin Landon"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5231
+  title: "The Dark Reaches"
+  author: "Kristin Landon"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5235
+  title: "This Fleshy Side of the Bone"
+  author: "John Langan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 5236
+  title: "Alien Emergencies"
+  author: "James White; Introduction by David Langford"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 5239
+  title: "Dawn of Fate and Fire"
+  author: "Mariely Lares"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mayan-myth-fantasy
+  note: ""
+- id: 5240
+  title: "Sun of Blood and Ruin"
+  author: "Mariely Lares"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mayan-myth-fantasy
+  note: ""
+- id: 5241
+  title: "Heart Of The Mirage"
+  author: "Glenda Larke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: riddle-masters-and-riders
+  note: ""
+- id: 5242
+  title: "Song Of The Shiver Barrens"
+  author: "Glenda Larke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: riddle-masters-and-riders
+  note: ""
+- id: 5243
+  title: "The Daggers Path"
+  author: "Glenda Larke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 5244
+  title: "The Fall of the Dagger"
+  author: "Glenda Larke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 5245
+  title: "The Lascars Dagger"
+  author: "Glenda Larke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 5246
+  title: "The Last Stormlord"
+  author: "Glenda Larke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragon-wars-and-lights
+  note: ""
+- id: 5247
+  title: "The Shadow Of Tyr"
+  author: "Glenda Larke"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: riddle-masters-and-riders
+  note: ""
+- id: 5248
+  title: "I Was an Outer-Space Chicken"
+  author: "David LaRochelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-OR-COMIC
+  note: ""
+- id: 5249
+  title: "Planet of the Penguins"
+  author: "David LaRochelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-YA-OR-COMIC
   note: ""
