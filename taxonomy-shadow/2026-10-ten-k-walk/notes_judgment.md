@@ -7,3 +7,4 @@
 20. Doc gap: no leaf for monster-hunter invented-world fantasy (Witcher), emergent-AI SF (Sawyer WWW), post-apocalyptic fantasy (Scholes).
 21. Doc gap: no ancient/pre-medieval alt-history leaf (Smale Clash of Eagles).
 22. Doc gaps: no leaf for collapse-plus-magic-returns (Emberverse), summoner-bureaucracy YA fantasy (Bartimaeus).
+23. Judgment: the walk placed some later books of one series as separate cards (e.g. Shannara, Malazan, 'cont.' cards); phase B logs D (dedupe) lines per series rule. 24. sellsword-fellowships (quest) and ranks-and-companies (military) overlap in axis; flagged.

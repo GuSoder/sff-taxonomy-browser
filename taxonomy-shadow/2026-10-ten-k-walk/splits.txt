@@ -1,0 +1,27 @@
+# Phase B splits. Format: S|leaf (becomes umbrella, 0 direct cards)|child-id|Child name|definition|cards (semicolon list)
+# D|leaf|card kept|cards folded into it (series rule: one card per series)
+D|fellowship-quest-fantasy|The Sword of Shannara Trilogy|The Heritage of Shannara;Voyage of the Jerle Shannara;High Druid of Shannara;Dark Legacy of Shannara;Defenders and Legends of Shannara;First King of Shannara
+D|fellowship-quest-fantasy|The Belgariad|Belgariad world prequels (Eddings)
+D|military-fantasy|Malazan Book of the Fallen|Novels of the Malazan Empire;Malazan Book of the Fallen (second copy)
+D|military-fantasy|Land Fit for Heroes|Land Fit for Heroes (cont.)
+D|ground-pounders|Legacy of the Aldenata|Legacy of the Aldenata (cont.)
+D|vampire-worlds|(none)|
+D|romantasy|One Dark Window|One Dark Window (cont.)
+D|alien-invasion-fiction|Vampire Earth|Vampire Earth (cont.)
+S|ground-pounders|bug-hunts|Bug Hunts|Infantry war against alien enemies: the grunt's view of the alien front.|Starship Troopers;Old Man's War;Cry Pilot;Legacy of the Aldenata;Confederation (Huff);Eternity War;Lazarus War;War Dogs (Bear);Cobra
+S|ground-pounders|forever-soldiers|Forever Soldiers|Infantry SF about what long service costs the soldier: time dilation, conscription, the veteran who cannot go home.|The Forever War;Forever Peace;Jason Wander (Buettner);The Light Brigade;Red Sword;Death's Head;Clone Republic;Theirs Not to Reason Why
+S|ground-pounders|hired-guns|Hired Guns|Infantry SF of mercenary companies and soldiers for hire.|CoDominium;Carrera (Kratman);Countdown (Kratman);Bastard Legion;Freehold;Tour of Duty
+S|ground-pounders|space-marines|Space Marines|Infantry SF of marine corps and powered-armor or mecha infantry units, boot camp to deployment.|Starfist;Star Marines (Douglas);Mecha Corps
+S|ground-pounders|lost-legions|Lost Legions|Soldiers stranded or abducted to another world who must fight on there.|Janissaries;Empire of Man
+S|military-fantasy|ranks-and-companies|Ranks and Companies|Fantasy war from the ranks: mercenary companies, one battle, veterans' lives.|The Black Company;True Bastards;The Heroes;Land Fit for Heroes;Malazan Book of the Fallen;The Traitor Son Cycle;Under the Northern Sky;Crossroads (Elliott)
+S|military-fantasy|wings-and-hulls|Wings and Hulls|Fantasy war in the air and at sea: dragon airmen, airships, warships.|Havemercy;The Signal Airship duology;Tide Child (Bone Ships);Dragonmaster and Seer King (Bunch)
+S|military-fantasy|mages-at-war|Mages at War|Fantasy war where magic is the weapon and mages are drafted, bred or hunted for it.|Age of Darkness (Aryan);The Poppy War;The Ascendant Trilogy;Siege trilogy;Demontech;Rage of Dragons;Elves (Barclay);The Witness Trilogy;Serpentwar Saga;Faithful and Fallen / Banished Lands
+S|publicly-paranormal|badge-and-bounty|Badge and Bounty|Open-supernatural cities seen by those who police or hunt monsters for pay.|Anita Blake: Vampire Hunter;Jane Yellowrock;The Hollows;Kate Daniels (Andrews);Deadtown;Spellcrackers;Shadow Ops (Cole);Felix Castor;Blood Singer (Cat Adams)
+S|publicly-paranormal|packs-and-courts|Packs and Courts|Open-supernatural fiction centered on the communities: werewolf packs, vampire courts, fae and kin politics.|Mercy Thompson;Alpha and Omega;Kitty Norville;Sookie Stackhouse;Chicagoland Vampires;The Cerulean Chronicles;Simon Canderous
+S|publicly-paranormal|civilian-monster-life|Civilian Monster Life|Open-supernatural fiction from ordinary lives: jobs, schools, neighborhoods and families in a world that knows about monsters.|The Shambling Guide;Agent of Hel;Curse Workers;Elatsoe;A Song Below Water;No Gods, No Monsters
+S|space-adventure|crooks-and-cons|Crooks and Cons|Space adventure driven by heists, cons and rogues' bargains.|Hammajang Luck;Lady Eve's Last Con;Red Star Hustle;The Stainless Steel Rat;Spiral Arm
+S|space-adventure|ship-captains|Ship Captains|Space adventure driven by the captain and crew of one ship and the trade, war and trouble it runs into.|Vatta's War;Admiral (Danker);Sirantha Jax;Paradox (Bach);The Fire With Fire;The Spin Trilogy;Dark Diamond
+S|space-adventure|wanderers-and-fixers|Wanderers and Fixers|Space adventure with a lone talent on the road: a doctor, fixer, foundling or envoy moving from world to world.|Humanx Commonwealth (Flinx);Sorceress of Karres;Vorkosigan Saga;Stardoc;Moonstorm;Song of Spores;Where Peace Is Lost;Ymir;Plenty
+S|fellowship-quest-fantasy|farm-boy-fellowships|Farm-Boy Fellowships|Quest fantasy of the unlikely young hero and the company gathered round him.|The Lord of the Rings;The Belgariad;The Chronicles of Prydain;The Sword of Shannara Trilogy;The Eidyn Saga
+S|fellowship-quest-fantasy|royal-house-quests|Royal House Quests|Quest fantasy where the company serves or springs from a royal house in peril.|Memory, Sorrow, and Thorn;Shadowmarch;Eileanan;Royal Bastards;Realm Breaker (Aveyard)
+S|fellowship-quest-fantasy|sellsword-fellowships|Sellsword Fellowships|Quest fantasy of a hired company on the road.|Chronicles of the Raven;The Band (Eames)
