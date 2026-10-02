@@ -870,3 +870,913 @@
   source: web
   decision: moon-bases-and-neighbour-worlds
   note: ""
+- id: 7082
+  title: "Narabedla, Ltd."
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7083
+  title: "O Pioneer!"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7084
+  title: "Pohlstars"
+  author: "Frederik Pohl"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7085
+  title: "Slave Ship"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7086
+  title: "Starburst"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7087
+  title: "The Age of the Pussyfoot"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7088
+  title: "The Best of Frederik Pohl"
+  author: "Frederik Pohl"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7089
+  title: "The Demon in the Skull"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7090
+  title: "The Early Pohl"
+  author: "Frederik Pohl"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7091
+  title: "The Voices of Heaven"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7092
+  title: "The Way the Future Was"
+  author: "Frederik Pohl"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 7093
+  title: "The World at the End of Time"
+  author: "Frederik Pohl"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7094
+  title: "Self-Portrait with Nothing"
+  author: "Aimee Pokwatka"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7095
+  title: "The Parliament"
+  author: "Aimee Pokwatka"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7096
+  title: "The Builders"
+  author: "Daniel Polansky"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7097
+  title: "meat+drink"
+  author: "Daniel Polansky"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7098
+  title: "The Seventh Perfection"
+  author: "Daniel Polansky"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-futures
+  note: ""
+- id: 7099
+  title: "St. Valentine, St. Abigail, St. Brigid"
+  author: "C. L. Polk"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7100
+  title: "Even Though I Knew the End"
+  author: "C. L. Polk"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7101
+  title: "Ivy, Angelica, Bay"
+  author: "C. L. Polk"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7102
+  title: "Unquenchable Fire"
+  author: "Rachel Pollack"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7103
+  title: "City of Others"
+  author: "Jared Poon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7104
+  title: "Strange Promises"
+  author: "Jared Poon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7105
+  title: "Reincarnation Blues"
+  author: "Michael Poore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: speculative-satires-and-singulars
+  note: ""
+- id: 7106
+  title: "Projections"
+  author: "S. E. Porter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7107
+  title: "Red Leaves"
+  author: "S. E. Porter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7108
+  title: "Elodie and the Dark Lord"
+  author: "Ashley Poston"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7109
+  title: "Blood Feuds"
+  author: "created by Jerry Pournelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 7110
+  title: "Blood Vengeance"
+  author: "created by Jerry Pournelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 7111
+  title: "Fallen Angels"
+  author: "Jerry Pournelle"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7116
+  title: "A Step Farther Out"
+  author: "Jerry Pournelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7117
+  title: "Imperial Stars 1: The Stars at War"
+  author: "Jerry Pournelle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7118
+  title: "Imperial Stars 2: Republic and Empire"
+  author: "Jerry Pournelle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7119
+  title: "Imperial Stars 3: The Crash of Empire"
+  author: "Jerry Pournelle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7120
+  title: "Red Dragon"
+  author: "Jerry Pournelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7121
+  title: "Red Heroin"
+  author: "Jerry Pournelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7122
+  title: "Starswarm"
+  author: "Jerry Pournelle"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7126
+  title: "The Best of Jerry Pournelle"
+  author: "Jerry Pournelle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7128
+  title: "Ragged Alice"
+  author: "Gareth L. Powell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7129
+  title: "In a Garden Burning Gold"
+  author: "Rory Power"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7130
+  title: "In an Orchard Grown from Ash"
+  author: "Rory Power"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7131
+  title: "Alternate Routes"
+  author: "Tim Powers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7132
+  title: "Earthquake Weather"
+  author: "Tim Powers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7133
+  title: "Expiration Date"
+  author: "Tim Powers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7134
+  title: "Forced Perspectives"
+  author: "Tim Powers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7135
+  title: "The Mills of the Gods"
+  author: "Tim Powers"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7136
+  title: "Stolen Skies"
+  author: "Tim Powers"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7137
+  title: "Last Call"
+  author: "Tim Powers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7138
+  title: "The Night of Demons and Saints"
+  author: "Menna Van Praag"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-retellings
+  note: ""
+- id: 7139
+  title: "The Sisters Grimm"
+  author: "Menna Van Praag"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairy-tale-retellings
+  note: ""
+- id: 7140
+  title: "Fugitive Anne"
+  author: "Rose Praed"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 7141
+  title: "The Illustrated Guards! Guards!"
+  author: "Terry Pratchett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ILLUSTRATED-EDITION-OR-NON-FICTION
+  note: ""
+- id: 7142
+  title: "The World of Terry Pratchett"
+  author: "Terry Pratchett"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ILLUSTRATED-EDITION-OR-NON-FICTION
+  note: ""
+- id: 7143
+  title: "Unboxed"
+  author: "Non Pratt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7146
+  title: "The Strange Adventures of Rangergirl"
+  author: "Tim Pratt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-and-gothic-art
+  note: ""
+- id: 7149
+  title: "Silver Linings"
+  author: "Tim Pratt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7150
+  title: "Jonesy Flux and the Gray Legion"
+  author: "James Pray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 7151
+  title: "The Three Lives of Sonata James"
+  author: "Lettie Prell"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 7152
+  title: "The Need for Air"
+  author: "Lettie Prell"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: augmented-flesh
+  note: ""
+- id: 7153
+  title: "The Dabare Snake Launcher"
+  author: "Joelle Presby"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 7154
+  title: "Avatar: Glowing Woodsprite"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7155
+  title: "CATAN Mini Shadow Box"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7156
+  title: "E.T. Talking Figurine"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7157
+  title: "Game of Thrones: In Memoriam"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7158
+  title: "Game of Thrones: The Hounds Helmet"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7159
+  title: "Game of Thrones: The Noble Houses of Westeros"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7160
+  title: "Ghostbusters: Ghost Trap"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7161
+  title: "Ghostbusters: P.K.E. Meter"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7162
+  title: "Harry Potter Collectible Quidditch Set (Includes Removeable Golden Snitch!)"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7163
+  title: "Harry Potter Pensieve Memory Set"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
