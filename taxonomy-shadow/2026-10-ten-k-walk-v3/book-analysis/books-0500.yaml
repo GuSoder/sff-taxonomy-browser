@@ -1,0 +1,157 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 513
+  title: "Oh No! Not Again!"
+  author: "Mac Barnett"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 515
+  title: "Dreadful Young Ladies and Other Stories"
+  author: "Kelly Barnhill"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 520
+  title: "Marabel and the Book of Fate"
+  author: "Tracy Barrett"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 523
+  title: "Fire Truck vs. Dragon"
+  author: "Chris Barton"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 550
+  title: "Navigator"
+  author: "Stephen Baxter"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 558
+  title: "Doctor Who: the Wheel of Ice"
+  author: "Stephen Baxter"
+  form: tie_in_or_merch
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 569
+  title: "The Massacre of Mankind"
+  author: "Stephen Baxter"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "alien-invasion,war-of-the-worlds-sequel"
+  confidence: high
+  source: knowledge
+  decision: alien-invasion-fiction
+  note: ""
+- id: 570
+  title: "The Science of Avatar"
+  author: "Stephen Baxter"
+  form: tie_in_or_merch
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 602
+  title: "On Safari in R'lyeh and Carcosa with Gun and Camera"
+  author: "Elizabeth Bear"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 611
+  title: "City at the End of Time"
+  author: "Greg Bear"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "end-of-time"
+  confidence: moderate
+  source: knowledge
+  decision: dying-earth
+  note: ""
+- id: 615
+  title: "Multiverse: Exploring the Worlds of Poul Anderson"
+  author: "Greg Bear"
+  form: tie_in_or_merch
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 638
+  title: "The Star Thief"
+  author: "Lindsey Becker"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""

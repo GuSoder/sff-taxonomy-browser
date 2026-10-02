@@ -1,0 +1,898 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 258
+  title: "Interstellar Patrol"
+  author: "Christopher Anvil"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 260
+  title: "Interstellar Patrol II: The Federation of Humanity"
+  author: "Christopher Anvil"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 261
+  title: "The Trouble With Aliens"
+  author: "Christopher Anvil"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 262
+  title: "The Trouble With Humans"
+  author: "Christopher Anvil"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 263
+  title: "Prescription for Chaos"
+  author: "Christopher Anvil"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 264
+  title: "The Power of Illusion"
+  author: "Christopher Anvil"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 291
+  title: "Terry Pratchett's Discworld Imaginarium"
+  author: "Individual Artists"
+  form: tie_in_or_merch
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 328
+  title: "Robot Dreams"
+  author: "Isaac Asimov"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 329
+  title: "Robot Visions"
+  author: "Isaac Asimov"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 333
+  title: "Nightfall and Other Stories"
+  author: "Isaac Asimov"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 336
+  title: "Buy Jupiter"
+  author: "Isaac Asimov"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 337
+  title: "Gold"
+  author: "Isaac Asimov"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 338
+  title: "The Bicentennial Man"
+  author: "Isaac Asimov"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 343
+  title: "MYTH-Interpretations: The Worlds of Robert Asprin"
+  author: "Robert Asprin"
+  form: tie_in_or_merch
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 344
+  title: "Tales of the Time Scouts"
+  author: "Robert Asprin"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 345
+  title: "Tales of the Time Scouts II"
+  author: "Robert Asprin"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 346
+  title: "Three Faces of Asprin"
+  author: "Robert Asprin"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 348
+  title: "Explorers of the Wild"
+  author: "Cale Atkinson"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 353
+  title: "Love Binds"
+  author: "Cynthia St. Aubin"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 354
+  title: "Love Bites"
+  author: "Cynthia St. Aubin"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 355
+  title: "Love Lies"
+  author: "Cynthia St. Aubin"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 356
+  title: "Love Lost"
+  author: "Cynthia St. Aubin"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 357
+  title: "Love Sucks"
+  author: "Cynthia St. Aubin"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 358
+  title: "Legendary Creatures"
+  author: "Adam Auerbach"
+  form: tie_in_or_merch
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 360
+  title: "The Many Deaths of Joe Buckley"
+  author: "Assorted Baen Authors"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 361
+  title: "King of Stars"
+  author: "Multiple Authors"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 362
+  title: "Starwolves and the Interstellar Patrol"
+  author: "Multiple Authors"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 363
+  title: "The Pournelle Continuum"
+  author: "Multiple Authors"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 364
+  title: "The Hemry Ebook Megabundle"
+  author: "Multiple Authors"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 365
+  title: "Free Nonfiction 2011"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 366
+  title: "Free Short Stories 2011"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 367
+  title: "Reading Guides 2011"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 368
+  title: "Free Nonfiction 2012"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 369
+  title: "Free Short Stories 2012"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 370
+  title: "Reading Guides 2012"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 371
+  title: "Free Nonfiction 2013"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 372
+  title: "Free Short Stories 2013"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 373
+  title: "Free Nonfiction 2014"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 374
+  title: "Free Short Stories 2014"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 375
+  title: "Free Nonfiction 2015"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 376
+  title: "Free Stories 2015"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 377
+  title: "Free Nonfiction 2016"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 378
+  title: "Free Stories 2016"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 379
+  title: "Reading Group Guides 2016"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 380
+  title: "Free Nonfiction 2017"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 381
+  title: "Free Stories 2017"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 382
+  title: "Free Nonfiction 2018"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 383
+  title: "Free Stories 2018"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 384
+  title: "Free Stories & Nonfiction 2024"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 385
+  title: "Free Stories 2021"
+  author: "Multiple Authors"
+  form: free_sampler_nonfiction
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 386
+  title: "Six Tor.com Science Fiction & Fantasy Stories from the 2010 Locus Recommended Reading List"
+  author: "Various Authors"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 387
+  title: "Some of the Best from Tor.com: 2014"
+  author: "Various Authors"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 390
+  title: "Tempest"
+  author: "Deluxe Limited Edition Victoria Aveyard"
+  form: placeholder
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:NOT-A-BOOK-PLACEHOLDER
+  note: ""
+- id: 391
+  title: "Tyrant"
+  author: "Standard Edition Victoria Aveyard"
+  form: placeholder
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:NOT-A-BOOK-PLACEHOLDER
+  note: ""
+- id: 411
+  title: "A Rumor of Angels"
+  author: "Dale Bailey"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 412
+  title: "The End of the End of Everything"
+  author: "Dale Bailey"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 413
+  title: "The Ghoul Goes West"
+  author: "Dale Bailey"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 414
+  title: "After the Tripods"
+  author: "Dale Bailey"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 425
+  title: "Cathedral of the Drowned"
+  author: "Nathan Ballingrud"
+  form: collection_or_anthology
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: ""
+  confidence: high
+  source: title_form
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 426
+  title: "The Pumpkin Princess and the Buried Castle"
+  author: "Steven Banbury"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 427
+  title: "The Pumpkin Princess and the Forever Night"
+  author: "Steven Banbury"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 441
+  title: "Feersum Endjinn"
+  author: "Iain M. Banks"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "far-future"
+  confidence: moderate
+  source: knowledge
+  decision: dying-earth
+  note: ""
+- id: 443
+  title: "Transition"
+  author: "Iain M. Banks"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: multiverse
+  genre: sf
+  tags: "multiverse"
+  confidence: moderate
+  source: knowledge
+  decision: multiverse-odyssey
+  note: ""
+- id: 444
+  title: "The Undercutting of Rosie and Adam"
+  author: "Megan Bannen"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 445
+  title: "The Undermining of Twyla and Frank"
+  author: "Megan Bannen"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 446
+  title: "The Undertaking of Hart and Mercy"
+  author: "Megan Bannen"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: romance
+  tags: ""
+  confidence: low
+  source: title_guess
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: "hold may be wrong; needs lookup"
+- id: 453
+  title: "Mermaid and Pirate"
+  author: "Tracey Baptiste"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 454
+  title: "Rise of the Jumbies"
+  author: "Tracey Baptiste"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 455
+  title: "The Jumbie Gods Revenge"
+  author: "Tracey Baptiste"
+  form: novel
+  has_magic: ?
+  is_real_earth: ?
+  setting: ?
+  genre: ?
+  tags: "childrens"
+  confidence: high
+  source: title_form
+  decision: HOLD:CHILDREN-MG
+  note: ""

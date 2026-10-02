@@ -1,0 +1,8 @@
+# N|id|parent|label|definition   (new leaves seeded in v2, none at lvl<=3; parents are lvl4+)
+N|bonded-heroes|heroic-fantasy|Bonded heroes|Heroic fantasy whose protagonist's primary power comes from a bond with a creature or spirit: Companions, dragons, gryphons, familiars. Class-axis sibling of caster-heroes, martial-heroes, npc-heroes (beastmaster/summoner slot).
+N|slayer-hero|martial-heroes|Slayer hero|Martial-hero fantasy whose protagonist's primary power is trained skill at killing monsters as a trade: contracts, bestiary lore, silver and oils.
+N|realpolitik-fantasy|political-fantasy|Realpolitik fantasy|Political fantasy in a low-magic invented world run by engineers, bankers, generals and siege logistics rather than by magic or blood: statecraft as craft and arithmetic.
+N|reincarnation-sagas|high-fantasy|Reincarnation sagas|High fantasy whose spine is souls returning across centuries: a long chronicle where the same people live again in later ages.
+N|modern-pantheon-myth|contemporary-mythic-fantasy|Modern pantheon myth|Contemporary fantasy where several mythic pantheons (Norse, Celtic, Greek, Hindu) coexist and collide in present-day life; the hero deals with all of them.
+N|angel-fantasy|supernatural-fantasy|Angel fantasy|Supernatural fantasy centered on angels, archangels and their hierarchies, fallen or active on Earth.
+N|emergent-minds|machine-minds|Emergent minds|Machine minds that wake by themselves in networks and systems: the awakening of an intelligence nobody built on purpose.
