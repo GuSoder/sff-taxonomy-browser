@@ -688,3 +688,1147 @@
   source: web
   decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
   note: ""
+- id: 5313
+  title: "Provenance"
+  author: "Ann Leckie"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5314
+  title: "Provenance: Booktrack Edition"
+  author: "Ann Leckie"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5315
+  title: "Radiant Star"
+  author: "Ann Leckie"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5316
+  title: "The Jim Baen Memorial Award: The First Decade"
+  author: "William Ledbetter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5317
+  title: "Untethered Sky"
+  author: "Fonda Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5318
+  title: "The Last Contract of Isako"
+  author: "Fonda Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5319
+  title: "Timelike Curves, Spacelike Curves"
+  author: "P H Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5333
+  title: "The Tomorrow Log and Dragon Tide"
+  author: "Sharon Lee"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5340
+  title: "A Liaden Universe"
+  author: "Sharon Lee"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5354
+  title: "Scouts Progress: Twentieth"
+  author: "Sharon Lee"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: venus-and-far-systems
+  note: ""
+- id: 5356
+  title: "Stan Lee's The Devil's Quintet: The Armageddon Code"
+  author: "Stan Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5357
+  title: "Stan Lee's The Devil's Quintet: The Shadow Society"
+  author: "Stan Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5358
+  title: "Biting the Sun"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: states-and-societies-tomorrow
+  note: ""
+- id: 5360
+  title: "White As Snow"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-and-hidden-peoples
+  note: ""
+- id: 5362
+  title: "Shadowfire"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mercenaries-and-knights
+  note: ""
+- id: 5363
+  title: "The Birthgrave"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
+- id: 5364
+  title: "Hunting the White Witch"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
+- id: 5365
+  title: "Anackire"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragon-wars-and-lights
+  note: ""
+- id: 5366
+  title: "Redder Than Blood"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5367
+  title: "The Storm Lord"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragon-wars-and-lights
+  note: ""
+- id: 5368
+  title: "The White Serpent"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragon-wars-and-lights
+  note: ""
+- id: 5369
+  title: "Companions on the Road"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5370
+  title: "Electric Forest"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-bodies
+  note: ""
+- id: 5371
+  title: "Sabella"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 5372
+  title: "Day by Night"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5373
+  title: "Kill the Dead"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
+- id: 5374
+  title: "Sung in Shadow"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-wild-lands
+  note: ""
+- id: 5375
+  title: "A Heroine of the World"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5376
+  title: "Cyrion"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5377
+  title: "Dark Castle, White Horse"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5378
+  title: "Days of Grass"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: climate-and-scarcity-societies
+  note: ""
+- id: 5379
+  title: "Lycanthia"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: monsters-and-curses
+  note: ""
+- id: 5380
+  title: "Tamastara"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5381
+  title: "The Gorgon and Other Beastly Tales"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5382
+  title: "Volkhavaar"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-and-folk-realms
+  note: ""
+- id: 5383
+  title: "Death's Master"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dying-earth-fantasy
+  note: ""
+- id: 5384
+  title: "Delirium's Mistress"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dying-earth-fantasy
+  note: ""
+- id: 5385
+  title: "Delusion's Master"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dying-earth-fantasy
+  note: ""
+- id: 5386
+  title: "Night's Master"
+  author: "Tanith Lee"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dying-earth-fantasy
+  note: ""
+- id: 5387
+  title: "Night's Sorceries"
+  author: "Tanith Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5388
+  title: "The Name Ziya"
+  author: "Wen-yi Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  note: ""
+- id: 5389
+  title: "When They Burned the Butterfly"
+  author: "Wen-yi Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  note: ""
+- id: 5390
+  title: "A Vector Alphabet of Interstellar Travel"
+  author: "Yoon Ha Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5391
+  title: "Combustion Hour"
+  author: "Yoon Ha Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5392
+  title: "Variations on an Apple"
+  author: "Yoon Ha Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5393
+  title: "Extracurricular Activities"
+  author: "Yoon Ha Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5394
+  title: "Beyond the Dragon's Gate"
+  author: "Yoon Ha Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5395
+  title: "Counting Casualties"
+  author: "Yoon Ha Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5396
+  title: "Cutting Corners"
+  author: "Yoon Ha Lee"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5397
+  title: "Devil in the Wires"
+  author: "Tim Lees"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: private-eyes-and-cryptids
+  note: ""
+- id: 5398
+  title: "Steal the Lightning"
+  author: "Tim Lees"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: bureaucracies-of-the-occult
+  note: ""
+- id: 5399
+  title: "The God Hunter"
+  author: "Tim Lees"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: bureaucracies-of-the-occult
+  note: ""
+- id: 5400
+  title: "Carmilla"
+  author: "J. Sheridan LeFanu"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 5401
+  title: "White Widow"
+  author: "Jim Lehrer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  note: ""
+- id: 5404
+  title: "Assassins' Dawn"
+  author: "Stephen Leigh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5405
+  title: "Immortal Muse"
+  author: "Stephen Leigh"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-and-hidden-peoples
+  note: ""
+- id: 5406
+  title: "The Crow of Connemara"
+  author: "Stephen Leigh"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-and-hidden-peoples
+  note: ""
+- id: 5407
+  title: "A Fading Sun"
+  author: "Stephen Leigh"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-and-hidden-peoples
+  note: ""
+- id: 5408
+  title: "A Rising Moon"
+  author: "Stephen Leigh"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-and-hidden-peoples
+  note: ""
+- id: 5409
+  title: "Amid the Crowd of Stars"
+  author: "Stephen Leigh"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 5410
+  title: "Speaking Stones"
+  author: "Stephen Leigh"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-and-hidden-peoples
+  note: ""
+- id: 5411
+  title: "Bound to a Single Sun"
+  author: "Stephen W. Leigh"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: states-and-societies-tomorrow
+  note: ""
+- id: 5412
+  title: "Spellbound"
+  author: "Georgia Leighton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-romance-core
+  note: ""
+- id: 5413
+  title: "Anji Kills a King"
+  author: "Evan Leikam"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5414
+  title: "Quest Kids and the Dark Prophecy of Doug"
+  author: "Mark Leiknes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 5415
+  title: "Quest Kids and the Dragon Pants of Gold"
+  author: "Mark Leiknes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 5416
+  title: "Quest Kids and the Mystery of the Goblin Gazebo"
+  author: "Mark Leiknes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 5417
+  title: "Med Ship"
+  author: "Murray Leinster"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 5418
+  title: "Planets of Adventure"
+  author: "Murray Leinster"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5419
+  title: "A Logic Named Joe"
+  author: "Murray Leinster"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5420
+  title: "Sidewise in Time"
+  author: "Murray Leinster"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5421
+  title: "A Perfect Vacuum"
+  author: "Stanislav Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5424
+  title: "Imaginary Magnitude"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5425
+  title: "Memoirs Found In A Bathtub"
+  author: "Stanislaw Lem"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: states-and-societies-tomorrow
+  note: ""
+- id: 5426
+  title: "Microworlds"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5427
+  title: "More Tales Of Pirx The Pilot"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5428
+  title: "Mortal Engines"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5429
+  title: "One Human Minute"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5430
+  title: "Peace On Earth"
+  author: "Stanislaw Lem"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: states-and-societies-tomorrow
+  note: ""
+- id: 5432
+  title: "Tales Of Pirx The Pilot"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  note: ""
+- id: 5433
+  title: "The Chain Of Chance"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  note: ""
+- id: 5435
+  title: "The Investigation"
+  author: "Stanislaw Lem"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  note: ""
+- id: 5436
+  title: "Harry Potter Dark Arts Mini Deck and Guidebook"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5437
+  title: "Harry Potter Diagon Alley Collectible Set"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5438
+  title: "Harry Potter Divination Crystal Ball"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5439
+  title: "Harry Potter Golden Snitch Kit (Revised and Upgraded)"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5440
+  title: "Harry Potter Magical Creatures Deck and Interactive Book"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 5441
+  title: "Harry Potter Mini Howler"
+  author: "Donald Lemke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
