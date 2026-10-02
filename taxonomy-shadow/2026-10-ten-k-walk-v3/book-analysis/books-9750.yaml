@@ -1,0 +1,92 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 9750
+  title: "Rewitched"
+  author: "Lucy Jane Wood"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: witch-romance-and-demons
+  note: ""
+- id: 9751
+  title: "Uncharmed"
+  author: "Lucy Jane Wood"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: witch-romance-and-demons
+  note: ""
+- id: 9752
+  title: "Disenchanted"
+  author: "Lucy Jane Wood"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: witch-romance-and-demons
+  note: ""
+- id: 9753
+  title: "Master of None"
+  author: "N. Lee Wood"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: conflict-and-closed-societies
+  note: ""
+- id: 9754
+  title: "In the Sight of Akresa"
+  author: "Ray Wood"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 9755
+  title: "Schrodinger's Gun"
+  author: "Ray Wood"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 9756
+  title: "One For Sorrow, Two For Joy"
+  author: "Clive Woodall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: classic-animal-tales
+  note: ""

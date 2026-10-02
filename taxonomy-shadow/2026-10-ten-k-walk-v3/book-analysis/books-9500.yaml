@@ -1832,3 +1832,822 @@
   source: web
   decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
+- id: 9673
+  title: "The Perseids and Other Stories"
+  author: "Robert Charles Wilson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9674
+  title: "A Hidden Place"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ark-dreamers-and-girls
+  note: ""
+- id: 9675
+  title: "Blind Lake"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 9676
+  title: "Bios"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 9677
+  title: "Darwinia"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9678
+  title: "Julian Comstock"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 9679
+  title: "Mysterium"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 9680
+  title: "Burning Paradise"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 9681
+  title: "The Affinities"
+  author: "Robert Charles Wilson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 9683
+  title: "The Bird and the Bell"
+  author: "Sarah K. L. Wilson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 9684
+  title: "The Trident and the Pearl"
+  author: "Sarah K. L. Wilson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 9685
+  title: "The Essential Bordertown"
+  author: "Terri Windling"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9686
+  title: "Grasp the Stars"
+  author: "Jennifer Wingert"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-aliens-and-troops
+  note: ""
+- id: 9687
+  title: "Merciless"
+  author: "Cortney L Winn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 9688
+  title: "Vesselless"
+  author: "Cortney L Winn"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 9691
+  title: "Ren von Lugenbachs Absolutely Unnecessary Adventure"
+  author: "Fox de Winter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: modern-doors-and-wonderlands
+  note: ""
+- id: 9692
+  title: "Big Time"
+  author: "Ben H. Winters"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 9693
+  title: "Dawn of the North"
+  author: "Demi Winters"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9694
+  title: "Kingdom of Claw"
+  author: "Demi Winters"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9695
+  title: "Roots of Darkness"
+  author: "Demi Winters"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9696
+  title: "The Road of Bones"
+  author: "Demi Winters"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9697
+  title: "Wolf Moon, Antler Moon"
+  author: "A.C. Wise"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9698
+  title: "The Professor"
+  author: "A.M. Wise"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-witches-and-seers
+  note: ""
+- id: 9699
+  title: "This Fragile Earth"
+  author: "Susannah Wise"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: conflict-and-closed-societies
+  note: ""
+- id: 9700
+  title: "A Roil of Stars"
+  author: "Don Wismer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9701
+  title: "Planet of the Dead"
+  author: "Don Wismer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9702
+  title: "Warrior Planet"
+  author: "Don Wismer"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 9703
+  title: "D.I.Y."
+  author: "John Wiswell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 9704
+  title: "The Three OClock Dragon"
+  author: "John Wiswell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9705
+  title: "I'll Miss Myself"
+  author: "John Wiswell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9706
+  title: "Phantom View"
+  author: "John Wiswell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9707
+  title: "The Dragon Has Some Complaints"
+  author: "John Wiswell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 9708
+  title: "Split Feather"
+  author: "Deborah A. Wolf"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: frontier-magic
+  note: ""
+- id: 9709
+  title: "Beyond Enemies"
+  author: "Marisa Wolf"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9712
+  title: "Pandora By Holly Hollander"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9714
+  title: "Castle of Days"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9715
+  title: "Storeys from the Old Hotel"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9716
+  title: "The Devil In A Forest"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 9718
+  title: "The Island of Dr. Death and Other Stories and Other Stories"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9719
+  title: "Free Live Free"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-corners-of-the-modern
+  note: ""
+- id: 9722
+  title: "On Blue's Waters"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 9723
+  title: "Strange Travelers"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9724
+  title: "In Green's Jungles"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 9725
+  title: "There Are Doors"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-corners-of-the-modern
+  note: ""
+- id: 9728
+  title: "Endangered Species"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9729
+  title: "Innocents Aboard"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9730
+  title: "Starwater Strains"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9731
+  title: "Pirate Freedom"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 9733
+  title: "The Best of Gene Wolfe"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9734
+  title: "The Sorcerer's House"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: inherited-and-sold-houses
+  note: ""
+- id: 9735
+  title: "Home Fires"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-family-magic
+  note: ""
+- id: 9736
+  title: "The Land Across"
+  author: "Gene Wolfe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 9739
+  title: "The Wolfe at the Door"
+  author: "Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9740
+  title: "Last Plane to Heaven"
+  author: "Jay Lake; Foreword by Gene Wolfe"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9741
+  title: "Random Acts of Senseless Violence"
+  author: "Jack Womack"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9742
+  title: "Bears Discover Fire and Other Stories"
+  author: "Terry Bisson; introduction by Jack Womack"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9743
+  title: "A Fist of Permutations in Lightning and Wildflowers"
+  author: "Alyssa Wong"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9744
+  title: "House of the Beast"
+  author: "Deluxe Limited Edition Michelle Wong"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 9745
+  title: "The First Step"
+  author: "Tao Wong"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heroes-and-beasts
+  note: ""
+- id: 9746
+  title: "The First Stop"
+  author: "Tao Wong"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heroes-and-beasts
+  note: ""
+- id: 9747
+  title: "The First War"
+  author: "Tao Wong"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heroes-and-beasts
+  note: ""
+- id: 9748
+  title: "The Blade That Remains"
+  author: "Tao Wong"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heroes-and-beasts
+  note: ""
+- id: 9749
+  title: "Where the Hell Is Nirvana?"
+  author: "Champ Wongsatayanont"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
