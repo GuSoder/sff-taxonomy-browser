@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/tmp/taste/tally.py", line 17, in <module>
+    ol=json.load(open('ol.json'));
+FileNotFoundError: [Errno 2] No such file or directory: 'ol.json'
