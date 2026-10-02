@@ -610,3 +610,913 @@
   source: web
   decision: sim-wars-and-protectorates
   note: ""
+- id: 9323
+  title: "Fire Season"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9326
+  title: "War Maid's Choice"
+  author: "David Weber"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 9332
+  title: "A Call to Duty"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hollow-worlds
+  note: ""
+- id: 9334
+  title: "Like a Mighty Army"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hollow-worlds
+  note: ""
+- id: 9335
+  title: "Throne of Stars"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9336
+  title: "A Call to Arms"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hollow-worlds
+  note: ""
+- id: 9338
+  title: "The Road to Hell"
+  author: "David Weber"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 9339
+  title: "The Sword of the South"
+  author: "David Weber"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 9347
+  title: "Rebel"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9350
+  title: "Governor"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9352
+  title: "A Call to Insurrection"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 9353
+  title: "A New Clan"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 9354
+  title: "The Janus File"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9355
+  title: "The Weltall File"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9356
+  title: "What Price Victory?"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 9363
+  title: "The Black Prism"
+  author: "Brent Weeks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9364
+  title: "The Blinding Knife"
+  author: "Brent Weeks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9365
+  title: "The Blinding Knife: Booktrack Edition"
+  author: "Brent Weeks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:DUPLICATE-EDITION
+  note: ""
+- id: 9366
+  title: "The Blood Mirror"
+  author: "Brent Weeks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9367
+  title: "The Broken Eye"
+  author: "Brent Weeks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9368
+  title: "The Burning White"
+  author: "Brent Weeks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9371
+  title: "Nocturne"
+  author: "Alyssa Wees"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-kings-and-werewolf-realms
+  note: ""
+- id: 9372
+  title: "We Shall Be Monsters"
+  author: "Alyssa Wees"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: shadow-kings-and-werewolf-realms
+  note: ""
+- id: 9373
+  title: "Ghost Legion"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9374
+  title: "King's Sacrifice"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9375
+  title: "King's Test"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9376
+  title: "The Lost King"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
+- id: 9377
+  title: "Mistress of Dragons"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9378
+  title: "Master of Dragons"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9379
+  title: "The Dragon's Son"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9380
+  title: "Bones of the Dragon"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9381
+  title: "Secret of the Dragon"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9382
+  title: "Rage of the Dragon"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9383
+  title: "Storm Riders"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9384
+  title: "The Seventh Sigil"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: young-heroes-and-guilds
+  note: ""
+- id: 9385
+  title: "Doom of the Dragon"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wars-of-peoples
+  note: ""
+- id: 9386
+  title: "Spymaster"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9387
+  title: "The Complete Dragonships of Vindras Series"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dragon-keepers-and-seas
+  note: ""
+- id: 9388
+  title: "Privateer"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9389
+  title: "Kingmaker"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9390
+  title: "The Dragon Corsairs"
+  author: "Margaret Weis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: flintlock-fantasy
+  note: ""
+- id: 9391
+  title: "A Dragon-Lovers Treasury of the Fantastic"
+  author: "Margaret Weis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9392
+  title: "A Quest-Lovers Treasury of the Fantastic"
+  author: "Margaret Weis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9393
+  title: "Sunset Empire"
+  author: "Josh Weiss"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 9394
+  title: "Cosmic Tales: Adventures in the Sol System"
+  author: "T. K. F. Weisskopf"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9395
+  title: "Cosmic Tales: Adventures in Far Futures"
+  author: "T. K. F. Weisskopf"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9396
+  title: "The Young World"
+  author: "Chris Weitz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: broken-worlds-and-schools
+  note: ""
+- id: 9397
+  title: "Chasing Fire"
+  author: "Michelle M. Welch"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: civil-war-and-militias
+  note: ""
+- id: 9398
+  title: "Confidence Game"
+  author: "Michelle M. Welch"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: civil-war-and-militias
+  note: ""
+- id: 9399
+  title: "The Bright and The Dark"
+  author: "Michelle M. Welch"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: civil-war-and-militias
+  note: ""
+- id: 9400
+  title: "Wraith"
+  author: "Phaedra Weldon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-institutions-and-voices
+  note: ""
+- id: 9401
+  title: "Spectre"
+  author: "Phaedra Weldon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-institutions-and-voices
+  note: ""
+- id: 9402
+  title: "Phantasm"
+  author: "Phaedra Weldon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-institutions-and-voices
+  note: ""
+- id: 9403
+  title: "Revenant"
+  author: "Phaedra Weldon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-institutions-and-voices
+  note: ""
+- id: 9404
+  title: "Erebus-13"
+  author: "David Wellington"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 9405
+  title: "Paradise-1"
+  author: "David Wellington"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 9406
+  title: "Positive"
+  author: "David Wellington"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: zombie-and-plague-survivors
+  note: ""
+- id: 9407
+  title: "Revenant-X"
+  author: "David Wellington"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 9409
+  title: "The Beyonders"
+  author: "Manly Wade Wellman"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9410
+  title: "Twice in Time"
+  author: "Manly Wade Wellman"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9411
+  title: "Angel of the Blockade"
+  author: "Alex Wells"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9412
+  title: "The Usurper: Kingdoms, Book 2"
+  author: "Angus Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: claimants-and-swordsmen
+  note: ""
+- id: 9413
+  title: "The Way Beneath: Kingdoms, Book 3"
+  author: "Angus Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: claimants-and-swordsmen
+  note: ""
+- id: 9414
+  title: "The Guardian"
+  author: "Angus Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: riders-and-wolfwalkers
+  note: ""
+- id: 9415
+  title: "Yesterday's Kings"
+  author: "Angus Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: riders-and-wolfwalkers
+  note: ""
+- id: 9416
+  title: "Exile's Challenge"
+  author: "Angus Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 9417
+  title: "Lords of the Sky"
+  author: "Angus Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: riders-and-wolfwalkers
+  note: ""
+- id: 9418
+  title: "Exile's Children"
+  author: "Angus Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 9420
+  title: "The Sea Lady"
+  author: "H.G. Wells"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: older-tale-retellings
+  note: ""
+- id: 9421
+  title: "HG Wells Classic Collection"
+  author: "H.G. Wells"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
