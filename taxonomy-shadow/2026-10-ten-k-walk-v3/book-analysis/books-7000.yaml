@@ -1780,3 +1780,913 @@
   source: web
   decision: HOLD:TIE-IN-MERCH
   note: ""
+- id: 7164
+  title: "Harry Potter Wizards Wand with Sticker Book"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7165
+  title: "Harry Potter: Patronus Mini Projector Set"
+  author: "Running Press"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7166
+  title: "Extraction"
+  author: "Douglas Preston"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: thriller
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7167
+  title: "The Ice Limit"
+  author: "Douglas Preston"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: thriller
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7175
+  title: "Everything's Fine"
+  author: "Matthew Pridham"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7176
+  title: "Fathom"
+  author: "Cherie Priest"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7177
+  title: "Bloodshot"
+  author: "Cherie Priest"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7178
+  title: "Hellbent"
+  author: "Cherie Priest"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-and-monster-hunters
+  note: ""
+- id: 7179
+  title: "Maplecroft"
+  author: "Cherie Priest"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: gothic-and-haunted-towns
+  note: ""
+- id: 7180
+  title: "Chapelwood"
+  author: "Cherie Priest"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: gothic-and-haunted-towns
+  note: ""
+- id: 7181
+  title: "The Family Plot"
+  author: "Cherie Priest"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: gothic-and-haunted-towns
+  note: ""
+- id: 7182
+  title: "Brimstone"
+  author: "Cherie Priest"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: gothic-and-haunted-towns
+  note: ""
+- id: 7184
+  title: "The Islanders"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7185
+  title: "The Adjacent"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7186
+  title: "The Gradual"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7187
+  title: "A Dream of Wessex"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7188
+  title: "Episodes"
+  author: "Christopher Priest"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7189
+  title: "Fugue for a Darkening Island"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7190
+  title: "Indoctrinaire"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7191
+  title: "The Affirmation"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7192
+  title: "The Dream Archipelago"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7193
+  title: "The Extremes"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7194
+  title: "The Quiet Woman"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7195
+  title: "The Separation"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7196
+  title: "The Space Machine"
+  author: "Christopher Priest"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7197
+  title: "Flesh and Blood"
+  author: "Chris Priestley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7198
+  title: "Freeze"
+  author: "Chris Priestley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7199
+  title: "Seven Ghosts"
+  author: "Chris Priestley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7200
+  title: "Still Water"
+  author: "Chris Priestley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7201
+  title: "The Wickford Doom"
+  author: "Chris Priestley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7202
+  title: "All Her Ghosts"
+  author: "Cynthia Prith"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: gothic-and-haunted-towns
+  note: ""
+- id: 7203
+  title: "The Nobody People"
+  author: "Bob Proehl"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-novels
+  note: ""
+- id: 7204
+  title: "The Somebody People"
+  author: "Bob Proehl"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-novels
+  note: ""
+- id: 7205
+  title: "Zero to Eighty"
+  author: "Akkad Pseudoman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 7206
+  title: "But Not Too Bold"
+  author: "Hache Pueyo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: gothic-and-haunted-towns
+  note: ""
+- id: 7207
+  title: "Cabaret in Flames"
+  author: "Hache Pueyo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: gothic-and-haunted-towns
+  note: ""
+- id: 7208
+  title: "The Hymn to Dionysus"
+  author: "Natasha Pulley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: modern-fairy-tale-novels
+  note: ""
+- id: 7209
+  title: "The Mars House"
+  author: "Natasha Pulley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: modern-fairy-tale-novels
+  note: ""
+- id: 7210
+  title: "Aunt Tigress"
+  author: "Emily Yu-Xuan Qin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-novels
+  note: ""
+- id: 7211
+  title: "The Nightmare Before Kissmas"
+  author: "Sara Raasch"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 7212
+  title: "Go Luck Yourself"
+  author: "Sara Raasch"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 7213
+  title: "The Entanglement of Rival Wizards"
+  author: "Sara Raasch"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 7214
+  title: "Lightning & Thunder"
+  author: "Sara Raasch"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7215
+  title: "The Fake Divination Offense"
+  author: "Sara Raasch"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: academies-of-magic
+  note: ""
+- id: 7216
+  title: "Six Savage Thrones"
+  author: "Holly Race"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7217
+  title: "Six Wild Crowns"
+  author: "Holly Race"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7218
+  title: "Thistle Down"
+  author: "Irene Radford"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: celtic-bards-and-lines
+  note: ""
+- id: 7219
+  title: "These Godly Lies"
+  author: "Rachelle Raeta"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-novels
+  note: ""
+- id: 7220
+  title: "These Immortal Truths"
+  author: "Rachelle Raeta"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-novels
+  note: ""
+- id: 7225
+  title: "Darkome"
+  author: "Hannu Rajaniemi"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7226
+  title: "Invisible Planets"
+  author: "Hannu Rajaniemi"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-near-futures
+  note: ""
+- id: 7227
+  title: "Clockwork Fairies"
+  author: "Cat Rambo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 7228
+  title: "You Sexy Thing"
+  author: "Cat Rambo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7229
+  title: "Devil's Gun"
+  author: "Cat Rambo"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: champions-and-gamesters
+  note: ""
+- id: 7230
+  title: "Rumor Has It"
+  author: "Cat Rambo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7231
+  title: "Knees Up Mother Earth"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7232
+  title: "Necrophenia"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7233
+  title: "Retromancer"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7234
+  title: "The Brightonomicon"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7235
+  title: "The Chickens of Atlantis and Other Foul and Filthy Fiends"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7236
+  title: "The Educated Ape and Other Wonders of the Worlds"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7237
+  title: "The Hollow Chocolate Bunnies of the Apocalypse"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7238
+  title: "The Japanese Devil Fish Girl and Other Unnatural Attractions"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7239
+  title: "The Mechanical Messiah and Other Marvels of the Modern Age"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7240
+  title: "The Toyminator"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7241
+  title: "The Witches of Chiswick"
+  author: "Robert Rankin"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: literary-fantasy-satires
+  note: ""
+- id: 7242
+  title: "The Legend of Meneka"
+  author: "Kritika H Rao"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7243
+  title: "The Rise of the Celestials"
+  author: "Kritika H Rao"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7244
+  title: "Soulgazer"
+  author: "Maggie Rapier"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heirs-rivers-and-protectors
+  note: ""
+- id: 7245
+  title: "Wolftamer"
+  author: "Maggie Rapier"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: heirs-rivers-and-protectors
+  note: ""
