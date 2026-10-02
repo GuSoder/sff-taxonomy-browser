@@ -1637,3 +1637,913 @@
   source: web
   decision: HOLD:NON-SPECULATIVE
   note: ""
+- id: 7394
+  title: "The Vigil"
+  author: "Clay Reynolds"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 7395
+  title: "Threading the Needle (Clay Reynolds)"
+  author: "Clay Reynolds"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 7396
+  title: "Of Snakes & Sex & Playing in the Rain"
+  author: "Clay Reynolds"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 7397
+  title: "Of the Abyss"
+  author: "Amelia Atwater Rhodes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7398
+  title: "Of the Divine"
+  author: "Amelia Atwater Rhodes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7399
+  title: "Ninth Ward (Coretta Scott King Author Honor Title)"
+  author: "Jewell Parker Rhodes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7400
+  title: "Paradise on Fire"
+  author: "Jewell Parker Rhodes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7410
+  title: "The Wizards Of Langley"
+  author: "Jeffrey T. Richelson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 7411
+  title: "The Little Witch"
+  author: "M. Rickert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7412
+  title: "Lucky Girl"
+  author: "M. Rickert"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7413
+  title: "The Mothers of Voorhisville"
+  author: "Mary Rickert"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunted-small-towns
+  note: ""
+- id: 7414
+  title: "Departure"
+  author: "A G Riddle"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7415
+  title: "Those Who Walk in Darkness"
+  author: "John Ridley"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7416
+  title: "What Fire Cannot Burn"
+  author: "John Ridley"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wizard-detectives
+  note: ""
+- id: 7417
+  title: "Castle of the Noobs"
+  author: "Ryan Rimmel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7418
+  title: "The Mayor of Noobtown"
+  author: "Ryan Rimmel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7419
+  title: "The Village of Noobtown"
+  author: "Ryan Rimmel"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7420
+  title: "Beyond the Ranges"
+  author: "By John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7424
+  title: "There Will be Dragons"
+  author: "John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7427
+  title: "Against the Tide"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7428
+  title: "Ghost"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7429
+  title: "Into the Looking Glass"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7431
+  title: "A Deeper Blue"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7432
+  title: "Choosers of the Slain"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7433
+  title: "East of the Sun, West of the Moon"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7434
+  title: "Kildar"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7435
+  title: "Princess of Wands"
+  author: "John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7439
+  title: "Manxome Foe"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7440
+  title: "Sister Time"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-gifted-and-immortals
+  note: ""
+- id: 7441
+  title: "Vorpal Blade"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7442
+  title: "Claws That Catch"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7443
+  title: "Honor of the Clan"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7444
+  title: "The Last Centurion"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7445
+  title: "Citizens"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: pilots-and-spacetime-wars
+  note: ""
+- id: 7451
+  title: "Queen of Wands"
+  author: "John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7452
+  title: "Tiger by the Tail"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7454
+  title: "Emerald Sea, Second Edition"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: invasion-and-contact-novels
+  note: ""
+- id: 7456
+  title: "There Will be Dragons, Second Edition"
+  author: "John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7463
+  title: "Voices of the Fall"
+  author: "John Ringo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7464
+  title: "Gunpowder & Embers"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7465
+  title: "Behind the Veil"
+  author: "John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7466
+  title: "Through the Storm"
+  author: "John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7467
+  title: "Troy Rising"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: invasion-and-contact-novels
+  note: ""
+- id: 7468
+  title: "We Shall Rise"
+  author: "John Ringo"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: collapse-survivors
+  note: ""
+- id: 7469
+  title: "Into the Real"
+  author: "John Ringo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7475
+  title: "The Oddmire, Book 1: Changeling"
+  author: "William Ritter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7476
+  title: "The Oddmire, Book 2: The Unready Queen"
+  author: "William Ritter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7477
+  title: "The Oddmire, Book 3: Deepest, Darkest"
+  author: "William Ritter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7478
+  title: "Daughter of the Hunt"
+  author: "K Arsenault Rivera"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7479
+  title: "Oath of Fire"
+  author: "K Arsenault Rivera"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7480
+  title: "Tiny Threads"
+  author: "Lilliam Rivera"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7481
+  title: "Naked Mole Rat Saves the World"
+  author: "Karen Rivers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7482
+  title: "Shapechangers"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7483
+  title: "Song of Homana"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7484
+  title: "Legacy of the Sword"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7485
+  title: "Sword-Dancer"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7486
+  title: "Track of the White Wolf"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7487
+  title: "A Pride of Princes"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7488
+  title: "Sword-singer"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7489
+  title: "Daughter of the Lion"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7490
+  title: "Sword-Maker"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7491
+  title: "Flight of the Raven"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7492
+  title: "Sword-Breaker"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7493
+  title: "A Tapestry of Lions"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7494
+  title: "Sword-Born"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7495
+  title: "Legacy of the Wolf"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7496
+  title: "The Lion Throne"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 7497
+  title: "Sword-Sworn"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7498
+  title: "The Novels of Tiger and Del, Volume I"
+  author: "Jennifer Roberson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 7499
+  title: "The Novels of Tiger and Del, Volume II"
+  author: "Jennifer Roberson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
