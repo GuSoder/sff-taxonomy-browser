@@ -1,0 +1,1730 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 1500
+  title: "The City of Silk and Steel"
+  author: "Linda Carey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: courts-and-courtesans
+  note: ""
+- id: 1501
+  title: "The House of War and Witness"
+  author: "Linda Carey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: war-gothic
+  note: ""
+- id: 1505
+  title: "Fellside"
+  author: "M. R. Carey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: haunted-institutions-and-voices
+  note: ""
+- id: 1506
+  title: "Orpheus"
+  author: "M. R. Carey"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 1507
+  title: "Someone Like Me"
+  author: "M. R. Carey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: domestic-fantasy
+  note: ""
+- id: 1520
+  title: "Dreams and Shadows"
+  author: "C Robert Cargill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 1521
+  title: "Queen of the Dark Things"
+  author: "C Robert Cargill"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 1523
+  title: "We Are Where the Nightmares Go and Other Stories"
+  author: "C Robert Cargill"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1524
+  title: "Nine Dragons"
+  author: "Len Cariou"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1525
+  title: "The Vorkosigan Companion"
+  author: "Lillian Stewart Carl"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1532
+  title: "Prophets of the Ghost Ants"
+  author: "Clark Thomas Carlton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: animal-fantasy
+  note: ""
+- id: 1533
+  title: "The Ghost Ants of Grylladesh"
+  author: "Clark Thomas Carlton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: animal-fantasy
+  note: ""
+- id: 1534
+  title: "The Prophet of the Termite God"
+  author: "Clark Thomas Carlton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: animal-fantasy
+  note: ""
+- id: 1535
+  title: "Rivers of Fire"
+  author: "Patrick Carman"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1536
+  title: "THE Dark Planet"
+  author: "Patrick Carman"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1537
+  title: "The Shadows That Listen"
+  author: "Louisa Carmody"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: angel-fantasy
+  note: ""
+- id: 1538
+  title: "Daughter of the Wind"
+  author: "Nora Carmody"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 1539
+  title: "Heiress of Storms"
+  author: "Nora Carmody"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 1540
+  title: "Fault Lines"
+  author: "Nora Shalaway Carpenter"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1541
+  title: "Killing Time"
+  author: "Caleb Carr"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: classic-social-dystopias
+  note: ""
+- id: 1549
+  title: "1636: The Flight of the Nightingale"
+  author: "David Carrico"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whole-towns-and-lives-displaced
+  note: ""
+- id: 1550
+  title: "Blood's Cost"
+  author: "David Carrico"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whole-towns-and-lives-displaced
+  note: ""
+- id: 1551
+  title: "Letters from Gronow"
+  author: "David Carrico"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whole-towns-and-lives-displaced
+  note: ""
+- id: 1552
+  title: "The Dragon's Apprentice"
+  author: "David Carrico"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 1553
+  title: "The Dragon's Boy"
+  author: "David Carrico"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 1554
+  title: "The Blood Is the Life"
+  author: "David Carrico"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whole-towns-and-lives-displaced
+  note: ""
+- id: 1568
+  title: "The Loud Table"
+  author: "Jonathan Carroll"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1569
+  title: "Played Your Eyes"
+  author: "Jonathan Carroll"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1570
+  title: "Mama Bruise"
+  author: "Jonathan Carroll"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1571
+  title: "Porgee's Boar"
+  author: "Jonathan Carroll"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1572
+  title: "Ceffo"
+  author: "Jonathan Carroll"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1573
+  title: "Black Swan Rising"
+  author: "Lee Carroll"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: secret-societies
+  note: ""
+- id: 1574
+  title: "The Watchtower"
+  author: "Lee Carroll"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: secret-societies
+  note: ""
+- id: 1575
+  title: "The Shape Stealer"
+  author: "Lee Carroll"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: secret-societies
+  note: ""
+- id: 1576
+  title: "For He Can Creep"
+  author: "Siobhan Carroll"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1581
+  title: "The Ivory Tomb"
+  author: "Melissa Caruso"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-at-war
+  note: ""
+- id: 1582
+  title: "The Last Soul Among Wolves"
+  author: "Melissa Caruso"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogues-abroad
+  note: ""
+- id: 1583
+  title: "The Last Star in the Void"
+  author: "Melissa Caruso"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rogues-abroad
+  note: ""
+- id: 1584
+  title: "The Obsidian Tower"
+  author: "Melissa Caruso"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 1585
+  title: "The Quicksilver Court"
+  author: "Melissa Caruso"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 1589
+  title: "The Meq"
+  author: "Steve Cash"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1590
+  title: "Time Dancers"
+  author: "Steve Cash"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1591
+  title: "The Remembering"
+  author: "Steve Cash"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1592
+  title: "In the Veins of the Drowning"
+  author: "Kalie Cassidy"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1593
+  title: "In the Wake of the Ruined"
+  author: "Kalie Cassidy"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1594
+  title: "The Long Night Looms"
+  author: "Kalie Cassidy"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: doomed-lands
+  note: ""
+- id: 1595
+  title: "The Vetting"
+  author: "Michael Cassutt"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1602
+  title: "Brother. Prince. Snake."
+  author: "Cecil Castellucci"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1603
+  title: "We Have Always Lived on Mars"
+  author: "Cecil Castellucci"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1604
+  title: "When Unicorns Poop"
+  author: "Lexie Castle"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1605
+  title: "Our Human"
+  author: "Adam-Troy Castro"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1606
+  title: "The Haunting of Alejandra"
+  author: "V. Castro"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 1607
+  title: "Immortal Pleasures"
+  author: "V. Castro"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: among-the-living
+  note: ""
+- id: 1608
+  title: "A Letter from the Lonesome Shore"
+  author: "Sylvie Cathrall"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 1611
+  title: "Deep Roots"
+  author: "Beth Cato"
+  form: omnibus
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 1612
+  title: "Final Flight"
+  author: "Beth Cato"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1616
+  title: "The Deepest Poison"
+  author: "Beth Cato"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1617
+  title: "Wings of Sorrow and Bone"
+  author: "Beth Cato"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 1618
+  title: "Bound by Fate"
+  author: "A.N. Caudle"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1619
+  title: "Worthy of Fate"
+  author: "A.N. Caudle"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1620
+  title: "Reentry"
+  author: "Peter Cawdron"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 1621
+  title: "Retrograde"
+  author: "Peter Cawdron"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 1622
+  title: "The Chaos of Luck"
+  author: "Catherine Cerveny"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 1623
+  title: "The Rule of Luck"
+  author: "Catherine Cerveny"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-social-sf
+  note: ""
+- id: 1624
+  title: "Mercy House"
+  author: "Adam Cesare"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: housebound
+  note: ""
+- id: 1626
+  title: "Gentlemen of the Road"
+  author: "Michael Chabon"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1627
+  title: "How Dark the World Becomes"
+  author: "Frank Chadwick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: crooks-and-cons
+  note: ""
+- id: 1628
+  title: "The Forever Engine"
+  author: "Frank Chadwick"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: time-bleeds
+  note: ""
+- id: 1629
+  title: "Come the Revolution"
+  author: "Frank Chadwick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: crooks-and-cons
+  note: ""
+- id: 1631
+  title: "Ship of Destiny"
+  author: "Frank Chadwick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-expedition
+  note: ""
+- id: 1632
+  title: "Destiny's Forge: A Man-Kzin Wars Novel"
+  author: "Paul Chafe"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1633
+  title: "Genesis"
+  author: "Paul Chafe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 1634
+  title: "Exodus: The Ark"
+  author: "Paul Chafe"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 1636
+  title: "The Tapestry of Fate"
+  author: "Shannon Chakraborty"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogues-abroad
+  note: ""
+- id: 1637
+  title: "Echoes of the Well of Souls"
+  author: "Jack L. Chalker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hard-science-fantasy
+  note: ""
+- id: 1638
+  title: "Ghost of the Well of Souls"
+  author: "Jack L. Chalker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hard-science-fantasy
+  note: ""
+- id: 1639
+  title: "Kaspar's Box"
+  author: "Jack L. Chalker"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: relics-under-study
+  note: ""
+- id: 1640
+  title: "The Sea Is Full of Stars"
+  author: "Jack L. Chalker"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-captains
+  note: ""
+- id: 1646
+  title: "As You Wake, Break the Shell"
+  author: "Becky Chambers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-expedition
+  note: ""
+- id: 1647
+  title: "To Be Taught, If Fortunate"
+  author: "Becky Chambers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-expedition
+  note: ""
+- id: 1648
+  title: "Hope's War"
+  author: "Stephen Chambers"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
+  note: ""
+- id: 1649
+  title: "Hope's End"
+  author: "Stephen Chambers"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
+  note: ""
+- id: 1650
+  title: "The Dragon's Eye"
+  author: "Joel Champetier"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 1651
+  title: "Fathomfolk"
+  author: "Eliza Chan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: cities-and-masks-in-revolt
+  note: ""
+- id: 1652
+  title: "Harbour of Hungry Ghosts"
+  author: "Eliza Chan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: cities-and-masks-in-revolt
+  note: ""
+- id: 1653
+  title: "Tideborn"
+  author: "Eliza Chan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: cities-and-masks-in-revolt
+  note: ""
+- id: 1669
+  title: "To Gaze Upon Wicked Gods"
+  author: "Molly X. Chang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: shenmo
+  note: ""
+- id: 1670
+  title: "To Kill These Monstrous Gods"
+  author: "Molly X. Chang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: shenmo
+  note: ""
+- id: 1671
+  title: "The Nightblood Prince"
+  author: "Molly X. Chang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1672
+  title: "A Shadow All of Light"
+  author: "Fred Chappell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sensory-magic-realism
+  note: ""
+- id: 1673
+  title: "Riddlers of the Thorn Wood"
+  author: "Maxine S. Charles"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 1677
+  title: "Survival Tails: Eruption at Krakatoa"
+  author: "Katrina Charman"
+  form: novel
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1679
+  title: "Of Sorcery and Science"
+  author: "Mike Chen"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: doors-to-other-worlds
+  note: ""
+- id: 1680
+  title: "The Way Spring Arrives and Other Stories"
+  author: "Yu Chen"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1681
+  title: "The Seat of Magic"
+  author: "J. Kathleen Cheney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: emancipation-fantasy
+  note: ""
+- id: 1682
+  title: "Dreaming Death"
+  author: "J. Kathleen Cheney"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: faeries-in-gaslight
+  note: ""
+- id: 1683
+  title: "A Bright Heart"
+  author: "Kate Chenli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xuanhuan
+  note: ""
+- id: 1684
+  title: "A Fiery Spirit"
+  author: "Kate Chenli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xuanhuan
+  note: ""
+- id: 1685
+  title: "Forge of Heaven"
+  author: "C J Cherryh"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 1686
+  title: "Fortress in the Eye of Time"
+  author: "C J Cherryh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1687
+  title: "Fortress of Eagles"
+  author: "C J Cherryh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1688
+  title: "Fortress of Ice"
+  author: "C J Cherryh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1695
+  title: "The Dreaming Tree"
+  author: "C. J. Cherryh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 1696
+  title: "Alternate Realities"
+  author: "C. J. Cherryh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 1699
+  title: "The Paladin"
+  author: "C. J. Cherryh"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hard-swords
+  note: ""
+- id: 1704
+  title: "The Collected Short Fiction of C.J. Cherryh"
+  author: "C. J. Cherryh"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1706
+  title: "Clouds Rider"
+  author: "C.J. Cherryh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 1710
+  title: "Rider at the Gate"
+  author: "C.J. Cherryh"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 1712
+  title: "The Ink Witch"
+  author: "Steph Cherrywell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 1713
+  title: "The Queen's Gambit"
+  author: "Deborah Chester"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1714
+  title: "The Pearls"
+  author: "Deborah Chester"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1715
+  title: "The Crown"
+  author: "Deborah Chester"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1716
+  title: "Farside"
+  author: "Patrick Chiles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 1717
+  title: "Perigee"
+  author: "Patrick Chiles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 1718
+  title: "Frozen Orbit"
+  author: "Patrick Chiles"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 1719
+  title: "Interstellar Medic: The Long Run"
+  author: "Patrick Chiles"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1720
+  title: "The Long Way Home"
+  author: "Patrick Chiles"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1721
+  title: "Frontier"
+  author: "Patrick Chiles"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 1722
+  title: "Escape Orbit"
+  author: "Patrick Chiles"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 1733
+  title: "Reek"
+  author: "Alastair Chisholm"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1734
+  title: "Fantasy from Asia and the Asian Diaspora"
+  author: "Zen Cho"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1735
+  title: "The Order of the Pure Moon Reflected in Water"
+  author: "Zen Cho"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wuxia
+  note: ""
+- id: 1736
+  title: "Strange Familiars"
+  author: "Keshe Chow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1737
+  title: "Monstrous Beasts"
+  author: "Keshe Chow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1738
+  title: "My Life With Geeks and Freaks"
+  author: "Claudia Christian"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1739
+  title: "Wolf's Empire: Gladiator"
+  author: "Claudia Christian"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 1740
+  title: "Splintegrate"
+  author: "Deborah Teramis Christian"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 1741
+  title: "Brisk Money"
+  author: "Adam Christopher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1742
+  title: "Cold War"
+  author: "Adam Christopher"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: multiverse
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: war-across-worlds
+  note: ""
+- id: 1743
+  title: "The Burning Dark"
+  author: "Adam Christopher"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-horror
+  note: ""
+- id: 1745
+  title: "The Machine Awakes"
+  author: "Adam Christopher"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: robot-lineages-and-revolts
+  note: ""
+- id: 1747
+  title: "Standard Hollywood Depravity"
+  author: "Adam Christopher"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: androids
+  note: ""
+- id: 1749
+  title: "Crawlspace"
+  author: "Adam Christopher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""

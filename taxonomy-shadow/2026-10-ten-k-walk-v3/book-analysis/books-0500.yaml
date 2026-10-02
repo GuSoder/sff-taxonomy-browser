@@ -376,6 +376,110 @@
   source: web
   decision: revisionist-quest-fantasy
   note: ""
+- id: 582
+  title: "Carnival"
+  author: "Elizabeth Bear"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 584
+  title: "Undertow"
+  author: "Elizabeth Bear"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 588
+  title: "The Girl Who Sang Rose Madder"
+  author: "Elizabeth Bear"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 590
+  title: "The Horrid Glory of Its Wings"
+  author: "Elizabeth Bear"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 592
+  title: "The Tempering of Men"
+  author: "Elizabeth Bear"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: viking-fantasy
+  note: ""
+- id: 593
+  title: "Faster Gun"
+  author: "Elizabeth Bear"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 597
+  title: "This Chance Planet"
+  author: "Elizabeth Bear"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 601
+  title: "Deriving Life"
+  author: "Elizabeth Bear"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
 - id: 602
   title: "On Safari in R'lyeh and Carcosa with Gun and Camera"
   author: "Elizabeth Bear"
@@ -388,6 +492,71 @@
   confidence: high
   source: title_form
   decision: HOLD:COLLECTION
+  note: ""
+- id: 603
+  title: "The Red Mother"
+  author: "Elizabeth Bear"
+  form: novella
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: folk-horror
+  note: ""
+- id: 604
+  title: "The Witch and the Wyrm"
+  author: "Elizabeth Bear"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 605
+  title: "Cleave"
+  author: "Elizabeth Bear"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "generation-ship"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 606
+  title: "Pinion"
+  author: "Elizabeth Bear"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "generation-ship"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 607
+  title: "Sanction"
+  author: "Elizabeth Bear"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "generation-ship"
+  confidence: moderate
+  source: web
+  decision: ships-on-course
   note: ""
 - id: 611
   title: "City at the End of Time"
@@ -402,6 +571,19 @@
   source: knowledge
   decision: dying-earth
   note: ""
+- id: 612
+  title: "Slant"
+  author: "Greg Bear"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
 - id: 615
   title: "Multiverse: Exploring the Worlds of Poul Anderson"
   author: "Greg Bear"
@@ -415,6 +597,84 @@
   source: title_form
   decision: HOLD:TIE-IN-MERCH
   note: ""
+- id: 620
+  title: "The Unfinished Land"
+  author: "Greg Bear"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fairytalesque-quest-fantasy
+  note: ""
+- id: 623
+  title: "Mother of Rome"
+  author: "Lauren J. A. Bear"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "roman-myth"
+  confidence: moderate
+  source: web
+  decision: troy-and-after
+  note: ""
+- id: 625
+  title: "The Councillor"
+  author: "E. J. Beaton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 628
+  title: "The Burning Light"
+  author: "Bradley P. Beaulieu"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: drowned-worlds
+  note: ""
+- id: 631
+  title: "Future Dreams"
+  author: "Bradley P. Beaulieu"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 637
+  title: "The Dragons of Deepwood Fen"
+  author: "Bradley P. Beaulieu"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogues-abroad
+  note: ""
 - id: 638
   title: "The Star Thief"
   author: "Lindsey Becker"
@@ -427,4 +687,914 @@
   confidence: high
   source: title_form
   decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 640
+  title: "Genesis"
+  author: "Bernard Beckett"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thought-experiments
+  note: ""
+- id: 644
+  title: "The Amber Crown"
+  author: "Jacey Bedford"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: succession-wars
+  note: ""
+- id: 645
+  title: "City of Jackals"
+  author: "Aman J. Bedi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 646
+  title: "Kavithri"
+  author: "Aman J. Bedi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-thieves
+  note: ""
+- id: 651
+  title: "The Brotherhood of the Wheel"
+  author: "R. S. Belcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "truckers"
+  confidence: moderate
+  source: web
+  decision: hidden-hands
+  note: ""
+- id: 652
+  title: "The Queen of Swords"
+  author: "R. S. Belcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 653
+  title: "King of the Road"
+  author: "R. S. Belcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "truckers"
+  confidence: moderate
+  source: web
+  decision: hidden-hands
+  note: ""
+- id: 654
+  title: "Nightwise"
+  author: "R.S. Belcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: occult-city
+  note: ""
+- id: 655
+  title: "Jasmyn"
+  author: "Alex Bell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fairytale-transplant
+  note: ""
+- id: 656
+  title: "The Ninth Circle"
+  author: "Alex Bell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 657
+  title: "The White Octopus Hotel"
+  author: "Alexandra Bell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: time-loops
+  note: ""
+- id: 658
+  title: "Fortune Pearl"
+  author: "Alexandra Bell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fantastic-voyage
+  note: ""
+- id: 659
+  title: "Mojo And The Pickle Jar"
+  author: "Douglas Bell"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: earthly-comic-fantasy
+  note: ""
+- id: 660
+  title: "Absynthe"
+  author: "Brendan P. Bellecourt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: psionics
+  note: ""
+- id: 661
+  title: "Sins & Shadows"
+  author: "Lyn Benedict"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 662
+  title: "Ghosts & Echoes"
+  author: "Lyn Benedict"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ghost-speakers
+  note: ""
+- id: 663
+  title: "Gods & Monsters"
+  author: "Lyn Benedict"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 664
+  title: "Lies & Omens"
+  author: "Lyn Benedict"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 665
+  title: "The New Hugo Winners-Volume IV"
+  author: "Gregory Benford"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 666
+  title: "Grace Immaculate"
+  author: "Gregory Benford"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 667
+  title: "The Final Now"
+  author: "Gregory Benford"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 672
+  title: "Glorious"
+  author: "Gregory Benford"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: techno-fiction-in-space
+  note: ""
+- id: 674
+  title: "Beyond Infinity"
+  author: "Gregory Benford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-of-earth
+  note: ""
+- id: 679
+  title: "Fire Power"
+  author: "Mir Benitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 680
+  title: "The Prince of Shadow"
+  author: "Curt Benjamin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 681
+  title: "Prince of Dreams"
+  author: "Curt Benjamin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 682
+  title: "The Gates of Heaven"
+  author: "Curt Benjamin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 683
+  title: "Lords of Grass and Thunder"
+  author: "Curt Benjamin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 684
+  title: "Only Superhuman"
+  author: "Christopher L. Bennett"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: superhero-fiction
+  note: ""
+- id: 689
+  title: "Burning Ashes"
+  author: "James Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "dragons"
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 690
+  title: "Chasing Embers"
+  author: "James Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "dragons"
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 691
+  title: "Raising Fire"
+  author: "James Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "dragons"
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 692
+  title: "His Father's Son"
+  author: "Nigel Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vampire-pasts
+  note: ""
+- id: 694
+  title: "Vigilance"
+  author: "Robert Jackson Bennett"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: bread-and-circus-dystopias
+  note: ""
+- id: 695
+  title: "A Trade of Blood"
+  author: "Robert Jackson Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fantasy-mystery
+  note: ""
+- id: 696
+  title: "American Elsewhere"
+  author: "Robert Jackson Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 697
+  title: "The Company Man"
+  author: "Robert Jackson Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-diesel-fantasy
+  note: ""
+- id: 698
+  title: "The Troupe"
+  author: "Robert Jackson Bennett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: circus-in-gaslight
+  note: ""
+- id: 711
+  title: "Angelus"
+  author: "Sabrina Benulis"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: angel-fantasy
+  note: ""
+- id: 712
+  title: "Archon"
+  author: "Sabrina Benulis"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: angel-fantasy
+  note: ""
+- id: 713
+  title: "Covenant"
+  author: "Sabrina Benulis"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: angel-fantasy
+  note: ""
+- id: 717
+  title: "Song of the Beast"
+  author: "Carol Berg"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 718
+  title: "Dissension"
+  author: "Stacey Berg"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dystopian-rebellion
+  note: ""
+- id: 719
+  title: "Regeneration"
+  author: "Stacey Berg"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: walled-in-survivors
+  note: ""
+- id: 720
+  title: "The Plasticity of Being"
+  author: "Renan Bernardo"
+  form: short_story
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 721
+  title: "The Hungry Mouth at the Edge of Space and the Goddess Knitting at Home"
+  author: "Renan Bernardo"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 722
+  title: "Audit of the Collapse and Convalescence of Minds"
+  author: "Renan Bernardo"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 723
+  title: "River of Souls"
+  author: "Beth Bernobich"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dreams"
+  confidence: low
+  source: web
+  decision: court-spies
+  note: ""
+- id: 724
+  title: "Thief of War"
+  author: "Beth Bernobich"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 725
+  title: "A Window or a Small Box"
+  author: "Jedediah Berry"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 726
+  title: "The Naming Song"
+  author: "Jedediah Berry"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: invented-mythology
+  note: ""
+- id: 727
+  title: "Kill All Wizards"
+  author: "Jedediah Berry"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 728
+  title: "Magus of Stonewylde"
+  author: "Kit Berry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "ya,pagan-estate"
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 729
+  title: "Moondance of Stonewylde"
+  author: "Kit Berry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "ya,pagan-estate"
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 730
+  title: "Shadows at Stonewylde"
+  author: "Kit Berry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "ya,pagan-estate"
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 731
+  title: "Shaman of Stonewylde"
+  author: "Kit Berry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "ya,pagan-estate"
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 732
+  title: "Solstice at Stonewylde"
+  author: "Kit Berry"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "ya,pagan-estate"
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 733
+  title: "The Last Kingdom"
+  author: "Steve Berry"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: thriller
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-THRILLER
+  note: ""
+- id: 734
+  title: "The Last Dragonlord"
+  author: "Joanne Bertin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragon-shapeshifters"
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 735
+  title: "Dragon and Phoenix"
+  author: "Joanne Bertin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragon-shapeshifters"
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 736
+  title: "Bard's Oath"
+  author: "Joanne Bertin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "dragon-shapeshifters"
+  confidence: moderate
+  source: web
+  decision: court-statecraft
+  note: ""
+- id: 737
+  title: "Breakwater"
+  author: "Simon Bestwick"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: cryptid-horror
+  note: ""
+- id: 742
+  title: "Witch Daughter"
+  author: "Tanaz Bhathena"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "ancient-persia"
+  confidence: moderate
+  source: web
+  decision: khayal
+  note: ""
+- id: 743
+  title: "Dark Alchemy"
+  author: "Laura Bickle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "wyoming"
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 744
+  title: "Mercury Retrograde"
+  author: "Laura Bickle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "wyoming"
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 745
+  title: "Nine of Stars"
+  author: "Laura Bickle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "wyoming"
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 746
+  title: "Phoenix Falling"
+  author: "Laura Bickle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "wyoming"
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 747
+  title: "Witch Creek"
+  author: "Laura Bickle"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "wyoming"
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 748
+  title: "Holo Men"
+  author: "Stephen Billias"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 749
+  title: "A Fire in the North"
+  author: "David Bilsborough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
   note: ""

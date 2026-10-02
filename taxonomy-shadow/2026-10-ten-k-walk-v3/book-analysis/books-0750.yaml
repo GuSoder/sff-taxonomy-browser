@@ -1,0 +1,1951 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 750
+  title: "The Wanderer's Tale"
+  author: "David Bilsborough"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
+  note: ""
+- id: 756
+  title: "Angels of Vengeance"
+  author: "John Birmingham"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "alt-history-postapoc"
+  confidence: moderate
+  source: web
+  decision: postwar-turns
+  note: ""
+- id: 764
+  title: "The Pillars of the World"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-in-the-hills
+  note: ""
+- id: 765
+  title: "Shadows and Light"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-in-the-hills
+  note: ""
+- id: 767
+  title: "The House of Gaian"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-in-the-hills
+  note: ""
+- id: 768
+  title: "Sebastian"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "living-world"
+  confidence: moderate
+  source: web
+  decision: invented-mythology
+  note: ""
+- id: 769
+  title: "Belladonna"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "living-world"
+  confidence: moderate
+  source: web
+  decision: invented-mythology
+  note: ""
+- id: 770
+  title: "The Voice"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "living-world"
+  confidence: moderate
+  source: web
+  decision: invented-mythology
+  note: ""
+- id: 771
+  title: "Bridge of Dreams"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "living-world"
+  confidence: moderate
+  source: web
+  decision: invented-mythology
+  note: ""
+- id: 772
+  title: "Written in Red"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 773
+  title: "Murder of Crows"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 774
+  title: "Vision In Silver"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 775
+  title: "Marked In Flesh"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 776
+  title: "Etched in Bone"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 777
+  title: "Lake Silence"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 778
+  title: "Wild Country"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 779
+  title: "Crowbones"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "terra-indigene"
+  confidence: moderate
+  source: web
+  decision: civilian-monster-life
+  note: ""
+- id: 780
+  title: "The Lady in Glass and Other Stories"
+  author: "Anne Bishop"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 781
+  title: "Turns of Fate"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 782
+  title: "Storms of Fate"
+  author: "Anne Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 783
+  title: "The Etched City"
+  author: "K.J. Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: new-weird
+  note: ""
+- id: 784
+  title: "Transfigurations"
+  author: "Michael Bishop"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hard-alien
+  note: ""
+- id: 785
+  title: "Airs Beneath the Moon"
+  author: "Toby Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wings-and-gryphons
+  note: ""
+- id: 786
+  title: "Airs and Graces"
+  author: "Toby Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wings-and-gryphons
+  note: ""
+- id: 787
+  title: "Airs of Night and Sea"
+  author: "Toby Bishop"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wings-and-gryphons
+  note: ""
+- id: 788
+  title: "Bears Discover Fire and Other Stories"
+  author: "Terry Bisson"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 789
+  title: "In the Upper Room and Other Likely Stories"
+  author: "Terry Bisson"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 790
+  title: "Catch 'Em in the Act"
+  author: "Terry Bisson"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 791
+  title: "The Cockroach Hat"
+  author: "Terry Bisson"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 792
+  title: "TVA Baby"
+  author: "Terry Bisson"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 793
+  title: "The Sixth Day"
+  author: "Terry Bisson"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 794
+  title: "Bitten & Smitten"
+  author: "IMMORTALITY BITES"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: among-the-living
+  note: ""
+- id: 795
+  title: "Tall, Dark & Fangsome"
+  author: "IMMORTALITY BITES"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: among-the-living
+  note: ""
+- id: 796
+  title: "Thief of Night"
+  author: "Holly Black"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 797
+  title: "A Conspiracy of Charming Monsters"
+  author: "Holly Black"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 810
+  title: "To Ride a Rising Storm"
+  author: "Moniquill Blackgoose"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wings-and-gryphons
+  note: ""
+- id: 811
+  title: "City of the Lost"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 812
+  title: "Dead Things"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 813
+  title: "Broken Souls"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 814
+  title: "Hungry Ghosts"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 815
+  title: "Fire Season"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 816
+  title: "Ghost Money"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 817
+  title: "Bottle Demon"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 818
+  title: "Hate Machine"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 819
+  title: "Suicide Kings"
+  author: "Stephen Blackmoore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "necromancer-la"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 825
+  title: "Masks"
+  author: "E. C. Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
+- id: 826
+  title: "Shadows"
+  author: "E. C. Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
+- id: 827
+  title: "Faces"
+  author: "E. C. Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
+- id: 828
+  title: "Daughter of the Wild Gods"
+  author: "Elly Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 832
+  title: "The Cursed Queens Daughter"
+  author: "Elly Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 833
+  title: "The Forest Kings Daughter"
+  author: "Elly Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 835
+  title: "Masters of Death"
+  author: "Olivie Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: paranormal-bricks
+  note: ""
+- id: 836
+  title: "One for My Enemy"
+  author: "Olivie Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: occult-bloodline
+  note: ""
+- id: 838
+  title: "Januaries"
+  author: "Olivie Blake"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 840
+  title: "Gifted & Talented"
+  author: "Olivie Blake"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: birthright-magic
+  note: ""
+- id: 841
+  title: "Clean Air"
+  author: "Sarah Blake"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: climate-breakdown
+  note: ""
+- id: 842
+  title: "Iraq + 100"
+  author: "Hassan Blasim"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 843
+  title: "The Knights of the Cornerstone"
+  author: "James P. Blaylock"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: arthur-returned
+  note: ""
+- id: 860
+  title: "Tales of the Cthulhu Mythos"
+  author: "Robert Bloch"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 861
+  title: "Unbound"
+  author: "Penelope Bloom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 862
+  title: "Unveiled"
+  author: "Penelope Bloom"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 863
+  title: "Longer"
+  author: "Michael Blumlein"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thought-experiments
+  note: ""
+- id: 864
+  title: "Lullaby for a Lost World"
+  author: "Aliette de Bodard"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 865
+  title: "Fireheart Tiger"
+  author: "Aliette de Bodard"
+  form: novella
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 866
+  title: "Navigational Entanglements"
+  author: "Aliette de Bodard"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-romance
+  note: ""
+- id: 867
+  title: "An Assassins Guide to Love and Treason"
+  author: "Virginia Boecker"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 868
+  title: "The King Slayer"
+  author: "Virginia Boecker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: tudorbethan-fantasy
+  note: ""
+- id: 869
+  title: "The Witch Hunter"
+  author: "Virginia Boecker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: tudorbethan-fantasy
+  note: ""
+- id: 874
+  title: "Magic Time: Angelfire"
+  author: "Marc Zicreemaya Kaathryn Bohnhoff"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: post-society
+  note: ""
+- id: 875
+  title: "City of Broken Magic"
+  author: "Mirah Bolender"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-at-war
+  note: ""
+- id: 876
+  title: "The Monstrous Citadel"
+  author: "Mirah Bolender"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-at-war
+  note: ""
+- id: 877
+  title: "Fortress of Magi"
+  author: "Mirah Bolender"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-at-war
+  note: ""
+- id: 878
+  title: "The Bloodless Princes"
+  author: "Charlotte Bond"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 879
+  title: "The Fireborne Blade"
+  author: "Charlotte Bond"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 880
+  title: "The Frame-Up"
+  author: "Gwenda Bond"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hometown-of-marvels
+  note: ""
+- id: 884
+  title: "The Perfect Tree"
+  author: "Chloe Bonfield"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 885
+  title: "Free Nonfiction 2019"
+  author: "Baen Books"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 886
+  title: "Free Stories 2019"
+  author: "Baen Books"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 887
+  title: "Free Nonfiction 2020"
+  author: "Baen Books"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 888
+  title: "Free Stories 2020"
+  author: "Baen Books"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:FREE-SAMPLER-NONFICTION
+  note: ""
+- id: 889
+  title: "Straight Outta Tombstone"
+  author: "David Boop"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 890
+  title: "Straight Outta Deadwood"
+  author: "David Boop"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 891
+  title: "Straight Outta Dodge City"
+  author: "David Boop"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 892
+  title: "Last Train Outta Kepler-283c"
+  author: "David Boop"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 893
+  title: "Gunfight on Europa Station"
+  author: "David Boop"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 894
+  title: "High Noon on Proxima B"
+  author: "David Boop"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 895
+  title: "Saving Hamlet"
+  author: "Molly Booth"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "ya"
+  confidence: moderate
+  source: web
+  decision: time-bleeds
+  note: ""
+- id: 899
+  title: "Bad Magic"
+  author: "Pseudonymous Bosch"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 900
+  title: "Bad News"
+  author: "Pseudonymous Bosch"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 901
+  title: "The Night Soil Salvagers"
+  author: "Gregory Norman Bossert"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 902
+  title: "Evaluation"
+  author: "Brad Botz"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "litrpg"
+  confidence: moderate
+  source: web
+  decision: litrpg
+  note: ""
+- id: 903
+  title: "Aicha"
+  author: "Soraya Bouazzaoui"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rococo-fantasy
+  note: ""
+- id: 904
+  title: "ALIEN Thinking"
+  author: "Cyril Bouquet"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 910
+  title: "Tales of the Grand Tour"
+  author: "Ben Bova"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 913
+  title: "Powersat"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 914
+  title: "The Trikon Deception"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 916
+  title: "Laugh Lines"
+  author: "Ben Bova"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 918
+  title: "The Immortality Factor"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 919
+  title: "The Science Fiction Hall of Fame, Volume Two A"
+  author: "Ben Bova"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 920
+  title: "Able One"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 921
+  title: "The Return"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-expedition
+  note: ""
+- id: 922
+  title: "The Science Fiction Hall of Fame, Volume Two B"
+  author: "Ben Bova"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 923
+  title: "The Winds of Altair"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 927
+  title: "Battle Station"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-command
+  note: ""
+- id: 928
+  title: "Challenges"
+  author: "Ben Bova"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 929
+  title: "Empire Builders"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 930
+  title: "Future Crime"
+  author: "Ben Bova"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 931
+  title: "Leviathans of Jupiter"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 932
+  title: "Out of the Sun"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 933
+  title: "Privateers"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 934
+  title: "Prometheans"
+  author: "Ben Bova"
+  form: collection
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 935
+  title: "To Fear The Light"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: cosmic-catastrophe
+  note: ""
+- id: 939
+  title: "The Multiple Man"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 941
+  title: "Farside"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 942
+  title: "Mars, Inc."
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 943
+  title: "New Earth"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-expedition
+  note: ""
+- id: 944
+  title: "Carbide Tipped Pens"
+  author: "Ben Bova"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 945
+  title: "New Frontiers"
+  author: "Ben Bova"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 946
+  title: "Rescue Mode"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 947
+  title: "Transhuman"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: altered-flesh
+  note: ""
+- id: 948
+  title: "Cyberbooks"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 949
+  title: "Death Wave"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 950
+  title: "Mercury and Prometheans"
+  author: "Ben Bova"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 952
+  title: "The Best of Bova"
+  author: "Ben Bova"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 953
+  title: "Apes and Angels"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-expedition
+  note: ""
+- id: 954
+  title: "The Best of Bova, Volume II"
+  author: "Ben Bova"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 955
+  title: "Survival"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-pandemic-survival
+  note: ""
+- id: 956
+  title: "The Best of Bova, Volume III"
+  author: "Ben Bova"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 957
+  title: "A Grand Tour Collection"
+  author: "Ben Bova"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 959
+  title: "Gremlins Go Home"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-capers
+  note: ""
+- id: 960
+  title: "Space Station Down"
+  author: "Ben Bova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 964
+  title: "The Thief and the Traitor Bride"
+  author: "V. L. Bovalino"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogues-abroad
+  note: ""
+- id: 977
+  title: "Prison Ship"
+  author: "Michael Bowers"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-captains
+  note: ""
+- id: 978
+  title: "Sleep Walking Now and Then"
+  author: "Richard Bowes"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ontological-magic-realism
+  note: ""
+- id: 979
+  title: "The Tower of Shadows"
+  author: "Drew Bowling"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
+  note: ""
+- id: 980
+  title: "Stealing Thunder"
+  author: "Alina Boyden"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 981
+  title: "Gifting Fire"
+  author: "Alina Boyden"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 982
+  title: "Ariel"
+  author: "Steven R. Boyett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: werewolf-fantasy
+  note: ""
+- id: 983
+  title: "Elegy Beach"
+  author: "Steven R. Boyett"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: post-society
+  note: ""
+- id: 984
+  title: "Bradbury Classic Stories 1"
+  author: "Ray Bradbury"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 985
+  title: "The October Country"
+  author: "Ray Bradbury"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-magical-realism
+  note: ""
+- id: 986
+  title: "9781478913108"
+  author: "Ray Bradbury"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-magical-realism
+  note: ""
+- id: 987
+  title: "9781478913115"
+  author: "Ray Bradbury"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 988
+  title: "Dear Santa"
+  author: "Ray Bradbury"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 989
+  title: "Cyborg"
+  author: "Chris Bradford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "ya"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 990
+  title: "Gamer"
+  author: "Chris Bradford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "ya"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 991
+  title: "Lunar"
+  author: "Chris Bradford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "ya"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 992
+  title: "Stellar"
+  author: "Chris Bradford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "ya"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 993
+  title: "Virus"
+  author: "Chris Bradford"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "ya"
+  confidence: moderate
+  source: web
+  decision: metaverse
+  note: ""
+- id: 994
+  title: "Noise"
+  author: "Darin Bradley"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: post-society
+  note: ""

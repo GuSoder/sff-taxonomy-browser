@@ -1,0 +1,1769 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 1750
+  title: "The Extreme Team: Day of the Dragon"
+  author: "Matt Christopher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1751
+  title: "Wheel Wizards"
+  author: "Matt Christopher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1752
+  title: "Vile Lady Villains"
+  author: "Danai Christopoulou"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1753
+  title: "Strider's Galaxy"
+  author: "Book One of the Strider Chronicles"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1754
+  title: "Strider's Universe"
+  author: "Book Two of the Strider Chronicles"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1755
+  title: "The Water That Falls on You from Nowhere"
+  author: "John Chu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1756
+  title: "A Cost-Benefit Analysis of the Proposed Trade-Offs for the Overhaul of the Barricade"
+  author: "John Chu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1757
+  title: "Hold-Time Violations"
+  author: "John Chu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1758
+  title: "Beyond the El"
+  author: "John Chu"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1759
+  title: "The Caged Queen"
+  author: "Kristen Ciccarelli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1760
+  title: "The Last Namsara"
+  author: "Kristen Ciccarelli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1761
+  title: "The Sky Weaver"
+  author: "Kristen Ciccarelli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1762
+  title: "Some of the Best from Tor.com: 2015"
+  author: "Nino Cipri"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1763
+  title: "Finna"
+  author: "Nino Cipri"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1764
+  title: "Defekt"
+  author: "Nino Cipri"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1765
+  title: "Fare Thee Well"
+  author: "Cathy Clamp"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1766
+  title: "Forbidden"
+  author: "Cathy Clamp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 1767
+  title: "Illicit"
+  author: "Cathy Clamp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 1768
+  title: "Denied"
+  author: "Cathy Clamp"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 1769
+  title: "Sword Catcher"
+  author: "Cassandra Clare"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: succession-wars
+  note: ""
+- id: 1770
+  title: "The Ragpicker King"
+  author: "Cassandra Clare"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: succession-wars
+  note: ""
+- id: 1771
+  title: "The Incendiary"
+  author: "LJ Claren"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1772
+  title: "The Nocturne"
+  author: "LJ Claren"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1773
+  title: "The Silversmith"
+  author: "LJ Claren"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1774
+  title: "An Illustrated History Of Horror And Science-fiction Films"
+  author: "Carlos Clarens"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1775
+  title: "Fate's Bane"
+  author: "C. L. Clark"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: succession-wars
+  note: ""
+- id: 1776
+  title: "Ambessa: Chosen of the Wolf"
+  author: "C. L. Clark"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1777
+  title: "Forbidden Suns"
+  author: "D. Nolan Clark"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1778
+  title: "Forgotten Worlds"
+  author: "D. Nolan Clark"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1779
+  title: "Forsaken Skies"
+  author: "D. Nolan Clark"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1780
+  title: "The Book That Proves Time Travel Happens"
+  author: "Henry Clark"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1781
+  title: "What We Found in the Corn Maze and How It Saved a Dragon"
+  author: "Henry Clark"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1782
+  title: "What We Found in the Sofa and How It Saved the World"
+  author: "Henry Clark"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1783
+  title: "The Black God's Drums"
+  author: "P. Djeli Clark"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-civil-war
+  note: ""
+- id: 1785
+  title: "The Adventurers Guild"
+  author: "Zack Loran Clark"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1786
+  title: "The Adventurers Guild: Night of Dangers"
+  author: "Zack Loran Clark"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1787
+  title: "The Adventurers Guild: Twilight of the Elves"
+  author: "Zack Loran Clark"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1790
+  title: "The Collected Stories of Arthur C. Clarke"
+  author: "Arthur C. Clarke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1791
+  title: "The Last Theorem"
+  author: "Arthur C. Clarke"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 1792
+  title: "The Light of Other Days"
+  author: "Arthur C. Clarke"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 1793
+  title: "A Fall of Moondust"
+  author: "Arthur C. Clarke"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 1795
+  title: "Earthlight"
+  author: "Arthur C. Clarke"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mars-and-luna
+  note: ""
+- id: 1797
+  title: "Imperial Earth"
+  author: "Arthur C. Clarke"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 1798
+  title: "Space Trilogy"
+  author: "Arthur C. Clarke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 1801
+  title: "The Ghost From The Grand Banks"
+  author: "Arthur C. Clarke"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: relics-under-study
+  note: ""
+- id: 1804
+  title: "Shadowplay"
+  author: "Jo Clayton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1805
+  title: "Shadowspeer"
+  author: "Jo Clayton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1806
+  title: "Shadowkill"
+  author: "Jo Clayton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1807
+  title: "Black Leviathan"
+  author: "Bernd Perplies; Translated by Lucy Van Cleef"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: continental-steam
+  note: ""
+- id: 1808
+  title: "Wit'ch Fire"
+  author: "James Clemens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1809
+  title: "Wit'ch War"
+  author: "James Clemens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1810
+  title: "Wit'ch Gate"
+  author: "James Clemens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1811
+  title: "Wit'ch Star"
+  author: "James Clemens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1812
+  title: "Wit'ch Storm"
+  author: "James Clemens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1813
+  title: "Shadowfall"
+  author: "James Clemens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1814
+  title: "Hinterland"
+  author: "James Clemens"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1815
+  title: "Fortunes Kiss"
+  author: "Amber Clement"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1816
+  title: "Half Life"
+  author: "Hal Clement"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 1818
+  title: "Noise"
+  author: "Hal Clement"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 1819
+  title: "The Commonplace Book"
+  author: "Jacob Clifton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1820
+  title: "The Doors of Death and Life"
+  author: "Brenda W. Clough"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1821
+  title: "Stations of the Tide"
+  author: "Michael Swanwick; introduction by John Clute"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 1826
+  title: "Ancestral Machines"
+  author: "Michael Cobley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1827
+  title: "Splintered Suns"
+  author: "Michael Cobley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1828
+  title: "The Orphaned Worlds"
+  author: "Michael Cobley"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1829
+  title: "Spell Blind"
+  author: "David B. Coe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 1830
+  title: "His Father's Eyes"
+  author: "David B. Coe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 1831
+  title: "Shadow's Blade"
+  author: "David B. Coe"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 1841
+  title: "Tuckitor's Last Swim"
+  author: "Edith Cohn"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1844
+  title: "Kill All Happies"
+  author: "Rachel Cohn"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1845
+  title: "So Let Them Burn"
+  author: "Kamilah Cole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1846
+  title: "This Ends in Embers"
+  author: "Kamilah Cole"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1857
+  title: "Where the Lockwood Grows"
+  author: "Olivia A Cole"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1858
+  title: "Treasure Planet"
+  author: "Hal Colebatch"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1859
+  title: "Freedom"
+  author: "Hal Colebatch"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fleet-wars
+  note: ""
+- id: 1860
+  title: "Vor: Into the Maelstrom"
+  author: "Loren L. Coleman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 1863
+  title: "A Tale of Magic..."
+  author: "Chris Colfer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1864
+  title: "A Tale of Sorcery..."
+  author: "Chris Colfer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1865
+  title: "A Tale of Witchcraft..."
+  author: "Chris Colfer"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1866
+  title: "Adventures from the Land of Stories: Queen Red Riding Hoods Guide to Royalty"
+  author: "Chris Colfer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1867
+  title: "Adventures from the Land of Stories: The Mother Goose Diaries"
+  author: "Chris Colfer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1868
+  title: "Roswell Johnson Saves the Galaxy!"
+  author: "Chris Colfer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1869
+  title: "And Another Thing..."
+  author: "Eoin Colfer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1870
+  title: "Ron Miller's A Company of Heroes Collection"
+  author: "Ron Miller's A Company of Heroes Collection"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1871
+  title: "Some Body Like Me"
+  author: "Computing"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1872
+  title: "Nine Dragons"
+  author: "Michael Connelly"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1879
+  title: "The Last Banquet of Temporal Confections"
+  author: "Tina Connolly"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1889
+  title: "Wraeththu"
+  author: "Storm Constantine"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 1890
+  title: "The Crown of Silence"
+  author: "Storm Constantine"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1891
+  title: "The Way of Light"
+  author: "Storm Constantine"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1892
+  title: "The Wraiths of Will and Pleasure"
+  author: "Storm Constantine"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 1893
+  title: "The Shades of Time and Memory"
+  author: "Storm Constantine"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 1894
+  title: "The Ghosts of Blood and Innocence"
+  author: "Storm Constantine"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 1895
+  title: "Sea Dragon Heir"
+  author: "Storm Constantine"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1896
+  title: "Echelon"
+  author: "Josh Conviser"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 1897
+  title: "Empyre"
+  author: "Josh Conviser"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 1898
+  title: "First Truth"
+  author: "Dawn Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1899
+  title: "Hidden Truth"
+  author: "Dawn Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1900
+  title: "Forgotten Truth"
+  author: "Dawn Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1901
+  title: "Lost Truth"
+  author: "Dawn Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1902
+  title: "The Decoy Princess"
+  author: "Dawn Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1903
+  title: "Princess at Sea"
+  author: "Dawn Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 1914
+  title: "The Tyranny of the Night"
+  author: "Glen Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1917
+  title: "Lord of the Silent Kingdom"
+  author: "Glen Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1918
+  title: "The Tower of Fear"
+  author: "Glen Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1923
+  title: "Surrender to the Will of the Night"
+  author: "Glen Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1929
+  title: "Working God's Mischief"
+  author: "Glen Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1932
+  title: "The Complete Instrumentalities of the Night Series"
+  author: "Glen Cook"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 1933
+  title: "Lies Weeping"
+  author: "Glen Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1934
+  title: "They Cry"
+  author: "Glen Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1935
+  title: "Wiz Combo II: Cursed and Consulted"
+  author: "Rick Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1936
+  title: "Wizard's Bane"
+  author: "Rick Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1937
+  title: "The Wizardry Compiled"
+  author: "Rick Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1938
+  title: "The Wiz Biz"
+  author: "Rick Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1939
+  title: "The Wizardry Quested"
+  author: "Rick Cook"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 1940
+  title: "Limbo System"
+  author: "Rick Cook"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 1941
+  title: "Mall Purchase Night"
+  author: "Rick Cook"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1942
+  title: "Secret Realms"
+  author: "Tom Cool"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1943
+  title: "Stay for a Spell"
+  author: "Amy Coombe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 1944
+  title: "The Dark Wizard Falls in Love"
+  author: "Amy Coombe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 1945
+  title: "Desdemona and the Deep"
+  author: "C. S. E. Cooney"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1946
+  title: "Dragons Jaw"
+  author: "Stephen Coonts"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1947
+  title: "Songs of the Earth"
+  author: "Elspeth Cooper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1948
+  title: "Trinity Rising"
+  author: "Elspeth Cooper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1949
+  title: "The Raven's Shadow"
+  author: "Elspeth Cooper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1950
+  title: "Season of Fear"
+  author: "Emily Cooper"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: housebound
+  note: ""
+- id: 1951
+  title: "1636: Seas of Fortune"
+  author: "Iver Cooper"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1952
+  title: "Taxpayers' Tea Party"
+  author: "Sharon Cooper"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1953
+  title: "Chaos and Consequences"
+  author: "Jason Cordova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 1954
+  title: "Dancing with Destruction"
+  author: "Jason Cordova"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1955
+  title: "Mountain of Fire"
+  author: "Jason Cordova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 1956
+  title: "To Tread Obsidian Shores"
+  author: "Jason Cordova"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 1957
+  title: "Chicks in Tank Tops"
+  author: "Jason Cordova"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1958
+  title: "Illusionary"
+  author: "Zoraida Cordova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1959
+  title: "Incendiary"
+  author: "Zoraida Cordova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 1971
+  title: "New James S. A. Corey Novella #2"
+  author: "James S. A. Corey"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""

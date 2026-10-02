@@ -1,0 +1,1314 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 1253
+  title: "Fireworks in the Rain"
+  author: "Steven Brust"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: secret-societies
+  note: ""
+- id: 1258
+  title: "Good Guys"
+  author: "Steven Brust"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: secret-societies
+  note: ""
+- id: 1263
+  title: "Farlander"
+  author: "Col Buchanan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
+- id: 1264
+  title: "Stands a Shadow"
+  author: "Col Buchanan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
+- id: 1265
+  title: "Breeze Felt at Moonrise"
+  author: "Lynn Buchanan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: birthright-magic
+  note: ""
+- id: 1266
+  title: "The Dollmakers"
+  author: "Lynn Buchanan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: birthright-magic
+  note: ""
+- id: 1267
+  title: "Lies of Descent"
+  author: "Troy Carrol Bucher"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mythic-power-struggle
+  note: ""
+- id: 1268
+  title: "Crache"
+  author: "Mark Budz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: climate-displacement
+  note: ""
+- id: 1269
+  title: "Idolon"
+  author: "Mark Budz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: climate-displacement
+  note: ""
+- id: 1270
+  title: "Clade"
+  author: "Mark Budz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: climate-displacement
+  note: ""
+- id: 1271
+  title: "Till Human Voices Wake Us"
+  author: "Mark Budz"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: climate-displacement
+  note: ""
+- id: 1272
+  title: "Those Across the River"
+  author: "Christopher Buehlman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: folk-horror
+  note: ""
+- id: 1273
+  title: "The Thrice-Bound Fool"
+  author: "Christopher Buehlman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogues-abroad
+  note: ""
+- id: 1291
+  title: "Bone Dance"
+  author: "Emma Bull"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: neural-fiction
+  note: ""
+- id: 1292
+  title: "The Inn at the Foot of Mount Vengeance"
+  author: "Chiara Bullen"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: cozy-fantasy
+  note: ""
+- id: 1293
+  title: "The Enterprise of Death"
+  author: "Jesse Bullington"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 1294
+  title: "The Folly of the World"
+  author: "Jesse Bullington"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 1295
+  title: "The Sad Tale of the Brothers Grossbart"
+  author: "Jesse Bullington"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 1302
+  title: "A House Like an Accordion"
+  author: "Audrey Burges"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sensory-magic-realism
+  note: ""
+- id: 1303
+  title: "Contains Multitudes"
+  author: "Ben Burgis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alien-arrival
+  note: ""
+- id: 1304
+  title: "The Ashes of Around Twenty-Three Strangers"
+  author: "Jeremy Packert Burke"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1306
+  title: "Immunity Index"
+  author: "Sue Burke"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: post-pandemic-survival
+  note: ""
+- id: 1308
+  title: "Bloodtide"
+  author: "Sophie Burnham"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "rome"
+  confidence: low
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 1310
+  title: "Aftermath"
+  author: "LeVar Burton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 1311
+  title: "Children of Enchantment"
+  author: "Anne Kelleher Bush"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1312
+  title: "The Knight, the Harp, and the Maiden"
+  author: "Anne Kelleher Bush"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1313
+  title: "Dead Man's Hand"
+  author: "James J. Butcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 1314
+  title: "Long Past Dues"
+  author: "James J. Butcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 1315
+  title: "Cold Iron Task"
+  author: "James J. Butcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 1316
+  title: "Grim Folk Tale"
+  author: "James J. Butcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: badge-and-bounty
+  note: ""
+- id: 1319
+  title: "Side Jobs"
+  author: "Jim Butcher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1320
+  title: "Brief Cases"
+  author: "Jim Butcher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1324
+  title: "Twelve Months"
+  author: "Jim Butcher"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 1328
+  title: "The Cunning Man"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 1329
+  title: "Abbott in Darkness"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 1330
+  title: "Among the Gray Lords"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 1331
+  title: "In the Palace of Shadow and Joy"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 1332
+  title: "Serpent Daughter"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-flintlock-fantasy
+  note: ""
+- id: 1333
+  title: "The Familiar Spirit"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 1334
+  title: "The Jupiter Knife"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: weird-west-fantasy
+  note: ""
+- id: 1335
+  title: "Between Princesses and Other Jobs"
+  author: "D.J. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 1336
+  title: "Bloodchild and Other Stories"
+  author: "Octavia E. Butler"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1346
+  title: "Reiffen's Choice"
+  author: "S. C. Butler"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: royal-house-quests
+  note: ""
+- id: 1347
+  title: "Feral Creatures"
+  author: "Kira Jane Buxton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: post-nuclear-survival
+  note: ""
+- id: 1348
+  title: "Traumphysik"
+  author: "Monica Byrne"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1349
+  title: "The Christmas Show"
+  author: "Pat Cadigan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1350
+  title: "AI and the Trolley Problem"
+  author: "Pat Cadigan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1351
+  title: "Fools"
+  author: "Pat Cadigan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: remade-minds
+  note: ""
+- id: 1353
+  title: "The Angel's Share"
+  author: "Martin Cahill"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1354
+  title: "With Only a Razor Between"
+  author: "Martin Cahill"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: empire-successions
+  note: ""
+- id: 1355
+  title: "Chicks Kick Butt"
+  author: "Rachel Caine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1356
+  title: "All-Action Classics: The Wizard of Oz"
+  author: "Ben Caldwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1357
+  title: "Master Artificer"
+  author: "Justin Call"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 1358
+  title: "Master of Sorrows"
+  author: "Justin Call"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1359
+  title: "King of the Rising"
+  author: "Kacen Callender"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
+- id: 1360
+  title: "Queen of the Conquered"
+  author: "Kacen Callender"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: insurgent-fantasy
+  note: ""
+- id: 1365
+  title: "The Day Before Forever"
+  author: "Anna Caltabiano"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "time-romance"
+  confidence: moderate
+  source: web
+  decision: time-crossroads
+  note: ""
+- id: 1366
+  title: "The Seventh Miss Hatfield"
+  author: "Anna Caltabiano"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "time-romance"
+  confidence: moderate
+  source: web
+  decision: time-crossroads
+  note: ""
+- id: 1367
+  title: "The Time of the Clockmaker"
+  author: "Anna Caltabiano"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "time-romance"
+  confidence: moderate
+  source: web
+  decision: time-crossroads
+  note: ""
+- id: 1368
+  title: "Arkad's World"
+  author: "James L. Cambias"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 1369
+  title: "The Initiate"
+  author: "James L. Cambias"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 1370
+  title: "The Godel Operation"
+  author: "James L. Cambias"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1371
+  title: "The Ishtar Deception"
+  author: "James L. Cambias"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1372
+  title: "The Scarab Mission"
+  author: "James L. Cambias"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 1373
+  title: "Against All Gods"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mythic-power-struggle
+  note: ""
+- id: 1374
+  title: "Artifact Space"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-captains
+  note: ""
+- id: 1375
+  title: "Breaking Hel"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mythic-power-struggle
+  note: ""
+- id: 1379
+  title: "Deep Black"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-captains
+  note: ""
+- id: 1380
+  title: "Soulstealer"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: apprentices-and-schools
+  note: ""
+- id: 1381
+  title: "Storming Heaven"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mythic-power-struggle
+  note: ""
+- id: 1384
+  title: "The Fall of Dragons: Booktrack Edition"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1388
+  title: "Whalesong"
+  author: "Miles Cameron"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ship-captains
+  note: ""
+- id: 1397
+  title: "The Outcast Mage"
+  author: "Annabel Campbell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1398
+  title: "The Void Dragon"
+  author: "Annabel Campbell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1399
+  title: "Heartwood"
+  author: "Barbara Campbell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1400
+  title: "Bloodstone"
+  author: "Barbara Campbell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1401
+  title: "Foxfire"
+  author: "Barbara Campbell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1420
+  title: "In Our Stars"
+  author: "Jack Campbell"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: far-future-first-contact
+  note: ""
+- id: 1421
+  title: "Destiny's Way"
+  author: "Jack Campbell"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: far-future-first-contact
+  note: ""
+- id: 1422
+  title: "The High Lonesome Frontier"
+  author: "Rebecca Campbell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1435
+  title: "The Archive Undying"
+  author: "Emma Mieko Candon"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-dystopias
+  note: ""
+- id: 1436
+  title: "Future on Fire"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1437
+  title: "The Changed Man"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1438
+  title: "The Worthing Saga"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 1439
+  title: "Monkey Sonatas"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1445
+  title: "Future on Ice"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1446
+  title: "Lovelock"
+  author: "Orson Scott Card"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: genetic-engineering
+  note: ""
+- id: 1448
+  title: "The Folk of the Fringe"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1449
+  title: "Songmaster"
+  author: "Orson Scott Card"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: visionary-minds
+  note: ""
+- id: 1450
+  title: "Hart's Hope"
+  author: "Orson Scott Card"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 1452
+  title: "Wyrms"
+  author: "Orson Scott Card"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 1453
+  title: "Maps in a Mirror"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1455
+  title: "The Dragon Quintet"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1456
+  title: "Magic Street"
+  author: "Orson Scott Card"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hometown-of-marvels
+  note: ""
+- id: 1458
+  title: "Treason"
+  author: "Orson Scott Card"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 1461
+  title: "Keeper of Dreams"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1463
+  title: "Invasive Procedures"
+  author: "Orson Scott Card"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: technothriller
+  note: ""
+- id: 1465
+  title: "Cruel Miracles"
+  author: "Orson Scott Card"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1495
+  title: "Starless"
+  author: "Jacqueline Carey"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1498
+  title: "Saints Astray"
+  author: "Jacqueline Carey"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: walled-in-survivors
+  note: ""
+- id: 1499
+  title: "Santa Olivia"
+  author: "Jacqueline Carey"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: walled-in-survivors
+  note: ""

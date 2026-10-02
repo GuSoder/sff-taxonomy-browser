@@ -62,7 +62,7 @@ C|Feersum Endjinn|441|terminal-wastelands|v3
 C|City at the End of Time|611|cosmic-catastrophe|v3
 C|Transition|443|multiverse-odyssey|v3
 C|Light as a Feather|11|paranormal-fantasy|v3
-C|Olga Petrovic / Celia Graves|50,58|paranormal-bricks|v3
+C|Olga Petrovic / Celia Graves|50,58|among-the-living|v3
 C|D'neeran telepath books|69,70|psionics|v3
 C|Pact and Pattern|80,81|reincarnation-sagas|v3
 C|If You Could See Me Now|93|the-comforting-dead|v3
@@ -97,7 +97,7 @@ C|Uncharted|168|american-forks|v3
 C|Wake the Dragon|169,170,171|destiny-quest-fantasy|v3
 C|To Outlive Eternity|174|future-history-in-space|v3
 C|Your Blood My Bones|204|housebound|v3
-C|Alphas|221|birthright-magic|v3
+C|Alphas|221|psionics|v3
 C|This Kingdom Will Not Kill Me|226|transporting-tomes|v3
 C|Slender Man|237|cryptid-horror|v3
 C|Geodyssey|253|reincarnation-fiction|v3
@@ -125,7 +125,7 @@ C|Three Days in April|324|genetic-engineering|v3
 C|Garden of Empire|326|mages-at-war|v3
 C|For King and Country|339|time-agency-revival|v3
 C|E. Godz|340|comic-fantasy-realms|v3
-C|Dragons Wild|341,342|paranormal-bricks|v3
+C|Dragons Wild|341,342|hidden-worlds-beside-ours|v3
 C|Second Contact|359|comic-capers|v3
 C|Beautiful Land|388|multiverse-odyssey|v3
 C|Thorns We Wear Inside|389|insurgent-fantasy|v3
@@ -166,3 +166,314 @@ C|Behemoth|562|animal-fantasy|v3
 C|Fortress Sol|563|space-dystopias|v3
 C|Galaxias|564|alien-cosmic-history|v3
 C|Innkeeper's Song|578|revisionist-quest-fantasy|v3
+C|Carnival|582|xenocolonial|v3
+C|Undertow|584|settled-other-stars|v3
+C|Tempering of Men|592|viking-fantasy|v3
+C|Red Mother|603|folk-horror|v3
+C|Jacob's Ladder|605,606,607|ships-on-course|v3
+C|Slant|612|revolutionary-cyberpunk|v3
+C|Unfinished Land|620|fairytalesque-quest-fantasy|v3
+C|Mother of Rome|623|troy-and-after|v3
+C|The Councillor|625|court-statecraft|v3
+C|Burning Light|628|drowned-worlds|v3
+C|Dragons of Deepwood Fen|637|rogues-abroad|v3
+C|Genesis|640|thought-experiments|v3
+C|Amber Crown|644|succession-wars|v3
+C|Kavithri|645,646|city-thieves|v3
+C|Brotherhood of the Wheel|651,653|hidden-hands|v3
+C|Golgotha|652|weird-west-fantasy|v3
+C|Nightwise|654|occult-city|v3
+C|Jasmyn|655|fairytale-transplant|v3
+C|Ninth Circle|656|demonic-torment|v3
+C|White Octopus Hotel|657|time-loops|v3
+C|Fortune Pearl|658|fantastic-voyage|v3
+C|Mojo and the Pickle Jar|659|earthly-comic-fantasy|v3
+C|Absynthe|660|psionics|v3
+C|Sylvie Lightner|661,663,664|badge-and-bounty|v3
+C|Ghosts and Echoes|662|ghost-speakers|v3
+C|Glorious|672|techno-fiction-in-space|v3
+C|Beyond Infinity|674|future-history-of-earth|v3
+C|Fire Power|679|dragons-and-courts|v3
+C|Seven Brothers|680,681,682,683|royal-house-quests|v3
+C|Only Superhuman|684|superhero-fiction|v3
+C|Ben Garston|689,690,691|hidden-worlds-beside-ours|v3
+C|His Father's Son|692|vampire-pasts|v3
+C|Vigilance|694|bread-and-circus-dystopias|v3
+C|A Trade of Blood|695|fantasy-mystery|v3
+C|American Elsewhere|696|hidden-worlds-beside-ours|v3
+C|Company Man|697|alt-diesel-fantasy|v3
+C|The Troupe|698|circus-in-gaslight|v3
+C|Books of Raziel|711,712,713|angel-fantasy|v3
+C|Song of the Beast|717|mages-with-burdens|v3
+C|Dissension|718|dystopian-rebellion|v3
+C|Regeneration|719|walled-in-survivors|v3
+C|River of Souls|723|court-spies|v3
+C|The Naming Song|726|invented-mythology|v3
+C|Kill All Wizards|727|comic-fantasy-realms|v3
+C|Stonewylde|728,729,730,731,732|found-magic|v3
+C|Dragonlord|734,735,736|court-statecraft|v3
+C|Breakwater|737|cryptid-horror|v3
+C|Witch Daughter|742|khayal|v3
+C|Petra Dee|743,744,745,746,747|hidden-worlds-beside-ours|v3
+C|Holo Men|748|metaverse|v3
+C|Wanderer's Tale|749,750|dark-quest-fantasy|v3
+C|Angels of Vengeance|756|postwar-turns|v3
+C|Tir Alainn|764,765,767|fae-in-the-hills|v3
+C|Ephemera|768,769,771,770|invented-mythology|v3
+C|The Others|772,773,774,775,776,777,778,779|civilian-monster-life|v3
+C|Bishop Arcana|781,782|badge-and-bounty|v3
+C|Etched City|783|new-weird|v3
+C|Transfigurations|784|hard-alien|v3
+C|Toby Bishop winged horses|785,786,787|wings-and-gryphons|v3
+C|Immortality Bites|794,795|among-the-living|v3
+C|Thief of Night|796|hidden-worlds-beside-ours|v3
+C|Tamarack dragons|810|wings-and-gryphons|v3
+C|Eric Carter|811,812,813,814,815,816,817,818,819|mediums-for-hire|v3
+
++C|Eric Carter|820|mediums-for-hire|v3
+C|Masks of Aygrima|825,826,827|insurgent-fantasy|v3
+C|Thirstwood|828,832,833|rivals-and-enemies|v3
+C|Masters of Death|835|occult-bloodline|v3
+C|One for My Enemy|836|occult-bloodline|v3
+C|Gifted and Talented|840|secret-societies|v3
+C|Clean Air|841|climate-breakdown|v3
+C|Knights of the Cornerstone|843|arthur-returned|v3
+C|Confluence Academy|861,862|apprentices-and-schools|v3
+C|Longer|863|thought-experiments|v3
+C|Fireheart Tiger|865|rivals-and-enemies|v3
+C|Navigational Entanglements|866|space-romance|v3
+C|Witch Hunter|868,869|tudorbethan-fantasy|v3
+C|Magic Time|874|post-society|v3
+C|Chronicles of Amicae|875,876,877|mages-at-war|v3
+C|Maddileh|878,879|swordswomen|v3
+C|The Frame-Up|880|hometown-of-marvels|v3
+C|Saving Hamlet|895|time-bleeds|v3
+C|Evaluation|902|litrpg|v3
+C|Aicha|903|rococo-fantasy|v3
+C|Bova thrillers|913,914,918,920,932,939|technothriller|v3
+C|The Return|921|alien-expedition|v3
+C|Winds of Altair|923|xenocolonial|v3
+C|Battle Station|927|space-command|v3
+C|Grand Tour|929,931,933|stations-and-the-belt|v3
+C|Farside|941|mars-and-luna|v3
+C|To Fear the Light|935|cosmic-catastrophe|v3
+C|Grand Tour 2|942,949,929|stations-and-the-belt|v3
+C|Voyagers/New Earth|943,953|alien-expedition|v3
+C|Rescue Mode|946,960|technothriller|v3
+C|Transhuman|947|altered-flesh|v3
+C|Cyberbooks|948|near-future-society|v3
+C|Survival (Bova)|955|post-pandemic-survival|v3
+C|Gremlins Go Home|959|comic-capers|v3
+C|Thief and Traitor Bride|964|rogues-abroad|v3
+C|Prison Ship|977|ship-captains|v3
+C|Sleep Walking Now and Then|978|ontological-magic-realism|v3
+C|Tower of Shadows|979|dark-quest-fantasy|v3
+C|Razia Khan|980,981|swordswomen|v3
+C|Ariel|982|werewolf-fantasy|v3
+C|Elegy Beach|983|post-society|v3
+C|Bradbury novels|985,986|dark-magical-realism|v3
+C|Chris Bradford|989,990,991,992,993|metaverse|v3
+C|Noise|994|post-society|v3
+C|MZB Light series|1001,1002,1009,1010|found-magic|v3
+C|Fall of Atlantis|1003|biblical-fantasy|v3
+C|Brandon|1014,1015|celtic-fantasy|v3
+C|San Angeles|1016,1017,1018|revolutionary-cyberpunk|v3
+C|Quantum Empirica|1019,1020,1021|extra-dimensional-awareness|v3
+C|Branham|1022,1023|space-romance|v3
+C|Devlin|1025,1026,1028|farm-boy-fellowships|v3
+C|Josan|1027,1029,1030|mages-with-burdens|v3
+C|Fox Hunt|1031|campus-and-coven|v3
+C|Brenchley|1032,1033|empire-successions|v3
+C|All Hail Chaos|1047|transporting-tomes|v3
+C|Time and Chance|1049|time-strays|v3
+C|Nightfall Saga|1051,1057,1058|dark-quest-fantasy|v3
+C|Necromantic|1059,1060|rivals-and-enemies|v3
+C|Sianim|1061,1062|sellsword-fellowships|v3
+C|Hob's Bargain|1063|fairytalesque-quest-fantasy|v3
+C|Hurog|1064,1065|young-courtiers|v3
+C|Raven|1066,1067|mages-with-burdens|v3
+C|Aralorn|1074,1075|swordswomen|v3
+C|Library of Lost Things|1099|transporting-tomes|v3
+C|Hawkweed|1100|birthright-magic|v3
+C|Destroyer of Light|1101|post-society|v3
+C|Arcane Archives|1104|witches-and-libraries|v3
+C|Sunken Land|1105|folk-horror|v3
++C|Green Rider|1115,1116|chosen-heirs|v3
+C|Poppy Z Brite|1117,1118|vampire-fringe|v3
+C|Buffalo Soldier|1130|frontier-steam|v3
+C|Sweep of Stars|1131,1132|revolutionary-space-opera|v3
+C|Unnoticeables|1141|hidden-hands|v3
+C|Krampus|1147|modern-invented-myth|v3
+C|Places in the Darkness|1151|stations-and-the-belt|v3
+C|Fae in Finance|1152,1153|domestic-fantasy|v3
+C|Landover|1186,1189,1190|doors-to-other-worlds|v3
+C|Child of Light|1210,1211,1212|hidden-worlds-beside-ours|v3
+C|Galaphile|1213,1214|wars-of-wizards|v3
+C|Star Dragon|1215|ships-on-course|v3
+C|Spider Star|1216|xenocolonial|v3
+C|By Divine Rage|1225|rivals-and-enemies|v3
+C|Camilla Bruce|1227,1228|unholy-halls|v3
+C|Shockwave Rider|1229|algorithmic-surveillance-dystopias|v3
+C|The Gypsy|1238|occult-police-fiction|v3
+C|Brokedown Palace|1239|fairytale-inversion|v3
+C|Incrementalists|1253,1258|secret-societies|v3
+C|Heart of the World|1263,1264|insurgent-fantasy|v3
+C|Buchanan|1265,1266|birthright-magic|v3
+C|Lies of Descent|1267|mythic-power-struggle|v3
+C|Budz|1268,1269,1270,1271|climate-displacement|v3
+C|Those Across the River|1272|folk-horror|v3
+C|Thrice-Bound Fool|1273|rogues-abroad|v3
+C|Bone Dance|1291|neural-fiction|v3
+C|Inn at Mount Venge|1292|cozy-fantasy|v3
+C|Bullington|1293,1294,1295|dark-realms|v3
+C|House Like an Accordion|1302|sensory-magic-realism|v3
+C|Contains Multitudes|1303|alien-arrival|v3
+C|Immunity Index|1306|post-pandemic-survival|v3
+C|Bloodtide|1308|alt-prewar|v3
+C|Aftermath|1310|alt-postwar|v3
+C|Kelleher|1311,1312|farm-boy-fellowships|v3
+C|Dead Man's Hand|1313,1314,1315,1316|badge-and-bounty|v3
+C|Dresden Twelve Months|1324|city-underworlds|v3
+C|Cunning Man|1328,1333,1334|weird-west-fantasy|v3
+C|Abbott in Darkness|1329|stations-and-the-belt|v3
+C|Among the Gray Lords|1330|dying-earth|v3
+C|Indrajit and Fix|1331,1335|comic-fantasy-realms|v3
+C|Witchy War|1332|alt-flintlock-fantasy|v3
+C|Reiffen's Choice|1346|royal-house-quests|v3
+C|Feral Creatures|1347|post-nuclear-survival|v3
+C|Fools|1351|remade-minds|v3
+C|With Only a Razor Between|1354|empire-successions|v3
+C|Master Artificer|1357|apprentices-and-schools|v3
+C|Master of Sorrows|1358|mages-with-burdens|v3
+C|Islands of Blood and Storm|1359,1360|insurgent-fantasy|v3
+C|Hatfield|1365,1366,1367|time-crossroads|v3
+C|Billion Worlds 1|1368,1369|settled-other-stars|v3
+C|Billion Worlds 2|1370,1371,1372|wanderers-and-fixers|v3
+C|Age of Bronze|1373,1375,1381|mythic-power-struggle|v3
+C|Arcana Imperii|1374,1379,1388|ship-captains|v3
+C|Soulstealer|1380|apprentices-and-schools|v3
+C|Fall of Dragons|1384|wars-of-wizards|v3
+C|Outcast Mage|1397,1398|mages-with-burdens|v3
+C|Campbell Darak|1399,1400,1401|farm-boy-fellowships|v3
+C|Doomed Earth|1420,1421|far-future-first-contact|v3
+C|Archive Undying|1435|space-dystopias|v3
+C|Lovelock|1446|genetic-engineering|v3
+C|Songmaster|1449|visionary-minds|v3
+C|Hart's Hope|1450|dark-realms|v3
+C|Wyrms|1452|xenocolonial|v3
+C|Magic Street|1456|hometown-of-marvels|v3
+C|Treason|1458|settled-other-stars|v3
+C|Invasive Procedures|1463|technothriller|v3
+C|Starless|1495|chosen-heirs|v3
+C|Santa Olivia|1498,1499|walled-in-survivors|v3
+C|City of Silk and Steel|1500|courts-and-courtesans|v3
+C|House of War and Witness|1501|war-gothic|v3
+C|Fellside|1505|haunted-institutions-and-voices|v3
+C|Orpheus|1506|settled-other-stars|v3
+C|Someone Like Me|1507|domestic-fantasy|v3
+C|Dreams and Shadows|1520,1521|perilous-fairy-doors|v3
+C|Antasy|1532,1533|animal-fantasy|v3
++C|Antasy|1534|animal-fantasy|v3
+C|Shadows That Listen|1537|angel-fantasy|v3
+C|Sorayan|1538,1539|royal-house-quests|v3
+C|Killing Time|1541|classic-social-dystopias|v3
++C|Ring of Fire (1632)|1549,1550,1551,1554|whole-towns-and-lives-displaced|v3
+C|Dragon's Boy|1552,1553|apprentices-and-schools|v3
+C|Black Swan Rising|1573,1574,1575|secret-societies|v3
+C|Swords and Fire|1584,1585|court-statecraft|v3
+C|Rooks and Ruin|1581|mages-at-war|v3
+C|Echo Archives|1582,1583|rogues-abroad|v3
+C|Meq|1589,1590,1591|hidden-worlds-beside-ours|v3
+C|Siren Mage|1592,1593|rivals-and-enemies|v3
+C|Long Night Looms|1594|doomed-lands|v3
+C|Haunting of Alejandra|1606|vengeful-spirits|v3
+C|Immortal Pleasures|1607|among-the-living|v3
+C|Sunken Archive|1608|apprentices-and-schools|v3
+C|Clockwork Dagger|1617|victorian-steam|v3
+C|Realms in Peril|1618,1619|rivals-and-enemies|v3
+C|Retrograde|1620,1621|mars-and-luna|v3
+C|Chaos of Luck|1622|mars-and-luna|v3
+C|Rule of Luck|1623|future-social-sf|v3
+C|Mercy House|1624|housebound|v3
+C|Sasha Naradnyo|1627,1629|crooks-and-cons|v3
+C|Forever Engine|1628|time-bleeds|v3
+C|Ship of Destiny|1631|alien-expedition|v3
+C|Exodus Ark|1633,1634|ships-on-course|v3
+C|Amina al-Sirafi|1636|rogues-abroad|v3
+C|Well World|1637,1638|hard-science-fantasy|v3
+C|Kaspar's Box|1639|relics-under-study|v3
+C|Sea Is Full of Stars|1640|ship-captains|v3
+C|Chambers|1646,1647|alien-expedition|v3
+C|Hope's War|1648,1649|dark-quest-fantasy|v3
+C|Dragon's Eye|1650|settled-other-stars|v3
+C|Drowned World|1651,1652,1653|cities-and-masks-in-revolt|v3
+C|Wicked Gods|1669,1670|shenmo|v3
+C|Nightblood Prince|1671|rivals-and-enemies|v3
+C|A Shadow All of Light|1672|sensory-magic-realism|v3
+C|Riddlers of the Thorn Wood|1673|city-thieves|v3
+C|Of Sorcery and Science|1679|doors-to-other-worlds|v3
+C|Seat of Magic|1681|emancipation-fantasy|v3
+C|Golden City|1682|faeries-in-gaslight|v3
+C|Bright Heart|1683,1684|xuanhuan|v3
+C|Forge of Heaven|1685|xenocolonial|v3
+C|Fortress|1686,1687,1688|wars-of-wizards|v3
+C|The Paladin|1699|hard-swords|v3
+C|Rider at the Gate|1706,1710|heralds-and-companions|v3
+C|Ink Witch|1712|witches-and-libraries|v3
+C|Chester royal court|1713,1714,1715|thrones-under-threat|v3
+C|Chiles near-future|1716,1717|mars-and-luna|v3
+C|Frozen Orbit|1718,1721|stations-and-the-belt|v3
+C|Interstellar Medic|1719,1720|wanderers-and-fixers|v3
+C|Escape Orbit|1722|alien-arrival|v3
+C|Order of the Pure Moon|1735|wuxia|v3
+C|Strange Familiars|1736,1737|hidden-worlds-beside-ours|v3
+C|Wolf's Empire|1739|space-marines|v3
+C|Splintegrate|1740|neural-fiction|v3
+C|Cold War (Spider War)|1742|war-across-worlds|v3
+C|Burning Dark|1743|alien-horror|v3
+C|Machine Awakes|1745|robot-lineages-and-revolts|v3
+C|Ray Electromatic|1747|androids|v3
+C|Strider|1753,1754|wanderers-and-fixers|v3
+C|Iskari|1759,1760,1761|dragons-and-courts|v3
+C|Finna|1763,1764|whimsical-doors|v3
+C|Sazi|1766,1767,1768|packs-and-courts|v3
+C|Sword Catcher|1769,1770|succession-wars|v3
+C|LJ Claren|1771,1772,1773|rivals-and-enemies|v3
+C|Fate's Bane|1775|succession-wars|v3
+C|The Silence|1777,1778,1779|fleet-wars|v3
+C|Black God's Drums|1783|alt-civil-war|v3
+C|Adventurers Guild|1785,1786,1787|farm-boy-fellowships|v3
+C|Last Theorem|1791|alien-arrival|v3
+C|Light of Other Days|1792|near-future-society|v3
+C|Clarke moon|1793,1795|mars-and-luna|v3
+C|Imperial Earth|1797|stations-and-the-belt|v3
+C|Ghost from Grand Banks|1801|relics-under-study|v3
+C|Shadith|1804,1805,1806|wanderers-and-fixers|v3
+C|Black Leviathan|1807|continental-steam|v3
+C|Wit'ch Fire|1808|chosen-heirs|v3
+C|Wit'ch|1809,1810,1811,1812|chosen-heirs|v3
+C|Godslayer Chronicles|1813,1814|wars-of-wizards|v3
+C|Hal Clement|1816,1818|stations-and-the-belt|v3
+C|Stations of the Tide|1821|xenocolonial|v3
+C|Humanity's Fire|1826,1827,1828|fleet-wars|v3
+C|Justis Fearsson|1829,1830,1831|packs-and-courts|v3
+C|Divine Traitors|1845,1846|dragons-and-courts|v3
+C|Man-Kzin|1858,1859|fleet-wars|v3
+C|Vor|1860|space-marines|v3
+C|Tale of Magic|1863,1864,1865|farm-boy-fellowships|v3
+C|And Another Thing|1869|wanderers-and-fixers|v3
+C|Wraeththu|1889,1892,1893,1894|neural-fiction|v3
+C|Constantine fantasy|1890,1891,1895|thrones-under-threat|v3
+C|Echelon|1896,1897|near-future-society|v3
+C|Truth series|1898,1899,1900,1901|chosen-heirs|v3
+C|Contessa|1902,1903|thrones-under-threat|v3
+C|Instrumentalities of the Night|1914,1917,1918,1923,1929|wars-of-wizards|v3
+C|Black Company|1933,1934|wars-of-wizards|v3
+C|Wizardry|1935,1936,1937,1938,1939|whimsical-doors|v3
+C|Limbo System|1940|alien-arrival|v3
+C|Coombe|1943,1944|witches-and-libraries|v3
+C|Wild Hunt|1947,1948,1949|chosen-heirs|v3
+C|Season of Fear|1950|housebound|v3
+C|Chaos and Consequences|1953|alien-arrival|v3
+C|Cordova|1955,1956|alien-arrival|v3
+C|Illusionary|1958,1959|dragons-and-courts|v3

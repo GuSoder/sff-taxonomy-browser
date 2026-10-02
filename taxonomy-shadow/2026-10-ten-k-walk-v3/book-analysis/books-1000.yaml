@@ -1,0 +1,1379 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 1001
+  title: "Gravelight"
+  author: "Marion Zimmer Bradley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 1002
+  title: "Heartlight"
+  author: "Marion Zimmer Bradley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 1003
+  title: "The Fall of Atlantis"
+  author: "Marion Zimmer Bradley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "atlantis"
+  confidence: moderate
+  source: web
+  decision: biblical-fantasy
+  note: ""
+- id: 1009
+  title: "Ghostlight"
+  author: "Marion Zimmer Bradley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 1010
+  title: "Witchlight"
+  author: "Marion Zimmer Bradley"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: found-magic
+  note: ""
+- id: 1014
+  title: "The Wild Reel"
+  author: "Paul Brandon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: celtic-fantasy
+  note: ""
+- id: 1015
+  title: "Swim the Moon"
+  author: "Paul Brandon"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: celtic-fantasy
+  note: ""
+- id: 1016
+  title: "The Courier"
+  author: "Gerald Brandt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 1017
+  title: "The Operative"
+  author: "Gerald Brandt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 1018
+  title: "The Rebel"
+  author: "Gerald Brandt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-cyberpunk
+  note: ""
+- id: 1019
+  title: "Threader Origins"
+  author: "Gerald Brandt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: extra-dimensional-awareness
+  note: ""
+- id: 1020
+  title: "Threader God"
+  author: "Gerald Brandt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: extra-dimensional-awareness
+  note: ""
+- id: 1021
+  title: "Threader War"
+  author: "Gerald Brandt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: extra-dimensional-awareness
+  note: ""
+- id: 1022
+  title: "Love Galaxy"
+  author: "Sierra Branham"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-romance
+  note: ""
+- id: 1023
+  title: "Nebula Rising"
+  author: "Sierra Branham"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: space-romance
+  note: ""
+- id: 1024
+  title: "The Glitter Trap"
+  author: "Barbara Brauner"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1025
+  title: "Devlin's Luck"
+  author: "Patricia Bray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1026
+  title: "Devlin's Justice"
+  author: "Patricia Bray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1027
+  title: "The First Betrayal"
+  author: "Patricia Bray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1028
+  title: "Devlin's Honor"
+  author: "Patricia Bray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: farm-boy-fellowships
+  note: ""
+- id: 1029
+  title: "The Sea Change"
+  author: "Patricia Bray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1030
+  title: "The Final Sacrifice"
+  author: "Patricia Bray"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1031
+  title: "The Fox Hunt"
+  author: "Caitlin Breeze"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 1032
+  title: "Bridge of Dreams"
+  author: "Chaz Brenchley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: empire-successions
+  note: ""
+- id: 1033
+  title: "River of the World"
+  author: "Chaz Brenchley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: empire-successions
+  note: ""
+- id: 1034
+  title: "The Station of the Twelfth"
+  author: "Chaz Brenchley"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1047
+  title: "All Hail Chaos"
+  author: "Sarah Rees Brennan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: transporting-tomes
+  note: ""
+- id: 1049
+  title: "Time And Chance"
+  author: "Alan Brennert"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-strays
+  note: ""
+- id: 1050
+  title: "Barren"
+  author: "Peter V Brett"
+  form: x
+  has_magic: collection
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1051
+  title: "The Desert Prince"
+  author: "Peter V. Brett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "demons"
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
+  note: ""
+- id: 1057
+  title: "The Hidden Queen"
+  author: "Peter V. Brett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "demons"
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
+  note: ""
+- id: 1058
+  title: "The Demon King"
+  author: "Peter V. Brett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "demons"
+  confidence: moderate
+  source: web
+  decision: dark-quest-fantasy
+  note: ""
+- id: 1059
+  title: "Hopeless Necromantic"
+  author: "Shiloh Briar"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1060
+  title: "Necromantic Getaway"
+  author: "Shiloh Briar"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1061
+  title: "Steal the Dragon"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 1062
+  title: "When Demons Walk"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sellsword-fellowships
+  note: ""
+- id: 1063
+  title: "The Hob's Bargain"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fairytalesque-quest-fantasy
+  note: ""
+- id: 1064
+  title: "Dragon Blood"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 1065
+  title: "Dragon Bones"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 1066
+  title: "Raven's Shadow"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1067
+  title: "Raven's Strike"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: mages-with-burdens
+  note: ""
+- id: 1074
+  title: "Masques"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 1075
+  title: "Wolfsbane"
+  author: "Patricia Briggs"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 1095
+  title: "The Ankh-Morpork Archives: Volume One"
+  author: "Stephen Briggs"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1096
+  title: "The Ankh-Morpork Archives: Volume Two"
+  author: "Stephen Briggs"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1097
+  title: "The Ultimate Discworld Companion"
+  author: "Stephen Briggs"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1098
+  title: "Turtle Recall"
+  author: "Stephen Briggs"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1099
+  title: "The Library of Lost Things"
+  author: "Matthew Bright"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: transporting-tomes
+  note: ""
+- id: 1100
+  title: "The Hawkweed Legacy"
+  author: "Irena Brignull"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: birthright-magic
+  note: ""
+- id: 1101
+  title: "Destroyer of Light"
+  author: "Jennifer Marie Brissett"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: post-society
+  note: ""
+- id: 1104
+  title: "The Arcane Archives"
+  author: "Great Britain"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 1105
+  title: "The Sunken Land Begins to Rise Again"
+  author: "Great Britain"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: folk-horror
+  note: ""
+- id: 1115
+  title: "Falling in a Sea of Stars"
+  author: "Kristen Britain"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1116
+  title: "The Last Sea King"
+  author: "Kristen Britain"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 1117
+  title: "Exquisite Corpse"
+  author: "Poppy Z Brite"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 1118
+  title: "Twice Bitten"
+  author: "Poppy Z Brite"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 1119
+  title: "Love in Vein"
+  author: "Poppy Z Britepoppy Z Brite"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1130
+  title: "Buffalo Soldier"
+  author: "Maurice Broaddus"
+  form: novella
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: frontier-steam
+  note: ""
+- id: 1131
+  title: "Breath of Oblivion"
+  author: "Maurice Broaddus"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-space-opera
+  note: ""
+- id: 1132
+  title: "A City Dreaming"
+  author: "Maurice Broaddus"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: revolutionary-space-opera
+  note: ""
+- id: 1141
+  title: "The Unnoticeables"
+  author: "Robert Brockway"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: horror
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-hands
+  note: ""
+- id: 1142
+  title: "The Ruined Queen of Harvest World"
+  author: "Damien Broderick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1147
+  title: "Krampus"
+  author: "Brom"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: modern-invented-myth
+  note: ""
+- id: 1150
+  title: "Spy Games"
+  author: "Adam Brookes"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1151
+  title: "Places in the Darkness"
+  author: "Chris Brookmyre"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 1152
+  title: "A Fae in Finance"
+  author: "Juliet Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: domestic-fantasy
+  note: ""
+- id: 1153
+  title: "A Mermaid in Marketing"
+  author: "Juliet Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: domestic-fantasy
+  note: ""
+- id: 1154
+  title: "The Zombie Survival Guide"
+  author: "Max Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1155
+  title: "The Zombie Survival Guide: Recorded Attacks"
+  author: "Max Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1156
+  title: "The Harlem Hellfighters"
+  author: "Max Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1157
+  title: "Field Trip"
+  author: "Molly Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1158
+  title: "Sanity & Tallulah"
+  author: "Molly Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1159
+  title: "Shortcuts"
+  author: "Molly Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1160
+  title: "Everything Interesting Keeps Happening to Ethan Fairmont"
+  author: "Nick Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1161
+  title: "Nothing Interesting Ever Happens to Ethan Fairmont"
+  author: "Nick Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1162
+  title: "Too Many Interesting Things Are Happening to Ethan Fairmont"
+  author: "Nick Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1176
+  title: "Indomitable"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1177
+  title: "Legends II"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1179
+  title: "Sometimes the Magic Works"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1183
+  title: "Dark Wraith of Shannara"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1186
+  title: "Tangle Box"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: doors-to-other-worlds
+  note: ""
+- id: 1188
+  title: "The World of Shannara"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 1189
+  title: "Witches' Brew"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: doors-to-other-worlds
+  note: ""
+- id: 1190
+  title: "A Princess of Landover"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: doors-to-other-worlds
+  note: ""
+- id: 1194
+  title: "Paladins of Shannara: Allanon's Quest (Short Story)"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1195
+  title: "The Annotated Sword of Shannara: 35th"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:DUPLICATE-EDITION-OF-SWORD-OF-SHANNARA
+  note: ""
+- id: 1198
+  title: "Paladins of Shannara: The Black Irix (Short Story)"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1199
+  title: "Paladins of Shannara: The Weapons Master's Choice (Short Story)"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1208
+  title: "Small Magic"
+  author: "Terry Brooks"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION
+  note: ""
+- id: 1210
+  title: "Child of Light"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1211
+  title: "Daughter of Darkness"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1212
+  title: "Sister of Starlit Seas"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 1213
+  title: "Galaphile"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1214
+  title: "Brona"
+  author: "Terry Brooks"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 1215
+  title: "Star Dragon"
+  author: "Mike Brotherton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 1216
+  title: "Spider Star"
+  author: "Mike Brotherton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: xenocolonial
+  note: ""
+- id: 1217
+  title: "The Chosen One"
+  author: "Echo Brown"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
+- id: 1219
+  title: "The Curious Garden"
+  author: "Peter Brown"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1225
+  title: "By Divine Rage"
+  author: "Roseanne A. Brown"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rivals-and-enemies
+  note: ""
+- id: 1226
+  title: "The Wizard of Oz"
+  author: "JaNay Brown-Wood"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 1227
+  title: "At the Bottom of the Garden"
+  author: "Camilla Bruce"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "gothic"
+  confidence: moderate
+  source: web
+  decision: unholy-halls
+  note: ""
+- id: 1228
+  title: "The Temptation of Charlotte North"
+  author: "Camilla Bruce"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "gothic"
+  confidence: moderate
+  source: web
+  decision: unholy-halls
+  note: ""
+- id: 1229
+  title: "The Shockwave Rider"
+  author: "John Brunner"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: algorithmic-surveillance-dystopias
+  note: ""
+- id: 1238
+  title: "The Gypsy"
+  author: "Steven Brust"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: occult-police-fiction
+  note: ""
+- id: 1239
+  title: "Brokedown Palace"
+  author: "Steven Brust"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fairytale-inversion
+  note: ""
+- id: 1241
+  title: "Freedom and Necessity"
+  author: "Steven Brust"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE-OR-NONFICTION
+  note: ""
