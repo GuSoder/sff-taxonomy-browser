@@ -1481,3 +1481,913 @@
   source: web
   decision: networks-and-cryptography
   note: ""
+- id: 9145
+  title: "Tatja Grimm's World"
+  author: "Vernor Vinge"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networks-and-cryptography
+  note: ""
+- id: 9146
+  title: "The Witling"
+  author: "Vernor Vinge"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networks-and-cryptography
+  note: ""
+- id: 9147
+  title: "After the Battle on Starship Hill"
+  author: "Vernor Vinge"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9148
+  title: "The Zones of Thought Series"
+  author: "Vernor Vinge"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9149
+  title: "Across Realtime"
+  author: "Vernor Vinge"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: networks-and-cryptography
+  note: ""
+- id: 9150
+  title: "Zones of Thought"
+  author: "Vernor Vinge"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 9151
+  title: "The First Binding"
+  author: "R.R. Virdi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: riders-and-wolfwalkers
+  note: ""
+- id: 9152
+  title: "The Doors of Midnight"
+  author: "R.R. Virdi"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: riders-and-wolfwalkers
+  note: ""
+- id: 9153
+  title: "The Empress of Salt and Fortune"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9154
+  title: "When the Tiger Came Down the Mountain"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9155
+  title: "The Chosen and the Beautiful"
+  author: "Nghi Vo"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: older-tale-retellings
+  note: ""
+- id: 9156
+  title: "Into the Riverlands"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9157
+  title: "Mammoths at the Gates"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9158
+  title: "On the Fox Roads"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9159
+  title: "The Brides of High Hill"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9160
+  title: "A Mouthful of Dust"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9161
+  title: "Don't Sleep with the Dead"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9162
+  title: "A Long and Speaking Silence"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9163
+  title: "The Scarlet Ball"
+  author: "Nghi Vo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9164
+  title: "The War Against the Rull"
+  author: "A. E. van Vogt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9165
+  title: "The World of Null-A"
+  author: "A. E. van Vogt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9166
+  title: "Transgalactic"
+  author: "A. E. Van Vogt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9167
+  title: "The Voyage of the Space Beagle"
+  author: "A.E. van Vogt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9168
+  title: "The Grand Ellipse"
+  author: "Paula Volsky"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wonder-machines
+  note: ""
+- id: 9169
+  title: "The Sirens Of Titan"
+  author: "Kurt Vonnegut"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crossfire-and-spin
+  note: ""
+- id: 9170
+  title: "Into the Burning Deep"
+  author: "J. M. Voris"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 9171
+  title: "Skin in the Game"
+  author: "Sabrina Vourvoulias"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9172
+  title: "The Ways of Walls and Words"
+  author: "Sabrina Vourvoulias"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9173
+  title: "Caller of Lightning"
+  author: "Peter J. Wacks"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: stonehenge-and-shadow-files
+  note: ""
+- id: 9174
+  title: "Colin Gets Promoted and Dooms the World"
+  author: "Mark Waddell"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-science-and-satire
+  note: ""
+- id: 9175
+  title: "Messy As Hell"
+  author: "Mark Waddell"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-science-and-satire
+  note: ""
+- id: 9182
+  title: "The Ghosts of Trappist"
+  author: "K B Wagers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9189
+  title: "Unnatural Magic"
+  author: "C. M. Waggoner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spell-house-witches
+  note: ""
+- id: 9190
+  title: "The Ruthless Lady's Guide to Wizardry"
+  author: "C. M. Waggoner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spell-house-witches
+  note: ""
+- id: 9191
+  title: "The Village Library Demon-Hunting Society"
+  author: "C. M. Waggoner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spell-house-witches
+  note: ""
+- id: 9192
+  title: "The Somewhat Wicked Witch of Brigandale"
+  author: "C. M. Waggoner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spell-house-witches
+  note: ""
+- id: 9193
+  title: "An Unnatural Life"
+  author: "Erin K. Wagner"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: servants-with-opinions
+  note: ""
+- id: 9194
+  title: "Mechanize My Hands to War"
+  author: "Erin K. Wagner"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: servants-with-opinions
+  note: ""
+- id: 9195
+  title: "Murder by Memory"
+  author: "Olivia Waite"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9196
+  title: "Nobody's Baby"
+  author: "Olivia Waite"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9197
+  title: "Out There"
+  author: "Ariel Waldman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 9198
+  title: "The Year of the Warrior"
+  author: "Lars Walker"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9199
+  title: "Blood and Judgement"
+  author: "Lars Walker"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9200
+  title: "Wolf Time"
+  author: "Lars Walker"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9201
+  title: "The Man in the Tree"
+  author: "Sage Walker"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: engineered-ecologies
+  note: ""
+- id: 9202
+  title: "Whiteout"
+  author: "Sage Walker"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: engineered-ecologies
+  note: ""
+- id: 9203
+  title: "A Stroke of Dumb Luck"
+  author: "Shiloh Walker"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9204
+  title: "The Late-Night Witches"
+  author: "Auralee Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-monster-magic
+  note: ""
+- id: 9205
+  title: "The Haunted Librarian"
+  author: "Auralee Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: inherited-monster-magic
+  note: ""
+- id: 9206
+  title: "Barricade"
+  author: "Jon Wallace"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9207
+  title: "Rig"
+  author: "Jon Wallace"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9208
+  title: "Steeple"
+  author: "Jon Wallace"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: after-the-lights-go-out
+  note: ""
+- id: 9209
+  title: "Slavemakers"
+  author: "Joseph Wallace"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: zombie-and-plague-survivors
+  note: ""
+- id: 9210
+  title: "Last Train to Jubilee Bay"
+  author: "Kali Wallace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9211
+  title: "Envy of Angels"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9212
+  title: "Lustlocked"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9213
+  title: "Pride's Spell"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9214
+  title: "Small Wars"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9215
+  title: "Gluttony Bay"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9216
+  title: "Greedy Pigs"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9217
+  title: "Idle Ingredients"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9218
+  title: "Sin du Jour: The First Course"
+  author: "Matt Wallace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9219
+  title: "Sin du Jour: The Final Course"
+  author: "Matt Wallace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9220
+  title: "Taste of Wrath"
+  author: "Matt Wallace"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: monster-hunting-firms
+  note: ""
+- id: 9221
+  title: "The Mammoth Book of Dieselpunk"
+  author: "Sean Wallace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9222
+  title: "The Mammoth Book of Steampunk Adventures"
+  author: "Sean Wallace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9223
+  title: "The Mammoth Book of Warriors and Wizardry"
+  author: "Sean Wallace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 9224
+  title: "Pod"
+  author: "Stephen Wallenfels"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crewed-contact-missions
+  note: ""
+- id: 9225
+  title: "Malice"
+  author: "Heather Walter"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dark-fae-courts-a
+  note: ""
+- id: 9226
+  title: "Misrule"
+  author: "Heather Walter"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dark-fae-courts-a
+  note: ""
