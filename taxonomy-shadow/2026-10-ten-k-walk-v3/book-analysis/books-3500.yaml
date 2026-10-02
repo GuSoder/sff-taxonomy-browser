@@ -1,0 +1,482 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 3513
+  title: "Rise"
+  author: "Ellen Goodlett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 3514
+  title: "Rule"
+  author: "Ellen Goodlett"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: young-courtiers
+  note: ""
+- id: 3515
+  title: "Breach"
+  author: "W.L. Goodwater"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-cold-war
+  note: ""
+- id: 3516
+  title: "Revolution"
+  author: "W.L. Goodwater"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-cold-war
+  note: ""
+- id: 3517
+  title: "Heart of Vengeance"
+  author: "Mei Goodwin"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swordswomen
+  note: ""
+- id: 3518
+  title: "One/Zero"
+  author: "Kathleen Ann Goonan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3519
+  title: "The Anderson Project"
+  author: "Ken Liu; Judith Moffett; Kathleen Ann Goonan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3520
+  title: "Gideon"
+  author: "Alex Gordon"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: empires-that-never-fell
+  note: ""
+- id: 3521
+  title: "Jericho"
+  author: "Alex Gordon"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: empires-that-never-fell
+  note: ""
+- id: 3522
+  title: "The Larion Senators"
+  author: "Jay Gordon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 3523
+  title: "Alistair Fall and the Restless Dead"
+  author: "Marianne Gordon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crooks-and-cons
+  note: ""
+- id: 3524
+  title: "The Antlered King"
+  author: "Marianne Gordon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: court-spies
+  note: ""
+- id: 3525
+  title: "The Gilded Crown"
+  author: "Marianne Gordon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: court-spies
+  note: ""
+- id: 3526
+  title: "The Witch's Heart"
+  author: "Genevieve Gornichec"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: viking-fantasy
+  note: ""
+- id: 3527
+  title: "Red as Blood and White as Bone"
+  author: "Theodora Goss"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3528
+  title: "Come See the Living Dryad"
+  author: "Theodora Goss"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3529
+  title: "Flesh And Gold"
+  author: "Phyllis Gotlieb"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: psi-powers
+  note: ""
+- id: 3530
+  title: "Mindworlds"
+  author: "Phyllis Gotlieb"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: psi-powers
+  note: ""
+- id: 3532
+  title: "Shade"
+  author: "Steven Gould"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3533
+  title: "7th Sigma"
+  author: "Steven Gould"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 3534
+  title: "Bugs in the Arroyo"
+  author: "Steven Gould"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 3540
+  title: "Belladonna"
+  author: "Adalyn Grace"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 3541
+  title: "Foxglove"
+  author: "Adalyn Grace"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 3542
+  title: "Holly"
+  author: "Adalyn Grace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3543
+  title: "Holly: A Belladonna Novella"
+  author: "Adalyn Grace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3544
+  title: "The Belladonna Collection"
+  author: "Adalyn Grace"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 3545
+  title: "The Belladonna Paperback Collection"
+  author: "Adalyn Grace"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3546
+  title: "The Wretched Divine"
+  author: "Adalyn Grace"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: angel-fantasy
+  note: ""
+- id: 3547
+  title: "Wisteria"
+  author: "Adalyn Grace"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: gothic-houses
+  note: ""
+- id: 3549
+  title: "Stealing Fire"
+  author: "Jo Graham"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: troy-and-after
+  note: ""
+- id: 3550
+  title: "DC Universe: Last Sons"
+  author: "Alan Grant"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG-OR-COMIC-TIE-IN
+  note: ""
+- id: 3551
+  title: "Earthdoom!"
+  author: "John Grant"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: cosmic-catastrophe
+  note: ""
+- id: 3552
+  title: "Desert Rising"
+  author: "Kelley Grant"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
+- id: 3553
+  title: "All the Pretty Little Horses"
+  author: "Mira Grant"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3554
+  title: "Apocalypse Scenario #683: The Box"
+  author: "Mira Grant"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-COLLECTION-OR-ANTHOLOGY
+  note: ""
+- id: 3557
+  title: "Coming to You Live"
+  author: "Mira Grant"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: post-pandemic-survival
+  note: ""
+- id: 3566
+  title: "Rumors of Spring"
+  author: "Richard Grant"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dying-earth
+  note: ""
