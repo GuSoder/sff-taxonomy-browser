@@ -1364,3 +1364,913 @@
   source: web
   decision: scholars-and-markets-of-faerie
   note: ""
+- id: 8875
+  title: "Gate Crashers"
+  author: "Patrick S. Tomlinson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: comic-aliens-and-troops
+  note: ""
+- id: 8876
+  title: "Starship Repo"
+  author: "Patrick S. Tomlinson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: comic-aliens-and-troops
+  note: ""
+- id: 8877
+  title: "The Promise of the Child"
+  author: "Tom Toner"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8878
+  title: "The Tropic of Eternity"
+  author: "Tom Toner"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8879
+  title: "The Weight of the World"
+  author: "Tom Toner"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8880
+  title: "The Second Son"
+  author: "Adrienne Tooley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 8881
+  title: "The Third Daughter"
+  author: "Adrienne Tooley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 8882
+  title: "Ghost Cell"
+  author: "Zac Topping"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: outbreak-thrillers
+  note: ""
+- id: 8883
+  title: "Some of the Best from Tor.com: 2020 Edition"
+  author: "Tor.com"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8884
+  title: "A Star-Wheeled Sky"
+  author: "Brad R. Torgersen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: traders-and-lines
+  note: ""
+- id: 8885
+  title: "The Chaplain's War"
+  author: "Brad Torgersen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: traders-and-lines
+  note: ""
+- id: 8886
+  title: "The Muse of Music"
+  author: "Enrico Toro"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 8887
+  title: "The Shipwright and the Shroudweaver"
+  author: "Rafael Torrubia"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 8888
+  title: "Hollowpox: The Hunt for Morrigan Crow"
+  author: "Jessica Townsend"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8889
+  title: "Silverborn: The Mystery of Morrigan Crow"
+  author: "Jessica Townsend"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8890
+  title: "The Moon-Maker"
+  author: "Arthur Train"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8891
+  title: "Ally"
+  author: "Karen Traviss"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 8892
+  title: "City of Pearl"
+  author: "Karen Traviss"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 8893
+  title: "Crossing the Line"
+  author: "Karen Traviss"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 8894
+  title: "Judge"
+  author: "Karen Traviss"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 8895
+  title: "Matriarch"
+  author: "Karen Traviss"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 8896
+  title: "The World Before"
+  author: "Karen Traviss"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 8897
+  title: "What Doctor Gottlieb Saw"
+  author: "Ian Tregillis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8898
+  title: "Something More Than Night"
+  author: "Ian Tregillis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 8899
+  title: "The Liberation"
+  author: "Ian Tregillis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: alt_history
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wonder-machines
+  note: ""
+- id: 8900
+  title: "The Mechanical"
+  author: "Ian Tregillis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: alt_history
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wonder-machines
+  note: ""
+- id: 8901
+  title: "The Rising"
+  author: "Ian Tregillis"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: alt_history
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: wonder-machines
+  note: ""
+- id: 8902
+  title: "Perdition's Storm"
+  author: "Brian Trent"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: zombie-and-plague-survivors
+  note: ""
+- id: 8903
+  title: "Grace at the End of the World"
+  author: "Christian Trimmer"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: broken-worlds-and-schools
+  note: ""
+- id: 8904
+  title: "The Dragon Delasangre"
+  author: "Alan F. Troop"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: monster-and-fae-lovers
+  note: ""
+- id: 8905
+  title: "Dragon Moon"
+  author: "Alan F. Troop"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: monster-and-fae-lovers
+  note: ""
+- id: 8906
+  title: "The Seadragon's Daughter"
+  author: "Alan F. Troop"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: monster-and-fae-lovers
+  note: ""
+- id: 8907
+  title: "Dragon City"
+  author: "Katie Tsang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8908
+  title: "Dragon Legend"
+  author: "Katie Tsang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8909
+  title: "Dragon Mountain"
+  author: "Katie Tsang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8910
+  title: "Fate of the Sun King"
+  author: "Nisha J. Tuli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sisters-and-serpents
+  note: ""
+- id: 8911
+  title: "Heart of Night and Fire"
+  author: "Nisha J. Tuli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sisters-and-serpents
+  note: ""
+- id: 8912
+  title: "Rule of the Aurora King"
+  author: "Nisha J. Tuli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sisters-and-serpents
+  note: ""
+- id: 8913
+  title: "Tale of the Heart Queen"
+  author: "Nisha J. Tuli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sisters-and-serpents
+  note: ""
+- id: 8914
+  title: "Trial of the Sun Queen"
+  author: "Nisha J. Tuli"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: sisters-and-serpents
+  note: ""
+- id: 8915
+  title: "Trial of the Sun Queen Gift Set"
+  author: "Nisha J. Tuli"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 8916
+  title: "The Time-Traveling Fashionista"
+  author: "Bianca Turetsky"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8917
+  title: "The Time-Traveling Fashionista and Cleopatra, Queen of the Nile"
+  author: "Bianca Turetsky"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8918
+  title: "The Time-Traveling Fashionista at the Palace of Marie Antoinette"
+  author: "Bianca Turetsky"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8919
+  title: "Apocalypse: An Epic Poem"
+  author: "Frederick Turner"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 8920
+  title: "The Sea and Summer"
+  author: "George Turner"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: flooded-cities
+  note: ""
+- id: 8921
+  title: "Dust"
+  author: "Joan Frances Turner"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: living-among-the-dead
+  note: ""
+- id: 8922
+  title: "Frail"
+  author: "Joan Frances Turner"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: living-among-the-dead
+  note: ""
+- id: 8923
+  title: "Misplaced Legion"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8930
+  title: "Into the Darkness"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8932
+  title: "Sentry Peak"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8933
+  title: "Walk in Hell (The Great War, Book Two)"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8937
+  title: "Alternate Generals II"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8939
+  title: "Ruled Britannia"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8940
+  title: "Rulers of the Darkness"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8941
+  title: "Through the Darkness"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8943
+  title: "3xT"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8944
+  title: "Curious Notions"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8948
+  title: "Alternate Generals III"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8949
+  title: "Counting Up, Counting Down"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8951
+  title: "In High Places"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: other-worlds-histories
+  note: ""
+- id: 8953
+  title: "The Enchanter Completed"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8954
+  title: "The First Heroes"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8955
+  title: "The Time of Troubles II"
+  author: "Harry Turtledove"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8959
+  title: "Beyond the Gap"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8960
+  title: "Darkness Descending"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8961
+  title: "Every Inch a King"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8962
+  title: "Opening Atlantis"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 8963
+  title: "Out of the Darkness"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: american-forks
+  note: ""
+- id: 8964
+  title: "The Tale of Krispos"
+  author: "Harry Turtledove"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
