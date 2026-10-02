@@ -1,0 +1,872 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 2250
+  title: "Empires: The First Battle"
+  author: "Gavin Deas"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2255
+  title: "The King's Assassin"
+  author: "Stephen Deas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2258
+  title: "The Splintered Gods"
+  author: "Stephen Deas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2259
+  title: "The Thief-Taker's Apprentice"
+  author: "Stephen Deas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2260
+  title: "The Warlock's Shadow"
+  author: "Stephen Deas"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: rogue-hero
+  note: ""
+- id: 2262
+  title: "Gene Roddenberry's Andromeda: Destruction of Illusions"
+  author: "Keith R. A. DeCandido"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2263
+  title: "Ember"
+  author: "James K. Decker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2264
+  title: "The Burn Zone"
+  author: "James K. Decker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs-and-lone-contact
+  note: ""
+- id: 2265
+  title: "Fallout"
+  author: "James K. Decker"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2266
+  title: "Foreign Bodies"
+  author: "Stephen Dedman"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2267
+  title: "A Curse of Crows"
+  author: "Lauren Dedroog"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2268
+  title: "A Dance of Serpents"
+  author: "Lauren Dedroog"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2269
+  title: "Comeuppance Served Cold"
+  author: "Marion Deeds"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2270
+  title: "When Grandma Gives You a Lemon Tree"
+  author: "Jamie L.B. Deenihan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2271
+  title: "The Sleeping King"
+  author: "Cindy Dees"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2272
+  title: "The Dreaming Hunt"
+  author: "Cindy Dees"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2273
+  title: "The Wandering War"
+  author: "Cindy Dees"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: thrones-under-threat
+  note: ""
+- id: 2274
+  title: "The Unit"
+  author: "Terry DeHart"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2275
+  title: "Summerblood"
+  author: "Tom Deitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2276
+  title: "Warautumn"
+  author: "Tom Deitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2277
+  title: "Springwar"
+  author: "Tom Deitz"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 2278
+  title: "Mortal"
+  author: "Ted Dekker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2279
+  title: "Sovereign"
+  author: "Ted Dekker"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2280
+  title: "Tales of a Deadly Devotion"
+  author: "Jennifer Delaney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2281
+  title: "Tales of a Monstrous Heart"
+  author: "Jennifer Delaney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2282
+  title: "Tales of a Treacherous Fate"
+  author: "Jennifer Delaney"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 2291
+  title: "Indigo Springs"
+  author: "A.M. Dellamonica"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2292
+  title: "The Cage"
+  author: "A.M. Dellamonica"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2293
+  title: "Among the Silvering Herd"
+  author: "A.M. Dellamonica"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2294
+  title: "Blue Magic"
+  author: "A.M. Dellamonica"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: witches-and-libraries
+  note: ""
+- id: 2295
+  title: "Wild Things"
+  author: "A.M. Dellamonica"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2296
+  title: "The Ugly Woman of Castello di Putti"
+  author: "A.M. Dellamonica"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2297
+  title: "1635: The Tangled Web"
+  author: "Virginia DeMarce"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 2298
+  title: "Things Could Be Worse"
+  author: "Virginia DeMarce"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-postwar
+  note: ""
+- id: 2299
+  title: "Finding the Dragon Lady"
+  author: "Monique Brinson Demery"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2300
+  title: "Total Oblivion, More or Less"
+  author: "Alan DeNiro"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2301
+  title: "Knight Owl (Caldecott Honor Award Winner)"
+  author: "Christopher Denise"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2302
+  title: "Knight Owl and Early Bird"
+  author: "Christopher Denise"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2303
+  title: "Knight Owl and the Little Dragons"
+  author: "Christopher Denise"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2304
+  title: "Combat Command: The Omega Rebellion"
+  author: "Troy Denning"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: space-marines
+  note: ""
+- id: 2305
+  title: "Mystic"
+  author: "Jason Denzel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2306
+  title: "Mystic Dragon"
+  author: "Jason Denzel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2307
+  title: "Mystic Skies"
+  author: "Jason Denzel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2308
+  title: "The Mystic Trilogy"
+  author: "Jason Denzel"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 2309
+  title: "Super Flat Times"
+  author: "Matthew Derby"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2310
+  title: "The Watchers Out of Time"
+  author: "August Derleth"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2311
+  title: "Afterlife"
+  author: "Merrie Destefano"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2312
+  title: "Medusa Uploaded"
+  author: "Emily Devenport"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: remade-minds
+  note: ""
+- id: 2313
+  title: "Medusa in the Graveyard"
+  author: "Emily Devenport"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: remade-minds
+  note: ""
+- id: 2314
+  title: "Eagle Rising"
+  author: "David Devereux"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2315
+  title: "Hunter's Moon"
+  author: "David Devereux"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2316
+  title: "His Every Fantasy"
+  author: "Delilah Devlin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2321
+  title: "A Maze of Death"
+  author: "Philip K Dick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: remade-minds
+  note: ""
+- id: 2323
+  title: "Cantata-140"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2324
+  title: "Deus Irae"
+  author: "Philip K Dick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: remade-minds
+  note: ""
+- id: 2326
+  title: "Five Great Novels"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2327
+  title: "Flow My Tears, The Policeman Said"
+  author: "Philip K Dick"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2328
+  title: "Galactic Pot-Healer"
+  author: "Philip K Dick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 2329
+  title: "Gather Yourselves Together"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2330
+  title: "Human Is?"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2331
+  title: "Humpty Dumpty In Oakland"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2332
+  title: "In Milton Lumky Territory"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2333
+  title: "Lies, Inc."
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2334
+  title: "Mary and the Giant"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2335
+  title: "Minority Report"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2336
+  title: "Nick and the Glimmung"
+  author: "Philip K Dick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2337
+  title: "Our Friends From Frolix 8"
+  author: "Philip K Dick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""

@@ -2183,3 +2183,276 @@
   source: web
   decision: HOLD:ANTHOLOGY
   note: ""
+- id: 2229
+  title: "They're Here!"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2230
+  title: "Time Troopers"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2231
+  title: "Tomorrow's Troopers"
+  author: "Hank Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-OMNIBUS
+  note: ""
+- id: 2232
+  title: "Good Dream Dragon"
+  author: "Jacky Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 2233
+  title: "Travels"
+  author: "Jerry J Davis"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2234
+  title: "The Thin Place"
+  author: "Kathryn Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2235
+  title: "Laurie on the Radio"
+  author: "Sam Davis"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2236
+  title: "The Violence"
+  author: "Delilah S. Dawson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 2237
+  title: "It Will Only Hurt for a Moment"
+  author: "Delilah S. Dawson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2238
+  title: "The First Bright Thing"
+  author: "J.R. Dawson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-civil-war
+  note: ""
+- id: 2239
+  title: "The Lighthouse at the Edge of the World"
+  author: "J.R. Dawson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2240
+  title: "This Is Not My Timeline"
+  author: "J.R. Dawson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-civil-war
+  note: ""
+- id: 2241
+  title: "Eve of Sin City"
+  author: "Sylvia Day"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
+- id: 2242
+  title: "Eve of Chaos"
+  author: "Sylvia Day"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2243
+  title: "Eve of Darkness"
+  author: "Sylvia Day"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2244
+  title: "Eve of Destruction"
+  author: "Sylvia Day"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2245
+  title: "The Marked Trilogy"
+  author: "Sylvia Day"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2246
+  title: "Three Eves"
+  author: "Sylvia Day"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2247
+  title: "How To Cook and Eat the Rich"
+  author: "Sunyi Dean"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2248
+  title: "The Girl with a Thousand Faces"
+  author: "Sunyi Dean"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: packs-and-courts
+  note: ""
+- id: 2249
+  title: "The Thief of Memory"
+  author: "Sunyi Robin Dean"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-OR-SHORT-FORM-REVISIT
+  note: ""
