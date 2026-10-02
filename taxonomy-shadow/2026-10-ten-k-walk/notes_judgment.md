@@ -6,3 +6,4 @@
 5. Series name uncertainty: when I cannot verify which books a series contains from title alone, I fold by author/imprint and flag moderate.
 20. Doc gap: no leaf for monster-hunter invented-world fantasy (Witcher), emergent-AI SF (Sawyer WWW), post-apocalyptic fantasy (Scholes).
 21. Doc gap: no ancient/pre-medieval alt-history leaf (Smale Clash of Eagles).
+22. Doc gaps: no leaf for collapse-plus-magic-returns (Emberverse), summoner-bureaucracy YA fantasy (Bartimaeus).
