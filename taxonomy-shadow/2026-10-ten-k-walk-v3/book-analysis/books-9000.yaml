@@ -2391,3 +2391,302 @@
   source: web
   decision: dark-fae-courts-a
   note: ""
+- id: 9227
+  title: "The Crimson Crown"
+  author: "Heather Walter"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 9228
+  title: "The Witch Queen"
+  author: "Heather Walter"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fairytale-heroines-turned
+  note: ""
+- id: 9229
+  title: "The King's Peace"
+  author: "Jo Walton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: old-heroic-romance
+  note: ""
+- id: 9230
+  title: "Tooth and Claw"
+  author: "Jo Walton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: regency-and-victorian-faerie
+  note: ""
+- id: 9231
+  title: "The Prize in the Game"
+  author: "Jo Walton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9232
+  title: "The King's Name"
+  author: "Jo Walton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: old-heroic-romance
+  note: ""
+- id: 9233
+  title: "My Real Children"
+  author: "Jo Walton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: alt_history
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 9234
+  title: "A Burden Shared"
+  author: "Jo Walton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 9235
+  title: "Thessaly"
+  author: "Jo Walton"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 9236
+  title: "Everybody's Perfect"
+  author: "Jo Walton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-witches-and-seers
+  note: ""
+- id: 9237
+  title: "The Necessary Beggar"
+  author: "Susan Palwick; introduction by Jo Walton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: healers-and-doctors
+  note: ""
+- id: 9238
+  title: "City of Beasts"
+  author: "Corrie Wang"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hollow-worlds
+  note: ""
+- id: 9239
+  title: "Blood Over Bright Haven"
+  author: "M. L. Wang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: magic-schools
+  note: ""
+- id: 9240
+  title: "Legacy of Ash"
+  author: "Matthew Ward"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9241
+  title: "Legacy of Light"
+  author: "Matthew Ward"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9242
+  title: "Legacy of Steel"
+  author: "Matthew Ward"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: forged-destiny-and-mirage
+  note: ""
+- id: 9243
+  title: "The Darkness Before Them"
+  author: "Matthew Ward"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: kingslayers-and-standalone-fantasies
+  note: ""
+- id: 9244
+  title: "The Fire Within Them"
+  author: "Matthew Ward"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: kingslayers-and-standalone-fantasies
+  note: ""
+- id: 9245
+  title: "The Lie That Binds Them"
+  author: "Matthew Ward"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: kingslayers-and-standalone-fantasies
+  note: ""
+- id: 9246
+  title: "Elemental: Destiny's Embers"
+  author: "Bradley Wardell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: frontier-magic
+  note: ""
+- id: 9247
+  title: "Age of Iron"
+  author: "Angus Watson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 9248
+  title: "Clash of Iron"
+  author: "Angus Watson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""
+- id: 9249
+  title: "Reign of Iron"
+  author: "Angus Watson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: outlaw-realms
+  note: ""

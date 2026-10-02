@@ -1,0 +1,612 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 9250
+  title: "The Land You Never Leave"
+  author: "Angus Watson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: truths-hunts-and-archives
+  note: ""
+- id: 9251
+  title: "Where Gods Fear to Go"
+  author: "Angus Watson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: truths-hunts-and-archives
+  note: ""
+- id: 9252
+  title: "You Die When You Die"
+  author: "Angus Watson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: truths-hunts-and-archives
+  note: ""
+- id: 9253
+  title: "The Raven Queen"
+  author: "Jules Watson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-myth-retold
+  note: ""
+- id: 9254
+  title: "The Marshals"
+  author: "Mike Watson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-legions
+  note: ""
+- id: 9255
+  title: "The Wizard Lord"
+  author: "Lawrence Watt-Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 9256
+  title: "The Ninth Talisman"
+  author: "Lawrence Watt-Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 9257
+  title: "The Summer Palace"
+  author: "Lawrence Watt-Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 9258
+  title: "A Young Man Without Magic"
+  author: "Lawrence Watt-Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spies-and-seas
+  note: ""
+- id: 9259
+  title: "Above His Proper Station"
+  author: "Lawrence Watt-Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spies-and-seas
+  note: ""
+- id: 9260
+  title: "Night of Madness"
+  author: "Lawrence Watt-Evans"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: spies-and-seas
+  note: ""
+- id: 9261
+  title: "Starfish"
+  author: "Peter Watts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 9262
+  title: "Maelstrom"
+  author: "Peter Watts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 9263
+  title: "Crysis"
+  author: "Peter Watts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 9264
+  title: "Behemoth: B-Max"
+  author: "Peter Watts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 9265
+  title: "Behemoth: Seppuku"
+  author: "Peter Watts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: alien-minds-and-embassies
+  note: ""
+- id: 9266
+  title: "The Colonel"
+  author: "Peter Watts"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 9267
+  title: "The Firefall Series"
+  author: "Peter Watts"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9268
+  title: "Awakened"
+  author: "James S Murraydarren Wearmouth"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 9269
+  title: "Obliteration"
+  author: "James S Murraydarren Wearmouth"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 9270
+  title: "The Brink"
+  author: "James S Murraydarren Wearmouth"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 9271
+  title: "Artificial Wisdom"
+  author: "Thomas R. Weaver"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: servants-with-opinions
+  note: ""
+- id: 9272
+  title: "Infinite Wisdom"
+  author: "Thomas R. Weaver"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: servants-with-opinions
+  note: ""
+- id: 9273
+  title: "Crusade"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fantastic-voyages
+  note: ""
+- id: 9274
+  title: "Mutineer's Moon"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_present
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: extinction-probes
+  note: ""
+- id: 9276
+  title: "Oath of Swords"
+  author: "David Weber"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 9282
+  title: "The War God's Own"
+  author: "David Weber"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 9284
+  title: "The Apocalypse Troll"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9286
+  title: "Changer of Worlds"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 9287
+  title: "Flag in Exile"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 9290
+  title: "The Excalibur Alternative"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: portal
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 9291
+  title: "The Shiva Option"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: invasions-and-fermi
+  note: ""
+- id: 9293
+  title: "The Warmasters"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9295
+  title: "Crown of Slaves"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9296
+  title: "Empire From the Ashes"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9297
+  title: "March to the Stars"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: leagues-and-commonwealths
+  note: ""
+- id: 9298
+  title: "The Service of the Sword"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 9299
+  title: "Insurrection"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 9301
+  title: "The Stars at War"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9302
+  title: "Wind Rider's Oath"
+  author: "David Weber"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: healers-and-borders
+  note: ""
+- id: 9304
+  title: "In Fury Born"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: patrol-and-picket
+  note: ""
+- id: 9305
+  title: "The Stars at War II"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9307
+  title: "Hell's Gate"
+  author: "David Weber"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hollow-worlds
+  note: ""
+- id: 9309
+  title: "Oath of Swords and Sword Brother"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 9316
+  title: "Worlds of Weber"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 9318
+  title: "In Fire Forged: Worlds of Honor V"
+  author: "David Weber"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 9320
+  title: "A Beautiful Friendship"
+  author: "David Weber"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: sim-wars-and-protectorates
+  note: ""
