@@ -1923,3 +1923,887 @@
   source: web
   decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
   note: ""
+- id: 6669
+  title: "Choosing Names: Man-Kzin Wars VIII"
+  author: "created Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6670
+  title: "Man-Kzin Wars XV"
+  author: "created Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6671
+  title: "Protector"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6672
+  title: "Crashlander"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6673
+  title: "Flatlander"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6674
+  title: "Three Books of Known Space"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6675
+  title: "Destiny's Road"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6676
+  title: "Man-Kzin Wars IX"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6677
+  title: "Man-Kzin Wars X: The Wunder War"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6678
+  title: "Scatterbrain"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6680
+  title: "Man-Kzin Wars XI"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6681
+  title: "Building Harlequin's Moon"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6682
+  title: "The Draco Tavern"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6683
+  title: "N-Space"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6684
+  title: "Saturn's Race"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6686
+  title: "Inferno"
+  author: "Larry Niven"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 6688
+  title: "Man-Kzin Wars XII"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6690
+  title: "Destroyer of Worlds"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6691
+  title: "Escape from Hell"
+  author: "Larry Niven"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 6694
+  title: "Stars and Gods"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6696
+  title: "The Moon Maze Game"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 6698
+  title: "Man-Kzin Wars XIII"
+  author: "Larry Niven"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY-OR-SHARED-WORLD
+  note: ""
+- id: 6699
+  title: "The Goliath Stone"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6701
+  title: "The Seascape Tattoo"
+  author: "Larry Niven"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6703
+  title: "Starborn & Godsons"
+  author: "Larry Niven"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: star-pilots
+  note: ""
+- id: 6705
+  title: "Fire Above, Fire Below"
+  author: "Garth Nix"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6706
+  title: "The Case of the Somewhat Mythic Sword"
+  author: "Garth Nix"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6707
+  title: "The Necessary Arthur"
+  author: "Garth Nix"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6708
+  title: "The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurch"
+  author: "Garth Nix"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 6709
+  title: "A Confusion of Princes"
+  author: "Garth Nix"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6710
+  title: "Massif"
+  author: "Garth Nix"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-crossfires-and-spin
+  note: ""
+- id: 6711
+  title: "Sir Hereward and Mister Fitz"
+  author: "Garth Nix"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-and-kingslayers
+  note: ""
+- id: 6712
+  title: "The Far Side of the Universe"
+  author: "noc"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6713
+  title: "Band of Others"
+  author: "none"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 6714
+  title: "Turning Point"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6715
+  title: "Fortune's Wheel"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6716
+  title: "Fire Margins"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6717
+  title: "Razor's Edge"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6718
+  title: "Dark Nadir"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6719
+  title: "Stronghold Rising"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6720
+  title: "Between Darkness and Light"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6721
+  title: "Shades of Gray"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6722
+  title: "Circle's End"
+  author: "Lisanne Norman"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: first-contact-arrivals
+  note: ""
+- id: 6723
+  title: "Talon of God"
+  author: "Wesley Snipesray Norman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dresden-and-file-keepers
+  note: ""
+- id: 6724
+  title: "America Pacifica"
+  author: "Anna North"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wasteland-survivors
+  note: ""
+- id: 6725
+  title: "84K"
+  author: "Claire North"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6726
+  title: "9780316498876"
+  author: "Claire North"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: singular-futures
+  note: ""
+- id: 6727
+  title: "As We Fall Through Time"
+  author: "Claire North"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wasteland-survivors
+  note: ""
+- id: 6728
+  title: "Notes from the Burning Age"
+  author: "Claire North"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wasteland-survivors
+  note: ""
+- id: 6729
+  title: "The Gameshouse"
+  author: "Claire North"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-rogues
+  note: ""
+- id: 6730
+  title: "The Pursuit of William Abbey"
+  author: "Claire North"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-rogues
+  note: ""
+- id: 6731
+  title: "The Elvenbane"
+  author: "Andre Norton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moon-daughters-and-godspeakers
+  note: ""
+- id: 6732
+  title: "Star Soldiers"
+  author: "Andre Norton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 6734
+  title: "Janus"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6735
+  title: "Warlock"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6736
+  title: "Darkness and Dawn"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6737
+  title: "Elvenborn"
+  author: "Andre Norton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moon-daughters-and-godspeakers
+  note: ""
+- id: 6738
+  title: "Dark Companion"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6739
+  title: "Gods and Androids"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6740
+  title: "Masks of the Outcasts"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6741
+  title: "Moonsinger"
+  author: "Andre Norton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-and-fairyland-lines
+  note: ""
+- id: 6742
+  title: "Beast Master's Planet"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6743
+  title: "Beast Master's Quest"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6744
+  title: "Crosstime"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-fantastic-travels
+  note: ""
+- id: 6745
+  title: "From the Sea to the Stars"
+  author: "Andre Norton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 6747
+  title: "Star Flight"
+  author: "Andre Norton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COMPILATION
+  note: ""
+- id: 6748
+  title: "Search for the Star Stones"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 6749
+  title: "The Game of Stars and Comets"
+  author: "Andre Norton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
