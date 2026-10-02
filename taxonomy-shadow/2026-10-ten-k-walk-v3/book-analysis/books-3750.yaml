@@ -623,3 +623,1134 @@
   source: web
   decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN
   note: ""
+- id: 3806
+  title: "Great North Road"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 3808
+  title: "A Window into Time (Novella)"
+  author: "Peter F. Hamilton"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3810
+  title: "Salvation"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 3811
+  title: "Salvation Lost"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 3812
+  title: "Light Chaser"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3813
+  title: "The Saints of Salvation"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: ships-on-course
+  note: ""
+- id: 3814
+  title: "Fallen Dragon"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-in-space
+  note: ""
+- id: 3815
+  title: "The Confederation Handbook"
+  author: "Peter F. Hamilton"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: future-history-in-space
+  note: ""
+- id: 3817
+  title: "The Founder Effect"
+  author: "Robert E. Hampson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: red-planet
+  note: ""
+- id: 3818
+  title: "The Moon and the Desert"
+  author: "Robert E. Hampson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: red-planet
+  note: ""
+- id: 3819
+  title: "Logorrhea"
+  author: "Elizabeth Hand"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3820
+  title: "The Late Great Wizard"
+  author: "Sara Hanover"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3821
+  title: "The New Improved Sorceress"
+  author: "Sara Hanover"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3822
+  title: "The Wayward Mage"
+  author: "Sara Hanover"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3824
+  title: "The Dungeon Book"
+  author: "Gareth Hanrahan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3827
+  title: "The Sword Defiant"
+  author: "Gareth Hanrahan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 3828
+  title: "The Sword Triumphant"
+  author: "Gareth Hanrahan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 3829
+  title: "The Sword Unbound"
+  author: "Gareth Hanrahan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dark-realms
+  note: ""
+- id: 3830
+  title: "Azura Ghost"
+  author: "Essa Hansen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: multiverse
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3831
+  title: "Ethera Grave"
+  author: "Essa Hansen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: multiverse
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3832
+  title: "Nophek Gloss"
+  author: "Essa Hansen"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: multiverse
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3833
+  title: "Between Earth and Moon"
+  author: "Otfrid von Hanstein"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moon-and-near-orbit
+  note: ""
+- id: 3837
+  title: "Tales of the United States Space Force"
+  author: "C. Stuart Hardwick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3838
+  title: "The Clockwork Key"
+  author: "Vashti Hardy"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 3839
+  title: "The Raven Riddle"
+  author: "Vashti Hardy"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: victorian-steam
+  note: ""
+- id: 3840
+  title: "Leila and the Blue Fox"
+  author: "Kiran Millwood Hargrave"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3841
+  title: "The Shadow of Ararat"
+  author: "Thomas Harlan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 3842
+  title: "Potions & Prejudice"
+  author: "Tee Harlowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3844
+  title: "Succubus in the City"
+  author: "Nina Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 3845
+  title: "Succubus Takes Manhattan"
+  author: "Nina Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: mediums-for-hire
+  note: ""
+- id: 3846
+  title: "Cursed"
+  author: "S.J. Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3847
+  title: "Reckoning"
+  author: "S.J. Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 3848
+  title: "Wolfwalker"
+  author: "Tara K. Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3849
+  title: "Wolf's Bane"
+  author: "Tara K. Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3850
+  title: "Wolf in Night"
+  author: "Tara K. Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3851
+  title: "Silver Moons, Black Steel"
+  author: "Tara K. Harper"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: heralds-and-companions
+  note: ""
+- id: 3852
+  title: "Accidental Creatures"
+  author: "Anne Harris"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: altered-flesh
+  note: ""
+- id: 3853
+  title: "Inventing Memory"
+  author: "Anne Harris"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: altered-flesh
+  note: ""
+- id: 3854
+  title: "Snagged"
+  author: "Carrie Harris"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fairytale-transplant
+  note: ""
+- id: 3855
+  title: "Tendrils"
+  author: "Carrie Harris"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fairytale-transplant
+  note: ""
+- id: 3878
+  title: "A Pocketful of Crows"
+  author: "Joanne Harris"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3879
+  title: "Maiden, Mother, Crone"
+  author: "Joanne Harris"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3880
+  title: "Orfeia"
+  author: "Joanne Harris"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3884
+  title: "The Moonlight Market"
+  author: "Joanne Harris"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3886
+  title: "Tor.com Publishing Editorial Spotlight #2"
+  author: "Lee Harris"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3887
+  title: "The Magic Misfits"
+  author: "Neil Patrick Harris"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 3888
+  title: "The Magic Misfits: The Fourth Suit"
+  author: "Neil Patrick Harris"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 3889
+  title: "The Magic Misfits: The Minor Third"
+  author: "Neil Patrick Harris"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 3890
+  title: "The Magic Misfits: The Second Story"
+  author: "Neil Patrick Harris"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 3891
+  title: "Skyfall"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 3892
+  title: "Stonehenge"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 3893
+  title: "Planet of No Return"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3894
+  title: "Planet of the Damned"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wanderers-and-fixers
+  note: ""
+- id: 3895
+  title: "The Hammer & The Cross"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: viking-fantasy
+  note: ""
+- id: 3896
+  title: "One King's Way"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: viking-fantasy
+  note: ""
+- id: 3897
+  title: "King and Emperor"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: viking-fantasy
+  note: ""
+- id: 3901
+  title: "50 in 50"
+  author: "Harry Harrison"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3907
+  title: "Homeworld"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 3908
+  title: "In Our Hands The Stars"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 3909
+  title: "Starworld"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 3915
+  title: "Wheelworld"
+  author: "Harry Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: other_planet
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: settled-other-stars
+  note: ""
+- id: 3916
+  title: "American Demon"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hunters-and-slayers
+  note: ""
+- id: 3917
+  title: "Million Dollar Demon"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hunters-and-slayers
+  note: ""
+- id: 3918
+  title: "Trouble with the Cursed"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hunters-and-slayers
+  note: ""
+- id: 3920
+  title: "Emergence"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 3921
+  title: "First Contact"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 3922
+  title: "Totality"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 3924
+  title: "Three Kinds of Lucky"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3925
+  title: "Secondhand Luck"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 3927
+  title: "Eclipsed Evolution"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-worlds-beside-ours
+  note: ""
+- id: 3929
+  title: "A Perfect Blood with Bonus Material"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hunters-and-slayers
+  note: ""
+- id: 3935
+  title: "Into the Woods"
+  author: "Kim Harrison"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3937
+  title: "Pet Shop Boys"
+  author: "Kim Harrison"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3938
+  title: "Sudden Backtrack"
+  author: "Kim Harrison"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3939
+  title: "The Good, the Bad, and the Undead"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hunters-and-slayers
+  note: ""
+- id: 3940
+  title: "The Good, the Bad, and the Undead with Bonus Material"
+  author: "Kim Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hunters-and-slayers
+  note: ""
+- id: 3941
+  title: "The Hollows Insider"
+  author: "Kim Harrison"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3946
+  title: "Empty Space"
+  author: "M. John Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 3947
+  title: "The Glare"
+  author: "Margot Harrison"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 3948
+  title: "13 Curses"
+  author: "Michelle Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-in-the-hills
+  note: ""
+- id: 3949
+  title: "13 Treasures"
+  author: "Michelle Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-in-the-hills
+  note: ""
+- id: 3950
+  title: "One Wish"
+  author: "Michelle Harrison"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-in-the-hills
+  note: ""
+- id: 3954
+  title: "The Slantwise Histories"
+  author: "Alix E. Harrow"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3958
+  title: "The Undead Fox of Deadwood Forest (Newbery Honor Award Winner)"
+  author: "Aubrey Hartman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: animal-fantasy
+  note: ""
+- id: 3959
+  title: "Visions of Wonder"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3960
+  title: "The Hard SF Renaissance"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
+- id: 3961
+  title: "Christmas Stars"
+  author: "David G. Hartwell"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-NONFICTION-OR-TIE-IN-OR-UNCLEAR
+  note: ""
