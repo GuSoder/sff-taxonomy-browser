@@ -844,3 +844,1147 @@
   source: web
   decision: dragons-and-courts
   note: ""
+- id: 4328
+  title: "The Gurkha and the Lord of Tuesday"
+  author: "Saad Z. Hossain"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4329
+  title: "Kundo Wakes Up"
+  author: "Saad Z. Hossain"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4330
+  title: "Tigers Curse"
+  author: "Colleen Houck"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 4331
+  title: "Tigers Destiny"
+  author: "Colleen Houck"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 4332
+  title: "Tigers Quest"
+  author: "Colleen Houck"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 4333
+  title: "Tigers Voyage"
+  author: "Colleen Houck"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: perilous-fairy-doors
+  note: ""
+- id: 4338
+  title: "Zero World"
+  author: "Jason M. Hough"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4339
+  title: "Escape Velocity"
+  author: "Jason M. Hough"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4340
+  title: "Injection Burn"
+  author: "Jason M. Hough"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4341
+  title: "Lark Ascending"
+  author: "Silas House"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4342
+  title: "Til Quest Do Us Part"
+  author: "Ivelisse Housman"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: comic-fantasy-realms
+  note: ""
+- id: 4343
+  title: "The Death of Me"
+  author: "Jonathan L. Howard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4344
+  title: "A Long Spoon"
+  author: "Jonathan L. Howard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4345
+  title: "A Dark Sacrifice"
+  author: "Madeline Howard"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 4348
+  title: "The Savage Tales of Solomon Kane"
+  author: "Robert E. Howard"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4349
+  title: "Bran Mak Morn: The Last King"
+  author: "Robert E. Howard"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4352
+  title: "The Horror Stories of Robert E. Howard"
+  author: "Robert E. Howard"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4353
+  title: "El Borak and Other Desert Adventures"
+  author: "Robert E. Howard"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4355
+  title: "Sword Woman and Other Historical Adventures"
+  author: "Robert E. Howard"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4356
+  title: "Queen of the Orcs: Clan Daughter"
+  author: "Morgan Howell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4357
+  title: "Queen of the Orcs: King's Property"
+  author: "Morgan Howell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4358
+  title: "Queen of the Orcs: Royal Destiny"
+  author: "Morgan Howell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4359
+  title: "A Woman Worth Ten Coppers"
+  author: "Morgan Howell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4360
+  title: "Candle in the Storm"
+  author: "Morgan Howell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4361
+  title: "The Iron Palace"
+  author: "Morgan Howell"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4362
+  title: "Three Classic Novels"
+  author: "Fred Hoyle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4363
+  title: "The Secret Lives of Immortals"
+  author: "Ash Huang"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4365
+  title: "As the Last I May Know"
+  author: "S. L. Huang"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4367
+  title: "Burning Roses"
+  author: "S. L. Huang"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4369
+  title: "The River Judge"
+  author: "S. L. Huang"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4370
+  title: "The Language of Liars"
+  author: "S. L. Huang"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4375
+  title: "1636: The Barbie Consortium"
+  author: "Gorg Huff"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4382
+  title: "An Ancient Peace"
+  author: "Tanya Huff"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4383
+  title: "A Peace Divided"
+  author: "Tanya Huff"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4384
+  title: "The Privilege of Peace"
+  author: "Tanya Huff"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: stations-and-the-belt
+  note: ""
+- id: 4385
+  title: "Into the Broken Lands"
+  author: "Tanya Huff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4386
+  title: "Direct Descendant"
+  author: "Tanya Huff"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4387
+  title: "Saved by the Spell"
+  author: "Tanya Huff"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4388
+  title: "Black Brillion"
+  author: "Matthew Hughes"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4391
+  title: "Gateways"
+  author: "Elizabeth Anne Hull"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4392
+  title: "Smoke in the Glass"
+  author: "Chris Humphreys"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4393
+  title: "The Coming of the Dark"
+  author: "Chris Humphreys"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4394
+  title: "The Wars of Gods and Men"
+  author: "Chris Humphreys"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4399
+  title: "The Dark Ascent"
+  author: "Walter H. Hunt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4400
+  title: "The Dark Crusade"
+  author: "Walter H. Hunt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4401
+  title: "The Dark Path"
+  author: "Walter H. Hunt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4402
+  title: "The Dark Wing"
+  author: "Walter H. Hunt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4403
+  title: "Bloodring"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4405
+  title: "Seraphs"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4408
+  title: "Cat Tales"
+  author: "Faith Hunter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4411
+  title: "Have Stakes Will Travel"
+  author: "Faith Hunter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4414
+  title: "Kicking It"
+  author: "Faith Hunter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4418
+  title: "Blood in Her Veins"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4419
+  title: "Blood of the Earth"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4420
+  title: "Curse on the Land"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4423
+  title: "Flame in the Dark"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4427
+  title: "Spells for the Dead"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4428
+  title: "True Dead"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4429
+  title: "Final Heir"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4430
+  title: "Of Claws and Fangs"
+  author: "Faith Hunter"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4431
+  title: "Rift in the Soul"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4432
+  title: "Unpredictable Magic"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4433
+  title: "Second Chances and Flying Goats"
+  author: "Faith Hunter"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4434
+  title: "Blood to the True Crown"
+  author: "Sung-il Kim; translated by Anton Hur"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4435
+  title: "Elephants and Corpses"
+  author: "Kameron Hurley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: slayer-hero
+  note: ""
+- id: 4441
+  title: "Up-time Pride and Down-time Prejudice"
+  author: "Mark Huston"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4442
+  title: "Acadie"
+  author: "Dave Hutchinson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4443
+  title: "Plausibly Deniable"
+  author: "Jamie Ibson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4444
+  title: "Coral"
+  author: "Molly Idle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4445
+  title: "Pearl"
+  author: "Molly Idle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4446
+  title: "Witch Hazel"
+  author: "Molly Idle"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4447
+  title: "The Crossing"
+  author: "Kevin Ikenberry"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4448
+  title: "The Rackham Files"
+  author: "Dean Ing"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4449
+  title: "It's Up to Charlie Hardin"
+  author: "Dean Ing"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4450
+  title: "The Smoke"
+  author: "Simon Ings"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4451
+  title: "Wolves"
+  author: "Simon Ings"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4452
+  title: "City of the Iron Fish"
+  author: "Simon Ings"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4453
+  title: "Headlong"
+  author: "Simon Ings"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4454
+  title: "Hot Head"
+  author: "Simon Ings"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4455
+  title: "Painkillers"
+  author: "Simon Ings"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4456
+  title: "Eternal Rider"
+  author: "Larissa Ione"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 4457
+  title: "Immortal Rider"
+  author: "Larissa Ione"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: demonic-torment
+  note: ""
+- id: 4458
+  title: "Black Friday"
+  author: "Alex Irvine"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-society
+  note: ""
+- id: 4459
+  title: "Form 8774-D"
+  author: "Alex Irvine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4460
+  title: "Shorted"
+  author: "Alex Irvine"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  note: ""
+- id: 4461
+  title: "Justice"
+  author: "Ian Irvine"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4462
+  title: "Rebellion"
+  author: "Ian Irvine"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
+- id: 4463
+  title: "The Fatal Gate"
+  author: "Ian Irvine"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
