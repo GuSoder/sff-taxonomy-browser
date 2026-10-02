@@ -922,3 +922,1238 @@
   source: web
   decision: fae-courts
   note: ""
+- id: 4842
+  title: "Tales Before Narnia"
+  author: "Rudyard Kipling"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4843
+  title: "The Illustrated Eric"
+  author: "Josh Kirby"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4844
+  title: "Bonnie Bailey and the Faire of Worlds"
+  author: "Ellie Kirk"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4845
+  title: "Sand"
+  author: "Jasmin Kirkbride"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4846
+  title: "Across the Face of the World"
+  author: "Russell Kirkpatrick"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4847
+  title: "Freddie & Gingersnap"
+  author: "Vincent X. Kirsch"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4848
+  title: "Freddie & Gingersnap Find a Cloud to Keep"
+  author: "Vincent X. Kirsch"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4849
+  title: "Saltcrop"
+  author: "Yume Kitasei"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 4850
+  title: "Black Dog"
+  author: "Caitlin Kittredge"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4851
+  title: "Grim Tidings"
+  author: "Caitlin Kittredge"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4852
+  title: "Passing Strange"
+  author: "Ellen Klages"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4853
+  title: "Flight of the Golden Harpy"
+  author: "Susan Klaus"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4854
+  title: "The Lost Puzzler"
+  author: "Eyal Kless"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-collapse-quests
+  note: ""
+- id: 4855
+  title: "Maza of the Moon"
+  author: "Otis Adelbert Kline"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4856
+  title: "Qualityland"
+  author: "Marc-Uwe Kling"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: net-and-corporate-power
+  note: ""
+- id: 4857
+  title: "The Bones Beneath My Skin"
+  author: "TJ Klune"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4858
+  title: "In the Lives of Puppets"
+  author: "TJ Klune"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: post-collapse-quests
+  note: ""
+- id: 4859
+  title: "TJ Klune Ebook Collection"
+  author: "TJ Klune"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4860
+  title: "TJ Klune Trade Paperback Collection"
+  author: "TJ Klune"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4861
+  title: "Crisped + Sere"
+  author: "TJ Klune"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4862
+  title: "How to Be a Normal Person"
+  author: "TJ Klune"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4863
+  title: "Into This River I Drown"
+  author: "TJ Klune"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4864
+  title: "Murmuration"
+  author: "TJ Klune"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4865
+  title: "We Burned So Bright"
+  author: "TJ Klune"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 4866
+  title: "Withered + Sere"
+  author: "TJ Klune"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4867
+  title: "Otaku"
+  author: "Chris Kluwe"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: net-and-corporate-power
+  note: ""
+- id: 4873
+  title: "Dragon Champion"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4874
+  title: "Tale of the Thunderbolt"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4875
+  title: "Valentine's Rising"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4876
+  title: "Dragon Avenger"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4877
+  title: "Dragon Outcast"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4878
+  title: "Valentine's Exile"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4879
+  title: "Fall With Honor"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4880
+  title: "Valentine's Resolve"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4881
+  title: "Winter Duty"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4882
+  title: "Dragon Fate"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4883
+  title: "March In Country"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4884
+  title: "Dragon Rule"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4885
+  title: "Dragon Strike"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4888
+  title: "Novice Dragoneer"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4889
+  title: "Daughter of the Serpentine"
+  author: "E.E. Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4890
+  title: "Before the Fall"
+  author: "Francis Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4891
+  title: "Fade to Black"
+  author: "Francis Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4892
+  title: "Last to Rise"
+  author: "Francis Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: city-underworlds
+  note: ""
+- id: 4893
+  title: "Blood Crave"
+  author: "Jennifer Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 4894
+  title: "Blood on the Moon"
+  author: "Jennifer Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-fringe
+  note: ""
+- id: 4895
+  title: "Legends and Liars"
+  author: "Julia Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4896
+  title: "Swords and Scoundrels"
+  author: "Julia Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4897
+  title: "Warlords and Wastrels"
+  author: "Julia Knight"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4898
+  title: "The Exquisite Torment of Loving Your Enemy"
+  author: "Brigitte Knightley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4899
+  title: "The Irresistible Urge to Fall for Your Enemy"
+  author: "Brigitte Knightley"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4900
+  title: "Forged for Destiny"
+  author: "Andrew Knighton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4901
+  title: "Forged for Prophecy"
+  author: "Andrew Knighton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4902
+  title: "Forged for Royalty"
+  author: "Andrew Knighton"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: chosen-heirs
+  note: ""
+- id: 4903
+  title: "Fantasy Lovers Bookmark Corners, Set of 3 Unique Cardstock Bookmarks"
+  author: "Knock Knock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4904
+  title: "Reap the Whirlwind"
+  author: "The Sword of Knowledge"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4905
+  title: "A Visit to the House on Terminal Hill"
+  author: "Elizabeth Knox"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vengeful-spirits
+  note: ""
+- id: 4906
+  title: "Domesticating Dragons"
+  author: "Dan Koboldt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4907
+  title: "Deploying Dragons"
+  author: "Dan Koboldt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4908
+  title: "The Rogue Retrieval"
+  author: "Dan Koboldt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: portal
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: whimsical-doors
+  note: ""
+- id: 4909
+  title: "Ark"
+  author: "K.B. Kofoed"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-prewar
+  note: ""
+- id: 4910
+  title: "Deep Ice"
+  author: "Karl Kofoed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4911
+  title: "Farthest Reef"
+  author: "Karl Kofoed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4912
+  title: "Infinite Reef"
+  author: "Karl Kofoed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4913
+  title: "Joko"
+  author: "Karl Kofoed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4914
+  title: "Jupiter's Reef"
+  author: "Karl Kofoed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4915
+  title: "Jupiter's Reef Trilogy"
+  author: "Karl Kofoed"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4916
+  title: "Requiem"
+  author: "Robert A. Heinlein; Edited by Yoji Kondo"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4917
+  title: "Cyberpunk 2077: No Coincidence"
+  author: "Rafal Kosik"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4918
+  title: "The Games"
+  author: "Ted Kosmatka"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_now
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-agencies
+  note: ""
+- id: 4919
+  title: "Act of God"
+  author: "Eric Kotani"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4920
+  title: "Delta Pavonis"
+  author: "Eric Kotani"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4921
+  title: "The Island Worlds"
+  author: "Eric Kotani"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4922
+  title: "Between the Stars"
+  author: "Eric Kotani"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4923
+  title: "A Duet with the Siren Duke"
+  author: "Elise Kova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4924
+  title: "A Dawn with the Wolf Knight"
+  author: "Elise Kova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4925
+  title: "A Dance with the Fae Prince"
+  author: "Elise Kova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4926
+  title: "A Deal with the Elf King"
+  author: "Elise Kova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4927
+  title: "A Duel with the Vampire Lord"
+  author: "Elise Kova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: fae-courts
+  note: ""
+- id: 4928
+  title: "Arcana Academy"
+  author: "Elise Kova"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_now
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: campus-and-coven
+  note: ""
+- id: 4929
+  title: "Prince of Swords"
+  author: "Elise Kova"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4930
+  title: "Plunder"
+  author: "R.S. Kovach"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4937
+  title: "Forest of Memory"
+  author: "Mary Robinette Kowal"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: net-and-corporate-power
+  note: ""
+- id: 4939
+  title: "Articulated Restraint"
+  author: "Mary Robinette Kowal"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4940
+  title: "In the Moon's House"
+  author: "Mary Robinette Kowal"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4941
+  title: "Skylock"
+  author: "Paul Kozerski"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: first-signs
+  note: ""
+- id: 4942
+  title: "A Broken Queen"
+  author: "Sarah Kozloff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4943
+  title: "A Queen in Hiding"
+  author: "Sarah Kozloff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4944
+  title: "The Cerulean Queen"
+  author: "Sarah Kozloff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4945
+  title: "The Queen of Raiders"
+  author: "Sarah Kozloff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4946
+  title: "The Nine Realms"
+  author: "Sarah Kozloff"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: dragons-and-courts
+  note: ""
+- id: 4947
+  title: "The Religions Of Star Trek"
+  author: "Ross Kraemer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4948
+  title: "Combat Command: Cut by Emerald"
+  author: "Dana Kramer"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  note: ""
+- id: 4949
+  title: "Shadow Raiders"
+  author: "Robert Krammes"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: sword-sagas
+  note: ""
+- id: 4952
+  title: "Caliphate"
+  author: "Tom Kratman"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_future
+  genre: sf
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
