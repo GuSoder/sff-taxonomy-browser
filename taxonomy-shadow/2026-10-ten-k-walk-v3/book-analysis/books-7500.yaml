@@ -2729,3 +2729,289 @@
   source: web
   decision: HOLD:SHORT-FORM-STORY
   note: ""
+- id: 7728
+  title: "A Dark and Drowning Tide"
+  author: "Allison Saft"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7729
+  title: "Heartsgrove"
+  author: "Allison Saft"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: witches-and-dreamers
+  note: ""
+- id: 7730
+  title: "Edenborn"
+  author: "Nick Sagan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 7731
+  title: "Everfree"
+  author: "Nick Sagan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 7732
+  title: "Idlewild"
+  author: "Nick Sagan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ark-and-collapse-teens
+  note: ""
+- id: 7733
+  title: "Silence"
+  author: "Michelle Sagara"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunting-futures-and-cairns
+  note: ""
+- id: 7734
+  title: "Touch"
+  author: "Michelle Sagara"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunting-futures-and-cairns
+  note: ""
+- id: 7735
+  title: "Grave"
+  author: "Michelle Sagara"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunting-futures-and-cairns
+  note: ""
+- id: 7736
+  title: "The Queen of the Dead"
+  author: "Michelle Sagara"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: haunting-futures-and-cairns
+  note: ""
+- id: 7737
+  title: "Cascade Failure"
+  author: "L. M. Sagas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7738
+  title: "Gravity Lost"
+  author: "L. M. Sagas"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7739
+  title: "King of Ravens"
+  author: "Clare Sager"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 7740
+  title: "Queen of Thorns"
+  author: "Clare Sager"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-of-the-realm
+  note: ""
+- id: 7741
+  title: "Spring's Arcana"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-magic-cities
+  note: ""
+- id: 7742
+  title: "The Salt-Black Tree"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-magic-cities
+  note: ""
+- id: 7743
+  title: "A Flame in the North"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7744
+  title: "Afterwar"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 7745
+  title: "Angel Town"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 7746
+  title: "Blood Call"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""
+- id: 7747
+  title: "Cormorant Run"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 7748
+  title: "Dante Valentine"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""
+- id: 7749
+  title: "Dead Man Rising"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""

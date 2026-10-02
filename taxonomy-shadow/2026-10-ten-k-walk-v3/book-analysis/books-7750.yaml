@@ -1,0 +1,625 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 7750
+  title: "Flesh Circus"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""
+- id: 7751
+  title: "Heavens Spite"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 7752
+  title: "Hunters Prayer"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 7753
+  title: "Jill Kismet"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 7754
+  title: "Night Shift"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 7755
+  title: "Pack"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 7756
+  title: "Redemption Alley"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dresden-style-wizards
+  note: ""
+- id: 7757
+  title: "Roadside Magic"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-magic-cities
+  note: ""
+- id: 7758
+  title: "The Bandit King"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 7759
+  title: "The Fall of Waterstone"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7760
+  title: "The Hedgewitch Queen"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 7761
+  title: "The Iron Wyrm Affair"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 7762
+  title: "The Red Plague Affair"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 7763
+  title: "The Ripper Affair"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: period-and-pet-sleuths
+  note: ""
+- id: 7764
+  title: "Trailer Park Fae"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-magic-cities
+  note: ""
+- id: 7765
+  title: "Wasteland King"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruins-and-kirinyaga
+  note: ""
+- id: 7766
+  title: "Working for the Devil"
+  author: "Lilith Saintcrow"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wands-razors-and-zombies
+  note: ""
+- id: 7767
+  title: "Enigmatic Pilot"
+  author: "Kris Saknussemm"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 7768
+  title: "Nothing but the Rain"
+  author: "Naomi Salman"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-towns-and-ghosts
+  note: ""
+- id: 7770
+  title: "The Highwayman"
+  author: "R. A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: renshai-and-kingkillers
+  note: ""
+- id: 7771
+  title: "The Dame"
+  author: "R. A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: renshai-and-kingkillers
+  note: ""
+- id: 7772
+  title: "The Bear"
+  author: "R. A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: renshai-and-kingkillers
+  note: ""
+- id: 7773
+  title: "DemonWars: The First King"
+  author: "R. A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: renshai-and-kingkillers
+  note: ""
+- id: 7774
+  title: "Child of a Mad God"
+  author: "R. A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wolves-golds-and-karavans
+  note: ""
+- id: 7775
+  title: "Reckoning of Fallen Gods"
+  author: "R. A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wolves-golds-and-karavans
+  note: ""
+- id: 7776
+  title: "Song of the Risen God"
+  author: "R. A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: wolves-golds-and-karavans
+  note: ""
+- id: 7777
+  title: "Echoes of the Fourth Magic"
+  author: "R.A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 7778
+  title: "Bastion of Darkness"
+  author: "R.A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 7779
+  title: "The Witch's Daughter"
+  author: "R.A. Salvatore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: celtic-bards
+  note: ""
+- id: 7780
+  title: "The Practice, the Horizon, and the Chain"
+  author: "Sofia Samatar"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7781
+  title: "Enchanted Tales"
+  author: "Laura Sampson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 7783
+  title: "Firstborn"
+  author: "Brandon Sanderson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7785
+  title: "Legion: The Many Lives of Stephen Leeds"
+  author: "Brandon Sanderson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7786
+  title: "Legion: Lies of the Beholder"
+  author: "Brandon Sanderson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7788
+  title: "The Frugal Wizard's Handbook for Surviving Medieval England"
+  author: "Brandon Sanderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7790
+  title: "Tailored Realities"
+  author: "Brandon Sanderson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 7791
+  title: "The Fires of December"
+  author: "Brandon Sanderson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7793
+  title: "Blightfall"
+  author: "Brandon Sanderson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7796
+  title: "Defiant"
+  author: "Brandon Sanderson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7799
+  title: "Mitosis"
+  author: "Brandon Sanderson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7802
+  title: "Snapshot"
+  author: "Brandon Sanderson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7806
+  title: "The Frugal Wizards Handbook for Surviving Medieval England"
+  author: "Brandon Sanderson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7828
+  title: "Runaway Vampire"
+  author: "Lynsay Sands"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 7829
+  title: "Single White Vampire"
+  author: "Lynsay Sands"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 7830
+  title: "Tall, Dark & Hungry"
+  author: "Lynsay Sands"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 7831
+  title: "The Accidental Vampire"
+  author: "Lynsay Sands"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 7832
+  title: "The Immortal Hunter"
+  author: "Lynsay Sands"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 7833
+  title: "The Immortal Who Loved Me"
+  author: "Lynsay Sands"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
