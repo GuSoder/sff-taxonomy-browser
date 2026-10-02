@@ -1063,7 +1063,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4353
   title: "El Borak and Other Desert Adventures"
@@ -1076,7 +1076,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4355
   title: "Sword Woman and Other Historical Adventures"
@@ -1089,7 +1089,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4356
   title: "Queen of the Orcs: Clan Daughter"
@@ -1180,7 +1180,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4363
   title: "The Secret Lives of Immortals"
@@ -1232,7 +1232,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4370
   title: "The Language of Liars"
@@ -1492,7 +1492,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4411
   title: "Have Stakes Will Travel"
@@ -1505,7 +1505,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4414
   title: "Kicking It"
@@ -1518,7 +1518,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4418
   title: "Blood in Her Veins"
@@ -1622,7 +1622,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4431
   title: "Rift in the Soul"
@@ -1713,7 +1713,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4443
   title: "Plausibly Deniable"
@@ -1739,7 +1739,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4445
   title: "Pearl"
@@ -1752,7 +1752,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4446
   title: "Witch Hazel"
@@ -1765,7 +1765,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4447
   title: "The Crossing"
@@ -1882,7 +1882,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4456
   title: "Eternal Rider"
@@ -1934,7 +1934,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4460
   title: "Shorted"
@@ -1947,7 +1947,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-CHILDREN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4461
   title: "Justice"
@@ -2103,7 +2103,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4473
   title: "Brain Thief"
@@ -2246,7 +2246,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4497
   title: "And Eternity"

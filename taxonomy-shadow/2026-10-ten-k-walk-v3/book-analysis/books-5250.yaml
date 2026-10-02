@@ -10,7 +10,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5251
   title: "Our King and His Court"
@@ -23,7 +23,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5252
   title: "Painless"
@@ -36,7 +36,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5253
   title: "How Quini the Squid Misplaced His Klobucar"
@@ -49,7 +49,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5254
   title: "Quandary Aminu vs The Butterfly Man"
@@ -62,7 +62,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5255
   title: "Even If Such Ways Are Bad"
@@ -75,7 +75,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5256
   title: "Headhunting"
@@ -88,7 +88,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5257
   title: "Breathing Constellations"
@@ -101,7 +101,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5258
   title: "The Sack of Burley Cottage"
@@ -114,7 +114,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5259
   title: "In the Hours Preceding the Fall of Tau-Sants"
@@ -127,7 +127,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5260
   title: "Steelborn"
@@ -179,7 +179,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:CHILDREN-MG-OR-YA-OR-COMIC
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5264
   title: "Witches of Ash and Ruin"
@@ -218,7 +218,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 5267
   title: "An Embodiment of Souls"
@@ -236,12 +236,12 @@
 - id: 5268
   title: "The Crystal City Under the Sea"
   author: "Andre Laurie"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
@@ -257,7 +257,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5270
   title: "Reimagining Lovecraft: Four Tor.com Novellas"
@@ -270,7 +270,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5272
   title: "Byzantium"
@@ -283,7 +283,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5276
   title: "The Black Rood"
@@ -296,7 +296,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5277
   title: "The Iron Lance"
@@ -309,7 +309,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5278
   title: "The Mystic Rose"
@@ -322,7 +322,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5279
   title: "In the Region of the Summer Stars"
@@ -387,7 +387,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5284
   title: "Thirsty Ground"
@@ -400,7 +400,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5291
   title: "Red Sister"
@@ -556,7 +556,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:CHILDREN-MG-OR-YA-OR-COMIC
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5303
   title: "ROBOSOLDIERS: Thank You for Your Servos"
@@ -569,7 +569,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5304
   title: "Awakenings"
@@ -621,7 +621,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:CHILDREN-MG-OR-YA-OR-COMIC
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5308
   title: "Blood of the Four"
@@ -686,7 +686,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5313
   title: "Provenance"

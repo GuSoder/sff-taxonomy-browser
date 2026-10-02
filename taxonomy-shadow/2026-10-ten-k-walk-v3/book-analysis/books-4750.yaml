@@ -218,7 +218,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4783
   title: "The Briar King"
@@ -413,7 +413,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4798
   title: "Silk"
@@ -569,7 +569,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4810
   title: "The Tindalos Asset"
@@ -647,7 +647,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4816
   title: "In Our Own Worlds"
@@ -660,7 +660,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4817
   title: "Into the Gray"
@@ -699,7 +699,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4820
   title: "Red Shield"
@@ -738,7 +738,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4823
   title: "The Apprentice Liar and the Death of the World"
@@ -751,7 +751,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 4824
   title: "The God and the Gumiho"
@@ -803,7 +803,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4828
   title: "Everybody Sees the Ants"
@@ -816,7 +816,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4829
   title: "Glory OBriens History of the Future"
@@ -829,7 +829,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4835
   title: "Califia's Daughters"
@@ -894,7 +894,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4840
   title: "The Serpents Bride"
@@ -933,7 +933,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 4843
   title: "The Illustrated Eric"
@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:ILLUSTRATED-EDITION-OR-NON-FICTION
   note: ""
 - id: 4844
   title: "Bonnie Bailey and the Faire of Worlds"
@@ -959,7 +959,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4845
   title: "Sand"
@@ -972,7 +972,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4846
   title: "Across the Face of the World"
@@ -998,7 +998,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4848
   title: "Freddie & Gingersnap Find a Cloud to Keep"
@@ -1011,7 +1011,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4849
   title: "Saltcrop"
@@ -1063,7 +1063,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4853
   title: "Flight of the Golden Harpy"
@@ -1154,7 +1154,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4860
   title: "TJ Klune Trade Paperback Collection"
@@ -1167,7 +1167,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4861
   title: "Crisped + Sere"
@@ -1180,7 +1180,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4862
   title: "How to Be a Normal Person"
@@ -1193,7 +1193,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4863
   title: "Into This River I Drown"
@@ -1570,7 +1570,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4899
   title: "The Irresistible Urge to Fall for Your Enemy"
@@ -1583,7 +1583,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4900
   title: "Forged for Destiny"
@@ -1635,7 +1635,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:NOT-A-BOOK-PLACEHOLDER
   note: ""
 - id: 4904
   title: "Reap the Whirlwind"
@@ -1804,7 +1804,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 4917
   title: "Cyberpunk 2077: No Coincidence"
@@ -1817,7 +1817,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 4918
   title: "The Games"
@@ -1986,7 +1986,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 4937
   title: "Forest of Memory"
@@ -2012,7 +2012,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4940
   title: "In the Moon's House"
@@ -2025,7 +2025,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4941
   title: "Skylock"
@@ -2116,17 +2116,17 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4948
   title: "Combat Command: Cut by Emerald"
   author: "Dana Kramer"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-TIE-IN-OR-ROMANCE-OR-NON-SPECULATIVE
@@ -2168,7 +2168,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4963
   title: "A Pillar of Fire by Night"
@@ -2194,7 +2194,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 4965
   title: "Principles of Organization for War and Organizing for War in the Carreraverse"
@@ -2207,7 +2207,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4966
   title: "Days of Burning, Days of Wrath"
@@ -2259,7 +2259,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4970
   title: "Violet Thistlewaite Is Not a Villain Anymore"
@@ -2311,7 +2311,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4974
   title: "Maximum Light"
@@ -2428,7 +2428,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4987
   title: "Now We Paint Worlds"
@@ -2441,7 +2441,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4988
   title: "The Rainseekers"
@@ -2584,7 +2584,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4999
   title: "Obstetrix"
@@ -2597,5 +2597,5 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""

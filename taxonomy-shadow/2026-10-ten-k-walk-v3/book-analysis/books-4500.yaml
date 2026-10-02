@@ -49,7 +49,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4504
   title: "Foreign Devils"
@@ -114,7 +114,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 4539
   title: "Votan and Other Novels"
@@ -127,7 +127,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4540
   title: "Bittershore"
@@ -244,7 +244,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4549
   title: "Burn Down the Sky"
@@ -322,7 +322,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4555
   title: "How Long til Black Future Month?"
@@ -335,7 +335,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4556
   title: "Shades in Shadow: An Inheritance Triptych"
@@ -348,7 +348,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4558
   title: "The Dreamblood Duology"
@@ -426,7 +426,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4569
   title: "Flyaway"
@@ -452,7 +452,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4571
   title: "In Connorville"
@@ -465,7 +465,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4572
   title: "A Fate Inked in Blood"
@@ -608,7 +608,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 4583
   title: "Noir"
@@ -673,7 +673,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 4589
   title: "What I Saw Before the War"
@@ -686,11 +686,11 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4592
   title: "A Well-Fed Companion"
-  author: "Congyun \\\\\\\\\\\\\\\"Mu Ming\\\\\\\\\\\\\\\" Gu; translated by Kiera Johnson"
+  author: "Congyun \"Mu Ming\" Gu; translated by Kiera Johnson"
   form: x
   has_magic: 
   is_real_earth: 
@@ -699,7 +699,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4593
   title: "The Reimagining of Thornwood House"
@@ -842,7 +842,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NON-SPECULATIVE-OR-CHILDREN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4611
   title: "The Dream-Quest of Vellitt Boe"
@@ -868,7 +868,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 4613
   title: "Mission to Methone"
@@ -894,7 +894,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 4615
   title: "The Spacetime War"
@@ -985,7 +985,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4627
   title: "Deep Secret"
@@ -1089,7 +1089,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4635
   title: "From The Two Rivers"
@@ -1115,7 +1115,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4637
   title: "By Grace and Banners Fallen: Prologue to A Memory of Light"
@@ -1128,7 +1128,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4641
   title: "Warrior of the Altaii"
@@ -1154,7 +1154,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 4643
   title: "The Last Human"
@@ -1193,7 +1193,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 4646
   title: "Saga of Recluce: Books 1-5"
@@ -1258,7 +1258,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4651
   title: "Apex"
@@ -1284,7 +1284,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4653
   title: "Fate of the Fallen"
@@ -1375,7 +1375,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:CHILDREN-MG-OR-YA-UNCLEAR
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 4660
   title: "Devil in the Dollhouse"
@@ -1510,12 +1510,12 @@
 - id: 4670
   title: "The Everything Box"
   author: "Richard Kadrey"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
   confidence: moderate
   source: web
   decision: HOLD:UNCLEAR-REVISIT
@@ -1596,7 +1596,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4678
   title: "Mirabile"
@@ -1622,7 +1622,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 4680
   title: "The Joplin Horror"
@@ -1661,7 +1661,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4688
   title: "A Snake Among Swans"
@@ -1817,7 +1817,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 4703
   title: "The Quantum Thief"
@@ -2012,7 +2012,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-ANTHOLOGY-OR-COMPANION-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4718
   title: "Glimmer"
@@ -2129,7 +2129,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4727
   title: "Grace's Family"
@@ -2142,7 +2142,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4728
   title: "What It Means To Be A Car"
@@ -2155,7 +2155,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4729
   title: "No Agency Without Identity! Stay In Character Always!"
@@ -2168,7 +2168,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4730
   title: "Omega Morales and the Curse of El Cucuy"
@@ -2181,7 +2181,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4731
   title: "Omega Morales and the Legend of La Lechuza"
@@ -2194,7 +2194,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 4732
   title: "A Discourse in Steel"
@@ -2246,7 +2246,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-YA-CONTEMPORARY-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 4736
   title: "The Book of Forbidden Wisdom"

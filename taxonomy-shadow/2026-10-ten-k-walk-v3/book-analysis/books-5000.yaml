@@ -36,7 +36,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:NOT-A-BOOK-PLACEHOLDER
   note: ""
 - id: 5003
   title: "A Big Important Art Book (Now with Women)"
@@ -49,7 +49,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:NOT-A-BOOK-PLACEHOLDER
   note: ""
 - id: 5006
   title: "Vectors"
@@ -205,7 +205,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5025
   title: "Teeth in the Mist"
@@ -296,7 +296,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5032
   title: "Thomas the Rhymer"
@@ -335,7 +335,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5037
   title: "Fury"
@@ -387,7 +387,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5041
   title: "The Dragonsitter Takes Off"
@@ -400,7 +400,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5042
   title: "The Dragonsitter to the Rescue"
@@ -413,7 +413,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5043
   title: "The Dragonsitters Castle"
@@ -426,7 +426,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5044
   title: "The Dragonsitters Island"
@@ -439,7 +439,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5045
   title: "The Dragonsitters Party"
@@ -452,7 +452,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5046
   title: "Celestial"
@@ -556,7 +556,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NONFICTION-OR-TIE-IN
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5081
   title: "Spirits White as Lightning"
@@ -886,12 +886,12 @@
 - id: 5124
   title: "Burdens of the Dead"
   author: "Mercedes Lackey"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
@@ -907,7 +907,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5126
   title: "Elementary (All-New Tales of the Elemental Masters)"
@@ -1531,7 +1531,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 5198
   title: "The Best of R. A. Lafferty"
@@ -1544,7 +1544,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5199
   title: "How to Make a Triffid"
@@ -1557,7 +1557,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5200
   title: "Billy Moon"
@@ -1570,7 +1570,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5201
   title: "The Mage and the Liar Knight"
@@ -1609,7 +1609,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5206
   title: "Endurance"
@@ -1648,7 +1648,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 5210
   title: "Witpunk"
@@ -1661,7 +1661,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:COLLECTION-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5211
   title: "Seven Mercies"
@@ -1947,7 +1947,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5236
   title: "Alien Emergencies"
@@ -1960,7 +1960,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 5239
   title: "Dawn of Fate and Fire"
@@ -2090,7 +2090,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:CHILDREN-MG-OR-YA-OR-COMIC
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5249
   title: "Planet of the Penguins"
@@ -2103,5 +2103,5 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:CHILDREN-MG-OR-YA-OR-COMIC
+  decision: HOLD:CHILDREN-MG
   note: ""
