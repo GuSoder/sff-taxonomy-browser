@@ -1,0 +1,110 @@
+# Phase B splits. Format: S|leaf (becomes umbrella, 0 direct cards)|child-id|Child name|definition|cards (semicolon list)
+# D|leaf|card kept|cards folded into it (series rule: one card per series)
+D|fellowship-quest-fantasy|The Sword of Shannara Trilogy|The Heritage of Shannara;Voyage of the Jerle Shannara;High Druid of Shannara;Dark Legacy of Shannara;Defenders and Legends of Shannara;First King of Shannara
+D|fellowship-quest-fantasy|The Belgariad|Belgariad world prequels (Eddings)
+D|military-fantasy|Malazan Book of the Fallen|Novels of the Malazan Empire;Malazan Book of the Fallen (second copy)
+D|military-fantasy|Land Fit for Heroes|Land Fit for Heroes (cont.)
+D|ground-pounders|Legacy of the Aldenata|Legacy of the Aldenata (cont.)
+D|vampire-worlds|(none)|
+D|romantasy|One Dark Window|One Dark Window (cont.)
+D|alien-invasion-fiction|Vampire Earth|Vampire Earth (cont.)
+S|ground-pounders|bug-hunts|Bug Hunts|Infantry war against alien enemies: the grunt's view of the alien front.|Starship Troopers;Old Man's War;Cry Pilot;Legacy of the Aldenata;Confederation (Huff);Eternity War;Lazarus War;War Dogs (Bear);Cobra
+S|ground-pounders|forever-soldiers|Forever Soldiers|Infantry SF about what long service costs the soldier: time dilation, conscription, the veteran who cannot go home.|The Forever War;Forever Peace;Jason Wander (Buettner);The Light Brigade;Red Sword;Death's Head;Clone Republic;Theirs Not to Reason Why
+S|ground-pounders|hired-guns|Hired Guns|Infantry SF of mercenary companies and soldiers for hire.|CoDominium;Carrera (Kratman);Countdown (Kratman);Bastard Legion;Freehold;Tour of Duty
+S|ground-pounders|space-marines|Space Marines|Infantry SF of marine corps and powered-armor or mecha infantry units, boot camp to deployment.|Starfist;Star Marines (Douglas);Mecha Corps
+S|ground-pounders|lost-legions|Lost Legions|Soldiers stranded or abducted to another world who must fight on there.|Janissaries;Empire of Man
+S|military-fantasy|ranks-and-companies|Ranks and Companies|Fantasy war from the ranks: mercenary companies, one battle, veterans' lives.|The Black Company;True Bastards;The Heroes;Land Fit for Heroes;Malazan Book of the Fallen;The Traitor Son Cycle;Under the Northern Sky;Crossroads (Elliott)
+S|military-fantasy|wings-and-hulls|Wings and Hulls|Fantasy war in the air and at sea: dragon airmen, airships, warships.|Havemercy;The Signal Airship duology;Tide Child (Bone Ships);Dragonmaster and Seer King (Bunch)
+S|military-fantasy|mages-at-war|Mages at War|Fantasy war where magic is the weapon and mages are drafted, bred or hunted for it.|Age of Darkness (Aryan);The Poppy War;The Ascendant Trilogy;Siege trilogy;Demontech;Rage of Dragons;Elves (Barclay);The Witness Trilogy;Serpentwar Saga;Faithful and Fallen / Banished Lands
+S|publicly-paranormal|badge-and-bounty|Badge and Bounty|Open-supernatural cities seen by those who police or hunt monsters for pay.|Anita Blake: Vampire Hunter;Jane Yellowrock;The Hollows;Kate Daniels (Andrews);Deadtown;Spellcrackers;Shadow Ops (Cole);Felix Castor;Blood Singer (Cat Adams)
+S|publicly-paranormal|packs-and-courts|Packs and Courts|Open-supernatural fiction centered on the communities: werewolf packs, vampire courts, fae and kin politics.|Mercy Thompson;Alpha and Omega;Kitty Norville;Sookie Stackhouse;Chicagoland Vampires;The Cerulean Chronicles;Simon Canderous
+S|publicly-paranormal|civilian-monster-life|Civilian Monster Life|Open-supernatural fiction from ordinary lives: jobs, schools, neighborhoods and families in a world that knows about monsters.|The Shambling Guide;Agent of Hel;Curse Workers;Elatsoe;A Song Below Water;No Gods, No Monsters
+S|space-adventure|crooks-and-cons|Crooks and Cons|Space adventure driven by heists, cons and rogues' bargains.|Hammajang Luck;Lady Eve's Last Con;Red Star Hustle;The Stainless Steel Rat;Spiral Arm
+S|space-adventure|ship-captains|Ship Captains|Space adventure driven by the captain and crew of one ship and the trade, war and trouble it runs into.|Vatta's War;Admiral (Danker);Sirantha Jax;Paradox (Bach);The Fire With Fire;The Spin Trilogy;Dark Diamond
+S|space-adventure|wanderers-and-fixers|Wanderers and Fixers|Space adventure with a lone talent on the road: a doctor, fixer, foundling or envoy moving from world to world.|Humanx Commonwealth (Flinx);Sorceress of Karres;Vorkosigan Saga;Stardoc;Moonstorm;Song of Spores;Where Peace Is Lost;Ymir;Plenty
+S|fellowship-quest-fantasy|farm-boy-fellowships|Farm-Boy Fellowships|Quest fantasy of the unlikely young hero and the company gathered round him.|The Lord of the Rings;The Belgariad;The Chronicles of Prydain;The Sword of Shannara Trilogy;The Eidyn Saga
+S|fellowship-quest-fantasy|royal-house-quests|Royal House Quests|Quest fantasy where the company serves or springs from a royal house in peril.|Memory, Sorrow, and Thorn;Shadowmarch;Eileanan;Royal Bastards;Realm Breaker (Aveyard)
+S|fellowship-quest-fantasy|sellsword-fellowships|Sellsword Fellowships|Quest fantasy of a hired company on the road.|Chronicles of the Raven;The Band (Eames)
+D|medieval-dynastic-intrigue|The Folk of the Air|Folk of the Air (second copy)
+D|medieval-dynastic-intrigue|Crown of Stars|Crown of Shards
+D|monsters-in-gaslight|Parasol Protectorate|The Custard Protocol;Finishing School
+D|monsters-in-gaslight|Crown & Key|Crown & Key (cont.)
+D|steampunk|The Clockwork Century|Clockwork Century (second copy)
+D|warrior-hero|Drenai Saga|Gemmell Drenai
+D|warrior-hero|Raven's Shadow|Raven's Blade
+S|medieval-dynastic-intrigue|succession-wars|Succession Wars|Dynastic fantasy of rival claimants, ruined houses and the war over who sits the throne.|A Song of Ice and Fire;The Forgotten Beasts of Eld;The Inheritance Trilogy;Dragon Prince saga;Empire Trilogy (Feist/Wurts)
+S|medieval-dynastic-intrigue|young-courtiers|Young Courtiers|Dynastic fantasy of heirs and wards learning the court's game: schooling, betrothal, first betrayal.|The Folk of the Air;Seven Realms;Tamir Triad;Hythrun and Harshini (Fallon);Memory of Flames (Deas);Crown of Stars
+S|occult-institutions|hidden-agencies|Hidden Agencies|Modern occult fantasy of government and corporate bureaus that manage magic and monsters.|The Laundry Files;Monster Hunter International;Twenty Palaces;Pax Arcana;American Craftsmen;InCryptid
+S|occult-institutions|secret-societies|Secret Societies|Modern occult fantasy of orders, councils and churches that guard or trade in magic.|Alex Stern (Bardugo);The Incrementalists;The Atlas Series;Alex Verus;Downside Ghosts
+S|occult-institutions|campus-and-coven|Campus and Coven|Modern occult fantasy set in schools, covens and small-town circles.|Conjure Wife;Silver Nitrate;The Bewitching;Supernatural Minnesota
+S|monsters-in-gaslight|folklore-arrivals|Folklore Arrivals|Gaslight fantasy of old-world creatures arriving in the industrial city.|The Golem and the Jinni;The Fox Wife;My Brother's Keeper;The Legend of Charlie Fish
+S|monsters-in-gaslight|society-and-sleuths|Society and Sleuths|Gaslight fantasy of drawing rooms, detectives and the monsters behind polite society.|The Angel of the Crows;Jackaby;Rook;Darkest London;Parasol Protectorate;Crown & Key
+S|monsters-in-gaslight|wild-edges|Wild Edges|Gaslight-era creature fantasy at sea and in the wastes beyond the gas lamps.|The Deep;The Cautious Traveller's Guide to the Wastelands;North Sun, or the Voyage of the Whaleship Esther
+S|steampunk|victorian-steam|Victorian Steam|Steampunk in British imperial London and its provinces.|The Difference Engine;Gideon Smith;Doktor Glass;Brass Giant;Newbury & Hobbes;Whitechapel Gods;Jackelian
+S|steampunk|frontier-steam|Frontier Steam|Steampunk in the American West and the colonial frontier.|The Clockwork Century;Karen Memory;A Transatlantic Tunnel, Hurrah!;Everfair
+S|steampunk|continental-steam|Continental Steam|Steampunk of continental Europe: war machines, rival powers and alt-Europe.|Leviathan;Clockwork Earth;Angel Maker
+S|greek-myth-fantasy|troy-and-after|Troy and After|Greek myth retold around the Trojan war and its aftermath.|The Song of Achilles;Wrath Goddess Sing;The Firebrand;Black Ships
+S|greek-myth-fantasy|heroes-and-beasts|Heroes and Beasts|Greek myth retold around the labors, monsters and heroes of the age.|Hercules (Betancourt);The Minotaur Trilogy;Phaedra;Latro;Wearing the Lion
+S|greek-myth-fantasy|gods-and-their-women|Gods and Their Women|Greek myth retold from the viewpoint of goddesses, nymphs and mortal women among the gods.|Circe;Medusa's Sisters and Aphrodite;Lovely War;The Phoenix and the Mirror;The Just City
+S|warrior-hero|hard-swords|Hard Swords|Martial-hero fantasy of the grim professional: mercenaries, killers and veterans.|Best Served Cold;Red Country;Drenai Saga;Raven's Shadow;Conclave of Shadows
+S|warrior-hero|swordswomen|Swordswomen|Martial-hero fantasy with a woman warrior at its center.|Jirel of Joiry;Graceling Realm;Forgotten Warrior;Godkiller
+S|warrior-hero|old-heroic-romance|Old Heroic Romance|Martial-hero fantasy in the early heroic-romance register.|The Well of the Unicorn;The Worm Ouroboros
+S|fae-founders|fae-in-the-hills|Fae in the Hills|Fae-founded fantasy in rural, mountain and island settings.|The Darkest Part of the Forest;Tufa novels (Bledsoe);Faerie Tale;Thorn Jack;Rebel Angels (Philip);The Changeling
+S|fae-founders|fae-in-the-city|Fae in the City|Fae-founded fantasy among city courts, cops and street-level bargains.|War for the Oaks;October Daye;The Dresden Files;Fever;Jack of Kinrowan / Ottawa fae;Alex Craft;The Witch King
+S|generation-starships|ships-that-forgot|Ships That Forgot|Generation ships where the crew has lost the truth of the voyage.|Non-Stop;Rite of Passage;Jacob's Ladder;Hull Zero Three;Generation Ship (Mammay);Alight
+S|generation-starships|ships-on-course|Ships on Course|Generation ships that keep their purpose and approach a destination.|Escaping Exodus;Calypso;Halcyon Years;The Deep Sky;Noumenon;Aurora
+S|big-dumb-objects|hollow-worlds|Hollow Worlds|Alien delving inside a vast habitat: ring, bowl, asteroid or hollowed planet.|Eon;Bowl of Heaven;Void Trilogy;Chronicle of the Fallers
+S|big-dumb-objects|relics-under-study|Relics Under Study|Alien delving of a single artifact studied by teams: probes, buried machines, strange constructs.|Creation Node;Revelation Space;Eversion;Needle;The Continuance;The Memory War;Themis Files;The Last Astronaut
+S|zombie-apocalypse|living-among-the-dead|Living Among the Dead|Zombie fiction set years after the fall, when the survivors have built a society.|Newsflesh;The Girl With All the Gifts;Brains (Becker);Forest of Hands and Teeth;State of Decay
+S|zombie-apocalypse|outbreak-day-one|Outbreak Day One|Zombie fiction of the outbreak itself and the first weeks of survival.|World War Z;Survivor Song;Autumn;Black Tide Rising;Extinction Cycle;Severance;Manhunt
+D|dying-earth|The Dying Earth|Tales of the Dying Earth
+D|dying-earth|(remove, duplicate of existing card at hard-magic)|Broken Earth
+D|dying-earth|The Book of the New Sun|Long Sun
+D|interstellar-court-politics|Teixcalaan|Teixcalaan (second copy)
+D|occult-city|(remove, duplicate of existing card at fae-founders)|The Dresden Files
+D|time-strays|Ring of Fire (1632)|Assiti Shards / Time Spike
+D|romantasy|The Ever Seas (Andrews)|The Broken Kingdoms (Andrews)
+D|romantasy|One Dark Window|One Dark Window (cont.)
+D|mage-hero|Black Magician (Canavan)|Traitor Spy
+D|mage-hero|Riftwar Saga|Darkwar Saga
+D|alien-invasion-fiction|Vampire Earth|Vampire Earth (cont.)
+# no split needed after dedupe (10 or fewer): dying-earth, interstellar-court-politics, occult-city, time-strays
+S|lost-knowledge|keepers-of-the-books|Keepers of the Books|Ruined-Earth tales where orders, archivists or monks keep the old learning alive.|A Canticle for Leibowitz;The Long Tomorrow;Riddley Walker;Archivist Wasp Saga;Against the Fall of Night;Hiero's Journey
+S|lost-knowledge|walled-in-survivors|Walled-In Survivors|Ruined-Earth tales of sealed cities, silos and fortresses where the old world's truth is withheld.|Silo;The Rampart Trilogy;A Stranger in the Citadel;Beyond the Burn Line;Dreaming Cities;Safehold
+S|deep-alterations|american-forks|American Forks|Alternate histories whose fork changes the American story for good.|1920: America's Great War;Liberty: 1784;1882: Custer in Chains;Cahokia Jazz
+S|deep-alterations|empires-that-never-fell|Empires That Never Fell|Alternate histories where an empire or church that fell in our world endures.|Arabesk;Romanitas;Pavane;The Alteration;The Years of Rice and Salt
+S|deep-alterations|other-worlds-histories|Other Worlds' Histories|Alternate histories with a diverged world of their own.|Sargassa;Singer Distance;The Strange
+S|caper-fantasy|city-thieves|City Thieves|Caper fantasy with thieves working one great city.|The Gentleman Bastard Sequence;Rook and Rose;Thieves' World novels (Abbey);Illusion of Thieves;Blacktongue;Nick Hulick (Drifter)
+S|caper-fantasy|rogues-abroad|Rogues Abroad|Caper fantasy on the road: crews and cons that travel.|The Legend of Eli Monpress;Ancient Blades;Saga of the Redeemed;A Tempest of Tea;The Sky on Fire
+S|multiverse-war|war-across-worlds|War Across Worlds|Parallel-world fiction where armies or powers fight across the worlds.|Destroyermen;The Book of All Hours;Echo of Worlds;Infinity Gate;Prison of Sleep
+S|multiverse-war|walkers-between-worlds|Walkers Between Worlds|Parallel-world fiction of travelers and fugitives slipping between worlds.|Million Mile Road Trip;Rabbit in the Moon;Ring Around the Sun;Outlaw Planet;The Knife and the Serpent;Transmentation | Transience
+S|otherworld-fantasy|doors-to-other-worlds|Doors to Other Worlds|Portal fantasy where the heroes cross over into a full other world.|The Fionavar Tapestry;Red Moon and Black Mountain;Three Hearts and Three Lions;The Dark World;The Wizard Knight
+S|otherworld-fantasy|hidden-worlds-beside-ours|Hidden Worlds Beside Ours|Portal fantasy of a second world pressed against ours and entered at the edge.|Imajica;The Ballad of Perilous Graves;The Secret Market of the Dead;The Edge (Andrews);Hidden Sea Tales;The Beginning Place
+S|secret-history|hidden-hands|Hidden Hands|Secret history where a hidden order or lineage steers the events we know.|Declare;The Baroque Cycle;Time's Tapestry;Assassin's Creed (Bowden);The Troy Game;The Aegypt Cycle
+S|secret-history|witches-and-libraries|Witches and Libraries|Secret history of witches, grimoires and archives behind recorded history.|The Once and Future Witches;The Diabolist's Library;The Innsmouth Legacy;The Water Dancer;The Embroidered Book
+S|hard-magic|magic-by-the-rules|Magic by the Rules|Hard fantasy where magic is a costed, systematized craft.|The Runelords;Saga of Recluce;The Cosmere;The Founders Trilogy;The Book of Elementals;Codex Alera
+S|hard-magic|magic-against-fate|Magic Against Fate|Hard fantasy where a rule-bound magic collides with prophecy, ruin or cosmic law.|The Wheel of Time;The Broken Earth;The Demon Cycle;The Old Kingdom;Middlegame
+S|sentient-robots|robot-lineages-and-revolts|Robot Lineages and Revolts|Robot fiction from first laws to rebellion and after.|I, Robot;Sea of Rust;The Robots of Gotham;Raymond Electromatic;Neom
+S|sentient-robots|servants-with-opinions|Servants With Opinions|Robot fiction told close to one machine's own voice and its work.|The Murderbot Diaries;Service Model;A Thousand Blues;Remember You Will Die;Sunward;We Lived on the Horizon
+S|space-navy|fleet-wars|Fleet Wars|Space-navy SF of fleets, carrier groups and admirals' campaigns.|Jay Allan military SF;Star Carrier;The Cruel Stars;Trinity (Bara);Central Corps (Bonesteel);Wing Commander
+S|space-navy|captains-and-their-ships|Captains and Their Ships|Space-navy SF about one commander and the ship they hold together.|Honor Harrington;Kris Longknife;RCN (Drake);Serrano;Blackwood and Virtue (Coles);The Lightship Chronicles;Helfort's War;Jean Dahl (Merrimack)
+S|space-navy|patrol-and-picket|Patrol and Picket|Space-navy SF of patrols, pickets and small-ship duty at the edge.|In the Black;Providence;Routine Patrol;The Last Watch (Dewes)
+S|space-colonies|mars-and-luna|Mars and Luna|Settled-off-Earth SF on Mars and the Moon.|Red Moon;Moving Mars;The Sands of Mars;Luna;The Moonday Letters;Vagabonds
+S|space-colonies|stations-and-the-belt|Stations and the Belt|Settled-off-Earth SF on stations, habitats and the outer system.|Outer Earth;The Expanse;The Investigations of Mossa & Pleiti;Nemesis (Asimov)
+S|space-colonies|settled-other-stars|Settled Other Stars|Settled-off-Earth SF on planets of other stars.|Songs of Distant Earth;Planetfall;Marjorie Westriding;Homecoming Saga;Castaway Planet;This Alien Shore;Heorot;Proxima
+S|alien-invasion-fiction|quiet-invasions|Quiet Invasions|Alien invasion by infiltration, replacement and possession.|The Midwich Cuckoos;The Puppet Masters;The Body Snatchers;The Host;Annex;Nova Express;The Wormwood Trilogy
+S|alien-invasion-fiction|conquest-wars|Conquest Wars|Alien invasion as open conquest and the human war of resistance.|The War of the Worlds;Footfall;The Aleutian Trilogy;Sixth Column;Vampire Earth;Ninth City Burning
+S|alien-invasion-fiction|extinction-probes|Extinction Probes|Alien invasion as a machine or swarm sent to end the species.|The Forge of God;Formic Wars;Von Neumann's War;Out of the Dark
+S|vampire-worlds|clans-and-courts|Clans and Courts|Vampire fantasy of vampire society itself: clans, courts, families and rules.|The Vampire Chronicles;Fledgling;A Dowry of Blood;Half-Light City;Lost Souls;Sunshine
+S|vampire-worlds|among-the-living|Among the Living|Vampire fantasy of vampires living hidden or open among humans.|Argeneau;Stein Anna Kopp;Felix Gomez (Acevedo);Generation V;Joe Pitt;Cassie Palmer;Dark Days (Drake);Coldtown
+S|vampire-worlds|vampire-pasts|Vampire Pasts|Vampire fantasy set in earlier eras.|Anno Dracula;Fevre Dream;Vampire Babylon
+S|alt-postwar|axis-victory|Axis Victory|Alternate WWII outcomes in which the Axis wins or dominates.|Fatherland;The Man in the High Castle;The Sound of His Horn;Wolf by Wolf;Rising Sun (Conroy);Himmler's War;Germanica;Storm Front (Conroy)
+S|alt-postwar|time-crossed-war|Time-Crossed War|Alternate WWII driven by outside intervention: time travel or alien invasion.|Axis of Time;Worldwar;Alt-WWII (DuBois)
+S|alt-postwar|postwar-turns|Postwar Turns|Alternate histories where the postwar world turns out differently.|The Yiddish Policemen's Union;Ascent;Biography of X;The Book of Guilt;The Underhistory;Vanishing World
+S|humorous-science-fiction|galactic-satire|Galactic Satire|Comic SF that satirizes and parodies: the galaxy as a joke on us.|The Hitchhiker's Guide to the Galaxy;Bill the Galactic Hero;Willful Child;The Sirens of Titan;The Cyberiad;Star Diaries;The Complete Roderick;Acts of God
+S|humorous-science-fiction|comic-capers|Comic Capers|Comic SF of farce, adventure and misfit crews.|The Hoka stories;Pandora's Legions (Anvil);CatStronauts;Terminal Alliance;The Kaiju Preservation Society;The Road to Roswell;Condomnauts;Fault Tolerance
+S|romantasy|rivals-and-enemies|Rivals and Enemies|Romantasy driven by rivals, enemies and forced pairings.|Divine Rivals;Crowns of Nyaxia (Broadbent);Fallen Empires (Draven);Frostblood Saga;The Halfling Saga;The Unbalancing;Caraval
+S|romantasy|dragons-and-courts|Dragons and Courts|Romantasy driven by dragons, fae courts and secondary-world magic.|Dragonfall;Otherworldly;One Dark Window;Fae & Alchemy;The Ever Seas (Andrews);The Sharing Knife;The Maid and the Crocodile
+S|mage-hero|apprentices-and-schools|Apprentices and Schools|Mage-hero fantasy of the young mage in training.|Earthsea;The Scholomance;Black Magician (Canavan);Riftwar Saga;Spellslinger;Age of Dread (Aryan);Unraveller
+S|mage-hero|mages-with-burdens|Mages With Burdens|Mage-hero fantasy of the grown mage under a curse, a debt or a duty.|The Rise of the Witch King;Saint Death's Daughter;The Warden;World of the Five Gods (Penric);Masters and Mages;Millennium's Rule;Spellwright
+D|interstellar-court-politics|Teixcalaan|Teixcalaan
