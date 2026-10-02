@@ -909,3 +909,913 @@
   source: web
   decision: ruined-societies
   note: ""
+- id: 7572
+  title: "Mercenary Librarians"
+  author: "Kit Rocha"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7573
+  title: "Soul Music"
+  author: "Rock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7574
+  title: "Flowers for the Sea"
+  author: "Zin E. Rocklyn"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
+  note: ""
+- id: 7575
+  title: "Tides of Mutiny"
+  author: "Rebecca Rode"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: swords-and-sea-rogues
+  note: ""
+- id: 7576
+  title: "Blessed by the Damned"
+  author: "Caty Rogan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 7577
+  title: "Kissed by the Gods"
+  author: "Caty Rogan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 7578
+  title: "Unwritten by the Gods"
+  author: "Caty Rogan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-courts-and-bargains
+  note: ""
+- id: 7579
+  title: "Rapunzel Rewoven"
+  author: "Alexandria Rogers"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 7580
+  title: "Spellbound Solstice"
+  author: "Alexandria Rogers"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 7581
+  title: "The Witch, the Sword, and the Cursed Knights"
+  author: "Alexandria Rogers"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 7582
+  title: "Quantum Break: Zero State"
+  author: "Cam Rogers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7583
+  title: "The Music of Razors"
+  author: "Cameron Rogers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7584
+  title: "Steal the Stars"
+  author: "Nat Cassidy; based on the dramatic podcast written by Mac Rogers"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7585
+  title: "The Anvil of Ice"
+  author: "Michael Scott Rohan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7586
+  title: "The Starless Crown"
+  author: "James Rollins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 7587
+  title: "The Cradle of Ice"
+  author: "James Rollins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 7588
+  title: "A Dragon of Black Glass"
+  author: "James Rollins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 7589
+  title: "A Fist of Molten Fire"
+  author: "James Rollins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: hunts-abysses-and-gothic-thrones
+  note: ""
+- id: 7590
+  title: "The Tear Collector"
+  author: "R. M. Romero"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-small-towns
+  note: ""
+- id: 7591
+  title: "American Gothic"
+  author: "Michael Romkey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7592
+  title: "The Vampire's Violin"
+  author: "Michael Romkey"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7593
+  title: "Soul Hunt"
+  author: "Margaret Ronald"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7594
+  title: "Wild Hunt"
+  author: "Margaret Ronald"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7595
+  title: "The Cairn in Slater Woods"
+  author: "Gina Rosati"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: haunted-small-towns
+  note: ""
+- id: 7596
+  title: "The Library of Stars"
+  author: "Jordan Rose"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7597
+  title: "Pugicorn Saves the Show"
+  author: "Matilda Rose"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7598
+  title: "Pugicorn to the Rescue!"
+  author: "Matilda Rose"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7599
+  title: "Pugicorns Mermaid Mystery"
+  author: "Matilda Rose"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7600
+  title: "Pugicorns Sleepover Surprise"
+  author: "Matilda Rose"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7601
+  title: "The Last Vampire"
+  author: "Patricia Rosemoor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7602
+  title: "The Vampire Agent"
+  author: "Patricia Rosemoor"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: vampire-literature-and-clubs
+  note: ""
+- id: 7603
+  title: "All Men of Genius"
+  author: "Lev AC Rosen"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: modern-fairy-tale-novels
+  note: ""
+- id: 7604
+  title: "Regarding the Childhood of Morrigan, Who Was Chosen to Open the Way"
+  author: "Benjamin Rosenbaum"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7605
+  title: "Paladins"
+  author: "Joel Rosenberg"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 7606
+  title: "Paladins II: Knight Moves"
+  author: "Joel Rosenberg"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: paladins-and-crusaders
+  note: ""
+- id: 7607
+  title: "Emile and the Dutchman"
+  author: "Joel Rosenberg"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7608
+  title: "Hero"
+  author: "Joel Rosenberg"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7609
+  title: "Not For Glory"
+  author: "Joel Rosenberg"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-and-imperium-ships
+  note: ""
+- id: 7610
+  title: "Murder in LaMut"
+  author: "Raymond E Feistjoel Rosenberg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7611
+  title: "Horizons"
+  author: "Mary Rosenblum"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7612
+  title: "A Trick Of Light"
+  author: "Stan Leekat Rosenfield"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7613
+  title: "Shannivar"
+  author: "Deborah J. Ross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7614
+  title: "The Seven-Petaled Shield"
+  author: "Deborah J. Ross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7615
+  title: "The Heir of Khored"
+  author: "Deborah J. Ross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: kingdoms-and-outlaws
+  note: ""
+- id: 7616
+  title: "A Bittersweet Spell"
+  author: "Rebecca Ross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7617
+  title: "A Fire Endless"
+  author: "Rebecca Ross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7618
+  title: "A River Enchanted"
+  author: "Rebecca Ross"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-crowns
+  note: ""
+- id: 7619
+  title: "The Sisters of the Winter Wood"
+  author: "Rena Rossner"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: classic-tale-retellings
+  note: ""
+- id: 7620
+  title: "Goodnight, Dragons"
+  author: "Judith Roth"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7621
+  title: "Arch-Conspirator"
+  author: "Veronica Roth"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-gifted-and-immortals
+  note: ""
+- id: 7622
+  title: "When Among Crows"
+  author: "Veronica Roth"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-gifted-and-immortals
+  note: ""
+- id: 7623
+  title: "To Clutch a Razor"
+  author: "Veronica Roth"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-gifted-and-immortals
+  note: ""
+- id: 7624
+  title: "The Wise Man's Fear"
+  author: "Patrick Rothfuss"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7625
+  title: "The Slow Regard of Silent Things"
+  author: "Patrick Rothfuss"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7626
+  title: "The Narrow Road Between Desires"
+  author: "Patrick Rothfuss"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7627
+  title: "Time Trials"
+  author: "M.A. Rothman"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: moon-bases-and-neighbour-worlds
+  note: ""
+- id: 7628
+  title: "The Path of Anger"
+  author: "Antoine Rouaud"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: swords-of-fire-and-legacy
+  note: ""
+- id: 7629
+  title: "Mage Heart"
+  author: "Jane Routleyjane Routley"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: magic-schools-and-liars
+  note: ""
+- id: 7630
+  title: "Salvaged"
+  author: "Madeleine Roux"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7631
+  title: "Reclaimed"
+  author: "Madeleine Roux"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7632
+  title: "How to Defeat a Demon King in Ten Easy Steps"
+  author: "Andrew Rowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: magic-schools-and-liars
+  note: ""
+- id: 7633
+  title: "When the Gods Give You Lemons, Fight and Dethrone the Gods"
+  author: "Andrew Rowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: magic-schools-and-liars
+  note: ""
+- id: 7634
+  title: "Jack of Coins"
+  author: "Christopher Rowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7635
+  title: "Knowledgeable Creatures"
+  author: "Christopher Rowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7636
+  title: "The Navigating Fox"
+  author: "Christopher Rowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7637
+  title: "The Day-Blind Stars"
+  author: "Christopher Rowe"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7638
+  title: "A Taste of Gold and Iron"
+  author: "Alexandra Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 7639
+  title: "Running Close to the Wind"
+  author: "Alexandra Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: crowns-in-contest
+  note: ""
+- id: 7640
+  title: "My Life as a White Trash Zombie"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7641
+  title: "Secrets of the Demon"
+  author: "Diana Rowland"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
