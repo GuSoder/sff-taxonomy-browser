@@ -688,3 +688,913 @@
   source: web
   decision: odd-futures-silver-box
   note: ""
+- id: 8575
+  title: "The Doomed City"
+  author: "Arkady Strugatsky"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 8576
+  title: "The Inhabited Island"
+  author: "Arkady Strugatsky"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 8577
+  title: "The Snail on the Slope"
+  author: "Arkady Strugatsky"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: invented_world
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: alternate-selves
+  note: ""
+- id: 8578
+  title: "Sometimes in the Fall"
+  author: "John Van Stry"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 8579
+  title: "Days of Future Past, Part 1: Past Tense"
+  author: "John Van Stry"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 8580
+  title: "Summer's End"
+  author: "John Van Stry"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 8581
+  title: "Dragon Boat Race"
+  author: "Tracy Subisak"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8582
+  title: "Little Land"
+  author: "Diana Sudyka"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8583
+  title: "The Acorns Gift"
+  author: "Diana Sudyka"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8584
+  title: "Good Fellows"
+  author: "Chris Sugden"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-cops-and-outsiders
+  note: ""
+- id: 8585
+  title: "High Vaultage"
+  author: "Chris Sugden"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-cops-and-outsiders
+  note: ""
+- id: 8586
+  title: "Username: Evie"
+  author: "Joe Sugg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8587
+  title: "Username: Regenerated"
+  author: "Joe Sugg"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 8588
+  title: "The Red Winter"
+  author: "Cameron Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: folk-horror-woods
+  note: ""
+- id: 8589
+  title: "Nature Futures 2"
+  author: "Colin Sullivan"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 8590
+  title: "Age of Myth"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 8591
+  title: "Age of Swords"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 8592
+  title: "Age of War"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: deep-time-chronicles
+  note: ""
+- id: 8593
+  title: "Heir of Novron"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 8594
+  title: "Rise of Empire"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 8595
+  title: "The Crown Tower"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 8596
+  title: "The Riyria Revelations"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 8597
+  title: "The Rose and the Thorn"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 8598
+  title: "Theft of Swords"
+  author: "Michael J. Sullivan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: riddle-masters
+  note: ""
+- id: 8599
+  title: "Occupy Me"
+  author: "Tricia Sullivan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 8600
+  title: "Dreaming In Smoke"
+  author: "Tricia Sullivan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 8601
+  title: "Sweet Dreams"
+  author: "Tricia Sullivan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 8602
+  title: "The Book of Blood and Roses"
+  author: "Annie Summerlee"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-streets
+  note: ""
+- id: 8603
+  title: "The Death of a Coven"
+  author: "Annie Summerlee"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-streets
+  note: ""
+- id: 8604
+  title: "The Bookshop Below"
+  author: "Georgia Summers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: modern-doors-and-wonderlands
+  note: ""
+- id: 8605
+  title: "The City of Stardust"
+  author: "Georgia Summers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: modern-doors-and-wonderlands
+  note: ""
+- id: 8606
+  title: "The Door of Shadows"
+  author: "Georgia Summers"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: modern-doors-and-wonderlands
+  note: ""
+- id: 8607
+  title: "The Awakening of Insects"
+  author: "Bobby Sun"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8608
+  title: "The Lady of Thorns"
+  author: "Tasha Suri"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 8609
+  title: "The Lotus Empire"
+  author: "Tasha Suri"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ash-and-dream-empires
+  note: ""
+- id: 8610
+  title: "The Basilisk Stare"
+  author: "Daniel Susskind"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dream-and-memory-minds
+  note: ""
+- id: 8611
+  title: "An Edge Sharp Enough"
+  author: "Jesse Q Sutanto"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: dynasties-and-cities
+  note: ""
+- id: 8612
+  title: "Divine Invasions"
+  author: "Lawrence Sutin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-FICTION
+  note: ""
+- id: 8613
+  title: "Above the Snowline"
+  author: "Steph Swainston"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 8614
+  title: "Fair Rebel"
+  author: "Steph Swainston"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: great-houses-and-heirs
+  note: ""
+- id: 8615
+  title: "No Present Like Time"
+  author: "Steph Swainston"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 8616
+  title: "The Modern World"
+  author: "Steph Swainston"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 8617
+  title: "The Year of Our War"
+  author: "Steph Swainston"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: time-crossed-war
+  note: ""
+- id: 8618
+  title: "The Infinite State"
+  author: "Richard Swan"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: networked-futures
+  note: ""
+- id: 8619
+  title: "Blood Dynasty"
+  author: "Richard Swan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 8620
+  title: "Grave Empire"
+  author: "Richard Swan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 8621
+  title: "Steel Gods"
+  author: "Richard Swan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 8622
+  title: "The Justice of Kings"
+  author: "Richard Swan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 8623
+  title: "The Trials of Empire"
+  author: "Richard Swan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 8624
+  title: "The Tyranny of Faith"
+  author: "Richard Swan"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: councils-and-ministers
+  note: ""
+- id: 8625
+  title: "Wolfbreed"
+  author: "S. A. Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-pasts
+  note: ""
+- id: 8626
+  title: "Wolf's Cross"
+  author: "S. A. Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: vampire-pasts
+  note: ""
+- id: 8627
+  title: "Fearful Symmetries"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dry-worlds-and-wastes
+  note: ""
+- id: 8628
+  title: "The Dragons of the Cuyahoga"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 8629
+  title: "Broken Crescent"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8630
+  title: "Hostile Takeover"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8631
+  title: "The Dwarves of Whiskey Island"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 8632
+  title: "Dragons and Dwarves"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: world-hopping
+  note: ""
+- id: 8633
+  title: "Prophets"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8634
+  title: "Heretics"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8635
+  title: "Messiah"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: far-future-suns
+  note: ""
+- id: 8636
+  title: "Dragon Princess"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 8637
+  title: "Dragon Thief"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 8638
+  title: "The Moreau Quartet: Volume One"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: bred-and-grown-people
+  note: ""
+- id: 8639
+  title: "The Moreau Quartet: Volume Two"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "high"
+  confidence: moderate
+  source: web
+  decision: bred-and-grown-people
+  note: ""
+- id: 8640
+  title: "Dragon Wizard"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: adventurers-and-tricksters
+  note: ""
+- id: 8641
+  title: "Marked"
+  author: "S. Andrew Swann"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: odd-cops-and-outsiders
+  note: ""
+- id: 8642
+  title: "Stations of the Tide"
+  author: "Michael Swanwick"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: far-outposts-and-strange-signals
+  note: ""
+- id: 8643
+  title: "The Dala Horse"
+  author: "Michael Swanwick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 8644
+  title: "The Trains That Climb the Winter Tree"
+  author: "Michael Swanwick"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
