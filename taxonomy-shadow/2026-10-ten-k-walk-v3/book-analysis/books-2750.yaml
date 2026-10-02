@@ -1936,6 +1936,19 @@
   source: web
   decision: wars-of-wizards
   note: ""
+- id: 2982
+  title: "Unti Feist Standalone Novel"
+  author: "Raymond E Feist"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: wars-of-wizards
+  note: ""
 - id: 2987
   title: "The King's Buccaneer"
   author: "Raymond E. Feist"
