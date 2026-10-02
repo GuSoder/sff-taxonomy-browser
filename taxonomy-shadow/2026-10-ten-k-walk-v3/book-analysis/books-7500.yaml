@@ -1,0 +1,911 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 7500
+  title: "The Novels of Tiger and Del, Volume III"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7501
+  title: "Karavans"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7502
+  title: "Deepwood"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7503
+  title: "Sword-Bound"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7504
+  title: "The Wild Road"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7505
+  title: "The Golden Key"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: dynastic-courts
+  note: ""
+- id: 7506
+  title: "Life and Limb"
+  author: "Jennifer Roberson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7507
+  title: "Sinners and Saints"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: hidden-gifted-and-immortals
+  note: ""
+- id: 7508
+  title: "Sword-Bearer"
+  author: "Jennifer Roberson"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7509
+  title: "Highlander(TM): Scotland the Brave"
+  author: "Jennifer Roberson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7510
+  title: "The Soddit"
+  author: "A.R.R.R. Roberts"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:PARODY-UNCLEAR
+  note: ""
+- id: 7511
+  title: "Adam Robots"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7512
+  title: "Bete"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7513
+  title: "By Light Alone"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7514
+  title: "Frankenstein Rex"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7515
+  title: "I Am Scrooge"
+  author: "Adam Roberts"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:SHORT-FORM-STORY
+  note: ""
+- id: 7516
+  title: "Jack Glass"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7517
+  title: "New Model Army"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7518
+  title: "Purgatory Mount"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7519
+  title: "Swiftly"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7520
+  title: "The Snow"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7521
+  title: "The Thing Itself"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7522
+  title: "Twenty Trillion Leagues Under the Sea"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7523
+  title: "Yellow Blue Tibia"
+  author: "Adam Roberts"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7524
+  title: "Doctor Who: Shada"
+  author: "Gareth Roberts"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 7525
+  title: "Crashing Heaven"
+  author: "Al Robertson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7526
+  title: "Waking Hell"
+  author: "Al Robertson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rebuilt-bodies-modern
+  note: ""
+- id: 7527
+  title: "Firebird"
+  author: "R. Garcia y Robertson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: lost-worlds-and-crosstime
+  note: ""
+- id: 7528
+  title: "The Sea Eternal"
+  author: "Emery Robin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7529
+  title: "The Stars Undying"
+  author: "Emery Robin"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7530
+  title: "Fates Run"
+  author: "Taylor Robin"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:CHILDREN-MG
+  note: ""
+- id: 7531
+  title: "Maledicte"
+  author: "Lane Robins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7532
+  title: "Kings and Assassins"
+  author: "Lane Robins"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: rogue-city-thieves
+  note: ""
+- id: 7533
+  title: "The Dark Beyond the Stars"
+  author: "Frank M. Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: colony-wars
+  note: ""
+- id: 7534
+  title: "Pacific Edge"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7535
+  title: "The Gold Coast"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7536
+  title: "The Wild Shore"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7537
+  title: "The Memory of Whiteness"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: lunar-voyages
+  note: ""
+- id: 7538
+  title: "Future Primitive"
+  author: "Kim Stanley Robinson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-NON-FICTION
+  note: ""
+- id: 7539
+  title: "Escape From Kathmandu"
+  author: "Kim Stanley Robinson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-NON-FICTION
+  note: ""
+- id: 7540
+  title: "The Martians"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7541
+  title: "Forty Signs of Rain"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7542
+  title: "Fifty Degrees Below"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7543
+  title: "Sixty Days and Counting"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7544
+  title: "Galileo's Dream"
+  author: "Kim Stanley Robinson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7545
+  title: "Icehenge"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7546
+  title: "Green Earth"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7547
+  title: "Oral Argument"
+  author: "Kim Stanley Robinson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION-OR-NON-FICTION
+  note: ""
+- id: 7548
+  title: "Antarctica"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7549
+  title: "2312"
+  author: "Kim Stanley Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: near-future-voices
+  note: ""
+- id: 7552
+  title: "Shaman"
+  author: "Kim Stanley Robinson"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
+  note: ""
+- id: 7553
+  title: "Very Bad Deaths"
+  author: "Spider Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7554
+  title: "Very Hard Choices"
+  author: "Spider Robinson"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: aliens-arrive
+  note: ""
+- id: 7555
+  title: "Hearts of Oak"
+  author: "Eddie Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7556
+  title: "Drunk on All Your Strange New Words"
+  author: "Eddie Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7557
+  title: "The Heist of Hollow London"
+  author: "Eddie Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: city-magic-urban
+  note: ""
+- id: 7558
+  title: "Natural History"
+  author: "Justina Robson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: invasion-and-contact-novels
+  note: ""
+- id: 7559
+  title: "Living Next Door to the God of Love"
+  author: "Justina Robson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: invasion-and-contact-novels
+  note: ""
+- id: 7560
+  title: "Chasing the Dragon"
+  author: "Justina Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7561
+  title: "Down to the Bone"
+  author: "Justina Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7562
+  title: "Glorious Angels"
+  author: "Justina Robson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: invasion-and-contact-novels
+  note: ""
+- id: 7563
+  title: "Going Under"
+  author: "Justina Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7564
+  title: "Keeping It Real"
+  author: "Justina Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7565
+  title: "Selling Out"
+  author: "Justina Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fey-hunters
+  note: ""
+- id: 7566
+  title: "The Switch"
+  author: "Justina Robson"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: invasion-and-contact-novels
+  note: ""
+- id: 7567
+  title: "Waters of Versailles"
+  author: "Kelly Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: modern-fairy-tale-novels
+  note: ""
+- id: 7568
+  title: "High Times in the Low Parliament"
+  author: "Kelly Robson"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: modern-fairy-tale-novels
+  note: ""
+- id: 7569
+  title: "Deal with the Devil"
+  author: "Kit Rocha"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7570
+  title: "The Devil You Know"
+  author: "Kit Rocha"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
+- id: 7571
+  title: "Dance with the Devil"
+  author: "Kit Rocha"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ruined-societies
+  note: ""
