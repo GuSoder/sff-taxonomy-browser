@@ -575,10 +575,10 @@
   title: "Timegods' World"
   author: "L. E. Modesitt"
   form: novel
-  has_magic: false
+  has_magic: true
   is_real_earth: false
-  setting: space
-  genre: scifi
+  setting: invented_world
+  genre: fantasy
   tags: "low"
   confidence: moderate
   source: web
@@ -589,13 +589,13 @@
   author: "L. E. Modesitt"
   form: novel
   has_magic: true
-  is_real_earth: false
-  setting: invented_world
+  is_real_earth: true
+  setting: portal
   genre: fantasy
   tags: "moderate"
   confidence: moderate
   source: web
-  decision: mercenary-bands-and-seers
+  decision: queens-in-the-wild
   note: ""
 - id: 6300
   title: "Empire & Ecolitan"
@@ -661,4 +661,914 @@
   confidence: moderate
   source: web
   decision: big-city-underworlds
+  note: ""
+- id: 6306
+  title: "Alector's Choice"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6307
+  title: "Cadmian's Choice"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6308
+  title: "Soarer's Choice"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6309
+  title: "The Eternity Artifact"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6310
+  title: "The Hammer of Darkness"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6311
+  title: "Viewpoints Critical"
+  author: "L. E. Modesitt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COLLECTION
+  note: ""
+- id: 6312
+  title: "Adiamante"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6314
+  title: "Darknesses"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6315
+  title: "Dawn for a Distant Earth"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6316
+  title: "Ghost of the White Nights"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6317
+  title: "Gravity Dreams"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6318
+  title: "Legacies"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6319
+  title: "Of Tangible Ghosts"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6321
+  title: "Shadowsinger"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6323
+  title: "The Ecolitan Operation"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6324
+  title: "The Ethos Effect"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6326
+  title: "The Octagonal Raven"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6328
+  title: "The Parafaith War"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6329
+  title: "The Timegod"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6330
+  title: "Timediver's Dawn"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6332
+  title: "Antiagon Fire"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6333
+  title: "Imager's Battalion"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6334
+  title: "The One-Eyed Man"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6336
+  title: "Madness in Solidar"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6337
+  title: "Solar Express"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6338
+  title: "Haze and The Hammer of Darkness"
+  author: "L. E. Modesitt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COLLECTION
+  note: ""
+- id: 6340
+  title: "Treachery's Tools"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6341
+  title: "Assassin's Price"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6343
+  title: "The Corean Chronicles, Volume One"
+  author: "L. E. Modesitt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COLLECTION
+  note: ""
+- id: 6344
+  title: "The Corean Chronicles, Volume Two"
+  author: "L. E. Modesitt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COLLECTION
+  note: ""
+- id: 6345
+  title: "The Imager Portfolio, Volume I"
+  author: "L. E. Modesitt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COLLECTION
+  note: ""
+- id: 6346
+  title: "The Imager Portfolio, Volume II"
+  author: "L. E. Modesitt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COLLECTION
+  note: ""
+- id: 6351
+  title: "Endgames"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: future_earth
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6354
+  title: "Quantum Shadows"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6356
+  title: "Isolate"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6357
+  title: "Councilor"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6358
+  title: "Contrarian"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6359
+  title: "From the Forest"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6360
+  title: "Overcaptain"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6361
+  title: "Sub-Majer's Challenge"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6362
+  title: "Last of the First"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6363
+  title: "Premier"
+  author: "L. E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6365
+  title: "The Spellsong War"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6369
+  title: "The Ecolitan Enigma"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6371
+  title: "The Elysium Commission"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6372
+  title: "Imager"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6373
+  title: "Imager's Challenge"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6374
+  title: "The Lord-Protector's Daughter"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6375
+  title: "Empress of Eternity"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 6376
+  title: "Haze"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-arrival
+  note: ""
+- id: 6377
+  title: "Imager's Intrigue"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6378
+  title: "In Endless Twilight"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6379
+  title: "The Ecologic Envoy"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6380
+  title: "The Ecologic Secession"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6381
+  title: "The Ghost of the Revelator"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: mercenary-bands-and-seers
+  note: ""
+- id: 6382
+  title: "The Silent Warrior"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6383
+  title: "The Soprano Sorceress"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6384
+  title: "Lady-Protector"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6385
+  title: "Scholar"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6386
+  title: "Princeps"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6388
+  title: "Rex Regis"
+  author: "L.E. Modesitt"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: soldiers-and-inquisitors
+  note: ""
+- id: 6391
+  title: "The Imager Portfolio, Volume III"
+  author: "L.E. Modesitt"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:OMNIBUS-OR-COLLECTION
+  note: ""
+- id: 6392
+  title: "The Butcher of the Forest"
+  author: "Premee Mohamed"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: folk-tale-and-ice-lands
+  note: ""
+- id: 6393
+  title: "Wickhills"
+  author: "Premee Mohamed"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6394
+  title: "Hush"
+  author: "Mary Ann Mohanraj"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6395
+  title: "Dungeons & Dragons: Beholder Figurine"
+  author: "Aidan Moher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 6396
+  title: "Dungeons & Dragons: Mimic Figurine"
+  author: "Aidan Moher"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:TIE-IN-MERCH
+  note: ""
+- id: 6397
+  title: "The Remaining"
+  author: "D. J. Molles"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6398
+  title: "The Memory Librarian"
+  author: "Janelle Monae"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6399
+  title: "His Footsteps, Through Darkness and Light"
+  author: "Mimi Mondal"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
