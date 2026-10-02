@@ -1572,3 +1572,809 @@
   source: web
   decision: HOLD:UNCLEAR-REVISIT
   note: ""
+- id: 6400
+  title: "A Companion to Wolves"
+  author: "Sarah Monette"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6401
+  title: "An Apprentice to Elves"
+  author: "Sarah Monette"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6407
+  title: "The House at Watch Hill"
+  author: "Karen Marie Moning"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_present
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6413
+  title: "Dog Blood"
+  author: "David Moody"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: plagues-and-pandemics
+  note: ""
+- id: 6414
+  title: "Hater"
+  author: "David Moody"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: plagues-and-pandemics
+  note: ""
+- id: 6415
+  title: "Them or Us"
+  author: "David Moody"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: plagues-and-pandemics
+  note: ""
+- id: 6420
+  title: "Remnant Population"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6429
+  title: "The Legacy of Gird"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6430
+  title: "Kings of the North"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6431
+  title: "Oath of Fealty"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6432
+  title: "Echoes of Betrayal"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6433
+  title: "Limits of Power"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6434
+  title: "Crown of Renewal"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6437
+  title: "Cold Welcome"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
+- id: 6438
+  title: "Into the Fire"
+  author: "Elizabeth Moon"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: pirates-and-pilots
+  note: ""
+- id: 6439
+  title: "A Little Peace and Quiet"
+  author: "Modean Moon"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 6440
+  title: "Evermore"
+  author: "Modean Moon"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 6441
+  title: "The Covenant"
+  author: "Modean Moon"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ROMANCE-OUT-OF-SCOPE
+  note: ""
+- id: 6442
+  title: "Shadows of the New Sun"
+  author: "J.E. Mooney"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:ANTHOLOGY
+  note: ""
+- id: 6443
+  title: "Queen Victoria: Demon Hunter"
+  author: "A E Moorat"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: urban-detectives-and-cryptids
+  note: ""
+- id: 6447
+  title: "The Eternal Champion (The Eternal Champion Sequence 1)"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6449
+  title: "The Whispering Swarm"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6450
+  title: "The Woods of Arcady"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6451
+  title: "The Wounds of Albion"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
+- id: 6453
+  title: "Breakfast in the Ruins and Other Stories"
+  author: "Michael Moorcock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6463
+  title: "Hawkmoon: Count Brass"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6464
+  title: "Hawkmoon: The History of the Runestaff"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6465
+  title: "Jerry Cornelius: His Lives and His Times"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6466
+  title: "Kane of Old Mars"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: moons-and-lost-worlds
+  note: ""
+- id: 6467
+  title: "King of the City"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6468
+  title: "London Bone and Other Stories"
+  author: "Michael Moorcock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6469
+  title: "Moorcock's Multiverse"
+  author: "Michael Moorcock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6470
+  title: "My Experiences in the Third World War and Other Stories"
+  author: "Michael Moorcock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6471
+  title: "Tales From the End of Time"
+  author: "Michael Moorcock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6472
+  title: "The Albino's Secret"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: alt-war-americas
+  note: ""
+- id: 6473
+  title: "The Brothel in Rosenstrasse and Other Stories"
+  author: "Michael Moorcock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6474
+  title: "The Citadel of Forgotten Myths"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6475
+  title: "The Nomad of Time"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: scifi
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: contact-by-voyage
+  note: ""
+- id: 6476
+  title: "The War Amongst the Angels"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: thieves-and-blades
+  note: ""
+- id: 6477
+  title: "Travelling to Utopia"
+  author: "Michael Moorcock"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6478
+  title: "Von Bek"
+  author: "Michael Moorcock"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: queens-and-empress-courts
+  note: ""
+- id: 6479
+  title: "Doomsday Morning"
+  author: "C.L. Moore"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6480
+  title: "Judgment Night: A Selection of Science Fiction"
+  author: "C.L. Moore"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6481
+  title: "Northwest of Earth"
+  author: "C.L. Moore"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:COLLECTION
+  note: ""
+- id: 6482
+  title: "Resenting the Hero"
+  author: "Moira J. Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6483
+  title: "The Hero Strikes Back"
+  author: "Moira J. Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6484
+  title: "Heroes Adrift"
+  author: "Moira J. Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6485
+  title: "Heroes at Risk"
+  author: "Moira J. Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6486
+  title: "Heroes Return"
+  author: "Moira J. Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6487
+  title: "Heroes at Odds"
+  author: "Moira J. Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: royal-heirs-and-fallen-courts
+  note: ""
+- id: 6488
+  title: "Battle of the Linguist Mages"
+  author: "Scotto Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6489
+  title: "Wild Massive"
+  author: "Scotto Moore"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: near_future
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: rewired-minds
+  note: ""
+- id: 6490
+  title: "Eyes I Dare Not Meet in Dreams"
+  author: "Sunny Moraine"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6491
+  title: "Fantasy Island"
+  author: "Ed Morales"
+  form: x
+  has_magic: 
+  is_real_earth: 
+  setting: 
+  genre: 
+  tags: ""
+  confidence: moderate
+  source: web
+  decision: HOLD:NON-SPECULATIVE
+  note: ""
+- id: 6492
+  title: "No Way"
+  author: "S. J. Morden"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6493
+  title: "One Way"
+  author: "S. J. Morden"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: contested-colonies
+  note: ""
+- id: 6494
+  title: "Arcanum"
+  author: "Simon Morden"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: knights-and-crusaders
+  note: ""
+- id: 6495
+  title: "Down Station"
+  author: "Simon Morden"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6496
+  title: "The Curve of The Earth"
+  author: "Simon Morden"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: near_future
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: disaster-and-defence
+  note: ""
+- id: 6497
+  title: "The White City"
+  author: "Simon Morden"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: portal
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: queens-in-the-wild
+  note: ""
+- id: 6498
+  title: "The Princess of Thornwood Drive"
+  author: "Khalia Moreau"
+  form: novel
+  has_magic: true
+  is_real_earth: false
+  setting: invented_world
+  genre: fantasy
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: folk-tale-and-ice-lands
+  note: ""
+- id: 6499
+  title: "Velvet Was the Night"
+  author: "Silvia Moreno-Garcia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""

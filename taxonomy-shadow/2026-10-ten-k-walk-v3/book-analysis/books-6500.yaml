@@ -1,0 +1,105 @@
+# per-book analysis; keys: form has_magic is_real_earth setting genre tags confidence source decision note
+- id: 6500
+  title: "Untamed Shore"
+  author: "Silvia Moreno-Garcia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6501
+  title: "The Seventh Veil of Salome"
+  author: "Silvia Moreno-Garcia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6502
+  title: "The Intrigue"
+  author: "Silvia Moreno-Garcia"
+  form: novel
+  has_magic: false
+  is_real_earth: true
+  setting: earth_past
+  genre: horror
+  tags: "low"
+  confidence: moderate
+  source: web
+  decision: ghosts-and-damned-places
+  note: ""
+- id: 6503
+  title: "Light Years"
+  author: "Kass Morgan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6504
+  title: "Supernova"
+  author: "Kass Morgan"
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: ship-soldiers-and-starmen
+  note: ""
+- id: 6505
+  title: "A Secret History of Witches"
+  author: "Louisa Morgan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: teen-witches-and-curses
+  note: ""
+- id: 6506
+  title: "The Age of Witches"
+  author: "Louisa Morgan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: teen-witches-and-curses
+  note: ""
+- id: 6507
+  title: "The Faerie Handmaid"
+  author: "Louisa Morgan"
+  form: novel
+  has_magic: true
+  is_real_earth: true
+  setting: earth_past
+  genre: fantasy
+  tags: "moderate"
+  confidence: moderate
+  source: web
+  decision: fae-retellings-and-celtic-lines
+  note: ""
