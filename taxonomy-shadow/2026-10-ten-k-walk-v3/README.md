@@ -11,9 +11,9 @@ Values: has_magic true/false/?; is_real_earth true/false/?; setting earth_now|ea
 
 ## Final numbers
 - Every row of the 10k list has a decision: placed, or held with a named reason. Titan rows (about 2,029) were skipped at my judgment and are not counted.
-- 8,132 works placed, 4,379 cards, 661 leaves, all leaves at 10 or fewer cards.
+- 8,132 works placed, 4,356 cards, 661 leaves, all leaves at 10 or fewer cards.
 - 1,937 rows held (holds-by-reason.md lists 1,939; a 2-row difference I did not chase).
-- 83 folds onto existing cards. No new seeds in v3; the 7 v2 seeds are unchanged.
+- 101 folds onto existing cards. No new seeds in v3; the 7 v2 seeds are unchanged.
 - Splits keep the umbrella: the split node stays at 0 direct cards and the children are added.
 
 ## Hold categories (rows)
@@ -23,6 +23,9 @@ Short form 590 (SHORT-FORM-STORY-OR-NOVELLA 307, SHORT-FORM-STORY-OR-COLLECTION 
 Mistake: in about 380 cards across the early batches (c001 onward) I named a branch (an umbrella) instead of a real leaf. The autofix script routed those cards to the child with the fewest cards, which is a count-based placement and not a thematic one.
 Fix: every card in `rehome-todo.txt` was reviewed against its real post-split location in the tree. Clear misfits were moved to thematic leaves (`m001.txt` to `m006.txt` list the moves, card|new leaf). The earlier 22 dragons-and-courts cards and 12 misfits were moved first. From then on I placed only on real leaf ids.
 Honor Harrington (rows 9286, 9287, 9298, 9318, wrongly held as tie-ins) is now one card in captains-and-their-ships.
+
+## Duplicate-card correction (6:57 PM Oct 3)
+The user spotted that Kingkiller Chronicle sat in Wars of Wizards while the original tree already has The Kingkiller Chronicle under bard-hero. I scanned every card name that appears both in the original tree and in the shadow layer (28 names). 23 shadow cards were duplicates of an original-tree card and are now folded onto it; the works stay placed (8,132 unchanged), only the duplicate card is gone: Beautiful Creatures, Incarnations of Immortality, Locked Tomb, Noble Dead Saga, Renshai, Kingkiller Chronicle, Emberverse, Radiant Emperor, Belisarius, Clockwork Dagger, School of Shards, Liaden Universe, Seven Devils, Gap Cycle, Sun Eater, Kane of Old Mars, Troy Rising, Fall Revolution (v3 cards, now `+C` fold lines onto the original card), and The Books of Babel, I Am Legend, The Expanse, Vorkosigan Saga, Lilith's Brood (older v1 cards, removed from the render by `X`/`XS` lines in splits2.txt, which render3.py applies). Left alone, same name but a different work or an original-tree duplicate: Spell Bound (Rachel Hawkins vs F.T. Lukens), Providence (space-navy novel vs Kepnes), The Bridge (Banks vs Breukelaar vs the space-between card), Transition (Iain M. Banks vs Kisner's The Transition), Wormwood Trilogy (the original tree itself has two cards, in alien-invasion-fiction and near-future-first-contact). Cause: I walked each work from its blurb and never checked whether the series already had a card in the original tree. Files: dedup.py (the fix script), render3.py (render with the removal lines; use it instead of the v2 render2.py). Cards are now 4,356, shadow-branch works 7,409.
 
 ## Caveats
 - Near-fit placements: leaf names are loose and many leaves are full, so some cards sit in a defensible near-fit leaf with room, not the ideal one. Only clear misfits were moved.

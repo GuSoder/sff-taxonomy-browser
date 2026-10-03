@@ -1,0 +1,6 @@
+cd /tmp/shadow/v3; python3 comb.py $1 >/dev/null || exit 1; python3 dedupe.py; python3 autofix.py
+bash check.sh | grep -v "^roots" | head -20
+(cd /tmp/shadow; python3 v3/render3.py | tail -2; python3 v3/over.py)
+D=~/sff-taxonomy-browser/taxonomy-shadow/2026-10-ten-k-walk-v3
+cp -r book-analysis decided.txt holds3.txt research.jsonl $D/ 2>/dev/null; cp ../v2/{results2,seeds2,splits2}.txt $D/
+echo "decided: $(sort -u decided.txt|wc -l) research rows: $(wc -l < research.jsonl)"

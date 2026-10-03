@@ -1,38 +1,38 @@
 # Shadow branches (v3 final tree)
 Definition: a new genre placed directly below a genre of the original tree, plus all its descendants and works. A new genre under another new genre belongs to that branch.
-191 branches, 7475 works in total (v1+v2+v3).
+191 branches, 7409 works in total (v1+v2+v3).
 
 | Top shadow genre | Parent (original genre) | Works | Cards | New genres in branch |
 |---|---|---|---|---|
-| Dragons and Courts | Romantasy | 580 | 227 | 51 |
-| Wars of wizards | Destiny quest fantasy | 433 | 160 | 33 |
+| Dragons and Courts | Romantasy | 574 | 225 | 51 |
+| Wars of wizards | Destiny quest fantasy | 423 | 158 | 33 |
 | City underworlds | Occult city | 370 | 156 | 37 |
-| First signs and lone contact | Alien arrival | 361 | 155 | 40 |
-| Minds and bodies rewired | Neural fiction | 245 | 97 | 23 |
-| Ships on Course | Generation starships | 217 | 85 | 21 |
+| First signs and lone contact | Alien arrival | 359 | 153 | 40 |
+| Minds and bodies rewired | Neural fiction | 244 | 96 | 23 |
+| Ships on Course | Generation starships | 216 | 84 | 21 |
 | Chosen heirs | Destiny quest fantasy | 158 | 57 | 9 |
 | Disaster and defence | Technothriller | 157 | 96 | 23 |
 | Hidden Worlds Beside Ours | Otherworld fantasy | 148 | 67 | 17 |
-| Packs and Courts | Publicly paranormal | 140 | 39 | 5 |
-| Near-future society | Social science fiction | 135 | 95 | 20 |
+| Packs and Courts | Publicly paranormal | 135 | 38 | 5 |
 | Campus and Coven | Occult institutions | 134 | 73 | 16 |
 | Hidden Agencies | Occult institutions | 133 | 39 | 9 |
-| Old settler worlds | Xenocolonial | 123 | 61 | 15 |
-| Wanderers and Fixers | Space adventure | 112 | 36 | 8 |
+| Near-future society | Social science fiction | 133 | 94 | 20 |
+| Old settler worlds | Xenocolonial | 121 | 60 | 15 |
+| Wanderers and Fixers | Space adventure | 109 | 35 | 8 |
 | Badge and Bounty | Publicly paranormal | 102 | 16 | 3 |
-| Bonded heroes ( | Heroic fantasy | 86 | 24 | 5 |
 | Captains and Their Ships | Space navy | 85 | 8 | 1 |
-| Fleet Wars | Space navy | 83 | 23 | 4 |
+| Bonded heroes ( | Heroic fantasy | 82 | 23 | 5 |
+| Fleet Wars | Space navy | 82 | 22 | 4 |
 | Space Marines | Ground-pounders | 79 | 33 | 5 |
-| Stations and the Belt | Space colonies | 71 | 27 | 5 |
 | Apprentices and Schools | Mage hero | 69 | 24 | 5 |
-| Victorian Steam | Steampunk | 66 | 21 | 4 |
+| Victorian Steam | Steampunk | 65 | 20 | 4 |
 | Thieves and assassins | Rogue hero | 64 | 19 | 3 |
 | Magic by the Rules | Hard magic | 64 | 8 | 1 |
 | Among the Living | Vampire worlds | 63 | 13 | 3 |
 | Rivals and Enemies | Romantasy | 62 | 23 | 4 |
 | Odd journeys and mishaps | Whimsical doors | 56 | 30 | 4 |
-| Dark horror hauntings | Vengeful spirits | 56 | 27 | 5 |
+| Dark horror hauntings | Vengeful spirits | 55 | 26 | 5 |
+| Stations and the Belt | Space colonies | 53 | 25 | 5 |
 | Mages at War | Military fantasy | 52 | 20 | 5 |
 | Thrones under threat | Court statecraft | 48 | 19 | 3 |
 | Towns and lives displaced | Time strays | 48 | 6 | 1 |
@@ -103,19 +103,18 @@ Definition: a new genre placed directly below a genre of the original tree, plus
 | Regency and Victorian faerie | Faeries in gaslight | 18 | 11 | 3 |
 | Civilian Monster Life | Publicly paranormal | 18 | 7 | 1 |
 | Swordswomen | Warrior hero | 18 | 10 | 1 |
-| Wonder machines | Technofantasy | 18 | 7 | 1 |
 | Hollow Worlds | Big dumb objects | 18 | 8 | 1 |
 | Frontier magic | Weird West fantasy | 17 | 9 | 1 |
 | Clans and Courts | Vampire worlds | 17 | 7 | 1 |
 | Reincarnation sagas ( | Quest fantasy | 17 | 2 | 1 |
 | Ring and law intrigue | Court spies | 17 | 10 | 1 |
+| Wonder machines | Technofantasy | 17 | 6 | 1 |
 | Virtual lives and fears | Metaverse | 17 | 12 | 3 |
 | Networked futures | Post-society | 17 | 9 | 1 |
 | Alternate selves | Multiverse odyssey | 17 | 11 | 3 |
 | Inherited family magic | Birthright magic | 16 | 10 | 1 |
 | Inherited powers and curses | Birthright magic | 16 | 10 | 1 |
 | American Forks | Deep alterations | 16 | 9 | 1 |
-| Empires That Never Fell | Deep alterations | 16 | 7 | 1 |
 | After the lights go out | Post-society | 16 | 13 | 3 |
 | Deep-time chronicles | Future history of Earth | 16 | 8 | 1 |
 | Psychic societies | Psi powers | 16 | 6 | 1 |
@@ -139,18 +138,18 @@ Definition: a new genre placed directly below a genre of the original tree, plus
 | Wild and old terror | Folk horror | 12 | 7 | 1 |
 | Hard Swords | Warrior hero | 12 | 7 | 1 |
 | Cities and masks in revolt | Insurgent fantasy | 12 | 7 | 1 |
+| Empires That Never Fell | Deep alterations | 12 | 6 | 1 |
 | Dying-earth fantasy | Dying earth | 12 | 7 | 1 |
 | Telepaths and the state | Psionics | 12 | 8 | 1 |
 | Virtual worlds and games | Metaverse | 12 | 7 | 1 |
-| Encounters with big visitors | Far-future first contact | 12 | 7 | 1 |
 | Extinction Probes | Alien invasion fiction | 12 | 6 | 1 |
 | Travellers to known eras | Time strays | 12 | 6 | 1 |
 | Scholars and markets of faerie | Faeries in gaslight | 11 | 6 | 1 |
 | Modern pantheon myth ( | Contemporary mythic fantasy | 11 | 1 | 1 |
-| Possessed and tormented | Demonic torment | 11 | 7 | 1 |
 | Plague teens and modern | Post-pandemic survival | 11 | 7 | 1 |
 | Robot Lineages and Revolts | Sentient robots | 11 | 7 | 1 |
 | Servants With Opinions | Sentient robots | 11 | 9 | 1 |
+| Encounters with big visitors | Far-future first contact | 11 | 6 | 1 |
 | Flooded cities | Drowned worlds | 11 | 10 | 1 |
 | Networks and cryptography | Technothriller | 11 | 7 | 1 |
 | Celtic myth retold | Celtic fantasy | 10 | 6 | 1 |
@@ -162,6 +161,7 @@ Definition: a new genre placed directly below a genre of the original tree, plus
 | Bred and grown people | Genetic engineering | 10 | 9 | 1 |
 | Villains and henchmen | Superhero fiction | 10 | 5 | 1 |
 | West of the dead | Weird West fantasy | 9 | 6 | 1 |
+| Possessed and tormented | Demonic torment | 9 | 6 | 1 |
 | Horror sets and circles | Demonic torment | 9 | 6 | 1 |
 | Haunted families | Vengeful spirits | 9 | 9 | 1 |
 | Axis Victory | Alt postwar | 9 | 8 | 1 |
@@ -175,9 +175,9 @@ Definition: a new genre placed directly below a genre of the original tree, plus
 | Old Heroic Romance | Warrior hero | 8 | 5 | 1 |
 | Fairytales retold dark | Fairytale inversion | 8 | 6 | 1 |
 | Hidden valleys and peoples | Lost world fiction | 8 | 7 | 1 |
-| Classic last people | Post-pandemic survival | 8 | 7 | 1 |
 | Quiet Invasions | Alien invasion fiction | 8 | 7 | 1 |
 | Inherited and sold houses | Housebound | 7 | 7 | 1 |
+| Classic last people | Post-pandemic survival | 7 | 6 | 1 |
 | Dangerous gifts | Psi powers | 7 | 6 | 1 |
 | Wider floods | Drowned worlds | 7 | 6 | 1 |
 | Gods and Their Women | Greek myth fantasy | 6 | 5 | 1 |
