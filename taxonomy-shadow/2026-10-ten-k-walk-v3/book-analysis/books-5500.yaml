@@ -62,7 +62,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5517
   title: "The Weight of Memories"
@@ -75,7 +75,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5518
   title: "The Three-Body Problem Series"
@@ -101,7 +101,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5520
   title: "The Wandering Earth"
@@ -114,7 +114,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5521
   title: "A View from the Stars"
@@ -127,7 +127,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5522
   title: "Invisible Planets"
@@ -140,7 +140,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5523
   title: "Broken Stars"
@@ -153,7 +153,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5524
   title: "The Passing of the Dragon"
@@ -166,7 +166,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5525
   title: "If a Digitized Tree Falls"
@@ -179,7 +179,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5526
   title: "The Iron Hunt"
@@ -218,7 +218,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5529
   title: "A Wild Light"
@@ -244,7 +244,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5531
   title: "The Mortal Bone"
@@ -439,7 +439,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5546
   title: "The Elementals"
@@ -465,7 +465,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5548
   title: "Drop by Drop"
@@ -634,7 +634,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5561
   title: "The Summer Dragon"
@@ -686,7 +686,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5565
   title: "Survival in Space"
@@ -699,7 +699,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5566
   title: "The Animals We Became"
@@ -738,7 +738,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5569
   title: "The Best of All Possible Worlds"

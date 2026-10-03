@@ -647,7 +647,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-HISTORICAL-ROMANCE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5310
   title: "Pieces of Hate"
@@ -725,7 +725,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5316
   title: "The Jim Baen Memorial Award: The First Decade"
@@ -738,7 +738,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5317
   title: "Untethered Sky"
@@ -751,7 +751,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5318
   title: "The Last Contract of Isako"
@@ -764,7 +764,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5319
   title: "Timelike Curves, Spacelike Curves"
@@ -777,7 +777,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5333
   title: "The Tomorrow Log and Dragon Tide"
@@ -829,7 +829,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5357
   title: "Stan Lee's The Devil's Quintet: The Shadow Society"
@@ -842,7 +842,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5358
   title: "Biting the Sun"
@@ -933,7 +933,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5367
   title: "The Storm Lord"
@@ -972,7 +972,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5370
   title: "Electric Forest"
@@ -1011,7 +1011,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5373
   title: "Kill the Dead"
@@ -1050,7 +1050,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5376
   title: "Cyrion"
@@ -1063,7 +1063,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5377
   title: "Dark Castle, White Horse"
@@ -1076,7 +1076,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 5378
   title: "Days of Grass"
@@ -1115,7 +1115,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5381
   title: "The Gorgon and Other Beastly Tales"
@@ -1128,7 +1128,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5382
   title: "Volkhavaar"
@@ -1206,7 +1206,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5388
   title: "The Name Ziya"
@@ -1219,7 +1219,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5389
   title: "When They Burned the Butterfly"
@@ -1232,7 +1232,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5390
   title: "A Vector Alphabet of Interstellar Travel"
@@ -1245,7 +1245,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5391
   title: "Combustion Hour"
@@ -1258,7 +1258,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5392
   title: "Variations on an Apple"
@@ -1271,7 +1271,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5393
   title: "Extracurricular Activities"
@@ -1284,7 +1284,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5394
   title: "Beyond the Dragon's Gate"
@@ -1297,7 +1297,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5395
   title: "Counting Casualties"
@@ -1310,7 +1310,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5396
   title: "Cutting Corners"
@@ -1323,7 +1323,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5397
   title: "Devil in the Wires"
@@ -1388,7 +1388,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5404
   title: "Assassins' Dawn"
@@ -1401,7 +1401,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:OMNIBUS-OR-COMPILATION
   note: ""
 - id: 5405
   title: "Immortal Muse"
@@ -1518,7 +1518,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5414
   title: "Quest Kids and the Dark Prophecy of Doug"
@@ -1583,7 +1583,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5419
   title: "A Logic Named Joe"
@@ -1596,7 +1596,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5420
   title: "Sidewise in Time"
@@ -1609,7 +1609,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5421
   title: "A Perfect Vacuum"
@@ -1622,7 +1622,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5424
   title: "Imaginary Magnitude"
@@ -1635,7 +1635,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5425
   title: "Memoirs Found In A Bathtub"
@@ -1661,7 +1661,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5427
   title: "More Tales Of Pirx The Pilot"
@@ -1674,7 +1674,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5428
   title: "Mortal Engines"
@@ -1687,7 +1687,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5429
   title: "One Human Minute"
@@ -1700,7 +1700,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5430
   title: "Peace On Earth"
@@ -1726,7 +1726,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-OMNIBUS-OR-NOVELLA
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5433
   title: "The Chain Of Chance"
@@ -1739,7 +1739,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5435
   title: "The Investigation"
@@ -1752,7 +1752,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT-OR-NON-SPECULATIVE
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5436
   title: "Harry Potter Dark Arts Mini Deck and Guidebook"
@@ -1973,7 +1973,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5453
   title: "Blood Oath"
@@ -1986,7 +1986,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5454
   title: "Sawbones"
@@ -1999,7 +1999,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5455
   title: "The Umbrella Makers Son"
@@ -2012,7 +2012,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5456
   title: "The Teller of Small Fortunes"
@@ -2090,7 +2090,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5462
   title: "California"
@@ -2142,7 +2142,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5466
   title: "Dog Days"
@@ -2246,7 +2246,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5474
   title: "DragonForged: Sword of the Champion"
@@ -2259,7 +2259,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5475
   title: "The Five Daughters of the Moon"
@@ -2311,7 +2311,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5479
   title: "Eternity in Three Acts"
@@ -2337,7 +2337,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5481
   title: "The Gate, the Girl, and the Dragon"
@@ -2350,7 +2350,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5482
   title: "When the Sea Turned to Silver (National Book Award Finalist)"
@@ -2363,7 +2363,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5483
   title: "Where the Mountain Meets the Moon (Newbery Honor Award Winner)"
@@ -2376,7 +2376,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5484
   title: "Thirteen Steps in the Underworld"
@@ -2389,7 +2389,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5485
   title: "Babylon, South Dakota"
@@ -2428,7 +2428,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5488
   title: "Aurora Borealis Bridge"
@@ -2467,7 +2467,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5491
   title: "Points of Origin"
@@ -2480,7 +2480,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5493
   title: "Yarrow"
