@@ -1,0 +1,2003 @@
+# v3 held rows by named reason
+1939 rows. Format: row | author | title. Veto any category and the rows go back into the walk.
+
+## SHORT-FORM-STORY-OR-NOVELLA (307)
+- 157 | G. V. Anderson | Hearts in the Hard Ground
+- 158 | G. V. Anderson | The Lay of Lilyfinger
+- 278 | Kelley Armstrong | Chaotic
+- 298 | Stephen Aryan | Of Gods and Men
+- 315 | Madeline Ashby | Turned All to Silver Screens
+- 319 | Kemi Ashing-Giwa | Fruiting Bodies
+- 321 | Kemi Ashing-Giwa | The Puppetmaster
+- 2235 | Sam Davis | Laurie on the Radio
+- 2249 | Sunyi Robin Dean | The Thief of Memory
+- 2292 | A.M. Dellamonica | The Cage
+- 2293 | A.M. Dellamonica | Among the Silvering Herd
+- 2295 | A.M. Dellamonica | Wild Things
+- 2296 | A.M. Dellamonica | The Ugly Woman of Castello di Putti
+- 2330 | Philip K Dick | Human Is?
+- 2335 | Philip K Dick | Minority Report
+- 2746 | Gawain Edwards | The Earth-Tube
+- 2756 | Greg Egan | The Nearest
+- 2758 | Greg Egan | Zeitgeber
+- 2763 | Greg Egan | Luminous
+- 2764 | Greg Egan | Oceanic
+- 2797 | Kate Elliott | Barnacle
+- 2834 | Ruthanna Emrys | The Word of Flesh and Soul
+- 2835 | Ruthanna Emrys | All that Means or Mourns
+- 2890 | Shim Eunjung | The 25:00 Magic Lantern Express
+- 2900 | Brian Evenson | Solution
+- 2915 | G.D. Falksen | The Strange Case of Mr. Salad Monday
+- 2927 | Jennifer Fallon | First Kill
+- 2967 | Raymond E Feist | Jimmy and the Crawler
+- 2996 | K. M. Ferebee | Tom, Thom
+- 3137 | Grace P. Fong | Girl Oil
+- 3147 | Jeffrey Ford | The Thyme Fiend
+- 3148 | Jeffrey Ford | The Twilight Pariah
+- 3149 | Jeffrey Ford | The Spew
+- 3194 | Alan Dean Foster | The End of the Matter
+- 3307 | Diana Gabaldon | The Exile
+- 3315 | Elaine Gallagher | Unexploded Remnants
+- 3350 | Kami Garcia | Dangerous Dream: A Beautiful Creatures Story
+- 3354 | James Alan Gardner | A Clean Sweep With All the Trimmings
+- 3433 | William Gibson | Burning Chrome
+- 3435 | Jennifer Giesbrecht | The Monster of Elendhaven
+- 3452 | Felix Gilman | Lightbringers and Rainmakers
+- 3474 | Vivianni Glass | Synthetic Perennial
+- 3518 | Kathleen Ann Goonan | One/Zero
+- 3528 | Theodora Goss | Come See the Living Dryad
+- 3542 | Adalyn Grace | Holly
+- 3543 | Adalyn Grace | Holly: A Belladonna Novella
+- 3553 | Mira Grant | All the Pretty Little Horses
+- 3554 | Mira Grant | Apocalypse Scenario #683: The Box
+- 3617 | A. T. Greenblatt | Questions Asked in the Belly of the World
+- 3618 | A. T. Greenblatt | Between Home and a House on Fire
+- 3636 | Daryl Gregory | Nine Last Days on Planet Earth
+- 3638 | Daryl Gregory | Im Not Disappointed Just Mad AKA The Heaviest Couch in the Known Unive
+- 3652 | Nicola Griffith | Cold Wind
+- 3701 | Amit Gupta | India World
+- 3748 | Edward Everett Hale | The Brick Moon
+- 3803 | Peter F. Hamilton | If at First . . . (Short Story)
+- 3808 | Peter F. Hamilton | A Window into Time (Novella)
+- 3840 | Kiran Millwood Hargrave | Leila and the Blue Fox
+- 3878 | Joanne Harris | A Pocketful of Crows
+- 3880 | Joanne Harris | Orfeia
+- 3884 | Joanne Harris | The Moonlight Market
+- 3935 | Kim Harrison | Into the Woods
+- 3937 | Kim Harrison | Pet Shop Boys
+- 3938 | Kim Harrison | Sudden Backtrack
+- 4165 | David Herter | Islands Off the Coast of Capitola, 1978
+- 4167 | Karen Heuler | Instar
+- 4168 | Thomas Olde Heuvelt | The Ink Readers of Doi Saket
+- 4232 | Brian Hodge | The Weight of the Dead
+- 4369 | S. L. Huang | The River Judge
+- 4414 | Faith Hunter | Kicking It
+- 4442 | Dave Hutchinson | Acadie
+- 4455 | Simon Ings | Painkillers
+- 4459 | Alex Irvine | Form 8774-D
+- 4460 | Alex Irvine | Shorted
+- 4472 | Pasi Ilmari Jaaskelainen | Where the Trains Turn
+- 4554 | N. K. Jemisin | The City Born Great
+- 4556 | N. K. Jemisin | Shades in Shadow: An Inheritance Triptych
+- 4568 | Kathleen Jennings | The Heart of Owl Abbas
+- 4570 | Kathleen Jennings | The Wonderful Stag, or The Courtship of Red Elsie
+- 4571 | Kathleen Jennings | In Connorville
+- 4589 | Alaya Dawn Johnson | What I Saw Before the War
+- 4592 | Congyun "Mu Ming" Gu; translat | A Well-Fed Companion
+- 4610 | Kij Johnson | The Cat Who Walked a Thousand Miles
+- 4626 | Carole Johnstone | Skinner Box
+- 4634 | By Robert Jordan | What the Storm Means: Prologue to the Gathering Storm
+- 4636 | Robert Jordan | Distinctions: Prologue to Towers of Midnight
+- 4637 | Robert Jordan | By Grace and Banners Fallen: Prologue to A Memory of Light
+- 4650 | Walter M. Miller Jr | Dark Benediction
+- 4652 | KJ Kabza | Water: A History
+- 4676 | Vylar Kaftan | Her Silhouette, Drawn in Water
+- 4686 | Stacia Kane | Finding Magic (Novella)
+- 4717 | Noah Keller | The Museum and the Music Box
+- 4726 | James Patrick Kelly | Crazy Me
+- 4727 | James Patrick Kelly | Grace's Family
+- 4728 | James Patrick Kelly | What It Means To Be A Car
+- 4729 | James Patrick Kelly | No Agency Without Identity! Stay In Character Always!
+- 4735 | Erinn L. Kemper | The Song
+- 4782 | Justin C. Key | The Perfection of Theresa Watkins
+- 4797 | Cassandra Khaw | Sweet Saints
+- 4809 | Caitlin R. Kiernan | Black Helicopters
+- 4815 | Margaret Killjoy | The Lamb Will Slaughter the Lion
+- 4819 | Bethanne Kim | Mrs. Flannery's Flowers
+- 4822 | Isabel J. Kim | Freediver
+- 4839 | T. Kingfisher | Nine Goblins
+- 4845 | Jasmin Kirkbride | Sand
+- 4852 | Ellen Klages | Passing Strange
+- 4861 | TJ Klune | Crisped + Sere
+- 4939 | Mary Robinette Kowal | Articulated Restraint
+- 4940 | Mary Robinette Kowal | In the Moon's House
+- 4986 | Matthew Kressel | The Last Novelist (or A Dead Lizard in the Yard)
+- 4987 | Matthew Kressel | Now We Paint Worlds
+- 4998 | Naomi Kritzer | Little Free Library
+- 4999 | Naomi Kritzer | Obstetrix
+- 5024 | Jordan Kurella | Evan: A Remainder
+- 5199 | Kelly Lagor | How to Make a Triffid
+- 5235 | John Langan | This Fleshy Side of the Bone
+- 5250 | Rich Larson | Meat And Salt And Sparks
+- 5251 | Rich Larson | Our King and His Court
+- 5252 | Rich Larson | Painless
+- 5253 | Rich Larson | How Quini the Squid Misplaced His Klobucar
+- 5254 | Rich Larson | Quandary Aminu vs The Butterfly Man
+- 5255 | Rich Larson | Even If Such Ways Are Bad
+- 5256 | Rich Larson | Headhunting
+- 5257 | Rich Larson | Breathing Constellations
+- 5258 | Rich Larson | The Sack of Burley Cottage
+- 5259 | Rich Larson | In the Hours Preceding the Fall of Tau-Sants
+- 5269 | Victor LaValle | The Ballad of Black Tom
+- 5309 | Tim Lebbon | A Whisper of Southern Lights
+- 5312 | Ann Leckie | Lake of Souls
+- 5317 | Fonda Lee | Untethered Sky
+- 5318 | Fonda Lee | The Last Contract of Isako
+- 5319 | P H Lee | Timelike Curves, Spacelike Curves
+- 5366 | Tanith Lee | Redder Than Blood
+- 5369 | Tanith Lee | Companions on the Road
+- 5388 | Wen-yi Lee | The Name Ziya
+- 5389 | Wen-yi Lee | When They Burned the Butterfly
+- 5390 | Yoon Ha Lee | A Vector Alphabet of Interstellar Travel
+- 5391 | Yoon Ha Lee | Combustion Hour
+- 5392 | Yoon Ha Lee | Variations on an Apple
+- 5393 | Yoon Ha Lee | Extracurricular Activities
+- 5394 | Yoon Ha Lee | Beyond the Dragon's Gate
+- 5395 | Yoon Ha Lee | Counting Casualties
+- 5396 | Yoon Ha Lee | Cutting Corners
+- 5413 | Evan Leikam | Anji Kills a King
+- 5419 | Murray Leinster | A Logic Named Joe
+- 5420 | Murray Leinster | Sidewise in Time
+- 5484 | Su-Yee Lin | Thirteen Steps in the Underworld
+- 5490 | Marissa K. Lingen | Uncle Flower's Homecoming Waltz
+- 5491 | Marissa Lingen | Points of Origin
+- 5517 | Cixin Liu | The Weight of Memories
+- 5520 | Cixin Liu | The Wandering Earth
+- 5524 | Ken Liu | The Passing of the Dragon
+- 5525 | Ken Liu | If a Digitized Tree Falls
+- 5528 | Marjorie M. Liu | Hunter Kiss
+- 5547 | Morgan Llywelyn | Only the Stones Survive
+- 5583 | H. P. Lovecraft | The Horror in the Museum
+- 5588 | H.P. Lovecraft | Necronomicon
+- 5595 | S. Qiouyi Lu | Anything Resembling Love
+- 5596 | S. Qiouyi Lu | In the Watchful City
+- 5615 | Kari Maaren | Weave a Circle Round
+- 5639 | Ian R. MacLeod | The Chronologist
+- 5681 | Usman T. Malik | The Pauper Prince and the Eucalyptus Jinn
+- 5686 | Nick Mamatas | Farewell Performance
+- 5702 | Lee Mandelo | Though Smoke Shall Hide the Sun
+- 5703 | Lee Mandelo | The Finite Canvas
+- 5704 | Lee Mandelo | The Writ of Years
+- 5705 | Lee Mandelo | The Pigeon Summer
+- 5707 | Lee Mandelo | Feed Them Silence
+- 5761 | Haralambi Markov | The Language of Knives
+- 5766 | Melissa Marr | Of Roses and Kings
+- 5779 | Helen Marshall | The Hanging Game
+- 5822 | Arkady Martine | Rose/House
+- 5847 | David I. Masson | The Caltraps of Time
+- 5852 | Richard Matheson | Steel
+- 5858 | Marc Matz | Nocturne For A Dangerous Man
+- 5887 | Bruce McAllister | The Courtship of the Queen
+- 5888 | Bruce McAllister | La Signora
+- 5894 | Paul McAuley | Something Happened Here, But We're Not Quite Sure What It Was
+- 5959 | Meghan McCarron | Swift, Brutal Retaliation
+- 5960 | Sarah McCarry | Blue is a Darkness Weakened by Light
+- 5987 | Una McCormack | The Undefeated
+- 6003 | Kirstyn McDermott | Triquetra
+- 6033 | Ian McDonald | The Guile
+- 6035 | Ian McDonald | The Menace from Farside
+- 6036 | Ian McDonald | Boy, with Accidental Dinosaur
+- 6037 | Ian McDonald | The Date
+- 6060 | Seanan McGuire | Any Way the Wind Blows
+- 6064 | Seanan McGuire | Seasonal Fears
+- 6065 | Seanan McGuire | Skeleton Song
+- 6068 | Seanan McGuire | Be Sure
+- 6069 | Seanan McGuire | Aftermarket Afterlife
+- 6071 | Seanan McGuire | Tidal Creatures
+- 6076 | Seanan McGuire | Installment Immortality
+- 6083 | Seanan McGuire | A Divided Duty
+- 6088 | Seanan McGuire | Inkpot Gods
+- 6089 | Maureen F. McHugh | Half the Day Is Night
+- 6090 | Maureen McHugh | Yellow and the Perception of Reality
+- 6091 | Maureen McHugh | Liminal Spaces
+- 6098 | Will McIntosh | City Living
+- 6101 | Will McIntosh | The Heist
+- 6102 | Will McIntosh | The Perimeter
+- 6128 | Patricia A. McKillip | Cygnet
+- 6256 | Ron Miller | Daybreak
+- 6257 | Ron Miller | Drowsy
+- 6264 | Ron Miller | The Life and Astonishing Adventures of John Daniel
+- 6289 | Mark Mills | Preparations
+- 6642 | Annalee Newitz | Old Media
+- 6643 | Annalee Newitz | #Selfcare
+- 6645 | Annalee Newitz | A Wall Is Also a Road
+- 6903 | K. J. Parker | The Devil You Know
+- 6904 | K. J. Parker | Prosper's Demon
+- 6905 | K. J. Parker | Inside Man
+- 6906 | K. J. Parker | Pulling the Wings Off Angels
+- 6907 | K. J. Parker | Burning Books for Pleasure and Profit
+- 7005 | Laurie Penny | Everything Belongs to the Future
+- 7006 | Laurie Penny | Your Orisons May Be Recorded
+- 7007 | Laurie Penny | The Hundredth House Had No Walls
+- 7099 | C. L. Polk | St. Valentine, St. Abigail, St. Brigid
+- 7100 | C. L. Polk | Even Though I Knew the End
+- 7101 | C. L. Polk | Ivy, Angelica, Bay
+- 7574 | Zin E. Rocklyn | Flowers for the Sea
+- 7785 | Brandon Sanderson | Legion: The Many Lives of Stephen Leeds
+- 7786 | Brandon Sanderson | Legion: Lies of the Beholder
+- 7802 | Brandon Sanderson | Snapshot
+- 8672 | Sam Sykes | Dream of the Falling Axe
+- 8678 | Sam Sykes | The Gallows Black
+- 8679 | Sam Sykes | The Iron Dirge
+- 8734 | Nate Taylor | The Narrow Road Between Desires
+- 8757 | Adrian Tchaikovsky | Made Things
+- 8758 | Adrian Tchaikovsky | Precious Little Things
+- 8759 | Adrian Tchaikovsky | Elder Race
+- 8852 | Lavie Tidhar | Judge Dee and the Limits of the Law
+- 8853 | Lavie Tidhar | Judge Dee and the Poisoner of Montmartre
+- 8854 | Lavie Tidhar | Judge Dee and the Three Deaths of Count Werdenfels
+- 8855 | Lavie Tidhar | Judge Dee and the Mystery of the Missing Manuscript
+- 8856 | Lavie Tidhar | Seven Vampires: A Judge Dee Mystery
+- 8857 | Lavie Tidhar | The Locked Coffin: A Judge Dee Mystery
+- 8858 | Lavie Tidhar | Judge Dee and the Executioner of Epinal
+- 8897 | Ian Tregillis | What Doctor Gottlieb Saw
+- 8898 | Ian Tregillis | Something More Than Night
+- 9015 | Michael R. Underwood | The Shootout Solution
+- 9016 | Michael R. Underwood | The Absconded Ambassador
+- 9017 | Michael R. Underwood | There Will Always Be a Max (A Genrenauts story)
+- 9020 | Moses Ose Utomi | The Lies of the Ajungo
+- 9021 | Moses Ose Utomi | The Truth of the Aleke
+- 9022 | Moses Ose Utomi | The Memory of the Ogisi
+- 9030 | Catherynne M. Valente | Comfort Me With Apples
+- 9031 | Catherynne M. Valente | L'Esprit de L'Escalier
+- 9032 | Catherynne M. Valente | The Past Is Red
+- 9084 | Carrie Vaughn | That Game We Played During the War
+- 9087 | Carrie Vaughn | Where Would You Be Now?
+- 9088 | Carrie Vaughn | Sinew and Steel and What They Told
+- 9091 | Carrie Vaughn | An Easy Job
+- 9092 | Carrie Vaughn | Not the Most Romantic Thing
+- 9093 | Carrie Vaughn | Time: Marked and Mended
+- 9094 | Carrie Vaughn | Bravado
+- 9095 | Carrie Vaughn | Blade Through the Heart
+- 9153 | Nghi Vo | The Empress of Salt and Fortune
+- 9154 | Nghi Vo | When the Tiger Came Down the Mountain
+- 9156 | Nghi Vo | Into the Riverlands
+- 9157 | Nghi Vo | Mammoths at the Gates
+- 9158 | Nghi Vo | On the Fox Roads
+- 9159 | Nghi Vo | The Brides of High Hill
+- 9160 | Nghi Vo | A Mouthful of Dust
+- 9161 | Nghi Vo | Don't Sleep with the Dead
+- 9162 | Nghi Vo | A Long and Speaking Silence
+- 9171 | Sabrina Vourvoulias | Skin in the Game
+- 9172 | Sabrina Vourvoulias | The Ways of Walls and Words
+- 9182 | K B Wagers | The Ghosts of Trappist
+- 9195 | Olivia Waite | Murder by Memory
+- 9196 | Olivia Waite | Nobody's Baby
+- 9210 | Kali Wallace | Last Train to Jubilee Bay
+- 9266 | Peter Watts | The Colonel
+- 9411 | Alex Wells | Angel of the Blockade
+- 9432 | Martha Wells | Home: Habitat, Range, Niche, Territory
+- 9436 | Martha Wells | Rapport: Friendship, Solidarity, Communion, Empathy
+- 9563 | Fran Wilde | The Jewel and Her Lapidary
+- 9564 | Fran Wilde | The Fire Opal Mechanism
+- 9566 | Fran Wilde | The Book of Gems
+- 9612 | Walter Jon Williams | Daddy's World
+- 9616 | Walter Jon Williams | Investments
+- 9619 | Walter Jon Williams | Prayers in the Wind
+- 9621 | Walter Jon Williams | Solip:System
+- 9625 | Walter Jon Williams | Dinosaurs
+- 9626 | Walter Jon Williams | No Spot of Ground
+- 9627 | Walter Jon Williams | Surfacing
+- 9628 | Walter Jon Williams | The Tang Dynasty Underwater Pyramid
+- 9630 | Walter Jon Williams | Wall, Stone, Craft
+- 9632 | Walter Jon Williams | The Last Ride of German Freddie
+- 9633 | Walter Jon Williams | Impersonations
+- 9634 | Walter Jon Williams | The Boolean Gate
+- 9659 | Connie Willis | Fire Watch
+- 9663 | Connie Willis | Terra Incognita
+- 9668 | Kai Ashante Wilson | Super Bass
+- 9669 | Kai Ashante Wilson | The Devil in America
+- 9670 | Kai Ashante Wilson | The Sorcerer of the Wildeeps
+- 9671 | Kai Ashante Wilson | A Taste of Honey
+- 9672 | Kai Ashante Wilson | The Lamentation of Their Women
+- 9695 | Demi Winters | Roots of Darkness
+- 9697 | A.C. Wise | Wolf Moon, Antler Moon
+- 9784 | Sylvia Spruck Wrigley | Domnall and the Borrowed Child
+- 9803 | Neon Yang | Waiting on a Bright Moon
+- 9805 | Neon Yang | Circus Girl, The Hunter, and Mirror Boy
+- 9808 | Neon Yang | Brighter than Scale, Swifter than Flame
+- 9972 |  | Down and Out in Purgatory
+- 9975 |  | Diamonds From Tequila
+- 9976 |  | Target Rich Environment
+
+## CHILDREN-MG (242)
+- 17 | Julie Abe | Alliana, Girl of Dragons
+- 20 | Julie Abe | Tessa Miyata Is No Hero
+- 113 | Jed Alexander | The Black Market
+- 205 | Christiane M. Andrews | Spindlefish and Stars
+- 289 | Steven Arntson | The Wikkeling
+- 348 | Cale Atkinson | Explorers of the Wild
+- 426 | Steven Banbury | The Pumpkin Princess and the Buried Castle
+- 427 | Steven Banbury | The Pumpkin Princess and the Forever Night
+- 453 | Tracey Baptiste | Mermaid and Pirate
+- 454 | Tracey Baptiste | Rise of the Jumbies
+- 455 | Tracey Baptiste | The Jumbie Gods Revenge
+- 513 | Mac Barnett | Oh No! Not Again!
+- 520 | Tracy Barrett | Marabel and the Book of Fate
+- 523 | Chris Barton | Fire Truck vs. Dragon
+- 638 | Lindsey Becker | The Star Thief
+- 884 | Chloe Bonfield | The Perfect Tree
+- 899 | Pseudonymous Bosch | Bad Magic
+- 900 | Pseudonymous Bosch | Bad News
+- 1024 | Barbara Brauner | The Glitter Trap
+- 1157 | Molly Brooks | Field Trip
+- 1158 | Molly Brooks | Sanity & Tallulah
+- 1159 | Molly Brooks | Shortcuts
+- 1160 | Nick Brooks | Everything Interesting Keeps Happening to Ethan Fairmont
+- 1161 | Nick Brooks | Nothing Interesting Ever Happens to Ethan Fairmont
+- 1162 | Nick Brooks | Too Many Interesting Things Are Happening to Ethan Fairmont
+- 1219 | Peter Brown | The Curious Garden
+- 1226 | JaNay Brown-Wood | The Wizard of Oz
+- 1356 | Ben Caldwell | All-Action Classics: The Wizard of Oz
+- 1535 | Patrick Carman | Rivers of Fire
+- 1536 | Patrick Carman | THE Dark Planet
+- 1604 | Lexie Castle | When Unicorns Poop
+- 1677 | Katrina Charman | Survival Tails: Eruption at Krakatoa
+- 1733 | Alastair Chisholm | Reek
+- 1750 | Matt Christopher | The Extreme Team: Day of the Dragon
+- 1751 | Matt Christopher | Wheel Wizards
+- 1780 | Henry Clark | The Book That Proves Time Travel Happens
+- 1781 | Henry Clark | What We Found in the Corn Maze and How It Saved a Dragon
+- 1782 | Henry Clark | What We Found in the Sofa and How It Saved the World
+- 1868 | Chris Colfer | Roswell Johnson Saves the Galaxy!
+- 2168 | Gitty Daneshvari | School of Fear: Class Is Not Dismissed!
+- 2169 | Gitty Daneshvari | THE School of Fear: The Final Exam
+- 2177 | Hjalti Danielsson | EVE: The Burning Life
+- 2207 | MaryJanice Davidson | The Silver Moon Elm
+- 2215 | Becky Davies | The Mushroom of Doom!
+- 2232 | Jacky Davis | Good Dream Dragon
+- 2270 | Jamie L.B. Deenihan | When Grandma Gives You a Lemon Tree
+- 2301 | Christopher Denise | Knight Owl (Caldecott Honor Award Winner)
+- 2302 | Christopher Denise | Knight Owl and Early Bird
+- 2303 | Christopher Denise | Knight Owl and the Little Dragons
+- 2336 | Philip K Dick | Nick and the Glimmung
+- 2712 | Ame Dyckman | You Dont Want a Dragon!
+- 2713 | Ame Dyckman | You Dont Want a Unicorn!
+- 2718 | Thoraiya Dyer | Victory Citrus is Sweet
+- 2719 | Thoraiya Dyer | The Fastest Martian Mile
+- 2815 | Spencer Ellsworth | When Stars Are Scattered
+- 3006 | Liz Flanagan | City of Secrets
+- 3007 | Liz Flanagan | Into the Dark Forest
+- 3008 | Liz Flanagan | Magical Mountain Rescue
+- 3009 | Liz Flanagan | The Hidden Sea
+- 3639 | Louise Greig | A Walk Through the Woods
+- 3671 | Lev Grossman | The Golden Swift
+- 3672 | Lev Grossman | The Silver Arrow
+- 4038 | Mary Winn Heider | The Unicorns Who Saved Christmas
+- 4091 | Leah Henderson | The Magic in Changing Your Stars
+- 4228 | Holly Hobbie | Gem
+- 4246 | Margaret Hodges | Saint George and the Dragon (Caldecott Medal Winner)
+- 4289 | Christopher Holt | The Last Dogs: Dark Waters
+- 4290 | Christopher Holt | The Last Dogs: Journeys End
+- 4291 | Christopher Holt | The Last Dogs: The Long Road
+- 4312 | Polly Holyoke | The Neptune Challenge
+- 4444 | Molly Idle | Coral
+- 4445 | Molly Idle | Pearl
+- 4446 | Molly Idle | Witch Hazel
+- 4548 | Tove Jansson | The Last Dragon in Moominvalley
+- 4730 | Laekan Zea Kemp | Omega Morales and the Curse of El Cucuy
+- 4731 | Laekan Zea Kemp | Omega Morales and the Legend of La Lechuza
+- 4844 | Ellie Kirk | Bonnie Bailey and the Faire of Worlds
+- 4847 | Vincent X. Kirsch | Freddie & Gingersnap
+- 4848 | Vincent X. Kirsch | Freddie & Gingersnap Find a Cloud to Keep
+- 5040 | Josh Lacey | The Dragonsitter
+- 5041 | Josh Lacey | The Dragonsitter Takes Off
+- 5042 | Josh Lacey | The Dragonsitter to the Rescue
+- 5043 | Josh Lacey | The Dragonsitters Castle
+- 5044 | Josh Lacey | The Dragonsitters Island
+- 5045 | Josh Lacey | The Dragonsitters Party
+- 5190 | Nina Laden | Once Upon a Memory
+- 5248 | David LaRochelle | I Was an Outer-Space Chicken
+- 5249 | David LaRochelle | Planet of the Penguins
+- 5263 | Alex Latimer | Dragon Dave the Not So Brave
+- 5307 | Minh Le | Lift
+- 5356 | Stan Lee | Stan Lee's The Devil's Quintet: The Armageddon Code
+- 5357 | Stan Lee | Stan Lee's The Devil's Quintet: The Shadow Society
+- 5414 | Mark Leiknes | Quest Kids and the Dark Prophecy of Doug
+- 5415 | Mark Leiknes | Quest Kids and the Dragon Pants of Gold
+- 5416 | Mark Leiknes | Quest Kids and the Mystery of the Goblin Gazebo
+- 5455 | Katrina Leno | The Umbrella Makers Son
+- 5474 | Eric Lide | DragonForged: Sword of the Champion
+- 5480 | Grace Lin | Once Upon a Book
+- 5481 | Grace Lin | The Gate, the Girl, and the Dragon
+- 5482 | Grace Lin | When the Sea Turned to Silver (National Book Award Finalist)
+- 5483 | Grace Lin | Where the Mountain Meets the Moon (Newbery Honor Award Winner)
+- 5560 | Katherine Locke | Being Friends with Dragons
+- 5564 | Mary Logue | Dreki: My Icelandic Dragon
+- 5565 | David Long | Survival in Space
+- 5568 | Diana Lopez | Nothing Up My Sleeve
+- 5600 | Stephanie V.W. Lucianovic | Hello, Star
+- 5601 | Susan Lurie | Wanda Seasongood and the Almost Perfect Lie
+- 5602 | Susan Lurie | Wanda Seasongood and the Mostly True Secret
+- 5628 | M.E. MacGriogair | Seonag and the Seawolves
+- 5735 | John Marco | Starfinder
+- 5756 | Andy Marino | The Oregon Trail Diary of Willa Porter
+- 5771 | Sarah Glenn Marsh | How to Spot a Fairy
+- 5772 | Sarah Glenn Marsh | How to Spot a Magical Woodland Creature
+- 5773 | Sarah Glenn Marsh | How to Spot a Mermaid
+- 5831 | A. Lee Martinez | Emperor Mollusk versus The Sinister Brain
+- 5832 | A. Lee Martinez | Helen and Troys Epic Road Quest
+- 5840 | Wendy Mass | Space Taxi
+- 5841 | Wendy Mass | Space Taxi: Aliens on Earth
+- 5842 | Wendy Mass | Space Taxi: Archies Alien Disguise
+- 5843 | Wendy Mass | Space Taxi: B.U.R.P. Strikes Back
+- 5844 | Wendy Mass | Space Taxi: The Galactic B.U.R.P.
+- 5845 | Wendy Mass | Space Taxi: Water Planet Rescue
+- 5846 | Wendy Mass | The Planet, the Portal, and a Pizza
+- 5961 | Cori McCarthy | The Color of Rain
+- 6053 | Christopher Mcgowan | The Dragon Seekers
+- 6109 | Dennis L. McKiernan | Once Upon a Winter's Night
+- 6110 | Dennis L. McKiernan | Once Upon a Summer Day
+- 6111 | Dennis L. McKiernan | Once Upon A Dreadful Time
+- 6112 | Dennis L. McKiernan | Once Upon A Spring Morn
+- 6113 | Dennis L. McKiernan | Once Upon an Autumn Eve
+- 6584 | Ogden Nash | The Tale of Custard the Dragon
+- 6778 | Lauren O | Hortense and the Shadow
+- 6844 | Hiawyn Oram | Rumblewicks Diary: My Unwilling Witch Gets a Makeover
+- 6845 | Hiawyn Oram | Rumblewicks Diary: My Unwilling Witch Goes to Ballet School
+- 6846 | Hiawyn Oram | Rumblewicks Diary: My Unwilling Witch Sleeps Over
+- 6847 | Hiawyn Oram | Rumblewicks Diary: My Unwilling Witch Starts a Girl Band
+- 6930 | Todd Parr | The EARTH Book
+- 6937 | Serena Patel | Picture Perfect
+- 6942 | Brian Patten | Monster Slayer
+- 6943 | James Patterson | An Armada of Trouble
+- 6944 | James Patterson | Crazy House
+- 6947 | James Patterson | Maximum Ride: Schools Out Forever: Booktrack Edition
+- 6948 | James Patterson | Not So Normal Norbert
+- 6950 | James Patterson | The Angel Experiment: Booktrack Edition
+- 6951 | James Patterson | The Fire
+- 6955 | James Patterson | The Lake House
+- 6957 | James Patterson | The Pharaohs Tomb
+- 6959 | James Patterson | The Time Travel Twins
+- 6982 | J. D. Peabody | The Inkwell Chronicles Collection
+- 6983 | J. D. Peabody | The Inkwell Chronicles: Operation Bungaree, Book 3
+- 6984 | J. D. Peabody | The Inkwell Chronicles: Race to Krakatoa, Book 2
+- 6985 | J. D. Peabody | The Inkwell Chronicles: The Ink of Elspet, Book 1
+- 6987 | Jenny Pearson | Bigfoot and the Wild Boys
+- 7058 | Jerry Pinkney | The Lion & the Mouse (Caldecott Medal Winner)
+- 7059 | Jerry Pinkney | The Tortoise & the Hare
+- 7197 | Chris Priestley | Flesh and Blood
+- 7198 | Chris Priestley | Freeze
+- 7199 | Chris Priestley | Seven Ghosts
+- 7200 | Chris Priestley | Still Water
+- 7201 | Chris Priestley | The Wickford Doom
+- 7364 | Adam Rex | Moonday
+- 7399 | Jewell Parker Rhodes | Ninth Ward (Coretta Scott King Author Honor Title)
+- 7400 | Jewell Parker Rhodes | Paradise on Fire
+- 7475 | William Ritter | The Oddmire, Book 1: Changeling
+- 7476 | William Ritter | The Oddmire, Book 2: The Unready Queen
+- 7477 | William Ritter | The Oddmire, Book 3: Deepest, Darkest
+- 7481 | Karen Rivers | Naked Mole Rat Saves the World
+- 7530 | Taylor Robin | Fates Run
+- 7597 | Matilda Rose | Pugicorn Saves the Show
+- 7598 | Matilda Rose | Pugicorn to the Rescue!
+- 7599 | Matilda Rose | Pugicorns Mermaid Mystery
+- 7600 | Matilda Rose | Pugicorns Sleepover Surprise
+- 7620 | Judith Roth | Goodnight, Dragons
+- 7655 | Lucinda Roy | The Freedom Race
+- 7656 | Lucinda Roy | Flying the Coop
+- 7657 | Lucinda Roy | The Bird Tribe
+- 7869 | Tammi Sauer | Your Alien
+- 7870 | Tammi Sauer | Your Alien Returns
+- 7939 | Paul Schmid | Oliver and his Egg
+- 7995 | Kirk Scroggs | PetWizards
+- 7996 | Kirk Scroggs | PetWizards: Master of Puppies
+- 8002 | Marcus Sedgwick | Ravencave
+- 8010 | Suzanne Selfors | The Fairy Swarm
+- 8011 | Suzanne Selfors | The Griffins Riddle
+- 8012 | Suzanne Selfors | The Lonely Lake Monster
+- 8013 | Suzanne Selfors | The Order of the Unicorn
+- 8014 | Suzanne Selfors | The Rain Dragon Rescue
+- 8015 | Suzanne Selfors | The Sasquatch Escape
+- 8042 | Bob Shea | Unicorn Is Maybe Not So Great After All
+- 8043 | Bob Shea | Unicorn Thinks Hes Pretty Great
+- 8279 | Clete Barrett Smith | Alien on a Rampage
+- 8280 | Clete Barrett Smith | Aliens in Disguise
+- 8281 | Clete Barrett Smith | Aliens on Vacation
+- 8283 | Dan Smith | The Beast of Harwood Forest
+- 8284 | Dan Smith | The Horror of Dunwick Farm
+- 8285 | Dan Smith | The Invasion of Crooked Oak
+- 8344 | Soosh | Mermaid and Me
+- 8381 | Union Square | The Book of Wizard Craft
+- 8382 | Union Square | The Book of Wizard Magic
+- 8383 | Union Square | The Book of Wizard Parties
+- 8427 | Hamish Steele | Go-Man vs. the Star Dragon
+- 8443 | Wendy Stephens | Bigfoot and Friends (Board Book)
+- 8513 | Naoko Stoop | Red Knit Cap Girl
+- 8581 | Tracy Subisak | Dragon Boat Race
+- 8582 | Diana Sudyka | Little Land
+- 8583 | Diana Sudyka | The Acorns Gift
+- 8586 | Joe Sugg | Username: Evie
+- 8587 | Joe Sugg | Username: Regenerated
+- 8661 | Michael Sweater | Puppy Knights: Quest for the Golden Bones
+- 8801 | Jason Thompson | King of RPGs 1
+- 8802 | Jason Thompson | King of RPGs 2
+- 8803 | Julie Thompson | When Isaac Hears the Rain
+- 8820 | Sarah L. Thomson | Wombat Underground
+- 8888 | Jessica Townsend | Hollowpox: The Hunt for Morrigan Crow
+- 8889 | Jessica Townsend | Silverborn: The Mystery of Morrigan Crow
+- 8907 | Katie Tsang | Dragon City
+- 8908 | Katie Tsang | Dragon Legend
+- 8909 | Katie Tsang | Dragon Mountain
+- 8916 | Bianca Turetsky | The Time-Traveling Fashionista
+- 8917 | Bianca Turetsky | The Time-Traveling Fashionista and Cleopatra, Queen of the Nile
+- 8918 | Bianca Turetsky | The Time-Traveling Fashionista at the Palace of Marie Antoinette
+- 8968 | Harry Turtledove | The Gladiator
+- 8973 | Harry Turtledove | The Valley-Westside War
+- 8974 | Harry Turtledove | Gunpowder Empire
+- 8983 | Harry Turtledove | The Disunited States of America
+- 9014 | B.B. Ullman | Bad Order
+- 9018 | Tania Unsworth | The One Safe Place
+- 9053 | Erin Vanessa | Swept Away at Witch Camp
+- 9323 | David Weber | Fire Season
+- 9353 | David Weber | A New Clan
+- 9445 | Chuck Wendig | The Boy Who Dreamed of Doors
+- 9500 | Jesse White | Brave Like Fireweed
+- 9530 | Wade Albert White | The Adventurers Guide to Dragons (and Why They Keep Biting Me)
+- 9531 | Wade Albert White | The Adventurers Guide to Successful Escapes
+- 9532 | Wade Albert White | The Adventurers Guide to Treasure (and How to Steal It)
+- 9666 | Marnie Willow | The Enchanted Library: Tales from Fairy Glade Forest
+- 9813 | Peter Yarrow | Puff, the Magic Dragon
+- 9817 | Arthur Yorinks | Companys Coming
+- 9818 | Arthur Yorinks | Companys Going
+- 9869 | Jaime Zollars | The Truth About Dragons
+- 9882 |  | Masterpieces
+- 9901 |  | Heroes In Training
+
+## ANTHOLOGY (230)
+- 2174 | Tony Daniel | Star Destroyers
+- 2176 | Tony Daniel | World Breakers
+- 2181 | Jack Dann | Dreaming Again
+- 2195 | Indrapramit Das | Of All the New Yorks in All the Worlds
+- 2196 | Ellen Datlow | Queen Victoria's Book of Spells
+- 2197 | Ellen Datlow | Mad Hatters and March Hares
+- 2198 | Ellen Datlow | Tor.com Publishing Editorial Spotlight #3
+- 2216 | Hank Davis | A Cosmic Christmas
+- 2217 | Hank Davis | A Cosmic Christmas 2 You
+- 2218 | Hank Davis | In Space No One Can Hear You Scream
+- 2219 | Hank Davis | As Time Goes By
+- 2220 | Hank Davis | The Baen Big Book of Monsters
+- 2221 | Hank Davis | Future Wars ... and Other Punchlines
+- 2222 | Hank Davis | Worst Contact
+- 2223 | Hank Davis | If This Goes Wrong . . .
+- 2224 | Hank Davis | Things From Outer Space
+- 2225 | Hank Davis | Overruled
+- 2226 | Hank Davis | All Roads Lead to Rome
+- 2227 | Hank Davis | Cosmic Corsairs
+- 2228 | Hank Davis | Depth Charge
+- 2581 | David Drake | The World Turned Upside Down
+- 2637 | David Drake | Dogs of War
+- 2743 | Rosemary Edghill | Murder by Magic
+- 2782 | Elton Elliott | Like Water for Quarks
+- 2783 | John Elliott | The Andromeda Anthology
+- 2811 | Harlan Ellison | Cthulhu 2000
+- 2846 | Carl Engle-Laird | Tor.com Publishing Editorial Spotlight #1
+- 2951 | Bill Fawcett | Masters of Fantasy
+- 2952 | Bill Fawcett | Cats in Space and Other Places
+- 3028 | Christopher Anviledited by Eri | War Games
+- 3196 | Alan Dean Foster | The Children of Cthulhu
+- 3280 | Esther Friesner | Turn the Other Chick
+- 3281 | Esther Friesner | Chicks 'n Chained Males
+- 3285 | Esther Friesner | Chicks and Balances
+- 3316 | Irene Gallo | Worlds Seen in Passing
+- 3389 | Henry Gee | Nature Futures 1
+- 3424 | Jack Dannnick Gevers | Ghosts by Gaslight
+- 3487 | Christopher Golden | Dark Duets
+- 3519 | Ken Liu; Judith Moffett; Kathl | The Anderson Project
+- 3591 | Andrew M. Greeley | Emerald Magic
+- 3614 | Martin Harry Greenberg | Give Me Liberty
+- 3615 | Martin Harry Greenberg | Visions of Liberty
+- 3616 | Martin Harry Greenberg | Freedom!
+- 3699 | Eileen Gunn | Steampunk Quartet
+- 3702 | Paula Guran | The Mammoth Book of Cthulhu
+- 3741 | Joe Haldeman | Future Weapons of War
+- 3819 | Elizabeth Hand | Logorrhea
+- 3837 | C. Stuart Hardwick | Tales of the United States Space Force
+- 3886 | Lee Harris | Tor.com Publishing Editorial Spotlight #2
+- 3959 | David G. Hartwell | Visions of Wonder
+- 3960 | David G. Hartwell | The Hard SF Renaissance
+- 3961 | David G. Hartwell | Christmas Stars
+- 4225 | Robin Hobb | Legends II: Shadows, Gods, and Demons
+- 4612 | Les Johnson | Going Interstellar
+- 4614 | Les Johnson | Stellaris: People of the Stars
+- 4842 | Rudyard Kipling | Tales Before Narnia
+- 4916 | Robert A. Heinlein; Edited by  | Requiem
+- 4964 | Tom Kratman | Terra Nova: The Wars of Liberation
+- 5031 | Katherine Kurtz | On Crusade
+- 5270 | Victor LaValle | Reimagining Lovecraft: Four Tor.com Novellas
+- 5303 | Stephen Lawson | ROBOSOLDIERS: Thank You for Your Servos
+- 5316 | William Ledbetter | The Jim Baen Memorial Award: The First Decade
+- 5487 | Robin Hobbmegan Lindholm | The Inheritance
+- 5522 | Ken Liu | Invisible Planets
+- 5523 | Ken Liu | Broken Stars
+- 5627 | Alex Dally MacFarlane | The Mammoth Book of SF Stories by Women
+- 5795 | George R. R. Martin | Dangerous Women
+- 5797 | George R.R. Martin | Songs of the Dying Earth
+- 5798 | George R.R. Martin | Warriors
+- 5799 | George R.R. Martin | Warriors 1
+- 5800 | George R.R. Martin | Warriors 2
+- 5801 | George R.R. Martin | Warriors 3
+- 6442 | J.E. Mooney | Shadows of the New Sun
+- 6527 | James Morrow | The SFWA European Hall of Fame
+- 6531 | James Morrow | Nebula Awards 28
+- 6591 | Joseph Nassise | Urban Allies
+- 6625 | E. Nesbit | Tales Before Tolkien: The Roots of Modern Fantasy
+- 7040 | Gary Phillips | The Darker Mask
+- 7359 | Mike Resnick | Worlds of Edgar Rice Burroughs
+- 7463 | John Ringo | Voices of the Fall
+- 7682 | Kristine Kathryn Rusch | Women of Futures Past
+- 7781 | Laura Sampson | Enchanted Tales
+- 7866 | Pamela Sargent | Nebula Awards 29
+- 7867 | Pamela Sargent | Nebula Awards 30
+- 7868 | Pamela Sargent | Nebula Awards 31
+- 7873 | Steven Savile | Elemental: The Tsunami Relief Anthology
+- 7940 | Bryan Thomas Schmidt | Shattered Shields
+- 7941 | Bryan Thomas Schmidt | Mission: Tomorrow
+- 7942 | Bryan Thomas Schmidt | Galactic Games
+- 7943 | Bryan Thomas Schmidt | Little Green Men - Attack!
+- 7977 | Edmund R. Schubert | Orson Scott Card's InterGalactic Medicine Show
+- 8167 | Robert Silverberg | Legends
+- 8168 | Robert Silverberg | The Science Fiction Hall of Fame, Volume One 1929-1964
+- 8170 | Robert Silverberg | Legends 2: New Short Novels By The Masters of Modern Fantasy
+- 8390 | Brian Stableford | Shadows Over Baker Street
+- 8414 | Christopher Stasheff | The Day the Magic Stopped
+- 8523 | Charles N Brownjonathan Straha | The Locus Awards
+- 8524 | Gardner Dozoisjonathan Strahan | The New Space Opera
+- 8525 | Gardner Dozoisjonathan Strahan | The New Space Opera 2
+- 8526 | Jonathan Strahan | Tor.com Publishing Editorial Spotlight #5
+- 8527 | Jonathan Strahan | The Book of Dragons
+- 8528 | Jonathan Strahan | The Book of the Dead
+- 8529 | Jonathan Strahan | The Book of Witches
+- 8589 | Colin Sullivan | Nature Futures 2
+- 8791 | Sheree R. Thomas | Dark Matter
+- 8792 | Sheree Renee Thomas | Africa Risen
+- 8883 | Tor.com | Some of the Best from Tor.com: 2020 Edition
+- 8937 | Harry Turtledove | Alternate Generals II
+- 8943 | Harry Turtledove | 3xT
+- 8948 | Harry Turtledove | Alternate Generals III
+- 8953 | Harry Turtledove | The Enchanter Completed
+- 8955 | Harry Turtledove | The Time of Troubles II
+- 9048 | Ann VanderMeer | The Weird
+- 9049 | Ann VanderMeer | Tor.com Publishing Editorial Spotlight #4
+- 9050 | Ann Vandermeerjeff Vandermeer | The Thackery T. Lambshead Cabinet of Curiosities
+- 9061 | Various | The Best of Cemetery Dance
+- 9062 | Various | Past Lives, Present Tense
+- 9063 | Various | October Dreams
+- 9064 | various | Some of the Best From Tor.com, 2013 Edition
+- 9221 | Sean Wallace | The Mammoth Book of Dieselpunk
+- 9222 | Sean Wallace | The Mammoth Book of Steampunk Adventures
+- 9223 | Sean Wallace | The Mammoth Book of Warriors and Wizardry
+- 9391 | Margaret Weis | A Dragon-Lovers Treasury of the Fantastic
+- 9392 | Margaret Weis | A Quest-Lovers Treasury of the Fantastic
+- 9394 | T. K. F. Weisskopf | Cosmic Tales: Adventures in the Sol System
+- 9395 | T. K. F. Weisskopf | Cosmic Tales: Adventures in Far Futures
+- 9664 | Connie Willis | A Womans Liberation
+- 9685 | Terri Windling | The Essential Bordertown
+- 9765 | Christopher Woods | Give Me Libertycon
+- 9816 | Martin H. Greenberg; Introduct | After the King
+- 9872 |  | Sword of Ice
+- 9875 |  | My Favorite Fantasy Story
+- 9876 |  | A Constellation of Cats
+- 9878 |  | The Best Alternate History Stories of the 20th Century
+- 9879 |  | Tales of the Lovecraft Mythos
+- 9880 |  | Space, Inc
+- 9883 |  | Powers of Detection
+- 9885 |  | The Best Time Travel Stories of the 20th Century
+- 9886 |  | The Many Faces of Van Helsing
+- 9887 |  | The New Lovecraft Circle
+- 9888 |  | Flights: Extreme Visions of Fantasy
+- 9890 |  | Children of Magic
+- 9891 |  | Cosmic Cocktails
+- 9893 |  | Fantasy Gone Wrong
+- 9894 |  | Forbidden Planets
+- 9895 |  | Furry Fantastic
+- 9896 |  | Hags, Sirens, and Other Bad Girls of Fantasy
+- 9897 |  | Novel Ideas-Fantasy
+- 9898 |  | The Magic Toybox
+- 9899 |  | Army of the Fantastic
+- 9900 |  | Fate Fantastic
+- 9902 |  | If I Were An Evil Overlord
+- 9904 |  | Man Vs Machine
+- 9905 |  | Pandora's Closet
+- 9907 |  | Places To Be, People To Kill
+- 9908 |  | Tales of Pitchlyn County
+- 9909 |  | The Best of Lady Churchill's Rosebud Wristlet
+- 9910 |  | The Future We Wish We Had
+- 9911 |  | The Secret History of Vampires
+- 9912 |  | Time Twisters
+- 9913 |  | Under Cover of Darkness
+- 9914 |  | Wizards, Inc.
+- 9915 |  | Better Off Undead
+- 9916 |  | Catopolis
+- 9917 |  | Enchantment Place
+- 9918 |  | Fellowship Fantastic
+- 9919 |  | Front Lines
+- 9920 |  | Future Americas
+- 9921 |  | Imaginary Friends
+- 9922 |  | Misspelled
+- 9923 |  | Moving Targets and Other Tales of Valdemar
+- 9924 |  | Mystery Date
+- 9925 |  | Something Magic This Way Comes
+- 9926 |  | The Dimension Next Door
+- 9927 |  | The Reel Stuff
+- 9928 |  | Unusual Suspects
+- 9929 |  | Witch High
+- 9930 |  | Wizards
+- 9931 |  | Ages of Wonder
+- 9932 |  | Crime Spells
+- 9933 |  | Gamer Fantastic
+- 9934 |  | Intelligent Design
+- 9935 |  | Other Earths
+- 9936 |  | Spells of the City
+- 9937 |  | Swordplay
+- 9938 |  | Terribly Twisted Tales
+- 9939 |  | The Trouble with Heroes
+- 9940 |  | We Think, Therefore We Are
+- 9941 |  | Zombie Raccoons & Killer Bunnies
+- 9942 |  | A Girl's Guide to Guns and Monsters
+- 9943 |  | Cthulhu's Reign
+- 9944 |  | Is Anybody Out There?
+- 9945 |  | Love and Rockets
+- 9946 |  | Nebula Awards Showcase 2010
+- 9947 |  | Steampunk'd
+- 9948 |  | The Dragon and the Stars
+- 9949 |  | The Dragon Book
+- 9950 |  | Timeshares
+- 9951 |  | After Hours
+- 9952 |  | Boondocks Fantasy
+- 9953 |  | Courts of the Fey
+- 9954 |  | Hot and Steamy
+- 9955 |  | Human for a Day
+- 9956 |  | Under the Vale and Other Tales of Valdemar
+- 9957 |  | Zombiesque
+- 9959 |  | Down These Strange Streets
+- 9960 |  | The Modern Fae's Guide to Surviving Humanity
+- 9961 |  | Westward Weird
+- 9966 |  | Detroit Christmas
+- 9977 |  | The Clan Chronicles: Tales from Plexis
+- 9999 |  | Heroic Hearts
+- 10000 |  | Anything With Nothing
+- 10006 |  | A Many-Splintered Thing
+- 10007 |  | Paranormal Payback
+- 10053 |  | Year's Best Fantasy
+- 10054 |  | Year's Best Fantasy 2
+- 10055 |  | Year's Best Fantasy 3
+- 10056 |  | Year's Best SF
+- 10057 |  | Year's Best SF 10
+- 10058 |  | Year's Best SF 11
+- 10059 |  | Year's Best SF 13
+- 10060 |  | Year's Best SF 14
+- 10061 |  | Year's Best SF 15
+- 10062 |  | Year's Best SF 17
+- 10063 |  | Year's Best SF 2
+- 10064 |  | Year's Best SF 3
+- 10065 |  | Year's Best SF 4
+- 10066 |  | Year's Best SF 6
+- 10067 |  | Year's Best SF 7
+- 10068 |  | Year's Best SF 8
+
+## COLLECTION (221)
+- 27 | Joe Abercrombie | Sharp Ends
+- 60 | Douglas Adams | The Salmon of Doubt
+- 62 | John Joseph Adams | Armored
+- 63 | John Joseph Adams | The Mad Scientist's Guide to World Domination
+- 64 | John Joseph Adams | Operation Arcana
+- 65 | Karen Joy Fowlerjohn Joseph Ad | The Best American Science Fiction And Fantasy 2016
+- 72 | Lara Adrian | A Glimpse of Darkness (Short Story)
+- 73 | David Afsharirad | The Year's Best Military SF & Space Opera
+- 74 | David Afsharirad | The Year's Best Military & Adventure SF 2015
+- 75 | David Afsharirad | The Chronicles of Davids
+- 76 | David Afsharirad | Swords & Larceny
+- 123 | Fawaz Al-Matrouk | Alien Boy
+- 138 | Charlie Jane Anders | Six Months, Three Days
+- 139 | Charlie Jane Anders | The Fermi Paradox is Our Business Model
+- 140 | Charlie Jane Anders | Intestate
+- 141 | Charlie Jane Anders | As Good as New
+- 143 | Charlie Jane Anders | Clover
+- 144 | Charlie Jane Anders | Six Months, Three Days, Five Others
+- 145 | Charlie Jane Anders | Some of the Best from Tor.com: 2016
+- 146 | Charlie Jane Anders | If You Take My Meaning
+- 147 | Charlie Jane Anders | Nevertheless She Persisted: Flash Fiction Project
+- 148 | Charlie Jane Anders | Even Greater Mistakes
+- 149 | Lou Anders | Live Without a Net
+- 159 | G.V Anderson | Some of the Best of Tor.com 2021
+- 166 | Kevin J. Anderson | The Nebula Awards Showcase 2011
+- 172 | Poul Anderson | All One Universe
+- 234 | Ann | The Time Traveler's Almanac
+- 258 | Christopher Anvil | Interstellar Patrol
+- 260 | Christopher Anvil | Interstellar Patrol II: The Federation of Humanity
+- 261 | Christopher Anvil | The Trouble With Aliens
+- 262 | Christopher Anvil | The Trouble With Humans
+- 263 | Christopher Anvil | Prescription for Chaos
+- 264 | Christopher Anvil | The Power of Illusion
+- 328 | Isaac Asimov | Robot Dreams
+- 329 | Isaac Asimov | Robot Visions
+- 333 | Isaac Asimov | Nightfall and Other Stories
+- 336 | Isaac Asimov | Buy Jupiter
+- 337 | Isaac Asimov | Gold
+- 338 | Isaac Asimov | The Bicentennial Man
+- 344 | Robert Asprin | Tales of the Time Scouts
+- 345 | Robert Asprin | Tales of the Time Scouts II
+- 346 | Robert Asprin | Three Faces of Asprin
+- 360 | Assorted Baen Authors | The Many Deaths of Joe Buckley
+- 361 | Multiple Authors | King of Stars
+- 362 | Multiple Authors | Starwolves and the Interstellar Patrol
+- 363 | Multiple Authors | The Pournelle Continuum
+- 364 | Multiple Authors | The Hemry Ebook Megabundle
+- 386 | Various Authors | Six Tor.com Science Fiction & Fantasy Stories from the 2010 Locus Reco
+- 387 | Various Authors | Some of the Best from Tor.com: 2014
+- 411 | Dale Bailey | A Rumor of Angels
+- 412 | Dale Bailey | The End of the End of Everything
+- 413 | Dale Bailey | The Ghoul Goes West
+- 414 | Dale Bailey | After the Tripods
+- 425 | Nathan Ballingrud | Cathedral of the Drowned
+- 515 | Kelly Barnhill | Dreadful Young Ladies and Other Stories
+- 550 | Stephen Baxter | Navigator
+- 602 | Elizabeth Bear | On Safari in R'lyeh and Carcosa with Gun and Camera
+- 2309 | Matthew Derby | Super Flat Times
+- 2561 | David Drake | Old Nathan
+- 2759 | Greg Egan | Axiomatic
+- 2770 | Greg Egan | The Best of Greg Egan
+- 2812 | Harlan Ellison | Greatest Hits
+- 2858 | Steven Erikson | The Devil Delivered and Other Tales
+- 2998 | Ron Miller Classics of Science | Ron Miller Classics of Science Fiction
+- 3151 | John M. Ford | Heat of Fusion and Other Stories
+- 3204 | Alan Dean Foster | Impossible Places
+- 3206 | Alan Dean Foster | Exceptions to Reality
+- 3213 | Alan Dean Foster | Mad Amos Malone
+- 3314 | R. A. Lafferty; introduction b | The Best of R. A. Lafferty
+- 3483 | Tom Godwin | The Cold Equations
+- 3484 | Tom Godwin | Original Edition of edited Godwin Stories
+- 3527 | Theodora Goss | Red as Blood and White as Bone
+- 3545 | Adalyn Grace | The Belladonna Paperback Collection
+- 3686 | Ursula K. Le Guin | A Fisherman of the Inland Sea
+- 3690 | Ursula K. Le Guin | Orsinia
+- 3693 | Ursula K. Le Guin | The Wind's Twelve Quarters and The Compass Rose
+- 3740 | Joe Haldeman | A Separate War and Other Stories
+- 3805 | Peter F. Hamilton | Manhattan In Reverse
+- 3901 | Harry Harrison | 50 in 50
+- 3954 | Alix E. Harrow | The Slantwise Histories
+- 4144 | Frank Herbert | The Collected Stories of Frank Herbert
+- 4212 | Joe Hill | 20th Century Ghosts
+- 4213 | Joe Hill | Full Throttle
+- 4215 | Joe Hill | Strange Weather
+- 4286 | Emma Jane Holloway | The Baskerville Tales (Short Stories)
+- 4320 | Nalo Hopkinson | Mojo
+- 4348 | Robert E. Howard | The Savage Tales of Solomon Kane
+- 4349 | Robert E. Howard | Bran Mak Morn: The Last King
+- 4352 | Robert E. Howard | The Horror Stories of Robert E. Howard
+- 4353 | Robert E. Howard | El Borak and Other Desert Adventures
+- 4355 | Robert E. Howard | Sword Woman and Other Historical Adventures
+- 4408 | Faith Hunter | Cat Tales
+- 4411 | Faith Hunter | Have Stakes Will Travel
+- 4430 | Faith Hunter | Of Claws and Fangs
+- 4503 | John Hornor Jacobs | A Lush and Seething Hell
+- 4555 | N. K. Jemisin | How Long til Black Future Month?
+- 4679 | Janet Kagan | The Collected Kagan
+- 4816 | Margaret Killjoy | In Our Own Worlds
+- 4859 | TJ Klune | TJ Klune Ebook Collection
+- 4973 | Nancy Kress | Beaker's Dozen
+- 5036 | Henry Kuttner | The Last Mimzy
+- 5080 | Mercedes Lackey | Fiddler Fair
+- 5198 | R. A. Lafferty | The Best of R. A. Lafferty
+- 5210 | Claude Lalumiere | Witpunk
+- 5376 | Tanith Lee | Cyrion
+- 5380 | Tanith Lee | Tamastara
+- 5381 | Tanith Lee | The Gorgon and Other Beastly Tales
+- 5387 | Tanith Lee | Night's Sorceries
+- 5418 | Murray Leinster | Planets of Adventure
+- 5427 | Stanislaw Lem | More Tales Of Pirx The Pilot
+- 5428 | Stanislaw Lem | Mortal Engines
+- 5432 | Stanislaw Lem | Tales Of Pirx The Pilot
+- 5519 | Cixin Liu | To Hold Up the Sky
+- 5521 | Cixin Liu | A View from the Stars
+- 5530 | Marjorie M. Liu | Armor of Roses and The Silver Voice
+- 5581 | H. P. Lovecraft | Bloodcurdling Tales of Horror and the Macabre: The Best of H. P. Lovec
+- 5582 | H. P. Lovecraft | Waking Up Screaming
+- 5584 | H.P. Lovecraft | The Dream Cycle of H. P. Lovecraft: Dreams of Terror and Death
+- 5585 | H.P. Lovecraft | The Road to Madness
+- 5586 | H.P. Lovecraft | Shadows of Death
+- 5587 | H.P. Lovecraft | Eldritch Tales
+- 5685 | Barry N. Malzberg | Breakfast in the Ruins
+- 5778 | Andrew Marshall | The Quanderhorn Xperimentations
+- 5796 | George R. R. Martin | Nightflyers & Other Stories
+- 5802 | George R.R. Martin | Dreamsongs
+- 5851 | Richard Matheson | The Box
+- 5913 | Anne McCaffrey | Get Off the Unicorn
+- 5951 | Anne McCaffrey | The Girl Who Heard Dragons
+- 6054 | Seanan McGuire | Midway Relics and Dying Breeds
+- 6061 | Seanan McGuire | Seanan McGuire's Wayward Children, Volumes 1-3
+- 6070 | Seanan McGuire | The Up-and-Under Series
+- 6072 | Seanan McGuire | Wayward Children: The First Five Adventures
+- 6084 | Seanan McGuire | Be Sure Volume II
+- 6085 | Seanan McGuire | Butterfly Effects
+- 6124 | Patricia A. McKillip | In the Forests of Serre
+- 6126 | Patricia A. McKillip | Harrowing the Dragon
+- 6222 | China Mieville | Looking for Jake
+- 6226 | China Mieville | Three Moments of an Explosion
+- 6254 | Ron Miller | A Christmas Dinner with the Man in the Moon
+- 6276 | Ron Miller | Peculiar Tales
+- 6398 | Janelle Monae | The Memory Librarian
+- 6453 | Michael Moorcock | Breakfast in the Ruins and Other Stories
+- 6468 | Michael Moorcock | London Bone and Other Stories
+- 6469 | Michael Moorcock | Moorcock's Multiverse
+- 6470 | Michael Moorcock | My Experiences in the Third World War and Other Stories
+- 6471 | Michael Moorcock | Tales From the End of Time
+- 6473 | Michael Moorcock | The Brothel in Rosenstrasse and Other Stories
+- 6477 | Michael Moorcock | Travelling to Utopia
+- 6480 | C.L. Moore | Judgment Night: A Selection of Science Fiction
+- 6481 | C.L. Moore | Northwest of Earth
+- 6678 | Larry Niven | Scatterbrain
+- 6682 | Larry Niven | The Draco Tavern
+- 6683 | Larry Niven | N-Space
+- 6694 | Larry Niven | Stars and Gods
+- 6763 | Naomi Novik | Buried Deep and Other Stories
+- 7075 | Frederik Pohl | Platinum Pohl
+- 7084 | Frederik Pohl | Pohlstars
+- 7088 | Frederik Pohl | The Best of Frederik Pohl
+- 7090 | Frederik Pohl | The Early Pohl
+- 7116 | Jerry Pournelle | A Step Farther Out
+- 7126 | Jerry Pournelle | The Best of Jerry Pournelle
+- 7188 | Christopher Priest | Episodes
+- 7369 | Alastair Reynolds | Beyond the Aquila Rift
+- 7374 | Alastair Reynolds | Galactic North
+- 7386 | Alastair Reynolds | Zima Blue
+- 7790 | Brandon Sanderson | Tailored Realities
+- 7858 | Andrzej Sapkowski | The Malady and Other Stories
+- 7935 | Veronica Schanoes | Burning Girls and Other Stories
+- 7944 | James H. Schmitz | Original Edition of edited Schmitz Stories
+- 8071 | Charles Sheffield | Georgia on My Mind and Other Places
+- 8136 | Sharon Shinn | Quatrain
+- 8185 | Dan Simmons | Prayers to Broken Stones
+- 8247 | Vandana Singh | Ambiguity Machines: An Examination
+- 8282 | Cordwainer Smith | The Rediscovery of Man
+- 8464 | Marc Stiegler | The Gentle Seduction
+- 8546 | Charles Stross | Wireless
+- 8696 | Wole Talabi | Convergence Problems
+- 8705 | Sue Lynn Tan | Tales of the Celestial Kingdom
+- 8844 | Karin Tidbeck | Sing
+- 8845 | Karin Tidbeck | Listen
+- 8846 | Karin Tidbeck | The Last Voyage of Skidbladnir
+- 8865 | J.R.R. Tolkien | Sir Gawain and the Green Knight, Pearl, Sir Orfeo
+- 8866 | J.R.R. Tolkien | Smith of Wootton Major & Farmer Giles of Ham
+- 8867 | J.R.R. Tolkien | The Tolkien Reader
+- 8978 | Harry Turtledove | Atlantis and Other Places
+- 8979 | Harry Turtledove | Departures
+- 8982 | Harry Turtledove | Lee at the Alamo
+- 8984 | Harry Turtledove | The Star and the Rockets
+- 8985 | Harry Turtledove | Vilcabamba
+- 8994 | Harry Turtledove | Something Going Around
+- 9000 | Harry Turtledove | Typecasting
+- 9005 | Harry Turtledove | Manuscript Tradition
+- 9006 | Harry Turtledove | No Period
+- 9007 | Harry Turtledove | Three Bill Williamson Stories
+- 9008 | Harry Turtledove | Three Miles Down
+- 9068 | John Varley | Blue Champagne
+- 9069 | John Varley | Persistence Of Vision
+- 9142 | Vernor Vinge | The Collected Stories of Vernor Vinge
+- 9316 | David Weber | Worlds of Weber
+- 9648 | Michael Z. Williamson | Forged in Blood
+- 9649 | Michael Z. Williamson | Tide of Battle
+- 9652 | Michael Z. Williamson | That was Now, This is Then
+- 9653 | Michael Z. Williamson | Target: Terror
+- 9655 | Connie Willis | Impossible Things
+- 9660 | Connie Willis | The Best of Connie Willis
+- 9661 | Connie Willis | A Lot Like Christmas
+- 9665 | Connie Willis | Time is the Fire
+- 9673 | Robert Charles Wilson | The Perseids and Other Stories
+- 9714 | Gene Wolfe | Castle of Days
+- 9715 | Gene Wolfe | Storeys from the Old Hotel
+- 9718 | Gene Wolfe | The Island of Dr. Death and Other Stories and Other Stories
+- 9723 | Gene Wolfe | Strange Travelers
+- 9728 | Gene Wolfe | Endangered Species
+- 9729 | Gene Wolfe | Innocents Aboard
+- 9730 | Gene Wolfe | Starwater Strains
+- 9733 | Gene Wolfe | The Best of Gene Wolfe
+- 9739 | Gene Wolfe | The Wolfe at the Door
+- 9740 | Jay Lake; Foreword by Gene Wol | Last Plane to Heaven
+- 9742 | Terry Bisson; introduction by  | Bears Discover Fire and Other Stories
+- 9856 | Roger Zelazny | The Best of Roger Zelazny
+- 10024 |  | I'm Waiting for You
+
+## SHORT-FORM-STORY-OR-COLLECTION (175)
+- 349 | Kate Atkinson | Not the End of the World
+- 406 | Julianna Baggott | Ecdysis
+- 407 | Julianna Baggott | Mental Diplopia
+- 408 | Julianna Baggott | The Virtual Swallows of Hog Island
+- 507 | David Barnett | Business As Usual
+- 509 | David Barnett | Work Sets You Free
+- 514 | Kelly Barnhill | Mrs. Sorensen and the Sasquatch
+- 561 | Stephen Baxter | The Martian in the Wood
+- 566 | Stephen Baxter | Obelisk
+- 588 | Elizabeth Bear | The Girl Who Sang Rose Madder
+- 590 | Elizabeth Bear | The Horrid Glory of Its Wings
+- 593 | Elizabeth Bear | Faster Gun
+- 597 | Elizabeth Bear | This Chance Planet
+- 601 | Elizabeth Bear | Deriving Life
+- 604 | Elizabeth Bear | The Witch and the Wyrm
+- 631 | Bradley P. Beaulieu | Future Dreams
+- 665 | Gregory Benford | The New Hugo Winners-Volume IV
+- 666 | Gregory Benford | Grace Immaculate
+- 667 | Gregory Benford | The Final Now
+- 720 | Renan Bernardo | The Plasticity of Being
+- 721 | Renan Bernardo | The Hungry Mouth at the Edge of Space and the Goddess Knitting at Home
+- 722 | Renan Bernardo | Audit of the Collapse and Convalescence of Minds
+- 724 | Beth Bernobich | Thief of War
+- 725 | Jedediah Berry | A Window or a Small Box
+- 780 | Anne Bishop | The Lady in Glass and Other Stories
+- 788 | Terry Bisson | Bears Discover Fire and Other Stories
+- 789 | Terry Bisson | In the Upper Room and Other Likely Stories
+- 790 | Terry Bisson | Catch 'Em in the Act
+- 791 | Terry Bisson | The Cockroach Hat
+- 792 | Terry Bisson | TVA Baby
+- 793 | Terry Bisson | The Sixth Day
+- 797 | Holly Black | A Conspiracy of Charming Monsters
+- 838 | Olivie Blake | Januaries
+- 842 | Hassan Blasim | Iraq + 100
+- 860 | Robert Bloch | Tales of the Cthulhu Mythos
+- 864 | Aliette de Bodard | Lullaby for a Lost World
+- 889 | David Boop | Straight Outta Tombstone
+- 890 | David Boop | Straight Outta Deadwood
+- 891 | David Boop | Straight Outta Dodge City
+- 892 | David Boop | Last Train Outta Kepler-283c
+- 893 | David Boop | Gunfight on Europa Station
+- 894 | David Boop | High Noon on Proxima B
+- 901 | Gregory Norman Bossert | The Night Soil Salvagers
+- 910 | Ben Bova | Tales of the Grand Tour
+- 916 | Ben Bova | Laugh Lines
+- 919 | Ben Bova | The Science Fiction Hall of Fame, Volume Two A
+- 922 | Ben Bova | The Science Fiction Hall of Fame, Volume Two B
+- 928 | Ben Bova | Challenges
+- 930 | Ben Bova | Future Crime
+- 944 | Ben Bova | Carbide Tipped Pens
+- 945 | Ben Bova | New Frontiers
+- 950 | Ben Bova | Mercury and Prometheans
+- 952 | Ben Bova | The Best of Bova
+- 954 | Ben Bova | The Best of Bova, Volume II
+- 956 | Ben Bova | The Best of Bova, Volume III
+- 957 | Ben Bova | A Grand Tour Collection
+- 984 | Ray Bradbury | Bradbury Classic Stories 1
+- 987 | Ray Bradbury | 9781478913115
+- 988 | Ray Bradbury | Dear Santa
+- 1034 | Chaz Brenchley | The Station of the Twelfth
+- 1050 | Peter V Brett | Barren
+- 1119 | Poppy Z Britepoppy Z Brite | Love in Vein
+- 1142 | Damien Broderick | The Ruined Queen of Harvest World
+- 1176 | Terry Brooks | Indomitable
+- 1177 | Terry Brooks | Legends II
+- 1179 | Terry Brooks | Sometimes the Magic Works
+- 1194 | Terry Brooks | Paladins of Shannara: Allanon's Quest (Short Story)
+- 1198 | Terry Brooks | Paladins of Shannara: The Black Irix (Short Story)
+- 1199 | Terry Brooks | Paladins of Shannara: The Weapons Master's Choice (Short Story)
+- 1208 | Terry Brooks | Small Magic
+- 1304 | Jeremy Packert Burke | The Ashes of Around Twenty-Three Strangers
+- 1319 | Jim Butcher | Side Jobs
+- 1320 | Jim Butcher | Brief Cases
+- 1336 | Octavia E. Butler | Bloodchild and Other Stories
+- 1348 | Monica Byrne | Traumphysik
+- 1349 | Pat Cadigan | The Christmas Show
+- 1350 | Pat Cadigan | AI and the Trolley Problem
+- 1353 | Martin Cahill | The Angel's Share
+- 1355 | Rachel Caine | Chicks Kick Butt
+- 1436 | Orson Scott Card | Future on Fire
+- 1437 | Orson Scott Card | The Changed Man
+- 1439 | Orson Scott Card | Monkey Sonatas
+- 1445 | Orson Scott Card | Future on Ice
+- 1448 | Orson Scott Card | The Folk of the Fringe
+- 1453 | Orson Scott Card | Maps in a Mirror
+- 1455 | Orson Scott Card | The Dragon Quintet
+- 1461 | Orson Scott Card | Keeper of Dreams
+- 1465 | Orson Scott Card | Cruel Miracles
+- 1523 | C Robert Cargill | We Are Where the Nightmares Go and Other Stories
+- 1568 | Jonathan Carroll | The Loud Table
+- 1569 | Jonathan Carroll | Played Your Eyes
+- 1570 | Jonathan Carroll | Mama Bruise
+- 1571 | Jonathan Carroll | Porgee's Boar
+- 1572 | Jonathan Carroll | Ceffo
+- 1576 | Siobhan Carroll | For He Can Creep
+- 1595 | Michael Cassutt | The Vetting
+- 1602 | Cecil Castellucci | Brother. Prince. Snake.
+- 1603 | Cecil Castellucci | We Have Always Lived on Mars
+- 1605 | Adam-Troy Castro | Our Human
+- 1612 | Beth Cato | Final Flight
+- 1616 | Beth Cato | The Deepest Poison
+- 1632 | Paul Chafe | Destiny's Forge: A Man-Kzin Wars Novel
+- 1680 | Yu Chen | The Way Spring Arrives and Other Stories
+- 1704 | C. J. Cherryh | The Collected Short Fiction of C.J. Cherryh
+- 1734 | Zen Cho | Fantasy from Asia and the Asian Diaspora
+- 1741 | Adam Christopher | Brisk Money
+- 1749 | Adam Christopher | Crawlspace
+- 1752 | Danai Christopoulou | Vile Lady Villains
+- 1755 | John Chu | The Water That Falls on You from Nowhere
+- 1756 | John Chu | A Cost-Benefit Analysis of the Proposed Trade-Offs for the Overhaul of
+- 1757 | John Chu | Hold-Time Violations
+- 1758 | John Chu | Beyond the El
+- 1762 | Nino Cipri | Some of the Best from Tor.com: 2015
+- 1765 | Cathy Clamp | Fare Thee Well
+- 1790 | Arthur C. Clarke | The Collected Stories of Arthur C. Clarke
+- 1815 | Amber Clement | Fortunes Kiss
+- 1819 | Jacob Clifton | The Commonplace Book
+- 1820 | Brenda W. Clough | The Doors of Death and Life
+- 1841 | Edith Cohn | Tuckitor's Last Swim
+- 1844 | Rachel Cohn | Kill All Happies
+- 1857 | Olivia A Cole | Where the Lockwood Grows
+- 1866 | Chris Colfer | Adventures from the Land of Stories: Queen Red Riding Hoods Guide to R
+- 1867 | Chris Colfer | Adventures from the Land of Stories: The Mother Goose Diaries
+- 1870 | Ron Miller's A Company of Hero | Ron Miller's A Company of Heroes Collection
+- 1871 | Computing | Some Body Like Me
+- 1879 | Tina Connolly | The Last Banquet of Temporal Confections
+- 1942 | Tom Cool | Secret Realms
+- 1945 | C. S. E. Cooney | Desdemona and the Deep
+- 1954 | Jason Cordova | Dancing with Destruction
+- 1957 | Jason Cordova | Chicks in Tank Tops
+- 1971 | James S. A. Corey | New James S. A. Corey Novella #2
+- 1979 | Paul Cornell | Rosebud
+- 1980 | Patricia Cornwell | True Crime
+- 2002 | Larry Correia | Noir Fatale
+- 2016 | Lilia Vargas Costello | Borderline
+- 2035 | Cressida Cowell | The Complete Book of Dragons
+- 2044 | F. Brett Cox | Crossroads
+- 2072 | Kathryn Cramer | The Space Opera Renaissance
+- 2073 | L. Rader Crandall | Dark Hedges, Wizard Island, and Other Magical Places That Really Exist
+- 2074 | Sean Craven | Tourists
+- 2076 | Eleanor Crewes | Lilla the Accidental Witch
+- 2121 | Julie E. Czerneda | The Only Thing to Fear
+- 2123 | Julie E. Czerneda | A Dragon for William
+- 2161 | John Dalmas | Otherwhens, Otherwheres
+- 2170 | Tony Daniel | Earthling
+- 2184 | Dennis Danvers | All the Snake Handlers I Know Are Dead
+- 2185 | Dennis Danvers | Adult Children of Alien Beings
+- 2186 | Dennis Danvers | Once More Into The Abyss
+- 2187 | Dennis Danvers | Orphan Pirates of the Spanish Main
+- 2214 | Rjurik Davidson | Benjamin 2073
+- 2355 | Peter Dickinson | Fire: Tales of Elemental Spirits
+- 2357 | Seth Dickinson | Please Undo This Hurt
+- 2384 | S. B. Divya | Loss of Signal
+- 2399 | Cory Doctorow | Party Discipline
+- 2401 | Cory Doctorow | Radicalized
+- 2404 | Cory Doctorow | The Canadian Miracle
+- 2410 | Cory Doctorow | A Place So Foreign and Eight More
+- 2413 | Stephen Donaldson | Daughter of Regals and Other Tales
+- 2416 | Stephen Donaldson | The King's Justice and The Augur's Gambit
+- 2432 | Stephen R. Donaldson | Daughter of Regals & Other Tales
+- 2433 | Stephen R. Donaldson | Reave the Just and Other Tales
+- 2435 | Stephen R. Donaldson | The King's Justice
+- 2440 | Lara Elena Donnelly | Deathcap
+- 2573 | David Drake | Grimmer Than Hell
+- 2582 | David Drake | Other Times Than Peace
+- 2586 | David Drake | Balefires
+- 2598 | David Drake | The Military Dimension: Mark II
+- 2601 | David Drake | All the Way to the Gallows
+- 2610 | David Drake | Night & Demons
+- 2620 | David Drake | Dinosaurs and a Dirigible
+- 2660 | Katharine Duckett | Miranda in Milan
+- 2661 | Katharine Duckett | In Our Own Worlds #2
+- 2662 | Katharine Duckett | The Ones Who Look
+- 2664 | Andy Duncan | Wakulla Springs
+- 2694 | Lord Dunsany | Time and the Gods
+
+## UNCLEAR-REVISIT (107)
+- 421 | Margaret Ball | Disappearing Act
+- 565 | Stephen Baxter | Hearthspace
+- 577 | Peter S. Beagle | The Way Home
+- 599 | Elizabeth Bear | Stone Mad
+- 669 | Gregory Benford | Backscatter
+- 1102 | Great Britain | Lucid
+- 1513 | M. R. Carey | The Tinder Box
+- 2387 | Peter Dixon | Hunting the Dragon
+- 2445 | Sean Doolittle | Device Free Weekend
+- 2823 | Thomas Elrod | The Franchise
+- 2903 | Events | The Devil's Blade
+- 2929 | Elizabeth Fama | Men Who Wish to Drown
+- 3230 | Matthew Fox | The Lovely Dark
+- 3240 | Max Francis | Honor & Heresy
+- 3241 | Alice Franklin | Life Hacks for a Little Alien
+- 3249 | Dave Freedman | Natural Selection
+- 3491 | Arlene Golds | From Dream to Dream
+- 3824 | Gareth Hanrahan | The Dungeon Book
+- 4582 | Jerry | Written in Time
+- 4588 | Iris Johansen | More Than Meets the Eye
+- 4659 | Richard Kadrey | Dead Set
+- 4669 | Richard Kadrey | Suspect Zero
+- 4699 | Zoulfa Katouh | The Ocean Would Paint Me Blue
+- 4823 | Isabel J. Kim | The Apprentice Liar and the Death of the World
+- 4930 | R.S. Kovach | Plunder
+- 5125 | Mercedes Lackey | Dragon's Teeth
+- 5204 | Jay Lake | A Water Matter
+- 5284 | Kimber St. Lawrence | Thirsty Ground
+- 5302 | Shandy Lawson | The Loop
+- 5315 | Ann Leckie | Radiant Star
+- 5372 | Tanith Lee | Day by Night
+- 5375 | Tanith Lee | A Heroine of the World
+- 5433 | Stanislaw Lem | The Chain Of Chance
+- 5461 | Ernest L'Epine | The Legend of Croquemitaine
+- 5465 | David D. Levine | Damage
+- 5473 | Benjamin Liar | The Failures
+- 5516 | Villiers de L'Isle-Adam | The Future Eve
+- 5589 | A.M. Low | Adrift in the Stratosphere
+- 5625 | Debra Doyle; James D. MacDonal | The Long Hunt
+- 5664 | Pierre Mael | Under the Sea to the North Pole
+- 5678 | Josh Malerman | Spin a Black Yarn
+- 5729 | Diana Marcellas | Twilight Rising, Serpent's Dream
+- 5836 | Cixin Liu; translated by Joel  | Supernova Era
+- 5867 | Elizabeth May | Seven Mercies
+- 6104 | Ruth McKell | Honey in Her Veins
+- 6175 | Colin Meloy | Cascadia
+- 6184 | Manish Melwani | The Dominion of Leviathan
+- 6190 | Ellen Meny | A Gorgon's Guide to Getting a Life
+- 6823 | Daniel Jose Older | Kia and Gio
+- 6899 | Silvia Park | More Real Than Him
+- 6952 | James Patterson | The Gift
+- 6954 | James Patterson | The Kiss
+- 6956 | James Patterson | The Lost
+- 6960 | James Patterson | Witch & Wizard
+- 6961 | James Patterson | Witch & Wizard: Booktrack Edition
+- 7510 | A.R.R.R. Roberts | The Soddit
+- 7610 | Raymond E Feistjoel Rosenberg | Murder in LaMut
+- 7612 | Stan Leekat Rosenfield | A Trick Of Light
+- 8069 | Charles Sheffield | Brother to Dragons
+- 8077 | Ramsey Shehadeh | Red
+- 8078 | Ramsey Shehadeh | The Tale of Clancy the Scrivener
+- 8379 | John M. Ford; introduction by  | Growing Up Weightless
+- 8730 | Laini Taylor | Night of Cake & Puppets
+- 8731 | Laini Taylor | Night of Cake & Puppets: Booktrack Edition
+- 8919 | Frederick Turner | Apocalypse: An Epic Poem
+- 9054 | Jason Vanhee | Come Back to the Sea
+- 9112 | **UPDATED 2015 VERSION** | ME, A Novel of Self-Discovery
+- 9163 | Nghi Vo | The Scarlet Ball
+- 9203 | Shiloh Walker | A Stroke of Dumb Luck
+- 9231 | Jo Walton | The Prize in the Game
+- 9284 | David Weber | The Apocalypse Troll
+- 9299 | David Weber | Insurrection
+- 9335 | David Weber | Throne of Stars
+- 9553 | Mark Wicks | To Mars via the Moon
+- 9605 | Tad Williams | Sneak Peek for The Splintered Sun
+- 9606 | Tad Williams | The Splintered Sun
+- 9620 | Walter Jon Williams | Rock of Ages
+- 9712 | Gene Wolfe | Pandora By Holly Hollander
+- 9749 | Champ Wongsatayanont | Where the Hell Is Nirvana?
+- 9768 | Patricia C. Wrede | A Matter of Magic
+- 9860 | Stephan Zielinski | Bad Magic
+- 9877 |  | Dracula in London
+- 9881 |  | Darkover: First Contact
+- 9884 |  | Revisions
+- 9889 |  | Women of War
+- 9962 |  | 1635: Music and Murder
+- 9967 |  | Onward, Drake!
+- 9969 |  | Black Tide Rising
+- 9983 |  | Seasons
+- 9984 |  | Albion
+- 9988 |  | Passages
+- 9989 |  | Tempered By Fire
+- 9990 |  | The World
+- 9992 |  | Boundaries
+- 9994 |  | Agent of Change: Thirtieth
+- 9995 |  | Ballistic
+- 10004 |  | Feuds
+- 10005 |  | Smoke and Mirrors
+- 10008 |  | Death Maidens
+- 10011 |  | Arslan
+- 10016 |  | Demon's Vow
+- 10031 |  | On Her Majesty's Behalf
+- 10036 |  | Syndicate's Pawns
+- 10037 |  | The Blind King's Wrath
+- 10039 |  | The Devil's Bag Man
+- 10041 |  | The Emperor's Fist
+- 10044 |  | The Heart of Fire
+
+## SHORT-FORM-STORY (105)
+- 6399 | Mimi Mondal | His Footsteps, Through Darkness and Light
+- 6592 | Marisela Navarro | Reverse Documentary
+- 6626 | Mari Ness | In the Greenwood
+- 6659 | David Nickle | The Caretakers
+- 6706 | Garth Nix | The Case of the Somewhat Mythic Sword
+- 6707 | Garth Nix | The Necessary Arthur
+- 6708 | Garth Nix | The Sisters of Saint Nicola of The Almost Perpetual Motion vs the Lurc
+- 6760 | Hanus Seiner; translated by Ju | Hexagrammaton
+- 6828 | Malka Older | The Potency of Ungovernable Impulses
+- 6858 | Abbey Mei Otis | Sweetheart
+- 6887 | Susan Palwick | Homecoming
+- 6889 | Susan Palwick | The Long View
+- 7032 | Brenda Peynado | The Kite Maker
+- 7033 | Brenda Peynado | The Touches
+- 7034 | Dominica Phetteplace | Sword & Spore
+- 7060 | Sarah Pinsker | Two Truths and a Lie
+- 7061 | Sarah Pinsker | A Better Way of Saying
+- 7106 | S. E. Porter | Projections
+- 7107 | S. E. Porter | Red Leaves
+- 7143 | Non Pratt | Unboxed
+- 7149 | Tim Pratt | Silver Linings
+- 7175 | Matthew Pridham | Everything's Fine
+- 7253 | Jennifer Rardin | Paul and Brady Get Hoodoo with the Voodoo
+- 7257 | Lina Rather | A Season of Monstrous Conceptions
+- 7334 | Jessica Reisman | Bourbon, Sugar, Grace
+- 7411 | M. Rickert | The Little Witch
+- 7412 | M. Rickert | Lucky Girl
+- 7480 | Lilliam Rivera | Tiny Threads
+- 7515 | Adam Roberts | I Am Scrooge
+- 7695 | Marie Rutkoski | Jacks and Queens at the Green Mill
+- 7727 | Anjali Sachdeva | Arbitrium
+- 7780 | Sofia Samatar | The Practice, the Horizon, and the Chain
+- 7783 | Brandon Sanderson | Firstborn
+- 7933 | Elizabeth Ann Scarborough | Carol for Another Christmas
+- 7936 | Veronica Schanoes | Blackjack
+- 7954 | Ken Scholes | A Weeping Czar Beholds the Fallen Moon
+- 7956 | Ken Scholes | Making My Entrance Again With My Usual Flair
+- 7957 | Ken Scholes | Two Stories
+- 7958 | Ken Scholes | If Dragon's Mass Eve Be Cold And Clear
+- 7973 | Karl Schroeder | Jubilee
+- 8003 | Hanus Seiner | Under the Spinodal Curve
+- 8105 | Alex Sherman | Cosmic Crust
+- 8106 | Alex Sherman | The Tourist
+- 8122 | Lewis Shiner | Friedrich the Snow Man
+- 8150 | Cooper Shrivastava | Aptitude
+- 8158 | Alex Shvartsman | The Cackle of Cthulhu
+- 8159 | Yefim Zozulya; translated by A | The Tale of Ak and Humanity
+- 8270 | Angela Slatter | Finnegan's Field
+- 8306 | Lindsay Smith | Kingmaker
+- 8307 | Matthew Sanborn Smith | Beauty Belongs to the Flowers
+- 8386 | Benjanun Sriduangkaew | And the Burned Moths Remain
+- 8541 | Charles Stross | Down on the Farm
+- 8542 | Charles Stross | Overtime
+- 8548 | Charles Stross | A Tall Tail
+- 8563 | Charles Stross | Escape from Yokai Land
+- 8566 | Charles Stross | A Conventional Boy
+- 8607 | Bobby Sun | The Awakening of Insects
+- 8643 | Michael Swanwick | The Dala Horse
+- 8644 | Michael Swanwick | The Trains That Climb the Winter Tree
+- 8647 | Michael Swanwick | The Fire Gown
+- 8656 | Michael Swanwick | Annie Without Crow
+- 8657 | Michael Swanwick | The Star-Bear
+- 8658 | Michael Swanwick | Dragons of Paris
+- 8659 | Michael Swanwick | Halcyon Afternoon
+- 8660 | Michael Swanwick | Tomas the Castaway
+- 8664 | Rachel Swirsky | A Memory of Wind
+- 8665 | Rachel Swirsky | Eros, Philia, Agape
+- 8666 | Rachel Swirsky | The Monster's Million Faces
+- 8667 | Rachel Swirsky | Portrait of Lisane da Patagnia
+- 8668 | Rachel Swirsky | January Fifteenth
+- 8669 | Rachel Swirsky | Also, the Cat
+- 8670 | Rachel Swirsky | After the Invasion of the Bug-Eyed Aliens
+- 8694 | K.M. Szpara | We're Here, We're Here
+- 8700 | Anna Tambour | The Walking-stick Forest
+- 8707 | Molly Tanzer | And Side by Side They Wander
+- 8849 | Lavie Tidhar | The Old Dispensation
+- 8850 | Lavie Tidhar | Yiwu
+- 8851 | Lavie Tidhar | In Xanadu
+- 8859 | Lavie Tidhar | Joiner and Rust
+- 9011 | Mark Twain | Eve's Diary
+- 9012 | Mark Twain | Extract from Captain Stormfield's Visit to Heaven
+- 9019 | Steven Utley | The City Quiet as Death
+- 9023 | Octave Uzanne | The End of Books
+- 9024 | Rajnar Vajra | Her Scales Shine Like Music
+- 9036 | Genevieve Valentine | Terrain
+- 9037 | Genevieve Valentine | The Insects of Love
+- 9038 | Genevieve Valentine | La beaute sans vertu
+- 9039 | Max Valier | A Daring Trip to Mars
+- 9052 | Jeff VanderMeer | This World Is Full of Monsters
+- 9058 | Tamara Vardomskaya | Acrobatic Duality
+- 9147 | Vernor Vinge | After the Battle on Starship Hill
+- 9234 | Jo Walton | A Burden Shared
+- 9565 | Fran Wilde | An Explorer's Cartography of Already Settled Lands
+- 9667 | Chris Willrich | Nine Billion Turing Tests
+- 9704 | John Wiswell | The Three OClock Dragon
+- 9705 | John Wiswell | I'll Miss Myself
+- 9706 | John Wiswell | Phantom View
+- 9743 | Alyssa Wong | A Fist of Permutations in Lightning and Wildflowers
+- 9809 | Isabel Yap | A Cup of Salt Tears
+- 9810 | Isabel Yap | Milagroso
+- 9811 | Isabel Yap | Into Your Sun-Blessed Life
+- 9819 | E. Lily Yu | The White-Throated Transmigrant
+- 9820 | E. Lily Yu | The Time Invariance of Snow
+- 9821 | E. Lily Yu | Small Monsters
+- 9822 | E. Lily Yu | The River and the World Remade
+
+## TIE-IN-MERCH (97)
+- 49 | Mark Acres | Combat Command: Lord of Lances
+- 71 | Bill Adler | Kids Letters to Harry Potter
+- 235 | Jay Annelli | Magic: The Gathering: Deluxe Life Counter
+- 291 | Individual Artists | Terry Pratchett's Discworld Imaginarium
+- 343 | Robert Asprin | MYTH-Interpretations: The Worlds of Robert Asprin
+- 358 | Adam Auerbach | Legendary Creatures
+- 558 | Stephen Baxter | Doctor Who: the Wheel of Ice
+- 570 | Stephen Baxter | The Science of Avatar
+- 615 | Greg Bear | Multiverse: Exploring the Worlds of Poul Anderson
+- 1095 | Stephen Briggs | The Ankh-Morpork Archives: Volume One
+- 1096 | Stephen Briggs | The Ankh-Morpork Archives: Volume Two
+- 1097 | Stephen Briggs | The Ultimate Discworld Companion
+- 1098 | Stephen Briggs | Turtle Recall
+- 1183 | Terry Brooks | Dark Wraith of Shannara
+- 1188 | Terry Brooks | The World of Shannara
+- 1525 | Lillian Stewart Carl | The Vorkosigan Companion
+- 1776 | C. L. Clark | Ambessa: Chosen of the Wolf
+- 2382 | Brenna Dinon | Dungeons & Dragons: Mini Dice Dungeon
+- 2383 | Brenna Dinon | Dungeons & Dragons: Mini Dragon Dice Tower
+- 2412 | Gordon Doherty | Assassin's Creed Odyssey (The Official Novelization)
+- 2914 | Martin Fajkus | Monster Hunter Fantom
+- 3027 | An Audio Drama Based on the No | Eric Flint's Islands
+- 3344 | Kami Garcia | Beautiful Creatures Complete Gift Set
+- 3730 | David Hagberg | Terminator 3: Rise of the Machines
+- 4269 | Nancy Holder | Highlander(TM): The Measure of a Man
+- 4917 | Rafal Kosik | Cyberpunk 2077: No Coincidence
+- 5436 | Donald Lemke | Harry Potter Dark Arts Mini Deck and Guidebook
+- 5437 | Donald Lemke | Harry Potter Diagon Alley Collectible Set
+- 5438 | Donald Lemke | Harry Potter Divination Crystal Ball
+- 5439 | Donald Lemke | Harry Potter Golden Snitch Kit (Revised and Upgraded)
+- 5440 | Donald Lemke | Harry Potter Magical Creatures Deck and Interactive Book
+- 5441 | Donald Lemke | Harry Potter Mini Howler
+- 5442 | Donald Lemke | Harry Potter Weasley & Weasley Magical Mischief Deck and Book
+- 5443 | Donald Lemke | Harry Potter Wizard Chess Set
+- 5444 | Donald Lemke | Harry Potter: Albus Dumbledore Light and Sound Wand Set
+- 5445 | Donald Lemke | Harry Potter: Dolores Umbridge Collectible Cat Plate Set
+- 5446 | Donald Lemke | Harry Potter: Harry Potter Light and Sound Wand Set
+- 5447 | Donald Lemke | Harry Potter: Hermione Granger Light and Sound Wand Set
+- 5463 | Donna Lettow | Highlander(TM): Zealot
+- 5616 | Jonathan Maberry | Deadlands: Ghostwalkers
+- 5719 | Don Mann | SEAL Team Six: Hunt the Dragon
+- 5757 | Jeff Mariotte | Gene Roddenberry's Andromeda: The Attitude of Silence
+- 5758 | Jeff Mariotte | DC Universe: Trail of Time
+- 5759 | Jeffrey J. Mariotte | Deadlands: Thunder Moon Rising
+- 5777 | Andrew Marshall | Red Dwarf: Titan
+- 5881 | Anna Maybach | EXIT: The Book The Dragons Cave
+- 5886 | Lulu Mayo | A Million Dragons
+- 5889 | Stacy McAnulty | Where Are the Aliens?
+- 5968 | Wil McCarthy | Orbital Bombardment Victory Road eARC
+- 5975 | Bill McCay | Mage Knight 1: Rebel Thunder
+- 5986 | Ashley McConnell | Highlander(TM): Scimitar
+- 6000 | Jim McDermott | House of the Dragon: Balerion Light-Up Dragon Skull
+- 6001 | Jim McDermott | House of the Dragon: Light-Up Dragon Egg
+- 6046 | Steven McDonald | Gene Roddenberry's Andromeda: Waystation
+- 6056 | Seanan McGuire | Deadlands: Boneyard
+- 6238 | Victor Milan | Mechwarior: Dark Age #10
+- 6395 | Aidan Moher | Dungeons & Dragons: Beholder Figurine
+- 6396 | Aidan Moher | Dungeons & Dragons: Mimic Figurine
+- 6597 | Rebecca Neason | Highlander(TM): Shadow of Obsession
+- 6598 | Rebecca Neason | Highlander(TM): The Path
+- 7154 | Running Press | Avatar: Glowing Woodsprite
+- 7155 | Running Press | CATAN Mini Shadow Box
+- 7156 | Running Press | E.T. Talking Figurine
+- 7157 | Running Press | Game of Thrones: In Memoriam
+- 7158 | Running Press | Game of Thrones: The Hounds Helmet
+- 7159 | Running Press | Game of Thrones: The Noble Houses of Westeros
+- 7160 | Running Press | Ghostbusters: Ghost Trap
+- 7161 | Running Press | Ghostbusters: P.K.E. Meter
+- 7162 | Running Press | Harry Potter Collectible Quidditch Set (Includes Removeable Golden Sni
+- 7163 | Running Press | Harry Potter Pensieve Memory Set
+- 7164 | Running Press | Harry Potter Wizards Wand with Sticker Book
+- 7165 | Running Press | Harry Potter: Patronus Mini Projector Set
+- 7313 | Mickey Zucker Reichert | Isaac Asimov's I, Robot: To Protect
+- 7315 | Mickey Zucker Reichert | Isaac Asimov's I Robot: To Obey
+- 7317 | Mickey Zucker Reichert | Isaac Asimov's I, Robot: To Preserve
+- 7509 | Jennifer Roberson | Highlander(TM): Scotland the Brave
+- 7524 | Gareth Roberts | Doctor Who: Shada
+- 7573 | Rock | Soul Music
+- 7582 | Cam Rogers | Quantum Break: Zero State
+- 7584 | Nat Cassidy; based on the dram | Steal the Stars
+- 7904 | John Scalzi | Shadow War of the Night Dragons, Book One: The Dead City: Prologue
+- 8112 | Josepha Sherman | Gene Roddenberry's Andromeda: Through the Looking Glass
+- 8118 | Josepha Sherman | Highlander(TM): The Captive Soul
+- 8194 | Gail Simone | Red Sonja: Consumed
+- 8318 | Sherwood Smith | Gene Roddenberry's Andromeda: Paradise Drift
+- 8409 | Cassandra Khawgenevieve Gornic | Walk Among Us
+- 8415 | Christopher Stasheff | Wing Commander: End Run
+- 8860 | Media Tie-in | Blake's 7
+- 8915 | Nisha J. Tuli | Trial of the Sun Queen Gift Set
+- 9056 | Robert E. Vardeman | God of War II
+- 9059 | Ethlie Ann Vare | Gene Roddenberry's Andromeda: The Broken Places
+- 9101 | Mark Vaz | Caught in the Web
+- 9892 |  | Dark Shadows: The Salem Branch
+- 9958 |  | Dark Shadows: Angelique's Descent
+- 9963 |  | Dark Shadows: Wolf Moon Rising
+- 9970 |  | Dark Shadows: Heiress of Collinwood
+- 9973 |  | Red Vengeance
+
+## NON-SPECULATIVE (74)
+- 286 | Marie Arnold | Split the Sky (Coretta Scott King Author Honor Title)
+- 1230 | Steven Brust | The Sun, the Moon, and the Stars
+- 1588 | David Casarett | The Missing Guests of the Magic Grove Hotel
+- 2329 | Philip K Dick | Gather Yourselves Together
+- 2331 | Philip K Dick | Humpty Dumpty In Oakland
+- 2332 | Philip K Dick | In Milton Lumky Territory
+- 2334 | Philip K Dick | Mary and the Giant
+- 2339 | Philip K Dick | Puttering About in a Small Land
+- 2341 | Philip K Dick | The Broken Bubble
+- 2344 | Philip K Dick | The Man Whose Teeth Were All Exactly Alike
+- 2352 | Philip K Dick | Voices from the Street
+- 2604 | David Drake | Loose Cannon
+- 2735 | David Eddings | Regina's Song
+- 4098 | Erica Hendry | Lets Not Go Overboard Here
+- 4211 | Elin Hilderbrand | The Hotel Nantucket
+- 4508 | Christian Jacq | Ramses: The Eternal Temple Volume II
+- 4827 | A.S. King | Ask the Passengers
+- 4828 | A.S. King | Everybody Sees the Ants
+- 4829 | A.S. King | Glory OBriens History of the Future
+- 4862 | TJ Klune | How to Be a Normal Person
+- 4898 | Brigitte Knightley | The Exquisite Torment of Loving Your Enemy
+- 4899 | Brigitte Knightley | The Irresistible Urge to Fall for Your Enemy
+- 5200 | Douglas Lain | Billy Moon
+- 5272 | Stephen R Lawhead | Byzantium
+- 5276 | Stephen R Lawhead | The Black Rood
+- 5277 | Stephen R Lawhead | The Iron Lance
+- 5278 | Stephen R Lawhead | The Mystic Rose
+- 5283 | Ann Lawrence | Do You Believe?
+- 5401 | Jim Lehrer | White Widow
+- 5421 | Stanislav Lem | A Perfect Vacuum
+- 5424 | Stanislaw Lem | Imaginary Magnitude
+- 5426 | Stanislaw Lem | Microworlds
+- 5429 | Stanislaw Lem | One Human Minute
+- 5435 | Stanislaw Lem | The Investigation
+- 5452 | Melissa Lenhardt | Badlands
+- 5453 | Melissa Lenhardt | Blood Oath
+- 5454 | Melissa Lenhardt | Sawbones
+- 5478 | Roselle Lim | Night for Day
+- 5545 | Morgan Llywelyn | Etruscans
+- 5632 | Hazel Mack | Calling All Angels
+- 5695 | A Novel of the Common Man | Vox Populi
+- 5728 | Adam Mansbach | The Dead Run
+- 5850 | Richard Matheson | The Incredible Shrinking Man
+- 5882 | Youngmi Mayer | Im Laughing Because Im Crying
+- 5988 | Patricia McCormick | Sold
+- 6491 | Ed Morales | Fantasy Island
+- 6526 | Micaela Morrissette | Porn & Revolution in the Peaceable Kingdom
+- 6575 | Hitori Nakano | Train Man: The Novel
+- 6777 | Ivy O | Game of Thrones & House of the Dragon: Women of Westeros Oracle
+- 6821 | Daniel Jose Older | Anyway: Angie
+- 6822 | Daniel Jose Older | Ginga
+- 6835 | Pamela j. Olson | Fast Times in Palestine
+- 6945 | James Patterson | Cross and Sampson
+- 6946 | James Patterson | Holmes, Marple & Poe
+- 6949 | James Patterson | The
+- 6953 | James Patterson | The Invisible Woman
+- 6958 | James Patterson | The Texas Murders
+- 7120 | Jerry Pournelle | Red Dragon
+- 7121 | Jerry Pournelle | Red Heroin
+- 7140 | Rose Praed | Fugitive Anne
+- 7205 | Akkad Pseudoman | Zero to Eighty
+- 7388 | Clay Reynolds | Agatite
+- 7389 | Clay Reynolds | Ars Poetica
+- 7390 | Clay Reynolds | Franklin's Crossing
+- 7391 | Clay Reynolds | Monuments
+- 7392 | Clay Reynolds | Players
+- 7393 | Clay Reynolds | The Tentmaker
+- 7394 | Clay Reynolds | The Vigil
+- 7395 | Clay Reynolds | Threading the Needle (Clay Reynolds)
+- 7396 | Clay Reynolds | Of Snakes & Sex & Playing in the Rain
+- 7552 | Kim Stanley Robinson | Shaman
+- 8151 | Ream Shukairy | Six Truths and a Lie
+- 8152 | Ream Shukairy | The Next New Syrian Girl
+- 9109 | Jules Verne | 20,000 Leagues Under the Sea
+
+## OMNIBUS-OR-COMPILATION (63)
+- 1438 | Orson Scott Card | The Worthing Saga
+- 1611 | Beth Cato | Deep Roots
+- 1695 | C. J. Cherryh | The Dreaming Tree
+- 1696 | C. J. Cherryh | Alternate Realities
+- 1798 | Arthur C. Clarke | Space Trilogy
+- 1932 | Glen Cook | The Complete Instrumentalities of the Night Series
+- 2606 | David Drake | Voyage Across the Stars
+- 2817 | Ursula K. Le Guin; introductio | Worlds of Exile and Illusion
+- 2837 | Genetic Engineering | RUR & War with the Newts
+- 3036 | Eric Flint | T.N.T: Telzey Amberdon & Trigger Argee Together
+- 3222 | M. A. Foster | The Transformer Trilogy
+- 3685 | Ursula K. Le Guin | Worlds of Exile and Illusion
+- 3879 | Joanne Harris | Maiden, Mother, Crone
+- 4145 | Frank Herbert | The Dosadi Experiment and The Eyes of Heisenberg
+- 4146 | Frank Herbert | Frank Herbert's Dune Saga Collection: Books 1 - 6
+- 4147 | Frank Herbert | Frank Herbert's Dune Saga Collection: Books 1-3
+- 4149 | Frank Herbert | The Great Dune Trilogy
+- 4265 | James P. Hogan | Prisoners of Tomorrow
+- 4362 | Fred Hoyle | Three Classic Novels
+- 4539 | John James | Votan and Other Novels
+- 4645 | James Tiptree Jr. | Two Great Novels
+- 4860 | TJ Klune | TJ Klune Trade Paperback Collection
+- 5197 | R. A. Lafferty | R. A. Lafferty: Three Great Novels
+- 5209 | Jay Lake | The Green Universe Trilogy
+- 5236 | James White; Introduction by D | Alien Emergencies
+- 5266 | Keith Laumer | Three By Laumer
+- 5377 | Tanith Lee | Dark Castle, White Horse
+- 5404 | Stephen Leigh | Assassins' Dawn
+- 6732 | Andre Norton | Star Soldiers
+- 6745 | Andre Norton | From the Sea to the Stars
+- 6747 | Andre Norton | Star Flight
+- 6750 | Andre Norton | Deadly Dreams
+- 7065 | H. Beam Piper | The Complete Paratime
+- 7498 | Jennifer Roberson | The Novels of Tiger and Del, Volume I
+- 7499 | Jennifer Roberson | The Novels of Tiger and Del, Volume II
+- 7690 | Sean Russell | The Initiate Brother Duology
+- 7961 | Ken Scholes | The Psalms of Isaak Series
+- 7975 | Karl Schroeder | The Complete Virga Series
+- 8286 | David C. Smith | The Collected Chronicles of Red Sonja
+- 8394 | James White; introduction by B | Beginning Operations
+- 8418 | Brian Staveley | Chronicle of the Unhewn Throne
+- 8461 | Mary Stewartmary Stewart | The Merlin Trilogy
+- 8500 | S.M. Stirling | Hope Rearmed
+- 8991 | Harry Turtledove | Videssos Cycle: Volume One
+- 8992 | Harry Turtledove | Videssos Cycle: Volume Two
+- 9148 | Vernor Vinge | The Zones of Thought Series
+- 9166 | A. E. Van Vogt | Transgalactic
+- 9218 | Matt Wallace | Sin du Jour: The First Course
+- 9219 | Matt Wallace | Sin du Jour: The Final Course
+- 9267 | Peter Watts | The Firefall Series
+- 9296 | David Weber | Empire From the Ashes
+- 9301 | David Weber | The Stars at War
+- 9305 | David Weber | The Stars at War II
+- 9309 | David Weber | Oath of Swords and Sword Brother
+- 9421 | H.G. Wells | HG Wells Classic Collection
+- 9496 | James White | General Practice
+- 9497 | James White | Alien Emergencies
+- 9807 | Neon Yang | The Tensorate Series
+- 9903 |  | Korval's Legacy Collection
+- 9906 |  | Phase Change Collection
+- 10015 |  | Demon's Vengeance
+- 10038 |  | The Complete Chronicles Of Conan
+- 10047 |  | The Queen's Necklace
+
+## ANTHOLOGY-OR-OMNIBUS (57)
+- 2229 | Hank Davis | They're Here!
+- 2230 | Hank Davis | Time Troopers
+- 2231 | Hank Davis | Tomorrow's Troopers
+- 2250 | Gavin Deas | Empires: The First Battle
+- 2262 | Keith R. A. DeCandido | Gene Roddenberry's Andromeda: Destruction of Illusions
+- 2299 | Monique Brinson Demery | Finding the Dragon Lady
+- 2310 | August Derleth | The Watchers Out of Time
+- 2326 | Philip K Dick | Five Great Novels
+- 2338 | Philip K Dick | Philip K. Dick's Electric Dreams
+- 2350 | Philip K Dick | Three Early Novels
+- 2353 | Philip K. Dick | The Best Military Science Fiction of the 20th Century
+- 2362 | Gordon R. Dickson | The Best of Gordon R. Dickson, Volume I
+- 2515 | Gardner Dozois | A Day in the Life
+- 2516 | Gardner Dozois | Another World
+- 2517 | Gardner Dozois | Morning Child and Other Stories
+- 2519 | Gardner Dozois | Strange Days: Fabulous Journeys with Gardner Dozois
+- 2521 | Gardner Dozois | The Visible Man
+- 2522 | Gardner Dozois | AIs
+- 2523 | Gardner Dozois | Aliens Among Us
+- 2524 | Gardner Dozois | Angels!
+- 2525 | Gardner Dozois | Armageddons
+- 2526 | Gardner Dozois | Bestiary
+- 2527 | Gardner Dozois | Beyond Flesh
+- 2528 | Gardner Dozois | Beyond Singularity
+- 2529 | Gardner Dozois | Clones
+- 2530 | Gardner Dozois | Dangerous Games
+- 2531 | Gardner Dozois | Demons!
+- 2532 | Gardner Dozois | Dinosaurs II
+- 2533 | Gardner Dozois | Dogtales!
+- 2534 | Gardner Dozois | Dragons
+- 2535 | Gardner Dozois | Future Crimes
+- 2536 | Gardner Dozois | Future Sports
+- 2537 | Gardner Dozois | Future War
+- 2538 | Gardner Dozois | Futures Past
+- 2539 | Gardner Dozois | Genometry
+- 2540 | Gardner Dozois | Hackers
+- 2541 | Gardner Dozois | Horses!
+- 2542 | Gardner Dozois | Immortals
+- 2543 | Gardner Dozois | Invaders!
+- 2544 | Gardner Dozois | Little People!
+- 2545 | Gardner Dozois | Magicats II
+- 2546 | Gardner Dozois | Mermaids!
+- 2547 | Gardner Dozois | Nanotech
+- 2548 | Gardner Dozois | Robots
+- 2549 | Gardner Dozois | Sea Serpents!
+- 2550 | Gardner Dozois | Sorcerers!
+- 2551 | Gardner Dozois | Space Soldiers
+- 2552 | Gardner Dozois | Timegates
+- 2553 | Gardner Dozois | Unicorns I
+- 2554 | Gardner Dozois | Unicorns II
+- 2555 | Gardner Dozois | Dinosaurs!
+- 2556 | Gardner Dozois | Galileo's Children: Tales of Science vs. Superstition
+- 2557 | Gardner Dozois | One Million A.D.
+- 2558 | Gardner Dozois | Slow Dancing Through Time
+- 2559 | Gardner Dozois | Dying For It
+- 2646 | Kim Harrisonmelissa Marrjeanie | Unbound
+- 2691 | Richard Kadreykim Harrisonkath | Voyager
+
+## NON-FICTION (48)
+- 2449 | David Dorey | Fantasy Football The Next Level
+- 2754 | Danielle Egan | Flesh for Fantasy
+- 3306 | Linda Furiya | How to Cook a Dragon
+- 3368 | Shaenon K. Garrity | The Sims: Life Hacks
+- 3492 | Kenneth Goldsmith | Ill Be Your Mirror
+- 3687 | Ursula K. Le Guin | Dreams Must Explain Themselves
+- 3769 | Paul Halpern | The Quest For Alien Planets
+- 3941 | Kim Harrison | The Hollows Insider
+- 4254 | James P. Hogan | Kicking the Sacred Cow
+- 4255 | James P. Hogan | Catastrophes, Chaos and Convolutions
+- 4496 | Pamela Jackson | The Exegesis of Philip K Dick
+- 4642 | Robert Jordan; | The World of Robert Jordan's The Wheel of Time
+- 4947 | Ross Kraemer | The Religions Of Star Trek
+- 4962 | Tom Kratman | Training for War
+- 4965 | Tom Kratman | Principles of Organization for War and Organizing for War in the Carre
+- 4969 | Lawrence M. Krauss | The Physics of Star Trek
+- 5665 | Aaron Mahnke | The World of Lore: Dreadful Places
+- 5666 | Aaron Mahnke | The World of Lore: Monstrous Creatures
+- 5667 | Aaron Mahnke | The World of Lore: Wicked Mortals
+- 5682 | Usman T. Malik | #Spring Love, #Pichal Pairi
+- 5683 | Dr. Ronald L. Mallett | Time Traveler
+- 5696 | Method Man | Method Man
+- 5727 | Catherine J. Manning | Be the Dragon: 9 Keys to Unlocking Your Inner Magic
+- 5839 | Joseph Masheck | Marcel Duchamp In Perspective
+- 6900 | Barry Parker | Alien Life
+- 6901 | Barry Parker | Cosmic Time Travel
+- 7043 | Clifford A Pickover | The Science Of Aliens
+- 7092 | Frederik Pohl | The Way the Future Was
+- 7332 | Hank Reinhardt | Hank Reinhardt's The Book of Swords
+- 7333 | Hank Reinhardt | Hank Reinhardt's Book of Knives
+- 7410 | Jeffrey T. Richelson | The Wizards Of Langley
+- 8522 | J Michael Straczynski | Becoming Superman
+- 8612 | Lawrence Sutin | Divine Invasions
+- 8740 | Travis S. Taylor | The Science Behind the Secret
+- 8742 | Travis S. Taylor | Alien Invasion
+- 8743 | Travis S. Taylor | A New American Space Plan
+- 8746 | Travis S. Taylor | On to the Asteroid
+- 8754 | Kim Taylor-Foster | Why We Love The Matrix
+- 9051 | Jeff VanderMeer | Errata
+- 9197 | Ariel Waldman | Out There
+- 9556 | Dr. Veronica Wigberht-Blackwat | The Compendium of Magical Beasts
+- 9861 | Lori Zimmer | Art Hiding in New York
+- 9964 |  | Reading Guides 2013
+- 9965 |  | Reading Guides 2014
+- 9968 |  | Reading Guides 2015
+- 9998 |  | Free Nonfiction 2021
+- 10001 |  | Free Nonfiction 2022
+- 10002 |  | Free Stories 2022
+
+## ROMANCE-OUT-OF-SCOPE (43)
+- 285 | Marie Arnold | I Was Told There Would Be Romance
+- 353 | Cynthia St. Aubin | Love Binds
+- 354 | Cynthia St. Aubin | Love Bites
+- 355 | Cynthia St. Aubin | Love Lies
+- 356 | Cynthia St. Aubin | Love Lost
+- 357 | Cynthia St. Aubin | Love Sucks
+- 444 | Megan Bannen | The Undercutting of Rosie and Adam
+- 445 | Megan Bannen | The Undermining of Twyla and Frank
+- 446 | Megan Bannen | The Undertaking of Hart and Mercy
+- 1625 | Crystal Cestari | The Fairest Kind of Love
+- 2241 | Sylvia Day | Eve of Sin City
+- 2316 | Delilah Devlin | His Every Fantasy
+- 6439 | Modean Moon | A Little Peace and Quiet
+- 6440 | Modean Moon | Evermore
+- 6441 | Modean Moon | The Covenant
+- 6776 | Devlin O | A Maids Friends and Fantasies
+- 6885 | Lauren Palphreyman | Cupids Match
+- 7325 | Kalie Reid | Copperstitched
+- 7326 | Kalie Reid | The Sacred Space Between
+- 7348 | Leslie Rene | Maggie and Arthur's Magic Moment
+- 7349 | Leslie Rene | Dahlia and Rory's Enchanted Encounter
+- 7828 | Lynsay Sands | Runaway Vampire
+- 7829 | Lynsay Sands | Single White Vampire
+- 7830 | Lynsay Sands | Tall, Dark & Hungry
+- 7831 | Lynsay Sands | The Accidental Vampire
+- 7832 | Lynsay Sands | The Immortal Hunter
+- 7833 | Lynsay Sands | The Immortal Who Loved Me
+- 7834 | Lynsay Sands | The Lady is a Vamp
+- 7835 | Lynsay Sands | The Reluctant Vampire
+- 7836 | Lynsay Sands | The Renegade Hunter
+- 7837 | Lynsay Sands | The Rogue Hunter
+- 7838 | Lynsay Sands | The Trouble With Vampires
+- 7839 | Lynsay Sands | Twice Bitten
+- 7840 | Lynsay Sands | Under a Vampire Moon
+- 7841 | Lynsay Sands | Vampire Most Wanted
+- 7842 | Lynsay Sands | Vampire, Interrupted
+- 7843 | Lynsay Sands | Vampires are Forever
+- 7844 | Lynsay Sands | Vampires Like It Hot
+- 8265 | Evelyn Skye | One Year Ago in Spain
+- 8266 | Evelyn Skye | The Hundred Loves of Juliet
+- 9782 | Susan Wright | To Serve and Submit
+- 9783 | Susan Wright | A Pound of Flesh
+- 9971 |  | Shadowed Souls
+
+## MAGAZINE-ISSUE-OR-ANTHOLOGY (28)
+- 3050 | Eric Flint | Jim Baen's Universe Vol 1 Num 1
+- 3051 | Eric Flint | Jim Baen's Universe Vol 1 Num 2
+- 3052 | Eric Flint | Jim Baen's Universe Vol 1 Num 3
+- 3053 | Eric Flint | Jim Baen's Universe Vol 1 Num 4
+- 3054 | Eric Flint | Jim Baen's Universe Vol 1 Num 5
+- 3055 | Eric Flint | Jim Baen's Universe Vol 1 Num 6
+- 3056 | Eric Flint | Jim Baen's Universe Vol 2 Num 1
+- 3057 | Eric Flint | Jim Baen's Universe Vol 2 Num 2
+- 3058 | Eric Flint | Jim Baen's Universe Vol 2 Num 3
+- 3059 | Eric Flint | Jim Baen's Universe Vol 2 Num 4
+- 3061 | Eric Flint | The Best of Jim Baen's Universe
+- 3065 | Eric Flint | Jim Baen's Universe Vol 2 Num 5
+- 3066 | Eric Flint | Jim Baen's Universe Vol 2 Num 6
+- 3067 | Eric Flint | Jim Baen's Universe Vol 3 Num 1
+- 3068 | Eric Flint | Jim Baen's Universe Vol 3 Num 2
+- 3069 | Eric Flint | Jim Baen's Universe Vol 3 Num 3
+- 3070 | Eric Flint | Jim Baen's Universe Vol 3 Num 4
+- 3072 | Eric Flint | The Best of Jim Baen's Universe II
+- 3073 | Eric Flint | Worlds
+- 3074 | Eric Flint | Jim Baen's Universe Vol 3 Num 5
+- 3075 | Eric Flint | Jim Baen's Universe Vol 3 Num 6
+- 3076 | Eric Flint | Jim Baen's Universe Vol 4 Num 1
+- 3077 | Eric Flint | Jim Baen's Universe Vol 4 Num 2
+- 3078 | Eric Flint | Jim Baen's Universe Vol 4 Num 3
+- 3079 | Eric Flint | Jim Baen's Universe Vol 4 Num 4
+- 3085 | Eric Flint | Jim Baen's Universe Vol 4 Num 5
+- 3086 | Eric Flint | Jim Baen's Universe Vol 4 Num 6
+- 3113 | Eric Flint | Worlds II
+
+## FREE-SAMPLER-NONFICTION (27)
+- 162 | Jarod K. Anderson | 100 Prompts for Science Fiction Writers
+- 365 | Multiple Authors | Free Nonfiction 2011
+- 366 | Multiple Authors | Free Short Stories 2011
+- 367 | Multiple Authors | Reading Guides 2011
+- 368 | Multiple Authors | Free Nonfiction 2012
+- 369 | Multiple Authors | Free Short Stories 2012
+- 370 | Multiple Authors | Reading Guides 2012
+- 371 | Multiple Authors | Free Nonfiction 2013
+- 372 | Multiple Authors | Free Short Stories 2013
+- 373 | Multiple Authors | Free Nonfiction 2014
+- 374 | Multiple Authors | Free Short Stories 2014
+- 375 | Multiple Authors | Free Nonfiction 2015
+- 376 | Multiple Authors | Free Stories 2015
+- 377 | Multiple Authors | Free Nonfiction 2016
+- 378 | Multiple Authors | Free Stories 2016
+- 379 | Multiple Authors | Reading Group Guides 2016
+- 380 | Multiple Authors | Free Nonfiction 2017
+- 381 | Multiple Authors | Free Stories 2017
+- 382 | Multiple Authors | Free Nonfiction 2018
+- 383 | Multiple Authors | Free Stories 2018
+- 384 | Multiple Authors | Free Stories & Nonfiction 2024
+- 385 | Multiple Authors | Free Stories 2021
+- 885 | Baen Books | Free Nonfiction 2019
+- 886 | Baen Books | Free Stories 2019
+- 887 | Baen Books | Free Nonfiction 2020
+- 888 | Baen Books | Free Stories 2020
+- 3362 | Chuck Wendigmitchell Hogana G  | Onward, Voyager
+
+## NON-SPECULATIVE-OR-NONFICTION (27)
+- 867 | Virginia Boecker | An Assassins Guide to Love and Treason
+- 904 | Cyril Bouquet | ALIEN Thinking
+- 934 | Ben Bova | Prometheans
+- 1150 | Adam Brookes | Spy Games
+- 1154 | Max Brooks | The Zombie Survival Guide
+- 1155 | Max Brooks | The Zombie Survival Guide: Recorded Attacks
+- 1156 | Max Brooks | The Harlem Hellfighters
+- 1217 | Echo Brown | The Chosen One
+- 1241 | Steven Brust | Freedom and Necessity
+- 1422 | Rebecca Campbell | The High Lonesome Frontier
+- 1524 | Len Cariou | Nine Dragons
+- 1540 | Nora Shalaway Carpenter | Fault Lines
+- 1626 | Michael Chabon | Gentlemen of the Road
+- 1738 | Claudia Christian | My Life With Geeks and Freaks
+- 1774 | Carlos Clarens | An Illustrated History Of Horror And Science-fiction Films
+- 1872 | Michael Connelly | Nine Dragons
+- 1946 | Stephen Coonts | Dragons Jaw
+- 1951 | Iver Cooper | 1636: Seas of Fortune
+- 1952 | Sharon Cooper | Taxpayers' Tea Party
+- 2679 | Jim Duncan | The Weather Wizards Cloud Book
+- 3159 | Sloan De Forest | Must-See Sci-fi
+- 3175 | Charles Fort | Lo!
+- 3176 | Charles Fort | New Lands
+- 3177 | Charles Fort | The Book of the Damned
+- 3178 | Charles Fort | Wild Talents
+- 3184 | Robert L. Forward | Indistinguishable from Magic
+- 3225 | Robert Foster | The Complete Guide to Middle-earth
+
+## ANTHOLOGY-OR-SHARED-WORLD (18)
+- 6665 | By Larry Niven | The Man-Kzin Wars
+- 6666 | created Larry Niven | Man-Kzin Wars XIV
+- 6667 | Created Larry Niven | Man-Kzin Wars III
+- 6668 | created Larry Niven | Man-Kzin Wars IV
+- 6669 | created Larry Niven | Choosing Names: Man-Kzin Wars VIII
+- 6670 | created Larry Niven | Man-Kzin Wars XV
+- 6676 | Larry Niven | Man-Kzin Wars IX
+- 6677 | Larry Niven | Man-Kzin Wars X: The Wunder War
+- 6680 | Larry Niven | Man-Kzin Wars XI
+- 6688 | Larry Niven | Man-Kzin Wars XII
+- 6698 | Larry Niven | Man-Kzin Wars XIII
+- 7109 | created by Jerry Pournelle | Blood Feuds
+- 7110 | created by Jerry Pournelle | Blood Vengeance
+- 8488 | S. M. Stirling | By Tooth and Claw
+- 8501 | S.M. Stirling | Man-Kzin Wars V
+- 8886 | Enrico Toro | The Muse of Music
+- 9352 | David Weber | A Call to Insurrection
+- 9356 | David Weber | What Price Victory?
+
+## ANTHOLOGY-COLLECTION-OR-NONFICTION-COMPANION (15)
+- 3962 | David G. Hartwell | The Science Fiction Century, Volume One
+- 3963 | David G. Hartwell | Year's Best Fantasy 9
+- 3964 | David G. Hartwell | The Palencar Project
+- 3965 | David G. Hartwell | Twenty-First Century Science Fiction
+- 3966 | David G. Hartwell | Year's Best SF 18
+- 3967 | David G. Hartwell | Christmas Magic
+- 3968 | David G. Hartwell | Northern Stars
+- 3991 | Patrick Nielsen Hayden | Starlight 3
+- 3992 | Patrick Nielsen Hayden | Some of the Best from Tor.com: 2011 Edition
+- 3993 | Patrick Nielsen Hayden | Some of the Best from Tor.com: 2012 Edition
+- 4006 | Sean Patrick Hazlett | Weird World War III
+- 4007 | Sean Patrick Hazlett | Weird World War IV
+- 4043 | Robert A. Heinlein | The Man Who Sold the Moon & Orphans of the Sky
+- 4045 | Robert A. Heinlein | Waldo & Magic, Inc.
+- 4056 | John Helfers | The Valdemar Companion
+
+## ANTHOLOGY-OR-SHORT-FICTION-COLLECTION (10)
+- 5112 | Mercedes Lackey | Changing the World
+- 5118 | Mercedes Lackey | Trio of Sorcery
+- 5123 | Mercedes Lackey | Elemental Magic
+- 5126 | Mercedes Lackey | Elementary (All-New Tales of the Elemental Masters)
+- 5132 | Mercedes Lackey | No True Way
+- 5138 | Mercedes Lackey | Crucible
+- 5142 | Mercedes Lackey | Tempest
+- 5146 | Mercedes Lackey | Pathways
+- 5149 | Mercedes Lackey | Choices
+- 5158 | Mercedes Lackey | Shenanigans
+
+## OMNIBUS-OR-NOVELLA-PAIRS (9)
+- 6539 | Walter Mosley | Disciple
+- 6540 | Walter Mosley | Merge
+- 6541 | Walter Mosley | Merge and Disciple
+- 6542 | Walter Mosley | On the Head of a Pin
+- 6543 | Walter Mosley | The Gift of Fire
+- 6544 | Walter Mosley | The Gift of Fire and On the Head of a Pin
+- 6545 | Walter Mosley | Love Machine
+- 6546 | Walter Mosley | Stepping Stone
+- 6547 | Walter Mosley | Stepping Stone and Love Machine
+
+## NOT-A-BOOK-PLACEHOLDER (8)
+- 236 | Author to be Announced | New Novella
+- 390 | Deluxe Limited Edition Victori | Tempest
+- 391 | Standard Edition Victoria Avey | Tyrant
+- 4903 | Knock Knock | Fantasy Lovers Bookmark Corners, Set of 3 Unique Cardstock Bookmarks
+- 5002 | Kat Kruger | Dungeons & Dragons: How to Be More D&D
+- 5003 | Danielle Krysa | A Big Important Art Book (Now with Women)
+- 8001 | Computer Security | The Passage
+- 9871 |  | Baen's Bar Tipjar
+
+## ILLUSTRATED-EDITION-OR-NON-FICTION (6)
+- 3313 | Neil Gaiman | The Illustrated Good Omens
+- 4843 | Josh Kirby | The Illustrated Eric
+- 7141 | Terry Pratchett | The Illustrated Guards! Guards!
+- 7142 | Terry Pratchett | The World of Terry Pratchett
+- 9113 | Charles Vess | Father Christmas: A Wonder Tale of the North
+- 9114 | Charles Vess | Honeycomb
+
+## CHILDREN-MG-OR-COMIC-TIE-IN (5)
+- 3419 | Kallie George | Clovers Luck
+- 3420 | Kallie George | The Enchanted Egg
+- 3421 | Kallie George | The Missing Magic
+- 3426 | Ian Gibson | Stuff of Legends
+- 3550 | Alan Grant | DC Universe: Last Sons
+
+## OMNIBUS-OR-COLLECTION (4)
+- 6311 | L. E. Modesitt | Viewpoints Critical
+- 6338 | L. E. Modesitt | Haze and The Hammer of Darkness
+- 6343 | L. E. Modesitt | The Corean Chronicles, Volume One
+- 6344 | L. E. Modesitt | The Corean Chronicles, Volume Two
+
+## UNIDENTIFIED-PUBLISHER-SECTION-LABEL (3)
+- 77 | Coming Of Age | A Testimony of Blood
+- 78 | Coming Of Age | New Horizons
+- 79 | Coming Of Age | The Dance of Shadows
+
+## COLLECTION-OR-NON-FICTION (3)
+- 7538 | Kim Stanley Robinson | Future Primitive
+- 7539 | Kim Stanley Robinson | Escape From Kathmandu
+- 7547 | Kim Stanley Robinson | Oral Argument
+
+## SHORT-FORM-STORY-OR-ANTHOLOGY (3)
+- 7900 | John Scalzi | Metatropolis
+- 7902 | John Scalzi | The President's Brain is Missing
+- 7927 | John Scalzi | When the Moon Hits Your Eye
+
+## NON-SPECULATIVE-THRILLER (1)
+- 733 | Steve Berry | The Last Kingdom
+
+## DUPLICATE-EDITION-OF-SWORD-OF-SHANNARA (1)
+- 1195 | Terry Brooks | The Annotated Sword of Shannara: 35th
+
+## DUPLICATE-EDITION (1)
+- 9365 | Brent Weeks | The Blinding Knife: Booktrack Edition
+
+## SERIAL-EPISODES (1)
+- 10013 |  | Death's Head Legion
