@@ -170,7 +170,7 @@ C|Carnival|582|xenocolonial|v3
 C|Undertow|584|settled-other-stars|v3
 C|Tempering of Men|592|viking-fantasy|v3
 C|Red Mother|603|folk-horror|v3
-C|Jacob's Ladder|605,606,607|ships-on-course|v3
++C|Jacob's Ladder|605,606,607|generation-starships|v3
 C|Slant|612|revolutionary-cyberpunk|v3
 C|Unfinished Land|620|fairytalesque-quest-fantasy|v3
 C|Mother of Rome|623|troy-and-after|v3
@@ -301,12 +301,12 @@ C|Sunken Land|1105|folk-horror|v3
 +C|Green Rider|1115,1116|chosen-heirs|v3
 C|Poppy Z Brite|1117,1118|vampire-fringe|v3
 C|Buffalo Soldier|1130|frontier-steam|v3
-C|Sweep of Stars|1131,1132|revolutionary-space-opera|v3
++C|Sweep of Stars|1131,1132|revolutionary-space-opera|v3
 C|Unnoticeables|1141|hidden-hands|v3
 C|Krampus|1147|modern-invented-myth|v3
 C|Places in the Darkness|1151|stations-and-the-belt|v3
 C|Fae in Finance|1152,1153|domestic-fantasy|v3
-C|Landover|1186,1189,1190|doors-to-other-worlds|v3
++C|Landover|1186,1189,1190|whimsical-doors|v3
 C|Child of Light|1210,1211,1212|hidden-worlds-beside-ours|v3
 C|Galaphile|1213,1214|wars-of-wizards|v3
 C|Star Dragon|1215|ships-on-course|v3
@@ -377,7 +377,7 @@ C|Antasy|1532,1533|animal-fantasy|v3
 C|Shadows That Listen|1537|angel-fantasy|v3
 C|Sorayan|1538,1539|royal-house-quests|v3
 C|Killing Time|1541|classic-social-dystopias|v3
-+C|1632 series|1549,1550,1551,1554|whole-towns-and-lives-displaced|v3
++C|Ring of Fire (1632)|1549,1550,1551,1554|whole-towns-and-lives-displaced|v3
 C|Dragon's Boy|1552,1553|apprentices-and-schools|v3
 C|Black Swan Rising|1573,1574,1575|secret-societies|v3
 C|Swords and Fire|1584,1585|court-statecraft|v3
@@ -399,7 +399,7 @@ C|Sasha Naradnyo|1627,1629|crooks-and-cons|v3
 C|Forever Engine|1628|time-bleeds|v3
 C|Ship of Destiny|1631|alien-expedition|v3
 C|Exodus Ark|1633,1634|ships-on-course|v3
-C|Amina al-Sirafi|1636|rogues-abroad|v3
++C|The Adventures of Amina al-Sirafi|1636|alt-spice-route-fantasy|v3
 C|Well World|1637,1638|hard-science-fantasy|v3
 C|Kaspar's Box|1639|relics-under-study|v3
 C|Sea Is Full of Stars|1640|ship-captains|v3
@@ -467,7 +467,7 @@ C|Echelon|1896,1897|near-future-society|v3
 C|Truth series|1898,1899,1900,1901|chosen-heirs|v3
 C|Contessa|1902,1903|thrones-under-threat|v3
 C|Instrumentalities of the Night|1914,1917,1918,1923,1929|wars-of-wizards|v3
-C|Black Company|1933,1934|wars-of-wizards|v3
++C|The Black Company|1933,1934|pulp-sword-and-sorcery|v3
 C|Wizardry|1935,1936,1937,1938,1939|whimsical-doors|v3
 C|Limbo System|1940|occupation-and-invasion|v3
 C|Coombe|1943,1944|witches-and-libraries|v3
@@ -552,7 +552,7 @@ C|Deitz Bloodwinter|2275,2276,2277|wars-of-wizards|v3
 C|Dekker Lee|2278,2279|chosen-heirs|v3
 C|Tales of Deadly Devotion|2280,2281,2282|dragons-and-courts|v3
 C|Indigo Springs|2291,2294|witches-and-libraries|v3
-C|1632 series|2297,2298,2896,2897,6988|ring-of-fire-and-time-travel|v3
++C|Ring of Fire (1632)|2297,2298,2896,2897,6988|whole-towns-and-lives-displaced|v3
 C|Combat Command|2304|space-marines|v3
 C|Mystic trilogy|2305,2306,2307,2308|chosen-heirs|v3
 C|Afterlife Resurrection Chronicles|2311|packs-and-courts|v3
@@ -702,7 +702,7 @@ C|Brian Farrey|2949,2950|chosen-heirs|v3
 C|Mystical Cat Shelter|2955|witches-and-libraries|v3
 C|Interstellar Defense League|2957,2958|fleet-wars|v3
 C|Fury of Dragons|2960|dragons-and-courts|v3
-C|Riftwar|2961,2962,2963,2964,2968,2972,2973,2975,2976,2980,2981,2987,2988,2970,2971|wars-of-wizards|v3
++C|The Riftwar Saga|2961,2962,2963,2964,2968,2972,2973,2975,2976,2980,2981,2987,2988,2970,2971|destiny-quest-fantasy|v3
 C|Jaine Fenn Hidden Sun|2991,2992,2993,2994,2995|wanderers-and-fixers|v3
 C|Book of Joby|2997|chosen-heirs|v3
 C|Light Wielder|3000|dragons-and-courts|v3
@@ -821,7 +821,7 @@ C|Wretched Divine|3546|angel-fantasy|v3
 C|Stealing Fire|3549|troy-and-after|v3
 C|Earthdoom|3551|cosmic-catastrophe|v3
 C|Desert Rising|3552|dying-earth|v3
-C|Newsflesh|3557|classic-last-people|v3
++C|Newsflesh|3557|living-among-the-dead|v3
 C|Rumors of Spring|3566|dying-earth|v3
 C|Rob Grant|3567,3568|comic-capers|v3
 C|Queens of Innis Lear|3569,3570,3571,3572|queens-and-sieges|v3
@@ -939,7 +939,7 @@ C|Guide to Wooing|3988,3989,3990|campus-and-coven|v3
 C|Broken Hearts Agency|4004|mediums-for-hire|v3
 C|Ghosts of Gwendolyn Montgomery|4005|vengeful-spirits|v3
 C|Maria Dahvana Headley|4008,4009,4010|vampire-courts|v3
-C|Iron Druid|4012,4030,4031|monster-hunter-offices|v3
++C|Iron Druid Chronicles|4012,4030,4031|modern-pantheon-myth|v3
 C|Seven Kennings|4013,4015|riftwar-cycle|v3
 C|Charming Tales / Mysterium|4032,4033,4034,4035,4036,4037|comic-heroes-and-monsters|v3
 C|Variable Star|4039|voyages-gone-wrong|v3
@@ -1048,7 +1048,7 @@ C|City of the Iron Fish|4452|city-underworlds|v3
 C|Lords of Deliverance|4456,4457|demonic-torment|v3
 C|Black Friday|4458|brother-and-hench-books|v3
 C|Ian Irvine|4461,4462,4463|sword-sagas|v3
-C|Ian Irvine|4464,4465|dragon-sagas|v3
++C|Ian Irvine|4464,4465|sword-sagas|v3
 C|Islington Licanius|4466,4467,4468,4469|riftwar-cycle|v3
 C|Itaranta|4470,4471|civil-conflict-near-future|v3
 C|Brain Thief|4473|cyberspace-and-the-sprawl|v3
@@ -1211,7 +1211,7 @@ C|Kupari|5019,5020|voyages-gone-wrong|v3
 C|Twin Star|5021|generation-ships|v3
 C|Family Business Kupari|5022,5023|science-and-faith-contacts|v3
 C|Teeth in the Mist|5025|haunted-towns-and-gray|v3
-C|Deryni|5026,5027,5028,5029|dragons-and-courts|v3
++C|Deryni Rising|5026,5027,5028,5029|paladin-hero|v3
 C|Crusade of Fire|5030|mercenary-and-sea-sagas|v3
 C|Thomas the Rhymer|5032|monster-and-fae-lovers|v3
 C|Mountain Magic|5035|civil-conflict-near-future|v3
@@ -1315,7 +1315,7 @@ C|Eternity in Three Acts|5479|queens-and-wild-lands|v3
 C|Babylon South Dakota|5485|sea-beggars-and-rogues|v3
 C|Dragon Keeper Hobb|5486|apprentices-and-masters|v3
 C|Jane Lindskold|5488,5489|moons-and-lost-worlds|v3
-C|Charles de Lint Newford|5493,5497,5498,5499,5503,5505,5506,5509|private-eyes-and-cryptids|v3
++C|Newford|5493,5497,5498,5499,5503,5505,5506,5509|paranormal-bricks|v3
 C|Three-Body Problem|5518|contact-by-arrival|v3
 C|Hunter Kiss|5526,5527,5529,5531,5532|private-eyes-and-cryptids|v3
 C|At the End of Babel|5533|war-and-memory-states|v3
@@ -1505,8 +1505,8 @@ C|Up Against It|6292|contact-colonies-and-freedom|v3
 C|Wrath Moalem|6293|plagues-and-pandemics|v3
 C|Forever Hero|6296|rewired-minds|v3
 C|Timegods World|6298|searchers-and-outback-stars|v3
-C|Spellsong Cycle|6299,6302|warlords-and-powder-mages|v3
-C|Ecolitan|6300,6304|soldiers-and-inquisitors|v3
++C|Spellsong Cycle|6299,6302|doors-to-other-worlds|v3
++C|Ecolitan|6300,6304|young-crews-and-ship-minds|v3
 C|Archform Beauty|6303|singular-futures|v3
 C|Ghosts of Columbia|6305|city-guilds-and-gangs|v3
 C|Corean Chronicles|6306,6307,6308,6314,6318,6310,6381|mercenary-bands|v3
@@ -1517,7 +1517,7 @@ C|Spellsong|6321,6365,6383,6299|huntresses-and-moons|v3
 C|Ecolitan|6323,6369,6371,6379,6380,6300,6304|young-crews-and-ship-minds|v3
 C|Ethos Effect|6324,6326,6351|net-and-code-minds|v3
 C|Parafaith War|6328|young-crews-and-ship-minds|v3
-C|Imager Portfolio|6332,6333,6340,6372,6373,6377,6385,6386,6388,6336,6341|soldiers-and-inquisitors|v3
++C|Imager Portfolio|6332,6333,6340,6372,6373,6377,6385,6386,6388,6336,6341|magic-by-the-rules|v3
 C|Solar Express|6337|plagues-and-pandemics|v3
 C|Contrarian Dekkard|6356,6357,6358,6359,6363|ship-and-rescue-escapes|v3
 C|Recluce Cyador|6360,6361,6362,6378,6382|knights-and-crusaders|v3
@@ -1532,7 +1532,7 @@ C|House at Watch Hill|6407|ghost-roads-and-hauntings|v3
 C|Hater Trilogy|6413,6414,6415|outbreak-thrillers|v3
 C|Remnant Population|6420|colonies-in-conflict|v3
 C|Paladin's Legacy|6429,6430,6431,6432,6433,6434|knights-and-crusaders|v3
-C|Vatta's War|6437,6438|swords-and-sea-rogues|v3
++C|Vatta's War|6437,6438|space-adventure|v3
 C|Queen Victoria Demon Hunter|6443|dresden-and-file-keepers|v3
 C|Eternal Champion|6447,6463,6464,6474,6476|thieves-and-rogues|v3
 C|Sanctuary of the White Friars|6449,6450,6451|fairy-tale-retellings|v3
@@ -1552,10 +1552,10 @@ C|Princess of Thornwood Drive|6498|folk-tale-and-ice-lands|v3
 C|Moreno-Garcia Gothic Thrillers|6499,6500,6501,6502|ghost-roads-and-hauntings|v3
 C|Light Years|6503,6504|soldiers-and-inquisitors|v3
 C|Secret History of Witches|6505,6506|teen-witches-and-curses|v3
-C|Faerie Handmaid|6507|celtic-and-fairyland-lines|v3
++C|Faerie Handmaid|6507|fairy-tale-retellings|v3
 C|Faerie Handmaid|6508,6507|fairy-tale-retellings|v3
 C|Louisa Morgan Witches|6509,6510,6511|teen-witches-and-curses|v3
-C|Takeshi Kovacs and Morgan|6512,6516,6517|augmented-flesh|v3
++C|Takeshi Kovacs|6512,6516,6517|techno-fiction-in-space|v3
 C|Inventors at No. 8|6518|classic-children-wonderlands|v3
 C|Spin State|6519,6520,6521|colonies-in-conflict|v3
 C|Long Lost|6522|thriller-defence|v3
@@ -1766,7 +1766,7 @@ C|Kit Reed Futures|7286,7287,7288,7290|odd-near-futures|v3
 C|Kit Reed Haunts|7289,7291|haunted-small-towns|v3
 C|Robert Reed Great Ship|7292,7293,7296|invasion-and-contact-novels|v3
 C|Robert Reed Invasions|7294,7295|pulp-and-golden-age-aliens|v3
-C|Nightfall Reichert|7300,7301,7311|gentleman-and-guild-thieves|v3
++C|Nightfall Saga|7300,7301,7311|dark-quest-fantasy|v3
 C|Spirit Fox|7305|celtic-bards-and-lines|v3
 +C|Renshai|7306,7307,7308,7312,7316,7318,7319|norse-fantasy|v3
 C|Books of Barakhai|7309,7310,7314|lost-worlds-and-fantastic-travels|v3
@@ -1794,7 +1794,7 @@ C|Looking Glass|7429,7439,7441,7442|mercenary-and-imperium-ships|v3
 C|Wands Ringo|7435,7451|city-magic-urban|v3
 C|Sister Time|7440|hidden-gifted-and-immortals|v3
 C|Citizens and Clan|7443,7445|pilots-and-spacetime-wars|v3
-C|Black Tide Rising|7444,7468,7464|collapse-survivors|v3
++C|Black Tide Rising|7444,7468,7464|zombie-apocalypse|v3
 C|Emerald Sea|7454|invasion-and-contact-novels|v3
 C|Into the Real|7465,7466,7469|city-magic-urban|v3
 +C|Troy Rising|7467|near-future-first-contact|v3
@@ -1878,9 +1878,9 @@ C|Clare Sager|7739,7740|fae-courts-of-the-realm|v3
 C|Saintcrow Gallow and Ragged|7741,7742,7757,7764|urban-magic-cities|v3
 C|Solveig Saintcrow|7743,7759|realms-and-outlaws|v3
 C|Saintcrow Post-War|7744,7747,7755,7765|ruins-and-kirinyaga|v3
-C|Jill Kismet|7745,7752,7753,7754,7756|dresden-style-wizards|v3
++C|Jill Kismet|7745,7752,7753,7754,7756|badge-and-bounty|v3
 C|Saintcrow Dark Urban|7746,7749,7750|wands-razors-and-zombies|v3
-C|Dante Valentine|7748,7766|wands-razors-and-zombies|v3
++C|Dante Valentine|7748,7766|angel-fantasy|v3
 C|Bandit King Hedgewitch|7758,7760|crowns-in-contest|v3
 C|Bannon and Clare|7761,7762,7763|period-and-pet-sleuths|v3
 C|Nothing but the Rain|7768|haunted-towns-and-ghosts|v3
@@ -1935,7 +1935,7 @@ C|Illusions of Fire|8035|witches-and-spell-houses|v3
 C|Priya Sharma|8036,8037|haunting-futures-and-cairns|v3
 C|Cold Counsel|8038|renshai-and-kingkillers|v3
 C|When the Sparrow Falls|8039|ruins-and-kirinyaga|v3
-C|Greta Helsing|8040,8041|pet-and-preternatural-sleuths|v3
++C|Dr. Greta Helsing|8040,8041|paranormal-fantasy|v3
 C|Michael Shea|8044,8045|ruins-and-kirinyaga|v3
 C|Godshome|8056|odd-near-futures|v3
 C|Anna Sheehan|8057,8058|ark-and-collapse-teens|v3
@@ -2054,7 +2054,7 @@ C|David's Sling|8463|ruin-lists-a|v3
 C|Jimmy the Hand|8466|crowns-and-queens-a|v3
 C|Nantucket Series|8467,8468|crosstime-and-forerunners|v3
 C|Draka|8469|ruin-lists-a|v3
-C|Nantucket Series|8470|noobs-fireblades-and-wizards|v3
++C|Nantucket Series|8470|crosstime-and-forerunners|v3
 C|Stirling Reformer|8471|reynolds-clans-and-virga|v3
 C|Peshawar Lancers|8472|brothers-floes-and-overlords|v3
 C|Conquistador Stirling|8473|brothers-floes-and-overlords|v3
@@ -2229,7 +2229,7 @@ C|Tales of Tremaine|9151,9152|riders-and-wolfwalkers|v3
 C|Chosen and the Beautiful|9155|older-tale-retellings|v3
 C|Van Vogt Classics|9164,9165,9167|patrol-and-picket|v3
 C|Grand Ellipse|9168|wonder-machines|v3
-C|Sirens of Titan|9169|crossfire-and-spin|v3
++C|The Sirens of Titan|9169|thomas-innocente-and-grifters|v3
 C|Into the Burning Deep|9170|fairytale-heroines-turned|v3
 C|Caller of Lightning|9173|stonehenge-and-shadow-files|v3
 C|Colin Harris|9174,9175|comic-science-and-satire|v3
@@ -2357,7 +2357,7 @@ C|City on Fire Williams|9611|city-guilds-and-gangs|v3
 C|Hardwired|9614,9624,9629,9631|cyber-flesh-classics|v3
 C|Humanoids|9635|android-detectives-and-servants|v3
 C|Williamson Late Novels|9636,9637|searchers-and-outback-stars|v3
-C|Freehold|9640,9647|conflict-and-closed-societies|v3
++C|Freehold|9640,9647|ground-pounders|v3
 C|Lincoln's Dreams|9654|dream-and-memory-minds|v3
 C|Uncharted Territory|9656|crewed-contact-missions|v3
 C|Remake Willis|9657|virtual-lives-and-fears|v3
@@ -2440,7 +2440,7 @@ C|Asylum Tales|10010,10012|supernatural-big-cities|v3
 C|Dark Brethren|10014,10030,10035|vampire-urban-hunters|v3
 C|Soulbound Saga|10017|heroes-and-beasts|v3
 C|Chronicles of a Cosmic Warlord|10018,10022,10051|elves-witness-and-serpentwar|v3
-+C|Riftwar|10019,10028|wars-of-wizards|v3
++C|The Riftwar Saga|10019,10028|destiny-quest-fantasy|v3
 +C|Foundation|10020|foundation-league-and-children|v3
 C|Gallowglass Provost|10021|fae-realm-novels-b|v3
 C|Hunter's Run|10023|taylor-vogt-and-salvagers|v3
@@ -2458,7 +2458,7 @@ C|Edward Cox Fantasies|10048,10049|ring-and-law-intrigue|v3
 C|Time's Child|10050|rag-magic-and-elegy|v3
 C|Here There Be Dragonnes|1218|heroes-and-beasts|v3
 C|Chain of Command Chadwick|1630|sellsword-fellowships|v3
-+C|1632 series|1951|ring-of-fire-and-time-travel|v3
++C|Ring of Fire (1632)|1951|whole-towns-and-lives-displaced|v3
 C|Mall Purchase Night|1941|tricksters-thieves-and-blades|v3
 C|Scarlet Cogman|1840|flintlock-fantasy|v3
 C|Mr. Twilight|7275|ghost-servants-and-sisters|v3
@@ -2482,7 +2482,7 @@ C|American Desert|2908|odd-corners-of-the-modern|v3
 C|Spirit of the Place Feeley|2959|ragnarok-sibyl-and-landings|v3
 C|Flying Legion|2839|ethos-luda-and-linguists|v3
 C|Two Doctors Gorski|2990|city-witches-and-seers|v3
-C|Belisarius Tide of Victory|3038|ark-dreamers-and-girls|v3
++C|Belisarius|3038|hidden-history-sf|v3
 C|Silent Gondoliers|3490|odd-corners-of-the-modern|v3
 C|God Game Greeley and Forever Hamill|3593,3777|inherited-monster-magic|v3
 C|Seven Miracles of Beatrix Holland|4163|inherited-family-magic|v3

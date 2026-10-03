@@ -61,7 +61,9 @@ def emit_child(cid,cn,cs,d):
         for c2,n2,d2,cs2 in splits[cid]: emit_child(c2,n2,cs2,d+1)
         return
     ex=[c for c in newc[cid] if c not in rm[cid]]
-    allc=cs+ex
+    allc=[]
+    for c in cs+ex:
+        if c not in allc: allc.append(c)
     nleaf+=1;ncards+=len(allc)
     out.append('  '*d+f'[{cid}] {cn} NEW ({len(allc)})')
     for c in allc: out.append('  '*(d+1)+'- '+c)
