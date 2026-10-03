@@ -1260,3 +1260,6 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 
 ## 2026-09-25 12:47 - Modern Chinese Myth leaf
 - modern-chinese-myth created under contemporary-mythic-fantasy (the curator ruling 12:47); An Arrow to the Moon seeded from held #19 - HELD LIST EMPTY. CMF def updated (Chinese added). Portrait 345. Next free portrait: 346. Tier-2 cursor 20/322; chunk 2 (21-40) awaits his go.
+
+## 2026-10-03 19:0x - Wormwood Trilogy duplicate merged
+- The two Wormwood cards folded into one: kept The Wormwood Trilogy (3 books) in alien-invasion-fiction, removed the Wormwood trilogy card from near-future-first-contact (index.html, works yaml, genre.yaml). See DUPLICATES.md. Gate OK: 1307 cards.

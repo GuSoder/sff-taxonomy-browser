@@ -17,3 +17,7 @@ The walk runs on the series as a whole, not on each book's local flavor. One hom
 ## Instance: the Red Hand duology (2026-09-28)
 
 Rise of the Red Hand (2021) and Fall of the Iron Gods (2024) sat as two cards in Cli-fi dystopia, inflating the leaf to 10 and nearly triggering a phantom split. Folded under the rules above 2026-09-28: one card, both volumes in its books list, the leaf drops to 9 and the golden rule goes quiet. The curator delegated the call ("according to the doc, what's YOUR ruling?", phonemsg-01M3KVTCS5D0PM7KNK2NJ1RPSS); ruling per this doc: coalesce only, no split.
+
+## Instance: the Wormwood Trilogy (2026-10-03)
+
+The Wormwood Trilogy (Tade Thompson, Rosewater) had two cards: "The Wormwood Trilogy" (3 books) in Alien invasion fiction and "Wormwood trilogy" (Rosewater only) in Near-future first contact. Folded under the one-card-per-series rule, series about-ness: the hidden invasion of Rosewater (biodome and xenoform assimilation, alien plans to take human bodies) governs, so the card stays in Alien invasion fiction and the near-future first-contact card is removed. The curator delegated the call ("I trust you on judging where the series belong", this channel 2026-10-03 19:00).
