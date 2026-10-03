@@ -377,7 +377,7 @@ C|Antasy|1532,1533|animal-fantasy|v3
 C|Shadows That Listen|1537|angel-fantasy|v3
 C|Sorayan|1538,1539|royal-house-quests|v3
 C|Killing Time|1541|classic-social-dystopias|v3
-+C|Ring of Fire (1632)|1549,1550,1551,1554|whole-towns-and-lives-displaced|v3
++C|1632 series|1549,1550,1551,1554|whole-towns-and-lives-displaced|v3
 C|Dragon's Boy|1552,1553|apprentices-and-schools|v3
 C|Black Swan Rising|1573,1574,1575|secret-societies|v3
 C|Swords and Fire|1584,1585|court-statecraft|v3
@@ -450,8 +450,7 @@ C|Imperial Earth|1797|stations-and-the-belt|v3
 C|Ghost from Grand Banks|1801|relics-under-study|v3
 C|Shadith|1804,1805,1806|wanderers-and-fixers|v3
 C|Black Leviathan|1807|continental-steam|v3
-C|Wit'ch Fire|1808|chosen-heirs|v3
-C|Wit'ch|1809,1810,1811,1812|chosen-heirs|v3
+C|Wit'ch|1809,1810,1811,1812,1808|chosen-heirs|v3
 C|Godslayer Chronicles|1813,1814|wars-of-wizards|v3
 C|Hal Clement|1816,1818|stations-and-the-belt|v3
 C|Stations of the Tide|1821|strange-new-ecologies|v3
@@ -553,7 +552,7 @@ C|Deitz Bloodwinter|2275,2276,2277|wars-of-wizards|v3
 C|Dekker Lee|2278,2279|chosen-heirs|v3
 C|Tales of Deadly Devotion|2280,2281,2282|dragons-and-courts|v3
 C|Indigo Springs|2291,2294|witches-and-libraries|v3
-C|1632 series|2297,2298|ring-of-fire-and-time-travel|v3
+C|1632 series|2297,2298,2896,2897,6988|ring-of-fire-and-time-travel|v3
 C|Combat Command|2304|space-marines|v3
 C|Mystic trilogy|2305,2306,2307,2308|chosen-heirs|v3
 C|Afterlife Resurrection Chronicles|2311|packs-and-courts|v3
@@ -686,7 +685,6 @@ C|Rejoice|2871|visitors-and-watchers|v3
 C|Carpet Makers|2872|near-future-society|v3
 C|Burnished City|2891,2892,2893|rebels-spies-and-villains|v3
 C|Books of the Usurper|2894,2895|wars-of-wizards|v3
-C|1632 Ring of Fire Evans|2896,2897|ring-of-fire-and-time-travel|v3
 C|Brian Evenson|2898,2899|first-signs-and-lone-contact|v3
 C|Whispering Dark|2905|chosen-heirs|v3
 C|Wayside Inn|2906,2907|witches-and-libraries|v3
@@ -704,8 +702,7 @@ C|Brian Farrey|2949,2950|chosen-heirs|v3
 C|Mystical Cat Shelter|2955|witches-and-libraries|v3
 C|Interstellar Defense League|2957,2958|fleet-wars|v3
 C|Fury of Dragons|2960|dragons-and-courts|v3
-C|Riftwar|2961,2962,2963,2964|wars-of-wizards|v3
-C|Raymond Feist Riftwar|2968,2972,2973,2975,2976,2980,2981,2987,2988,2970,2971|wars-of-wizards|v3
+C|Riftwar|2961,2962,2963,2964,2968,2972,2973,2975,2976,2980,2981,2987,2988,2970,2971|wars-of-wizards|v3
 C|Jaine Fenn Hidden Sun|2991,2992,2993,2994,2995|wanderers-and-fixers|v3
 C|Book of Joby|2997|chosen-heirs|v3
 C|Light Wielder|3000|dragons-and-courts|v3
@@ -1683,7 +1680,6 @@ C|Fiona Patton Anavatan and Stone Prince|6964,6965,6966,6967,6968,6969,6970|heir
 C|Paxson Charm Romance|6975,6976|romance-in-fae-cities|v3
 C|Avalon and Westria|6977,6978,6979,6980,6981|celtic-bards-and-lines|v3
 C|Inherit the Stars|6986|colony-wars|v3
-C|1632 Ring of Fire|6988|alt-wars-and-americas|v3
 C|Gunpowder Moon|6989|lunar-voyages|v3
 C|Jinn and Juice|6990|urban-fey-and-monsters|v3
 C|Skinners|6993,6994,6995,6996|urban-fey-and-monsters|v3
@@ -1712,10 +1708,9 @@ C|Death House|7052,7053|collapse-survivors|v3
 C|Pinborough Fairy Tales|7054|fairy-tale-retellings|v3
 C|Greenest Gecko|7066|ruined-futures|v3
 C|Sarah Jane Beauhall|7071,7072,7073|champions-and-gamesters|v3
-C|Pohl Novels|7074,7076,7077,7078,7079,7080|aliens-arrive|v3
+C|Pohl Novels|7074,7076,7077,7078,7079,7080,7082,7083,7085,7086,7087,7089,7091,7093|aliens-arrive|v3
 C|Mining the Oort|7081|moon-bases-and-neighbour-worlds|v3
 C|Pinborough Tales|7055,7056,7057|fairy-tale-retellings|v3
-C|Pohl Later Novels|7082,7083,7085,7086,7087,7089,7091,7093|aliens-arrive|v3
 C|Pokwatka|7094,7095|speculative-satires-and-singulars|v3
 C|Polansky Animal Noir|7096,7097|city-magic-and-gothic-art|v3
 C|Seventh Perfection|7098|ruined-futures|v3
@@ -1773,9 +1768,8 @@ C|Robert Reed Great Ship|7292,7293,7296|invasion-and-contact-novels|v3
 C|Robert Reed Invasions|7294,7295|pulp-and-golden-age-aliens|v3
 C|Nightfall Reichert|7300,7301,7311|gentleman-and-guild-thieves|v3
 C|Spirit Fox|7305|celtic-bards-and-lines|v3
-C|Renshai|7306,7307,7308,7312,7316|swords-of-fire-and-legacy|v3
+C|Renshai|7306,7307,7308,7312,7316,7318,7319|swords-of-fire-and-legacy|v3
 C|Books of Barakhai|7309,7310,7314|lost-worlds-and-fantastic-travels|v3
-C|Renshai Later|7318,7319|swords-of-fire-and-legacy|v3
 C|Ava Reid Gothic Fantasy|7320,7321,7322,7323,7324|contested-crowns|v3
 C|Rob Reid|7327,7328|invasion-and-contact-novels|v3
 C|Tielmark|7329,7330,7331|heirs-rivers-and-protectors|v3
@@ -1807,8 +1801,7 @@ C|Troy Rising|7467|invasion-and-contact-novels|v3
 C|Daughter of the Hunt|7478,7479|contested-crowns|v3
 C|Cheysuli|7482,7483,7484,7487,7489,7491,7493,7495,7496|heirs-rivers-and-protectors|v3
 C|Track of the White Wolf|7486|dynastic-courts|v3
-C|Sword-Dancer|7485,7488,7490,7492,7494,7497|rogue-city-thieves|v3
-C|Sword-Dancer Later|7500,7503,7508|rogue-city-thieves|v3
+C|Sword-Dancer|7485,7488,7490,7492,7494,7497,7500,7503,7508|rogue-city-thieves|v3
 C|Sinners and Saints|7507|hidden-gifted-and-immortals|v3
 C|Adam Roberts|7511,7512,7513,7514,7516,7517,7518,7519,7520,7521,7522,7523|near-future-voices|v3
 C|Crashing Heaven|7525,7526|rebuilt-bodies-modern|v3
@@ -1928,8 +1921,7 @@ C|Tim Scott Fridges|7993,7994|literary-fantasy-satires|v3
 C|Grim Company|7997,7998,7999|hunters-orcs-and-rovers|v3
 C|Half Sick of Shadows|8000|hunts-abysses-and-gothic-thrones|v3
 C|Adrian Selby|8004,8005,8006|realms-and-outlaws|v3
-C|Lyra Selene|8007,8008|fae-courts-of-the-realm|v3
-C|Lyra Selene Fair Folk|8009|fae-courts-of-the-realm|v3
+C|Lyra Selene|8007,8008,8009|fae-courts-of-the-realm|v3
 C|Losting Fountain|8016|haunted-towns-and-ghosts|v3
 C|Alchemised|8017|hunts-abysses-and-gothic-thrones|v3
 C|Sergey and Marina Dyachenko|8018,8019,8020|chicagoland-and-royals|v3
@@ -1971,8 +1963,7 @@ C|Today I Am Carey|8149|odd-futures-a|v3
 C|Second Chances Shwartz|8160|early-moon-voyages|v3
 C|Jan Siegel|8161,8162,8163|witches-and-spell-houses|v3
 C|Robert Silverberg|8169,8171,8172,8173,8174|archipelagos-and-futures-b|v3
-C|Tara Sim|8175,8176,8177,8178|hunts-abysses-and-gothic-thrones|v3
-C|Tara Sim Later|8179,8180|hunts-abysses-and-gothic-thrones|v3
+C|Tara Sim|8175,8176,8177,8178,8179,8180|hunts-abysses-and-gothic-thrones|v3
 C|Dan Simmons Standalones|8184,8186,8187,8188,8189|odd-futures-a|v3
 C|Dead Living Simmons|8190,8191,8192,8193|agents-and-messengers-vs-monsters|v3
 C|Paper Museum|8195|literary-and-woodland-magic|v3
@@ -2449,7 +2440,7 @@ C|Asylum Tales|10010,10012|supernatural-big-cities|v3
 C|Dark Brethren|10014,10030,10035|vampire-urban-hunters|v3
 C|Soulbound Saga|10017|heroes-and-beasts|v3
 C|Chronicles of a Cosmic Warlord|10018,10022,10051|elves-witness-and-serpentwar|v3
-+C|Raymond Feist Riftwar|10019,10028|wars-of-wizards|v3
++C|Riftwar|10019,10028|wars-of-wizards|v3
 +C|Foundation|10020|foundation-league-and-children|v3
 C|Gallowglass Provost|10021|fae-realm-novels-b|v3
 C|Hunter's Run|10023|taylor-vogt-and-salvagers|v3
