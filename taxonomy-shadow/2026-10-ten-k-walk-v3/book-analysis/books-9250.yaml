@@ -366,12 +366,12 @@
 - id: 9286
   title: "Changer of Worlds"
   author: "David Weber"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:TIE-IN-MERCH
@@ -379,12 +379,12 @@
 - id: 9287
   title: "Flag in Exile"
   author: "David Weber"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:TIE-IN-MERCH
@@ -470,12 +470,12 @@
 - id: 9298
   title: "The Service of the Sword"
   author: "David Weber"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:TIE-IN-MERCH
@@ -587,12 +587,12 @@
 - id: 9318
   title: "In Fire Forged: Worlds of Honor V"
   author: "David Weber"
-  form: x
-  has_magic: 
-  is_real_earth: 
-  setting: 
-  genre: 
-  tags: ""
+  form: novel
+  has_magic: false
+  is_real_earth: false
+  setting: space
+  genre: scifi
+  tags: "moderate"
   confidence: moderate
   source: web
   decision: HOLD:TIE-IN-MERCH
