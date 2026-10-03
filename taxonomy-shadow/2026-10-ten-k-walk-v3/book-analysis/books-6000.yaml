@@ -10,7 +10,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 6001
   title: "House of the Dragon: Light-Up Dragon Egg"
@@ -23,7 +23,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 6002
   title: "The Fortress at the End of Time"
@@ -49,7 +49,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6013
   title: "Time Travelers Never Die"
@@ -257,7 +257,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6035
   title: "The Menace from Farside"
@@ -270,7 +270,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6036
   title: "Boy, with Accidental Dinosaur"
@@ -283,7 +283,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6037
   title: "The Date"
@@ -296,7 +296,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6038
   title: "Brasyl"
@@ -400,7 +400,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 6050
   title: "Illumination"
@@ -452,7 +452,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 6054
   title: "Midway Relics and Dying Breeds"
@@ -465,7 +465,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6055
   title: "Full of Briars"
@@ -491,7 +491,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 6057
   title: "Dusk or Dark or Dawn or Day"
@@ -543,7 +543,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6061
   title: "Seanan McGuire's Wayward Children, Volumes 1-3"
@@ -556,7 +556,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6062
   title: "Angel of the Overpass"
@@ -595,7 +595,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6065
   title: "Skeleton Song"
@@ -608,7 +608,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6066
   title: "Spelunking Through Hell"
@@ -647,7 +647,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6069
   title: "Aftermarket Afterlife"
@@ -660,7 +660,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6070
   title: "The Up-and-Under Series"
@@ -673,7 +673,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6071
   title: "Tidal Creatures"
@@ -686,7 +686,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6072
   title: "Wayward Children: The First Five Adventures"
@@ -699,7 +699,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6076
   title: "Installment Immortality"
@@ -712,7 +712,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6083
   title: "A Divided Duty"
@@ -725,7 +725,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6084
   title: "Be Sure Volume II"
@@ -738,7 +738,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6085
   title: "Butterfly Effects"
@@ -751,7 +751,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6088
   title: "Inkpot Gods"
@@ -764,7 +764,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6089
   title: "Half the Day Is Night"
@@ -777,7 +777,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6090
   title: "Yellow and the Perception of Reality"
@@ -790,7 +790,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6091
   title: "Liminal Spaces"
@@ -803,7 +803,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6092
   title: "Bridge of Souls"
@@ -894,7 +894,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6099
   title: "Defenders"
@@ -933,7 +933,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6102
   title: "The Perimeter"
@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6103
   title: "The Warrior Within"
@@ -972,7 +972,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 6105
   title: "Queen of Camelot"
@@ -1037,7 +1037,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 6110
   title: "Once Upon a Summer Day"
@@ -1050,7 +1050,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 6111
   title: "Once Upon A Dreadful Time"
@@ -1063,7 +1063,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 6112
   title: "Once Upon A Spring Morn"
@@ -1076,7 +1076,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 6113
   title: "Once Upon an Autumn Eve"
@@ -1089,7 +1089,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 6114
   title: "City of Jade"
@@ -1232,7 +1232,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6125
   title: "Alphabet of Thorn"
@@ -1258,7 +1258,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6127
   title: "Od Magic"
@@ -1284,7 +1284,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NOVELLA-OR-CHILDREN-OR-OMNIBUS-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6129
   title: "Solstice Wood"

@@ -62,7 +62,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-OR-COLLECTION-OR-REPRINT-UNCLEAR
+  decision: HOLD:COLLECTION
   note: ""
 - id: 6255
   title: "A Voyage to Cacklogallinia"
@@ -88,7 +88,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-OR-COLLECTION-OR-REPRINT-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6257
   title: "Drowsy"
@@ -101,7 +101,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-OR-COLLECTION-OR-REPRINT-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6258
   title: "Gulliver Joi"
@@ -192,7 +192,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:ANTHOLOGY-OR-COLLECTION-OR-REPRINT-UNCLEAR
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6265
   title: "The Moon Colony"
@@ -504,7 +504,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 6290
   title: "The Razor"

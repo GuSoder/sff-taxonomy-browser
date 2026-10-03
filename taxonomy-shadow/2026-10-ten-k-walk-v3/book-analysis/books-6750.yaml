@@ -829,7 +829,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 6822
   title: "Ginga"
@@ -842,7 +842,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 6823
   title: "Kia and Gio"

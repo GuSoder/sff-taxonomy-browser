@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5848
   title: "Dragon Rider"
@@ -985,7 +985,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5851
   title: "The Box"
@@ -998,7 +998,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5852
   title: "Steel"
@@ -1011,7 +1011,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5853
   title: "Fleet Renegade"
@@ -1089,7 +1089,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5859
   title: "King Rat"
@@ -1167,7 +1167,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5868
   title: "The Falconer"
@@ -1310,7 +1310,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5882
   title: "Im Laughing Because Im Crying"
@@ -1323,7 +1323,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5883
   title: "How to Summon a Fairy Godmother"
@@ -1375,7 +1375,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5887
   title: "The Courtship of the Queen"
@@ -1388,7 +1388,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5888
   title: "La Signora"
@@ -1401,7 +1401,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5889
   title: "Where Are the Aliens?"
@@ -1414,7 +1414,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5890
   title: "Less Than Human"
@@ -1479,7 +1479,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5895
   title: "400 Billion Stars"
@@ -1700,7 +1700,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5916
   title: "Crystal Line"
@@ -1973,7 +1973,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5955
   title: "Dragon's Code"
@@ -1999,7 +1999,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5960
   title: "Blue is a Darkness Weakened by Light"
@@ -2012,7 +2012,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5961
   title: "The Color of Rain"
@@ -2025,7 +2025,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-NON-SPECULATIVE-OR-DUPLICATE-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5962
   title: "Sword in the Stars"
@@ -2116,7 +2116,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5969
   title: "Rich Man's Sky"
@@ -2207,7 +2207,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5976
   title: "War Cry"
@@ -2259,7 +2259,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5987
   title: "The Undefeated"
@@ -2272,7 +2272,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5988
   title: "Sold"
@@ -2285,7 +2285,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-NOVELLA-OR-TIE-IN-OR-NON-SPECULATIVE-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5989
   title: "WebMage"

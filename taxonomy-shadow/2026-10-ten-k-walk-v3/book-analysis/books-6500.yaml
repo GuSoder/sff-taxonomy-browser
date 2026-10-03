@@ -309,7 +309,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 6527
   title: "The SFWA European Hall of Fame"
@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:NON-SPECULATIVE-OR-UNCLEAR
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 6576
   title: "One Jump Ahead"
