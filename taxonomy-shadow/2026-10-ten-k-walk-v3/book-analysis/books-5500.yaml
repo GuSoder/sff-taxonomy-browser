@@ -868,7 +868,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5582
   title: "Waking Up Screaming"
@@ -881,7 +881,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5583
   title: "The Horror in the Museum"
@@ -894,7 +894,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5584
   title: "The Dream Cycle of H. P. Lovecraft: Dreams of Terror and Death"
@@ -907,7 +907,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5585
   title: "The Road to Madness"
@@ -920,7 +920,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5586
   title: "Shadows of Death"
@@ -933,7 +933,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5587
   title: "Eldritch Tales"
@@ -946,7 +946,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5588
   title: "Necronomicon"
@@ -959,7 +959,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5589
   title: "Adrift in the Stratosphere"
@@ -972,7 +972,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5590
   title: "These Deathless Shores"
@@ -1050,7 +1050,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5596
   title: "In the Watchful City"
@@ -1063,7 +1063,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5597
   title: "The Fifth Ward: First Watch"
@@ -1115,7 +1115,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5601
   title: "Wanda Seasongood and the Almost Perfect Lie"
@@ -1128,7 +1128,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5602
   title: "Wanda Seasongood and the Mostly True Secret"
@@ -1141,7 +1141,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5603
   title: "The Ring of Five Dragons"
@@ -1310,7 +1310,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5616
   title: "Deadlands: Ghostwalkers"
@@ -1323,7 +1323,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5620
   title: "Day of the Dragon"
@@ -1401,7 +1401,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5626
   title: "The Apocalypse Door"
@@ -1427,7 +1427,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5628
   title: "Seonag and the Seawolves"
@@ -1440,7 +1440,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5632
   title: "Calling All Angels"
@@ -1453,7 +1453,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-CHILDREN-OR-HISTORICAL-OR-TIE-IN-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5633
   title: "Red Hot Fury"
@@ -1544,7 +1544,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5642
   title: "Dark Light"
@@ -1817,7 +1817,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5665
   title: "The World of Lore: Dreadful Places"
@@ -1830,7 +1830,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5666
   title: "The World of Lore: Monstrous Creatures"
@@ -1843,7 +1843,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5667
   title: "The World of Lore: Wicked Mortals"
@@ -1856,7 +1856,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5668
   title: "The Godstone"
@@ -1999,7 +1999,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5679
   title: "Watching Evil Dead"
@@ -2038,7 +2038,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5682
   title: "#Spring Love, #Pichal Pairi"
@@ -2051,7 +2051,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5683
   title: "Time Traveler"
@@ -2064,7 +2064,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5684
   title: "Merlin: The Old Magic Part 1"
@@ -2090,7 +2090,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5686
   title: "Farewell Performance"
@@ -2103,7 +2103,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5694
   title: "The Misfit Soldier"
@@ -2129,7 +2129,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5696
   title: "Method Man"
@@ -2142,7 +2142,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5697
   title: "Dawn of the Dragons"
@@ -2220,7 +2220,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5703
   title: "The Finite Canvas"
@@ -2233,7 +2233,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5704
   title: "The Writ of Years"
@@ -2246,7 +2246,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5705
   title: "The Pigeon Summer"
@@ -2259,7 +2259,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5706
   title: "Summer Sons"
@@ -2285,7 +2285,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5708
   title: "The Geomagician"
@@ -2441,7 +2441,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5726
   title: "The Disestablishment of Paradise"
@@ -2467,7 +2467,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5728
   title: "The Dead Run"
@@ -2480,7 +2480,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-SPECULATIVE
   note: ""
 - id: 5729
   title: "Twilight Rising, Serpent's Dream"
@@ -2493,7 +2493,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5730
   title: "The Grand Design"
@@ -2571,7 +2571,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5736
   title: "The Forever Knight"

@@ -10,7 +10,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5757
   title: "Gene Roddenberry's Andromeda: The Attitude of Silence"
@@ -23,7 +23,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-NONFICTION-OR-TIE-IN-OR-NOVELLA-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5758
   title: "DC Universe: Trail of Time"
@@ -36,7 +36,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5759
   title: "Deadlands: Thunder Moon Rising"
@@ -49,7 +49,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5760
   title: "7 Sykos"
@@ -75,7 +75,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5762
   title: "The Glass Harmonica"
@@ -140,7 +140,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5767
   title: "Remedial Magic"
@@ -205,7 +205,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5772
   title: "How to Spot a Magical Woodland Creature"
@@ -218,7 +218,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5773
   title: "How to Spot a Mermaid"
@@ -231,7 +231,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5774
   title: "A Blade of Black Steel"
@@ -283,7 +283,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:TIE-IN-MERCH
   note: ""
 - id: 5778
   title: "The Quanderhorn Xperimentations"
@@ -296,7 +296,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5779
   title: "The Hanging Game"
@@ -309,7 +309,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5783
   title: "Swordcrossed"
@@ -465,7 +465,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5796
   title: "Nightflyers & Other Stories"
@@ -478,7 +478,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5797
   title: "Songs of the Dying Earth"
@@ -491,7 +491,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5798
   title: "Warriors"
@@ -504,7 +504,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5799
   title: "Warriors 1"
@@ -517,7 +517,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5800
   title: "Warriors 2"
@@ -530,7 +530,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5801
   title: "Warriors 3"
@@ -543,7 +543,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:ANTHOLOGY
   note: ""
 - id: 5802
   title: "Dreamsongs"
@@ -556,7 +556,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:COLLECTION
   note: ""
 - id: 5803
   title: "Dying Of The Light"
@@ -621,7 +621,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:SHORT-FORM-STORY-OR-NOVELLA
   note: ""
 - id: 5823
   title: "House of Blight"
@@ -738,7 +738,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5832
   title: "Helen and Troys Epic Road Quest"
@@ -751,7 +751,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5833
   title: "God of Neverland"
@@ -803,7 +803,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:UNCLEAR-REVISIT
   note: ""
 - id: 5837
   title: "Counting Heads"
@@ -842,7 +842,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:NON-FICTION
   note: ""
 - id: 5840
   title: "Space Taxi"
@@ -855,7 +855,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5841
   title: "Space Taxi: Aliens on Earth"
@@ -868,7 +868,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5842
   title: "Space Taxi: Archies Alien Disguise"
@@ -881,7 +881,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5843
   title: "Space Taxi: B.U.R.P. Strikes Back"
@@ -894,7 +894,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5844
   title: "Space Taxi: The Galactic B.U.R.P."
@@ -907,7 +907,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5845
   title: "Space Taxi: Water Planet Rescue"
@@ -920,7 +920,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5846
   title: "The Planet, the Portal, and a Pizza"
@@ -933,7 +933,7 @@
   tags: ""
   confidence: moderate
   source: web
-  decision: HOLD:SHORT-FORM-OR-COLLECTION-OR-ANTHOLOGY-OR-CHILDREN-OR-TIE-IN-OR-NONFICTION-OR-UNCLEAR-REVISIT
+  decision: HOLD:CHILDREN-MG
   note: ""
 - id: 5847
   title: "The Caltraps of Time"
