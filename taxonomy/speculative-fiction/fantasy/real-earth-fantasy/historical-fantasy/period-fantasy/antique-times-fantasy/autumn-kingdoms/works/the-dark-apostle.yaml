@@ -1,0 +1,35 @@
+id: the-dark-apostle
+title: The Dark Apostle
+authors:
+- E. C. Ambrose
+first_published: 2010
+canonical_genre: autumn-kingdoms
+placement_status: accepted
+placement_rationale: 'E. C. Ambrose''s Dark Apostle series (Elisha Barber, Elisha Magus, Elisha Rex, and the prequel tale
+  The Burning) is a magical reimagining of 14th-century England: a barber-surgeon who is also a necromancer moves through
+  plague, church and crown, with angels and witchcraft as part of the real period. The invented history is the engine, so
+  Autumn kingdoms is the home.'
+books:
+- title: Elisha Barber
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7631908-L.jpg
+- title: Elisha Magus
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8762247-L.jpg
+- title: Elisha Rex
+  year: 2012
+  cover_url: https://images.penguinrandomhouse.com/cover/9781101597866
+- title: The Burning
+  year: 2013
+  cover_url: https://images.penguinrandomhouse.com/cover/9780698144743
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7631908-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02696, MC02698, MC02700, MC02701)
+placement_history:
+- date: '2026-10-04'
+  to: autumn-kingdoms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -2,23 +2,29 @@ id: the-domain-series
 title: The Domain Series
 authors:
 - Steve Alten
-first_published: 2004
+first_published: 2001
 canonical_genre: alien-invasion-fiction
 placement_status: accepted
 placement_rationale: 'Steve Alten''s Domain series: a Mayan calendar prophecy of an alien-driven catastrophe in 2012, with
   Michael Gabriel and then his Hero Twin sons fighting to save Earth (Publishers Weekly, author site). Resurrection is the
   second book. The alien threat to Earth is the engine: Alien invasion fiction.'
 books:
+- title: Domain
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/183403-L.jpg
 - title: Resurrection
   year: 2004
   cover_url: https://covers.openlibrary.org/b/id/183456-L.jpg
+- title: 'Phobos: Mayan Fear'
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/11358935-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/183456-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC09088)
+intake: ten-k walk v5 (queue ids MC09086, MC09087, MC09088)
 placement_history:
 - date: '2026-10-04'
   to: alien-invasion-fiction
