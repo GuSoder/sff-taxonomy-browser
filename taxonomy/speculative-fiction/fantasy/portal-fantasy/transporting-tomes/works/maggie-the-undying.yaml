@@ -1,0 +1,25 @@
+id: maggie-the-undying
+title: Maggie the Undying
+authors:
+- Ilona Andrews
+first_published: 2026
+canonical_genre: transporting-tomes
+placement_status: accepted
+placement_rationale: 'Ilona Andrews'' This Kingdom Will Not Kill Me (2026) opens the Maggie the Undying series: a delivery
+  driver who knows the unfinished fantasy series The Rise of Kair Toren by heart wakes up inside its city, armed with spoilers
+  and unable to stay dead (Tor, Booklist). The book and the reader''s knowledge of it carry the crossing: Transporting tomes.'
+books:
+- title: This Kingdom Will Not Kill Me
+  year: 2026
+  cover_url: https://covers.openlibrary.org/b/isbn/9781250377265-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9781250377265-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03960)
+placement_history:
+- date: '2026-10-04'
+  to: transporting-tomes
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

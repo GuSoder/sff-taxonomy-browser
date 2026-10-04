@@ -1,0 +1,32 @@
+id: the-ever-seas
+title: The Ever Seas
+authors:
+- LJ Andrews
+first_published: 2023
+canonical_genre: romantasy
+placement_status: accepted
+placement_rationale: 'LJ Andrews'' Ever Seas series (The Ever King, The Ever Queen, The Mist Thief): a Nordic-myth world where
+  pirates and vikings clash, and a thief and a king, then a would-be assassin and the prince she marries, are bound in enemies-to-lovers
+  romance with the war of revenge behind it (Penguin Random House). The romance carries the plot inside an invented fantasy
+  world: Romantasy.'
+books:
+- title: The Ever King
+  year: 2023
+  cover_url: https://images.penguinrandomhouse.com/cover/9780593955031
+- title: The Ever Queen
+  year: 2024
+  cover_url: https://images.penguinrandomhouse.com/cover/9780593955062
+- title: The Mist Thief
+  year: 2024
+  cover_url: https://images.penguinrandomhouse.com/cover/9780593955093
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780593955031
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06094, MC06095, MC06096)
+placement_history:
+- date: '2026-10-04'
+  to: romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
