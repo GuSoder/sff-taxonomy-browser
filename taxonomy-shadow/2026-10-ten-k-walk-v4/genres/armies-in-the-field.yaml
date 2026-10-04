@@ -1,0 +1,61 @@
+id: armies-in-the-field
+label: Armies in the field
+parent: ranks-and-companies
+origin: shadow-v4
+definition: 'Fantasy war told from the ranks of a national or imperial army: campaigns, battles, officers
+  and veterans.'
+cards:
+- name: The Heroes
+  origin: v3
+  books:
+  - title: The Heroes
+    author: Joe Abercrombie
+- name: Land Fit for Heroes
+  origin: v3
+  books:
+  - title: The Cold Commands
+    author: Land Fit for Heroes
+  - title: The Dark Defiles
+    author: Land Fit for Heroes
+  - title: The Steel Remains
+    author: Land Fit for Heroes
+- name: Malazan Book of the Fallen
+  origin: v3
+  books:
+  - title: The Complete Malazan Book of the Fallen
+    author: Steven Erikson
+  - title: 'Malazan Book of the Fallen: Books 1-4'
+    author: Steven Erikson
+- name: The Traitor Son Cycle
+  origin: v3
+  books:
+  - title: The Dread Wyrm
+    author: Miles Cameron
+  - title: The Fall of Dragons
+    author: Miles Cameron
+  - title: The Fell Sword
+    author: Miles Cameron
+  - title: The Plague of Swords
+    author: Miles Cameron
+  - title: The Red Knight
+    author: Miles Cameron
+- name: Under the Northern Sky
+  origin: v3
+  books:
+  - title: The Cuckoo
+    author: Leo Carew
+  - title: The Spider
+    author: Leo Carew
+  - title: The Wolf
+    author: Leo Carew
+- name: Crossroads (Elliott)
+  origin: v3
+  books:
+  - title: Spirit Gate
+    author: Kate Elliott
+  - title: Shadow Gate
+    author: Kate Elliott
+  - title: Traitors' Gate
+    author: Kate Elliott
+  - title: The Crossroads Series
+    author: Kate Elliott

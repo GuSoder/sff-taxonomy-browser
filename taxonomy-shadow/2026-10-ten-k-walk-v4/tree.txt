@@ -370,26 +370,39 @@
                       - Lauren Wiesebrock
       [epic-fantasy] Epic fantasy
         [military-fantasy] Military fantasy
-          [ranks-and-companies] Ranks and Companies NEW (10)
-            - True Bastards
-            - The Heroes
-            - Land Fit for Heroes
-            - Malazan Book of the Fallen
-            - The Traitor Son Cycle
-            - Under the Northern Sky
-            - Crossroads (Elliott)
-            - The Free Ruckley
-            - Grim Company
-            - Adrian Selby
+          [ranks-and-companies] Ranks and Companies NEW
+            [armies-in-the-field] Armies in the field NEW (6)
+              - The Heroes
+              - Land Fit for Heroes
+              - Malazan Book of the Fallen
+              - The Traitor Son Cycle
+              - Under the Northern Sky
+              - Crossroads (Elliott)
+            [mercenary-companies] Mercenary companies NEW (4)
+              - True Bastards
+              - The Free Ruckley
+              - Grim Company
+              - Adrian Selby
           [mages-at-war] Mages at War NEW
-            [war-mages-and-armies] War mages and armies NEW (7)
-              - Age of Darkness (Aryan)
-              - The Poppy War
-              - The Ascendant Trilogy
-              - Demontech
-              - Rage of Dragons
-              - Steel Crow Saga
-              - Great God's War
+            [war-mages-and-armies] War mages and armies NEW
+              [war-against-empires] War against empires NEW (9)
+                - The Poppy War
+                - Rage of Dragons
+                - Steel Crow Saga
+                - The Ascendant Trilogy
+                - Sundered World
+                - Empires of Dust
+                - Shackle Last War
+                - Brian McClellan
+                - John Marco Tyrants and Kings
+              [war-against-dark-lords] War against dark lords NEW (7)
+                - Age of Darkness (Aryan)
+                - Demontech
+                - Great God's War
+                - Ascendant Kingdoms
+                - Chaos Born
+                - Ian Irvine
+                - Raven's Mark
             [wars-of-peoples] Wars of peoples NEW
               [amicae-rooks-and-ashen] Amicae, rooks and ashen wars NEW (6)
                 - Chronicles of Amicae
@@ -951,15 +964,13 @@
                     - Angus Watson Standalones
               [wars-of-wizards] Wars of wizards NEW
                 [riftwar-and-kin] Riftwar and kin NEW
-                  [usurpers-and-sundered-worlds] Usurpers and sundered worlds NEW (8)
+                  [usurpers-and-sundered-worlds] Usurpers and sundered worlds NEW (6)
                     - Isyllt Iskaldur
                     - Books of the Usurper
                     - Dragon Waiting
                     - C S Friedman fantasy
                     - Fallon
                     - Fultz Seven
-                    - Sundered World
-                    - Chaos Born
                   [riftwar-cycle] Riftwar cycle NEW (7)
                     - The Riftwar Saga
                     - Feist standalone
@@ -973,16 +984,12 @@
                     [mercenary-and-sea-sagas] Mercenaries, knights and sea sagas NEW
                       [mercenaries-and-knights] Mercenaries and knights NEW
                         [mercenary-bands-and-seers] Mercenary bands and seers NEW
-                          [warlords-and-powder-mages] Warlords and powder mages NEW (7)
-                            - John Marco Tyrants and Kings
+                          [warlords-and-powder-mages] Warlords and powder mages NEW (4)
                             - Corvis Rebaine
                             - Blade of Black Steel Crown for Cold Silv
-                            - Brian McClellan
-                            - Raven's Mark
                             - Blade of Black Steel Crown for Cold Silver
                             - Markswoman
-                          [mercenary-bands] Mercenary bands NEW (9)
-                            - Ian Irvine
+                          [mercenary-bands] Mercenary bands NEW (8)
                             - Shadow Raiders
                             - Forsaken Lands
                             - Steelborn / Last Vigilant
@@ -1000,15 +1007,13 @@
                                 - Dragon Griaule
                                 - Skovron Red
                                 - Phoenix Rising Balanced Sword
-                              [outlaw-realms] Outlaw realms NEW (7)
+                              [outlaw-realms] Outlaw realms NEW (5)
                                 - Gallow
                                 - Hickman game fantasy
-                                - Ascendant Kingdoms
                                 - Seascape Tattoo
                                 - Goddess War
-                                - Empires of Dust
                                 - Iron Age Trilogy
-                            [hunters-orcs-and-rovers] Hunters, orcs and rovers NEW (8)
+                            [hunters-orcs-and-rovers] Hunters, orcs and rovers NEW (7)
                               - Recluce Cyador
                               - Arcanum Morden
                               - Dragon Hunters Naslund
@@ -1016,7 +1021,6 @@
                               - Demon Overlord Band of Others
                               - Rover Odom
                               - Seven-Petaled Shield
-                              - Shackle Last War
                           [paladins-and-crusaders] Paladins and crusaders NEW (10)
                             - Crusade of Fire
                             - Watchtower

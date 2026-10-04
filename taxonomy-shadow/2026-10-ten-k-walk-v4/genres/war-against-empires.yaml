@@ -1,0 +1,87 @@
+id: war-against-empires
+label: War against empires
+parent: war-mages-and-armies
+origin: shadow-v4
+definition: War fantasy where sorcerers and armies fight an invading or occupying empire.
+cards:
+- name: The Poppy War
+  origin: v3
+  books:
+  - title: The Complete Poppy War Trilogy
+    author: R F Kuang
+  - title: The Poppy War Collection
+    author: R F Kuang
+- name: Rage of Dragons
+  origin: v3
+  books:
+  - title: The Fires of Vengeance
+    author: Evan Winter
+  - title: The Rage of Dragons
+    author: Evan Winter
+- name: Steel Crow Saga
+  origin: v3
+  books:
+  - title: Steel Crow Saga
+    author: Individual Artists
+  - title: Steel Crow Saga
+    author: Paul Krueger
+- name: The Ascendant Trilogy
+  origin: original
+  books:
+  - title: The Tiger's Daughter
+    author: K Arsenault Rivera
+  - title: The Phoenix Empress
+    author: K Arsenault Rivera
+  - title: The Warrior Moon
+    author: K Arsenault Rivera
+- name: Sundered World
+  origin: v3
+  books:
+  - title: Shadow of the Void
+    author: Nathan Garrison
+  - title: The Light That Binds
+    author: Nathan Garrison
+  - title: Veiled Empire
+    author: Nathan Garrison
+- name: Empires of Dust
+  origin: v3
+  books:
+  - title: The Court of Broken Knives
+    author: Anna Smith Spark
+  - title: The House of Sacrifice
+    author: Anna Smith Spark
+  - title: The Tower of Living and Dying
+    author: Anna Smith Spark
+- name: Shackle Last War
+  origin: v3
+  books:
+  - title: A Fool's Hope
+    author: Mike Shackle
+  - title: Until the Last
+    author: Mike Shackle
+  - title: We Are The Dead
+    author: Mike Shackle
+- name: Brian McClellan
+  origin: v3
+  books:
+  - title: War Cry
+    author: Brian McClellan
+  - title: In the Shadow of Lightning
+    author: Brian McClellan
+- name: John Marco Tyrants and Kings
+  origin: v3
+  books:
+  - title: The Grand Design
+    author: John Marco
+  - title: The Saints of the Sword
+    author: John Marco
+  - title: The Eyes of God
+    author: John Marco
+  - title: The Devil's Armor
+    author: John Marco
+  - title: The Sword of Angels
+    author: John Marco
+  - title: The Forever Knight
+    author: John Marco
+  - title: The Jackal of Nar
+    author: John Marco

@@ -1,0 +1,75 @@
+id: war-against-dark-lords
+label: War against dark lords
+parent: war-mages-and-armies
+origin: shadow-v4
+definition: War fantasy where sorcerers and armies fight a dark lord, a demon host or a returning evil.
+cards:
+- name: Age of Darkness (Aryan)
+  origin: v3
+  books:
+  - title: Battlemage
+    author: Stephen Aryan
+  - title: Bloodmage
+    author: Stephen Aryan
+  - title: Chaosmage
+    author: Stephen Aryan
+- name: Demontech
+  origin: v3
+  books:
+  - title: 'Demontech: Onslaught'
+    author: David Sherman
+  - title: 'Demontech: Gulf Run'
+    author: David Sherman
+  - title: 'Demontech: Rally Point'
+    author: David Sherman
+- name: Great God's War
+  origin: v3
+  books:
+  - title: Seventh Decimate
+    author: Stephen Donaldson
+  - title: The Killing God
+    author: Stephen Donaldson
+  - title: The War Within
+    author: Stephen Donaldson
+- name: Ascendant Kingdoms
+  origin: v3
+  books:
+  - title: Ice Forged
+    author: Gail Z. Martin
+  - title: Reign of Ash
+    author: Gail Z. Martin
+  - title: Shadow and Flame
+    author: Gail Z. Martin
+  - title: War of Shadows
+    author: Gail Z. Martin
+- name: Chaos Born
+  origin: v3
+  books:
+  - title: Children of Fire (The Chaos Born, Book One)
+    author: Drew Karpyshyn
+  - title: The Scorched Earth
+    author: Drew Karpyshyn
+  - title: Chaos Unleashed
+    author: Drew Karpyshyn
+- name: Ian Irvine
+  origin: v3
+  books:
+  - title: Justice
+    author: Ian Irvine
+  - title: Rebellion
+    author: Ian Irvine
+  - title: The Fatal Gate
+    author: Ian Irvine
+  - title: The Summon Stone
+    author: Ian Irvine
+  - title: Vengeance
+    author: Ian Irvine
+- name: Raven's Mark
+  origin: v3
+  books:
+  - title: Blackwing
+    author: Ed McDonald
+  - title: Ravencry
+    author: Ed McDonald
+  - title: Crowfall
+    author: Ed McDonald

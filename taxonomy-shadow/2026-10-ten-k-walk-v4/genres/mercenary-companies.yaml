@@ -1,0 +1,36 @@
+id: mercenary-companies
+label: Mercenary companies
+parent: ranks-and-companies
+origin: shadow-v4
+definition: 'Fantasy war told from inside a hired company or band: pay, loyalty, bastards and old killers.'
+cards:
+- name: True Bastards
+  origin: v3
+  books:
+  - title: The True Bastards
+    author: Jonathan French
+  - title: The Free Bastards
+    author: Jonathan French
+- name: The Free Ruckley
+  origin: v3
+  books:
+  - title: The Free
+    author: Brian Ruckley
+- name: Grim Company
+  origin: v3
+  books:
+  - title: The Grim Company
+    author: Luke Scull
+  - title: Sword of the North
+    author: Luke Scull
+  - title: Dead Man's Steel
+    author: Luke Scull
+- name: Adrian Selby
+  origin: v3
+  books:
+  - title: Brother Red
+    author: Adrian Selby
+  - title: Snakewood
+    author: Adrian Selby
+  - title: The Winter Road
+    author: Adrian Selby

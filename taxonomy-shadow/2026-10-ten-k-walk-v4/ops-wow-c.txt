@@ -1,0 +1,32 @@
+# military-fantasy: split the two full leaves by what the content shows (company vs army, enemy of the war)
+new|mercenary-companies|Mercenary companies|ranks-and-companies|Fantasy war told from inside a hired company or band: pay, loyalty, bastards and old killers.
+new|armies-in-the-field|Armies in the field|ranks-and-companies|Fantasy war told from the ranks of a national or imperial army: campaigns, battles, officers and veterans.
+move|True Bastards|ranks-and-companies|mercenary-companies
+move|The Free Ruckley|ranks-and-companies|mercenary-companies
+move|Grim Company|ranks-and-companies|mercenary-companies
+move|Adrian Selby|ranks-and-companies|mercenary-companies
+move|The Heroes|ranks-and-companies|armies-in-the-field
+move|Land Fit for Heroes|ranks-and-companies|armies-in-the-field
+move|Malazan Book of the Fallen|ranks-and-companies|armies-in-the-field
+move|The Traitor Son Cycle|ranks-and-companies|armies-in-the-field
+move|Under the Northern Sky|ranks-and-companies|armies-in-the-field
+move|Crossroads (Elliott)|ranks-and-companies|armies-in-the-field
+new|war-against-empires|War against empires|war-mages-and-armies|War fantasy where sorcerers and armies fight an invading or occupying empire.
+new|war-against-dark-lords|War against dark lords|war-mages-and-armies|War fantasy where sorcerers and armies fight a dark lord, a demon host or a returning evil.
+move|The Poppy War|war-mages-and-armies|war-against-empires
+move|Rage of Dragons|war-mages-and-armies|war-against-empires
+move|Steel Crow Saga|war-mages-and-armies|war-against-empires
+move|The Ascendant Trilogy|war-mages-and-armies|war-against-empires
+move|Sundered World|usurpers-and-sundered-worlds|war-against-empires
+move|Empires of Dust|outlaw-realms|war-against-empires
+move|Shackle Last War|hunters-orcs-and-rovers|war-against-empires
+move|Brian McClellan|warlords-and-powder-mages|war-against-empires
+move|John Marco Tyrants and Kings|warlords-and-powder-mages|war-against-empires
+move|Age of Darkness (Aryan)|war-mages-and-armies|war-against-dark-lords
+move|Demontech|war-mages-and-armies|war-against-dark-lords
+move|Great God's War|war-mages-and-armies|war-against-dark-lords
+move|Ascendant Kingdoms|outlaw-realms|war-against-dark-lords
+move|Chaos Born|usurpers-and-sundered-worlds|war-against-dark-lords
+move|Ian Irvine|mercenary-bands|war-against-dark-lords
+move|Raven's Mark|warlords-and-powder-mages|war-against-dark-lords
+# duplicate cards found in this subtree

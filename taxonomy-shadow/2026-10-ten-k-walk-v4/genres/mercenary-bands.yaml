@@ -4,19 +4,6 @@ parent: mercenary-bands-and-seers
 origin: shadow-v3
 definition: Mercenary bands and shadow raiders.
 cards:
-- name: Ian Irvine
-  origin: v3
-  books:
-  - title: Justice
-    author: Ian Irvine
-  - title: Rebellion
-    author: Ian Irvine
-  - title: The Fatal Gate
-    author: Ian Irvine
-  - title: The Summon Stone
-    author: Ian Irvine
-  - title: Vengeance
-    author: Ian Irvine
 - name: Shadow Raiders
   origin: v3
   books:
