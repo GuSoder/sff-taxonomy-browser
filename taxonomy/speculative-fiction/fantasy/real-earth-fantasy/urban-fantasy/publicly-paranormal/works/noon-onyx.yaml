@@ -1,0 +1,33 @@
+id: noon-onyx
+title: Noon Onyx
+authors:
+- Jill Archer
+first_published: 2012
+canonical_genre: publicly-paranormal
+placement_status: accepted
+placement_rationale: 'Jill Archer''s Noon Onyx novels (Dark Light of Day, Fiery Edge of Steel, White Heart of Justice; Ace):
+  Armageddon is over and the demons won, and the surviving world runs under patron demons, a tribute system and rules that
+  keep the demons from warring; Noon Onyx, a young woman, studies and works inside that order and the conflicts it breeds.
+  Root-down: Fantasy -> Real earth fantasy -> Urban fantasy; demons are openly known and absorbed into civic life, so Publicly
+  paranormal.'
+books:
+- title: Dark Light of Day
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7492145-L.jpg
+- title: Fiery Edge of Steel
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7751135-L.jpg
+- title: White Heart of Justice
+  year: 2014
+  cover_url: https://images.penguinrandomhouse.com/cover/9780698139671
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7492145-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04550, MC04551, MC04552)
+placement_history:
+- date: '2026-10-04'
+  to: publicly-paranormal
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
