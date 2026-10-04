@@ -5,3 +5,6 @@ Commission: phonemsg-01M43MYMGAMQTNA3CY402KK7FB (+ pause correction phonemsg-01M
 - Original-tree findings: Age of Ash and Blade of Dream (Abraham, Kithamar trilogy) are two original cards for one series; Judge of Worlds folded onto age-of-ash. social-dystopia-modern is an umbrella but its works/ folder holds 10 yaml files.
 - 4:42 PM: split of earthly-comic-fantasy executed in overlay (Mythic farce 3 / Screwball fantasy 5 / Comic noir 2), approved phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6. Umbrella has 0 cards. Intake resumed.
 - 4:46 PM: otherworld-fantasy hit 10 (Amira & Hamza). Split proposal sent; intake paused.
+
+## 2026-10-04 17:15 - overlay moved to live
+All 96 walked rows are in the live tree or held (commit 42568614 and e4fdefa0). From here the original tree is the only working tree; this overlay is frozen. Resume at MC01356 Bound by Fate after the Otherworld fantasy split answer.
