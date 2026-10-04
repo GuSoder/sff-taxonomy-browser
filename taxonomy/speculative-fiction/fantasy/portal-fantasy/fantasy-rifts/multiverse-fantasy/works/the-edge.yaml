@@ -1,0 +1,35 @@
+id: the-edge
+title: The Edge
+authors:
+- Ilona Andrews
+first_published: 2009
+canonical_genre: multiverse-fantasy
+placement_status: accepted
+placement_rationale: 'Ilona Andrews'' Novels of the Edge (On the Edge, Bayou Moon, Fate''s Edge, Steel''s Edge): the Edge
+  is a border strip between the Broken, our world where magic is a fairy tale, and the Weird, a magic realm of blueblood aristocrats
+  and changelings, with Edgers who can cross between them (author site, Penguin Random House). A system of several worlds
+  with different magic levels is the premise: Multiverse fantasy.'
+books:
+- title: On the Edge
+  year: 2009
+  cover_url: https://images.penguinrandomhouse.com/cover/9781101140376
+- title: Bayou Moon
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6597936-L.jpg
+- title: Fate's Edge
+  year: 2011
+  cover_url: https://images.penguinrandomhouse.com/cover/9780441020867
+- title: Steel's Edge
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7481508-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9781101140376
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03958, MC03941, MC03942, MC03959)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
