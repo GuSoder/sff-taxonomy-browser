@@ -1,0 +1,13 @@
+id: griot
+cards:
+- name: The Dance of Shadows (Rogba Payne)
+  why: Real author Rogba Payne (queue author 'Coming Of Age' is a listing label, and the Kirkus blurb
+    in cache belongs to Yelena Black's different book). West African-inspired epic (Aldiss Award for world
+    building); culture does the work
+  books:
+  - id: MC01922
+    title: The Dance of Shadows
+    author: Coming Of Age
+  - id: MC01920
+    title: A Testimony of Blood
+    author: Coming Of Age
