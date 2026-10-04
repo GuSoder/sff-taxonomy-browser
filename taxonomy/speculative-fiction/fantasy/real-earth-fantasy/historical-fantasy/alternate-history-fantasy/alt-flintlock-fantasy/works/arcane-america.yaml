@@ -1,0 +1,27 @@
+id: arcane-america
+title: Arcane America
+authors:
+- Kevin J. Anderson
+- Sarah A. Hoyt
+first_published: 2018
+canonical_genre: alt-flintlock-fantasy
+placement_status: accepted
+placement_rationale: 'Kevin J. Anderson and Sarah A. Hoyt''s Arcane America (Uncharted): after a magical battle destroys Halley''s
+  Comet in 1759, the Sundering cuts the New World off from the Old and fills America with magic; in 1803 Meriwether Lewis
+  sets out across a changed continent (Baen, Booklist). Openly rewritten history of the musket age and early American frontier,
+  with magic as the engine: Alt flintlock fantasy.'
+books:
+- title: Uncharted
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/13346056-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13346056-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05511)
+placement_history:
+- date: '2026-10-04'
+  to: alt-flintlock-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,31 @@
+id: wake-the-dragon
+title: Wake the Dragon
+authors:
+- Kevin J. Anderson
+first_published: 2019
+canonical_genre: military-fantasy
+placement_status: accepted
+placement_rationale: 'Kevin J. Anderson''s Wake the Dragon trilogy (Spine of the Dragon, Vengewar, Gods and Dragons): two
+  continents, the Three Kingdoms and Ishara, fight a thousand-year war, then must ally against a reawakened ancient race (Macmillan).
+  Armies, campaigns and war drive the books: Military fantasy.'
+books:
+- title: Spine of the Dragon
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9335036-L.jpg
+- title: Vengewar
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10635266-L.jpg
+- title: Gods and Dragons
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/11461905-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9335036-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05509, MC05512, MC05507)
+placement_history:
+- date: '2026-10-04'
+  to: military-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

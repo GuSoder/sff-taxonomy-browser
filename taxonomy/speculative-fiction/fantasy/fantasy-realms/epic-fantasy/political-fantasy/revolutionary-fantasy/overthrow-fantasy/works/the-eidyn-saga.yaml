@@ -1,0 +1,32 @@
+id: the-eidyn-saga
+title: The Eidyn Saga
+authors:
+- Justin Lee Anderson
+first_published: 2020
+canonical_genre: overthrow-fantasy
+placement_status: accepted
+placement_rationale: 'Justin Lee Anderson''s Eidyn Saga (The Lost War, The Bitter Crown, The Damned King), set in a kingdom
+  drawn from Edinburgh''s history and myth: a road-trip hunt for the king''s missing son exposes a conspiracy at the heart
+  of Eidyn, then escalates into full-scale revolution and a siege of the kingdom''s last bastion (Hachette, author site).
+  A civil war remakes the state from within: Overthrow fantasy.'
+books:
+- title: The Lost War
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/11551253-L.jpg
+- title: The Bitter Crown
+  year: 2022
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9780316454308.jpg
+- title: The Damned King
+  year: 2023
+  cover_url: https://images.penguinrandomhouse.com/cover/9780316454513
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11551253-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05080, MC05078, MC05079)
+placement_history:
+- date: '2026-10-04'
+  to: overthrow-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
