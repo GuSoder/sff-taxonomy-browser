@@ -1,19 +1,12 @@
 id: otherworld-fantasy
 label: Otherworld fantasy
 parent: fantasy-rifts
-children: []
-works:
-- the-fionavar-tapestry
-- red-moon-and-black-mountain
-- three-hearts-and-three-lions
-- the-dark-world
-- imajica
-- the-wizard-knight
-- the-ballad-of-perilous-graves
-- the-secret-market-of-the-dead
-- tessa-miyata-is-no-hero
-- amira-hamza
+children:
+- otherworld-summonings
+- otherworld-stumblings
+- wainscot-fantasy
+works: []
 image: 223-otherworld-fantasy.webp
 definition: Portal fantasy in which one hidden mythic world lies behind ours, waiting to be found, revealed or reconciled (Encyclopedia of Fantasy 'Otherworld', the
-  Faerie line). A system of many worlds is the sibling shelf, Multiverse fantasy.
-status: accepted
+  Faerie line). A system of many worlds is the sibling shelf, Multiverse fantasy. Umbrella split at ten cards into Otherworld summonings (the protagonists are called across), Otherworld stumblings (they slip or are thrown in) and Wainscot fantasy (the hidden world already sits beside ours), under curator approval phonemsg-01M43V766YS0W3Z2NVW9CY6NTJ 2026-10-04.
+status: provisional
