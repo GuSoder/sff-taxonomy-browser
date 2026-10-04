@@ -3,7 +3,7 @@ title: The Aleutian Trilogy
 authors:
 - Gwyneth Jones
 first_published: 1991
-canonical_genre: alien-invasion-fiction
+canonical_genre: alien-conquest-fiction
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -13,9 +13,16 @@ books:
 - title: North Wind
   year: 1994
   cover_url: https://covers.openlibrary.org/b/id/182772-L.jpg
-- title: "Phoenix Caf\xE9"
+- title: Phoenix Café
   year: 1997
 cover_curation:
   status: partial
   selected_url: https://www.hachette.co.uk/wp-content/uploads/2021/03/hbg-title-white-queen-2-28.jpg
   audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.
+placement_history:
+- date: '2026-10-04'
+  from: alien-invasion-fiction
+  to: alien-conquest-fiction
+  reason: Split of Alien invasion fiction at ten cards, split-with-umbrella, by how the invaders take the world (openly by
+    force, or from within); curator "Approved", 2026-10-04 10:32 PM (after the proposal naming Alien conquest fiction and
+    Alien infiltration fiction), relayed by the parent.

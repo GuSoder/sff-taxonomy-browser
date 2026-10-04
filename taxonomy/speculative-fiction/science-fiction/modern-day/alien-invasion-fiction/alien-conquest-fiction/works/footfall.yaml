@@ -4,7 +4,7 @@ authors:
 - Larry Niven
 - Jerry Pournelle
 first_published: 1985
-canonical_genre: alien-invasion-fiction
+canonical_genre: alien-conquest-fiction
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -15,3 +15,10 @@ cover_curation:
   selected_url: https://upload.wikimedia.org/wikipedia/en/b/b0/Footfall%281stEd%29.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-04'
+  from: alien-invasion-fiction
+  to: alien-conquest-fiction
+  reason: Split of Alien invasion fiction at ten cards, split-with-umbrella, by how the invaders take the world (openly by
+    force, or from within); curator "Approved", 2026-10-04 10:32 PM (after the proposal naming Alien conquest fiction and
+    Alien infiltration fiction), relayed by the parent.

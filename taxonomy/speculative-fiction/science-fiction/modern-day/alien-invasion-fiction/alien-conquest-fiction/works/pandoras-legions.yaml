@@ -3,7 +3,7 @@ title: Pandora's Legions
 authors:
 - Christopher Anvil
 first_published: 2002
-canonical_genre: alien-invasion-fiction
+canonical_genre: alien-conquest-fiction
 placement_status: accepted
 placement_rationale: 'Christopher Anvil''s Pandora''s Legions (Baen, 2002; Baen sells it as the complete novel behind Pandora''s
   Planet): the benevolent but complacent Centran Empire conquers Earth, then finds that Earth, its Pandora''s Planet, is a
@@ -25,3 +25,9 @@ placement_history:
 - date: '2026-10-04'
   to: alien-invasion-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-04'
+  from: alien-invasion-fiction
+  to: alien-conquest-fiction
+  reason: Split of Alien invasion fiction at ten cards, split-with-umbrella, by how the invaders take the world (openly by
+    force, or from within); curator "Approved", 2026-10-04 10:32 PM (after the proposal naming Alien conquest fiction and
+    Alien infiltration fiction), relayed by the parent.

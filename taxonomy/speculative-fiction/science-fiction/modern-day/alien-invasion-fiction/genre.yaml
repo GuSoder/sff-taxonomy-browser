@@ -1,18 +1,13 @@
 id: alien-invasion-fiction
 label: Alien invasion fiction
 parent: modern-day
-children: []
+children:
+- alien-conquest-fiction
+- alien-infiltration-fiction
 image: 4-alien-invasion-fiction.webp
-definition: Science fiction centered on extraterrestrial forces attacking, occupying, colonizing, or attempting to conquer Earth or another human world.
+definition: 'Science fiction centered on extraterrestrial forces attacking, occupying, colonizing, or attempting to conquer
+  Earth or another human world. Umbrella split at ten cards by how the invaders take the world: Alien conquest fiction (openly,
+  by force), Alien infiltration fiction (from within); curator "Approved", 2026-10-04 10:32 PM (after the proposal naming
+  Alien conquest fiction and Alien infiltration fiction), relayed by the parent.'
 status: accepted
-works:
-- the-aleutian-trilogy
-- footfall
-- the-war-of-the-worlds
-- the-midwich-cuckoos
-- annex
-- nova-express
-- the-puppet-masters
-- the-wormwood-trilogy
-- the-domain-series
-- pandoras-legions
+works: []
