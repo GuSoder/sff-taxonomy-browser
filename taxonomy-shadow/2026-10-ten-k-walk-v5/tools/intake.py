@@ -34,13 +34,24 @@ def orig_by_author():
         for au in w.get('authors') or []:
             a.setdefault(norm(str(au)),[]).append((w.get('id'),w.get('title'),f.split('speculative-fiction/')[1].split('/works')[0].split('/')[-1],(w.get('included_titles') or [])))
     return a
+def apply_edits(n):
+    p=IN+'/_edits.yaml'
+    if not os.path.exists(p): return n
+    e=yaml.safe_load(open(p)) or {}
+    for g in e.get('new_genres',[]):
+        n[g['id']]={'id':g['id'],'label':g['label'],'parent':g['parent'],'definition':g['definition'],'children':[],'nworks':0,'dir':None}
+        n[g['parent']].setdefault('children',[]) 
+        if n[g['parent']]['children'] is None: n[g['parent']]['children']=[]
+        n[g['parent']]['children'].append(g['id'])
+    for leaf,ws in (e.get('moved_out') or {}).items(): n[leaf]['nworks']-=len(ws)
+    return n
 def load_leaf(l):
     p=f'{IN}/{l}.yaml'
     return yaml.safe_load(open(p)) if os.path.exists(p) else {'id':l,'cards':[]}
 def save_leaf(g): yaml.safe_dump(g,open(f"{IN}/{g['id']}.yaml",'w'),sort_keys=False,allow_unicode=True,width=100)
 def ncards(n,l): return n[l]['nworks']+len(load_leaf(l)['cards'])
 if __name__=='__main__':
-    c=sys.argv[1]; n=otree.load()
+    c=sys.argv[1]; n=apply_edits(otree.load())
     if c=='next':
         k=int(sys.argv[2]) if len(sys.argv)>2 else 5; d=done(); ot=orig_titles(); oa=orig_by_author(); s=0
         for x in Q:
