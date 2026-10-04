@@ -1,0 +1,32 @@
+id: westside-gilda-carr
+title: Westside (Gilda Carr)
+authors:
+- W. M. Akers
+first_published: 2019
+canonical_genre: bowler-hat-fantasy
+placement_status: accepted
+placement_rationale: W. M. Akers' Gilda Carr novels (Westside, Westside Saints, Westside Lights) are set in an alternate 1921
+  Manhattan split by a fence, where a private eye solves 'tiny mysteries' through the supernatural. The Jazz Age city is the
+  stage and the detective frame is its mode; the setting is the American 1900-1929 city, so Bowler hat fantasy is the home,
+  not the invented-world Fantasy mystery.
+books:
+- title: Westside
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8797877-L.jpg
+- title: Westside Saints
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/12437809-L.jpg
+- title: Westside Lights
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13136182-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8797877-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC10031, MC10033, MC10032)
+placement_history:
+- date: '2026-10-04'
+  to: bowler-hat-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
