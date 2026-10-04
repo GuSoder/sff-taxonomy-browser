@@ -37,15 +37,6 @@ cards:
   books:
   - title: The Seer
     author: Sonia Orin Lyris
-- name: Dagger and Coin
-  origin: v3
-  books:
-  - title: Blood of the Gods
-    author: David Mealing
-  - title: Chains of the Earth
-    author: David Mealing
-  - title: Soul of the World
-    author: David Mealing
 - name: Company of Heroes
   origin: v3
   books:
@@ -59,20 +50,3 @@ cards:
     author: Ron Miller
   - title: 'A Company of Heroes Book Two: The Fabulist'
     author: Ron Miller
-- name: Corean Chronicles
-  origin: v3
-  books:
-  - title: Alector's Choice
-    author: L. E. Modesitt
-  - title: Cadmian's Choice
-    author: L. E. Modesitt
-  - title: Soarer's Choice
-    author: L. E. Modesitt
-  - title: The Hammer of Darkness
-    author: L. E. Modesitt
-  - title: Darknesses
-    author: L. E. Modesitt
-  - title: Legacies
-    author: L. E. Modesitt
-  - title: The Ghost of the Revelator
-    author: L.E. Modesitt

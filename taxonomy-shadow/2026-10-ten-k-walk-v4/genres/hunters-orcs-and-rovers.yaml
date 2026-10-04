@@ -4,19 +4,6 @@ parent: kingdoms-and-outlaws
 origin: shadow-v3
 definition: Questing bands.
 cards:
-- name: Recluce Cyador
-  origin: v3
-  books:
-  - title: Overcaptain
-    author: L. E. Modesitt
-  - title: Sub-Majer's Challenge
-    author: L. E. Modesitt
-  - title: Last of the First
-    author: L. E. Modesitt
-  - title: In Endless Twilight
-    author: L.E. Modesitt
-  - title: The Silent Warrior
-    author: L.E. Modesitt
 - name: Arcanum Morden
   origin: v3
   books:
