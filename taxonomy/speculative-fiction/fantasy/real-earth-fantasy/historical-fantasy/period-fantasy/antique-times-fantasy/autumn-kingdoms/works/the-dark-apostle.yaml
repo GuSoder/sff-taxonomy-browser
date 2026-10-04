@@ -22,13 +22,19 @@ books:
 - title: The Burning
   year: 2013
   cover_url: https://images.penguinrandomhouse.com/cover/9780698144743
+- title: Elisha Mancer
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10413655-L.jpg
+- title: Elisha Daemon
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/14795610-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/7631908-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC02696, MC02698, MC02700, MC02701)
+intake: ten-k walk v5 (queue ids MC02696, MC02698, MC02700, MC02701, MC02699, MC02697)
 placement_history:
 - date: '2026-10-04'
   to: autumn-kingdoms
