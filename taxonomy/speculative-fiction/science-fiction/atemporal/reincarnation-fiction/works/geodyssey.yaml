@@ -1,0 +1,29 @@
+id: geodyssey
+title: Geodyssey
+authors:
+- Piers Anthony
+first_published: 1997
+canonical_genre: reincarnation-fiction
+placement_status: accepted
+placement_rationale: 'Piers Anthony''s Geodyssey saga (Tor), of which the queue holds Hope of Earth and Climate of Change:
+  the history of humanity told through families whose souls are reborn again and again across eras, from prehistory on. Root-down:
+  Speculative fiction -> Science fiction; reincarnation is the linking device across lifetimes and eras, so Reincarnation
+  fiction.'
+books:
+- title: Hope of Earth
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/182731-L.jpg
+- title: Climate of Change
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/10420468-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182731-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07812, MC07809)
+placement_history:
+- date: '2026-10-04'
+  to: reincarnation-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
