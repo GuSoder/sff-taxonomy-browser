@@ -11,7 +11,7 @@ Values: has_magic true/false/?; is_real_earth true/false/?; setting earth_now|ea
 
 ## Final numbers
 - Every row of the 10k list has a decision: placed, or held with a named reason. Titan rows (about 2,029) were skipped at my judgment and are not counted.
-- 8,132 works placed, 4,280 cards, 661 leaves, all leaves at 10 or fewer cards.
+- 8,132 works placed, 4,282 cards, 661 leaves, all leaves at 10 or fewer cards.
 - 1,937 rows held (holds-by-reason.md lists 1,939; a 2-row difference I did not chase).
 - 128 folds onto existing cards. No new seeds in v3; the 7 v2 seeds are unchanged.
 - Splits keep the umbrella: the split node stays at 0 direct cards and the children are added.
@@ -47,3 +47,6 @@ Second scan, now by normalized name, near name and author, against the original 
 
 ## Files
 results2.txt (card placements, v3 lines tagged v3), seeds2.txt, splits2.txt, holds3.txt, decided.txt, research.jsonl (blurbs), rehome-todo.txt (the original list of cards to re-home), m001-m006.txt (the re-home moves).
+
+## Black Company placement correction (Oct 4)
+The Black Company sat under Military fantasy > Ranks and Companies in the shadow render because of a leftover name in an early split list. Removed there; the original card is shown in its original-tree home, Pulp S&S under Classic S&S. The render now also lists the 3 works Pulp S&S holds directly (Fafhrd and the Gray Mouser, The Black Company, The Tritonian Ring), which it had omitted. Card count 4,282.

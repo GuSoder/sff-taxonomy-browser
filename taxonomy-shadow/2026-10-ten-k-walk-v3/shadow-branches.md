@@ -1,6 +1,6 @@
 # Shadow branches (v3 final tree)
 Definition: a new genre placed directly below a genre of the original tree, plus all its descendants and works. A new genre under another new genre belongs to that branch.
-191 branches, 7311 works in total (v1+v2+v3).
+191 branches, 7305 works in total (v1+v2+v3).
 
 | Top shadow genre | Parent (original genre) | Works | Cards | New genres in branch |
 |---|---|---|---|---|
@@ -68,7 +68,6 @@ Definition: a new genre placed directly below a genre of the original tree, plus
 | Vampire literature and clubs | Vampire fringe | 27 | 15 | 3 |
 | Sellsword Fellowships | Fellowship quest fantasy | 27 | 7 | 1 |
 | Leagues and commonwealths | Future history in space | 27 | 11 | 3 |
-| Ranks and Companies | Military fantasy | 26 | 8 | 1 |
 | Councils and ministers | Court statecraft | 26 | 9 | 1 |
 | World hopping | Multiverse odyssey | 26 | 15 | 3 |
 | Fae in the Hills | Fae founders | 25 | 8 | 1 |
@@ -88,6 +87,7 @@ Definition: a new genre placed directly below a genre of the original tree, plus
 | Gothic houses | Dark realms | 21 | 15 | 3 |
 | Far-future suns | Dying earth | 21 | 10 | 1 |
 | Near centuries | Future history of Earth | 21 | 14 | 3 |
+| Ranks and Companies | Military fantasy | 20 | 7 | 1 |
 | Fairytale heroines turned | Fairytale inversion | 20 | 11 | 3 |
 | Doomed lands | Dark realms | 20 | 10 | 1 |
 | Alien minds and embassies | Far-future first contact | 20 | 9 | 1 |

@@ -73,6 +73,9 @@ def emit(i,d):
     n=ns[i]
     if kids[i]:
         out.append('  '*d+f'[{i}] {n["label"]}')
+        if i=='pulp-sword-and-sorcery':
+            for w in cards(i): out.append('  '*(d+1)+'- '+w)
+            ncards+=len(cards(i))
         for k in kids[i]: emit(k,d+1)
     elif i in splits:
         out.append('  '*d+f'[{i}] {n["label"]}  (umbrella, 0 direct cards, split in shadow)')
