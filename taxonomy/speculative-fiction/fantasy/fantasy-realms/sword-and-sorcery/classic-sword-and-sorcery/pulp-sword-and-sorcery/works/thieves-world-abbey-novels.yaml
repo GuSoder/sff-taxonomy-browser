@@ -1,0 +1,28 @@
+id: thieves-world-abbey-novels
+title: Thieves' World (Abbey novels)
+authors:
+- Lynn Abbey
+first_published: 2003
+canonical_genre: pulp-sword-and-sorcery
+placement_status: accepted
+placement_rationale: 'Thieves'' World novels (Abbey, 2002/2007): revival of the Sanctuary shared-world S&S line; Pulp S&S
+  def runs through the Black Company.'
+books:
+- title: Sanctuary
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/10141738-L.jpg
+- title: Rifkind's Challenge
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/524626-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10141738-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06165, MC06164)
+placement_history:
+- date: '2026-10-04'
+  to: pulp-sword-and-sorcery
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

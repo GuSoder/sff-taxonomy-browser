@@ -1,0 +1,24 @@
+id: throne-of-the-crescent-moon
+title: Throne of the Crescent Moon
+authors:
+- Saladin Ahmed
+first_published: 2012
+canonical_genre: khayal
+placement_status: accepted
+placement_rationale: 'Crescent Moon Kingdoms: ghul-hunter and djenn in an Arabian-Nights-drawn invented world.'
+books:
+- title: Throne of the Crescent Moon
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7267596-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7267596-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08521)
+placement_history:
+- date: '2026-10-04'
+  to: khayal
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

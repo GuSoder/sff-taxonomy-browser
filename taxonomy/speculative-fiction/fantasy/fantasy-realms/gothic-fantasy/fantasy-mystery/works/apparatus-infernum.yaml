@@ -1,0 +1,27 @@
+id: apparatus-infernum
+title: Apparatus Infernum
+authors:
+- A. A. Aguirre
+first_published: 2013
+canonical_genre: fantasy-mystery
+placement_status: accepted
+placement_rationale: 'Apparatus Infernum: CID inspectors investigating uncanny crimes in a steam-and-shadows invented city.'
+books:
+- title: Bronze Gods
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7633640-L.jpg
+- title: Silver Mirrors
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10806888-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7633640-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00203, MC00204)
+placement_history:
+- date: '2026-10-04'
+  to: fantasy-mystery
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

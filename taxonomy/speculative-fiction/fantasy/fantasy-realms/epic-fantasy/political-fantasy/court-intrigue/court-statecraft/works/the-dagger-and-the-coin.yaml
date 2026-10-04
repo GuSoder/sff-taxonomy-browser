@@ -1,0 +1,35 @@
+id: the-dagger-and-the-coin
+title: The Dagger and the Coin
+authors:
+- Daniel Abraham
+first_published: 2011
+canonical_genre: court-statecraft
+placement_status: accepted
+placement_rationale: 'Dagger and the Coin: banker, soldier, regent; war-finance statecraft.'
+books:
+- title: The Dragon's Path
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6716735-L.jpg
+- title: The King's Blood
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/10378050-L.jpg
+- title: The Widow's House
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10335773-L.jpg
+- title: The Spider's War
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8458551-L.jpg
+- title: The Tyrant's Law
+  cover_url: https://covers.openlibrary.org/b/id/7697798-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6716735-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02103, MC02104, MC02107, MC02108, MC02109)
+placement_history:
+- date: '2026-10-04'
+  to: court-statecraft
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

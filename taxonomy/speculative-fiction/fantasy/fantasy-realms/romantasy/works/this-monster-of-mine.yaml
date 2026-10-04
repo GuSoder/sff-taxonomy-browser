@@ -1,0 +1,25 @@
+id: this-monster-of-mine
+title: This Monster of Mine
+authors:
+- Shalini Abeysekara
+first_published: 2025
+canonical_genre: romantasy
+placement_status: accepted
+placement_rationale: Ancient-Rome-inspired romantasy, romance arc co-equal with plot (publisher blurb).
+books:
+- title: This Monster of Mine
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/14847504-L.jpg
+- title: This Blade of Ours
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14847504-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08750, MC08751)
+placement_history:
+- date: '2026-10-04'
+  to: romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

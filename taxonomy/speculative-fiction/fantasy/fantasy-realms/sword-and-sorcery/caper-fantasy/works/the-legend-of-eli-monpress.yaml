@@ -1,0 +1,31 @@
+id: the-legend-of-eli-monpress
+title: The Legend of Eli Monpress
+authors:
+- Rachel Aaron
+first_published: 2010
+canonical_genre: caper-fantasy
+placement_status: accepted
+placement_rationale: 'Thief-led capers: Eli Monpress and his crew steal their way across a spirit-ruled world, and the heist
+  is the engine.'
+books:
+- title: The Spirit Eater
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6671577-L.jpg
+- title: Spirit's End
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/10350183-L.jpg
+- title: The Spirit War
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7782801-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6671577-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07898, MC07899, MC07900)
+placement_history:
+- date: '2026-10-04'
+  to: caper-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

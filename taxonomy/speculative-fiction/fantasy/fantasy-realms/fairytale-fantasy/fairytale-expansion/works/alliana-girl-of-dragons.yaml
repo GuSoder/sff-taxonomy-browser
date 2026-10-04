@@ -1,0 +1,25 @@
+id: alliana-girl-of-dragons
+title: Alliana, Girl of Dragons
+authors:
+- Julie Abe
+first_published: 2022
+canonical_genre: fairytale-expansion
+placement_status: accepted
+placement_rationale: 'Kirkus: Cinderella with magic and dragons in the Eva Evergreen world = tale as seed for larger original
+  world.'
+books:
+- title: Alliana, Girl of Dragons
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/12881431-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/12881431-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05010)
+placement_history:
+- date: '2026-10-04'
+  to: fairytale-expansion
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

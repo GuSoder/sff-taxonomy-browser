@@ -1,0 +1,43 @@
+id: blood-singer
+title: Blood Singer
+authors:
+- Cat Adams
+first_published: 2010
+canonical_genre: publicly-paranormal
+placement_status: accepted
+placement_rationale: 'Blood Singer: Celia Graves bodyguard in a world where vampires roam and witchcraft is open (author site):
+  supernatural publicly known.'
+books:
+- title: Blood Song
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/12605074-L.jpg
+- title: Siren Song
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6598076-L.jpg
+- title: Demon Song
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765364241-L.jpg
+- title: The Isis Collar
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765367150-L.jpg
+- title: The Eldritch Conspiracy
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765367167-L.jpg
+- title: To Dance With the Devil
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/10081358-L.jpg
+- title: All Your Wishes
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8539872-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/12605074-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01457, MC01459, MC01458, MC01462, MC01461, MC01463, MC01460, MC01456)
+placement_history:
+- date: '2026-10-04'
+  to: publicly-paranormal
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

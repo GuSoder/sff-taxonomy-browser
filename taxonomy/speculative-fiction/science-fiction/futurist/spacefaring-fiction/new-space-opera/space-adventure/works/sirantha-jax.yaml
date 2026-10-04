@@ -1,0 +1,39 @@
+id: sirantha-jax
+title: Sirantha Jax
+authors:
+- Ann Aguirre
+first_published: 2008
+canonical_genre: space-adventure
+placement_status: accepted
+placement_rationale: 'Sirantha Jax: gene-carrier jump navigator on the run from the Corp; action-driven interstellar adventure.'
+books:
+- title: Grimspace
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/2421416-L.jpg
+- title: Wanderlust
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/7261268-L.jpg
+- title: Doubleblind
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6429209-L.jpg
+- title: Killbox
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6593803-L.jpg
+- title: Aftermath
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8283879-L.jpg
+- title: Endgame
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7684454-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2421416-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00677, MC00681, MC00675, MC00679, MC00673, MC00676)
+placement_history:
+- date: '2026-10-04'
+  to: space-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

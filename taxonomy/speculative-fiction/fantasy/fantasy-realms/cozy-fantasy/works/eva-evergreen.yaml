@@ -1,0 +1,27 @@
+id: eva-evergreen
+title: Eva Evergreen
+authors:
+- Julie Abe
+first_published: 2020
+canonical_genre: cozy-fantasy
+placement_status: accepted
+placement_rationale: MG witch story, warm small-community and craft stakes.
+books:
+- title: Eva Evergreen, Semi-Magical Witch
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/14432085-L.jpg
+- title: Eva Evergreen and the Cursed Witch
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11988900-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14432085-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05012, MC05011)
+placement_history:
+- date: '2026-10-04'
+  to: cozy-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

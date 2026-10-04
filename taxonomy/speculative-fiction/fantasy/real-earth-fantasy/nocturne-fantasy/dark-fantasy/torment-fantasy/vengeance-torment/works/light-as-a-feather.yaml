@@ -1,0 +1,24 @@
+id: light-as-a-feather
+title: Light as a Feather
+authors:
+- Zoe Aarsen
+first_published: 2013
+canonical_genre: vengeance-torment
+placement_status: accepted
+placement_rationale: 'Kirkus: supernatural mystery, foretold deaths pursue a circle of girls after a cursed game.'
+books:
+- title: Light as a Feather, Stiff as a Board
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/isbn/9781534444034-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9781534444034-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC10064)
+placement_history:
+- date: '2026-10-04'
+  to: vengeance-torment
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'

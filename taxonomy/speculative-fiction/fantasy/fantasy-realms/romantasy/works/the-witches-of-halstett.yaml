@@ -1,0 +1,27 @@
+id: the-witches-of-halstett
+title: The Witches of Halstett
+authors:
+- Katharine J. Adams
+first_published: 2023
+canonical_genre: romantasy
+placement_status: accepted
+placement_rationale: 'Witches of Halstett: witch heroine, magical rebellion, romance arc co-equal (Kirkus, publisher).'
+books:
+- title: Tonight, I Burn
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14538943-L.jpg
+- title: Tonight, I Bleed
+  year: 2025
+- title: Tonight, I Blaze
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14538943-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05328, MC05327, MC05326)
+placement_history:
+- date: '2026-10-04'
+  to: romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
