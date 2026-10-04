@@ -14,3 +14,6 @@ Proposal names now: Otherworld summonings, Otherworld castaways, Wainscot fantas
 
 ## 2026-10-04 18:15 - name update 4 (still unapproved)
 Proposal names now: Otherworld summonings, Otherworld stumblings, Wainscot fantasy (relayed by the parent). Assignment unchanged 4/4/2. Not executed; whole run paused until approval.
+
+## Pending (not approved): Hard magic split, 2026-10-04 6:27 PM
+Hard magic -> Bonded hard magic / Scripted hard magic / Channeled hard magic. Distribution 4/3/3 (Bonded: Codex Alera, Long Price Quartet, Book of Elementals, Spiritbinder Saga; Scripted: Founders, Old Kingdom, Middlegame; Channeled: Cosmere, Broken Earth, Wheel of Time). The earlier "approved" applied to the old names (Bonded/Scripted/Channeled magic) and was followed by "Wait". Whole run paused; nothing applied; next portraits 462-464.
