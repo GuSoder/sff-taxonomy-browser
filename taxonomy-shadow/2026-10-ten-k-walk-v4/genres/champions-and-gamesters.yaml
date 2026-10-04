@@ -4,13 +4,6 @@ parent: thieves-and-rogues
 origin: shadow-v3
 definition: Rogues, champions, gamesters.
 cards:
-- name: Zaria and Kane
-  origin: v3
-  books:
-  - title: To Deal with Kings
-    author: M.K. Lobb
-  - title: To Steal from Thieves
-    author: M.K. Lobb
 - name: Shadow Warrior
   origin: v3
   books:
@@ -57,15 +50,6 @@ cards:
   books:
   - title: The Knight
     author: Pierre Pevel
-- name: Sarah Jane Beauhall
-  origin: v3
-  books:
-  - title: Black Blade Blues
-    author: J. A. Pitts
-  - title: Honeyed Words
-    author: J. A. Pitts
-  - title: Forged in Fire
-    author: John A. Pitts
 - name: Jonesy Flux
   origin: v3
   books:
