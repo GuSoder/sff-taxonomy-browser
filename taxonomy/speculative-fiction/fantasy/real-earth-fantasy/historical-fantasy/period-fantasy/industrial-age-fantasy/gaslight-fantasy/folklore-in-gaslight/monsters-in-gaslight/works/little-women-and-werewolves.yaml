@@ -1,0 +1,25 @@
+id: little-women-and-werewolves
+title: Little Women and Werewolves
+authors:
+- Louisa May Alcott
+- Porter Grand
+first_published: 2010
+canonical_genre: monsters-in-gaslight
+placement_status: accepted
+placement_rationale: Porter Grand's 2010 mash-up gives the March sisters of 1860s New England a werewolf-haunted Concord.
+  Creature-lore (werewolves) walking the nineteenth-century world is the stage, which is Monsters in gaslight.
+books:
+- title: Little Women and Werewolves
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6440055-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6440055-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06126)
+placement_history:
+- date: '2026-10-04'
+  to: monsters-in-gaslight
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

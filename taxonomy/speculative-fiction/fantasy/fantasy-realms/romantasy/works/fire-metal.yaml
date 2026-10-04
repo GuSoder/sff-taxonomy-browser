@@ -1,0 +1,24 @@
+id: fire-metal
+title: Fire & Metal
+authors:
+- Rachel Schneider
+first_published: 2025
+canonical_genre: romantasy
+placement_status: accepted
+placement_rationale: 'Macmillan sells Rachel Schneider''s Fire & Metal (Metal Slinger, book one) as romantasy: a secondary-world
+  fantasy where the romance arc runs co-equal with the external stakes and metal-working magic.'
+books:
+- title: Metal Slinger
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15234945-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15234945-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00411)
+placement_history:
+- date: '2026-10-04'
+  to: romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
