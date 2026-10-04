@@ -1,0 +1,30 @@
+id: legacy-of-the-stone-harp
+title: Legacy of the Stone Harp
+authors:
+- James G. Anderson
+- Mark Sebanc
+first_published: 2009
+canonical_genre: destiny-quest-fantasy
+placement_status: accepted
+placement_rationale: 'James G. Anderson and Mark Sebanc''s Legacy of the Stone Harp (The Stoneholding, The Darkling Fields
+  of Arvon): the Stoneholding is razed by the dark lord Ferabek, and Kalaquinn Wright, a wheelwright''s son, flees with the
+  old High Bard and is invested as High Bard himself on the road to find the lost prince (Baen). The young hero''s rise to
+  his calling is the spine: Destiny quest fantasy.'
+books:
+- title: The Stoneholding
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/8456100-L.jpg
+- title: The Darkling Fields of Arvon
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/9536950-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8456100-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04172, MC04171)
+placement_history:
+- date: '2026-10-04'
+  to: destiny-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

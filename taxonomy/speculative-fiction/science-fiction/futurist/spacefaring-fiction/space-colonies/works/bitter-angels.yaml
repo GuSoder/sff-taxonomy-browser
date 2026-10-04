@@ -1,0 +1,25 @@
+id: bitter-angels
+title: Bitter Angels
+authors:
+- C. L. Anderson
+first_published: 2009
+canonical_genre: space-colonies
+placement_status: accepted
+placement_rationale: 'C. L. Anderson''s 2009 Philip K. Dick Award winner: in the Erasmus System, a failing slave colony run
+  by the Four Families, a Guardian is sent to investigate a colleague''s murder and uncovers a plot to make war on the solar
+  system (Penguin Random House). The colony''s institutions and politics are the arena: Space colonies.'
+books:
+- title: Bitter Angels
+  year: 2009
+  cover_url: https://images.penguinrandomhouse.com/cover/9780553592177
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780553592177
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01302)
+placement_history:
+- date: '2026-10-04'
+  to: space-colonies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

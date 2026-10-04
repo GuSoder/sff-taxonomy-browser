@@ -1,0 +1,32 @@
+id: the-sorcerers-song
+title: The Sorcerer's Song
+authors:
+- Brian D. Anderson
+first_published: 2020
+canonical_genre: fellowship-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Brian D. Anderson''s Sorcerer''s Song trilogy (The Bard''s Blade, A Chorus of Fire, The Sword''s Elegy):
+  a winemaker and a musician leave their magically sealed home when a stranger brings a prophecy of an ancient evil, and travel
+  the world with companions to stop it (Tor, Macmillan series page). The journey of a band against the ancient dark is the
+  spine: Fellowship quest fantasy.'
+books:
+- title: The Bard's Blade
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/isbn/9781250214645-L.jpg
+- title: A Chorus of Fire
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10165743-L.jpg
+- title: The Sword's Elegy
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13868005-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9781250214645-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01155, MC01154, MC01156)
+placement_history:
+- date: '2026-10-04'
+  to: fellowship-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
