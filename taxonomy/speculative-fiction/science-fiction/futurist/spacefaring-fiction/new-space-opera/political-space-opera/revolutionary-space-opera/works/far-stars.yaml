@@ -1,0 +1,31 @@
+id: far-stars
+title: Far Stars
+authors:
+- Jay Allan
+first_published: 2015
+canonical_genre: revolutionary-space-opera
+placement_status: accepted
+placement_rationale: 'Jay Allan''s Far Stars: the crew of the Wolf''s Claw is drawn into a marshal''s campaign to unite the
+  fractured Far Stars worlds into one bloc against imperial encroachment (author site). Resistance to an empire''s reach,
+  and the fight for the Far Stars'' independence, is the spine: Revolutionary space opera.'
+books:
+- title: Enemy in the Dark
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/11626901-L.jpg
+- title: Shadow of Empire
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/11585567-L.jpg
+- title: Funeral Games
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/12660188-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11585567-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04353, MC04356, MC04355)
+placement_history:
+- date: '2026-10-04'
+  to: revolutionary-space-opera
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
