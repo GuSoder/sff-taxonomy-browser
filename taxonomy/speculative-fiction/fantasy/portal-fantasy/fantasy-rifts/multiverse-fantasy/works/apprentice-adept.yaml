@@ -1,0 +1,32 @@
+id: apprentice-adept
+title: Apprentice Adept
+authors:
+- Piers Anthony
+first_published: 1980
+canonical_genre: multiverse-fantasy
+placement_status: accepted
+placement_rationale: 'Piers Anthony''s Apprentice Adept (Split Infinity, Blue Adept, Juxtaposition): Stile, a game-playing
+  citizen of the science planet Proton, crosses into Phaze, the magic world that shares its place, and the plot runs across
+  the two parallel worlds and their counterparts. Root-down: Fantasy -> Portal fantasy -> Fantasy rifts -> Multiverse fantasy;
+  a system of paired worlds, science and magic, with the story moving between them.'
+books:
+- title: Split Infinity
+  year: 1980
+  cover_url: https://covers.openlibrary.org/b/id/6564851-L.jpg
+- title: Blue Adept
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/6981493-L.jpg
+- title: Juxtaposition
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/isbn/9780345301963-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6564851-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07816, MC07808, MC07813)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
