@@ -1,0 +1,27 @@
+id: slender-man
+title: Slender Man
+authors:
+- Anonymous
+first_published: 2018
+canonical_genre: primordial-torment
+placement_status: accepted
+placement_rationale: 'HarperCollins/Voyager''s Slender Man novel (2018), told in fragments of journals, blog posts and messages:
+  after a girl disappears, Matt Barker dreams of trees and black skies and a tall faceless figure drawing closer. Root-down:
+  Fantasy -> Real earth fantasy -> Nocturne fantasy -> Dark fantasy -> Torment fantasy, since the entity follows and hunts
+  specific people wherever they go, and within torment it is a prehuman shapeshifting being stalking chosen victims, so Primordial
+  torment.'
+books:
+- title: Slender Man
+  year: 2018
+  cover_url: https://images.penguinrandomhouse.com/cover/9780062641199
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780062641199
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00791)
+placement_history:
+- date: '2026-10-04'
+  to: primordial-torment
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
