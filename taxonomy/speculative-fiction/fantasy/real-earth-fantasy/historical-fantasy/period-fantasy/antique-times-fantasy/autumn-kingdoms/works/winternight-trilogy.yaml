@@ -1,0 +1,34 @@
+id: winternight-trilogy
+title: Winternight Trilogy
+authors:
+- Katherine Arden
+first_published: 2017
+canonical_genre: autumn-kingdoms
+placement_status: accepted
+placement_rationale: 'Katherine Arden''s Winternight Trilogy (The Bear and the Nightingale, The Girl in the Tower, The Winter
+  of the Witch; Del Rey): fourteenth-century Rus, from a northern forest village to Moscow and the court of the Grand Prince
+  Dmitrii, where Vasya, who sees the old household spirits, is caught between the old folk gods and a rising Church, and between
+  the princes of Rus and the Tatar lords. Root-down: Fantasy -> Real earth fantasy -> Historical fantasy -> Period fantasy
+  -> Antique times fantasy; medieval kingdoms at their height and approaching rupture, in the same century as The Dark Apostle,
+  so Autumn kingdoms.'
+books:
+- title: The Bear and the Nightingale
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/11946359-L.jpg
+- title: The Girl in the Tower
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/14416797-L.jpg
+- title: The Winter of the Witch
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10308818-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11946359-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05350, MC05351, MC05353)
+placement_history:
+- date: '2026-10-04'
+  to: autumn-kingdoms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
