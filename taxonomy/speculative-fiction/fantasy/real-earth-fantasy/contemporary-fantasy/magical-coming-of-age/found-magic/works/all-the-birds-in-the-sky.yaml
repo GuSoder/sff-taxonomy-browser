@@ -1,0 +1,25 @@
+id: all-the-birds-in-the-sky
+title: All the Birds in the Sky
+authors:
+- Charlie Jane Anders
+first_published: 2016
+canonical_genre: found-magic
+placement_status: accepted
+placement_rationale: 'Charlie Jane Anders''s 2016 novel follows Patricia, a girl who finds she can talk to birds, and Laurence,
+  a boy engineering prodigy, from childhood to a near-future San Francisco on the edge of catastrophe (Tor, publisher page).
+  Her magic is stumbled into and developed on her own, with a friend, as she forms an adult identity: Found magic.'
+books:
+- title: All the Birds in the Sky
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765379948-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780765379948-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01643)
+placement_history:
+- date: '2026-10-04'
+  to: found-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
