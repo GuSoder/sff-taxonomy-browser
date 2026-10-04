@@ -1,0 +1,50 @@
+id: voyages-gone-wrong-core
+label: Voyages gone wrong
+parent: voyages-gone-wrong
+origin: shadow-v3
+definition: Missions that fail or go astray.
+cards:
+- name: The Deep Sky
+  origin: original
+  books:
+  - title: The Deep Sky
+- name: Aurora
+  origin: v3
+  books:
+  - title: Aurora
+    author: Kim Stanley Robinson
+- name: Jacob's Ladder
+  origin: v3
+  books:
+  - title: Dust
+    author: Elizabeth Bear
+  - title: Chill
+    author: Elizabeth Bear
+  - title: Grail
+    author: Elizabeth Bear
+  - title: Cleave
+    author: Elizabeth Bear
+  - title: Pinion
+    author: Elizabeth Bear
+  - title: Sanction
+    author: Elizabeth Bear
+- name: Ghost Line
+  origin: v3
+  books:
+  - title: The Ghost Line
+    author: Andrew Neil Gray
+- name: Final Planet
+  origin: v3
+  books:
+  - title: The Final Planet
+    author: Andrew M. Greeley
+- name: Starbound
+  origin: v3
+  books:
+  - title: Starbound
+    author: Joe Haldeman
+- name: Six Wakes
+  origin: v3
+  books:
+  - title: Six Wakes
+    author: Mur Lafferty

@@ -1,0 +1,49 @@
+id: virtual-worlds-and-games
+label: Virtual worlds and games
+parent: metaverse
+origin: shadow-v3
+definition: Immersive online games and worlds.
+cards:
+- name: Snow Crash
+  origin: original
+  books:
+  - title: Snow Crash
+- name: Ready Player One
+  origin: original
+  books:
+  - title: Ready Player One
+- name: Omnitopia
+  origin: v3
+  books:
+  - title: Omnitopia Dawn
+    author: Diane Duane
+- name: Arena (Jennings)
+  origin: v3
+  books:
+  - title: Arena
+    author: Holly Jennings
+  - title: Gauntlet
+    author: Holly Jennings
+- name: Dream Park
+  origin: v3
+  books:
+  - title: Dream Park
+    author: Larry Niven
+  - title: The Barsoom Project
+    author: Larry Niven
+- name: Otherland
+  origin: v3
+  books:
+  - title: City of Golden Shadow
+    author: Tad Williams
+  - title: River of Blue Fire
+    author: Tad Williams
+  - title: 'Otherland 3: Mountain of Black Glass'
+    author: Tad Williams
+  - title: Sea of Silver Light
+    author: Tad Williams
+- name: Burn Hesse
+  origin: v3
+  books:
+  - title: Burn
+    author: Monica Hesse

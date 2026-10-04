@@ -1,0 +1,25 @@
+id: crowded-dystopias
+label: Crowded dystopias
+parent: social-dystopia
+origin: original
+definition: Dystopian futures where too many people and the pressures of mass population break society.
+cards:
+- name: Stand on Zanzibar
+  origin: original
+  books:
+  - title: Stand on Zanzibar
+- name: '334'
+  origin: original
+  books:
+  - title: '334'
+- name: The Space Merchants
+  origin: original
+  books:
+  - title: The Space Merchants
+    author: Frederik Pohl, C. M. Kornbluth
+  - title: The Merchants' War
+    author: Frederik Pohl, C. M. Kornbluth
+- name: Make Room! Make Room!
+  origin: original
+  books:
+  - title: Make Room! Make Room!

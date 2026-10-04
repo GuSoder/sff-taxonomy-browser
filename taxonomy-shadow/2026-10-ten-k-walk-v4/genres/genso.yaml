@@ -1,0 +1,32 @@
+id: genso
+label: Genso
+parent: silkpunk
+origin: original
+definition: '幻想 (genso), the Japanese word for fantasy and illusion - the actual publishing term for fantasy
+  literature (genso bungaku); Korean hwansang 환상 is the same hanja. Modern and re-imagined East Asian
+  fantasy in invented worlds outside the classical Chinese lineages: diaspora cities, island warrior traditions,
+  clan codes and jade economies. Boundary: Chuanqi holds the native classical Chinese genre lineages (shenmo,
+  xuanhuan, wuxia, xianxia); Genso holds everything else East Asian. About-ness test (the curator 2026-09-26):
+  the culture does the work.'
+cards:
+- name: Green Bone Saga
+  origin: original
+  books:
+  - title: Jade City
+    author: Fonda Lee
+  - title: Jade War
+    author: Fonda Lee
+  - title: Jade Legacy
+    author: Fonda Lee
+- name: The Sword of Kaigen
+  origin: original
+  books:
+  - title: The Sword of Kaigen
+    author: M. L. Wang
+- name: Kij Johnson Japan
+  origin: v3
+  books:
+  - title: The Fox Woman
+    author: Kij Johnson
+  - title: Fudoki
+    author: Kij Johnson

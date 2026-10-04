@@ -1,0 +1,18 @@
+id: haunted-objects
+label: Haunted objects
+parent: ghost-stories
+origin: original
+definition: 'Ghost stories in which a portable object carries the haunting: everyday belongings hold the
+  dead, their memories or their unfinished violence, and the object''s passage among the living drives
+  the story. Distinct from place-bound haunted houses and ghosts attached directly to a living person.
+  The haunting need not present a visible ghost on stage. Created by the curator on 2026-09-30.'
+cards:
+- name: The Midnight Timetable
+  origin: original
+  books:
+  - title: The Midnight Timetable
+- name: Ghoster
+  origin: v3
+  books:
+  - title: Ghoster
+    author: Jason Arnopp

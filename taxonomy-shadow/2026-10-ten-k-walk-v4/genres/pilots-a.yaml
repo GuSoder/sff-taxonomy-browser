@@ -1,0 +1,44 @@
+id: pilots-a
+label: Pilots and long voyages
+parent: pilots-and-spacetime-wars
+origin: shadow-v3
+definition: Pilots.
+cards:
+- name: Variable Star
+  origin: v3
+  books:
+  - title: Variable Star
+    author: Robert A. Heinlein
+- name: Spacetime War
+  origin: v3
+  books:
+  - title: The Spacetime War
+    author: Les Johnson
+- name: Kupari
+  origin: v3
+  books:
+  - title: Her Brother's Keeper
+    author: Mike Kupari
+  - title: Sins of Her Father
+    author: Mike Kupari
+- name: Alex Lamb
+  origin: v3
+  books:
+  - title: Exodus
+    author: Alex Lamb
+  - title: Nemesis
+    author: Alex Lamb
+  - title: Roboteer
+    author: Alex Lamb
+- name: Starfall Landers
+  origin: v3
+  books:
+  - title: Starfall
+    author: Melissa Landers
+  - title: Starflight
+    author: Melissa Landers
+- name: Tuf Voyaging
+  origin: v3
+  books:
+  - title: Tuf Voyaging
+    author: George R.R. Martin

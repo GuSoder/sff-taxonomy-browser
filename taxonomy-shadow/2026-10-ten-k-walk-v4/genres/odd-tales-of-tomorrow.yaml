@@ -1,0 +1,62 @@
+id: odd-tales-of-tomorrow
+label: Odd tales of tomorrow
+parent: near-future-society
+origin: shadow-v3
+definition: Odd near-future tales.
+cards:
+- name: Sandymancer
+  origin: v3
+  books:
+  - title: Sandymancer
+    author: David Edison
+- name: Norse Code
+  origin: v3
+  books:
+  - title: Norse Code
+    author: Greg Van Eekhout
+- name: Egan Distress Quarantine Teranesia
+  origin: v3
+  books:
+  - title: Distress
+    author: Greg Egan
+  - title: Quarantine
+    author: Greg Egan
+  - title: Teranesia
+    author: Greg Egan
+- name: Last Hot Time
+  origin: v3
+  books:
+  - title: The Last Hot Time
+    author: John M. Ford
+  - title: The Last Hot Time
+    author: John M. Ford; introduction by Roz Kaveney
+- name: Carpet Makers
+  origin: v3
+  books:
+  - title: The Carpet Makers
+    author: Andreas Eschbach
+- name: Rats Bats and Vats
+  origin: v3
+  books:
+  - title: Rats, Bats and Vats
+    author: Dave Freer
+- name: Upright Women Wanted
+  origin: v3
+  books:
+  - title: Upright Women Wanted
+    author: Sarah Gailey
+- name: Hella
+  origin: v3
+  books:
+  - title: Hella
+    author: David Gerrold
+- name: Slow River
+  origin: v3
+  books:
+  - title: Slow River
+    author: Nicola Griffith
+- name: End of the World Blues
+  origin: v3
+  books:
+  - title: End of the World Blues
+    author: Jon Courtenay Grimwood

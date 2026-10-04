@@ -1,0 +1,39 @@
+id: beauties-and-wilderwood
+label: Beauties, burning deeps and Wilderwood
+parent: fairytale-heroines-turned
+origin: shadow-v3
+definition: Fairy tale turned cont.
+cards:
+- name: Lydia Bennet
+  origin: v3
+  books:
+  - title: The Scandalous Confessions of Lydia Bennet, Witch
+    author: Melinda Taub
+  - title: The Shocking Experiments of Miss Mary Bennet
+    author: Melinda Taub
+- name: Beauty Tepper
+  origin: v3
+  books:
+  - title: Beauty
+    author: Sheri S. Tepper
+- name: Into the Burning Deep
+  origin: v3
+  books:
+  - title: Into the Burning Deep
+    author: J. M. Voris
+- name: Heather Walter Duology
+  origin: v3
+  books:
+  - title: The Crimson Crown
+    author: Heather Walter
+  - title: The Witch Queen
+    author: Heather Walter
+- name: Wilderwood
+  origin: v3
+  books:
+  - title: For the Throne
+    author: Hannah Whitten
+  - title: For the Wolf
+    author: Hannah Whitten
+  - title: The Wilderwood Duology
+    author: Hannah Whitten

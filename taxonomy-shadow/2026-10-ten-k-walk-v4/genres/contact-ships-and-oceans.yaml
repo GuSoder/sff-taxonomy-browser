@@ -1,0 +1,43 @@
+id: contact-ships-and-oceans
+label: Contact ships and oceans
+parent: contact-with-allies
+origin: shadow-v3
+definition: Contact tales.
+cards:
+- name: Ship of Fools Rosetta
+  origin: v3
+  books:
+  - title: Ship of Fools
+    author: Richard Paul Russo
+  - title: The Rosetta Codex
+    author: Richard Paul Russo
+- name: James H. Schmitz Hub and Telzey
+  origin: v3
+  books:
+  - title: Telzey Amberdon
+    author: James H. Schmitz
+  - title: Agent of Vega
+    author: James H. Schmitz
+  - title: 'The Hub: Dangerous Territory'
+    author: James H. Schmitz
+  - title: Trigger and Friends
+    author: James H. Schmitz
+- name: Barsk
+  origin: v3
+  books:
+  - title: 'Barsk: The Elephants'' Graveyard'
+    author: Lawrence M. Schoen
+  - title: The Moons of Barsk
+    author: Lawrence M. Schoen
+- name: Slonczewski
+  origin: v3
+  books:
+  - title: The Children Star
+    author: Joan Slonczewski
+  - title: A Door Into Ocean
+    author: Joan Slonczewski
+- name: Vor Island of Power
+  origin: v3
+  books:
+  - title: 'Vor: Island of Power'
+    author: Dean Wesley Smith

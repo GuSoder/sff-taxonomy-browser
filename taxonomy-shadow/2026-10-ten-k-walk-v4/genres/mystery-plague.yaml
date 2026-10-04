@@ -1,0 +1,35 @@
+id: mystery-plague
+label: Mystery plague
+parent: pandemic
+origin: original
+definition: 'Pandemic fiction of the inexplicable affliction: an epidemic with no certain cause or nature,
+  the collapse unfolding under a mystery. Split 2026-09-25 from Pandemic (the curator ruling).'
+cards:
+- name: Blindness
+  origin: original
+  books:
+  - title: Blindness
+- name: The Migration
+  origin: original
+  books:
+  - title: The Migration
+- name: Animals
+  origin: original
+  books:
+  - title: Animals
+- name: The Fireman
+  origin: v3
+  books:
+  - title: The Fireman
+    author: Joe Hill
+- name: Dire Earth Cycle
+  origin: v3
+  books:
+  - title: The Darwin Elevator
+    author: Jason M. Hough
+  - title: The Exodus Towers
+    author: Jason M. Hough
+  - title: The Plague Forge
+    author: Jason M. Hough
+  - title: 'The Dire Earth: A Novella'
+    author: Jason M. Hough

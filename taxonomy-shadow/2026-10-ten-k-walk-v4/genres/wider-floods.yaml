@@ -1,0 +1,34 @@
+id: wider-floods
+label: Wider floods
+parent: drowned-worlds
+origin: shadow-v3
+definition: 'Drowned-world fiction on a continental or planetary scale: storms, seas and the end of land.'
+cards:
+- name: The Drowned World
+  origin: original
+  books:
+  - title: The Drowned World
+- name: A Children's Bible
+  origin: original
+  books:
+  - title: A Children's Bible
+- name: The Coral Bones
+  origin: original
+  books:
+  - title: The Coral Bones
+- name: Sea Now
+  origin: original
+  books:
+  - title: Sea Now
+- name: Mother of Storms
+  origin: v3
+  books:
+  - title: Mother of Storms
+    author: John Barnes
+- name: Carrie Vaughn SF
+  origin: v3
+  books:
+  - title: The Best We Can
+    author: Carrie Vaughn
+  - title: Martians Abroad
+    author: Carrie Vaughn

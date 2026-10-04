@@ -1,0 +1,30 @@
+id: dark-magical-realism
+label: Dark magical realism
+parent: magic-realism
+origin: original
+definition: 'Magic realism in which the marvelous runs dark: the accepted wonders of ordinary life are
+  entangled with atrocity, occupation and grief - the living houses, spirit worlds and impossible trades
+  are the fabric of a wounded nation rather than its charm. The marvelous is accepted as ordinary, as
+  everywhere in magic realism; here the ordinary is the wound. Named by the curator on 2026-09-27 after
+  The Unconquered Country.'
+cards:
+- name: The Unconquered Country
+  origin: original
+  books:
+  - title: The Unconquered Country
+- name: The Jaguar Mask
+  origin: original
+  books:
+  - title: The Jaguar Mask
+- name: Bradbury novels
+  origin: v3
+  books:
+  - title: The October Country
+    author: Ray Bradbury
+  - title: '9781478913108'
+    author: Ray Bradbury
+- name: World of the End
+  origin: v3
+  books:
+  - title: The World of the End
+    author: Ofir Touche Gafla

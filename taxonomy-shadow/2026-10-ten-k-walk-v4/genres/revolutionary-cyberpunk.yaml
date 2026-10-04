@@ -1,0 +1,56 @@
+id: revolutionary-cyberpunk
+label: Revolutionary cyberpunk
+parent: postcyberpunk
+origin: original
+definition: 'Postcyberpunk in which the resistance builds the alternative rather than only robbing the
+  system: gamified cooperation as institution-building, everyday people remaking the networked order.
+  Added 2026-09-28 at the curator''s proposal and ruling (''Wait, maybe add Revolutionary Cyberpunk'';
+  phonemsg-01M3MJA8ZRND6WZN3C3PYTCQ84 ''Execute'').'
+cards:
+- name: Stealing Worlds
+  origin: original
+  books:
+  - title: Stealing Worlds
+- name: Extremophile
+  origin: original
+  books:
+  - title: Extremophile
+- name: Slant
+  origin: v3
+  books:
+  - title: Slant
+    author: Greg Bear
+- name: San Angeles
+  origin: v3
+  books:
+  - title: The Courier
+    author: Gerald Brandt
+  - title: The Operative
+    author: Gerald Brandt
+  - title: The Rebel
+    author: Gerald Brandt
+- name: Hammerjack
+  origin: v3
+  books:
+  - title: Hammerjack
+    author: Marc D. Giller
+  - title: Prodigal
+    author: Marc D. Giller
+- name: Emily Hamilton
+  origin: v3
+  books:
+  - title: Ascendancy
+    author: Emily Hamilton
+  - title: The Stars Too Fondly
+    author: Emily Hamilton
+- name: Wolfhound Century
+  origin: v3
+  books:
+  - title: Radiant State
+    author: Peter Higgins
+  - title: Truth and Fear
+    author: Peter Higgins
+  - title: Wolfhound Century
+    author: Peter Higgins
+  - title: Wolfhound Empire
+    author: Peter Higgins

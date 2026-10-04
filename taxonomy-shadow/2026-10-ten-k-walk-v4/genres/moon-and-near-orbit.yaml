@@ -1,0 +1,61 @@
+id: moon-and-near-orbit
+label: Moon and near orbit
+parent: mars-and-luna
+origin: shadow-v3
+definition: The Moon and near-Earth space.
+cards:
+- name: Red Moon
+  origin: original
+  books:
+  - title: Red Moon
+- name: Luna
+  origin: v3
+  books:
+  - title: 'Luna: New Moon'
+    author: Ian McDonald
+  - title: 'Luna: Wolf Moon'
+    author: Ian McDonald
+  - title: 'Luna: Moon Rising'
+    author: Ian McDonald
+  - title: Luna
+    author: Ian McDonald
+- name: The Moonday Letters
+  origin: original
+  books:
+  - title: The Moonday Letters
+- name: Clarke moon
+  origin: v3
+  books:
+  - title: A Fall of Moondust
+    author: Arthur C. Clarke
+  - title: Earthlight
+    author: Arthur C. Clarke
+- name: Farside
+  origin: v3
+  books:
+  - title: Farside
+    author: Ben Bova
+- name: Retrograde
+  origin: v3
+  books:
+  - title: Reentry
+    author: Peter Cawdron
+  - title: Retrograde
+    author: Peter Cawdron
+- name: A Step Beyond
+  origin: v3
+  books:
+  - title: A Step Beyond
+    author: Christopher K Anderson
+- name: Chiles near-future
+  origin: v3
+  books:
+  - title: Farside
+    author: Patrick Chiles
+  - title: Perigee
+    author: Patrick Chiles
+- name: Between Earth and Moon
+  origin: v3
+  books:
+  - title: Between Earth and Moon
+    author: Otfrid von Hanstein

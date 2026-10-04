@@ -1,0 +1,73 @@
+id: courts-and-courtesans
+label: Courts and courtesans
+parent: renaissance-dynastic-intrigue
+origin: shadow-v3
+definition: Renaissance-flavoured intrigue told through courtiers, courtesans and the pleasures and perils
+  of a rival court.
+cards:
+- name: Kushiel's Legacy
+  origin: original
+  books:
+  - title: Kushiel's Dart
+    author: Jacqueline Carey
+  - title: Kushiel's Chosen
+    author: Jacqueline Carey
+  - title: Kushiel's Avatar
+    author: Jacqueline Carey
+  - title: Cassiel's Servant
+    author: Jacqueline Carey
+  - title: Kushiel's Scion
+    author: Jacqueline Carey
+  - title: Kushiel's Justice
+    author: Jacqueline Carey
+  - title: Kushiel's Mercy
+    author: Jacqueline Carey
+  - title: Naamah's Kiss
+    author: Jacqueline Carey
+  - title: Naamah's Curse
+    author: Jacqueline Carey
+  - title: Naamah's Blessing
+    author: Jacqueline Carey
+- name: The Belles
+  origin: original
+  books:
+  - title: The Belles
+    author: Dhonielle Clayton
+  - title: The Everlasting Rose
+    author: Dhonielle Clayton
+  - title: The Beauty Trials
+    author: Dhonielle Clayton
+- name: Khaavren Romances
+  origin: v3
+  books:
+  - title: The Paths of the Dead
+    author: Steven Brust
+  - title: The Phoenix Guards
+    author: Steven Brust
+  - title: Five Hundred Years After
+    author: Steven Brust
+  - title: Sethra Lavode
+    author: Steven Brust
+  - title: The Lord of Castle Black
+    author: Steven Brust
+  - title: The Desecrator
+    author: Steven Brust
+- name: Court of Venus
+  origin: v3
+  books:
+  - title: The Court of Venus
+    author: Bel Banta
+- name: City of Silk and Steel
+  origin: v3
+  books:
+  - title: The City of Silk and Steel
+    author: Linda Carey
+- name: Silken Magic
+  origin: v3
+  books:
+  - title: 'Magic''s Silken Snare (Silken Magic # 1)'
+    author: ElizaBeth Gilligan
+  - title: The Silken Shroud
+    author: ElizaBeth Gilligan
+  - title: Sovereign Silk
+    author: ElizaBeth Gilligan

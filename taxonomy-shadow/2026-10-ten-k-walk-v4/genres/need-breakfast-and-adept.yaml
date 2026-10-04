@@ -1,0 +1,34 @@
+id: need-breakfast-and-adept
+label: Need, breakfast and adepts
+parent: world-hopping
+origin: shadow-v3
+definition: World hopping.
+cards:
+- name: The Need
+  origin: v3
+  books:
+  - title: The Need
+    author: Megan Mostyn-Brown
+- name: Mr. Breakfast
+  origin: original
+  books:
+  - title: Mr. Breakfast
+- name: The Apprentice Adept
+  origin: v3
+  books:
+  - title: Blue Adept
+    author: Piers Anthony
+  - title: Juxtaposition
+    author: Piers Anthony
+  - title: Split Infinity
+    author: Piers Anthony
+- name: Transition
+  origin: v3
+  books:
+  - title: Transition
+    author: Iain M. Banks
+- name: Beautiful Land
+  origin: v3
+  books:
+  - title: The Beautiful Land
+    author: Alan Averill

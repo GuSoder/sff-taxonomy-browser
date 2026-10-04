@@ -1,0 +1,28 @@
+id: sensory-magic-realism
+label: Sensory magic realism
+parent: magic-realism
+origin: original
+definition: Magic realism in which an impossible sense reveals knowledge hidden from ordinary perception.
+cards:
+- name: Perfume
+  origin: original
+  books:
+  - title: Perfume
+- name: Eartheater
+  origin: original
+  books:
+  - title: Eartheater
+- name: The Book of Form and Emptiness
+  origin: original
+  books:
+  - title: The Book of Form and Emptiness
+- name: House Like an Accordion
+  origin: v3
+  books:
+  - title: A House Like an Accordion
+    author: Audrey Burges
+- name: A Shadow All of Light
+  origin: v3
+  books:
+  - title: A Shadow All of Light
+    author: Fred Chappell

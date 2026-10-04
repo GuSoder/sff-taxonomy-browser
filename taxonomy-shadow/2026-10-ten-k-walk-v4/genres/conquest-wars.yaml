@@ -1,0 +1,49 @@
+id: conquest-wars
+label: Conquest Wars
+parent: alien-invasion-fiction
+origin: shadow-v3
+definition: Alien invasion as open conquest and the human war of resistance.
+cards:
+- name: The War of the Worlds
+  origin: original
+  books:
+  - title: The War of the Worlds
+- name: Footfall
+  origin: original
+  books:
+  - title: Footfall
+- name: The Aleutian Trilogy
+  origin: original
+  books:
+  - title: White Queen
+    author: Gwyneth Jones
+  - title: North Wind
+    author: Gwyneth Jones
+  - title: Phoenix Café
+    author: Gwyneth Jones
+- name: Sixth Column
+  origin: v3
+  books:
+  - title: Sixth Column
+    author: Robert A. Heinlein
+- name: Vampire Earth
+  origin: v3
+  books:
+  - title: Way of the Wolf
+    author: E.E. Knight
+  - title: Choice of the Cat
+    author: E.E. Knight
+  - title: Tale of the Thunderbolt
+    author: E.E. Knight
+  - title: Valentine's Rising
+    author: E.E. Knight
+- name: Ninth City Burning
+  origin: v3
+  books:
+  - title: Ninth City Burning
+    author: J. Patrick Black
+- name: The Massacre of Mankind
+  origin: v3
+  books:
+  - title: The Massacre of Mankind
+    author: Stephen Baxter

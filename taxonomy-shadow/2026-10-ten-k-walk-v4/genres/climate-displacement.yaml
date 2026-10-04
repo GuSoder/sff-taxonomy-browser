@@ -1,0 +1,32 @@
+id: climate-displacement
+label: Climate displacement
+parent: cli-fi-dystopia
+origin: original
+definition: Cli-fi dystopia in which a broken climate uproots people into war, migration, trafficking
+  or enforced exile, and coercive systems govern the displaced. Metronome's island exile is punitive rather
+  than migration, but climate scarcity shapes its system. Split from Cli-fi dystopia on the curator's
+  2026-09-29 ruling (phonemsg-01M3P8H4RAJVY4Y2ACXN9QKEVZ 'Execute').
+cards:
+- name: American War
+  origin: original
+  books:
+  - title: American War
+- name: Bridge 108
+  origin: original
+  books:
+  - title: Bridge 108
+- name: Metronome
+  origin: original
+  books:
+  - title: Metronome
+- name: Budz
+  origin: v3
+  books:
+  - title: Crache
+    author: Mark Budz
+  - title: Idolon
+    author: Mark Budz
+  - title: Clade
+    author: Mark Budz
+  - title: Till Human Voices Wake Us
+    author: Mark Budz

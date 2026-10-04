@@ -1,0 +1,40 @@
+id: rag-magic-and-elegy
+label: Rags, magic time and elegies
+parent: after-the-lights-go-out
+origin: shadow-v3
+definition: After lights out.
+cards:
+- name: Anthropocene Rag
+  origin: original
+  books:
+  - title: Anthropocene Rag
+- name: Magic Time
+  origin: v3
+  books:
+  - title: 'Magic Time: Angelfire'
+    author: Marc Zicreemaya Kaathryn Bohnhoff
+- name: Elegy Beach
+  origin: v3
+  books:
+  - title: Elegy Beach
+    author: Steven R. Boyett
+- name: Noise
+  origin: v3
+  books:
+  - title: Noise
+    author: Darin Bradley
+- name: Destroyer of Light
+  origin: v3
+  books:
+  - title: Destroyer of Light
+    author: Jennifer Marie Brissett
+- name: Random Acts of Senseless Violence
+  origin: v3
+  books:
+  - title: Random Acts of Senseless Violence
+    author: Jack Womack
+- name: Time's Child
+  origin: v3
+  books:
+  - title: Time's Child
+    author: ''

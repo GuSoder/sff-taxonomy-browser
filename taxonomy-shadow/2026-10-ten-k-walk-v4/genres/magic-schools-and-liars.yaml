@@ -1,0 +1,67 @@
+id: magic-schools-and-liars
+label: Magic schools
+parent: academies-of-magic
+origin: shadow-v3
+definition: Schools of magic.
+cards:
+- name: Spell Bound
+  origin: v3
+  books:
+  - title: Spell Bound
+    author: Rachel Hawkins
+- name: Academy for Liars
+  origin: v3
+  books:
+  - title: An Academy for Liars
+    author: Alexis Henderson
+  - title: The Godfrey Home for Demonic Children
+    author: Alexis Henderson
+- name: Arcana Academy
+  origin: v3
+  books:
+  - title: Arcana Academy
+    author: Elise Kova
+- name: Wayward Mages
+  origin: v3
+  books:
+  - title: The Late Great Wizard
+    author: Sara Hanover
+  - title: The New Improved Sorceress
+    author: Sara Hanover
+  - title: The Wayward Mage
+    author: Sara Hanover
+- name: Redwinter Chronicles
+  origin: v3
+  books:
+  - title: Daughter of Redwinter
+    author: Ed McDonald
+  - title: Traitor of Redwinter
+    author: Ed McDonald
+  - title: Witch Queen of Redwinter
+    author: Ed McDonald
+- name: Finn Gramaraye
+  origin: v3
+  books:
+  - title: Finn Fancy Necromancy
+    author: Randy Henderson
+  - title: Bigfootloose and Finn Fancy Free
+    author: Randy Henderson
+  - title: Smells Like Finn Spirit
+    author: Randy Henderson
+- name: Mage Heart
+  origin: v3
+  books:
+  - title: Mage Heart
+    author: Jane Routleyjane Routley
+- name: Andrew Rowe
+  origin: v3
+  books:
+  - title: How to Defeat a Demon King in Ten Easy Steps
+    author: Andrew Rowe
+  - title: When the Gods Give You Lemons, Fight and Dethrone the Gods
+    author: Andrew Rowe
+- name: Saint Vidicon
+  origin: v3
+  books:
+  - title: Saint Vidicon To The Rescue
+    author: Christopher Stasheff

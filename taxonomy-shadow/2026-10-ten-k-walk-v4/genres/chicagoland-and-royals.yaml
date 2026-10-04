@@ -1,0 +1,83 @@
+id: chicagoland-and-royals
+label: Orders and royal academies
+parent: academies-of-magic
+origin: shadow-v3
+definition: Orders and rogues.
+cards:
+- name: Mage War Lur
+  origin: v3
+  books:
+  - title: A Blight of Mages
+    author: Karen Miller
+  - title: The Prodigal Mage
+    author: Karen Miller
+  - title: The Reluctant Mage
+    author: Karen Miller
+- name: Heirs of Chicagoland
+  origin: v3
+  books:
+  - title: Charmfall
+    author: Chloe Neill
+  - title: Cold Curses
+    author: Chloe Neill
+  - title: Firespell
+    author: Chloe Neill
+  - title: Shadowed Steel
+    author: Chloe Neill
+  - title: The Sight
+    author: Chloe Neill
+  - title: Wicked Hour
+    author: Chloe Neill
+  - title: Wild Things
+    author: Chloe Neill
+- name: Scholomance
+  origin: v3
+  books:
+  - title: Will Supervillains Be on the Final?
+    author: Naomi Novik
+  - title: The Summer War
+    author: Naomi Novik
+- name: Arcanum Order
+  origin: v3
+  books:
+  - title: Sneak Peek for The Bloodfire Oath
+    author: Chloe C. Penaranda
+  - title: The Bloodfire Oath
+    author: Chloe C. Penaranda
+- name: Royals and Rogues
+  origin: v3
+  books:
+  - title: The Nightmare Before Kissmas
+    author: Sara Raasch
+  - title: Go Luck Yourself
+    author: Sara Raasch
+  - title: The Entanglement of Rival Wizards
+    author: Sara Raasch
+  - title: The Fake Divination Offense
+    author: Sara Raasch
+- name: Night Owls
+  origin: v3
+  books:
+  - title: Night Owls
+    author: Lauren M. Roy
+  - title: Grave Matters
+    author: Lauren M. Roy
+- name: Sergey and Marina Dyachenko
+  origin: v3
+  books:
+  - title: The Burned Tower
+    author: Sergey
+  - title: Daughter from the Dark
+    author: Sergey
+  - title: Vita Nostra
+    author: Sergey
+- name: Zapped
+  origin: v3
+  books:
+  - title: Zapped
+    author: Sherwood Smith
+- name: Glass Magician
+  origin: v3
+  books:
+  - title: The Glass Magician
+    author: Caroline Stevermer

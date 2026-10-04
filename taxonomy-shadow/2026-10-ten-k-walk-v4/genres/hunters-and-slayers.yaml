@@ -1,0 +1,234 @@
+id: hunters-and-slayers
+label: Hunters and slayers
+parent: badge-and-bounty
+origin: shadow-v3
+definition: Urban-fantasy heroines who hunt vampires, monsters and rogue magic for a living.
+cards:
+- name: 'Anita Blake: Vampire Hunter'
+  origin: original
+  books:
+  - title: Guilty Pleasures
+    author: Laurell K. Hamilton
+  - title: The Laughing Corpse
+    author: Laurell K. Hamilton
+  - title: Circus of the Damned
+    author: Laurell K. Hamilton
+  - title: The Lunatic Cafe
+    author: Laurell K. Hamilton
+  - title: Bloody Bones
+    author: Laurell K. Hamilton
+  - title: The Killing Dance
+    author: Laurell K. Hamilton
+  - title: Burnt Offerings
+    author: Laurell K. Hamilton
+  - title: Blue Moon
+    author: Laurell K. Hamilton
+  - title: Obsidian Butterfly
+    author: Laurell K. Hamilton
+  - title: Narcissus in Chains
+    author: Laurell K. Hamilton
+  - title: Cerulean Sins
+    author: Laurell K. Hamilton
+  - title: Incubus Dreams
+    author: Laurell K. Hamilton
+  - title: Micah
+    author: Laurell K. Hamilton
+  - title: Danse Macabre
+    author: Laurell K. Hamilton
+  - title: The Harlequin
+    author: Laurell K. Hamilton
+  - title: Blood Noir
+    author: Laurell K. Hamilton
+  - title: Skin Trade
+    author: Laurell K. Hamilton
+  - title: Flirt
+    author: Laurell K. Hamilton
+  - title: Bullet
+    author: Laurell K. Hamilton
+  - title: Hit List
+    author: Laurell K. Hamilton
+  - title: Kiss the Dead
+    author: Laurell K. Hamilton
+  - title: Affliction
+    author: Laurell K. Hamilton
+  - title: Jason
+    author: Laurell K. Hamilton
+  - title: Dead Ice
+    author: Laurell K. Hamilton
+  - title: Crimson Death
+    author: Laurell K. Hamilton
+  - title: Serpentine
+    author: Laurell K. Hamilton
+  - title: Sucker Punch
+    author: Laurell K. Hamilton
+  - title: Rafael
+    author: Laurell K. Hamilton
+  - title: Smolder
+    author: Laurell K. Hamilton
+  - title: Slay
+    author: Laurell K. Hamilton
+- name: Jane Yellowrock
+  origin: v3
+  books:
+  - title: Host
+    author: Faith Hunter
+  - title: Skinwalker
+    author: Faith Hunter
+  - title: Blood Cross
+    author: Faith Hunter
+  - title: Mercy Blade
+    author: Faith Hunter
+  - title: Death's Rival
+    author: Faith Hunter
+  - title: Raven Cursed
+    author: Faith Hunter
+  - title: Blood Trade
+    author: Faith Hunter
+  - title: Black Arts
+    author: Faith Hunter
+  - title: Broken Soul
+    author: Faith Hunter
+  - title: Dark Heir
+    author: Faith Hunter
+  - title: Shadow Rites
+    author: Faith Hunter
+  - title: Cold Reign
+    author: Faith Hunter
+  - title: Dark Queen
+    author: Faith Hunter
+  - title: Circle of the Moon
+    author: Faith Hunter
+  - title: Shattered Bonds
+    author: Faith Hunter
+- name: The Hollows
+  origin: v3
+  books:
+  - title: American Demon
+    author: Kim Harrison
+  - title: Million Dollar Demon
+    author: Kim Harrison
+  - title: Trouble with the Cursed
+    author: Kim Harrison
+  - title: Demons of Good and Evil
+    author: Kim Harrison
+  - title: Demon's Bluff
+    author: Kim Harrison
+  - title: Absolute Demon
+    author: Kim Harrison
+  - title: A Perfect Blood
+    author: Kim Harrison
+  - title: A Perfect Blood with Bonus Material
+    author: Kim Harrison
+  - title: Black Magic Sanction
+    author: Kim Harrison
+  - title: Dead Witch Walking
+    author: Kim Harrison
+  - title: Ever After
+    author: Kim Harrison
+  - title: Every Which Way But Dead
+    author: Kim Harrison
+  - title: For a Few Demons More
+    author: Kim Harrison
+  - title: Pale Demon
+    author: Kim Harrison
+  - title: The Good, the Bad, and the Undead
+    author: Kim Harrison
+  - title: The Good, the Bad, and the Undead with Bonus Material
+    author: Kim Harrison
+  - title: The Outlaw Demon Wails
+    author: Kim Harrison
+  - title: The Undead Pool
+    author: Kim Harrison
+  - title: The Witch with No Name
+    author: Kim Harrison
+  - title: White Witch, Black Curse
+    author: Kim Harrison
+- name: Kate Daniels (Andrews)
+  origin: v3
+  books:
+  - title: Magic Bites
+    author: Ilona Andrews
+  - title: Magic Burns
+    author: Ilona Andrews
+  - title: Magic Strikes
+    author: Ilona Andrews
+  - title: Magic Bleeds
+    author: Ilona Andrews
+  - title: Magic Mourns
+    author: Ilona Andrews
+  - title: Magic Slays
+    author: Ilona Andrews
+  - title: Gunmetal Magic
+    author: Ilona Andrews
+  - title: Magic Dreams
+    author: Ilona Andrews
+  - title: Magic Rises
+    author: Ilona Andrews
+  - title: Magic Breaks
+    author: Ilona Andrews
+  - title: Magic Gifts
+    author: Ilona Andrews
+  - title: Magic Shifts
+    author: Ilona Andrews
+  - title: Magic Steals
+    author: Ilona Andrews
+  - title: Magic Binds
+    author: Ilona Andrews
+  - title: Magic Triumphs
+    author: Ilona Andrews
+- name: Jill Kismet
+  origin: v3
+  books:
+  - title: Angel Town
+    author: Lilith Saintcrow
+  - title: Flesh Circus
+    author: Lilith Saintcrow
+  - title: Heavens Spite
+    author: Lilith Saintcrow
+  - title: Hunters Prayer
+    author: Lilith Saintcrow
+  - title: Jill Kismet
+    author: Lilith Saintcrow
+  - title: Night Shift
+    author: Lilith Saintcrow
+  - title: Redemption Alley
+    author: Lilith Saintcrow
+- name: Blood Singer (Cat Adams)
+  origin: v3
+  books:
+  - title: Blood Song
+    author: Cat Adams
+  - title: Siren Song
+    author: Cat Adams
+  - title: Demon Song
+    author: Cat Adams
+  - title: The Isis Collar
+    author: Cat Adams
+  - title: The Eldritch Conspiracy
+    author: Cat Adams
+  - title: To Dance With the Devil
+    author: Cat Adams
+  - title: The Blood Singer Novels
+    author: Cat Adams
+- name: Dark Heart
+  origin: v3
+  books:
+  - title: Dark Heart
+    author: Margaret Weisdavid Baldwin
+- name: Black Wings
+  origin: v3
+  books:
+  - title: Black Wings
+    author: Christina Henry
+  - title: Black Night
+    author: Christina Henry
+  - title: Black Howl
+    author: Christina Henry
+  - title: Black Lament
+    author: Christina Henry
+  - title: Black City
+    author: Christina Henry
+  - title: Black Heart
+    author: Christina Henry
+  - title: Black Spring
+    author: Christina Henry

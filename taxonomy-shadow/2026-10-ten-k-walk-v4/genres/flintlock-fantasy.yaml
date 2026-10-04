@@ -1,0 +1,78 @@
+id: flintlock-fantasy
+label: Flintlock fantasy
+parent: technofantasy
+origin: shadow-v3
+definition: 'Invented-world fantasy of the musket age: powder, bayonets, rifled barrels beside magic,
+  in an internally realized secondary world.'
+cards:
+- name: Engines of Empire
+  origin: v3
+  books:
+  - title: Absolon Creed
+    author: R.S. Ford
+  - title: Engines of Chaos
+    author: R.S. Ford
+  - title: Engines of Empire
+    author: R.S. Ford
+  - title: Engines of War
+    author: R.S. Ford
+- name: Powder Mage
+  origin: v3
+  books:
+  - title: Promise of Blood
+    author: Brian McClellan
+  - title: The Autumn Republic
+    author: Brian McClellan
+  - title: The Crimson Campaign
+    author: Brian McClellan
+  - title: The Powder Mage Trilogy
+    author: Brian McClellan
+- name: Gods of Blood and Powder
+  origin: v3
+  books:
+  - title: Blood of Empire
+    author: Brian McClellan
+  - title: Sins of Empire
+    author: Brian McClellan
+  - title: Wrath of Empire
+    author: Brian McClellan
+- name: Shadow Campaigns
+  origin: v3
+  books:
+  - title: The Thousand Names
+    author: Django Wexler
+  - title: The Shadow Throne
+    author: Django Wexler
+  - title: The Price of Valor
+    author: Django Wexler
+  - title: The Guns of Empire
+    author: Django Wexler
+  - title: The Infernal Battalion
+    author: Django Wexler
+- name: Dragon Corsairs
+  origin: v3
+  books:
+  - title: Storm Riders
+    author: Margaret Weis
+  - title: Spymaster
+    author: Margaret Weis
+  - title: Privateer
+    author: Margaret Weis
+  - title: Kingmaker
+    author: Margaret Weis
+  - title: The Dragon Corsairs
+    author: Margaret Weis
+- name: Fall of Ile-Rien
+  origin: v3
+  books:
+  - title: The Book of Ile-Rien
+    author: Martha Wells
+  - title: The Ships of Air
+    author: Martha Wells
+  - title: The Wizard Hunters
+    author: Martha Wells
+- name: Scarlet Cogman
+  origin: v3
+  books:
+  - title: Scarlet
+    author: Genevieve Cogman

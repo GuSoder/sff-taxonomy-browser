@@ -1,0 +1,66 @@
+id: planetary-science
+label: Planetary science
+parent: hard-sf
+origin: original
+definition: Hard SF built on planetary geology, climate, and exploration. Coined by the curator 2026-09-14;
+  not an SFE/EoF headword.
+cards:
+- name: The Mars Trilogy
+  origin: original
+  books:
+  - title: Red Mars
+    author: Kim Stanley Robinson
+  - title: Green Mars
+    author: Kim Stanley Robinson
+  - title: Blue Mars
+    author: Kim Stanley Robinson
+- name: Mission of Gravity
+  origin: original
+  books:
+  - title: Mission of Gravity
+- name: The Martian
+  origin: original
+  books:
+  - title: The Martian
+- name: Plutoshine
+  origin: original
+  books:
+  - title: Plutoshine
+- name: The Martian Race
+  origin: v3
+  books:
+  - title: The Martian Race
+    author: Gregory Benford
+- name: The Grand Tour (Bova)
+  origin: v3
+  books:
+  - title: Jupiter
+    author: Ben Bova
+  - title: Venus
+    author: Ben Bova
+  - title: Saturn
+    author: Ben Bova
+  - title: Mercury
+    author: Ben Bova
+  - title: Titan
+    author: Ben Bova
+  - title: Mars Life
+    author: Ben Bova
+  - title: Earth
+    author: Ben Bova
+  - title: Uranus
+    author: Ben Bova
+  - title: Neptune
+    author: Ben Bova
+  - title: Pluto
+    author: Ben Bova
+- name: Heavy Planet (Clement)
+  origin: v3
+  books:
+  - title: Heavy Planet
+    author: Hal Clement
+- name: Smoke Ring
+  origin: v3
+  books:
+  - title: The Integral Trees
+    author: Larry Niven

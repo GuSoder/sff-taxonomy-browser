@@ -1,0 +1,19 @@
+id: otherworldly-hard-sf
+label: Otherworldly hard SF
+parent: otherworldly-fiction
+origin: original
+definition: Rigorous speculative world-models set in an unanchored or wholly other cosmos.
+cards:
+- name: Anathem
+  origin: original
+  books:
+  - title: Anathem
+- name: Flatland
+  origin: original
+  books:
+  - title: Flatland
+- name: White Light
+  origin: original
+  books:
+  - title: White Light
+    author: Rudy Rucker

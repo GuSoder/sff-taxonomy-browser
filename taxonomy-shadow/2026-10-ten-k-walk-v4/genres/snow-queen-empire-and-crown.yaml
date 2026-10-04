@@ -1,0 +1,49 @@
+id: snow-queen-empire-and-crown
+label: Snow queen, empire and crown
+parent: leagues-and-commonwealths
+origin: shadow-v3
+definition: Leagues cont.
+cards:
+- name: Snow Queen Cycle
+  origin: v3
+  books:
+  - title: The Summer Queen
+    author: Joan D. Vinge
+  - title: The Snow Queen
+    author: Joan D. Vinge
+  - title: World's End
+    author: Joan D. Vinge
+- name: Empire of Man Weber
+  origin: v3
+  books:
+  - title: The Warmasters
+    author: David Weber
+  - title: Crown of Slaves
+    author: David Weber
+  - title: March to the Stars
+    author: David Weber
+- name: Ascent to Empire
+  origin: v3
+  books:
+  - title: Rebel
+    author: David Weber
+  - title: Governor
+    author: David Weber
+- name: Walter Jon Williams SF
+  origin: v3
+  books:
+  - title: Ambassador of Progress
+    author: Walter Jon Williams
+  - title: Days of Atonement
+    author: Walter Jon Williams
+  - title: Metropolitan
+    author: Walter Jon Williams
+  - title: The Crown Jewels
+    author: Walter Jon Williams
+  - title: The Rift
+    author: Walter Jon Williams
+- name: Crown of Empire
+  origin: v3
+  books:
+  - title: Crown of Empire
+    author: Chelsea Quinn Yarbro

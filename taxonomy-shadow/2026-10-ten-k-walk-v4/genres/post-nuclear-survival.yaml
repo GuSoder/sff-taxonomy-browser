@@ -1,0 +1,41 @@
+id: post-nuclear-survival
+label: Post-nuclear survival
+parent: post-holocaust-survival
+origin: original
+definition: Post-Holocaust survival fiction whose living aftermath is caused by nuclear war, following
+  survivors through fallout, social collapse and reconstruction.
+cards:
+- name: Alas, Babylon
+  origin: original
+  books:
+  - title: Alas, Babylon
+- name: Dr. Bloodmoney
+  origin: original
+  books:
+  - title: Dr. Bloodmoney
+- name: Pure trilogy (Baggott)
+  origin: v3
+  books:
+  - title: Fuse
+    author: Julianna Baggott
+  - title: Pure
+    author: Julianna Baggott
+- name: Metro 2033
+  origin: v3
+  books:
+  - title: Metro 2033
+    author: Dmitry Glukhovsky
+  - title: Metro 2034
+    author: Dmitry Glukhovsky
+  - title: Metro 2035
+    author: Dmitry Glukhovsky
+- name: Dayfall
+  origin: v3
+  books:
+  - title: Dayfall
+    author: Michael David Ares
+- name: Feral Creatures
+  origin: v3
+  books:
+  - title: Feral Creatures
+    author: Kira Jane Buxton

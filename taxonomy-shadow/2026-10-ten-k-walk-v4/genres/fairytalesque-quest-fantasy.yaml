@@ -1,0 +1,37 @@
+id: fairytalesque-quest-fantasy
+label: Fairytalesque quest fantasy
+parent: high-fantasy
+origin: original
+definition: Original-world quests shaped by fairy-tale grammar - curses, impossible tasks, witches and
+  enchanted objects - without retelling a specific inherited tale.
+cards:
+- name: Half-Witch
+  origin: original
+  books:
+  - title: Half-Witch
+- name: Song of the Crimson Flower
+  origin: original
+  books:
+  - title: Song of the Crimson Flower
+- name: The 13 Clocks
+  origin: original
+  books:
+  - title: The 13 Clocks
+- name: The Story of the Glittering Plain
+  origin: original
+  books:
+  - title: The Story of the Glittering Plain
+- name: Nettle & Bone
+  origin: original
+  books:
+  - title: Nettle & Bone
+- name: Unfinished Land
+  origin: v3
+  books:
+  - title: The Unfinished Land
+    author: Greg Bear
+- name: Hob's Bargain
+  origin: v3
+  books:
+  - title: The Hob's Bargain
+    author: Patricia Briggs

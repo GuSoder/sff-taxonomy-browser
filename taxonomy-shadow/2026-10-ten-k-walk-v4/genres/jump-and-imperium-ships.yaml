@@ -1,0 +1,85 @@
+id: jump-and-imperium-ships
+label: Jump and imperium ships
+parent: mercenary-and-imperium-ships
+origin: shadow-v3
+definition: Imperial ships.
+cards:
+- name: Van Name Jump
+  origin: v3
+  books:
+  - title: Overthrowing Heaven
+    author: Mark L. Van Name
+  - title: No Going Back
+    author: Mark L. Van Name
+- name: Known Space Niven
+  origin: v3
+  books:
+  - title: Protector
+    author: Larry Niven
+  - title: Crashlander
+    author: Larry Niven
+  - title: Flatlander
+    author: Larry Niven
+  - title: Three Books of Known Space
+    author: Larry Niven
+  - title: Destiny's Road
+    author: Larry Niven
+  - title: Building Harlequin's Moon
+    author: Larry Niven
+  - title: Saturn's Race
+    author: Larry Niven
+  - title: Destroyer of Worlds
+    author: Larry Niven
+  - title: The Goliath Stone
+    author: Larry Niven
+  - title: Starborn & Godsons
+    author: Larry Niven
+- name: View from the Imperium
+  origin: v3
+  books:
+  - title: The Grand Tour
+    author: Jody Lynn Nye
+  - title: View from the Imperium
+    author: Jody Lynn Nye
+  - title: Fortunes of the Imperium
+    author: Jody Lynn Nye
+  - title: Rhythm of the Imperium
+    author: Jody Lynn Nye
+- name: Philip Palmer SF
+  origin: v3
+  books:
+  - title: Artemis
+    author: Philip Palmer
+  - title: Debatable Space
+    author: Philip Palmer
+  - title: Hell Ship
+    author: Philip Palmer
+  - title: Red Claw
+    author: Philip Palmer
+  - title: Version 43
+    author: Philip Palmer
+- name: Star Risk and Ramal
+  origin: v3
+  books:
+  - title: Chris Bunch's The Gangster Conspiracy
+    author: Steve Perry
+  - title: The Ramal Extraction
+    author: Steve Perry
+  - title: The Vastalimi Gambit
+    author: Steve Perry
+  - title: The Tejano Conflict
+    author: Steve Perry
+- name: Imperial Stars
+  origin: v3
+  books:
+  - title: 'Imperial Stars 1: The Stars at War'
+    author: Jerry Pournelle
+  - title: 'Imperial Stars 2: Republic and Empire'
+    author: Jerry Pournelle
+  - title: 'Imperial Stars 3: The Crash of Empire'
+    author: Jerry Pournelle
+- name: Red River Seven
+  origin: v3
+  books:
+  - title: Red River Seven
+    author: A. J. Ryan

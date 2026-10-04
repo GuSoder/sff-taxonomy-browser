@@ -1,0 +1,42 @@
+id: war-and-memory-states
+label: War, memory and machine states
+parent: states-and-societies-tomorrow
+origin: shadow-v3
+definition: States shaped by war, spying and digital memory.
+cards:
+- name: Dean Ing
+  origin: v3
+  books:
+  - title: The Rackham Files
+    author: Dean Ing
+  - title: It's Up to Charlie Hardin
+    author: Dean Ing
+- name: Noir Jeter
+  origin: v3
+  books:
+  - title: Noir
+    author: K. W. Jeter
+- name: In the Lives of Puppets
+  origin: v3
+  books:
+  - title: In the Lives of Puppets
+    author: TJ Klune
+- name: Forest of Memory
+  origin: v3
+  books:
+  - title: Forest of Memory
+    author: Mary Robinette Kowal
+- name: At the End of Babel
+  origin: v3
+  books:
+  - title: At the End of Babel
+    author: Michael Livingston
+- name: Corporation Wars
+  origin: v3
+  books:
+  - title: 'The Corporation Wars: Dissidence'
+    author: Ken MacLeod
+  - title: 'The Corporation Wars: Emergence'
+    author: Ken MacLeod
+  - title: 'The Corporation Wars: Insurgence'
+    author: Ken MacLeod

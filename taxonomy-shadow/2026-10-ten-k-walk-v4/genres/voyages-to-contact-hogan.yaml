@@ -1,0 +1,65 @@
+id: voyages-to-contact-hogan
+label: Voyages to contact
+parent: contact-by-voyage
+origin: shadow-v3
+definition: Voyages and ships to first contact.
+cards:
+- name: Dosadi / Whipping Star
+  origin: v3
+  books:
+  - title: The Dosadi Experiment
+    author: Frank Herbert
+  - title: Whipping Star
+    author: Frank Herbert
+- name: James P Hogan space
+  origin: v3
+  books:
+  - title: Martian Knightlife
+    author: James P. Hogan
+  - title: Echoes of an Alien Sky
+    author: James P. Hogan
+  - title: Mission to Minerva
+    author: James P. Hogan
+  - title: Moon Flower
+    author: James P. Hogan
+  - title: Migration
+    author: James P. Hogan
+  - title: Worlds in Chaos
+    author: James P. Hogan
+- name: Black Brillion
+  origin: v3
+  books:
+  - title: Black Brillion
+    author: Matthew Hughes
+- name: Radio Freefall
+  origin: v3
+  books:
+  - title: Radio Freefall
+    author: Matthew Jarpe
+- name: Les Johnson
+  origin: v3
+  books:
+  - title: Mission to Methone
+    author: Les Johnson
+  - title: The Ross 248 Project
+    author: Les Johnson
+- name: Karl Kofoed Reef
+  origin: v3
+  books:
+  - title: Deep Ice
+    author: Karl Kofoed
+  - title: Farthest Reef
+    author: Karl Kofoed
+  - title: Infinite Reef
+    author: Karl Kofoed
+  - title: Joko
+    author: Karl Kofoed
+  - title: Jupiter's Reef
+    author: Karl Kofoed
+  - title: Jupiter's Reef Trilogy
+    author: Karl Kofoed
+- name: Martian Obelisk
+  origin: v3
+  books:
+  - title: The Martian Obelisk
+    author: Linda Nagata

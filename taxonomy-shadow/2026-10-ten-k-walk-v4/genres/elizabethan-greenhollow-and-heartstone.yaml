@@ -1,0 +1,39 @@
+id: elizabethan-greenhollow-and-heartstone
+label: Elizabethan edges, Greenhollow and Heartstone
+parent: regency-and-victorian-faerie
+origin: shadow-v3
+definition: Regency faerie cont.
+cards:
+- name: Doubled Edge Elizabethan
+  origin: v3
+  books:
+  - title: Ill Met by Moonlight
+    author: Mercedes Lackey
+- name: Greenhollow
+  origin: v3
+  books:
+  - title: Silver in the Wood
+    author: Emily Tesh
+  - title: Drowned Country
+    author: Emily Tesh
+  - title: The Greenhollow Duology
+    author: Emily Tesh
+- name: Tooth and Claw
+  origin: v3
+  books:
+  - title: Tooth and Claw
+    author: Jo Walton
+- name: Heartstone
+  origin: v3
+  books:
+  - title: Dragonshadow
+    author: Elle Katharine White
+  - title: Flamebringer
+    author: Elle Katharine White
+  - title: Heartstone
+    author: Elle Katharine White
+- name: Stealing the Elf-King's Roses
+  origin: v3
+  books:
+  - title: Stealing the Elf-Kings Roses
+    author: Diane Duane

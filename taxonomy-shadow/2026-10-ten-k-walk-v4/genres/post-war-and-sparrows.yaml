@@ -1,0 +1,60 @@
+id: post-war-and-sparrows
+label: Post-war and sparrows
+parent: ruins-and-kirinyaga
+origin: shadow-v3
+definition: Post-war.
+cards:
+- name: Saintcrow Post-War
+  origin: v3
+  books:
+  - title: Afterwar
+    author: Lilith Saintcrow
+  - title: Cormorant Run
+    author: Lilith Saintcrow
+  - title: Pack
+    author: Lilith Saintcrow
+  - title: Wasteland King
+    author: Lilith Saintcrow
+- name: Lockstep
+  origin: v3
+  books:
+  - title: Lockstep
+    author: Karl Schroeder
+  - title: The Million
+    author: Karl Schroeder
+- name: Chosen Soldiers
+  origin: v3
+  books:
+  - title: Chosen Soldiers
+    author: R H Scott
+- name: When the Sparrow Falls
+  origin: v3
+  books:
+  - title: When the Sparrow Falls
+    author: Neil Sharpson
+- name: Michael Shea
+  origin: v3
+  books:
+  - title: The Extra
+    author: Michael Shea
+  - title: Assault on Sunrise
+    author: Michael Shea
+- name: Chaos Function
+  origin: v3
+  books:
+  - title: The Chaos Function
+    author: Jack Skillingstead
+- name: L. Neil Smith
+  origin: v3
+  books:
+  - title: Bretta Martyn
+    author: L. Neil Smith
+  - title: Forge of the Elders
+    author: L. Neil Smith
+  - title: The American Zone
+    author: L. Neil Smith
+- name: Probability Broach
+  origin: v3
+  books:
+  - title: The Probability Broach
+    author: L. Neil Smith

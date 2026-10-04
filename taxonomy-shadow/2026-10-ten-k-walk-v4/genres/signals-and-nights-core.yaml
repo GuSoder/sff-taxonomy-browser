@@ -1,0 +1,44 @@
+id: signals-and-nights-core
+label: Signals and nights
+parent: signals-and-nights
+origin: shadow-v3
+definition: First signals from the dark.
+cards:
+- name: To Walk the Night
+  origin: original
+  books:
+  - title: To Walk the Night
+    author: William Sloane
+- name: Esperance
+  origin: original
+  books:
+  - title: Esperance
+- name: Hole in the Sky
+  origin: original
+  books:
+  - title: Hole in the Sky
+- name: Contains Multitudes
+  origin: v3
+  books:
+  - title: Contains Multitudes
+    author: Ben Burgis
+- name: Escape Orbit
+  origin: v3
+  books:
+  - title: Escape Orbit
+    author: Patrick Chiles
+- name: Phobos
+  origin: v3
+  books:
+  - title: Phobos
+    author: Ty Drago
+- name: Chaos and Consequences
+  origin: v3
+  books:
+  - title: Chaos and Consequences
+    author: Jason Cordova
+- name: Dark Transmissions
+  origin: v3
+  books:
+  - title: Dark Transmissions
+    author: Davila Leblanc

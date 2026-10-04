@@ -1,0 +1,43 @@
+id: fairyland-and-shadow-speakers
+label: Fairyland and shadow speakers
+parent: celtic-and-fairyland-lines
+origin: shadow-v3
+definition: Fairyland and spirit-walkers.
+cards:
+- name: Eclipsed Evolution
+  origin: v3
+  books:
+  - title: Emergence
+    author: Kim Harrison
+  - title: First Contact
+    author: Kim Harrison
+  - title: Totality
+    author: Kim Harrison
+  - title: Eclipsed Evolution
+    author: Kim Harrison
+- name: Fairyland McAuley
+  origin: v3
+  books:
+  - title: Fairyland
+    author: Paul McAuley
+- name: Pat Murphy Fairies
+  origin: v3
+  books:
+  - title: About Fairies
+    author: Pat Murphy
+  - title: Not Alone
+    author: Pat Murphy
+- name: Greenteeth
+  origin: v3
+  books:
+  - title: Greenteeth
+    author: Molly O
+  - title: Nightshade and Oak
+    author: Molly O
+- name: Shadow Speaker
+  origin: v3
+  books:
+  - title: Like Thunder
+    author: Nnedi Okorafor
+  - title: Shadow Speaker
+    author: Nnedi Okorafor

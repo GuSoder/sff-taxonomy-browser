@@ -1,0 +1,17 @@
+id: bread-and-circus-dystopias
+label: Bread & circus dystopias
+parent: social-dystopia-modern
+origin: original
+definition: 'Social dystopias of the recognizable present whose engine is spectacle as social control:
+  state and media fuse punishment into mass entertainment. Split 2026-09-25 from social-dystopia-modern
+  (the curator ruling).'
+cards:
+- name: Chain-Gang All-Stars
+  origin: original
+  books:
+  - title: Chain-Gang All-Stars
+- name: Vigilance
+  origin: v3
+  books:
+  - title: Vigilance
+    author: Robert Jackson Bennett

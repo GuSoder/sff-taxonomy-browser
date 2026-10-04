@@ -1,0 +1,67 @@
+id: wings-and-gryphons
+label: Wings and Gryphons
+parent: bonded-heroes
+origin: shadow-v3
+definition: 'Bonded-hero fantasy of riders and partners with winged creatures: dragons, gryphons, owl-mages.'
+cards:
+- name: Mage Winds
+  origin: v3
+  books:
+  - title: Winds of Fate
+    author: Mercedes Lackey
+  - title: Winds of Change
+    author: Mercedes Lackey
+  - title: Winds of Fury
+    author: Mercedes Lackey
+- name: Mage Storms
+  origin: v3
+  books:
+  - title: Storm Warning
+    author: Mercedes Lackey
+  - title: Storm Rising
+    author: Mercedes Lackey
+  - title: Storm Breaking
+    author: Mercedes Lackey
+- name: Owl Mage
+  origin: v3
+  books:
+  - title: Owlflight
+    author: Mercedes Lackey
+  - title: Owlsight
+    author: Mercedes Lackey
+  - title: Owlknight
+    author: Mercedes Lackey
+- name: Dragon Jousters
+  origin: v3
+  books:
+  - title: Joust
+    author: Mercedes Lackey
+  - title: Alta
+    author: Mercedes Lackey
+  - title: Sanctuary
+    author: Mercedes Lackey
+  - title: Aerie
+    author: Mercedes Lackey
+- name: Mage Wars
+  origin: v3
+  books:
+  - title: The Black Gryphon
+    author: Mercedes Lackey
+  - title: The White Gryphon
+    author: Mercedes Lackey
+  - title: The Silver Gryphon
+    author: Mercedes Lackey
+- name: Toby Bishop winged horses
+  origin: v3
+  books:
+  - title: Airs Beneath the Moon
+    author: Toby Bishop
+  - title: Airs and Graces
+    author: Toby Bishop
+  - title: Airs of Night and Sea
+    author: Toby Bishop
+- name: Tamarack dragons
+  origin: v3
+  books:
+  - title: To Ride a Rising Storm
+    author: Moniquill Blackgoose

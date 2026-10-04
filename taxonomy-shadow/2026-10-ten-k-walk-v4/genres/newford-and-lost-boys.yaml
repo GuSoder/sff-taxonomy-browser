@@ -1,0 +1,52 @@
+id: newford-and-lost-boys
+label: Newford, tattoos and city watch
+parent: private-eyes-and-cryptids
+origin: shadow-v3
+definition: Modern city tales of folk, ghosts and tattooed hunters.
+cards:
+- name: John Lambshead
+  origin: v3
+  books:
+  - title: Lucy's Blade
+    author: John Lambshead
+  - title: Wolf in Shadow
+    author: John Lambshead
+- name: Devil in the Wires
+  origin: v3
+  books:
+  - title: Devil in the Wires
+    author: Tim Lees
+- name: Game of Shadows
+  origin: v3
+  books:
+  - title: Game of Shadows
+    author: Erika Lewis
+- name: Hunter Kiss
+  origin: v3
+  books:
+  - title: The Iron Hunt
+    author: Marjorie M. Liu
+  - title: Darkness Calls
+    author: Marjorie M. Liu
+  - title: A Wild Light
+    author: Marjorie M. Liu
+  - title: The Mortal Bone
+    author: Marjorie M. Liu
+  - title: Labyrinth of Stars
+    author: Marjorie M. Liu
+- name: Fifth Ward
+  origin: v3
+  books:
+  - title: 'The Fifth Ward: First Watch'
+    author: Dale Lucas
+  - title: 'The Fifth Ward: Friendly Fire'
+    author: Dale Lucas
+  - title: 'The Fifth Ward: Good Company'
+    author: Dale Lucas
+- name: Seanan McGuire
+  origin: v3
+  books:
+  - title: Full of Briars
+    author: Seanan McGuire
+  - title: Dusk or Dark or Dawn or Day
+    author: Seanan McGuire

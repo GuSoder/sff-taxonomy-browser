@@ -1,0 +1,48 @@
+id: wreck-delving
+label: Wreck delving
+parent: alien-delving
+origin: original
+definition: 'New space opera of alien delving into dead ships: salvage crews board wrecks and derelicts
+  for keeps - cargo, claims and salvage rights. Split 2026-09-28 from Alien delving by what they go into
+  (curator ruling).'
+cards:
+- name: White Space
+  origin: original
+  books:
+  - title: Ancestral Night
+    author: Elizabeth Bear
+  - title: Machine
+    author: Elizabeth Bear
+  - title: The Folded Sky
+    author: Elizabeth Bear
+- name: Embers of War
+  origin: original
+  books:
+  - title: Embers of War
+    author: Gareth L. Powell
+  - title: Fleet of Knives
+    author: Gareth L. Powell
+  - title: Light of Impossible Stars
+    author: Gareth L. Powell
+- name: Dead Silence
+  origin: v3
+  books:
+  - title: Dead Silence
+    author: S.A. Barnes
+- name: Alex Benedict
+  origin: v3
+  books:
+  - title: A Talent for War
+    author: Jack McDevitt
+  - title: Polaris
+    author: Jack McDevitt
+  - title: Seeker
+    author: Jack McDevitt
+  - title: The Devil's Eye
+    author: Jack McDevitt
+  - title: Echo
+    author: Jack McDevitt
+  - title: Firebird
+    author: Jack McDevitt
+  - title: Coming Home
+    author: Jack McDevitt

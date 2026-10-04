@@ -1,0 +1,105 @@
+id: angel-fantasy
+label: Angel fantasy
+parent: supernatural-fantasy
+origin: shadow-v2
+definition: ''
+cards:
+- name: Guild Hunter
+  origin: v3
+  books:
+  - title: Angels' Blood
+    author: Nalini Singh
+  - title: Angels' Flight
+    author: Nalini Singh
+  - title: Archangel's Ascension
+    author: Nalini Singh
+  - title: Archangel's Blade
+    author: Nalini Singh
+  - title: Archangel's Consort
+    author: Nalini Singh
+  - title: Archangel's Enigma
+    author: Nalini Singh
+  - title: Archangel's Eternity
+    author: Nalini Singh
+  - title: Archangel's Heart
+    author: Nalini Singh
+  - title: Archangel's Kiss
+    author: Nalini Singh
+  - title: Archangel's Legion
+    author: Nalini Singh
+  - title: Archangel's Light
+    author: Nalini Singh
+  - title: Archangel's Lineage
+    author: Nalini Singh
+  - title: Archangel's Prophecy
+    author: Nalini Singh
+  - title: Archangel's Resurrection
+    author: Nalini Singh
+  - title: Archangel's Shadows
+    author: Nalini Singh
+  - title: Archangel's Storm
+    author: Nalini Singh
+  - title: Archangel's Sun
+    author: Nalini Singh
+  - title: Archangel's Viper
+    author: Nalini Singh
+  - title: Archangel's War
+    author: Nalini Singh
+- name: Remy Chandler
+  origin: v3
+  books:
+  - title: A Kiss Before the Apocalypse
+    author: Thomas E. Sniegoski
+  - title: Dancing on the Head of a Pin
+    author: Thomas E. Sniegoski
+  - title: Where Angels Fear to Tread
+    author: Thomas E. Sniegoski
+  - title: A Hundred Words for Hate
+    author: Thomas E. Sniegoski
+  - title: In the House of the Wicked
+    author: Thomas E. Sniegoski
+  - title: Walking in the Midst of Fire
+    author: Thomas E. Sniegoski
+  - title: A Deafening Silence in Heaven
+    author: Thomas E. Sniegoski
+- name: Dante Valentine
+  origin: v3
+  books:
+  - title: Dante Valentine
+    author: Lilith Saintcrow
+  - title: Dead Man Rising
+    author: Lilith Saintcrow
+  - title: Working for the Devil
+    author: Lilith Saintcrow
+- name: Samaria (Archangel)
+  origin: v3
+  books:
+  - title: Archangel
+    author: Sharon Shinn
+  - title: Jovah's Angel
+    author: Sharon Shinn
+  - title: The Alleluia Files
+    author: Sharon Shinn
+  - title: Angelica
+    author: Sharon Shinn
+  - title: Angel-Seeker
+    author: Sharon Shinn
+- name: Books of Raziel
+  origin: v3
+  books:
+  - title: Angelus
+    author: Sabrina Benulis
+  - title: Archon
+    author: Sabrina Benulis
+  - title: Covenant
+    author: Sabrina Benulis
+- name: Shadows That Listen
+  origin: v3
+  books:
+  - title: The Shadows That Listen
+    author: Louisa Carmody
+- name: Wretched Divine
+  origin: v3
+  books:
+  - title: The Wretched Divine
+    author: Adalyn Grace

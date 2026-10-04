@@ -1,0 +1,82 @@
+id: pulp-and-golden-age-aliens
+label: Golden age and later alien tales
+parent: aliens-arrive
+origin: shadow-v3
+definition: Alien tales.
+cards:
+- name: O'Leary SF
+  origin: v3
+  books:
+  - title: The Impossible Bird
+    author: Patrick O'Leary
+  - title: Door Number Three
+    author: Patrick O'Leary
+- name: Fractal Noise
+  origin: v3
+  books:
+  - title: To Sleep in a Sea of Stars
+    author: Christopher Paolini
+  - title: Fractal Noise
+    author: Christopher Paolini
+- name: Pohl Novels
+  origin: v3
+  books:
+  - title: The Coming of the Quantum Cats
+    author: Frederik Pohl
+  - title: All the Lives He Led
+    author: Frederik Pohl
+  - title: Black Star Rising
+    author: Frederik Pohl
+  - title: Drunkard's Walk
+    author: Frederik Pohl
+  - title: Homegoing
+    author: Frederik Pohl
+  - title: Jem
+    author: Frederik Pohl
+  - title: Narabedla, Ltd.
+    author: Frederik Pohl
+  - title: O Pioneer!
+    author: Frederik Pohl
+  - title: Slave Ship
+    author: Frederik Pohl
+  - title: Starburst
+    author: Frederik Pohl
+  - title: The Age of the Pussyfoot
+    author: Frederik Pohl
+  - title: The Demon in the Skull
+    author: Frederik Pohl
+  - title: The Voices of Heaven
+    author: Frederik Pohl
+  - title: The World at the End of Time
+    author: Frederik Pohl
+- name: Fallen Angels
+  origin: v3
+  books:
+  - title: Fallen Angels
+    author: Jerry Pournelle
+- name: Powers Stolen Skies
+  origin: v3
+  books:
+  - title: The Mills of the Gods
+    author: Tim Powers
+  - title: Stolen Skies
+    author: Tim Powers
+- name: Robert Reed Invasions
+  origin: v3
+  books:
+  - title: Swingers
+    author: Robert Reed
+  - title: The Next Invasion
+    author: Robert Reed
+- name: Departure Riddle
+  origin: v3
+  books:
+  - title: Departure
+    author: A G Riddle
+- name: Spider Robinson Very
+  origin: v3
+  books:
+  - title: Very Bad Deaths
+    author: Spider Robinson
+  - title: Very Hard Choices
+    author: Spider Robinson

@@ -1,0 +1,47 @@
+id: frontier-steam
+label: Frontier Steam
+parent: steampunk
+origin: shadow-v3
+definition: Steampunk in the American West and the colonial frontier.
+cards:
+- name: The Clockwork Century
+  origin: original
+  books:
+  - title: Boneshaker
+    author: Cherie Priest
+  - title: Clementine
+    author: Cherie Priest
+  - title: Dreadnought
+    author: Cherie Priest
+  - title: Ganymede
+    author: Cherie Priest
+  - title: Inexplicables
+    author: Cherie Priest
+  - title: Fiddlehead
+    author: Cherie Priest
+- name: Karen Memory
+  origin: v3
+  books:
+  - title: Karen Memory
+    author: Elizabeth Bear
+- name: A Transatlantic Tunnel, Hurrah!
+  origin: original
+  books:
+  - title: A Transatlantic Tunnel, Hurrah!
+- name: Everfair
+  origin: original
+  books:
+  - title: Everfair
+    author: Nisi Shawl
+  - title: Kinning
+    author: Nisi Shawl
+- name: Buffalo Soldier
+  origin: v3
+  books:
+  - title: Buffalo Soldier
+    author: Maurice Broaddus
+- name: Emilie Adventures
+  origin: v3
+  books:
+  - title: The Emilie Adventures
+    author: Martha Wells

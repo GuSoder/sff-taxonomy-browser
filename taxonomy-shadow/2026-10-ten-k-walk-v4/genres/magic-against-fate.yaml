@@ -1,0 +1,63 @@
+id: magic-against-fate
+label: Magic Against Fate
+parent: hard-magic
+origin: shadow-v3
+definition: Hard fantasy where a rule-bound magic collides with prophecy, ruin or cosmic law.
+cards:
+- name: The Wheel of Time
+  origin: v3
+  books:
+  - title: The Complete Wheel of Time
+    author: Robert Jordan
+  - title: The Wheel of Time, Books 1-4
+    author: Robert Jordan
+  - title: The Wheel of Time, Books 5-9
+    author: Robert Jordan
+- name: The Broken Earth
+  origin: original
+  books:
+  - title: The Fifth Season
+    author: N. K. Jemisin
+  - title: The Obelisk Gate
+    author: N. K. Jemisin
+  - title: The Stone Sky
+    author: N. K. Jemisin
+- name: The Demon Cycle
+  origin: v3
+  books:
+  - title: 'The Daylight War: Book Three of The Demon Cycle'
+    author: Peter V. Brett
+  - title: 'The Desert Spear: Book Two of The Demon Cycle'
+    author: Peter V. Brett
+  - title: 'The Warded Man: Book One of The Demon Cycle'
+    author: Peter V. Brett
+  - title: 'The Core: Book Five of The Demon Cycle'
+    author: Peter V. Brett
+  - title: 'The Skull Throne: Book Four of The Demon Cycle'
+    author: Peter V. Brett
+- name: The Old Kingdom
+  origin: original
+  books:
+  - title: Sabriel
+    author: Garth Nix
+  - title: Lirael
+    author: Garth Nix
+  - title: Abhorsen
+    author: Garth Nix
+  - title: Clariel
+    author: Garth Nix
+  - title: Goldenhand
+    author: Garth Nix
+  - title: Terciel & Elinor
+    author: Garth Nix
+- name: Middlegame
+  origin: original
+  books:
+  - title: Middlegame
+- name: Tepper Fantasies
+  origin: v3
+  books:
+  - title: Shadow's End
+    author: Sheri S. Tepper
+  - title: A Plague of Angels
+    author: Sheri S. Tepper

@@ -1,0 +1,73 @@
+id: scholar-mages-and-saints
+label: Scholar mages and saints
+parent: mages-with-burdens
+origin: shadow-v3
+definition: Mages tied to gods, saints and scholarship.
+cards:
+- name: Masters and Mages
+  origin: v3
+  books:
+  - title: Bright Steel
+    author: Miles Cameron
+  - title: Cold Iron
+    author: Miles Cameron
+  - title: Dark Forge
+    author: Miles Cameron
+- name: Millennium's Rule
+  origin: v3
+  books:
+  - title: Angel of Storms
+    author: Trudi Canavan
+  - title: Makers Curse
+    author: Trudi Canavan
+  - title: Thiefs Magic
+    author: Trudi Canavan
+- name: Spellwright
+  origin: v3
+  books:
+  - title: Spellwright
+    author: Blake Charlton
+  - title: Spellbound
+    author: Blake Charlton
+  - title: Spellbreaker
+    author: Blake Charlton
+- name: Francia magi
+  origin: v3
+  books:
+  - title: Tracing the Shadow
+    author: Sarah Ash
+  - title: Flight into Darkness
+    author: Sarah Ash
+- name: Josan
+  origin: v3
+  books:
+  - title: The First Betrayal
+    author: Patricia Bray
+  - title: The Sea Change
+    author: Patricia Bray
+  - title: The Final Sacrifice
+    author: Patricia Bray
+- name: Mkalis Cycle
+  origin: v3
+  books:
+  - title: The Border Keeper
+    author: Kerstin Hall
+  - title: Star Eater
+    author: Kerstin Hall
+  - title: Second Spear
+    author: Kerstin Hall
+  - title: A Heart Between Teeth
+    author: Kerstin Hall
+  - title: The Mkalis Cycle
+    author: Kerstin Hall
+- name: Modesitt
+  origin: v3
+  books:
+  - title: 'Saga of Recluce: Books 1-5'
+    author: L. E. Modesitt Jr.
+  - title: Legalist
+    author: L. E. Modesitt Jr.
+  - title: Flash
+    author: L.E. Modesitt Jr.
+  - title: Scepters
+    author: L.E. Modesitt Jr.

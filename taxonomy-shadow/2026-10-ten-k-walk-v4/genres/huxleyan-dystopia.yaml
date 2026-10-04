@@ -1,0 +1,35 @@
+id: huxleyan-dystopia
+label: Huxleyan dystopia
+parent: totalitarian-dystopia
+origin: original
+definition: Dystopias where power engineers consent and conformity through pleasure, conditioning, drugs,
+  psychological manipulation or control of the body - the Huxleyan side of Neil Postman’s Huxley-versus-Orwell
+  contrast.
+cards:
+- name: A Clockwork Orange
+  origin: original
+  books:
+  - title: A Clockwork Orange
+- name: Brave New World
+  origin: original
+  books:
+  - title: Brave New World
+- name: Camp Concentration
+  origin: original
+  books:
+  - title: Camp Concentration
+- name: Dealing in Dreams
+  origin: original
+  books:
+  - title: Dealing in Dreams
+- name: Uglies
+  origin: original
+  books:
+  - title: Uglies
+    author: Scott Westerfeld
+  - title: Pretties
+    author: Scott Westerfeld
+  - title: Specials
+    author: Scott Westerfeld
+  - title: Extras
+    author: Scott Westerfeld

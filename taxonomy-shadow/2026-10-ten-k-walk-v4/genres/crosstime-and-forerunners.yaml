@@ -1,0 +1,80 @@
+id: crosstime-and-forerunners
+label: Crosstime and forerunners
+parent: lost-worlds-and-crosstime
+origin: shadow-v3
+definition: Other times.
+cards:
+- name: Lentala of the South Seas
+  origin: v3
+  books:
+  - title: Lentala of the South Seas
+    author: W.C. Morrow
+- name: Norton Crosstime
+  origin: v3
+  books:
+  - title: Darkness and Dawn
+    author: Andre Norton
+  - title: Crosstime
+    author: Andre Norton
+- name: Norton Forerunner and Gates
+  origin: v3
+  books:
+  - title: The Forerunner Factor
+    author: Andre Norton
+  - title: Forerunner
+    author: Andre Norton
+  - title: Ice and Shadow
+    author: Andre Norton
+  - title: The Iron Breed
+    author: Andre Norton
+  - title: Children of the Gates
+    author: Andre Norton
+  - title: Secret of the Stars
+    author: Andre Norton
+- name: Seven Circles
+  origin: v3
+  books:
+  - title: 'Seven Circles 1: Circle at Center'
+    author: Douglas Niles
+  - title: The Goddess Worldweaver
+    author: Douglas Niles
+- name: Books of Barakhai
+  origin: v3
+  books:
+  - title: The Beasts of Barakhai
+    author: Mickey Zucker Reichert
+  - title: Lost Dragons of Barakhai
+    author: Mickey Zucker Reichert
+  - title: The Books of Barakhai
+    author: Mickey Zucker Reichert
+- name: Elfhome
+  origin: v3
+  books:
+  - title: Tinker
+    author: Wen Spencer
+  - title: Wolf Who Rules
+    author: Wen Spencer
+  - title: Elfhome
+    author: Wen Spencer
+  - title: Wood Sprites
+    author: Wen Spencer
+  - title: Project Elfhome
+    author: Wen Spencer
+  - title: Harbinger
+    author: Wen Spencer
+  - title: Storm Furies
+    author: Wen Spencer
+- name: Nantucket Series
+  origin: v3
+  books:
+  - title: Island in the Sea of Time
+    author: S. M. Stirling
+  - title: Against the Tide of Years
+    author: S. M. Stirling
+  - title: On the Oceans of Eternity
+    author: S. M. Stirling
+- name: Drakon
+  origin: v3
+  books:
+  - title: Drakon
+    author: S. M. Stirling

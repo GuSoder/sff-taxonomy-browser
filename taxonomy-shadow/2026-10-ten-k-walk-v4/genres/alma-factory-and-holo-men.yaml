@@ -1,0 +1,47 @@
+id: alma-factory-and-holo-men
+label: Alma, factories and holo men
+parent: virtual-lives-and-fears
+origin: shadow-v3
+definition: Virtual lives.
+cards:
+- name: Alma sequence
+  origin: original
+  books:
+  - title: The Real-Town Murders
+    author: Adam Roberts
+  - title: By the Pricking of Her Thumb
+    author: Adam Roberts
+- name: Dark Factory
+  origin: original
+  books:
+  - title: Dark Factory
+- name: Holo Men
+  origin: v3
+  books:
+  - title: Holo Men
+    author: Stephen Billias
+- name: Chris Bradford
+  origin: v3
+  books:
+  - title: Cyborg
+    author: Chris Bradford
+  - title: Gamer
+    author: Chris Bradford
+  - title: Lunar
+    author: Chris Bradford
+  - title: Stellar
+    author: Chris Bradford
+  - title: Virus
+    author: Chris Bradford
+- name: Album of Dr Moreau
+  origin: v3
+  books:
+  - title: The Album of Dr. Moreau
+    author: Daryl Gregory
+- name: Howard V Hendrix
+  origin: v3
+  books:
+  - title: Empty Cities of the Full Moon
+    author: Howard V. Hendrix
+  - title: The Labyrinth Key
+    author: Howard V. Hendrix

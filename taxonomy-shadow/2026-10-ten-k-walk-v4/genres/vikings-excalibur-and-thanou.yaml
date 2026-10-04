@@ -1,0 +1,50 @@
+id: vikings-excalibur-and-thanou
+label: Vikings, Excalibur and Thanou
+parent: time-crossed-war
+origin: shadow-v3
+definition: Time crossed war cont.
+cards:
+- name: Lars Walker Vikings
+  origin: v3
+  books:
+  - title: The Year of the Warrior
+    author: Lars Walker
+  - title: Blood and Judgement
+    author: Lars Walker
+  - title: Wolf Time
+    author: Lars Walker
+- name: Excalibur Alternative
+  origin: v3
+  books:
+  - title: The Excalibur Alternative
+    author: David Weber
+- name: Manly Wellman SF
+  origin: v3
+  books:
+  - title: The Beyonders
+    author: Manly Wade Wellman
+  - title: Twice in Time
+    author: Manly Wade Wellman
+- name: Jason Thanou
+  origin: v3
+  books:
+  - title: Blood of the Heroes
+    author: Steve White
+  - title: Sunset of the Gods
+    author: Steve White
+  - title: Gods of Dawn
+    author: Steve White
+  - title: The Malice of Fortune
+    author: Steve White
+- name: Elleander Morning
+  origin: v3
+  books:
+  - title: Elleander Morning
+    author: Jerry Yulsman
+- name: Time Trials
+  origin: v3
+  books:
+  - title: Time Trials
+    author: M.A. Rothman
+  - title: Ice Trials
+    author: ''

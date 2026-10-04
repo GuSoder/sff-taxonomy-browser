@@ -1,0 +1,91 @@
+id: alt-civil-war
+label: Alt Civil War
+parent: period-alterations
+origin: original
+definition: Alternate histories whose fork occurs on the eve of or during the United States Civil War
+  era.
+cards:
+- name: The Guns of the South
+  origin: original
+  books:
+  - title: The Guns of the South
+- name: River of Teeth
+  origin: original
+  books:
+  - title: River of Teeth
+    author: Sarah Gailey
+  - title: Taste of Marrow
+    author: Sarah Gailey
+- name: Bring the Jubilee
+  origin: original
+  books:
+  - title: Bring the Jubilee
+- name: Dread Nation
+  origin: original
+  books:
+  - title: Dread Nation
+    author: Justina Ireland
+  - title: Deathless Divide
+    author: Justina Ireland
+- name: The Day After Gettysburg
+  origin: v3
+  books:
+  - title: The Day After Gettysburg
+    author: Robert Conroy
+- name: Stars & Stripes
+  origin: v3
+  books:
+  - title: Stars and Stripes in Peril
+    author: Harry Harrison
+  - title: Stars & Stripes Forever
+    author: Harry Harrison
+  - title: Stars and Stripes Triumphant
+    author: Harry Harrison
+- name: Southern Victory
+  origin: v3
+  books:
+  - title: How Few Remain
+    author: Harry Turtledove
+  - title: American Front (The Great War, Book One)
+    author: Harry Turtledove
+  - title: Blood and Iron (American Empire, Book One)
+    author: Harry Turtledove
+  - title: The Center Cannot Hold (American Empire, Book Two)
+    author: Harry Turtledove
+  - title: The Victorious Opposition (American Empire, Book Three)
+    author: Harry Turtledove
+  - title: Return Engagement (Settling Accounts, Book One)
+    author: Harry Turtledove
+  - title: Drive to the East (Settling Accounts, Book Two)
+    author: Harry Turtledove
+  - title: The Grapple
+    author: Harry Turtledove
+  - title: In at the Death (Settling Accounts, Book Four)
+    author: Harry Turtledove
+  - title: West and East (The War That Came Early, Book Two)
+    author: Harry Turtledove
+  - title: The Big Switch (The War That Came Early, Book Three)
+    author: Harry Turtledove
+  - title: Last Orders (The War That Came Early, Book Six)
+    author: Harry Turtledove
+  - title: Two Fronts (The War That Came Early, Book Five)
+    author: Harry Turtledove
+- name: Black God's Drums
+  origin: v3
+  books:
+  - title: The Black God's Drums
+    author: P. Djeli Clark
+- name: J R Dawson time-travel
+  origin: v3
+  books:
+  - title: The First Bright Thing
+    author: J.R. Dawson
+  - title: This Is Not My Timeline
+    author: J.R. Dawson
+- name: Rivers of War
+  origin: v3
+  books:
+  - title: '1812: The Rivers of War'
+    author: Eric Flint
+  - title: '1824: The Arkansas War'
+    author: Eric Flint

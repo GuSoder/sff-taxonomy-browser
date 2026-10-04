@@ -1,0 +1,91 @@
+id: mercenary-bands
+label: Mercenary bands
+parent: mercenary-bands-and-seers
+origin: shadow-v3
+definition: Mercenary bands and shadow raiders.
+cards:
+- name: Ian Irvine
+  origin: v3
+  books:
+  - title: Justice
+    author: Ian Irvine
+  - title: Rebellion
+    author: Ian Irvine
+  - title: The Fatal Gate
+    author: Ian Irvine
+  - title: The Summon Stone
+    author: Ian Irvine
+  - title: Vengeance
+    author: Ian Irvine
+- name: Shadow Raiders
+  origin: v3
+  books:
+  - title: Shadow Raiders
+    author: Robert Krammes
+- name: Forsaken Lands
+  origin: v3
+  books:
+  - title: The Daggers Path
+    author: Glenda Larke
+  - title: The Fall of the Dagger
+    author: Glenda Larke
+  - title: The Lascars Dagger
+    author: Glenda Larke
+- name: Steelborn / Last Vigilant
+  origin: v3
+  books:
+  - title: Steelborn
+    author: Taylor J. LaRue
+  - title: The Last Vigilant
+    author: Mark A. Latham
+  - title: The Shadow Queen
+    author: Mark A. Latham
+- name: Shadowfire Lee
+  origin: v3
+  books:
+  - title: Shadowfire
+    author: Tanith Lee
+- name: The Seer
+  origin: v3
+  books:
+  - title: The Seer
+    author: Sonia Orin Lyris
+- name: Dagger and Coin
+  origin: v3
+  books:
+  - title: Blood of the Gods
+    author: David Mealing
+  - title: Chains of the Earth
+    author: David Mealing
+  - title: Soul of the World
+    author: David Mealing
+- name: Company of Heroes
+  origin: v3
+  books:
+  - title: 'A Company of Heroes Book Five: The Space Cadet'
+    author: Ron Miller
+  - title: 'A Company of Heroes Book Four: The Scientist'
+    author: Ron Miller
+  - title: 'A Company of Heroes Book One: The Stonecutter'
+    author: Ron Miller
+  - title: 'A Company of Heroes Book Three: The Princess'
+    author: Ron Miller
+  - title: 'A Company of Heroes Book Two: The Fabulist'
+    author: Ron Miller
+- name: Corean Chronicles
+  origin: v3
+  books:
+  - title: Alector's Choice
+    author: L. E. Modesitt
+  - title: Cadmian's Choice
+    author: L. E. Modesitt
+  - title: Soarer's Choice
+    author: L. E. Modesitt
+  - title: The Hammer of Darkness
+    author: L. E. Modesitt
+  - title: Darknesses
+    author: L. E. Modesitt
+  - title: Legacies
+    author: L. E. Modesitt
+  - title: The Ghost of the Revelator
+    author: L.E. Modesitt

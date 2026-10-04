@@ -1,0 +1,62 @@
+id: crowns-frozen-and-mortal
+label: Frozen crowns and mortal queens
+parent: crowns-and-queens-a
+origin: shadow-v3
+definition: Crown fantasies.
+cards:
+- name: Frozen Crown
+  origin: v3
+  books:
+  - title: The Frozen Crown
+    author: Greta Kelly
+- name: Greta Kelly
+  origin: v3
+  books:
+  - title: The Queen of Days
+    author: Greta Kelly
+  - title: The Seventh Queen
+    author: Greta Kelly
+- name: Nine Realms
+  origin: v3
+  books:
+  - title: A Broken Queen
+    author: Sarah Kozloff
+  - title: A Queen in Hiding
+    author: Sarah Kozloff
+  - title: The Cerulean Queen
+    author: Sarah Kozloff
+  - title: The Queen of Raiders
+    author: Sarah Kozloff
+  - title: The Nine Realms
+    author: Sarah Kozloff
+- name: Amy Leow
+  origin: v3
+  books:
+  - title: The Nameless God
+    author: Amy Leow
+  - title: The Scarlet Throne
+    author: Amy Leow
+- name: The Mortal Queen
+  origin: v3
+  books:
+  - title: The Mortal Queen
+    author: Ashley Metzler
+- name: Sword Named Truth
+  origin: v3
+  books:
+  - title: A Sword Named Truth
+    author: Sherwood Smith
+- name: Chronicles of the Unbinding
+  origin: v3
+  books:
+  - title: 'The Chronicles of the Unbinding: Hazard''s Price'
+    author: Robert S. Stone
+- name: Caine Black Knife
+  origin: v3
+  books:
+  - title: Caine Black Knife
+    author: Matthew Stover
+  - title: God of War
+    author: Matthew Stover
+  - title: Caine's Law
+    author: Matthew Stover

@@ -1,0 +1,75 @@
+id: contact-allies-a
+label: Contact and allies
+parent: contact-with-allies
+origin: shadow-v3
+definition: Contact.
+cards:
+- name: Engines of Light
+  origin: v3
+  books:
+  - title: Dark Light
+    author: Ken MacLeod
+  - title: Engine City
+    author: Ken MacLeod
+  - title: Cosmonaut Keep
+    author: Ken MacLeod
+- name: Empress of Eternity
+  origin: v3
+  books:
+  - title: Empress of Eternity
+    author: L.E. Modesitt
+  - title: Haze
+    author: L.E. Modesitt
+- name: Tusks of Extinction
+  origin: v3
+  books:
+  - title: The Tusks of Extinction
+    author: Ray Nayler
+- name: Sholan Alliance
+  origin: v3
+  books:
+  - title: Turning Point
+    author: Lisanne Norman
+  - title: Fortune's Wheel
+    author: Lisanne Norman
+  - title: Fire Margins
+    author: Lisanne Norman
+  - title: Razor's Edge
+    author: Lisanne Norman
+  - title: Dark Nadir
+    author: Lisanne Norman
+  - title: Stronghold Rising
+    author: Lisanne Norman
+  - title: Between Darkness and Light
+    author: Lisanne Norman
+  - title: Shades of Gray
+    author: Lisanne Norman
+  - title: Circle's End
+    author: Lisanne Norman
+- name: Tear Tracks
+  origin: v3
+  books:
+  - title: Tear Tracks
+    author: Malka Older
+- name: Braking Day
+  origin: v3
+  books:
+  - title: Braking Day
+    author: Adam Oyebanji
+  - title: Line of Descent
+    author: Adam Oyebanji
+- name: Tepper Planet Novels
+  origin: v3
+  books:
+  - title: Fish Tails
+    author: Sheri S Tepper
+  - title: Singer from the Sea
+    author: Sheri S Tepper
+  - title: Six Moon Dance
+    author: Sheri S Tepper
+  - title: The Companions
+    author: Sheri S Tepper
+  - title: The Margarets
+    author: Sheri S Tepper
+  - title: The Visitor
+    author: Sheri S Tepper

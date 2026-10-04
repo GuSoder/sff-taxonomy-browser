@@ -1,0 +1,20 @@
+id: matter-transmission
+label: Matter transmission
+parent: hard-sf
+origin: original
+definition: Hard SF centered on transmitting or duplicating matter, and on the physical or identity problems
+  created by that process (SFE Matter Transmission / Matter Duplication).
+cards:
+- name: Rogue Moon
+  origin: original
+  books:
+  - title: Rogue Moon
+- name: Jumper
+  origin: v3
+  books:
+  - title: 'Jumper: Griffin''s Story'
+    author: Steven Gould
+  - title: Impulse
+    author: Steven Gould
+  - title: Jumper
+    author: Steven Gould

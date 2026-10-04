@@ -1,0 +1,58 @@
+id: classic-time-agencies
+label: Classic time agencies
+parent: time-travel-agency
+origin: original
+definition: 'The classic institutional Time Machines line, from the pulp era through the early 1990s:
+  agencies, patrols, government projects and academic departments send their operatives through time -
+  Eternity''s technicians, Cold War time traders, government forward-jump programs, Oxford''s historians.
+  The owner test still applies; this shelf is the classic wave of it. Named under the curator''s 2026-09-26
+  era split.'
+cards:
+- name: The End of Eternity
+  origin: original
+  books:
+  - title: The End of Eternity
+- name: The Time Traders
+  origin: v3
+  books:
+  - title: 'Time Traders II: The Defiant Agents and Key Out of Time'
+    author: Andre Norton
+- name: The Year of the Quiet Sun
+  origin: original
+  books:
+  - title: The Year of the Quiet Sun
+- name: No Enemy But Time
+  origin: original
+  books:
+  - title: No Enemy But Time
+- name: Oxford Time Travel
+  origin: original
+  books:
+  - title: Doomsday Book
+    author: Connie Willis
+  - title: To Say Nothing of the Dog
+    author: Connie Willis
+  - title: Blackout
+    author: Connie Willis
+  - title: All Clear
+    author: Connie Willis
+- name: Orion Cycle
+  origin: v3
+  books:
+  - title: Death Dream
+    author: Ben Bova
+  - title: Orion and the Conqueror
+    author: Ben Bova
+  - title: Orion in the Dying Time
+    author: Ben Bova
+  - title: Vengeance of Orion
+    author: Ben Bova
+- name: Pirates of the Timestream
+  origin: v3
+  books:
+  - title: Pirates of the Timestream
+    author: Steve White
+  - title: Ghosts of Time
+    author: Steve White
+  - title: Soldiers Out of Time
+    author: Steve White

@@ -1,0 +1,16 @@
+id: war-gothic
+label: War Gothic
+parent: modern-goth
+origin: original
+definition: Modern Gothic in which war's unresolved dead and accumulated violence return to haunt the
+  contemporary world.
+cards:
+- name: Frankenstein in Baghdad
+  origin: original
+  books:
+  - title: Frankenstein in Baghdad
+- name: House of War and Witness
+  origin: v3
+  books:
+  - title: The House of War and Witness
+    author: Linda Carey

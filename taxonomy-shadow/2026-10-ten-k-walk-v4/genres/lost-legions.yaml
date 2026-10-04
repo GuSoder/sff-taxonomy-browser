@@ -1,0 +1,71 @@
+id: lost-legions
+label: Lost Legions
+parent: ground-pounders
+origin: shadow-v3
+definition: Soldiers stranded or abducted to another world who must fight on there.
+cards:
+- name: Janissaries
+  origin: v3
+  books:
+  - title: Janissaries
+    author: Jerry Pournelle
+  - title: Tran
+    author: Jerry Pournelle
+  - title: Lord of Janissaries
+    author: Jerry Pournelle
+  - title: Mamelukes
+    author: Jerry Pournelle
+- name: Empire of Man
+  origin: v3
+  books:
+  - title: March to the Sea
+    author: David Weber
+  - title: March Upcountry
+    author: David Weber
+  - title: Empire of Man
+    author: David Weber
+  - title: House of Steel
+    author: David Weber
+- name: Misplaced Legion
+  origin: v3
+  books:
+  - title: Misplaced Legion
+    author: Harry Turtledove
+- name: Turtledove Ancient
+  origin: v3
+  books:
+  - title: The First Heroes
+    author: Harry Turtledove
+  - title: Beyond the Gap
+    author: Harry Turtledove
+  - title: Every Inch a King
+    author: Harry Turtledove
+  - title: Opening Atlantis
+    author: Harry Turtledove
+  - title: Liberating Atlantis
+    author: Harry Turtledove
+  - title: The Golden Shrine
+    author: Harry Turtledove
+  - title: The United States of Atlantis
+    author: Harry Turtledove
+- name: Tale of Krispos
+  origin: v3
+  books:
+  - title: The Tale of Krispos
+    author: Harry Turtledove
+  - title: Krispos Rising (The Tale of Krispos, Book One)
+    author: Harry Turtledove
+  - title: Krispos of Videssos (The Tale of Krispos, Book Two)
+    author: Harry Turtledove
+  - title: Krispos the Emperor (The Tale of Krispos, Book Three)
+    author: Harry Turtledove
+- name: The Marshals
+  origin: v3
+  books:
+  - title: The Marshals
+    author: Mike Watson
+- name: Pirate Freedom
+  origin: v3
+  books:
+  - title: Pirate Freedom
+    author: Gene Wolfe

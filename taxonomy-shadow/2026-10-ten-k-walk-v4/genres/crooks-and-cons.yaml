@@ -1,0 +1,55 @@
+id: crooks-and-cons
+label: Crooks and Cons
+parent: space-adventure
+origin: shadow-v3
+definition: Space adventure driven by heists, cons and rogues' bargains.
+cards:
+- name: Hammajang Luck
+  origin: original
+  books:
+  - title: Hammajang Luck
+- name: Lady Eve's Last Con
+  origin: original
+  books:
+  - title: Lady Eve's Last Con
+- name: Red Star Hustle
+  origin: original
+  books:
+  - title: Red Star Hustle
+- name: The Stainless Steel Rat
+  origin: original
+  books:
+  - title: The Stainless Steel Rat
+- name: Spiral Arm
+  origin: v3
+  books:
+  - title: The January Dancer
+    author: Michael Flynn
+  - title: Up Jim River
+    author: Michael Flynn
+  - title: In the Lion's Mouth
+    author: Michael Flynn
+  - title: On the Razor's Edge
+    author: Michael Flynn
+- name: You Don't Belong
+  origin: v3
+  books:
+  - title: You Don't Belong Where You Don't Belong
+    author: Kemi Ashing-Giwa
+- name: Sasha Naradnyo
+  origin: v3
+  books:
+  - title: How Dark the World Becomes
+    author: Frank Chadwick
+  - title: Come the Revolution
+    author: Frank Chadwick
+- name: Rex dinosaur PI
+  origin: v3
+  books:
+  - title: Hot and Sweaty Rex
+    author: Eric Garcia
+- name: Alistair Fall
+  origin: v3
+  books:
+  - title: Alistair Fall and the Restless Dead
+    author: Marianne Gordon

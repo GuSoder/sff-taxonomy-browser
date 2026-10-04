@@ -1,0 +1,30 @@
+id: scholars-and-whodunits
+label: Scholars and whodunits
+parent: fantasy-mystery
+origin: shadow-v3
+definition: Mysteries solved by scholars, councillors or ordinary citizens in worlds with strange laws.
+cards:
+- name: The Raven Scholar
+  origin: original
+  books:
+  - title: The Raven Scholar
+- name: Harmattan Season
+  origin: original
+  books:
+  - title: Harmattan Season
+- name: No Gods for Drowning
+  origin: original
+  books:
+  - title: No Gods for Drowning
+- name: Threads That Bind
+  origin: original
+  books:
+  - title: Threads That Bind
+- name: Lud-in-the-Mist
+  origin: original
+  books:
+  - title: Lud-in-the-Mist
+- name: The Briar Book of the Dead
+  origin: original
+  books:
+  - title: The Briar Book of the Dead

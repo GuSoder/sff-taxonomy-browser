@@ -1,0 +1,48 @@
+id: ships-that-forgot
+label: Ships That Forgot
+parent: generation-starships
+origin: shadow-v3
+definition: Generation ships where the crew has lost the truth of the voyage.
+cards:
+- name: Non-Stop
+  origin: original
+  books:
+  - title: Non-Stop
+- name: Rite of Passage
+  origin: original
+  books:
+  - title: Rite of Passage
+- name: Jacob's Ladder
+  origin: v3
+  books:
+  - title: Dust
+    author: Elizabeth Bear
+  - title: Chill
+    author: Elizabeth Bear
+  - title: Grail
+    author: Elizabeth Bear
+  - title: Cleave
+    author: Elizabeth Bear
+  - title: Pinion
+    author: Elizabeth Bear
+  - title: Sanction
+    author: Elizabeth Bear
+- name: Hull Zero Three
+  origin: v3
+  books:
+  - title: Hull Zero Three
+    author: Greg Bear
+- name: Generation Ship (Mammay)
+  origin: v3
+  books:
+  - title: Generation Ship
+    author: Michael Mammay
+- name: Alight
+  origin: v3
+  books:
+  - title: Alight
+    author: Scott Sigler
+  - title: Alive
+    author: Scott Sigler
+  - title: Alone
+    author: Scott Sigler

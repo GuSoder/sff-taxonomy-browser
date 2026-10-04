@@ -1,0 +1,50 @@
+id: dark-lords-and-blackthornes
+label: Dark lords and Blackthornes
+parent: adventurers-and-tricksters
+origin: shadow-v3
+definition: Adventurers cont.
+cards:
+- name: Frank Blackthorne
+  origin: v3
+  books:
+  - title: Dragon Princess
+    author: S. Andrew Swann
+  - title: Dragon Thief
+    author: S. Andrew Swann
+  - title: Dragon Wizard
+    author: S. Andrew Swann
+- name: Tea Cozy Series
+  origin: v3
+  books:
+  - title: A Pirate's Life for Tea
+    author: Rebecca Thorne
+  - title: Can't Spell Treason Without Tea
+    author: Rebecca Thorne
+  - title: Alchemy and a Cup of Tea
+    author: Rebecca Thorne
+  - title: Tea You at the Altar
+    author: Rebecca Thorne
+- name: Hero Adjacent
+  origin: v3
+  books:
+  - title: Hero Adjacent
+    author: Alexis Veenendaal
+- name: Morfran Dark Lord
+  origin: v3
+  books:
+  - title: Morfran, Dark Lord Reformed
+    author: S.B. West
+- name: Dark Lord Davi
+  origin: v3
+  books:
+  - title: Everybody Wants to Rule the World Except Me
+    author: Django Wexler
+  - title: How to Become the Dark Lord and Die Trying
+    author: Django Wexler
+- name: Wiswell Novels
+  origin: v3
+  books:
+  - title: D.I.Y.
+    author: John Wiswell
+  - title: The Dragon Has Some Complaints
+    author: John Wiswell

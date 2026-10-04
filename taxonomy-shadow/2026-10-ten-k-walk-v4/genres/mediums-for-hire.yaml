@@ -1,0 +1,119 @@
+id: mediums-for-hire
+label: Mediums for hire
+parent: ghost-speakers
+origin: shadow-v3
+definition: 'The medium or ghost-talker as professional: investigators, grief-workers and agents who take
+  cases from the dead.'
+cards:
+- name: Harper Connelly
+  origin: v3
+  books:
+  - title: An Ice Cold Grave
+    author: Charlaine Harris
+  - title: Grave Secret
+    author: Charlaine Harris
+  - title: Grave Sight
+    author: Charlaine Harris
+  - title: Grave Surprise
+    author: Charlaine Harris
+- name: Greywalker
+  origin: v3
+  books:
+  - title: Greywalker
+    author: Kat Richardson
+  - title: Poltergeist
+    author: Kat Richardson
+  - title: Underground
+    author: Kat Richardson
+  - title: Vanished
+    author: Kat Richardson
+  - title: Labyrinth
+    author: Kat Richardson
+  - title: Downpour
+    author: Kat Richardson
+  - title: Seawitch
+    author: Kat Richardson
+  - title: Possession
+    author: Kat Richardson
+  - title: Revenant
+    author: Kat Richardson
+- name: The Dying Squad
+  origin: v3
+  books:
+  - title: The Dying Squad
+    author: Adam Simcox
+  - title: The Generation Killer
+    author: Adam Simcox
+  - title: The Ungrateful Dead
+    author: Adam Simcox
+- name: Ghosts and Echoes
+  origin: v3
+  books:
+  - title: Ghosts & Echoes
+    author: Lyn Benedict
+- name: Hallie Michaels (Coates)
+  origin: v3
+  books:
+  - title: What Makes a River
+    author: Deborah Coates
+  - title: Wide Open
+    author: Deborah Coates
+  - title: Deep Down
+    author: Deborah Coates
+  - title: Strange Country
+    author: Deborah Coates
+- name: Archived
+  origin: v3
+  books:
+  - title: The Dark Vault
+    author: V.E. Schwab
+  - title: The Archived
+    author: Victoria Schwab
+- name: Eric Carter
+  origin: v3
+  books:
+  - title: City of the Lost
+    author: Stephen Blackmoore
+  - title: Dead Things
+    author: Stephen Blackmoore
+  - title: Broken Souls
+    author: Stephen Blackmoore
+  - title: Hungry Ghosts
+    author: Stephen Blackmoore
+  - title: Fire Season
+    author: Stephen Blackmoore
+  - title: Ghost Money
+    author: Stephen Blackmoore
+  - title: Bottle Demon
+    author: Stephen Blackmoore
+  - title: Hate Machine
+    author: Stephen Blackmoore
+  - title: Suicide Kings
+    author: Stephen Blackmoore
+  - title: Cult Classic
+    author: Stephen Blackmoore
+- name: Ishmael Jones / Hyde
+  origin: v3
+  books:
+  - title: Jekyll & Hyde Inc.
+    author: Simon R. Green
+  - title: Haunted by the Past
+    author: Simon R. Green
+  - title: The Dark Side of the Road
+    author: Simon R. Green
+  - title: Dead Man Walking
+    author: Simon R. Green
+  - title: Hyde & Seek
+    author: Simon R. Green
+- name: Succubus
+  origin: v3
+  books:
+  - title: Succubus in the City
+    author: Nina Harper
+  - title: Succubus Takes Manhattan
+    author: Nina Harper
+- name: Broken Hearts Agency
+  origin: v3
+  books:
+  - title: The Broken Hearts Agency
+    author: Clarence A. Haynes

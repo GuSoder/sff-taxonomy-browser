@@ -1,0 +1,60 @@
+id: space-academy
+label: Space academy
+parent: military-science-fiction
+origin: original
+definition: 'Military SF of training and formation: academies, cadets and the making of soldiers and commanders.
+  Split 2026-09-25 from Military science fiction (the curator ruling).'
+cards:
+- name: Ender's Game
+  origin: original
+  books:
+  - title: Ender's Game
+    author: Orson Scott Card
+  - title: Speaker for the Dead
+    author: Orson Scott Card
+  - title: Xenocide
+    author: Orson Scott Card
+  - title: Children of the Mind
+    author: Orson Scott Card
+- name: Some Desperate Glory
+  origin: original
+  books:
+  - title: Some Desperate Glory
+- name: Ender saga
+  origin: v3
+  books:
+  - title: Ender's Shadow
+    author: Orson Scott Card
+  - title: Shadow of the Hegemon
+    author: Orson Scott Card
+  - title: Shadow Puppets
+    author: Orson Scott Card
+  - title: Shadow of the Giant
+    author: Orson Scott Card
+  - title: Ender in Exile
+    author: Orson Scott Card
+  - title: A War of Gifts
+    author: Orson Scott Card
+  - title: Shadows in Flight
+    author: Orson Scott Card
+  - title: The Ender Quintet
+    author: Orson Scott Card
+  - title: The Shadow Quintet
+    author: Orson Scott Card
+  - title: Children of the Fleet
+    author: Orson Scott Card
+  - title: 'The Ender Saga #1'
+    author: Orson Scott Card
+  - title: The Last Shadow
+    author: Orson Scott Card
+- name: Skyward
+  origin: v3
+  books:
+  - title: Cytonic
+    author: Brandon Sanderson
+  - title: Skyward
+    author: Brandon Sanderson
+  - title: Skyward Flight
+    author: Brandon Sanderson
+  - title: Starsight
+    author: Brandon Sanderson

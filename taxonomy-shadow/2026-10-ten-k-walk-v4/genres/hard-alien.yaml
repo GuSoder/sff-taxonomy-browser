@@ -1,0 +1,121 @@
+id: hard-alien
+label: Hard alien
+parent: alien-fiction
+origin: original
+definition: New space opera built around genuinely alien beings and hard-edged cosmology - uplifted species,
+  zones of thought, ancient artifacts, alien plagues (Brin's Uplift, Vinge's Zones of Thought, the Expanse's
+  protomolecule, Harrison's Kefahuchi Tract). the curator-coined label; split 2026-09-14 from new space
+  opera under the ten-work cap.
+cards:
+- name: Uplift
+  origin: original
+  books:
+  - title: Sundiver
+    author: David Brin
+  - title: Startide Rising
+    author: David Brin
+  - title: The Uplift War
+    author: David Brin
+  - title: Brightness Reef
+    author: David Brin
+  - title: Infinity's Shore
+    author: David Brin
+  - title: Heaven's Reach
+    author: David Brin
+- name: A Fire Upon the Deep
+  origin: original
+  books:
+  - title: A Fire Upon the Deep
+    author: Vernor Vinge
+  - title: A Deepness in the Sky
+    author: Vernor Vinge
+  - title: The Children of the Sky
+    author: Vernor Vinge
+- name: The Expanse
+  origin: v3
+  books:
+  - title: '9780316217569'
+    author: James S. A. Corey
+  - title: '9780316217576'
+    author: James S. A. Corey
+  - title: '9780316217651'
+    author: James S. A. Corey
+  - title: '9780316217668'
+    author: James S. A. Corey
+  - title: '9780316217675'
+    author: James S. A. Corey
+  - title: Abaddons Gate
+    author: James S. A. Corey
+  - title: Babylons Ashes
+    author: James S. A. Corey
+  - title: Calibans War
+    author: James S. A. Corey
+  - title: Drive
+    author: James S. A. Corey
+  - title: Livesuit
+    author: James S. A. Corey
+  - title: Memorys Legion
+    author: James S. A. Corey
+  - title: The Butcher of Anderson Station
+    author: James S. A. Corey
+  - title: The Faith of Beasts
+    author: James S. A. Corey
+  - title: The Sins of Our Fathers
+    author: James S. A. Corey
+  - title: Tiamats Wrath
+    author: James S. A. Corey
+- name: Kefahuchi Tract
+  origin: original
+  books:
+  - title: Light
+    author: M. John Harrison
+  - title: Nova Swing
+    author: M. John Harrison
+  - title: 'Empty Space: A Haunting'
+    author: M. John Harrison
+- name: The Final Architecture
+  origin: original
+  books:
+  - title: Shards of Earth
+    author: Adrian Tchaikovsky
+  - title: Eyes of the Void
+    author: Adrian Tchaikovsky
+  - title: Lords of Uncreation
+    author: Adrian Tchaikovsky
+- name: The Algebraist
+  origin: v3
+  books:
+  - title: The Algebraist
+    author: Iain M. Banks
+- name: Chanur
+  origin: v3
+  books:
+  - title: The Pride of Chanur
+    author: C. J. Cherryh
+  - title: Chanur's Venture
+    author: C. J. Cherryh
+  - title: Chanur's Homecoming
+    author: C. J. Cherryh
+  - title: The Kif Strike Back
+    author: C. J. Cherryh
+  - title: Chanur's Legacy
+    author: C. J. Cherryh
+  - title: The Chanur Saga
+    author: C. J. Cherryh
+  - title: Chanur's Endgame
+    author: C. J. Cherryh
+- name: Dragon's Egg
+  origin: v3
+  books:
+  - title: Dragon's Egg
+    author: Robert L. Forward
+- name: Rocheworld
+  origin: v3
+  books:
+  - title: Rocheworld
+    author: Robert L. Forward
+- name: Transfigurations
+  origin: v3
+  books:
+  - title: Transfigurations
+    author: Michael Bishop

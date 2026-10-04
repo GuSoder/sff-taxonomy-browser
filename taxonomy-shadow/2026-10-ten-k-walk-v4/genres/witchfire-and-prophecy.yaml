@@ -1,0 +1,79 @@
+id: witchfire-and-prophecy
+label: Witchfire and prophecy
+parent: chosen-heirs
+origin: shadow-v3
+definition: Prophecy and inherited power tied to witches, gods and lost lines.
+cards:
+- name: Wit'ch
+  origin: v3
+  books:
+  - title: Wit'ch Fire
+    author: James Clemens
+  - title: Wit'ch War
+    author: James Clemens
+  - title: Wit'ch Gate
+    author: James Clemens
+  - title: Wit'ch Star
+    author: James Clemens
+  - title: Wit'ch Storm
+    author: James Clemens
+- name: Dekker Lee
+  origin: v3
+  books:
+  - title: Mortal
+    author: Ted Dekker
+  - title: Sovereign
+    author: Ted Dekker
+- name: Nhaga
+  origin: v3
+  books:
+  - title: The Heart of the Nhaga
+    author: Lee Young Do
+  - title: Those Who Prepare the Way
+    author: Lee Young Do
+- name: L Warren Douglas
+  origin: v3
+  books:
+  - title: The Sacred Pool
+    author: L. Warren Douglas
+  - title: The Veil of Years
+    author: L. Warren Douglas
+  - title: The Isle Beyond Time
+    author: L. Warren Douglas
+- name: Elom
+  origin: v3
+  books:
+  - title: Elom
+    author: William H. Drinkard
+- name: Dave Duncan Chaos
+  origin: v3
+  books:
+  - title: Children of Chaos
+    author: Dave Duncan
+  - title: Mother of Lies
+    author: Dave Duncan
+- name: Last Truth
+  origin: v3
+  books:
+  - title: The Last Truth
+    author: AnaMaria Curtis
+- name: Titan's Forest
+  origin: v3
+  books:
+  - title: Crossroads of Canopy
+    author: Thoraiya Dyer
+  - title: Echoes of Understorey
+    author: Thoraiya Dyer
+  - title: Tides of the Titans
+    author: Thoraiya Dyer
+  - title: The Titan's Forest Trilogy
+    author: Thoraiya Dyer
+- name: Shroud of Prophecy
+  origin: v3
+  books:
+  - title: Fate of the Fallen
+    author: Kel Kade
+  - title: Destiny of the Dead
+    author: Kel Kade
+  - title: Sanctum of the Soul
+    author: Kel Kade

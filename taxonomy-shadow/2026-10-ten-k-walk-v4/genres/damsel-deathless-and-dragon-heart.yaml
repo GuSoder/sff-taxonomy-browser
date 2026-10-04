@@ -1,0 +1,36 @@
+id: damsel-deathless-and-dragon-heart
+label: Damsels, deathless and dragon hearts
+parent: older-tale-retellings
+origin: shadow-v3
+definition: Older retellings cont.
+cards:
+- name: Damsel
+  origin: v3
+  books:
+  - title: Damsel
+    author: Evelyn Skye
+- name: Except the Queen
+  origin: v3
+  books:
+  - title: Except the Queen
+    author: Midori Snyder
+- name: Deathless
+  origin: v3
+  books:
+  - title: Deathless
+    author: Catherynne M. Valente
+- name: Chosen and the Beautiful
+  origin: v3
+  books:
+  - title: The Chosen and the Beautiful
+    author: Nghi Vo
+- name: Sea Lady
+  origin: v3
+  books:
+  - title: The Sea Lady
+    author: H.G. Wells
+- name: Dragon Heart Holland
+  origin: v3
+  books:
+  - title: Dragon Heart
+    author: Cecelia Holland

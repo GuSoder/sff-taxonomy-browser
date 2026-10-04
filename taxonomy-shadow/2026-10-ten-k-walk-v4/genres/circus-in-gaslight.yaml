@@ -1,0 +1,30 @@
+id: circus-in-gaslight
+label: Circus in gaslight
+parent: folklore-in-gaslight
+origin: original
+definition: Gaslight-era fantasy where the circus and the stage carry the marvelous - winged performers,
+  wonders and curiosities - into nineteenth-century life.
+cards:
+- name: Nights at the Circus
+  origin: original
+  books:
+  - title: Nights at the Circus
+- name: The Troupe
+  origin: v3
+  books:
+  - title: The Troupe
+    author: Robert Jackson Bennett
+- name: Carnivale of Curiosities
+  origin: v3
+  books:
+  - title: The Carnivale of Curiosities
+    author: Amiee Gibbs
+- name: Micah Grey
+  origin: v3
+  books:
+  - title: Pantomime
+    author: L. R. Lam
+  - title: Shadowplay
+    author: L. R. Lam
+  - title: Masquerade
+    author: L. R. Lam

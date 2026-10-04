@@ -1,0 +1,56 @@
+id: cursed-and-bound-mages
+label: Cursed and bound mages
+parent: mages-with-burdens
+origin: shadow-v3
+definition: Mages carrying a curse, a bond or a dark inheritance.
+cards:
+- name: The Rise of the Witch King
+  origin: original
+  books:
+  - title: Witch King
+    author: Martha Wells
+  - title: Queen Demon
+    author: Martha Wells
+- name: Saint Death's Daughter
+  origin: original
+  books:
+  - title: Saint Death's Daughter
+- name: The Warden
+  origin: original
+  books:
+  - title: The Warden
+- name: Song of the Beast
+  origin: v3
+  books:
+  - title: Song of the Beast
+    author: Carol Berg
+- name: Raven
+  origin: v3
+  books:
+  - title: Raven's Shadow
+    author: Patricia Briggs
+  - title: Raven's Strike
+    author: Patricia Briggs
+- name: Master of Sorrows
+  origin: v3
+  books:
+  - title: Master of Sorrows
+    author: Justin Call
+- name: Outcast Mage
+  origin: v3
+  books:
+  - title: The Outcast Mage
+    author: Annabel Campbell
+  - title: The Void Dragon
+    author: Annabel Campbell
+- name: Darksword
+  origin: v3
+  books:
+  - title: Forging the Darksword
+    author: Tracy Hickman
+  - title: Doom of the Darksword
+    author: Tracy Hickman
+  - title: Triumph of the Darksword
+    author: Tracy Hickman
+  - title: Legacy of the Darksword
+    author: Tracy Hickman

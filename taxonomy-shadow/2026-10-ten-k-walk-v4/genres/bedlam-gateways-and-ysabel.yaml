@@ -1,0 +1,38 @@
+id: bedlam-gateways-and-ysabel
+label: Bedlam, gateways and Ysabel
+parent: modern-doors-and-wonderlands
+origin: shadow-v3
+definition: Modern doors.
+cards:
+- name: Bedlam Boyz
+  origin: v3
+  books:
+  - title: Bedlam Boyz, Second Edition
+    author: Ellen Guon
+- name: Amy Herrick
+  origin: v3
+  books:
+  - title: The Tiltersmith
+    author: Amy Herrick
+  - title: The Time Fetch
+    author: Amy Herrick
+- name: Gateways
+  origin: v3
+  books:
+  - title: Gateways
+    author: Elizabeth Anne Hull
+- name: Ysabel
+  origin: v3
+  books:
+  - title: Ysabel
+    author: Guy Gavriel Kay
+- name: Rogue Retrieval
+  origin: v3
+  books:
+  - title: The Rogue Retrieval
+    author: Dan Koboldt
+- name: Ghost Circus
+  origin: v3
+  books:
+  - title: Ghost Circus
+    author: Adrienne Kress

@@ -1,0 +1,46 @@
+id: proxima-comets-and-pods
+label: Proxima, comets and pods
+parent: crewed-contact-missions
+origin: shadow-v3
+definition: Crewed missions cont.
+cards:
+- name: Proxima
+  origin: v3
+  books:
+  - title: Proxima
+    author: Stephen Baxter
+  - title: Ultima
+    author: Stephen Baxter
+  - title: Crisis at Proxima
+    author: Travis S. Taylor
+  - title: Saving Proxima
+    author: Travis S. Taylor
+- name: Off on a Comet
+  origin: v3
+  books:
+  - title: Off on a Comet
+    author: Jules Verne
+- name: Pod Wallen
+  origin: v3
+  books:
+  - title: Pod
+    author: Stephen Wallenfels
+- name: Wellington Space Horror
+  origin: v3
+  books:
+  - title: Erebus-13
+    author: David Wellington
+  - title: Paradise-1
+    author: David Wellington
+  - title: Revenant-X
+    author: David Wellington
+- name: Uncharted Territory
+  origin: v3
+  books:
+  - title: Uncharted Territory
+    author: Connie Willis
+- name: Flight of the Aphrodite
+  origin: v3
+  books:
+  - title: The Flight of the Aphrodite
+    author: ''

@@ -1,0 +1,74 @@
+id: doomed-lands
+label: Doomed lands
+parent: dark-realms
+origin: shadow-v3
+definition: Dark fantasy of a whole land under fire, plague, tyranny or gods gone wrong.
+cards:
+- name: Asunder
+  origin: original
+  books:
+  - title: Asunder
+- name: The Path of Thorns
+  origin: original
+  books:
+  - title: The Path of Thorns
+- name: Deepgate Codex
+  origin: v3
+  books:
+  - title: Scar Night
+    author: Alan Campbell
+  - title: God of Clocks
+    author: Alan Campbell
+  - title: Iron Angel
+    author: Alan Campbell
+- name: Coldfire
+  origin: v3
+  books:
+  - title: Black Sun Rising
+    author: C.S. Friedman
+  - title: Crown of Shadows
+    author: C.S. Friedman
+  - title: When True Night Falls
+    author: C.S. Friedman
+  - title: Feast of Souls
+    author: C.S. Friedman
+  - title: 'Nightborn: Coldfire Rising'
+    author: C.S. Friedman
+- name: Black Iron Legacy
+  origin: v3
+  books:
+  - title: The Broken God
+    author: Gareth Hanrahan
+  - title: The Gutter Prayer
+    author: Gareth Hanrahan
+  - title: The Shadow Saint
+    author: Gareth Hanrahan
+- name: The Demon Star
+  origin: v3
+  books:
+  - title: The Demon Star
+    author: Jesse Aragon
+- name: Mortedant's Peril
+  origin: v3
+  books:
+  - title: Mortedant's Peril
+    author: RJ Barker
+- name: Bullington
+  origin: v3
+  books:
+  - title: The Enterprise of Death
+    author: Jesse Bullington
+  - title: The Folly of the World
+    author: Jesse Bullington
+  - title: The Sad Tale of the Brothers Grossbart
+    author: Jesse Bullington
+- name: Hart's Hope
+  origin: v3
+  books:
+  - title: Hart's Hope
+    author: Orson Scott Card
+- name: Long Night Looms
+  origin: v3
+  books:
+  - title: The Long Night Looms
+    author: Kalie Cassidy

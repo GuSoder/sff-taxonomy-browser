@@ -1,0 +1,76 @@
+id: colonist-cultures
+label: Colonist cultures
+parent: settled-other-stars
+origin: shadow-v3
+definition: Colonist cultures diverging on other stars.
+cards:
+- name: Marjorie Westriding
+  origin: original
+  books:
+  - title: Grass
+    author: Sheri S. Tepper
+  - title: Raising the Stones
+    author: Sheri S. Tepper
+  - title: Sideshow
+    author: Sheri S. Tepper
+- name: Homecoming Saga
+  origin: v3
+  books:
+  - title: The Memory of Earth
+    author: Orson Scott Card
+  - title: The Ships of Earth
+    author: Orson Scott Card
+  - title: Earthborn
+    author: Orson Scott Card
+  - title: Earthfall
+    author: Orson Scott Card
+  - title: The Call of Earth
+    author: Orson Scott Card
+  - title: The Memory of Earth and The Call of Earth
+    author: Orson Scott Card
+  - title: The Complete Homecoming Saga
+    author: Orson Scott Card
+- name: This Alien Shore
+  origin: v3
+  books:
+  - title: This Alien Shore
+    author: C.S. Friedman
+  - title: This Virtual Night
+    author: C.S. Friedman
+- name: Heorot
+  origin: v3
+  books:
+  - title: Beowulf's Children
+    author: Larry Niven
+  - title: The Legacy of Heorot
+    author: Larry Niven
+- name: Proxima
+  origin: v3
+  books:
+  - title: Proxima
+    author: Stephen Baxter
+  - title: Ultima
+    author: Stephen Baxter
+  - title: Crisis at Proxima
+    author: Travis S. Taylor
+  - title: Saving Proxima
+    author: Travis S. Taylor
+- name: Thousand Cultures
+  origin: v3
+  books:
+  - title: The Merchants of Souls
+    author: John Barnes
+  - title: The Armies of Memory
+    author: John Barnes
+- name: Billion Worlds 1
+  origin: v3
+  books:
+  - title: Arkad's World
+    author: James L. Cambias
+  - title: The Initiate
+    author: James L. Cambias
+- name: Genellan
+  origin: v3
+  books:
+  - title: 'Genellan: Planetfall'
+    author: Scott Gier

@@ -1,0 +1,18 @@
+id: childless-dystopias
+label: Childless dystopias
+parent: social-dystopia
+origin: original
+definition: 'Dystopian futures with no next generation: societies made barren or voluntarily childless.'
+cards:
+- name: The Children of Men
+  origin: original
+  books:
+  - title: The Children of Men
+- name: Atomized
+  origin: original
+  books:
+  - title: Atomized
+- name: Greybeard
+  origin: original
+  books:
+  - title: Greybeard

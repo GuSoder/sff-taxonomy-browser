@@ -1,0 +1,34 @@
+id: dangerous-gifts
+label: Dangerous gifts
+parent: psi-powers
+origin: shadow-v3
+definition: 'Psychic ability as private burden or weapon: damaged children, ruined adults and minds used
+  by others.'
+cards:
+- name: Dying Inside
+  origin: original
+  books:
+  - title: Dying Inside
+- name: Carrie
+  origin: original
+  books:
+  - title: Carrie
+- name: Riot Baby
+  origin: original
+  books:
+  - title: Riot Baby
+- name: The Institute
+  origin: original
+  books:
+  - title: The Institute
+- name: The Man Who Saw Seconds
+  origin: original
+  books:
+  - title: The Man Who Saw Seconds
+- name: Barnes psychic
+  origin: v3
+  books:
+  - title: Charisma
+    author: Steven Barnes
+  - title: Twelve Days
+    author: Steven Barnes

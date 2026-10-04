@@ -1,0 +1,52 @@
+id: brawlers-and-gladiators
+label: Brawlers and gladiators
+parent: space-marines
+origin: shadow-v3
+definition: Fighters, gladiators and arena soldiers.
+cards:
+- name: Wolf's Empire
+  origin: v3
+  books:
+  - title: 'Wolf''s Empire: Gladiator'
+    author: Claudia Christian
+- name: Vor
+  origin: v3
+  books:
+  - title: 'Vor: Into the Maelstrom'
+    author: Loren L. Coleman
+- name: 'Vor: The Rescue'
+  origin: v3
+  books:
+  - title: 'Vor: The Rescue'
+    author: Don Ellis
+- name: Combat Codes
+  origin: v3
+  books:
+  - title: Blacklight Born
+    author: Alexander Darwin
+  - title: Grievars Blood
+    author: Alexander Darwin
+  - title: The Combat Codes
+    author: Alexander Darwin
+- name: The Point
+  origin: v3
+  books:
+  - title: The Point
+    author: John Dixon
+- name: Blood on the Sand
+  origin: v3
+  books:
+  - title: Blood on the Sand
+    author: Kacey Ezell
+- name: Mutant Chronicles
+  origin: v3
+  books:
+  - title: Mutant Chronicles
+    author: Matt Forbeck
+- name: Tony Daniel
+  origin: v3
+  books:
+  - title: Guardian of Night
+    author: Tony Daniel
+  - title: The Savior
+    author: Tony Daniel

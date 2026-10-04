@@ -1,0 +1,68 @@
+id: teen-witches-and-curses
+label: Teen witches and curses
+parent: teen-and-student-witches
+origin: shadow-v3
+definition: Teen witches facing curses, luck and family.
+cards:
+- name: Three Kinds of Lucky
+  origin: v3
+  books:
+  - title: Three Kinds of Lucky
+    author: Kim Harrison
+  - title: Secondhand Luck
+    author: Kim Harrison
+- name: Such a Witch
+  origin: v3
+  books:
+  - title: Such a Witch
+    author: Sarah Henning
+- name: Saved by the Spell
+  origin: v3
+  books:
+  - title: Saved by the Spell
+    author: Tanya Huff
+- name: Salt and Storm
+  origin: v3
+  books:
+  - title: Salt & Storm
+    author: Kendall Kulper
+- name: Silence Staci
+  origin: v3
+  books:
+  - title: Silence
+    author: Mercedes Lackey
+  - title: Breaking Silence
+    author: Mercedes Lackey
+- name: Witches of Ash and Ruin
+  origin: v3
+  books:
+  - title: Witches of Ash and Ruin
+    author: E. Latimer
+- name: Marr witches
+  origin: v3
+  books:
+  - title: Remedial Magic
+    author: Melissa Marr
+  - title: Reluctant Witch
+    author: Melissa Marr
+- name: Twilight Forever Rising
+  origin: v3
+  books:
+  - title: Twilight Forever Rising
+    author: Lena Meydan
+- name: Secret History of Witches
+  origin: v3
+  books:
+  - title: A Secret History of Witches
+    author: Louisa Morgan
+  - title: The Age of Witches
+    author: Louisa Morgan
+- name: Louisa Morgan Witches
+  origin: v3
+  books:
+  - title: The Ghosts of Beatrice Bird
+    author: Louisa Morgan
+  - title: The Great Witch of Brittany
+    author: Louisa Morgan
+  - title: The Witchs Kind
+    author: Louisa Morgan

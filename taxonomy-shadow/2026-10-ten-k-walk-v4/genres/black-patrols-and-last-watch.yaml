@@ -1,0 +1,51 @@
+id: black-patrols-and-last-watch
+label: Black patrols and last watches
+parent: patrol-and-picket
+origin: shadow-v3
+definition: Patrols.
+cards:
+- name: In the Black
+  origin: original
+  books:
+  - title: In the Black
+- name: Providence
+  origin: original
+  books:
+  - title: Providence
+- name: Routine Patrol
+  origin: original
+  books:
+  - title: Routine Patrol
+- name: The Last Watch (Dewes)
+  origin: v3
+  books:
+  - title: The Exiled Fleet
+    author: J. S. Dewes
+  - title: The Last Watch
+    author: J. S. Dewes
+  - title: Rubicon
+    author: J. S. Dewes
+  - title: The Relentless Legion
+    author: J. S. Dewes
+- name: Exodus
+  origin: v3
+  books:
+  - title: Exodus
+    author: Steve White and
+- name: Null-A Continuum
+  origin: v3
+  books:
+  - title: Null-A Continuum
+    author: John C. Wright
+- name: Elizabeth Moon Standalones
+  origin: v3
+  books:
+  - title: Change of Command
+    author: ''
+  - title: Against the Odds
+    author: ''
+- name: Crimson Worlds
+  origin: v3
+  books:
+  - title: Rebellion's Fury
+    author: ''

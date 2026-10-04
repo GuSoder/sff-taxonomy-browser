@@ -1,0 +1,41 @@
+id: hoka-legions-and-alliances
+label: Hoka, legions and alliances
+parent: comic-aliens-and-troops
+origin: shadow-v3
+definition: Comic aliens.
+cards:
+- name: The Hoka stories
+  origin: v3
+  books:
+  - title: Hokas Pokas!
+    author: Poul Anderson
+  - title: Hoka! Hoka! Hoka!
+    author: Poul Anderson
+- name: Pandora's Legions (Anvil)
+  origin: v3
+  books:
+  - title: Pandora's Legions
+    author: Christopher Anvil
+- name: Terminal Alliance
+  origin: v3
+  books:
+  - title: Terminal Alliance
+    author: Jim C. Hines
+  - title: Terminal Uprising
+    author: Jim C. Hines
+  - title: Terminal Peace
+    author: Jim C. Hines
+- name: Second Contact
+  origin: v3
+  books:
+  - title: Second Contact
+    author: J. D. Austin
+- name: Gremlins Go Home
+  origin: v3
+  books:
+  - title: Gremlins Go Home
+    author: Ben Bova
+- name: The Road to Roswell
+  origin: original
+  books:
+  - title: The Road to Roswell

@@ -1,0 +1,45 @@
+id: networks-and-cryptography
+label: Networks and cryptography
+parent: technothriller
+origin: shadow-v3
+definition: Technothrillers of code, surveillance, the net and information war.
+cards:
+- name: Cryptonomicon
+  origin: original
+  books:
+  - title: Cryptonomicon
+- name: Little Brother
+  origin: v3
+  books:
+  - title: Little Brother & Homeland
+    author: Cory Doctorow
+- name: Pattern Recognition
+  origin: original
+  books:
+  - title: Pattern Recognition
+- name: The Night Sessions
+  origin: original
+  books:
+  - title: The Night Sessions
+- name: Cold Water
+  origin: original
+  books:
+  - title: Cold Water
+- name: Vinge Near Futures
+  origin: v3
+  books:
+  - title: True Names and the Opening of the Cyberspace Frontier
+    author: Vernor Vinge
+  - title: The Peace War
+    author: Vernor Vinge
+  - title: Marooned in Realtime
+    author: Vernor Vinge
+- name: Vinge Early Novels
+  origin: v3
+  books:
+  - title: Tatja Grimm's World
+    author: Vernor Vinge
+  - title: The Witling
+    author: Vernor Vinge
+  - title: Across Realtime
+    author: Vernor Vinge

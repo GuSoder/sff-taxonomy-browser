@@ -1,0 +1,33 @@
+id: scientific-adventure
+label: Scientific adventure
+parent: proto-sf
+origin: original
+definition: Nineteenth-century speculative fiction built on a technological marvel and the fantastic voyage
+  it enables (SFE headword SCIENTIFIC ROMANCE; Verne's prime-years novels are consanguineous with the
+  form). New leaf created 2026-09-13 for Verne; hard science fiction is at the 10-work cap. Renamed from
+  Scientific romance to Scientific adventure 2026-09-14 at the curator's direction; SFE attests 'scientific
+  romance' as the period term and the two are treated as interchangeable in grounding.
+cards:
+- name: Twenty Thousand Leagues Under the Sea
+  origin: original
+  books:
+  - title: Twenty Thousand Leagues Under the Sea
+- name: The Island of Dr. Moreau
+  origin: v3
+  books:
+  - title: The Island Of Doctor Moreau
+    author: H.G. Wells
+- name: Two Planets
+  origin: original
+  books:
+  - title: Two Planets
+- name: A Journey in Other Worlds
+  origin: v3
+  books:
+  - title: A Journey in Other Worlds
+    author: John Jacob Astor
+- name: The First Men in the Moon
+  origin: v3
+  books:
+  - title: The First Men In The Moon
+    author: H.G. Wells

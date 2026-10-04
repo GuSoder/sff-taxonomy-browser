@@ -1,0 +1,25 @@
+id: folklore-arrivals
+label: Folklore Arrivals
+parent: monsters-in-gaslight
+origin: shadow-v3
+definition: Gaslight fantasy of old-world creatures arriving in the industrial city.
+cards:
+- name: The Golem and the Jinni
+  origin: original
+  books:
+  - title: The Golem and the Jinni
+    author: Helene Wecker
+  - title: The Hidden Palace
+    author: Helene Wecker
+- name: The Fox Wife
+  origin: original
+  books:
+  - title: The Fox Wife
+- name: My Brother's Keeper
+  origin: original
+  books:
+  - title: My Brother's Keeper
+- name: The Legend of Charlie Fish
+  origin: original
+  books:
+  - title: The Legend of Charlie Fish

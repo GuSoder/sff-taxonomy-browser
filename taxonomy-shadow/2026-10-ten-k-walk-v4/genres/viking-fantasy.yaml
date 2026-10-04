@@ -1,0 +1,67 @@
+id: viking-fantasy
+label: Viking fantasy
+parent: antique-times-fantasy
+origin: original
+definition: 'Historical fantasy anchored in the Viking Age: medieval Scandinavian societies, seafaring,
+  raiding, dynastic struggle and their neighboring cultures, whether or not mythic elements also appear.'
+cards:
+- name: The Last Light of the Sun
+  origin: original
+  books:
+  - title: The Last Light of the Sun
+- name: The Weaver and the Witch Queen
+  origin: original
+  books:
+  - title: The Weaver and the Witch Queen
+- name: The Broken Sword
+  origin: original
+  books:
+  - title: The Broken Sword
+- name: Wolfsangel
+  origin: v3
+  books:
+  - title: Fenrir
+    author: M.D. Lachlan
+  - title: Lord of Slaughter
+    author: M.D. Lachlan
+  - title: Valkyrie's Song
+    author: M.D. Lachlan
+  - title: Wolfsangel
+    author: M.D. Lachlan
+- name: Light Isles
+  origin: v3
+  books:
+  - title: Wolfskin
+    author: Juliet Marillier
+  - title: Foxmask
+    author: Juliet Marillier
+- name: Tempering of Men
+  origin: v3
+  books:
+  - title: The Tempering of Men
+    author: Elizabeth Bear
+- name: Witch's Heart
+  origin: v3
+  books:
+  - title: The Witch's Heart
+    author: Genevieve Gornichec
+- name: Bloodsworn
+  origin: v3
+  books:
+  - title: The Fury of the Gods
+    author: John Gwynne
+  - title: The Hunger of the Gods
+    author: John Gwynne
+  - title: The Shadow of the Gods
+    author: John Gwynne
+  - title: The Wolves of War
+    author: John Gwynne
+- name: Hammer and the Cross
+  origin: v3
+  books:
+  - title: The Hammer & The Cross
+    author: Harry Harrison
+  - title: One King's Way
+    author: Harry Harrison
+  - title: King and Emperor
+    author: Harry Harrison

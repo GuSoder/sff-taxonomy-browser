@@ -1,0 +1,31 @@
+id: redemptor-ash-and-dream
+label: Redemptor, ash and dream
+parent: ash-and-dream-empires
+origin: shadow-v3
+definition: Empires.
+cards:
+- name: Redemptor
+  origin: original
+  books:
+  - title: Redemptor
+- name: Age of Ash
+  origin: original
+  books:
+  - title: Age of Ash
+- name: Blade of Dream
+  origin: original
+  books:
+  - title: Blade of Dream
+- name: Navola
+  origin: original
+  books:
+  - title: Navola
+- name: Nessantico Cycle
+  origin: v3
+  books:
+  - title: A Magic of Twilight
+    author: S. L. Farrell
+  - title: A Magic of Nightfall
+    author: S. L. Farrell
+  - title: A Magic of Dawn
+    author: S. L. Farrell

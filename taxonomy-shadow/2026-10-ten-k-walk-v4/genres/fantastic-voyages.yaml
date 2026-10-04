@@ -1,0 +1,43 @@
+id: fantastic-voyages
+label: Fantastic voyages
+parent: lost-worlds-and-fantastic-travels
+origin: shadow-v3
+definition: Fantastic voyages.
+cards:
+- name: Alice Run
+  origin: v3
+  books:
+  - title: The Alice Run
+    author: Nancy Kress
+- name: Pride and Prejudice in Space
+  origin: v3
+  books:
+  - title: Pride and Prejudice in Space
+    author: Alexis Lampley
+- name: Jane Lindskold
+  origin: v3
+  books:
+  - title: Aurora Borealis Bridge
+    author: Jane Lindskold
+  - title: Library of the Sapphire Wind
+    author: Jane Lindskold
+- name: Sword in the Stars
+  origin: v3
+  books:
+  - title: Sword in the Stars
+    author: Cory McCarthy
+- name: Peter Wilkins
+  origin: v3
+  books:
+  - title: The Life and Adventures of Peter Wilkins
+    author: Richard Paltock edited by Ron Miller
+- name: Three Go Back
+  origin: v3
+  books:
+  - title: Three Go Back
+    author: J. Leslie Mitchell
+- name: Crusade Weber
+  origin: v3
+  books:
+  - title: Crusade
+    author: David Weber

@@ -1,0 +1,43 @@
+id: fairytales-retold-dark
+label: Fairytales retold dark
+parent: fairytale-inversion
+origin: shadow-v3
+definition: Fairy tales retold with cruelty, violence and adult themes.
+cards:
+- name: The Bloody Chamber and Other Stories
+  origin: original
+  books:
+  - title: The Bloody Chamber and Other Stories
+- name: We Kept Her in the Cellar
+  origin: original
+  books:
+  - title: We Kept Her in the Cellar
+- name: Sour Cherry
+  origin: original
+  books:
+  - title: Sour Cherry
+- name: The Child Thief
+  origin: v3
+  books:
+  - title: The Child Thief
+    author: Brom
+- name: Fairy Tales (Pinborough)
+  origin: v3
+  books:
+  - title: Charm (Fairy Tales 2)
+    author: Sarah Pinborough
+  - title: Poison (Fairy Tales 1)
+    author: Sarah Pinborough
+  - title: Beauty (Fairy Tales 3)
+    author: Sarah Pinborough
+- name: Rump
+  origin: original
+  books:
+  - title: 'Rump: The (Fairly) True Tale of Rumpelstiltskin'
+    author: Liesl Shurtliff
+  - title: 'Jack: The True Story of Jack and the Beanstalk'
+    author: Liesl Shurtliff
+  - title: 'Red: The True Story of Red Riding Hood'
+    author: Liesl Shurtliff
+  - title: 'Grump: The (Fairly) True Tale of Snow White and the Seven Dwarves'
+    author: Liesl Shurtliff

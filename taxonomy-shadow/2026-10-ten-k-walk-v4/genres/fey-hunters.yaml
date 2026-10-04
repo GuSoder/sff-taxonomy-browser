@@ -1,0 +1,89 @@
+id: fey-hunters
+label: Fey hunters
+parent: fey-and-monster-hunters
+origin: shadow-v3
+definition: Fey and monster hunters.
+cards:
+- name: Caitlin Kittredge
+  origin: v3
+  books:
+  - title: Black Dog
+    author: Caitlin Kittredge
+  - title: Grim Tidings
+    author: Caitlin Kittredge
+- name: Mist Krinard
+  origin: v3
+  books:
+  - title: Freeze Warning
+    author: Susan Krinard
+  - title: Mist
+    author: Susan Krinard
+  - title: Black Ice
+    author: Susan Krinard
+  - title: Battlestorm
+    author: Susan Krinard
+- name: Shades of Fury
+  origin: v3
+  books:
+  - title: Red Hot Fury
+    author: Kasey Mackenzie
+  - title: Green-Eyed Envy
+    author: Kasey Mackenzie
+  - title: Blackhearted Betrayal
+    author: Kasey Mackenzie
+- name: Melissa Marr urban
+  origin: v3
+  books:
+  - title: The Maiden Thief
+    author: Melissa Marr
+  - title: Two Lines
+    author: Melissa Marr
+- name: Jinn and Juice
+  origin: v3
+  books:
+  - title: Jinn and Juice
+    author: Nicole Peeler
+- name: Marlene Perez Greek Myth
+  origin: v3
+  books:
+  - title: Dark Descent
+    author: Marlene Perez
+  - title: Fortunes Favors
+    author: Marlene Perez
+  - title: Strange Fates
+    author: Marlene Perez
+- name: Quantum Gravity
+  origin: v3
+  books:
+  - title: Chasing the Dragon
+    author: Justina Robson
+  - title: Down to the Bone
+    author: Justina Robson
+  - title: Going Under
+    author: Justina Robson
+  - title: Keeping It Real
+    author: Justina Robson
+  - title: Selling Out
+    author: Justina Robson
+- name: Margaret Ronald
+  origin: v3
+  books:
+  - title: Soul Hunt
+    author: Margaret Ronald
+  - title: Wild Hunt
+    author: Margaret Ronald
+- name: Kara Gillian Demon
+  origin: v3
+  books:
+  - title: Sins of the Demon
+    author: Diana Rowland
+  - title: Touch of the Demon
+    author: Diana Rowland
+  - title: Fury of the Demon
+    author: Diana Rowland
+  - title: Vengeance of the Demon
+    author: Diana Rowland
+  - title: Legacy of the Demon
+    author: Diana Rowland
+  - title: Rise of the Demon
+    author: Diana Rowland

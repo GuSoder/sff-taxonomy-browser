@@ -1,0 +1,84 @@
+id: councils-and-ministers
+label: Councils and ministers
+parent: court-statecraft
+origin: shadow-v3
+definition: Fantasy of councillors, ministers and bankers governing through advice and money.
+cards:
+- name: The Councillor
+  origin: v3
+  books:
+  - title: The Councillor
+    author: E. J. Beaton
+- name: The Dagger and the Coin
+  origin: v3
+  books:
+  - title: The Dragons Path
+    author: Daniel Abraham
+  - title: The Kings Blood
+    author: Daniel Abraham
+  - title: The Spiders War
+    author: Daniel Abraham
+  - title: The Tyrants Law
+    author: Daniel Abraham
+  - title: The Widows House
+    author: Daniel Abraham
+- name: The Long Price Quartet
+  origin: v3
+  books:
+  - title: A Betrayal in Winter
+    author: Daniel Abraham
+  - title: A Shadow in Summer
+    author: Daniel Abraham
+  - title: An Autumn War
+    author: Daniel Abraham
+  - title: The Price of Spring
+    author: Daniel Abraham
+  - title: Shadow and Betrayal
+    author: Daniel Abraham
+  - title: The Price of War
+    author: Daniel Abraham
+- name: Swords and Fire
+  origin: v3
+  books:
+  - title: The Obsidian Tower
+    author: Melissa Caruso
+  - title: The Quicksilver Court
+    author: Melissa Caruso
+- name: A Brightness Long Ago
+  origin: original
+  books:
+  - title: A Brightness Long Ago
+- name: Tears of Artamon
+  origin: v3
+  books:
+  - title: Lord of Snow and Shadows
+    author: Sarah Ash
+  - title: Children of the Serpent Gate
+    author: Sarah Ash
+  - title: Prisoner of the Iron Tower
+    author: Sarah Ash
+- name: Great Silence
+  origin: v3
+  books:
+  - title: Blood Dynasty
+    author: Richard Swan
+  - title: Grave Empire
+    author: Richard Swan
+  - title: Steel Gods
+    author: Richard Swan
+- name: Empire of the Wolf
+  origin: v3
+  books:
+  - title: The Justice of Kings
+    author: Richard Swan
+  - title: The Trials of Empire
+    author: Richard Swan
+  - title: The Tyranny of Faith
+    author: Richard Swan
+- name: Exiles Saga
+  origin: v3
+  books:
+  - title: Exile's Challenge
+    author: Angus Wells
+  - title: Exile's Children
+    author: Angus Wells

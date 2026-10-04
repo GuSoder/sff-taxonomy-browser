@@ -1,0 +1,41 @@
+id: die-off
+label: The die-off
+parent: pandemic
+origin: original
+definition: 'Pandemic fiction of the mass dying and the world after: most of humanity dies in one short
+  span and the survivors inherit the emptied world. Split 2026-09-25 from Pandemic (the curator ruling).'
+cards:
+- name: The Stand
+  origin: original
+  books:
+  - title: The Stand
+- name: Wanderers
+  origin: original
+  books:
+  - title: Wanderers
+    author: Chuck Wendig
+  - title: Wayward
+    author: Chuck Wendig
+- name: MaddAddam
+  origin: original
+  books:
+  - title: Oryx and Crake
+    author: Margaret Atwood
+  - title: The Year of the Flood
+    author: Margaret Atwood
+  - title: MaddAddam
+    author: Margaret Atwood
+- name: Hell Followed With Us
+  origin: original
+  books:
+  - title: Hell Followed With Us
+- name: I Am Legend
+  origin: v3
+  books:
+  - title: I Am Legend
+    author: Events
+- name: The White Plague
+  origin: v3
+  books:
+  - title: The White Plague
+    author: Frank Herbert

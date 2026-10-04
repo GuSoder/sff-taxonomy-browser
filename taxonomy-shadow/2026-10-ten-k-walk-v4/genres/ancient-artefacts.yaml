@@ -1,0 +1,48 @@
+id: ancient-artefacts
+label: Ancient artefacts
+parent: relics-under-study
+origin: shadow-v3
+definition: Alien and ancient artefacts under study.
+cards:
+- name: Creation Node
+  origin: original
+  books:
+  - title: Creation Node
+- name: Revelation Space
+  origin: v3
+  books:
+  - title: Absolution Gap
+    author: Alastair Reynolds
+  - title: Chasm City
+    author: Alastair Reynolds
+  - title: Inhibitor Phase
+    author: Alastair Reynolds
+  - title: Redemption Ark
+    author: Alastair Reynolds
+- name: Eversion
+  origin: original
+  books:
+  - title: Eversion
+- name: Needle
+  origin: original
+  books:
+  - title: Needle
+- name: Kaspar's Box
+  origin: v3
+  books:
+  - title: Kaspar's Box
+    author: Jack L. Chalker
+- name: Themis Files
+  origin: v3
+  books:
+  - title: Sleeping Giants
+    author: Sylvain Neuvel
+  - title: Waking Gods
+    author: Sylvain Neuvel
+  - title: Only Human
+    author: Sylvain Neuvel
+- name: Forge of Mars
+  origin: v3
+  books:
+  - title: The Forge of Mars
+    author: Bruce Balfour

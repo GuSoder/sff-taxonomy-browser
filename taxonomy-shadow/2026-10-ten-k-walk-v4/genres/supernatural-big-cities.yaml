@@ -1,0 +1,136 @@
+id: supernatural-big-cities
+label: Supernatural big cities
+parent: big-city-underworlds
+origin: shadow-v3
+definition: Supernatural cities within big cities.
+cards:
+- name: Sandman Slim
+  origin: v3
+  books:
+  - title: Across the Dark Water
+    author: Richard Kadrey
+  - title: Aloha from Hell
+    author: Richard Kadrey
+  - title: Ballistic Kiss
+    author: Richard Kadrey
+  - title: Devil in the Dollhouse
+    author: Richard Kadrey
+  - title: Devil Said Bang
+    author: Richard Kadrey
+  - title: Hollywood Dead
+    author: Richard Kadrey
+  - title: In the Devil Wind
+    author: Richard Kadrey
+  - title: Kill City Blues
+    author: Richard Kadrey
+  - title: Kill the Dead
+    author: Richard Kadrey
+  - title: Killing Pretty
+    author: Richard Kadrey
+  - title: King Bullet
+    author: Richard Kadrey
+  - title: The Getaway God
+    author: Richard Kadrey
+  - title: The Kill Society
+    author: Richard Kadrey
+  - title: The Perdition Score
+    author: Richard Kadrey
+  - title: The Wrong Dead Guy
+    author: Richard Kadrey
+- name: Nightside
+  origin: v3
+  books:
+  - title: Agents of Light and Darkness
+    author: Simon R. Green
+  - title: Something from the Nightside
+    author: Simon R. Green
+  - title: Nightingale's Lament
+    author: Simon R. Green
+  - title: Hell to Pay
+    author: Simon R. Green
+  - title: Very Important Corpses
+    author: Simon R. Green
+- name: Midnight Mayor
+  origin: v3
+  books:
+  - title: Stray Souls
+    author: Kate Griffin
+  - title: The Glass God
+    author: Kate Griffin
+  - title: The Midnight Mayor
+    author: Kate Griffin
+- name: Midnight Crossroad
+  origin: v3
+  books:
+  - title: Midnight Crossroad
+    author: Charlaine Harris
+  - title: Day Shift
+    author: Charlaine Harris
+  - title: Night Shift
+    author: Charlaine Harris
+- name: Crescent City
+  origin: v3
+  books:
+  - title: The City of Lost Fortunes
+    author: Bryan Camp
+  - title: Gather the Fortunes (A Crescent City Novel)
+    author: Bryan Camp
+  - title: City of Eternal Night
+    author: Kristen Painter
+  - title: Garden of Dreams and Desires
+    author: Kristen Painter
+  - title: House of the Rising Sun
+    author: Kristen Painter
+  - title: Last Blood
+    author: Kristen Painter
+- name: Sentinels of New Orleans
+  origin: v3
+  books:
+  - title: River Road
+    author: Suzanne Johnson
+  - title: Royal Street
+    author: Suzanne Johnson
+  - title: Elysian Fields
+    author: Suzanne Johnson
+  - title: Pirate's Alley
+    author: Suzanne Johnson
+  - title: Belle Chasse
+    author: Suzanne Johnson
+- name: Bone Song
+  origin: v3
+  books:
+  - title: Bone Song
+    author: John Meaney
+  - title: Black Blood
+    author: John Meaney
+  - title: Dark Blood
+    author: John Meaney
+- name: Trickster Rob Thurman
+  origin: v3
+  books:
+  - title: Trick of the Light
+    author: Rob Thurman
+  - title: The Grimrose Path
+    author: Rob Thurman
+- name: Bobby Dollar
+  origin: v3
+  books:
+  - title: Happy Hour In Hell
+    author: Tad Williams
+  - title: The Dirty Streets of Heaven
+    author: Tad Williams
+  - title: Sleeping Late On Judgement Day
+    author: Tad Williams
+- name: Asylum Tales
+  origin: v3
+  books:
+  - title: 'The Asylum Interviews: Bronx'
+    author: Jocelynn Drake
+  - title: 'The Asylum Interviews: Trixie'
+    author: Jocelynn Drake
+  - title: The Dead, the Damned, and the Forgotten
+    author: Jocelynn Drake
+  - title: Angel's Ink
+    author: ''
+  - title: Dead Man's Deal
+    author: ''

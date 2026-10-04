@@ -1,0 +1,43 @@
+id: castaways-and-misfits
+label: Castaways and misfits
+parent: healers-explorers-and-castaways
+origin: shadow-v3
+definition: Castaways and misfits on odd worlds.
+cards:
+- name: Moonstorm
+  origin: original
+  books:
+  - title: Moonstorm
+    author: Yoon Ha Lee
+  - title: Starstrike
+    author: Yoon Ha Lee
+- name: Ymir
+  origin: original
+  books:
+  - title: Ymir
+- name: Against a Dark Background
+  origin: v3
+  books:
+  - title: Against a Dark Background
+    author: Iain M. Banks
+- name: Billion Worlds 2
+  origin: v3
+  books:
+  - title: The Godel Operation
+    author: James L. Cambias
+  - title: The Ishtar Deception
+    author: James L. Cambias
+  - title: The Scarab Mission
+    author: James L. Cambias
+- name: Light Chaser
+  origin: v3
+  books:
+  - title: Light Chaser
+    author: Peter F. Hamilton
+- name: Planet of the Damned
+  origin: v3
+  books:
+  - title: Planet of No Return
+    author: Harry Harrison
+  - title: Planet of the Damned
+    author: Harry Harrison

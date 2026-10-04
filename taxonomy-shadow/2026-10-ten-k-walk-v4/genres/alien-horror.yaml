@@ -1,0 +1,40 @@
+id: alien-horror
+label: Alien horror
+parent: alien-fiction
+origin: original
+definition: 'Alien fiction whose primary engine is horror: dread, bodily violation, predation, and the
+  terror of encountering nonhuman life.'
+cards:
+- name: Under the Skin
+  origin: original
+  books:
+  - title: Under the Skin
+- name: Who Goes There?
+  origin: original
+  books:
+  - title: Who Goes There?
+    author: John W. Campbell, Jr.
+- name: Spread Me
+  origin: original
+  books:
+  - title: Spread Me
+- name: Ghost Station
+  origin: v3
+  books:
+  - title: Ghost Station
+    author: S.A. Barnes
+- name: Sufficient Loss Protocol
+  origin: v3
+  books:
+  - title: The Sufficient Loss Protocol
+    author: Kemi Ashing-Giwa
+- name: Cold Eternity
+  origin: v3
+  books:
+  - title: Cold Eternity
+    author: S.A. Barnes
+- name: Burning Dark
+  origin: v3
+  books:
+  - title: The Burning Dark
+    author: Adam Christopher

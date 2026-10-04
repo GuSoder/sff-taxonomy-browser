@@ -1,0 +1,59 @@
+id: mercenaries-and-tank-wars
+label: Mercenaries and tank wars
+parent: space-marines
+origin: shadow-v3
+definition: Mercenaries, tank troops and ground wars on other worlds.
+cards:
+- name: Hammer's Slammers Drake
+  origin: v3
+  books:
+  - title: An Oblique Approach
+    author: David Drake
+- name: Cross the Stars
+  origin: v3
+  books:
+  - title: Cross the Stars
+    author: David Drake
+- name: Northworld
+  origin: v3
+  books:
+  - title: Foreign Legions
+    author: David Drake
+  - title: Northworld Trilogy
+    author: David Drake
+  - title: Northworld Trilogy, Second Edition
+    author: David Drake
+- name: Ranks of Bronze
+  origin: v3
+  books:
+  - title: Ranks of Bronze
+    author: David Drake
+- name: Citizen series
+  origin: v3
+  books:
+  - title: Into the Hinterlands
+    author: David Drake
+  - title: Into the Maelstrom
+    author: David Drake
+- name: Heretic Drake
+  origin: v3
+  books:
+  - title: The Heretic
+    author: David Drake
+- name: Hunter Returns
+  origin: v3
+  books:
+  - title: The Hunter Returns
+    author: David Drake
+- name: The Harriers
+  origin: v3
+  books:
+  - title: 'The Harriers Book One: Of War and Honor'
+    author: created Gordon R. Dickson
+  - title: 'The Harriers Book Two: Blood and War'
+    author: created Gordon R. Dickson
+- name: Honored Enemy
+  origin: v3
+  books:
+  - title: Honored Enemy
+    author: Raymond E Feistwilliam R Forstchen

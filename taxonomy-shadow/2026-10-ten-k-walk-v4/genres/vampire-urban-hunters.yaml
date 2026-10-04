@@ -1,0 +1,72 @@
+id: vampire-urban-hunters
+label: Vampire urban hunters
+parent: vampire-fringe
+origin: shadow-v3
+definition: Urban vampires and the people who hunt or live beside them.
+cards:
+- name: Graveyard Shift
+  origin: v3
+  books:
+  - title: Graveyard Shift
+    author: Michael F. Haspil
+- name: Dark Sacrifice
+  origin: v3
+  books:
+  - title: A Dark Sacrifice
+    author: Madeline Howard
+- name: Blood Plagues
+  origin: v3
+  books:
+  - title: The Blood Plagues
+    author: Anavrin Jay
+- name: Siobhan Quinn
+  origin: v3
+  books:
+  - title: Blood Oranges
+    author: Caitlin R. Kiernan
+  - title: Red Delicious
+    author: Caitlin R. Kiernan
+  - title: Cherry Bomb
+    author: Caitlin R. Kiernan
+- name: Jennifer Knight
+  origin: v3
+  books:
+  - title: Blood Crave
+    author: Jennifer Knight
+  - title: Blood on the Moon
+    author: Jennifer Knight
+- name: MacAlister Dragon Falls
+  origin: v3
+  books:
+  - title: Day of the Dragon
+    author: Katie MacAlister
+  - title: Dragon Fall
+    author: Katie MacAlister
+  - title: Dragon Soul
+    author: Katie MacAlister
+  - title: Dragon Storm
+    author: Katie MacAlister
+  - title: Memoirs of a Dragon Hunter
+    author: Katie MacAlister
+- name: Shadow World Sylvan
+  origin: v3
+  books:
+  - title: Queen of Shadows
+    author: Dianne Sylvan
+  - title: Shadowflame
+    author: Dianne Sylvan
+  - title: Shadow's Fall
+    author: Dianne Sylvan
+  - title: Of Shadow Born
+    author: Dianne Sylvan
+  - title: Shadowbound
+    author: Dianne Sylvan
+- name: Dark Brethren
+  origin: v3
+  books:
+  - title: Death's Sweet Embrace
+    author: ''
+  - title: Night's Cold Kiss
+    author: ''
+  - title: Sin's Dark Caress
+    author: ''

@@ -1,0 +1,47 @@
+id: ethos-luda-and-linguists
+label: Ethos, Luda and linguists
+parent: odd-futures-silver-box
+origin: shadow-v3
+definition: Odd futures.
+cards:
+- name: Ethos Effect
+  origin: v3
+  books:
+  - title: The Ethos Effect
+    author: L. E. Modesitt
+  - title: The Octagonal Raven
+    author: L. E. Modesitt
+  - title: Endgames
+    author: L. E. Modesitt
+- name: Linguist Mages
+  origin: v3
+  books:
+  - title: Battle of the Linguist Mages
+    author: Scotto Moore
+  - title: Wild Massive
+    author: Scotto Moore
+- name: Luda
+  origin: v3
+  books:
+  - title: Luda
+    author: Grant Morrison
+- name: Inside a Silver Box
+  origin: v3
+  books:
+  - title: Inside a Silver Box
+    author: Walter Mosley
+- name: Everything Happens So Much
+  origin: v3
+  books:
+  - title: Everything Happens So Much
+    author: Andrew H. Murray
+- name: Sense of Infinity
+  origin: v3
+  books:
+  - title: A Sense of Infinity
+    author: Howard L. Myers
+- name: Flying Legion
+  origin: v3
+  books:
+  - title: The Flying Legion
+    author: George Allen England

@@ -1,0 +1,91 @@
+id: hidden-hands
+label: Hidden Hands
+parent: secret-history
+origin: shadow-v3
+definition: Secret history where a hidden order or lineage steers the events we know.
+cards:
+- name: Declare
+  origin: original
+  books:
+  - title: Declare
+- name: The Baroque Cycle
+  origin: original
+  books:
+  - title: Quicksilver
+    author: Neal Stephenson
+  - title: The Confusion
+    author: Neal Stephenson
+  - title: The System of the World
+    author: Neal Stephenson
+- name: Time's Tapestry
+  origin: v3
+  books:
+  - title: Conqueror
+    author: Stephen Baxter
+  - title: Navigator
+    author: Stephen Baxter
+  - title: Emperor
+    author: Stephen Baxter
+  - title: Weaver
+    author: Stephen Baxter
+- name: Assassin's Creed (Bowden)
+  origin: v3
+  books:
+  - title: 'Assassin''s Creed: Brotherhood'
+    author: Oliver Bowden
+  - title: 'Assassin''s Creed: Renaissance'
+    author: Oliver Bowden
+  - title: 'Assassin''s Creed: Revelations'
+    author: Oliver Bowden
+  - title: 'Assassin''s Creed: the Secret Crusade'
+    author: Oliver Bowden
+  - title: 'Assassin''s Creed: Forsaken'
+    author: Oliver Bowden
+  - title: 'Assassin''s Creed: Black Flag'
+    author: Oliver Bowden
+  - title: 'Assassin''s Creed: Unity'
+    author: Oliver Bowden
+  - title: 'Assassin''s Creed: Underworld'
+    author: Oliver Bowden
+- name: The Troy Game
+  origin: v3
+  books:
+  - title: Hades' Daughter
+    author: Sara Douglass
+  - title: Darkwitch Rising
+    author: Sara Douglass
+  - title: Gods' Concubine
+    author: Sara Douglass
+- name: The Aegypt Cycle
+  origin: original
+  books:
+  - title: Aegypt
+    author: John Crowley
+  - title: Love & Sleep
+    author: John Crowley
+  - title: Daemonomania
+    author: John Crowley
+  - title: Endless Things
+    author: John Crowley
+- name: Magician and the Fool
+  origin: v3
+  books:
+  - title: The Magician and the Fool
+    author: Barth Anderson
+- name: Domino Men
+  origin: v3
+  books:
+  - title: The Domino Men
+    author: Jonathan Barnes
+- name: Brotherhood of the Wheel
+  origin: v3
+  books:
+  - title: The Brotherhood of the Wheel
+    author: R. S. Belcher
+  - title: King of the Road
+    author: R. S. Belcher
+- name: Unnoticeables
+  origin: v3
+  books:
+  - title: The Unnoticeables
+    author: Robert Brockway

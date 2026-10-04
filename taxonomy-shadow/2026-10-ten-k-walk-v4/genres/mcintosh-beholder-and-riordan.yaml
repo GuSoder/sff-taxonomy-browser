@@ -1,0 +1,41 @@
+id: mcintosh-beholder-and-riordan
+label: McIntosh, beholders and Riordan
+parent: conflict-and-closed-societies
+origin: shadow-v3
+definition: Closed societies cont.
+cards:
+- name: Will McIntosh
+  origin: v3
+  books:
+  - title: Faller
+    author: Will McIntosh
+  - title: Defenders
+    author: Will McIntosh
+- name: Eye of the Beholder
+  origin: v3
+  books:
+  - title: Fearless
+    author: Sarah Tarkoff
+  - title: Ruthless
+    author: Sarah Tarkoff
+  - title: Sinless
+    author: Sarah Tarkoff
+- name: This Fragile Earth
+  origin: v3
+  books:
+  - title: This Fragile Earth
+    author: Susannah Wise
+- name: Master of None
+  origin: v3
+  books:
+  - title: Master of None
+    author: N. Lee Wood
+- name: Caine Riordan
+  origin: v3
+  books:
+  - title: Mission Critical
+    author: Charles E. Gannon
+  - title: Homefront
+    author: Charles E. Gannon
+  - title: Fire with Fire, Third Edition
+    author: ''

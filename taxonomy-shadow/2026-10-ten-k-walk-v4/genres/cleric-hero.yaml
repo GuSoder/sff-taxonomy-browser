@@ -1,0 +1,16 @@
+id: cleric-hero
+label: Cleric hero
+parent: caster-heroes
+origin: original
+definition: Caster-hero fantasy whose protagonist’s primary power comes through service to a deity, sacred
+  calling or accepted divine burden.
+cards:
+- name: World of the Five Gods
+  origin: original
+  books:
+  - title: The Curse of Chalion
+    author: Lois McMaster Bujold
+  - title: Paladin of Souls
+    author: Lois McMaster Bujold
+  - title: The Hallowed Hunt
+    author: Lois McMaster Bujold

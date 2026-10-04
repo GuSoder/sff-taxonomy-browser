@@ -1,0 +1,65 @@
+id: traders-and-lines
+label: Traders and lines
+parent: fixers-and-traders
+origin: shadow-v3
+definition: Traders, linesmen and liner crews.
+cards:
+- name: Linesman
+  origin: v3
+  books:
+  - title: Linesman
+    author: S. K. Dunstall
+  - title: Alliance
+    author: S. K. Dunstall
+  - title: Confluence
+    author: S. K. Dunstall
+- name: Stars Uncharted
+  origin: v3
+  books:
+  - title: Stars Uncharted
+    author: S. K. Dunstall
+  - title: Stars Beyond
+    author: S. K. Dunstall
+- name: Acorna
+  origin: v3
+  books:
+  - title: Acorna
+    author: Anne Mccaffreymargaret Ball
+  - title: First Warning
+    author: Anne Mccaffreyelizabeth A Scarborough
+  - title: Second Wave
+    author: Anne Mccaffreyelizabeth A Scarborough
+  - title: Third Watch
+    author: Anne Mccaffreyelizabeth A Scarborough
+  - title: Acorna's Quest
+    author: ''
+- name: Starliner
+  origin: v3
+  books:
+  - title: Starliner
+    author: David Drake
+  - title: Starliner, Second Edition
+    author: David Drake
+- name: Interstellar Medic
+  origin: v3
+  books:
+  - title: 'Interstellar Medic: The Long Run'
+    author: Patrick Chiles
+  - title: The Long Way Home
+    author: Patrick Chiles
+- name: The Graven
+  origin: v3
+  books:
+  - title: Azura Ghost
+    author: Essa Hansen
+  - title: Ethera Grave
+    author: Essa Hansen
+  - title: Nophek Gloss
+    author: Essa Hansen
+- name: Torgersen Space
+  origin: v3
+  books:
+  - title: A Star-Wheeled Sky
+    author: Brad R. Torgersen
+  - title: The Chaplain's War
+    author: Brad Torgersen

@@ -1,0 +1,62 @@
+id: expanse-and-grand-tours
+label: Expanse and grand tours
+parent: belt-and-outer-system
+origin: shadow-v3
+definition: The outer system opened up.
+cards:
+- name: Grand Tour
+  origin: v3
+  books:
+  - title: Empire Builders
+    author: Ben Bova
+  - title: Leviathans of Jupiter
+    author: Ben Bova
+  - title: Privateers
+    author: Ben Bova
+- name: Grand Tour 2
+  origin: v3
+  books:
+  - title: Empire Builders
+    author: Ben Bova
+  - title: Mars, Inc.
+    author: Ben Bova
+  - title: Death Wave
+    author: Ben Bova
+- name: Outer Earth
+  origin: v3
+  books:
+  - title: Adrift
+    author: Rob Boffard
+  - title: Echoes
+    author: Rob Boffard
+  - title: Impact
+    author: Rob Boffard
+  - title: Zero-G
+    author: Rob Boffard
+- name: Frozen Orbit
+  origin: v3
+  books:
+  - title: Frozen Orbit
+    author: Patrick Chiles
+  - title: Frontier
+    author: Patrick Chiles
+- name: Imperial Earth
+  origin: v3
+  books:
+  - title: Imperial Earth
+    author: Arthur C. Clarke
+- name: Wil McCarthy Queendom of Sol
+  origin: v3
+  books:
+  - title: The Collapsium
+    author: Wil McCarthy
+  - title: Rich Man's Sky
+    author: Wil McCarthy
+  - title: The Wellstone
+    author: Wil McCarthy
+  - title: Thieves' Sky
+    author: Wil McCarthy
+  - title: To Crush the Moon
+    author: Wil McCarthy
+  - title: Poor Man's Sky
+    author: Wil McCarthy

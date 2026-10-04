@@ -1,0 +1,44 @@
+id: satirical-utopia
+label: Satirical utopia
+parent: utopian-fiction
+origin: original
+definition: Utopian fiction that uses an apparently ideal society to satirize the customs, institutions
+  and assumptions of its readers own world.
+cards:
+- name: Erewhon
+  origin: original
+  books:
+  - title: Erewhon
+    author: Samuel Butler
+  - title: Erewhon Revisited
+    author: Samuel Butler
+- name: A Strange Manuscript Found in a Copper Cylinder
+  origin: original
+  books:
+  - title: A Strange Manuscript Found in a Copper Cylinder
+- name: Gargantua and Pantagruel
+  origin: original
+  books:
+  - title: Gargantua and Pantagruel
+- name: Giles Goat-Boy
+  origin: original
+  books:
+  - title: Giles Goat-Boy
+- name: Looking Backward, From The Year 2000
+  origin: original
+  books:
+  - title: Looking Backward, From The Year 2000
+- name: Seven Days in New Crete
+  origin: original
+  books:
+  - title: Seven Days in New Crete
+- name: Utopia
+  origin: original
+  books:
+  - title: Utopia
+    author: Thomas More
+- name: Penguin Island
+  origin: v3
+  books:
+  - title: Penguin Island
+    author: Anatole France

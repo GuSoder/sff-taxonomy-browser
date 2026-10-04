@@ -1,0 +1,63 @@
+id: gaslight-detectives
+label: Gaslight detectives
+parent: society-and-sleuths
+origin: shadow-v3
+definition: Detectives and pastiche sleuths in magical period cities.
+cards:
+- name: The Angel of the Crows
+  origin: original
+  books:
+  - title: The Angel of the Crows
+- name: Jackaby
+  origin: v3
+  books:
+  - title: Beastly Bones
+    author: William Ritter
+  - title: Ghostly Echoes
+    author: William Ritter
+  - title: Jackaby
+    author: William Ritter
+  - title: The Dire King
+    author: William Ritter
+- name: Rook
+  origin: original
+  books:
+  - title: Rook
+- name: Darkest London
+  origin: v3
+  books:
+  - title: Evernight
+    author: Kristen Callihan
+  - title: Firelight
+    author: Kristen Callihan
+  - title: Moonglow
+    author: Kristen Callihan
+  - title: Winterblaze
+    author: Kristen Callihan
+- name: Parasol Protectorate
+  origin: v3
+  books:
+  - title: Blameless
+    author: Gail Carriger
+  - title: Changeless
+    author: Gail Carriger
+  - title: Heartless
+    author: Gail Carriger
+  - title: Soulless
+    author: Gail Carriger
+  - title: Timeless
+    author: Gail Carriger
+- name: Alexis Hall Sherlock pastiche
+  origin: v3
+  books:
+  - title: The Affair of the Mysterious Letter
+    author: Alexis Hall
+  - title: Mortal Follies
+    author: Alexis Hall
+  - title: Confounding Oaths
+    author: Alexis Hall
+- name: City of Iron and Ivy
+  origin: v3
+  books:
+  - title: City of Iron and Ivy
+    author: Thomas Kent West

@@ -1,0 +1,18 @@
+id: navajo-myth-fantasy
+label: Navajo myth fantasy
+parent: mythic-retelling
+origin: original
+definition: Fantasy that retells or reimagines named figures, narratives and cosmology from Navajo (Diné)
+  mythology.
+cards:
+- name: Race to the Sun
+  origin: original
+  books:
+  - title: Race to the Sun
+- name: Trail of Lightning
+  origin: original
+  books:
+  - title: Trail of Lightning
+    author: Rebecca Roanhorse
+  - title: Storm of Locusts
+    author: Rebecca Roanhorse

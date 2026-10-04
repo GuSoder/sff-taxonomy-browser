@@ -1,0 +1,18 @@
+id: alt-present
+label: Alt present
+parent: period-alterations
+origin: original
+definition: Alternate histories that alter the near-present rather than a named historical period.
+cards:
+- name: Peripheral
+  origin: original
+  books:
+  - title: The Peripheral
+    author: William Gibson
+  - title: Agency
+    author: William Gibson
+- name: Lord Darcy
+  origin: v3
+  books:
+  - title: Lord Darcy
+    author: Randall Garrett

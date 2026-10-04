@@ -1,0 +1,29 @@
+id: cyborgs
+label: Cyborgs
+parent: remade-bodies
+origin: original
+definition: Posthuman fiction where mechanical prostheses or cybernetic redesign transform human embodiment.
+cards:
+- name: Limbo
+  origin: original
+  books:
+  - title: Limbo
+- name: Man Plus
+  origin: original
+  books:
+  - title: Man Plus
+- name: Brain & Brawn Ship
+  origin: v3
+  books:
+  - title: The Ship Who Sang
+    author: Anne McCaffrey
+  - title: Brain Ships
+    author: Anne McCaffrey
+  - title: The Ship Who Saved the Worlds
+    author: Anne McCaffrey
+  - title: The City and the Ship
+    author: Anne McCaffrey
+  - title: The Ship Who Searched
+    author: Anne McCaffrey
+  - title: The City Who Fought
+    author: By Anne McCaffrey

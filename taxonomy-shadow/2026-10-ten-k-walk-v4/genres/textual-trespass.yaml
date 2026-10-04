@@ -1,0 +1,47 @@
+id: textual-trespass
+label: Textual trespass
+parent: books-in-books
+origin: original
+definition: Books-in-books fiction where the boundary between a specific text and lived reality is breached,
+  with people entering and altering books or written fictions escaping into the world.
+cards:
+- name: Thursday Next
+  origin: original
+  books:
+  - title: The Eyre Affair
+    author: Jasper Fforde
+  - title: Lost in a Good Book
+    author: Jasper Fforde
+  - title: The Well of Lost Plots
+    author: Jasper Fforde
+  - title: Something Rotten
+    author: Jasper Fforde
+  - title: First Among Sequels
+    author: Jasper Fforde
+  - title: One of Our Thursdays Is Missing
+    author: Jasper Fforde
+  - title: The Woman Who Died a Lot
+    author: Jasper Fforde
+  - title: Dark Reading Matter
+    author: Jasper Fforde
+- name: Breakfast of Champions
+  origin: original
+  books:
+  - title: Breakfast of Champions
+- name: Or What You Will
+  origin: original
+  books:
+  - title: Or What You Will
+- name: Bury Your Gays
+  origin: original
+  books:
+  - title: Bury Your Gays
+- name: Library of the Unwritten
+  origin: v3
+  books:
+  - title: The Library of the Unwritten
+    author: A. J. Hackwith
+  - title: The Archive of the Forgotten
+    author: A. J. Hackwith
+  - title: The God of Lost Words
+    author: A. J. Hackwith

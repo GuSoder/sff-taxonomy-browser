@@ -1,0 +1,114 @@
+id: ship-captains
+label: Ship Captains
+parent: space-adventure
+origin: shadow-v3
+definition: Space adventure driven by the captain and crew of one ship and the trade, war and trouble
+  it runs into.
+cards:
+- name: Vatta's War
+  origin: v3
+  books:
+  - title: Trading in Danger
+    author: Elizabeth Moon
+  - title: Marque and Reprisal
+    author: Elizabeth Moon
+  - title: Engaging the Enemy
+    author: Elizabeth Moon
+  - title: Command Decision
+    author: Elizabeth Moon
+  - title: Victory Conditions
+    author: Elizabeth Moon
+  - title: Cold Welcome
+    author: Elizabeth Moon
+  - title: Into the Fire
+    author: Elizabeth Moon
+- name: Admiral (Danker)
+  origin: v3
+  books:
+  - title: Admiral
+    author: Sean Danker
+  - title: Free Space
+    author: Sean Danker
+  - title: The Glory of the Empress
+    author: Sean Danker
+- name: Sirantha Jax
+  origin: v3
+  books:
+  - title: Grimspace
+    author: Ann Aguirre
+  - title: Wanderlust
+    author: Ann Aguirre
+  - title: Doubleblind
+    author: Ann Aguirre
+  - title: Killbox
+    author: Ann Aguirre
+  - title: Aftermath
+    author: Ann Aguirre
+  - title: Endgame
+    author: Ann Aguirre
+  - title: Perdition
+    author: Ann Aguirre
+  - title: Havoc
+    author: Ann Aguirre
+  - title: Breakout
+    author: Ann Aguirre
+- name: Paradox (Bach)
+  origin: v3
+  books:
+  - title: Fortunes Pawn
+    author: Rachel Bach
+  - title: Heavens Queen
+    author: Rachel Bach
+  - title: Honors Knight
+    author: Rachel Bach
+- name: The Fire With Fire
+  origin: v3
+  books:
+  - title: Fire with Fire
+    author: Charles E. Gannon
+  - title: Trial by Fire
+    author: Charles E. Gannon
+  - title: Fire with Fire, Second Edition
+    author: Charles E. Gannon
+  - title: Raising Caine
+    author: Charles E. Gannon
+  - title: Caine's Mutiny
+    author: Charles E. Gannon
+  - title: Marque of Caine
+    author: Charles E. Gannon
+  - title: '1636: Calabar''s War'
+    author: Charles E. Gannon
+- name: The Spin Trilogy
+  origin: v3
+  books:
+  - title: Creation Machine
+    author: Andrew Bannister
+  - title: Iron Gods
+    author: Andrew Bannister
+  - title: Stone Clock
+    author: Andrew Bannister
+  - title: The Spin Trilogy
+    author: Andrew Bannister
+- name: Dark Diamond
+  origin: original
+  books:
+  - title: Dark Diamond
+- name: Prison Ship
+  origin: v3
+  books:
+  - title: Prison Ship
+    author: Michael Bowers
+- name: Arcana Imperii
+  origin: v3
+  books:
+  - title: Artifact Space
+    author: Miles Cameron
+  - title: Deep Black
+    author: Miles Cameron
+  - title: Whalesong
+    author: Miles Cameron
+- name: Sea Is Full of Stars
+  origin: v3
+  books:
+  - title: The Sea Is Full of Stars
+    author: Jack L. Chalker

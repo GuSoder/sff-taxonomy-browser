@@ -1,0 +1,52 @@
+id: altered-flesh
+label: Altered flesh
+parent: remade-bodies
+origin: original
+definition: 'Posthuman fiction centered on altered living bodies: cloning, engineered growth, resizing,
+  cellular redesign and rejuvenation. The embodied transformation governs the browser expectation even
+  when its effects spread beyond an individual.'
+cards:
+- name: The Ophiuchi Hotline
+  origin: original
+  books:
+  - title: The Ophiuchi Hotline
+- name: The Shrinking Man
+  origin: original
+  books:
+  - title: The Shrinking Man
+- name: Lamb
+  origin: original
+  books:
+  - title: Lamb
+- name: Titanium Noir
+  origin: original
+  books:
+  - title: Titanium Noir
+- name: Blood Music
+  origin: original
+  books:
+  - title: Blood Music
+- name: Beta (Cohn)
+  origin: v3
+  books:
+  - title: Beta
+    author: Rachel Cohn
+  - title: Emergent
+    author: Rachel Cohn
+- name: Company Town
+  origin: v3
+  books:
+  - title: Company Town
+    author: Madeline Ashby
+- name: Transhuman
+  origin: v3
+  books:
+  - title: Transhuman
+    author: Ben Bova
+- name: Anne Harris
+  origin: v3
+  books:
+  - title: Accidental Creatures
+    author: Anne Harris
+  - title: Inventing Memory
+    author: Anne Harris

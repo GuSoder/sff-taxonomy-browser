@@ -1,0 +1,56 @@
+id: amicae-rooks-and-ashen
+label: Amicae, rooks and ashen wars
+parent: wars-of-peoples
+origin: shadow-v3
+definition: Wars cont.
+cards:
+- name: Chronicles of Amicae
+  origin: v3
+  books:
+  - title: City of Broken Magic
+    author: Mirah Bolender
+  - title: The Monstrous Citadel
+    author: Mirah Bolender
+  - title: Fortress of Magi
+    author: Mirah Bolender
+- name: Rooks and Ruin
+  origin: v3
+  books:
+  - title: The Ivory Tomb
+    author: Melissa Caruso
+- name: Dragonships of Vindra
+  origin: v3
+  books:
+  - title: Bones of the Dragon
+    author: Margaret Weis
+  - title: Secret of the Dragon
+    author: Margaret Weis
+  - title: Rage of the Dragon
+    author: Margaret Weis
+  - title: Doom of the Dragon
+    author: Margaret Weis
+- name: Burningblade
+  origin: v3
+  books:
+  - title: Ashes of the Sun
+    author: Django Wexler
+  - title: Blood of the Chosen
+    author: Django Wexler
+  - title: Emperor of Ruin
+    author: Django Wexler
+- name: Kit Whitfield
+  origin: v3
+  books:
+  - title: Benighted
+    author: Kit Whitfield
+  - title: In Great Waters
+    author: Kit Whitfield
+- name: Ashen Series
+  origin: v3
+  books:
+  - title: Dawn of the North
+    author: Demi Winters
+  - title: Kingdom of Claw
+    author: Demi Winters
+  - title: The Road of Bones
+    author: Demi Winters

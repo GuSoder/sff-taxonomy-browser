@@ -1,0 +1,98 @@
+id: arthur-reimagined
+label: Arthur reimagined
+parent: arthurian-fantasy
+origin: original
+definition: 'Arthurian fantasy that makes the retelling itself an argument: the legend reshaped through
+  women''s, queer or satirical perspectives rather than told straight. Split from Arthurian fantasy on
+  the curator''s 2026-09-29 ruling (phonemsg-01M3NVHS8KEANY81ZFSMB9WXHZ ''Execute'').'
+cards:
+- name: Avalon
+  origin: original
+  books:
+  - title: The Mists of Avalon
+    author: Marion Zimmer Bradley
+  - title: The Forest House
+    author: Marion Zimmer Bradley
+  - title: Lady of Avalon
+    author: Marion Zimmer Bradley
+  - title: Priestess of Avalon
+    author: Marion Zimmer Bradley
+  - title: Ancestors of Avalon
+    author: Marion Zimmer Bradley
+- name: Spear
+  origin: original
+  books:
+  - title: Spear
+- name: By Force Alone
+  origin: original
+  books:
+  - title: By Force Alone
+- name: Tales of Guinevere
+  origin: v3
+  books:
+  - title: The Dragon Queen
+    author: Alice Borchardt
+  - title: The Wolf King
+    author: Alice Borchardt
+  - title: The Raven Warrior
+    author: Alice Borchardt
+- name: Merlin (Chamberlin)
+  origin: v3
+  books:
+  - title: The Merlin of St. Gilles' Well
+    author: Ann Chamberlin
+  - title: The Merlin of the Oak Wood
+    author: Ann Chamberlin
+- name: Merlin Codex
+  origin: v3
+  books:
+  - title: Celtika
+    author: Robert Holdstock
+  - title: The Iron Grail
+    author: Robert Holdstock
+  - title: The Broken Kings
+    author: Robert Holdstock
+- name: Mad Merlin
+  origin: v3
+  books:
+  - title: Mad Merlin
+    author: J. Robert King
+  - title: Lancelot Du Lethe
+    author: J. Robert King
+  - title: Le Morte D'Avalon
+    author: J. Robert King
+- name: Pendragon Cycle
+  origin: v3
+  books:
+  - title: Arthur
+    author: Stephen R Lawhead
+  - title: Grail
+    author: Stephen R Lawhead
+- name: Pendragon (cont.)
+  origin: v3
+  books:
+  - title: Pendragon
+    author: Stephen R Lawhead
+  - title: Taliesin
+    author: Stephen R Lawhead
+- name: Camulod Chronicles
+  origin: v3
+  books:
+  - title: The Saxon Shore
+    author: Jack Whyte
+  - title: 'The Sorcerer: Metamorphosis'
+    author: Jack Whyte
+  - title: Uther
+    author: Jack Whyte
+  - title: The Eagles' Brood
+    author: Jack Whyte
+  - title: The Singing Sword
+    author: Jack Whyte
+  - title: The Skystone
+    author: Jack Whyte
+  - title: The Fort at River's Bend
+    author: Jack Whyte
+  - title: The Lance Thrower
+    author: Jack Whyte
+  - title: The Eagle
+    author: Jack Whyte

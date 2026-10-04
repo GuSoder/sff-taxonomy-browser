@@ -1,0 +1,46 @@
+id: robot-lineages-and-revolts
+label: Robot Lineages and Revolts
+parent: sentient-robots
+origin: shadow-v3
+definition: Robot fiction from first laws to rebellion and after.
+cards:
+- name: I, Robot
+  origin: original
+  books:
+  - title: I, Robot
+- name: Sea of Rust
+  origin: v3
+  books:
+  - title: Day Zero
+    author: C Robert Cargill
+  - title: Sea of Rust
+    author: C Robert Cargill
+- name: The Robots of Gotham
+  origin: original
+  books:
+  - title: The Robots of Gotham
+- name: Raymond Electromatic
+  origin: v3
+  books:
+  - title: Made to Kill
+    author: Adam Christopher
+  - title: Killing Is My Business
+    author: Adam Christopher
+  - title: I Only Killed Him Once
+    author: Adam Christopher
+- name: Neom
+  origin: original
+  books:
+  - title: Neom
+- name: Machine Awakes
+  origin: v3
+  books:
+  - title: The Machine Awakes
+    author: Adam Christopher
+- name: Expert System
+  origin: v3
+  books:
+  - title: The Expert System's Brother
+    author: Adrian Tchaikovsky
+  - title: The Expert System's Champion
+    author: Adrian Tchaikovsky

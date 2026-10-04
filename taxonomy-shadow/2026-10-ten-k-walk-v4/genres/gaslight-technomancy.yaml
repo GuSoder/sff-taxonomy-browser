@@ -1,0 +1,33 @@
+id: gaslight-technomancy
+label: Gaslight technomancy
+parent: gaslight-fantasy
+origin: original
+definition: Gaslight-era fantasy where magic is engineered as science, machinery, experiment or industrial
+  system.
+cards:
+- name: Babel
+  origin: original
+  books:
+  - title: Babel
+- name: The Extraordinary Adventures of the Athena Club
+  origin: original
+  books:
+  - title: The Strange Case of the Alchemist's Daughter
+    author: Theodora Goss
+  - title: European Travel for the Monstrous Gentlewoman
+    author: Theodora Goss
+  - title: The Sinister Mystery of the Mesmerizing Girl
+    author: Theodora Goss
+- name: Fata Morgana
+  origin: original
+  books:
+  - title: Fata Morgana
+- name: Electric Empire (Carr)
+  origin: v3
+  books:
+  - title: The Dastardly Miss Lizzie
+    author: Viola Carr
+  - title: The Devious Dr. Jekyll
+    author: Viola Carr
+  - title: The Diabolical Miss Hyde
+    author: Viola Carr

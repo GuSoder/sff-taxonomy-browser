@@ -1,0 +1,60 @@
+id: shadow-magic-realms
+label: Shadow magic realms
+parent: shadow-and-folk-realms
+origin: shadow-v3
+definition: Realms of shadow magic.
+cards:
+- name: Shadow Magic
+  origin: v3
+  books:
+  - title: Burning Magic
+    author: Joshua Khan
+  - title: Dream Magic
+    author: Joshua Khan
+  - title: Shadow Magic
+    author: Joshua Khan
+- name: Shadow Weavers
+  origin: v3
+  books:
+  - title: Cursed by the Dawn
+    author: Logan Karlie
+  - title: Dream by the Shadows
+    author: Logan Karlie
+- name: Book of Forbidden Wisdom
+  origin: v3
+  books:
+  - title: The Book of Forbidden Wisdom
+    author: Gillian Murray Kendall
+- name: Kirsten Imani Kiefer
+  origin: v3
+  books:
+  - title: Ice Song
+    author: Kirsten Imani Kasai
+  - title: Tattoo (with Bonus Content)
+    author: Kirsten Imani Kasai
+- name: Sunsplitter
+  origin: v3
+  books:
+  - title: Sunsplitter
+    author: S. A. MacLean
+- name: Daughter of Crows
+  origin: v3
+  books:
+  - title: Daughter of Crows
+    author: Mark Lawrence
+- name: Strange the Dreamer
+  origin: v3
+  books:
+  - title: Muse of Nightmares
+    author: Laini Taylor
+  - title: Strange the Dreamer
+    author: Laini Taylor
+- name: Julia Vee
+  origin: v3
+  books:
+  - title: Ebony Gate
+    author: Julia Vee
+  - title: Blood Jade
+    author: Julia Vee
+  - title: Pearl City
+    author: Julia Vee

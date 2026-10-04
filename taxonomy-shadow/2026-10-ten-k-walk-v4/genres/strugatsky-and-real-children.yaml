@@ -1,0 +1,39 @@
+id: strugatsky-and-real-children
+label: Strugatsky and real children
+parent: alternate-selves
+origin: shadow-v3
+definition: Alt selves cont.
+cards:
+- name: Strugatsky
+  origin: v3
+  books:
+  - title: The Doomed City
+    author: Arkady Strugatsky
+  - title: The Inhabited Island
+    author: Arkady Strugatsky
+  - title: The Snail on the Slope
+    author: Arkady Strugatsky
+- name: My Real Children
+  origin: v3
+  books:
+  - title: My Real Children
+    author: Jo Walton
+- name: Joma West
+  origin: v3
+  books:
+  - title: Face
+    author: Joma West
+  - title: Twice Lived
+    author: Joma West
+- name: Big Time Winters
+  origin: v3
+  books:
+  - title: Big Time
+    author: Ben H. Winters
+- name: Ray Wood
+  origin: v3
+  books:
+  - title: In the Sight of Akresa
+    author: Ray Wood
+  - title: Schrodinger's Gun
+    author: Ray Wood

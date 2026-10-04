@@ -1,0 +1,55 @@
+id: nightmare-doors
+label: Nightmare doors
+parent: eldritch-doors
+origin: original
+definition: 'Anchored doors that open into nightmare realms rather than Faerie. Storybook-derived darkness
+  counts: worlds built on children''s-story, fairy-tale or portal-fantasy logic whose menace, predation
+  or dangerous belonging turns the familiar story dark.'
+cards:
+- name: Coraline
+  origin: original
+  books:
+  - title: Coraline
+- name: Wayward Children
+  origin: original
+  books:
+  - title: Every Heart a Doorway
+    author: Seanan McGuire
+  - title: Down Among the Sticks and Bones
+    author: Seanan McGuire
+  - title: Beneath the Sugar Sky
+    author: Seanan McGuire
+  - title: In an Absent Dream
+    author: Seanan McGuire
+  - title: Come Tumbling Down
+    author: Seanan McGuire
+  - title: Across the Green Grass Fields
+    author: Seanan McGuire
+  - title: Where the Drowned Girls Go
+    author: Seanan McGuire
+  - title: Lost in the Moment and Found
+    author: Seanan McGuire
+  - title: Mislaid in Parts Half-Known
+    author: Seanan McGuire
+  - title: Adrift in Currents Clean and Clear
+    author: Seanan McGuire
+  - title: Through Gates of Garnet and Gold
+    author: Seanan McGuire
+- name: The Nightmare-Verse
+  origin: original
+  books:
+  - title: A Blade So Black
+    author: L.L. McKinney
+  - title: A Dream So Dark
+    author: L.L. McKinney
+  - title: A Crown So Cursed
+    author: L.L. McKinney
+- name: The Magicians Trilogy
+  origin: original
+  books:
+  - title: The Magicians
+    author: Lev Grossman
+  - title: The Magician King
+    author: Lev Grossman
+  - title: The Magician's Land
+    author: Lev Grossman

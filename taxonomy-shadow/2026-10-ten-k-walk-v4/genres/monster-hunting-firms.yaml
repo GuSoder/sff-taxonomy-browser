@@ -1,0 +1,140 @@
+id: monster-hunting-firms
+label: Monster-hunting firms
+parent: monster-hunter-offices
+origin: shadow-v3
+definition: Companies and families that hunt monsters.
+cards:
+- name: Monster Hunter International
+  origin: v3
+  books:
+  - title: Monster Hunter International
+    author: Larry Correia
+  - title: Monster Hunter Vendetta
+    author: Larry Correia
+  - title: Monster Hunter Alpha
+    author: Larry Correia
+  - title: Monster Hunter Legion
+    author: Larry Correia
+  - title: The Monster Hunters
+    author: Larry Correia
+  - title: Monster Hunter Nemesis
+    author: Larry Correia
+  - title: Monster Hunter International, Second Edition
+    author: Larry Correia
+  - title: 'Monster Hunter Memoirs: Grunge'
+    author: Larry Correia
+  - title: 'Monster Hunter Memoirs: Sinners'
+    author: Larry Correia
+  - title: Monster Hunter Siege
+    author: Larry Correia
+  - title: The Monster Hunter Files
+    author: Larry Correia
+  - title: Monster Hunter Guardian
+    author: Larry Correia
+  - title: 'Monster Hunter Memoirs: Saints'
+    author: Larry Correia
+  - title: 'Monster Hunter Alien Files: First Contact'
+    author: Larry Correia
+  - title: 'Monster Hunter Memoirs: Fever'
+    author: Larry Correia
+  - title: Monster Hunter Bloodlines
+    author: Larry Correia
+- name: InCryptid
+  origin: v3
+  books:
+  - title: Chaos Choreography
+    author: Seanan McGuire
+  - title: Discount Armageddon
+    author: Seanan McGuire
+  - title: Half-Off Ragnarok
+    author: Seanan McGuire
+  - title: Magic for Nothing
+    author: Seanan McGuire
+  - title: Midnight Blue-Light Special
+    author: Seanan McGuire
+  - title: Pocket Apocalypse
+    author: Seanan McGuire
+  - title: Silver and Lead
+    author: Seanan McGuire
+  - title: That Ain't Witchcraft
+    author: Seanan McGuire
+  - title: Tricks for Free
+    author: Seanan McGuire
+  - title: Calculated Risks
+    author: Seanan McGuire
+  - title: Imaginary Numbers
+    author: Seanan McGuire
+- name: Ink & Sigil
+  origin: v3
+  books:
+  - title: Ink & Sigil
+    author: Kevin Hearne
+  - title: Paper & Blood
+    author: Kevin Hearne
+- name: Ciel Halligan
+  origin: v3
+  books:
+  - title: In a Fix
+    author: Linda Grimes
+  - title: Quick Fix
+    author: Linda Grimes
+  - title: Pre-Fix
+    author: Linda Grimes
+  - title: The Big Fix
+    author: Linda Grimes
+  - title: All Fixed Up
+    author: Linda Grimes
+- name: Gillian Key
+  origin: v3
+  books:
+  - title: Key to Conflict
+    author: Talia Gryphon
+  - title: Key to Conspiracy
+    author: Talia Gryphon
+  - title: Key to Redemption
+    author: Talia Gryphon
+  - title: Key to Justice
+    author: Talia Gryphon
+- name: Emma Monroe Zack Armstrong
+  origin: v3
+  books:
+  - title: Cursed
+    author: S.J. Harper
+  - title: Reckoning
+    author: S.J. Harper
+- name: Jackie Kessler
+  origin: v3
+  books:
+  - title: Black and White
+    author: Jackie Kessler
+  - title: Shades of Gray
+    author: Jackie Kessler
+- name: Sin du Jour
+  origin: v3
+  books:
+  - title: Envy of Angels
+    author: Matt Wallace
+  - title: Lustlocked
+    author: Matt Wallace
+  - title: Pride's Spell
+    author: Matt Wallace
+  - title: Small Wars
+    author: Matt Wallace
+  - title: Gluttony Bay
+    author: Matt Wallace
+  - title: Greedy Pigs
+    author: Matt Wallace
+  - title: Idle Ingredients
+    author: Matt Wallace
+  - title: Taste of Wrath
+    author: Matt Wallace
+- name: A Most Decadent Curse
+  origin: v3
+  books:
+  - title: A Most Decadent Curse
+    author: Deborah Yelle
+- name: Life and Limb
+  origin: v3
+  books:
+  - title: Life and Limb
+    author: Jennifer Roberson

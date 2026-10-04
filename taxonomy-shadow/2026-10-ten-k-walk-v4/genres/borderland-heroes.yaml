@@ -1,0 +1,42 @@
+id: borderland-heroes
+label: Borderland heroes
+parent: farm-boy-fellowships
+origin: shadow-v3
+definition: Heroes from the margins who stumble into the larger war.
+cards:
+- name: Lion of Farside
+  origin: v3
+  books:
+  - title: The Lion of Farside
+    author: John Dalmas
+  - title: The Lion Returns
+    author: John Dalmas
+- name: Wulf's Saga
+  origin: v3
+  books:
+  - title: The Dragon Hammer
+    author: Tony Daniel
+  - title: The Amber Arrow
+    author: Tony Daniel
+- name: Speak to the Devil
+  origin: v3
+  books:
+  - title: Speak to the Devil
+    author: Dave Duncan
+  - title: When the Saints
+    author: Dave Duncan
+- name: Light of the Veil
+  origin: v3
+  books:
+  - title: Light of the Veil
+    author: Richard Fox
+- name: Shadows Past
+  origin: v3
+  books:
+  - title: Shadows Past
+    author: Lorna Freeman
+- name: Harald
+  origin: v3
+  books:
+  - title: Harald
+    author: David Friedman

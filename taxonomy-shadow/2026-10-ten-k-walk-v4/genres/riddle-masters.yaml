@@ -1,0 +1,111 @@
+id: riddle-masters
+label: Riddle-masters and riders
+parent: riddle-masters-and-riders
+origin: shadow-v3
+definition: Riddles and riders.
+cards:
+- name: Riddle-Master
+  origin: v3
+  books:
+  - title: The Riddle-Master's Game
+    author: Patricia A. McKillip
+- name: Green Rider
+  origin: v3
+  books:
+  - title: Green Rider
+    author: Kristen Britain
+  - title: The High King's Tomb
+    author: Kristen Britain
+  - title: First Rider's Call
+    author: Kristen Britain
+  - title: Blackveil
+    author: Kristen Britain
+  - title: Mirror Sight
+    author: Kristen Britain
+  - title: Firebrand
+    author: Kristen Britain
+  - title: The Dream Gatherer
+    author: Kristen Britain
+  - title: Winterlight
+    author: Kristen Britain
+  - title: Spirit of the Wood
+    author: Kristen Britain
+  - title: Falling in a Sea of Stars
+    author: Kristen Britain
+  - title: The Last Sea King
+    author: Kristen Britain
+- name: Fire and Thorns
+  origin: v3
+  books:
+  - title: Fire and Thorns
+    author: Rae Carson
+  - title: The Bitter Kingdom
+    author: Rae Carson
+  - title: The Crown of Embers
+    author: Rae Carson
+- name: Symphony of Ages
+  origin: v3
+  books:
+  - title: Rhapsody
+    author: Elizabeth Haydon
+  - title: Prophecy
+    author: Elizabeth Haydon
+  - title: Destiny
+    author: Elizabeth Haydon
+  - title: Requiem for the Sun
+    author: Elizabeth Haydon
+  - title: Elegy for a Lost Star
+    author: Elizabeth Haydon
+  - title: The Assassin King
+    author: Elizabeth Haydon
+  - title: The Merchant Emperor
+    author: Elizabeth Haydon
+  - title: The Symphony of Ages
+    author: Elizabeth Haydon
+  - title: The Hollow Queen
+    author: Elizabeth Haydon
+  - title: The Weaver's Lament
+    author: Elizabeth Haydon
+- name: Starless
+  origin: v3
+  books:
+  - title: Starless
+    author: Jacqueline Carey
+- name: Damar
+  origin: v3
+  books:
+  - title: The Blue Sword
+    author: Robin McKinley
+  - title: The Hero and the Crown
+    author: Robin McKinley
+- name: Riyria
+  origin: v3
+  books:
+  - title: Heir of Novron
+    author: Michael J. Sullivan
+  - title: Rise of Empire
+    author: Michael J. Sullivan
+  - title: The Crown Tower
+    author: Michael J. Sullivan
+  - title: The Riyria Revelations
+    author: Michael J. Sullivan
+  - title: The Rose and the Thorn
+    author: Michael J. Sullivan
+  - title: Theft of Swords
+    author: Michael J. Sullivan
+- name: Weber Fantasies
+  origin: v3
+  books:
+  - title: The Road to Hell
+    author: David Weber
+  - title: The Sword of the South
+    author: David Weber
+- name: Martha Wells Fantasies
+  origin: v3
+  books:
+  - title: City of Bones
+    author: Martha Wells
+  - title: Wheel of the Infinite
+    author: Martha Wells
+  - title: The Gate of Gods
+    author: Martha Wells

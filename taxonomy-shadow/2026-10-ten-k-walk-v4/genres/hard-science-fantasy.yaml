@@ -1,0 +1,48 @@
+id: hard-science-fantasy
+label: Hard science fantasy
+parent: science-fantasy
+origin: original
+definition: 'Science fantasy whose surface reads as fantasy but whose engine is technology and known physics
+  holds: no faster-than-light travel and no teleportation.'
+cards:
+- name: Jack of Shadows
+  origin: original
+  books:
+  - title: Jack of Shadows
+- name: Lord of Light
+  origin: v3
+  books:
+  - title: Creatures of Light and Darkness
+    author: Roger Zelazny
+- name: Riverworld
+  origin: original
+  books:
+  - title: To Your Scattered Bodies Go
+    author: Philip José Farmer
+  - title: The Fabulous Riverboat
+    author: Philip José Farmer
+  - title: The Dark Design
+    author: Philip José Farmer
+  - title: The Magic Labyrinth
+    author: Philip José Farmer
+  - title: Gods of Riverworld
+    author: Philip José Farmer
+- name: City Under the Stars
+  origin: original
+  books:
+  - title: City Under the Stars
+- name: The Siege of Burning Grass
+  origin: original
+  books:
+  - title: The Siege of Burning Grass
+- name: The Wings Upon Her Back
+  origin: original
+  books:
+  - title: The Wings Upon Her Back
+- name: Well World
+  origin: v3
+  books:
+  - title: Echoes of the Well of Souls
+    author: Jack L. Chalker
+  - title: Ghost of the Well of Souls
+    author: Jack L. Chalker

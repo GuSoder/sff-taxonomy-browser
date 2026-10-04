@@ -1,0 +1,70 @@
+id: fae-realm-novels-b
+label: Fae realm novels
+parent: fae-courts-of-the-realm
+origin: shadow-v3
+definition: Fae realms.
+cards:
+- name: Clare Sager
+  origin: v3
+  books:
+  - title: King of Ravens
+    author: Clare Sager
+  - title: Queen of Thorns
+    author: Clare Sager
+- name: Analeigh Sbrana
+  origin: v3
+  books:
+  - title: Heir of Prophecy
+    author: Analeigh Sbrana
+  - title: Lore of the Tides
+    author: Analeigh Sbrana
+  - title: Lore of the Wilds
+    author: Analeigh Sbrana
+- name: Lyra Selene
+  origin: v3
+  books:
+  - title: A Crown So Silver
+    author: Lyra Selene
+  - title: A Feather So Black
+    author: Lyra Selene
+  - title: A Heart So Green
+    author: Lyra Selene
+- name: Katie Shepard Gods
+  origin: v3
+  books:
+  - title: God of Thieves
+    author: Katie Shepard
+  - title: The Younger Gods
+    author: Katie Shepard
+- name: Twelve Houses
+  origin: v3
+  books:
+  - title: Mystic and Rider
+    author: Sharon Shinn
+  - title: Dark Moon Defender
+    author: Sharon Shinn
+  - title: The Thirteenth House
+    author: Sharon Shinn
+  - title: Reader and Raelynx
+    author: Sharon Shinn
+  - title: Fortune and Fate
+    author: Sharon Shinn
+- name: Julie Soto Romantasy
+  origin: v3
+  books:
+  - title: Rose in Chains
+    author: Julie Soto
+  - title: Vine of Hearts
+    author: Julie Soto
+- name: Stemple Singer of Souls
+  origin: v3
+  books:
+  - title: Singer of Souls
+    author: Adam Stemple
+  - title: Steward of Song
+    author: Adam Stemple
+- name: Gallowglass Provost
+  origin: v3
+  books:
+  - title: Gallowglass
+    author: ''

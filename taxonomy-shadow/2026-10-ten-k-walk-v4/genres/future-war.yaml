@@ -1,0 +1,39 @@
+id: future-war
+label: Future war
+parent: future-of-earth-fiction
+origin: original
+definition: War transformed by technology and fought on Earth. Near-future and modern entries are included;
+  Earthbound conflict remains the core.
+cards:
+- name: Rogue Sequence
+  origin: original
+  books:
+  - title: Rogue Sequence
+- name: War Girls
+  origin: original
+  books:
+  - title: War Girls
+    author: Tochi Onyebuchi
+  - title: Rebel Sisters
+    author: Tochi Onyebuchi
+- name: Terminator novels (Allston)
+  origin: v3
+  books:
+  - title: 'Terminator 3: Terminator Dreams'
+    author: Aaron Allston
+  - title: 'Terminator 3: Terminator Hunt'
+    author: Aaron Allston
+- name: Homefront
+  origin: v3
+  books:
+  - title: Homefront
+    author: Raymond Benson
+- name: Empire (Card)
+  origin: v3
+  books:
+  - title: Empire
+    author: Orson Scott Card
+  - title: Hidden Empire
+    author: Orson Scott Card
+  - title: 'Empire: The Series'
+    author: Orson Scott Card

@@ -1,0 +1,51 @@
+id: contact-at-home-and-abroad
+label: Contact at home and abroad
+parent: first-signs-and-lone-contact
+origin: shadow-v3
+definition: Contact stories on Earth and other worlds.
+cards:
+- name: Burn Zone
+  origin: v3
+  books:
+  - title: The Burn Zone
+    author: James K. Decker
+- name: Dickson alien contact
+  origin: v3
+  books:
+  - title: The Right to Arm Bears
+    author: Gordon R. Dickson
+  - title: Wolfling
+    author: Gordon R. Dickson
+- name: Dickson Magnificent Wilf
+  origin: v3
+  books:
+  - title: Sleepwalker's World
+    author: Gordon R. Dickson
+  - title: The Magnificent Wilf
+    author: Gordon R. Dickson
+- name: Brides of the Kylorr
+  origin: v3
+  books:
+  - title: Desire in His Blood
+    author: Zoey Draven
+  - title: Craving in His Blood
+    author: Zoey Draven
+- name: Dyachenko
+  origin: v3
+  books:
+  - title: Assassin of Reality
+    author: Marina Sergey Dyachenko
+  - title: Daughter from the Dark
+    author: Marina Sergey Dyachenko
+- name: Ruthanna Emrys
+  origin: v3
+  books:
+  - title: The Litany of Earth
+    author: Ruthanna Emrys
+  - title: The Deepest Rift
+    author: Ruthanna Emrys
+- name: Mother of Demons
+  origin: v3
+  books:
+  - title: Mother of Demons
+    author: Eric Flint

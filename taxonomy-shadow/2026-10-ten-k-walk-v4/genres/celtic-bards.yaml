@@ -1,0 +1,108 @@
+id: celtic-bards
+label: Celtic bards
+parent: celtic-bards-and-lines
+origin: shadow-v3
+definition: Celtic bards.
+cards:
+- name: Meq
+  origin: v3
+  books:
+  - title: The Meq
+    author: Steve Cash
+  - title: Time Dancers
+    author: Steve Cash
+  - title: The Remembering
+    author: Steve Cash
+- name: Stephen Leigh Celtic
+  origin: v3
+  books:
+  - title: Immortal Muse
+    author: Stephen Leigh
+  - title: The Crow of Connemara
+    author: Stephen Leigh
+  - title: A Fading Sun
+    author: Stephen Leigh
+  - title: A Rising Moon
+    author: Stephen Leigh
+  - title: Speaking Stones
+    author: Stephen Leigh
+- name: Finn Longman
+  origin: v3
+  books:
+  - title: The Animals We Became
+    author: Finn Longman
+  - title: The Wolf and His King
+    author: Finn Longman
+- name: Patricia McKillip
+  origin: v3
+  books:
+  - title: Song for the Basilisk
+    author: Patricia A. McKillip
+  - title: The Tower at Stony Wood
+    author: Patricia A. McKillip
+  - title: Winter Rose
+    author: Patricia A. McKillip
+  - title: Ombria in Shadow
+    author: Patricia A. McKillip
+  - title: Alphabet of Thorn
+    author: Patricia A. McKillip
+  - title: Od Magic
+    author: Patricia A. McKillip
+  - title: Solstice Wood
+    author: Patricia A. McKillip
+  - title: The Bell at Sealey Head
+    author: Patricia A. McKillip
+  - title: The Bards of Bone Plain
+    author: Patricia A. McKillip
+  - title: Kingfisher
+    author: Patricia A. McKillip
+- name: Song of Ireland
+  origin: v3
+  books:
+  - title: Song of Ireland
+    author: Juilene Osborne-McKnight
+- name: Avalon and Westria
+  origin: v3
+  books:
+  - title: The Hallowed Isle Book Four
+    author: Diana L Paxson
+  - title: Marion Zimmer Bradley's Ancestors of Avalon
+    author: Diana L. Paxson
+  - title: The Golden Hills of Westria
+    author: Diana L. Paxson
+  - title: Marion Zimmer Bradley's Ravens of Avalon
+    author: Diana L. Paxson
+  - title: Marion Zimmer Bradley's Sword of Avalon
+    author: Diana L. Paxson
+- name: Ynis Aielle
+  origin: v3
+  books:
+  - title: Echoes of the Fourth Magic
+    author: R.A. Salvatore
+  - title: Bastion of Darkness
+    author: R.A. Salvatore
+  - title: The Witch's Daughter
+    author: R.A. Salvatore
+- name: Fable for Hollow Creatures
+  origin: v3
+  books:
+  - title: A Fable for Hollow Creatures
+    author: R. R. Schaeffer
+- name: Josepha Sherman Elves
+  origin: v3
+  books:
+  - title: A Strange and Ancient Name
+    author: Josepha Sherman
+  - title: Forging the Runes
+    author: Josepha Sherman
+  - title: King's Son, Magic's Son
+    author: Josepha Sherman
+  - title: The Chaos Gate
+    author: Josepha Sherman
+  - title: The Shattered Oath
+    author: Josepha Sherman
+- name: Wood Wife
+  origin: v3
+  books:
+  - title: The Wood Wife
+    author: Terri Windling; introduction by Delia Sherman

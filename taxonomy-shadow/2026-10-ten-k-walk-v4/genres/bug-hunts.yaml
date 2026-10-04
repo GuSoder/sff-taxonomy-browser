@@ -1,0 +1,100 @@
+id: bug-hunts
+label: Bug Hunts
+parent: ground-pounders
+origin: shadow-v3
+definition: 'Infantry war against alien enemies: the grunt''s view of the alien front.'
+cards:
+- name: Starship Troopers
+  origin: original
+  books:
+  - title: Starship Troopers
+- name: Old Man's War
+  origin: v3
+  books:
+  - title: Old Man's War Series
+    author: John Scalzi
+- name: Cry Pilot
+  origin: v3
+  books:
+  - title: Cry Pilot
+    author: Joel Dane
+  - title: Burn Cycle
+    author: Joel Dane
+  - title: Kill Orbit
+    author: Joel Dane
+- name: Legacy of the Aldenata
+  origin: v3
+  books:
+  - title: A Hymn Before Battle
+    author: John Ringo
+  - title: When the Devil Dances
+    author: John Ringo
+  - title: Hell's Faire
+    author: John Ringo
+  - title: Cally's War
+    author: John Ringo
+  - title: The Hero
+    author: John Ringo
+  - title: Watch on the Rhine
+    author: John Ringo
+- name: Confederation (Huff)
+  origin: v3
+  books:
+  - title: Valor's Choice
+    author: Tanya Huff
+  - title: The Better Part of Valor
+    author: Tanya Huff
+  - title: The Heart of Valor
+    author: Tanya Huff
+  - title: Valor's Trial
+    author: Tanya Huff
+  - title: The Truth of Valor
+    author: Tanya Huff
+  - title: A Confederation of Valor
+    author: Tanya Huff
+- name: Eternity War
+  origin: v3
+  books:
+  - title: 'The Eternity War: Dominion'
+    author: Jamie Sawyer
+  - title: 'The Eternity War: Exodus'
+    author: Jamie Sawyer
+  - title: 'The Eternity War: Pariah'
+    author: Jamie Sawyer
+- name: Lazarus War
+  origin: v3
+  books:
+  - title: 'The Lazarus War: Artefact'
+    author: Jamie Sawyer
+  - title: 'The Lazarus War: Legion'
+    author: Jamie Sawyer
+  - title: 'The Lazarus War: Origins'
+    author: Jamie Sawyer
+- name: War Dogs (Bear)
+  origin: v3
+  books:
+  - title: Killing Titan
+    author: Greg Bear
+  - title: Take Back the Sky
+    author: Greg Bear
+  - title: War Dogs
+    author: Greg Bear
+- name: Cobra
+  origin: v3
+  books:
+  - title: The Cobra Trilogy
+    author: Timothy Zahn
+  - title: 'Cobra Alliance: Cobra War Book I'
+    author: Timothy Zahn
+  - title: 'Cobra Guardian: Cobra War Book II'
+    author: Timothy Zahn
+  - title: 'Cobra Gamble: Cobra War Book III'
+    author: Timothy Zahn
+  - title: Cobra Slave
+    author: Timothy Zahn
+  - title: Cobra
+    author: Timothy Zahn
+  - title: Cobra War Trilogy
+    author: Timothy Zahn
+  - title: Cobra Traitor
+    author: Timothy Zahn

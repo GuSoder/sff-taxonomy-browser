@@ -1,0 +1,57 @@
+id: crossfire-and-remnants
+label: Crossfire, remnants and spin
+parent: crossfire-and-spin
+origin: shadow-v3
+definition: Space opera.
+cards:
+- name: Crossfire
+  origin: v3
+  books:
+  - title: Crossfire
+    author: Nancy Kress
+  - title: Crucible
+    author: Nancy Kress
+- name: Mersault Space Opera
+  origin: v3
+  books:
+  - title: The Presence Malign
+    author: Michael Mersault
+  - title: The Redline Heist
+    author: Michael Mersault
+  - title: The Silent Hand
+    author: Michael Mersault
+  - title: The Deep Man
+    author: Michael Mersault
+- name: Adiamante
+  origin: v3
+  books:
+  - title: Adiamante
+    author: L. E. Modesitt
+- name: Remnant Population
+  origin: v3
+  books:
+  - title: Remnant Population
+    author: Elizabeth Moon
+- name: Spin State
+  origin: v3
+  books:
+  - title: Spin State
+    author: Chris Moriarty
+  - title: Spin Control
+    author: Chris Moriarty
+  - title: Ghost Spin
+    author: Chris Moriarty
+- name: Keeper Trilogy Peters
+  origin: v3
+  books:
+  - title: From Darkest Skies
+    author: Sam Peters
+  - title: From Distant Stars
+    author: Sam Peters
+  - title: From Divergent Suns
+    author: Sam Peters
+- name: Forge of Heaven
+  origin: v3
+  books:
+  - title: Forge of Heaven
+    author: C J Cherryh

@@ -1,0 +1,67 @@
+id: deryni-and-kay-courts
+label: Deryni and Kay courts
+parent: dynastic-courts
+origin: shadow-v3
+definition: Courts of old.
+cards:
+- name: Briar King
+  origin: v3
+  books:
+  - title: The Briar King
+    author: Greg Keyes
+  - title: The Charnel Prince
+    author: Greg Keyes
+  - title: The Blood Knight
+    author: Greg Keyes
+  - title: The Born Queen
+    author: Greg Keyes
+- name: Moorehawke Trilogy
+  origin: v3
+  books:
+  - title: The Crowded Shadows
+    author: Celine Kiernan
+  - title: The Poison Throne
+    author: Celine Kiernan
+  - title: The Rebel Prince
+    author: Celine Kiernan
+- name: Guy Gavriel Kay
+  origin: v3
+  books:
+  - title: A Song for Arbonne
+    author: Guy Gavriel Kay
+  - title: Lord of Emperors
+    author: Guy Gavriel Kay
+  - title: Sailing to Sarantium
+    author: Guy Gavriel Kay
+- name: Fiona Patton Anavatan and Stone Prince
+  origin: v3
+  books:
+  - title: The Stone Prince
+    author: Fiona Patton
+  - title: The Painter Knight
+    author: Fiona Patton
+  - title: The Granite Shield
+    author: Fiona Patton
+  - title: The Golden Sword
+    author: Fiona Patton
+  - title: The Silver Lake
+    author: Fiona Patton
+  - title: The Golden Tower
+    author: Fiona Patton
+  - title: The Shining City
+    author: Fiona Patton
+- name: Melanie Rawn Dragon Prince and Exiles
+  origin: v3
+  books:
+  - title: Exiles
+    author: Melanie Rawn
+  - title: The Mageborn Traitor
+    author: Melanie Rawn
+  - title: Spellbinder
+    author: Melanie Rawn
+  - title: Fire Raiser
+    author: Melanie Rawn
+  - title: The Diviner
+    author: Melanie Rawn
+  - title: Touchstone
+    author: Melanie Rawn

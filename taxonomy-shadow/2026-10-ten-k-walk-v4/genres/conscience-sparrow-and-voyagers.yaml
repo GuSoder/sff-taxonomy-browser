@@ -1,0 +1,45 @@
+id: conscience-sparrow-and-voyagers
+label: Conscience, sparrows and voyagers
+parent: crewed-contact-missions
+origin: shadow-v3
+definition: Crewed missions.
+cards:
+- name: A Case of Conscience
+  origin: original
+  books:
+  - title: A Case of Conscience
+- name: The Sparrow
+  origin: original
+  books:
+  - title: The Sparrow
+    author: Mary Doria Russell
+  - title: Children of God
+    author: Mary Doria Russell
+- name: Voyagers (Bova)
+  origin: v3
+  books:
+  - title: Voyagers
+    author: Ben Bova
+  - title: Voyagers II
+    author: Ben Bova
+  - title: Voyagers III
+    author: Ben Bova
+- name: Voyagers/New Earth
+  origin: v3
+  books:
+  - title: New Earth
+    author: Ben Bova
+  - title: Apes and Angels
+    author: Ben Bova
+- name: Ship of Destiny
+  origin: v3
+  books:
+  - title: Ship of Destiny
+    author: Frank Chadwick
+- name: Chambers
+  origin: v3
+  books:
+  - title: As You Wake, Break the Shell
+    author: Becky Chambers
+  - title: To Be Taught, If Fortunate
+    author: Becky Chambers

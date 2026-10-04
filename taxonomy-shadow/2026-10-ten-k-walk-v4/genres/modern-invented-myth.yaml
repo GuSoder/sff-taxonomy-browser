@@ -1,0 +1,61 @@
+id: modern-invented-myth
+label: Modern invented myth
+parent: contemporary-mythic-fantasy
+origin: original
+definition: Contemporary fantasy in which an author's invented cosmology - beings, realms and rules with
+  mythic weight - anchors the story; the mythology is original, not inherited.
+cards:
+- name: The Book of Love
+  origin: original
+  books:
+  - title: The Book of Love
+- name: Godly Heathens
+  origin: original
+  books:
+  - title: Godly Heathens
+- name: Incarnations of Immortality
+  origin: v3
+  books:
+  - title: Bearing an Hourglass
+    author: Piers Anthony
+  - title: On a Pale Horse
+    author: Piers Anthony
+  - title: With a Tangled Skein
+    author: Piers Anthony
+  - title: Wielding a Red Sword
+    author: Piers Anthony
+  - title: Being a Green Mother
+    author: Piers Anthony
+  - title: And Eternity
+    author: Piers Anthonypiers A Jacob
+  - title: For Love of Evil
+    author: Piers Anthonypiers A Jacob
+- name: Calliope Reaper-Jones
+  origin: v3
+  books:
+  - title: Death's Daughter
+    author: Amber Benson
+  - title: Cat's Claw
+    author: Amber Benson
+  - title: Serpent's Storm
+    author: Amber Benson
+  - title: How to be Death
+    author: Amber Benson
+  - title: The Golden Age of Death
+    author: Amber Benson
+- name: The Mither Mages
+  origin: v3
+  books:
+  - title: The Lost Gate
+    author: Orson Scott Card
+  - title: The Gate Thief
+    author: Orson Scott Card
+  - title: Gatefather
+    author: Orson Scott Card
+  - title: The Mither Mages Trilogy
+    author: Orson Scott Card
+- name: Krampus
+  origin: v3
+  books:
+  - title: Krampus
+    author: Brom

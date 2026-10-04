@@ -1,0 +1,43 @@
+id: celtic-myth-retold
+label: Celtic myth retold
+parent: celtic-fantasy
+origin: shadow-v3
+definition: Celtic and northern myth retold.
+cards:
+- name: The Buried Giant
+  origin: original
+  books:
+  - title: The Buried Giant
+- name: Blackthorn & Grim
+  origin: v3
+  books:
+  - title: Dreamer's Pool
+    author: Juliet Marillier
+  - title: Tower of Thorns
+    author: Juliet Marillier
+  - title: Den of Wolves
+    author: Juliet Marillier
+- name: Brandon
+  origin: v3
+  books:
+  - title: The Wild Reel
+    author: Paul Brandon
+  - title: Swim the Moon
+    author: Paul Brandon
+- name: Rhymer
+  origin: v3
+  books:
+  - title: 'Rhymer: Hel'
+    author: Gregory Frost
+  - title: Rhymer
+    author: Gregory Frost
+- name: Witch and the Tsar
+  origin: v3
+  books:
+  - title: The Witch and the Tsar
+    author: Olesya Salnikova Gilmore
+- name: Raven Queen
+  origin: v3
+  books:
+  - title: The Raven Queen
+    author: Jules Watson

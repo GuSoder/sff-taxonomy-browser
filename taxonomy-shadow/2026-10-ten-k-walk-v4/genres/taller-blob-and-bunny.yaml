@@ -1,0 +1,45 @@
+id: taller-blob-and-bunny
+label: Taller someones, blobs and bunnies
+parent: odd-corners-of-the-modern
+origin: shadow-v3
+definition: Odd modern corners.
+cards:
+- name: Expecting Someone Taller
+  origin: original
+  books:
+  - title: Expecting Someone Taller
+- name: Blob
+  origin: original
+  books:
+  - title: Blob
+- name: Shadow Ticket
+  origin: original
+  books:
+  - title: Shadow Ticket
+- name: Bunny
+  origin: original
+  books:
+  - title: Bunny
+    author: Mona Awad
+  - title: We Love You, Bunny
+    author: Mona Awad
+- name: J. W. Wells and Co.
+  origin: v3
+  books:
+  - title: Earth, Air, Fire and Custard
+    author: Tom Holt
+  - title: In Your Dreams
+    author: Tom Holt
+  - title: May Contain Traces of Magic
+    author: Tom Holt
+  - title: The Better Mousetrap
+    author: Tom Holt
+  - title: The Portable Door
+    author: Tom Holt
+  - title: You Dont Have to Be Evil to Work Here, But it Helps
+    author: Tom Holt
+- name: Mojo and the Pickle Jar
+  origin: v3
+  books:
+  - title: Mojo And The Pickle Jar
+    author: Douglas Bell

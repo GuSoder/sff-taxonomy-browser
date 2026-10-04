@@ -1,0 +1,67 @@
+id: healers-and-doctors
+label: Healers and doctors
+parent: healers-explorers-and-castaways
+origin: shadow-v3
+definition: Doctors and healers among aliens.
+cards:
+- name: Stardoc
+  origin: v3
+  books:
+  - title: Stardoc
+    author: S. L. Viehl
+  - title: 'Stardoc II: Beyond Varallan'
+    author: S. L. Viehl
+  - title: Shockball
+    author: S. L. Viehl
+  - title: Eternity Row
+    author: S. L. Viehl
+  - title: Blade Dancer
+    author: S. L. Viehl
+  - title: Bio Rescue
+    author: S. L. Viehl
+  - title: Afterburn
+    author: S. L. Viehl
+  - title: Rebel Ice
+    author: S. L. Viehl
+  - title: Plague of Memory
+    author: S. L. Viehl
+  - title: Omega Games
+    author: S. L. Viehl
+  - title: Crystal Healer
+    author: S. L. Viehl
+  - title: Dream Called Time
+    author: S. L. Viehl
+- name: Song of Spores
+  origin: original
+  books:
+  - title: Song of Spores
+- name: Where Peace Is Lost
+  origin: original
+  books:
+  - title: Where Peace Is Lost
+- name: Bitter Angels
+  origin: v3
+  books:
+  - title: Bitter Angels
+    author: C. L. Anderson
+- name: Plenty
+  origin: v3
+  books:
+  - title: Mother of Plenty
+    author: Colin Greenland
+  - title: Seasons of Plenty
+    author: Colin Greenland
+  - title: Take Back Plenty
+    author: Colin Greenland
+- name: Necessary Beggar
+  origin: v3
+  books:
+  - title: The Necessary Beggar
+    author: Susan Palwick; introduction by Jo Walton
+- name: Sector General Novels
+  origin: v3
+  books:
+  - title: Mind Changer
+    author: James White
+  - title: Double Contact
+    author: James White

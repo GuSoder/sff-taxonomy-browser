@@ -1,0 +1,45 @@
+id: surreal-afterlife
+label: Surreal afterlife
+parent: supernatural-fantasy
+origin: original
+definition: Supernatural fiction that renders death, dying, or disembodied existence as a strange and
+  dreamlike reality.
+cards:
+- name: The Third Policeman
+  origin: original
+  books:
+  - title: The Third Policeman
+- name: Out of Body
+  origin: original
+  books:
+  - title: Out of Body
+- name: How the Dead Live
+  origin: original
+  books:
+  - title: How the Dead Live
+- name: Pincher Martin
+  origin: original
+  books:
+  - title: Pincher Martin
+- name: Sweet Dreams
+  origin: original
+  books:
+  - title: Sweet Dreams
+- name: Katabasis
+  origin: original
+  books:
+  - title: Katabasis
+- name: The Leaving Room
+  origin: original
+  books:
+  - title: The Leaving Room
+- name: Lost Gods (Brom)
+  origin: v3
+  books:
+  - title: Lost Gods
+    author: Brom
+- name: The Waking Engine
+  origin: v3
+  books:
+  - title: The Waking Engine
+    author: David Edison

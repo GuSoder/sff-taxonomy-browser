@@ -1,0 +1,76 @@
+id: damned-people
+label: Damned people
+parent: ghosts-and-damned-places
+origin: shadow-v3
+definition: People haunted or damned.
+cards:
+- name: Jonathan Howard
+  origin: v3
+  books:
+  - title: The Death of Me
+    author: Jonathan L. Howard
+  - title: A Long Spoon
+    author: Jonathan L. Howard
+- name: Sea Dreams It Is the Sky
+  origin: v3
+  books:
+  - title: The Sea Dreams It Is the Sky
+    author: John Hornor Jacobs
+- name: Kiernan
+  origin: v3
+  books:
+  - title: Silk
+    author: Caitlin R. Kiernan
+  - title: Threshold
+    author: Caitlin R. Kiernan
+  - title: Low Red Moon
+    author: Caitlin R. Kiernan
+  - title: Daughter of Hounds
+    author: Caitlin R. Kiernan
+  - title: Murder of Angels
+    author: Caitlin R. Kiernan
+  - title: The Red Tree
+    author: Caitlin R. Kiernan
+  - title: The Drowning Girl
+    author: Caitlin R. Kiernan
+- name: Into the Gray
+  origin: v3
+  books:
+  - title: Into the Gray
+    author: Margaret Killjoy
+- name: Pray for Us Sinners
+  origin: v3
+  books:
+  - title: Pray for Us Sinners
+    author: Fredrick Kunkle
+- name: Beautiful Decay
+  origin: v3
+  books:
+  - title: Beautiful Decay
+    author: Sylvia Lewis
+- name: The Rouse
+  origin: v3
+  books:
+  - title: The Rouse
+    author: China Mieville
+- name: Eyes I Dare Not Meet
+  origin: v3
+  books:
+  - title: Eyes I Dare Not Meet in Dreams
+    author: Sunny Moraine
+- name: Delia's Shadow
+  origin: v3
+  books:
+  - title: Delia's Shadow
+    author: Jaime Lee Moyer
+  - title: A Barricade in Hell
+    author: Jaime Lee Moyer
+  - title: Against a Brightening Sky
+    author: Jaime Lee Moyer
+- name: Bishop O'Connell Promises
+  origin: v3
+  books:
+  - title: The Returned
+    author: Bishop Oconnell
+  - title: Three Promises
+    author: Bishop Oconnell

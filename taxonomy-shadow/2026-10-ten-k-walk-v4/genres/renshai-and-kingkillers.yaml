@@ -1,0 +1,39 @@
+id: renshai-and-kingkillers
+label: Renshai and kingkillers
+parent: swords-of-fire-and-legacy
+origin: shadow-v3
+definition: Warrior folk.
+cards:
+- name: Anvil of Ice
+  origin: v3
+  books:
+  - title: The Anvil of Ice
+    author: Michael Scott Rohan
+- name: Path of Anger
+  origin: v3
+  books:
+  - title: The Path of Anger
+    author: Antoine Rouaud
+- name: DemonWars
+  origin: v3
+  books:
+  - title: The Highwayman
+    author: R. A. Salvatore
+  - title: The Dame
+    author: R. A. Salvatore
+  - title: The Bear
+    author: R. A. Salvatore
+  - title: 'DemonWars: The First King'
+    author: R. A. Salvatore
+- name: Imaro
+  origin: v3
+  books:
+  - title: Imaro
+    author: Charles R. Saunders
+  - title: The Quest for Cush
+    author: Charles R. Saunders
+- name: Cold Counsel
+  origin: v3
+  books:
+  - title: Cold Counsel
+    author: Chris Sharp

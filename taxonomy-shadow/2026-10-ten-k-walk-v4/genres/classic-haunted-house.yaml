@@ -1,0 +1,30 @@
+id: classic-haunted-house
+label: Classic haunted house
+parent: haunted-house
+origin: original
+definition: Place-anchored haunted-house fiction from the Gothic origins through the late twentieth-century
+  classics, ending with The Shining (1977).
+cards:
+- name: The Haunting of Hill House
+  origin: original
+  books:
+  - title: The Haunting of Hill House
+- name: The Shining
+  origin: original
+  books:
+  - title: The Shining
+    author: Stephen King
+  - title: Doctor Sleep
+    author: Stephen King
+- name: The Green Man
+  origin: original
+  books:
+  - title: The Green Man
+- name: The Turn of the Screw
+  origin: original
+  books:
+  - title: The Turn of the Screw
+- name: The Castle of Otranto
+  origin: original
+  books:
+  - title: The Castle of Otranto

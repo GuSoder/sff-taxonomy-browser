@@ -1,0 +1,37 @@
+id: animal-adventures-modern
+label: Modern animal adventures
+parent: animal-fantasy
+origin: shadow-v3
+definition: Modern animal fantasy adventures.
+cards:
+- name: The Wild Road
+  origin: v3
+  books:
+  - title: The Golden Cat
+    author: Gabriel King
+  - title: The Wild Road
+    author: Gabriel King
+- name: Behemoth
+  origin: v3
+  books:
+  - title: Behemoth
+    author: Stephen Baxter
+- name: Antasy
+  origin: v3
+  books:
+  - title: Prophets of the Ghost Ants
+    author: Clark Thomas Carlton
+  - title: The Ghost Ants of Grylladesh
+    author: Clark Thomas Carlton
+  - title: The Prophet of the Termite God
+    author: Clark Thomas Carlton
+- name: Flight of the King
+  origin: v3
+  books:
+  - title: Flight of the King
+    author: C. R. Grey
+- name: Undead Fox
+  origin: v3
+  books:
+  - title: The Undead Fox of Deadwood Forest (Newbery Honor Award Winner)
+    author: Aubrey Hartman

@@ -1,0 +1,46 @@
+id: classic-and-literary-vampires
+label: Classic and literary vampires
+parent: vampire-literature-and-clubs
+origin: shadow-v3
+definition: Vampire literature.
+cards:
+- name: The Book Eaters
+  origin: original
+  books:
+  - title: The Book Eaters
+- name: The Pallbearers Club
+  origin: original
+  books:
+  - title: The Pallbearers Club
+- name: Agyar
+  origin: v3
+  books:
+  - title: Agyar
+    author: Steven Brust
+- name: Poppy Z Brite
+  origin: v3
+  books:
+  - title: Exquisite Corpse
+    author: Poppy Z Brite
+  - title: Twice Bitten
+    author: Poppy Z Brite
+- name: Sabella
+  origin: v3
+  books:
+  - title: Sabella
+    author: Tanith Lee
+- name: Carmilla
+  origin: v3
+  books:
+  - title: Carmilla
+    author: J. Sheridan LeFanu
+- name: The Beetle
+  origin: v3
+  books:
+  - title: The Beetle
+    author: Richard Marsh
+- name: Lucy Undying
+  origin: v3
+  books:
+  - title: Lucy Undying
+    author: Kiersten White

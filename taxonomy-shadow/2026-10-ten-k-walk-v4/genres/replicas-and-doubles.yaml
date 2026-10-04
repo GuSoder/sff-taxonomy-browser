@@ -1,0 +1,30 @@
+id: replicas-and-doubles
+label: Replicas and doubles
+parent: androids
+origin: shadow-v3
+definition: 'Fiction of copies and replacements: wives, doubles, second chances and artificial people
+  passing as human.'
+cards:
+- name: The Stepford Wives
+  origin: original
+  books:
+  - title: The Stepford Wives
+- name: Luminous
+  origin: original
+  books:
+  - title: Luminous
+- name: Sunrise Alley
+  origin: v3
+  books:
+  - title: Sunrise Alley
+    author: Catherine Asaro
+- name: Evangelina
+  origin: v3
+  books:
+  - title: Evangelina
+    author: MaryJanice Davidson
+- name: Seconds
+  origin: v3
+  books:
+  - title: Seconds
+    author: David Ely

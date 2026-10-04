@@ -1,0 +1,38 @@
+id: great-ships-and-troy
+label: Great ships, Troy and emerald seas
+parent: ships-and-rising-powers
+origin: shadow-v3
+definition: Rising powers.
+cards:
+- name: Robert Reed Great Ship
+  origin: v3
+  books:
+  - title: Sister Alice
+    author: Robert Reed
+  - title: The Well of Stars
+    author: Robert Reed
+  - title: Marrow
+    author: Robert Reed
+- name: Rob Reid
+  origin: v3
+  books:
+  - title: Year Zero
+    author: Rob Reid
+  - title: After On
+    author: Rob Reid
+- name: Emerald Sea
+  origin: v3
+  books:
+  - title: Emerald Sea, Second Edition
+    author: John Ringo
+- name: Justina Robson Standalones
+  origin: v3
+  books:
+  - title: Natural History
+    author: Justina Robson
+  - title: Living Next Door to the God of Love
+    author: Justina Robson
+  - title: Glorious Angels
+    author: Justina Robson
+  - title: The Switch
+    author: Justina Robson

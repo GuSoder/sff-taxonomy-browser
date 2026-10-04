@@ -1,0 +1,15 @@
+id: slavic-myth-fantasy
+label: Slavic myth fantasy
+parent: mythic-retelling
+origin: original
+definition: ''
+cards:
+- name: Winternight
+  origin: v3
+  books:
+  - title: The Bear and the Nightingale
+    author: Katherine Arden
+  - title: The Girl in the Tower
+    author: Katherine Arden
+  - title: The Winter of the Witch
+    author: Katherine Arden

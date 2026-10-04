@@ -1,0 +1,76 @@
+id: pulp-space-empire
+label: Pulp space empire
+parent: golden-age-space-opera
+origin: original
+definition: 'Space opera driven by rule, war, diplomacy, political impersonation, imperial systems or
+  rival powers. Boundary test: remove the rival-power structure; if the plot collapses, it belongs here.'
+cards:
+- name: Judgment Night
+  origin: original
+  books:
+  - title: Judgment Night
+- name: Double Star
+  origin: original
+  books:
+  - title: Double Star
+- name: Nova
+  origin: original
+  books:
+  - title: Nova
+- name: Canopus in Argos
+  origin: original
+  books:
+  - title: 'Re: Colonised Planet 5, Shikasta'
+    author: Doris Lessing
+  - title: The Marriages Between Zones Three, Four, and Five
+    author: Doris Lessing
+  - title: The Sirian Experiments
+    author: Doris Lessing
+  - title: The Making of the Representative for Planet 8
+    author: Doris Lessing
+  - title: Documents Relating to the Sentimental Agents in the Volyen Empire
+    author: Doris Lessing
+- name: Cities in Flight
+  origin: original
+  books:
+  - title: They Shall Have Stars
+    author: James Blish
+  - title: A Life for the Stars
+    author: James Blish
+  - title: Earthman, Come Home
+    author: James Blish
+  - title: The Triumph of Time
+    author: James Blish
+- name: The Centauri Device
+  origin: original
+  books:
+  - title: The Centauri Device
+- name: Flandry of Terra
+  origin: v3
+  books:
+  - title: 'Captain Flandry: Defender of the Terran Empire'
+    author: Poul Anderson
+  - title: Rise of the Terran Empire
+    author: Poul Anderson
+  - title: Young Flandry
+    author: Poul Anderson
+  - title: Flandry's Legacy
+    author: Poul Anderson
+  - title: 'Sir Dominic Flandry: The Last Knight of Terra'
+    author: Poul Anderson
+- name: Galactic Empire novels (Asimov)
+  origin: v3
+  books:
+  - title: Pebble in the Sky
+    author: Isaac Asimov
+  - title: The Currents of Space
+    author: Isaac Asimov
+  - title: The Stars, Like Dust
+    author: Isaac Asimov
+- name: Interstellar Patrol / Starwolves
+  origin: v3
+  books:
+  - title: Crashing Suns
+    author: Edmond Hamilton
+  - title: World of the Starwolves
+    author: Edmond Hamilton

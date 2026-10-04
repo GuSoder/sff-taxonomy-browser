@@ -1,0 +1,76 @@
+id: shadow-kings-and-werewolf-realms
+label: Shadow kings and werewolf realms
+parent: fae-courts-and-bargains
+origin: shadow-v3
+definition: Dark fae realms.
+cards:
+- name: Shadow King
+  origin: v3
+  books:
+  - title: Bride of the Shadow King
+    author: Sylvia Mercedes
+  - title: Vow of the Shadow King
+    author: Sylvia Mercedes
+  - title: Heart of the Shadow King
+    author: Sylvia Mercedes
+- name: Mulford Werewolf Realms
+  origin: v3
+  books:
+  - title: A Heart of Crimson Flames
+    author: Ak Mulford
+  - title: A River of Golden Bones
+    author: Ak Mulford
+  - title: A Sky of Emerald Stars
+    author: Ak Mulford
+- name: Five Crowns of Okrith
+  origin: v3
+  books:
+  - title: Dreamslayer
+    author: Ak Mulford
+  - title: The Amethyst Kingdom
+    author: Ak Mulford
+  - title: The Evergreen Heir
+    author: Ak Mulford
+  - title: The High Mountain Court
+    author: Ak Mulford
+  - title: The Rogue Crown
+    author: Ak Mulford
+  - title: The Witches' Blade
+    author: Ak Mulford
+- name: Amy Pennza Vampire Fae
+  origin: v3
+  books:
+  - title: Dhampira
+    author: Amy Pennza
+  - title: Delirium
+    author: Amy Pennza
+- name: Caty Rogan
+  origin: v3
+  books:
+  - title: Blessed by the Damned
+    author: Caty Rogan
+  - title: Kissed by the Gods
+    author: Caty Rogan
+  - title: Unwritten by the Gods
+    author: Caty Rogan
+- name: Gilded Abyss
+  origin: v3
+  books:
+  - title: This Gilded Abyss
+    author: Rebecca Thorne
+  - title: This Crimson Ruin
+    author: Rebecca Thorne
+- name: Alyssa Wees
+  origin: v3
+  books:
+  - title: Nocturne
+    author: Alyssa Wees
+  - title: We Shall Be Monsters
+    author: Alyssa Wees
+- name: Lauren Wiesebrock
+  origin: v3
+  books:
+  - title: House of Frost and Feathers
+    author: Lauren Wiesebron
+  - title: The Palace Beneath the Sea
+    author: Lauren Wiesebron

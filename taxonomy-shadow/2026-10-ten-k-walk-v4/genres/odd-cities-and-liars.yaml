@@ -1,0 +1,46 @@
+id: odd-cities-and-liars
+label: Odd cities
+parent: witches-and-odd-cities
+origin: shadow-v3
+definition: Odd cities and agents.
+cards:
+- name: Death in Verse
+  origin: v3
+  books:
+  - title: Death in Verse
+    author: Julie Lew
+- name: Un Lun Dun
+  origin: v3
+  books:
+  - title: Un Lun Dun
+    author: China Mieville
+- name: Book of Elsewhere
+  origin: v3
+  books:
+  - title: The Book of Elsewhere
+    author: China Mieville
+- name: Rogue Agent
+  origin: v3
+  books:
+  - title: The Accidental Sorcerer
+    author: K. E. Mills
+- name: Friends Til the End
+  origin: v3
+  books:
+  - title: Friends 'Til the End
+    author: Bethany Neal
+- name: Awakened Osworth
+  origin: v3
+  books:
+  - title: Awakened
+    author: A.E. Osworth
+- name: Thoughts Be Bloody
+  origin: v3
+  books:
+  - title: Thoughts Be Bloody
+    author: Auden Patrick
+- name: Rainfall Market
+  origin: v3
+  books:
+  - title: The Rainfall Market
+    author: You Yeong-Gwang

@@ -1,0 +1,57 @@
+id: alt-wars-and-americas
+label: Alternate wars and Americas
+parent: alt-war-americas
+origin: shadow-v3
+definition: Alternate wars and alternate Americas.
+cards:
+- name: The Plot Against America
+  origin: original
+  books:
+  - title: The Plot Against America
+- name: Becoming a Warlord Black Chamber
+  origin: v3
+  books:
+  - title: Black Chamber
+    author: S. M. Stirling
+  - title: Theater of Spies
+    author: S. M. Stirling
+- name: The War That Came Early
+  origin: v3
+  books:
+  - title: Days of Infamy
+    author: Harry Turtledove
+  - title: In the Presence of Mine Enemies
+    author: Harry Turtledove
+  - title: Hitler's War (The War That Came Early, Book One)
+    author: Harry Turtledove
+  - title: Jaws of Darkness
+    author: Harry Turtledove
+- name: The War That Came Early (cont.)
+  origin: v3
+  books:
+  - title: Coup d'Etat (The War That Came Early, Book Four)
+    author: Harry Turtledove
+- name: Bloodtide
+  origin: v3
+  books:
+  - title: Bloodtide
+    author: Sophie Burnham
+- name: Shadow of Ararat
+  origin: v3
+  books:
+  - title: The Shadow of Ararat
+    author: Thomas Harlan
+- name: An Island Drowned in Blood
+  origin: v3
+  books:
+  - title: An Island Drowned in Blood
+    author: Katie McNey
+- name: Moorcock London Novels
+  origin: v3
+  books:
+  - title: 'Jerry Cornelius: His Lives and His Times'
+    author: Michael Moorcock
+  - title: King of the City
+    author: Michael Moorcock
+  - title: The Albino's Secret
+    author: Michael Moorcock

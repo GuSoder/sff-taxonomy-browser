@@ -1,0 +1,74 @@
+id: cuyahoga-doors-and-worldshapers
+label: Cuyahoga, doors and worldshapers
+parent: world-hopping
+origin: shadow-v3
+definition: World hopping cont.
+cards:
+- name: Dragons of the Cuyahoga
+  origin: v3
+  books:
+  - title: The Dragons of the Cuyahoga
+    author: S. Andrew Swann
+  - title: The Dwarves of Whiskey Island
+    author: S. Andrew Swann
+  - title: Dragons and Dwarves
+    author: S. Andrew Swann
+- name: Doors of Eden
+  origin: v3
+  books:
+  - title: The Doors of Eden
+    author: Adrian Tchaikovsky
+- name: Eighth Face
+  origin: v3
+  books:
+  - title: The Eighth Face
+    author: Adrian Tchaikovsky
+- name: Thessaly
+  origin: v3
+  books:
+  - title: Thessaly
+    author: Jo Walton
+- name: Worldshapers
+  origin: v3
+  books:
+  - title: Worldshaper
+    author: Edward Willett
+  - title: Master of the World
+    author: Edward Willett
+  - title: The Moonlit World
+    author: Edward Willett
+- name: Land Across
+  origin: v3
+  books:
+  - title: The Land Across
+    author: Gene Wolfe
+- name: Great and Terrible Land
+  origin: v3
+  books:
+  - title: East of Envy
+    author: Nikki St. Crowe
+  - title: West of Wicked
+    author: Nikki St. Crowe
+- name: Pile of Bones
+  origin: v3
+  books:
+  - title: Pile of Bones
+    author: Bailey Cunningham
+  - title: Path of Smoke
+    author: Bailey Cunningham
+  - title: Prize of Night
+    author: Bailey Cunningham
+- name: Yuulith
+  origin: v3
+  books:
+  - title: The Bavarian Gate
+    author: John Dalmas
+  - title: The Kalif's War
+    author: John Dalmas
+  - title: The Three-Cornered War
+    author: John Dalmas
+- name: Warslayer
+  origin: v3
+  books:
+  - title: The Warslayer
+    author: Rosemary Edghill

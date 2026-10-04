@@ -1,0 +1,30 @@
+id: mythic-power-struggle
+label: Mythic power struggle
+parent: mythological-fantasy
+origin: original
+definition: Mythic beings from real tradition - angels, demons, gods, spirits - locked in personal, long-running
+  struggles; the war may be offstage, the story is the beings. Coined by the curator 2026-09-24; not an
+  SFE/EoF headword.
+cards:
+- name: The City in Glass
+  origin: original
+  books:
+  - title: The City in Glass
+- name: The Pomegranate Gate
+  origin: original
+  books:
+  - title: The Pomegranate Gate
+- name: Lies of Descent
+  origin: v3
+  books:
+  - title: Lies of Descent
+    author: Troy Carrol Bucher
+- name: Age of Bronze
+  origin: v3
+  books:
+  - title: Against All Gods
+    author: Miles Cameron
+  - title: Breaking Hel
+    author: Miles Cameron
+  - title: Storming Heaven
+    author: Miles Cameron

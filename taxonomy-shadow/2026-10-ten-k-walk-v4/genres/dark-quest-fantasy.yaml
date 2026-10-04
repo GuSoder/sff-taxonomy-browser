@@ -1,0 +1,72 @@
+id: dark-quest-fantasy
+label: Dark quest fantasy
+parent: classic-quest-fantasy
+origin: original
+definition: 'Classic quest fantasy in the dark register: the inherited journey through dying worlds and
+  gothic tones, where the quest costs the quester. Split 2026-09-28 from Classic quest fantasy at ten
+  cards (golden rule; served 5/3/2, the curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW ''Execute'').'
+cards:
+- name: The Dark Tower
+  origin: original
+  books:
+  - title: The Gunslinger
+    author: Stephen King
+  - title: The Drawing of the Three
+    author: Stephen King
+  - title: The Waste Lands
+    author: Stephen King
+  - title: Wizard and Glass
+    author: Stephen King
+  - title: The Wind Through the Keyhole
+    author: Stephen King
+  - title: Wolves of the Calla
+    author: Stephen King
+  - title: Song of Susannah
+    author: Stephen King
+  - title: The Dark Tower
+    author: Stephen King
+- name: The Crimson Road
+  origin: original
+  books:
+  - title: The Crimson Road
+- name: Wanderer's Tale
+  origin: v3
+  books:
+  - title: A Fire in the North
+    author: David Bilsborough
+  - title: The Wanderer's Tale
+    author: David Bilsborough
+- name: Tower of Shadows
+  origin: v3
+  books:
+  - title: The Tower of Shadows
+    author: Drew Bowling
+- name: Nightfall Saga
+  origin: v3
+  books:
+  - title: The Desert Prince
+    author: Peter V. Brett
+  - title: The Hidden Queen
+    author: Peter V. Brett
+  - title: The Demon King
+    author: Peter V. Brett
+  - title: Legend of Nightfall
+    author: Mickey Zucker Reichert
+  - title: The Unknown Soldier
+    author: Mickey Zucker Reichert
+  - title: The Return of Nightfall
+    author: Mickey Zucker Reichert
+- name: Hope's War
+  origin: v3
+  books:
+  - title: Hope's War
+    author: Stephen Chambers
+  - title: Hope's End
+    author: Stephen Chambers
+- name: David Gemmell crime
+  origin: v3
+  books:
+  - title: Rhyming Rings
+    author: David Gemmell
+  - title: White Knight/Black Swan
+    author: David Gemmell

@@ -1,0 +1,68 @@
+id: special-forces-and-pilots
+label: Special forces and pilots
+parent: space-marines
+origin: shadow-v3
+definition: Special forces, raiders and pilots.
+cards:
+- name: Dead Six
+  origin: v3
+  books:
+  - title: Dead Six
+    author: Larry Correia
+  - title: Swords of Exodus
+    author: Larry Correia
+  - title: Alliance of Shadows
+    author: Larry Correia
+  - title: 'Invisible Wars: The Collected Dead Six'
+    author: Larry Correia
+- name: Gun Runner
+  origin: v3
+  books:
+  - title: Gun Runner
+    author: Larry Correia
+- name: Hour of the Horde
+  origin: v3
+  books:
+  - title: Hour of the Horde
+    author: Gordon R. Dickson
+- name: Operation Bounce House
+  origin: v3
+  books:
+  - title: Operation Bounce House
+    author: Matt Dinniman
+- name: The Rising (Doohan)
+  origin: v3
+  books:
+  - title: The Rising
+    author: James Doohan
+- name: Star Carrier / Galactic
+  origin: v3
+  books:
+  - title: Alien Agendas
+    author: Ian Douglas
+  - title: Alien Hostiles
+    author: Ian Douglas
+  - title: Alien Secrets
+    author: Ian Douglas
+  - title: Altered Starscape
+    author: Ian Douglas
+  - title: Bloodstar
+    author: Ian Douglas
+  - title: Bright Light
+    author: Ian Douglas
+  - title: Dark Mind
+    author: Ian Douglas
+  - title: Stargods
+    author: Ian Douglas
+- name: Galaxy Raiders
+  origin: v3
+  books:
+  - title: 'Galaxy Raiders: Abyss'
+    author: Ian Douglas
+  - title: 'Galaxy Raiders: Battlestorm'
+    author: Ian Douglas
+- name: Vor Operation Sierra-75
+  origin: v3
+  books:
+  - title: 'Vor: Operation Sierra-75'
+    author: Thomas S. Gressman

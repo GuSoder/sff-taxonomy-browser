@@ -1,0 +1,102 @@
+id: literary-fantasy-satires
+label: Literary fantasy satires
+parent: speculative-satires-and-singulars
+origin: shadow-v3
+definition: Satire and literary fantasy.
+cards:
+- name: Morrow Satires
+  origin: v3
+  books:
+  - title: Bible Stories For Adults
+    author: James Morrow
+  - title: Blameless In Abaddon
+    author: James Morrow
+  - title: City Of Truth
+    author: James Morrow
+  - title: The Eternal Footman
+    author: James Morrow
+  - title: This Is The Way The World Ends
+    author: James Morrow
+  - title: Towing Jehovah
+    author: James Morrow
+- name: Daughter Who Remains
+  origin: v3
+  books:
+  - title: The Daughter Who Remains
+    author: Nnedi Okorafor
+  - title: Death of the Author
+    author: Nnedi Okorafor
+- name: Pelevin
+  origin: v3
+  books:
+  - title: Empire V
+    author: Victor Pelevin
+  - title: S.N.U.F.F.
+    author: Victor Pelevin
+- name: Pokwatka
+  origin: v3
+  books:
+  - title: Self-Portrait with Nothing
+    author: Aimee Pokwatka
+  - title: The Parliament
+    author: Aimee Pokwatka
+- name: Reincarnation Blues
+  origin: v3
+  books:
+  - title: Reincarnation Blues
+    author: Michael Poore
+- name: Robert Rankin
+  origin: v3
+  books:
+  - title: Knees Up Mother Earth
+    author: Robert Rankin
+  - title: Necrophenia
+    author: Robert Rankin
+  - title: Retromancer
+    author: Robert Rankin
+  - title: The Brightonomicon
+    author: Robert Rankin
+  - title: The Chickens of Atlantis and Other Foul and Filthy Fiends
+    author: Robert Rankin
+  - title: The Educated Ape and Other Wonders of the Worlds
+    author: Robert Rankin
+  - title: The Hollow Chocolate Bunnies of the Apocalypse
+    author: Robert Rankin
+  - title: The Japanese Devil Fish Girl and Other Unnatural Attractions
+    author: Robert Rankin
+  - title: The Mechanical Messiah and Other Marvels of the Modern Age
+    author: Robert Rankin
+  - title: The Toyminator
+    author: Robert Rankin
+  - title: The Witches of Chiswick
+    author: Robert Rankin
+- name: Glass Thorns
+  origin: v3
+  books:
+  - title: Elsewhens
+    author: Melanie Rawn
+  - title: Thornlost
+    author: Melanie Rawn
+  - title: Window Wall
+    author: Melanie Rawn
+  - title: Playing to the Gods
+    author: Melanie Rawn
+- name: Geoff Ryman
+  origin: v3
+  books:
+  - title: The Child Garden
+    author: Geoff Ryman
+  - title: Was
+    author: Geoff Ryman
+- name: Slaves of the Switchboard of Doom
+  origin: v3
+  books:
+  - title: Slaves of the Switchboard of Doom
+    author: Bradley W. Schenck
+- name: Tim Scott Fridges
+  origin: v3
+  books:
+  - title: Love in the Time of Fridges
+    author: Tim Scott
+  - title: Outrageous Fortune
+    author: Tim Scott

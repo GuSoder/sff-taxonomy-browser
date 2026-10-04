@@ -1,0 +1,62 @@
+id: mirabile-maza-and-skylock
+label: Mirabile, Maza and Skylock
+parent: early-moon-voyages
+origin: shadow-v3
+definition: Moon voyages.
+cards:
+- name: Mirabile
+  origin: v3
+  books:
+  - title: Mirabile
+    author: Janet Kagan
+- name: Maza of the Moon
+  origin: v3
+  books:
+  - title: Maza of the Moon
+    author: Otis Adelbert Kline
+- name: Skylock
+  origin: v3
+  books:
+  - title: Skylock
+    author: Paul Kozerski
+- name: Ron Miller Lunar Voyages
+  origin: v3
+  books:
+  - title: A Plunge into Space
+    author: Robert Cromieedited by Ron Miller
+  - title: A Voyage to Cacklogallinia
+    author: Ron Miller
+  - title: Gulliver Joi
+    author: Ron Miller
+  - title: Iter Lunaire
+    author: Ron Miller
+  - title: Pioneers of Space
+    author: Ron Miller
+  - title: The Conquest of the Moon
+    author: Ron Miller
+  - title: The Consolidator
+    author: Ron Miller
+  - title: The History of a Voyage to the Moon
+    author: Ron Miller
+  - title: The Moon Colony
+    author: Ron Miller
+  - title: The Moon Conquerors
+    author: Ron Miller
+  - title: To the Moon and Back in Ninety Days
+    author: Ron Miller
+  - title: Trips to the Moon
+    author: Ron Miller
+  - title: Voyage to the Moon
+    author: Ron Miller
+  - title: Voyages into Space
+    author: Ron Miller
+- name: Aleriel
+  origin: v3
+  books:
+  - title: Aleriel
+    author: W.S. Lach-Szyrma
+- name: Memory of Whiteness
+  origin: v3
+  books:
+  - title: The Memory of Whiteness
+    author: Kim Stanley Robinson

@@ -1,0 +1,47 @@
+id: swords-and-legacies
+label: Swords and legacies
+parent: swords-of-fire-and-legacy
+origin: shadow-v3
+definition: Swords.
+cards:
+- name: Sword of Fire
+  origin: v3
+  books:
+  - title: Sword of Fire
+    author: Katharine Kerr
+- name: Prince of Swords
+  origin: v3
+  books:
+  - title: Prince of Swords
+    author: Elise Kova
+- name: Mage and the Liar Knight
+  origin: v3
+  books:
+  - title: The Mage and the Liar Knight
+    author: T. G. Laine
+- name: Green Universe
+  origin: v3
+  books:
+  - title: Green
+    author: Jay Lake
+  - title: Endurance
+    author: Jay Lake
+  - title: Kalimpura
+    author: Jay Lake
+- name: Last Legacy
+  origin: v3
+  books:
+  - title: The Silverblood Promise
+    author: James Logan
+  - title: The Blackfire Blade
+    author: James Logan
+- name: Lightning and Thunder
+  origin: v3
+  books:
+  - title: Lightning & Thunder
+    author: Sara Raasch
+- name: Black Shield Maiden
+  origin: v3
+  books:
+  - title: Black Shield Maiden
+    author: Willow Smith

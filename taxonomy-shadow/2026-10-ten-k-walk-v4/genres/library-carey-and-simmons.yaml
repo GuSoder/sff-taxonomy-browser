@@ -1,0 +1,62 @@
+id: library-carey-and-simmons
+label: Libraries, Careys and Simmons
+parent: odd-futures-a
+origin: shadow-v3
+definition: Odd futures, cont.
+cards:
+- name: Future Library
+  origin: v3
+  books:
+  - title: The Future Library
+    author: Peng Shepherd
+- name: Today I Am Carey
+  origin: v3
+  books:
+  - title: Today I Am Carey
+    author: Martin L. Shoemaker
+- name: Dan Simmons Standalones
+  origin: v3
+  books:
+  - title: The Hollow Man
+    author: Dan Simmons
+  - title: Black Hills
+    author: Dan Simmons
+  - title: Flashback
+    author: Dan Simmons
+  - title: Song of Kali
+    author: Dan Simmons
+  - title: Worlds Enough & Time
+    author: Dan Simmons
+- name: Spaceman Blues
+  origin: v3
+  books:
+  - title: Spaceman Blues
+    author: Brian Francis Slattery
+- name: He Walked Among Us
+  origin: v3
+  books:
+  - title: He Walked Among Us
+    author: Norman Spinrad
+- name: Stephenson Thrillers
+  origin: v3
+  books:
+  - title: Interface
+    author: Neal Stephenson
+  - title: The Cobweb
+    author: Neal Stephenson
+- name: Time Between Us
+  origin: v3
+  books:
+  - title: Swapd
+    author: Tamara Ireland Stone
+  - title: Time and Time Again
+    author: Tamara Ireland Stone
+  - title: Time Between Us
+    author: Tamara Ireland Stone
+- name: Halting State
+  origin: v3
+  books:
+  - title: Halting State
+    author: Charles Stross
+  - title: Rule 34
+    author: Charles Stross

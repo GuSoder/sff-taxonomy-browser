@@ -1,0 +1,88 @@
+id: keepers-and-vagrants
+label: Keepers and vagrants
+parent: wars-of-wizards
+origin: shadow-v3
+definition: Mid-sized wars of keepers, vagrant gods and necromancers.
+cards:
+- name: Dalglish Daughter of Destruction
+  origin: v3
+  books:
+  - title: Daughter of Destruction
+    author: David Dalglish
+- name: Keepers
+  origin: v3
+  books:
+  - title: Ravencaller
+    author: David Dalglish
+  - title: Soulkeeper
+    author: David Dalglish
+  - title: Voidbreaker
+    author: David Dalglish
+- name: Vagrant Gods
+  origin: v3
+  books:
+  - title: The Bladed Faith
+    author: David Dalglish
+  - title: The Sapphire Altar
+    author: David Dalglish
+  - title: The Slain Divine
+    author: David Dalglish
+- name: Fable
+  origin: v3
+  books:
+  - title: 'Fable: The Balverine Order'
+    author: Peter David
+  - title: 'Fable: Blood Ties'
+    author: Peter David
+- name: Mage Knight
+  origin: v3
+  books:
+  - title: 'Mage Knight 2: Dark Debts'
+    author: Doranna Durgin
+- name: Weep
+  origin: v3
+  books:
+  - title: Nightwatch on the Hinterlands
+    author: K. Eason
+  - title: Nightwatch over Windscar
+    author: K. Eason
+- name: Bauchelain and Korbal Broach
+  origin: v3
+  books:
+  - title: Bauchelain and Korbal Broach
+    author: Steven Erikson
+  - title: Crack'd Pot Trail
+    author: Steven Erikson
+  - title: The Wurms of Blearmouth
+    author: Steven Erikson
+  - title: The Fiends of Nightmaria
+    author: Steven Erikson
+- name: The Dragon Lord
+  origin: v3
+  books:
+  - title: The Dragon Lord
+    author: David Drake
+- name: Drake fantasy
+  origin: v3
+  books:
+  - title: The Legions of Fire
+    author: David Drake
+  - title: The Sea Hag, Second Edition
+    author: David Drake
+  - title: Air and Darkness
+    author: David Drake
+  - title: Up From Hell
+    author: David Drake
+  - title: The Spark
+    author: David Drake
+  - title: Birds of Prey
+    author: David Drake
+  - title: The Storm
+    author: David Drake
+  - title: The Serpent
+    author: David Drake
+- name: Ember and Ash
+  origin: v3
+  books:
+  - title: Ember and Ash
+    author: Pamela Freeman

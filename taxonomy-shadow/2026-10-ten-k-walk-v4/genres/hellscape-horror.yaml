@@ -1,0 +1,44 @@
+id: hellscape-horror
+label: Hellscape horror
+parent: horror-fantasy
+origin: original
+definition: Horror fantasy where Hell breaks into the world and the land itself becomes the place of damnation
+  the characters cross or are trapped in.
+cards:
+- name: Between Two Fires
+  origin: original
+  books:
+  - title: Between Two Fires
+- name: Black Easter
+  origin: original
+  books:
+  - title: Black Easter
+    author: James Blish
+  - title: The Day After Judgment
+    author: James Blish
+- name: House of Bone and Rain
+  origin: original
+  books:
+  - title: House of Bone and Rain
+- name: Word and Void / Genesis of Shannara
+  origin: v3
+  books:
+  - title: Running with the Demon
+    author: Terry Brooks
+  - title: A Knight of the Word
+    author: Terry Brooks
+  - title: Angel Fire East
+    author: Terry Brooks
+  - title: Armageddon's Children
+    author: Terry Brooks
+  - title: The Elves of Cintra
+    author: Terry Brooks
+  - title: The Gypsy Morph
+    author: Terry Brooks
+- name: Barlowe's Hell
+  origin: v3
+  books:
+  - title: God's Demon
+    author: Wayne Barlowe
+  - title: The Heart of Hell
+    author: Wayne Barlowe

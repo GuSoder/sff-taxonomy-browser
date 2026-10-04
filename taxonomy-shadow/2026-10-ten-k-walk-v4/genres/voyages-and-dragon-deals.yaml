@@ -1,0 +1,56 @@
+id: voyages-and-dragon-deals
+label: Voyages and dragon deals
+parent: swords-and-sea-rogues
+origin: shadow-v3
+definition: Voyages.
+cards:
+- name: Dante's Hell Niven
+  origin: v3
+  books:
+  - title: Inferno
+    author: Larry Niven
+  - title: Escape from Hell
+    author: Larry Niven
+- name: Dragons Deal
+  origin: v3
+  books:
+  - title: Dragons Deal
+    author: Jody Lynn Nye
+  - title: Robert Asprin's Dragons Run
+    author: Jody Lynn Nye
+- name: Chathrand Voyage
+  origin: v3
+  books:
+  - title: The Red Wolf Conspiracy
+    author: Robert V. S. Redick
+  - title: The Ruling Sea
+    author: Robert V. S. Redick
+  - title: The River of Shadows
+    author: Robert V. S. Redick
+  - title: The Night of the Swarm
+    author: Robert V. S. Redick
+  - title: The Rats and the Ruling Sea
+    author: Robert V.S. Redick
+- name: Ringo Fantasy
+  origin: v3
+  books:
+  - title: Beyond the Ranges
+    author: By John Ringo
+  - title: There Will be Dragons
+    author: John Ringo
+  - title: There Will be Dragons, Second Edition
+    author: John Ringo
+- name: Vampirates
+  origin: v3
+  books:
+  - title: 'Vampirates: Tide of Terror'
+    author: Justin Somper
+- name: Age of Discovery
+  origin: v3
+  books:
+  - title: A Secret Atlas
+    author: Michael A. Stackpole
+  - title: Cartomancy
+    author: Michael A. Stackpole
+  - title: The New World
+    author: Michael A. Stackpole

@@ -1,0 +1,57 @@
+id: brothers-floes-and-overlords
+label: Brothers, floes and overlords
+parent: ruin-lists-a
+origin: shadow-v3
+definition: Ruins cont.
+cards:
+- name: A Brother's Price
+  origin: v3
+  books:
+  - title: A Brother's Price
+    author: Wen Spencer
+- name: Floe and Thaw
+  origin: v3
+  books:
+  - title: Floe
+    author: Arlan Andrews Sr.
+  - title: Thaw
+    author: Arlan Andrews Sr.
+- name: Robot Overlords
+  origin: v3
+  books:
+  - title: Robot Overlords
+    author: Mark Stay
+- name: Earthweb
+  origin: v3
+  books:
+  - title: Earthweb
+    author: Marc Stiegler
+  - title: Earthweb, Second Edition
+    author: Marc Stiegler
+- name: David's Sling
+  origin: v3
+  books:
+  - title: David's Sling
+    author: Marc Stiegler
+- name: Draka
+  origin: v3
+  books:
+  - title: Drakas!
+    author: S. M. Stirling
+  - title: The Domination
+    author: S. M. Stirling
+- name: Peshawar Lancers
+  origin: v3
+  books:
+  - title: The Peshawar Lancers
+    author: S. M. Stirling
+- name: Conquistador Stirling
+  origin: v3
+  books:
+  - title: Conquistador
+    author: S. M. Stirling
+- name: To Turn the Tide
+  origin: v3
+  books:
+  - title: To Turn the Tide
+    author: S. M. Stirling

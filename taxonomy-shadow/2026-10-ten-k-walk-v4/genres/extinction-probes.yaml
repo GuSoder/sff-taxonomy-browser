@@ -1,0 +1,48 @@
+id: extinction-probes
+label: Extinction Probes
+parent: alien-invasion-fiction
+origin: shadow-v3
+definition: Alien invasion as a machine or swarm sent to end the species.
+cards:
+- name: The Forge of God
+  origin: v3
+  books:
+  - title: The Forge of God
+    author: Greg Bear
+  - title: Anvil of Stars
+    author: Greg Bear
+- name: Formic Wars
+  origin: v3
+  books:
+  - title: Earth Unaware
+    author: Orson Scott Card
+  - title: Earth Afire
+    author: Orson Scott Card
+  - title: Earth Awakens
+    author: Orson Scott Card
+  - title: The Swarm
+    author: Orson Scott Card
+  - title: The First Formic War
+    author: Orson Scott Card
+  - title: The Hive
+    author: Orson Scott Card
+- name: Von Neumann's War
+  origin: v3
+  books:
+  - title: Von Neumann's War
+    author: John Ringo
+- name: Out of the Dark
+  origin: v3
+  books:
+  - title: Out of the Dark
+    author: David Weber
+- name: Mutineer's Moon
+  origin: v3
+  books:
+  - title: Mutineer's Moon
+    author: David Weber
+- name: Doomsday Effect
+  origin: v3
+  books:
+  - title: The Doomsday Effect
+    author: Thomas T. Thomas as Thomas Wren

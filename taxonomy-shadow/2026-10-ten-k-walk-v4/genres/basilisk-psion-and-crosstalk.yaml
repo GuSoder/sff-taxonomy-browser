@@ -1,0 +1,43 @@
+id: basilisk-psion-and-crosstalk
+label: Basilisks, psions and crosstalk
+parent: dream-and-memory-minds
+origin: shadow-v3
+definition: Dream and memory cont.
+cards:
+- name: Basilisk Stare
+  origin: v3
+  books:
+  - title: The Basilisk Stare
+    author: Daniel Susskind
+- name: Cat Psion
+  origin: v3
+  books:
+  - title: Tangled Up In Blue
+    author: Joan D. Vinge
+  - title: Catspaw
+    author: Joan D. Vinge
+  - title: Dreamfall
+    author: Joan D. Vinge
+  - title: Psion
+    author: Joan D. Vinge
+- name: Lincoln's Dreams
+  origin: v3
+  books:
+  - title: Lincoln's Dreams
+    author: Connie Willis
+- name: Crosstalk
+  origin: v3
+  books:
+  - title: Crosstalk
+    author: Connie Willis
+- name: Tensorate
+  origin: v3
+  books:
+  - title: The Black Tides of Heaven
+    author: Neon Yang
+  - title: The Red Threads of Fortune
+    author: Neon Yang
+  - title: The Descent of Monsters
+    author: Neon Yang
+  - title: The Ascent to Godhood
+    author: Neon Yang

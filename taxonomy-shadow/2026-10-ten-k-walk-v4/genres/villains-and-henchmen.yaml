@@ -1,0 +1,42 @@
+id: villains-and-henchmen
+label: Villains and henchmen
+parent: superhero-fiction
+origin: shadow-v3
+definition: Superhero worlds seen from the villain's or support-staff side.
+cards:
+- name: Hench
+  origin: original
+  books:
+  - title: Hench
+    author: Natalie Zina Walschots
+  - title: Villain
+    author: Natalie Zina Walschots
+- name: Starter Villain
+  origin: original
+  books:
+  - title: Starter Villain
+- name: Dave vs. the Monsters
+  origin: v3
+  books:
+  - title: 'Ascendance: Dave vs. the Monsters'
+    author: John Birmingham
+  - title: 'Emergence: Dave vs. the Monsters'
+    author: John Birmingham
+  - title: 'Resistance: Dave vs. the Monsters'
+    author: John Birmingham
+- name: Nemesis Mine
+  origin: v3
+  books:
+  - title: Nemesis Mine
+    author: Amy Archer
+- name: Superheroes Anonymous
+  origin: v3
+  books:
+  - title: '#Herofail'
+    author: Lexie Dunne
+  - title: How to Save the World
+    author: Lexie Dunne
+  - title: Superheroes Anonymous
+    author: Lexie Dunne
+  - title: Supervillains Anonymous
+    author: Lexie Dunne

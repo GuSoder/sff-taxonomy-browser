@@ -1,0 +1,40 @@
+id: vengeance-torment
+label: Vengeance torment
+parent: torment-fantasy
+origin: original
+definition: Torment fantasy where a vengeful entity, spirit or bond born of a past wrong hunts, possesses
+  or haunts the main characters.
+cards:
+- name: The Only Good Indians
+  origin: original
+  books:
+  - title: The Only Good Indians
+- name: I Am the River
+  origin: original
+  books:
+  - title: I Am the River
+- name: Soul Eater
+  origin: original
+  books:
+  - title: Soul Eater
+- name: The Bridge
+  origin: original
+  books:
+  - title: The Bridge
+- name: Don't Fear the Reaper
+  origin: original
+  books:
+  - title: My Heart Is a Chainsaw
+    author: Stephen Graham Jones
+  - title: Don't Fear the Reaper
+    author: Stephen Graham Jones
+  - title: The Angel of Indian Lake
+    author: Stephen Graham Jones
+- name: Small Town Horror
+  origin: original
+  books:
+  - title: Small Town Horror
+- name: Womb City
+  origin: original
+  books:
+  - title: Womb City

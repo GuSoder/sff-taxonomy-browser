@@ -1,0 +1,47 @@
+id: nix-protectorate-and-sim-wars
+label: Nix, protectorates and sim wars
+parent: sim-wars-and-protectorates
+origin: shadow-v3
+definition: Sim wars.
+cards:
+- name: Garth Nix SF
+  origin: v3
+  books:
+  - title: Fire Above, Fire Below
+    author: Garth Nix
+  - title: A Confusion of Princes
+    author: Garth Nix
+  - title: Massif
+    author: Garth Nix
+- name: Protectorate
+  origin: v3
+  books:
+  - title: Catalyst Gate
+    author: Megan E. O
+  - title: Chaos Vector
+    author: Megan E. O
+  - title: Velocity Weapon
+    author: Megan E. O
+- name: O'Neil Sim War
+  origin: v3
+  books:
+  - title: CHOP Line
+    author: Henry V Oneil
+  - title: Dire Steps
+    author: Henry V Oneil
+  - title: Glory Main
+    author: Henry V Oneil
+  - title: Live Echoes
+    author: Henry V Oneil
+  - title: Orphan Brigade
+    author: Henry V Oneil
+- name: Ode to the Half-Broken
+  origin: v3
+  books:
+  - title: Ode to the Half-Broken
+    author: Suzanne Palmer
+- name: Dabare Snake Launcher
+  origin: v3
+  books:
+  - title: The Dabare Snake Launcher
+    author: Joelle Presby

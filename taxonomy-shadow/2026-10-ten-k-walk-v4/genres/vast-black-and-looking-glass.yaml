@@ -1,0 +1,61 @@
+id: vast-black-and-looking-glass
+label: Faith, crash landings and looking glass
+parent: mercenary-and-imperium-ships
+origin: shadow-v3
+definition: Ships with crews.
+cards:
+- name: Starswarm
+  origin: v3
+  books:
+  - title: Starswarm
+    author: Jerry Pournelle
+- name: You Sexy Thing
+  origin: v3
+  books:
+  - title: You Sexy Thing
+    author: Cat Rambo
+  - title: Rumor Has It
+    author: Cat Rambo
+- name: Sisters of the Vast Black
+  origin: v3
+  books:
+  - title: Sisters of the Vast Black
+    author: Lina Rather
+  - title: Sisters of the Forsaken Stars
+    author: Lina Rather
+- name: Beth Revis Crash Landing
+  origin: v3
+  books:
+  - title: Full Speed to a Crash Landing
+    author: Beth Revis
+  - title: How to Steal a Galaxy
+    author: Beth Revis
+  - title: Last Chance to Save the World
+    author: Beth Revis
+  - title: Chaotic Orbits
+    author: Beth Revis
+- name: Looking Glass
+  origin: v3
+  books:
+  - title: Into the Looking Glass
+    author: John Ringo
+  - title: Manxome Foe
+    author: John Ringo
+  - title: Vorpal Blade
+    author: John Ringo
+  - title: Claws That Catch
+    author: John Ringo
+- name: Joel Rosenberg Metzada
+  origin: v3
+  books:
+  - title: Emile and the Dutchman
+    author: Joel Rosenberg
+  - title: Hero
+    author: Joel Rosenberg
+  - title: Not For Glory
+    author: Joel Rosenberg
+- name: Game of the Gods
+  origin: v3
+  books:
+  - title: Game of the Gods
+    author: Jay Schiffman

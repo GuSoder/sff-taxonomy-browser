@@ -1,0 +1,47 @@
+id: travellers-to-known-eras
+label: Travellers to known eras
+parent: time-strays
+origin: shadow-v3
+definition: One person or group dropped into a documented era, trying to survive or change it.
+cards:
+- name: 11/22/63
+  origin: original
+  books:
+  - title: 11/22/63
+- name: A Connecticut Yankee in King Arthur's Court
+  origin: original
+  books:
+  - title: A Connecticut Yankee in King Arthur's Court
+- name: Lest Darkness Fall
+  origin: original
+  books:
+  - title: Lest Darkness Fall
+- name: Time and Again
+  origin: original
+  books:
+  - title: Time and Again
+    author: Jack Finney
+  - title: From Time to Time
+    author: Jack Finney
+- name: Conrad Stargard
+  origin: v3
+  books:
+  - title: A Boy and His Tank
+    author: Leo Frankowski
+  - title: The Fata Morgana
+    author: Leo Frankowski
+  - title: Conrad's Time Machine
+    author: Leo Frankowski
+  - title: The War With Earth
+    author: Leo Frankowski
+  - title: 'Conrad Stargard: The Radiant Warrior'
+    author: Leo Frankowski
+  - title: Kren of the Mitchegai
+    author: Leo Frankowski
+  - title: Conrad's Lady
+    author: Leo Frankowski
+- name: Time and Chance
+  origin: v3
+  books:
+  - title: Time And Chance
+    author: Alan Brennert

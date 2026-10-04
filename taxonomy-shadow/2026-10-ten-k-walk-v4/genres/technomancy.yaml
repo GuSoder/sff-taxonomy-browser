@@ -1,0 +1,60 @@
+id: technomancy
+label: Technomancy
+parent: gothic-fantasy
+origin: original
+definition: 'Gothic fantasy where actual magic is organized through technological forms: necromancy as
+  engineering, haunted apparatus, occult systems and ominous science-fantasy. The “-mancy” postfix carries
+  the curator’s intended necromancy connotation.'
+cards:
+- name: A Voyage to Arcturus
+  origin: original
+  books:
+  - title: A Voyage to Arcturus
+- name: The Locked Tomb
+  origin: v3
+  books:
+  - title: The Locked Tomb Series
+    author: Tamsyn Muir
+- name: The Thousand Worlds
+  origin: original
+  books:
+  - title: Dragon Pearl
+    author: Yoon Ha Lee
+  - title: Tiger Honor
+    author: Yoon Ha Lee
+  - title: Fox Snare
+    author: Yoon Ha Lee
+- name: Dead Country
+  origin: original
+  books:
+  - title: Dead Country
+    author: Max Gladstone
+  - title: Wicked Problems
+    author: Max Gladstone
+- name: Dead Hand Rule
+  origin: original
+  books:
+  - title: Dead Hand Rule
+- name: Apparatus Infernum
+  origin: v3
+  books:
+  - title: Bronze Gods
+    author: A. A. Aguirre
+  - title: Silver Mirrors
+    author: A. A. Aguirre
+- name: The Cinder Spires
+  origin: v3
+  books:
+  - title: The Aeronaut's Windlass
+    author: Jim Butcher
+  - title: The Olympian Affair
+    author: Jim Butcher
+- name: The Clockwork Dagger
+  origin: v3
+  books:
+  - title: The Clockwork Crown
+    author: Beth Cato
+  - title: The Clockwork Dagger
+    author: Beth Cato
+  - title: Wings of Sorrow and Bone
+    author: Beth Cato

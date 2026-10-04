@@ -1,0 +1,39 @@
+id: thomas-innocente-and-grifters
+label: Thomas, Innocente and grifters
+parent: comic-aliens-and-troops
+origin: shadow-v3
+definition: Comic aliens cont.
+cards:
+- name: Patrick Thomas Space
+  origin: v3
+  books:
+  - title: Gate Crashers
+    author: Patrick S. Tomlinson
+  - title: Starship Repo
+    author: Patrick S. Tomlinson
+- name: Eva Innocente
+  origin: v3
+  books:
+  - title: Chilling Effect
+    author: Valerie Valdes
+  - title: Prime Deceptions
+    author: Valerie Valdes
+- name: Wexler Mech
+  origin: v3
+  books:
+  - title: Hard Reboot
+    author: Django Wexler
+  - title: The Only Way Out Is Up
+    author: Django Wexler
+- name: Grasp the Stars
+  origin: v3
+  books:
+  - title: Grasp the Stars
+    author: Jennifer Wingert
+- name: Zaykova Grifters
+  origin: v3
+  books:
+  - title: Galaxy Grifter
+    author: A. Zaykova
+  - title: Star Swindler
+    author: A. Zaykova

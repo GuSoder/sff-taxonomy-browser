@@ -1,0 +1,57 @@
+id: sagan-angels-and-inheritors
+label: Sagan, angels and inheritors
+parent: ark-and-collapse-teens
+origin: shadow-v3
+definition: Collapse cont.
+cards:
+- name: Nick Sagan
+  origin: v3
+  books:
+  - title: Edenborn
+    author: Nick Sagan
+  - title: Everfree
+    author: Nick Sagan
+  - title: Idlewild
+    author: Nick Sagan
+- name: Anna Sheehan
+  origin: v3
+  books:
+  - title: A Long, Long Sleep
+    author: Anna Sheehan
+  - title: No Life But This
+    author: Anna Sheehan
+- name: Samaria Angels
+  origin: v3
+  books:
+  - title: Archangel
+    author: Sharon Shinn
+  - title: Jovah's Angel
+    author: Sharon Shinn
+  - title: The Alleluia Files
+    author: Sharon Shinn
+  - title: Angelica
+    author: Sharon Shinn
+  - title: Angel-Seeker
+    author: Sharon Shinn
+- name: Final Evolution Somers
+  origin: v3
+  books:
+  - title: The Final Evolution
+    author: Jeff Somers
+- name: Inherit the Earth
+  origin: v3
+  books:
+  - title: Inherit the Earth
+    author: Brian Stableford
+- name: Sanctuary Steele
+  origin: v3
+  books:
+  - title: Sanctuary
+    author: Allen Steele
+- name: Icons Stohl
+  origin: v3
+  books:
+  - title: Icons
+    author: Margaret Stohl
+  - title: Idols
+    author: Margaret Stohl

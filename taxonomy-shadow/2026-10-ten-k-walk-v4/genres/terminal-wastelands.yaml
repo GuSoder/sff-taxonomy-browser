@@ -1,0 +1,47 @@
+id: terminal-wastelands
+label: Terminal wastelands
+parent: post-holocaust-survival
+origin: original
+definition: Mixed-cause or unspecified collapses whose defining condition is traversing or enduring a
+  devastated landscape, rather than one named catastrophic cause. Recovery may exist, but the wasteland
+  remains the governing condition.
+cards:
+- name: Lost Everything
+  origin: original
+  books:
+  - title: Lost Everything
+- name: The Road
+  origin: original
+  books:
+  - title: The Road
+- name: These Prisoning Hills
+  origin: original
+  books:
+  - title: These Prisoning Hills
+- name: In the Country of Last Things
+  origin: original
+  books:
+  - title: In the Country of Last Things
+- name: Shelter
+  origin: original
+  books:
+  - title: Shelter
+- name: The Doloriad
+  origin: original
+  books:
+  - title: The Doloriad
+- name: Feersum Endjinn
+  origin: v3
+  books:
+  - title: Feersum Endjinn
+    author: Iain M. Banks
+- name: Redemption Song
+  origin: v3
+  books:
+  - title: Redemption Song
+    author: Quan Barry
+- name: Bad Glass
+  origin: v3
+  books:
+  - title: Bad Glass
+    author: Richard E. Gropp

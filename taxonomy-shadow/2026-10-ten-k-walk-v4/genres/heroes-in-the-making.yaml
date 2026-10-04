@@ -1,0 +1,89 @@
+id: heroes-in-the-making
+label: Heroes in the making
+parent: superhero-fiction
+origin: shadow-v3
+definition: 'Superhero worlds seen from the hero''s side: ordinary people who gain powers, teams and rule
+  sets.'
+cards:
+- name: Cas Russell
+  origin: v3
+  books:
+  - title: Zero Sum Game
+    author: S. L. Huang
+  - title: Null Set
+    author: S. L. Huang
+  - title: Critical Point
+    author: S. L. Huang
+- name: Heroine Complex
+  origin: v3
+  books:
+  - title: Heroine Complex
+    author: Sarah Kuhn
+  - title: Heroine Worship
+    author: Sarah Kuhn
+  - title: Heroine's Journey
+    author: Sarah Kuhn
+  - title: Unsung Heroine
+    author: Sarah Kuhn
+  - title: Haunted Heroine
+    author: Sarah Kuhn
+  - title: Hollywood Heroine
+    author: Sarah Kuhn
+  - title: Holiday Heroine
+    author: Sarah Kuhn
+- name: Wild Cards
+  origin: v3
+  books:
+  - title: Wild Cards
+    author: George R.R. Martin
+  - title: 'Wild Cards: Ace in the Hole'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Aces Abroad'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Aces High'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Busted Flush'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Dead Man''s Hand'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Down and Dirty'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Fort Freak'
+    author: George R.R. Martin
+  - title: 'Wild Cards: High Stakes'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Inside Straight'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Jokers Wild'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Lowball'
+    author: George R.R. Martin
+  - title: 'Wild Cards: Suicide Kings'
+    author: George R.R. Martin
+- name: The Reckoners
+  origin: v3
+  books:
+  - title: Calamity
+    author: Brandon Sanderson
+  - title: Firefight
+    author: Brandon Sanderson
+  - title: Steelheart
+    author: Brandon Sanderson
+- name: The Secret World Chronicle
+  origin: v3
+  books:
+  - title: 'Invasion: Book One of the Secret World Chronicles'
+    author: Mercedes Lackey
+  - title: 'World Divided: Book Two of the Secret World Chronicle'
+    author: Mercedes Lackey
+  - title: 'Revolution: Book Three of The Secret World Chronicle'
+    author: Mercedes Lackey
+  - title: 'Collision: Book Four of the Secret World Chronicle'
+    author: Mercedes Lackey
+  - title: 'Avalanche: Book Five of the Secret World Chronicle'
+    author: Mercedes Lackey
+- name: Only Superhuman
+  origin: v3
+  books:
+  - title: Only Superhuman
+    author: Christopher L. Bennett

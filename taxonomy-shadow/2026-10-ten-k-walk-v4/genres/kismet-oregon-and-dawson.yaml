@@ -1,0 +1,45 @@
+id: kismet-oregon-and-dawson
+label: Kismet, Oregon and Dawson
+parent: dresden-style-wizards
+origin: shadow-v3
+definition: Wizard sleuths cont.
+cards:
+- name: Talon of God
+  origin: v3
+  books:
+  - title: Talon of God
+    author: Wesley Snipesray Norman
+- name: Ukiah Oregon
+  origin: v3
+  books:
+  - title: Alien Taste
+    author: Wen Spencer
+  - title: Tainted Trail
+    author: Wen Spencer
+  - title: Bitter Waters
+    author: Wen Spencer
+- name: L. K. Steven Mages
+  origin: v3
+  books:
+  - title: Silvercloak
+    author: L. K. Steven
+  - title: Turncloak
+    author: L. K. Steven
+- name: Jesse James Dawson
+  origin: v3
+  books:
+  - title: A Devil in the Details
+    author: K. A. Stewart
+  - title: A Shot in the Dark
+    author: K. A. Stewart
+  - title: A Wolf at the Door
+    author: K. A. Stewart
+- name: Alchemystic
+  origin: v3
+  books:
+  - title: Alchemystic
+    author: Anton Strout
+  - title: Stonecast
+    author: Anton Strout
+  - title: Incarnate
+    author: Anton Strout

@@ -1,0 +1,79 @@
+id: vampire-streets
+label: Vampire streets
+parent: among-the-living
+origin: shadow-v3
+definition: Vampires in city streets, towns and street-level crime.
+cards:
+- name: Felix Gomez (Acevedo)
+  origin: v3
+  books:
+  - title: Jailbait Zombie
+    author: Mario Acevedo
+  - title: The Nymphos of Rocky Flats
+    author: Mario Acevedo
+  - title: The Undead Kama Sutra
+    author: Mario Acevedo
+  - title: Werewolf Smackdown
+    author: Mario Acevedo
+  - title: X-Rated Bloodsuckers
+    author: Mario Acevedo
+- name: Generation V
+  origin: v3
+  books:
+  - title: Generation V
+    author: M.L. Brennan
+  - title: Iron Night
+    author: M.L. Brennan
+  - title: Tainted Blood
+    author: M.L. Brennan
+  - title: Dark Ascension
+    author: M.L. Brennan
+- name: Joe Pitt
+  origin: v3
+  books:
+  - title: Already Dead
+    author: Charlie Huston
+  - title: No Dominion
+    author: Charlie Huston
+  - title: Half the Blood of Brooklyn
+    author: Charlie Huston
+  - title: Every Last Drop
+    author: Charlie Huston
+  - title: My Dead Body
+    author: Charlie Huston
+- name: Dark Days (Drake)
+  origin: v3
+  books:
+  - title: Burn the Night
+    author: Jocelynn Drake
+  - title: Dawnbreaker
+    author: Jocelynn Drake
+  - title: Dayhunter
+    author: Jocelynn Drake
+  - title: Inner Demon
+    author: Jocelynn Drake
+  - title: Pray for Dawn
+    author: Jocelynn Drake
+- name: Coldtown
+  origin: v3
+  books:
+  - title: The Coldest Girl in Coldtown
+    author: Holly Black
+  - title: 'The Coldest Girl in Coldtown: Booktrack Edition'
+    author: Holly Black
+- name: Summerlee Vampires
+  origin: v3
+  books:
+  - title: The Book of Blood and Roses
+    author: Annie Summerlee
+  - title: The Death of a Coven
+    author: Annie Summerlee
+- name: Sabina Kane
+  origin: v3
+  books:
+  - title: Blue-Blooded Vamp
+    author: Jaye Wells
+  - title: Silver-Tongued Devil
+    author: Jaye Wells
+  - title: The Mage in Black
+    author: Jaye Wells

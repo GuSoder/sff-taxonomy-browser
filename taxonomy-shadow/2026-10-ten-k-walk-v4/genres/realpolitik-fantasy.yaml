@@ -1,0 +1,63 @@
+id: realpolitik-fantasy
+label: Realpolitik fantasy
+parent: political-fantasy
+origin: shadow-v2
+definition: ''
+cards:
+- name: Engineer Trilogy
+  origin: v3
+  books:
+  - title: Devices and Desires
+    author: K. J. Parker
+  - title: Evil for Evil
+    author: K. J. Parker
+  - title: The Escapement
+    author: K. J. Parker
+- name: Fencer Trilogy
+  origin: v3
+  books:
+  - title: Colours in the Steel
+    author: K. J. Parker
+- name: Scavenger Trilogy
+  origin: v3
+  books:
+  - title: Pattern
+    author: K. J. Parker
+- name: The Folding Knife
+  origin: v3
+  books:
+  - title: The Folding Knife
+    author: K. J. Parker
+- name: The Hammer
+  origin: v3
+  books:
+  - title: The Hammer
+    author: K. J. Parker
+- name: Sharps
+  origin: v3
+  books:
+  - title: Sharps
+    author: K. J. Parker
+- name: The Company (Parker)
+  origin: v3
+  books:
+  - title: The Company
+    author: K. J. Parker
+- name: The Two of Swords
+  origin: v3
+  books:
+  - title: 'The Two of Swords: Volume One'
+    author: K. J. Parker
+  - title: 'The Two of Swords: Volume Three'
+    author: K. J. Parker
+  - title: 'The Two of Swords: Volume Two'
+    author: K. J. Parker
+- name: Saevus Corax
+  origin: v3
+  books:
+  - title: Saevus Corax Captures the Castle
+    author: K. J. Parker
+  - title: Saevus Corax Deals With the Dead
+    author: K. J. Parker
+  - title: Saevus Corax Gets Away With Murder
+    author: K. J. Parker

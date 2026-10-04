@@ -1,0 +1,33 @@
+id: liars-itaranta-and-califia
+label: Liars, Itaranta and Califia
+parent: conflict-and-closed-societies
+origin: shadow-v3
+definition: Closed societies.
+cards:
+- name: Language of Liars
+  origin: v3
+  books:
+  - title: The Language of Liars
+    author: S. L. Huang
+- name: Itaranta
+  origin: v3
+  books:
+  - title: Memory of Water
+    author: Emmi Itaranta
+  - title: The Weaver
+    author: Emmi Itaranta
+- name: Proof of Concept
+  origin: v3
+  books:
+  - title: Proof of Concept
+    author: Gwyneth Jones
+- name: Califia's Daughters
+  origin: v3
+  books:
+  - title: Califia's Daughters
+    author: Laurie R. King
+- name: Mountain Magic
+  origin: v3
+  books:
+  - title: Mountain Magic
+    author: Henry Kuttner

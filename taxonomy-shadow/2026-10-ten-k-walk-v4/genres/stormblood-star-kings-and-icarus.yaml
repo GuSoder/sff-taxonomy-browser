@@ -1,0 +1,60 @@
+id: stormblood-star-kings-and-icarus
+label: Stormblood, star kings and Icarus
+parent: sim-wars-and-protectorates
+origin: shadow-v3
+definition: Sim wars cont.
+cards:
+- name: Stormblood
+  origin: v3
+  books:
+  - title: Blindspace
+    author: Jeremy Szal
+  - title: Stormblood
+    author: Jeremy Szal
+  - title: Wolfskin
+    author: Jeremy Szal
+- name: Beautiful Friendship
+  origin: v3
+  books:
+  - title: A Beautiful Friendship
+    author: David Weber
+- name: Star King
+  origin: v3
+  books:
+  - title: Ghost Legion
+    author: Margaret Weis
+  - title: King's Sacrifice
+    author: Margaret Weis
+  - title: King's Test
+    author: Margaret Weis
+  - title: The Lost King
+    author: Margaret Weis
+- name: Voidwitch
+  origin: v3
+  books:
+  - title: Killing Gravity
+    author: Corey J. White
+  - title: Static Ruin
+    author: Corey J. White
+  - title: Void Black Shadow
+    author: Corey J. White
+- name: Zahn Space
+  origin: v3
+  books:
+  - title: Conquerors' Pride
+    author: Timothy Zahn
+  - title: The Icarus Hunt
+    author: Timothy Zahn
+  - title: 'Blackcollar: The Judas Solution'
+    author: Timothy Zahn
+  - title: Conquerors' Heritage
+    author: Timothy Zahn
+  - title: Conquerors' Legacy
+    author: Timothy Zahn
+- name: Icarus Zahn
+  origin: v3
+  books:
+  - title: The Icarus Job
+    author: Timothy Zahn
+  - title: The Icarus Plot
+    author: Timothy Zahn

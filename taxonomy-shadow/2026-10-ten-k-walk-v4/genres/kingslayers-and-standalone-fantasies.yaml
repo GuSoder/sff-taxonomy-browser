@@ -1,0 +1,75 @@
+id: kingslayers-and-standalone-fantasies
+label: Kingslayers and standalone fantasies
+parent: swords-and-kingslayers
+origin: shadow-v3
+definition: Kingslayers and wry fantasy.
+cards:
+- name: Aral Kingslayer
+  origin: v3
+  books:
+  - title: Broken Blade
+    author: Kelly McCullough
+  - title: Bared Blade
+    author: Kelly McCullough
+  - title: Crossed Blades
+    author: Kelly McCullough
+  - title: Blade Reforged
+    author: Kelly McCullough
+  - title: Drawn Blades
+    author: Kelly McCullough
+  - title: Darkened Blade
+    author: Kelly McCullough
+- name: Sir Hereward and Mister Fitz
+  origin: v3
+  books:
+  - title: Sir Hereward and Mister Fitz
+    author: Garth Nix
+- name: Makaum War
+  origin: v3
+  books:
+  - title: Guerilla
+    author: Mel Odom
+  - title: Warlord
+    author: Mel Odom
+- name: Mercenary Librarian Palmatier
+  origin: v3
+  books:
+  - title: Leaves of Flame
+    author: Joshua Palmatier
+  - title: Well of Sorrows
+    author: Joshua Palmatier
+- name: K. J. Parker Standalones
+  origin: v3
+  books:
+  - title: Set in Stone
+    author: K. J. Parker
+  - title: Making History
+    author: K. J. Parker
+- name: Dragons Heists Retirement
+  origin: v3
+  books:
+  - title: Dragons, Heists, and Other Retirement Plans
+    author: Meg Pennerson
+- name: Sword Defiant
+  origin: v3
+  books:
+  - title: The Sword Defiant
+    author: Gareth Hanrahan
+  - title: The Sword Triumphant
+    author: Gareth Hanrahan
+  - title: The Sword Unbound
+    author: Gareth Hanrahan
+- name: Soulbound Ward
+  origin: v3
+  books:
+  - title: The Darkness Before Them
+    author: Matthew Ward
+  - title: The Fire Within Them
+    author: Matthew Ward
+  - title: The Lie That Binds Them
+    author: Matthew Ward
+- name: Paksenarrion Horngard
+  origin: v3
+  books:
+  - title: Horngard
+    author: ''

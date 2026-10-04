@@ -1,0 +1,71 @@
+id: war-and-rival-romances
+label: War and rival romances
+parent: rivals-and-enemies
+origin: shadow-v3
+definition: Rivals on opposite sides of a war.
+cards:
+- name: Divine Rivals
+  origin: original
+  books:
+  - title: Divine Rivals
+- name: The Halfling Saga
+  origin: v3
+  books:
+  - title: A Broken Blade
+    author: Melissa Blair
+  - title: A Shadow Crown
+    author: Melissa Blair
+  - title: A Vicious Game
+    author: Melissa Blair
+  - title: An Honored Vow
+    author: Melissa Blair
+- name: The Unbalancing
+  origin: original
+  books:
+  - title: The Unbalancing
+- name: Dance of Lies
+  origin: v3
+  books:
+  - title: A Dance of Lies
+    author: Brittney Arena
+  - title: To Dance with Death
+    author: Brittney Arena
+- name: Heir to Thorn and Flame
+  origin: v3
+  books:
+  - title: Heir to Thorn and Flame
+    author: Ben Alderson
+- name: Ending Fire
+  origin: v3
+  books:
+  - title: The Final Strife
+    author: Saara El-Arifi
+  - title: The Battle Drum
+    author: Saara El-Arifi
+  - title: The Ending Fire
+    author: Saara El-Arifi
+- name: Spectre War
+  origin: v3
+  books:
+  - title: Nova
+    author: Margaret Fortune
+  - title: Archangel
+    author: Margaret Fortune
+  - title: Iolanthe
+    author: Margaret Fortune
+- name: LJ Claren
+  origin: v3
+  books:
+  - title: The Incendiary
+    author: LJ Claren
+  - title: The Nocturne
+    author: LJ Claren
+  - title: The Silversmith
+    author: LJ Claren
+- name: Realms in Peril
+  origin: v3
+  books:
+  - title: Bound by Fate
+    author: A.N. Caudle
+  - title: Worthy of Fate
+    author: A.N. Caudle

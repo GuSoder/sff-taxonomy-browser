@@ -1,0 +1,40 @@
+id: sword-and-planet
+label: Sword and planet
+parent: sword-and-sorcery
+origin: original
+definition: Action-forward fantasy romps across strange worlds and planets, honoring the pulp and planetary-romance
+  baggage carried by Sword and Sorcery.
+cards:
+- name: Glory Road
+  origin: original
+  books:
+  - title: Glory Road
+- name: Witch World
+  origin: v3
+  books:
+  - title: Lost Lands of Witch World
+    author: Andre Norton
+  - title: The Warding of Witch World
+    author: Andre Norton
+- name: Cija / Atlantis
+  origin: original
+  books:
+  - title: The Serpent
+    author: Jane Gaskell
+  - title: Atlan
+    author: Jane Gaskell
+  - title: The City
+    author: Jane Gaskell
+  - title: Some Summer Lands
+    author: Jane Gaskell
+- name: The King Must Die
+  origin: original
+  books:
+  - title: The King Must Die
+- name: Morgaine
+  origin: v3
+  books:
+  - title: Exile's Gate
+    author: C. J. Cherryh
+  - title: The Complete Morgaine
+    author: C. J. Cherryh

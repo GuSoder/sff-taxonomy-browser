@@ -1,0 +1,93 @@
+id: multiverse-fantasy
+label: Multiverse fantasy
+parent: fantasy-rifts
+origin: original
+definition: Portal fantasy whose premise is a system of many worlds - shadow realms, parallel Londons,
+  the multiverse as cosmology - with order and chaos in play across them (Moorcock's line; SFE 'Multiverse').
+  One hidden world revealed is the sibling shelf, Otherworld fantasy.
+cards:
+- name: His Dark Materials
+  origin: original
+  books:
+  - title: Northern Lights
+    author: Philip Pullman
+  - title: The Subtle Knife
+    author: Philip Pullman
+  - title: The Amber Spyglass
+    author: Philip Pullman
+  - title: 'The Book of Dust: La Belle Sauvage'
+    author: Philip Pullman
+  - title: 'The Book of Dust: The Secret Commonwealth'
+    author: Philip Pullman
+  - title: 'The Book of Dust: The Rose Field'
+    author: Philip Pullman
+- name: The Chronicles of Amber
+  origin: v3
+  books:
+  - title: Forever After
+    author: created Roger Zelazny
+  - title: Bring Me the Head of Prince Charming
+    author: Roger Zelazny
+  - title: A Farce to Be Reckoned With
+    author: Roger Zelazny
+  - title: A Night in the Lonesome October
+    author: Roger Zelazny
+  - title: The Great Book of Amber
+    author: Roger Zelazny
+  - title: The Second Chronicles of Amber
+    author: Roger Zelazny
+- name: The Incomplete Enchanter
+  origin: original
+  books:
+  - title: The Incomplete Enchanter
+    author: L. Sprague de Camp, Fletcher Pratt
+  - title: The Castle of Iron
+    author: L. Sprague de Camp, Fletcher Pratt
+  - title: Wall of Serpents
+    author: L. Sprague de Camp, Fletcher Pratt
+- name: Shades of Magic
+  origin: v3
+  books:
+  - title: The Shades of Magic Series
+    author: V. E. Schwab
+- name: The Hollow Places
+  origin: original
+  books:
+  - title: The Hollow Places
+- name: The Keeper's Six
+  origin: original
+  books:
+  - title: The Keeper's Six
+- name: Last Exit
+  origin: original
+  books:
+  - title: Last Exit
+- name: Harold Shea (Enchanter Reborn)
+  origin: v3
+  books:
+  - title: The Enchanter Reborn
+    author: L. Sprague de Camp
+- name: The Invisible Library
+  origin: v3
+  books:
+  - title: The Invisible Library
+    author: Genevieve Cogman
+  - title: The Masked City
+    author: Genevieve Cogman
+  - title: The Burning Page
+    author: Genevieve Cogman
+  - title: The Lost Plot
+    author: Genevieve Cogman
+  - title: The Mortal Word
+    author: Genevieve Cogman
+  - title: The Dark Archive
+    author: Genevieve Cogman
+  - title: The Secret Chapter
+    author: Genevieve Cogman
+  - title: The Untold Story
+    author: Genevieve Cogman
+- name: Mode
+  origin: v3
+  books:
+  - title: DoOon Mode
+    author: Piers Anthony

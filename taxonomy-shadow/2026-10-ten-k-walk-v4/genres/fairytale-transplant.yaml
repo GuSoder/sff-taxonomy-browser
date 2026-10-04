@@ -1,0 +1,48 @@
+id: fairytale-transplant
+label: Fairytale transplant
+parent: fairytale-fantasy
+origin: original
+definition: Fiction that relocates a familiar fairytale into a different historical period, culture, or
+  contemporary setting.
+cards:
+- name: Mapping the Bones
+  origin: original
+  books:
+  - title: Mapping the Bones
+- name: Dark and Deepest Red
+  origin: original
+  books:
+  - title: Dark and Deepest Red
+- name: Gingerbread
+  origin: original
+  books:
+  - title: Gingerbread
+- name: Red Hood
+  origin: original
+  books:
+  - title: Red Hood
+- name: Summer in the City of Roses
+  origin: original
+  books:
+  - title: Summer in the City of Roses
+- name: Castle of the Cursed
+  origin: original
+  books:
+  - title: Castle of the Cursed
+- name: Enchantment (Card)
+  origin: v3
+  books:
+  - title: Enchantment
+    author: Orson Scott Card
+- name: Jasmyn
+  origin: v3
+  books:
+  - title: Jasmyn
+    author: Alex Bell
+- name: Carrie Harris
+  origin: v3
+  books:
+  - title: Snagged
+    author: Carrie Harris
+  - title: Tendrils
+    author: Carrie Harris

@@ -1,0 +1,59 @@
+id: spell-house-witches
+label: Spell-house witches
+parent: witches-and-spell-houses
+origin: shadow-v3
+definition: Witches in houses.
+cards:
+- name: Freya Marske
+  origin: v3
+  books:
+  - title: Swordcrossed
+    author: Freya Marske
+  - title: Bodies of Magic
+    author: Freya Marske
+- name: Francesca May
+  origin: v3
+  books:
+  - title: This Vicious Hunger
+    author: Francesca May
+  - title: Wild and Wicked Things
+    author: Francesca May
+- name: Witches of Dubious Origin
+  origin: v3
+  books:
+  - title: Witches of Dubious Origin
+    author: Jenn McKinlay
+  - title: Witches of Questionable Intent
+    author: Jenn McKinlay
+- name: Nye Dream Realms
+  origin: v3
+  books:
+  - title: School of Light
+    author: Jody Lynn Nye
+  - title: Waking in Dreamland
+    author: Jody Lynn Nye
+- name: Homegrown Magic
+  origin: v3
+  books:
+  - title: Homegrown Magic
+    author: Jamie Pacton
+  - title: Homeward for a Spell
+    author: Jamie Pacton
+- name: Allison Saft
+  origin: v3
+  books:
+  - title: A Dark and Drowning Tide
+    author: Allison Saft
+  - title: Heartsgrove
+    author: Allison Saft
+- name: C. M. Waggoner
+  origin: v3
+  books:
+  - title: Unnatural Magic
+    author: C. M. Waggoner
+  - title: The Ruthless Lady's Guide to Wizardry
+    author: C. M. Waggoner
+  - title: The Village Library Demon-Hunting Society
+    author: C. M. Waggoner
+  - title: The Somewhat Wicked Witch of Brigandale
+    author: C. M. Waggoner

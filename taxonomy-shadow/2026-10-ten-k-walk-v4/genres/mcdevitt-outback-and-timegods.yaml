@@ -1,0 +1,72 @@
+id: mcdevitt-outback-and-timegods
+label: McDevitt, outback and time gods
+parent: searchers-and-outback-stars
+origin: shadow-v3
+definition: Searchers.
+cards:
+- name: Jack McDevitt
+  origin: v3
+  books:
+  - title: Time Travelers Never Die
+    author: Jack McDevitt
+  - title: Starhawk
+    author: Jack McDevitt
+  - title: The Hercules Text
+    author: Jack McDevitt
+  - title: Thunderbird
+    author: Jack McDevitt
+  - title: Ancient Shores
+    author: Jack Mcdevitt
+  - title: Deepsix
+    author: Jack Mcdevitt
+  - title: Eternity Road
+    author: Jack Mcdevitt
+  - title: Infinity Beach
+    author: Jack Mcdevitt
+  - title: Moonfall
+    author: Jack Mcdevitt
+- name: Outback Stars
+  origin: v3
+  books:
+  - title: The Stars Blue Yonder
+    author: Sandra McDonald
+  - title: The Outback Stars
+    author: Sandra McDonald
+  - title: The Stars Down Under
+    author: Sandra McDonald
+- name: Timegods World
+  origin: v3
+  books:
+  - title: Timegods' World
+    author: L. E. Modesitt
+- name: Modesitt Far Futures
+  origin: v3
+  books:
+  - title: The Eternity Artifact
+    author: L. E. Modesitt
+  - title: Dawn for a Distant Earth
+    author: L. E. Modesitt
+  - title: Gravity Dreams
+    author: L. E. Modesitt
+  - title: The One-Eyed Man
+    author: L. E. Modesitt
+  - title: Quantum Shadows
+    author: L. E. Modesitt
+- name: Timegod
+  origin: v3
+  books:
+  - title: Timegods' World
+    author: L. E. Modesitt
+  - title: Ghost of the White Nights
+    author: L. E. Modesitt
+  - title: Of Tangible Ghosts
+    author: L. E. Modesitt
+  - title: The Timegod
+    author: L. E. Modesitt
+  - title: Timediver's Dawn
+    author: L. E. Modesitt
+- name: Nomad of Time
+  origin: v3
+  books:
+  - title: The Nomad of Time
+    author: Michael Moorcock

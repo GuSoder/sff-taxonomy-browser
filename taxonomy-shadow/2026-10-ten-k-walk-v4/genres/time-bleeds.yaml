@@ -1,0 +1,44 @@
+id: time-bleeds
+label: Time bleeds
+parent: timeslips
+origin: original
+definition: 'Timeslips in which eras leak into each other and nobody travels: the past bleeds through
+  into the present and the leak is the engine. Split 2026-09-28 from Timeslips by who moves (curator ruling).'
+cards:
+- name: Darkmans
+  origin: original
+  books:
+  - title: Darkmans
+- name: Red Shift
+  origin: original
+  books:
+  - title: Red Shift
+- name: The Underwood Tapes
+  origin: original
+  books:
+  - title: The Underwood Tapes
+- name: Time Odyssey
+  origin: v3
+  books:
+  - title: Time's Eye
+    author: Stephen Baxter
+  - title: Sunstorm
+    author: Stephen Baxter
+  - title: Firstborn
+    author: Stephen Baxter
+  - title: Firstborn
+    author: Arthur C. Clarke
+  - title: Sunstorm
+    author: Arthur C. Clarke
+  - title: Time's Eye
+    author: Arthur C. Clarke
+- name: Saving Hamlet
+  origin: v3
+  books:
+  - title: Saving Hamlet
+    author: Molly Booth
+- name: Forever Engine
+  origin: v3
+  books:
+  - title: The Forever Engine
+    author: Frank Chadwick

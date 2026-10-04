@@ -1,0 +1,66 @@
+id: generation-ships-core
+label: Generation and ark ships
+parent: generation-ships
+origin: shadow-v3
+definition: Ark and generation ships.
+cards:
+- name: Escaping Exodus
+  origin: original
+  books:
+  - title: Escaping Exodus
+    author: Nicky Drayden
+  - title: 'Escaping Exodus: Symbiosis'
+    author: Nicky Drayden
+- name: Calypso
+  origin: original
+  books:
+  - title: Calypso
+- name: Halcyon Years
+  origin: original
+  books:
+  - title: Halcyon Years
+- name: Noumenon
+  origin: v3
+  books:
+  - title: Noumenon
+    author: Marina J Lostetter
+  - title: Noumenon Infinity
+    author: Marina J Lostetter
+  - title: Noumenon Ultra
+    author: Marina J Lostetter
+- name: Exodus Ark
+  origin: v3
+  books:
+  - title: Genesis
+    author: Paul Chafe
+  - title: 'Exodus: The Ark'
+    author: Paul Chafe
+- name: Star Dragon
+  origin: v3
+  books:
+  - title: Star Dragon
+    author: Mike Brotherton
+- name: Salvation Sequence
+  origin: v3
+  books:
+  - title: Salvation
+    author: Peter F. Hamilton
+  - title: Salvation Lost
+    author: Peter F. Hamilton
+  - title: The Saints of Salvation
+    author: Peter F. Hamilton
+- name: Goldilocks
+  origin: v3
+  books:
+  - title: Goldilocks
+    author: L. R. Lam
+- name: World Gives Way
+  origin: v3
+  books:
+  - title: The World Gives Way
+    author: Marissa Levien
+- name: Noumenon Lostetter
+  origin: v3
+  books:
+  - title: Activation Degradation
+    author: Marina J Lostetter

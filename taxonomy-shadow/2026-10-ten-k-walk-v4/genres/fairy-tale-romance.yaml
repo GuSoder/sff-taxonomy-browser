@@ -1,0 +1,66 @@
+id: fairy-tale-romance
+label: Fairy-tale romance
+parent: fae-romance-core
+origin: shadow-v3
+definition: Fairy-tale retellings and romance of bards.
+cards:
+- name: Bedlam's Bard
+  origin: v3
+  books:
+  - title: Beyond World's End
+    author: Mercedes Lackey
+  - title: Mad Maudlin
+    author: Mercedes Lackey
+  - title: Bedlam's Edge
+    author: Mercedes Lackey
+  - title: Music to My Sorrow
+    author: Mercedes Lackey
+  - title: And Less Than Kind
+    author: Mercedes Lackey
+  - title: A Host of Furious Fancies
+    author: Mercedes Lackey
+  - title: The Waters and the Wild
+    author: Mercedes Lackey
+- name: Embodiment of Souls
+  origin: v3
+  books:
+  - title: An Embodiment of Souls
+    author: Julia Laurel
+- name: Spellbound Leighton
+  origin: v3
+  books:
+  - title: Spellbound
+    author: Georgia Leighton
+- name: Fishbone Cinderella
+  origin: v3
+  books:
+  - title: Fishbone Cinderella
+    author: Elizabeth Lim
+- name: Malinda Lo
+  origin: v3
+  books:
+  - title: Ash
+    author: Malinda Lo
+  - title: Huntress
+    author: Malinda Lo
+- name: Kingdom of the Wicked
+  origin: v3
+  books:
+  - title: Kingdom of the Cursed
+    author: Kerri Maniscalco
+  - title: Kingdom of the Feared
+    author: Kerri Maniscalco
+  - title: Kingdom of the Wicked
+    author: Kerri Maniscalco
+- name: Lose a Goblin
+  origin: v3
+  books:
+  - title: How to Lose a Goblin in Ten Days
+    author: Jessie Sylva
+- name: Kristen Vale
+  origin: v3
+  books:
+  - title: A Spell of Heart & Havoc
+    author: Kristen Vale
+  - title: A Tale of Mirth & Magic
+    author: Kristen Vale

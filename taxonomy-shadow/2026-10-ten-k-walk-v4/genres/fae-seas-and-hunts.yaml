@@ -1,0 +1,56 @@
+id: fae-seas-and-hunts
+label: Fae seas and hunts
+parent: fae-courts
+origin: shadow-v3
+definition: Fae adventures at sea and the wild hunt.
+cards:
+- name: The Ever Seas (Andrews)
+  origin: v3
+  books:
+  - title: Broken Souls and Bones
+    author: LJ Andrews
+  - title: Heir of Twisted Lies
+    author: LJ Andrews
+  - title: The Ever King
+    author: LJ Andrews
+  - title: The Ever Queen
+    author: LJ Andrews
+- name: Endless Blue Beneath
+  origin: v3
+  books:
+  - title: Endless Blue Beneath
+    author: Shannon English
+- name: Sarah Hawley fae
+  origin: v3
+  books:
+  - title: Servant of Earth
+    author: Sarah Hawley
+  - title: Princess of Blood
+    author: Sarah Hawley
+  - title: Warrior of the Shards
+    author: Sarah Hawley
+- name: Mystic Warrior
+  origin: v3
+  books:
+  - title: Mystic Warrior
+    author: Tracy Hickman
+- name: Song of the Huntress
+  origin: v3
+  books:
+  - title: Song of the Huntress
+    author: Lucy Holland
+- name: Burning Roses
+  origin: v3
+  books:
+  - title: Burning Roses
+    author: S. L. Huang
+- name: Thornhedge
+  origin: v3
+  books:
+  - title: Thornhedge
+    author: T. Kingfisher
+- name: Withered and Sere
+  origin: v3
+  books:
+  - title: Withered + Sere
+    author: TJ Klune

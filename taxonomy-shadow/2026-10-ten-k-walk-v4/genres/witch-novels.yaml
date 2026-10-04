@@ -1,0 +1,66 @@
+id: witch-novels
+label: Witch novels
+parent: witches-and-libraries
+origin: shadow-v3
+definition: Witches and witch-histories, old and new.
+cards:
+- name: The Once and Future Witches
+  origin: original
+  books:
+  - title: The Once and Future Witches
+- name: The Diabolist's Library
+  origin: original
+  books:
+  - title: Creatures of Will and Temper
+    author: Molly Tanzer
+  - title: Creatures of Want and Ruin
+    author: Molly Tanzer
+  - title: Creatures of Charm and Hunger
+    author: Molly Tanzer
+- name: The Innsmouth Legacy
+  origin: original
+  books:
+  - title: Winter Tide
+    author: Ruthanna Emrys
+  - title: Deep Roots
+    author: Ruthanna Emrys
+- name: The Water Dancer
+  origin: original
+  books:
+  - title: The Water Dancer
+- name: Love Witches and Wahala
+  origin: v3
+  books:
+  - title: Love, Witches, and Wahala
+    author: Christine Cowan
+- name: Magnolia League
+  origin: v3
+  books:
+  - title: The Magnolia League
+    author: Katie Crouch
+  - title: The White Glove War
+    author: Katie Crouch
+- name: Comeuppance Served Cold
+  origin: v3
+  books:
+  - title: Comeuppance Served Cold
+    author: Marion Deeds
+- name: Troy Game
+  origin: v3
+  books:
+  - title: Threshold
+    author: Sara Douglass
+  - title: Druid's Sword
+    author: Sara Douglass
+- name: Firstdawn
+  origin: v3
+  books:
+  - title: Firstdawn
+    author: Lana Harper
+- name: Emily Kremphol
+  origin: v3
+  books:
+  - title: Violet Thistlewaite Is Not a Villain Anymore
+    author: Emily Krempholtz
+  - title: Prudence Marsh Is Not a Nobody Anymore
+    author: Emily Krempholtz

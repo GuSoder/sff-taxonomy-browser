@@ -1,0 +1,49 @@
+id: ancestral-time-travel
+label: Ancestral time travel
+parent: time-travel-fiction
+origin: original
+definition: Time travel into family history, where kinship and ancestry determine the destination and
+  stakes.
+cards:
+- name: Kindred
+  origin: original
+  books:
+  - title: Kindred
+- name: Outlander
+  origin: original
+  books:
+  - title: Outlander
+    author: Diana Gabaldon
+  - title: Dragonfly in Amber
+    author: Diana Gabaldon
+  - title: Voyager
+    author: Diana Gabaldon
+  - title: Drums of Autumn
+    author: Diana Gabaldon
+  - title: The Fiery Cross
+    author: Diana Gabaldon
+  - title: A Breath of Snow and Ashes
+    author: Diana Gabaldon
+  - title: An Echo in the Bone
+    author: Diana Gabaldon
+  - title: Written in My Own Heart's Blood
+    author: Diana Gabaldon
+  - title: Go Tell the Bees That I Am Gone
+    author: Diana Gabaldon
+- name: The Victorian Chaise-longue
+  origin: original
+  books:
+  - title: The Victorian Chaise-longue
+- name: Expect Me Tomorrow
+  origin: original
+  books:
+  - title: Expect Me Tomorrow
+- name: Hopeland
+  origin: original
+  books:
+  - title: Hopeland
+- name: Cowl
+  origin: v3
+  books:
+  - title: Cowl
+    author: Neal Asher

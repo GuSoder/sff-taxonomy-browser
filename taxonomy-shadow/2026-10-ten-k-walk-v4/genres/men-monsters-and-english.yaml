@@ -1,0 +1,42 @@
+id: men-monsters-and-english
+label: Men, monsters and the English
+parent: after-the-lights-go-out
+origin: shadow-v3
+definition: After lights out cont.
+cards:
+- name: Of Men and Monsters
+  origin: v3
+  books:
+  - title: Of Men and Monsters
+    author: William Tenn
+- name: Waters Rising
+  origin: v3
+  books:
+  - title: The Waters Rising
+    author: Sheri S Tepper
+- name: Jon Wallace
+  origin: v3
+  books:
+  - title: Barricade
+    author: Jon Wallace
+  - title: Rig
+    author: Jon Wallace
+  - title: Steeple
+    author: Jon Wallace
+- name: Wendig Dust and Invasive
+  origin: v3
+  books:
+  - title: Dust & Grim
+    author: Chuck Wendig
+  - title: Invasive
+    author: Chuck Wendig
+- name: Where Late the Sweet Birds Sang
+  origin: v3
+  books:
+  - title: Where Late The Sweet Birds Sang
+    author: Kate Wilhelm
+- name: When the English Fall
+  origin: v3
+  books:
+  - title: When the English Fall
+    author: David Williams

@@ -1,0 +1,47 @@
+id: wild-and-old-terror
+label: Wild and old terror
+parent: folk-horror
+origin: shadow-v3
+definition: Folk horror of old gods, woods and rivers.
+cards:
+- name: Into the Light
+  origin: original
+  books:
+  - title: Into the Light
+- name: Dark Apostle
+  origin: v3
+  books:
+  - title: The Burning
+    author: E.C. Ambrose
+  - title: Elisha Barber
+    author: E.C. Ambrose
+  - title: Elisha Magus
+    author: E.C. Ambrose
+  - title: Elisha Rex
+    author: E.C. Ambrose
+  - title: Elisha Mancer
+    author: E.C. Ambrose
+  - title: Elisha Daemon
+    author: E.C. Ambrose
+- name: Red Mother
+  origin: v3
+  books:
+  - title: The Red Mother
+    author: Elizabeth Bear
+- name: Sunken Land
+  origin: v3
+  books:
+  - title: The Sunken Land Begins to Rise Again
+    author: Great Britain
+- name: Those Across the River
+  origin: v3
+  books:
+  - title: Those Across the River
+    author: Christopher Buehlman
+- name: Baltimore Gansworth
+  origin: v3
+  books:
+  - title: Baltimore,
+    author: Christopher Golden
+  - title: The Shadow Men
+    author: Christopher Golden

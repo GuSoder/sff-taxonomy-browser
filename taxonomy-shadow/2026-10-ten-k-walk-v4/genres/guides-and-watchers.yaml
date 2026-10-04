@@ -1,0 +1,38 @@
+id: guides-and-watchers
+label: Guides and watchers
+parent: visitors-and-watchers
+origin: shadow-v3
+definition: Alien guides, watchers and benefactors.
+cards:
+- name: Agent to the Stars
+  origin: original
+  books:
+  - title: Agent to the Stars
+- name: Childhood's End
+  origin: original
+  books:
+  - title: Childhood's End
+- name: Way Station
+  origin: original
+  books:
+  - title: Way Station
+- name: Yesterday's Kin
+  origin: v3
+  books:
+  - title: Yesterday's Kin Trilogy
+    author: Nancy Kress
+- name: Camouflage
+  origin: v3
+  books:
+  - title: Camouflage
+    author: Joe Haldeman
+- name: Last Theorem
+  origin: v3
+  books:
+  - title: The Last Theorem
+    author: Arthur C. Clarke
+- name: Rejoice
+  origin: v3
+  books:
+  - title: Rejoice
+    author: Steven Erikson

@@ -1,0 +1,43 @@
+id: symmetries-lightning-and-cityborn
+label: Symmetries, lightning and cityborn
+parent: dry-worlds-and-wastes
+origin: shadow-v3
+definition: Dry worlds cont.
+cards:
+- name: Fearful Symmetries
+  origin: v3
+  books:
+  - title: Fearful Symmetries
+    author: S. Andrew Swann
+- name: Thomas T. Thomas SF
+  origin: v3
+  books:
+  - title: Crygender
+    author: Thomas T. Thomas
+  - title: First Citizen
+    author: Thomas T. Thomas
+  - title: Sunflowers
+    author: Thomas T. Thomas
+  - title: Trojan Horse
+    author: Thomas T. Thomas
+  - title: The Children of Possibility
+    author: Thomas T. Thomas
+  - title: 'ME, Too: Loose in the Network'
+    author: Thomas T. Thomas
+  - title: The House at the Crossroads
+    author: Thomas T. Thomas
+- name: Dark Lightning
+  origin: v3
+  books:
+  - title: Dark Lightning
+    author: John Varley
+- name: Cityborn
+  origin: v3
+  books:
+  - title: The Cityborn
+    author: Edward Willett
+- name: When We Were Lost
+  origin: v3
+  books:
+  - title: When We Were Lost
+    author: Kevin Wignall

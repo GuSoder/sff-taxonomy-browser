@@ -1,0 +1,59 @@
+id: sisters-and-serpents
+label: Sisters, gods and serpents
+parent: queens-and-wild-lands
+origin: shadow-v3
+definition: Sisters, gods and serpents in dark lands.
+cards:
+- name: Warring Gods
+  origin: v3
+  books:
+  - title: The River and the Star
+    author: Gabriela Romero Lacruz
+  - title: The Sun and the Void
+    author: Gabriela Romero Lacruz
+- name: Serpent Called Mercy
+  origin: v3
+  books:
+  - title: The Serpent Called Mercy
+    author: Roanne Lau
+- name: Book of the Ancestor
+  origin: v3
+  books:
+  - title: Red Sister
+    author: Mark Lawrence
+  - title: Grey Sister
+    author: Mark Lawrence
+  - title: Holy Sister
+    author: Mark Lawrence
+- name: Sung in Shadow
+  origin: v3
+  books:
+  - title: Sung in Shadow
+    author: Tanith Lee
+- name: That Time I Got Drunk
+  origin: v3
+  books:
+  - title: That Time I Got Drunk and Saved a Demon
+    author: Kimberly Lemming
+  - title: That Time I Got Drunk and Saved a Human
+    author: Kimberly Lemming
+  - title: That Time I Got Drunk and Yeeted a Love Potion at a Werewolf
+    author: Kimberly Lemming
+- name: Eternity in Three Acts
+  origin: v3
+  books:
+  - title: Eternity in Three Acts
+    author: Ann Sei Lin
+- name: Nisha Tuli Series
+  origin: v3
+  books:
+  - title: Fate of the Sun King
+    author: Nisha J. Tuli
+  - title: Heart of Night and Fire
+    author: Nisha J. Tuli
+  - title: Rule of the Aurora King
+    author: Nisha J. Tuli
+  - title: Tale of the Heart Queen
+    author: Nisha J. Tuli
+  - title: Trial of the Sun Queen
+    author: Nisha J. Tuli

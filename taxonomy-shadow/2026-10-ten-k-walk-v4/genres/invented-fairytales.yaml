@@ -1,0 +1,36 @@
+id: invented-fairytales
+label: Invented fairytales
+parent: fairytale-fantasy
+origin: original
+definition: Fantasy that tells newly invented fairytales rather than revising a recognizable inherited
+  one. Fable and enchantment logic organize the story, whether one tale, a linked cycle or a novel; a
+  heroic quest or literal fairies are not required.
+cards:
+- name: Mad Sisters of Esi
+  origin: original
+  books:
+  - title: Mad Sisters of Esi
+- name: Honeycomb
+  origin: original
+  books:
+  - title: Honeycomb
+- name: The Girl Who Drank the Moon
+  origin: v3
+  books:
+  - title: The Girl Who Drank the Moon (Winner of the 2017 Newbery Medal)
+    author: Kelly Barnhill
+- name: The Witch's Boy
+  origin: v3
+  books:
+  - title: The Witchs Boy
+    author: Kelly Barnhill
+- name: Iron Hearted Violet
+  origin: v3
+  books:
+  - title: Iron Hearted Violet
+    author: Kelly Barnhill
+- name: The Ogress and the Orphans
+  origin: v3
+  books:
+  - title: The Ogress and the Orphans
+    author: Kelly Barnhill

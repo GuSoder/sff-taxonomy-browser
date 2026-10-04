@@ -1,0 +1,31 @@
+id: ubik-lathe-and-bodies
+label: Ubik, lathe and bodies
+parent: dream-and-memory-minds
+origin: shadow-v3
+definition: Dream and memory.
+cards:
+- name: Ubik
+  origin: original
+  books:
+  - title: Ubik
+- name: The Lathe of Heaven
+  origin: original
+  books:
+  - title: The Lathe of Heaven
+- name: Gabriel's Body
+  origin: original
+  books:
+  - title: Gabriel's Body
+- name: Hauser's Memory
+  origin: original
+  books:
+  - title: Hauser's Memory
+- name: Tricia Sullivan
+  origin: v3
+  books:
+  - title: Occupy Me
+    author: Tricia Sullivan
+  - title: Dreaming In Smoke
+    author: Tricia Sullivan
+  - title: Sweet Dreams
+    author: Tricia Sullivan

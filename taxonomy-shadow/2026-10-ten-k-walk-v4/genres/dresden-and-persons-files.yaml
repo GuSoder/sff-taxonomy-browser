@@ -1,0 +1,35 @@
+id: dresden-and-persons-files
+label: Dresden and case-file wizards
+parent: dresden-style-wizards
+origin: shadow-v3
+definition: Wizard sleuths.
+cards:
+- name: Dresden Twelve Months
+  origin: v3
+  books:
+  - title: Twelve Months
+    author: Jim Butcher
+- name: John Persons Files
+  origin: v3
+  books:
+  - title: A Song for Quiet
+    author: Cassandra Khaw
+  - title: The John Persons Files
+    author: Cassandra Khaw
+- name: Jericho James
+  origin: v3
+  books:
+  - title: Bigfoot Confidential
+    author: Jasmine Kuliasha
+  - title: The Midnight Pack
+    author: Jasmine Kuliasha
+- name: Heads Will Roll
+  origin: v3
+  books:
+  - title: Heads Will Roll
+    author: Lish McBride
+- name: Jeremiah Hunt
+  origin: v3
+  books:
+  - title: By the Blood of Heroes
+    author: Joseph Nassise

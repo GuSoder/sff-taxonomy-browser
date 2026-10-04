@@ -1,0 +1,56 @@
+id: revolutionary-space-opera
+label: Revolutionary space opera
+parent: political-space-opera
+origin: original
+definition: Space opera driven by overthrow of, or liberation from, an imperial order.
+cards:
+- name: Seven Devils
+  origin: v3
+  books:
+  - title: Seven Mercies
+    author: L. R. Lam
+- name: The Sun Chronicles
+  origin: original
+  books:
+  - title: Unconquerable Sun
+    author: Kate Elliott
+  - title: Furious Heaven
+    author: Kate Elliott
+- name: Empress of Forever
+  origin: original
+  books:
+  - title: Empress of Forever
+- name: Sweep of Stars
+  origin: v3
+  books:
+  - title: Breath of Oblivion
+    author: Maurice Broaddus
+  - title: A City Dreaming
+    author: Maurice Broaddus
+- name: Red Rising
+  origin: v3
+  books:
+  - title: Golden Son
+    author: Pierce Brown
+  - title: Morning Star
+    author: Pierce Brown
+  - title: Iron Gold
+    author: Pierce Brown
+  - title: Dark Age
+    author: Pierce Brown
+  - title: Light Bringer
+    author: Pierce Brown
+- name: Hellhole
+  origin: v3
+  books:
+  - title: Hellhole
+    author: Brian Herbert
+  - title: 'Hellhole: Awakening'
+    author: Brian Herbert
+  - title: Hellhole Inferno
+    author: Brian Herbert
+- name: Angelus Guns
+  origin: v3
+  books:
+  - title: The Angelus Guns
+    author: Max Gladstone

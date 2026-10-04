@@ -1,0 +1,70 @@
+id: holdings-and-brothers
+label: Holdings and brothers
+parent: royal-house-quests
+origin: shadow-v3
+definition: Quests tied to holdings, siblings and medieval houses.
+cards:
+- name: Stoneholding
+  origin: v3
+  books:
+  - title: The Darkling Fields of Arvon
+    author: James G. Anderson
+  - title: The Stoneholding
+    author: James G. Anderson
+- name: Sinister Dreams
+  origin: v3
+  books:
+  - title: A Season of Sinister Dreams
+    author: Tracy Banghart
+- name: Seven Brothers
+  origin: v3
+  books:
+  - title: The Prince of Shadow
+    author: Curt Benjamin
+  - title: Prince of Dreams
+    author: Curt Benjamin
+  - title: The Gates of Heaven
+    author: Curt Benjamin
+  - title: Lords of Grass and Thunder
+    author: Curt Benjamin
+- name: Reiffen's Choice
+  origin: v3
+  books:
+  - title: Reiffen's Choice
+    author: S. C. Butler
+- name: Sorayan
+  origin: v3
+  books:
+  - title: Daughter of the Wind
+    author: Nora Carmody
+  - title: Heiress of Storms
+    author: Nora Carmody
+- name: Roberta Gellis medieval
+  origin: v3
+  books:
+  - title: Bond of Blood
+    author: Roberta Gellis
+  - title: Knight's Honor
+    author: Roberta Gellis
+  - title: The Dragon and the Rose
+    author: Roberta Gellis
+  - title: The Sword and the Swan
+    author: Roberta Gellis
+- name: Chronicles of the Wolf Queen
+  origin: v3
+  books:
+  - title: The Dragon of Jin-Sayeng
+    author: K. S. Villoso
+  - title: The Ikessar Falcon
+    author: K. S. Villoso
+  - title: The Wolf of Oren-Yaro
+    author: K. S. Villoso
+- name: Sacred Hunt
+  origin: v3
+  books:
+  - title: Hunter's Oath
+    author: Michelle West
+  - title: Hunter's Death
+    author: Michelle West
+  - title: The Sacred Hunt Duology
+    author: Michelle West

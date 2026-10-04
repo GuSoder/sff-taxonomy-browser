@@ -1,0 +1,41 @@
+id: classic-apprentices
+label: Classic apprentices
+parent: apprentices-and-masters
+origin: shadow-v3
+definition: Apprentices and their masters in classic sagas.
+cards:
+- name: Earthsea
+  origin: v3
+  books:
+  - title: 'The Books of Earthsea: The Complete'
+    author: Ursula K. Le Guin
+- name: Black Magician (Canavan)
+  origin: v3
+  books:
+  - title: The High Lord
+    author: Trudi Canavan
+  - title: The Magicians Apprentice
+    author: Trudi Canavan
+  - title: The Magicians' Guild
+    author: Trudi Canavan
+  - title: The Novice
+    author: Trudi Canavan
+- name: Age of Dread (Aryan)
+  origin: v3
+  books:
+  - title: Magebane
+    author: Stephen Aryan
+  - title: Mageborn
+    author: Stephen Aryan
+  - title: Magefall
+    author: Stephen Aryan
+- name: Master Artificer
+  origin: v3
+  books:
+  - title: Master Artificer
+    author: Justin Call
+- name: Soulstealer
+  origin: v3
+  books:
+  - title: Soulstealer
+    author: Miles Cameron

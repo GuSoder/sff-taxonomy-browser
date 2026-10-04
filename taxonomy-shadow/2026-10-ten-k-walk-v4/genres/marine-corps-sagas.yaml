@@ -1,0 +1,104 @@
+id: marine-corps-sagas
+label: Marine corps sagas
+parent: space-marines
+origin: shadow-v3
+definition: Long-running marine and legion sagas.
+cards:
+- name: Starfist
+  origin: v3
+  books:
+  - title: 'Starfist: School of Fire'
+    author: Dan Cragg
+  - title: 'Starfist: Steel Gauntlet'
+    author: Dan Cragg
+  - title: 'Starfist: Blood Contact'
+    author: Dan Cragg
+  - title: 'Starfist: First to Fight'
+    author: Dan Cragg
+  - title: 'Starfist: Technokill'
+    author: Dan Cragg
+  - title: 'Starfist: Kingdom''s Swords'
+    author: Dan Cragg
+  - title: 'Starfist: Kingdom''s Fury'
+    author: Dan Cragg
+  - title: 'Starfist: Lazarus Rising'
+    author: Dan Cragg
+  - title: 'Starfist: A World of Hurt'
+    author: Dan Cragg
+  - title: 'Starfist: Force Recon: Backshot'
+    author: Dan Cragg
+  - title: 'Starfist: Flashfire'
+    author: Dan Cragg
+  - title: 'Starfist: Force Recon: Pointblank'
+    author: Dan Cragg
+  - title: 'Starfist: Firestorm'
+    author: Dan Cragg
+  - title: 'Starfist: Force Recon: Recoil'
+    author: Dan Cragg
+  - title: 'Starfist: Double Jeopardy'
+    author: Dan Cragg
+  - title: 'Starfist: Wings of Hell'
+    author: Dan Cragg
+  - title: 'Starfist: Hangfire'
+    author: Dan Cragg
+- name: Star Marines (Douglas)
+  origin: v3
+  books:
+  - title: Battlespace
+    author: Ian Douglas
+  - title: Europa Strike
+    author: Ian Douglas
+  - title: Galactic Corps
+    author: Ian Douglas
+  - title: Luna Marine
+    author: Ian Douglas
+  - title: Semper Human
+    author: Ian Douglas
+  - title: Semper Mars
+    author: Ian Douglas
+  - title: Star Corps
+    author: Ian Douglas
+  - title: Star Marines
+    author: Ian Douglas
+  - title: 'Star Strike: Book One of the Inheritance Trilogy'
+    author: Ian Douglas
+- name: Mecha Corps
+  origin: v3
+  books:
+  - title: Mecha Corps
+    author: Brett Patton
+  - title: Mecha Rogue
+    author: Brett Patton
+- name: Heart of Granite
+  origin: v3
+  books:
+  - title: Heart of Granite
+    author: James Barclay
+- name: Bauers
+  origin: v3
+  books:
+  - title: Unbreakable
+    author: W. C. Bauers
+  - title: Indomitable
+    author: W. C. Bauers
+- name: Combat Command
+  origin: v3
+  books:
+  - title: 'Combat Command: The Omega Rebellion'
+    author: Troy Denning
+  - title: 'Combat Command: Cut by Emerald'
+    author: Dana Kramer
+- name: Legion of the Damned Booly
+  origin: v3
+  books:
+  - title: By Blood Alone
+    author: William C. Dietz
+  - title: By Force of Arms
+    author: William C. Dietz
+- name: Dietz Deadeye
+  origin: v3
+  books:
+  - title: Deadeye
+    author: William C. Dietz
+  - title: Redzone
+    author: William C. Dietz

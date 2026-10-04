@@ -1,0 +1,95 @@
+id: dragon-sagas
+label: Dragon sagas
+parent: sword-and-dragon-sagas
+origin: shadow-v3
+definition: Sagas built around dragons.
+cards:
+- name: Lord of the Isles
+  origin: v3
+  books:
+  - title: Lord of the Isles
+    author: David Drake
+  - title: Mistress of the Catacombs
+    author: David Drake
+  - title: Goddess of the Ice Realm
+    author: David Drake
+  - title: Master of the Cauldron
+    author: David Drake
+  - title: Queen of Demons
+    author: David Drake
+  - title: Servant of the Dragon
+    author: David Drake
+  - title: The Gods Return
+    author: David Drake
+  - title: The Mirror of Worlds
+    author: David Drake
+  - title: The Lord of Isles Series
+    author: David Drake
+- name: Wake the Dragon
+  origin: v3
+  books:
+  - title: Spine of the Dragon
+    author: Kevin J. Anderson
+  - title: Vengewar
+    author: Kevin J. Anderson
+  - title: Gods and Dragons
+    author: Kevin J. Anderson
+- name: Galaphile
+  origin: v3
+  books:
+  - title: Galaphile
+    author: Terry Brooks
+  - title: Brona
+    author: Terry Brooks
+- name: Fall of Dragons
+  origin: v3
+  books:
+  - title: 'The Fall of Dragons: Booktrack Edition'
+    author: Miles Cameron
+- name: Vortex of Worlds
+  origin: v3
+  books:
+  - title: Into the Vortex
+    author: Charles E. Gannon
+  - title: This Broken World
+    author: Charles E. Gannon
+- name: Greenwood
+  origin: v3
+  books:
+  - title: We Three Dragons
+    author: Ed Greenwood
+  - title: The Iron Assassin
+    author: Ed Greenwood
+- name: Birth of Saints
+  origin: v3
+  books:
+  - title: Faithful
+    author: Michelle Hauck
+  - title: Grudging
+    author: Michelle Hauck
+  - title: Steadfast
+    author: Michelle Hauck
+- name: Dwarves Heitz
+  origin: v3
+  books:
+  - title: Raging Storm
+    author: Markus Heitz
+  - title: The Dwarves
+    author: Markus Heitz
+  - title: The Fate of the Dwarves
+    author: Markus Heitz
+  - title: The Revenge of the Dwarves
+    author: Markus Heitz
+  - title: The Triumph of the Dwarves
+    author: Markus Heitz
+  - title: The War of the Dwarves
+    author: Markus Heitz
+- name: Sorcery Ascendant
+  origin: v3
+  books:
+  - title: A Crucible of Souls
+    author: Mitchell Hogan
+  - title: A Shattered Empire
+    author: Mitchell Hogan
+  - title: Blood of Innocents
+    author: Mitchell Hogan

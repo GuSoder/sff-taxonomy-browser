@@ -1,0 +1,57 @@
+id: domestic-fantasy
+label: Domestic fantasy
+parent: contemporary-fantasy
+origin: original
+definition: Contemporary fantasy in which a household, family or multigenerational domestic life is the
+  primary site through which magic enters and reshapes the everyday world.
+cards:
+- name: Ivory Apples
+  origin: original
+  books:
+  - title: Ivory Apples
+- name: Little, Big
+  origin: original
+  books:
+  - title: Little, Big
+- name: Fallow Sisters
+  origin: original
+  books:
+  - title: Comet Weather
+    author: Liz Williams
+  - title: Blackthorn Winter
+    author: Liz Williams
+  - title: Embertide
+    author: Liz Williams
+  - title: Salt on the Midnight Fire
+    author: Liz Williams
+- name: Eastwick
+  origin: original
+  books:
+  - title: The Witches of Eastwick
+    author: John Updike
+  - title: The Widows of Eastwick
+    author: John Updike
+- name: Lessons in Magic and Disaster
+  origin: original
+  books:
+  - title: Lessons in Magic and Disaster
+- name: The Bog Wife
+  origin: original
+  books:
+  - title: The Bog Wife
+- name: Ink Blood Sister Scribe
+  origin: original
+  books:
+  - title: Ink Blood Sister Scribe
+- name: Fae in Finance
+  origin: v3
+  books:
+  - title: A Fae in Finance
+    author: Juliet Brooks
+  - title: A Mermaid in Marketing
+    author: Juliet Brooks
+- name: Someone Like Me
+  origin: v3
+  books:
+  - title: Someone Like Me
+    author: M. R. Carey

@@ -1,0 +1,71 @@
+id: crowns-and-bloodrights-b
+label: Bloodrights and blessings
+parent: crowns-in-contest
+origin: shadow-v3
+definition: Bloodrights.
+cards:
+- name: Alexandra Rowland
+  origin: v3
+  books:
+  - title: A Taste of Gold and Iron
+    author: Alexandra Rowland
+  - title: Running Close to the Wind
+    author: Alexandra Rowland
+- name: Bandit King Hedgewitch
+  origin: v3
+  books:
+  - title: The Bandit King
+    author: Lilith Saintcrow
+  - title: The Hedgewitch Queen
+    author: Lilith Saintcrow
+- name: Heavens Spite
+  origin: v3
+  books:
+  - title: Heavens Spite
+    author: Lilith Saintcrow
+- name: Elemental Blessings
+  origin: v3
+  books:
+  - title: Troubled Waters
+    author: Sharon Shinn
+  - title: Royal Airs
+    author: Sharon Shinn
+  - title: Unquiet Land
+    author: Sharon Shinn
+  - title: Jeweled Fire
+    author: Sharon Shinn
+- name: Bloodright Trilogy
+  origin: v3
+  books:
+  - title: Bonds of Brass
+    author: Emily Skrutskie
+  - title: Oaths of Legacy
+    author: Emily Skrutskie
+  - title: Vows of Empire
+    author: Emily Skrutskie
+- name: Legionnaire's Guide to Love
+  origin: v3
+  books:
+  - title: A Legionnaire's Guide to Love and Peace
+    author: Emily Skrutskie
+- name: Kylie Snow
+  origin: v3
+  books:
+  - title: The Lies of Lena
+    author: Kylie Snow
+  - title: The Sins of Silas
+    author: Kylie Snow
+- name: Witch Queen Rising
+  origin: v3
+  books:
+  - title: Witch Queen Rising
+    author: Savannah Stephens
+- name: Hollow Covenant
+  origin: v3
+  books:
+  - title: The Gods Below
+    author: Andrea Stewart
+  - title: The Legend Eternal
+    author: Andrea Stewart
+  - title: The War Beyond
+    author: Andrea Stewart

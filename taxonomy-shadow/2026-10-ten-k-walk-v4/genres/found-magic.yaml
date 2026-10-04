@@ -1,0 +1,74 @@
+id: found-magic
+label: Found magic
+parent: magical-coming-of-age
+origin: original
+definition: Magical coming-of-age in which the magic is stumbled into rather than taught or inherited
+  - an artifact, an erupting talent, a coven joined - and is developed informally with friends.
+cards:
+- name: All Our Hidden Gifts
+  origin: original
+  books:
+  - title: All Our Hidden Gifts
+    author: Caroline O'Donoghue
+  - title: The Gifts That Bind Us
+    author: Caroline O'Donoghue
+  - title: Every Gift a Curse
+    author: Caroline O'Donoghue
+- name: The Scapegracers
+  origin: original
+  books:
+  - title: The Scapegracers
+    author: H. A. Clarke
+  - title: The Scratch Daughters
+    author: H. A. Clarke
+  - title: The Feast Makers
+    author: H. A. Clarke
+- name: Bitter
+  origin: original
+  books:
+  - title: Bitter
+- name: Spell Bound
+  origin: v3
+  books:
+  - title: Spell Bound
+    author: Rachel Hawkins
+- name: Night Swimming
+  origin: original
+  books:
+  - title: Night Swimming
+- name: All the Birds in the Sky
+  origin: v3
+  books:
+  - title: All the Birds in the Sky
+    author: Charlie Jane Anders
+- name: Crossroads Theatre
+  origin: v3
+  books:
+  - title: Spellcast
+    author: Barbara Ashford
+  - title: Spellcrossed
+    author: Barbara Ashford
+- name: Stonewylde
+  origin: v3
+  books:
+  - title: Magus of Stonewylde
+    author: Kit Berry
+  - title: Moondance of Stonewylde
+    author: Kit Berry
+  - title: Shadows at Stonewylde
+    author: Kit Berry
+  - title: Shaman of Stonewylde
+    author: Kit Berry
+  - title: Solstice at Stonewylde
+    author: Kit Berry
+- name: MZB Light series
+  origin: v3
+  books:
+  - title: Gravelight
+    author: Marion Zimmer Bradley
+  - title: Heartlight
+    author: Marion Zimmer Bradley
+  - title: Ghostlight
+    author: Marion Zimmer Bradley
+  - title: Witchlight
+    author: Marion Zimmer Bradley

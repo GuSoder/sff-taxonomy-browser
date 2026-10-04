@@ -1,0 +1,16 @@
+id: rococo-fantasy
+label: Rococo fantasy
+parent: antique-times-fantasy
+origin: original
+definition: 'Fantasy of the Rococo world: eighteenth-century courtly and musical Europe, with its ornate
+  salons, manners, artifice and fairy-tale elegance.'
+cards:
+- name: The Kingdom of Back
+  origin: original
+  books:
+  - title: The Kingdom of Back
+- name: Aicha
+  origin: v3
+  books:
+  - title: Aicha
+    author: Soraya Bouazzaoui

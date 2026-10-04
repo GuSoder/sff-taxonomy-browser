@@ -1,0 +1,64 @@
+id: american-forks
+label: American Forks
+parent: deep-alterations
+origin: shadow-v3
+definition: Alternate histories whose fork changes the American story for good.
+cards:
+- name: '1920: America''s Great War'
+  origin: v3
+  books:
+  - title: '1920: America''s Great War'
+    author: Robert Conroy
+- name: 'Liberty: 1784'
+  origin: v3
+  books:
+  - title: 'Liberty: 1784'
+    author: Robert Conroy
+- name: '1882: Custer in Chains'
+  origin: v3
+  books:
+  - title: '1882: Custer in Chains'
+    author: Robert Conroy
+- name: Cahokia Jazz
+  origin: original
+  books:
+  - title: Cahokia Jazz
+- name: Uncharted
+  origin: v3
+  books:
+  - title: Uncharted
+    author: Kevin J. Anderson
+- name: Tieryas Mecha Empire
+  origin: v3
+  books:
+  - title: Mecha Samurai Empire
+    author: Peter Tieryas
+  - title: Cyber Shogun Revolution
+    author: Peter Tieryas
+- name: Darkness Series
+  origin: v3
+  books:
+  - title: Into the Darkness
+    author: Harry Turtledove
+  - title: Sentry Peak
+    author: Harry Turtledove
+  - title: Rulers of the Darkness
+    author: Harry Turtledove
+  - title: Through the Darkness
+    author: Harry Turtledove
+  - title: Darkness Descending
+    author: Harry Turtledove
+  - title: Out of the Darkness
+    author: Harry Turtledove
+  - title: The Breath of God
+    author: Harry Turtledove
+- name: Walk in Hell
+  origin: v3
+  books:
+  - title: Walk in Hell (The Great War, Book Two)
+    author: Harry Turtledove
+- name: Sunset Empire
+  origin: v3
+  books:
+  - title: Sunset Empire
+    author: Josh Weiss

@@ -1,0 +1,63 @@
+id: orbital-mechanics
+label: Orbital mechanics
+parent: hard-sf
+origin: original
+definition: Hard SF of orbital engineering and spaceflight mechanics - stations, ships, and orbits worked
+  out with real physics. Coined by the curator 2026-09-14; not an SFE/EoF headword.
+cards:
+- name: '2001: A Space Odyssey'
+  origin: original
+  books:
+  - title: '2001: A Space Odyssey'
+    author: Arthur C. Clarke
+  - title: '2010: Odyssey Two'
+    author: Arthur C. Clarke
+  - title: '2061: Odyssey Three'
+    author: Arthur C. Clarke
+  - title: '3001: The Final Odyssey'
+    author: Arthur C. Clarke
+- name: Ringworld
+  origin: v3
+  books:
+  - title: Ringworld's Children and Fleet of Worlds
+    author: Larry Niven
+- name: The Moon Is a Harsh Mistress
+  origin: original
+  books:
+  - title: The Moon Is a Harsh Mistress
+- name: From the Earth to the Moon / Around the Moon
+  origin: original
+  books:
+  - title: From the Earth to the Moon
+    author: Jules Verne
+  - title: Around the Moon
+    author: Jules Verne
+- name: Orbitsville
+  origin: original
+  books:
+  - title: Orbitsville
+- name: Asteroid Wars (Bova)
+  origin: v3
+  books:
+  - title: The Precipice
+    author: Ben Bova
+  - title: The Rock Rats
+    author: Ben Bova
+  - title: The Silent War
+    author: Ben Bova
+  - title: The Aftermath
+    author: Ben Bova
+- name: The Fountains of Paradise
+  origin: v3
+  books:
+  - title: The Fountains Of Paradise
+    author: Arthur C. Clarke
+- name: Firestar
+  origin: v3
+  books:
+  - title: Firestar
+    author: Michael Flynn
+  - title: Falling Stars
+    author: Michael Flynn
+  - title: The Wreck of the River of Stars
+    author: Michael Flynn

@@ -1,0 +1,46 @@
+id: altered-selves
+label: Altered selves
+parent: remade-minds
+origin: shadow-v3
+definition: Minds changed by drugs, therapy, borrowed bodies or rebuilt personalities.
+cards:
+- name: Frankissstein
+  origin: original
+  books:
+  - title: Frankissstein
+- name: Borrowed Man
+  origin: original
+  books:
+  - title: A Borrowed Man
+    author: Gene Wolfe
+  - title: Interlibrary Loan
+    author: Gene Wolfe
+- name: A Scanner Darkly
+  origin: original
+  books:
+  - title: A Scanner Darkly
+- name: The Speed of Dark
+  origin: original
+  books:
+  - title: The Speed of Dark
+- name: The This
+  origin: original
+  books:
+  - title: The This
+- name: Fools
+  origin: v3
+  books:
+  - title: Fools
+    author: Pat Cadigan
+- name: PKD Maze of Death
+  origin: v3
+  books:
+  - title: A Maze of Death
+    author: Philip K Dick
+  - title: Deus Irae
+    author: Philip K Dick
+- name: Afterparty
+  origin: v3
+  books:
+  - title: Afterparty
+    author: Daryl Gregory

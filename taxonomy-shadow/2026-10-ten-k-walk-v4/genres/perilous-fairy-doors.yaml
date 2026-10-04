@@ -1,0 +1,58 @@
+id: perilous-fairy-doors
+label: Perilous fairy doors
+parent: eldritch-doors
+origin: original
+definition: 'Perilous fairy doors that open into Faerie itself: the elf-realm beyond the fields we know,
+  whose glamour, bargains and timeless beauty seduce and endanger those who cross.'
+cards:
+- name: Stardust
+  origin: original
+  books:
+  - title: Stardust
+- name: The King of Elfland’s Daughter
+  origin: original
+  books:
+  - title: The King of Elfland’s Daughter
+- name: The Land of Unreason
+  origin: original
+  books:
+  - title: The Land of Unreason
+- name: The Memory Theater
+  origin: original
+  books:
+  - title: The Memory Theater
+- name: Weaveworld
+  origin: original
+  books:
+  - title: Weaveworld
+    author: Clive Barker
+- name: The King of Elfland's Daughter
+  origin: v3
+  books:
+  - title: The King of Elfland's Daughter
+    author: Lord Dunsany
+- name: Dreams and Shadows
+  origin: v3
+  books:
+  - title: Dreams and Shadows
+    author: C Robert Cargill
+  - title: Queen of the Dark Things
+    author: C Robert Cargill
+- name: Nightjar
+  origin: v3
+  books:
+  - title: The Nightjar
+    author: Deborah Hewitt
+  - title: The Rookery
+    author: Deborah Hewitt
+- name: Tigers Curse
+  origin: v3
+  books:
+  - title: Tigers Curse
+    author: Colleen Houck
+  - title: Tigers Destiny
+    author: Colleen Houck
+  - title: Tigers Quest
+    author: Colleen Houck
+  - title: Tigers Voyage
+    author: Colleen Houck

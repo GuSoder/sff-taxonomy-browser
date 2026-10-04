@@ -1,0 +1,57 @@
+id: evergreen-sword-and-sorcery
+label: Evergreen S&S
+parent: classic-sword-and-sorcery
+origin: original
+definition: Sword and Sorcery foundations that escaped their original moment and remain perpetually current.
+cards:
+- name: Conan
+  origin: v3
+  books:
+  - title: The Coming of Conan the Cimmerian
+    author: Robert E. Howard
+  - title: The Bloody Crown of Conan
+    author: Robert E. Howard
+  - title: The Conquering Sword of Conan
+    author: Robert E. Howard
+  - title: Conan the Barbarian
+    author: Robert E. Howard
+- name: Elric of Melniboné
+  origin: v3
+  books:
+  - title: Elric of Melnibone and Other Stories
+    author: Michael Moorcock
+  - title: 'Elric: Stormbringer!'
+    author: Michael Moorcock
+  - title: 'Elric: The Fortress of the Pearl'
+    author: Michael Moorcock
+  - title: 'Elric: The Moonbeam Roads'
+    author: Michael Moorcock
+  - title: 'Elric: The Revenge of the Rose'
+    author: Michael Moorcock
+  - title: 'Elric: The Sailor on the Seas of Fate'
+    author: Michael Moorcock
+  - title: 'Elric: The Sleeping Sorceress'
+    author: Michael Moorcock
+- name: Kull
+  origin: v3
+  books:
+  - title: Kull
+    author: Robert E. Howard
+- name: Corum
+  origin: v3
+  books:
+  - title: 'Corum: The Prince in the Scarlet Robe'
+    author: Michael Moorcock
+  - title: 'Corum: The Prince With the Silver Hand'
+    author: Michael Moorcock
+- name: Hawkmoon
+  origin: v3
+  books:
+  - title: 'Hawkmoon: The Mad God''s Amulet'
+    author: Michael Moorcock
+  - title: 'Hawkmoon: The Runestaff'
+    author: Michael Moorcock
+  - title: 'Hawkmoon: The Sword of the Dawn'
+    author: Michael Moorcock
+  - title: Sword and Runestaff
+    author: Michael Moorcock

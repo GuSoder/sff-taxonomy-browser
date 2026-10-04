@@ -1,0 +1,50 @@
+id: postwar-turns
+label: Postwar Turns
+parent: alt-postwar
+origin: shadow-v3
+definition: Alternate histories where the postwar world turns out differently.
+cards:
+- name: The Yiddish Policemen's Union
+  origin: original
+  books:
+  - title: The Yiddish Policemen's Union
+- name: Ascent
+  origin: original
+  books:
+  - title: Ascent
+- name: Biography of X
+  origin: original
+  books:
+  - title: Biography of X
+- name: The Book of Guilt
+  origin: original
+  books:
+  - title: The Book of Guilt
+- name: The Underhistory
+  origin: original
+  books:
+  - title: The Underhistory
+- name: Vanishing World
+  origin: original
+  books:
+  - title: Vanishing World
+- name: Angels of Vengeance
+  origin: v3
+  books:
+  - title: Angels of Vengeance
+    author: John Birmingham
+- name: Aftermath
+  origin: v3
+  books:
+  - title: Aftermath
+    author: LeVar Burton
+- name: Thirteenth Man
+  origin: v3
+  books:
+  - title: The Thirteenth Man
+    author: Jl Doty
+- name: In the Country of the Blind
+  origin: v3
+  books:
+  - title: In the Country of the Blind
+    author: Michael Flynn

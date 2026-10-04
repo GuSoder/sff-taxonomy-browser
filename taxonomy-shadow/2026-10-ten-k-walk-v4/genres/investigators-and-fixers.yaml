@@ -1,0 +1,90 @@
+id: investigators-and-fixers
+label: Investigators and fixers
+parent: badge-and-bounty
+origin: shadow-v3
+definition: Urban-fantasy detectives, cops and magical fixers.
+cards:
+- name: Deadtown
+  origin: v3
+  books:
+  - title: Deadtown
+    author: Nancy Holzner
+  - title: Hellforged
+    author: Nancy Holzner
+  - title: Bloodstone
+    author: Nancy Holzner
+  - title: Darklands
+    author: Nancy Holzner
+  - title: Hellhound
+    author: Nancy Holzner
+- name: Spellcrackers
+  origin: v3
+  books:
+  - title: The Bitter Seed of Magic
+    author: Suzanne McLeod
+  - title: The Cold Kiss of Death
+    author: Suzanne McLeod
+  - title: The Shifting Price of Prey
+    author: Suzanne McLeod
+  - title: The Sweet Scent of Blood
+    author: Suzanne McLeod
+- name: Shadow Ops (Cole)
+  origin: v3
+  books:
+  - title: 'Shadow Ops: Control Point'
+    author: Myke Cole
+  - title: 'Shadow Ops: Fortress Frontier'
+    author: Myke Cole
+  - title: 'Shadow Ops: Breach Zone'
+    author: Myke Cole
+  - title: Gemini Cell
+    author: Myke Cole
+  - title: Javelin Rain
+    author: Myke Cole
+  - title: Siege Line
+    author: Myke Cole
+- name: Felix Castor
+  origin: v3
+  books:
+  - title: Dead Mens Boots
+    author: Mike Carey
+  - title: The Devil You Know
+    author: Mike Carey
+  - title: The Naming of the Beasts
+    author: Mike Carey
+  - title: Thicker Than Water
+    author: Mike Carey
+  - title: Vicious Circle
+    author: Mike Carey
+- name: Evan Davis
+  origin: v3
+  books:
+  - title: A Legacy of Daemons
+    author: Camille Bacon-Smith
+- name: Sylvie Lightner
+  origin: v3
+  books:
+  - title: Sins & Shadows
+    author: Lyn Benedict
+  - title: Gods & Monsters
+    author: Lyn Benedict
+  - title: Lies & Omens
+    author: Lyn Benedict
+- name: Bishop Arcana
+  origin: v3
+  books:
+  - title: Turns of Fate
+    author: Anne Bishop
+  - title: Storms of Fate
+    author: Anne Bishop
+- name: Dead Man's Hand
+  origin: v3
+  books:
+  - title: Dead Man's Hand
+    author: James J. Butcher
+  - title: Long Past Dues
+    author: James J. Butcher
+  - title: Cold Iron Task
+    author: James J. Butcher
+  - title: Grim Folk Tale
+    author: James J. Butcher

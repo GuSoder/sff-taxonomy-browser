@@ -1,0 +1,55 @@
+id: bodies-and-singularities
+label: Bodies and singularities
+parent: singular-futures
+origin: shadow-v3
+definition: Singularity fiction.
+cards:
+- name: Electric Forest
+  origin: v3
+  books:
+  - title: Electric Forest
+    author: Tanith Lee
+- name: Marusek
+  origin: v3
+  books:
+  - title: Counting Heads
+    author: David Marusek
+  - title: Mind Over Ship
+    author: David Marusek
+- name: Ian McDonald
+  origin: v3
+  books:
+  - title: Brasyl
+    author: Ian McDonald
+  - title: Cyberabad Days
+    author: Ian McDonald
+  - title: Desolation Road
+    author: Ian McDonald
+  - title: Necroville
+    author: Ian McDonald
+- name: Singularity's Ring
+  origin: v3
+  books:
+  - title: Singularity's Ring
+    author: Paul Melko
+  - title: The Walls of the Universe
+    author: Paul Melko
+  - title: The Broken Universe
+    author: Paul Melko
+- name: The Body Scout
+  origin: v3
+  books:
+  - title: The Body Scout
+    author: Lincoln Michel
+- name: Archform Beauty
+  origin: v3
+  books:
+  - title: 'Archform: Beauty'
+    author: L. E. Modesitt
+- name: Human Disguise
+  origin: v3
+  books:
+  - title: The Human Disguise
+    author: James O'Neal
+  - title: The Double Human
+    author: James O'Neal

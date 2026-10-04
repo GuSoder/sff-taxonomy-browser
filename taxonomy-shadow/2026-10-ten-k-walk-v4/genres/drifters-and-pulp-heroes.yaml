@@ -1,0 +1,51 @@
+id: drifters-and-pulp-heroes
+label: Drifters and pulp heroes
+parent: city-thieves
+origin: shadow-v3
+definition: Drifters and pulp heroes.
+cards:
+- name: Nick Hulick (Drifter)
+  origin: v3
+  books:
+  - title: Among Thieves
+    author: Douglas Hulick
+  - title: Sworn in Steel
+    author: Douglas Hulick
+- name: Kithamar
+  origin: v3
+  books:
+  - title: Judge of Worlds
+    author: Daniel Abraham
+- name: Kavithri
+  origin: v3
+  books:
+  - title: City of Jackals
+    author: Aman J. Bedi
+  - title: Kavithri
+    author: Aman J. Bedi
+- name: Riddlers of the Thorn Wood
+  origin: v3
+  books:
+  - title: Riddlers of the Thorn Wood
+    author: Maxine S. Charles
+- name: The Spider
+  origin: v3
+  books:
+  - title: 'The Spider: Robot Titans of Gotham'
+    author: Norvell W. Page
+  - title: 'The Spider: City of Doom'
+    author: Norvell W. Page
+- name: Last Witness
+  origin: v3
+  books:
+  - title: The Last Witness
+    author: K. J. Parker
+- name: Draconis Memoria
+  origin: v3
+  books:
+  - title: The Waking Fire
+    author: Anthony Ryan
+  - title: The Legion of Flame
+    author: Anthony Ryan
+  - title: The Empire of Ashes
+    author: Anthony Ryan

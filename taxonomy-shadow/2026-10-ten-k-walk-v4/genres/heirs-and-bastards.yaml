@@ -1,0 +1,81 @@
+id: heirs-and-bastards
+label: Heirs and bastards
+parent: royal-house-quests
+origin: shadow-v3
+definition: Quests of royal heirs and bastards.
+cards:
+- name: Memory, Sorrow, and Thorn
+  origin: v3
+  books:
+  - title: 'To Green Angel Tower: Part I'
+    author: Tad Williams
+  - title: 'To Green Angel Tower: Part II'
+    author: Tad Williams
+- name: Shadowmarch
+  origin: v3
+  books:
+  - title: Shadowmarch
+    author: Tad Williams
+  - title: Shadowplay
+    author: Tad Williams
+  - title: Shadowrise
+    author: Tad Williams
+  - title: Shadowheart
+    author: Tad Williams
+- name: Eileanan
+  origin: v3
+  books:
+  - title: The Witches of Eileanan
+    author: Kate Forsyth
+  - title: The Pool of Two Moons
+    author: Kate Forsyth
+  - title: The Cursed Towers
+    author: Kate Forsyth
+  - title: The Forbidden Land
+    author: Kate Forsyth
+  - title: The Fathomless Caves
+    author: Kate Forsyth
+  - title: The Skull of the World
+    author: Kate Forsyth
+  - title: The Tower of Ravens
+    author: Kate Forsyth
+  - title: The Shining City
+    author: Kate Forsyth
+  - title: The Heart of Stars
+    author: Kate Forsyth
+- name: Royal Bastards
+  origin: v3
+  books:
+  - title: City of Bastards
+    author: Andrew Shvarts
+  - title: It Ends in Fire
+    author: Andrew Shvarts
+  - title: Royal Bastards
+    author: Andrew Shvarts
+  - title: Royal Bastards Series Collection
+    author: Andrew Shvarts
+  - title: War of the Bastards
+    author: Andrew Shvarts
+- name: Realm Breaker (Aveyard)
+  origin: v3
+  books:
+  - title: Blade Breaker
+    author: Victoria Aveyard
+  - title: Fate Breaker
+    author: Victoria Aveyard
+  - title: Realm Breaker
+    author: Victoria Aveyard
+- name: Ember Blade
+  origin: v3
+  books:
+  - title: The Ember Blade
+    author: Chris Wooding
+  - title: The Shadow Casket
+    author: Chris Wooding
+- name: Valisar
+  origin: v3
+  books:
+  - title: King's Wrath
+    author: ''
+  - title: Tyrant's Blood
+    author: ''

@@ -1,0 +1,74 @@
+id: brother-and-hench-books
+label: Little Brother and Hench books
+parent: little-brother-and-hench
+origin: shadow-v3
+definition: Doctorow-style systems thrillers.
+cards:
+- name: Little Brother side stories
+  origin: v3
+  books:
+  - title: Lawful Interception
+    author: Cory Doctorow
+  - title: Spill
+    author: Cory Doctorow
+  - title: Vigilant
+    author: Cory Doctorow
+- name: Martin Hench
+  origin: v3
+  books:
+  - title: Red Team Blues
+    author: Cory Doctorow
+  - title: The Bezzle
+    author: Cory Doctorow
+  - title: Picks and Shovels
+    author: Cory Doctorow
+- name: The Lost Cause
+  origin: v3
+  books:
+  - title: The Lost Cause
+    author: Cory Doctorow
+- name: Doucette
+  origin: v3
+  books:
+  - title: The Apocalypse Seven
+    author: Gene Doucette
+  - title: The Spaceship Next Door
+    author: Gene Doucette
+- name: Runtime
+  origin: v3
+  books:
+  - title: Runtime
+    author: S.B. Divya
+- name: Frank Herbert early
+  origin: v3
+  books:
+  - title: The Eyes of Heisenberg
+    author: Frank Herbert
+  - title: The Green Brain
+    author: Frank Herbert
+  - title: The Santaroga Barrier
+    author: Frank Herbert
+  - title: Hellstrom's Hive
+    author: Frank Herbert
+- name: Lark Ascending
+  origin: v3
+  books:
+  - title: Lark Ascending
+    author: Silas House
+- name: Black Friday
+  origin: v3
+  books:
+  - title: Black Friday
+    author: Alex Irvine
+- name: Those Beyond the Wall
+  origin: v3
+  books:
+  - title: Those Beyond the Wall
+    author: Micaiah Johnson
+- name: Killjoy
+  origin: v3
+  books:
+  - title: Everything That Isn't Winter
+    author: Margaret Killjoy
+  - title: The Barrow Will Send What it May
+    author: Margaret Killjoy

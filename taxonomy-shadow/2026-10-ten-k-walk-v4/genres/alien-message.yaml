@@ -1,0 +1,45 @@
+id: alien-message
+label: Alien message
+parent: first-contact-fiction
+origin: original
+definition: First-contact fiction in which the first consequential encounter is mediated at a distance
+  through a signal, voice, mind, or artifact rather than a physical visit.
+cards:
+- name: Contact
+  origin: original
+  books:
+  - title: Contact
+- name: Chocky
+  origin: original
+  books:
+  - title: Chocky
+- name: Juniper Time
+  origin: original
+  books:
+  - title: Juniper Time
+- name: Remembrance of Earth's Past
+  origin: original
+  books:
+  - title: The Three-Body Problem
+    author: Liu Cixin
+  - title: The Dark Forest
+    author: Liu Cixin
+  - title: Death's End
+    author: Liu Cixin
+- name: Roadside Picnic
+  origin: original
+  books:
+  - title: Roadside Picnic
+- name: In Ascension
+  origin: original
+  books:
+  - title: In Ascension
+- name: Conquest
+  origin: original
+  books:
+  - title: Conquest
+- name: The Redemption of Time
+  origin: v3
+  books:
+  - title: The Redemption of Time
+    author: Baoshu

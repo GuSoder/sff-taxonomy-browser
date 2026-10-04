@@ -1,0 +1,55 @@
+id: homebrew-time-machines
+label: Homebrew time machines
+parent: time-machines
+origin: original
+definition: 'Time Machines owned by an individual: a lone inventor''s, family''s or private person''s
+  built device carries the traveler through time, with no organization behind it. Owner test: take away
+  the organization; if the time travel has no owner left, it is Time travel agency.'
+cards:
+- name: The Time Machine
+  origin: v3
+  books:
+  - title: The Time Machine and The War of the Worlds
+    author: H. G. Wells
+- name: The Time Ships
+  origin: original
+  books:
+  - title: The Time Ships
+- name: The Door into Summer
+  origin: original
+  books:
+  - title: The Door into Summer
+- name: Dirk Gently
+  origin: original
+  books:
+  - title: Dirk Gently's Holistic Detective Agency
+    author: Douglas Adams
+  - title: The Long Dark Tea-Time of the Soul
+    author: Douglas Adams
+- name: Time Enough for Love
+  origin: original
+  books:
+  - title: Time Enough for Love
+- name: The Silver Wind
+  origin: original
+  books:
+  - title: The Silver Wind
+- name: The Dancers at the End of Time
+  origin: original
+  books:
+  - title: An Alien Heat
+    author: Michael Moorcock
+  - title: The Hollow Lands
+    author: Michael Moorcock
+  - title: The End of All Songs
+    author: Michael Moorcock
+- name: The Accidental Time Machine
+  origin: v3
+  books:
+  - title: The Accidental Time Machine
+    author: Joe Haldeman
+- name: Behold the Man
+  origin: v3
+  books:
+  - title: Behold The Man
+    author: Michael Moorcock

@@ -1,0 +1,27 @@
+id: mad-science-gothic
+label: Mad-science Gothic
+parent: gothic-science-fiction
+origin: original
+definition: Gothic science fiction in which forbidden experiment, Promethean creation, bodily transformation
+  or manufactured doubles unleash terror.
+cards:
+- name: Frankenstein; or, The Modern Prometheus
+  origin: original
+  books:
+  - title: Frankenstein; or, The Modern Prometheus
+- name: Strange Case of Dr Jekyll and Mr Hyde
+  origin: original
+  books:
+  - title: Strange Case of Dr Jekyll and Mr Hyde
+- name: The Invisible Man
+  origin: original
+  books:
+  - title: The Invisible Man
+- name: Donovan's Brain
+  origin: original
+  books:
+  - title: Donovan's Brain
+- name: The Daughter of Doctor Moreau
+  origin: original
+  books:
+  - title: The Daughter of Doctor Moreau

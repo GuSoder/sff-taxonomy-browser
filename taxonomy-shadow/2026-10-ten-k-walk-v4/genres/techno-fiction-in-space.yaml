@@ -1,0 +1,54 @@
+id: techno-fiction-in-space
+label: Space techno fiction
+parent: spacefaring-fiction
+origin: original
+definition: Spacefaring fiction whose core is interstellar identity transfer, computation, networks and
+  posthuman technology.
+cards:
+- name: Accelerando
+  origin: original
+  books:
+  - title: Accelerando
+- name: Takeshi Kovacs
+  origin: v3
+  books:
+  - title: Altered Carbon
+    author: Takeshi Kovacs
+  - title: Broken Angels
+    author: Takeshi Kovacs
+  - title: Woken Furies
+    author: Takeshi Kovacs
+  - title: Thirteen
+    author: Richard K. Morgan
+  - title: Thin Air
+    author: Richard K. Morgan
+  - title: No Man's Land
+    author: Richard K. Morgan
+- name: Prefect Dreyfus Emergencies
+  origin: v3
+  books:
+  - title: Aurora Rising
+    author: Alastair Reynolds
+- name: Metal Trilogy
+  origin: original
+  books:
+  - title: Steel Beach
+    author: John Varley
+  - title: The Golden Globe
+    author: John Varley
+  - title: Irontown Blues
+    author: John Varley
+- name: The Spare Man
+  origin: original
+  books:
+  - title: The Spare Man
+- name: Patron Saint of Plagues
+  origin: v3
+  books:
+  - title: The Patron Saint of Plagues
+    author: Barth Anderson
+- name: Glorious
+  origin: v3
+  books:
+  - title: Glorious
+    author: Gregory Benford

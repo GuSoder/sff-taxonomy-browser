@@ -1,0 +1,60 @@
+id: met-and-yard
+label: Met and yard
+parent: occult-police-fiction
+origin: shadow-v3
+definition: Police procedural with magic where the officers belong to an official unit and a named force.
+cards:
+- name: Rivers of London
+  origin: v3
+  books:
+  - title: False Value
+    author: Ben Aaronovitch
+  - title: Amongst Our Weapons
+    author: Ben Aaronovitch
+  - title: Stone and Sky
+    author: Ben Aaronovitch
+  - title: The Furthest Station
+    author: Ben Aaronovitch
+  - title: The Masquerades of Spring
+    author: Ben Aaronovitch
+  - title: The October Man
+    author: Ben Aaronovitch
+  - title: What Abigail Did That Summer
+    author: Ben Aaronovitch
+- name: Occult Special Crimes Unit
+  origin: v3
+  books:
+  - title: Night Child
+    author: Jes Battis
+  - title: A Flash of Hex
+    author: Jes Battis
+  - title: Inhuman Resources
+    author: Jes Battis
+  - title: Infernal Affairs
+    author: Jes Battis
+  - title: Bleeding Out
+    author: Jes Battis
+- name: Shadow Police
+  origin: v3
+  books:
+  - title: London Falling
+    author: Paul Cornell
+  - title: The Severed Streets
+    author: Paul Cornell
+- name: Titanshade
+  origin: v3
+  books:
+  - title: Titanshade
+    author: Dan Stout
+  - title: Titan Song
+    author: Dan Stout
+  - title: Titan's Day
+    author: Dan Stout
+- name: The Midnight Shift
+  origin: original
+  books:
+  - title: The Midnight Shift
+- name: Grave Reservations
+  origin: original
+  books:
+  - title: Grave Reservations

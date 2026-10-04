@@ -1,0 +1,54 @@
+id: encounters-with-big-visitors
+label: Encounters with big visitors
+parent: far-future-first-contact
+origin: shadow-v3
+definition: First contact with ships, structures and empires too large for a single mind to grasp.
+cards:
+- name: Rama
+  origin: original
+  books:
+  - title: Rendezvous with Rama
+    author: Arthur C. Clarke
+  - title: Rama II
+    author: Arthur C. Clarke
+  - title: The Garden of Rama
+    author: Arthur C. Clarke
+  - title: Rama Revealed
+    author: Arthur C. Clarke
+- name: The Mote in God's Eye
+  origin: original
+  books:
+  - title: The Mote in God's Eye
+    author: Larry Niven, Jerry Pournelle
+  - title: The Gripping Hand
+    author: Larry Niven, Jerry Pournelle
+- name: Fleet of Worlds
+  origin: v3
+  books:
+  - title: Fleet of Worlds
+    author: Larry Niven
+  - title: Juggler of Worlds
+    author: Larry Niven
+  - title: Betrayer of Worlds
+    author: Larry Niven
+  - title: Fate of Worlds
+    author: Larry Niven
+  - title: The Complete Fleet of Worlds
+    author: Larry Niven
+- name: Doomed Earth
+  origin: v3
+  books:
+  - title: In Our Stars
+    author: Jack Campbell
+  - title: Destiny's Way
+    author: Jack Campbell
+- name: Fist of Memory
+  origin: v3
+  books:
+  - title: The Fist of Memory
+    author: Wole Talabi
+- name: Killing of Worlds
+  origin: v3
+  books:
+  - title: The Killing of Worlds
+    author: Scott Westerfeld

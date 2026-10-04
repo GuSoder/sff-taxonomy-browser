@@ -1,0 +1,42 @@
+id: rust-edges-and-doctors
+label: Rust, edges and doctors
+parent: city-witches-and-seers
+origin: shadow-v3
+definition: City witches cont.
+cards:
+- name: Blood and Rust
+  origin: v3
+  books:
+  - title: Blood and Rust
+    author: S.A. Swiniarski
+- name: Glittering Edge
+  origin: v3
+  books:
+  - title: The Glittering Edge
+    author: Alyssa Villaire
+  - title: The Neon Sky
+    author: Alyssa Villaire
+- name: Everybody's Perfect
+  origin: v3
+  books:
+  - title: Everybody's Perfect
+    author: Jo Walton
+- name: Incrementalists
+  origin: v3
+  books:
+  - title: Fireworks in the Rain
+    author: Steven Brust
+  - title: Good Guys
+    author: Steven Brust
+  - title: Strongest Conjuration
+    author: Skyler White
+- name: The Professor Wise
+  origin: v3
+  books:
+  - title: The Professor
+    author: A.M. Wise
+- name: Two Doctors Gorski
+  origin: v3
+  books:
+  - title: The Two Doctors Gorski
+    author: Isaac Fellman

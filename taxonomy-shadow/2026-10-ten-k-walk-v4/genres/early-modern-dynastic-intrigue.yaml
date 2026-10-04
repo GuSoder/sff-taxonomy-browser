@@ -1,0 +1,43 @@
+id: early-modern-dynastic-intrigue
+label: Early modern dynastic intrigue
+parent: dynastic-intrigues
+origin: original
+definition: Dynastic fantasy modeled on early modern courts and states, where ruling houses face succession
+  crises, war and imperial transformation.
+cards:
+- name: King of Scars Duology
+  origin: original
+  books:
+  - title: King of Scars
+    author: Leigh Bardugo
+  - title: Rule of Wolves
+    author: Leigh Bardugo
+- name: The Brilliant Death
+  origin: original
+  books:
+  - title: The Brilliant Death
+    author: A. R. Capetta
+  - title: The Storm of Life
+    author: A. R. Capetta
+- name: The Drowning Empire
+  origin: original
+  books:
+  - title: The Bone Shard Daughter
+    author: Andrea Stewart
+  - title: The Bone Shard Emperor
+    author: Andrea Stewart
+  - title: The Bone Shard War
+    author: Andrea Stewart
+- name: The Bone Orchard
+  origin: original
+  books:
+  - title: The Bone Orchard
+- name: The Risen Kingdoms
+  origin: v3
+  books:
+  - title: An Alchemy of Masques and Mirrors
+    author: Curtis Craddock
+  - title: A Labyrinth of Scions and Sorcery
+    author: Curtis Craddock
+  - title: The Last Uncharted Sky
+    author: Curtis Craddock

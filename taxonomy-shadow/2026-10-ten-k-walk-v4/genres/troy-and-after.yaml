@@ -1,0 +1,41 @@
+id: troy-and-after
+label: Troy and After
+parent: greek-myth-fantasy
+origin: shadow-v3
+definition: Greek myth retold around the Trojan war and its aftermath.
+cards:
+- name: The Song of Achilles
+  origin: original
+  books:
+  - title: The Song of Achilles
+- name: Wrath Goddess Sing
+  origin: original
+  books:
+  - title: Wrath Goddess Sing
+- name: The Firebrand
+  origin: v3
+  books:
+  - title: The Firebrand
+    author: Marion Zimmer Bradley
+- name: Black Ships
+  origin: v3
+  books:
+  - title: Black Ships
+    author: Jo Graham
+- name: Mother of Rome
+  origin: v3
+  books:
+  - title: Mother of Rome
+    author: Lauren J. A. Bear
+- name: Stealing Fire
+  origin: v3
+  books:
+  - title: Stealing Fire
+    author: Jo Graham
+- name: Judith Tarr Ancient
+  origin: v3
+  books:
+  - title: King's Blood
+    author: Judith Tarr
+  - title: Bring Down the Sun
+    author: Judith Tarr

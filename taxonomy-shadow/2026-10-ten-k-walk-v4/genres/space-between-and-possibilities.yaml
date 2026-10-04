@@ -1,0 +1,35 @@
+id: space-between-and-possibilities
+label: Spaces between and possibilities
+parent: alternate-selves
+origin: shadow-v3
+definition: Alt selves.
+cards:
+- name: The Space Between Worlds
+  origin: original
+  books:
+  - title: The Space Between Worlds
+- name: The Singular Life of Aria Patel
+  origin: original
+  books:
+  - title: The Singular Life of Aria Patel
+- name: The Possibilities
+  origin: original
+  books:
+  - title: The Possibilities
+- name: Manifold
+  origin: v3
+  books:
+  - title: 'Manifold: Time'
+    author: Stephen Baxter
+  - title: 'Manifold: Space'
+    author: Stephen Baxter
+  - title: 'Manifold: Origin'
+    author: Stephen Baxter
+- name: Bridge
+  origin: original
+  books:
+  - title: Bridge
+- name: In Universes
+  origin: original
+  books:
+  - title: In Universes

@@ -1,0 +1,87 @@
+id: walled-in-survivors
+label: Walled-In Survivors
+parent: lost-knowledge
+origin: shadow-v3
+definition: Ruined-Earth tales of sealed cities, silos and fortresses where the old world's truth is withheld.
+cards:
+- name: Silo
+  origin: original
+  books:
+  - title: Wool
+    author: Hugh Howey
+  - title: Shift
+    author: Hugh Howey
+  - title: Dust
+    author: Hugh Howey
+- name: The Rampart Trilogy
+  origin: original
+  books:
+  - title: The Book of Koli
+    author: M. R. Carey
+  - title: The Trials of Koli
+    author: M. R. Carey
+  - title: The Fall of Koli
+    author: M. R. Carey
+- name: A Stranger in the Citadel
+  origin: original
+  books:
+  - title: A Stranger in the Citadel
+- name: Beyond the Burn Line
+  origin: original
+  books:
+  - title: Beyond the Burn Line
+- name: Dreaming Cities
+  origin: v3
+  books:
+  - title: The Emperor's Railroad
+    author: Guy Haley
+  - title: The Ghoul King
+    author: Guy Haley
+- name: Safehold
+  origin: v3
+  books:
+  - title: By Schism Rent Asunder
+    author: David Weber
+  - title: Off Armageddon Reef
+    author: David Weber
+  - title: Storm from the Shadows
+    author: David Weber
+  - title: By Heresies Distressed
+    author: David Weber
+  - title: A Mighty Fortress
+    author: David Weber
+  - title: How Firm a Foundation
+    author: David Weber
+  - title: Midst Toil and Tribulation
+    author: David Weber
+  - title: Hell's Foundations Quiver
+    author: David Weber
+  - title: At the Sign of Triumph
+    author: David Weber
+  - title: The Safehold Series, Volume I
+    author: David Weber
+  - title: Through Fiery Trials
+    author: David Weber
+  - title: To End in Fire
+    author: David Weber
+  - title: To Challenge Heaven
+    author: David Weber
+- name: Regeneration
+  origin: v3
+  books:
+  - title: Regeneration
+    author: Stacey Berg
+- name: Santa Olivia
+  origin: v3
+  books:
+  - title: Saints Astray
+    author: Jacqueline Carey
+  - title: Santa Olivia
+    author: Jacqueline Carey
+- name: Cordova
+  origin: v3
+  books:
+  - title: Mountain of Fire
+    author: Jason Cordova
+  - title: To Tread Obsidian Shores
+    author: Jason Cordova

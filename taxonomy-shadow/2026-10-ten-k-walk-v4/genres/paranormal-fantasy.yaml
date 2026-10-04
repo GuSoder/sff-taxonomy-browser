@@ -1,0 +1,52 @@
+id: paranormal-fantasy
+label: Paranormal fantasy
+parent: nocturne-fantasy
+origin: original
+definition: ''
+cards:
+- name: American Gods
+  origin: original
+  books:
+  - title: American Gods
+    author: Neil Gaiman
+  - title: Anansi Boys
+    author: Neil Gaiman
+- name: Good Omens
+  origin: original
+  books:
+  - title: Good Omens
+- name: No Hero
+  origin: original
+  books:
+  - title: No Hero
+    author: Jonathan Wood
+  - title: Yesterday's Hero
+    author: Jonathan Wood
+- name: Dr. Greta Helsing
+  origin: v3
+  books:
+  - title: Bitter Waters
+    author: Vivian Shaw
+  - title: Strange New World
+    author: Vivian Shaw
+- name: The Sixth World
+  origin: original
+  books:
+  - title: Trail of Lightning
+    author: Rebecca Roanhorse
+  - title: Storm of Locusts
+    author: Rebecca Roanhorse
+- name: Katharine J. Adams Tonight I Burn
+  origin: v3
+  books:
+  - title: Tonight, I Blaze
+    author: Katharine J. Adams
+  - title: Tonight, I Bleed
+    author: Katharine J. Adams
+  - title: Tonight, I Burn
+    author: Katharine J. Adams
+- name: Light as a Feather
+  origin: v3
+  books:
+  - title: Light As A Feather, Stiff As A Board
+    author: Zoe Aarsen

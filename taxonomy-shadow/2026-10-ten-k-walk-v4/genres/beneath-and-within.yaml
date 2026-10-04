@@ -1,0 +1,32 @@
+id: beneath-and-within
+label: Beneath and within
+parent: lost-world-fiction
+origin: shadow-v3
+definition: 'Lost worlds reached by going down or in: hollow earth, caverns and lands under familiar countries.'
+cards:
+- name: Journey to the Center of the Earth
+  origin: original
+  books:
+  - title: Journey to the Center of the Earth
+- name: Land Under England
+  origin: original
+  books:
+  - title: Land Under England
+- name: The Narrative of Arthur Gordon Pym of Nantucket
+  origin: original
+  books:
+  - title: The Narrative of Arthur Gordon Pym of Nantucket
+- name: Mistress Masham's Repose
+  origin: original
+  books:
+  - title: Mistress Masham's Repose
+- name: The Fade
+  origin: v3
+  books:
+  - title: The Fade
+    author: Chris Wooding
+- name: Foundry's Edge
+  origin: v3
+  books:
+  - title: 'The First Book of Ore: The Foundrys Edge'
+    author: Benny Zelkowicz

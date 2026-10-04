@@ -1,0 +1,50 @@
+id: cosmic-catastrophe
+label: Cosmic catastrophe
+parent: apocalyptic-fiction
+origin: original
+definition: Disaster falls from the sky - the Moon shatters and its debris begins to rain down. Coined
+  by the curator 2026-09-14; not an SFE/EoF headword.
+cards:
+- name: Seveneves
+  origin: original
+  books:
+  - title: Seveneves
+- name: Lucifer's Hammer
+  origin: original
+  books:
+  - title: Lucifer's Hammer
+- name: The End of the World News
+  origin: original
+  books:
+  - title: The End of the World News
+- name: The Wanderer
+  origin: original
+  books:
+  - title: The Wanderer
+- name: The Return (Aldrin)
+  origin: v3
+  books:
+  - title: The Return
+    author: Buzz Aldrin
+  - title: The Return
+    author: Buzz Aldrin; John Barnes
+- name: The Hammer of God
+  origin: v3
+  books:
+  - title: The Hammer of God
+    author: Arthur C. Clarke
+- name: City at the End of Time
+  origin: v3
+  books:
+  - title: City at the End of Time
+    author: Greg Bear
+- name: To Fear the Light
+  origin: v3
+  books:
+  - title: To Fear The Light
+    author: Ben Bova
+- name: Earthdoom
+  origin: v3
+  books:
+  - title: Earthdoom!
+    author: John Grant

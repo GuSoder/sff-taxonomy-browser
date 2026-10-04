@@ -1,0 +1,51 @@
+id: near-centuries-bold-and-verne
+label: Bold, drifts and Verne
+parent: near-centuries
+origin: shadow-v3
+definition: Near futures cont.
+cards:
+- name: Bold as Love
+  origin: original
+  books:
+  - title: Bold as Love
+    author: Gwyneth Jones
+  - title: Castles Made of Sand
+    author: Gwyneth Jones
+  - title: Midnight Lamp
+    author: Gwyneth Jones
+  - title: Band of Gypsys
+    author: Gwyneth Jones
+  - title: Rainbow Bridge
+    author: Gwyneth Jones
+- name: The Old Drift
+  origin: original
+  books:
+  - title: The Old Drift
+- name: The Walking Shadow
+  origin: original
+  books:
+  - title: The Walking Shadow
+- name: Hammered (Jenny Casey)
+  origin: v3
+  books:
+  - title: Hammered
+    author: Elizabeth Bear
+  - title: Scardown
+    author: Elizabeth Bear
+  - title: Worldwired
+    author: Elizabeth Bear
+- name: Paris in Twentieth Century
+  origin: v3
+  books:
+  - title: Paris in the Twentieth Century
+    author: Jules Verne
+- name: Purchase of North Pole
+  origin: v3
+  books:
+  - title: The Purchase of the North Pole
+    author: Jules Verne
+- name: Lightest Object in the Universe
+  origin: v3
+  books:
+  - title: The Lightest Object in the Universe
+    author: Kimi Eisele

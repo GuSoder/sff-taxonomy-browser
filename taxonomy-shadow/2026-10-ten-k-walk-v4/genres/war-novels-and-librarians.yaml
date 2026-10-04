@@ -1,0 +1,50 @@
+id: war-novels-and-librarians
+label: War novels and librarians
+parent: ruined-societies
+origin: shadow-v3
+definition: Wars.
+cards:
+- name: Remic War Novels
+  origin: v3
+  books:
+  - title: A Song for No Man's Land
+    author: Andy Remic
+  - title: Return of Souls
+    author: Andy Remic
+  - title: The Iron Beast
+    author: Andy Remic
+  - title: An Impossible War
+    author: Andy Remic
+- name: Kirinyaga
+  origin: v3
+  books:
+  - title: Kirinyaga
+    author: Mike Resnick
+- name: Ringo Kildar and Thrillers
+  origin: v3
+  books:
+  - title: Against the Tide
+    author: John Ringo
+  - title: Ghost
+    author: John Ringo
+  - title: A Deeper Blue
+    author: John Ringo
+  - title: Choosers of the Slain
+    author: John Ringo
+  - title: East of the Sun, West of the Moon
+    author: John Ringo
+  - title: Kildar
+    author: John Ringo
+  - title: Tiger by the Tail
+    author: John Ringo
+- name: Mercenary Librarians
+  origin: v3
+  books:
+  - title: Deal with the Devil
+    author: Kit Rocha
+  - title: The Devil You Know
+    author: Kit Rocha
+  - title: Dance with the Devil
+    author: Kit Rocha
+  - title: Mercenary Librarians
+    author: Kit Rocha

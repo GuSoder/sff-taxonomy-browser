@@ -1,0 +1,46 @@
+id: damsels-wicked-and-alice
+label: Damsels, wicked witches and Alice
+parent: fairytale-heroines-turned
+origin: shadow-v3
+definition: Fairy tale turned.
+cards:
+- name: Damsel
+  origin: v3
+  books:
+  - title: Damsel
+    author: Evelyn Skye
+- name: Wicked
+  origin: original
+  books:
+  - title: Wicked
+    author: Gregory Maguire
+- name: A Spindle Splintered
+  origin: v3
+  books:
+  - title: A Spindle Splintered
+    author: Alix E. Harrow
+  - title: A Mirror Mended
+    author: Alix E. Harrow
+  - title: Fractured Fables
+    author: Alix E. Harrow
+- name: Alice (Henry)
+  origin: v3
+  books:
+  - title: Alice
+    author: Christina Henry
+  - title: Red Queen
+    author: Christina Henry
+  - title: Looking Glass
+    author: Christina Henry
+- name: Brokedown Palace
+  origin: v3
+  books:
+  - title: Brokedown Palace
+    author: Steven Brust
+- name: Toto
+  origin: v3
+  books:
+  - title: Toto
+    author: A. J. Hackwith
+  - title: Goblin Market
+    author: A. J. Hackwith

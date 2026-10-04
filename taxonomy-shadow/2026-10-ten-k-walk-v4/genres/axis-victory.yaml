@@ -1,0 +1,45 @@
+id: axis-victory
+label: Axis Victory
+parent: alt-postwar
+origin: shadow-v3
+definition: Alternate WWII outcomes in which the Axis wins or dominates.
+cards:
+- name: Fatherland
+  origin: original
+  books:
+  - title: Fatherland
+- name: The Man in the High Castle
+  origin: original
+  books:
+  - title: The Man in the High Castle
+- name: The Sound of His Horn
+  origin: original
+  books:
+  - title: The Sound of His Horn
+- name: Wolf by Wolf
+  origin: v3
+  books:
+  - title: Blood for Blood
+    author: Ryan Graudin
+  - title: Wolf by Wolf
+    author: Ryan Graudin
+- name: Rising Sun (Conroy)
+  origin: v3
+  books:
+  - title: Rising Sun
+    author: Robert Conroy
+- name: Himmler's War
+  origin: v3
+  books:
+  - title: Himmler's War
+    author: Robert Conroy
+- name: Germanica
+  origin: v3
+  books:
+  - title: Germanica
+    author: Robert Conroy
+- name: Storm Front (Conroy)
+  origin: v3
+  books:
+  - title: Storm Front
+    author: Robert Conroy

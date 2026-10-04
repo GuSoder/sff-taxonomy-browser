@@ -1,0 +1,35 @@
+id: old-heroic-romance
+label: Old Heroic Romance
+parent: warrior-hero
+origin: shadow-v3
+definition: Martial-hero fantasy in the early heroic-romance register.
+cards:
+- name: The Well of the Unicorn
+  origin: original
+  books:
+  - title: The Well of the Unicorn
+- name: The Worm Ouroboros
+  origin: original
+  books:
+  - title: The Worm Ouroboros
+- name: Judith Tarr Medieval
+  origin: v3
+  books:
+  - title: The Hound and the Falcon
+    author: Judith Tarr
+  - title: Devil's Bargain
+    author: Judith Tarr
+  - title: Kingdom of the Grail
+    author: Judith Tarr
+- name: Sulien Arthurian
+  origin: v3
+  books:
+  - title: The King's Peace
+    author: Jo Walton
+  - title: The King's Name
+    author: Jo Walton
+- name: Book of Merlyn
+  origin: v3
+  books:
+  - title: The Book of Merlyn
+    author: T. H. White

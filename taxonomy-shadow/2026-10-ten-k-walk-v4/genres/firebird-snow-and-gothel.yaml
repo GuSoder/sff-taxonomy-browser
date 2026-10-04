@@ -1,0 +1,37 @@
+id: firebird-snow-and-gothel
+label: Firebirds, snow and Gothel
+parent: older-tale-retellings
+origin: shadow-v3
+definition: Older retellings.
+cards:
+- name: Firebird Lackey
+  origin: v3
+  books:
+  - title: Firebird
+    author: Mercedes Lackey
+- name: White as Snow
+  origin: v3
+  books:
+  - title: White As Snow
+    author: Tanith Lee
+- name: Book of Gothel
+  origin: v3
+  books:
+  - title: A Rose by Any Other Name
+    author: Mary McMyne
+  - title: The Book of Gothel
+    author: Mary McMyne
+- name: Green and Deadly Things
+  origin: v3
+  books:
+  - title: Green & Deadly Things
+    author: Jenn Lyons
+- name: Falconer
+  origin: v3
+  books:
+  - title: The Falconer
+    author: Elizabeth May
+  - title: The Fallen Kingdom
+    author: Elizabeth May
+  - title: The Vanishing Throne
+    author: Elizabeth May

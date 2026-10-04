@@ -1,0 +1,51 @@
+id: covens-and-societies
+label: Covens and societies
+parent: campus-and-coven
+origin: shadow-v3
+definition: Covens, secret societies and haunted colleges.
+cards:
+- name: Conjure Wife
+  origin: original
+  books:
+  - title: Conjure Wife
+- name: Silver Nitrate
+  origin: original
+  books:
+  - title: Silver Nitrate
+- name: The Bewitching
+  origin: original
+  books:
+  - title: The Bewitching
+- name: Alex Stern
+  origin: v3
+  books:
+  - title: Dead Beat
+    author: Leigh Bardugo
+- name: Supernatural Minnesota
+  origin: original
+  books:
+  - title: The Businessman
+    author: Thomas M. Disch
+  - title: The M.D.
+    author: Thomas M. Disch
+  - title: The Priest
+    author: Thomas M. Disch
+  - title: The Sub
+    author: Thomas M. Disch
+- name: Fox Hunt
+  origin: v3
+  books:
+  - title: The Fox Hunt
+    author: Caitlin Breeze
+- name: White Lights
+  origin: v3
+  books:
+  - title: White Lights
+    author: Lauren Kate
+- name: AM Kvita
+  origin: v3
+  books:
+  - title: An Uncertain Magic
+    author: AM Kvita
+  - title: An Unlikely Coven
+    author: AM Kvita

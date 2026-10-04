@@ -1,0 +1,44 @@
+id: claimants-and-swordsmen
+label: Claimants and swordsmen
+parent: succession-wars
+origin: shadow-v3
+definition: Claimants, bastards and swordsmen contesting a throne.
+cards:
+- name: The Forgotten Beasts of Eld
+  origin: original
+  books:
+  - title: The Forgotten Beasts of Eld
+- name: Sword Catcher
+  origin: v3
+  books:
+  - title: Sword Catcher
+    author: Cassandra Clare
+  - title: The Ragpicker King
+    author: Cassandra Clare
+- name: Fate's Bane
+  origin: v3
+  books:
+  - title: Fate's Bane
+    author: C. L. Clark
+- name: Scarlet (Cogman)
+  origin: v3
+  books:
+  - title: Scarlet
+    author: Genevieve Cogman
+- name: Servants of War
+  origin: v3
+  books:
+  - title: Servants of War
+    author: Larry Correia
+- name: Fox in Winter
+  origin: v3
+  books:
+  - title: The Fox in Winter
+    author: Antonia Hodgson
+- name: Angus Wells Kingdoms
+  origin: v3
+  books:
+  - title: 'The Usurper: Kingdoms, Book 2'
+    author: Angus Wells
+  - title: 'The Way Beneath: Kingdoms, Book 3'
+    author: Angus Wells

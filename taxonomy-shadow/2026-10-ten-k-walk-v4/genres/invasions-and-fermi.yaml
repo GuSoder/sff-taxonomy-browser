@@ -1,0 +1,54 @@
+id: invasions-and-fermi
+label: Invasions and Fermi
+parent: invasion-and-contact-novels
+origin: shadow-v3
+definition: Invasions.
+cards:
+- name: Nemo Rising
+  origin: v3
+  books:
+  - title: Nemo Rising
+    author: C. Courtney Joyner
+- name: Steal Across the Sky
+  origin: v3
+  books:
+  - title: Steal Across the Sky
+    author: Nancy Kress
+- name: Alienated
+  origin: v3
+  books:
+  - title: Alienated
+    author: Melissa Landers
+  - title: Invaded
+    author: Melissa Landers
+- name: Three-Body Problem
+  origin: v3
+  books:
+  - title: The Three-Body Problem Series
+    author: Cixin Liu
+- name: War of the Worlds Millennium
+  origin: v3
+  books:
+  - title: 'War of the Worlds: New Millennium'
+    author: Douglas Niles
+- name: Themis Files and Take Them to the Stars
+  origin: v3
+  books:
+  - title: The Test
+    author: Sylvain Neuvel
+  - title: A History of What Comes Next
+    author: Sylvain Neuvel
+  - title: Until the Last of Me
+    author: Sylvain Neuvel
+  - title: For the First Time, Again
+    author: Sylvain Neuvel
+- name: Shiva Option
+  origin: v3
+  books:
+  - title: The Shiva Option
+    author: David Weber
+- name: Prometheus Project
+  origin: v3
+  books:
+  - title: The Prometheus Project
+    author: Steve White

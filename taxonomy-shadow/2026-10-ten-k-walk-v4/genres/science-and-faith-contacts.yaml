@@ -1,0 +1,76 @@
+id: science-and-faith-contacts
+label: Science and faith contacts
+parent: contact-in-science-and-faith
+origin: shadow-v3
+definition: Contact framed by science, faith and ethics.
+cards:
+- name: Einstein's Bridge
+  origin: v3
+  books:
+  - title: Einstein's Bridge
+    author: John Cramer
+  - title: Fermi's Question
+    author: John Cramer
+- name: Species Imperative
+  origin: v3
+  books:
+  - title: Survival
+    author: Julie E. Czerneda
+  - title: Migration
+    author: Julie E. Czerneda
+  - title: Regeneration
+    author: Julie E. Czerneda
+  - title: Species Imperative
+    author: Julie E. Czerneda
+  - title: In the Company of Others
+    author: Julie E. Czerneda
+- name: Brian Evenson
+  origin: v3
+  books:
+  - title: Immobility
+    author: Brian Evenson
+  - title: The Warren
+    author: Brian Evenson
+- name: Five Ways to Forgiveness
+  origin: v3
+  books:
+  - title: Five Ways to Forgiveness
+    author: Ursula K. Le Guin
+- name: Haunted Stars
+  origin: v3
+  books:
+  - title: The Haunted Stars
+    author: Edmond Hamilton
+- name: Star Beast
+  origin: v3
+  books:
+  - title: The Star Beast
+    author: Robert A. Heinlein
+- name: Flight of the Golden Harpy
+  origin: v3
+  books:
+  - title: Flight of the Golden Harpy
+    author: Susan Klaus
+- name: Eric Kotani
+  origin: v3
+  books:
+  - title: Act of God
+    author: Eric Kotani
+  - title: Delta Pavonis
+    author: Eric Kotani
+  - title: The Island Worlds
+    author: Eric Kotani
+  - title: Between the Stars
+    author: Eric Kotani
+- name: Probability Moon
+  origin: v3
+  books:
+  - title: One
+    author: Nancy Kress
+- name: Family Business Kupari
+  origin: v3
+  books:
+  - title: The Family Business
+    author: Mike Kupari
+  - title: Trouble Walked In
+    author: Mike Kupari

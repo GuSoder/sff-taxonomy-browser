@@ -1,0 +1,66 @@
+id: warlords-and-powder-mages
+label: Warlords and powder mages
+parent: mercenary-bands-and-seers
+origin: shadow-v3
+definition: Warlords, powder mages and ravens.
+cards:
+- name: John Marco Tyrants and Kings
+  origin: v3
+  books:
+  - title: The Grand Design
+    author: John Marco
+  - title: The Saints of the Sword
+    author: John Marco
+  - title: The Eyes of God
+    author: John Marco
+  - title: The Devil's Armor
+    author: John Marco
+  - title: The Sword of Angels
+    author: John Marco
+  - title: The Forever Knight
+    author: John Marco
+  - title: The Jackal of Nar
+    author: John Marco
+- name: Corvis Rebaine
+  origin: v3
+  books:
+  - title: The Conqueror's Shadow
+    author: Ari Marmell
+  - title: The Warlord's Legacy
+    author: Ari Marmell
+- name: Blade of Black Steel Crown for Cold Silv
+  origin: original
+  books:
+  - title: Blade of Black Steel Crown for Cold Silv
+- name: Brian McClellan
+  origin: v3
+  books:
+  - title: War Cry
+    author: Brian McClellan
+  - title: In the Shadow of Lightning
+    author: Brian McClellan
+- name: Raven's Mark
+  origin: v3
+  books:
+  - title: Blackwing
+    author: Ed McDonald
+  - title: Ravencry
+    author: Ed McDonald
+  - title: Crowfall
+    author: Ed McDonald
+- name: Blade of Black Steel Crown for Cold Silver
+  origin: v3
+  books:
+  - title: A Blade of Black Steel
+    author: Alex Marshall
+  - title: A Crown for Cold Silver
+    author: Alex Marshall
+  - title: A War in Crimson Embers
+    author: Alex Marshall
+- name: Markswoman
+  origin: v3
+  books:
+  - title: Mahimata
+    author: Rati Mehrotra
+  - title: Markswoman
+    author: Rati Mehrotra

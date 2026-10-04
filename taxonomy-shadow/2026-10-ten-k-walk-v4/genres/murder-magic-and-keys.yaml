@@ -1,0 +1,41 @@
+id: murder-magic-and-keys
+label: Murder, magic and keys
+parent: society-and-sleuths
+origin: shadow-v3
+definition: Murder mysteries bound up with magic, keys and secrets.
+cards:
+- name: Crown & Key
+  origin: v3
+  books:
+  - title: 'The Conquering Dark: Crown & Key'
+    author: Clay Griffith
+  - title: 'The Shadow Revolution: Crown & Key'
+    author: Clay Griffith
+- name: Somnambulist
+  origin: v3
+  books:
+  - title: The Somnambulist
+    author: Jonathan Barnes
+- name: Murder and Magic
+  origin: v3
+  books:
+  - title: The Conductors
+    author: Nicole Glover
+  - title: The Improvisers
+    author: Nicole Glover
+  - title: The Starseekers
+    author: Nicole Glover
+  - title: The Undertakers
+    author: Nicole Glover
+- name: Bright and Broken Things
+  origin: v3
+  books:
+  - title: Bright and Broken Things
+    author: Ryan Graudin
+- name: Volatile Memory
+  origin: v3
+  books:
+  - title: Volatile Memory
+    author: Seth Haddon
+  - title: Null Entity
+    author: Seth Haddon

@@ -1,0 +1,36 @@
+id: samizdat-fantasy
+label: Samizdat fantasy
+parent: rebel-fantasy
+origin: original
+definition: 'Rebel fantasy in which the resistance fights for an erased name, history or rite: forbidden
+  texts copied in secret, suppressed memory kept alive against the occupier''s erasure. Named by the curator
+  2026-09-26 for the Soviet self-publishing underground; split from Rebel fantasy (the curator ruling
+  phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1).'
+cards:
+- name: Tigana
+  origin: original
+  books:
+  - title: Tigana
+- name: The Nameless Republic trilogy
+  origin: original
+  books:
+  - title: Son of the Storm
+    author: Suyi Davies Okungbowa
+  - title: Warrior of the Wind
+    author: Suyi Davies Okungbowa
+  - title: Season of the Serpent
+    author: Suyi Davies Okungbowa
+- name: The Books of Ambha
+  origin: original
+  books:
+  - title: Empire of Sand
+    author: Tasha Suri
+  - title: Realm of Ash
+    author: Tasha Suri
+- name: The Jasmine Throne
+  origin: original
+  books:
+  - title: The Jasmine Throne
+    author: Tasha Suri
+  - title: The Oleander Sword
+    author: Tasha Suri

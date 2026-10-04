@@ -1,0 +1,80 @@
+id: thieves-and-hired-blades
+label: Thieves and hired blades
+parent: thieves-and-assassins
+origin: shadow-v3
+definition: Fantasy led by a thief, hired blade or street-level operator.
+cards:
+- name: Shadowdance
+  origin: v3
+  books:
+  - title: A Dance of Blades
+    author: David Dalglish
+  - title: A Dance of Chaos
+    author: David Dalglish
+  - title: A Dance of Cloaks
+    author: David Dalglish
+  - title: A Dance of Ghosts
+    author: David Dalglish
+  - title: A Dance of Mirrors
+    author: David Dalglish
+  - title: A Dance of Shadows
+    author: David Dalglish
+- name: Thief-Taker's Apprentice
+  origin: v3
+  books:
+  - title: The King's Assassin
+    author: Stephen Deas
+  - title: The Splintered Gods
+    author: Stephen Deas
+  - title: The Thief-Taker's Apprentice
+    author: Stephen Deas
+  - title: The Warlock's Shadow
+    author: Stephen Deas
+- name: Max August Timeless
+  origin: v3
+  books:
+  - title: The Long Man
+    author: Steve Englehart
+  - title: The Point Man
+    author: Steve Englehart
+  - title: The Plain Man
+    author: Steve Englehart
+  - title: The Arena Man
+    author: Steve Englehart
+- name: Age of Blood
+  origin: v3
+  books:
+  - title: Lord of Ruin
+    author: K. M. Enright
+  - title: Mistress of Lies
+    author: K. M. Enright
+  - title: Prince of Ash
+    author: K. M. Enright
+- name: Forward the Mage
+  origin: v3
+  books:
+  - title: Forward the Mage
+    author: Eric Flint
+- name: Daniel Ford
+  origin: v3
+  books:
+  - title: Necrobane
+    author: Daniel M. Ford
+  - title: Advocate
+    author: Daniel M. Ford
+- name: Thieves of Dragemor
+  origin: v3
+  books:
+  - title: Realm of Thieves
+    author: Karina Halle
+- name: Aeons Gate
+  origin: v3
+  books:
+  - title: God's Last Breath
+    author: Sam Sykes
+  - title: Gods Last Breath
+    author: Sam Sykes
+  - title: The Skybound Sea
+    author: Sam Sykes
+  - title: Tome of the Undergates
+    author: Sam Sykes

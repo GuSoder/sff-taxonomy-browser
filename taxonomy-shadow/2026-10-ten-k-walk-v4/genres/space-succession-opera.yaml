@@ -1,0 +1,93 @@
+id: space-succession-opera
+label: Space succession opera
+parent: political-space-opera
+origin: original
+definition: Political space opera about the succession of orders after imperial collapse or fracture,
+  rather than the succession of dynastic heirs.
+cards:
+- name: Dread Empire's Fall
+  origin: original
+  books:
+  - title: The Praxis
+    author: Walter Jon Williams
+  - title: The Sundering
+    author: Walter Jon Williams
+  - title: Conventions of War
+    author: Walter Jon Williams
+  - title: The Accidental War
+    author: Walter Jon Williams
+  - title: Fleet Elements
+    author: Walter Jon Williams
+  - title: Imperium Restored
+    author: Walter Jon Williams
+- name: The Imperial Radch
+  origin: original
+  books:
+  - title: Ancillary Justice
+    author: Ann Leckie
+  - title: Ancillary Sword
+    author: Ann Leckie
+  - title: Ancillary Mercy
+    author: Ann Leckie
+  - title: Translation State
+    author: Ann Leckie
+- name: The Thrawn Trilogy
+  origin: original
+  books:
+  - title: Heir to the Empire
+    author: Timothy Zahn
+  - title: Dark Force Rising
+    author: Timothy Zahn
+  - title: The Last Command
+    author: Timothy Zahn
+- name: Sun Eater
+  origin: v3
+  books:
+  - title: Sword & Planet
+    author: Christopher Ruocchio
+  - title: Worlds Long Lost
+    author: Christopher Ruocchio
+  - title: Ashes of Man
+    author: Christopher Ruocchio
+  - title: Demon in White
+    author: Christopher Ruocchio
+  - title: Empire of Silence
+    author: Christopher Ruocchio
+  - title: Howling Dark
+    author: Christopher Ruocchio
+  - title: Kingdoms of Death
+    author: Christopher Ruocchio
+  - title: Disquiet Gods
+    author: Christopher Ruocchio
+  - title: Shadows Upon Time
+    author: Christopher Ruocchio
+  - title: Songs of the Sun Eater
+    author: Christopher Ruocchio
+- name: Empress of India Hail Mary Cobra
+  origin: v3
+  books:
+  - title: A Pale Light in the Black
+    author: K B Wagers
+  - title: And the Mighty Will Fall
+    author: K B Wagers
+  - title: Hold Fast Through the Fire
+    author: K B Wagers
+  - title: After the Crown
+    author: K. B. Wagers
+  - title: Behind the Throne
+    author: K. B. Wagers
+  - title: Beyond the Empire
+    author: K. B. Wagers
+  - title: Down Among the Dead
+    author: K. B. Wagers
+  - title: Out Past the Stars
+    author: K. B. Wagers
+  - title: There Before the Chaos
+    author: K. B. Wagers
+- name: Succession Duology
+  origin: v3
+  books:
+  - title: The Risen Empire
+    author: Scott Westerfeld
+  - title: The Succession Duology
+    author: Scott Westerfeld

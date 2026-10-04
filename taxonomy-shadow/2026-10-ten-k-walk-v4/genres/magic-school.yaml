@@ -1,0 +1,50 @@
+id: magic-school
+label: Magic school
+parent: magical-coming-of-age
+origin: original
+definition: 'Magical coming-of-age in which the craft is taught: a school or academy for magic where young
+  people develop ability through formal instruction, houses, exams and school life.'
+cards:
+- name: Harry Potter
+  origin: original
+  books:
+  - title: Harry Potter and the Philosopher's Stone
+    author: J. K. Rowling
+  - title: Harry Potter and the Chamber of Secrets
+    author: J. K. Rowling
+  - title: Harry Potter and the Prisoner of Azkaban
+    author: J. K. Rowling
+  - title: Harry Potter and the Goblet of Fire
+    author: J. K. Rowling
+  - title: Harry Potter and the Order of the Phoenix
+    author: J. K. Rowling
+  - title: Harry Potter and the Half-Blood Prince
+    author: J. K. Rowling
+  - title: Harry Potter and the Deathly Hallows
+    author: J. K. Rowling
+- name: The Incandescent
+  origin: original
+  books:
+  - title: The Incandescent
+- name: How To Succeed in Witchcraft
+  origin: original
+  books:
+  - title: How To Succeed in Witchcraft
+- name: School of Shards
+  origin: v3
+  books:
+  - title: School of Shards
+    author: Marina Sergey Dyachenko
+- name: The Scholar and the Last Faerie Door
+  origin: original
+  books:
+  - title: The Scholar and the Last Faerie Door
+- name: Tim Te Maro and the Subterranean Heartsick Blues
+  origin: original
+  books:
+  - title: Tim Te Maro and the Subterranean Heartsick Blues
+- name: Vita Nostra
+  origin: v3
+  books:
+  - title: Vita Nostra
+    author: Marina Sergey Dyachenko

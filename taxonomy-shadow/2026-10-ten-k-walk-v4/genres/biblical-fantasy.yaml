@@ -1,0 +1,21 @@
+id: biblical-fantasy
+label: Biblical fantasy
+parent: mythic-retelling
+origin: original
+definition: 'Fantasy that retells or reimagines named figures and narratives from the Bible, with its
+  miracles as real magic: prophets, patriarchs, the Gospels and their people told as working myth.'
+cards:
+- name: HIM
+  origin: original
+  books:
+  - title: HIM
+- name: To Reign in Hell
+  origin: v3
+  books:
+  - title: To Reign in Hell
+    author: Steven Brust
+- name: Fall of Atlantis
+  origin: v3
+  books:
+  - title: The Fall of Atlantis
+    author: Marion Zimmer Bradley

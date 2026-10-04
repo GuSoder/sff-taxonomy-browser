@@ -1,0 +1,68 @@
+id: newer-tale-retellings
+label: Newer tale retellings
+parent: classic-tale-retellings
+origin: shadow-v3
+definition: Retold tales, newer.
+cards:
+- name: Alexandria Rogers
+  origin: v3
+  books:
+  - title: Rapunzel Rewoven
+    author: Alexandria Rogers
+  - title: Spellbound Solstice
+    author: Alexandria Rogers
+  - title: The Witch, the Sword, and the Cursed Knights
+    author: Alexandria Rogers
+- name: Sisters of the Winter Wood
+  origin: v3
+  books:
+  - title: The Sisters of the Winter Wood
+    author: Rena Rossner
+- name: London Shah
+  origin: v3
+  books:
+  - title: Journey to the Heart of the Abyss
+    author: London Shah
+  - title: The Light at the Bottom of the World
+    author: London Shah
+- name: Beast's Heart
+  origin: v3
+  books:
+  - title: The Beast's Heart
+    author: Leife Shallcross
+- name: Spinning Thorns
+  origin: v3
+  books:
+  - title: Spinning Thorns
+    author: Anna Sheehan
+- name: Sharon Shinn Standalones and Shifting Circle
+  origin: v3
+  books:
+  - title: Jenna Starborn
+    author: Sharon Shinn
+  - title: Summers at Castle Auburn
+    author: Sharon Shinn
+  - title: The Shape-Changer's Wife
+    author: Sharon Shinn
+  - title: Still Life with Shape-shifter
+    author: Sharon Shinn
+  - title: The Shape of Desire
+    author: Sharon Shinn
+  - title: The Turning Season
+    author: Sharon Shinn
+  - title: Heart of Gold
+    author: Sharon Shinn
+- name: D. L. Soria
+  origin: v3
+  books:
+  - title: The Cottage Around the Corner
+    author: D. L. Soria
+  - title: Thief Liar Lady
+    author: D. L. Soria
+- name: Orphan's Tales
+  origin: v3
+  books:
+  - title: 'The Orphan''s Tales: In the Night Garden'
+    author: Catherynne Valente
+  - title: 'The Orphan''s Tales: In the Cities of Coin and Spice'
+    author: Catherynne Valente

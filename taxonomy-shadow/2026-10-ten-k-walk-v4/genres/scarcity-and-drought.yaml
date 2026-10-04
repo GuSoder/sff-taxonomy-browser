@@ -1,0 +1,40 @@
+id: scarcity-and-drought
+label: Scarcity and drought
+parent: climate-and-scarcity-societies
+origin: shadow-v3
+definition: Societies reshaped by scarcity.
+cards:
+- name: The Glare
+  origin: v3
+  books:
+  - title: The Glare
+    author: Margot Harrison
+- name: Rainseekers
+  origin: v3
+  books:
+  - title: The Rainseekers
+    author: Matthew Kressel
+- name: Days of Grass
+  origin: v3
+  books:
+  - title: Days of Grass
+    author: Tanith Lee
+- name: Saltcrop
+  origin: v3
+  books:
+  - title: Saltcrop
+    author: Yume Kitasei
+- name: Drop by Drop
+  origin: v3
+  books:
+  - title: Drop by Drop
+    author: Morgan Llywelyn
+  - title: Inch by Inch
+    author: Morgan Llywelyn
+  - title: Breath by Breath
+    author: Morgan Llywelyn
+- name: California Lepucki
+  origin: v3
+  books:
+  - title: California
+    author: Edan Lepucki

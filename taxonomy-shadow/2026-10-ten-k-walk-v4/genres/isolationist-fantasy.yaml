@@ -1,0 +1,28 @@
+id: isolationist-fantasy
+label: Isolationist fantasy
+parent: gothic-fantasy
+origin: original
+definition: Fantasy of sealed, self-contained worlds whose isolation is the premise. Gormenghast's confinement,
+  ritual and decaying hierarchy make isolation a Gothic governing condition.
+cards:
+- name: Gormenghast
+  origin: original
+  books:
+  - title: Titus Groan
+    author: Mervyn Peake
+  - title: Gormenghast
+    author: Mervyn Peake
+  - title: Titus Alone
+    author: Mervyn Peake
+- name: The Year of the Witching
+  origin: original
+  books:
+  - title: The Year of the Witching
+- name: The West Passage
+  origin: original
+  books:
+  - title: The West Passage
+- name: The Works of Vermin
+  origin: original
+  books:
+  - title: The Works of Vermin

@@ -1,0 +1,29 @@
+id: wicked-wishes
+label: Wicked wishes
+parent: evil-deals
+origin: original
+definition: 'Evil deals in which the counterparty is anything but the Devil: a wish, a prayer or an heirloom
+  answered by some other power - a god of the night, the mer, a carnival that grants secret desires, a
+  portrait, a button box. The price hides in the granting. Sibling line: Deal with the devil holds the
+  Devil and his demons.'
+cards:
+- name: The Picture of Dorian Gray
+  origin: original
+  books:
+  - title: The Picture of Dorian Gray
+- name: The Invisible Life of Addie LaRue
+  origin: original
+  books:
+  - title: The Invisible Life of Addie LaRue
+- name: Something Wicked This Way Comes
+  origin: original
+  books:
+  - title: Something Wicked This Way Comes
+- name: All the Murmuring Bones
+  origin: original
+  books:
+  - title: All the Murmuring Bones
+- name: Gwendy's Final Task
+  origin: original
+  books:
+  - title: Gwendy's Final Task

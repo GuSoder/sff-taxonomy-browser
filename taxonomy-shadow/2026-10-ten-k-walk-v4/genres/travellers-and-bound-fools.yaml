@@ -1,0 +1,32 @@
+id: travellers-and-bound-fools
+label: Travellers and bound fools
+parent: rogues-abroad
+origin: shadow-v3
+definition: Travellers and misfits caught in odd quests.
+cards:
+- name: The Sky on Fire
+  origin: original
+  books:
+  - title: The Sky on Fire
+- name: Eye of Night
+  origin: v3
+  books:
+  - title: The Eye of Night
+    author: Pauline Alama
+- name: Dragons of Deepwood Fen
+  origin: v3
+  books:
+  - title: The Dragons of Deepwood Fen
+    author: Bradley P. Beaulieu
+- name: Thrice-Bound Fool
+  origin: v3
+  books:
+  - title: The Thrice-Bound Fool
+    author: Christopher Buehlman
+- name: Echo Archives
+  origin: v3
+  books:
+  - title: The Last Soul Among Wolves
+    author: Melissa Caruso
+  - title: The Last Star in the Void
+    author: Melissa Caruso

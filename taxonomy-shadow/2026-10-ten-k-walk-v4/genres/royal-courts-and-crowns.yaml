@@ -1,0 +1,88 @@
+id: royal-courts-and-crowns
+label: Royal courts and crowns
+parent: thrones-under-threat
+origin: shadow-v3
+definition: Royal courts, crowns and succession in peril.
+cards:
+- name: Chester royal court
+  origin: v3
+  books:
+  - title: The Queen's Gambit
+    author: Deborah Chester
+  - title: The Pearls
+    author: Deborah Chester
+  - title: The Crown
+    author: Deborah Chester
+- name: Constantine fantasy
+  origin: v3
+  books:
+  - title: The Crown of Silence
+    author: Storm Constantine
+  - title: The Way of Light
+    author: Storm Constantine
+  - title: Sea Dragon Heir
+    author: Storm Constantine
+- name: Contessa
+  origin: v3
+  books:
+  - title: The Decoy Princess
+    author: Dawn Cook
+  - title: Princess at Sea
+    author: Dawn Cook
+- name: Crows and Serpents
+  origin: v3
+  books:
+  - title: A Curse of Crows
+    author: Lauren Dedroog
+  - title: A Dance of Serpents
+    author: Lauren Dedroog
+- name: Sleeping King
+  origin: v3
+  books:
+  - title: The Sleeping King
+    author: Cindy Dees
+  - title: The Dreaming Hunt
+    author: Cindy Dees
+  - title: The Wandering War
+    author: Cindy Dees
+- name: Sara Douglass
+  origin: v3
+  books:
+  - title: Sinner
+    author: Sara Douglass
+  - title: Beyond the Hanging Wall
+    author: Sara Douglass
+  - title: Pilgrim
+    author: Sara Douglass
+  - title: Crusader
+    author: Sara Douglass
+  - title: The Serpent Bride
+    author: Sara Douglass
+  - title: The Twisted Citadel
+    author: Sara Douglass
+- name: Thorne Chronicles
+  origin: v3
+  books:
+  - title: How Rory Thorne Destroyed the Multiverse
+    author: K. Eason
+  - title: How the Multiverse Got Its Revenge
+    author: K. Eason
+- name: Kate Elliott
+  origin: v3
+  books:
+  - title: Servant Mage
+    author: Kate Elliott
+  - title: The Nameless Land
+    author: Kate Elliott
+  - title: The Witch Roads
+    author: Kate Elliott
+- name: Gurkha and Lord of Tuesday
+  origin: v3
+  books:
+  - title: The Gurkha and the Lord of Tuesday
+    author: Saad Z. Hossain
+- name: Blood to the True Crown
+  origin: v3
+  books:
+  - title: Blood to the True Crown
+    author: Sung-il Kim; translated by Anton Hur

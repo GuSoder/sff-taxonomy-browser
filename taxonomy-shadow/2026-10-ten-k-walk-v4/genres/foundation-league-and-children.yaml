@@ -1,0 +1,50 @@
+id: foundation-league-and-children
+label: Foundation, leagues and children
+parent: leagues-and-commonwealths
+origin: shadow-v3
+definition: Leagues.
+cards:
+- name: Foundation
+  origin: v3
+  books:
+  - title: Foundation and Chaos
+    author: Greg Bear
+  - title: Foundation's Fear
+    author: ''
+- name: Polesotechnic League (Falkayn, Van Rijn)
+  origin: v3
+  books:
+  - title: 'David Falkayn: Star Trader'
+    author: Poul Anderson
+  - title: The Van Rijn Method
+    author: Poul Anderson
+- name: Destiny's Children
+  origin: v3
+  books:
+  - title: Coalescent
+    author: Stephen Baxter
+  - title: Exultant
+    author: Stephen Baxter
+  - title: Transcendent
+    author: Stephen Baxter
+  - title: Resplendent
+    author: Stephen Baxter
+- name: Commonwealth Saga
+  origin: v3
+  books:
+  - title: Pandora's Star
+    author: Peter F. Hamilton
+  - title: Judas Unchained
+    author: Peter F. Hamilton
+- name: To Outlive Eternity
+  origin: v3
+  books:
+  - title: To Outlive Eternity
+    author: Poul Anderson
+- name: Fallen Dragon / Night's Dawn
+  origin: v3
+  books:
+  - title: Fallen Dragon
+    author: Peter F. Hamilton
+  - title: The Confederation Handbook
+    author: Peter F. Hamilton

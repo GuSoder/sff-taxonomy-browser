@@ -1,0 +1,61 @@
+id: wands-razors-and-zombies
+label: Wands, razors and zombies
+parent: city-magic-urban
+origin: shadow-v3
+definition: Dark urban fantasy.
+cards:
+- name: Wands Ringo
+  origin: v3
+  books:
+  - title: Princess of Wands
+    author: John Ringo
+  - title: Queen of Wands
+    author: John Ringo
+- name: Into the Real
+  origin: v3
+  books:
+  - title: Behind the Veil
+    author: John Ringo
+  - title: Through the Storm
+    author: John Ringo
+  - title: Into the Real
+    author: John Ringo
+- name: Eddie Robson
+  origin: v3
+  books:
+  - title: Hearts of Oak
+    author: Eddie Robson
+  - title: Drunk on All Your Strange New Words
+    author: Eddie Robson
+  - title: The Heist of Hollow London
+    author: Eddie Robson
+- name: Music of Razors
+  origin: v3
+  books:
+  - title: The Music of Razors
+    author: Cameron Rogers
+- name: Diana Rowland
+  origin: v3
+  books:
+  - title: My Life as a White Trash Zombie
+    author: Diana Rowland
+  - title: Secrets of the Demon
+    author: Diana Rowland
+- name: Saintcrow Dark Urban
+  origin: v3
+  books:
+  - title: Blood Call
+    author: Lilith Saintcrow
+  - title: Dead Man Rising
+    author: Lilith Saintcrow
+  - title: Flesh Circus
+    author: Lilith Saintcrow
+- name: Jessie Shimmer
+  origin: v3
+  books:
+  - title: Spellbent
+    author: Lucy A. Snyder
+  - title: Shotgun Sorceress
+    author: Lucy A. Snyder
+  - title: Switchblade Goddess
+    author: Lucy A. Snyder

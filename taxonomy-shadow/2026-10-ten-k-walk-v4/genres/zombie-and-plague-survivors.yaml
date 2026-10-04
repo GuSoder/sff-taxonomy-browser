@@ -1,0 +1,55 @@
+id: zombie-and-plague-survivors
+label: Zombie and plague survivors
+parent: collapse-survivors
+origin: shadow-v3
+definition: Plague survivors.
+cards:
+- name: We Burned So Bright
+  origin: v3
+  books:
+  - title: We Burned So Bright
+    author: TJ Klune
+- name: Malorie
+  origin: v3
+  books:
+  - title: Malorie
+    author: Josh Malerman
+- name: Wasteland Bite
+  origin: v3
+  books:
+  - title: Bite
+    author: K. S. Merbeth
+  - title: Raid
+    author: K. S. Merbeth
+  - title: The Wastelanders
+    author: K. S. Merbeth
+- name: Wrath Moalem
+  origin: v3
+  books:
+  - title: Wrath
+    author: Sharon Moalem
+- name: The Remaining
+  origin: v3
+  books:
+  - title: The Remaining
+    author: D. J. Molles
+- name: Perdition's Storm
+  origin: v3
+  books:
+  - title: Perdition's Storm
+    author: Brian Trent
+- name: Slavemakers
+  origin: v3
+  books:
+  - title: Slavemakers
+    author: Joseph Wallace
+- name: Positive
+  origin: v3
+  books:
+  - title: Positive
+    author: David Wellington
+- name: Return Man
+  origin: v3
+  books:
+  - title: The Return Man
+    author: V. M. Zito

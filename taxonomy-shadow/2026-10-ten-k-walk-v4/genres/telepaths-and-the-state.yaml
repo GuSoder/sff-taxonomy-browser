@@ -1,0 +1,52 @@
+id: telepaths-and-the-state
+label: Telepaths and the state
+parent: psionics
+origin: shadow-v3
+definition: 'Psionics as a social fact: telepaths policed, hunted or ruling in an organised world.'
+cards:
+- name: The Demolished Man
+  origin: original
+  books:
+  - title: The Demolished Man
+- name: Slan
+  origin: original
+  books:
+  - title: Slan
+    author: A. E. van Vogt
+  - title: Slan Hunter
+    author: A. E. van Vogt
+- name: Patternmaster series
+  origin: v3
+  books:
+  - title: Clays Ark
+    author: Octavia E. Butler
+  - title: Mind of My Mind
+    author: Octavia E. Butler
+  - title: Patternmaster
+    author: Octavia E. Butler
+  - title: Seed to Harvest
+    author: Octavia E. Butler
+  - title: Survivor
+    author: Octavia E. Butler
+- name: D'neeran telepath books
+  origin: v3
+  books:
+  - title: Battleground
+    author: Terry A. Adams
+  - title: The D'neeran Factor
+    author: Terry A. Adams
+- name: Life During Wartime
+  origin: v3
+  books:
+  - title: Life During Wartime
+    author: J.G. Ballard
+- name: Absynthe
+  origin: v3
+  books:
+  - title: Absynthe
+    author: Brendan P. Bellecourt
+- name: Alphas
+  origin: v3
+  books:
+  - title: 'Alphas: Origins'
+    author: Ilona Andrews

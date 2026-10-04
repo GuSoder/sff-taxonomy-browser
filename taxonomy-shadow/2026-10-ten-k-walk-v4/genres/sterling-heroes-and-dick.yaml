@@ -1,0 +1,42 @@
+id: sterling-heroes-and-dick
+label: Sterling, heroes and Dick
+parent: odd-futures-silver-box
+origin: shadow-v3
+definition: Odd futures cont.
+cards:
+- name: Sterling Near Futures
+  origin: v3
+  books:
+  - title: The Zenith Angle
+    author: Bruce Sterling
+  - title: The Caryatids
+    author: Bruce Sterling
+- name: Heroes Die
+  origin: v3
+  books:
+  - title: Heroes Die
+    author: Matthew Woodring Stover
+  - title: Blade of Tyshalle
+    author: Matthew Woodring Stover
+- name: The Grays Strieber
+  origin: v3
+  books:
+  - title: The Grays
+    author: Whitley Strieber
+- name: Monday Starts on Saturday
+  origin: v3
+  books:
+  - title: Monday Starts on Saturday
+    author: Arkady Strugatsky
+- name: Dick Crack in Space and Lies Inc
+  origin: v3
+  books:
+  - title: Cantata-140
+    author: Philip K Dick
+  - title: Lies, Inc.
+    author: Philip K Dick
+- name: Transmigration of Timothy Archer
+  origin: v3
+  books:
+  - title: The Transmigration of Timothy Archer
+    author: Philip K Dick

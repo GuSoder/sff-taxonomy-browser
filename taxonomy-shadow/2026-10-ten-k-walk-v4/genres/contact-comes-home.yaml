@@ -1,0 +1,56 @@
+id: contact-comes-home
+label: Contact comes home
+parent: alien-expedition
+origin: shadow-v3
+definition: Contact stories where the alien arrives, is found, or is brought back and must be understood.
+cards:
+- name: Binti
+  origin: v3
+  books:
+  - title: 'Binti: The Complete Trilogy'
+    author: Nnedi Okorafor
+- name: Semiosis
+  origin: v3
+  books:
+  - title: Interference
+    author: Sue Burke
+  - title: Usurpation
+    author: Sue Burke
+- name: Shroud
+  origin: original
+  books:
+  - title: Shroud
+- name: Heaven's Shadow
+  origin: v3
+  books:
+  - title: Heaven's Shadow
+    author: David S. Goyer
+  - title: Heaven's War
+    author: David S. Goyer
+  - title: Heaven's Fall
+    author: David S. Goyer
+- name: Academy (Hutch)
+  origin: v3
+  books:
+  - title: The Engines Of God
+    author: Jack McDevitt
+  - title: Chindi
+    author: Jack McDevitt
+  - title: Omega
+    author: Jack McDevitt
+  - title: Odyssey
+    author: Jack McDevitt
+  - title: Cauldron
+    author: Jack McDevitt
+- name: The Return
+  origin: v3
+  books:
+  - title: The Return
+    author: Ben Bova
+- name: Alien Morning
+  origin: v3
+  books:
+  - title: Alien Morning
+    author: Rick Wilber
+  - title: Alien Day
+    author: Rick Wilber

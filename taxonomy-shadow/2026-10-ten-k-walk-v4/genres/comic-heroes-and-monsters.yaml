@@ -1,0 +1,102 @@
+id: comic-heroes-and-monsters
+label: Comic heroes and monsters
+parent: comic-fantasy-realms
+origin: shadow-v3
+definition: Comic fantasy about dragons, wizards, heroes and bounty work in invented worlds.
+cards:
+- name: I'm Afraid You've Got Dragons
+  origin: original
+  books:
+  - title: I'm Afraid You've Got Dragons
+- name: The Hiccup books (Cowell)
+  origin: v3
+  books:
+  - title: How to Be a Viking
+    author: Cressida Cowell
+  - title: How to Train Your Dragon
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon School: Doom of the Darkwing'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon School: Fight of the Flamestrike'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: A Heros Guide to Deadly Dragons'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Be a Pirate'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Betray a Dragons Hero'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Break a Dragons Heart'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Cheat a Dragons Curse'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Fight a Dragons Fury'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Ride a Dragons Storm'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Seize a Dragons Jewel'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Speak Dragonese'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Steal a Dragons Sword'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: How to Twist a Dragons Tale'
+    author: Cressida Cowell
+  - title: 'How to Train Your Dragon: The Complete Series'
+    author: Cressida Cowell
+- name: The Wizards of Once
+  origin: v3
+  books:
+  - title: The Wizards of Once
+    author: Cressida Cowell
+  - title: 'The Wizards of Once: Knock Three Times'
+    author: Cressida Cowell
+  - title: 'The Wizards of Once: Never and Forever'
+    author: Cressida Cowell
+  - title: 'The Wizards of Once: Twice Magic'
+    author: Cressida Cowell
+- name: E. Godz
+  origin: v3
+  books:
+  - title: E. Godz
+    author: Robert Asprin
+- name: Kill All Wizards
+  origin: v3
+  books:
+  - title: Kill All Wizards
+    author: Jedediah Berry
+- name: Indrajit and Fix
+  origin: v3
+  books:
+  - title: In the Palace of Shadow and Joy
+    author: D.J. Butler
+  - title: Between Princesses and Other Jobs
+    author: D.J. Butler
+- name: Charming Tales / Mysterium
+  origin: v3
+  books:
+  - title: A Fairy-tale Ending
+    author: Jack Heckel
+  - title: Happily Never After
+    author: Jack Heckel
+  - title: The Dark Lord
+    author: Jack Heckel
+  - title: The Darker Lord
+    author: Jack Heckel
+  - title: The Darkest Lord
+    author: Jack Heckel
+  - title: The Pitchfork of Destiny
+    author: Jack Heckel
+- name: Dragon Lords
+  origin: v3
+  books:
+  - title: 'The Dragon Lords: Bad Faith'
+    author: Jon Hollins
+  - title: 'The Dragon Lords: False Idols'
+    author: Jon Hollins
+  - title: 'The Dragon Lords: Fools Gold'
+    author: Jon Hollins
+- name: Til Quest Do Us Part
+  origin: v3
+  books:
+  - title: Til Quest Do Us Part
+    author: Ivelisse Housman

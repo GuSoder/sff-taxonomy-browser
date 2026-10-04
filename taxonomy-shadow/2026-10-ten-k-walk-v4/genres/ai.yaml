@@ -1,0 +1,41 @@
+id: ai
+label: AI
+parent: machine-minds
+origin: original
+definition: 'Disembodied or distributed machine intelligences: minds living in networks, databases and
+  systems rather than a single body. Embodiment test: if the story centers a machine in a body, it is
+  Robots; if it centers a disembodied or distributed intelligence, it is AI.'
+cards:
+- name: Dual Memory
+  origin: original
+  books:
+  - title: Dual Memory
+- name: River of Gods
+  origin: original
+  books:
+  - title: River of Gods
+- name: Michaelmas
+  origin: original
+  books:
+  - title: Michaelmas
+- name: The Outside
+  origin: original
+  books:
+  - title: The Outside
+- name: Where the Axe Is Buried
+  origin: original
+  books:
+  - title: Where the Axe Is Buried
+- name: Artificial Truth
+  origin: original
+  books:
+  - title: Artificial Truth
+- name: Playground
+  origin: original
+  books:
+  - title: Playground
+- name: The Turing Option
+  origin: v3
+  books:
+  - title: The Turing Option
+    author: Harry Harrison

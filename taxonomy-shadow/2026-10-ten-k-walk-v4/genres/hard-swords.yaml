@@ -1,0 +1,71 @@
+id: hard-swords
+label: Hard Swords
+parent: warrior-hero
+origin: shadow-v3
+definition: 'Martial-hero fantasy of the grim professional: mercenaries, killers and veterans.'
+cards:
+- name: Best Served Cold
+  origin: v3
+  books:
+  - title: Best Served Cold
+    author: Joe Abercrombie
+- name: Red Country
+  origin: v3
+  books:
+  - title: Red Country
+    author: Joe Abercrombie
+  - title: 'Red Country: Booktrack Edition'
+    author: Joe Abercrombie
+- name: Drenai Saga
+  origin: original
+  books:
+  - title: Legend
+    author: David Gemmell
+  - title: The King Beyond the Gate
+    author: David Gemmell
+  - title: Waylander
+    author: David Gemmell
+  - title: Quest for Lost Heroes
+    author: David Gemmell
+  - title: 'Waylander II: In the Realm of the Wolf'
+    author: David Gemmell
+  - title: The First Chronicles of Druss the Legend
+    author: David Gemmell
+  - title: The Legend of Deathwalker
+    author: David Gemmell
+  - title: Winter Warriors
+    author: David Gemmell
+  - title: Hero in the Shadows
+    author: David Gemmell
+  - title: White Wolf
+    author: David Gemmell
+  - title: The Swords of Night and Day
+    author: David Gemmell
+- name: Raven's Shadow
+  origin: v3
+  books:
+  - title: Blood Song
+    author: Anthony Ryan
+  - title: Tower Lord
+    author: Anthony Ryan
+  - title: Queen of Fire
+    author: Anthony Ryan
+- name: Conclave of Shadows
+  origin: v3
+  books:
+  - title: King of Foxes
+    author: Raymond E Feist
+  - title: Talon of the Silver Hawk
+    author: Raymond E Feist
+- name: The Paladin
+  origin: v3
+  books:
+  - title: The Paladin
+    author: C. J. Cherryh
+- name: Sword of Knowledge
+  origin: v3
+  books:
+  - title: A Dirge for Sabis
+    author: ''
+  - title: Wizard Spawn
+    author: ''

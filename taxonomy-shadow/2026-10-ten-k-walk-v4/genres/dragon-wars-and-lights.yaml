@@ -1,0 +1,65 @@
+id: dragon-wars-and-lights
+label: Dragon wars and lights
+parent: dragon-riders-and-fire-queens
+origin: shadow-v3
+definition: Dragons in war and in light-wielding sagas.
+cards:
+- name: Fury of Dragons
+  origin: v3
+  books:
+  - title: The Fury of Dragons
+    author: Sarah Feely
+- name: Light Wielder
+  origin: v3
+  books:
+  - title: Light Wielder
+    author: Fire
+- name: Illusionary
+  origin: v3
+  books:
+  - title: Illusionary
+    author: Zoraida Cordova
+  - title: Incendiary
+    author: Zoraida Cordova
+- name: Honeybloom
+  origin: v3
+  books:
+  - title: When Death Came to Honeybloom
+    author: Madeleine Gunhart
+- name: Jasad
+  origin: v3
+  books:
+  - title: Merciful Carnage
+    author: Sara Hashem
+  - title: The Jasad Crown
+    author: Sara Hashem
+  - title: The Jasad Heir
+    author: Sara Hashem
+- name: Stormlord
+  origin: v3
+  books:
+  - title: The Last Stormlord
+    author: Glenda Larke
+- name: Blood of the Four
+  origin: v3
+  books:
+  - title: Blood of the Four
+    author: Christopher Goldentim Lebbon
+- name: Storm Lord
+  origin: v3
+  books:
+  - title: Anackire
+    author: Tanith Lee
+  - title: The Storm Lord
+    author: Tanith Lee
+  - title: The White Serpent
+    author: Tanith Lee
+- name: Eric Van Lustbader
+  origin: v3
+  books:
+  - title: The Ring of Five Dragons
+    author: Eric Van Lustbader
+  - title: Mistress of the Pearl
+    author: Eric Van Lustbader
+  - title: The Veil of A Thousand Tears
+    author: Eric Van Lustbader

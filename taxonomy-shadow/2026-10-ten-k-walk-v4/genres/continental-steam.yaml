@@ -1,0 +1,33 @@
+id: continental-steam
+label: Continental Steam
+parent: steampunk
+origin: shadow-v3
+definition: 'Steampunk of continental Europe: war machines, rival powers and alt-Europe.'
+cards:
+- name: Leviathan
+  origin: original
+  books:
+  - title: Leviathan
+    author: Scott Westerfeld
+  - title: Behemoth
+    author: Scott Westerfeld
+  - title: Goliath
+    author: Scott Westerfeld
+- name: Clockwork Earth
+  origin: v3
+  books:
+  - title: Mainspring
+    author: Jay Lake
+  - title: Pinion
+    author: Jay Lake
+  - title: The Speed of Time
+    author: Jay Lake
+- name: Angel Maker
+  origin: original
+  books:
+  - title: Angel Maker
+- name: Black Leviathan
+  origin: v3
+  books:
+  - title: Black Leviathan
+    author: Bernd Perplies; Translated by Lucy Van Cleef

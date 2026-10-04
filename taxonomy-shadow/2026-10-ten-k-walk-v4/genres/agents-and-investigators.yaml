@@ -1,0 +1,74 @@
+id: agents-and-investigators
+label: Agents and investigators
+parent: wizard-detectives
+origin: shadow-v3
+definition: Agents who investigate.
+cards:
+- name: Hessius Mann
+  origin: v3
+  books:
+  - title: Dead Mann Walking
+    author: Stefan Petrucha
+  - title: Dead Mann Running
+    author: Stefan Petrucha
+  - title: Blood Prophecy
+    author: Stefan Petrucha
+- name: Signs of the Zodiac
+  origin: v3
+  books:
+  - title: Dark Matters
+    author: Vicki Pettersson
+  - title: The Harvest
+    author: Vicki Pettersson
+- name: Unquenchable Fire
+  origin: v3
+  books:
+  - title: Unquenchable Fire
+    author: Rachel Pollack
+- name: Powers Vickery
+  origin: v3
+  books:
+  - title: Alternate Routes
+    author: Tim Powers
+  - title: Forced Perspectives
+    author: Tim Powers
+- name: Pendergast and Preston
+  origin: v3
+  books:
+  - title: Extraction
+    author: Douglas Preston
+  - title: The Ice Limit
+    author: Douglas Preston
+- name: John Ridley Mutant Hunters
+  origin: v3
+  books:
+  - title: Those Who Walk in Darkness
+    author: John Ridley
+  - title: What Fire Cannot Burn
+    author: John Ridley
+- name: Thomas Sniegoski
+  origin: v3
+  books:
+  - title: The Demonists
+    author: Thomas E. Sniegoski
+  - title: Dark Exodus
+    author: Thomas E. Sniegoski
+- name: Here Be Monsters Stasheff
+  origin: v3
+  books:
+  - title: Here be Monsters
+    author: Christopher Stasheff
+- name: Fistful of Elven Gold
+  origin: v3
+  books:
+  - title: A Fistful of Elven Gold
+    author: Alex Stewart
+- name: Bartimaeus
+  origin: v3
+  books:
+  - title: Ptolemys Gate
+    author: Jonathan Stroud
+  - title: The Amulet of Samarkand
+    author: Jonathan Stroud
+  - title: The Golems Eye
+    author: Jonathan Stroud

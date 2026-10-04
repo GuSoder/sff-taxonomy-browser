@@ -1,0 +1,83 @@
+id: gods-and-black-companies
+label: Gods and black companies
+parent: wars-of-wizards
+origin: shadow-v3
+definition: Dark wars of mercenaries, gods and fallen powers.
+cards:
+- name: Instrumentalities of the Night
+  origin: v3
+  books:
+  - title: The Tyranny of the Night
+    author: Glen Cook
+  - title: Lord of the Silent Kingdom
+    author: Glen Cook
+  - title: The Tower of Fear
+    author: Glen Cook
+  - title: Surrender to the Will of the Night
+    author: Glen Cook
+  - title: Working God's Mischief
+    author: Glen Cook
+- name: Saga of the Forgotten Warrior
+  origin: v3
+  books:
+  - title: Graveyard of Demons
+    author: Larry Correia
+  - title: Heart of the Mountain
+    author: Larry Correia
+- name: Cullen Chalice
+  origin: v3
+  books:
+  - title: Seekers of the Chalice
+    author: Brian Cullen
+  - title: The Valley of Shadows
+    author: Brian Cullen
+- name: Deitz Bloodwinter
+  origin: v3
+  books:
+  - title: Summerblood
+    author: Tom Deitz
+  - title: Warautumn
+    author: Tom Deitz
+  - title: Springwar
+    author: Tom Deitz
+- name: Great God's War
+  origin: v3
+  books:
+  - title: Seventh Decimate
+    author: Stephen Donaldson
+  - title: The Killing God
+    author: Stephen Donaldson
+  - title: The War Within
+    author: Stephen Donaldson
+- name: Beyond Redemption
+  origin: v3
+  books:
+  - title: Beyond Redemption
+    author: Michael R Fletcher
+- name: God Fragments
+  origin: v3
+  books:
+  - title: God of Night
+    author: God Fragments
+  - title: Knight of Stars
+    author: God Fragments
+  - title: Princess of Blood
+    author: God Fragments
+  - title: Stranger of Tempest
+    author: God Fragments
+- name: Bound Gods
+  origin: v3
+  books:
+  - title: In the Shadow of the Gods
+    author: Rachel Dunne
+  - title: The Bones of the Earth
+    author: Rachel Dunne
+  - title: The Shattered Sun
+    author: Rachel Dunne
+- name: Age of Ire
+  origin: v3
+  books:
+  - title: Rise of the Mages
+    author: Scott Drakeford
+  - title: The Fate of Silent Gods
+    author: Scott Drakeford

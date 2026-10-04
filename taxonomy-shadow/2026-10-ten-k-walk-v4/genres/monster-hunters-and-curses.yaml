@@ -1,0 +1,88 @@
+id: monster-hunters-and-curses
+label: Monster hunters and curses
+parent: packs-and-courts
+origin: shadow-v3
+definition: Present-day fantasy of curses, monsters and people hunting them.
+cards:
+- name: The Cerulean Chronicles
+  origin: original
+  books:
+  - title: The House in the Cerulean Sea
+    author: TJ Klune
+  - title: Somewhere Beyond the Sea
+    author: TJ Klune
+- name: Simon Canderous
+  origin: original
+  books:
+  - title: Dead to Me
+    author: Anton Strout
+  - title: Deader Still
+    author: Anton Strout
+  - title: Dead Matter
+    author: Anton Strout
+  - title: Dead Waters
+    author: Anton Strout
+- name: Gwen Gellman
+  origin: v3
+  books:
+  - title: Shadows in the Darkness
+    author: Elaine Cunningham
+  - title: Shadows in the Starlight
+    author: Elaine Cunningham
+- name: Sunyi Dean
+  origin: v3
+  books:
+  - title: How To Cook and Eat the Rich
+    author: Sunyi Dean
+  - title: The Girl with a Thousand Faces
+    author: Sunyi Dean
+- name: Devereux
+  origin: v3
+  books:
+  - title: Eagle Rising
+    author: David Devereux
+  - title: Hunter's Moon
+    author: David Devereux
+- name: Monster Hunter's Bargain
+  origin: v3
+  books:
+  - title: Ace Up Her Sleeve
+    author: Genoveva Dimova
+  - title: Foul Days
+    author: Genoveva Dimova
+  - title: Monstrous Nights
+    author: Genoveva Dimova
+  - title: The Monster Hunters Bargain
+    author: Genoveva Dimova
+- name: Ruby Dixon romantasy
+  origin: v3
+  books:
+  - title: Bull Moon Rising
+    author: Ruby Dixon
+  - title: By the Horns
+    author: Ruby Dixon
+- name: Asylum Tales
+  origin: v3
+  books:
+  - title: 'The Asylum Interviews: Bronx'
+    author: Jocelynn Drake
+  - title: 'The Asylum Interviews: Trixie'
+    author: Jocelynn Drake
+  - title: The Dead, the Damned, and the Forgotten
+    author: Jocelynn Drake
+  - title: Angel's Ink
+    author: ''
+  - title: Dead Man's Deal
+    author: ''
+- name: My Soul to Keep
+  origin: v3
+  books:
+  - title: My Soul to Keep
+    author: Tananarive Due
+- name: Elrod
+  origin: v3
+  books:
+  - title: Keeper of the King
+    author: P. N. Elrod
+  - title: The Hanged Man
+    author: P. N. Elrod

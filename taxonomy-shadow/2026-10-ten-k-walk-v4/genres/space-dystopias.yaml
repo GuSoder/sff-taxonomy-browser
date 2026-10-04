@@ -1,0 +1,61 @@
+id: space-dystopias
+label: Space dystopias
+parent: spacefaring-fiction
+origin: original
+definition: 'Spacefaring human futures where the social order itself is the horror: closed, oppressive
+  societies off Earth.'
+cards:
+- name: Red Rising
+  origin: v3
+  books:
+  - title: Golden Son
+    author: Pierce Brown
+  - title: Morning Star
+    author: Pierce Brown
+  - title: Iron Gold
+    author: Pierce Brown
+  - title: Dark Age
+    author: Pierce Brown
+  - title: Light Bringer
+    author: Pierce Brown
+- name: A Time of Changes
+  origin: original
+  books:
+  - title: A Time of Changes
+- name: An Unkindness of Ghosts
+  origin: original
+  books:
+  - title: An Unkindness of Ghosts
+- name: Dead Souls
+  origin: original
+  books:
+  - title: Dead Souls
+- name: The Thick and the Lean
+  origin: original
+  books:
+  - title: The Thick and the Lean
+- name: The Gap Cycle
+  origin: v3
+  books:
+  - title: The Real Story & Forbidden Knowledge
+    author: Stephen Donaldson
+  - title: A Dark and Hungry God Arises
+    author: Stephen R. Donaldson
+  - title: Chaos and Order
+    author: Stephen R. Donaldson
+  - title: The Real Story
+    author: Stephen R. Donaldson
+  - title: This Day All Gods Die
+    author: Stephen R. Donaldson
+  - title: Forbidden Knowledge
+    author: Stephen R. Donaldson
+- name: Fortress Sol
+  origin: v3
+  books:
+  - title: Fortress Sol
+    author: Stephen Baxter
+- name: Archive Undying
+  origin: v3
+  books:
+  - title: The Archive Undying
+    author: Emma Mieko Candon

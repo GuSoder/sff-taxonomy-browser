@@ -1,0 +1,37 @@
+id: near-future-first-contact
+label: Near-future first contact
+parent: first-contact
+origin: original
+definition: First-contact stories set on near-future Earth, where alien presence transforms a recognizable
+  human world before any far-future expansion among the stars. The label mirrors the review-community
+  phrase near-future first contact and the sibling Far-future first contact.
+cards:
+- name: A Half-Built Garden
+  origin: original
+  books:
+  - title: A Half-Built Garden
+- name: Beyond the Light Horizon
+  origin: original
+  books:
+  - title: Beyond the Light Horizon
+- name: Exordia
+  origin: original
+  books:
+  - title: Exordia
+- name: The Blue, Beautiful World
+  origin: original
+  books:
+  - title: The Blue, Beautiful World
+- name: Troy Rising
+  origin: v3
+  books:
+  - title: Live Free or Die
+    author: John Ringo
+  - title: Citadel
+    author: John Ringo
+  - title: The Hot Gate
+    author: John Ringo
+  - title: Troy Rising
+    author: John Ringo
+  - title: Live Free or Die, Second Edition
+    author: John Ringo

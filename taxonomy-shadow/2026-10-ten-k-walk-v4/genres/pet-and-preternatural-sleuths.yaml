@@ -1,0 +1,83 @@
+id: pet-and-preternatural-sleuths
+label: Pet and preternatural sleuths
+parent: period-and-pet-sleuths
+origin: shadow-v3
+definition: Odd modern sleuths.
+cards:
+- name: A Lee Martinez
+  origin: v3
+  books:
+  - title: Gil's All Fright Diner
+    author: A. Lee Martinez
+  - title: In the Company of Ogres
+    author: A. Lee Martinez
+  - title: A Nameless Witch
+    author: A. Lee Martinez
+  - title: Too Many Curses
+    author: A. Lee Martinez
+  - title: Unbearable
+    author: A. Lee Martinez
+- name: Joe Grey
+  origin: v3
+  books:
+  - title: Cat on the Edge
+    author: Shirley Rousseau Murphy
+  - title: Cat Raise the Dead
+    author: Shirley Rousseau Murphy
+  - title: Cat Under Fire
+    author: Shirley Rousseau Murphy
+  - title: The Catswold Portal
+    author: Shirley Rousseau Murphy
+- name: Preternatural Bureau
+  origin: v3
+  books:
+  - title: Nightshades
+    author: Melissa F. Olson
+  - title: Switchback
+    author: Melissa F. Olson
+  - title: Outbreak
+    author: Melissa F. Olson
+- name: City of Wolves
+  origin: v3
+  books:
+  - title: City of Wolves
+    author: Willow Palecek
+- name: Esther Diamond
+  origin: v3
+  books:
+  - title: Doppelgangster
+    author: Laura Resnick
+  - title: Unsympathetic Magic
+    author: Laura Resnick
+  - title: Vamparazzi
+    author: Laura Resnick
+  - title: Disappearing Nightly
+    author: Laura Resnick
+  - title: Polterheist
+    author: Laura Resnick
+  - title: The Misfortune Cookie
+    author: Laura Resnick
+  - title: Abracadaver
+    author: Laura Resnick
+- name: SPI Files
+  origin: v3
+  books:
+  - title: The Grendel Affair
+    author: Lisa Shearin
+  - title: The Dragon Conspiracy
+    author: Lisa Shearin
+  - title: The Brimstone Deception
+    author: Lisa Shearin
+  - title: The Ghoul Vendetta
+    author: Lisa Shearin
+- name: Wen Spencer Urban
+  origin: v3
+  books:
+  - title: Dog Warrior
+    author: Wen Spencer
+  - title: Eight Million Gods
+    author: Wen Spencer
+  - title: The Black Wolves of Boston
+    author: Wen Spencer
+  - title: Black Tie and Tails
+    author: Wen Spencer

@@ -1,0 +1,78 @@
+id: swordswomen
+label: Swordswomen
+parent: warrior-hero
+origin: shadow-v3
+definition: Martial-hero fantasy with a woman warrior at its center.
+cards:
+- name: Jirel of Joiry
+  origin: original
+  books:
+  - title: Jirel of Joiry
+- name: Graceling Realm
+  origin: original
+  books:
+  - title: Graceling
+    author: Kristin Cashore
+  - title: Fire
+    author: Kristin Cashore
+  - title: Bitterblue
+    author: Kristin Cashore
+  - title: Winterkeep
+    author: Kristin Cashore
+  - title: Seasparrow
+    author: Kristin Cashore
+- name: Forgotten Warrior
+  origin: v3
+  books:
+  - title: Son of the Black Sword
+    author: Larry Correia
+  - title: House of Assassins
+    author: Larry Correia
+  - title: Destroyer of Worlds
+    author: Larry Correia
+  - title: Tower of Silence
+    author: Larry Correia
+- name: Godkiller
+  origin: original
+  books:
+  - title: Godkiller
+- name: The Empire Burns at Dawn
+  origin: v3
+  books:
+  - title: The Empire Burns at Dawn
+    author: Fatima Al-Shemary
+- name: Maddileh
+  origin: v3
+  books:
+  - title: The Bloodless Princes
+    author: Charlotte Bond
+  - title: The Fireborne Blade
+    author: Charlotte Bond
+- name: Razia Khan
+  origin: v3
+  books:
+  - title: Stealing Thunder
+    author: Alina Boyden
+  - title: Gifting Fire
+    author: Alina Boyden
+- name: Aralorn
+  origin: v3
+  books:
+  - title: Masques
+    author: Patricia Briggs
+  - title: Wolfsbane
+    author: Patricia Briggs
+- name: Heart of Vengeance
+  origin: v3
+  books:
+  - title: Heart of Vengeance
+    author: Mei Goodwin
+- name: R M Gray
+  origin: v3
+  books:
+  - title: Cursebreaker
+    author: R. M. Gray
+  - title: Nightweaver
+    author: R. M. Gray
+  - title: Starchaser
+    author: R. M. Gray

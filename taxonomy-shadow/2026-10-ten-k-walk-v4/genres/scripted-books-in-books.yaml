@@ -1,0 +1,16 @@
+id: scripted-books-in-books
+label: Scripted books in books
+parent: books-in-books
+origin: original
+definition: Books-in-books fiction where reality is revealed or called into question as authored - a world
+  written, narrated or computed from inside, whose inhabitants or readers confront the possibility that
+  its lives and events are someone else's text.
+cards:
+- name: The Anomaly
+  origin: original
+  books:
+  - title: The Anomaly
+- name: We Computers
+  origin: original
+  books:
+  - title: We Computers

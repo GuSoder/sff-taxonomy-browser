@@ -1,0 +1,71 @@
+id: clockwork-london
+label: Clockwork London
+parent: victorian-steam
+origin: shadow-v3
+definition: Steam-age adventures of engines and clockwork.
+cards:
+- name: The Difference Engine
+  origin: original
+  books:
+  - title: The Difference Engine
+- name: Gideon Smith
+  origin: v3
+  books:
+  - title: Gideon Smith and the Mechanical Girl
+    author: David Barnett
+  - title: Gideon Smith and the Brass Dragon
+    author: David Barnett
+  - title: The Golden Apple of Shangri-La
+    author: David Barnett
+  - title: Gideon Smith and the Mask of the Ripper
+    author: David Barnett
+- name: Doktor Glass
+  origin: v3
+  books:
+  - title: Doktor Glass
+    author: Thomas Brennan
+- name: Brass Giant
+  origin: v3
+  books:
+  - title: The Brass Giant
+    author: Brooke Johnson
+  - title: The Guild Conspiracy
+    author: Brooke Johnson
+- name: Newbury & Hobbes
+  origin: v3
+  books:
+  - title: The Affinity Bridge
+    author: George Mann
+  - title: The Osiris Ritual
+    author: George Mann
+  - title: The Immorality Engine
+    author: George Mann
+  - title: The Executioner's Heart
+    author: George Mann
+  - title: The Revenant Express
+    author: George Mann
+  - title: The Albion Initiative
+    author: George Mann
+- name: Eterna Files
+  origin: v3
+  books:
+  - title: The Eterna Files
+    author: Leanna Renee Hieber
+  - title: Eterna and Omega
+    author: Leanna Renee Hieber
+  - title: The Eterna Solution
+    author: Leanna Renee Hieber
+- name: Baskerville Affair
+  origin: v3
+  books:
+  - title: A Study in Ashes
+    author: Emma Jane Holloway
+  - title: A Study in Darkness
+    author: Emma Jane Holloway
+  - title: A Study in Silks
+    author: Emma Jane Holloway
+- name: The Grand Dark
+  origin: v3
+  books:
+  - title: The Grand Dark
+    author: Richard Kadrey

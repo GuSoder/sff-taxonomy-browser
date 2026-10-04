@@ -1,0 +1,21 @@
+id: alt-crusade-fantasy
+label: Alt crusade fantasy
+parent: alternate-history-fantasy
+origin: original
+definition: 'Alternate history fantasy of medieval Christendom and the crusading age, Europe and the Levant:
+  the Church, holy war and knighthood reworked, and magic is the engine: history is openly rewritten and
+  the world runs on magic.'
+cards:
+- name: The Devils
+  origin: original
+  books:
+  - title: The Devils
+- name: The Crucible (Douglass)
+  origin: v3
+  books:
+  - title: The Crippled Angel
+    author: Sara Douglass
+  - title: The Nameless Day
+    author: Sara Douglass
+  - title: The Wounded Hawk
+    author: Sara Douglass

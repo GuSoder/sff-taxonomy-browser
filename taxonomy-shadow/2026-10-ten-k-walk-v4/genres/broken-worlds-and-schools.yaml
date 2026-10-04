@@ -1,0 +1,41 @@
+id: broken-worlds-and-schools
+label: Broken worlds and schools
+parent: ruined-futures
+origin: shadow-v3
+definition: Broken worlds.
+cards:
+- name: Outlaw School
+  origin: v3
+  books:
+  - title: Outlaw School
+    author: Rebecca Ore
+- name: Celestis
+  origin: v3
+  books:
+  - title: Celestis
+    author: Paul Park
+- name: Engine's Child
+  origin: v3
+  books:
+  - title: The Engine's Child
+    author: Holly Phillips
+- name: Greenest Gecko
+  origin: v3
+  books:
+  - title: The Greenest Gecko
+    author: Ploy Pirapokin
+- name: Seventh Perfection
+  origin: v3
+  books:
+  - title: The Seventh Perfection
+    author: Daniel Polansky
+- name: Grace at the End of the World
+  origin: v3
+  books:
+  - title: Grace at the End of the World
+    author: Christian Trimmer
+- name: Young World
+  origin: v3
+  books:
+  - title: The Young World
+    author: Chris Weitz

@@ -1,0 +1,56 @@
+id: wonder-machines
+label: Wonder machines
+parent: technofantasy
+origin: shadow-v3
+definition: 'Bright, adventure-forward fantasy whose magic wears technological trappings: wondrous machinery,
+  artifacts, airships.'
+cards:
+- name: Bluecrowne
+  origin: original
+  books:
+  - title: Bluecrowne
+- name: The Iron Dragon's Mother
+  origin: original
+  books:
+  - title: The Iron Dragon's Mother
+- name: Road to Ruin
+  origin: original
+  books:
+  - title: Road to Ruin
+- name: Craft Sequence
+  origin: v3
+  books:
+  - title: Three Parts Dead
+    author: Max Gladstone
+  - title: Two Serpents Rise
+    author: Max Gladstone
+  - title: A Kiss With Teeth
+    author: Max Gladstone
+  - title: Full Fathom Five
+    author: Max Gladstone
+  - title: Last First Snow
+    author: Max Gladstone
+  - title: Four Roads Cross
+    author: Max Gladstone
+  - title: Crispin's Model
+    author: Max Gladstone
+  - title: The Ruin of Angels
+    author: Max Gladstone
+  - title: The Scholast in the Low Waters Kingdom
+    author: Max Gladstone
+  - title: The Craft Sequence
+    author: Max Gladstone
+- name: Alchemy Wars
+  origin: v3
+  books:
+  - title: The Liberation
+    author: Ian Tregillis
+  - title: The Mechanical
+    author: Ian Tregillis
+  - title: The Rising
+    author: Ian Tregillis
+- name: Grand Ellipse
+  origin: v3
+  books:
+  - title: The Grand Ellipse
+    author: Paula Volsky

@@ -1,0 +1,70 @@
+id: inherited-family-magic
+label: Inherited family magic
+parent: birthright-magic
+origin: shadow-v3
+definition: Magic passed in a family or bloodline, with cost, secrets and a young heir to it.
+cards:
+- name: Among Others
+  origin: original
+  books:
+  - title: Among Others
+- name: The Shadowshaper Cypher
+  origin: original
+  books:
+  - title: Shadowshaper
+    author: Daniel José Older
+  - title: Shadowhouse Fall
+    author: Daniel José Older
+  - title: Shadowshaper Legacy
+    author: Daniel José Older
+- name: The Mirror Season
+  origin: original
+  books:
+  - title: The Mirror Season
+- name: Heir Chronicles
+  origin: v3
+  books:
+  - title: 'Heir Chronicles: Books I-III'
+    author: Cinda Williams Chima
+  - title: The Dragon Heir
+    author: Cinda Williams Chima
+  - title: The Enchanter Heir
+    author: Cinda Williams Chima
+  - title: The Sorcerer Heir
+    author: Cinda Williams Chima
+  - title: The Warrior Heir
+    author: Cinda Williams Chima
+  - title: The Wizard Heir
+    author: Cinda Williams Chima
+- name: Hawkweed
+  origin: v3
+  books:
+  - title: The Hawkweed Legacy
+    author: Irena Brignull
+- name: Gifted and Talented
+  origin: v3
+  books:
+  - title: Gifted & Talented
+    author: Olivie Blake
+- name: Hidden Things
+  origin: v3
+  books:
+  - title: Hidden Things
+    author: Doyce Testerman
+- name: Lisa Tuttle
+  origin: v3
+  books:
+  - title: The Mysteries
+    author: Lisa Tuttle
+  - title: The Silver Bough
+    author: Lisa Tuttle
+- name: Home Fires
+  origin: v3
+  books:
+  - title: Home Fires
+    author: Gene Wolfe
+- name: Seven Miracles of Beatrix Holland
+  origin: v3
+  books:
+  - title: The Seven Miracles of Beatrix Holland
+    author: Rachael Herron

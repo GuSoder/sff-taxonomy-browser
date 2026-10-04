@@ -1,0 +1,59 @@
+id: young-heroes-and-guilds
+label: Young heroes and guilds
+parent: farm-boy-fellowships
+origin: shadow-v3
+definition: Young heroes joining guilds, knights and magic.
+cards:
+- name: Devlin
+  origin: v3
+  books:
+  - title: Devlin's Luck
+    author: Patricia Bray
+  - title: Devlin's Justice
+    author: Patricia Bray
+  - title: Devlin's Honor
+    author: Patricia Bray
+- name: Kelleher
+  origin: v3
+  books:
+  - title: Children of Enchantment
+    author: Anne Kelleher Bush
+  - title: The Knight, the Harp, and the Maiden
+    author: Anne Kelleher Bush
+- name: Campbell Darak
+  origin: v3
+  books:
+  - title: Heartwood
+    author: Barbara Campbell
+  - title: Bloodstone
+    author: Barbara Campbell
+  - title: Foxfire
+    author: Barbara Campbell
+- name: Adventurers Guild
+  origin: v3
+  books:
+  - title: The Adventurers Guild
+    author: Zack Loran Clark
+  - title: 'The Adventurers Guild: Night of Dangers'
+    author: Zack Loran Clark
+  - title: 'The Adventurers Guild: Twilight of the Elves'
+    author: Zack Loran Clark
+- name: Tale of Magic
+  origin: v3
+  books:
+  - title: A Tale of Magic...
+    author: Chris Colfer
+  - title: A Tale of Sorcery...
+    author: Chris Colfer
+  - title: A Tale of Witchcraft...
+    author: Chris Colfer
+- name: No Game for Knights
+  origin: v3
+  books:
+  - title: No Game for Knights
+    author: Larry Correia
+- name: Seventh Sigil
+  origin: v3
+  books:
+  - title: The Seventh Sigil
+    author: Margaret Weis

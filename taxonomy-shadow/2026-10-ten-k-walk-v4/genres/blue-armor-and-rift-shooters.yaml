@@ -1,0 +1,54 @@
+id: blue-armor-and-rift-shooters
+label: Endless blue, armor and rifts
+parent: virga-and-reynolds-wars
+origin: shadow-v3
+definition: Space SF cont.
+cards:
+- name: Endless Blue
+  origin: v3
+  books:
+  - title: Endless Blue
+    author: Wen Spencer
+- name: Paradigms Lost
+  origin: v3
+  books:
+  - title: Paradigms Lost
+    author: Ryk E. Spoor
+- name: Armor
+  origin: v3
+  books:
+  - title: Armor
+    author: John Steakley
+- name: Ferrett Steinmetz SF
+  origin: v3
+  books:
+  - title: The Sol Majestic
+    author: Ferrett Steinmetz
+  - title: Automatic Reload
+    author: Ferrett Steinmetz
+- name: Schismatrix
+  origin: v3
+  books:
+  - title: Schismatrix Plus
+    author: Bruce Sterling
+- name: Shooting the Rift
+  origin: v3
+  books:
+  - title: Shooting the Rift
+    author: Alex Stewart
+- name: Eschaton
+  origin: v3
+  books:
+  - title: Singularity Sky
+    author: Charles Stross
+  - title: Iron Sunrise
+    author: Charles Stross
+- name: Stross Posthuman
+  origin: v3
+  books:
+  - title: Glasshouse
+    author: Charles Stross
+  - title: Saturn's Children
+    author: Charles Stross
+  - title: Neptune's Brood
+    author: Charles Stross

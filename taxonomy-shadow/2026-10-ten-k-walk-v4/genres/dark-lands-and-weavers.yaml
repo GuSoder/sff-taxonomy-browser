@@ -1,0 +1,56 @@
+id: dark-lands-and-weavers
+label: Dark lands and weavers
+parent: gothic-houses
+origin: shadow-v3
+definition: Gothic fantasy in dark lands and haunted hollows.
+cards:
+- name: Weavingshaw
+  origin: v3
+  books:
+  - title: Weavingshaw
+    author: Heba Al-Wasity
+- name: Belladonna
+  origin: v3
+  books:
+  - title: Belladonna
+    author: Adalyn Grace
+  - title: Foxglove
+    author: Adalyn Grace
+  - title: The Belladonna Collection
+    author: Adalyn Grace
+  - title: Wisteria
+    author: Adalyn Grace
+- name: Hell's Heart
+  origin: v3
+  books:
+  - title: Hell's Heart
+    author: Alexis Hall
+- name: Karina Halle Sleepy Hollow
+  origin: v3
+  books:
+  - title: Hollow
+    author: Karina Halle
+  - title: Legend
+    author: Karina Halle
+- name: Spiderlight
+  origin: v3
+  books:
+  - title: Spiderlight
+    author: Adrian Tchaikovsky
+- name: Robin Hood Vaughn
+  origin: v3
+  books:
+  - title: The Ghosts of Sherwood
+    author: Carrie Vaughn
+  - title: The Heirs of Locksley
+    author: Carrie Vaughn
+- name: Braided Path
+  origin: v3
+  books:
+  - title: The Braided Path
+    author: Chris Wooding
+- name: Tarakan Chronicles
+  origin: v3
+  books:
+  - title: The Puzzler's War
+    author: ''

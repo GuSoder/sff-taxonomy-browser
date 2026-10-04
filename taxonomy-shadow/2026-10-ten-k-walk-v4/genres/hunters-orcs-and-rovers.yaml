@@ -1,0 +1,96 @@
+id: hunters-orcs-and-rovers
+label: Hunters, orcs and rovers
+parent: kingdoms-and-outlaws
+origin: shadow-v3
+definition: Questing bands.
+cards:
+- name: Recluce Cyador
+  origin: v3
+  books:
+  - title: Overcaptain
+    author: L. E. Modesitt
+  - title: Sub-Majer's Challenge
+    author: L. E. Modesitt
+  - title: Last of the First
+    author: L. E. Modesitt
+  - title: In Endless Twilight
+    author: L.E. Modesitt
+  - title: The Silent Warrior
+    author: L.E. Modesitt
+- name: Arcanum Morden
+  origin: v3
+  books:
+  - title: Arcanum
+    author: Simon Morden
+- name: Dragon Hunters Naslund
+  origin: v3
+  books:
+  - title: Blood of an Exile
+    author: Brian Naslund
+  - title: Sorcery of a Queen
+    author: Brian Naslund
+  - title: Fury of a Demon
+    author: Brian Naslund
+- name: Orcs
+  origin: v3
+  books:
+  - title: Orcs
+    author: Stan Nicholls
+  - title: 'Orcs: Army of Shadows'
+    author: Stan Nicholls
+  - title: 'Orcs: Bad Blood'
+    author: Stan Nicholls
+  - title: 'Orcs: Inferno'
+    author: Stan Nicholls
+- name: Demon Overlord Band of Others
+  origin: v3
+  books:
+  - title: Band of Others
+    author: none
+- name: Rover Odom
+  origin: v3
+  books:
+  - title: The Rover
+    author: Mel Odom
+  - title: Lord of the Libraries
+    author: Mel Odom
+  - title: The Quest for the Trilogy
+    author: Mel Odom
+  - title: 'Boneslicer: The Quest for the Trilogy'
+    author: Mel Odom
+  - title: 'Seaspray: The Quest for the Trilogy'
+    author: Mel Odom
+  - title: The Destruction of the Books
+    author: Mel Odom
+- name: Seven-Petaled Shield
+  origin: v3
+  books:
+  - title: Shannivar
+    author: Deborah J. Ross
+  - title: The Seven-Petaled Shield
+    author: Deborah J. Ross
+  - title: The Heir of Khored
+    author: Deborah J. Ross
+- name: Magician of Tiger Castle
+  origin: v3
+  books:
+  - title: The Magician of Tiger Castle
+    author: Louis Sachar
+- name: Grim Company
+  origin: v3
+  books:
+  - title: The Grim Company
+    author: Luke Scull
+  - title: Sword of the North
+    author: Luke Scull
+  - title: Dead Man's Steel
+    author: Luke Scull
+- name: Shackle Last War
+  origin: v3
+  books:
+  - title: A Fool's Hope
+    author: Mike Shackle
+  - title: Until the Last
+    author: Mike Shackle
+  - title: We Are The Dead
+    author: Mike Shackle

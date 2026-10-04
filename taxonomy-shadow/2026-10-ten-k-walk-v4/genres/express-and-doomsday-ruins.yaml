@@ -1,0 +1,61 @@
+id: express-and-doomsday-ruins
+label: Express trains and doomsday mornings
+parent: ruin-lists-a
+origin: shadow-v3
+definition: Ruins.
+cards:
+- name: Solar Express
+  origin: v3
+  books:
+  - title: Solar Express
+    author: L. E. Modesitt
+- name: Doomsday Morning
+  origin: v3
+  books:
+  - title: Doomsday Morning
+    author: C.L. Moore
+- name: Metrozone
+  origin: v3
+  books:
+  - title: The Curve of The Earth
+    author: Simon Morden
+- name: America Pacifica
+  origin: v3
+  books:
+  - title: America Pacifica
+    author: Anna North
+- name: As We Fall Through Time
+  origin: v3
+  books:
+  - title: As We Fall Through Time
+    author: Claire North
+  - title: Notes from the Burning Age
+    author: Claire North
+- name: Who Fears Death
+  origin: v3
+  books:
+  - title: The Book of Phoenix
+    author: Nnedi Okorafor
+  - title: Who Fears Death
+    author: Nnedi Okorafor
+  - title: She Who Knows
+    author: Nnedi Okorafor
+- name: Snowfall Trilogy
+  origin: v3
+  books:
+  - title: Kingdom River
+    author: Mitchell Smith
+  - title: Moonrise
+    author: Mitchell Smith
+  - title: Snowfall
+    author: Mitchell Smith
+- name: Unforgettable Stone
+  origin: v3
+  books:
+  - title: Unforgettable
+    author: Eric James Stone
+- name: Patriots Drake
+  origin: v3
+  books:
+  - title: Patriots
+    author: David Drake

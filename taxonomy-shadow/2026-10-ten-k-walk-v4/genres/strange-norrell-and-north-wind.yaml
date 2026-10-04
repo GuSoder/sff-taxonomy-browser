@@ -1,0 +1,39 @@
+id: strange-norrell-and-north-wind
+label: Strange, Norrell and the north wind
+parent: regency-and-victorian-faerie
+origin: shadow-v3
+definition: Regency faerie.
+cards:
+- name: Jonathan Strange & Mr Norrell
+  origin: original
+  books:
+  - title: Jonathan Strange & Mr Norrell
+- name: At the Back of the North Wind
+  origin: original
+  books:
+  - title: At the Back of the North Wind
+- name: The Adventures of Mary Darling
+  origin: original
+  books:
+  - title: The Adventures of Mary Darling
+- name: Regency Faerie Tales (Atwater)
+  origin: v3
+  books:
+  - title: Half a Soul
+    author: Olivia Atwater
+  - title: Longshadow
+    author: Olivia Atwater
+  - title: Ten Thousand Stitches
+    author: Olivia Atwater
+- name: Strangely Beautiful
+  origin: v3
+  books:
+  - title: Strangely Beautiful
+    author: Leanna Renee Hieber
+  - title: The Strangely Beautiful Saga
+    author: Leanna Renee Hieber
+- name: Charwoman's Shadow
+  origin: v3
+  books:
+  - title: The Charwoman's Shadow
+    author: Lord Dunsany

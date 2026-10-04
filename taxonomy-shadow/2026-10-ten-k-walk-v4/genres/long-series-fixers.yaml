@@ -1,0 +1,107 @@
+id: long-series-fixers
+label: Long-series fixers
+parent: fixers-and-traders
+origin: shadow-v3
+definition: Long series led by a fixer or wanderer.
+cards:
+- name: Humanx Commonwealth (Flinx)
+  origin: v3
+  books:
+  - title: The Tar-Aiym Krang
+    author: Alan Dean Foster
+  - title: Orphan Star
+    author: Alan Dean Foster
+  - title: Bloodhype
+    author: Alan Dean Foster
+  - title: Diuturnity's Dawn
+    author: Alan Dean Foster
+  - title: Flinx in Flux
+    author: Alan Dean Foster
+  - title: For Love of Mother Not
+    author: Alan Dean Foster
+  - title: Reunion
+    author: Alan Dean Foster
+  - title: Flinx's Folly
+    author: Alan Dean Foster
+  - title: The Candle of Distant Earth
+    author: Alan Dean Foster
+  - title: Quofum
+    author: Alan Dean Foster
+  - title: Flinx Transcendent
+    author: Alan Dean Foster
+  - title: Relic
+    author: Alan Dean Foster
+- name: Alan Dean Foster SF
+  origin: v3
+  books:
+  - title: Interlopers
+    author: Alan Dean Foster
+  - title: Drowning World
+    author: Alan Dean Foster
+  - title: Running from the Deity
+    author: Alan Dean Foster
+  - title: Sliding Scales
+    author: Alan Dean Foster
+  - title: The Light-years Beneath My Feet
+    author: Alan Dean Foster
+  - title: Trouble Magnet
+    author: Alan Dean Foster
+  - title: Patrimony
+    author: Alan Dean Foster
+  - title: Strange Music
+    author: Alan Dean Foster
+- name: Sorceress of Karres
+  origin: v3
+  books:
+  - title: The Sorceress of Karres
+    author: Eric Flint
+  - title: The Shaman of Karres
+    author: Eric Flint
+- name: Clan Chronicles
+  origin: v3
+  books:
+  - title: Ties of Power
+    author: Julie E. Czerneda
+  - title: To Trade the Stars
+    author: Julie E. Czerneda
+  - title: A Thousand Words for Stranger
+    author: Julie E. Czerneda
+  - title: Reap the Wild Wind
+    author: Julie E. Czerneda
+  - title: Beholder's Eye
+    author: Julie E. Czerneda
+  - title: Changing Vision
+    author: Julie E. Czerneda
+  - title: Hidden in Sight
+    author: Julie E. Czerneda
+  - title: This Gulf of Time and Stars
+    author: Julie E. Czerneda
+  - title: The Gate to Futures Past
+    author: Julie E. Czerneda
+  - title: Search Image
+    author: Julie E. Czerneda
+  - title: To Guard Against the Dark
+    author: Julie E. Czerneda
+  - title: Mirage
+    author: Julie E. Czerneda
+  - title: Spectrum
+    author: Julie E. Czerneda
+- name: Travis Taylor Hard SF
+  origin: v3
+  books:
+  - title: The Quantum Connection
+    author: Travis S. Taylor
+  - title: Neighborhood Watch Final Report
+    author: Travis S. Taylor
+  - title: One Day on Mars
+    author: Travis S. Taylor
+  - title: The Tau Ceti Agenda
+    author: Travis S. Taylor
+  - title: One Good Soldier
+    author: Travis S. Taylor
+  - title: Trail of Evil
+    author: Travis S. Taylor
+  - title: Kill Before Dying
+    author: Travis S. Taylor
+  - title: Bringers of Hell
+    author: Travis S. Taylor

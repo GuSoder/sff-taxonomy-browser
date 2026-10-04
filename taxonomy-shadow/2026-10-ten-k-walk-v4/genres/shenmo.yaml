@@ -1,0 +1,25 @@
+id: shenmo
+label: Shenmo
+parent: chuanqi
+origin: original
+definition: '神魔 (shenmo), the Ming-era Chinese gods-and-demons tradition descending from Journey to the
+  West: mythic adventures shaped by deities, demons, ghosts, animal spirits, celestial bureaucracy and
+  the mingling of Buddhist, Daoist and folk cosmologies. The classical parent tradition of Xuanhuan and
+  Xianxia.'
+cards:
+- name: The Chronicles of Master Li and Number Ten Ox
+  origin: original
+  books:
+  - title: Bridge of Birds
+    author: Barry Hughart
+  - title: The Story of the Stone
+    author: Barry Hughart
+  - title: Eight Skilled Gentlemen
+    author: Barry Hughart
+- name: Wicked Gods
+  origin: v3
+  books:
+  - title: To Gaze Upon Wicked Gods
+    author: Molly X. Chang
+  - title: To Kill These Monstrous Gods
+    author: Molly X. Chang

@@ -1,0 +1,71 @@
+id: venus-and-far-systems
+label: Venus and far systems
+parent: belt-and-outer-system
+origin: shadow-v3
+definition: Venus, empty space and peacekeeping.
+cards:
+- name: Seas of Venus
+  origin: v3
+  books:
+  - title: Seas of Venus
+    author: David Drake
+  - title: Seas of Venus, Second Edition
+    author: David Drake
+- name: Empty Space
+  origin: v3
+  books:
+  - title: Empty Space
+    author: M. John Harrison
+- name: Floating Worlds
+  origin: v3
+  books:
+  - title: Floating Worlds
+    author: Cecelia Holland
+- name: Peacekeeper
+  origin: v3
+  books:
+  - title: An Ancient Peace
+    author: Tanya Huff
+  - title: A Peace Divided
+    author: Tanya Huff
+  - title: The Privilege of Peace
+    author: Tanya Huff
+- name: Jean Johnson Salik Wars
+  origin: v3
+  books:
+  - title: The Terrans
+    author: Jean Johnson
+  - title: The V'Dan
+    author: Jean Johnson
+  - title: The Blockade
+    author: Jean Johnson
+- name: Provenance Leckie
+  origin: v3
+  books:
+  - title: Provenance
+    author: Ann Leckie
+  - title: 'Provenance: Booktrack Edition'
+    author: Ann Leckie
+- name: Dying of the Light
+  origin: v3
+  books:
+  - title: Dying Of The Light
+    author: George R.R. Martin
+- name: Galactic Milieu Saga of Pliocene
+  origin: v3
+  books:
+  - title: Orion Arm
+    author: Julian May
+  - title: The Sagittarius Whorl
+    author: Julian May
+  - title: Perseus Spur
+    author: Julian May
+- name: Crystal Singer
+  origin: v3
+  books:
+  - title: Crystal Singer
+    author: Anne McCaffrey
+  - title: Killashandra
+    author: Anne McCaffrey
+  - title: Crystal Line
+    author: Anne McCaffrey

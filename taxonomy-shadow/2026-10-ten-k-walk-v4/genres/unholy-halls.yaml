@@ -1,0 +1,39 @@
+id: unholy-halls
+label: Unholy halls
+parent: unholy-ground-horror
+origin: original
+definition: 'Unholy-ground horror anchored in a building that is no one''s home: hotels, schools, great
+  houses and ruined citadels where an unholy power dwells and waits for those who enter. Split 2026-09-27
+  from Unholy ground horror (curator ruling).'
+cards:
+- name: Old House of Fear
+  origin: original
+  books:
+  - title: Old House of Fear
+- name: The Citadel of Fear
+  origin: original
+  books:
+  - title: The Citadel of Fear
+- name: Extended Stay
+  origin: original
+  books:
+  - title: Extended Stay
+- name: Flawless Girls
+  origin: original
+  books:
+  - title: Flawless Girls
+- name: The Invisible Hotel
+  origin: original
+  books:
+  - title: The Invisible Hotel
+- name: The Library at Hellebore
+  origin: original
+  books:
+  - title: The Library at Hellebore
+- name: Camilla Bruce
+  origin: v3
+  books:
+  - title: At the Bottom of the Garden
+    author: Camilla Bruce
+  - title: The Temptation of Charlotte North
+    author: Camilla Bruce

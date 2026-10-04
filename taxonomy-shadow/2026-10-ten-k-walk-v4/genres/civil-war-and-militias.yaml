@@ -1,0 +1,42 @@
+id: civil-war-and-militias
+label: Civil war and militias
+parent: civil-conflict-near-future
+origin: shadow-v3
+definition: Near-future civil wars, units and militias.
+cards:
+- name: Our War
+  origin: v3
+  books:
+  - title: Our War
+    author: Craig DiLouie
+- name: One of Us
+  origin: v3
+  books:
+  - title: One of Us
+    author: Craig DiLouie
+- name: The Unit
+  origin: v3
+  books:
+  - title: The Unit
+    author: Terry DeHart
+- name: Dead Water Fletcher
+  origin: v3
+  books:
+  - title: Dead Water
+    author: C. A. Fletcher
+- name: Decker Ember
+  origin: v3
+  books:
+  - title: Ember
+    author: James K. Decker
+  - title: Fallout
+    author: James K. Decker
+- name: Confidence Game
+  origin: v3
+  books:
+  - title: Chasing Fire
+    author: Michelle M. Welch
+  - title: Confidence Game
+    author: Michelle M. Welch
+  - title: The Bright and The Dark
+    author: Michelle M. Welch

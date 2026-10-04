@@ -1,0 +1,83 @@
+id: sellsword-fellowships
+label: Sellsword Fellowships
+parent: fellowship-quest-fantasy
+origin: shadow-v3
+definition: Quest fantasy of a hired company on the road.
+cards:
+- name: Chronicles of the Raven
+  origin: v3
+  books:
+  - title: Dawnthief
+    author: James Barclay
+  - title: Demonstorm
+    author: James Barclay
+  - title: Nightchild
+    author: James Barclay
+  - title: Noonshade
+    author: James Barclay
+  - title: Ravensoul
+    author: James Barclay
+  - title: Shadowheart
+    author: James Barclay
+- name: The Band (Eames)
+  origin: v3
+  books:
+  - title: Bloody Rose
+    author: Nicholas Eames
+  - title: Kings of the Wyld
+    author: Nicholas Eames
+  - title: 'Kings of the Wyld: Booktrack Edition'
+    author: Nicholas Eames
+- name: Sianim
+  origin: v3
+  books:
+  - title: Steal the Dragon
+    author: Patricia Briggs
+  - title: When Demons Walk
+    author: Patricia Briggs
+- name: Steve White SF
+  origin: v3
+  books:
+  - title: Eagle Against the Stars
+    author: Steve White
+  - title: Emperor of Dawn
+    author: Steve White
+  - title: Debt of Ages
+    author: Steve White
+  - title: Legacy
+    author: Steve White
+  - title: The Disinherited
+    author: Steve White
+  - title: Extremis
+    author: Steve White
+  - title: Wolf Among the Stars
+    author: Steve White
+  - title: Imperative
+    author: Steve White
+  - title: Her Majesty's American
+    author: Steve White
+  - title: Oblivion
+    author: Steve White
+  - title: Her Majesty's Rebel
+    author: Steve White
+- name: Wismer Space
+  origin: v3
+  books:
+  - title: A Roil of Stars
+    author: Don Wismer
+  - title: Planet of the Dead
+    author: Don Wismer
+  - title: Warrior Planet
+    author: Don Wismer
+- name: Chain of Command Chadwick
+  origin: v3
+  books:
+  - title: Chain of Command
+    author: Frank Chadwick
+- name: Combat Command
+  origin: v3
+  books:
+  - title: 'Combat Command: The Omega Rebellion'
+    author: Troy Denning
+  - title: 'Combat Command: Cut by Emerald'
+    author: Dana Kramer

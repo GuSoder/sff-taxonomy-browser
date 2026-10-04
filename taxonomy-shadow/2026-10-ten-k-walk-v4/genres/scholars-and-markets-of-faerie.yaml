@@ -1,0 +1,44 @@
+id: scholars-and-markets-of-faerie
+label: Scholars and markets of faerie
+parent: faeries-in-gaslight
+origin: shadow-v3
+definition: Scholars, markets and detectives dealing with faerie.
+cards:
+- name: Emily Wilde's Encyclopaedia of Faeries
+  origin: original
+  books:
+  - title: Emily Wilde's Encyclopaedia of Faeries
+- name: Emily Wilde
+  origin: v3
+  books:
+  - title: Emily Wilde's Map of the Otherlands
+    author: Heather Fawcett
+  - title: Emily Wilde's Compendium of Lost Tales
+    author: Heather Fawcett
+  - title: Emily Wilde's History of Dark Faerie
+    author: Heather Fawcett
+- name: A Market of Dreams and Destiny
+  origin: original
+  books:
+  - title: A Market of Dreams and Destiny
+- name: Golden City
+  origin: v3
+  books:
+  - title: Dreaming Death
+    author: J. Kathleen Cheney
+- name: Dart-Thornton
+  origin: v3
+  books:
+  - title: The Iron Tree
+    author: Cecilia Dart-Thornton
+  - title: Weatherwitch
+    author: Cecilia Dart-Thornton
+  - title: The Well of Tears
+    author: Cecilia Dart-Thornton
+- name: Sarah Tolmie
+  origin: v3
+  books:
+  - title: The Fourth Island
+    author: Sarah Tolmie
+  - title: All the Horses of Iceland
+    author: Sarah Tolmie

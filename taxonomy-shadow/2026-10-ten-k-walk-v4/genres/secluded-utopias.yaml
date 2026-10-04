@@ -1,0 +1,35 @@
+id: secluded-utopias
+label: Secluded utopias
+parent: utopian-fiction
+origin: original
+definition: Utopian fiction centered on protected, geographically or institutionally secluded communities
+  whose ideals depend on separation from the wider world.
+cards:
+- name: Islandia
+  origin: original
+  books:
+  - title: Islandia
+- name: Lost Horizon
+  origin: original
+  books:
+  - title: Lost Horizon
+- name: The Glass Bead Game
+  origin: original
+  books:
+  - title: The Glass Bead Game
+- name: Oath of Fealty
+  origin: original
+  books:
+  - title: Oath of Fealty
+- name: Chronicles of Sumer
+  origin: original
+  books:
+  - title: The Wall
+    author: Gautam Bhatia
+  - title: The Horizon
+    author: Gautam Bhatia
+- name: Venus Plus X
+  origin: original
+  books:
+  - title: Venus Plus X
+    author: Theodore Sturgeon

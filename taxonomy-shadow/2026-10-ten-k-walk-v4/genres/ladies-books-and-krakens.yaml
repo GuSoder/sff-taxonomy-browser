@@ -1,0 +1,35 @@
+id: ladies-books-and-krakens
+label: Ladies, books and krakens
+parent: city-witches-and-seers
+origin: shadow-v3
+definition: City witches.
+cards:
+- name: Our Lady of Darkness
+  origin: original
+  books:
+  - title: Our Lady of Darkness
+- name: Book of Night
+  origin: original
+  books:
+  - title: Book of Night
+- name: Kraken
+  origin: v3
+  books:
+  - title: Kraken
+    author: China Mieville
+- name: Marla Mason
+  origin: v3
+  books:
+  - title: Blood Engines
+    author: T.A. Pratt
+  - title: Spell Games
+    author: T.A. Pratt
+  - title: Dead Reign
+    author: Tim Pratt
+  - title: Poison Sleep
+    author: Tim Pratt
+- name: Nightwise
+  origin: v3
+  books:
+  - title: Nightwise
+    author: R.S. Belcher

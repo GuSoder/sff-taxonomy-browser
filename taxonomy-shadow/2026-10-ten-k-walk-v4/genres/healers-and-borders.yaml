@@ -1,0 +1,76 @@
+id: healers-and-borders
+label: Healers and borders
+parent: healers-and-border-queens
+origin: shadow-v3
+definition: Healers and border lands.
+cards:
+- name: The Sharing Knife
+  origin: v3
+  books:
+  - title: The Sharing Knife Volume One
+    author: Lois Mcmaster Bujoldlois Mcmaster Bujold
+  - title: The Sharing Knife Volume Two
+    author: Lois Mcmaster Bujoldlois Mcmaster Bujold
+  - title: The Sharing Knife, Volume Four
+    author: Lois Mcmaster Bujoldlois Mcmaster Bujold
+  - title: The Sharing Knife, Volume Three
+    author: Lois Mcmaster Bujoldlois Mcmaster Bujold
+- name: The Maid and the Crocodile
+  origin: original
+  books:
+  - title: The Maid and the Crocodile
+- name: N E Davenport
+  origin: v3
+  books:
+  - title: Our Vicious Oaths
+    author: Ne Davenport
+  - title: The Blood Gift
+    author: Ne Davenport
+  - title: The Blood Trials
+    author: Ne Davenport
+- name: Tales of Deadly Devotion
+  origin: v3
+  books:
+  - title: Tales of a Deadly Devotion
+    author: Jennifer Delaney
+  - title: Tales of a Monstrous Heart
+    author: Jennifer Delaney
+  - title: Tales of a Treacherous Fate
+    author: Jennifer Delaney
+- name: Curse of Beasts and Magic
+  origin: v3
+  books:
+  - title: A Curse of Beasts and Magic
+    author: Jeaniene Frost
+- name: Julie Leong
+  origin: v3
+  books:
+  - title: The Teller of Small Fortunes
+    author: Julie Leong
+  - title: The Keeper of Magical Things
+    author: Julie Leong
+  - title: The Isle of Lonely Monsters
+    author: Julie Leong
+- name: Destiny's Star
+  origin: v3
+  books:
+  - title: Destiny's Star
+    author: Beth Vaughan
+- name: Oath of Swords
+  origin: v3
+  books:
+  - title: Oath of Swords
+    author: David Weber
+  - title: The War God's Own
+    author: David Weber
+  - title: Wind Rider's Oath
+    author: David Weber
+  - title: War Maid's Choice
+    author: David Weber
+- name: Vesselless
+  origin: v3
+  books:
+  - title: Merciless
+    author: Cortney L Winn
+  - title: Vesselless
+    author: Cortney L Winn

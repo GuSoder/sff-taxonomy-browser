@@ -1,0 +1,20 @@
+id: ballardian-dystopias
+label: Ballardian dystopias
+parent: social-dystopia-modern
+origin: original
+definition: Closed enclaves of the recognizable present - tower blocks, leisure resorts, business parks
+  - whose designed order rots into tribal violence; named for J.G. Ballard's signature mode, the dictionary-attested
+  eponym for dystopian modernity. Split 2026-09-25 from social-dystopia-modern (the curator ruling).
+cards:
+- name: High-Rise
+  origin: original
+  books:
+  - title: High-Rise
+- name: Cocaine Nights
+  origin: original
+  books:
+  - title: Cocaine Nights
+- name: Super-Cannes
+  origin: original
+  books:
+  - title: Super-Cannes

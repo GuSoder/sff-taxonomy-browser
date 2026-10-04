@@ -1,0 +1,97 @@
+id: truths-hunts-and-archives
+label: Truths, hunts and archives
+parent: riddle-and-rider-heirs
+origin: shadow-v3
+definition: Truth, hunt and archive sagas.
+cards:
+- name: Truth series
+  origin: v3
+  books:
+  - title: First Truth
+    author: Dawn Cook
+  - title: Hidden Truth
+    author: Dawn Cook
+  - title: Forgotten Truth
+    author: Dawn Cook
+  - title: Lost Truth
+    author: Dawn Cook
+- name: Wild Hunt
+  origin: v3
+  books:
+  - title: Songs of the Earth
+    author: Elspeth Cooper
+  - title: Trinity Rising
+    author: Elspeth Cooper
+  - title: The Raven's Shadow
+    author: Elspeth Cooper
+- name: Mystic trilogy
+  origin: v3
+  books:
+  - title: Mystic
+    author: Jason Denzel
+  - title: Mystic Dragon
+    author: Jason Denzel
+  - title: Mystic Skies
+    author: Jason Denzel
+  - title: The Mystic Trilogy
+    author: Jason Denzel
+- name: Shadowed Path
+  origin: v3
+  books:
+  - title: A Woman Worth Ten Coppers
+    author: Morgan Howell
+  - title: Candle in the Storm
+    author: Morgan Howell
+  - title: The Iron Palace
+    author: Morgan Howell
+- name: Robert Jordan
+  origin: v3
+  books:
+  - title: From The Two Rivers
+    author: Robert Jordan
+  - title: Warrior of the Altaii
+    author: Robert Jordan
+- name: Khorasan Archives
+  origin: v3
+  books:
+  - title: The Black Khan
+    author: Ausma Zehanat Khan
+  - title: The Bladebone
+    author: Ausma Zehanat Khan
+  - title: The Bloodprint
+    author: Ausma Zehanat Khan
+  - title: The Blue Eye
+    author: Ausma Zehanat Khan
+- name: Twilight Reign
+  origin: v3
+  books:
+  - title: The Dusk Watchman
+    author: Tom Lloyd
+  - title: The God Tattoo
+    author: Tom Lloyd
+  - title: The Grave Thief
+    author: Tom Lloyd
+  - title: The Ragged Man
+    author: Tom Lloyd
+  - title: The Stormcaller
+    author: Tom Lloyd
+  - title: The Twilight Herald
+    author: Tom Lloyd
+- name: Jamie Thomas Elyan
+  origin: v3
+  books:
+  - title: Asperfell
+    author: Jamie Thomas
+  - title: The Forest Kingdom
+    author: Jamie Thomas
+  - title: The Shining City
+    author: Jamie Thomas
+- name: Angus Watson Standalones
+  origin: v3
+  books:
+  - title: The Land You Never Leave
+    author: Angus Watson
+  - title: Where Gods Fear to Go
+    author: Angus Watson
+  - title: You Die When You Die
+    author: Angus Watson

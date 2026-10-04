@@ -1,0 +1,61 @@
+id: moon-daughters-and-godspeakers
+label: Moon daughters and godspeakers
+parent: queens-and-empress-courts
+origin: shadow-v3
+definition: Dragons, gods and nightmares.
+cards:
+- name: Five Daughters of the Moon
+  origin: v3
+  books:
+  - title: The Five Daughters of the Moon
+    author: Leena Likitalo
+  - title: The Sisters of the Crescent Empress
+    author: Leena Likitalo
+- name: Chorus of Dragons
+  origin: v3
+  books:
+  - title: The Name of All Things
+    author: Jenn Lyons
+  - title: The Ruin of Kings
+    author: Jenn Lyons
+  - title: The Memory of Souls
+    author: Jenn Lyons
+  - title: The House of Always
+    author: Jenn Lyons
+  - title: The Discord of Gods
+    author: Jenn Lyons
+  - title: A Chorus of Dragons
+    author: Jenn Lyons
+- name: Throne of Nightmares
+  origin: v3
+  books:
+  - title: Throne of Nightmares
+    author: Kerri Maniscalco
+  - title: Throne of Secrets
+    author: Kerri Maniscalco
+  - title: Throne of the Fallen
+    author: Kerri Maniscalco
+- name: To Cage a God
+  origin: v3
+  books:
+  - title: To Cage a God
+    author: Elizabeth May
+- name: Godspeaker
+  origin: v3
+  books:
+  - title: Empress
+    author: Karen Miller
+  - title: Hammer of God
+    author: Karen Miller
+- name: Von Bek
+  origin: v3
+  books:
+  - title: Von Bek
+    author: Michael Moorcock
+- name: Halfblood Chronicles
+  origin: v3
+  books:
+  - title: The Elvenbane
+    author: Andre Norton
+  - title: Elvenborn
+    author: Andre Norton

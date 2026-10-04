@@ -1,0 +1,38 @@
+id: world-models
+label: World models
+parent: hard-conceptual-sf
+origin: original
+definition: 'Hard conceptual SF in which the physical laws of the world are rewritten and the plot is
+  the discovery of the true model: topology, cosmology, cross-universe physics, matter rebuilt at another
+  scale. Split 2026-09-28 from Hard conceptual SF by the kind of world-model (curator ruling).'
+cards:
+- name: Inverted World
+  origin: original
+  books:
+  - title: Inverted World
+- name: Tau Zero
+  origin: original
+  books:
+  - title: Tau Zero
+- name: The Gods Themselves
+  origin: original
+  books:
+  - title: The Gods Themselves
+- name: Scale
+  origin: original
+  books:
+  - title: Scale
+- name: Schild's Ladder
+  origin: v3
+  books:
+  - title: Schild's Ladder
+    author: Greg Egan
+- name: Orthogonal
+  origin: v3
+  books:
+  - title: The Arrows of Time
+    author: Greg Egan
+  - title: The Clockwork Rocket
+    author: Greg Egan
+  - title: The Eternal Flame
+    author: Greg Egan

@@ -1,0 +1,19 @@
+id: cosmic-gothic
+label: Cosmic Gothic
+parent: gothic-science-fiction
+origin: original
+definition: Gothic science fiction in which sublime terror comes from impossible worlds, cosmic immensities
+  and realities beyond human comprehension.
+cards:
+- name: At the Mountains of Madness
+  origin: original
+  books:
+  - title: At the Mountains of Madness
+- name: The House on the Borderland
+  origin: original
+  books:
+  - title: The House on the Borderland
+- name: Lake of Darkness
+  origin: original
+  books:
+  - title: Lake of Darkness

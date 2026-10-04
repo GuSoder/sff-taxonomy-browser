@@ -1,0 +1,39 @@
+id: gothic-estates
+label: Gothic estates
+parent: gothic-houses
+origin: shadow-v3
+definition: Gothic fantasy centred on an estate.
+cards:
+- name: The Death of Jane Lawrence
+  origin: original
+  books:
+  - title: The Death of Jane Lawrence
+- name: Someone You Can Build a Nest In
+  origin: original
+  books:
+  - title: Someone You Can Build a Nest In
+- name: House of Hunger
+  origin: original
+  books:
+  - title: House of Hunger
+- name: Among Ghosts
+  origin: original
+  books:
+  - title: Among Ghosts
+- name: Our Dark Incantations
+  origin: v3
+  books:
+  - title: Our Dark Incantations
+    author: Wanda Hellmund
+- name: Nightbirds
+  origin: v3
+  books:
+  - title: Unwept
+    author: Tracy Hickman
+  - title: Unhonored
+    author: Tracy Hickman
+- name: Thornwood House
+  origin: v3
+  books:
+  - title: The Reimagining of Thornwood House
+    author: Jaleigh Johnson

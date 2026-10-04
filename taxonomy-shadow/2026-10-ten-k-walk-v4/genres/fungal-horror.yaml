@@ -1,0 +1,24 @@
+id: fungal-horror
+label: Eldritch fungi
+parent: haunted-house
+origin: original
+definition: Horror in which an uncanny fungus or mycelial intelligence transforms bodies, minds, inheritance,
+  and the places they inhabit.
+cards:
+- name: Mexican Gothic
+  origin: original
+  books:
+  - title: Mexican Gothic
+- name: The Marigold
+  origin: original
+  books:
+  - title: The Marigold
+- name: What Moves the Dead
+  origin: original
+  books:
+  - title: What Moves the Dead
+    author: T. Kingfisher
+  - title: What Feasts at Night
+    author: T. Kingfisher
+  - title: What Stalks the Deep
+    author: T. Kingfisher

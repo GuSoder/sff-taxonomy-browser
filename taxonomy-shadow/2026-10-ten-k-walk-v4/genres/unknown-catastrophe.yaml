@@ -1,0 +1,27 @@
+id: unknown-catastrophe
+label: Unknown catastrophe
+parent: apocalyptic-fiction
+origin: original
+definition: The catastrophe has no name - a green flash blinds the world and nobody proves why, a city
+  is cut off under a changed sky with no cause ever given. Coined by the curator 2026-09-14; not an SFE/EoF
+  headword.
+cards:
+- name: Dhalgren
+  origin: original
+  books:
+  - title: Dhalgren
+- name: The Day of the Triffids
+  origin: original
+  books:
+  - title: The Day of the Triffids
+- name: Girlfriend in a Coma
+  origin: original
+  books:
+  - title: Girlfriend in a Coma
+- name: Without Warning
+  origin: v3
+  books:
+  - title: Without Warning
+    author: John Birmingham
+  - title: After America
+    author: John Birmingham

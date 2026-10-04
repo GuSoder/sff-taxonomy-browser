@@ -1,0 +1,37 @@
+id: pulp-fantasy
+label: Pulp fantasy
+parent: historical-fantasy
+origin: original
+definition: 'Historical fantasy in the pulp-adventure mode: fast, sensational, knockabout treatments of
+  past eras, religious legends or mythic material that use history as a lurid stage rather than treating
+  inherited myth with seriousness. “Pulp fantasy” is a taxonomy coinage built on an attested descriptive
+  phrase, not an established shelf headword.'
+cards:
+- name: Roads
+  origin: original
+  books:
+  - title: Roads
+- name: The Albion Triptych
+  origin: original
+  books:
+  - title: Gog
+    author: Andrew Sinclair
+  - title: Magog
+    author: Andrew Sinclair
+  - title: King Ludd
+    author: Andrew Sinclair
+- name: Slaves of Sleep
+  origin: original
+  books:
+  - title: Slaves of Sleep
+    author: L. Ron Hubbard
+  - title: The Masters of Sleep
+    author: L. Ron Hubbard
+- name: The Hood
+  origin: original
+  books:
+  - title: The Hood
+- name: The War Hound and the World's Pain
+  origin: original
+  books:
+  - title: The War Hound and the World's Pain

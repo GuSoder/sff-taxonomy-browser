@@ -1,0 +1,62 @@
+id: red-planet
+label: Red planet
+parent: mars-and-luna
+origin: shadow-v3
+definition: Mars settlement and survival.
+cards:
+- name: Moving Mars
+  origin: v3
+  books:
+  - title: Moving Mars
+    author: Greg Bear
+- name: The Sands of Mars
+  origin: v3
+  books:
+  - title: The Sands of Mars
+    author: Arthur C. Clarke
+- name: Icehenge
+  origin: v3
+  books:
+  - title: Icehenge
+    author: Kim Stanley Robinson; introduction by Henry Farrell
+- name: Sky So Big and Black
+  origin: v3
+  books:
+  - title: The Sky So Big and Black
+    author: John Barnes
+- name: Vagabonds
+  origin: original
+  books:
+  - title: Vagabonds
+    author: Hao Jingfang
+- name: Chaos of Luck
+  origin: v3
+  books:
+  - title: The Chaos of Luck
+    author: Catherine Cerveny
+- name: Perfect Circle
+  origin: v3
+  books:
+  - title: Perfect Circle
+    author: Carlos J. Cortes
+- name: Otto Willi Gail
+  origin: v3
+  books:
+  - title: By Rocket to the Moon
+    author: Otto Willi Gail
+  - title: The Shot Into Infinity
+    author: Otto Willi Gail
+  - title: The Stone From the Moon
+    author: Otto Willi Gail
+- name: Honeymoon in Space
+  origin: v3
+  books:
+  - title: A Honeymoon in Space
+    author: George Griffith
+- name: Hampson Bionic Frontier
+  origin: v3
+  books:
+  - title: The Founder Effect
+    author: Robert E. Hampson
+  - title: The Moon and the Desert
+    author: Robert E. Hampson

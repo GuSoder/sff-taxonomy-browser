@@ -1,0 +1,87 @@
+id: forever-soldiers
+label: Forever Soldiers
+parent: ground-pounders
+origin: shadow-v3
+definition: 'Infantry SF about what long service costs the soldier: time dilation, conscription, the veteran
+  who cannot go home.'
+cards:
+- name: The Forever War
+  origin: original
+  books:
+  - title: The Forever War
+    author: Joe Haldeman
+  - title: Forever Free
+    author: Joe Haldeman
+- name: Forever Peace
+  origin: v3
+  books:
+  - title: Forever Peace
+    author: Joe Haldeman
+  - title: Peace And War
+    author: Joe Haldeman
+- name: Jason Wander (Buettner)
+  origin: v3
+  books:
+  - title: Overkill
+    author: Robert Buettner
+  - title: Undercurrents
+    author: Robert Buettner
+  - title: Balance Point
+    author: Robert Buettner
+  - title: The Golden Gate
+    author: Robert Buettner
+  - title: My Enemy's Enemy
+    author: Robert Buettner
+- name: The Light Brigade
+  origin: original
+  books:
+  - title: The Light Brigade
+- name: Red Sword
+  origin: original
+  books:
+  - title: Red Sword
+- name: Death's Head
+  origin: v3
+  books:
+  - title: Death's Head
+    author: David Gunn
+  - title: Death's Head Maximum Offense
+    author: David Gunn
+  - title: 'Death''s Head: Day of the Damned'
+    author: David Gunn
+- name: Clone Republic
+  origin: v3
+  books:
+  - title: Rogue Clone
+    author: Steven L. Kent
+  - title: The Clone Republic
+    author: Steven L. Kent
+  - title: The Clone Alliance
+    author: Steven L. Kent
+  - title: The Clone Elite
+    author: Steven L. Kent
+  - title: The Clone Betrayal
+    author: Steven L. Kent
+  - title: The Clone Empire
+    author: Steven L. Kent
+  - title: The Clone Redemption
+    author: Steven L. Kent
+  - title: The Clone Sedition
+    author: Steven L. Kent
+  - title: The Clone Assassin
+    author: Steven L. Kent
+  - title: The Clone Apocalypse
+    author: Steven L. Kent
+- name: Theirs Not to Reason Why
+  origin: v3
+  books:
+  - title: A Soldier's Duty
+    author: Jean Johnson
+  - title: An Officer's Duty
+    author: Jean Johnson
+  - title: Hellfire
+    author: Jean Johnson
+  - title: Damnation
+    author: Jean Johnson
+  - title: Hardship
+    author: Jean Johnson

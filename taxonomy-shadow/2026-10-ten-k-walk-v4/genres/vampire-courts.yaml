@@ -1,0 +1,119 @@
+id: vampire-courts
+label: Vampire courts
+parent: packs-and-courts
+origin: shadow-v3
+definition: Vampire courts and houses.
+cards:
+- name: Sookie Stackhouse
+  origin: v3
+  books:
+  - title: Living Dead in Dallas
+    author: Charlaine Harris
+  - title: Club Dead
+    author: Charlaine Harris
+  - title: Dead to the World
+    author: Charlaine Harris
+  - title: Dead as a Doornail
+    author: Charlaine Harris
+  - title: Definitely Dead
+    author: Charlaine Harris
+  - title: All Together Dead
+    author: Charlaine Harris
+  - title: Dead and Gone
+    author: Charlaine Harris
+  - title: From Dead to Worse
+    author: Charlaine Harris
+  - title: Dead in the Family
+    author: Charlaine Harris
+  - title: Dead Reckoning
+    author: Charlaine Harris
+  - title: Deadlocked
+    author: Charlaine Harris
+  - title: Dead Ever After
+    author: Charlaine Harris
+  - title: The Complete Sookie Stackhouse Stories
+    author: Charlaine Harris
+  - title: Dead Until Dark
+    author: Charlaine Harris
+  - title: After Dead
+    author: Charlaine Harris
+- name: Chicagoland Vampires
+  origin: v3
+  books:
+  - title: Friday Night Bites
+    author: Chloe Neill
+  - title: Some Girls Bite
+    author: Chloe Neill
+  - title: Twice Bitten
+    author: Chloe Neill
+  - title: Drink Deep
+    author: Chloe Neill
+  - title: Hard Bitten
+    author: Chloe Neill
+  - title: Biting Cold
+    author: Chloe Neill
+  - title: Biting Bad
+    author: Chloe Neill
+  - title: Blade Bound
+    author: Chloe Neill
+  - title: Blood Games
+    author: Chloe Neill
+  - title: Dark Debt
+    author: Chloe Neill
+  - title: House Rules
+    author: Chloe Neill
+  - title: Midnight Marked
+    author: Chloe Neill
+  - title: Wild Hunger
+    author: Chloe Neill
+- name: Vampires of Manhattan
+  origin: v3
+  books:
+  - title: Vampires of Manhattan
+    author: Melissa de la Cruz
+- name: The Devourers
+  origin: v3
+  books:
+  - title: The Devourers
+    author: Indra Das
+- name: Marked series
+  origin: v3
+  books:
+  - title: Eve of Chaos
+    author: Sylvia Day
+  - title: Eve of Darkness
+    author: Sylvia Day
+  - title: Eve of Destruction
+    author: Sylvia Day
+  - title: The Marked Trilogy
+    author: Sylvia Day
+  - title: Three Eves
+    author: Sylvia Day
+- name: Afterlife Resurrection Chronicles
+  origin: v3
+  books:
+  - title: Afterlife
+    author: Merrie Destefano
+- name: Mick Farren
+  origin: v3
+  books:
+  - title: Conflagration
+    author: Mick Farren
+  - title: Kindling
+    author: Mick Farren
+- name: Doyle Crossman Templar
+  origin: v3
+  books:
+  - title: The Devil in the Details
+    author: Debra Doyle
+  - title: Knight's Wyrd
+    author: Debra Doyle
+- name: Maria Dahvana Headley
+  origin: v3
+  books:
+  - title: The Tallest Doll in New York City
+    author: Maria Dahvana Headley
+  - title: Some Gods of El Paso
+    author: Maria Dahvana Headley
+  - title: The Girlfriend's Guide to Gods
+    author: Maria Dahvana Headley

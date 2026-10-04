@@ -1,0 +1,70 @@
+id: outlaw-realms
+label: Outlaw realms
+parent: realms-and-outlaws
+origin: shadow-v3
+definition: Outlaws.
+cards:
+- name: Gallow
+  origin: v3
+  books:
+  - title: 'Gallow: The Crimson Shield'
+    author: Nathan Hawke
+  - title: 'Gallow: The Fateguard Trilogy'
+    author: Nathan Hawke
+  - title: 'Gallow: The Last Bastion'
+    author: Nathan Hawke
+- name: Hickman game fantasy
+  origin: v3
+  books:
+  - title: The Sword of Midras
+    author: Tracy Hickman
+  - title: The Eye of Scales
+    author: Tracy Hickman
+- name: Ascendant Kingdoms
+  origin: v3
+  books:
+  - title: Ice Forged
+    author: Gail Z. Martin
+  - title: Reign of Ash
+    author: Gail Z. Martin
+  - title: Shadow and Flame
+    author: Gail Z. Martin
+  - title: War of Shadows
+    author: Gail Z. Martin
+- name: Outlaws of Sherwood
+  origin: v3
+  books:
+  - title: The Outlaws of Sherwood
+    author: Robin McKinley
+- name: Seascape Tattoo
+  origin: v3
+  books:
+  - title: The Seascape Tattoo
+    author: Larry Niven
+- name: Goddess War
+  origin: v3
+  books:
+  - title: The Queen of Izmoroz
+    author: Jon Skovron
+  - title: The Ranger of Marzanna
+    author: Jon Skovron
+  - title: The Wizard of Eventide
+    author: Jon Skovron
+- name: Empires of Dust
+  origin: v3
+  books:
+  - title: The Court of Broken Knives
+    author: Anna Smith Spark
+  - title: The House of Sacrifice
+    author: Anna Smith Spark
+  - title: The Tower of Living and Dying
+    author: Anna Smith Spark
+- name: Iron Age Trilogy
+  origin: v3
+  books:
+  - title: Age of Iron
+    author: Angus Watson
+  - title: Clash of Iron
+    author: Angus Watson
+  - title: Reign of Iron
+    author: Angus Watson

@@ -1,0 +1,18 @@
+id: npc-heroes
+label: NPC heroes
+parent: heroic-fantasy
+origin: original
+definition: 'Heroic fantasy whose protagonist has no adventuring class: authority comes from ordinary
+  judgment, social position, empathy or civic action rather than spellcraft or combat skill.'
+cards:
+- name: The Goblin Emperor
+  origin: original
+  books:
+  - title: The Goblin Emperor
+    author: Katherine Addison
+  - title: The Witness for the Dead
+    author: Katherine Addison
+  - title: The Grief of Stones
+    author: Katherine Addison
+  - title: The Tomb of Dragons
+    author: Katherine Addison

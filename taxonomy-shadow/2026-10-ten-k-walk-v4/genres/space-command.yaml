@@ -1,0 +1,93 @@
+id: space-command
+label: Space command
+parent: military-science-fiction
+origin: original
+definition: 'Military SF of the command view: campaigns, sieges and wars directed from the top rather
+  than fought in the ranks. Split 2026-09-25 from Military science fiction (the curator ruling).'
+cards:
+- name: Ninefox Gambit
+  origin: original
+  books:
+  - title: Ninefox Gambit
+    author: Yoon Ha Lee
+  - title: Raven Stratagem
+    author: Yoon Ha Lee
+  - title: Revenant Gun
+    author: Yoon Ha Lee
+- name: The Palace of Eternity
+  origin: original
+  books:
+  - title: The Palace of Eternity
+- name: The Lost Fleet
+  origin: v3
+  books:
+  - title: 'The Lost Fleet: Dauntless'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Courageous'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Fearless'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Valiant'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Relentless'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Victorious'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Beyond the Frontier: Dreadnaught'
+    author: Jack Campbell
+  - title: 'Lost Fleet: Beyond the Frontier: Invincible'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Beyond the Frontier: Guardian'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Beyond the Frontier: Steadfast'
+    author: Jack Campbell
+  - title: 'The Lost Fleet: Beyond the Frontier: Leviathan'
+    author: Jack Campbell
+  - title: Vanguard
+    author: Jack Campbell
+  - title: Triumphant
+    author: Jack Campbell
+  - title: Boundless
+    author: Jack Campbell
+  - title: Resolute
+    author: Jack Campbell
+  - title: Implacable
+    author: Jack Campbell
+- name: The Lost Stars
+  origin: v3
+  books:
+  - title: 'The Lost Stars: Tarnished Knight'
+    author: Jack Campbell
+  - title: 'The Lost Stars: Perilous Shield'
+    author: Jack Campbell
+- name: Planetside
+  origin: v3
+  books:
+  - title: Blindside
+    author: Michael Mammay
+  - title: Colonyside
+    author: Michael Mammay
+  - title: Darkside
+    author: Michael Mammay
+  - title: Otherside
+    author: Michael Mammay
+  - title: Planetside
+    author: Michael Mammay
+  - title: Spaceside
+    author: Michael Mammay
+- name: Battle Station
+  origin: v3
+  books:
+  - title: Battle Station
+    author: Ben Bova
+- name: EVE Online
+  origin: v3
+  books:
+  - title: 'EVE: The Empyrean Age'
+    author: Tony Gonzales
+  - title: 'EVE: Templar One'
+    author: Tony Gonzales
+  - title: Eve
+    author: Tony Gonzales
+  - title: The Tabit Genesis
+    author: Tony Gonzales

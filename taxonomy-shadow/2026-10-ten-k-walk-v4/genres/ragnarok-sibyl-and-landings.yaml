@@ -1,0 +1,46 @@
+id: ragnarok-sibyl-and-landings
+label: Ragnarok, sibyls and landings
+parent: searchers-and-outback-stars
+origin: shadow-v3
+definition: Searchers cont.
+cards:
+- name: Ragnarok Van Pelt
+  origin: v3
+  books:
+  - title: Ragnarok
+    author: Patrick A. Vanner
+- name: Universe After
+  origin: v3
+  books:
+  - title: The Stars Now Unclaimed
+    author: Drew Williams
+  - title: A Chain Across the Dawn
+    author: Drew Williams
+  - title: The Firmament of Flame
+    author: Drew Williams
+  - title: The Universe After
+    author: Drew Williams
+- name: Williamson Late Novels
+  origin: v3
+  books:
+  - title: Terraforming Earth
+    author: Jack Williamson
+  - title: The Stonehenge Gate
+    author: Jack Williamson
+- name: Sibyl's War
+  origin: v3
+  books:
+  - title: Pawn
+    author: Timothy Zahn
+  - title: Queen
+    author: Timothy Zahn
+- name: First Landing Zubrin
+  origin: v3
+  books:
+  - title: First Landing
+    author: Robert Zubrin
+- name: Spirit of the Place Feeley
+  origin: v3
+  books:
+  - title: Spirit of the Place
+    author: Gregory Feeley

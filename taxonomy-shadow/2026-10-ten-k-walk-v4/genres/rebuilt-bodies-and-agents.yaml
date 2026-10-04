@@ -1,0 +1,55 @@
+id: rebuilt-bodies-and-agents
+label: Rebuilt bodies and agents
+parent: rebuilt-bodies-modern
+origin: shadow-v3
+definition: Rebuilt bodies.
+cards:
+- name: Autonomous
+  origin: v3
+  books:
+  - title: Autonomous
+    author: Annalee Newitz
+  - title: Automatic Noodle
+    author: Annalee Newitz
+- name: Aimee Ogden SF
+  origin: v3
+  books:
+  - title: Sun-Daughters, Sea-Daughters
+    author: Aimee Ogden
+  - title: Emergent Properties
+    author: Aimee Ogden
+- name: Lettie Prell
+  origin: v3
+  books:
+  - title: The Three Lives of Sonata James
+    author: Lettie Prell
+  - title: The Need for Air
+    author: Lettie Prell
+- name: Cameron Reed
+  origin: v3
+  books:
+  - title: The Fortunate Fall
+    author: Cameron Reed
+  - title: Congenital Agenesis of Gender Ideation by K.N. Sirsi and Sandra Botkin
+    author: Cameron Reed
+  - title: What We Are Seeking
+    author: Cameron Reed
+- name: Crashing Heaven
+  origin: v3
+  books:
+  - title: Crashing Heaven
+    author: Al Robertson
+  - title: Waking Hell
+    author: Al Robertson
+- name: Frankenstein
+  origin: v3
+  books:
+  - title: Frankenstein
+    author: Mary Shelley
+  - title: Mary Shelleys Frankenstein
+    author: Mary Shelley
+- name: Salvation Gambit
+  origin: v3
+  books:
+  - title: The Salvation Gambit
+    author: Emily Skrutskie

@@ -1,0 +1,44 @@
+id: android-detectives-and-servants
+label: Android detectives and servants
+parent: androids
+origin: shadow-v3
+definition: 'Androids and robots among humans: investigators, servants, companions and lovers.'
+cards:
+- name: Do Androids Dream of Electric Sheep?
+  origin: v3
+  books:
+  - title: Blade Runner
+    author: Philip K Dick
+- name: The Caves of Steel
+  origin: v3
+  books:
+  - title: The Naked Sun
+    author: Isaac Asimov
+  - title: The Robots of Dawn
+    author: Isaac Asimov
+- name: Blade Runner 2
+  origin: v3
+  books:
+  - title: Blade Runner 2
+    author: K. W. Jeter
+- name: Ray Electromatic
+  origin: v3
+  books:
+  - title: Standard Hollywood Depravity
+    author: Adam Christopher
+- name: Annie Bot
+  origin: original
+  books:
+  - title: Annie Bot
+- name: The Silver Metal Lover
+  origin: v3
+  books:
+  - title: The Silver Metal Lover
+    author: Tanith Lee
+  - title: Metallic Love
+    author: Tanith Lee
+- name: Humanoids
+  origin: v3
+  books:
+  - title: The Humanoids
+    author: Jack Williamson

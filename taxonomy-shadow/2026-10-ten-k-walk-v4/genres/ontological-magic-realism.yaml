@@ -1,0 +1,50 @@
+id: ontological-magic-realism
+label: Ontological magic realism
+parent: magic-realism
+origin: original
+definition: Magic realism in which competing levels of reality become equally present and unstable.
+cards:
+- name: The Magus
+  origin: original
+  books:
+  - title: The Magus
+- name: Kafka on the Shore
+  origin: original
+  books:
+  - title: Kafka on the Shore
+- name: The Book of Hidden Things
+  origin: original
+  books:
+  - title: The Book of Hidden Things
+- name: The Great Victorian Collection
+  origin: original
+  books:
+  - title: The Great Victorian Collection
+- name: The Hole
+  origin: original
+  books:
+  - title: The Hole
+- name: Lakelore
+  origin: original
+  books:
+  - title: Lakelore
+- name: Sleep Walking Now and Then
+  origin: v3
+  books:
+  - title: Sleep Walking Now and Then
+    author: Richard Bowes
+- name: Andrea Hairston
+  origin: v3
+  books:
+  - title: Master of Poisons
+    author: Andrea Hairston
+  - title: Redwood and Wildfire
+    author: Andrea Hairston
+  - title: Will Do Magic for Small Change
+    author: Andrea Hairston
+  - title: Archangels of Funk
+    author: Andrea Hairston
+  - title: Mindscape
+    author: Andrea Hairston
+  - title: The Redemption Center is Closed on Sundays
+    author: Andrea Hairston

@@ -1,0 +1,63 @@
+id: xenanthropology
+label: Xenanthropology
+parent: anthropological-science-fiction
+origin: original
+definition: Anthropological science fiction where alien societies are observed without interference; pure
+  xenological fieldwork and the observer’s gaze.
+cards:
+- name: A Mirror for Observers
+  origin: original
+  books:
+  - title: A Mirror for Observers
+- name: Hard to Be a God
+  origin: original
+  books:
+  - title: Hard to Be a God
+- name: Pallahaxi
+  origin: original
+  books:
+  - title: Hello Summer, Goodbye
+    author: Michael G. Coney
+  - title: I Remember Pallahaxi
+    author: Michael G. Coney
+- name: Planet of the Apes
+  origin: original
+  books:
+  - title: Planet of the Apes
+- name: Beautyland
+  origin: original
+  books:
+  - title: Beautyland
+- name: Helliconia
+  origin: v3
+  books:
+  - title: Helliconia
+    author: Brian Aldiss
+- name: Lilith's Brood
+  origin: v3
+  books:
+  - title: Liliths Brood
+    author: Octavia E. Butler
+  - title: The Complete Liliths Brood Series
+    author: Octavia E. Butler
+- name: Halcyon (Gilman)
+  origin: v3
+  books:
+  - title: Dark Orbit
+    author: Carolyn Ives Gilman
+  - title: Exile's End
+    author: Carolyn Ives Gilman
+- name: Eden
+  origin: v3
+  books:
+  - title: Eden
+    author: Stanislaw Lem
+- name: Little Fuzzy
+  origin: v3
+  books:
+  - title: Fuzzy Sapiens
+    author: H. Beam Piper
+  - title: Little Fuzzy
+    author: H. Beam Piper
+  - title: Complete Fuzzy
+    author: H. Beam Piper

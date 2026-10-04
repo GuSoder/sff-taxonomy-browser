@@ -1,0 +1,39 @@
+id: possessed-and-tormented
+label: Possessed and tormented
+parent: demonic-torment
+origin: shadow-v3
+definition: Possession, hauntings and personal torment.
+cards:
+- name: Who Made Stevie Crye?
+  origin: original
+  books:
+  - title: Who Made Stevie Crye?
+    author: Michael Bishop
+- name: Temper
+  origin: original
+  books:
+  - title: Temper
+- name: Incidents Around the House
+  origin: original
+  books:
+  - title: Incidents Around the House
+- name: The Possession of Alba Díaz
+  origin: original
+  books:
+  - title: The Possession of Alba Díaz
+- name: Horns
+  origin: v3
+  books:
+  - title: Horns
+    author: Joe Hill
+- name: Deadmen Walking
+  origin: v3
+  books:
+  - title: Deadmen Walking
+    author: Sherrilyn Kenyon
+  - title: Death Doesn't Bargain
+    author: Sherrilyn Kenyon
+  - title: At Death's Door
+    author: Sherrilyn Kenyon
+  - title: Deadman's Cross
+    author: Sherrilyn Kenyon

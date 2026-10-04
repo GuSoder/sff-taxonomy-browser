@@ -1,0 +1,70 @@
+id: habitats-and-mysteries
+label: Habitats and mysteries
+parent: stations-and-the-belt
+origin: shadow-v3
+definition: Space habitats, stations and mysteries within them.
+cards:
+- name: The Investigations of Mossa & Pleiti
+  origin: original
+  books:
+  - title: The Mimicking of Known Successes
+    author: Malka Older
+  - title: The Imposition of Unnecessary Obstacles
+    author: Malka Older
+- name: Nemesis (Asimov)
+  origin: v3
+  books:
+  - title: Nemesis
+    author: Isaac Asimov
+- name: Places in the Darkness
+  origin: v3
+  books:
+  - title: Places in the Darkness
+    author: Chris Brookmyre
+- name: Abbott in Darkness
+  origin: v3
+  books:
+  - title: Abbott in Darkness
+    author: D.J. Butler
+- name: Hal Clement
+  origin: v3
+  books:
+  - title: Half Life
+    author: Hal Clement
+  - title: Noise
+    author: Hal Clement
+- name: Full Tide of Night
+  origin: v3
+  books:
+  - title: Full Tide of Night
+    author: J. R. Dunn
+- name: Growing Up Weightless
+  origin: v3
+  books:
+  - title: Growing Up Weightless
+    author: John M. Ford
+- name: Lightless
+  origin: v3
+  books:
+  - title: Lightless
+    author: C.A. Higgins
+  - title: Supernova
+    author: C.A. Higgins
+  - title: Radiate
+    author: C.A. Higgins
+- name: Jason Hough
+  origin: v3
+  books:
+  - title: Zero World
+    author: Jason M. Hough
+  - title: Escape Velocity
+    author: Jason M. Hough
+  - title: Injection Burn
+    author: Jason M. Hough
+- name: Kindom Trilogy
+  origin: v3
+  books:
+  - title: On Vicious Worlds
+    author: Bethany Jacobs
+  - title: This Brutal Moon
+    author: Bethany Jacobs

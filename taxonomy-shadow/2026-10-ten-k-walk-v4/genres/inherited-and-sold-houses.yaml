@@ -1,0 +1,35 @@
+id: inherited-and-sold-houses
+label: Inherited and sold houses
+parent: housebound
+origin: shadow-v3
+definition: Haunted-house stories driven by buying, selling, inheriting or renovating the haunted property.
+cards:
+- name: How to Sell a Haunted House
+  origin: original
+  books:
+  - title: How to Sell a Haunted House
+- name: It Was Her House First
+  origin: original
+  books:
+  - title: It Was Her House First
+- name: Just Like Home
+  origin: original
+  books:
+  - title: Just Like Home
+- name: The Hacienda
+  origin: original
+  books:
+  - title: The Hacienda
+- name: The Agony House
+  origin: original
+  books:
+  - title: The Agony House
+- name: Forgotten Sisters
+  origin: original
+  books:
+  - title: Forgotten Sisters
+- name: Sorcerer's House
+  origin: v3
+  books:
+  - title: The Sorcerer's House
+    author: Gene Wolfe

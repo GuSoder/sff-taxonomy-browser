@@ -1,0 +1,87 @@
+id: truth-and-flame-swords
+label: Swords of truth and flame
+parent: chosen-swords
+origin: shadow-v3
+definition: Named swords and prophecy.
+cards:
+- name: The Sword of Truth
+  origin: original
+  books:
+  - title: Wizard’s First Rule
+    author: Terry Goodkind
+  - title: Stone of Tears
+    author: Terry Goodkind
+  - title: Blood of the Fold
+    author: Terry Goodkind
+  - title: Temple of the Winds
+    author: Terry Goodkind
+  - title: Soul of the Fire
+    author: Terry Goodkind
+  - title: Faith of the Fallen
+    author: Terry Goodkind
+  - title: The Pillars of Creation
+    author: Terry Goodkind
+  - title: Naked Empire
+    author: Terry Goodkind
+  - title: Chainfire
+    author: Terry Goodkind
+  - title: Phantom
+    author: Terry Goodkind
+  - title: Confessor
+    author: Terry Goodkind
+- name: Obsidian Trilogy
+  origin: v3
+  books:
+  - title: To Light a Candle
+    author: Mercedes Lackey
+  - title: The Outstretched Shadow
+    author: Mercedes Lackey
+  - title: When Darkness Falls
+    author: Mercedes Lackey
+  - title: The Obsidian Mountain Trilogy
+    author: Mercedes Lackey
+- name: Enduring Flame
+  origin: v3
+  books:
+  - title: The Phoenix Unchained
+    author: Mercedes Lackey
+  - title: The Phoenix Endangered
+    author: Mercedes Lackey
+  - title: The Phoenix Transformed
+    author: Mercedes Lackey
+  - title: The Enduring Flame Trilogy
+    author: Mercedes Lackey
+- name: Fortress
+  origin: v3
+  books:
+  - title: Fortress in the Eye of Time
+    author: C J Cherryh
+  - title: Fortress of Eagles
+    author: C J Cherryh
+  - title: Fortress of Ice
+    author: C J Cherryh
+- name: Godslayer Chronicles
+  origin: v3
+  books:
+  - title: Shadowfall
+    author: James Clemens
+  - title: Hinterland
+    author: James Clemens
+- name: Obsidian Universe
+  origin: v3
+  books:
+  - title: Crown of Vengeance
+    author: Mercedes Lackey
+  - title: Blade of Empire
+    author: Mercedes Lackey
+  - title: Deliverance of Dragons
+    author: Mercedes Lackey
+- name: Ardor Benn
+  origin: v3
+  books:
+  - title: The Last Lies of Ardor Benn
+    author: Tyler Whitesides
+  - title: The Shattered Realm of Ardor Benn
+    author: Tyler Whitesides
+  - title: The Thousand Deaths of Ardor Benn
+    author: Tyler Whitesides

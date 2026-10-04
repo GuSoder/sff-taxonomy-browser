@@ -1,0 +1,77 @@
+id: norton-and-standalone-colonies
+label: Frontier standalones
+parent: colony-wars
+origin: shadow-v3
+definition: Frontier standalones.
+cards:
+- name: We Have Always Been Here
+  origin: v3
+  books:
+  - title: We Have Always Been Here
+    author: Lena Nguyen
+- name: Far Side of the Universe
+  origin: v3
+  books:
+  - title: The Far Side of the Universe
+    author: noc
+- name: Norton Space Adventures
+  origin: v3
+  books:
+  - title: Janus
+    author: Andre Norton
+  - title: Warlock
+    author: Andre Norton
+  - title: Dark Companion
+    author: Andre Norton
+  - title: Gods and Androids
+    author: Andre Norton
+  - title: Masks of the Outcasts
+    author: Andre Norton
+  - title: Beast Master's Planet
+    author: Andre Norton
+  - title: Beast Master's Quest
+    author: Andre Norton
+  - title: Search for the Star Stones
+    author: Andre Norton
+  - title: The Game of Stars and Comets
+    author: Andre Norton
+- name: Megan O'Keefe Standalones
+  origin: v3
+  books:
+  - title: The Blighted Stars
+    author: Megan E. O
+  - title: The Bound Worlds
+    author: Megan E. O
+  - title: The First Omega
+    author: Megan E. O
+  - title: The Fractured Dark
+    author: Megan E. O
+  - title: The Two Lies of Faven Sythe
+    author: Megan E. O
+- name: Inherit the Stars
+  origin: v3
+  books:
+  - title: Inherit the Stars
+    author: Tony Peak
+- name: Emery Robin
+  origin: v3
+  books:
+  - title: The Sea Eternal
+    author: Emery Robin
+  - title: The Stars Undying
+    author: Emery Robin
+- name: Library of Stars
+  origin: v3
+  books:
+  - title: The Library of Stars
+    author: Jordan Rose
+- name: Republic of Memory
+  origin: v3
+  books:
+  - title: The Republic of Memory
+    author: Mahmud El Sayed
+- name: Wrapt in Crystal
+  origin: v3
+  books:
+  - title: Wrapt in Crystal
+    author: Sharon Shinn

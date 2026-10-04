@@ -1,0 +1,71 @@
+id: outbreak-day-one
+label: Outbreak Day One
+parent: zombie-apocalypse
+origin: shadow-v3
+definition: Zombie fiction of the outbreak itself and the first weeks of survival.
+cards:
+- name: World War Z
+  origin: original
+  books:
+  - title: World War Z
+- name: Survivor Song
+  origin: original
+  books:
+  - title: Survivor Song
+- name: Autumn
+  origin: v3
+  books:
+  - title: Autumn
+    author: David Moody
+  - title: 'Autumn: Aftermath'
+    author: David Moody
+  - title: 'Autumn: Disintegration'
+    author: David Moody
+  - title: 'Autumn: Purification'
+    author: David Moody
+  - title: 'Autumn: The City'
+    author: David Moody
+- name: Black Tide Rising
+  origin: v3
+  books:
+  - title: The Last Centurion
+    author: John Ringo
+  - title: To Sail a Darkling Sea
+    author: John Ringo
+  - title: Under a Graveyard Sky
+    author: John Ringo
+  - title: Islands of Rage and Hope
+    author: John Ringo
+  - title: Strands of Sorrow
+    author: John Ringo
+  - title: River of Night
+    author: John Ringo
+  - title: The Valley of Shadows
+    author: John Ringo
+  - title: Gunpowder & Embers
+    author: John Ringo
+  - title: We Shall Rise
+    author: John Ringo
+- name: Extinction Cycle
+  origin: v3
+  books:
+  - title: Extinction Aftermath
+    author: Nicholas Sansbury Smith
+  - title: Extinction Age
+    author: Nicholas Sansbury Smith
+  - title: Extinction Edge
+    author: Nicholas Sansbury Smith
+  - title: Extinction End
+    author: Nicholas Sansbury Smith
+  - title: Extinction Evolution
+    author: Nicholas Sansbury Smith
+  - title: Extinction Horizon
+    author: Nicholas Sansbury Smith
+- name: Severance
+  origin: original
+  books:
+  - title: Severance
+- name: Manhunt
+  origin: original
+  books:
+  - title: Manhunt

@@ -1,0 +1,66 @@
+id: frontier-magic
+label: Frontier magic
+parent: weird-west-fantasy
+origin: shadow-v3
+definition: Weird West fantasy of gunslingers, marshals and sorcerous frontier law and business.
+cards:
+- name: The Silverberg Business
+  origin: original
+  books:
+  - title: The Silverberg Business
+- name: Golgotha (Belcher)
+  origin: v3
+  books:
+  - title: The Shotgun Arcana
+    author: R. S. Belcher
+- name: Golgotha
+  origin: v3
+  books:
+  - title: The Queen of Swords
+    author: R. S. Belcher
+- name: Shadow series (Bowen)
+  origin: v3
+  books:
+  - title: Conspiracy of Ravens
+    author: Lila Bowen
+  - title: Malice of Crows
+    author: Lila Bowen
+  - title: Treason of Hawks
+    author: Lila Bowen
+  - title: Wake of Vultures
+    author: Lila Bowen
+- name: Territory
+  origin: v3
+  books:
+  - title: Territory
+    author: Emma Bull
+- name: The Native Star
+  origin: v3
+  books:
+  - title: The Native Star
+    author: M. K. Hobson
+  - title: The Hidden Goddess
+    author: M. K. Hobson
+- name: Petra Dee
+  origin: v3
+  books:
+  - title: Dark Alchemy
+    author: Laura Bickle
+  - title: Mercury Retrograde
+    author: Laura Bickle
+  - title: Nine of Stars
+    author: Laura Bickle
+  - title: Phoenix Falling
+    author: Laura Bickle
+  - title: Witch Creek
+    author: Laura Bickle
+- name: Destiny's Embers
+  origin: v3
+  books:
+  - title: 'Elemental: Destiny''s Embers'
+    author: Bradley Wardell
+- name: Split Feather
+  origin: v3
+  books:
+  - title: Split Feather
+    author: Deborah A. Wolf

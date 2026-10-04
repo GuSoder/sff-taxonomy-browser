@@ -1,0 +1,68 @@
+id: elves-witness-and-serpentwar
+label: Elves, witnesses and serpentwar
+parent: wars-of-peoples
+origin: shadow-v3
+definition: Wars.
+cards:
+- name: Elves (Barclay)
+  origin: v3
+  books:
+  - title: Elfsorrow
+    author: James Barclay
+  - title: 'Elves: Beyond the Mists of Katura'
+    author: James Barclay
+  - title: 'Elves: Once Walked With Gods'
+    author: James Barclay
+  - title: 'Elves: Rise of the TaiGethen'
+    author: James Barclay
+- name: The Witness Trilogy
+  origin: v3
+  books:
+  - title: The God Is Not Willing
+    author: Steven Erikson
+  - title: No Life Forsaken
+    author: Steven Erikson
+  - title: Legacies of Betrayal
+    author: Steven Erikson
+- name: Serpentwar Saga
+  origin: v3
+  books:
+  - title: Rage of a Demon King
+    author: Raymond E Feist
+  - title: Rise of a Merchant Prince
+    author: Raymond E Feist
+  - title: Shards of a Broken Crown
+    author: Raymond E Feist
+  - title: Shadow of a Dark Queen
+    author: Raymond E Feistraymond E Feist
+- name: Faithful and Fallen / Banished Lands
+  origin: v3
+  books:
+  - title: A Time of Blood
+    author: John Gwynne
+  - title: A Time of Courage
+    author: John Gwynne
+  - title: A Time of Dread
+    author: John Gwynne
+  - title: Malice
+    author: John Gwynne
+  - title: Ruin
+    author: John Gwynne
+  - title: Valor
+    author: John Gwynne
+  - title: Wrath
+    author: John Gwynne
+- name: Garden of Empire
+  origin: v3
+  books:
+  - title: The Garden of Empire
+    author: East Asia
+- name: Chronicles of a Cosmic Warlord
+  origin: v3
+  books:
+  - title: Empire of the Saviours
+    author: ''
+  - title: Gateway of the Saviours
+    author: ''
+  - title: Tithe of the Saviours
+    author: ''

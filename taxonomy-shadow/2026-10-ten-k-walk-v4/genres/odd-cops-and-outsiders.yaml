@@ -1,0 +1,51 @@
+id: odd-cops-and-outsiders
+label: Odd cops and outsiders
+parent: occult-police-fiction
+origin: shadow-v3
+definition: Occult investigation by detectives, rooks and outsiders who work at the edge of a force.
+cards:
+- name: Magic for Liars
+  origin: original
+  books:
+  - title: Magic for Liars
+- name: The Outsider
+  origin: original
+  books:
+  - title: The Outsider
+- name: The Rook Files
+  origin: v3
+  books:
+  - title: Royal Gambit
+    author: Daniel O
+  - title: Stiletto
+    author: Daniel O
+  - title: The Rook
+    author: Daniel O
+  - title: Royal Gambit
+    author: Daniel O'Malley
+- name: Daughter of the Sword
+  origin: v3
+  books:
+  - title: Daughter of the Sword
+    author: Steve Bein
+  - title: Year of the Demon
+    author: Steve Bein
+  - title: Disciple of the Wind
+    author: Steve Bein
+- name: The Gypsy
+  origin: v3
+  books:
+  - title: The Gypsy
+    author: Steven Brust
+- name: Sugden Detectives
+  origin: v3
+  books:
+  - title: Good Fellows
+    author: Chris Sugden
+  - title: High Vaultage
+    author: Chris Sugden
+- name: Marked Swann
+  origin: v3
+  books:
+  - title: Marked
+    author: S. Andrew Swann

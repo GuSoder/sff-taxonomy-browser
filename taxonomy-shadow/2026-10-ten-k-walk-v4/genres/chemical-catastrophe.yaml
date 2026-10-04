@@ -1,0 +1,24 @@
+id: chemical-catastrophe
+label: Chemical catastrophe
+parent: apocalyptic-fiction
+origin: original
+definition: The world ends through chemistry or matter itself - a new form of ice freezing the oceans,
+  crystallization consuming the world. Coined by the curator 2026-09-14; not an SFE/EoF headword.
+cards:
+- name: Cat's Cradle
+  origin: original
+  books:
+  - title: Cat's Cradle
+- name: The Crystal World
+  origin: original
+  books:
+  - title: The Crystal World
+- name: Daybreak (Barnes)
+  origin: v3
+  books:
+  - title: Daybreak Zero
+    author: John Barnes
+  - title: Directive 51
+    author: John Barnes
+  - title: The Last President
+    author: John Barnes

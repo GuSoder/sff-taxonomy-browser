@@ -1,0 +1,59 @@
+id: deep-time-chronicles
+label: Deep-time chronicles
+parent: future-history-of-earth
+origin: shadow-v3
+definition: Earth's future told across epochs, species and millions of years.
+cards:
+- name: Journey Beyond Tomorrow
+  origin: original
+  books:
+  - title: Journey Beyond Tomorrow
+- name: Last and First Men
+  origin: original
+  books:
+  - title: Last and First Men
+- name: Evolution (Baxter)
+  origin: v3
+  books:
+  - title: Evolution
+    author: Stephen Baxter
+- name: Odd John / Sirius
+  origin: v3
+  books:
+  - title: Odd John
+    author: Olaf Stapledon
+  - title: Sirius
+    author: Olaf Stapledon
+- name: Beyond Infinity
+  origin: v3
+  books:
+  - title: Beyond Infinity
+    author: Gregory Benford
+- name: City
+  origin: original
+  books:
+  - title: City
+- name: Legends of the First Empire
+  origin: v3
+  books:
+  - title: Age of Myth
+    author: Michael J. Sullivan
+  - title: Age of Swords
+    author: Michael J. Sullivan
+  - title: Age of War
+    author: Michael J. Sullivan
+- name: Wright Far Future
+  origin: v3
+  books:
+  - title: Count to a Trillion
+    author: John C. Wright
+  - title: The Hermetic Millennia
+    author: John C. Wright
+  - title: The Judge of Ages
+    author: John C. Wright
+  - title: The Architect of Aeons
+    author: John C. Wright
+  - title: The Vindication of Man
+    author: John C. Wright
+  - title: Count to Infinity
+    author: John C. Wright

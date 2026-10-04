@@ -1,0 +1,73 @@
+id: blood-and-night-rivals
+label: Blood and night rivals
+parent: rivals-and-enemies
+origin: shadow-v3
+definition: Enemies-to-lovers with vampires, night courts and blood magic.
+cards:
+- name: Crowns of Nyaxia (Broadbent)
+  origin: v3
+  books:
+  - title: The Serpent & the Wings of Night
+    author: Carissa Broadbent
+  - title: Six Scorched Roses
+    author: Carissa Broadbent
+  - title: The Ashes & the Star-Cursed King
+    author: Carissa Broadbent
+  - title: The Songbird & the Heart of Stone
+    author: Carissa Broadbent
+  - title: Children of Fallen Gods
+    author: Carissa Broadbent
+  - title: Daughter of No Worlds
+    author: Carissa Broadbent
+  - title: Slaying the Vampire Conqueror
+    author: Carissa Broadbent
+  - title: The Fallen & the Kiss of Dusk
+    author: Carissa Broadbent
+  - title: Mother of Death and Dawn
+    author: Carissa Broadbent
+  - title: The Lion & the Deathless Dark
+    author: Carissa Broadbent
+- name: Fallen Empires (Draven)
+  origin: v3
+  books:
+  - title: Phoenix Unbound
+    author: Grace Draven
+  - title: Dragon Unleashed
+    author: Grace Draven
+  - title: Raven Unveiled
+    author: Grace Draven
+- name: Frostblood Saga
+  origin: v3
+  books:
+  - title: Fireblood
+    author: Elly Blake
+  - title: Frostblood
+    author: Elly Blake
+  - title: Nightblood
+    author: Elly Blake
+- name: Nightblood Prince
+  origin: v3
+  books:
+  - title: The Nightblood Prince
+    author: Molly X. Chang
+- name: Viper and Lilies
+  origin: v3
+  books:
+  - title: Viper & Lilies
+    author: Lexie Axon
+- name: Thirstwood
+  origin: v3
+  books:
+  - title: Daughter of the Wild Gods
+    author: Elly Blake
+  - title: The Cursed Queens Daughter
+    author: Elly Blake
+  - title: The Forest Kings Daughter
+    author: Elly Blake
+- name: Silver Elite
+  origin: v3
+  books:
+  - title: Broken Dove
+    author: Dani Francis
+  - title: Silver Elite
+    author: Dani Francis

@@ -1,0 +1,27 @@
+id: village-horror
+label: Village horror
+parent: folk-horror
+origin: shadow-v3
+definition: Folk horror inside villages and communities.
+cards:
+- name: Lapvona
+  origin: original
+  books:
+  - title: Lapvona
+- name: Snake-Eater
+  origin: original
+  books:
+  - title: Snake-Eater
+- name: The Honeys
+  origin: original
+  books:
+  - title: The Honeys
+- name: The Unmothers
+  origin: original
+  books:
+  - title: The Unmothers
+- name: Slewfoot
+  origin: v3
+  books:
+  - title: Slewfoot
+    author: Brom

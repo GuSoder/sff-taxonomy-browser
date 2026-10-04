@@ -1,0 +1,41 @@
+id: engineered-ecologies
+label: Engineered ecologies
+parent: genetic-engineering
+origin: shadow-v3
+definition: 'Genetic engineering as disease, ecology or bioweapon: parks, parasites and ruined species.'
+cards:
+- name: Jurassic Park
+  origin: original
+  books:
+  - title: Jurassic Park
+    author: Michael Crichton
+  - title: The Lost World
+    author: Michael Crichton
+- name: Ghost Species
+  origin: original
+  books:
+  - title: Ghost Species
+- name: Sorrowland
+  origin: original
+  books:
+  - title: Sorrowland
+- name: Thirteen Ways to Kill Lulabelle Rock
+  origin: original
+  books:
+  - title: Thirteen Ways to Kill Lulabelle Rock
+- name: Parasitology
+  origin: v3
+  books:
+  - title: Chimera
+    author: Mira Grant
+  - title: Parasite
+    author: Mira Grant
+  - title: Symbiont
+    author: Mira Grant
+- name: Sage Walker
+  origin: v3
+  books:
+  - title: The Man in the Tree
+    author: Sage Walker
+  - title: Whiteout
+    author: Sage Walker

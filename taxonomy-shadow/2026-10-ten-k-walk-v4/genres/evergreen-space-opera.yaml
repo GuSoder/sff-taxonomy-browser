@@ -1,0 +1,76 @@
+id: evergreen-space-opera
+label: Evergreen space opera
+parent: classic-space-opera
+origin: original
+definition: 'Space opera that escaped its era: perpetually current rather than dated, in publishing’s
+  evergreen sense.'
+cards:
+- name: Dune
+  origin: original
+  books:
+  - title: Dune
+    author: Frank Herbert
+  - title: Dune Messiah
+    author: Frank Herbert
+  - title: Children of Dune
+    author: Frank Herbert
+  - title: God Emperor of Dune
+    author: Frank Herbert
+  - title: Heretics of Dune
+    author: Frank Herbert
+  - title: 'Chapterhouse: Dune'
+    author: Frank Herbert
+- name: Dune prequels and sequels (B. Herbert)
+  origin: v3
+  books:
+  - title: 'Dune: The Machine Crusade'
+    author: Brian Herbert
+  - title: Hunters of Dune
+    author: Brian Herbert
+  - title: 'Dune: The Battle of Corrin'
+    author: Brian Herbert
+  - title: Sandworms of Dune
+    author: Brian Herbert
+  - title: Paul of Dune
+    author: Brian Herbert
+  - title: The Winds of Dune
+    author: Brian Herbert
+  - title: 'Dune: The Butlerian Jihad'
+    author: Brian Herbert
+  - title: Sisterhood of Dune
+    author: Brian Herbert
+  - title: Mentats of Dune
+    author: Brian Herbert
+  - title: 'Dune: Red Plague'
+    author: Brian Herbert
+  - title: Navigators of Dune
+    author: Brian Herbert
+  - title: 'Dune: Legends, Heroes, Schools'
+    author: Brian Herbert
+  - title: 'Dune: House Atreides'
+    author: Brian Herbert
+  - title: 'Dune: House Corrino'
+    author: Brian Herbert
+  - title: 'Dune: House Harkonnen'
+    author: Brian Herbert
+  - title: 'Dune: The Duke of Caladan'
+    author: Brian Herbert
+  - title: 'Dune: The Lady of Caladan'
+    author: Brian Herbert
+  - title: 'Dune: The Heir of Caladan'
+    author: Brian Herbert
+  - title: Sands of Dune
+    author: Brian Herbert
+  - title: Princess of Dune
+    author: Brian Herbert
+  - title: The Caladan Trilogy
+    author: Brian Herbert
+  - title: Dreamer of Dune
+    author: Brian Herbert
+  - title: The Road to Dune
+    author: Frank Herbert
+- name: Saga of Shadows
+  origin: v3
+  books:
+  - title: Island in a Sea of Stars
+    author: Kevin J. Anderson

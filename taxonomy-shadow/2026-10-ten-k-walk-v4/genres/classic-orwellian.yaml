@@ -1,0 +1,29 @@
+id: classic-orwellian
+label: Classic Orwellian
+parent: orwellian-dystopia
+origin: original
+definition: Dystopias that run the 1984 formula as written in the book - total surveillance, controlled
+  language or history, regimented life and compulsory belief. Coercion, never pleasure or sedation - Huxleyan
+  dystopia is the sibling shelf.
+cards:
+- name: Nineteen Eighty-Four
+  origin: original
+  books:
+  - title: Nineteen Eighty-Four
+- name: We
+  origin: original
+  books:
+  - title: We
+- name: Tender Is the Flesh
+  origin: original
+  books:
+  - title: Tender Is the Flesh
+- name: The Memory Police
+  origin: original
+  books:
+  - title: The Memory Police
+- name: Swastika Night
+  origin: v3
+  books:
+  - title: Swastika Night
+    author: Murray Constantine

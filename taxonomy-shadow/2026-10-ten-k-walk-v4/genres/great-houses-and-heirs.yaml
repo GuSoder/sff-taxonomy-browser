@@ -1,0 +1,94 @@
+id: great-houses-and-heirs
+label: Great houses and heirs
+parent: succession-wars
+origin: shadow-v3
+definition: Succession struggles between great houses.
+cards:
+- name: A Song of Ice and Fire
+  origin: original
+  books:
+  - title: A Game of Thrones
+    author: George R. R. Martin
+  - title: A Clash of Kings
+    author: George R. R. Martin
+  - title: A Storm of Swords
+    author: George R. R. Martin
+  - title: A Feast for Crows
+    author: George R. R. Martin
+  - title: A Dance with Dragons
+    author: George R. R. Martin
+- name: The Inheritance Trilogy
+  origin: original
+  books:
+  - title: The Hundred Thousand Kingdoms
+    author: N. K. Jemisin
+  - title: The Broken Kingdoms
+    author: N. K. Jemisin
+  - title: The Kingdom of Gods
+    author: N. K. Jemisin
+  - title: The Awakened Kingdom
+    author: N. K. Jemisin
+- name: Dragon Prince saga
+  origin: v3
+  books:
+  - title: Stronghold
+    author: Melanie Rawn
+  - title: The Dragon Token
+    author: Melanie Rawn
+  - title: Dragon Prince
+    author: Melanie Rawn
+  - title: Sunrunner's Fire
+    author: Melanie Rawn
+  - title: The Star Scroll
+    author: Melanie Rawn
+  - title: Skybowl
+    author: Melanie Rawn
+- name: Empire Trilogy (Feist/Wurts)
+  origin: v3
+  books:
+  - title: Daughter of the Empire
+    author: Janny Wurts
+  - title: Mistress of the Empire
+    author: Janny Wurts
+  - title: Servant of the Empire
+    author: Janny Wurts
+- name: Amber Crown
+  origin: v3
+  books:
+  - title: The Amber Crown
+    author: Jacey Bedford
+- name: Radiant King
+  origin: v3
+  books:
+  - title: The Radiant King
+    author: David Dalglish
+- name: Fourlands
+  origin: v3
+  books:
+  - title: Above the Snowline
+    author: Steph Swainston
+  - title: Fair Rebel
+    author: Steph Swainston
+- name: Betrayal Prophecies
+  origin: v3
+  books:
+  - title: The Second Son
+    author: Adrienne Tooley
+  - title: The Third Daughter
+    author: Adrienne Tooley
+- name: Annals of the Chosen
+  origin: v3
+  books:
+  - title: The Wizard Lord
+    author: Lawrence Watt-Evans
+  - title: The Ninth Talisman
+    author: Lawrence Watt-Evans
+  - title: The Summer Palace
+    author: Lawrence Watt-Evans
+- name: Ward Legion
+  origin: v3
+  books:
+  - title: The Eye of Winter's Fury
+    author: ''
+  - title: The Legion of Shadow
+    author: ''

@@ -1,0 +1,41 @@
+id: cursed-towns
+label: Cursed towns
+parent: unholy-ground-horror
+origin: original
+definition: 'Unholy-ground horror anchored in a settlement: villages, towns and camps that turn on their
+  own people, the curse worked into the community''s ground. Split 2026-09-27 from Unholy ground horror
+  (curator ruling).'
+cards:
+- name: The Hungry Moon
+  origin: original
+  books:
+  - title: The Hungry Moon
+- name: Black River Orchard
+  origin: original
+  books:
+  - title: Black River Orchard
+- name: Cuckoo
+  origin: original
+  books:
+  - title: Cuckoo
+- name: The Village at the Edge of Noon
+  origin: original
+  books:
+  - title: The Village at the Edge of Noon
+- name: House in the High Wood
+  origin: v3
+  books:
+  - title: The House in the High Wood
+    author: Jeffrey E. Barlough
+- name: Cursed City
+  origin: v3
+  books:
+  - title: Cursed City
+    author: Kate Golden
+  - title: Half City
+    author: Kate Golden
+- name: Halls of the Dead
+  origin: v3
+  books:
+  - title: The Halls of the Dead
+    author: S M Hallow

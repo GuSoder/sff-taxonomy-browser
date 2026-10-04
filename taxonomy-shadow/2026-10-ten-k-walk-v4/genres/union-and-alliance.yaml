@@ -1,0 +1,56 @@
+id: union-and-alliance
+label: Union and alliance
+parent: future-history-in-space
+origin: shadow-v3
+definition: Space-opera histories of unions and alliances.
+cards:
+- name: Cyteen
+  origin: original
+  books:
+  - title: Cyteen
+    author: C. J. Cherryh
+  - title: Regenesis
+    author: C. J. Cherryh
+- name: Downbelow Station
+  origin: original
+  books:
+  - title: Downbelow Station
+- name: Alliance-Union
+  origin: v3
+  books:
+  - title: The Deep Beyond
+    author: C. J. Cherryh
+  - title: Alliance Space
+    author: C. J. Cherryh
+  - title: Alliance Rising
+    author: C. J. Cherryh
+  - title: Alliance Unbound
+    author: C. J. Cherryh
+  - title: Finitys End
+    author: C.J. Cherryh
+  - title: Heavy Time
+    author: C.J. Cherryh
+  - title: Hellburner
+    author: C.J. Cherryh
+  - title: Tripoint
+    author: C.J. Cherryh
+- name: Norstrilia
+  origin: original
+  books:
+  - title: Norstrilia
+- name: Slow Gods
+  origin: original
+  books:
+  - title: Slow Gods
+- name: Misspent Youth
+  origin: v3
+  books:
+  - title: Misspent Youth
+    author: Peter F. Hamilton
+- name: Dune sequels
+  origin: v3
+  books:
+  - title: Chapter House Dune
+    author: Frank Herbert
+  - title: The Second Great Dune Trilogy
+    author: Frank Herbert

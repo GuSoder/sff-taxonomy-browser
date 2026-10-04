@@ -1,0 +1,40 @@
+id: shade-desert-and-spring-rumors
+label: Shade, desert and rumors of spring
+parent: dry-worlds-and-wastes
+origin: shadow-v3
+definition: Dry worlds.
+cards:
+- name: Shade Gould
+  origin: v3
+  books:
+  - title: Shade
+    author: Steven Gould
+- name: Desert Rising
+  origin: v3
+  books:
+  - title: Desert Rising
+    author: Kelley Grant
+- name: Rumors of Spring
+  origin: v3
+  books:
+  - title: Rumors of Spring
+    author: Richard Grant
+- name: J T Greathouse Pillars
+  origin: v3
+  books:
+  - title: The City of the Wise
+    author: J.T. Greathouse
+  - title: The Tower of the Tyrant
+    author: J.T. Greathouse
+- name: Jim Grimsley
+  origin: v3
+  books:
+  - title: The Ordinary
+    author: Jim Grimsley
+  - title: The Last Green Tree
+    author: Jim Grimsley
+- name: City at World's End
+  origin: v3
+  books:
+  - title: City at World's End
+    author: Edmond Hamilton

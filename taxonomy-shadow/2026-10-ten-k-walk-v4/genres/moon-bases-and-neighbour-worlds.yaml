@@ -1,0 +1,59 @@
+id: moon-bases-and-neighbour-worlds
+label: Moon bases and neighbour worlds
+parent: lunar-voyages
+origin: shadow-v3
+definition: Moon bases and nearby worlds.
+cards:
+- name: Station Eternity
+  origin: v3
+  books:
+  - title: Station Eternity
+    author: Mur Lafferty
+  - title: Chaos Terminal
+    author: Mur Lafferty
+  - title: Infinite Archive
+    author: Mur Lafferty
+- name: Trip to Venus
+  origin: v3
+  books:
+  - title: A Trip to Venus
+    author: John Munro
+- name: Dune Time
+  origin: v3
+  books:
+  - title: Dune Time
+    author: Jack Nicholls
+- name: Moon Maze Game
+  origin: v3
+  books:
+  - title: The Moon Maze Game
+    author: Larry Niven
+- name: Gunpowder Moon
+  origin: v3
+  books:
+  - title: Gunpowder Moon
+    author: David Pedreira
+- name: Mining the Oort
+  origin: v3
+  books:
+  - title: Mining the Oort
+    author: Frederik Pohl
+- name: Cassandra Project
+  origin: v3
+  books:
+  - title: The Cassandra Project
+    author: Mike Resnick
+- name: Time Trials
+  origin: v3
+  books:
+  - title: Time Trials
+    author: M.A. Rothman
+  - title: Ice Trials
+    author: ''
+- name: Tenth Planet
+  origin: v3
+  books:
+  - title: The Tenth Planet
+    author: Kristine Kathryn Rusch
+  - title: 'The Tenth Planet: Oblivion'
+    author: Kristine Kathryn Rusch

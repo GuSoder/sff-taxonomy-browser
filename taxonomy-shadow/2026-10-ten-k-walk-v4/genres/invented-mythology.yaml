@@ -1,0 +1,65 @@
+id: invented-mythology
+label: Invented mythology
+parent: mythological-fantasy
+origin: original
+definition: Fantasy that builds its own mythology from scratch - invented gods, creation legends and deep-time
+  chronicles of an imaginary world rather than retellings of real-world myth. Coined by the curator 2026-09-14;
+  not an SFE/EoF headword.
+cards:
+- name: The Silmarillion
+  origin: v3
+  books:
+  - title: The Shaping of Middle-earth
+    author: Christopher Tolkien
+  - title: Unfinished Tales
+    author: J.R.R. Tolkien
+  - title: 'The Book of Lost Tales: Part One'
+    author: J.R.R. Tolkien
+  - title: 'The Book of Lost Tales: Part Two'
+    author: J.R.R. Tolkien
+  - title: The Lays of Beleriand
+    author: J.R.R. Tolkien
+  - title: The Lost Road and Other Writings
+    author: J.R.R. Tolkien
+- name: The Raven Tower
+  origin: original
+  books:
+  - title: The Raven Tower
+- name: Audition for the Fox
+  origin: original
+  books:
+  - title: Audition for the Fox
+- name: The Spear Cuts Through Water
+  origin: original
+  books:
+  - title: The Spear Cuts Through Water
+- name: Age of the Five
+  origin: v3
+  books:
+  - title: Priestess of the White
+    author: Trudi Canavan
+  - title: Voice of the Gods
+    author: Trudi Canavan
+- name: Kharkanas Trilogy
+  origin: v3
+  books:
+  - title: Forge of Darkness
+    author: Steven Erikson
+  - title: Fall of Light
+    author: Steven Erikson
+- name: The Naming Song
+  origin: v3
+  books:
+  - title: The Naming Song
+    author: Jedediah Berry
+- name: Ephemera
+  origin: v3
+  books:
+  - title: Sebastian
+    author: Anne Bishop
+  - title: Belladonna
+    author: Anne Bishop
+  - title: The Voice
+    author: Anne Bishop
+  - title: Bridge of Dreams
+    author: Anne Bishop

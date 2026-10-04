@@ -1,0 +1,63 @@
+id: inherited-monster-magic
+label: Inherited powers and curses
+parent: birthright-magic
+origin: shadow-v3
+definition: Magic as an inherited burden, curse or monstrous trait that the heir must live with.
+cards:
+- name: From Dust, a Flame
+  origin: original
+  books:
+  - title: From Dust, a Flame
+- name: Needy Little Things
+  origin: original
+  books:
+  - title: Needy Little Things
+- name: Only a Monster
+  origin: original
+  books:
+  - title: Only a Monster
+- name: Spells to Forget Us
+  origin: original
+  books:
+  - title: Spells to Forget Us
+- name: They Bloom at Night
+  origin: original
+  books:
+  - title: They Bloom at Night
+- name: Buchanan
+  origin: v3
+  books:
+  - title: Breeze Felt at Moonrise
+    author: Lynn Buchanan
+  - title: The Dollmakers
+    author: Lynn Buchanan
+- name: Auralee Wallace
+  origin: v3
+  books:
+  - title: The Late-Night Witches
+    author: Auralee Wallace
+  - title: The Haunted Librarian
+    author: Auralee Wallace
+- name: Wendig Family Magic
+  origin: v3
+  books:
+  - title: The Book of Accidents
+    author: Chuck Wendig
+  - title: The Calamities
+    author: Chuck Wendig
+- name: Chaos Trilogy Wright
+  origin: v3
+  books:
+  - title: Fugitives of Chaos
+    author: John C. Wright
+  - title: Orphans of Chaos
+    author: John C. Wright
+  - title: Titans of Chaos
+    author: John C. Wright
+- name: God Game Greeley and Forever Hamill
+  origin: v3
+  books:
+  - title: God Game
+    author: Andrew M. Greeley
+  - title: Forever
+    author: Pete Hamill

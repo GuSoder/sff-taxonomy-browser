@@ -1,0 +1,66 @@
+id: libraries-and-books-of-power
+label: Libraries and books of power
+parent: witches-and-libraries
+origin: shadow-v3
+definition: Fantasy centred on libraries, archives, inks and the written word.
+cards:
+- name: The Embroidered Book
+  origin: original
+  books:
+  - title: The Embroidered Book
+- name: Arcane Archives
+  origin: v3
+  books:
+  - title: The Arcane Archives
+    author: Great Britain
+- name: Ink Witch
+  origin: v3
+  books:
+  - title: The Ink Witch
+    author: Steph Cherrywell
+- name: Arcane Arts
+  origin: v3
+  books:
+  - title: The Arcane Arts
+    author: S. D. Coverly
+- name: Gossamer Mage
+  origin: v3
+  books:
+  - title: The Gossamer Mage
+    author: Julie E. Czerneda
+- name: Sing the Night
+  origin: v3
+  books:
+  - title: Rest the Dawn
+    author: Megan Jauregui Eccles
+  - title: Sing the Night
+    author: Megan Jauregui Eccles
+- name: Mist-Torn Witches
+  origin: v3
+  books:
+  - title: The Mist-Torn Witches
+    author: Barb Hendee
+  - title: Witches in Red
+    author: Barb Hendee
+  - title: Witches with the Enemy
+    author: Barb Hendee
+  - title: To Kill a Kettle Witch
+    author: Barb Hendee
+- name: Wildflower
+  origin: v3
+  books:
+  - title: Wildflower
+    author: Becky Jenkinson
+  - title: Wayfinder
+    author: Becky Jenkinson
+- name: Library Trilogy
+  origin: v3
+  books:
+  - title: The Book That Wouldn't Burn
+    author: Mark Lawrence
+  - title: The Book That Broke the World
+    author: Mark Lawrence
+  - title: The Book That Held Her Heart
+    author: Mark Lawrence
+  - title: The Bookshop Book
+    author: Mark Lawrence

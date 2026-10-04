@@ -1,0 +1,47 @@
+id: haunted-families
+label: Haunted families
+parent: vengeful-spirits
+origin: shadow-v3
+definition: Ghosts and curses within families and homes.
+cards:
+- name: The Influence
+  origin: original
+  books:
+  - title: The Influence
+- name: The City Beautiful
+  origin: original
+  books:
+  - title: The City Beautiful
+- name: Sisters
+  origin: original
+  books:
+  - title: Sisters
+- name: Hidden Pictures
+  origin: original
+  books:
+  - title: Hidden Pictures
+- name: Haunting of Alejandra
+  origin: v3
+  books:
+  - title: The Haunting of Alejandra
+    author: V. Castro
+- name: Ghosts of Gwendolyn Montgomery
+  origin: v3
+  books:
+  - title: The Ghosts of Gwendolyn Montgomery
+    author: Clarence A. Haynes
+- name: The Macabre
+  origin: v3
+  books:
+  - title: The Macabre
+    author: Deluxe Limited Edition Kosoko Jackson
+- name: Joplin Horror
+  origin: v3
+  books:
+  - title: The Joplin Horror
+    author: Jason Kaleko
+- name: House on Terminal Hill
+  origin: v3
+  books:
+  - title: A Visit to the House on Terminal Hill
+    author: Elizabeth Knox

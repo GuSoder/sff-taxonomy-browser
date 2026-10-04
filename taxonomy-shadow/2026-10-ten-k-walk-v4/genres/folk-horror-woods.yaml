@@ -1,0 +1,45 @@
+id: folk-horror-woods
+label: Folk-horror woods
+parent: haunted-wilds
+origin: shadow-v3
+definition: Haunted woods, roads and swamps.
+cards:
+- name: The Toll
+  origin: original
+  books:
+  - title: The Toll
+- name: The Twisted Ones
+  origin: original
+  books:
+  - title: The Twisted Ones
+- name: Echo
+  origin: original
+  books:
+  - title: Echo
+- name: Hokuloa Road
+  origin: original
+  books:
+  - title: Hokuloa Road
+- name: Road of Bones
+  origin: original
+  books:
+  - title: Road of Bones
+- name: Wyrdwood
+  origin: v3
+  books:
+  - title: Gods of the Wyrdwood
+    author: RJ Barker
+  - title: Heart of the Wyrdwood
+    author: RJ Barker
+  - title: Warlords of Wyrdwood
+    author: RJ Barker
+- name: Blue Limbo
+  origin: v3
+  books:
+  - title: Blue Limbo
+    author: Terence. M. Green
+- name: Red Winter
+  origin: v3
+  books:
+  - title: The Red Winter
+    author: Cameron Sullivan

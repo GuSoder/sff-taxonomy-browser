@@ -1,0 +1,78 @@
+id: magic-schools
+label: Magic schools
+parent: apprentices-and-schools
+origin: shadow-v3
+definition: Fantasy set in schools and academies of magic.
+cards:
+- name: The Scholomance
+  origin: original
+  books:
+  - title: A Deadly Education
+    author: Naomi Novik
+  - title: The Last Graduate
+    author: Naomi Novik
+  - title: The Golden Enclaves
+    author: Naomi Novik
+- name: Confluence Academy
+  origin: v3
+  books:
+  - title: Unbound
+    author: Penelope Bloom
+  - title: Unveiled
+    author: Penelope Bloom
+- name: Spellslinger
+  origin: v3
+  books:
+  - title: Charmcaster
+    author: Sebastien de Castell
+  - title: Crownbreaker
+    author: Sebastien de Castell
+  - title: Queenslayer
+    author: Sebastien de Castell
+  - title: Shadowblack
+    author: Sebastien de Castell
+  - title: Soulbinder
+    author: Sebastien de Castell
+  - title: Spellslinger
+    author: Sebastien de Castell
+- name: Wraithbound
+  origin: v3
+  books:
+  - title: Wraithbound
+    author: Tim Akers
+- name: Sunken Archive
+  origin: v3
+  books:
+  - title: A Letter from the Lonesome Shore
+    author: Sylvie Cathrall
+- name: Unraveller
+  origin: original
+  books:
+  - title: Unraveller
+- name: Aurian
+  origin: v3
+  books:
+  - title: Harp of Winds
+    author: Maggie Furey
+  - title: Sword of the Flame
+    author: Maggie Furey
+  - title: The Heart of Myrial
+    author: Maggie Furey
+  - title: Spirit of the Stone
+    author: Maggie Furey
+  - title: Echo of Eternity
+    author: Maggie Furey
+  - title: Exodus of the Xandim
+    author: Maggie Furey
+  - title: Heritage Of The Xandim
+    author: Maggie Furey
+- name: Blood Over Bright Haven
+  origin: v3
+  books:
+  - title: Blood Over Bright Haven
+    author: M. L. Wang
+- name: Madder Lake
+  origin: v3
+  books:
+  - title: Madder Lake
+    author: Katie Wu

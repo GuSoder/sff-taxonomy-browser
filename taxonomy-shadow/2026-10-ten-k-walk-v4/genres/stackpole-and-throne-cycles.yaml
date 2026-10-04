@@ -1,0 +1,54 @@
+id: stackpole-and-throne-cycles
+label: Stackpole, Stasheff and Unhewn Throne
+parent: crowns-and-queens-a
+origin: shadow-v3
+definition: Epic cycles.
+cards:
+- name: Stackpole Once a Hero
+  origin: v3
+  books:
+  - title: Once a Hero
+    author: Michael A. Stackpole
+  - title: Talion
+    author: Michael A. Stackpole
+  - title: Eyes of Silver
+    author: Michael A. Stackpole
+- name: DragonCrown War Cycle
+  origin: v3
+  books:
+  - title: The Dark Glory War
+    author: Michael A. Stackpole
+  - title: Fortress Draconis
+    author: Michael A. Stackpole
+  - title: When Dragons Rage
+    author: Michael A. Stackpole
+  - title: The Grand Crusade
+    author: Michael A. Stackpole
+- name: Stasheff Fantasy
+  origin: v3
+  books:
+  - title: The Gods of War
+    author: Christopher Stasheff
+  - title: Dragon's Eye
+    author: Christopher Stasheff
+- name: Unhewn Throne
+  origin: v3
+  books:
+  - title: The Emperor's Blades
+    author: Brian Staveley
+  - title: The Providence of Fire
+    author: Brian Staveley
+  - title: The Last Mortal Bond
+    author: Brian Staveley
+  - title: The Empire's Ruin
+    author: Brian Staveley
+- name: Skullsworn
+  origin: v3
+  books:
+  - title: Skullsworn
+    author: Brian Staveley
+- name: Jimmy the Hand
+  origin: v3
+  books:
+  - title: Jimmy the Hand
+    author: Raymond E Feistsm Stirling

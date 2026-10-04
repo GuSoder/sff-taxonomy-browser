@@ -1,0 +1,72 @@
+id: cyberspace-and-the-sprawl
+label: Cyberspace and the sprawl
+parent: neural-fiction
+origin: shadow-v3
+definition: Cyberpunk of jacking in, virtual space and street-level net culture.
+cards:
+- name: The Sprawl Trilogy
+  origin: original
+  books:
+  - title: Neuromancer
+    author: William Gibson
+  - title: Count Zero
+    author: William Gibson
+  - title: Mona Lisa Overdrive
+    author: William Gibson
+- name: Vurt
+  origin: original
+  books:
+  - title: Vurt
+    author: Jeff Noon
+  - title: Pollen
+    author: Jeff Noon
+- name: Synners
+  origin: v3
+  books:
+  - title: Synners
+    author: Pat Cadigan
+- name: Budayeen
+  origin: v3
+  books:
+  - title: When Gravity Fails
+    author: George Alec Effinger
+  - title: A Fire in the Sun
+    author: George Alec Effinger
+  - title: The Exile Kiss
+    author: George Alec Effinger
+- name: Rapture of the Nerds
+  origin: v3
+  books:
+  - title: The Rapture of the Nerds
+    author: Cory Doctorow
+- name: Inscape
+  origin: v3
+  books:
+  - title: Downfall
+    author: Louise Carey
+  - title: Inscape
+    author: Louise Carey
+  - title: Outcast
+    author: Louise Carey
+- name: God Wave
+  origin: v3
+  books:
+  - title: The God Peak
+    author: Patrick Hemstreet
+  - title: The God Wave
+    author: Patrick Hemstreet
+- name: Two Faces of Tomorrow
+  origin: v3
+  books:
+  - title: Cyber Rogues
+    author: James P. Hogan
+- name: Brain Thief
+  origin: v3
+  books:
+  - title: Brain Thief
+    author: Alexander Jablokov
+- name: Quantum Thief
+  origin: v3
+  books:
+  - title: The Quantum Thief
+    author: Hannu Rajaniemi; introduction by Roz Kaveney

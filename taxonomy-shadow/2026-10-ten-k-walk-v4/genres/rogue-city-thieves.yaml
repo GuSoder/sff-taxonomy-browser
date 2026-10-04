@@ -1,0 +1,70 @@
+id: rogue-city-thieves
+label: Rogues of the city
+parent: thieves-and-rogues
+origin: shadow-v3
+definition: Rogues in cities.
+cards:
+- name: Egil and Nix
+  origin: v3
+  books:
+  - title: A Discourse in Steel
+    author: Paul S. Kemp
+  - title: The Hammer and the Blade
+    author: Paul S. Kemp
+  - title: A Conversation in Blood
+    author: Paul S. Kemp
+- name: Among Thieves
+  origin: v3
+  books:
+  - title: Among Thieves
+    author: M.J. Kuhn
+- name: Black Swan
+  origin: v3
+  books:
+  - title: The Black Swan
+    author: Mercedes Lackey
+- name: Wickhills
+  origin: v3
+  books:
+  - title: Wickhills
+    author: Premee Mohamed
+- name: Crow and Shadow
+  origin: v3
+  books:
+  - title: Crow & Shadow
+    author: Hemant Nayak
+- name: Forged by Blood
+  origin: v3
+  books:
+  - title: Exiled by Iron
+    author: Ehigbor Okosun
+  - title: Forged by Blood
+    author: Ehigbor Okosun
+- name: Sword-Dancer
+  origin: v3
+  books:
+  - title: Sword-Dancer
+    author: Jennifer Roberson
+  - title: Sword-singer
+    author: Jennifer Roberson
+  - title: Sword-Maker
+    author: Jennifer Roberson
+  - title: Sword-Breaker
+    author: Jennifer Roberson
+  - title: Sword-Born
+    author: Jennifer Roberson
+  - title: Sword-Sworn
+    author: Jennifer Roberson
+  - title: The Novels of Tiger and Del, Volume III
+    author: Jennifer Roberson
+  - title: Sword-Bound
+    author: Jennifer Roberson
+  - title: Sword-Bearer
+    author: Jennifer Roberson
+- name: Maledicte
+  origin: v3
+  books:
+  - title: Maledicte
+    author: Lane Robins
+  - title: Kings and Assassins
+    author: Lane Robins

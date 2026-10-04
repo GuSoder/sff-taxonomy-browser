@@ -1,0 +1,52 @@
+id: wars-on-worlds
+label: Wars on worlds
+parent: colony-wars
+origin: shadow-v3
+definition: War on colony worlds.
+cards:
+- name: Web Shifters Reunification
+  origin: v3
+  books:
+  - title: Riders of the Storm
+    author: Julie E. Czerneda
+  - title: Rift in the Sky
+    author: Julie E. Czerneda
+- name: To Each This World
+  origin: v3
+  books:
+  - title: To Each This World
+    author: Julie E. Czerneda
+- name: The Tyrant
+  origin: v3
+  books:
+  - title: The Tyrant
+    author: Eric Flint
+- name: Eye of the Heron
+  origin: v3
+  books:
+  - title: The Eye of the Heron
+    author: Ursula K. Le Guin
+- name: Dark Beyond the Stars
+  origin: v3
+  books:
+  - title: The Dark Beyond the Stars
+    author: Frank M. Robinson
+- name: Roux Salvaged
+  origin: v3
+  books:
+  - title: Salvaged
+    author: Madeleine Roux
+  - title: Reclaimed
+    author: Madeleine Roux
+- name: L. M. Sagas
+  origin: v3
+  books:
+  - title: Cascade Failure
+    author: L. M. Sagas
+  - title: Gravity Lost
+    author: L. M. Sagas
+- name: Eternal Frontier
+  origin: v3
+  books:
+  - title: Eternal Frontier
+    author: James H. Schmitz

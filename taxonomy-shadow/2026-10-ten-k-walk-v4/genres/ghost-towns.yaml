@@ -1,0 +1,62 @@
+id: ghost-towns
+label: Ghost towns
+parent: haunted-towns-and-ghosts
+origin: shadow-v3
+definition: Ghosts.
+cards:
+- name: Justine Musk
+  origin: v3
+  books:
+  - title: Bloodangel
+    author: Justine Musk
+  - title: Lord of Bones
+    author: Justine Musk
+- name: Trail Cam
+  origin: v3
+  books:
+  - title: Trail Cam
+    author: Benjamin Percy
+- name: Ghost Ocean
+  origin: v3
+  books:
+  - title: Ghost Ocean
+    author: S.M. Peters
+- name: Angel Season
+  origin: v3
+  books:
+  - title: Angel Season
+    author: J.T. Petty
+- name: Headstone City
+  origin: v3
+  books:
+  - title: Headstone City
+    author: Tom Piccirilli
+- name: Ragged Alice
+  origin: v3
+  books:
+  - title: Ragged Alice
+    author: Gareth L. Powell
+- name: Crawlers
+  origin: v3
+  books:
+  - title: Crawlers
+    author: John Shirley
+- name: Shall Sing a Song into the Deep
+  origin: v3
+  books:
+  - title: We Shall Sing a Song into the Deep
+    author: Andrew Kelly Stewart
+- name: Kiersten White Horror
+  origin: v3
+  books:
+  - title: Hide
+    author: Kiersten White
+  - title: Mister Magic
+    author: Kiersten White
+  - title: The Fox and the Devil
+    author: Kiersten White
+- name: Devil in a Forest
+  origin: v3
+  books:
+  - title: The Devil In A Forest
+    author: Gene Wolfe

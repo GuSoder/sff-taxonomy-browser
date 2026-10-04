@@ -1,0 +1,24 @@
+id: alternate-worlds
+label: Alternate worlds
+parent: fabulation
+origin: original
+definition: Literary fabulations whose alternate Earths destabilize memory, geography and history, rather
+  than mechanism-centered parallel-world travel or conventional counterfactual history.
+cards:
+- name: Ada or Ardor
+  origin: original
+  books:
+  - title: Ada or Ardor
+- name: Cities of the Red Night
+  origin: original
+  books:
+  - title: Cities of the Red Night
+    author: William S. Burroughs
+  - title: The Place of Dead Roads
+    author: William S. Burroughs
+  - title: The Western Lands
+    author: William S. Burroughs
+- name: Equimedian
+  origin: original
+  books:
+  - title: Equimedian

@@ -1,0 +1,64 @@
+id: servants-with-opinions
+label: Servants With Opinions
+parent: sentient-robots
+origin: shadow-v3
+definition: Robot fiction told close to one machine's own voice and its work.
+cards:
+- name: The Murderbot Diaries
+  origin: original
+  books:
+  - title: All Systems Red
+    author: Martha Wells
+  - title: Artificial Condition
+    author: Martha Wells
+  - title: Rogue Protocol
+    author: Martha Wells
+  - title: Exit Strategy
+    author: Martha Wells
+  - title: Network Effect
+    author: Martha Wells
+  - title: Fugitive Telemetry
+    author: Martha Wells
+  - title: System Collapse
+    author: Martha Wells
+  - title: Platform Decay
+    author: Martha Wells
+- name: Service Model
+  origin: original
+  books:
+  - title: Service Model
+- name: A Thousand Blues
+  origin: original
+  books:
+  - title: A Thousand Blues
+- name: Remember You Will Die
+  origin: original
+  books:
+  - title: Remember You Will Die
+- name: Sunward
+  origin: original
+  books:
+  - title: Sunward
+- name: We Lived on the Horizon
+  origin: original
+  books:
+  - title: We Lived on the Horizon
+- name: Human Resources
+  origin: v3
+  books:
+  - title: Human Resources
+    author: Adrian Tchaikovsky
+- name: Erin Wagner
+  origin: v3
+  books:
+  - title: An Unnatural Life
+    author: Erin K. Wagner
+  - title: Mechanize My Hands to War
+    author: Erin K. Wagner
+- name: Wisdom Series
+  origin: v3
+  books:
+  - title: Artificial Wisdom
+    author: Thomas R. Weaver
+  - title: Infinite Wisdom
+    author: Thomas R. Weaver

@@ -1,0 +1,45 @@
+id: crowns-gothic-a
+label: Gothic crowns
+parent: hunts-abysses-and-gothic-thrones
+origin: shadow-v3
+definition: Gothic crowns.
+cards:
+- name: Six Crowns
+  origin: v3
+  books:
+  - title: Six Savage Thrones
+    author: Holly Race
+  - title: Six Wild Crowns
+    author: Holly Race
+- name: Ava Reid Gothic Fantasy
+  origin: v3
+  books:
+  - title: Lady Macbeth
+    author: Ava Reid
+  - title: Innamorata
+    author: Ava Reid
+  - title: Necromantica
+    author: Ava Reid
+  - title: Juniper & Thorn
+    author: Ava Reid
+  - title: The Wolf and the Woodsman
+    author: Deluxe Collectors Edition Ava Reid
+- name: Ruination
+  origin: v3
+  books:
+  - title: Ruination
+    author: Anthony Reynolds
+- name: Of the Abyss
+  origin: v3
+  books:
+  - title: Of the Abyss
+    author: Amelia Atwater Rhodes
+  - title: Of the Divine
+    author: Amelia Atwater Rhodes
+- name: Daughter of the Hunt
+  origin: v3
+  books:
+  - title: Daughter of the Hunt
+    author: K Arsenault Rivera
+  - title: Oath of Fire
+    author: K Arsenault Rivera

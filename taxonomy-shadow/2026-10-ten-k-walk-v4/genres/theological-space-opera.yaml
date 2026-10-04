@@ -1,0 +1,41 @@
+id: theological-space-opera
+label: Theological space opera
+parent: new-space-opera
+origin: original
+definition: 'Theological space opera: new space opera driven by the search for God, transcendence or a
+  sacred order - pilgrimages to cosmic powers, starship captains drawn into holy quests, churches and
+  messiahs on a galactic stage. Religion is the engine of the story, not background. Named by the curator
+  2026-09-23.'
+cards:
+- name: The Hyperion Cantos
+  origin: original
+  books:
+  - title: Hyperion
+    author: Dan Simmons
+  - title: The Fall of Hyperion
+    author: Dan Simmons
+  - title: Endymion
+    author: Dan Simmons
+  - title: The Rise of Endymion
+    author: Dan Simmons
+- name: The Unreasoning Mask
+  origin: original
+  books:
+  - title: The Unreasoning Mask
+- name: A Song of Salvation
+  origin: original
+  books:
+  - title: A Song of Salvation
+- name: The Genesis of Misery
+  origin: original
+  books:
+  - title: The Genesis of Misery
+- name: The Library of Broken Worlds
+  origin: original
+  books:
+  - title: The Library of Broken Worlds
+- name: Night's Dawn
+  origin: v3
+  books:
+  - title: The Reality Dysfunction
+    author: Peter F. Hamilton

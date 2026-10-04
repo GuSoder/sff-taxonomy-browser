@@ -1,0 +1,50 @@
+id: paladin-hero
+label: Paladin hero
+parent: caster-heroes
+origin: original
+definition: Caster-hero fantasy whose protagonist’s primary power joins martial office to sacred or oath-bound
+  magic.
+cards:
+- name: Deryni Rising
+  origin: v3
+  books:
+  - title: King Kelson's Bride
+    author: Katherine Kurtz
+  - title: In the King's Service
+    author: Katherine Kurtz
+  - title: Childe Morgan
+    author: Katherine Kurtz
+  - title: The King's Deryni
+    author: Katherine Kurtz
+- name: Paladin's Strength
+  origin: original
+  books:
+  - title: Paladin's Strength
+- name: Paladin's Faith
+  origin: original
+  books:
+  - title: Paladin's Faith
+- name: Sparhawk (Eddings)
+  origin: v3
+  books:
+  - title: Ruby Knight
+    author: David Eddings
+  - title: Sapphire Rose
+    author: David Eddings
+  - title: Domes of Fire
+    author: David Eddings
+  - title: The Elenium
+    author: David Eddings
+  - title: The Tamuli
+    author: David Eddings
+- name: Deed of Paksenarrion
+  origin: v3
+  books:
+  - title: The Deed of Paksenarrion
+    author: Elizabeth Moon
+  - title: Sheepfarmer's Daughter
+    author: Elizabeth Moon
+  - title: Divided Allegiance
+    author: Elizabeth Moon
+  - title: Oath of Gold
+    author: Elizabeth Moon

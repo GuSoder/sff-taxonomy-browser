@@ -1,0 +1,63 @@
+id: literary-and-woodland-magic
+label: Literary and woodland magic
+parent: witches-and-dreamers
+origin: shadow-v3
+definition: Literary magic.
+cards:
+- name: H. G. Parry Literary Magic
+  origin: v3
+  books:
+  - title: The Magicians Daughter
+    author: H. G. Parry
+  - title: The Unlikely Escape of Uriah Heep
+    author: H. G. Parry
+  - title: The Witch Below the Dreaming Wood
+    author: H. G. Parry
+- name: Leslye Penelope
+  origin: v3
+  books:
+  - title: Daughter of the Merciful Deep
+    author: Leslye Penelope
+  - title: The Inevitable Undoing of Zahara Douglass
+    author: Leslye Penelope
+  - title: The Monsters We Defy
+    author: Leslye Penelope
+- name: Vanishing Bookstore
+  origin: v3
+  books:
+  - title: The Vanishing Bookstore
+    author: Helen Phifer
+- name: Elodie and the Dark Lord
+  origin: v3
+  books:
+  - title: Elodie and the Dark Lord
+    author: Ashley Poston
+- name: Wildwood Appalachian Magic
+  origin: v3
+  books:
+  - title: Wildwood Magic
+    author: Willa Reece
+  - title: Wildwood Whispers
+    author: Willa Reece
+- name: Schwab Later
+  origin: v3
+  books:
+  - title: The Fragile Threads of Power
+    author: V. E. Schwab
+  - title: Bury Our Bones in the Midnight Soil
+    author: V. E. Schwab
+- name: Thirteen Hallows
+  origin: v3
+  books:
+  - title: The Thirteen Hallows
+    author: Michael Scott
+- name: Paper Museum
+  origin: v3
+  books:
+  - title: The Paper Museum
+    author: Kate S. Simpson
+- name: Gulmohar of Mehranpur
+  origin: v3
+  books:
+  - title: The Gulmohar of Mehranpur
+    author: Amal Singh

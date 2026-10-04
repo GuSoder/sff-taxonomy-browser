@@ -1,0 +1,51 @@
+id: strange-new-ecologies
+label: Strange new ecologies
+parent: xenocolonial
+origin: shadow-v3
+definition: Colonial SF centred on alien ecology, first study and the people who live on the strange world.
+cards:
+- name: Exo
+  origin: original
+  books:
+  - title: Exo
+    author: Fonda Lee
+  - title: Cross Fire
+    author: Fonda Lee
+- name: The City in the Middle of the Night
+  origin: original
+  books:
+  - title: The City in the Middle of the Night
+- name: The Lesson
+  origin: original
+  books:
+  - title: The Lesson
+- name: Alien Clay
+  origin: original
+  books:
+  - title: Alien Clay
+- name: The Mercy of Gods
+  origin: original
+  books:
+  - title: The Mercy of Gods
+- name: Carnival
+  origin: v3
+  books:
+  - title: Carnival
+    author: Elizabeth Bear
+- name: Stations of the Tide
+  origin: v3
+  books:
+  - title: Stations of the Tide
+    author: Michael Swanwick; introduction by John Clute
+  - title: Stations of the Tide
+    author: Michael Swanwick
+- name: Song of Scarabaeus
+  origin: v3
+  books:
+  - title: Song of Scarabaeus
+    author: Sara Creasy
+- name: The Deep (Crowley)
+  origin: v3
+  books:
+  - title: The Deep
+    author: John Crowley

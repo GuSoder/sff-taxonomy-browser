@@ -1,0 +1,30 @@
+id: classic-last-people
+label: Classic last people
+parent: post-pandemic-survival
+origin: shadow-v3
+definition: Classic and literary last-survivor plague novels.
+cards:
+- name: The Death of Grass
+  origin: original
+  books:
+  - title: The Death of Grass
+- name: Earth Abides
+  origin: original
+  books:
+  - title: Earth Abides
+- name: Station Eleven
+  origin: original
+  books:
+  - title: Station Eleven
+- name: The Passage trilogy
+  origin: v3
+  books:
+  - title: The City of Mirrors
+    author: Justin Cronin
+  - title: The Twelve
+    author: Events
+- name: Survival (Bova)
+  origin: v3
+  books:
+  - title: Survival
+    author: Ben Bova

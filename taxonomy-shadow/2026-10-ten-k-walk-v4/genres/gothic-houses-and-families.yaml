@@ -1,0 +1,56 @@
+id: gothic-houses-and-families
+label: Gothic houses and families
+parent: gothic-and-haunted-towns
+origin: shadow-v3
+definition: Gothic houses.
+cards:
+- name: Powers Fisher King
+  origin: v3
+  books:
+  - title: Earthquake Weather
+    author: Tim Powers
+  - title: Expiration Date
+    author: Tim Powers
+  - title: Last Call
+    author: Tim Powers
+- name: Maplecroft
+  origin: v3
+  books:
+  - title: Maplecroft
+    author: Cherie Priest
+  - title: Chapelwood
+    author: Cherie Priest
+- name: Priest Gothic
+  origin: v3
+  books:
+  - title: The Family Plot
+    author: Cherie Priest
+  - title: Brimstone
+    author: Cherie Priest
+- name: All Her Ghosts
+  origin: v3
+  books:
+  - title: All Her Ghosts
+    author: Cynthia Prith
+- name: Hache Pueyo Gothic
+  origin: v3
+  books:
+  - title: But Not Too Bold
+    author: Hache Pueyo
+  - title: Cabaret in Flames
+    author: Hache Pueyo
+- name: Prophecy of the Sisters
+  origin: v3
+  books:
+  - title: Circle of Fire
+    author: Michelle Zink
+  - title: Guardian of the Gate
+    author: Michelle Zink
+  - title: Mistress of Souls
+    author: Michelle Zink
+  - title: Prophecy of the Sisters
+    author: Michelle Zink
+  - title: Rise of Souls
+    author: Michelle Zink
+  - title: Whisper of Souls
+    author: Michelle Zink

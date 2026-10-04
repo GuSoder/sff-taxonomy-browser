@@ -1,0 +1,54 @@
+id: walkers-between-worlds
+label: Walkers Between Worlds
+parent: multiverse-war
+origin: shadow-v3
+definition: Parallel-world fiction of travelers and fugitives slipping between worlds.
+cards:
+- name: Million Mile Road Trip
+  origin: original
+  books:
+  - title: Million Mile Road Trip
+- name: Rabbit in the Moon
+  origin: original
+  books:
+  - title: Rabbit in the Moon
+- name: Ring Around the Sun
+  origin: original
+  books:
+  - title: Ring Around the Sun
+- name: Outlaw Planet
+  origin: original
+  books:
+  - title: Outlaw Planet
+- name: The Knife and the Serpent
+  origin: original
+  books:
+  - title: The Knife and the Serpent
+- name: 'Transmentation '
+  origin: original
+  books:
+  - title: 'Transmentation '
+- name: Merchant Princes
+  origin: v3
+  books:
+  - title: The Hidden Family
+    author: Charles Stross
+  - title: The Clan Corporate
+    author: Charles Stross
+  - title: The Family Trade
+    author: Charles Stross
+  - title: The Revolution Business
+    author: Charles Stross
+  - title: The Trade of Queens
+    author: Charles Stross
+  - title: The Bloodline Feud
+    author: Charles Stross
+  - title: The Revolution Trade
+    author: Charles Stross
+  - title: The Traders' War
+    author: Charles Stross
+- name: Crosstime
+  origin: v3
+  books:
+  - title: Crosstime
+    author: Andre Norton

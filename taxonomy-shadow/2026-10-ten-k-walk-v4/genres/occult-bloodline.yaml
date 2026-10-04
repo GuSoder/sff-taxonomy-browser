@@ -1,0 +1,61 @@
+id: occult-bloodline
+label: Occult bloodline
+parent: modern-occult
+origin: original
+definition: Modern occult fantasy where family inheritance and practiced ancestral magic open the occult
+  world within contemporary urban life. Yolanda's school threat is the plot bend; inherited brujeria and
+  visions are the gift that lets her meet it. Split from Modern Occult under the curator's harmonized
+  names (phonemsg-01M3P9RM636KMZRM7J0PR29XGC, 2026-09-29).
+cards:
+- name: Blood Debts
+  origin: original
+  books:
+  - title: Blood Debts
+    author: Terry J. Benton-Walker
+  - title: Blood Justice
+    author: Terry J. Benton-Walker
+- name: The Making of Yolanda la Bruja
+  origin: original
+  books:
+  - title: The Making of Yolanda la Bruja
+- name: The Shadow Sister
+  origin: original
+  books:
+  - title: The Shadow Sister
+- name: Echo Park Coven
+  origin: v3
+  books:
+  - title: The Witches of Echo Park
+    author: Amber Benson
+  - title: The Last Dream Keeper
+    author: Amber Benson
+  - title: The End of Magic
+    author: Amber Benson
+- name: Witches of East End
+  origin: v3
+  books:
+  - title: Serpents Kiss
+    author: Melissa de la Cruz
+  - title: Winds of Salem
+    author: Melissa de la Cruz
+  - title: Witches of East End
+    author: Melissa de la Cruz
+- name: Diana Tregarde
+  origin: v3
+  books:
+  - title: Burning Water
+    author: Mercedes Lackey
+  - title: Children of the Night
+    author: Mercedes Lackey
+  - title: Jinx High
+    author: Mercedes Lackey
+- name: Masters of Death
+  origin: v3
+  books:
+  - title: Masters of Death
+    author: Olivie Blake
+- name: One for My Enemy
+  origin: v3
+  books:
+  - title: One for My Enemy
+    author: Olivie Blake

@@ -1,0 +1,61 @@
+id: fairy-tale-detours
+label: Fairy-tale detours
+parent: odd-journeys-and-mishaps
+origin: shadow-v3
+definition: Whimsical trips through fairy-tale, storybook and wonder lands.
+cards:
+- name: Over the Woodward Wall
+  origin: original
+  books:
+  - title: Over the Woodward Wall
+- name: A Peculiar Peril
+  origin: original
+  books:
+  - title: A Peculiar Peril
+- name: Up-and-Under (Baker)
+  origin: v3
+  books:
+  - title: Along the Saltwise Sea
+    author: A. Deborah Baker
+  - title: Into the Windwracked Wilds
+    author: A. Deborah Baker
+  - title: Under the Smokestrewn Sky
+    author: A. Deborah Baker
+- name: Wizardry
+  origin: v3
+  books:
+  - title: 'Wiz Combo II: Cursed and Consulted'
+    author: Rick Cook
+  - title: Wizard's Bane
+    author: Rick Cook
+  - title: The Wizardry Compiled
+    author: Rick Cook
+  - title: The Wiz Biz
+    author: Rick Cook
+  - title: The Wizardry Quested
+    author: Rick Cook
+- name: Marrowdell
+  origin: v3
+  books:
+  - title: A Play of Shadow
+    author: Julie E. Czerneda
+  - title: A Turn of Light
+    author: Julie E. Czerneda
+  - title: A Change of Place
+    author: Julie E. Czerneda
+  - title: A Shift of Time
+    author: Julie E. Czerneda
+- name: Wren James
+  origin: v3
+  books:
+  - title: The Deep-Sea Duke
+    author: Wren James
+  - title: The Starlight Watchmaker
+    author: Wren James
+- name: Sophie Kim
+  origin: v3
+  books:
+  - title: The God and the Gumiho
+    author: Sophie Kim
+  - title: The God and the Gwisin
+    author: Sophie Kim

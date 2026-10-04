@@ -1,0 +1,58 @@
+id: dragon-riders
+label: Dragon riders
+parent: dragon-riders-and-fire-queens
+origin: shadow-v3
+definition: Riders and dragon temples.
+cards:
+- name: Dragonfall
+  origin: v3
+  books:
+  - title: Emberclaw
+    author: L. R. Lam
+- name: Fire Power
+  origin: v3
+  books:
+  - title: Fire Power
+    author: Mir Benitz
+- name: Iskari
+  origin: v3
+  books:
+  - title: The Caged Queen
+    author: Kristen Ciccarelli
+  - title: The Last Namsara
+    author: Kristen Ciccarelli
+  - title: The Sky Weaver
+    author: Kristen Ciccarelli
+- name: Seraphim
+  origin: v3
+  books:
+  - title: Fireborn
+    author: David Dalglish
+  - title: Shadowborn
+    author: David Dalglish
+  - title: Skyborn
+    author: David Dalglish
+- name: Dragon Temple Saga
+  origin: v3
+  books:
+  - title: Touched By Venom
+    author: Janine Cross
+  - title: Shadowed By Wings
+    author: Janine Cross
+  - title: Forged By Fire
+    author: Janine Cross
+- name: Griffin Chronicles
+  origin: v3
+  books:
+  - title: The Dark Griffin
+    author: K. J. Taylor
+  - title: The Griffin's Flight
+    author: K. J. Taylor
+  - title: The Griffin's War
+    author: K. J. Taylor
+  - title: The Shadow's Heir
+    author: K. J. Taylor
+  - title: The Shadowed Throne
+    author: K. J. Taylor
+  - title: The Shadow's Heart
+    author: K. J. Taylor

@@ -1,0 +1,55 @@
+id: flooded-cities
+label: Flooded cities
+parent: drowned-worlds
+origin: shadow-v3
+definition: Drowned-world fiction centred on a named, flooded city and the people left in it.
+cards:
+- name: Awake in the Floating City
+  origin: original
+  books:
+  - title: Awake in the Floating City
+- name: Landfall
+  origin: original
+  books:
+  - title: Landfall
+- name: New York 2140
+  origin: v3
+  books:
+  - title: New York 2140
+    author: Kim Stanley Robinson
+- name: Burning Light
+  origin: v3
+  books:
+  - title: The Burning Light
+    author: Bradley P. Beaulieu
+- name: Private Rites
+  origin: original
+  books:
+  - title: Private Rites
+- name: Flood
+  origin: v3
+  books:
+  - title: Flood
+    author: Stephen Baxter
+  - title: Ark
+    author: Stephen Baxter
+- name: Sweetlings
+  origin: v3
+  books:
+  - title: Sweetlings
+    author: Lucy Taylor
+- name: Sea and Summer
+  origin: v3
+  books:
+  - title: The Sea and Summer
+    author: George Turner
+- name: Slow Apocalypse
+  origin: v3
+  books:
+  - title: Slow Apocalypse
+    author: John Varley
+- name: Perihelion Summer
+  origin: v3
+  books:
+  - title: Perihelion Summer
+    author: Greg Egan

@@ -1,0 +1,114 @@
+id: classic-animal-tales
+label: Classic animal tales
+parent: animal-fantasy
+origin: shadow-v3
+definition: Classic animal fables and adventures.
+cards:
+- name: Animal Farm
+  origin: original
+  books:
+  - title: Animal Farm
+- name: Watership Down
+  origin: original
+  books:
+  - title: Watership Down
+- name: The Wind in the Willows
+  origin: original
+  books:
+  - title: The Wind in the Willows
+- name: The Little Prince
+  origin: original
+  books:
+  - title: The Little Prince
+- name: Doctor Dolittle
+  origin: original
+  books:
+  - title: The Story of Doctor Dolittle
+    author: Hugh Lofting
+  - title: The Voyages of Doctor Dolittle
+    author: Hugh Lofting
+  - title: Doctor Dolittle's Post Office
+    author: Hugh Lofting
+  - title: Doctor Dolittle's Circus
+    author: Hugh Lofting
+  - title: Doctor Dolittle's Zoo
+    author: Hugh Lofting
+  - title: Doctor Dolittle's Caravan
+    author: Hugh Lofting
+  - title: Doctor Dolittle's Garden
+    author: Hugh Lofting
+  - title: Doctor Dolittle in the Moon
+    author: Hugh Lofting
+  - title: Gub-Gub's Book
+    author: Hugh Lofting
+  - title: Doctor Dolittle's Return
+    author: Hugh Lofting
+  - title: Doctor Dolittle and the Secret Lake
+    author: Hugh Lofting
+  - title: Doctor Dolittle and the Green Canary
+    author: Hugh Lofting
+  - title: Doctor Dolittle's Puddleby Adventures
+    author: Hugh Lofting
+- name: Redwall
+  origin: v3
+  books:
+  - title: Mossflower
+    author: Brian Jacques
+  - title: Castaways of the Flying Dutchman
+    author: Brian Jacques
+  - title: Mariel of Redwall
+    author: Brian Jacques
+  - title: Mattimeo
+    author: Brian Jacques
+  - title: Salamandastron
+    author: Brian Jacques
+  - title: Taggerung
+    author: Brian Jacques
+  - title: Angel's Command
+    author: Brian Jacques
+  - title: Martin the Warrior
+    author: Brian Jacques
+  - title: Outcast of Redwall
+    author: Brian Jacques
+  - title: Pearls of Lutra
+    author: Brian Jacques
+  - title: The Bellmaker
+    author: Brian Jacques
+  - title: The Long Patrol
+    author: Brian Jacques
+  - title: Triss
+    author: Brian Jacques
+  - title: Loamhedge
+    author: Brian Jacques
+  - title: Lord Brocktree
+    author: Brian Jacques
+  - title: Marlfox
+    author: Brian Jacques
+  - title: The Legend of Luke
+    author: Brian Jacques
+  - title: Rakkety Tam
+    author: Brian Jacques
+  - title: Redwall
+    author: Brian Jacques
+  - title: High Rhulain
+    author: Brian Jacques
+  - title: Voyage of the Slaves
+    author: Brian Jacques
+  - title: Eulalia!
+    author: Brian Jacques
+  - title: Doomwyte
+    author: Brian Jacques
+  - title: The Sable Quean
+    author: Brian Jacques
+  - title: The Rogue Crew
+    author: Brian Jacques
+- name: Tailchaser's Song
+  origin: v3
+  books:
+  - title: Tailchaser's Song
+    author: Tad Williams
+- name: One for Sorrow Two for Joy
+  origin: v3
+  books:
+  - title: One For Sorrow, Two For Joy
+    author: Clive Woodall

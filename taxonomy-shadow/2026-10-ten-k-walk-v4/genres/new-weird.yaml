@@ -1,0 +1,62 @@
+id: new-weird
+label: New Weird
+parent: atemporal
+origin: original
+definition: Cross-genre speculative fiction that freely mingles science-fiction, dark-fantasy, and horror
+  modes, often using strange, materially detailed settings, grotesquerie, ecological unease, or transformations
+  that resist a single explanatory genre.
+cards:
+- name: Bas-Lag
+  origin: original
+  books:
+  - title: Perdido Street Station
+    author: China Miéville
+  - title: The Scar
+    author: China Miéville
+  - title: Iron Council
+    author: China Miéville
+- name: The Southern Reach Trilogy
+  origin: original
+  books:
+  - title: Annihilation
+    author: Jeff VanderMeer
+  - title: Authority
+    author: Jeff VanderMeer
+  - title: Acceptance
+    author: Jeff VanderMeer
+  - title: Absolution
+    author: Jeff VanderMeer
+- name: The Iron Dragon
+  origin: original
+  books:
+  - title: The Iron Dragon's Daughter
+    author: Michael Swanwick
+  - title: The Dragons of Babel
+    author: Michael Swanwick
+  - title: The Iron Dragon's Mother
+    author: Michael Swanwick
+- name: Cyber Mage
+  origin: original
+  books:
+  - title: Cyber Mage
+- name: Dead Astronauts
+  origin: original
+  books:
+  - title: Dead Astronauts
+- name: Her Body and Other Parties
+  origin: original
+  books:
+  - title: Her Body and Other Parties
+- name: Sleeping Worlds Have No Memory
+  origin: original
+  books:
+  - title: Sleeping Worlds Have No Memory
+- name: Dengue Boy
+  origin: original
+  books:
+  - title: Dengue Boy
+- name: Etched City
+  origin: v3
+  books:
+  - title: The Etched City
+    author: K.J. Bishop

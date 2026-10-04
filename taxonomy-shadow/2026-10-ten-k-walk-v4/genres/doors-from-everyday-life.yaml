@@ -1,0 +1,62 @@
+id: doors-from-everyday-life
+label: Doors from everyday life
+parent: odd-journeys-and-mishaps
+origin: shadow-v3
+definition: Ordinary places, stores and libraries that open onto other worlds.
+cards:
+- name: Finna
+  origin: v3
+  books:
+  - title: Finna
+    author: Nino Cipri
+  - title: Defekt
+    author: Nino Cipri
+- name: Which Way to Anywhere
+  origin: v3
+  books:
+  - title: Which Way Around the Galaxy
+    author: Cressida Cowell
+  - title: Which Way to Anywhere
+    author: Cressida Cowell
+  - title: Which Way to the Future
+    author: Cressida Cowell
+- name: The Librarians
+  origin: v3
+  books:
+  - title: The Librarians and The Lost Lamp
+    author: Greg Cox
+  - title: The Librarians and the Mother Goose Chase
+    author: Greg Cox
+  - title: The Librarians and the Pot of Gold
+    author: Greg Cox
+  - title: The Librarians Trilogy
+    author: Greg Cox
+- name: Pendulum Trilogy
+  origin: v3
+  books:
+  - title: The Pilgrims
+    author: Will Elliott
+  - title: Shadow
+    author: Will Elliott
+  - title: World's End
+    author: Will Elliott
+- name: Yank at Valhalla
+  origin: v3
+  books:
+  - title: A Yank at Valhalla
+    author: Edmond Hamilton
+- name: Lantern of Lost Memories
+  origin: v3
+  books:
+  - title: The Lantern of Lost Memories
+    author: Sanaka Hiiragi
+- name: Dream-Quest of Vellitt Boe
+  origin: v3
+  books:
+  - title: The Dream-Quest of Vellitt Boe
+    author: Kij Johnson
+- name: Into This River I Drown
+  origin: v3
+  books:
+  - title: Into This River I Drown
+    author: TJ Klune

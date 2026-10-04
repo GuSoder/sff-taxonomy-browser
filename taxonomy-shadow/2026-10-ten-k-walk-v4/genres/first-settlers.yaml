@@ -1,0 +1,43 @@
+id: first-settlers
+label: First settlers
+parent: settler-worlds-old
+origin: shadow-v3
+definition: First settlement of new worlds.
+cards:
+- name: The Martian Chronicles
+  origin: original
+  books:
+  - title: The Martian Chronicles
+- name: The Fifth Head of Cerberus
+  origin: original
+  books:
+  - title: The Fifth Head of Cerberus
+- name: Winds of Altair
+  origin: v3
+  books:
+  - title: The Winds of Altair
+    author: Ben Bova
+- name: Spider Star
+  origin: v3
+  books:
+  - title: Spider Star
+    author: Mike Brotherton
+- name: Founding of the Commonwealth
+  origin: v3
+  books:
+  - title: Lost and Found
+    author: Alan Dean Foster
+  - title: Dirge
+    author: Alan Dean Foster
+- name: Wyrms
+  origin: v3
+  books:
+  - title: Wyrms
+    author: Orson Scott Card
+- name: Weapon From Beyond
+  origin: v3
+  books:
+  - title: The Closed Worlds
+    author: Edmond Hamilton
+  - title: The Weapon From Beyond
+    author: Edmond Hamilton

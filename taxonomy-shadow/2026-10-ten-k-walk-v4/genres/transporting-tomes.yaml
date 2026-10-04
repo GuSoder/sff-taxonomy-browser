@@ -1,0 +1,43 @@
+id: transporting-tomes
+label: Transporting tomes
+parent: portal-fantasy
+origin: original
+definition: Portal fantasy whose crossing is carried by a book, text or act of reading. Text includes
+  cartographic maps, not only prose. The child-story-rooted name guides the user; the textual mechanism
+  governs.
+cards:
+- name: The Neverending Story
+  origin: original
+  books:
+  - title: The Neverending Story
+- name: Silverlock
+  origin: original
+  books:
+  - title: Silverlock
+- name: The Starless Sea
+  origin: original
+  books:
+  - title: The Starless Sea
+- name: Long Live Evil
+  origin: original
+  books:
+  - title: Long Live Evil
+- name: The Cartographers
+  origin: original
+  books:
+  - title: The Cartographers
+- name: This Kingdom Will Not Kill Me
+  origin: v3
+  books:
+  - title: This Kingdom Will Not Kill Me
+    author: Ilona Andrews
+- name: All Hail Chaos
+  origin: v3
+  books:
+  - title: All Hail Chaos
+    author: Sarah Rees Brennan
+- name: Library of Lost Things
+  origin: v3
+  books:
+  - title: The Library of Lost Things
+    author: Matthew Bright

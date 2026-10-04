@@ -1,0 +1,28 @@
+id: elder-god-torment
+label: Elder god torment
+parent: torment-fantasy
+origin: original
+definition: Torment fantasy driven by ancient beings worshipped as gods, whose awakening or intrusion
+  follows and torments the main characters.
+cards:
+- name: Beneath the Rising
+  origin: original
+  books:
+  - title: Beneath the Rising
+    author: Premee Mohamed
+  - title: A Broken Darkness
+    author: Premee Mohamed
+  - title: The Void Ascendant
+    author: Premee Mohamed
+- name: Providence
+  origin: original
+  books:
+  - title: Providence
+- name: Revelator
+  origin: original
+  books:
+  - title: Revelator
+- name: The Immaculate Void
+  origin: original
+  books:
+  - title: The Immaculate Void

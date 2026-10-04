@@ -1,0 +1,70 @@
+id: slayer-hero
+label: Slayer hero
+parent: martial-heroes
+origin: shadow-v2
+definition: ''
+cards:
+- name: The Witcher
+  origin: v3
+  books:
+  - title: Baptism of Fire
+    author: Andrzej Sapkowski
+  - title: 'Baptism of Fire: Booktrack Edition'
+    author: Andrzej Sapkowski
+  - title: Blood of Elves
+    author: Andrzej Sapkowski
+  - title: 'Blood of Elves: Booktrack Edition'
+    author: Andrzej Sapkowski
+  - title: Crossroads of Ravens
+    author: Andrzej Sapkowski
+  - title: Season of Storms
+    author: Andrzej Sapkowski
+  - title: 'Season of Storms: Booktrack Edition'
+    author: Andrzej Sapkowski
+  - title: Sword of Destiny
+    author: Andrzej Sapkowski
+  - title: The Lady of the Lake
+    author: Andrzej Sapkowski
+  - title: 'The Lady of the Lake: Booktrack Edition'
+    author: Andrzej Sapkowski
+  - title: The Last Wish
+    author: Andrzej Sapkowski
+  - title: The Time of Contempt
+    author: Andrzej Sapkowski
+  - title: 'The Time of Contempt: Booktrack Edition'
+    author: Andrzej Sapkowski
+  - title: The Tower of Swallows
+    author: Andrzej Sapkowski
+  - title: 'The Tower of Swallows: Booktrack Edition'
+    author: Andrzej Sapkowski
+  - title: The Tower of the Swallow
+    author: Andrzej Sapkowski
+- name: This Blade of Ours
+  origin: v3
+  books:
+  - title: This Blade of Ours
+    author: Shalini Abeysekara
+- name: Dragonslayer Hamilton
+  origin: v3
+  books:
+  - title: Dragonslayer
+    author: Duncan M. Hamilton
+  - title: Knight of the Silver Circle
+    author: Duncan M. Hamilton
+  - title: Servant of the Crown
+    author: Duncan M. Hamilton
+- name: Slayers of Old
+  origin: v3
+  books:
+  - title: Slayers of Old
+    author: Jim C. Hines
+- name: Unchosen Ones
+  origin: v3
+  books:
+  - title: Unchosen Ones
+    author: Jim C. Hines
+- name: Elephants and Corpses
+  origin: v3
+  books:
+  - title: Elephants and Corpses
+    author: Kameron Hurley

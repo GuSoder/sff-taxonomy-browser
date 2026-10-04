@@ -1,0 +1,45 @@
+id: keepers-of-the-books
+label: Keepers of the Books
+parent: lost-knowledge
+origin: shadow-v3
+definition: Ruined-Earth tales where orders, archivists or monks keep the old learning alive.
+cards:
+- name: A Canticle for Leibowitz
+  origin: v3
+  books:
+  - title: A Canticle for Leibowitz
+    author: Walter Miller
+- name: The Long Tomorrow
+  origin: original
+  books:
+  - title: The Long Tomorrow
+- name: Riddley Walker
+  origin: original
+  books:
+  - title: Riddley Walker
+- name: Archivist Wasp Saga
+  origin: original
+  books:
+  - title: Archivist Wasp
+    author: Nicole Kornher-Stace
+  - title: Latchkey
+    author: Nicole Kornher-Stace
+- name: Against the Fall of Night
+  origin: v3
+  books:
+  - title: Against the Fall of Night
+    author: Arthur C. Clarke
+- name: Hiero's Journey
+  origin: v3
+  books:
+  - title: Hiero's Journey
+    author: Sterling E. Lanier
+  - title: The Unforsaken Hiero
+    author: Sterling E. Lanier
+- name: Engines of Reason
+  origin: v3
+  books:
+  - title: Engines of Reason
+    author: Adrian Tchaikovsky
+  - title: Green City Wars
+    author: Adrian Tchaikovsky

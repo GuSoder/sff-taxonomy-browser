@@ -1,0 +1,67 @@
+id: dynasties-and-cities
+label: Dynasties and cities
+parent: empire-successions
+origin: shadow-v3
+definition: Dynasties, ancient cities and tyrants.
+cards:
+- name: Swords and Fire (Caruso)
+  origin: v3
+  books:
+  - title: The Defiant Heir
+    author: Melissa Caruso
+  - title: The Tethered Mage
+    author: Melissa Caruso
+  - title: The Unbound Empire
+    author: Melissa Caruso
+- name: Birth of a Dynasty
+  origin: v3
+  books:
+  - title: Birth of a Dynasty
+    author: Chinaza Bado
+  - title: The Call of Crowns
+    author: Chinaza Bado
+- name: Brenchley
+  origin: v3
+  books:
+  - title: Bridge of Dreams
+    author: Chaz Brenchley
+  - title: River of the World
+    author: Chaz Brenchley
+- name: With Only a Razor Between
+  origin: v3
+  books:
+  - title: With Only a Razor Between
+    author: Martin Cahill
+- name: Stella Gemmell The City
+  origin: v3
+  books:
+  - title: The City
+    author: Stella Gemmell
+  - title: The Immortal Throne
+    author: Stella Gemmell
+- name: An Edge Sharp Enough
+  origin: v3
+  books:
+  - title: An Edge Sharp Enough
+    author: Jesse Q Sutanto
+- name: Poet Empress
+  origin: v3
+  books:
+  - title: The Poet Empress
+    author: Shen Tao
+- name: Nightshade Crown
+  origin: v3
+  books:
+  - title: The Foxglove King
+    author: Hannah Whitten
+  - title: The Hemlock Queen
+    author: Hannah Whitten
+  - title: The Nightshade God
+    author: Hannah Whitten
+- name: Mimi Yu Empire
+  origin: v3
+  books:
+  - title: Empress of Flames
+    author: Mimi Yu
+  - title: The Girl King
+    author: Mimi Yu

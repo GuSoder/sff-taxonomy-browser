@@ -1,0 +1,37 @@
+id: fire-honey-and-sorrow-witches
+label: Fire, honey and sorrow witches
+parent: witches-and-spell-houses
+origin: shadow-v3
+definition: Witches of craft.
+cards:
+- name: Illusions of Fire
+  origin: v3
+  books:
+  - title: Illusions of Fire
+    author: Nisha Sharma
+- name: Sydney Shields
+  origin: v3
+  books:
+  - title: An Arcane Study of Stars
+    author: Sydney J. Shields
+  - title: The Honey Witch
+    author: Sydney J. Shields
+- name: Jan Siegel
+  origin: v3
+  books:
+  - title: The Witch Queen
+    author: Jan Siegel
+  - title: Prospero's Children
+    author: Jan Siegel
+  - title: The Dragon Charmer
+    author: Jan Siegel
+- name: Nightstrider
+  origin: v3
+  books:
+  - title: Nightstrider
+    author: Sophia Slade
+- name: Of Sorrow and Such
+  origin: v3
+  books:
+  - title: Of Sorrow and Such
+    author: Angela Slatter

@@ -1,0 +1,63 @@
+id: celtic-bards-and-druids
+label: Celtic bards and druids
+parent: celtic-fantasy
+origin: shadow-v3
+definition: Bards, druids and the old Celtic lands.
+cards:
+- name: Warrior Bards
+  origin: original
+  books:
+  - title: The Harp of Kings
+    author: Juliet Marillier
+  - title: A Dance with Fate
+    author: Juliet Marillier
+  - title: A Song of Flight
+    author: Juliet Marillier
+- name: Sistersong
+  origin: original
+  books:
+  - title: Sistersong
+- name: Sevenwaters
+  origin: v3
+  books:
+  - title: Child of the Prophecy
+    author: Juliet Marillier
+  - title: Heir to Sevenwaters
+    author: Juliet Marillier
+  - title: Daughter of the Forest
+    author: Juliet Marillier
+  - title: Heart's Blood
+    author: Juliet Marillier
+  - title: Son of the Shadows
+    author: Juliet Marillier
+  - title: Seer of Sevenwaters
+    author: Juliet Marillier
+  - title: Flame of Sevenwaters
+    author: Juliet Marillier
+  - title: The Sevenwaters Trilogy
+    author: Juliet Marillier
+- name: Bridei Chronicles
+  origin: v3
+  books:
+  - title: The Dark Mirror
+    author: Juliet Marillier
+  - title: Blade of Fortriu
+    author: Juliet Marillier
+  - title: The Well of Shades
+    author: Juliet Marillier
+- name: Morgan Llywelyn Celtic
+  origin: v3
+  books:
+  - title: The Greener Shore
+    author: Morgan Llywelyn
+  - title: The Elementals
+    author: Morgan Llywelyn
+- name: Song of Albion
+  origin: v3
+  books:
+  - title: In the Region of the Summer Stars
+    author: Stephen R. Lawhead
+  - title: In the Land of the Everliving
+    author: Stephen R. Lawhead
+  - title: In the Kingdom of All Tomorrows
+    author: Stephen R. Lawhead

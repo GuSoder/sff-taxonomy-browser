@@ -1,0 +1,33 @@
+id: stonehenge-and-shadow-files
+label: Mystery files and conspiracies
+parent: thriller-defence
+origin: shadow-v3
+definition: Hidden threats.
+cards:
+- name: Skyfall Stonehenge
+  origin: v3
+  books:
+  - title: Skyfall
+    author: Harry Harrison
+  - title: Stonehenge
+    author: Harry Harrison
+- name: Dyson File
+  origin: v3
+  books:
+  - title: The Dyson File
+    author: Jacob Holo
+- name: The Games Kosmatka
+  origin: v3
+  books:
+  - title: The Games
+    author: Ted Kosmatka
+- name: Long Lost
+  origin: v3
+  books:
+  - title: Long Lost
+    author: David Morrell
+- name: Caller of Lightning
+  origin: v3
+  books:
+  - title: Caller of Lightning
+    author: Peter J. Wacks

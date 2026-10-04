@@ -1,0 +1,66 @@
+id: norse-fantasy
+label: Norse fantasy
+parent: mythic-retelling
+origin: original
+definition: Fantasy that retells or reimagines Norse and Northern Germanic mythic or legendary source
+  material, rather than merely using the Viking Age as a setting.
+cards:
+- name: Grendel
+  origin: original
+  books:
+  - title: Grendel
+- name: The Mere Wife
+  origin: original
+  books:
+  - title: The Mere Wife
+- name: Edda of Burdens
+  origin: v3
+  books:
+  - title: All the Windwracked Stars
+    author: Elizabeth Bear
+  - title: By the Mountain Bound
+    author: Elizabeth Bear
+  - title: The Sea Thy Mistress
+    author: Elizabeth Bear
+  - title: The Edda of Burdens Trilogy
+    author: Elizabeth Bear
+- name: Runemarks / Loki
+  origin: v3
+  books:
+  - title: Runelight
+    author: Joanne Harris
+  - title: Runemarks
+    author: Joanne Harris
+  - title: The Gospel of Loki
+    author: Joanne Harris
+  - title: The Testament of Loki
+    author: Joanne Harris
+- name: Renshai
+  origin: v3
+  books:
+  - title: The Last of the Renshai
+    author: Mickey Zucker Reichert
+  - title: The Western Wizard
+    author: Mickey Zucker Reichert
+  - title: Child of Thunder
+    author: Mickey Zucker Reichert
+  - title: Beyond Ragnarok
+    author: Mickey Zucker Reichert
+  - title: Prince of Demons
+    author: Mickey Zucker Reichert
+  - title: The Children of Wrath
+    author: Mickey Zucker Reichert
+  - title: The Bifrost Guardians
+    author: Mickey Zucker Reichert
+  - title: 'The Bifrost Guardians: Volume Two'
+    author: Mickey Zucker Reichert
+  - title: The Flightless Falcon
+    author: Mickey Zucker Reichert
+  - title: Flight of the Renshai
+    author: Mickey Zucker Reichert
+  - title: Fields of Wrath
+    author: Mickey Zucker Reichert
+  - title: The Immortal Renshai
+    author: Mickey Zucker Reichert
+  - title: The Nightfall Duology
+    author: Mickey Zucker Reichert

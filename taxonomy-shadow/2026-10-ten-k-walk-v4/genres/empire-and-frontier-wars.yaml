@@ -1,0 +1,67 @@
+id: empire-and-frontier-wars
+label: Empire and frontier wars
+parent: fleet-wars
+origin: shadow-v3
+definition: Wars of empires and frontiers.
+cards:
+- name: Humanity's Fire
+  origin: v3
+  books:
+  - title: Ancestral Machines
+    author: Michael Cobley
+  - title: Splintered Suns
+    author: Michael Cobley
+  - title: The Orphaned Worlds
+    author: Michael Cobley
+- name: Man-Kzin
+  origin: v3
+  books:
+  - title: Treasure Planet
+    author: Hal Colebatch
+  - title: Freedom
+    author: Hal Colebatch
+- name: Dalmas space
+  origin: v3
+  books:
+  - title: Soldiers
+    author: John Dalmas
+  - title: Fanglith
+    author: John Dalmas
+- name: Dickson colonies
+  origin: v3
+  books:
+  - title: None But Man
+    author: Gordon R. Dickson
+  - title: The Outposter
+    author: Gordon R. Dickson
+- name: Doohan
+  origin: v3
+  books:
+  - title: Privateer
+    author: James Doohan
+  - title: The Independent Command
+    author: James Doohan
+- name: In Conquest Born
+  origin: v3
+  books:
+  - title: In Conquest Born
+    author: C.S. Friedman
+  - title: The Wilding
+    author: C.S. Friedman
+- name: Edmond Hamilton space opera
+  origin: v3
+  books:
+  - title: Battle for the Stars
+    author: Edmond Hamilton
+  - title: Doomstar
+    author: Edmond Hamilton
+  - title: Fugitive of the Stars
+    author: Edmond Hamilton
+  - title: Outside the Universe
+    author: Edmond Hamilton
+  - title: The Star of Life
+    author: Edmond Hamilton
+  - title: The Sun Smasher
+    author: Edmond Hamilton
+  - title: The Valley of Creation
+    author: Edmond Hamilton

@@ -1,0 +1,59 @@
+id: alien-cosmic-history
+label: Alien cosmic history
+parent: alien-fiction
+origin: original
+definition: Cosmic history centered on the emergence and development of radically nonhuman minds and civilizations.
+cards:
+- name: Star Maker
+  origin: original
+  books:
+  - title: Star Maker
+- name: Children of Time
+  origin: original
+  books:
+  - title: Children of Time
+    author: Adrian Tchaikovsky
+  - title: Children of Ruin
+    author: Adrian Tchaikovsky
+  - title: Children of Memory
+    author: Adrian Tchaikovsky
+  - title: Children of Strife
+    author: Adrian Tchaikovsky
+- name: Xeelee Sequence
+  origin: v3
+  books:
+  - title: Ring
+    author: Stephen Baxter 1
+- name: Xeelee Sequence (Baxter)
+  origin: v3
+  books:
+  - title: Raft
+    author: Stephen Baxter
+  - title: Vacuum Diagrams
+    author: Stephen Baxter
+  - title: 'World Engines: Creator'
+    author: Stephen Baxter
+  - title: 'World Engines: Destroyer'
+    author: Stephen Baxter
+  - title: 'Xeelee: Endurance'
+    author: Stephen Baxter
+  - title: 'Xeelee: Redemption'
+    author: Stephen Baxter
+  - title: 'Xeelee: Vengeance'
+    author: Stephen Baxter
+- name: Galactic Center (Benford)
+  origin: v3
+  books:
+  - title: Across the Sea of Suns
+    author: Gregory Benford
+  - title: Furious Gulf
+    author: Gregory Benford
+  - title: In the Ocean of Night
+    author: Gregory Benford
+  - title: Tides of Light
+    author: Gregory Benford
+- name: Galaxias
+  origin: v3
+  books:
+  - title: Galaxias
+    author: Stephen Baxter

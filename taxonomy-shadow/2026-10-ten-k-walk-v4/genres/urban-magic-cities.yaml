@@ -1,0 +1,69 @@
+id: urban-magic-cities
+label: Urban magic cities
+parent: city-magic-urban
+origin: shadow-v3
+definition: Urban magic.
+cards:
+- name: Stray Magic
+  origin: v3
+  books:
+  - title: Stray Magic
+    author: Kelly Meding
+  - title: Stray Moon
+    author: Kelly Meding
+- name: King Rat
+  origin: v3
+  books:
+  - title: King Rat
+    author: China Mieville; introduction by Tim Maughan
+  - title: King Rat
+    author: China Mieville
+- name: The Wild Side
+  origin: v3
+  books:
+  - title: 'The Wild Side: Urban Fantasy with an Erotic Edge'
+    author: Mark L. Van Name
+- name: Chicagoland Neill
+  origin: v3
+  books:
+  - title: Ember Eternal
+    author: Chloe Neill
+  - title: Devouring Darkness
+    author: Chloe Neill
+  - title: The Hunt
+    author: Chloe Neill
+  - title: The Veil
+    author: Chloe Neill
+- name: Crescent City
+  origin: v3
+  books:
+  - title: The City of Lost Fortunes
+    author: Bryan Camp
+  - title: Gather the Fortunes (A Crescent City Novel)
+    author: Bryan Camp
+  - title: City of Eternal Night
+    author: Kristen Painter
+  - title: Garden of Dreams and Desires
+    author: Kristen Painter
+  - title: House of the Rising Sun
+    author: Kristen Painter
+  - title: Last Blood
+    author: Kristen Painter
+- name: Polansky Animal Noir
+  origin: v3
+  books:
+  - title: The Builders
+    author: Daniel Polansky
+  - title: meat+drink
+    author: Daniel Polansky
+- name: Saintcrow Gallow and Ragged
+  origin: v3
+  books:
+  - title: Spring's Arcana
+    author: Lilith Saintcrow
+  - title: The Salt-Black Tree
+    author: Lilith Saintcrow
+  - title: Roadside Magic
+    author: Lilith Saintcrow
+  - title: Trailer Park Fae
+    author: Lilith Saintcrow

@@ -1,0 +1,63 @@
+id: cities-and-masks-in-revolt
+label: Cities and masks in revolt
+parent: insurgent-fantasy
+origin: shadow-v3
+definition: 'Insurgent fantasy set in cities and empires: masks, ministries and uprisings.'
+cards:
+- name: The Masquerade
+  origin: original
+  books:
+  - title: The Traitor Baru Cormorant
+    author: Seth Dickinson
+  - title: The Monster Baru Cormorant
+    author: Seth Dickinson
+  - title: The Tyrant Baru Cormorant
+    author: Seth Dickinson
+- name: Divine Cities
+  origin: original
+  books:
+  - title: City of Stairs
+    author: Robert Jackson Bennett
+  - title: City of Blades
+    author: Robert Jackson Bennett
+  - title: City of Miracles
+    author: Robert Jackson Bennett
+- name: The Unbroken
+  origin: original
+  books:
+  - title: The Unbroken
+    author: C.L. Clark
+  - title: The Faithless
+    author: C.L. Clark
+  - title: The Sovereign
+    author: C.L. Clark
+- name: Thorns We Wear Inside
+  origin: v3
+  books:
+  - title: The Thorns We Wear Inside
+    author: Amy Avery
+- name: Masks of Aygrima
+  origin: v3
+  books:
+  - title: Masks
+    author: E. C. Blake
+  - title: Shadows
+    author: E. C. Blake
+  - title: Faces
+    author: E. C. Blake
+- name: Heart of the World
+  origin: v3
+  books:
+  - title: Farlander
+    author: Col Buchanan
+  - title: Stands a Shadow
+    author: Col Buchanan
+- name: Drowned World
+  origin: v3
+  books:
+  - title: Fathomfolk
+    author: Eliza Chan
+  - title: Harbour of Hungry Ghosts
+    author: Eliza Chan
+  - title: Tideborn
+    author: Eliza Chan

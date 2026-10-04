@@ -1,0 +1,18 @@
+id: autumn-kingdoms
+label: Autumn kingdoms
+parent: antique-times-fantasy
+origin: original
+definition: 'Fantasy set in fourteenth-century Europe before the Black Death, framed as Huizinga''s autumn
+  of the Middle Ages: medieval kingdoms at their ornate height, already approaching rupture.'
+cards:
+- name: Armed in Her Fashion
+  origin: original
+  books:
+  - title: Armed in Her Fashion
+- name: Alt-Hundred-Years-War fantasy (Son of the Morning)
+  origin: v3
+  books:
+  - title: Son of the Morning
+    author: Mark Alder
+  - title: Son of the Night
+    author: Mark Alder

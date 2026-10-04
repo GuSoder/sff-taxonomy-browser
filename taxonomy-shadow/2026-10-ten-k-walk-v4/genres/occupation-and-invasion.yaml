@@ -1,0 +1,51 @@
+id: occupation-and-invasion
+label: Occupation and invasion
+parent: visitors-and-watchers
+origin: shadow-v3
+definition: Alien occupation and invasion.
+cards:
+- name: Limbo System
+  origin: v3
+  books:
+  - title: Limbo System
+    author: Rick Cook
+- name: Lizard War
+  origin: v3
+  books:
+  - title: The Helverti Invasion
+    author: John Dalmas
+  - title: The Lizard War
+    author: John Dalmas
+  - title: The Orc Wars
+    author: John Dalmas
+- name: Ganymede Takeover
+  origin: v3
+  books:
+  - title: The Ganymede Takeover
+    author: Philip K Dick
+- name: Resistance
+  origin: v3
+  books:
+  - title: Resistance The Gathering Storm
+    author: William C. Dietz
+  - title: 'Resistance: A Hole in the Sky'
+    author: William C. Dietz
+- name: Rats Bats and Ugly
+  origin: v3
+  books:
+  - title: The Rats, the Bats and the Ugly
+    author: Eric Flint
+- name: Jao Empire
+  origin: v3
+  books:
+  - title: The Crucible of Empire
+    author: Eric Flint
+  - title: The Span of Empire
+    author: Eric Flint
+- name: Haldeman Marsbound
+  origin: v3
+  books:
+  - title: Marsbound
+    author: Joe Haldeman
+  - title: Earthbound
+    author: Joe Haldeman

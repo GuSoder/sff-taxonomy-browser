@@ -1,0 +1,52 @@
+id: noobs-fireblades-and-wizards
+label: Noobs, rovers and wizards
+parent: lost-worlds-and-crosstime
+origin: shadow-v3
+definition: Odd portal tales.
+cards:
+- name: Noobtown
+  origin: v3
+  books:
+  - title: Castle of the Noobs
+    author: Ryan Rimmel
+  - title: The Mayor of Noobtown
+    author: Ryan Rimmel
+  - title: The Village of Noobtown
+    author: Ryan Rimmel
+- name: Firebird Garcia y Robertson
+  origin: v3
+  books:
+  - title: Firebird
+    author: R. Garcia y Robertson
+- name: Christopher Rowe
+  origin: v3
+  books:
+  - title: Jack of Coins
+    author: Christopher Rowe
+  - title: Knowledgeable Creatures
+    author: Christopher Rowe
+  - title: The Navigating Fox
+    author: Christopher Rowe
+  - title: The Day-Blind Stars
+    author: Christopher Rowe
+- name: Saberhagen Swords
+  origin: v3
+  books:
+  - title: Empire of the East
+    author: Fred Saberhagen
+  - title: Ardneh's Sword
+    author: Fred Saberhagen
+  - title: Of Berserkers, Swords and Vampires
+    author: Fred Saberhagen
+- name: Frugal Wizard
+  origin: v3
+  books:
+  - title: The Frugal Wizard's Handbook for Surviving Medieval England
+    author: Brandon Sanderson
+  - title: The Frugal Wizards Handbook for Surviving Medieval England
+    author: Brandon Sanderson
+- name: Sky Knife
+  origin: v3
+  books:
+  - title: Sky Knife
+    author: Marella Sands

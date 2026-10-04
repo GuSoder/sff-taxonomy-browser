@@ -1,0 +1,45 @@
+id: empires-that-never-fell
+label: Empires That Never Fell
+parent: deep-alterations
+origin: shadow-v3
+definition: Alternate histories where an empire or church that fell in our world endures.
+cards:
+- name: Arabesk
+  origin: v3
+  books:
+  - title: Effendi
+    author: Jon Courtenay Grimwood
+  - title: Felaheen
+    author: Jon Courtenay Grimwood
+  - title: Pashazade
+    author: Jon Courtenay Grimwood
+  - title: Stamping Butterflies
+    author: Jon Courtenay Grimwood
+- name: Romanitas
+  origin: v3
+  books:
+  - title: Romanitas
+    author: Sophia McDougall
+  - title: Rome Burning
+    author: Sophia McDougall
+  - title: Savage City
+    author: Sophia McDougall
+- name: Pavane
+  origin: original
+  books:
+  - title: Pavane
+- name: The Alteration
+  origin: original
+  books:
+  - title: The Alteration
+- name: The Years of Rice and Salt
+  origin: original
+  books:
+  - title: The Years of Rice and Salt
+- name: Alex Gordon
+  origin: v3
+  books:
+  - title: Gideon
+    author: Alex Gordon
+  - title: Jericho
+    author: Alex Gordon

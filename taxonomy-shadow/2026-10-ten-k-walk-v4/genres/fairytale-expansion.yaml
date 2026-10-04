@@ -1,0 +1,45 @@
+id: fairytale-expansion
+label: Fairytale expansion
+parent: fairytale-fantasy
+origin: original
+definition: Fiction that uses a familiar fairytale as the seed for a larger original world, mythology,
+  or interwoven narrative.
+cards:
+- name: Uprooted
+  origin: original
+  books:
+  - title: Uprooted
+- name: Spinning Silver
+  origin: original
+  books:
+  - title: Spinning Silver
+- name: Blanca & Roja
+  origin: original
+  books:
+  - title: Blanca & Roja
+- name: Hemlock & Silver
+  origin: original
+  books:
+  - title: Hemlock & Silver
+- name: After the Forest
+  origin: original
+  books:
+  - title: After the Forest
+- name: Sleep Like Death
+  origin: original
+  books:
+  - title: Sleep Like Death
+- name: Tigerheart
+  origin: v3
+  books:
+  - title: Tigerheart
+    author: Peter David
+- name: Deerskin and other McKinley retellings
+  origin: v3
+  books:
+  - title: Deerskin
+    author: Robin McKinley
+  - title: Rose Daughter
+    author: Robin McKinley
+  - title: Spindle's End
+    author: Robin McKinley

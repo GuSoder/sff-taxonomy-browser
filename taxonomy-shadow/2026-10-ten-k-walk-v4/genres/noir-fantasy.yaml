@@ -1,0 +1,43 @@
+id: noir-fantasy
+label: Noir fantasy
+parent: industrial-age-fantasy
+origin: original
+definition: 'Fantasy set in the hardboiled urban crime era of roughly the 1930s and 1940s, where gangsters,
+  nightclubs, moral shadow and the approach of war form the stage for real magic. Named by the curator
+  2026-09-23; future siblings banked: Gatsby fantasy, Deco fantasy.'
+cards:
+- name: Trouble the Saints
+  origin: original
+  books:
+  - title: Trouble the Saints
+- name: Siren Queen
+  origin: original
+  books:
+  - title: Siren Queen
+- name: Grimnoir
+  origin: v3
+  books:
+  - title: 'Hard Magic: Book I of the Grimnoir Chronicles'
+    author: Larry Correia
+  - title: 'Spellbound: Book II of the Grimnoir Chronicles'
+    author: Larry Correia
+  - title: 'Warbound: Book III of the Grimnoir Chronicles'
+    author: Larry Correia
+- name: The Vampire Files
+  origin: v3
+  books:
+  - title: The Vampire Files, Volume One
+    author: P. N. Elrod
+  - title: The Vampire Files, Volume Two
+    author: P. N. Elrod
+  - title: The Vampire Files, Volume Five
+    author: P. N. Elrod
+- name: Gilda Carr
+  origin: v3
+  books:
+  - title: Westside
+    author: Wm Akers
+  - title: Westside Lights
+    author: Wm Akers
+  - title: Westside Saints
+    author: Wm Akers

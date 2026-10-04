@@ -1,0 +1,74 @@
+id: weird-gaslit-cities
+label: Weird gaslit cities
+parent: victorian-steam
+origin: shadow-v3
+definition: Strange gaslit cities and their hidden orders.
+cards:
+- name: Whitechapel Gods
+  origin: v3
+  books:
+  - title: Whitechapel Gods
+    author: S.M. Peters
+- name: Jackelian
+  origin: v3
+  books:
+  - title: Jack Cloudie
+    author: Stephen Hunt
+  - title: Foul Tide's Turning
+    author: Stephen Hunt
+  - title: In Dark Service
+    author: Stephen Hunt
+  - title: The Stealers' War
+    author: Stephen Hunt
+- name: Bannon & Clare
+  origin: v3
+  books:
+  - title: The Iron Wyrm Affair
+    author: Lilith Saintcrow
+  - title: The Red Plague Affair
+    author: Lilith Saintcrow
+  - title: The Ripper Affair
+    author: Lilith Saintcrow
+- name: Hexologists
+  origin: v3
+  books:
+  - title: The Hexologists
+    author: Josiah Bancroft
+  - title: 'The Hexologists: A Tangle of Time'
+    author: Josiah Bancroft
+- name: Felix Gilman
+  origin: v3
+  books:
+  - title: Thunderer
+    author: Felix Gilman
+  - title: Gears of the City
+    author: Felix Gilman
+  - title: The Half-Made World
+    author: Felix Gilman
+  - title: The Rise of Ransom City
+    author: Felix Gilman
+  - title: The Revolutions
+    author: Felix Gilman
+- name: Vashti Hardy
+  origin: v3
+  books:
+  - title: The Clockwork Key
+    author: Vashti Hardy
+  - title: The Raven Riddle
+    author: Vashti Hardy
+- name: Hieber Perilous Prophecy
+  origin: v3
+  books:
+  - title: Perilous Prophecy
+    author: Leanna Renee Hieber
+  - title: Miss Violet and the Great War
+    author: Leanna Renee Hieber
+- name: Incorruptibles
+  origin: v3
+  books:
+  - title: Foreign Devils
+    author: John Hornor Jacobs
+  - title: Infernal Machines
+    author: John Hornor Jacobs
+  - title: The Incorruptibles
+    author: John Hornor Jacobs

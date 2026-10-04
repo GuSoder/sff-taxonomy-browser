@@ -1,0 +1,200 @@
+id: captains-and-their-ships
+label: Captains and Their Ships
+parent: space-navy
+origin: shadow-v3
+definition: Space-navy SF about one commander and the ship they hold together.
+cards:
+- name: Honor Harrington
+  origin: v3
+  books:
+  - title: On Basilisk Station
+    author: David Weber
+  - title: In Enemy Hands
+    author: David Weber
+  - title: More Than Honor
+    author: David Weber
+  - title: Echoes of Honor
+    author: David Weber
+  - title: Field of Dishonor
+    author: David Weber
+  - title: Honor Among Enemies
+    author: David Weber
+  - title: Ashes of Victory
+    author: David Weber
+  - title: Worlds of Honor
+    author: David Weber
+  - title: Changer of Worlds
+    author: David Weber
+  - title: Flag in Exile
+    author: David Weber
+  - title: The Short Victorious War
+    author: David Weber
+  - title: War of Honor
+    author: David Weber
+  - title: The Service of the Sword
+    author: David Weber
+  - title: The Shadow of Saganami
+    author: David Weber
+  - title: At All Costs
+    author: David Weber
+  - title: We Few
+    author: David Weber
+  - title: Hell Hath No Fury
+    author: David Weber
+  - title: Mission of Honor
+    author: David Weber
+  - title: Torch of Freedom
+    author: David Weber
+  - title: 'In Fire Forged: Worlds of Honor V'
+    author: David Weber
+  - title: A Rising Thunder
+    author: David Weber
+  - title: Shadow of Freedom
+    author: David Weber
+  - title: 'Beginnings: Worlds of Honor 6'
+    author: David Weber
+  - title: The Honor of the Queen, Second Edition
+    author: David Weber
+  - title: Treecat Wars
+    author: David Weber
+  - title: Cauldron of Ghosts
+    author: David Weber
+  - title: A Call to Vengeance
+    author: David Weber
+  - title: Shadow of Victory
+    author: David Weber
+  - title: The Gordian Protocol
+    author: David Weber
+  - title: Uncompromising Honor
+    author: David Weber
+  - title: The Valkyrie Protocol
+    author: David Weber
+  - title: Toll of Honor
+    author: David Weber
+  - title: The Thermopylae Protocol
+    author: David Weber
+- name: Kris Longknife
+  origin: v3
+  books:
+  - title: 'Kris Longknife: Deserter'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Mutineer'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Defiant'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Resolute'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Audacious'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Intrepid'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Undaunted'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Redoubtable'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Daring'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Training Daze'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Furious'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Welcome Home / Go Away'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Defender'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Tenacious'
+    author: Mike Shepherd
+  - title: To Do or Die
+    author: Mike Shepherd
+  - title: 'Vicky Peterwald: Target'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Unrelenting'
+    author: Mike Shepherd
+  - title: 'Kris Longknife: Bold'
+    author: Mike Shepherd
+  - title: 'Vicky Peterwald: Rebel'
+    author: Mike Shepherd
+- name: RCN (Drake)
+  origin: v3
+  books:
+  - title: Lt. Leary Commanding
+    author: David Drake
+  - title: With the Lightnings
+    author: David Drake
+  - title: Paying the Piper
+    author: David Drake
+  - title: The Far Side of the Stars
+    author: David Drake
+  - title: Some Golden Harbor
+    author: David Drake
+  - title: When the Tide Rises
+    author: David Drake
+  - title: In the Stormy Red Sky
+    author: David Drake
+  - title: What Distant Deeps
+    author: David Drake
+  - title: The Road of Danger
+    author: David Drake
+  - title: The Sea Without a Shore
+    author: David Drake
+  - title: Death's Bright Day
+    author: David Drake
+  - title: Though Hell Should Bar the Way
+    author: David Drake
+  - title: To Clear Away the Shadows
+    author: David Drake
+- name: Serrano
+  origin: v3
+  books:
+  - title: Once a Hero
+    author: Elizabeth Moon
+  - title: Rules of Engagement
+    author: Elizabeth Moon
+  - title: Heris Serrano
+    author: Elizabeth Moon
+  - title: The Serrano Connection
+    author: Elizabeth Moon
+  - title: The Serrano Succession
+    author: Elizabeth Moon
+- name: Blackwood and Virtue (Coles)
+  origin: v3
+  books:
+  - title: Dark Star Rising
+    author: Bennett R Coles
+  - title: Winds of Marque
+    author: Bennett R Coles
+- name: The Lightship Chronicles
+  origin: v3
+  books:
+  - title: Impulse
+    author: Dave Bara
+  - title: Defiant
+    author: Dave Bara
+  - title: Starbound
+    author: Dave Bara
+- name: Helfort's War
+  origin: v3
+  books:
+  - title: 'Helfort''s War Book 1: The Battle at the Moons of Hell'
+    author: Graham Sharp Paul
+  - title: 'Helfort''s War Book 2: The Battle of the Hammer Worlds'
+    author: Graham Sharp Paul
+  - title: 'Helfort''s War Book 3: The Battle of Devastation Reef'
+    author: Graham Sharp Paul
+  - title: 'Helfort''s War Book 4: The Battle for Commitment Planet'
+    author: Graham Sharp Paul
+- name: Jean Dahl (Merrimack)
+  origin: v3
+  books:
+  - title: The Myriad
+    author: R. M. Meluch
+  - title: Wolf Star
+    author: R. M. Meluch
+  - title: The Sagittarius Command
+    author: R. M. Meluch
+  - title: Strength and Honor
+    author: R. M. Meluch
+  - title: The Ninth Circle
+    author: R. M. Meluch
+  - title: Jerusalem Fire
+    author: R. M. Meluch

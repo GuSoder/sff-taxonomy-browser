@@ -1,0 +1,27 @@
+id: contradiction-fiction
+label: Contradiction fiction
+parent: books-in-books
+origin: original
+definition: Books-in-books fiction built around invented documents whose conflicting accounts, omissions
+  or false authority put text and reality at war.
+cards:
+- name: The Blind Assassin
+  origin: original
+  books:
+  - title: The Blind Assassin
+- name: The Prestige
+  origin: original
+  books:
+  - title: The Prestige
+- name: A Sick Gray Laugh
+  origin: original
+  books:
+  - title: A Sick Gray Laugh
+- name: An American Story
+  origin: original
+  books:
+  - title: An American Story
+- name: Confessions of the Fox
+  origin: original
+  books:
+  - title: Confessions of the Fox

@@ -1,0 +1,47 @@
+id: corporate-thrillers
+label: Corporate thrillers
+parent: net-and-corporate-power
+origin: shadow-v3
+definition: Corporations, crashes and gunslingers.
+cards:
+- name: Crash
+  origin: original
+  books:
+  - title: Crash
+- name: Cyberbooks
+  origin: v3
+  books:
+  - title: Cyberbooks
+    author: Ben Bova
+- name: Echelon
+  origin: v3
+  books:
+  - title: Echelon
+    author: Josh Conviser
+  - title: Empyre
+    author: Josh Conviser
+- name: Corporate Gunslinger
+  origin: v3
+  books:
+  - title: Corporate Gunslinger
+    author: Doug Engstrom
+- name: Takeover
+  origin: v3
+  books:
+  - title: Takeover
+    author: Forrest Evers
+- name: Eastern Standard Tribe
+  origin: v3
+  books:
+  - title: Eastern Standard Tribe
+    author: Cory Doctorow
+- name: Lost Puzzler
+  origin: v3
+  books:
+  - title: The Lost Puzzler
+    author: Eyal Kless
+- name: Otaku
+  origin: v3
+  books:
+  - title: Otaku
+    author: Chris Kluwe

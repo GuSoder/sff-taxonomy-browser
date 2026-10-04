@@ -1,0 +1,59 @@
+id: wings-and-hulls
+label: Wings and Hulls
+parent: military-fantasy
+origin: shadow-v3
+definition: 'Fantasy war in the air and at sea: dragon airmen, airships, warships.'
+cards:
+- name: Havemercy
+  origin: v3
+  books:
+  - title: Havemercy
+    author: Danielle Bennett
+  - title: Shadow Magic
+    author: Danielle Bennett
+  - title: Dragon Soul
+    author: Danielle Bennett
+  - title: Steelhands
+    author: Danielle Bennett
+- name: The Signal Airship duology
+  origin: v3
+  books:
+  - title: The Guns Above
+    author: Robyn Bennis
+  - title: By Fire Above
+    author: Robyn Bennis
+- name: Tide Child (Bone Ships)
+  origin: v3
+  books:
+  - title: Call of the Bone Ships
+    author: RJ Barker
+  - title: The Bone Ships
+    author: RJ Barker
+  - title: The Bone Ships Wake
+    author: RJ Barker
+- name: Dragonmaster and Seer King (Bunch)
+  origin: v3
+  books:
+  - title: Dragonmaster
+    author: Chris Bunch
+  - title: Knighthood of the Dragon
+    author: Chris Bunch
+  - title: The Last Battle
+    author: Chris Bunch
+  - title: The Demon King
+    author: Chris Bunch
+  - title: The Seer King
+    author: Chris Bunch
+  - title: The Warrior King
+    author: Chris Bunch
+- name: Ketty Jay
+  origin: v3
+  books:
+  - title: Retribution Falls
+    author: Chris Wooding
+  - title: The Black Lung Captain
+    author: Chris Wooding
+  - title: The Ace of Skulls
+    author: Chris Wooding
+  - title: The Iron Jackal
+    author: Chris Wooding

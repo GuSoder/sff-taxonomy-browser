@@ -1,0 +1,60 @@
+id: huntresses-and-moons
+label: Huntresses, moons and glaes
+parent: queens-in-the-wild
+origin: shadow-v3
+definition: Huntresses and moon-bound heroines.
+cards:
+- name: Wild Huntress
+  origin: v3
+  books:
+  - title: The Wild Huntress
+    author: Emily Lloyd-Jones
+- name: Violette Malan
+  origin: v3
+  books:
+  - title: The Godstone
+    author: Violette Malan
+  - title: The Court War
+    author: Violette Malan
+- name: Glaes
+  origin: v3
+  books:
+  - title: House of Blight
+    author: Maxym M Martineau
+  - title: Manor of Decay
+    author: Maxym M Martineau
+- name: Maiden of Silk and Thorn
+  origin: v3
+  books:
+  - title: Maiden of Silk and Thorn
+    author: Maxym M Martineau
+- name: Boreal Moon
+  origin: v3
+  books:
+  - title: Conqueror's Moon
+    author: Julian May
+  - title: Sorcerer's Moon
+    author: Julian May
+- name: Firethorn
+  origin: v3
+  books:
+  - title: Firethorn
+    author: Sarah Micklem
+- name: Spellsong
+  origin: v3
+  books:
+  - title: Darksong Rising
+    author: L. E. Modesitt
+  - title: Shadowsinger
+    author: L. E. Modesitt
+  - title: The Spellsong War
+    author: L.E. Modesitt
+  - title: The Soprano Sorceress
+    author: L.E. Modesitt
+- name: Down Station
+  origin: v3
+  books:
+  - title: Down Station
+    author: Simon Morden
+  - title: The White City
+    author: Simon Morden

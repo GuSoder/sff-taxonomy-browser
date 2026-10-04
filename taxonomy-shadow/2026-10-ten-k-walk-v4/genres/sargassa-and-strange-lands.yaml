@@ -1,0 +1,40 @@
+id: sargassa-and-strange-lands
+label: Sargassa, strange and northland
+parent: other-worlds-histories
+origin: shadow-v3
+definition: Alt histories.
+cards:
+- name: Sargassa
+  origin: original
+  books:
+  - title: Sargassa
+- name: Singer Distance
+  origin: original
+  books:
+  - title: Singer Distance
+- name: The Strange
+  origin: original
+  books:
+  - title: The Strange
+- name: Northland
+  origin: v3
+  books:
+  - title: Bronze Summer
+    author: Stephen Baxter
+  - title: Iron Winter
+    author: Stephen Baxter
+- name: The Moon-Maker
+  origin: v3
+  books:
+  - title: The Moon-Maker
+    author: Arthur Train
+- name: Saint Antony's Fire
+  origin: v3
+  books:
+  - title: Saint Antony's Fire
+    author: Steve White
+- name: Lincoln's Sword
+  origin: v3
+  books:
+  - title: Lincoln's Sword
+    author: ''

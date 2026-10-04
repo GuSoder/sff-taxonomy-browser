@@ -1,0 +1,91 @@
+id: hired-guns
+label: Hired Guns
+parent: ground-pounders
+origin: shadow-v3
+definition: Infantry SF of mercenary companies and soldiers for hire.
+cards:
+- name: CoDominium
+  origin: v3
+  books:
+  - title: Go Tell the Spartans
+    author: Jerry Pournelle
+  - title: Prince of Sparta
+    author: Jerry Pournelle
+  - title: The Mercenary
+    author: Jerry Pournelle
+  - title: West of Honor
+    author: Jerry Pournelle
+- name: Carrera (Kratman)
+  origin: v3
+  books:
+  - title: A State of Disobedience
+    author: Tom Kratman
+  - title: A Desert Called Peace
+    author: Tom Kratman
+  - title: Carnifex
+    author: Tom Kratman
+  - title: The Lotus Eaters
+    author: Tom Kratman
+  - title: The Amazon Legion
+    author: Tom Kratman
+  - title: A Desert Called Peace, Second Edition
+    author: Tom Kratman
+  - title: Come and Take Them
+    author: Tom Kratman
+  - title: The Rods and the Axe
+    author: Tom Kratman
+- name: Countdown (Kratman)
+  origin: v3
+  books:
+  - title: 'Countdown: The Liberators'
+    author: Tom Kratman
+  - title: 'Countdown: M Day'
+    author: Tom Kratman
+  - title: 'Countdown: H Hour'
+    author: Tom Kratman
+- name: Bastard Legion
+  origin: v3
+  books:
+  - title: The Bastard Legion
+    author: Gavin G. Smith
+  - title: 'The Bastard Legion: Friendly Fire'
+    author: Gavin G. Smith
+  - title: 'The Bastard Legion: War Criminals'
+    author: Gavin G. Smith
+- name: Freehold
+  origin: v3
+  books:
+  - title: Contact with Chaos
+    author: Michael Z. Williamson
+  - title: A Long Time Until Now
+    author: Michael Z. Williamson
+  - title: Freehold, Second Edition
+    author: Michael Z. Williamson
+  - title: Angeleyes
+    author: Michael Z. Williamson
+  - title: 'Freehold: Resistance'
+    author: Michael Z. Williamson
+  - title: 'Freehold: Defiance'
+    author: Michael Z. Williamson
+- name: Tour of Duty
+  origin: v3
+  books:
+  - title: The Weapon
+    author: Michael Z. Williamson
+  - title: Better to Beg Forgiveness
+    author: Michael Z. Williamson
+  - title: Do Unto Others
+    author: Michael Z. Williamson
+  - title: Rogue
+    author: Michael Z. Williamson
+  - title: When Diplomacy Fails
+    author: Michael Z. Williamson
+  - title: Tour of Duty
+    author: Michael Z. Williamson
+- name: Hammer's Slammers
+  origin: v3
+  books:
+  - title: The Sharp End
+    author: David Drake
+  - title: The Tank Lords, Second Edition
+    author: David Drake

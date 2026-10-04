@@ -1,0 +1,174 @@
+id: magic-by-the-rules
+label: Magic by the Rules
+parent: hard-magic
+origin: shadow-v3
+definition: Hard fantasy where magic is a costed, systematized craft.
+cards:
+- name: The Runelords
+  origin: v3
+  books:
+  - title: The Runelords
+    author: David Farland
+  - title: The Lair of Bones
+    author: David Farland
+  - title: Sons of the Oak
+    author: David Farland
+  - title: Wizardborn
+    author: David Farland
+  - title: Worldbinder
+    author: David Farland
+  - title: The Wyrmling Horde
+    author: David Farland
+  - title: Chaosbound
+    author: David Farland
+  - title: The Runelords Series
+    author: David Farland
+- name: Saga of Recluce
+  origin: v3
+  books:
+  - title: 'Saga of Recluce: Books 1-5'
+    author: L. E. Modesitt Jr.
+  - title: Fall of Angels
+    author: L. E. Modesitt
+  - title: The Chaos Balance
+    author: L. E. Modesitt
+  - title: Scion of Cyador
+    author: L. E. Modesitt
+  - title: Magi'i of Cyador
+    author: L. E. Modesitt
+  - title: Arms-Commander
+    author: L. E. Modesitt
+  - title: Ordermaster
+    author: L. E. Modesitt
+  - title: The Death of Chaos
+    author: L. E. Modesitt
+  - title: The Magic of Recluce
+    author: L. E. Modesitt
+  - title: The Order War
+    author: L. E. Modesitt
+  - title: Wellspring of Chaos
+    author: L. E. Modesitt
+  - title: Heritage of Cyador
+    author: L. E. Modesitt
+  - title: Saga of Recluce, Year 1-415
+    author: L. E. Modesitt
+  - title: Recluce Tales
+    author: L. E. Modesitt
+  - title: The Mongrel Mage
+    author: L. E. Modesitt
+  - title: Outcasts of Order
+    author: L. E. Modesitt
+  - title: 'Saga of Recluce: Books 10-13'
+    author: L. E. Modesitt
+  - title: 'Saga of Recluce: Books 6-9'
+    author: L. E. Modesitt
+  - title: 'Saga of Recluce: Books 14-18'
+    author: L. E. Modesitt
+  - title: The Mage-Fire War
+    author: L. E. Modesitt
+  - title: Fairhaven Rising
+    author: L. E. Modesitt
+  - title: The Towers of the Sunset
+    author: L.E. Modesitt
+  - title: The White Order
+    author: L.E. Modesitt
+  - title: Colors of Chaos
+    author: L.E. Modesitt
+  - title: Natural Ordermage
+    author: L.E. Modesitt
+  - title: Mage-Guard of Hamor
+    author: L.E. Modesitt
+  - title: Cyador's Heirs
+    author: L.E. Modesitt
+  - title: The Magic Engineer
+    author: L.E. Modesitt
+  - title: Saga of Recluce, Year 900-1205
+    author: L.E. Modesitt
+- name: The Cosmere
+  origin: v3
+  books:
+  - title: Mistborn
+    author: Brandon Sanderson
+  - title: Mistborn Trilogy
+    author: Brandon Sanderson
+  - title: 'Mistborn: The Wax & Wayne Series'
+    author: Brandon Sanderson
+  - title: The Stormlight Archive, Books 1-4
+    author: Brandon Sanderson
+  - title: Arcanum Unbounded
+    author: Brandon Sanderson
+  - title: Mistborn Wax & Wayne The Complete Series
+    author: Brandon Sanderson
+  - title: The Emperor's Soul
+    author: Brandon Sanderson
+  - title: Words of Radiance Part One
+    author: Brandon Sanderson
+- name: The Founders Trilogy
+  origin: original
+  books:
+  - title: Foundryside
+    author: Robert Jackson Bennett
+  - title: Shorefall
+    author: Robert Jackson Bennett
+  - title: Locklands
+    author: Robert Jackson Bennett
+- name: The Book of Elementals
+  origin: original
+  books:
+  - title: Sorcerer's Son
+    author: Phyllis Eisenstein
+  - title: The Crystal Palace
+    author: Phyllis Eisenstein
+- name: Codex Alera
+  origin: original
+  books:
+  - title: Furies of Calderon
+    author: Jim Butcher
+  - title: Academ's Fury
+    author: Jim Butcher
+  - title: Cursor's Fury
+    author: Jim Butcher
+  - title: Captain's Fury
+    author: Jim Butcher
+  - title: Princeps' Fury
+    author: Jim Butcher
+  - title: First Lord's Fury
+    author: Jim Butcher
+- name: Imager Portfolio
+  origin: v3
+  books:
+  - title: Antiagon Fire
+    author: L. E. Modesitt
+  - title: Imager's Battalion
+    author: L. E. Modesitt
+  - title: Madness in Solidar
+    author: L. E. Modesitt
+  - title: Treachery's Tools
+    author: L. E. Modesitt
+  - title: Assassin's Price
+    author: L. E. Modesitt
+  - title: The Imager Portfolio, Volume I
+    author: L. E. Modesitt
+  - title: The Imager Portfolio, Volume II
+    author: L. E. Modesitt
+  - title: Imager
+    author: L.E. Modesitt
+  - title: Imager's Challenge
+    author: L.E. Modesitt
+  - title: Imager's Intrigue
+    author: L.E. Modesitt
+  - title: Lady-Protector
+    author: L.E. Modesitt
+  - title: Scholar
+    author: L.E. Modesitt
+  - title: Princeps
+    author: L.E. Modesitt
+  - title: Rex Regis
+    author: L.E. Modesitt
+  - title: The Imager Portfolio, Volume III
+    author: L.E. Modesitt
+- name: Metal Slinger
+  origin: v3
+  books:
+  - title: Metal Slinger
+    author: Alchemy

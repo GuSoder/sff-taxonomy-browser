@@ -1,0 +1,84 @@
+id: dragon-bonded-heroes
+label: Dragon-bonded heroes
+parent: dragon-champions-and-dragoneers
+origin: shadow-v3
+definition: Heroes bonded to dragons.
+cards:
+- name: Dragon Champion
+  origin: v3
+  books:
+  - title: Dragon Champion
+    author: E.E. Knight
+  - title: Tale of the Thunderbolt
+    author: E.E. Knight
+  - title: Valentine's Rising
+    author: E.E. Knight
+  - title: Dragon Avenger
+    author: E.E. Knight
+  - title: Dragon Outcast
+    author: E.E. Knight
+  - title: Valentine's Exile
+    author: E.E. Knight
+  - title: Fall With Honor
+    author: E.E. Knight
+  - title: Valentine's Resolve
+    author: E.E. Knight
+  - title: Winter Duty
+    author: E.E. Knight
+  - title: Dragon Fate
+    author: E.E. Knight
+  - title: March In Country
+    author: E.E. Knight
+  - title: Dragon Rule
+    author: E.E. Knight
+  - title: Dragon Strike
+    author: E.E. Knight
+- name: Novice Dragoneer
+  origin: v3
+  books:
+  - title: Novice Dragoneer
+    author: E.E. Knight
+  - title: Daughter of the Serpentine
+    author: E.E. Knight
+- name: Dragon Elements Kellogg
+  origin: v3
+  books:
+  - title: The Book of Earth
+    author: Marjorie B. Kellogg
+  - title: The Book of Water
+    author: Marjorie B. Kellogg
+  - title: Book Of Fire
+    author: Marjorie B. Kellogg
+  - title: The Book of Air
+    author: Marjorie B. Kellogg
+- name: Summer Dragon
+  origin: v3
+  books:
+  - title: The Summer Dragon
+    author: Todd Lockwood
+- name: Taran Matharu Dragon Rider
+  origin: v3
+  books:
+  - title: Dragon Rider
+    author: Taran Matharu
+  - title: The Tainted Khan
+    author: Taran Matharu
+- name: S A MacLean
+  origin: v3
+  books:
+  - title: The Phoenix Keeper
+    author: S. A. MacLean
+  - title: Voidwalker
+    author: S. A. MacLean
+- name: Dragon's Code
+  origin: v3
+  books:
+  - title: Dragon's Code
+    author: Gigi McCaffrey
+- name: Mercedes Dragon Princess
+  origin: v3
+  books:
+  - title: The Seventh Champion
+    author: Sylvia Mercedes
+  - title: The Last Dragon Queen
+    author: Sylvia Mercedes

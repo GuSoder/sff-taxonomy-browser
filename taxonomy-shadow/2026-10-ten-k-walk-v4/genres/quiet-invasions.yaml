@@ -1,0 +1,43 @@
+id: quiet-invasions
+label: Quiet Invasions
+parent: alien-invasion-fiction
+origin: shadow-v3
+definition: Alien invasion by infiltration, replacement and possession.
+cards:
+- name: The Midwich Cuckoos
+  origin: original
+  books:
+  - title: The Midwich Cuckoos
+- name: The Puppet Masters
+  origin: original
+  books:
+  - title: The Puppet Masters
+- name: The Body Snatchers
+  origin: v3
+  books:
+  - title: The Body Snatchers
+    author: Jack Finney
+- name: The Host
+  origin: v3
+  books:
+  - title: The Host
+    author: Stephenie Meyer
+  - title: 'The Host: A Novel: Booktrack Edition'
+    author: Stephenie Meyer
+- name: Annex
+  origin: original
+  books:
+  - title: Annex
+- name: Nova Express
+  origin: original
+  books:
+  - title: Nova Express
+- name: The Wormwood Trilogy
+  origin: original
+  books:
+  - title: Rosewater
+    author: Tade Thompson
+  - title: The Rosewater Insurrection
+    author: Tade Thompson
+  - title: The Rosewater Redemption
+    author: Tade Thompson

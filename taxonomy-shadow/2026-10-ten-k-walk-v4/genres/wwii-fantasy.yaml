@@ -1,0 +1,56 @@
+id: wwii-fantasy
+label: WWII fantasy
+parent: industrial-age-fantasy
+origin: original
+definition: Period fantasy of the Second World War era, battlefield or home front, where the war and its
+  social machinery form the stage for magic, curses, monsters or haunting.
+cards:
+- name: The Fervor
+  origin: original
+  books:
+  - title: The Fervor
+- name: The Tapestry of Time
+  origin: original
+  books:
+  - title: The Tapestry of Time
+- name: Lady Lazarus
+  origin: v3
+  books:
+  - title: Lady Lazarus
+    author: Michele Lang
+  - title: Dark Victory
+    author: Michele Lang
+  - title: Rebel Angels
+    author: Michele Lang
+- name: Dark Arts (Mack)
+  origin: v3
+  books:
+  - title: The Midnight Front
+    author: David Mack
+  - title: The Iron Codex
+    author: David Mack
+  - title: The Shadow Commission
+    author: David Mack
+- name: We Rule the Night
+  origin: v3
+  books:
+  - title: We Rule the Night
+    author: Claire Eliza Bartlett
+- name: Los Nefilim
+  origin: v3
+  books:
+  - title: A Song with Teeth
+    author: T Frohock
+  - title: Carved from Stone and Dream
+    author: T Frohock
+  - title: Where Oblivion Lives
+    author: T Frohock
+  - title: Without Light or Guide
+    author: T Frohock
+- name: Spear of Destiny
+  origin: v3
+  books:
+  - title: Black Sun Reich
+    author: Trey Garrison
+  - title: Shadows Will Fall
+    author: Trey Garrison

@@ -1,0 +1,19 @@
+id: xuanhuan
+label: Xuanhuan
+parent: chuanqi
+origin: original
+definition: '玄幻 (xuanhuan), ''mysterious fantasy'': broad modern Chinese mystic fantasy - Daoist and folk
+  cosmology, ghosts, fox spirits, shamans and immortals in invented worlds drawn from Chinese history
+  and legend. The modern heir of the Shenmo tradition. Named by the curator 2026-09-23.'
+cards:
+- name: Under Heaven
+  origin: original
+  books:
+  - title: Under Heaven
+- name: Bright Heart
+  origin: v3
+  books:
+  - title: A Bright Heart
+    author: Kate Chenli
+  - title: A Fiery Spirit
+    author: Kate Chenli

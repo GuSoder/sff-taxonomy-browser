@@ -1,0 +1,72 @@
+id: doors-to-other-worlds
+label: Doors to Other Worlds
+parent: otherworld-fantasy
+origin: shadow-v3
+definition: Portal fantasy where the heroes cross over into a full other world.
+cards:
+- name: The Fionavar Tapestry
+  origin: original
+  books:
+  - title: The Summer Tree
+    author: Guy Gavriel Kay
+  - title: The Wandering Fire
+    author: Guy Gavriel Kay
+  - title: The Darkest Road
+    author: Guy Gavriel Kay
+- name: Red Moon and Black Mountain
+  origin: original
+  books:
+  - title: Red Moon and Black Mountain
+- name: Three Hearts and Three Lions
+  origin: original
+  books:
+  - title: Three Hearts and Three Lions
+- name: The Dark World
+  origin: original
+  books:
+  - title: The Dark World
+- name: The Wizard Knight
+  origin: original
+  books:
+  - title: The Knight
+    author: Gene Wolfe
+  - title: The Wizard
+    author: Gene Wolfe
+- name: Spellsong Cycle
+  origin: v3
+  books:
+  - title: Darksong Rising
+    author: L. E. Modesitt
+  - title: The Shadow Sorceress
+    author: L. E. Modesitt
+  - title: Shadowsinger
+    author: L. E. Modesitt
+  - title: The Spellsong War
+    author: L.E. Modesitt
+  - title: The Soprano Sorceress
+    author: L.E. Modesitt
+- name: The Last Rune
+  origin: v3
+  books:
+  - title: Beyond the Pale
+    author: Mark Anthony
+  - title: The Gates of Winter
+    author: Mark Anthony
+  - title: Blood of Mystery
+    author: Mark Anthony
+  - title: The First Stone
+    author: Mark Anthony
+  - title: The Dark Remains
+    author: Mark Anthony
+  - title: The Keep of Fire
+    author: Mark Anthony
+- name: Amira and Hamza
+  origin: v3
+  books:
+  - title: 'Amira & Hamza: The War to Save the Worlds'
+    author: Samira Ahmed
+- name: Of Sorcery and Science
+  origin: v3
+  books:
+  - title: Of Sorcery and Science
+    author: Mike Chen

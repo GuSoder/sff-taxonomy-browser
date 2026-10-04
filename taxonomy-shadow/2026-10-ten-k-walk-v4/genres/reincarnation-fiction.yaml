@@ -1,0 +1,28 @@
+id: reincarnation-fiction
+label: Reincarnation fiction
+parent: atemporal
+origin: original
+definition: Stories in which a soul or consciousness recurs across multiple lifetimes and eras, reincarnation
+  serving as the linking device.
+cards:
+- name: Cloud Atlas
+  origin: original
+  books:
+  - title: Cloud Atlas
+- name: The Book of Ptath
+  origin: original
+  books:
+  - title: The Book of Ptath
+- name: Downward to the Earth
+  origin: original
+  books:
+  - title: Downward to the Earth
+- name: Rakesfall
+  origin: original
+  books:
+  - title: Rakesfall
+- name: Geodyssey
+  origin: v3
+  books:
+  - title: Hope of Earth
+    author: Piers Anthony

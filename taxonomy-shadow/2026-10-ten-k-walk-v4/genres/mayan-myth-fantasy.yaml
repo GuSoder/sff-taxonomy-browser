@@ -1,0 +1,17 @@
+id: mayan-myth-fantasy
+label: Mayan myth fantasy
+parent: mythic-retelling
+origin: original
+definition: Fantasy that retells or reimagines named figures, narratives and cosmology from Mayan mythology.
+cards:
+- name: Gods of Jade and Shadow
+  origin: original
+  books:
+  - title: Gods of Jade and Shadow
+- name: Mariely Lares
+  origin: v3
+  books:
+  - title: Dawn of Fate and Fire
+    author: Mariely Lares
+  - title: Sun of Blood and Ruin
+    author: Mariely Lares

@@ -1,0 +1,26 @@
+id: cobra-vor-and-titan-sirens
+label: Cobra, Vor and the Sirens
+parent: crossfire-and-spin
+origin: shadow-v3
+definition: Space opera cont.
+cards:
+- name: Patchwerk
+  origin: v3
+  books:
+  - title: Patchwerk
+    author: David Tallerman
+- name: Dragonkin Tidhar
+  origin: v3
+  books:
+  - title: Dragonkin
+    author: Lavie Tidhar
+- name: Cobra Outlaw
+  origin: v3
+  books:
+  - title: Cobra Outlaw
+    author: 'Cobra Rebellion: Book Two'
+- name: Vor Hell Heart
+  origin: v3
+  books:
+  - title: 'Vor: Hell Heart'
+    author: Robert E. Vardeman

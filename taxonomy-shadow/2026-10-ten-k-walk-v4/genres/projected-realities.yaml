@@ -1,0 +1,46 @@
+id: projected-realities
+label: Projected realities
+parent: inner-space
+origin: original
+definition: Fabulation in which trauma, memory or desire projects a competing shared reality whose boundary
+  with the ordinary world cannot be stabilized.
+cards:
+- name: Destroy All Monsters
+  origin: original
+  books:
+  - title: Destroy All Monsters
+- name: Peaces
+  origin: original
+  books:
+  - title: Peaces
+- name: The Unconsoled
+  origin: original
+  books:
+  - title: The Unconsoled
+- name: The Unlimited Dream Company
+  origin: original
+  books:
+  - title: The Unlimited Dream Company
+- name: The Wind-Up Bird Chronicle
+  origin: original
+  books:
+  - title: The Wind-Up Bird Chronicle
+- name: Time Out of Joint
+  origin: original
+  books:
+  - title: Time Out of Joint
+    author: Philip K. Dick
+- name: Prophet
+  origin: original
+  books:
+  - title: Prophet
+- name: Paprika
+  origin: v3
+  books:
+  - title: Paprika
+    author: East Asia
+- name: Eye in the Sky
+  origin: v3
+  books:
+  - title: Eye In The Sky
+    author: Philip K Dick

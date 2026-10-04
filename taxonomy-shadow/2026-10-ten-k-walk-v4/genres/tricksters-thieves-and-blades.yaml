@@ -1,0 +1,53 @@
+id: tricksters-thieves-and-blades
+label: Thieves, tea and blades
+parent: adventurers-and-tricksters
+origin: shadow-v3
+definition: Adventurers.
+cards:
+- name: The Legend of Eli Monpress
+  origin: v3
+  books:
+  - title: Spirits End
+    author: Rachel Aaron
+  - title: The Spirit Eater
+    author: Rachel Aaron
+  - title: The Spirit War
+    author: Rachel Aaron
+- name: Ancient Blades
+  origin: v3
+  books:
+  - title: A Thief in the Night
+    author: David Chandler
+  - title: Den of Thieves
+    author: David Chandler
+  - title: Honor Among Thieves
+    author: David Chandler
+- name: Saga of the Redeemed
+  origin: v3
+  books:
+  - title: Dead But Once
+    author: Auston Habershaw
+  - title: Iron and Blood
+    author: Auston Habershaw
+  - title: No Good Deed
+    author: Auston Habershaw
+  - title: The Far Far Better Thing
+    author: Auston Habershaw
+  - title: The Iron Ring
+    author: Auston Habershaw
+  - title: The Oldest Trick
+    author: Auston Habershaw
+- name: A Tempest of Tea
+  origin: original
+  books:
+  - title: A Tempest of Tea
+- name: Thief and Traitor Bride
+  origin: v3
+  books:
+  - title: The Thief and the Traitor Bride
+    author: V. L. Bovalino
+- name: Mall Purchase Night
+  origin: v3
+  books:
+  - title: Mall Purchase Night
+    author: Rick Cook

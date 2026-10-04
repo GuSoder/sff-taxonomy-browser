@@ -1,0 +1,21 @@
+id: ranger-hero
+label: Ranger hero
+parent: martial-heroes
+origin: original
+definition: Martial-hero fantasy whose protagonist’s primary power is wilderness craft, tracking, ranged
+  weapons or animal partnership.
+cards:
+- name: The Skybound Saga
+  origin: original
+  books:
+  - title: Black Wings Beating
+    author: Alex London
+  - title: Red Skies Falling
+    author: Alex London
+  - title: Gold Wings Rising
+    author: Alex London
+- name: The Legend of Drizzt
+  origin: v3
+  books:
+  - title: The Dao of Drizzt
+    author: R A Salvatore

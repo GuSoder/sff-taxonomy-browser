@@ -1,0 +1,64 @@
+id: isles-and-griaule
+label: Isles, mantles and dragons
+parent: realms-and-outlaws
+origin: shadow-v3
+definition: Isles.
+cards:
+- name: Burning Isle
+  origin: v3
+  books:
+  - title: The Burning Isle
+    author: Will Panzo
+- name: Sunset Mantle
+  origin: v3
+  books:
+  - title: Sunset Mantle
+    author: Alter S. Reiss
+  - title: Recalled to Service
+    author: Alter S. Reiss
+- name: The Free Ruckley
+  origin: v3
+  books:
+  - title: The Free
+    author: Brian Ruckley
+- name: Solveig Saintcrow
+  origin: v3
+  books:
+  - title: A Flame in the North
+    author: Lilith Saintcrow
+  - title: The Fall of Waterstone
+    author: Lilith Saintcrow
+- name: Adrian Selby
+  origin: v3
+  books:
+  - title: Brother Red
+    author: Adrian Selby
+  - title: Snakewood
+    author: Adrian Selby
+  - title: The Winter Road
+    author: Adrian Selby
+- name: Dragon Griaule
+  origin: v3
+  books:
+  - title: The Dragon Griaule
+    author: Lucius Shepard
+- name: Skovron Red
+  origin: v3
+  books:
+  - title: Bane and Shadow
+    author: Jon Skovron
+  - title: Blood and Tempest
+    author: Jon Skovron
+  - title: Hope and Red
+    author: Jon Skovron
+- name: Phoenix Rising Balanced Sword
+  origin: v3
+  books:
+  - title: Phoenix Rising
+    author: Ryk E. Spoor
+  - title: Phoenix in Shadow
+    author: Ryk E. Spoor
+  - title: Phoenix Ascendant
+    author: Ryk E. Spoor
+  - title: Phoenix Rising, Second Edition
+    author: Ryk E. Spoor

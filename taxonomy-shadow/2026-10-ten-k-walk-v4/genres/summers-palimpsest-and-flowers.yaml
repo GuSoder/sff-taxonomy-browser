@@ -1,0 +1,40 @@
+id: summers-palimpsest-and-flowers
+label: Summers, palimpsests and flowers
+parent: modern-doors-and-wonderlands
+origin: shadow-v3
+definition: Modern doors cont.
+cards:
+- name: Georgia Summers
+  origin: v3
+  books:
+  - title: The Bookshop Below
+    author: Georgia Summers
+  - title: The City of Stardust
+    author: Georgia Summers
+  - title: The Door of Shadows
+    author: Georgia Summers
+- name: Palimpsest
+  origin: v3
+  books:
+  - title: Palimpsest
+    author: Catherynne Valente
+- name: Questland
+  origin: v3
+  books:
+  - title: Questland
+    author: Carrie Vaughn
+- name: War of the Flowers
+  origin: v3
+  books:
+  - title: The War of the Flowers
+    author: Tad Williams
+- name: Ren von Lugenbach
+  origin: v3
+  books:
+  - title: Ren von Lugenbachs Absolutely Unnecessary Adventure
+    author: Fox de Winter
+- name: Someone Comes to Town
+  origin: v3
+  books:
+  - title: Someone Comes to Town, Someone Leaves Town
+    author: Cory Doctorow

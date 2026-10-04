@@ -1,0 +1,60 @@
+id: heroes-and-beasts
+label: Heroes and Beasts
+parent: greek-myth-fantasy
+origin: shadow-v3
+definition: Greek myth retold around the labors, monsters and heroes of the age.
+cards:
+- name: Hercules (Betancourt)
+  origin: v3
+  books:
+  - title: Hercules
+    author: John Gregory Betancourt
+  - title: The Gates of Hades
+    author: John Gregory Betancourt
+  - title: The Vengeance of Hera
+    author: John Gregory Betancourt
+- name: The Minotaur Trilogy
+  origin: original
+  books:
+  - title: Cry Silver Bells
+    author: Thomas Burnett Swann
+  - title: The Forest of Forever
+    author: Thomas Burnett Swann
+  - title: Day of the Minotaur
+    author: Thomas Burnett Swann
+- name: Phaedra
+  origin: original
+  books:
+  - title: Phaedra
+- name: Latro
+  origin: v3
+  books:
+  - title: Latro in the Mist
+    author: Gene Wolfe
+  - title: Soldier of Sidon
+    author: Gene Wolfe
+- name: Wearing the Lion
+  origin: original
+  books:
+  - title: Wearing the Lion
+- name: Tao Wong Cultivation
+  origin: v3
+  books:
+  - title: The First Step
+    author: Tao Wong
+  - title: The First Stop
+    author: Tao Wong
+  - title: The First War
+    author: Tao Wong
+  - title: The Blade That Remains
+    author: Tao Wong
+- name: Soulbound Saga
+  origin: v3
+  books:
+  - title: Emperor's Dragon
+    author: ''
+- name: Here There Be Dragonnes
+  origin: v3
+  books:
+  - title: Here There Be Dragonnes
+    author: Mary Brown

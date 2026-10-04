@@ -1,0 +1,75 @@
+id: far-future-suns
+label: Far-future suns
+parent: dying-earth
+origin: shadow-v3
+definition: Far-future science-fantasy under a dying sun.
+cards:
+- name: The Book of the New Sun
+  origin: v3
+  books:
+  - title: Shadow & Claw
+    author: Gene Wolfe; introduction by Ada Palmer
+  - title: Sword & Citadel
+    author: Gene Wolfe; introduction by Ada Palmer
+  - title: Castleview
+    author: Gene Wolfe
+  - title: The Complete Book of the New Sun
+    author: Gene Wolfe
+- name: The City and the Stars
+  origin: original
+  books:
+  - title: The City and the Stars
+- name: Hothouse
+  origin: original
+  books:
+  - title: Hothouse
+- name: The Night Land
+  origin: original
+  books:
+  - title: The Night Land
+- name: Among the Gray Lords
+  origin: v3
+  books:
+  - title: Among the Gray Lords
+    author: D.J. Butler
+- name: Legends of the Red Sun
+  origin: v3
+  books:
+  - title: Nights of Villjamur
+    author: Mark Charan Newton
+  - title: City of Ruin
+    author: Mark Charan Newton
+- name: Hostile Takeover
+  origin: v3
+  books:
+  - title: Broken Crescent
+    author: S. Andrew Swann
+  - title: Hostile Takeover
+    author: S. Andrew Swann
+  - title: Prophets
+    author: S. Andrew Swann
+  - title: Heretics
+    author: S. Andrew Swann
+  - title: Messiah
+    author: S. Andrew Swann
+- name: Amaranthine Spectrum
+  origin: v3
+  books:
+  - title: The Promise of the Child
+    author: Tom Toner
+  - title: The Tropic of Eternity
+    author: Tom Toner
+  - title: The Weight of the World
+    author: Tom Toner
+- name: Tangled Stars
+  origin: v3
+  books:
+  - title: The Tangled Stars
+    author: Edward Willett
+- name: Book of the Short Sun
+  origin: v3
+  books:
+  - title: On Blue's Waters
+    author: Gene Wolfe
+  - title: In Green's Jungles
+    author: Gene Wolfe

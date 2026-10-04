@@ -1,0 +1,70 @@
+id: taylor-vogt-and-salvagers
+label: Taylor, Van Vogt and salvagers
+parent: patrol-and-picket
+origin: shadow-v3
+definition: Patrols cont.
+cards:
+- name: Taylor Moon Novels
+  origin: v3
+  books:
+  - title: Back to the Moon
+    author: Travis S. Taylor
+  - title: Moon Beam
+    author: Travis S. Taylor
+  - title: Moon Tracks
+    author: Travis S. Taylor
+  - title: Apogee
+    author: Travis S. Taylor
+  - title: Battle Luna
+    author: Travis S. Taylor
+- name: Van Vogt Classics
+  origin: v3
+  books:
+  - title: The War Against the Rull
+    author: A. E. van Vogt
+  - title: The World of Null-A
+    author: A. E. van Vogt
+  - title: The Voyage of the Space Beagle
+    author: A.E. van Vogt
+- name: In Fury Born
+  origin: v3
+  books:
+  - title: In Fury Born
+    author: David Weber
+- name: Gordian Division
+  origin: v3
+  books:
+  - title: The Janus File
+    author: David Weber
+  - title: The Weltall File
+    author: David Weber
+- name: Salvagers
+  origin: v3
+  books:
+  - title: A Bad Deal for the Whole Galaxy
+    author: Alex White
+  - title: A Big Ship at the Edge of the Universe
+    author: Alex White
+  - title: Ardent Violet and the Infinite Eye
+    author: Alex White
+  - title: August Kitko and the Mechas from Space
+    author: Alex White
+  - title: The Worst of All Possible Worlds
+    author: Alex White
+- name: Beyond Enemies
+  origin: v3
+  books:
+  - title: Beyond Enemies
+    author: Marisa Wolf
+- name: Hunter's Run
+  origin: v3
+  books:
+  - title: Hunter's Run
+    author: ''
+- name: Redliners
+  origin: v3
+  books:
+  - title: Redliners
+    author: David Drake
+  - title: Redliners, Second Edition
+    author: David Drake

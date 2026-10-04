@@ -1,0 +1,61 @@
+id: comic-science-and-satire
+label: Comic science and satire
+parent: comic-capers
+origin: shadow-v3
+definition: Comic SF about scientists, kaiju, cats and satire.
+cards:
+- name: CatStronauts
+  origin: v3
+  books:
+  - title: 'CatStronauts: Cosmic Clutter'
+    author: Drew Brockington
+  - title: 'CatStronauts: Digital Disaster'
+    author: Drew Brockington
+  - title: 'CatStronauts: Mission Moon'
+    author: Drew Brockington
+  - title: 'CatStronauts: Module Mayhem'
+    author: Drew Brockington
+  - title: 'CatStronauts: Race to Mars'
+    author: Drew Brockington
+  - title: 'CatStronauts: Robot Rescue'
+    author: Drew Brockington
+  - title: 'CatStronauts: Slapdash Science'
+    author: Drew Brockington
+  - title: 'CatStronauts: Space Station Situation'
+    author: Drew Brockington
+- name: The Kaiju Preservation Society
+  origin: original
+  books:
+  - title: The Kaiju Preservation Society
+- name: Condomnauts
+  origin: original
+  books:
+  - title: Condomnauts
+- name: Fault Tolerance
+  origin: original
+  books:
+  - title: Fault Tolerance
+- name: Rob Grant
+  origin: v3
+  books:
+  - title: Fat
+    author: Rob Grant
+  - title: Incompetence
+    author: Rob Grant
+- name: Colin Harris
+  origin: v3
+  books:
+  - title: Colin Gets Promoted and Dooms the World
+    author: Mark Waddell
+  - title: Messy As Hell
+    author: Mark Waddell
+- name: Bellwether
+  origin: v3
+  books:
+  - title: Bellwether
+    author: Connie Willis
+- name: Go Mutants
+  origin: v3
+  books:
+  - title: Go, Mutants!
+    author: Larry Doyle

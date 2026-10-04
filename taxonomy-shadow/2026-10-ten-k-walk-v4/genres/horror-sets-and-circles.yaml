@@ -1,0 +1,39 @@
+id: horror-sets-and-circles
+label: Horror sets and circles
+parent: demonic-torment
+origin: shadow-v3
+definition: Horror movies, fraternities and infernal circles.
+cards:
+- name: Fraternity
+  origin: original
+  books:
+  - title: Fraternity
+- name: Horror Movie
+  origin: original
+  books:
+  - title: Horror Movie
+- name: How to Make a Horror Movie and Survive
+  origin: original
+  books:
+  - title: How to Make a Horror Movie and Survive
+- name: Noon Onyx
+  origin: v3
+  books:
+  - title: Dark Light of Day
+    author: Jill Archer
+  - title: Fiery Edge of Steel
+    author: Jill Archer
+  - title: White Heart of Justice
+    author: Jill Archer
+- name: Ninth Circle
+  origin: v3
+  books:
+  - title: The Ninth Circle
+    author: Alex Bell
+- name: Lords of Deliverance
+  origin: v3
+  books:
+  - title: Eternal Rider
+    author: Larissa Ione
+  - title: Immortal Rider
+    author: Larissa Ione

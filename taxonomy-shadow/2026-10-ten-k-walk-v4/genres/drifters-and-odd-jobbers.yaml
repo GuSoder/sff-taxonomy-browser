@@ -1,0 +1,78 @@
+id: drifters-and-odd-jobbers
+label: Drifters and odd jobbers
+parent: wanderers-and-fixers
+origin: shadow-v3
+definition: Drifters and odd-job crews.
+cards:
+- name: Strider
+  origin: v3
+  books:
+  - title: Strider's Galaxy
+    author: Book One of the Strider Chronicles
+  - title: Strider's Universe
+    author: Book Two of the Strider Chronicles
+- name: Shadith
+  origin: v3
+  books:
+  - title: Shadowplay
+    author: Jo Clayton
+  - title: Shadowspeer
+    author: Jo Clayton
+  - title: Shadowkill
+    author: Jo Clayton
+- name: And Another Thing
+  origin: v3
+  books:
+  - title: And Another Thing...
+    author: Eoin Colfer
+- name: Grace Curtis
+  origin: v3
+  books:
+  - title: Floating Hotel
+    author: Grace Curtis
+  - title: Heaven's Graveyard
+    author: Grace Curtis
+  - title: Idolfire
+    author: Grace Curtis
+- name: Galactic Pot-Healer
+  origin: v3
+  books:
+  - title: Galactic Pot-Healer
+    author: Philip K Dick
+- name: Frolix 8
+  origin: v3
+  books:
+  - title: Our Friends From Frolix 8
+    author: Philip K Dick
+- name: Dozois novels
+  origin: v3
+  books:
+  - title: Nightmare Blue
+    author: Gardner Dozois
+  - title: Strangers
+    author: Gardner Dozois
+- name: For Every Jack
+  origin: v3
+  books:
+  - title: For Every Jack
+    author: R. K. Duncan
+- name: Jaine Fenn Hidden Sun
+  origin: v3
+  books:
+  - title: Bringer of Light
+    author: Jaine Fenn
+  - title: Consorts of Heaven
+    author: Jaine Fenn
+  - title: Guardians of Paradise
+    author: Jaine Fenn
+  - title: Principles of Angels
+    author: Jaine Fenn
+  - title: Queen of Nowhere
+    author: Jaine Fenn
+- name: Flint and Freer space
+  origin: v3
+  books:
+  - title: Slow Train to Arcturus
+    author: Eric Flint
+  - title: Threshold
+    author: Eric Flint

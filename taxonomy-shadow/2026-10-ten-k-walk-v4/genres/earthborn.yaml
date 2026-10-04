@@ -1,0 +1,40 @@
+id: earthborn
+label: Earthborn
+parent: anthropological-science-fiction
+origin: original
+definition: Anthropological science fiction where the society under the microscope is human or human-descended;
+  the alien element is cultural estrangement. the curator chose the name; Earthborn is attested SF vocabulary
+  for originating on Earth.
+cards:
+- name: Ammonite
+  origin: original
+  books:
+  - title: Ammonite
+- name: Hainish Cycle
+  origin: original
+  books:
+  - title: Rocannon's World
+    author: Ursula K. Le Guin
+  - title: Planet of Exile
+    author: Ursula K. Le Guin
+  - title: City of Illusions
+    author: Ursula K. Le Guin
+  - title: The Left Hand of Darkness
+    author: Ursula K. Le Guin
+  - title: The Word for World Is Forest
+    author: Ursula K. Le Guin
+  - title: The Dispossessed
+    author: Ursula K. Le Guin
+  - title: Four Ways to Forgiveness
+    author: Ursula K. Le Guin
+  - title: The Telling
+    author: Ursula K. Le Guin
+- name: Citizen of the Galaxy
+  origin: original
+  books:
+  - title: Citizen of the Galaxy
+- name: Jaran
+  origin: v3
+  books:
+  - title: Jaran
+    author: Kate Elliott

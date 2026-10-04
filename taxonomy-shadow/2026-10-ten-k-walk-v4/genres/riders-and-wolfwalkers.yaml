@@ -1,0 +1,77 @@
+id: riders-and-wolfwalkers
+label: Riders and wolfwalkers
+parent: heralds-and-companions
+origin: shadow-v3
+definition: Heroes bonded to horses, wolves and other companions.
+cards:
+- name: Rider at the Gate
+  origin: v3
+  books:
+  - title: Clouds Rider
+    author: C.J. Cherryh
+  - title: Rider at the Gate
+    author: C.J. Cherryh
+- name: Seekers Greeno
+  origin: v3
+  books:
+  - title: Finders Seekers
+    author: Gayle Greeno
+  - title: Mindspeakers' Call
+    author: Gayle Greeno
+  - title: Exiles' Return
+    author: Gayle Greeno
+  - title: Mind Snare
+    author: Gayle Greeno
+  - title: Sunderlies Seeking
+    author: Gayle Greeno
+  - title: The Farthest Seeking
+    author: Gayle Greeno
+- name: Hambly Winterlands
+  origin: v3
+  books:
+  - title: Icefalcon's Quest
+    author: Barbara Hambly
+  - title: Mother of Winter
+    author: Barbara Hambly
+  - title: Dragonshadow
+    author: Barbara Hambly
+  - title: Dragonstar
+    author: Barbara Hambly
+  - title: Knight of the Demon Queen
+    author: Barbara Hambly
+  - title: Circle of the Moon
+    author: Barbara Hambly
+  - title: Sisters of the Raven
+    author: Barbara Hambly
+- name: Wolfwalker
+  origin: v3
+  books:
+  - title: Wolfwalker
+    author: Tara K. Harper
+  - title: Wolf's Bane
+    author: Tara K. Harper
+  - title: Wolf in Night
+    author: Tara K. Harper
+  - title: Silver Moons, Black Steel
+    author: Tara K. Harper
+- name: Bardic Voices
+  origin: v3
+  books:
+  - title: The Eagle & the Nightingales
+    author: Mercedes Lackey
+- name: Tales of Tremaine
+  origin: v3
+  books:
+  - title: The First Binding
+    author: R.R. Virdi
+  - title: The Doors of Midnight
+    author: R.R. Virdi
+- name: Angus Wells Fantasies
+  origin: v3
+  books:
+  - title: The Guardian
+    author: Angus Wells
+  - title: Yesterday's Kings
+    author: Angus Wells
+  - title: Lords of the Sky
+    author: Angus Wells

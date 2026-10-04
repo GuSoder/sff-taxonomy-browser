@@ -1,0 +1,24 @@
+id: satanic-torment
+label: Satanic torment
+parent: torment-fantasy
+origin: original
+definition: Torment fantasy centered on Satan, his cults, bargains, offspring or doubles, pursuing and
+  tormenting the main characters.
+cards:
+- name: The Master and Margarita
+  origin: original
+  books:
+  - title: The Master and Margarita
+- name: Rosemary's Baby
+  origin: original
+  books:
+  - title: Rosemary's Baby
+- name: The Private Memoirs and Confessions of a Justified Sinner
+  origin: original
+  books:
+  - title: The Private Memoirs and Confessions of a Justified Sinner
+- name: Jack Sparks
+  origin: v3
+  books:
+  - title: The Last Days of Jack Sparks
+    author: Jason Arnopp

@@ -1,0 +1,54 @@
+id: uploads-and-afterlives
+label: Uploads and afterlives
+parent: remade-minds
+origin: shadow-v3
+definition: 'Minds copied, uploaded or continued in software: digital afterlives and the societies built
+  there.'
+cards:
+- name: Fall
+  origin: original
+  books:
+  - title: Fall
+- name: ' or, Dodge in Hell'
+  origin: original
+  books:
+  - title: ' or, Dodge in Hell'
+- name: Diaspora
+  origin: v3
+  books:
+  - title: Diaspora
+    author: Greg Egan
+- name: Permutation City
+  origin: v3
+  books:
+  - title: Permutation City
+    author: Greg Egan
+- name: Jean le Flambeur
+  origin: v3
+  books:
+  - title: The Quantum Thief
+    author: Hannu Rajaniemi
+  - title: The Fractal Prince
+    author: Hannu Rajaniemi
+  - title: The Causal Angel
+    author: Hannu Rajaniemi
+  - title: The Jean le Flambeur Trilogy
+    author: Hannu Rajaniemi
+- name: Project Hanuman
+  origin: original
+  books:
+  - title: Project Hanuman
+- name: Ballantyne
+  origin: v3
+  books:
+  - title: Capacity
+    author: Tony Ballantyne
+  - title: Recursion
+    author: Tony Ballantyne
+- name: Medusa
+  origin: v3
+  books:
+  - title: Medusa Uploaded
+    author: Emily Devenport
+  - title: Medusa in the Graveyard
+    author: Emily Devenport

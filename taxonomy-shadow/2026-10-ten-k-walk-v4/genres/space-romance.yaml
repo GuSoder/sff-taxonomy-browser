@@ -1,0 +1,69 @@
+id: space-romance
+label: Space romance
+parent: space-soap-opera
+origin: original
+definition: New space opera in which the romantic relationship is the plot's spine, with interstellar
+  societies, travel or conflict shaping who can be together. Adventure and politics supply the stakes
+  rather than displacing the relationship. Created by the curator on 2026-09-30.
+cards:
+- name: The Kindred
+  origin: original
+  books:
+  - title: The Kindred
+- name: These Broken Stars
+  origin: v3
+  books:
+  - title: Their Fractured Light
+    author: Amie Kaufman
+  - title: These Broken Stars
+    author: Amie Kaufman
+  - title: This Shattered World
+    author: Amie Kaufman
+- name: Polaris Rising
+  origin: v3
+  books:
+  - title: Aurora Blazing
+    author: Jessie Mihalik
+  - title: Capture the Sun
+    author: Jessie Mihalik
+  - title: Chaos Reigning
+    author: Jessie Mihalik
+  - title: Eclipse the Moon
+    author: Jessie Mihalik
+  - title: Hunt the Stars
+    author: Jessie Mihalik
+  - title: Polaris Rising
+    author: Jessie Mihalik
+- name: Navigational Entanglements
+  origin: v3
+  books:
+  - title: Navigational Entanglements
+    author: Aliette de Bodard
+- name: Branham
+  origin: v3
+  books:
+  - title: Love Galaxy
+    author: Sierra Branham
+  - title: Nebula Rising
+    author: Sierra Branham
+- name: Invictus
+  origin: v3
+  books:
+  - title: Invictus
+    author: Ryan Graudin
+- name: Defy the Stars
+  origin: v3
+  books:
+  - title: Defy the Fates
+    author: Claudia Gray
+  - title: Defy the Stars
+    author: Claudia Gray
+  - title: Defy the Worlds
+    author: Claudia Gray
+- name: Dearly Departed
+  origin: v3
+  books:
+  - title: 'Dearly, Departed: A Zombie Novel'
+    author: Lia Habel
+  - title: Dearly, Beloved
+    author: Lia Habel

@@ -1,0 +1,49 @@
+id: emperors-and-erebus
+label: Emperors and shadow realms
+parent: crowns-and-realms
+origin: shadow-v3
+definition: Emperors and hidden realms.
+cards:
+- name: Aghamore
+  origin: v3
+  books:
+  - title: The Thirteenth Scroll
+    author: Rebecca Neason
+  - title: The Truest Power
+    author: Rebecca Neason
+- name: Girls of Paper and Fire
+  origin: v3
+  books:
+  - title: Girls of Fate and Fury
+    author: Natasha Ngan
+  - title: Girls of Storm and Shadow
+    author: Natasha Ngan
+- name: Shadow of the Fall
+  origin: v3
+  books:
+  - title: In the Shadow of the Fall
+    author: Tobi Ogundiran
+  - title: At the Fount of Creation
+    author: Tobi Ogundiran
+- name: Roumania
+  origin: v3
+  books:
+  - title: A Princess of Roumania
+    author: Paul Park
+  - title: The Tourmaline
+    author: Paul Park
+  - title: The White Tyger
+    author: Paul Park
+  - title: The Hidden World
+    author: Paul Park
+  - title: Ragnarok
+    author: Paul Park
+- name: Erebus Sequence
+  origin: v3
+  books:
+  - title: The Boy Who Wept Blood
+    author: Den Patrick
+  - title: The Boy with the Porcelain Blade
+    author: Den Patrick
+  - title: The Girl on the Liar's Throne
+    author: Den Patrick

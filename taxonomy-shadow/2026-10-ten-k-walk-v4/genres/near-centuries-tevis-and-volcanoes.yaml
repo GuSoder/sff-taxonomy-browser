@@ -1,0 +1,51 @@
+id: near-centuries-tevis-and-volcanoes
+label: Tevis, volcanoes and Gibbon
+parent: near-centuries
+origin: shadow-v3
+definition: Near futures.
+cards:
+- name: Gibbon's Decline and Fall
+  origin: v3
+  books:
+  - title: Gibbon's Decline and Fall
+    author: Sheri S. Tepper
+- name: Mockingbird Tevis
+  origin: v3
+  books:
+  - title: Mockingbird
+    author: Walter Tevis
+- name: Tevis Fell to Earth
+  origin: v3
+  books:
+  - title: The Man Who Fell to Earth
+    author: Walter Tevis
+  - title: The Steps of the Sun and Far From Home
+    author: Walter Tevis
+- name: Supervolcano
+  origin: v3
+  books:
+  - title: 'Supervolcano: Eruption'
+    author: Harry Turtledove
+  - title: 'Supervolcano: All Fall Down'
+    author: Harry Turtledove
+  - title: 'Supervolcano: Things Fall Apart'
+    author: Harry Turtledove
+- name: Century Next Door
+  origin: v3
+  books:
+  - title: Candle
+    author: John Barnes
+  - title: Kaleidoscope Century
+    author: John Barnes
+- name: HG Wells Novels
+  origin: v3
+  books:
+  - title: The Food of the Gods
+    author: H.G. Wells
+  - title: The Shape Of Things To Come
+    author: H.G. Wells
+- name: Galileo's Dream
+  origin: v3
+  books:
+  - title: Galileo's Dream
+    author: Kim Stanley Robinson

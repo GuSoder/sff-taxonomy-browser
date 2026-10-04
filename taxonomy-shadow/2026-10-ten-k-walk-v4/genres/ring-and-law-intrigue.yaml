@@ -1,0 +1,76 @@
+id: ring-and-law-intrigue
+label: Ring and law intrigue
+parent: court-spies
+origin: shadow-v3
+definition: Court and city intrigue among rings, laws and crowns.
+cards:
+- name: The Harp and Ring Sequence
+  origin: original
+  books:
+  - title: Last Song Before Night
+    author: Ilana C. Myer
+  - title: Fire Dance
+    author: Ilana C. Myer
+  - title: The Poet King
+    author: Ilana C. Myer
+- name: Gloriana, or The Unfulfill'd Queen
+  origin: original
+  books:
+  - title: Gloriana, or The Unfulfill'd Queen
+- name: The First Law Trilogy
+  origin: original
+  books:
+  - title: The Blade Itself
+    author: Joe Abercrombie
+  - title: Before They Are Hanged
+    author: Joe Abercrombie
+  - title: Last Argument of Kings
+    author: Joe Abercrombie
+- name: Rook & Rose Trilogy
+  origin: original
+  books:
+  - title: The Mask of Mirrors
+    author: M. A. Carrick
+  - title: The Liar's Knot
+    author: M. A. Carrick
+  - title: Labyrinth's Heart
+    author: M. A. Carrick
+- name: Bruin (Hawke)
+  origin: v3
+  books:
+  - title: City of Lies
+    author: Sam Hawke
+  - title: Hollow Empire
+    author: Sam Hawke
+- name: Book of Fallen Leaves
+  origin: v3
+  books:
+  - title: The Book of Fallen Leaves
+    author: A. S. Tamaki
+- name: Sun Sword
+  origin: v3
+  books:
+  - title: Sea of Sorrows
+    author: Michelle West
+  - title: The Broken Crown
+    author: Michelle West
+  - title: The Riven Shield
+    author: Michelle West
+  - title: The Shining Court
+    author: Michelle West
+  - title: The Sun Sword
+    author: Michelle West
+  - title: The Uncrowned King
+    author: Michelle West
+- name: Whisper of Stars
+  origin: v3
+  books:
+  - title: The Whisper of Stars
+    author: Cristin Williams
+- name: Edward Cox Fantasies
+  origin: v3
+  books:
+  - title: The Song of the Sycamore
+    author: ''
+  - title: The Wood Bee Queen
+    author: ''

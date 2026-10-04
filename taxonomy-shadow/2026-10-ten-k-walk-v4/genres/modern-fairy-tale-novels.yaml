@@ -1,0 +1,71 @@
+id: modern-fairy-tale-novels
+label: Modern fairy-tale novels
+parent: fairy-tale-retellings
+origin: shadow-v3
+definition: Fairy tales in modern voices.
+cards:
+- name: Rowenna Miller Fey Tales
+  origin: v3
+  books:
+  - title: The Dancer and the Dream Thief
+    author: Rowenna Miller
+  - title: The Fairy Bargains of Prospect Hill
+    author: Rowenna Miller
+  - title: The Palace of Illusions
+    author: Rowenna Miller
+- name: Sanctuary of the White Friars
+  origin: v3
+  books:
+  - title: The Whispering Swarm
+    author: Michael Moorcock
+  - title: The Woods of Arcady
+    author: Michael Moorcock
+  - title: The Wounds of Albion
+    author: Michael Moorcock
+- name: Faerie Handmaid
+  origin: v3
+  books:
+  - title: The Faerie Handmaid
+    author: Louisa Morgan
+  - title: The Faerie Morgana
+    author: Louisa Morgan
+- name: Pinborough Fairy Tales
+  origin: v3
+  books:
+  - title: Magic
+    author: Sarah Pinborough
+- name: Pinborough Tales
+  origin: v3
+  books:
+  - title: The Double-Edged Sword
+    author: Sarah Pinborough
+  - title: The London Stone
+    author: Sarah Pinborough
+  - title: The Traitor's Gate
+    author: Sarah Pinborough
+- name: Van Praag Fairy Tales
+  origin: v3
+  books:
+  - title: The Night of Demons and Saints
+    author: Menna Van Praag
+  - title: The Sisters Grimm
+    author: Menna Van Praag
+- name: Natasha Pulley
+  origin: v3
+  books:
+  - title: The Hymn to Dionysus
+    author: Natasha Pulley
+  - title: The Mars House
+    author: Natasha Pulley
+- name: Kelly Robson
+  origin: v3
+  books:
+  - title: Waters of Versailles
+    author: Kelly Robson
+  - title: High Times in the Low Parliament
+    author: Kelly Robson
+- name: All Men of Genius
+  origin: v3
+  books:
+  - title: All Men of Genius
+    author: Lev AC Rosen

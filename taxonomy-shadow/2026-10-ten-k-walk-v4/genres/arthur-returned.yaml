@@ -1,0 +1,54 @@
+id: arthur-returned
+label: Arthur returned
+parent: arthurian-fantasy
+origin: original
+definition: 'Arthurian fantasy where the old legend returns to a later or contemporary world: the Grail
+  surfaces, descendants inherit its powers, or a legendised Britain bleeds into the present. Split from
+  Arthurian fantasy on the curator''s 2026-09-29 ruling (phonemsg-01M3NVHS8KEANY81ZFSMB9WXHZ ''Execute'').'
+cards:
+- name: A Glastonbury Romance
+  origin: original
+  books:
+  - title: A Glastonbury Romance
+- name: War in Heaven
+  origin: original
+  books:
+  - title: War in Heaven
+    author: Charles Williams
+- name: The Legendborn Cycle
+  origin: original
+  books:
+  - title: Legendborn
+    author: Tracy Deonn
+  - title: Bloodmarked
+    author: Tracy Deonn
+  - title: Oathbound
+    author: Tracy Deonn
+- name: The Isle in the Silver Sea
+  origin: original
+  books:
+  - title: The Isle in the Silver Sea
+- name: Knights of the Cornerstone
+  origin: v3
+  books:
+  - title: The Knights of the Cornerstone
+    author: James P. Blaylock
+- name: Lost Book of Lancelot
+  origin: v3
+  books:
+  - title: The Lost Book of Lancelot
+    author: John Glynn
+- name: Magic Cup
+  origin: v3
+  books:
+  - title: The Magic Cup
+    author: Andrew M. Greeley
+- name: Sangreal Trilogy
+  origin: v3
+  books:
+  - title: The Greenstone Grail
+    author: Amanda Hemingway
+  - title: The Sword of Straw
+    author: Amanda Hemingway
+  - title: The Poisoned Crown
+    author: Amanda Hemingway

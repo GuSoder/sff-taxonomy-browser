@@ -1,0 +1,19 @@
+id: tudorbethan-fantasy
+label: Tudorbethan fantasy
+parent: industrial-age-fantasy
+origin: original
+definition: 'Interwar English fantasy, roughly 1918-1939, in which the social and regional texture of
+  England anchors the fantastic. Magic-agnostic: the era and place define the leaf, not a required supernatural
+  mode.'
+cards:
+- name: Lolly Willowes
+  origin: original
+  books:
+  - title: Lolly Willowes
+- name: Witch Hunter
+  origin: v3
+  books:
+  - title: The King Slayer
+    author: Virginia Boecker
+  - title: The Witch Hunter
+    author: Virginia Boecker

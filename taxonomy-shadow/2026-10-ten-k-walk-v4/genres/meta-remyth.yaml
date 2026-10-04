@@ -1,0 +1,32 @@
+id: meta-remyth
+label: Meta remyth
+parent: books-in-books
+origin: original
+definition: Second-order books-in-books fiction that enters, rewrites or replays inherited texts and cultural
+  stories, making an existing myth live differently.
+cards:
+- name: Lord Grandrith / Doc Caliban
+  origin: original
+  books:
+  - title: A Feast Unknown
+    author: Philip José Farmer
+  - title: Lord of the Trees
+    author: Philip José Farmer
+  - title: The Mad Goblin
+    author: Philip José Farmer
+- name: Ahab's Return; or, The Last Voyage
+  origin: original
+  books:
+  - title: Ahab's Return; or, The Last Voyage
+- name: Engine Summer
+  origin: original
+  books:
+  - title: Engine Summer
+- name: Lavinia
+  origin: original
+  books:
+  - title: Lavinia
+- name: Pride and Prometheus
+  origin: original
+  books:
+  - title: Pride and Prometheus

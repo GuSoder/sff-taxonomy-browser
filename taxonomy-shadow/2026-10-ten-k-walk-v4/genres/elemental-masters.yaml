@@ -1,0 +1,59 @@
+id: elemental-masters
+label: Elemental Masters
+parent: victorian-steam
+origin: shadow-v3
+definition: Magic of the four elements in Victorian and Edwardian retellings.
+cards:
+- name: Elemental Masters
+  origin: v3
+  books:
+  - title: The Fire Rose
+    author: Mercedes Lackey
+  - title: Blood Red
+    author: Mercedes Lackey
+  - title: The Serpent's Shadow
+    author: Mercedes Lackey
+  - title: A Scandal in Battersea
+    author: Mercedes Lackey
+  - title: A Study in Sable
+    author: Mercedes Lackey
+  - title: From a High Tower
+    author: Mercedes Lackey
+  - title: Home From the Sea
+    author: Mercedes Lackey
+  - title: Jolene
+    author: Mercedes Lackey
+  - title: Miss Amelia's List
+    author: Mercedes Lackey
+  - title: Phoenix and Ashes
+    author: Mercedes Lackey
+  - title: Reserved for the Cat
+    author: Mercedes Lackey
+  - title: Steadfast
+    author: Mercedes Lackey
+  - title: The Bartered Brides
+    author: Mercedes Lackey
+  - title: The Case of the Spellbound Child
+    author: Mercedes Lackey
+  - title: The Cyprian
+    author: Mercedes Lackey
+  - title: The Gates of Sleep
+    author: Mercedes Lackey
+  - title: The Silver Bullets of Annie Oakley
+    author: Mercedes Lackey
+  - title: The Wizard of London
+    author: Mercedes Lackey
+  - title: Unnatural Issue
+    author: Mercedes Lackey
+- name: Factory Witches of Lowell
+  origin: v3
+  books:
+  - title: The Factory Witches of Lowell
+    author: C. S. Malerich
+- name: Geomagician
+  origin: v3
+  books:
+  - title: The Geomagician
+    author: Jennifer Mandula
+  - title: The Paleomancer
+    author: Jennifer Mandula

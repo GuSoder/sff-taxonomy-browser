@@ -1,0 +1,67 @@
+id: dying-earth-fantasy
+label: Dying-earth fantasy
+parent: dying-earth
+origin: shadow-v3
+definition: Vancian and ornate dying-earth fantasy.
+cards:
+- name: The Dying Earth
+  origin: original
+  books:
+  - title: The Dying Earth
+    author: Jack Vance
+  - title: The Eyes of the Overworld
+    author: Jack Vance
+  - title: Cugel's Saga
+    author: Jack Vance
+  - title: Rhialto the Marvellous
+    author: Jack Vance
+- name: Viriconium
+  origin: original
+  books:
+  - title: The Pastel City
+    author: M. John Harrison
+  - title: A Storm of Wings
+    author: M. John Harrison
+  - title: In Viriconium
+    author: M. John Harrison
+  - title: Viriconium Nights
+    author: M. John Harrison
+- name: Mordew
+  origin: original
+  books:
+  - title: Mordew
+    author: Alex Pheby
+  - title: Malarkoi
+    author: Alex Pheby
+  - title: Waterblack
+    author: Alex Pheby
+- name: Zothique
+  origin: original
+  books:
+  - title: Zothique
+    author: Clark Ashton Smith
+- name: Books of the Wars
+  origin: v3
+  books:
+  - title: The Books of the Wars
+    author: Mark Geston
+- name: Relic Guild
+  origin: v3
+  books:
+  - title: The Cathedral of Known Things
+    author: The Relic Guild
+  - title: The Relic Guild
+    author: The Relic Guild
+  - title: The Watcher of Dead Time
+    author: The Relic Guild
+- name: Flat Earth
+  origin: v3
+  books:
+  - title: Death's Master
+    author: Tanith Lee
+  - title: Delirium's Mistress
+    author: Tanith Lee
+  - title: Delusion's Master
+    author: Tanith Lee
+  - title: Night's Master
+    author: Tanith Lee

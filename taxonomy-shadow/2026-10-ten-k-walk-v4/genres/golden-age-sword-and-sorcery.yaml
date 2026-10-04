@@ -1,0 +1,17 @@
+id: golden-age-sword-and-sorcery
+label: Golden age S&S
+parent: pulp-sword-and-sorcery
+origin: original
+definition: The older pulp Sword and Sorcery wave and its direct late-century continuation, from Fafhrd
+  and the Gray Mouser through The Black Company.
+cards:
+- name: Conan (de Camp)
+  origin: v3
+  books:
+  - title: Conan and the Spider God
+    author: L Sprague de Camp
+- name: The Reluctant King
+  origin: v3
+  books:
+  - title: The Reluctant King
+    author: L. Sprague de Camp

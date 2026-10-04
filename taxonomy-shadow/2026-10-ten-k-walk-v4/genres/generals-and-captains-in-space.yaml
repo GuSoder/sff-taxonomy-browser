@@ -1,0 +1,89 @@
+id: generals-and-captains-in-space
+label: Generals and captains in space
+parent: fleet-wars
+origin: shadow-v3
+definition: Generals and naval captains in space-opera wars.
+cards:
+- name: Mageworlds
+  origin: v3
+  books:
+  - title: The Price of the Stars
+    author: Debra Doyle
+  - title: Starpilot's Grave
+    author: Debra Doyle
+  - title: By Honor Betray'd
+    author: Debra Doyle
+  - title: The Gathering Flame
+    author: Debra Doyle
+  - title: A Working of Stars
+    author: Debra Doyle
+  - title: The Stars Asunder
+    author: Debra Doyle
+- name: Raj Whitehall / General
+  origin: v3
+  books:
+  - title: Conqueror
+    author: David Drake
+  - title: Warlord
+    author: David Drake
+  - title: An Honorable Defense
+    author: David Drake
+  - title: Cluster Command
+    author: David Drake
+  - title: Hope Reborn
+    author: David Drake
+  - title: Hope Reformed
+    author: David Drake
+  - title: Hope Renewed
+    author: David Drake
+  - title: The Forlorn Hope
+    author: David Drake
+- name: RCN series
+  origin: v3
+  books:
+  - title: The Reaches
+    author: David Drake
+  - title: The Way to Glory
+    author: David Drake
+  - title: The War Machine
+    author: David Drake
+  - title: With the Lightnings, Second Edition
+    author: David Drake
+- name: Interstellar Defense League
+  origin: v3
+  books:
+  - title: Face of the Enemy
+    author: Richard Fawkes
+  - title: Nature of the Beast
+    author: Richard Fawkes
+- name: Caine Riordan
+  origin: v3
+  books:
+  - title: Mission Critical
+    author: Charles E. Gannon
+  - title: Homefront
+    author: Charles E. Gannon
+  - title: Fire with Fire, Third Edition
+    author: ''
+- name: Spider Trilogy
+  origin: v3
+  books:
+  - title: The Way of Spider
+    author: W. Michael Gear
+  - title: The Web of Spider
+    author: W. Michael Gear
+  - title: The Warriors of Spider
+    author: W. Michael Gear
+- name: Gear space opera
+  origin: v3
+  books:
+  - title: Starstrike
+    author: W. Michael Gear
+  - title: The Artifact
+    author: W. Michael Gear
+  - title: Requiem for the Conqueror
+    author: W. Michael Gear
+  - title: Relic of Empire
+    author: W. Michael Gear
+  - title: Countermeasures
+    author: W. Michael Gear

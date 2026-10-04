@@ -1,0 +1,78 @@
+id: champions-and-gamesters
+label: Champions and gamesters
+parent: thieves-and-rogues
+origin: shadow-v3
+definition: Rogues, champions, gamesters.
+cards:
+- name: Zaria and Kane
+  origin: v3
+  books:
+  - title: To Deal with Kings
+    author: M.K. Lobb
+  - title: To Steal from Thieves
+    author: M.K. Lobb
+- name: Shadow Warrior
+  origin: v3
+  books:
+  - title: The Undead Hordes of Kan-Gul
+    author: Jon F. Merz
+  - title: Slavers of the Savage Catacombs
+    author: Jon F. Merz
+- name: Eternal Champion
+  origin: v3
+  books:
+  - title: The Eternal Champion (The Eternal Champion Sequence 1)
+    author: Michael Moorcock
+  - title: 'Hawkmoon: Count Brass'
+    author: Michael Moorcock
+  - title: 'Hawkmoon: The History of the Runestaff'
+    author: Michael Moorcock
+  - title: The Citadel of Forgotten Myths
+    author: Michael Moorcock
+  - title: The War Amongst the Angels
+    author: Michael Moorcock
+- name: Industrial Magic Gaslamp
+  origin: v3
+  books:
+  - title: Brother's Ruin
+    author: Emma Newman
+  - title: Weaver's Lament
+    author: Emma Newman
+- name: Gameshouse
+  origin: v3
+  books:
+  - title: The Gameshouse
+    author: Claire North
+  - title: The Pursuit of William Abbey
+    author: Claire North
+- name: Shadow Prowler
+  origin: v3
+  books:
+  - title: Shadow Prowler
+    author: Alexey Pehov
+  - title: A Pehov Duet
+    author: Alexey Pehov
+- name: Pevel Knight
+  origin: v3
+  books:
+  - title: The Knight
+    author: Pierre Pevel
+- name: Sarah Jane Beauhall
+  origin: v3
+  books:
+  - title: Black Blade Blues
+    author: J. A. Pitts
+  - title: Honeyed Words
+    author: J. A. Pitts
+  - title: Forged in Fire
+    author: John A. Pitts
+- name: Jonesy Flux
+  origin: v3
+  books:
+  - title: Jonesy Flux and the Gray Legion
+    author: James Pray
+- name: Devil's Gun
+  origin: v3
+  books:
+  - title: Devil's Gun
+    author: Cat Rambo

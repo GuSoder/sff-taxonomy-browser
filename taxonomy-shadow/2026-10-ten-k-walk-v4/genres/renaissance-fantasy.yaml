@@ -1,0 +1,52 @@
+id: renaissance-fantasy
+label: Renaissance fantasy
+parent: antique-times-fantasy
+origin: original
+definition: Fantasy anchored to Renaissance history, culture and personalities.
+cards:
+- name: The Drawing of the Dark
+  origin: original
+  books:
+  - title: The Drawing of the Dark
+- name: Ariosto
+  origin: original
+  books:
+  - title: Ariosto
+- name: Black Magic
+  origin: original
+  books:
+  - title: Black Magic
+- name: Lent
+  origin: original
+  books:
+  - title: Lent
+- name: Flint and Mirror
+  origin: original
+  books:
+  - title: Flint and Mirror
+- name: That Self-Same Metal
+  origin: original
+  books:
+  - title: That Self-Same Metal
+- name: The Familiar
+  origin: original
+  books:
+  - title: The Familiar
+- name: The Wax Child
+  origin: original
+  books:
+  - title: The Wax Child
+- name: Assassini
+  origin: v3
+  books:
+  - title: The Exiled Blade
+    author: Jon Courtenay Grimwood
+  - title: The Fallen Blade
+    author: Jon Courtenay Grimwood
+  - title: The Outcast Blade
+    author: Jon Courtenay Grimwood
+- name: By Slanderous Tongues
+  origin: v3
+  books:
+  - title: By Slanderous Tongues
+    author: Mercedes Lackey and

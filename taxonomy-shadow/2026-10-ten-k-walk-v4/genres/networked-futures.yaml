@@ -1,0 +1,65 @@
+id: networked-futures
+label: Networked futures
+parent: post-society
+origin: shadow-v3
+definition: Near and mid-future societies reshaped by networks, nanotech and global systems.
+cards:
+- name: The Diamond Age
+  origin: original
+  books:
+  - title: The Diamond Age
+- name: The Dervish House
+  origin: original
+  books:
+  - title: The Dervish House
+- name: Air (Or, Have Not Have)
+  origin: original
+  books:
+  - title: Air (Or, Have Not Have)
+- name: CatNet
+  origin: original
+  books:
+  - title: Catfishing on CatNet
+    author: Naomi Kritzer
+  - title: Chaos on CatNet
+    author: Naomi Kritzer
+- name: Waste Tide
+  origin: original
+  books:
+  - title: Waste Tide
+    author: Chen Qiufan
+- name: Little Eyes
+  origin: original
+  books:
+  - title: Little Eyes
+- name: John Van Stry SF
+  origin: v3
+  books:
+  - title: Sometimes in the Fall
+    author: John Van Stry
+  - title: 'Days of Future Past, Part 1: Past Tense'
+    author: John Van Stry
+  - title: Summer's End
+    author: John Van Stry
+  - title: 'Days of Future Past, Part 2: Present Tense'
+    author: ''
+  - title: 'Days of Future Past, Part 3: Future Tense'
+    author: ''
+- name: The Infinite State
+  origin: v3
+  books:
+  - title: The Infinite State
+    author: Richard Swan
+- name: Robert Charles Wilson SF
+  origin: v3
+  books:
+  - title: Blind Lake
+    author: Robert Charles Wilson
+  - title: Bios
+    author: Robert Charles Wilson
+  - title: Mysterium
+    author: Robert Charles Wilson
+  - title: Burning Paradise
+    author: Robert Charles Wilson
+  - title: The Affinities
+    author: Robert Charles Wilson

@@ -1,0 +1,71 @@
+id: living-among-the-dead
+label: Living Among the Dead
+parent: zombie-apocalypse
+origin: shadow-v3
+definition: Zombie fiction set years after the fall, when the survivors have built a society.
+cards:
+- name: Newsflesh
+  origin: v3
+  books:
+  - title: Blackout
+    author: Mira Grant
+  - title: Coming to You Live
+    author: Mira Grant
+  - title: Countdown
+    author: Mira Grant
+  - title: Deadline
+    author: Mira Grant
+  - title: Feed
+    author: Mira Grant
+  - title: Feedback
+    author: Mira Grant
+  - title: Rise
+    author: Mira Grant
+  - title: The Rising
+    author: Mira Grant
+- name: The Girl With All the Gifts
+  origin: v3
+  books:
+  - title: The Boy on the Bridge
+    author: M. R. Carey
+  - title: 'The Boy on the Bridge: Booktrack Edition'
+    author: M. R. Carey
+  - title: The Girl With All the Gifts
+    author: M. R. Carey
+  - title: 'The Girl With All the Gifts: Booktrack Edition'
+    author: M. R. Carey
+- name: Brains (Becker)
+  origin: v3
+  books:
+  - title: Brains
+    author: Robin Becker
+- name: Forest of Hands and Teeth
+  origin: v3
+  books:
+  - title: The Dark and Hollow Places
+    author: Carrie Ryan
+  - title: The Dead-Tossed Waves
+    author: Carrie Ryan
+  - title: The Forest of Hands and Teeth
+    author: Carrie Ryan
+- name: State of Decay
+  origin: v3
+  books:
+  - title: State of Decay
+    author: James Knapp
+  - title: The Silent Army
+    author: James Knapp
+  - title: Element Zero
+    author: James Knapp
+- name: Gate to Womens Country
+  origin: v3
+  books:
+  - title: The Gate to Women's Country
+    author: Sheri S. Tepper
+- name: Dust Turner
+  origin: v3
+  books:
+  - title: Dust
+    author: Joan Frances Turner
+  - title: Frail
+    author: Joan Frances Turner

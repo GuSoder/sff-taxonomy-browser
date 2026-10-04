@@ -1,0 +1,50 @@
+id: gentleman-and-guild-thieves
+label: Gentleman and guild thieves
+parent: city-thieves
+origin: shadow-v3
+definition: Guild thieves.
+cards:
+- name: The Gentleman Bastard Sequence
+  origin: original
+  books:
+  - title: The Lies of Locke Lamora
+    author: Scott Lynch
+  - title: Red Seas Under Red Skies
+    author: Scott Lynch
+  - title: The Republic of Thieves
+    author: Scott Lynch
+- name: Thieves' World novels (Abbey)
+  origin: v3
+  books:
+  - title: Sanctuary
+    author: Lynn Abbey
+  - title: Rifkind's Challenge
+    author: Lynn Abbey
+- name: Illusion of Thieves
+  origin: v3
+  books:
+  - title: An Illusion of Thieves
+    author: Cate Glass
+  - title: A Conjuring of Assassins
+    author: Cate Glass
+  - title: A Summoning of Demons
+    author: Cate Glass
+- name: Blacktongue
+  origin: original
+  books:
+  - title: The Blacktongue Thief
+    author: Christopher Buehlman
+  - title: The Daughters' War
+    author: Christopher Buehlman
+- name: Clockwork Fairies
+  origin: v3
+  books:
+  - title: Clockwork Fairies
+    author: Cat Rambo
+- name: Jamie Schultz Heist Magic
+  origin: v3
+  books:
+  - title: Premonitions
+    author: Jamie Schultz
+  - title: Splintered
+    author: Jamie Schultz

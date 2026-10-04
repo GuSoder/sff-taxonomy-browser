@@ -1,0 +1,60 @@
+id: vampire-pasts
+label: Vampire Pasts
+parent: vampire-worlds
+origin: shadow-v3
+definition: Vampire fantasy set in earlier eras.
+cards:
+- name: Anno Dracula
+  origin: original
+  books:
+  - title: Anno Dracula
+    author: Kim Newman
+  - title: The Bloody Red Baron
+    author: Kim Newman
+  - title: Dracula Cha Cha Cha
+    author: Kim Newman
+  - title: Johnny Alucard
+    author: Kim Newman
+  - title: One Thousand Monsters
+    author: Kim Newman
+  - title: 'Anno Dracula 1999: Daikaiju'
+    author: Kim Newman
+- name: Fevre Dream
+  origin: v3
+  books:
+  - title: Fevre Dream
+    author: George R.R. Martin
+- name: Vampire Babylon
+  origin: v3
+  books:
+  - title: Night Rising
+    author: Chris Marie Green
+  - title: Break of Dawn
+    author: Chris Marie Green
+  - title: Midnight Reign
+    author: Chris Marie Green
+  - title: The Path of Razors
+    author: Chris Marie Green
+  - title: A Drop of Red
+    author: Chris Marie Green
+  - title: Deep in the Woods
+    author: Chris Marie Green
+- name: His Father's Son
+  origin: v3
+  books:
+  - title: His Father's Son
+    author: Nigel Bennett
+- name: Wolfbreed
+  origin: v3
+  books:
+  - title: Wolfbreed
+    author: S. A. Swann
+  - title: Wolf's Cross
+    author: S. A. Swann
+- name: Woon Dark Academy
+  origin: v3
+  books:
+  - title: Life Eternal
+    author: Yvonne Woon
+  - title: Love Reborn
+    author: Yvonne Woon

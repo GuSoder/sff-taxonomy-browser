@@ -1,0 +1,83 @@
+id: war-across-worlds
+label: War Across Worlds
+parent: multiverse-war
+origin: shadow-v3
+definition: Parallel-world fiction where armies or powers fight across the worlds.
+cards:
+- name: Destroyermen
+  origin: v3
+  books:
+  - title: Crusade
+    author: Taylor Anderson
+  - title: Into the Storm
+    author: Taylor Anderson
+  - title: Maelstrom
+    author: Taylor Anderson
+  - title: Distant Thunders
+    author: Taylor Anderson
+  - title: Rising Tides
+    author: Taylor Anderson
+  - title: Firestorm
+    author: Taylor Anderson
+  - title: Iron Gray Sea
+    author: Taylor Anderson
+  - title: Storm Surge
+    author: Taylor Anderson
+  - title: Deadly Shores
+    author: Taylor Anderson
+  - title: Straits of Hell
+    author: Taylor Anderson
+  - title: Blood In the Water
+    author: Taylor Anderson
+  - title: Devil's Due
+    author: Taylor Anderson
+  - title: River of Bones
+    author: Taylor Anderson
+  - title: Pass of Fire
+    author: Taylor Anderson
+  - title: Winds of Wrath
+    author: Taylor Anderson
+  - title: Hell's March
+    author: Taylor Anderson
+  - title: Purgatory's Shore
+    author: Taylor Anderson
+  - title: Devil's Battle
+    author: Taylor Anderson
+  - title: Fleet of Ghosts
+    author: Taylor Anderson
+  - title: Inferno's Shadow
+    author: Taylor Anderson
+- name: The Book of All Hours
+  origin: v3
+  books:
+  - title: Vellum
+    author: Hal Duncan
+  - title: Ink
+    author: Hal Duncan
+- name: Echo of Worlds
+  origin: original
+  books:
+  - title: Echo of Worlds
+- name: Infinity Gate
+  origin: original
+  books:
+  - title: Infinity Gate
+- name: Prison of Sleep
+  origin: original
+  books:
+  - title: Prison of Sleep
+- name: Cold War (Spider War)
+  origin: v3
+  books:
+  - title: Cold War
+    author: Adam Christopher
+- name: Puppet Master
+  origin: v3
+  books:
+  - title: The Puppet Master
+    author: John Dalmas
+- name: Two-Space
+  origin: v3
+  books:
+  - title: The Guns of Two-Space
+    author: Dave Grossman

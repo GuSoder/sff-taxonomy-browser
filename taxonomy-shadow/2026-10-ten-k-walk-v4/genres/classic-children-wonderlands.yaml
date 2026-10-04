@@ -1,0 +1,105 @@
+id: classic-children-wonderlands
+label: Classic wonderlands
+parent: classic-wonderlands
+origin: shadow-v3
+definition: Classic children's wonderlands.
+cards:
+- name: Alice in Wonderland
+  origin: original
+  books:
+  - title: Alice's Adventures in Wonderland
+    author: Lewis Carroll
+  - title: Through the Looking-Glass
+    author: Lewis Carroll
+- name: The Chronicles of Narnia
+  origin: original
+  books:
+  - title: The Lion, the Witch and the Wardrobe
+    author: C. S. Lewis
+  - title: Prince Caspian
+    author: C. S. Lewis
+  - title: The Voyage of the Dawn Treader
+    author: C. S. Lewis
+  - title: The Silver Chair
+    author: C. S. Lewis
+  - title: The Horse and His Boy
+    author: C. S. Lewis
+  - title: The Magician's Nephew
+    author: C. S. Lewis
+  - title: The Last Battle
+    author: C. S. Lewis
+- name: Oz
+  origin: v3
+  books:
+  - title: Land of Oz
+    author: L. Frank Baum
+  - title: The Wizard of Oz
+    author: L. Frank Baum
+  - title: Giant Horse of Oz
+    author: Ruth Plumly Thompson
+  - title: Grampa in Oz
+    author: Ruth Plumly Thompson
+  - title: Hungry Tiger of Oz
+    author: Ruth Plumly Thompson
+  - title: Jack Pumpkinhead of Oz
+    author: Ruth Plumly Thompson
+  - title: Kabumpo in Oz
+    author: Ruth Plumly Thompson
+  - title: Lost King of Oz (Wonderful Oz Books, No 19)
+    author: Ruth Plumly Thompson
+  - title: The Cowardly Lion of Oz
+    author: Ruth Plumly Thompson
+  - title: The Gnome King of Oz
+    author: Ruth Plumly Thompson
+  - title: Ojo in Oz (Wonderful Oz Books, No 27)
+    author: Ruth Plumly Thompson
+  - title: Pirates in Oz (Wonderful Oz Books, No 25)
+    author: Ruth Plumly Thompson
+  - title: Purple Prince of Oz (The Wonderful Oz Books, No 26)
+    author: Ruth Plumly Thompson
+  - title: Speedy in Oz (Wonderful Oz Books, No 28)
+    author: Ruth Plumly Thompson
+  - title: The Wishing Horse of Oz (Wonderful Oz Bookz, No 29)
+    author: Ruth Plumly Thompson
+  - title: Yellow Knight of Oz (Wonderful Oz Book, No 24)
+    author: Ruth Plumly Thompson
+- name: Peter Pan
+  origin: original
+  books:
+  - title: Peter Pan
+- name: The Phantom Tollbooth
+  origin: original
+  books:
+  - title: The Phantom Tollbooth
+- name: Landover
+  origin: v3
+  books:
+  - title: Magic Kingdom for Sale--Sold!
+    author: Terry Brooks
+  - title: Black Unicorn
+    author: Terry Brooks
+  - title: Wizard at Large
+    author: Terry Brooks
+  - title: Tangle Box
+    author: Terry Brooks
+  - title: Witches' Brew
+    author: Terry Brooks
+  - title: A Princess of Landover
+    author: Terry Brooks
+- name: Wizard of Karres
+  origin: v3
+  books:
+  - title: The Wizard of Karres
+    author: Mercedes Lackey
+- name: Gama Ray Martinez
+  origin: v3
+  books:
+  - title: God of Neverland
+    author: Gama Ray Martinez
+  - title: Queens of Wonderland
+    author: Gama Ray Martinez
+- name: Inventors at No. 8
+  origin: v3
+  books:
+  - title: The Inventors at No. 8
+    author: A. M. Morgen

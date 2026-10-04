@@ -1,0 +1,46 @@
+id: monsters-and-curses
+label: Monsters and curses
+parent: dark-horror-hauntings
+origin: shadow-v3
+definition: Cursed figures, monsters and hunters.
+cards:
+- name: Melmoth
+  origin: original
+  books:
+  - title: Melmoth
+- name: Motherthing
+  origin: original
+  books:
+  - title: Motherthing
+- name: The Executioners Three
+  origin: original
+  books:
+  - title: The Executioners Three
+- name: Sarah Maria Griffin
+  origin: v3
+  books:
+  - title: Eat the Ones You Love
+    author: Sarah Maria Griffin
+  - title: Strange Is the Light
+    author: Sarah Maria Griffin
+- name: Hirshberg
+  origin: v3
+  books:
+  - title: Freedom is Space for the Spirit
+    author: Glen Hirshberg
+  - title: Good Girls
+    author: Glen Hirshberg
+  - title: Black Leg
+    author: Glen Hirshberg
+- name: Kendley
+  origin: v3
+  books:
+  - title: The Devouring God
+    author: James Kendley
+  - title: The Drowning God
+    author: James Kendley
+- name: Lycanthia
+  origin: v3
+  books:
+  - title: Lycanthia
+    author: Tanith Lee

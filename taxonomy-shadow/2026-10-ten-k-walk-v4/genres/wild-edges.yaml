@@ -1,0 +1,18 @@
+id: wild-edges
+label: Wild Edges
+parent: monsters-in-gaslight
+origin: shadow-v3
+definition: Gaslight-era creature fantasy at sea and in the wastes beyond the gas lamps.
+cards:
+- name: The Deep
+  origin: original
+  books:
+  - title: The Deep
+- name: The Cautious Traveller's Guide to the Wastelands
+  origin: original
+  books:
+  - title: The Cautious Traveller's Guide to the Wastelands
+- name: North Sun, or the Voyage of the Whaleship Esther
+  origin: original
+  books:
+  - title: North Sun, or the Voyage of the Whaleship Esther

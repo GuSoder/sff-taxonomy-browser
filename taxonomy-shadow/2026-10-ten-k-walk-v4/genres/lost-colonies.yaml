@@ -1,0 +1,79 @@
+id: lost-colonies
+label: Lost colonies
+parent: settled-other-stars
+origin: shadow-v3
+definition: Colonies cut off or forgotten.
+cards:
+- name: Songs of Distant Earth
+  origin: v3
+  books:
+  - title: Songs of Distant Earth
+    author: Arthur C. Clarke
+- name: Planetfall
+  origin: original
+  books:
+  - title: Planetfall
+    author: Emma Newman
+  - title: After Atlas
+    author: Emma Newman
+  - title: Before Mars
+    author: Emma Newman
+  - title: Atlas Alone
+    author: Emma Newman
+- name: Castaway Planet
+  origin: v3
+  books:
+  - title: Castaway Planet
+    author: Eric Flint
+  - title: Castaway Odyssey
+    author: Eric Flint
+  - title: Castaway Resolution
+    author: Eric Flint
+- name: Undertow
+  origin: v3
+  books:
+  - title: Undertow
+    author: Elizabeth Bear
+- name: Treason
+  origin: v3
+  books:
+  - title: Treason
+    author: Orson Scott Card
+- name: Orpheus
+  origin: v3
+  books:
+  - title: Orpheus
+    author: M. R. Carey
+- name: Dragon's Eye
+  origin: v3
+  books:
+  - title: The Dragon's Eye
+    author: Joel Champetier
+- name: Donovan
+  origin: v3
+  books:
+  - title: Outpost
+    author: W. Michael Gear
+  - title: Abandoned
+    author: W. Michael Gear
+  - title: Pariah
+    author: W. Michael Gear
+  - title: Unreconciled
+    author: W. Michael Gear
+  - title: The Alpha Enigma
+    author: W. Michael Gear
+  - title: Adrift
+    author: W. Michael Gear
+  - title: Implacable Alpha
+    author: W. Michael Gear
+  - title: Reckoning
+    author: W. Michael Gear
+- name: Homeworld trilogy
+  origin: v3
+  books:
+  - title: Homeworld
+    author: Harry Harrison
+  - title: Starworld
+    author: Harry Harrison
+  - title: Wheelworld
+    author: Harry Harrison

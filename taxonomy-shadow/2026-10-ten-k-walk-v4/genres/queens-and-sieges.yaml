@@ -1,0 +1,85 @@
+id: queens-and-sieges
+label: Queens and sieges
+parent: thrones-under-threat
+origin: shadow-v3
+definition: Rulers held under siege or attack.
+cards:
+- name: The Siege
+  origin: original
+  books:
+  - title: Sixteen Ways to Defend a Walled City
+    author: K. J. Parker
+  - title: How to Rule an Empire and Get Away with It
+    author: K. J. Parker
+  - title: A Practical Guide to Conquering the World
+    author: K. J. Parker
+- name: The Lotus Kingdoms
+  origin: original
+  books:
+  - title: The Stone in the Skull
+    author: Elizabeth Bear
+  - title: The Red-Stained Wings
+    author: Elizabeth Bear
+  - title: The Origin of Storms
+    author: Elizabeth Bear
+- name: The Shattered Sea
+  origin: v3
+  books:
+  - title: Half a King
+    author: Joe Abercrombie
+  - title: Half the World
+    author: Joe Abercrombie
+  - title: Half a War
+    author: Joe Abercrombie
+- name: Queens of Renthia
+  origin: v3
+  books:
+  - title: The Queen of Blood
+    author: Sarah Beth Durst
+  - title: The Queen of Sorrow
+    author: Sarah Beth Durst
+  - title: The Queens of Renthia Trilogy
+    author: Sarah Beth Durst
+  - title: The Reluctant Queen
+    author: Sarah Beth Durst
+- name: Dragonlord
+  origin: v3
+  books:
+  - title: The Last Dragonlord
+    author: Joanne Bertin
+  - title: Dragon and Phoenix
+    author: Joanne Bertin
+  - title: Bard's Oath
+    author: Joanne Bertin
+- name: Deepest Blue Renthia
+  origin: v3
+  books:
+  - title: The Deepest Blue
+    author: Sarah Beth Durst
+- name: Daughters of Izdihar
+  origin: v3
+  books:
+  - title: The Daughters of Izdihar
+    author: Hadeer Elsbai
+  - title: The Weavers of Alamaxa
+    author: Hadeer Elsbai
+- name: Cloudmages
+  origin: v3
+  books:
+  - title: Holder of Lightning
+    author: S. L. Farrell
+  - title: Mage of Clouds
+    author: S. L. Farrell
+  - title: Heir of Stone
+    author: S. L. Farrell
+- name: Queens of Innis Lear
+  origin: v3
+  books:
+  - title: The Queens of Innis Lear
+    author: Tessa Gratton
+  - title: Lady Hotspur
+    author: Tessa Gratton
+  - title: The Mercy Makers
+    author: Tessa Gratton
+  - title: The Shape of Monsters
+    author: Tessa Gratton

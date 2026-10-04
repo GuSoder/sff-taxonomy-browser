@@ -1,0 +1,82 @@
+id: city-guilds-and-gangs
+label: City guilds, gangs and monsters
+parent: big-city-underworlds
+origin: shadow-v3
+definition: Gangs, monsters and city guards.
+cards:
+- name: Shambling Guide
+  origin: v3
+  books:
+  - title: Ghost Train to New Orleans
+    author: Mur Lafferty
+  - title: The Shambling Guide to New York City
+    author: Mur Lafferty
+- name: Lazellari Guardians of Aandor
+  origin: v3
+  books:
+  - title: Awakenings
+    author: Edward Lazellari
+  - title: The Lost Prince
+    author: Edward Lazellari
+  - title: Blood of Ten Kings
+    author: Edward Lazellari
+- name: Red City
+  origin: v3
+  books:
+  - title: Red City
+    author: Marie Lu
+- name: King Rat
+  origin: v3
+  books:
+  - title: King Rat
+    author: China Mieville; introduction by Tim Maughan
+  - title: King Rat
+    author: China Mieville
+- name: Priest of Bones
+  origin: v3
+  books:
+  - title: Priest of Bones
+    author: Peter McLean
+- name: Priest of Lies
+  origin: v3
+  books:
+  - title: Priest of Lies
+    author: Peter McLean
+- name: Ghosts of Columbia
+  origin: v3
+  books:
+  - title: Ghosts of Columbia
+    author: L. E. Modesitt
+- name: Cal Leandros
+  origin: v3
+  books:
+  - title: Nightlife
+    author: Rob Thurman
+  - title: Moonshine
+    author: Rob Thurman
+  - title: Madhouse
+    author: Rob Thurman
+  - title: Deathwish
+    author: Rob Thurman
+  - title: Roadkill
+    author: Rob Thurman
+  - title: Blackout
+    author: Rob Thurman
+  - title: Doubletake
+    author: Rob Thurman
+  - title: Slashback
+    author: Rob Thurman
+  - title: Downfall
+    author: Rob Thurman
+  - title: Nevermore
+    author: Rob Thurman
+- name: City on Fire Williams
+  origin: v3
+  books:
+  - title: City on Fire
+    author: Walter Jon Williams
+- name: Everything Box
+  origin: v3
+  books:
+  - title: The Everything Box
+    author: Richard Kadrey

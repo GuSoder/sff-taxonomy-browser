@@ -1,0 +1,94 @@
+id: carrier-and-line-fleets
+label: Carrier and line fleets
+parent: fleet-wars
+origin: shadow-v3
+definition: Fleet battles with carriers and battle lines.
+cards:
+- name: Jay Allan military SF
+  origin: v3
+  books:
+  - title: Enemy in the Dark
+    author: Jay Allan
+  - title: Flames of Rebellion
+    author: Jay Allan
+  - title: Funeral Games
+    author: Jay Allan
+  - title: Shadow of Empire
+    author: Jay Allan
+- name: Star Carrier
+  origin: v3
+  books:
+  - title: Abyss Deep
+    author: Ian Douglas
+  - title: Center of Gravity
+    author: Ian Douglas
+  - title: Dark Matter
+    author: Ian Douglas
+  - title: Darkness Falling
+    author: Ian Douglas
+  - title: Deep Space
+    author: Ian Douglas
+  - title: Deep Time
+    author: Ian Douglas
+  - title: Earth Strike
+    author: Ian Douglas
+  - title: Singularity
+    author: Ian Douglas
+- name: The Cruel Stars
+  origin: v3
+  books:
+  - title: The Cruel Stars
+    author: John Birmingham
+  - title: The Shattered Skies
+    author: John Birmingham
+  - title: The Forever Dead
+    author: John Birmingham
+- name: Trinity (Bara)
+  origin: v3
+  books:
+  - title: Trinity's Children
+    author: Dave Bara
+  - title: Trinity
+    author: David Bara
+- name: Central Corps (Bonesteel)
+  origin: v3
+  books:
+  - title: Breach of Containment
+    author: Elizabeth Bonesteel
+  - title: Remnants of Trust
+    author: Elizabeth Bonesteel
+  - title: The Cold Between
+    author: Elizabeth Bonesteel
+- name: Wing Commander
+  origin: v3
+  books:
+  - title: 'Wing Commander: Action Stations'
+    author: William R. Forstchen
+  - title: 'Wing Commander: Fleet Action'
+    author: William R. Forstchen
+  - title: 'Wing Commander: Heart of the Tiger'
+    author: William R. Forstchen
+  - title: 'Wing Commander: The Price of Freedom'
+    author: William R. Forstchen
+  - title: 'Wing Commander: False Colors'
+    author: William R. Forstchen
+  - title: 'Wing Commander: Freedom Flight'
+    author: Mercedes Lackey
+- name: The Silence
+  origin: v3
+  books:
+  - title: Forbidden Suns
+    author: D. Nolan Clark
+  - title: Forgotten Worlds
+    author: D. Nolan Clark
+  - title: Forsaken Skies
+    author: D. Nolan Clark
+- name: Starfire
+  origin: v3
+  books:
+  - title: 'Starfire: A Red Peace'
+    author: Spencer Ellsworth
+  - title: 'Starfire: Shadow Sun Seven'
+    author: Spencer Ellsworth
+  - title: 'Starfire: Memory''s Blade'
+    author: Spencer Ellsworth

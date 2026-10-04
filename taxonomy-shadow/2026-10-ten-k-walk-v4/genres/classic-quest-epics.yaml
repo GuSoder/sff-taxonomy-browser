@@ -1,0 +1,81 @@
+id: classic-quest-epics
+label: Classic quest epics
+parent: farm-boy-fellowships
+origin: shadow-v3
+definition: Classic fellowship and quest epics.
+cards:
+- name: The Lord of the Rings
+  origin: original
+  books:
+  - title: The Hobbit
+    author: J. R. R. Tolkien
+  - title: The Fellowship of the Ring
+    author: J. R. R. Tolkien
+  - title: The Two Towers
+    author: J. R. R. Tolkien
+  - title: The Return of the King
+    author: J. R. R. Tolkien
+- name: The Belgariad
+  origin: original
+  books:
+  - title: Pawn of Prophecy
+    author: David Eddings
+  - title: Queen of Sorcery
+    author: David Eddings
+  - title: Magician's Gambit
+    author: David Eddings
+  - title: Castle of Wizardry
+    author: David Eddings
+  - title: Enchanters' End Game
+    author: David Eddings
+- name: The Chronicles of Prydain
+  origin: original
+  books:
+  - title: The Book of Three
+    author: Lloyd Alexander
+  - title: The Black Cauldron
+    author: Lloyd Alexander
+  - title: The Castle of Llyr
+    author: Lloyd Alexander
+  - title: Taran Wanderer
+    author: Lloyd Alexander
+  - title: The High King
+    author: Lloyd Alexander
+- name: The Sword of Shannara Trilogy
+  origin: original
+  books:
+  - title: The Sword of Shannara
+    author: Terry Brooks
+  - title: The Elfstones of Shannara
+    author: Terry Brooks
+  - title: The Wishsong of Shannara
+    author: Terry Brooks
+- name: Eddings
+  origin: v3
+  books:
+  - title: The Redemption of Althalus
+    author: David Eddings
+  - title: Crystal Gorge
+    author: David Eddings
+  - title: The Elder Gods
+    author: David Eddings
+  - title: The Treasured One
+    author: David Eddings
+- name: The Eidyn Saga
+  origin: v3
+  books:
+  - title: The Bitter Crown
+    author: Justin Lee Anderson
+  - title: The Damned King
+    author: Justin Lee Anderson
+  - title: The Lost War
+    author: Justin Lee Anderson
+- name: Sorcerer's Song
+  origin: v3
+  books:
+  - title: A Chorus of Fire
+    author: Brian D. Anderson
+  - title: The Bard's Blade
+    author: Brian D. Anderson
+  - title: The Sword's Elegy
+    author: Brian D. Anderson

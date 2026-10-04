@@ -1,0 +1,66 @@
+id: contact-and-sadiri-futures
+label: Contact and far futures
+parent: contact-by-arrival
+origin: shadow-v3
+definition: Contact in far futures.
+cards:
+- name: Gwyneth Jones
+  origin: v3
+  books:
+  - title: Kairos
+    author: Gwyneth Jones
+  - title: Life
+    author: Gwyneth Jones
+- name: Vectors
+  origin: v3
+  books:
+  - title: Vectors
+    author: Michael P. Kube-Mcdowell
+- name: Karen Lord Sadiri
+  origin: v3
+  books:
+  - title: The Best of All Possible Worlds
+    author: Karen Lord
+  - title: The Galaxy Game
+    author: Karen Lord
+- name: Maxine McArthur
+  origin: v3
+  books:
+  - title: Less Than Human
+    author: Maxine McArthur
+  - title: Time Future
+    author: Maxine McArthur
+  - title: Time Past
+    author: Maxine McArthur
+- name: Paul McAuley
+  origin: v3
+  books:
+  - title: Whole Wide World
+    author: Paul McAuley
+  - title: 400 Billion Stars
+    author: Paul McAuley
+  - title: Austral
+    author: Paul McAuley
+  - title: Confluence - The Trilogy
+    author: Paul McAuley
+  - title: Evening's Empires
+    author: Paul McAuley
+  - title: Gardens of the Sun
+    author: Paul McAuley
+  - title: In the Mouth of the Whale
+    author: Paul McAuley
+  - title: Into Everywhere
+    author: Paul McAuley
+  - title: Loss Protocol
+    author: Paul McAuley
+  - title: Something Coming Through
+    author: Paul McAuley
+  - title: The Quiet War
+    author: Paul McAuley
+  - title: The Secret of Life
+    author: Paul McAuley
+- name: Terminal Tidhar
+  origin: v3
+  books:
+  - title: Terminal
+    author: Lavie Tidhar

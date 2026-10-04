@@ -1,0 +1,69 @@
+id: cyber-flesh-classics
+label: Cyber-flesh classics
+parent: augmented-flesh
+origin: shadow-v3
+definition: Cyber-flesh.
+cards:
+- name: All That We See or Seem
+  origin: original
+  books:
+  - title: All That We See or Seem
+- name: Bone Dance
+  origin: v3
+  books:
+  - title: Bone Dance
+    author: Emma Bull
+- name: Splintegrate
+  origin: v3
+  books:
+  - title: Splintegrate
+    author: Deborah Teramis Christian
+- name: Wraeththu
+  origin: v3
+  books:
+  - title: Wraeththu
+    author: Storm Constantine
+  - title: The Wraiths of Will and Pleasure
+    author: Storm Constantine
+  - title: The Shades of Time and Memory
+    author: Storm Constantine
+  - title: The Ghosts of Blood and Innocence
+    author: Storm Constantine
+- name: Web of Angels
+  origin: v3
+  books:
+  - title: Web of Angels
+    author: John M. Ford; introduction by Cory Doctorow
+- name: Human Blend
+  origin: v3
+  books:
+  - title: The Human Blend
+    author: Alan Dean Foster
+  - title: Body, Inc.
+    author: Alan Dean Foster
+  - title: The Sum of Her Parts
+    author: Alan Dean Foster
+- name: Williams Cyberpunk Space
+  origin: v3
+  books:
+  - title: Angel Station
+    author: Walter Jon Williams
+  - title: Aristoi
+    author: Walter Jon Williams
+  - title: Aristoi - French Edition
+    author: Walter Jon Williams
+  - title: House of Shards
+    author: Walter Jon Williams
+  - title: Knight Moves
+    author: Walter Jon Williams
+- name: Hardwired
+  origin: v3
+  books:
+  - title: Hardwired
+    author: Walter Jon Williams
+  - title: Voice of the Whirlwind
+    author: Walter Jon Williams
+  - title: Video Star (Voice of the Whirlwind)
+    author: Walter Jon Williams
+  - title: Wolf Time (Voice of the Whirlwind)
+    author: Walter Jon Williams

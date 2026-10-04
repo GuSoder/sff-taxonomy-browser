@@ -1,0 +1,70 @@
+id: ship-and-rescue-escapes
+label: Ship and rescue escapes
+parent: plagues-and-ship-escapes
+origin: shadow-v3
+definition: Escapes by ship, rescue and long journeys.
+cards:
+- name: The Ship
+  origin: v3
+  books:
+  - title: The Ship
+    author: Antonia Honeywell
+- name: Rescue Mode
+  origin: v3
+  books:
+  - title: Rescue Mode
+    author: Ben Bova
+  - title: Space Station Down
+    author: Ben Bova
+- name: 7th Sigma
+  origin: v3
+  books:
+  - title: 7th Sigma
+    author: Steven Gould
+  - title: Bugs in the Arroyo
+    author: Steven Gould
+- name: James Jaros
+  origin: v3
+  books:
+  - title: Burn Down the Sky
+    author: James Jaros
+  - title: Carry the Flame
+    author: James Jaros
+- name: Maximum Light
+  origin: v3
+  books:
+  - title: Maximum Light
+    author: Nancy Kress
+- name: Ball Lightning
+  origin: v3
+  books:
+  - title: Ball Lightning
+    author: Cixin Liu; Translated by Joel Martinsen
+- name: Cusp
+  origin: v3
+  books:
+  - title: Cusp
+    author: Robert A. Metzger
+- name: Future of Hunger
+  origin: v3
+  books:
+  - title: The Future of Hunger in the Age of Programmable Matter
+    author: Sam J. Miller
+- name: The Razor
+  origin: v3
+  books:
+  - title: The Razor
+    author: J. Barton Mitchell
+- name: Contrarian Dekkard
+  origin: v3
+  books:
+  - title: Isolate
+    author: L. E. Modesitt
+  - title: Councilor
+    author: L. E. Modesitt
+  - title: Contrarian
+    author: L. E. Modesitt
+  - title: From the Forest
+    author: L. E. Modesitt
+  - title: Premier
+    author: L. E. Modesitt

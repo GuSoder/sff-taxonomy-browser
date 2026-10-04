@@ -1,0 +1,39 @@
+id: time-loops
+label: Time loops
+parent: time-travel-fiction
+origin: original
+definition: Time travel structured as the repeated reliving of a span of life or history.
+cards:
+- name: Replay
+  origin: original
+  books:
+  - title: Replay
+- name: This Time Tomorrow
+  origin: original
+  books:
+  - title: This Time Tomorrow
+- name: How to Live Safely in a Science Fictional Universe
+  origin: original
+  books:
+  - title: How to Live Safely in a Science Fictional Universe
+- name: Opposite of Always
+  origin: original
+  books:
+  - title: Opposite of Always
+- name: The Paradox Men
+  origin: original
+  books:
+  - title: The Paradox Men
+- name: Edge of Oblivion
+  origin: original
+  books:
+  - title: Edge of Oblivion
+- name: On the Calculation of Volume III
+  origin: original
+  books:
+  - title: On the Calculation of Volume III
+- name: White Octopus Hotel
+  origin: v3
+  books:
+  - title: The White Octopus Hotel
+    author: Alexandra Bell

@@ -1,0 +1,77 @@
+id: period-sleuths
+label: Period sleuths
+parent: period-and-pet-sleuths
+origin: shadow-v3
+definition: Period sleuths.
+cards:
+- name: Queen Victoria Demon Hunter
+  origin: v3
+  books:
+  - title: 'Queen Victoria: Demon Hunter'
+    author: A E Moorat
+- name: Shadows of Sherlock Magic
+  origin: v3
+  books:
+  - title: A Study in Honor
+    author: Claire Odell
+  - title: The Hound of Justice
+    author: Claire Odell
+- name: Edinburgh Dead
+  origin: v3
+  books:
+  - title: The Edinburgh Dead
+    author: Brian Ruckley
+- name: Bannon and Clare
+  origin: v3
+  books:
+  - title: The Iron Wyrm Affair
+    author: Lilith Saintcrow
+  - title: The Red Plague Affair
+    author: Lilith Saintcrow
+  - title: The Ripper Affair
+    author: Lilith Saintcrow
+- name: Liesel Schwarz Clockwork
+  origin: v3
+  books:
+  - title: A Conspiracy of Alchemists
+    author: Liesel Schwarz
+  - title: A Clockwork Heart
+    author: Liesel Schwarz
+  - title: Sky Pirates
+    author: Liesel Schwarz
+- name: Four Horsemen at Their Leisure
+  origin: v3
+  books:
+  - title: Four Horsemen, at Their Leisure
+    author: Richard Parks
+- name: Raine Benares
+  origin: v3
+  books:
+  - title: Magic Lost, Trouble Found
+    author: Lisa Shearin
+  - title: Armed & Magical
+    author: Lisa Shearin
+  - title: The Trouble with Demons
+    author: Lisa Shearin
+  - title: Bewitched & Betrayed
+    author: Lisa Shearin
+  - title: Con & Conjure
+    author: Lisa Shearin
+  - title: All Spell Breaks Loose
+    author: Lisa Shearin
+- name: Delia Sherman
+  origin: v3
+  books:
+  - title: The Great Detective
+    author: Delia Sherman
+  - title: The Fall of the Kings
+    author: Delia Sherman
+- name: Darkborn
+  origin: v3
+  books:
+  - title: Darkborn
+    author: Alison Sinclair
+  - title: Lightborn
+    author: Alison Sinclair
+  - title: Shadowborn
+    author: Alison Sinclair

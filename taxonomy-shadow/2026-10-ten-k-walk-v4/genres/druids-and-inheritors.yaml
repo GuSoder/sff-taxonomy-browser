@@ -1,0 +1,53 @@
+id: druids-and-inheritors
+label: Druids and inheritors
+parent: monster-hunter-offices
+origin: shadow-v3
+definition: Druids, immortals and inheritors of old magic.
+cards:
+- name: Secret Lives of Immortals
+  origin: v3
+  books:
+  - title: The Secret Lives of Immortals
+    author: Ash Huang
+- name: Direct Descendant
+  origin: v3
+  books:
+  - title: Direct Descendant
+    author: Tanya Huff
+- name: Inheritance of Magic
+  origin: v3
+  books:
+  - title: An Inheritance of Magic
+    author: Benedict Jacka
+  - title: An Instruction in Shadow
+    author: Benedict Jacka
+  - title: A Judgement of Powers
+    author: Benedict Jacka
+- name: Dark Gifts
+  origin: v3
+  books:
+  - title: Gilded Cage
+    author: Vic James
+  - title: Tarnished City
+    author: Vic James
+  - title: Bright Ruin
+    author: Vic James
+- name: String Diaries
+  origin: v3
+  books:
+  - title: Written in the Blood
+    author: Stephen Lloyd Jones
+- name: Tinfoil Dossier
+  origin: v3
+  books:
+  - title: Agents of Dreamland
+    author: Caitlin R. Kiernan
+  - title: The Tindalos Asset
+    author: Caitlin R. Kiernan
+- name: Lachlan
+  origin: v3
+  books:
+  - title: Celestial
+    author: M.D. Lachlan
+  - title: The Night Lies Bleeding
+    author: M.D. Lachlan

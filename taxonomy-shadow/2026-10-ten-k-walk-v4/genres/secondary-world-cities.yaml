@@ -1,0 +1,39 @@
+id: secondary-world-cities
+label: Secondary-world cities
+parent: city-underworlds
+origin: shadow-v3
+definition: Cities of secondary worlds and their underworlds.
+cards:
+- name: Navid Leahy
+  origin: v3
+  books:
+  - title: The Freedom of Navid Leahy
+    author: Jenna Helland
+- name: Guards! Guards!
+  origin: v3
+  books:
+  - title: Guards! Guards!
+    author: Graham Higgins
+- name: City of the Iron Fish
+  origin: v3
+  books:
+  - title: City of the Iron Fish
+    author: Simon Ings
+- name: Dreamblood
+  origin: v3
+  books:
+  - title: The Dreamblood Duology
+    author: N. K. Jemisin
+  - title: The Killing Moon
+    author: N. K. Jemisin
+  - title: The Shadowed Sun
+    author: N. K. Jemisin
+- name: Francis Knight Rojan Dizon
+  origin: v3
+  books:
+  - title: Before the Fall
+    author: Francis Knight
+  - title: Fade to Black
+    author: Francis Knight
+  - title: Last to Rise
+    author: Francis Knight

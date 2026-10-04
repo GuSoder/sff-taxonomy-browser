@@ -1,0 +1,53 @@
+id: litrpg
+label: LitRPG
+parent: cyberpunk
+origin: original
+definition: 'Cyberpunk in which game mechanics are the literal laws of the world: levels, stats, loot,
+  classes and respawn govern what characters can do, and the numbers are part of the reading. Sibling
+  test against Metaverse: if the point is the place, it is Metaverse; if the point is the mechanics, it
+  is LitRPG. The term was coined in late 2013 in the Russian scene (EKSMO''s LitRPG series).'
+cards:
+- name: Dungeon Crawler Carl
+  origin: original
+  books:
+  - title: Dungeon Crawler Carl
+    author: Matt Dinniman
+  - title: Carl's Doomsday Scenario
+    author: Matt Dinniman
+  - title: The Dungeon Anarchist's Cookbook
+    author: Matt Dinniman
+  - title: The Gate of the Feral Gods
+    author: Matt Dinniman
+  - title: The Butcher's Masquerade
+    author: Matt Dinniman
+  - title: The Eye of the Bedlam Bride
+    author: Matt Dinniman
+  - title: This Inevitable Ruin
+    author: Matt Dinniman
+  - title: A Parade of Horribles
+    author: Matt Dinniman
+- name: Level (Dalglish)
+  origin: v3
+  books:
+  - title: 'Level: Apocalypse'
+    author: David Dalglish
+  - title: 'Level: Ascension'
+    author: David Dalglish
+  - title: 'Level: Unknown'
+    author: David Dalglish
+- name: The Wandering Inn
+  origin: v3
+  books:
+  - title: Fae and Fare
+    author: Pirateaba
+  - title: Immortal Games
+    author: Pirateaba
+  - title: No Killing Goblins
+    author: Pirateaba
+  - title: The Wandering Inn
+    author: Pirateaba
+- name: Evaluation
+  origin: v3
+  books:
+  - title: Evaluation
+    author: Brad Botz

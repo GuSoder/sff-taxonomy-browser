@@ -1,0 +1,56 @@
+id: galactic-satire
+label: Galactic Satire
+parent: humorous-science-fiction
+origin: shadow-v3
+definition: 'Comic SF that satirizes and parodies: the galaxy as a joke on us.'
+cards:
+- name: The Hitchhiker's Guide to the Galaxy
+  origin: v3
+  books:
+  - title: The Ultimate Hitchhiker's Guide to the Galaxy
+    author: Douglas Adams
+  - title: 'The Hitchhiker''s Guide to the Galaxy: The'
+    author: Douglas Adams
+- name: Bill the Galactic Hero
+  origin: v3
+  books:
+  - title: Bill, The Galactic Hero
+    author: Harry Harrison
+- name: Willful Child
+  origin: v3
+  books:
+  - title: Willful Child
+    author: Steven Erikson
+  - title: 'Willful Child: Wrath of Betty'
+    author: Steven Erikson
+  - title: 'Willful Child: The Search for Spark'
+    author: Steven Erikson
+  - title: The Willful Child Series
+    author: Steven Erikson
+- name: The Sirens of Titan
+  origin: v3
+  books:
+  - title: The Sirens Of Titan
+    author: Kurt Vonnegut
+- name: The Cyberiad
+  origin: original
+  books:
+  - title: The Cyberiad
+- name: Star Diaries
+  origin: v3
+  books:
+  - title: Star Diaries
+    author: Stanislaw Lem
+  - title: The Futurological Congress
+    author: Stanislaw Lem
+- name: The Complete Roderick
+  origin: original
+  books:
+  - title: Roderick; Or The Education of a Young Machine
+    author: John Sladek
+  - title: Roderick at Random
+    author: John Sladek
+- name: Acts of God
+  origin: original
+  books:
+  - title: Acts of God

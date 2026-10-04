@@ -1,0 +1,26 @@
+id: fantastic-voyage
+label: Fantastic voyage
+parent: proto-sf
+origin: original
+definition: Pre-novelistic speculative journeys to unknown lands and peoples - the Proto SF form named
+  in SFE 'Fantastic Voyages', from Lucian's True History through Gulliver.
+cards:
+- name: Gulliver's Travels
+  origin: original
+  books:
+  - title: Gulliver's Travels
+- name: Fortune Pearl
+  origin: v3
+  books:
+  - title: Fortune Pearl
+    author: Alexandra Bell
+- name: Doctor Omega
+  origin: v3
+  books:
+  - title: Doctor Omega
+    author: Arnould Galopin
+- name: Evening's Empire
+  origin: v3
+  books:
+  - title: Evening's Empire
+    author: David Herter

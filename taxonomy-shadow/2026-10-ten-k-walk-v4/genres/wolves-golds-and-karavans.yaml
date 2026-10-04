@@ -1,0 +1,104 @@
+id: wolves-golds-and-karavans
+label: Wolves, gold and karavans
+parent: dynastic-courts
+origin: shadow-v3
+definition: Wanderers and heirs.
+cards:
+- name: Pinborough Dog-Faced Gods
+  origin: v3
+  books:
+  - title: A Matter of Blood
+    author: Sarah Pinborough
+  - title: The Chosen Seed
+    author: Sarah Pinborough
+  - title: The Shadow of the Soul
+    author: Sarah Pinborough
+- name: Rory Power Gold
+  origin: v3
+  books:
+  - title: In a Garden Burning Gold
+    author: Rory Power
+  - title: In an Orchard Grown from Ash
+    author: Rory Power
+- name: Kritika Rao
+  origin: v3
+  books:
+  - title: The Legend of Meneka
+    author: Kritika H Rao
+  - title: The Rise of the Celestials
+    author: Kritika H Rao
+- name: Track of the White Wolf
+  origin: v3
+  books:
+  - title: Track of the White Wolf
+    author: Jennifer Roberson
+- name: Roberson Karavans and Deepwood
+  origin: v3
+  books:
+  - title: Karavans
+    author: Jennifer Roberson
+  - title: Deepwood
+    author: Jennifer Roberson
+  - title: The Wild Road
+    author: Jennifer Roberson
+  - title: The Golden Key
+    author: Jennifer Roberson
+- name: Sean Russell Swans' War
+  origin: v3
+  books:
+  - title: World Without End
+    author: Sean Russell
+  - title: Sea Without a Shore
+    author: Sean Russell
+  - title: Beneath the Vaulted Hills
+    author: Sean Russell
+  - title: The Compass of the Soul
+    author: Sean Russell
+  - title: Moontide and Magic Rise
+    author: Sean Russell
+  - title: River Into Darkness
+    author: Sean Russell
+- name: Covenant of Steel
+  origin: v3
+  books:
+  - title: A Tide of Black Steel
+    author: Anthony Ryan
+  - title: Born of an Iron Storm
+    author: Anthony Ryan
+  - title: The Martyr
+    author: Anthony Ryan
+  - title: The Pariah
+    author: Anthony Ryan
+  - title: The Traitor
+    author: Anthony Ryan
+  - title: Upon the Forge of Battle
+    author: Anthony Ryan
+- name: Salvatore Gods
+  origin: v3
+  books:
+  - title: Child of a Mad God
+    author: R. A. Salvatore
+  - title: Reckoning of Fallen Gods
+    author: R. A. Salvatore
+  - title: Song of the Risen God
+    author: R. A. Salvatore
+- name: Psalms of Isaak
+  origin: v3
+  books:
+  - title: Canticle
+    author: Ken Scholes
+  - title: Lamentation
+    author: Ken Scholes
+  - title: Antiphon
+    author: Ken Scholes
+  - title: Requiem
+    author: Ken Scholes
+  - title: Hymn
+    author: Ken Scholes
+- name: Caighlan Smith
+  origin: v3
+  books:
+  - title: A Pest Most Fiendish
+    author: Caighlan Smith
+  - title: The Weather
+    author: Caighlan Smith

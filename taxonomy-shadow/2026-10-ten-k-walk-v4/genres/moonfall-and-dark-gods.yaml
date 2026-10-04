@@ -1,0 +1,67 @@
+id: moonfall-and-dark-gods
+label: Moonfall and dark gods
+parent: hunts-abysses-and-gothic-thrones
+origin: shadow-v3
+definition: Dark gods.
+cards:
+- name: Moon Fall Rollins
+  origin: v3
+  books:
+  - title: The Starless Crown
+    author: James Rollins
+  - title: The Cradle of Ice
+    author: James Rollins
+  - title: A Dragon of Black Glass
+    author: James Rollins
+  - title: A Fist of Molten Fire
+    author: James Rollins
+- name: Rebecca Ross
+  origin: v3
+  books:
+  - title: A Bittersweet Spell
+    author: Rebecca Ross
+  - title: A Fire Endless
+    author: Rebecca Ross
+  - title: A River Enchanted
+    author: Rebecca Ross
+- name: Half Sick of Shadows
+  origin: v3
+  books:
+  - title: Half Sick of Shadows
+    author: Laura Sebastian
+- name: Alchemised
+  origin: v3
+  books:
+  - title: Alchemised
+    author: SenLinYu
+- name: Tara Sim
+  origin: v3
+  books:
+  - title: Ravage the Dark
+    author: Tara Sim
+  - title: Scavenge the Stars
+    author: Tara Sim
+  - title: The City of Dusk
+    author: Tara Sim
+  - title: The Dawn Throne
+    author: Tara Sim
+  - title: The Meridian Forge
+    author: Tara Sim
+  - title: The Midnight Kingdom
+    author: Tara Sim
+- name: K. X. Song
+  origin: v3
+  books:
+  - title: The Night Ends with Fire
+    author: K. X. Song
+  - title: The Dragon Wakes with Thunder
+    author: K. X. Song
+- name: Wolves of Nocturna
+  origin: v3
+  books:
+  - title: Dire Bound
+    author: Sable Sorensen
+  - title: Fury Bound
+    author: Sable Sorensen
+  - title: Ruin Bound
+    author: Sable Sorensen

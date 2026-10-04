@@ -1,0 +1,66 @@
+id: hollow-worlds
+label: Hollow Worlds
+parent: big-dumb-objects
+origin: shadow-v3
+definition: 'Alien delving inside a vast habitat: ring, bowl, asteroid or hollowed planet.'
+cards:
+- name: Eon
+  origin: v3
+  books:
+  - title: Eon
+    author: Greg Bear
+  - title: Eternity
+    author: Greg Bear
+- name: Bowl of Heaven
+  origin: v3
+  books:
+  - title: Bowl of Heaven
+    author: Gregory Benford
+  - title: Shipstar
+    author: Gregory Benford
+  - title: Bowl of Heaven and Shipstar
+    author: Gregory Benford
+- name: Void Trilogy
+  origin: v3
+  books:
+  - title: The Dreaming Void
+    author: Peter F. Hamilton
+  - title: The Temporal Void
+    author: Peter F. Hamilton
+  - title: The Evolutionary Void (with bonus short story If At First...)
+    author: Peter F. Hamilton
+- name: Chronicle of the Fallers
+  origin: v3
+  books:
+  - title: The Abyss Beyond Dreams
+    author: Peter F. Hamilton
+  - title: A Night Without Stars
+    author: Peter F. Hamilton
+- name: Gaean Trilogy
+  origin: v3
+  books:
+  - title: Demon
+    author: John Varley
+  - title: Titan
+    author: John Varley
+  - title: Wizard
+    author: John Varley
+- name: City of Beasts
+  origin: v3
+  books:
+  - title: City of Beasts
+    author: Corrie Wang
+- name: Hell's Gate
+  origin: v3
+  books:
+  - title: Hell's Gate
+    author: David Weber
+- name: Ascendant Weber
+  origin: v3
+  books:
+  - title: A Call to Duty
+    author: David Weber
+  - title: Like a Mighty Army
+    author: David Weber
+  - title: A Call to Arms
+    author: David Weber

@@ -1,0 +1,39 @@
+id: cryptid-horror
+label: Cryptid horror
+parent: soft-science-fiction
+origin: original
+definition: Modern-day soft science fiction and horror in which an alleged hidden animal or folkloric
+  species becomes materially real, with the creature's biological possibility supplying the speculative
+  premise and its attack, pursuit or discovery supplying the horror.
+cards:
+- name: Devolution
+  origin: original
+  books:
+  - title: Devolution
+- name: The Sunken Land Begins to Rise Again
+  origin: original
+  books:
+  - title: The Sunken Land Begins to Rise Again
+- name: The Vampire Tapestry
+  origin: original
+  books:
+  - title: The Vampire Tapestry
+- name: Patricia Wants to Cuddle
+  origin: original
+  books:
+  - title: Patricia Wants to Cuddle
+- name: Slender Man
+  origin: v3
+  books:
+  - title: Slender Man
+    author: Anonymous
+- name: Breakwater
+  origin: v3
+  books:
+  - title: Breakwater
+    author: Simon Bestwick
+- name: Harrison Squared
+  origin: v3
+  books:
+  - title: Harrison Squared
+    author: Daryl Gregory

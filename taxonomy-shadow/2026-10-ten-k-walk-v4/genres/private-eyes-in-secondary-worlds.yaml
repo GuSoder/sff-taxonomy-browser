@@ -1,0 +1,88 @@
+id: private-eyes-in-secondary-worlds
+label: Private eyes in secondary worlds
+parent: fantasy-mystery
+origin: shadow-v3
+definition: Detective stories with a hired investigator in an invented world.
+cards:
+- name: Fetch Phillips
+  origin: v3
+  books:
+  - title: Dead Man in a Ditch
+    author: Luke Arnold
+  - title: One Foot in the Fade
+    author: Luke Arnold
+  - title: The Last Smile in Sunder City
+    author: Luke Arnold
+  - title: Whisper in the Wind
+    author: Luke Arnold
+- name: Eddie LaCrosse
+  origin: v3
+  books:
+  - title: Burn Me Deadly
+    author: Alex Bledsoe
+  - title: The Sword-Edged Blonde
+    author: Alex Bledsoe
+  - title: Dark Jenny
+    author: Alex Bledsoe
+  - title: Wake of the Bloody Angel
+    author: Alex Bledsoe
+  - title: Swords Are My Business
+    author: Alex Bledsoe
+  - title: He Drank, and Saw the Spider
+    author: Alex Bledsoe
+  - title: The Key to the Coward's Spell
+    author: Alex Bledsoe
+- name: Garrett, P.I.
+  origin: v3
+  books:
+  - title: Bitter Gold Hearts
+    author: Glen Cook
+  - title: Cold Copper Tears
+    author: Glen Cook
+  - title: Old Tin Sorrows
+    author: Glen Cook
+  - title: Dread Brass Shadows
+    author: Glen Cook
+  - title: Sweet Silver Blues
+    author: Glen Cook
+  - title: Red Iron Nights
+    author: Glen Cook
+  - title: Deadly Quicksilver Lies
+    author: Glen Cook
+  - title: Petty Pewter Gods
+    author: Glen Cook
+  - title: Faded Steel Heat
+    author: Glen Cook
+  - title: Angry Lead Skies
+    author: Glen Cook
+  - title: Whispering Nickel Idols
+    author: Glen Cook
+  - title: Cruel Zinc Melodies
+    author: Glen Cook
+  - title: Gilded Latten Bones
+    author: Glen Cook
+  - title: Introducing Garrett, P.I.
+    author: Glen Cook
+  - title: Garrett Takes the Case
+    author: Glen Cook
+  - title: Garrett for Hire
+    author: Glen Cook
+  - title: Wicked Bronze Ambition
+    author: Glen Cook
+- name: A Trade of Blood
+  origin: v3
+  books:
+  - title: A Trade of Blood
+    author: Robert Jackson Bennett
+- name: Shadow of the Leviathan
+  origin: original
+  books:
+  - title: The Tainted Cup
+    author: Robert Jackson Bennett
+  - title: A Drop of Corruption
+    author: Robert Jackson Bennett
+- name: The Bright Spot
+  origin: v3
+  books:
+  - title: The Bright Spot
+    author: Robert Sydney

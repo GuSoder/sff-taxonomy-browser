@@ -1,0 +1,109 @@
+id: young-courtiers
+label: Young Courtiers
+parent: medieval-dynastic-intrigue
+origin: shadow-v3
+definition: 'Dynastic fantasy of heirs and wards learning the court''s game: schooling, betrothal, first
+  betrayal.'
+cards:
+- name: The Folk of the Air
+  origin: original
+  books:
+  - title: The Cruel Prince
+    author: Holly Black
+  - title: The Wicked King
+    author: Holly Black
+  - title: The Queen of Nothing
+    author: Holly Black
+- name: Seven Realms
+  origin: v3
+  books:
+  - title: The Crimson Crown
+    author: Cinda Williams Chima
+  - title: The Demon King
+    author: Cinda Williams Chima
+  - title: The Exiled Queen
+    author: Cinda Williams Chima
+  - title: The Gray Wolf Throne
+    author: Cinda Williams Chima
+- name: Tamir Triad
+  origin: v3
+  books:
+  - title: The Bone Doll's Twin
+    author: Lynn Flewelling
+  - title: Hidden Warrior
+    author: Lynn Flewelling
+  - title: The Oracle's Queen
+    author: Lynn Flewelling
+- name: Hythrun and Harshini (Fallon)
+  origin: v3
+  books:
+  - title: Harshini
+    author: Jennifer Fallon
+  - title: Wolfblade
+    author: Jennifer Fallon
+  - title: Warrior
+    author: Jennifer Fallon
+  - title: Warlord
+    author: Jennifer Fallon
+- name: Memory of Flames (Deas)
+  origin: v3
+  books:
+  - title: Dragon Queen
+    author: Stephen Deas
+  - title: The Adamantine Palace
+    author: Stephen Deas
+  - title: The Black Mausoleum
+    author: Stephen Deas
+  - title: The King of the Crags
+    author: Stephen Deas
+  - title: The Order of the Scales
+    author: Stephen Deas
+  - title: The Silver Kings
+    author: Stephen Deas
+- name: Crown of Stars
+  origin: v3
+  books:
+  - title: Crown of Stars
+    author: Kate Elliott
+  - title: Child of Flame
+    author: Kate Elliott
+  - title: In the Ruins
+    author: Kate Elliott
+  - title: King's Dragon
+    author: Kate Elliott
+  - title: Prince of Dogs
+    author: Kate Elliott
+  - title: The Burning Stone
+    author: Kate Elliott
+  - title: The Gathering Storm
+    author: Kate Elliott
+- name: Hurog
+  origin: v3
+  books:
+  - title: Dragon Blood
+    author: Patricia Briggs
+  - title: Dragon Bones
+    author: Patricia Briggs
+- name: Rule
+  origin: v3
+  books:
+  - title: Rise
+    author: Ellen Goodlett
+  - title: Rule
+    author: Ellen Goodlett
+- name: By the Light of the Stars
+  origin: v3
+  books:
+  - title: By the Light of the Stars
+    author: Emily Gray
+- name: All of Us Villains
+  origin: v3
+  books:
+  - title: A Destiny So Cruel
+    author: C. L. Herman
+  - title: A Fate So Cold
+    author: C. L. Herman
+  - title: All of Our Demise
+    author: C. L. Herman
+  - title: All of Us Villains
+    author: C. L. Herman

@@ -1,0 +1,96 @@
+id: soldiers-and-inquisitors
+label: Soldiers and inquisitors
+parent: ship-soldiers-and-starmen
+origin: shadow-v3
+definition: Soldiers, inquisitors and fleet officers.
+cards:
+- name: Command Combat
+  origin: v3
+  books:
+  - title: 'Command Combat: Slammers Down!'
+    author: Todd Johnson
+  - title: 'Combat Command: The Legion At War'
+    author: Andrew Keith
+- name: Carrera Terra Nova
+  origin: v3
+  books:
+  - title: A Pillar of Fire by Night
+    author: Tom Kratman
+  - title: Days of Burning, Days of Wrath
+    author: Tom Kratman
+- name: Misfit Soldier
+  origin: v3
+  books:
+  - title: The Misfit Soldier
+    author: Michael Mammay
+- name: Under Jurisdiction
+  origin: v3
+  books:
+  - title: Fleet Renegade
+    author: Susan Matthews
+  - title: Fleet Inquisitor
+    author: Susan R. Matthews
+  - title: Blood Enemies
+    author: Susan R. Matthews
+  - title: Fleet Insurgent
+    author: Susan R. Matthews
+  - title: Crimes Against Humanity
+    author: Susan R. Matthews
+  - title: The Devil and Deep Space
+    author: Book Five of the Jurisdiction Universe series
+  - title: Hour of Judgement
+    author: Book Four of the Jurisdiction Universe series
+  - title: An Exchange of Hostages
+    author: Book One of the Jurisdiction Universe series
+  - title: Warring States
+    author: Book Six of the Jurisdiction Universe series
+  - title: Angel of Destruction
+    author: Book Three of the Jurisdiction Universe series
+  - title: Prisoner of Conscience
+    author: Book Two of the Jurisdiction Universe series
+- name: McCaffrey space
+  origin: v3
+  books:
+  - title: Nimisha's Ship
+    author: Anne McCaffrey
+  - title: Restoree
+    author: Anne McCaffrey
+  - title: Sassinak
+    author: Anne McCaffrey
+  - title: Deluge
+    author: Anne McCaffrey
+  - title: Generation Warriors
+    author: Anne McCaffrey
+  - title: The Death of Sleep
+    author: Anne McCaffrey
+  - title: Catalyst
+    author: Anne McCaffrey
+  - title: Catacombs
+    author: Anne McCaffrey
+- name: Tyger
+  origin: v3
+  books:
+  - title: Tyger Burning
+    author: T.C. McCarthy
+  - title: Tyger Bright
+    author: T.C. McCarthy
+- name: Light Years
+  origin: v3
+  books:
+  - title: Light Years
+    author: Kass Morgan
+  - title: Supernova
+    author: Kass Morgan
+- name: Jump Universe
+  origin: v3
+  books:
+  - title: One Jump Ahead
+    author: Mark L. Van Name
+  - title: Transhuman
+    author: Mark L. Van Name
+  - title: Slanted Jack
+    author: Mark L. Van Name
+  - title: Children No More
+    author: Mark L. Van Name
+  - title: Jump Gate Twist
+    author: Mark L. Van Name

@@ -1,0 +1,48 @@
+id: bred-and-grown-people
+label: Bred and grown people
+parent: genetic-engineering
+origin: shadow-v3
+definition: Genetic engineering centred on cloned, bred or designed people and their treatment.
+cards:
+- name: Never Let Me Go
+  origin: original
+  books:
+  - title: Never Let Me Go
+- name: The Echo Wife
+  origin: original
+  books:
+  - title: The Echo Wife
+- name: Beggars in Spain
+  origin: v3
+  books:
+  - title: Beggars in Spain
+    author: Nancy Kress
+- name: Close Encounters
+  origin: v3
+  books:
+  - title: Close Encounters
+    author: Katherine Allred
+- name: Three Days in April
+  origin: v3
+  books:
+  - title: Three Days in April
+    author: Edward Ashton
+- name: Lovelock
+  origin: v3
+  books:
+  - title: Lovelock
+    author: Orson Scott Card
+- name: Moreau Quartet
+  origin: v3
+  books:
+  - title: 'The Moreau Quartet: Volume One'
+    author: S. Andrew Swann
+  - title: 'The Moreau Quartet: Volume Two'
+    author: S. Andrew Swann
+- name: Szpara Docile
+  origin: v3
+  books:
+  - title: Docile
+    author: K.M. Szpara
+  - title: First, Become Ashes
+    author: K.M. Szpara

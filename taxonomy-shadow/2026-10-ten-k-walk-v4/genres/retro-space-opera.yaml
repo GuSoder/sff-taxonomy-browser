@@ -1,0 +1,35 @@
+id: retro-space-opera
+label: Retro space opera
+parent: pulp-space-opera
+origin: original
+definition: Twenty-first-century space opera that deliberately looks backward, channeling the pulp era’s
+  style. Unlike New space opera - the 1990s-2000s movement that modernized the form - Retro space opera
+  is the throwback.
+cards:
+- name: Revenger
+  origin: v3
+  books:
+  - title: 'Revenger: Booktrack Edition'
+    author: Alastair Reynolds
+- name: The Finder Chronicles
+  origin: original
+  books:
+  - title: Finder
+    author: Suzanne Palmer
+  - title: Driving the Deep
+    author: Suzanne Palmer
+  - title: The Scavenger Door
+    author: Suzanne Palmer
+  - title: Ghostdrift
+    author: Suzanne Palmer
+- name: Radiance
+  origin: original
+  books:
+  - title: Radiance
+- name: The Space Opera
+  origin: original
+  books:
+  - title: Space Opera
+    author: Catherynne M. Valente
+  - title: Space Oddity
+    author: Catherynne M. Valente

@@ -1,0 +1,65 @@
+id: military-thrillers
+label: Military thrillers
+parent: thriller-defence
+origin: shadow-v3
+definition: Military action.
+cards:
+- name: Pacific Storm
+  origin: original
+  books:
+  - title: Pacific Storm
+- name: Domain trilogy (Alten)
+  origin: v3
+  books:
+  - title: Resurrection
+    author: Steve Alten
+  - title: Domain
+    author: Steve Alten
+  - title: Phobos
+    author: Steve Alten
+- name: Joe Ledger
+  origin: v3
+  books:
+  - title: Patient Zero
+    author: Jonathan Maberry
+  - title: The Dragon Factory
+    author: Jonathan Maberry
+  - title: The King of Plagues
+    author: Jonathan Maberry
+- name: Bova thrillers
+  origin: v3
+  books:
+  - title: Powersat
+    author: Ben Bova
+  - title: The Trikon Deception
+    author: Ben Bova
+  - title: The Immortality Factor
+    author: Ben Bova
+  - title: Able One
+    author: Ben Bova
+  - title: Out of the Sun
+    author: Ben Bova
+  - title: The Multiple Man
+    author: Ben Bova
+- name: Spears of God
+  origin: v3
+  books:
+  - title: Spears of God
+    author: Howard Hendrix
+- name: Caliphate
+  origin: v3
+  books:
+  - title: Caliphate
+    author: Tom Kratman
+- name: Dragon in the Sea
+  origin: v3
+  books:
+  - title: The Dragon in the Sea
+    author: Frank Herbert
+- name: Starstrike
+  origin: v3
+  books:
+  - title: 'Starstrike: Task Force Mars'
+    author: Douglas Niles
+  - title: 'Starstrike: Operation Orion'
+    author: Douglas Niles

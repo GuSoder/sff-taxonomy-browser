@@ -1,0 +1,35 @@
+id: cozy-fantasy
+label: Cozy fantasy
+parent: fantasy-realms
+origin: original
+definition: Warm, low-intensity fantasy centered on comfort, community, craft, food, home and everyday
+  care, where safety and belonging govern even when adventure or danger appears.
+cards:
+- name: A Wizard's Guide to Defensive Baking
+  origin: original
+  books:
+  - title: A Wizard's Guide to Defensive Baking
+- name: Legends & Lattes
+  origin: original
+  books:
+  - title: Legends & Lattes
+- name: A Letter to the Luminous Deep
+  origin: original
+  books:
+  - title: A Letter to the Luminous Deep
+- name: The Garden of Delights
+  origin: original
+  books:
+  - title: The Garden of Delights
+- name: Eva Evergreen
+  origin: v3
+  books:
+  - title: Eva Evergreen and the Cursed Witch
+    author: Julie Abe
+  - title: Eva Evergreen, Semi-Magical Witch
+    author: Julie Abe
+- name: Inn at Mount Venge
+  origin: v3
+  books:
+  - title: The Inn at the Foot of Mount Vengeance
+    author: Chiara Bullen

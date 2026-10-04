@@ -1,0 +1,32 @@
+id: wwi-fantasy
+label: WWI fantasy
+parent: industrial-age-fantasy
+origin: original
+definition: 'Industrial-age fantasy of the Great War era, 1914-1918 and its immediate shadow: trench and
+  home-front alike, the war or its social machinery as the historical stage, magic entering through gift,
+  curse or haunting. Named by the curator on 2026-09-27 after Dry Land; ''Great War'' is the era''s own
+  proper name. Sibling banked by the same ruling: WWII fantasy (Second World War). The leaves were renamed
+  WWI fantasy / WWII fantasy by the curator on 2026-09-30.'
+cards:
+- name: Dry Land
+  origin: original
+  books:
+  - title: Dry Land
+- name: The Warm Hands of Ghosts
+  origin: original
+  books:
+  - title: The Warm Hands of Ghosts
+- name: Ironskin
+  origin: v3
+  books:
+  - title: Ironskin
+    author: Tina Connolly
+  - title: Copperhead
+    author: Tina Connolly
+  - title: Silverblind
+    author: Tina Connolly
+- name: Ghost Talkers
+  origin: v3
+  books:
+  - title: Ghost Talkers
+    author: Mary Robinette Kowal

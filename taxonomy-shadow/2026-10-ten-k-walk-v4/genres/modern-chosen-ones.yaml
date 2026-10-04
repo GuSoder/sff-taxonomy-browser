@@ -1,0 +1,70 @@
+id: modern-chosen-ones
+label: Modern chosen ones
+parent: chosen-heirs
+origin: shadow-v3
+definition: Chosen ones in the present day.
+cards:
+- name: Whispering Dark
+  origin: v3
+  books:
+  - title: The Whispering Dark
+    author: Events
+- name: The Summoning Ewing
+  origin: v3
+  books:
+  - title: The Summoning
+    author: Lynne Ewing
+- name: Book of Joby
+  origin: v3
+  books:
+  - title: The Book of Joby
+    author: Mark J. Ferrari
+- name: Annals of the Western Shore
+  origin: v3
+  books:
+  - title: Gifts
+    author: Ursula K. Le Guin
+  - title: Powers
+    author: Ursula K. Le Guin
+  - title: Voices
+    author: Ursula K. Le Guin
+- name: Nightseer
+  origin: v3
+  books:
+  - title: Nightseer
+    author: Laurell K. Hamilton
+- name: First and Last Sorcerer
+  origin: v3
+  books:
+  - title: First and Last Sorcerer
+    author: Barb Hendee
+- name: Sovereign Stone
+  origin: v3
+  books:
+  - title: Guardians of the Lost
+    author: Margaret Weistracy Hickman
+  - title: Well of Darkness
+    author: Margaret Weistracy Hickman
+- name: Queen of the Orcs
+  origin: v3
+  books:
+  - title: 'Queen of the Orcs: Clan Daughter'
+    author: Morgan Howell
+  - title: 'Queen of the Orcs: King''s Property'
+    author: Morgan Howell
+  - title: 'Queen of the Orcs: Royal Destiny'
+    author: Morgan Howell
+- name: Book of Words
+  origin: v3
+  books:
+  - title: Master and Fool
+    author: J. V. Jones
+- name: Elizabeth Kern
+  origin: v3
+  books:
+  - title: The Lesser Kindred
+    author: Elizabeth Kerner
+  - title: Song In The Silence
+    author: Elizabeth Kerner
+  - title: Redeeming the Lost
+    author: Elizabeth Kerner

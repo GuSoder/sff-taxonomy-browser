@@ -1,0 +1,23 @@
+id: modern-greek-myth
+label: Modern Greek myth
+parent: contemporary-mythic-fantasy
+origin: original
+definition: Contemporary fantasy in which the powers and bloodlines of Greek myth remain active within
+  ordinary present-day life.
+cards:
+- name: This Poison Heart
+  origin: original
+  books:
+  - title: This Poison Heart
+    author: Kalynn Bayron
+  - title: This Wicked Fate
+    author: Kalynn Bayron
+- name: Percy-style Immortals (Brodsky)
+  origin: v3
+  books:
+  - title: Olympus Bound
+    author: Jordanna Max Brodsky
+  - title: The Immortals
+    author: Jordanna Max Brodsky
+  - title: Winter of the Gods
+    author: Jordanna Max Brodsky

@@ -1,0 +1,35 @@
+id: sea-rogues
+label: Sea rogues
+parent: swords-and-sea-rogues
+origin: shadow-v3
+definition: Sea rogues.
+cards:
+- name: Nightsword
+  origin: v3
+  books:
+  - title: Nightsword
+    author: Tracy Hickman
+- name: Sharuq and Stingray
+  origin: v3
+  books:
+  - title: Sharuq
+    author: Bill Keith
+  - title: Stingray
+    author: Bill Keith
+- name: Railsea
+  origin: v3
+  books:
+  - title: Railsea
+    author: China Mieville
+- name: Ron Miller Adventure
+  origin: v3
+  books:
+  - title: Return to Skull Island
+    author: Ron Miller
+  - title: The Iron Tempest
+    author: Ron Miller
+- name: Tides of Mutiny
+  origin: v3
+  books:
+  - title: Tides of Mutiny
+    author: Rebecca Rode

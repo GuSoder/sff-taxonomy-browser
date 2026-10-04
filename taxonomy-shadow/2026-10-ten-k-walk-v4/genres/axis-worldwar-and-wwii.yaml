@@ -1,0 +1,63 @@
+id: axis-worldwar-and-wwii
+label: Axis of time, worldwar and WWII
+parent: time-crossed-war
+origin: shadow-v3
+definition: Time crossed war.
+cards:
+- name: Axis of Time
+  origin: v3
+  books:
+  - title: Weapons of Choice
+    author: John Birmingham
+  - title: Designated Targets
+    author: John Birmingham
+  - title: Final Impact
+    author: John Birmingham
+  - title: 'Stalin''s Hammer: Rome (An Axis of Time Novella)'
+    author: John Birmingham
+- name: Worldwar
+  origin: v3
+  books:
+  - title: In the Balance (Worldwar, Book One)
+    author: Harry Turtledove
+  - title: Tilting the Balance (Worldwar, Book Two)
+    author: Harry Turtledove
+  - title: Upsetting the Balance (Worldwar, Book Three)
+    author: Harry Turtledove
+  - title: Striking the Balance (Worldwar, Book Four)
+    author: Harry Turtledove
+  - title: Second Contact (Colonization, Book One)
+    author: Harry Turtledove
+  - title: Breakthroughs (The Great War, Book Three)
+    author: Harry Turtledove
+  - title: Marching Through Peachtree
+    author: Harry Turtledove
+  - title: Advance and Retreat
+    author: Harry Turtledove
+  - title: Homeward Bound
+    author: Harry Turtledove
+  - title: End of the Beginning
+    author: Harry Turtledove
+  - title: A World of Difference
+    author: Harry Turtledove
+- name: Alt-WWII (DuBois)
+  origin: v3
+  books:
+  - title: Dark Victory
+    author: Brendan DuBois
+  - title: Black Triumph
+    author: Brendan DuBois
+- name: Swainston Standalones
+  origin: v3
+  books:
+  - title: No Present Like Time
+    author: Steph Swainston
+  - title: The Modern World
+    author: Steph Swainston
+  - title: The Year of Our War
+    author: Steph Swainston
+- name: Millennium Varley
+  origin: v3
+  books:
+  - title: Millennium
+    author: John Varley

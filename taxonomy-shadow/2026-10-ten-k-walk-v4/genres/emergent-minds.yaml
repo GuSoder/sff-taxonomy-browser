@@ -1,0 +1,19 @@
+id: emergent-minds
+label: Emergent minds
+parent: machine-minds
+origin: shadow-v2
+definition: ''
+cards:
+- name: WWW Trilogy
+  origin: v3
+  books:
+  - title: Wake
+    author: Robert J Sawyer
+  - title: Watch
+    author: Robert J Sawyer
+  - title: 'WWW: Wake'
+    author: Robert J. Sawyer
+  - title: 'WWW: Watch'
+    author: Robert J. Sawyer
+  - title: 'WWW: Wonder'
+    author: Robert J. Sawyer

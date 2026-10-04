@@ -1,0 +1,33 @@
+id: houses-that-keep-you
+label: Houses that keep you
+parent: housebound
+origin: shadow-v3
+definition: Haunted-house stories where the house holds, hunts or traps its occupants.
+cards:
+- name: Bag of Bones
+  origin: original
+  books:
+  - title: Bag of Bones
+- name: lost boy lost girl
+  origin: original
+  books:
+  - title: lost boy lost girl
+- name: The Invited
+  origin: original
+  books:
+  - title: The Invited
+- name: Your Blood My Bones
+  origin: v3
+  books:
+  - title: Your Blood, My Bones
+    author: Kelly Andrew
+- name: Mercy House
+  origin: v3
+  books:
+  - title: Mercy House
+    author: Adam Cesare
+- name: Season of Fear
+  origin: v3
+  books:
+  - title: Season of Fear
+    author: Emily Cooper

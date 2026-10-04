@@ -1,0 +1,45 @@
+id: spies-and-seas
+label: Spies and seas
+parent: court-spies
+origin: shadow-v3
+definition: Spies, sea trade and hidden loyalties.
+cards:
+- name: All the Seas of the World
+  origin: original
+  books:
+  - title: All the Seas of the World
+- name: Written on the Dark
+  origin: original
+  books:
+  - title: Written on the Dark
+- name: River of Souls
+  origin: v3
+  books:
+  - title: River of Souls
+    author: Beth Bernobich
+- name: Marianne Gordon Chron
+  origin: v3
+  books:
+  - title: The Antlered King
+    author: Marianne Gordon
+  - title: The Gilded Crown
+    author: Marianne Gordon
+- name: Secrets of Everlight
+  origin: v3
+  books:
+  - title: The Secrets of Everlight
+    author: Julie Hall
+- name: Ethshar
+  origin: v3
+  books:
+  - title: A Young Man Without Magic
+    author: Lawrence Watt-Evans
+  - title: Above His Proper Station
+    author: Lawrence Watt-Evans
+  - title: Night of Madness
+    author: Lawrence Watt-Evans
+- name: Burdens of the Dead
+  origin: v3
+  books:
+  - title: Burdens of the Dead
+    author: Mercedes Lackey

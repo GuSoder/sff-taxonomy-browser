@@ -1,0 +1,44 @@
+id: suburban-gothic
+label: Suburban Gothic
+parent: modern-goth
+origin: original
+definition: Modern Gothic in which the neighborhood or ordinary community becomes the source of persecution,
+  exclusion and uncanny menace.
+cards:
+- name: Fear
+  origin: original
+  books:
+  - title: Fear
+- name: Good Neighbors
+  origin: original
+  books:
+  - title: Good Neighbors
+- name: Pet
+  origin: original
+  books:
+  - title: Pet
+- name: Beautiful Creatures
+  origin: v3
+  books:
+  - title: A Gatlin Wedding
+    author: Kami Garcia
+  - title: Beautiful Chaos
+    author: Kami Garcia
+  - title: Beautiful Creatures
+    author: Kami Garcia
+  - title: Beautiful Darkness
+    author: Kami Garcia
+  - title: Beautiful Redemption
+    author: Kami Garcia
+  - title: Before the Claiming
+    author: Kami Garcia
+  - title: Dangerous Creatures
+    author: Kami Garcia
+  - title: Dangerous Deception
+    author: Kami Garcia
+  - title: 'Dream Dark: A Beautiful Creatures Story'
+    author: Kami Garcia
+  - title: The Mortal Heart
+    author: Kami Garcia
+  - title: The Seers Spread
+    author: Kami Garcia

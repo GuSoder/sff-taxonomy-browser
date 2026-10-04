@@ -1,0 +1,51 @@
+id: networked-minds
+label: Networked minds
+parent: net-and-code-minds
+origin: shadow-v3
+definition: Minds online.
+cards:
+- name: Leech
+  origin: v3
+  books:
+  - title: Leech
+    author: Hiron Ennes
+- name: Metrophage
+  origin: v3
+  books:
+  - title: Metrophage
+    author: Richard Kadrey
+- name: WebMage
+  origin: v3
+  books:
+  - title: WebMage
+    author: Kelly McCullough
+  - title: Cybermancy
+    author: Kelly McCullough
+  - title: Codespell
+    author: Kelly McCullough
+  - title: MythOS
+    author: Kelly McCullough
+  - title: Spellcrash
+    author: Kelly McCullough
+- name: Glass Harmonica
+  origin: v3
+  books:
+  - title: The Glass Harmonica
+    author: Louise Marley
+- name: Lost in Transmission
+  origin: v3
+  books:
+  - title: Lost in Transmission
+    author: Wil McCarthy
+- name: Love Minus Eighty
+  origin: v3
+  books:
+  - title: Love Minus Eighty
+    author: Will McIntosh
+- name: Rabbits
+  origin: v3
+  books:
+  - title: Rabbits
+    author: Terry Miles
+  - title: The Quiet Room
+    author: Terry Miles

@@ -1,0 +1,47 @@
+id: hometown-of-marvels
+label: Hometown of marvels
+parent: communal-magic-realism
+origin: original
+definition: Communal magic realism in which the marvelous belongs to one town, village or suburb - the
+  place's shared memory, commerce and ordinary fabric. Named by the curator 2026-09-28.
+cards:
+- name: Green Town
+  origin: original
+  books:
+  - title: Dandelion Wine
+    author: Ray Bradbury
+  - title: Farewell Summer
+    author: Ray Bradbury
+  - title: Summer Morning, Summer Night
+    author: Ray Bradbury
+- name: The Shipbuilder of Bellfairie
+  origin: original
+  books:
+  - title: The Shipbuilder of Bellfairie
+- name: Dwelling
+  origin: original
+  books:
+  - title: Dwelling
+- name: Honeyeater
+  origin: original
+  books:
+  - title: Honeyeater
+- name: Into the Sun
+  origin: original
+  books:
+  - title: Into the Sun
+- name: Light from Uncommon Stars
+  origin: v3
+  books:
+  - title: Light From Uncommon Stars
+    author: Ryka Aoki
+- name: The Frame-Up
+  origin: v3
+  books:
+  - title: The Frame-Up
+    author: Gwenda Bond
+- name: Magic Street
+  origin: v3
+  books:
+  - title: Magic Street
+    author: Orson Scott Card

@@ -1,0 +1,63 @@
+id: vampire-enforcers-and-zombies
+label: Vampire enforcers and zombies
+parent: vampire-literature-and-clubs
+origin: shadow-v3
+definition: Modern vampires.
+cards:
+- name: Romkey and Rosenberg Vampires
+  origin: v3
+  books:
+  - title: American Gothic
+    author: Michael Romkey
+  - title: The Vampire's Violin
+    author: Michael Romkey
+  - title: The Last Vampire
+    author: Patricia Rosemoor
+  - title: The Vampire Agent
+    author: Patricia Rosemoor
+- name: White Trash Zombie
+  origin: v3
+  books:
+  - title: Even White Trash Zombies Get the Blues
+    author: Diana Rowland
+  - title: White Trash Zombie Apocalypse
+    author: Diana Rowland
+  - title: How the White Trash Zombie Got Her Groove Back
+    author: Diana Rowland
+  - title: White Trash Zombie Gone Wild
+    author: Diana Rowland
+  - title: White Trash Zombie Unchained
+    author: Diana Rowland
+- name: Say It Out Loud
+  origin: v3
+  books:
+  - title: Say It Out Loud
+    author: Ashley Schumacher
+- name: Laws of the Blood
+  origin: v3
+  books:
+  - title: 'Laws of the Blood 1: The Hunt'
+    author: Susan Sizemore
+  - title: 'Laws of the Blood 2: Partners'
+    author: Susan Sizemore
+  - title: 'Laws of the Blood 4: Deceptions'
+    author: Susan Sizemore
+  - title: 'Laws of The Blood 5: Heroes'
+    author: Susan Sizemore
+  - title: Personal Demon
+    author: Susan Sizemore
+- name: Blood Riders
+  origin: v3
+  books:
+  - title: Blood Riders
+    author: Michael P Spradlin
+- name: Vampires Steakley
+  origin: v3
+  books:
+  - title: Vampires
+    author: John Steakley
+- name: Sword of Michael
+  origin: v3
+  books:
+  - title: The Sword of Michael
+    author: Marcus Wynne

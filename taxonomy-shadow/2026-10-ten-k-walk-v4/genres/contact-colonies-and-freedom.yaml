@@ -1,0 +1,84 @@
+id: contact-colonies-and-freedom
+label: Contact colonies and freedom worlds
+parent: contested-colonies
+origin: shadow-v3
+definition: Colonies built on contact, abduction or ship lore.
+cards:
+- name: Kristin Landon
+  origin: v3
+  books:
+  - title: The Hidden Worlds
+    author: Kristin Landon
+  - title: The Cold Minds
+    author: Kristin Landon
+  - title: The Dark Reaches
+    author: Kristin Landon
+- name: Amid the Crowd of Stars
+  origin: v3
+  books:
+  - title: Amid the Crowd of Stars
+    author: Stephen Leigh
+- name: Disestablishment of Paradise
+  origin: v3
+  books:
+  - title: The Disestablishment of Paradise
+    author: Phillip Mann
+- name: Doona Ireta
+  origin: v3
+  books:
+  - title: Decision at Doona
+    author: Anne McCaffrey
+  - title: The Mystery of Ireta
+    author: Anne McCaffrey
+  - title: Doona
+    author: Anne McCaffrey
+- name: Petaybee
+  origin: v3
+  books:
+  - title: Powers That Be
+    author: Anne McCaffrey
+  - title: Power Lines
+    author: Anne McCaffrey
+  - title: Power Play
+    author: Anne McCaffrey
+  - title: Changelings
+    author: Anne McCaffrey
+  - title: Maelstrom
+    author: Anne McCaffrey
+- name: Catteni Freedom
+  origin: v3
+  books:
+  - title: Freedom's Landing
+    author: Anne McCaffrey
+  - title: Freedom's Choice
+    author: Anne McCaffrey
+  - title: Freedom's Challenge
+    author: Anne McCaffrey
+  - title: Freedom's Ransom
+    author: Anne McCaffrey
+- name: Merbeth Fortuna
+  origin: v3
+  books:
+  - title: Discordia
+    author: Kristyn Merbeth
+  - title: Fortuna
+    author: Kristyn Merbeth
+  - title: Memoria
+    author: Kristyn Merbeth
+- name: Up Against It
+  origin: v3
+  books:
+  - title: Up Against It
+    author: Laura J. Mixon
+- name: Hush
+  origin: v3
+  books:
+  - title: Hush
+    author: Mary Ann Mohanraj
+- name: One Way
+  origin: v3
+  books:
+  - title: No Way
+    author: S. J. Morden
+  - title: One Way
+    author: S. J. Morden

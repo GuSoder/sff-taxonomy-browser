@@ -1,0 +1,22 @@
+id: algorithmic-surveillance-dystopias
+label: Algorithmic surveillance dystopias
+parent: social-dystopia-modern
+origin: original
+definition: 'Social dystopias of the recognizable present whose engine is algorithmic surveillance: data
+  systems read, score and detain citizens for what prediction says they will do. Split 2026-09-25 from
+  social-dystopia-modern (the curator ruling).'
+cards:
+- name: The Dream Hotel
+  origin: original
+  books:
+  - title: The Dream Hotel
+- name: Moxyland
+  origin: v3
+  books:
+  - title: Moxyland
+    author: Lauren Beukes
+- name: Shockwave Rider
+  origin: v3
+  books:
+  - title: The Shockwave Rider
+    author: John Brunner

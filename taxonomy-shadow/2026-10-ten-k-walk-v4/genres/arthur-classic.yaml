@@ -1,0 +1,56 @@
+id: arthur-classic
+label: Arthur classic
+parent: arthurian-fantasy
+origin: original
+definition: 'Arthurian fantasy told in the legend''s own mode: Camelot, its knights and the passing of
+  Arthur''s court, including modern works that write in that classic register. Split from Arthurian fantasy
+  at ten cards on the curator''s 2026-09-29 ruling (phonemsg-01M3NVHS8KEANY81ZFSMB9WXHZ ''Execute'').'
+cards:
+- name: The Once and Future King
+  origin: original
+  books:
+  - title: The Sword in the Stone
+    author: T. H. White
+  - title: The Queen of Air and Darkness
+    author: T. H. White
+  - title: The Ill-Made Knight
+    author: T. H. White
+  - title: The Candle in the Wind
+    author: T. H. White
+- name: Arthurian Saga
+  origin: original
+  books:
+  - title: The Crystal Cave
+    author: Mary Stewart
+  - title: The Hollow Hills
+    author: Mary Stewart
+  - title: The Last Enchantment
+    author: Mary Stewart
+  - title: The Wicked Day
+    author: Mary Stewart
+  - title: The Prince and the Pilgrim
+    author: Mary Stewart
+- name: The Bright Sword
+  origin: original
+  books:
+  - title: The Bright Sword
+- name: Gwenhwyfar
+  origin: v3
+  books:
+  - title: Gwenhwyfar
+    author: Mercedes Lackey
+- name: Merlin Lawhead
+  origin: v3
+  books:
+  - title: Merlin
+    author: Stephen R. Lawhead
+- name: Merlin Old Magic Mallory
+  origin: v3
+  books:
+  - title: 'Merlin: The Old Magic Part 1'
+    author: James Mallory
+- name: Queen of Camelot
+  origin: v3
+  books:
+  - title: Queen of Camelot
+    author: Nancy McKenzie

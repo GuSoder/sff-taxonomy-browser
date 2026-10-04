@@ -1,0 +1,53 @@
+id: psychic-societies
+label: Psychic societies
+parent: psi-powers
+origin: shadow-v3
+definition: 'Psychic ability as a community fact: orders, cities, mental networks and a new human order.'
+cards:
+- name: Mother London
+  origin: original
+  books:
+  - title: Mother London
+- name: The Philosopher's Stone
+  origin: original
+  books:
+  - title: The Philosopher's Stone
+- name: The Sending
+  origin: original
+  books:
+  - title: The Sending
+- name: Galactic Milieu
+  origin: v3
+  books:
+  - title: Diamond Mask
+    author: Julian May
+  - title: Jack the Bodiless
+    author: Julian May
+  - title: Magnificat
+    author: Julian May
+- name: Talents
+  origin: v3
+  books:
+  - title: To Ride Pegasus
+    author: Anne McCaffrey
+  - title: Pegasus in Flight
+    author: Anne McCaffrey
+  - title: The Rowan
+    author: Anne McCaffrey
+  - title: Damia
+    author: Anne McCaffrey
+  - title: Damia's Children
+    author: Anne McCaffrey
+  - title: Lyon's Pride
+    author: Anne McCaffrey
+  - title: The Tower and the Hive
+    author: Anne McCaffrey
+  - title: Pegasus in Space
+    author: Anne McCaffrey
+- name: Phyllis Gotlieb
+  origin: v3
+  books:
+  - title: Flesh And Gold
+    author: Phyllis Gotlieb
+  - title: Mindworlds
+    author: Phyllis Gotlieb

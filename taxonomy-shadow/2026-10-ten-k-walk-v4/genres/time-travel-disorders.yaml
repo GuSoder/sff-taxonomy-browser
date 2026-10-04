@@ -1,0 +1,15 @@
+id: time-travel-disorders
+label: Time travel disorders
+parent: time-travel-fiction
+origin: original
+definition: Time travel caused by an intrinsic medical or biological condition of the traveler.
+cards:
+- name: The Time Traveler's Wife
+  origin: original
+  books:
+  - title: The Time Traveler's Wife
+- name: Yesterday Is History
+  origin: original
+  books:
+  - title: Yesterday Is History
+    author: Kosoko Jackson

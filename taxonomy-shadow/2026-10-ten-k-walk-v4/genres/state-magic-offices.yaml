@@ -1,0 +1,76 @@
+id: state-magic-offices
+label: State magic offices
+parent: bureaucracies-of-the-occult
+origin: shadow-v3
+definition: Government magic services and secret archives.
+cards:
+- name: The Laundry Files
+  origin: v3
+  books:
+  - title: The Atrocity Archives
+    author: Charles Stross
+  - title: The Jennifer Morgue
+    author: Charles Stross
+  - title: The Fuller Memorandum
+    author: Charles Stross
+  - title: The Apocalypse Codex
+    author: Charles Stross
+  - title: 'Equoid: A Laundry Novella'
+    author: Charles Stross
+  - title: The Rhesus Chart
+    author: Charles Stross
+  - title: Three Tales from the Laundry Files
+    author: Charles Stross
+  - title: The Annihilation Score
+    author: Charles Stross
+  - title: The Nightmare Stacks
+    author: Charles Stross
+  - title: The Delirium Brief
+    author: Charles Stross
+  - title: The Labyrinth Index
+    author: Charles Stross
+- name: Pax Arcana
+  origin: v3
+  books:
+  - title: Charming
+    author: Elliott James
+  - title: Daring
+    author: Elliott James
+  - title: Fearless
+    author: Elliott James
+  - title: In Shining Armor
+    author: Elliott James
+  - title: Legend Has It
+    author: Elliott James
+- name: American Craftsmen
+  origin: v3
+  books:
+  - title: American Craftsmen
+    author: Tom Doyle
+  - title: The Left-Hand Way
+    author: Tom Doyle
+  - title: War and Craft
+    author: Tom Doyle
+- name: Knight Watch
+  origin: v3
+  books:
+  - title: Knight Watch
+    author: Tim Akers
+  - title: Valhellions
+    author: Tim Akers
+- name: Secret Histories Green
+  origin: v3
+  books:
+  - title: The Man with the Golden Torc
+    author: Simon R. Green
+  - title: For Love of Magic
+    author: Simon R. Green
+- name: Prospero's War
+  origin: v3
+  books:
+  - title: Cursed Moon
+    author: Jaye Wells
+  - title: Deadly Spells
+    author: Jaye Wells
+  - title: Dirty Magic
+    author: Jaye Wells

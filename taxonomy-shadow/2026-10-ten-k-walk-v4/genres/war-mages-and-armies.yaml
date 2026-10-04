@@ -1,0 +1,63 @@
+id: war-mages-and-armies
+label: War mages and armies
+parent: mages-at-war
+origin: shadow-v3
+definition: Epics where mages fight inside armies and wars.
+cards:
+- name: Age of Darkness (Aryan)
+  origin: v3
+  books:
+  - title: Battlemage
+    author: Stephen Aryan
+  - title: Bloodmage
+    author: Stephen Aryan
+  - title: Chaosmage
+    author: Stephen Aryan
+- name: The Poppy War
+  origin: v3
+  books:
+  - title: The Complete Poppy War Trilogy
+    author: R F Kuang
+  - title: The Poppy War Collection
+    author: R F Kuang
+- name: The Ascendant Trilogy
+  origin: original
+  books:
+  - title: The Tiger's Daughter
+    author: K Arsenault Rivera
+  - title: The Phoenix Empress
+    author: K Arsenault Rivera
+  - title: The Warrior Moon
+    author: K Arsenault Rivera
+- name: Siege trilogy
+  origin: original
+  books:
+  - title: Sixteen Ways to Defend a Walled City
+    author: K. J. Parker
+  - title: How to Rule an Empire and Get Away with It
+    author: K. J. Parker
+  - title: A Practical Guide to Conquering the World
+    author: K. J. Parker
+- name: Demontech
+  origin: v3
+  books:
+  - title: 'Demontech: Onslaught'
+    author: David Sherman
+  - title: 'Demontech: Gulf Run'
+    author: David Sherman
+  - title: 'Demontech: Rally Point'
+    author: David Sherman
+- name: Rage of Dragons
+  origin: v3
+  books:
+  - title: The Fires of Vengeance
+    author: Evan Winter
+  - title: The Rage of Dragons
+    author: Evan Winter
+- name: Steel Crow Saga
+  origin: v3
+  books:
+  - title: Steel Crow Saga
+    author: Individual Artists
+  - title: Steel Crow Saga
+    author: Paul Krueger

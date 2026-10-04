@@ -1,0 +1,45 @@
+id: lost-worlds-and-memory
+label: Lost worlds and memory
+parent: relics-under-study
+origin: shadow-v3
+definition: Lost worlds, lost eras and what remains of them.
+cards:
+- name: The Continuance
+  origin: original
+  books:
+  - title: Stars and Bones
+    author: Gareth L. Powell
+  - title: Descendant Machine
+    author: Gareth L. Powell
+- name: The Memory War
+  origin: original
+  books:
+  - title: Architects of Memory
+    author: Karen Osborne
+  - title: Engines of Oblivion
+    author: Karen Osborne
+- name: The Last Astronaut
+  origin: v3
+  books:
+  - title: The Last Astronaut
+    author: David Wellington
+- name: Ghost from Grand Banks
+  origin: v3
+  books:
+  - title: The Ghost From The Grand Banks
+    author: Arthur C. Clarke
+- name: Out of the Silence
+  origin: v3
+  books:
+  - title: Out of the Silence
+    author: Erle Cox
+- name: Girl in the Golden Atom
+  origin: v3
+  books:
+  - title: The Girl in the Golden Atom
+    author: Ray Cummings
+- name: Lost Continent
+  origin: v3
+  books:
+  - title: The Lost Continent
+    author: C.J. Cutcliffe-Hyne

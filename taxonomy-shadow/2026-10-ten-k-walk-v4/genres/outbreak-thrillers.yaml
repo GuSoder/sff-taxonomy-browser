@@ -1,0 +1,44 @@
+id: outbreak-thrillers
+label: Outbreak thrillers
+parent: plagues-and-pandemics
+origin: shadow-v3
+definition: Pathogens and outbreaks.
+cards:
+- name: The Andromeda Strain
+  origin: original
+  books:
+  - title: The Andromeda Strain
+- name: Invasive Procedures
+  origin: v3
+  books:
+  - title: Invasive Procedures
+    author: Orson Scott Card
+- name: Child Zero
+  origin: v3
+  books:
+  - title: Child Zero
+    author: Chris Holm
+- name: Murder on Disoriented Express
+  origin: v3
+  books:
+  - title: Murder on the Disoriented Express
+    author: Emily Lloyd-Jones
+- name: 7 Sykos
+  origin: v3
+  books:
+  - title: 7 Sykos
+    author: Marsheila Rockwelljeff Mariotte
+- name: Hater Trilogy
+  origin: v3
+  books:
+  - title: Dog Blood
+    author: David Moody
+  - title: Hater
+    author: David Moody
+  - title: Them or Us
+    author: David Moody
+- name: Ghost Cell
+  origin: v3
+  books:
+  - title: Ghost Cell
+    author: Zac Topping

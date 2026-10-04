@@ -1,0 +1,59 @@
+id: pulp-space-odyssey
+label: Pulp space odyssey
+parent: golden-age-space-opera
+origin: original
+definition: 'A protagonist or small party propelled across space by exploration, revenge, flight or adventure
+  rather than governing galactic power. Boundary test: remove the rival-power structure; if a person’s
+  journey remains, it belongs here.'
+cards:
+- name: The Heechee Saga
+  origin: original
+  books:
+  - title: Gateway
+    author: Frederik Pohl
+  - title: Beyond the Blue Event Horizon
+    author: Frederik Pohl
+  - title: Heechee Rendezvous
+    author: Frederik Pohl
+  - title: The Annals of the Heechee
+    author: Frederik Pohl
+  - title: The Gateway Trip
+    author: Frederik Pohl
+  - title: The Boy Who Would Live Forever
+    author: Frederik Pohl
+- name: The Stars My Destination
+  origin: original
+  books:
+  - title: The Stars My Destination
+- name: The Witches of Karres
+  origin: original
+  books:
+  - title: The Witches of Karres
+- name: Have Space Suit -- Will Travel
+  origin: original
+  books:
+  - title: Have Space Suit -- Will Travel
+- name: Rocket Riders
+  origin: v3
+  books:
+  - title: Lost on the Moon
+    author: Howard R. Garis
+  - title: Rocket Riders Across the Ice
+    author: Howard R. Garis
+  - title: Rocket Riders in Stormy Seas
+    author: Howard R. Garis
+  - title: Rocket Riders in the Air
+    author: Howard R. Garis
+  - title: Through Space to Mars
+    author: Howard R. Garis
+- name: Lensman
+  origin: v3
+  books:
+  - title: Children of the Lens
+    author: E.E. 'Doc' Smith
+  - title: Galactic Patrol
+    author: E.E. 'Doc' Smith
+  - title: Grey Lensman
+    author: E.E. 'Doc' Smith
+  - title: Second Stage Lensmen
+    author: E.E. 'Doc' Smith

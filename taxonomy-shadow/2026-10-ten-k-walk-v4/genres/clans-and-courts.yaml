@@ -1,0 +1,83 @@
+id: clans-and-courts
+label: Clans and Courts
+parent: vampire-worlds
+origin: shadow-v3
+definition: 'Vampire fantasy of vampire society itself: clans, courts, families and rules.'
+cards:
+- name: The Vampire Chronicles
+  origin: original
+  books:
+  - title: Interview with the Vampire
+    author: Anne Rice
+  - title: The Vampire Lestat
+    author: Anne Rice
+  - title: The Queen of the Damned
+    author: Anne Rice
+  - title: The Tale of the Body Thief
+    author: Anne Rice
+  - title: Memnoch the Devil
+    author: Anne Rice
+  - title: The Vampire Armand
+    author: Anne Rice
+  - title: Merrick
+    author: Anne Rice
+  - title: Blood and Gold
+    author: Anne Rice
+  - title: Blackwood Farm
+    author: Anne Rice
+  - title: Blood Canticle
+    author: Anne Rice
+  - title: Prince Lestat
+    author: Anne Rice
+  - title: Prince Lestat and the Realms of Atlantis
+    author: Anne Rice
+  - title: Blood Communion
+    author: Anne Rice
+- name: Fledgling
+  origin: v3
+  books:
+  - title: Fledgling
+    author: Octavia E. Butler
+- name: A Dowry of Blood
+  origin: v3
+  books:
+  - title: A Dowry of Blood
+    author: S. T. Gibson
+  - title: An Education in Malice
+    author: S. T. Gibson
+  - title: Savage Blooms
+    author: S. T. Gibson
+  - title: Tangled Roots
+    author: S. T. Gibson
+- name: Half-Light City
+  origin: v3
+  books:
+  - title: At Grave's End
+    author: Jeaniene Frost
+  - title: Halfway to the Grave
+    author: Jeaniene Frost
+  - title: One Foot in the Grave
+    author: Jeaniene Frost
+- name: Lost Souls
+  origin: original
+  books:
+  - title: Lost Souls
+- name: Sunshine
+  origin: original
+  books:
+  - title: Sunshine
+- name: Osten Ard
+  origin: v3
+  books:
+  - title: The Heart of What Was Lost
+    author: Tad Williams
+  - title: The Witchwood Crown
+    author: Tad Williams
+  - title: Empire of Grass
+    author: Tad Williams
+  - title: Brothers of the Wind
+    author: Tad Williams
+  - title: Into the Narrowdark
+    author: Tad Williams
+  - title: The Navigator's Children
+    author: Tad Williams

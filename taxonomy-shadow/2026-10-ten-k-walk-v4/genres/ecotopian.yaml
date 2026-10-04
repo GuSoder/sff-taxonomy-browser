@@ -1,0 +1,48 @@
+id: ecotopian
+label: Ecotopian
+parent: hopepunk
+origin: original
+definition: Utopian fiction whose better society is founded on ecological balance, sustainable lifeways
+  and a transformed relationship between people and the natural world.
+cards:
+- name: Ecotopia
+  origin: original
+  books:
+  - title: 'Ecotopia: The Notebooks and Reports of William Weston'
+    author: Ernest Callenbach
+  - title: Ecotopia Emerging
+    author: Ernest Callenbach
+- name: Always Coming Home
+  origin: original
+  books:
+  - title: Always Coming Home
+- name: News from Nowhere
+  origin: original
+  books:
+  - title: News from Nowhere
+- name: The Bounceback
+  origin: original
+  books:
+  - title: Gamechanger
+    author: L. X. Beckett
+  - title: Dealbreaker
+    author: L. X. Beckett
+- name: The Ministry for the Future
+  origin: original
+  books:
+  - title: The Ministry for the Future
+- name: The Bannerless Saga
+  origin: original
+  books:
+  - title: Bannerless
+    author: Carrie Vaughn
+  - title: The Wild Dead
+    author: Carrie Vaughn
+- name: The Terraformers
+  origin: original
+  books:
+  - title: The Terraformers
+- name: When There Are Wolves Again
+  origin: original
+  books:
+  - title: When There Are Wolves Again

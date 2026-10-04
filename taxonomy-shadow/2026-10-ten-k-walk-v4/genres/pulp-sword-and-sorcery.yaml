@@ -1,0 +1,38 @@
+id: pulp-sword-and-sorcery
+label: Pulp S&S
+parent: classic-sword-and-sorcery
+origin: original
+definition: Sword and Sorcery's pulp tradition, from the golden-age wave of Fafhrd and the Gray Mouser
+  through The Black Company. Golden Age and Revival sub-shelves hidden by the curator 2026-09-26; Revival
+  left empty when Dark Star moved to Griot.
+cards:
+- name: Fafhrd and the Gray Mouser
+  origin: v3
+  books:
+  - title: The First Book of Lankhmar
+    author: Fritz Leiber
+  - title: The Second Book Of Lankhmar
+    author: Fritz Leiber
+- name: The Black Company
+  origin: v3
+  books:
+  - title: Chronicles of the Black Company
+    author: Glen Cook
+  - title: 'The Books of the South: Tales of the Black Company'
+    author: Glen Cook
+  - title: The Return of the Black Company
+    author: Glen Cook
+  - title: The Many Deaths of the Black Company
+    author: Glen Cook
+  - title: Annals of the Black Company
+    author: Glen Cook
+  - title: Port of Shadows
+    author: Glen Cook
+  - title: Lies Weeping
+    author: Glen Cook
+  - title: They Cry
+    author: Glen Cook
+- name: The Tritonian Ring and Other Pusadian Tales
+  origin: original
+  books:
+  - title: The Tritonian Ring and Other Pusadian Tales

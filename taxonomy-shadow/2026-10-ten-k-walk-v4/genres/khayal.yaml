@@ -1,0 +1,70 @@
+id: khayal
+label: Khayal
+parent: far-shores-fantasy
+origin: original
+definition: 'خيال (khayal), Arabic for imagination and fantasy, with the classical double sense of shadow
+  and phantom: fantasy of invented worlds drawn from Arabic, Islamic and Andalusi cultures and histories.
+  Alf Layla is banked for a future classical Nights leaf. Named by the curator 2026-09-23.'
+cards:
+- name: The Lions of Al-Rassan
+  origin: original
+  books:
+  - title: The Lions of Al-Rassan
+- name: The Daevabad Trilogy
+  origin: original
+  books:
+  - title: The City of Brass
+    author: S. A. Chakraborty
+  - title: The Kingdom of Copper
+    author: S. A. Chakraborty
+  - title: The Empire of Gold
+    author: S. A. Chakraborty
+- name: The Bruising of Qilwa
+  origin: original
+  books:
+  - title: The Bruising of Qilwa
+- name: The Collector Chronicles (Stardust Thief trilogy)
+  origin: v3
+  books:
+  - title: The Ashfire King
+    author: Chelsea Abdullah
+  - title: The Midnight Merchant
+    author: Chelsea Abdullah
+  - title: The Stardust Thief
+    author: Chelsea Abdullah
+- name: The Crescent Moon Kingdoms
+  origin: v3
+  books:
+  - title: Throne of the Crescent Moon
+    author: Saladin Ahmed
+- name: Song of Shattered Sands
+  origin: v3
+  books:
+  - title: Blood upon the Sand
+    author: Bradley Beaulieu
+  - title: Twelve Kings
+    author: Bradley Beaulieu
+  - title: Twelve Kings in Sharakhai
+    author: Bradley P. Beaulieu
+  - title: Of Sand and Malice Made
+    author: Bradley P. Beaulieu
+  - title: With Blood Upon the Sand
+    author: Bradley P. Beaulieu
+  - title: A Veil of Spears
+    author: Bradley P. Beaulieu
+  - title: Beneath the Twisted Trees
+    author: Bradley P. Beaulieu
+  - title: When Jackals Storm the Walls
+    author: Bradley P. Beaulieu
+  - title: A Desert Torn Asunder
+    author: Bradley P. Beaulieu
+- name: Daevabad
+  origin: v3
+  books:
+  - title: The River of Silver
+    author: S A Chakraborty
+- name: Witch Daughter
+  origin: v3
+  books:
+  - title: Witch Daughter
+    author: Tanaz Bhathena

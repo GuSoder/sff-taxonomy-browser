@@ -1,0 +1,105 @@
+id: dragon-keepers-and-seas
+label: Dragon keepers and seas
+parent: apprentices-and-masters
+origin: shadow-v3
+definition: Keepers of dragons and wanderers on seas.
+cards:
+- name: Dragon's Boy
+  origin: v3
+  books:
+  - title: The Dragon's Apprentice
+    author: David Carrico
+  - title: The Dragon's Boy
+    author: David Carrico
+- name: Death Gate Cycle
+  origin: v3
+  books:
+  - title: Dragon Wing
+    author: Tracy Hickman
+  - title: Elven Star
+    author: Tracy Hickman
+  - title: Fire Sea
+    author: Tracy Hickman
+  - title: Serpent Mage
+    author: Tracy Hickman
+  - title: The Hand of Chaos
+    author: Tracy Hickman
+  - title: Into the Labyrinth
+    author: Tracy Hickman
+  - title: The Seventh Gate
+    author: Tracy Hickman
+- name: Hobb Rain Wilds
+  origin: v3
+  books:
+  - title: Forest Mage
+    author: Robin Hobb
+  - title: The Rain Wilds Chronicles
+    author: Robin Hobb
+- name: Forever Sea
+  origin: v3
+  books:
+  - title: The Forever Sea
+    author: Joshua Phillip Johnson
+  - title: The Endless Song
+    author: Joshua Phillip Johnson
+  - title: The Bloodless Queen
+    author: Joshua Phillip Johnson
+- name: Dragon Keeper Hobb
+  origin: v3
+  books:
+  - title: Dragon Keeper with Bonus Material
+    author: Robin Hobbmegan Lindholm
+- name: Dragons Koboldt
+  origin: v3
+  books:
+  - title: Domesticating Dragons
+    author: Dan Koboldt
+  - title: Deploying Dragons
+    author: Dan Koboldt
+- name: Darger and Surplus
+  origin: v3
+  books:
+  - title: Zeppelin City
+    author: Michael Swanwick
+  - title: Day of the Kraken
+    author: Michael Swanwick
+  - title: The Mongolian Wizard
+    author: Michael Swanwick
+  - title: House of Dreams
+    author: Michael Swanwick
+  - title: Chasing the Phoenix
+    author: Michael Swanwick
+  - title: The Night of the Salamander
+    author: Michael Swanwick
+  - title: The Phantom in the Maze
+    author: Michael Swanwick
+  - title: The Pyramid of Krakow
+    author: Michael Swanwick
+  - title: Murder in the Spook House
+    author: Michael Swanwick
+  - title: The New Prometheus
+    author: Michael Swanwick
+- name: Lightbringer
+  origin: v3
+  books:
+  - title: The Black Prism
+    author: Brent Weeks
+  - title: The Blinding Knife
+    author: Brent Weeks
+  - title: The Blood Mirror
+    author: Brent Weeks
+  - title: The Broken Eye
+    author: Brent Weeks
+  - title: The Burning White
+    author: Brent Weeks
+- name: Dragon Brigade
+  origin: v3
+  books:
+  - title: Mistress of Dragons
+    author: Margaret Weis
+  - title: Master of Dragons
+    author: Margaret Weis
+  - title: The Dragon's Son
+    author: Margaret Weis
+  - title: The Complete Dragonships of Vindras Series
+    author: Margaret Weis

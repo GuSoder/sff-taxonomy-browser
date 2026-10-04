@@ -1,0 +1,39 @@
+id: west-of-the-dead
+label: West of the dead
+parent: weird-west-fantasy
+origin: shadow-v3
+definition: 'Weird West fantasy leaning to horror: vampires, cannibal wagon trains, hunters and haunted
+  frontier towns.'
+cards:
+- name: The Hunger
+  origin: original
+  books:
+  - title: The Hunger
+- name: The Buffalo Hunter Hunter
+  origin: original
+  books:
+  - title: The Buffalo Hunter Hunter
+- name: Vampires of El Norte
+  origin: original
+  books:
+  - title: Vampires of El Norte
+- name: Red Waters Rising
+  origin: original
+  books:
+  - title: Red Waters Rising
+- name: Cunning Man
+  origin: v3
+  books:
+  - title: The Cunning Man
+    author: D.J. Butler
+  - title: The Familiar Spirit
+    author: D.J. Butler
+  - title: The Jupiter Knife
+    author: D.J. Butler
+- name: Red Rabbit
+  origin: v3
+  books:
+  - title: Red Rabbit
+    author: Alex Grecian
+  - title: Rose of Jericho
+    author: Alex Grecian

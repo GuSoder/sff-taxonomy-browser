@@ -1,0 +1,74 @@
+id: dark-fae-courts-a
+label: Fae courts, dark and bright
+parent: fae-courts-of-the-realm
+origin: shadow-v3
+definition: Fae courts.
+cards:
+- name: Otherworldly
+  origin: original
+  books:
+  - title: Otherworldly
+- name: One Dark Window
+  origin: v3
+  books:
+  - title: One Dark Window
+    author: Rachel Gillig
+  - title: The Knave and the Moon
+    author: Rachel Gillig
+- name: Fae & Alchemy
+  origin: v3
+  books:
+  - title: Brimstone
+    author: Callie Hart
+  - title: Fae & Alchemy Book 3
+    author: Callie Hart
+  - title: Quicksilver
+    author: Callie Hart
+- name: Faebound
+  origin: v3
+  books:
+  - title: Faebound
+    author: Saara El-Arifi
+  - title: Cursebound
+    author: Saara El-Arifi
+  - title: Earthbound
+    author: Saara El-Arifi
+- name: Faerie Bargains
+  origin: v3
+  books:
+  - title: The Tricky Business of Faerie Bargains
+    author: Reena McCarty
+- name: Sorceress and the Cygnet
+  origin: v3
+  books:
+  - title: The Sorceress and the Cygnet
+    author: Patricia A. McKillip
+  - title: The Cygnet and the Firebird
+    author: Patricia A. McKillip
+- name: Jessica Thorne
+  origin: v3
+  books:
+  - title: A Crown of Darkness
+    author: Jessica Thorne
+  - title: A Kiss of Flame
+    author: Jessica Thorne
+  - title: A Touch of Shadows
+    author: Jessica Thorne
+  - title: Mageborn
+    author: Jessica Thorne
+  - title: Nightborn
+    author: Jessica Thorne
+- name: Heather Walter Malice
+  origin: v3
+  books:
+  - title: Malice
+    author: Heather Walter
+  - title: Misrule
+    author: Heather Walter
+- name: Liv Zander
+  origin: v3
+  books:
+  - title: Crown Me Dead
+    author: Liv Zander
+  - title: Crown Me Yours
+    author: Liv Zander

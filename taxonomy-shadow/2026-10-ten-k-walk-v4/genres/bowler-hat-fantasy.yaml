@@ -1,0 +1,35 @@
+id: bowler-hat-fantasy
+label: Bowler hat fantasy
+parent: industrial-age-fantasy
+origin: original
+definition: 'American historical fantasy of the early twentieth century, roughly 1900-1929, before the
+  Depression: from the last land claims of the frontier to new urban life and the Jazz Age. Any American
+  region and civilian or home-front setting may fit; magic or the supernatural enters that period stage.
+  The name evokes the era, not a required hat in the story. The Great War leaf takes works whose engine
+  is the war or its social machinery; Weird West takes the nineteenth-century frontier, and Dust Bowl
+  takes Depression-era Plains and Southwest.'
+cards:
+- name: Lone Women
+  origin: original
+  books:
+  - title: Lone Women
+- name: When the Angels Left the Old Country
+  origin: original
+  books:
+  - title: When the Angels Left the Old Country
+- name: Ring Shout
+  origin: v3
+  books:
+  - title: Ring Shout
+    author: P. Djeli Clark
+- name: Last Binding
+  origin: v3
+  books:
+  - title: A Marvellous Light
+    author: Freya Marske
+  - title: A Restless Truth
+    author: Freya Marske
+  - title: A Power Unbound
+    author: Freya Marske
+  - title: The Last Binding Trilogy
+    author: Freya Marske

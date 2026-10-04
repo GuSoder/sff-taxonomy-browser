@@ -1,0 +1,33 @@
+id: pilots-columbus-and-crystal-city
+label: Pilots, Columbus and the crystal city
+parent: early-moon-voyages
+origin: shadow-v3
+definition: Moon voyages cont.
+cards:
+- name: Enigmatic Pilot
+  origin: v3
+  books:
+  - title: Enigmatic Pilot
+    author: Kris Saknussemm
+- name: Columbus of Space
+  origin: v3
+  books:
+  - title: A Columbus of Space
+    author: Garrett P. Serviss
+- name: Second Chances Shwartz
+  origin: v3
+  books:
+  - title: Second Chances
+    author: Susan Shwartz
+- name: James Smythe Space
+  origin: v3
+  books:
+  - title: The Echo
+    author: James Smythe
+  - title: The Explorer
+    author: James Smythe
+- name: Crystal City Under the Sea
+  origin: v3
+  books:
+  - title: The Crystal City Under the Sea
+    author: Andre Laurie

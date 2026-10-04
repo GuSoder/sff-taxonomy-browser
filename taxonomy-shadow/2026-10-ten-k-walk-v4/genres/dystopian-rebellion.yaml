@@ -1,0 +1,26 @@
+id: dystopian-rebellion
+label: Dystopian rebellion
+parent: totalitarian-dystopia
+origin: original
+definition: 'Totalitarian dystopias told from the rebellion: the regime has already taken power, and the
+  story follows those who fight to bring it down - guerrillas, insurgents, resistance cells. Named by
+  the curator 2026-09-23.'
+cards:
+- name: The Wild Boys
+  origin: original
+  books:
+  - title: The Wild Boys
+- name: Notes from a Regicide
+  origin: original
+  books:
+  - title: Notes from a Regicide
+- name: Dissension
+  origin: v3
+  books:
+  - title: Dissension
+    author: Stacey Berg
+- name: Walled City
+  origin: v3
+  books:
+  - title: The Walled City
+    author: Ryan Graudin

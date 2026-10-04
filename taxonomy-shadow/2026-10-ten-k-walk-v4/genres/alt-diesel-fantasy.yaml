@@ -1,0 +1,57 @@
+id: alt-diesel-fantasy
+label: Alt diesel fantasy
+parent: alternate-history-fantasy
+origin: original
+definition: 'Alternate history fantasy of the machine-age 20th century, roughly the 1910s to the 1950s,
+  from Cairo and Europe to America: world wars, airships, empires and cities of steel, and magic is the
+  engine: history is openly rewritten and the world runs on magic.'
+cards:
+- name: Dead Djinn Universe
+  origin: original
+  books:
+  - title: A Dead Djinn in Cairo
+    author: P. Djèlí Clark
+  - title: The Haunting of Tram Car 015
+    author: P. Djèlí Clark
+  - title: A Master of Djinn
+    author: P. Djèlí Clark
+- name: Summerland
+  origin: original
+  books:
+  - title: Summerland
+- name: Burn
+  origin: original
+  books:
+  - title: Burn
+- name: Dominion of the Fallen
+  origin: original
+  books:
+  - title: The House of Shattered Wings
+    author: Aliette de Bodard
+  - title: The House of Binding Thorns
+    author: Aliette de Bodard
+  - title: The House of Sundering Flames
+    author: Aliette de Bodard
+- name: Rust in the Root
+  origin: original
+  books:
+  - title: Rust in the Root
+- name: Breath of Earth
+  origin: v3
+  books:
+  - title: Breath of Earth
+    author: Beth Cato
+  - title: Call of Fire
+    author: Beth Cato
+  - title: Roar of Sky
+    author: Beth Cato
+- name: Company Man
+  origin: v3
+  books:
+  - title: The Company Man
+    author: Robert Jackson Bennett
+- name: Black Opera
+  origin: v3
+  books:
+  - title: Black Opera
+    author: Mary Gentle

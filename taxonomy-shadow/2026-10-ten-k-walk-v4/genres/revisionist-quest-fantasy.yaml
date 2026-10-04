@@ -1,0 +1,55 @@
+id: revisionist-quest-fantasy
+label: Revisionist quest fantasy
+parent: high-fantasy
+origin: original
+definition: Quest narratives that keep the journey while interrogating, reversing or reckoning with the
+  inherited heroic-quest template and its ideals.
+cards:
+- name: The Last Unicorn
+  origin: original
+  books:
+  - title: The Last Unicorn
+- name: The Chronicles of Thomas Covenant the Unbeliever
+  origin: original
+  books:
+  - title: Lord Foul's Bane
+    author: Stephen R. Donaldson
+  - title: The Illearth War
+    author: Stephen R. Donaldson
+  - title: The Power That Preserves
+    author: Stephen R. Donaldson
+- name: Salvation's Fire
+  origin: original
+  books:
+  - title: Salvation's Fire
+- name: Tess of the Road
+  origin: original
+  books:
+  - title: Tess of the Road
+- name: The Breath of the Sun
+  origin: original
+  books:
+  - title: The Breath of the Sun
+- name: The Serpent Gates
+  origin: original
+  books:
+  - title: The Unspoken Name
+    author: A. K. Larkwood
+  - title: The Thousand Eyes
+    author: A. K. Larkwood
+- name: The Clocktaur War
+  origin: original
+  books:
+  - title: Clockwork Boys
+    author: T. Kingfisher
+  - title: The Wonder Engine
+    author: T. Kingfisher
+- name: The Nightward
+  origin: original
+  books:
+  - title: The Nightward
+- name: Innkeeper's Song
+  origin: v3
+  books:
+  - title: The Innkeeper's Song
+    author: Peter S. Beagle
