@@ -4,17 +4,6 @@ parent: crewed-contact-missions
 origin: shadow-v3
 definition: Crewed missions cont.
 cards:
-- name: Proxima
-  origin: v3
-  books:
-  - title: Proxima
-    author: Stephen Baxter
-  - title: Ultima
-    author: Stephen Baxter
-  - title: Crisis at Proxima
-    author: Travis S. Taylor
-  - title: Saving Proxima
-    author: Travis S. Taylor
 - name: Off on a Comet
   origin: v3
   books:

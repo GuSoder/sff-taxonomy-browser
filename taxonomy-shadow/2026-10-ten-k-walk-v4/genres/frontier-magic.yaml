@@ -8,15 +8,12 @@ cards:
   origin: original
   books:
   - title: The Silverberg Business
-- name: Golgotha (Belcher)
-  origin: v3
-  books:
-  - title: The Shotgun Arcana
-    author: R. S. Belcher
 - name: Golgotha
   origin: v3
   books:
   - title: The Queen of Swords
+    author: R. S. Belcher
+  - title: The Shotgun Arcana
     author: R. S. Belcher
 - name: Shadow series (Bowen)
   origin: v3

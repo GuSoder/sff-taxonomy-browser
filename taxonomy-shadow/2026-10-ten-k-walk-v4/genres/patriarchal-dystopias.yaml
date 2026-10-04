@@ -13,17 +13,6 @@ cards:
     author: Margaret Atwood
   - title: The Testaments
     author: Margaret Atwood
-- name: The Holdfast Chronicles
-  origin: original
-  books:
-  - title: Walk to the End of the World
-    author: Suzy McKee Charnas
-  - title: Motherlines
-    author: Suzy McKee Charnas
-  - title: The Furies
-    author: Suzy McKee Charnas
-  - title: The Conqueror's Child
-    author: Suzy McKee Charnas
 - name: The Unworthy
   origin: original
   books:
@@ -32,6 +21,14 @@ cards:
   origin: v3
   books:
   - title: The Slave and The Free
+    author: Suzy McKee Charnas
+  - title: Walk to the End of the World
+    author: Suzy McKee Charnas
+  - title: Motherlines
+    author: Suzy McKee Charnas
+  - title: The Furies
+    author: Suzy McKee Charnas
+  - title: The Conqueror's Child
     author: Suzy McKee Charnas
 - name: Native Tongue
   origin: v3

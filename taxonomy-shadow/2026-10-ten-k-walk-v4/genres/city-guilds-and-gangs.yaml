@@ -4,13 +4,6 @@ parent: big-city-underworlds
 origin: shadow-v3
 definition: Gangs, monsters and city guards.
 cards:
-- name: Shambling Guide
-  origin: v3
-  books:
-  - title: Ghost Train to New Orleans
-    author: Mur Lafferty
-  - title: The Shambling Guide to New York City
-    author: Mur Lafferty
 - name: Lazellari Guardians of Aandor
   origin: v3
   books:
@@ -25,13 +18,6 @@ cards:
   books:
   - title: Red City
     author: Marie Lu
-- name: King Rat
-  origin: v3
-  books:
-  - title: King Rat
-    author: China Mieville; introduction by Tim Maughan
-  - title: King Rat
-    author: China Mieville
 - name: Priest of Bones
   origin: v3
   books:
