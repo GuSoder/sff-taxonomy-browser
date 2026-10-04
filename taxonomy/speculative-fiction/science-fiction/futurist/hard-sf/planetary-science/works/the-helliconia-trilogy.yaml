@@ -1,0 +1,31 @@
+id: the-helliconia-trilogy
+title: The Helliconia Trilogy
+authors:
+- Brian W. Aldiss
+first_published: 1982
+canonical_genre: planetary-science
+placement_status: accepted
+placement_rationale: 'Aldiss''s Helliconia trilogy (Spring, Summer, Winter) follows civilizations across a planet whose year
+  lasts thousands of Earth years, so climate and seasons govern the rise and fall of life (Wikipedia, Aldiss''s own account).
+  The planet''s climate is the engine: Planetary science.'
+books:
+- title: Helliconia Spring
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/8776774-L.jpg
+- title: Helliconia Summer
+  year: 1983
+  cover_url: https://covers.openlibrary.org/b/id/477236-L.jpg
+- title: Helliconia Winter
+  year: 1985
+  cover_url: https://covers.openlibrary.org/b/id/477241-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8431035-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01151, MC01151, MC01151)
+placement_history:
+- date: '2026-10-04'
+  to: planetary-science
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
