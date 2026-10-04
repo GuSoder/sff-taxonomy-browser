@@ -5,3 +5,6 @@ Queue rows after MC08548 (Bound by Fate, Akers x4, Wm Akers x3, Alama...) are un
 
 ## 2026-10-04 18:07 - name update (still unapproved)
 Proposal names now: Otherworld summonings (user suggestion, phonemsg-01M43TMZE6DPSBTC1XAFWGNEJW relayed), Otherworld strays, Wainscot fantasy. Split not executed; whole run paused until approval.
+
+## 2026-10-04 18:09 - name update 2 (still unapproved)
+Proposal names now: Otherworld summonings, Lost in Otherworlds, Wainscot fantasy (relayed by the parent; the user wanted a less misreadable name than "strays"). Assignment unchanged 4/4/2. Not executed; whole run paused until approval.
