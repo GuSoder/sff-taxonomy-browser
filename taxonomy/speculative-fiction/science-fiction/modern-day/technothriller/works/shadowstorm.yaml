@@ -1,0 +1,28 @@
+id: shadowstorm
+title: Shadowstorm
+authors:
+- G. T. Almasi
+first_published: 2012
+canonical_genre: technothriller
+placement_status: accepted
+placement_rationale: 'G. T. Almasi''s Shadowstorm (Blades of Winter, Hammer of Angels): cybernetically and biologically enhanced
+  operatives fight a Cold War among the powers of a near-future world, a spy-thriller built on technical detail (Penguin Random
+  House). Near-future technology thriller in a mundane Earth world: Technothriller.'
+books:
+- title: Blades of Winter
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7665560-L.jpg
+- title: Hammer of Angels
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7779222-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7665560-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03231, MC03232)
+placement_history:
+- date: '2026-10-04'
+  to: technothriller
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

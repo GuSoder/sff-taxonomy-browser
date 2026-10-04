@@ -1,0 +1,25 @@
+id: alien-affairs
+title: Alien Affairs
+authors:
+- Katherine Allred
+first_published: 2009
+canonical_genre: space-romance
+placement_status: accepted
+placement_rationale: 'Katherine Allred''s Alien Affairs: Close Encounters sends a genetically engineered Bureau of Alien Affairs
+  agent to an alien planet where danger, intrigue and desire meet (HarperCollins, Barnes & Noble: ''science fiction romance'').
+  The romance runs the plot with interstellar travel shaping it: Space romance.'
+books:
+- title: Close Encounters
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/8629177-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8629177-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05349)
+placement_history:
+- date: '2026-10-04'
+  to: space-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

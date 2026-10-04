@@ -1,0 +1,28 @@
+id: terminator-3-novels
+title: Terminator 3 novels
+authors:
+- Aaron Allston
+first_published: 2003
+canonical_genre: future-war
+placement_status: accepted
+placement_rationale: 'Aaron Allston''s Terminator 3 novels (Terminator Dreams, Terminator Hunt) are set in the 2029 war between
+  the human Resistance and Skynet''s machines (Open Road, Publishers Weekly). War transformed by technology and fought on
+  Earth is the whole stage: Future war.'
+books:
+- title: Terminator Dreams
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/isbn/0765308525-L.jpg
+- title: Terminator Hunt
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/524340-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/524340-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00254, MC00255)
+placement_history:
+- date: '2026-10-04'
+  to: future-war
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
