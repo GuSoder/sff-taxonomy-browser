@@ -1,0 +1,29 @@
+id: quest-for-the-fallen-star
+title: Quest for the Fallen Star
+authors:
+- Piers Anthony
+- James Richey
+- Alan Riggs
+first_published: 1998
+canonical_genre: fellowship-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Standalone secondary-world quest (Tor, 1998): young elf-enchantress Chentelle takes a mentor''s message
+  and sets out with a band of companions through the Realm of Infinitera, menaced by the Dark One and his Illcreatures, to
+  deal with a fallen star carrying a greater evil. Root-down: Fantasy -> Fantasy realms -> Quest fantasy -> Classic quest
+  fantasy; the party-bound journey against an ancient dark is the spine (the cover shows the company around a campfire), so
+  Fellowship quest fantasy.'
+books:
+- title: Quest for the Fallen Star
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/isbn/9780312864095-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780312864095-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07815)
+placement_history:
+- date: '2026-10-04'
+  to: fellowship-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
