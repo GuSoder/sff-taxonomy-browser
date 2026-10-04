@@ -15,6 +15,12 @@ Living doc of naming doctrine, recorded from the curator's rulings in live namin
 - **Period branches** (appear here and there in the taxonomy): find aesthetics that unite the era of the books being named - short, catchy, evocative words. His example: Rococo fantasy.
 - **Culture/geographic branches** (also appear here and there): find evocative words for the time and place. His example: Andalusian fantasy.
 
+## Hints point to the closest established genre
+
+(phonemsg-01M43930N9FYJ2QTBDN0A6P0WB)
+
+A hint in a name should preferably be attached to the closest genre above it that has a somewhat established name. Example: "quest" is kept in names under Destiny quest fantasy.
+
 ## The tests a name must pass
 
 The method above is the search order; these tests are the quality gates a candidate must pass.
