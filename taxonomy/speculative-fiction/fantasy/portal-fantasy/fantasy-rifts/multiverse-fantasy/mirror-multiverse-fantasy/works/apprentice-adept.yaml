@@ -3,7 +3,7 @@ title: Apprentice Adept
 authors:
 - Piers Anthony
 first_published: 1980
-canonical_genre: multiverse-fantasy
+canonical_genre: mirror-multiverse-fantasy
 placement_status: accepted
 placement_rationale: 'Piers Anthony''s Apprentice Adept (Split Infinity, Blue Adept, Juxtaposition): Stile, a game-playing
   citizen of the science planet Proton, crosses into Phaze, the magic world that shares its place, and the plot runs across
@@ -30,3 +30,9 @@ placement_history:
 - date: '2026-10-04'
   to: multiverse-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-04'
+  from: multiverse-fantasy
+  to: mirror-multiverse-fantasy
+  reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
+    or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
+    fantasy and Gateway multiverse fantasy), relayed by the parent.

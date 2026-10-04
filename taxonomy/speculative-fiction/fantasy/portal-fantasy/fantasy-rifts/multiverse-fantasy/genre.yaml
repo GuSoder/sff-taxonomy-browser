@@ -2,19 +2,14 @@ id: multiverse-fantasy
 label: Multiverse fantasy
 parent: fantasy-rifts
 status: accepted
-definition: Portal fantasy whose premise is a system of many worlds - shadow realms, parallel Londons, the multiverse as cosmology - with order and chaos in play
-  across them (Moorcock's line; SFE 'Multiverse'). One hidden world revealed is the sibling shelf, Otherworld fantasy.
-works:
-- his-dark-materials
-- the-chronicles-of-amber
-- the-incomplete-enchanter
-- shades-of-magic
-- the-hollow-places
-- the-keepers-six
-- last-exit
-- the-edge
-- apprentice-adept
-- mode
+definition: 'Portal fantasy whose premise is a system of many worlds - shadow realms, parallel Londons, the multiverse as
+  cosmology - with order and chaos in play across them (Moorcock''s line; SFE ''Multiverse''). One hidden world revealed is
+  the sibling shelf, Otherworld fantasy. Umbrella split at ten cards by how the worlds relate: Mirror multiverse fantasy (counterpart
+  worlds), Gateway multiverse fantasy (distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after
+  the proposal naming Mirror multiverse fantasy and Gateway multiverse fantasy), relayed by the parent.'
+works: []
 ruling: Created 2026-09-20 by the curator's partition of Fantasy rifts (his 'Execute' at 01:46 CEST).
-children: []
+children:
+- mirror-multiverse-fantasy
+- gateway-multiverse-fantasy
 image: 222-multiverse-fantasy.webp

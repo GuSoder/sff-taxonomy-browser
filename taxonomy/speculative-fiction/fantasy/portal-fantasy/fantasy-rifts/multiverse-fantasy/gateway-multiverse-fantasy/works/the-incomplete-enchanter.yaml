@@ -5,9 +5,9 @@ authors:
 year: 1941
 intake_index: 226
 leaf: speculative-fiction/fantasy/real-earth-fantasy/portal-fantasy/fantasy-rifts/multiverse-fantasy
-genre_grounding: Baen describes psychologists traveling from our world to parallel worlds where magic works and our mythologies and literary fantasies are
-  real, reached by symbolic logic. Repeated crossings into self-contained secondary worlds structure the original trilogy, making Portal fantasy the deepest
-  leaf.
+genre_grounding: Baen describes psychologists traveling from our world to parallel worlds where magic works and our mythologies
+  and literary fantasies are real, reached by symbolic logic. Repeated crossings into self-contained secondary worlds structure
+  the original trilogy, making Portal fantasy the deepest leaf.
 classification_sources:
 - https://sf-encyclopedia.com/entry/pratt_fletcher
 - https://www.baen.com/the-complete-compleat-enchanter.html
@@ -20,8 +20,8 @@ cover:
   beauty: 8
   notes: Flat surreal painted first-jacket-style hand-and-eyes composition with English title/authors; selected in one pass.
 deep_link: https://gusoder.github.io/sff-taxonomy-browser/#multiverse-fantasy/the-incomplete-enchanter
-partition_note: Repartitioned from Fantasy rifts under the curator's 2026-09-20 ruling (Multiverse fantasy = many-worlds system; Otherworld fantasy = one hidden
-  world revealed).
+partition_note: Repartitioned from Fantasy rifts under the curator's 2026-09-20 ruling (Multiverse fantasy = many-worlds system;
+  Otherworld fantasy = one hidden world revealed).
 books:
 - title: The Incomplete Enchanter
   year: 1941
@@ -36,11 +36,17 @@ cover_audit:
   reviewed_on: '2026-09-21'
   reviewed_this_pass: 1
   added_this_pass: 1
-canonical_genre: multiverse-fantasy
+canonical_genre: gateway-multiverse-fantasy
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/portal-fantasy/multiverse-fantasy to match live tree; placement
-    unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/portal-fantasy/multiverse-fantasy
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: null
+- date: '2026-10-04'
+  from: multiverse-fantasy
+  to: gateway-multiverse-fantasy
+  reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
+    or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
+    fantasy and Gateway multiverse fantasy), relayed by the parent.
 cover_curation:
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

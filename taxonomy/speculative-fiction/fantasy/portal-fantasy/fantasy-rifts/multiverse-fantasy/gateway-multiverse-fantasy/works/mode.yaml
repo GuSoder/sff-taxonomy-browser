@@ -3,7 +3,7 @@ title: Mode
 authors:
 - Piers Anthony
 first_published: 2001
-canonical_genre: multiverse-fantasy
+canonical_genre: gateway-multiverse-fantasy
 placement_status: accepted
 placement_rationale: 'Piers Anthony''s Mode series, of which the queue holds the fourth and concluding volume, DoOon Mode
   (Tor, 2001): Colene and Darius, drawn from Earth into a multiverse of linked Modes, are hunted across them by cat-based
@@ -24,3 +24,9 @@ placement_history:
 - date: '2026-10-04'
   to: multiverse-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-04'
+  from: multiverse-fantasy
+  to: gateway-multiverse-fantasy
+  reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
+    or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
+    fantasy and Gateway multiverse fantasy), relayed by the parent.
