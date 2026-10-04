@@ -17,3 +17,6 @@ Proposal names now: Otherworld summonings, Otherworld stumblings, Wainscot fanta
 
 ## Pending (not approved): Hard magic split, 2026-10-04 6:27 PM
 Hard magic -> Bonded hard magic / Scripted hard magic / Channeled hard magic. Distribution 4/3/3 (Bonded: Codex Alera, Long Price Quartet, Book of Elementals, Spiritbinder Saga; Scripted: Founders, Old Kingdom, Middlegame; Channeled: Cosmere, Broken Earth, Wheel of Time). The earlier "approved" applied to the old names (Bonded/Scripted/Channeled magic) and was followed by "Wait". Whole run paused; nothing applied; next portraits 462-464.
+
+## Pending (not approved): Monsters in gaslight split, 2026-10-04 6:33 PM
+Monsters in gaslight -> Shapeshifters in gaslight (My Brother's Keeper, Little Women and Werewolves, The Fox Wife) / Wild things in gaslight (The Deep, The Legend of Charlie Fish, North Sun, The Cautious Traveller's Guide to the Wastelands) / Neighbours in gaslight (The Golem and the Jinni, The Angel of the Crows, Rook). Axis: where the creature lives relative to people (changes shape among them / out in sea and wastes / next door). Distribution 3/4/3. Triggered by Little Women and Werewolves (10th). Run paused.
