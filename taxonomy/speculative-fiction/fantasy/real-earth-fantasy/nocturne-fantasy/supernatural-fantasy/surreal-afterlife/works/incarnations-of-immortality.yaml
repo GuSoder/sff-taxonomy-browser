@@ -1,0 +1,45 @@
+id: incarnations-of-immortality
+title: Incarnations of Immortality
+authors:
+- Piers Anthony
+first_published: 1983
+canonical_genre: surreal-afterlife
+placement_status: accepted
+placement_rationale: 'Piers Anthony''s seven-book Incarnations of Immortality (On a Pale Horse to And Eternity): in an Earth
+  where magic and science coexist, a mortal takes up each cosmic office - Death, Time, Fate, War, Nature, Evil, Good - and
+  the story follows the office-holder through Purgatory, Heaven and Hell as souls are weighed. Root-down: Fantasy -> Real
+  earth fantasy -> Nocturne fantasy -> Supernatural fantasy; death and the afterlife are rendered as a strange working reality,
+  so Surreal afterlife.'
+books:
+- title: On a Pale Horse
+  year: 1983
+  cover_url: https://covers.openlibrary.org/b/id/10093473-L.jpg
+- title: Bearing an Hourglass
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/5542053-L.jpg
+- title: With a Tangled Skein
+  year: 1985
+  cover_url: https://covers.openlibrary.org/b/id/5542173-L.jpg
+- title: Wielding a Red Sword
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/5542153-L.jpg
+- title: Being a Green Mother
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/207108-L.jpg
+- title: For Love of Evil
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/8314561-L.jpg
+- title: And Eternity
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/1578538-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10093473-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07814, MC07806, MC07818, MC07817, MC07807, MC07821, MC07820)
+placement_history:
+- date: '2026-10-04'
+  to: surreal-afterlife
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
