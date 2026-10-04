@@ -15,6 +15,12 @@ Living doc of naming doctrine, recorded from the curator's rulings in live namin
 - **Period branches** (appear here and there in the taxonomy): find aesthetics that unite the era of the books being named - short, catchy, evocative words. His example: Rococo fantasy.
 - **Culture/geographic branches** (also appear here and there): find evocative words for the time and place. His example: Andalusian fantasy.
 
+## No A + B names
+
+(phonemsg-01M439HTXRPZD80GDSTZ8MBVCB)
+
+An A + B name joins two unrelated things, one found in each book, into a genre name like "This and That". Such a name specifies nothing. Once the genre fills up it splits at once into "Books about This" and "Books about That", and the logic of why the books sit together in the taxonomy is lost. Instead, find what is genuinely in common between the books and name the genre for that.
+
 ## Hints point to the closest established genre
 
 (phonemsg-01M43930N9FYJ2QTBDN0A6P0WB)
