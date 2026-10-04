@@ -18,3 +18,10 @@
   held_from: riftwar-cycle
   reason: Title is a placeholder ("Unti Feist Standalone Novel"), not a book; needs a real title before
     it can be walked.
+- name: Blade of Black Steel Crown for Cold Silv
+  origin: original
+  books:
+  - title: Blade of Black Steel Crown for Cold Silv
+  held_from: warlords-and-powder-mages
+  reason: Truncated duplicate of the Alex Marshall card ("A Blade of Black Steel", "A Crown for Cold Silver",
+    "A War in Crimson Embers"); not a separate series.

@@ -4,20 +4,6 @@ parent: mercenary-bands-and-seers
 origin: shadow-v3
 definition: Mercenary bands and shadow raiders.
 cards:
-- name: Shadow Raiders
-  origin: v3
-  books:
-  - title: Shadow Raiders
-    author: Robert Krammes
-- name: Forsaken Lands
-  origin: v3
-  books:
-  - title: The Daggers Path
-    author: Glenda Larke
-  - title: The Fall of the Dagger
-    author: Glenda Larke
-  - title: The Lascars Dagger
-    author: Glenda Larke
 - name: Steelborn / Last Vigilant
   origin: v3
   books:
@@ -27,11 +13,6 @@ cards:
     author: Mark A. Latham
   - title: The Shadow Queen
     author: Mark A. Latham
-- name: Shadowfire Lee
-  origin: v3
-  books:
-  - title: Shadowfire
-    author: Tanith Lee
 - name: The Seer
   origin: v3
   books:
