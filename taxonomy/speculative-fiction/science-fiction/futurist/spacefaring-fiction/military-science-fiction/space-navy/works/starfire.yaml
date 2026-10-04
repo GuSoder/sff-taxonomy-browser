@@ -1,0 +1,36 @@
+id: starfire
+title: Starfire
+authors:
+- David Weber
+- Steve White
+- Shirley Meier
+first_published: 1990
+canonical_genre: space-navy
+placement_status: accepted
+placement_rationale: 'The Starfire novels (Insurrection, Crusade, The Shiva Option, Exodus; The Stars at War omnibuses collect
+  the earlier books): the Terran-led fleets fight a long war against the alien Arachnid Bugs, with ship design and fleet engagements
+  as the spine (Baen, Wikipedia). The war is fought from the bridge, in capital-ship battles: Space navy.'
+books:
+- title: Insurrection
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/407626-L.jpg
+- title: Crusade
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/407656-L.jpg
+- title: The Shiva Option
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/405528-L.jpg
+- title: Exodus
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/759881-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/407626-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02439, MC02422, MC02466, MC09127)
+placement_history:
+- date: '2026-10-04'
+  to: space-navy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,33 @@
+id: the-doubled-edge
+title: The Doubled Edge
+authors:
+- Mercedes Lackey
+- Roberta Gellis
+first_published: 2005
+canonical_genre: secret-history
+placement_status: accepted
+placement_rationale: 'Mercedes Lackey and Roberta Gellis''s Doubled Edge (Scepter''d Isle) novels (Ill Met by Moonlight, And
+  Less Than Kind, By Slanderous Tongues): the Seleighe and Unseleighe Sidhe wage a hidden war across Tudor England, steering
+  Elizabeth''s survival and the fate of the throne while ordinary people never see them (publisher pages, Publishers Weekly).
+  A concealed magical truth explains documented history and the secrecy is the point: Secret history.'
+books:
+- title: Ill Met by Moonlight
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/479551-L.jpg
+- title: And Less Than Kind
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/6966706-L.jpg
+- title: By Slanderous Tongues
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/759890-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/479551-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06741, MC06695, MC06825)
+placement_history:
+- date: '2026-10-04'
+  to: secret-history
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
