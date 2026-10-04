@@ -1,0 +1,25 @@
+id: the-spiritbinder-saga
+title: The Spiritbinder Saga
+authors:
+- Tim Akers
+first_published: 2023
+canonical_genre: hard-magic
+placement_status: accepted
+placement_rationale: 'Tim Akers'' Spiritbinder Saga: elementals are stitched into binders'' souls under explicit rules and
+  costs, and Rae Kelthannis, barred from that order, fights inside the system. The learnable, costed magic system is the engine,
+  so it sits in Hard magic.'
+books:
+- title: Wraithbound
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13810492-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13810492-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09578)
+placement_history:
+- date: '2026-10-04'
+  to: hard-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

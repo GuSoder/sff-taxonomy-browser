@@ -1,0 +1,31 @@
+id: knight-watch
+title: Knight Watch
+authors:
+- Tim Akers
+first_published: 2020
+canonical_genre: occult-police-fiction
+placement_status: accepted
+placement_rationale: Tim Akers' Knight Watch is a hidden agency that protects the mundane world from real monsters of myth
+  (a LARP fighter joins it in book 1; Valhellions and The Eccentrics follow). The agency's monster-hunting work for the modern
+  world is the engine, the same ground as The Rook Files, so Occult police is the nearest home.
+books:
+- title: Knight Watch
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/11786340-L.jpg
+- title: Valhellions
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13810768-L.jpg
+- title: The Eccentrics
+  year: 2024
+  cover_url: https://www.timakers.net/wp-content/uploads/2024/02/Eccentrics.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11786340-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09575, MC09577, MC09576)
+placement_history:
+- date: '2026-10-04'
+  to: occult-police-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
