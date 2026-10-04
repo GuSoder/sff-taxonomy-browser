@@ -1,0 +1,26 @@
+id: the-return
+title: The Return
+authors:
+- Buzz Aldrin
+- John Barnes
+first_published: 2000
+canonical_genre: technothriller
+placement_status: accepted
+placement_rationale: 'Buzz Aldrin and John Barnes''s The Return (2000): after a shuttle disaster, a near-future space-tourism
+  industry and its technical, financial and political machinery drive the story (Tor, Wikipedia). Near-future technology thriller
+  in a mundane Earth world, so Technothriller.'
+books:
+- title: The Return
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/604164-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/604164-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01265)
+placement_history:
+- date: '2026-10-04'
+  to: technothriller
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
