@@ -1,0 +1,32 @@
+id: age-of-dread
+title: Age of Dread
+authors:
+- Stephen Aryan
+first_published: 2017
+canonical_genre: mage-hero
+placement_status: accepted
+placement_rationale: 'Stephen Aryan''s Age of Dread trilogy (Orbit, 2017-2019): after the mage war, a movement sets out to
+  kill every child born with magic, and young mages, gods and battlemages must learn and use their craft against the persecution
+  and a plague god. Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Mage hero; the heroes'' power is learned spellcraft
+  and magic is the only weapon against the threat.'
+books:
+- title: Mageborn
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8565171-L.jpg
+- title: Magefall
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8540511-L.jpg
+- title: Magebane
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8757792-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8565171-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08961, MC08962, MC08960)
+placement_history:
+- date: '2026-10-04'
+  to: mage-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
