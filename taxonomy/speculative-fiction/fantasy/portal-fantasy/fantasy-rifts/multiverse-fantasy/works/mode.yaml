@@ -1,0 +1,26 @@
+id: mode
+title: Mode
+authors:
+- Piers Anthony
+first_published: 2001
+canonical_genre: multiverse-fantasy
+placement_status: accepted
+placement_rationale: 'Piers Anthony''s Mode series, of which the queue holds the fourth and concluding volume, DoOon Mode
+  (Tor, 2001): Colene and Darius, drawn from Earth into a multiverse of linked Modes, are hunted across them by cat-based
+  androids from DoOon Mode sent by the Emperor Ddwng. Root-down: Fantasy -> Portal fantasy -> Fantasy rifts -> Multiverse
+  fantasy; a system of many worlds crossed by the cast (Publishers Weekly: ''the Mode multiverse'').'
+books:
+- title: DoOon Mode
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/183401-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/183401-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07811)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
