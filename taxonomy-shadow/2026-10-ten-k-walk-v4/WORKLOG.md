@@ -15,3 +15,8 @@ Content read for every card (blurb snippets). Findings:
 - 26 cards are named for an author or batch (Drake fantasy, Rover Odom, Dwarves Heitz, Fallon, Aral Kingslayer ...). They hide several series each.
 - The original tree already has homes for most of it under Epic fantasy: Military fantasy (Ranks and companies, Mages at war, Wings and hulls), Heroic fantasy (warrior/rogue/mage heroes), Caper fantasy, Political fantasy, Hard fantasy. v3's walk stopped at the Wars of wizards umbrella instead of walking into them.
 Method for v4 (tools/ops.py): per card, walk root-down into the original leaves first; strays go to their real branch; only a real common thread with no existing home earns a new leaf, named by NAMES.md; author batches are broken into series cards (breakout op).
+
+### Pilot step log
+- Stage A (ops-wow-a.txt): 17 strays and clear homes moved out of Wars of wizards into their real leaves (Ranks and companies and Viking fantasy now at 10: golden-rule splits owed).
+- Stage B (ops-wow-b.txt): the Gods and black companies leaf is dissolved. Invented mythology became an umbrella (split-with-umbrella) with two new children: Deep-time mythologies (its 8 old cards) and War against gods (Instrumentalities of the Night, Saga of the Forgotten Warrior, Beyond Redemption, God Fragments, Bound Gods, Age of Ire; moderate for Beyond Redemption and God Fragments). Cullen Chalice -> Celtic myth retold; Great God's War -> War mages and armies; Deitz Bloodwinter -> HOLD (holds.yaml, reason recorded). Names are placeholders for the names pass.
+- Still to walk in the subtree: 17 leaves, ~120 cards. Corvis Rebaine and Blade of Black Steel/Crown for Cold Silver each sit on two cards: to fold.

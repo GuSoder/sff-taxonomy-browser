@@ -382,13 +382,14 @@
             - Grim Company
             - Adrian Selby
           [mages-at-war] Mages at War NEW
-            [war-mages-and-armies] War mages and armies NEW (6)
+            [war-mages-and-armies] War mages and armies NEW (7)
               - Age of Darkness (Aryan)
               - The Poppy War
               - The Ascendant Trilogy
               - Demontech
               - Rage of Dragons
               - Steel Crow Saga
+              - Great God's War
             [wars-of-peoples] Wars of peoples NEW
               [amicae-rooks-and-ashen] Amicae, rooks and ashen wars NEW (6)
                 - Chronicles of Amicae
@@ -791,15 +792,23 @@
             - The Pomegranate Gate
             - Lies of Descent
             - Age of Bronze
-          [invented-mythology] Invented mythology (8)
-            - The Silmarillion
-            - The Raven Tower
-            - Audition for the Fox
-            - The Spear Cuts Through Water
-            - Age of the Five
-            - Kharkanas Trilogy
-            - The Naming Song
-            - Ephemera
+          [invented-mythology] Invented mythology
+            [deep-time-mythologies] Deep-time mythologies NEW (8)
+              - The Silmarillion
+              - The Raven Tower
+              - Audition for the Fox
+              - The Spear Cuts Through Water
+              - Age of the Five
+              - Kharkanas Trilogy
+              - The Naming Song
+              - Ephemera
+            [war-against-gods] War against gods NEW (6)
+              - Instrumentalities of the Night
+              - Saga of the Forgotten Warrior
+              - Beyond Redemption
+              - God Fragments
+              - Bound Gods
+              - Age of Ire
         [high-fantasy] Quest fantasy
           [revisionist-quest-fantasy] Revisionist quest fantasy (9)
             - The Last Unicorn
@@ -1097,16 +1106,6 @@
                   - The Dragon Lord
                   - Drake fantasy
                   - Ember and Ash
-                [gods-and-black-companies] Gods and black companies NEW (9)
-                  - Instrumentalities of the Night
-                  - Saga of the Forgotten Warrior
-                  - Cullen Chalice
-                  - Deitz Bloodwinter
-                  - Great God's War
-                  - Beyond Redemption
-                  - God Fragments
-                  - Bound Gods
-                  - Age of Ire
             [dark-quest-fantasy] Dark quest fantasy (7)
               - The Dark Tower
               - The Crimson Road
@@ -1947,13 +1946,14 @@
                 - Bridei Chronicles
                 - Morgan Llywelyn Celtic
                 - Song of Albion
-              [celtic-myth-retold] Celtic myth retold NEW (6)
+              [celtic-myth-retold] Celtic myth retold NEW (7)
                 - The Buried Giant
                 - Blackthorn & Grim
                 - Brandon
                 - Rhymer
                 - Witch and the Tsar
                 - Raven Queen
+                - Cullen Chalice
             [rococo-fantasy] Rococo fantasy (2)
               - The Kingdom of Back
               - Aicha
@@ -5306,3 +5306,6 @@
           - Star Diaries
           - The Complete Roderick
           - Acts of God
+
+HOLDS (1): cards with no honest leaf yet
+  - Deitz Bloodwinter  [from gods-and-black-companies] No honest leaf yet: a newly crowned high king against a fanatical religious sect after a war; no gods, no mages at war. Candidate: a Military or Political fantasy leaf once one exists for it.

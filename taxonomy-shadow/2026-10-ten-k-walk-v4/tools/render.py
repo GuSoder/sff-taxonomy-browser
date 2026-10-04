@@ -19,5 +19,10 @@ def emit(i,d):
     for c in g['cards']: out.append('  '*(d+1)+'- '+c['name'])
     for x in k: emit(x,d+1)
 for r in kids[None]: emit(r,0)
+import os
+if os.path.exists(here+'/holds.yaml'):
+    h=yaml.safe_load(open(here+'/holds.yaml'))
+    out.append('');out.append(f'HOLDS ({len(h)}): cards with no honest leaf yet')
+    for c in h: out.append('  - '+c['name']+'  [from '+c['held_from']+'] '+c['reason'])
 open(here+'/tree.txt','w').write('\n'.join(out)+'\n')
 print('genres',len(gs),'leaves',nl,'cards',nc)
