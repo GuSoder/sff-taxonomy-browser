@@ -3,7 +3,7 @@ title: The Spiritbinder Saga
 authors:
 - Tim Akers
 first_published: 2023
-canonical_genre: hard-magic
+canonical_genre: bonded-hard-magic
 placement_status: accepted
 placement_rationale: 'Tim Akers'' Spiritbinder Saga: elementals are stitched into binders'' souls under explicit rules and
   costs, and Rae Kelthannis, barred from that order, fights inside the system. The learnable, costed magic system is the engine,
@@ -23,3 +23,7 @@ placement_history:
 - date: '2026-10-04'
   to: hard-magic
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-04'
+  from: hard-magic
+  to: bonded-hard-magic
+  reason: Split of Hard magic at ten cards, split-with-umbrella, by what the magic is made of; curator approval phonemsg-01M43VWQAZ3X7ZJ70CR7P44B2X.

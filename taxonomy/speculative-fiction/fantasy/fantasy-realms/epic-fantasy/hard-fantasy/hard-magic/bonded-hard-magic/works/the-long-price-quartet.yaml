@@ -3,7 +3,7 @@ title: The Long Price Quartet
 authors:
 - Daniel Abraham
 first_published: 2007
-canonical_genre: hard-magic
+canonical_genre: bonded-hard-magic
 placement_status: accepted
 placement_rationale: 'Long Price Quartet: andat bound by poets under explicit costs/rules.'
 books:
@@ -37,3 +37,7 @@ placement_history:
   to: hard-magic
   reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
     ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+- date: '2026-10-04'
+  from: hard-magic
+  to: bonded-hard-magic
+  reason: Split of Hard magic at ten cards, split-with-umbrella, by what the magic is made of; curator approval phonemsg-01M43VWQAZ3X7ZJ70CR7P44B2X.

@@ -1,0 +1,13 @@
+id: bonded-hard-magic
+label: Bonded hard magic
+parent: hard-magic
+children: []
+works:
+- codex-alera
+- the-long-price-quartet
+- book-of-elementals
+- the-spiritbinder-saga
+image: 462-bonded-hard-magic.webp
+definition: 'Hard magic in which the rule-bound power is a spirit, elemental or bound being tied to a person: the system is
+  the terms of the bond, its costs and its limits. Split 2026-10-04 from Hard magic at ten cards (curator approval phonemsg-01M43VWQAZ3X7ZJ70CR7P44B2X).'
+status: leaf

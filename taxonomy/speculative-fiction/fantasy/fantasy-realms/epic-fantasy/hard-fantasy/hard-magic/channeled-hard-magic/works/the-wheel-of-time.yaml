@@ -4,7 +4,7 @@ authors:
 - Robert Jordan
 first_published: 1990
 last_published: 2013
-canonical_genre: hard-magic
+canonical_genre: channeled-hard-magic
 placement_status: accepted
 included_titles:
 - The Eye of the World
@@ -59,3 +59,8 @@ cover_curation:
     url: https://covers.openlibrary.org/b/isbn/9780765325952-L.jpg
   - title: New Spring
     url: https://covers.openlibrary.org/b/isbn/9780765306296-L.jpg
+placement_history:
+- date: '2026-10-04'
+  from: hard-magic
+  to: channeled-hard-magic
+  reason: Split of Hard magic at ten cards, split-with-umbrella, by what the magic is made of; curator approval phonemsg-01M43VWQAZ3X7ZJ70CR7P44B2X.

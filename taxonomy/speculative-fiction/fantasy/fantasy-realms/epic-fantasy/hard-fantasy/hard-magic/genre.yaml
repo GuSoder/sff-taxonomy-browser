@@ -1,19 +1,12 @@
 id: hard-magic
 label: Hard magic
 parent: hard-fantasy
-children: []
+children:
+- bonded-hard-magic
+- scripted-hard-magic
+- channeled-hard-magic
 image: 69-hard-magic.webp
 definition: Epic fantasy whose magic runs on explicit, learnable rules and costs (fan/critic term after Brandon Sanderson; not SFE/EoF-attested). Provisional label
-  from the curator's 2026-09-13 split of high fantasy.
+  from the curator's 2026-09-13 split of high fantasy. Umbrella split at ten cards into Bonded hard magic (bound spirits), Scripted hard magic (written or coded power) and Channeled hard magic (force drawn through the body), curator approval phonemsg-01M43VWQAZ3X7ZJ70CR7P44B2X 2026-10-04.
 status: provisional
-works:
-- the-wheel-of-time
-- the-broken-earth
-- the-cosmere
-- codex-alera
-- the-founders-trilogy
-- middlegame
-- the-old-kingdom
-- the-book-of-elementals
-- the-long-price-quartet
-- the-spiritbinder-saga
+works: []

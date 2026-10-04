@@ -3,7 +3,7 @@ title: The Broken Earth
 authors:
 - N. K. Jemisin
 first_published: 2015
-canonical_genre: hard-magic
+canonical_genre: channeled-hard-magic
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -20,3 +20,8 @@ cover_curation:
   status: complete
   selected_url: https://covers.openlibrary.org/b/id/14428463-L.jpg
   audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.
+placement_history:
+- date: '2026-10-04'
+  from: hard-magic
+  to: channeled-hard-magic
+  reason: Split of Hard magic at ten cards, split-with-umbrella, by what the magic is made of; curator approval phonemsg-01M43VWQAZ3X7ZJ70CR7P44B2X.
