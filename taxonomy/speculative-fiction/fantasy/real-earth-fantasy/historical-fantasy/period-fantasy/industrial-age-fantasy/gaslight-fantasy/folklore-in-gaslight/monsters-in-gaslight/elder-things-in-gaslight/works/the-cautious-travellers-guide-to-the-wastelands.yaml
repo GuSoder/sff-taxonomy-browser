@@ -3,7 +3,7 @@ title: The Cautious Traveller’s Guide to the Wastelands
 authors:
 - Sarah Brooks
 first_published: 2024
-canonical_genre: monsters-in-gaslight
+canonical_genre: elder-things-in-gaslight
 placement_status: accepted
 placement_rationale: 'Locus (Martini): 1899, a fortified luxury train crosses the Wasteland between Beijing and Moscow, ''many
   somethings beyond human understanding'' outside; the last passage''s catastrophe is forgotten by all aboard. Creature-lore
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-09-28'
   to: monsters-in-gaslight
   reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-04'
+  from: monsters-in-gaslight
+  to: elder-things-in-gaslight
+  reason: Split of Monsters in gaslight at ten cards, split-with-umbrella, by where the creature stands against people; curator
+    "Approved", 2026-10-04 6:42 PM, relayed by the parent.

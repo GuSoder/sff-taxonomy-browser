@@ -3,9 +3,10 @@ title: The Fox Wife
 authors:
 - Yangsze Choo
 first_published: 2024
-canonical_genre: monsters-in-gaslight
+canonical_genre: shapeshifters-in-gaslight
 placement_status: accepted
-placement_rationale: '1908 Manchuria: a detective hunts a woman who may be a fox spirit, in Chinese fox folklore (Kirkus, Straits Times).'
+placement_rationale: '1908 Manchuria: a detective hunts a woman who may be a fox spirit, in Chinese fox folklore (Kirkus,
+  Straits Times).'
 classification_sources:
 - https://www.kirkusreviews.com/book-reviews/yangsze-choo/the-fox-wife-choo/
 - https://www.straitstimes.com/life/arts/book-review-choo-yangsze-charms-with-fantastical-tale-of-fox-spirits
@@ -19,3 +20,8 @@ cover_curation:
 placement_history:
 - date: '2026-09-24'
   change: Moved folklore-in-gaslight -> monsters-in-gaslight in the curator's three-way split of the frozen leaf (18:38 ruling)
+- date: '2026-10-04'
+  from: monsters-in-gaslight
+  to: shapeshifters-in-gaslight
+  reason: Split of Monsters in gaslight at ten cards, split-with-umbrella, by where the creature stands against people; curator
+    "Approved", 2026-10-04 6:42 PM, relayed by the parent.

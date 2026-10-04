@@ -4,7 +4,7 @@ authors:
 - Louisa May Alcott
 - Porter Grand
 first_published: 2010
-canonical_genre: monsters-in-gaslight
+canonical_genre: shapeshifters-in-gaslight
 placement_status: accepted
 placement_rationale: Porter Grand's 2010 mash-up gives the March sisters of 1860s New England a werewolf-haunted Concord.
   Creature-lore (werewolves) walking the nineteenth-century world is the stage, which is Monsters in gaslight.
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: monsters-in-gaslight
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-04'
+  from: monsters-in-gaslight
+  to: shapeshifters-in-gaslight
+  reason: Split of Monsters in gaslight at ten cards, split-with-umbrella, by where the creature stands against people; curator
+    "Approved", 2026-10-04 6:42 PM, relayed by the parent.

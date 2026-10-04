@@ -3,11 +3,12 @@ title: North Sun, or the Voyage of the Whaleship Esther
 authors:
 - Ethan Rutherford
 first_published: 2025
-canonical_genre: monsters-in-gaslight
+canonical_genre: elder-things-in-gaslight
 placement_status: accepted
-placement_rationale: 'Root-down: Fantasy > Real earth fantasy > Historical fantasy > Period fantasy > Industrial Age fantasy > Gaslight fantasy > Folklore in Gaslight
-  > Monsters in Gaslight. In 1878, the whaleship Esther sails to the Chukchi Sea; Old Sorrel, a seabird-man spirit drawn from sailors’ folklore, boards mid-voyage
-  and becomes an uncanny presence for its cabin boys. Folklore creature in historically anchored whaling tale.'
+placement_rationale: 'Root-down: Fantasy > Real earth fantasy > Historical fantasy > Period fantasy > Industrial Age fantasy
+  > Gaslight fantasy > Folklore in Gaslight > Monsters in Gaslight. In 1878, the whaleship Esther sails to the Chukchi Sea;
+  Old Sorrel, a seabird-man spirit drawn from sailors’ folklore, boards mid-voyage and becomes an uncanny presence for its
+  cabin boys. Folklore creature in historically anchored whaling tale.'
 classification_sources:
 - https://www.publishersweekly.com/9781646053582
 - https://www.mprnews.org/story/2025/10/06/minnesota-connection-to-the-national-book-awards-north-sun-novel
@@ -24,3 +25,8 @@ placement_history:
 - date: '2026-09-29'
   change: Placed by curator ruling in Monsters in Gaslight following Path of Thorns move.
   source_message: phonemsg-01M3Q1J5HE3J0G4AJZ1WKDTF9X
+- date: '2026-10-04'
+  from: monsters-in-gaslight
+  to: elder-things-in-gaslight
+  reason: Split of Monsters in gaslight at ten cards, split-with-umbrella, by where the creature stands against people; curator
+    "Approved", 2026-10-04 6:42 PM, relayed by the parent.

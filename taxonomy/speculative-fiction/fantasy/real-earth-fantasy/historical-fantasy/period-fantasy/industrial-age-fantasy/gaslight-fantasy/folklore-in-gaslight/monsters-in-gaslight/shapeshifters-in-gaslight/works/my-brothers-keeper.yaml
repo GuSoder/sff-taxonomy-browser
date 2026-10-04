@@ -3,10 +3,10 @@ title: My Brother's Keeper
 authors:
 - Tim Powers
 first_published: 2023
-canonical_genre: monsters-in-gaslight
+canonical_genre: shapeshifters-in-gaslight
 placement_status: accepted
-placement_rationale: The Brontë siblings in 1840s Yorkshire against werewolves out of British folklore (PW, Historical Novel Society). Queue listed it as 'My Mother's
-  Keeper'; the real title is My Brother's Keeper.
+placement_rationale: The Brontë siblings in 1840s Yorkshire against werewolves out of British folklore (PW, Historical Novel
+  Society). Queue listed it as 'My Mother's Keeper'; the real title is My Brother's Keeper.
 classification_sources:
 - https://www.publishersweekly.com/9781982192860
 - https://historicalnovelsociety.org/reviews/my-brothers-keeper-2/
@@ -20,3 +20,8 @@ cover_curation:
 placement_history:
 - date: '2026-09-24'
   change: Moved folklore-in-gaslight -> monsters-in-gaslight in the curator's three-way split of the frozen leaf (18:38 ruling)
+- date: '2026-10-04'
+  from: monsters-in-gaslight
+  to: shapeshifters-in-gaslight
+  reason: Split of Monsters in gaslight at ten cards, split-with-umbrella, by where the creature stands against people; curator
+    "Approved", 2026-10-04 6:42 PM, relayed by the parent.
