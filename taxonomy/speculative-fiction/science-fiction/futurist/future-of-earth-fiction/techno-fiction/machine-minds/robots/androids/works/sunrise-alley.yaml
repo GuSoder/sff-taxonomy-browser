@@ -1,0 +1,29 @@
+id: sunrise-alley
+title: Sunrise Alley
+authors:
+- Catherine Asaro
+first_published: 2004
+canonical_genre: androids
+placement_status: accepted
+placement_rationale: 'Catherine Asaro''s Sunrise Alley duology (Baen, 2004-2006): an escaped artificial intelligence claims
+  to be human, and in Alpha a female android with a conscience, the last of a creator''s rogue androids, goes on the run.
+  Both books turn on passing and detection: what separates the android from the person. Root-down: Science fiction -> Future
+  of Earth fiction -> Techno fiction -> Machine minds -> Robots -> Androids.'
+books:
+- title: Sunrise Alley
+  year: 2004
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/0/7/0743488407-lg.jpg
+- title: Alpha
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/1786962-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/0/7/0743488407-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01477, MC01473)
+placement_history:
+- date: '2026-10-04'
+  to: androids
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
