@@ -1,0 +1,23 @@
+id: hard-magic
+cards:
+- name: The Long Price Quartet
+  why: 'Long Price Quartet: andat bound by poets under explicit costs/rules'
+  books:
+  - id: MC02099
+    title: A Shadow in Summer
+    author: Daniel Abraham
+  - id: MC02098
+    title: A Betrayal in Winter
+    author: Daniel Abraham
+  - id: MC02100
+    title: An Autumn War
+    author: Daniel Abraham
+  - id: MC02105
+    title: The Price of Spring
+    author: Daniel Abraham
+  - id: MC02102
+    title: Shadow and Betrayal
+    author: Daniel Abraham
+  - id: MC02106
+    title: The Price of War
+    author: Daniel Abraham
