@@ -1,0 +1,25 @@
+id: cryptozoic
+title: Cryptozoic!
+authors:
+- Brian W. Aldiss
+first_published: 1967
+canonical_genre: time-tonics
+placement_status: accepted
+placement_rationale: 'Brian Aldiss''s Cryptozoic! (An Age, 1967): in 2093 people ''mind-travel'' into the past with the aid
+  of the psychoactive drug CSD (Wikipedia, Hachette). The drug that carries the traveler is the time-travel cause, so Time
+  tonics; the military-regime plot is the setting, not the engine.'
+books:
+- title: Cryptozoic!
+  year: 1967
+  cover_url: https://covers.openlibrary.org/b/id/8348879-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8348879-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01150)
+placement_history:
+- date: '2026-10-04'
+  to: time-tonics
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
