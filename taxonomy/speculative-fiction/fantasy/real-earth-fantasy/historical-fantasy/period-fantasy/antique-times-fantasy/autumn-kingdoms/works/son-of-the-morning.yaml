@@ -1,0 +1,28 @@
+id: son-of-the-morning
+title: Son of the Morning
+authors:
+- Mark Alder
+first_published: 2013
+canonical_genre: autumn-kingdoms
+placement_status: accepted
+placement_rationale: 'Mark Alder''s Son of the Morning and Son of the Night run the Hundred Years War from 1337: Edward III
+  against Philip VI, with angels and demons answering kings'' prayers (Simon & Schuster, Hachette). Fourteenth-century kingdoms
+  at war before the Black Death is the stage, which is Autumn kingdoms.'
+books:
+- title: Son of the Morning
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/isbn/9780575115163-L.jpg
+- title: Son of the Night
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8844010-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780575115163-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06432, MC06433)
+placement_history:
+- date: '2026-10-04'
+  to: autumn-kingdoms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
