@@ -1,0 +1,35 @@
+id: fetch-phillips-archives
+title: Fetch Phillips Archives
+authors:
+- Luke Arnold
+first_published: 2020
+canonical_genre: fantasy-mystery
+placement_status: accepted
+placement_rationale: 'Luke Arnold''s Fetch Phillips Archives (Orbit, 2020-2025): a former soldier turned private investigator
+  takes cases in Sunder City, a secondary-world city that lost its magic. Each book is a case in an invented world, with Gothic
+  menace in its monstrous institutions and ruined magic. Root-down: Fantasy -> Fantasy realms -> Gothic School -> Fantasy
+  mystery.'
+books:
+- title: The Last Smile in Sunder City
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/9281161-L.jpg
+- title: Dead Man in a Ditch
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/11793715-L.jpg
+- title: One Foot in the Fade
+  year: 2022
+  cover_url: https://images.penguinrandomhouse.com/cover/9780316668774
+- title: Whisper in the Wind
+  year: 2025
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2025/04/9780316568234.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9281161-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06153, MC06151, MC06152, MC06154)
+placement_history:
+- date: '2026-10-04'
+  to: fantasy-mystery
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
