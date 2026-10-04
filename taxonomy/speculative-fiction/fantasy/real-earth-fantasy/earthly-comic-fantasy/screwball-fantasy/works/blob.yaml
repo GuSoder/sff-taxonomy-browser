@@ -3,7 +3,7 @@ title: Blob
 authors:
 - Maggie Su
 first_published: 2025
-canonical_genre: earthly-comic-fantasy
+canonical_genre: screwball-fantasy
 placement_status: accepted
 placement_rationale: A woman molds a blob into her ideal boyfriend; comedy is the governing engine on Real Earth, the leaf's
   explicit exception to the realm fork.
@@ -27,3 +27,7 @@ placement_history:
   reason: 'Restructure (the curator ruling phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0, reinstated phonemsg-01M3MDWYSYC0C681522QDD6GY1):
     Comic fantasy leaves dissolved with the realm-fork exception; invented-world comicals to Comic fantasy realms, Real Earth
     comicals to Earthly comic fantasy.'
+- date: '2026-10-04'
+  to: screwball-fantasy
+  reason: Split of Earthly comic fantasy at ten cards, split-with-umbrella; curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6.
+  from: earthly-comic-fantasy

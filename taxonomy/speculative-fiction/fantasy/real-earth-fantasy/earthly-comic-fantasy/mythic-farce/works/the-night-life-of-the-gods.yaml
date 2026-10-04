@@ -3,7 +3,7 @@ title: The Night Life of the Gods
 authors:
 - Thorne Smith
 first_published: 1931
-canonical_genre: earthly-comic-fantasy
+canonical_genre: mythic-farce
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Sword and sorcery
   -> Comic fantasy (explicit realm-fork exception). Modern Library describes a madcap scientist, a 900-year-old leprechaun
@@ -33,3 +33,7 @@ placement_history:
   reason: 'Restructure (the curator ruling phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0, reinstated phonemsg-01M3MDWYSYC0C681522QDD6GY1):
     Comic fantasy leaves dissolved with the realm-fork exception; invented-world comicals to Comic fantasy realms, Real Earth
     comicals to Earthly comic fantasy.'
+- date: '2026-10-04'
+  to: mythic-farce
+  reason: Split of Earthly comic fantasy at ten cards, split-with-umbrella; curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6.
+  from: earthly-comic-fantasy

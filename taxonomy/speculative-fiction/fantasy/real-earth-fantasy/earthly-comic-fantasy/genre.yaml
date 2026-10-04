@@ -1,18 +1,16 @@
 id: earthly-comic-fantasy
 label: Earthly comic fantasy
 parent: real-earth-fantasy
-children: []
-works:
-- expecting-someone-taller
-- the-night-life-of-the-gods
-- the-twilight-of-the-gods-and-other-tales
-- topper
-- turnabout
-- zuleika-dobson
-- blob
-- bunny
+children:
+- mythic-farce
+- screwball-fantasy
+- comic-noir
+works: []
 image: 421-earthly-comic-fantasy.webp
-definition: 'Comic fantasy set on Real Earth, where comedy, farce or satire is the governing engine: gods and myth loose among mortals, or a supernatural device let
-  loose in ordinary life, modern or period. Created 2026-09-28 as the Real Earth counterpart to Comic fantasy realms when the realm-fork exception dissolved (the
-  curator ruling, phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0). Period widened per the curator ruling phonemsg-01M3MH1EFC99JWQJPF4J072RBP (Shadow Ticket, 1932 Milwaukee).'
-status: leaf
+definition: 'Comic fantasy set on Real Earth, where comedy, farce or satire is the governing engine: gods and myth loose among
+  mortals, or a supernatural device let loose in ordinary life, modern or period. Created 2026-09-28 as the Real Earth counterpart
+  to Comic fantasy realms when the realm-fork exception dissolved (the curator ruling, phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0).
+  Period widened per the curator ruling phonemsg-01M3MH1EFC99JWQJPF4J072RBP (Shadow Ticket, 1932 Milwaukee). Umbrella split
+  at ten cards into Mythic farce (gods and myth loose among mortals), Screwball fantasy (a supernatural thing scrambles a
+  love life) and Comic noir (the detective frame), under curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6 2026-10-04.'
+status: provisional

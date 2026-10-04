@@ -3,11 +3,12 @@ title: Bunny
 authors:
 - Mona Awad
 first_published: 2019
-canonical_genre: earthly-comic-fantasy
+canonical_genre: screwball-fantasy
 placement_status: accepted
-placement_rationale: 'Root-down: Fantasy -> Real earth -> Earthly comic fantasy. MFA students form a coven and turn real rabbits into imperfect male Darlings/Drafts,
-  a literal supernatural workshop used for savage academic satire. We Love You, Bunny revisits the same coven, protagonist and created First Boy, expanding the shared
-  events; coalesced on the first book''s card. Kirkus centers hilarious grotesquerie and satire. Not SF Written worlds: drafting is figurative language for physical
+placement_rationale: 'Root-down: Fantasy -> Real earth -> Earthly comic fantasy. MFA students form a coven and turn real rabbits
+  into imperfect male Darlings/Drafts, a literal supernatural workshop used for savage academic satire. We Love You, Bunny
+  revisits the same coven, protagonist and created First Boy, expanding the shared events; coalesced on the first book''s
+  card. Kirkus centers hilarious grotesquerie and satire. Not SF Written worlds: drafting is figurative language for physical
   witchcraft, not proof the world is made of text, and literal magic excludes the SF side.'
 classification_sources:
 - https://www.kirkusreviews.com/book-reviews/mona-awad/bunny/
@@ -21,8 +22,9 @@ cover_curation:
   selected_url: https://www.publishersweekly.com/cover/9780525559757
   visually_reviewed_on: '2026-09-30'
   review_method: individual image inspection
-placement_walk: Speculative fiction {Fantasy, Science fiction} -> Fantasy {Real earth fantasy, Fantasy realms, Portal fantasy} -> Real earth fantasy {Animal fantasy,
-  Contemporary fantasy, Historical fantasy, Magic realism, Mythic retelling, Nocturne fantasy, Urban fantasy, Earthly comic fantasy} -> Earthly comic fantasy
+placement_walk: Speculative fiction {Fantasy, Science fiction} -> Fantasy {Real earth fantasy, Fantasy realms, Portal fantasy}
+  -> Real earth fantasy {Animal fantasy, Contemporary fantasy, Historical fantasy, Magic realism, Mythic retelling, Nocturne
+  fantasy, Urban fantasy, Earthly comic fantasy} -> Earthly comic fantasy
 books:
 - title: Bunny
   year: 2019
@@ -37,3 +39,7 @@ placement_history:
   sources:
   - https://www.kirkusreviews.com/book-reviews/mona-awad/we-love-you-bunny/
   cover_visual_check: individual English title/author inspection
+- date: '2026-10-04'
+  to: screwball-fantasy
+  reason: Split of Earthly comic fantasy at ten cards, split-with-umbrella; curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6.
+  from: earthly-comic-fantasy

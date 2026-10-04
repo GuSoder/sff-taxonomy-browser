@@ -3,7 +3,7 @@ title: Expecting Someone Taller
 authors:
 - Tom Holt
 first_published: 1987
-canonical_genre: earthly-comic-fantasy
+canonical_genre: mythic-farce
 placement_status: accepted
 placement_rationale: SFE calls this Holt's first comic fantasy and specifically describes it as genially myth-based; Hachette
   frames Malcolm's accidental inheritance of a giant's world-ruling powers as absurd, hilarious fantasy. Comic mode governs
@@ -26,3 +26,7 @@ placement_history:
   reason: 'Restructure (the curator ruling phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0, reinstated phonemsg-01M3MDWYSYC0C681522QDD6GY1):
     Comic fantasy leaves dissolved with the realm-fork exception; invented-world comicals to Comic fantasy realms, Real Earth
     comicals to Earthly comic fantasy.'
+- date: '2026-10-04'
+  to: mythic-farce
+  reason: Split of Earthly comic fantasy at ten cards, split-with-umbrella; curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6.
+  from: earthly-comic-fantasy
