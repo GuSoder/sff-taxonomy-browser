@@ -1,0 +1,25 @@
+id: the-high-crusade
+title: The High Crusade
+authors:
+- Poul Anderson
+first_published: 1960
+canonical_genre: pulp-space-odyssey
+placement_status: accepted
+placement_rationale: 'Poul Anderson''s 1960 novel: an alien scout ship lands in 14th-century England, the villagers and Sir
+  Roger de Tourneville''s knights capture it, and the army sails out to conquer planets among the stars (Doubleday, SFE).
+  A small band propelled across space by adventure and conquest rather than by governing a galactic power: Pulp space odyssey.'
+books:
+- title: The High Crusade
+  year: 1960
+  cover_url: https://covers.openlibrary.org/b/id/9317382-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9317382-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07842)
+placement_history:
+- date: '2026-10-04'
+  to: pulp-space-odyssey
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

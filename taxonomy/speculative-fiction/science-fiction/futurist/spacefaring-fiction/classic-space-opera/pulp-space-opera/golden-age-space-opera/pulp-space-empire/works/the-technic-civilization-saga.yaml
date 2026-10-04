@@ -1,0 +1,45 @@
+id: the-technic-civilization-saga
+title: The Technic Civilization Saga
+authors:
+- Poul Anderson
+first_published: 2008
+canonical_genre: pulp-space-empire
+placement_status: accepted
+placement_rationale: 'Poul Anderson''s Technic Civilization Saga as Baen collects it in seven volumes (The Van Rijn Method,
+  David Falkayn: Star Trader, Rise of the Terran Empire, Young Flandry, Captain Flandry, Sir Dominic Flandry, Flandry''s Legacy):
+  the future history from the Polesotechnic League''s merchant princes through the rise, decline and fall of the Terran Empire,
+  with Dominic Flandry as the empire''s agent against the rival Merseian power (Baen, ISFDB). Rule, war and rival powers carry
+  the plot: Pulp space empire.'
+books:
+- title: The Van Rijn Method
+  year: 2008
+  cover_url: https://images.penguinrandomhouse.com/cover/9781416555698
+- title: 'David Falkayn: Star Trader'
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/7507902-L.jpg
+- title: Rise of the Terran Empire
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/8740060-L.jpg
+- title: Young Flandry
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/8733032-L.jpg
+- title: 'Captain Flandry: Defender of the Terran Empire'
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/7470632-L.jpg
+- title: 'Sir Dominic Flandry: The Last Knight of Terra'
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7795094-L.jpg
+- title: Flandry's Legacy
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7714857-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9781416555698
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07843, MC07836, MC07840, MC07845, MC07835, MC07841, MC07837)
+placement_history:
+- date: '2026-10-04'
+  to: pulp-space-empire
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
