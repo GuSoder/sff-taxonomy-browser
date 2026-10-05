@@ -3,7 +3,7 @@ title: Thousand Cultures
 authors:
 - John Barnes
 first_published: 2001
-canonical_genre: remade-minds
+canonical_genre: copied-minds
 placement_status: accepted
 placement_rationale: Giraut Leones, an agent of the Office of Special Projects, works a far future where personalities are
   recorded into psypyxes and aintellects blur human and machine mind; the books turn on who may copy, trade and entertain
@@ -26,3 +26,8 @@ placement_history:
 - date: '2026-10-04'
   to: remade-minds
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  to: copied-minds
+  reason: Split of Remade minds by what happens to the mind; re-walked root-down into Copied minds (curator "Approved" (phonemsg-01M466ZJ4DM0JQCFBKZR8K3R1X,
+    2026-10-05 4:20 PM)).
+  from: remade-minds

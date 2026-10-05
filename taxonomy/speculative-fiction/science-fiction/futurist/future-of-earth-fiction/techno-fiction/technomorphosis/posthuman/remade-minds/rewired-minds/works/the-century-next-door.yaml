@@ -3,7 +3,7 @@ title: The Century Next Door
 authors:
 - John Barnes
 first_published: 1995
-canonical_genre: remade-minds
+canonical_genre: rewired-minds
 placement_status: accepted
 placement_rationale: Resuna and One True, memetic programs run on human brains, take over Earth; Joshua Quare is reborn with
   wiped memory every life period, Candle follows the memetic war, and Teri on Mars is taken over and her memory edited. The
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: remade-minds
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  to: rewired-minds
+  reason: Split of Remade minds by what happens to the mind; re-walked root-down into Rewired minds (curator "Approved" (phonemsg-01M466ZJ4DM0JQCFBKZR8K3R1X,
+    2026-10-05 4:20 PM)).
+  from: remade-minds
