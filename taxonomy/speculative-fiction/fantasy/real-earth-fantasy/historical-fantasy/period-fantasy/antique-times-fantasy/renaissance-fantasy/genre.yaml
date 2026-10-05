@@ -1,15 +1,13 @@
 id: renaissance-fantasy
 label: Renaissance fantasy
 parent: antique-times-fantasy
-children: []
+children:
+- mediterranean-renaissance-fantasy
+- northern-renaissance-fantasy
 image: 144-renaissance-fantasy.webp
-definition: Fantasy anchored to Renaissance history, culture and personalities.
+definition: 'Fantasy anchored to Renaissance history, culture and personalities. Umbrella since 2026-10-05: split-with-umbrella
+  by where the story''s Renaissance is - Mediterranean Renaissance fantasy, Northern Renaissance fantasy (curator "Reneaissance
+  fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)).'
 status: accepted
-works:
-- the-drawing-of-the-dark
-- ariosto
-- black-magic
-- lent
-- flint-and-mirror
-- the-wax-child
-- the-unicorn-hunters
+works: []
+ruling: curator "Reneaissance fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)

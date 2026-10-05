@@ -3,7 +3,7 @@ title: The Unicorn Hunters
 authors:
 - Katherine Arden
 first_published: 2026
-canonical_genre: renaissance-fantasy
+canonical_genre: northern-renaissance-fantasy
 placement_status: accepted
 placement_rationale: 'Katherine Arden''s The Unicorn Hunters (Del Rey, June 2, 2026): Anne of Brittany, a real nineteen-year-old
   sovereign duchess in the late fifteenth century, ordered to marry the King of France, journeys into a world of Celtic myth
@@ -25,3 +25,8 @@ placement_history:
 - date: '2026-10-04'
   to: renaissance-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Renaissance fantasy by where the story's Renaissance is; re-walked root-down into Northern Renaissance
+    fantasy (curator "Reneaissance fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)).
+  from: renaissance-fantasy
+  to: northern-renaissance-fantasy

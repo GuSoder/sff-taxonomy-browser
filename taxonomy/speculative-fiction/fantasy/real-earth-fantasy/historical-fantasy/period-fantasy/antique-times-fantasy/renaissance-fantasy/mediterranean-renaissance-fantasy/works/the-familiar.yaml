@@ -3,7 +3,7 @@ title: The Familiar
 authors:
 - Leigh Bardugo
 first_published: 2024
-canonical_genre: renaissance-fantasy
+canonical_genre: mediterranean-renaissance-fantasy
 placement_status: accepted
 placement_rationale: 'Locus (Pierce): late-16th-century Madrid under the Inquisition; Luzia, a converso servant with magical
   ability, is made to perform for patrons and entered in a competition to find a magical champion for the king. Fantasy anchored
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-09-28'
   to: renaissance-fantasy
   reason: 'Intake placement (gap-2022 batch n=336-350), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-05'
+  reason: Split of Renaissance fantasy by where the story's Renaissance is; re-walked root-down into Mediterranean Renaissance
+    fantasy (curator "Reneaissance fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)).
+  from: renaissance-fantasy
+  to: mediterranean-renaissance-fantasy

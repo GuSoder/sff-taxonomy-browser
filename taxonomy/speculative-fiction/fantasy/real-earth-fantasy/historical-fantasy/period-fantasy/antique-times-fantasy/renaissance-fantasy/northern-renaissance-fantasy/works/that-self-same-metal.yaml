@@ -3,7 +3,7 @@ title: That Self-Same Metal
 authors:
 - Brittany N. Williams
 first_published: 2023
-canonical_genre: renaissance-fantasy
+canonical_genre: northern-renaissance-fantasy
 placement_status: accepted
 placement_rationale: 'Locus (Brown): 1605 Jacobean London, twins Joan and James Sands with the King''s Men (Shakespeare''s
   company) channel Orisha powers; a broken pact lets the most dangerous Fae flood London. Anchored to Renaissance history
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-09-28'
   to: renaissance-fantasy
   reason: 'Intake placement (gap-2022 batch n=306-320), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-05'
+  reason: Split of Renaissance fantasy by where the story's Renaissance is; re-walked root-down into Northern Renaissance
+    fantasy (curator "Reneaissance fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)).
+  from: renaissance-fantasy
+  to: northern-renaissance-fantasy
