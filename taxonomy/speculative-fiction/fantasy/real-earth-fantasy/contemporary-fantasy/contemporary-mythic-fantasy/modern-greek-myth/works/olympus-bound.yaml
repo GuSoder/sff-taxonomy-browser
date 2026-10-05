@@ -1,0 +1,31 @@
+id: olympus-bound
+title: Olympus Bound
+authors:
+- Jordanna Max Brodsky
+first_published: 2016
+canonical_genre: modern-greek-myth
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real earth fantasy > Contemporary fantasy > Mythic fantasy > Modern Greek myth. Selene
+  DiSilva, the goddess Artemis living quietly in present-day New York, hunts killers and defends the surviving Greek gods
+  against a cult from Manhattan to Olympus.'
+books:
+- title: The Immortals
+  year: 2016
+  cover_url: https://books.google.com/books/content?vid=ISBN:9780316385879&printsec=frontcover&img=1&zoom=3
+- title: Winter of the Gods
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8511231-L.jpg
+- title: Olympus Bound
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/14163083-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://books.google.com/books/content?vid=ISBN:9780316385879&printsec=frontcover&img=1&zoom=3
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04934, MC04935, MC04933)
+placement_history:
+- date: '2026-10-04'
+  to: modern-greek-myth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
