@@ -1,0 +1,28 @@
+id: the-tide-child
+title: The Tide Child
+authors:
+- RJ Barker
+first_published: 2019
+canonical_genre: pirate-fantasy
+placement_status: accepted
+placement_rationale: Joron Twiner and Lucky Meas sail dragon-bone ships of the Hundred Isles on raids and war at sea; the
+  ship, its crew of outcasts and the sea lanes are the adventure. Pirate fantasy names captains, crews and naval chases; machinery
+  and land politics are not the point.
+books:
+- title: The Bone Ships
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10135308-L.jpg
+- title: Call of the Bone Ships
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/12656784-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10135308-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08090, MC08085)
+placement_history:
+- date: '2026-10-04'
+  to: pirate-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

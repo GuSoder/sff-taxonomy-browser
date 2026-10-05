@@ -1,0 +1,28 @@
+id: the-forsaken-trilogy
+title: The Forsaken Trilogy
+authors:
+- RJ Barker
+first_published: 2023
+canonical_genre: warrior-hero
+placement_status: accepted
+placement_rationale: 'Cahan du Nahare, a forester who was once a warrior, leads a village through the Wyrdwood against the
+  Rai and the gods; his armed skill and leadership carry the story. The gods and monsters are the setting, the protagonist''s
+  combat is the engine: Warrior hero.'
+books:
+- title: Gods of the Wyrdwood
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14620294-L.jpg
+- title: Heart of the Wyrdwood
+  year: 2025
+  cover_url: https://shop.hachettebookgroup.com/cdn/shop/files/O_79939b42-4eda-4769-b6c4-736e3c01c518.jpg?v=1771855265
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14620294-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08086, MC08087)
+placement_history:
+- date: '2026-10-04'
+  to: warrior-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
