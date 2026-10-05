@@ -1,0 +1,31 @@
+id: the-jumbies
+title: The Jumbies
+authors:
+- Tracey Baptiste
+first_published: 2015
+canonical_genre: birthright-magic
+placement_status: accepted
+placement_rationale: Corinne La Mer learns she is half-jumbie - Severine is her aunt - and the series is her claiming that
+  inherited blood against a village that shuns her. Heritage awakening in a young protagonist is the Birthright magic gate.
+  Caribbean folklore is the material; the inheritance is the engine.
+books:
+- title: The Jumbies
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8446424-L.jpg
+- title: Rise of the Jumbies
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8599367-L.jpg
+- title: The Jumbie God's Revenge
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8869668-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8446424-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids (book 1), MC09715, MC09716)
+placement_history:
+- date: '2026-10-04'
+  to: birthright-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
