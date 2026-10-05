@@ -1,0 +1,31 @@
+id: the-frostblood-saga
+title: The Frostblood Saga
+authors:
+- Elly Blake
+first_published: 2017
+canonical_genre: crown-enemies-romantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Romantasy > Enemies-to-lovers romantasy > Crown enemies. Ruby, a Fireblood hiding her
+  heat among the cruel Frostblood ruling class, is drawn into a rebellion against the Frost King and into a bond with the
+  king she meant to kill; the throne is the wall the love has to cross.'
+books:
+- title: Frostblood
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8402715-L.jpg
+- title: Fireblood
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8841802-L.jpg
+- title: Nightblood
+  year: 2019
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780316273367
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8402715-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02900, MC02899, MC02901)
+placement_history:
+- date: '2026-10-04'
+  to: crown-enemies-romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

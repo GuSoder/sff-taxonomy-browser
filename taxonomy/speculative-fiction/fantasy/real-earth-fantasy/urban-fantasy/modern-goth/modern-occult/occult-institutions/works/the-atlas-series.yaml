@@ -1,0 +1,31 @@
+id: the-atlas-series
+title: The Atlas Series
+authors:
+- Olivie Blake
+first_published: 2020
+canonical_genre: occult-institutions
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real-earth fantasy > Urban fantasy > Modern Gothic > Modern occult > Occult institutions.
+  Six gifted magicians are recruited for the Alexandrian Society, a secret society that guards the lost library of Alexandria;
+  the institution, its initiations and its rules carry the books (dark academia).'
+books:
+- title: The Atlas Six
+  year: 2020
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781250854544
+- title: The Atlas Paradox
+  year: 2022
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781250855107
+- title: The Atlas Complex
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/13239396-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9781250854544
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07452, MC07451, MC07450)
+placement_history:
+- date: '2026-10-04'
+  to: occult-institutions
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
