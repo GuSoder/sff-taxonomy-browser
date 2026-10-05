@@ -1,0 +1,24 @@
+id: carnival
+title: Carnival
+authors:
+- Elizabeth Bear
+first_published: 2006
+canonical_genre: colony-politics
+placement_status: accepted
+placement_rationale: Two spy-ambassadors, a gay couple, are sent to the matriarchal planet New Amazonia, ostensibly to return
+  stolen art; the real mission is to plot a coup against its ruling order.
+books:
+- title: Carnival
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/373483-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/373483-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02798)
+placement_history:
+- date: '2026-10-04'
+  to: colony-politics
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

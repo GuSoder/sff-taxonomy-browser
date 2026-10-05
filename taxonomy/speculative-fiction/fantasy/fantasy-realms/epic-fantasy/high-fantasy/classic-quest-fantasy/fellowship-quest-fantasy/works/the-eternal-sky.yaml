@@ -1,0 +1,31 @@
+id: the-eternal-sky
+title: The Eternal Sky
+authors:
+- Elizabeth Bear
+first_published: 2012
+canonical_genre: fellowship-quest-fantasy
+placement_status: accepted
+placement_rationale: Temur, an exiled Khagan's grandson, the sorcerer Samarkar and the tiger-woman Hrahima journey across
+  a world of steppes, mountains and celestial skies against usurpers and a rising dark power (Range of Ghosts, Shattered Pillars,
+  Steles of the Sky); a party-bound road through a Mongol-and-Silk-Road secondary world.
+books:
+- title: Range of Ghosts
+  year: 2012
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765327543
+- title: Shattered Pillars
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7821700-L.jpg
+- title: Steles of the Sky
+  year: 2014
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765327567
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765327543
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02809, MC02812, MC02813)
+placement_history:
+- date: '2026-10-04'
+  to: fellowship-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

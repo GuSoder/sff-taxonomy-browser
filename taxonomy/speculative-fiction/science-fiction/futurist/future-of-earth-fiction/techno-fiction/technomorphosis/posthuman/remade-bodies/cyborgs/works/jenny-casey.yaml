@@ -1,0 +1,31 @@
+id: jenny-casey
+title: Jenny Casey
+authors:
+- Elizabeth Bear
+first_published: 2004
+canonical_genre: cyborgs
+placement_status: accepted
+placement_rationale: Jenny Casey, a fifty-year-old Canadian veteran with a cybernetic arm and leg wired into her nerves, is
+  pulled back into a near-future of climate collapse, a rogue AI and first contact (Hammered, Scardown, Worldwired); a body
+  rebuilt with machinery is the engine.
+books:
+- title: Hammered
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/373386-L.jpg
+- title: Scardown
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/373388-L.jpg
+- title: Worldwired
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/373385-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/373386-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02805, MC02811, MC02824)
+placement_history:
+- date: '2026-10-04'
+  to: cyborgs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

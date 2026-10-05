@@ -1,0 +1,31 @@
+id: the-edda-of-burdens
+title: The Edda of Burdens
+authors:
+- Elizabeth Bear
+first_published: 2008
+canonical_genre: norse-fantasy
+placement_status: accepted
+placement_rationale: After Ragnarok the surviving Norse gods, Valkyries and wolves fight the last remnants of the wars, in
+  a world built from the Eddas and told again through their survivors (All the Windwracked Stars, By the Mountain Bound, The
+  Sea Thy Mistress).
+books:
+- title: All the Windwracked Stars
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/7444545-L.jpg
+- title: By the Mountain Bound
+  year: 2009
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765318831.jpg
+- title: The Sea Thy Mistress
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7799372-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7444545-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02796, MC02797, MC02819)
+placement_history:
+- date: '2026-10-04'
+  to: norse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,25 @@
+id: the-innkeepers-song
+title: The Innkeeper's Song
+authors:
+- Peter S. Beagle
+first_published: 1993
+canonical_genre: dark-realms
+placement_status: accepted
+placement_rationale: 'Three women ride into the Gaff and Slasher inn, where a wizard''s soul is to be taken by his pupil Arshadin,
+  who sold his blood to demonic Others; ten narrators tell one night of dread and dark magic shut inside an invented-world
+  inn. Gothic dread and enclosure in an invented world: Dark realms.'
+books:
+- title: The Innkeeper's Song
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/6966800-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6966800-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07726)
+placement_history:
+- date: '2026-10-04'
+  to: dark-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

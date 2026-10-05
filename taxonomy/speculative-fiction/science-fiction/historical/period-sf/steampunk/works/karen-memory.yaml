@@ -1,0 +1,24 @@
+id: karen-memory
+title: Karen Memory
+authors:
+- Elizabeth Bear
+first_published: 2015
+canonical_genre: steampunk
+placement_status: accepted
+placement_rationale: Karen Memory, a seamstress at a Seattle brothel in a gold-rush frontier city full of steam-powered machines
+  and sewing-machine exoskeletons, shelters a runaway and takes on a murderer.
+books:
+- title: Karen Memory
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9138788-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9138788-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02806)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

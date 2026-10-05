@@ -1,0 +1,25 @@
+id: iskryne
+title: Iskryne
+authors:
+- Elizabeth Bear
+- Sarah Monette
+first_published: 2011
+canonical_genre: bonded-hard-magic
+placement_status: accepted
+placement_rationale: In the frozen north of Iskryne, wolfcarls are telepathically bonded to trellwolves, whose pack law rules
+  their mating and their fights against trolls and elves (The Tempering of Men); the bond and its terms are the engine.
+books:
+- title: The Tempering of Men
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/10368416-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10368416-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02820)
+placement_history:
+- date: '2026-10-04'
+  to: bonded-hard-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
