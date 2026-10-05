@@ -1,0 +1,31 @@
+id: seven-brothers
+title: Seven Brothers
+authors:
+- Curt Benjamin
+first_published: 2002
+canonical_genre: destiny-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Epic fantasy > High fantasy > Classic quest fantasy > Destiny quest. Llesho, last of
+  a royal house sold into slavery, learns he is the marked heir and sets out across an Asia-inspired world to find his six
+  brothers and face a destiny beyond mortal power; the marked one''s rise is the spine.'
+books:
+- title: The Prince of Shadow
+  year: 2002
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756400545
+- title: Prince of Dreams
+  year: 2003
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781101157510
+- title: The Gates of Heaven
+  year: 2004
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756401986
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756400545
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02016, MC02014, MC02015)
+placement_history:
+- date: '2026-10-04'
+  to: destiny-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
