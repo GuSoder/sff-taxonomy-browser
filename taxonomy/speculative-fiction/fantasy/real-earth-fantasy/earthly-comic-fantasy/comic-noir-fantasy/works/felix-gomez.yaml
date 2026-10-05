@@ -3,7 +3,7 @@ title: Felix Gomez
 authors:
 - Mario Acevedo
 first_published: 2005
-canonical_genre: comic-noir
+canonical_genre: comic-noir-fantasy
 placement_status: accepted
 placement_rationale: Felix Gomez, a vampire Iraq-veteran private investigator, works cases through the marvelous in camp pun-title
   comedy; the hardboiled detective frame is the joke and comedy governs.
@@ -32,5 +32,10 @@ cover_curation:
 intake: ten-k walk v5 (queue ids MC06387-MC06391)
 placement_history:
 - date: '2026-10-04'
-  to: comic-noir
+  to: comic-noir-fantasy
   reason: Intake placement after the Earthly comic fantasy split (curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6).
+- date: '2026-10-05'
+  from: comic-noir
+  to: comic-noir-fantasy
+  reason: Leaf renamed Comic noir to Comic noir fantasy (curator "Approved" (phonemsg-01M45H5Q869HZ1M6VK1K5D933A, 2026-10-05
+    9:59 AM)); card unchanged.

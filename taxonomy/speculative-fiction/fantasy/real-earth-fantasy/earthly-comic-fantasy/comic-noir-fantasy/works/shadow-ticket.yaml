@@ -3,7 +3,7 @@ title: Shadow Ticket
 authors:
 - Thomas Pynchon
 first_published: 2025
-canonical_genre: comic-noir
+canonical_genre: comic-noir-fantasy
 placement_status: accepted
 placement_rationale: '1932 Milwaukee: a cheese-mob shakedown sends PI Hicks McTaggart after a runaway heiress into an asport-haunted
   world - objects and people vanish mid-swing, insured as an emerging field, plus a golem, vampiric bikers and an alt-timeline
@@ -24,6 +24,11 @@ placement_history:
   change: Held at intake (about-ness unverified); about-ness gate cleared on the curator walk; placed in Earthly comic fantasy
     by the curator ruling phonemsg-01M3MH1EFC99JWQJPF4J072RBP.
 - date: '2026-10-04'
-  to: comic-noir
+  to: comic-noir-fantasy
   reason: Split of Earthly comic fantasy at ten cards, split-with-umbrella; curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6.
   from: earthly-comic-fantasy
+- date: '2026-10-05'
+  from: comic-noir
+  to: comic-noir-fantasy
+  reason: Leaf renamed Comic noir to Comic noir fantasy (curator "Approved" (phonemsg-01M45H5Q869HZ1M6VK1K5D933A, 2026-10-05
+    9:59 AM)); card unchanged.
