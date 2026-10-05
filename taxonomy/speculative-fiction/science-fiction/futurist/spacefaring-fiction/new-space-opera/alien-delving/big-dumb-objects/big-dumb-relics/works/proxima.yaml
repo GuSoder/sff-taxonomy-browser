@@ -3,7 +3,7 @@ title: Proxima
 authors:
 - Stephen Baxter
 first_published: 2013
-canonical_genre: big-dumb-objects
+canonical_genre: big-dumb-relics
 placement_status: accepted
 placement_rationale: Alien hatches found on the planet Per Ardua let humans step across light-years as if through a door,
   and the artifacts they open lead further; vast alien structures entered for knowledge (Proxima, Ultima).
@@ -25,3 +25,8 @@ placement_history:
 - date: '2026-10-04'
   to: big-dumb-objects
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Big dumb objects by what the object is to the people who go in; re-walked root-down into Big dumb relics
+    (curator "Ok, approved" (phonemsg-01M46K9QKMFS5P99YSW8ZQFTSF, 2026-10-05 7:55 PM)).
+  from: big-dumb-objects
+  to: big-dumb-relics

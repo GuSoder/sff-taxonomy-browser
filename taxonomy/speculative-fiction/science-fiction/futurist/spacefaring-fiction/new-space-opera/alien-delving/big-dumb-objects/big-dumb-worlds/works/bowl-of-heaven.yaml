@@ -1,0 +1,32 @@
+id: bowl-of-heaven
+title: Bowl of Heaven
+authors:
+- Gregory Benford
+- Larry Niven
+first_published: 2012
+canonical_genre: big-dumb-worlds
+placement_status: accepted
+placement_rationale: 'A hollow-star Bowl, a vast artificial world with an ocean, forests and alien peoples, is entered by
+  a human starship that must cross it and live inside it; the object is the setting: Big dumb worlds.'
+books:
+- title: Bowl of Heaven
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765328410-L.jpg
+- title: Shipstar
+  year: 2014
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781250878038
+- title: Glorious
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/9332761-L.jpg
+cover_curation:
+  status: complete
+  source: publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780765328410-L.jpg
+  visually_reviewed_on: '2026-10-05'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03584, MC03590, MC03587)
+placement_history:
+- date: '2026-10-05'
+  to: big-dumb-worlds
+  reason: 'Intake from the 10k list: walked to Big dumb objects, which was frozen at nine; placed in Big dumb worlds after
+    the split (curator "Ok, approved" (phonemsg-01M46K9QKMFS5P99YSW8ZQFTSF, 2026-10-05 7:55 PM)).'

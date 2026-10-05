@@ -1,0 +1,36 @@
+id: needle
+title: Needle
+authors:
+- Linda Nagata
+first_published: 2022
+canonical_genre: big-dumb-relics
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Spacefaring fiction -> New space opera -> Alien delving. Publisher
+  (Mythic Island): Dragon''s fleet reaches Tanjiri system and its ''belt of ruins... remnant megastructures from a fallen
+  civilization'', hunting the maker-of-worlds entity; Lezuri''s needle artifact is itself an alien puzzle holding all his
+  knowledge. Humans going into alien things is the engine (leaf-mates Revelation Space, Eversion). Inverted Frontier book
+  3; earlier volumes not in the tree, so the card stands as this intake item. Placement freezes the leaf at 10 - golden rule
+  fires. LocusRec2022-SF.'
+classification_sources:
+- https://mythicisland.com/inverted_frontier_needle.php
+intake: 'gap-2022 #253 (LocusRec2022-SF)'
+cover_curation:
+  status: complete
+  source: Publisher (Mythic Island Press)
+  selected_url: https://mythicisland.com/images/book-covers/inverted_frontier_needle/IF_Needle_300x464.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: alien-delving
+  reason: 'Intake placement (gap-2022 batch n=246-260), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-09-28'
+  to: big-dumb-objects
+  reason: 'Alien-delving split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M4DCTVJB5VHDC4580MSW3P, by what they
+    go into.'
+- date: '2026-10-05'
+  reason: Split of Big dumb objects by what the object is to the people who go in; re-walked root-down into Big dumb relics
+    (curator "Ok, approved" (phonemsg-01M46K9QKMFS5P99YSW8ZQFTSF, 2026-10-05 7:55 PM)).
+  from: big-dumb-objects
+  to: big-dumb-relics
