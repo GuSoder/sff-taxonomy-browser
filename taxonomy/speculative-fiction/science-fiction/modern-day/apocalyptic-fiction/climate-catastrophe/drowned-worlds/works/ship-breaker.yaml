@@ -1,0 +1,30 @@
+id: ship-breaker
+title: Ship Breaker
+authors:
+- Paolo Bacigalupi
+first_published: 2010
+canonical_genre: drowned-worlds
+placement_status: accepted
+placement_rationale: 'Ship Breaker series: scavengers and child soldiers on a Gulf Coast swallowed by the rising sea after
+  climate collapse; the drowned coast and its flooded cities are the setting that drives every book.'
+books:
+- title: Ship Breaker
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7087383-L.jpg
+- title: The Drowned Cities
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7087381-L.jpg
+- title: Tool of War
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8842424-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7087383-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07539, MC07540, MC07541)
+placement_history:
+- date: '2026-10-04'
+  to: drowned-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
