@@ -1,0 +1,32 @@
+id: echo-park-coven
+title: Echo Park Coven
+authors:
+- Amber Benson
+first_published: 2015
+canonical_genre: occult-institutions
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real-earth fantasy > Urban fantasy > Modern Gothic > Modern occult > Occult institutions.
+  A hidden network of witches keeps the world in balance from a coven in Los Angeles; Lyse MacAllister is called to fill her
+  dying great-aunt''s seat, and the coven as a working institution, with its seats, rules and enemies, organizes the three
+  books.'
+books:
+- title: The Witches of Echo Park
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425268674
+- title: The Last Dream Keeper
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/13167390-L.jpg
+- title: The End of Magic
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/9383513-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425268674
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00533, MC00532, MC00530)
+placement_history:
+- date: '2026-10-04'
+  to: occult-institutions
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
