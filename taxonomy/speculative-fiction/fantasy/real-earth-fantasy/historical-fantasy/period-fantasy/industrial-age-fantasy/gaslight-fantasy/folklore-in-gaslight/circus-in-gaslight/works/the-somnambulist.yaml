@@ -1,0 +1,25 @@
+id: the-somnambulist
+title: The Somnambulist
+authors:
+- Jonathan Barnes
+first_published: 2007
+canonical_genre: circus-in-gaslight
+placement_status: accepted
+placement_rationale: 'Edward Moon, a stage conjurer and detective, and his silent giant partner investigate a murder tied
+  to Coleridge''s prophecies in late Victorian London. The stage act and its wonders carry the marvelous into the nineteenth-century
+  city: the Circus in gaslight gate.'
+books:
+- title: The Somnambulist
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2314269-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2314269-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04909)
+placement_history:
+- date: '2026-10-04'
+  to: circus-in-gaslight
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

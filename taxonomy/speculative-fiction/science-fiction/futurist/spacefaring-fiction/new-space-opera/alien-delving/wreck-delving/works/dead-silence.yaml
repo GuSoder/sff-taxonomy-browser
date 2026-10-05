@@ -1,0 +1,25 @@
+id: dead-silence
+title: Dead Silence
+authors:
+- S. A. Barnes
+first_published: 2022
+canonical_genre: wreck-delving
+placement_status: accepted
+placement_rationale: A repair crew finds the Aurora, a luxury liner missing for twenty years, and boards it to claim the salvage;
+  the derelict and what is aboard are the whole book. Salvage crews boarding a wreck for keeps is the Wreck delving gate,
+  told in the horror register.
+books:
+- title: Dead Silence
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/11533706-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11533706-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08487)
+placement_history:
+- date: '2026-10-04'
+  to: wreck-delving
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

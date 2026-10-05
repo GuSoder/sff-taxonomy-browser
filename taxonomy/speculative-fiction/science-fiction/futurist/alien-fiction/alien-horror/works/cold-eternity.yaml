@@ -1,0 +1,25 @@
+id: cold-eternity
+title: Cold Eternity
+authors:
+- S. A. Barnes
+first_published: 2025
+canonical_genre: alien-horror
+placement_status: accepted
+placement_rationale: 'Halley, a political aide on the run, takes a job on the Elysium Fields, a ship of frozen bodies, where
+  the founder merged with an alien and feeds on them. The alien''s predation and body horror drive the book: the Alien horror
+  gate.'
+books:
+- title: Cold Eternity
+  year: 2025
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250884954.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://mpd-biblio-covers.imgix.net/9781250884954.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08486)
+placement_history:
+- date: '2026-10-04'
+  to: alien-horror
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

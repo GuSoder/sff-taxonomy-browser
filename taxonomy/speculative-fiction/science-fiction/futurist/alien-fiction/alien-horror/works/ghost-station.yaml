@@ -1,0 +1,25 @@
+id: ghost-station
+title: Ghost Station
+authors:
+- S. A. Barnes
+first_published: 2024
+canonical_genre: alien-horror
+placement_status: accepted
+placement_rationale: 'A psychologist joins a survey crew on a planet of strange ruins; the crew unravels with hallucinations
+  and erratic behavior until the ruins turn out to be a parasitic alien colony. Dread, bodily violation and an alien predator
+  are the engine: the Alien horror gate.'
+books:
+- title: Ghost Station
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14609488-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14609488-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08488)
+placement_history:
+- date: '2026-10-04'
+  to: alien-horror
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
