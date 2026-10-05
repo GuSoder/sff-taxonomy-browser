@@ -1,0 +1,28 @@
+id: axis-of-time
+title: Axis of Time
+authors:
+- John Birmingham
+first_published: 2004
+canonical_genre: time-strays
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Time travel > Timeslips > Time strays. In 2021 a multinational fleet testing
+  untested weapons is flung back to 1942, where its sailors must live out a world they can no longer leave and that their
+  arrival rewrites; the unexplained, one-off crossing and life in the other era is the premise (not a built time machine).'
+books:
+- title: Weapons of Choice
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/12594231-L.jpg
+- title: Designated Targets
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/210796-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/12594231-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04686, MC04678)
+placement_history:
+- date: '2026-10-04'
+  to: time-strays
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
