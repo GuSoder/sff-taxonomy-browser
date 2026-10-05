@@ -1,0 +1,24 @@
+id: the-lunar-gothic-trilogy
+title: The Lunar Gothic Trilogy
+authors:
+- Nathan Ballingrud
+first_published: 2025
+canonical_genre: bowler-hat-fantasy
+placement_status: accepted
+placement_rationale: 'Cathedral of the Drowned (book 2): a Prohibition-era Gulf Coast bootlegger''s world where moon-spider
+  silk and cosmic horror break into 1920s America; period American setting with the supernatural entering the stage.'
+books:
+- title: Cathedral of the Drowned
+  year: 2025
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250347688.jpg?w=800
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://mpd-biblio-covers.imgix.net/9781250347688.jpg?w=800
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07313)
+placement_history:
+- date: '2026-10-04'
+  to: bowler-hat-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
