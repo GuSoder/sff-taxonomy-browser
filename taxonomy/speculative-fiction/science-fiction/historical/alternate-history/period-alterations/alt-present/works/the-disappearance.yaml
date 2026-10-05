@@ -1,0 +1,31 @@
+id: the-disappearance
+title: The Disappearance
+authors:
+- John Birmingham
+first_published: 2009
+canonical_genre: alt-present
+placement_status: accepted
+placement_rationale: 'Walk: Alternate history > Alternate present. On 14 March 2003 a wave of energy erases the continental
+  United States and most of its people; the survivors abroad and the world without America are the story, a fork in the near
+  present rather than a named historical period.'
+books:
+- title: Without Warning
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/isbn/9780345502896-L.jpg
+- title: After America
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8029100-L.jpg
+- title: Angels of Vengeance
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/15227930-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780345502896-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04687, MC04675, MC04676)
+placement_history:
+- date: '2026-10-04'
+  to: alt-present
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
