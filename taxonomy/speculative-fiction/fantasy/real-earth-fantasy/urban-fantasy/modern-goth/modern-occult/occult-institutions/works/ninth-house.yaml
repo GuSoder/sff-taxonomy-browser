@@ -5,10 +5,10 @@ authors:
 first_published: 2019
 canonical_genre: occult-institutions
 placement_status: accepted
-placement_rationale: Alex Stern, who can see the dead (Grays), is recruited to police Yale's eight secret societies,
-  whose tombs run real occult rites - portal surgery, shape-shifting, drug-fueled communion with the other side.
-  Occult systems operating inside a contemporary institution fit Modern occult exactly (cf. Conjure Wife's campus
-  witchcraft); the ghost sight serves the occult-institution frame rather than a haunting-centered story.
+placement_rationale: Alex Stern, who can see the dead (Grays), is recruited to police Yale's eight secret societies, whose
+  tombs run real occult rites - portal surgery, shape-shifting, drug-fueled communion with the other side. Occult systems
+  operating inside a contemporary institution fit Modern occult exactly (cf. Conjure Wife's campus witchcraft); the ghost
+  sight serves the occult-institution frame rather than a haunting-centered story.
 classification_sources:
 - https://en.wikipedia.org/wiki/Ninth_House_(novel)
 cover_curation:
@@ -18,19 +18,30 @@ cover_curation:
   image_url: https://covers.openlibrary.org/b/id/12667414-L.jpg
   cover_id: id-12667414
   beauty_score: 7.0
-  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical
-    book objects
-  beauty_rationale: Flatiron first-edition flat front - matte black with the serpent curled through the title lettering;
-    the actual published design, clean scan, English title fully legible.
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book
+    objects
+  beauty_rationale: Flatiron first-edition flat front - matte black with the serpent curled through the title lettering; the
+    actual published design, clean scan, English title fully legible.
   visually_reviewed_on: '2026-09-19'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 3
-  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring
-    flat front-cover art over photos of physical book objects
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover
+    art over photos of physical book objects
   title_overlay: false
 placement_history:
 - date: '2026-09-29'
   from: modern-occult
   to: occult-institutions
   reason: Curator harmonized-names ruling phonemsg-01M3P9RM636KMZRM7J0PR29XGC.
+- date: '2026-10-05'
+  to: occult-institutions
+  reason: 'Intake from the 10k list: Hell Bent (MC05967) added to the existing series card; Alex Stern goes into Hell to free
+    Darlington, still the Lethe/Yale occult-institution frame (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+books:
+- title: Ninth House
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/12667414-L.jpg
+- title: Hell Bent
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14357966-L.jpg
