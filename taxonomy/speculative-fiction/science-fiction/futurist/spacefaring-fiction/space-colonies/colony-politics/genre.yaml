@@ -1,0 +1,15 @@
+id: colony-politics
+label: Colony politics
+parent: space-colonies
+children: []
+works:
+- red-moon
+- vagabonds
+- marjorie-westriding
+image: 475-colony-politics.webp
+definition: 'Space colonies in which the struggle for power is the story: revolution, factions, ossified aristocracies and
+  republics keeping their political secrets, with the colony as the field of the contest. Not Space mystery (there a case
+  drives the story), not Colony life (there ordinary settled life does). Split 2026-10-05 from Space colonies by what drives
+  the story inside the colony (curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed
+  Space mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM)).'
+status: leaf

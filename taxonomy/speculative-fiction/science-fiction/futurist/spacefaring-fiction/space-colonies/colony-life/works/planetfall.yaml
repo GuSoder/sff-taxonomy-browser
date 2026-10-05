@@ -3,7 +3,7 @@ title: Planetfall
 authors:
 - Emma Newman
 first_published: 2015
-canonical_genre: space-colonies
+canonical_genre: colony-life
 placement_status: accepted
 placement_rationale: 'Penguin: four linked standalones in a world where a genius escapes to the stars. Reactor on book 1:
   ~1,000 colonists follow Lee Suh-Mi ''in what can best be described as a pilgrimage of faith''; twenty years on, the established
@@ -43,3 +43,9 @@ placement_history:
 - date: '2026-09-28'
   to: space-colonies
   reason: 'The curator''s EXECUTE phonemsg-01M3M8NBMVXJT4096ZBBCN565B after destination dry-run: space-colonies over spaceship-drama.'
+- date: '2026-10-05'
+  from: space-colonies
+  to: colony-life
+  reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
+    power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
+    mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).

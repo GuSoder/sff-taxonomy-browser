@@ -1,0 +1,14 @@
+id: colony-life
+label: Colony life
+parent: space-colonies
+children: []
+works:
+- planetfall
+- the-moonday-letters
+image: 476-colony-life.webp
+definition: 'Space colonies in which settled life is the story: the community''s routines, faith, secrets and care, and the
+  people who live them years after the founding. Not Colony politics (there a contest for power drives the story), not Space
+  mystery (there a case does). Split 2026-10-05 from Space colonies by what drives the story inside the colony (curator "Approved"
+  (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space mystery, phonemsg-01M45985VR35G9EGGEX4169X0F,
+  7:40 AM)).'
+status: leaf

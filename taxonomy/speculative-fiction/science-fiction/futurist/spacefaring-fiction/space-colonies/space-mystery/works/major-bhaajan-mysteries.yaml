@@ -1,0 +1,42 @@
+id: major-bhaajan-mysteries
+title: Major Bhaajan Mysteries
+authors:
+- Catherine Asaro
+first_published: 2014
+canonical_genre: space-mystery
+placement_status: accepted
+placement_rationale: 'Catherine Asaro''s Major Bhaajan Mysteries (Baen, 2014-2022; ISFDB series 38236, a sub-series of her
+  Skolian Empire universe): a tough ex-military private investigator works cases on the streets of the Undercity, an established
+  settlement in a galaxy-spanning future. The Undercity and its institutions are the arena and the case is the engine. Placed
+  in Space colonies on the user''s instruction (phonemsg-01M4592ADK9KDVZVYV421E7C04), then moved to Space mystery in the split
+  of Space colonies.'
+books:
+- title: Undercity
+  year: 2014
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781476736921-lg.jpg
+- title: The Bronze Skies
+  year: 2017
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781481482585-lg.jpg
+- title: The Vanished Seas
+  year: 2020
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982124717-lg.jpg
+- title: The Jigsaw Assassin
+  year: 2022
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982191962-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/9/7/9781476736921-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01482, MC01478, MC01481, MC01479)
+placement_history:
+- date: '2026-10-04'
+  to: space-colonies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  from: space-colonies
+  to: space-mystery
+  reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
+    power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
+    mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
