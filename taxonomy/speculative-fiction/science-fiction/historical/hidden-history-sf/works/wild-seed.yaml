@@ -6,13 +6,27 @@ first_published: 1980
 series: Patternist (book 1 by internal chronology)
 canonical_genre: hidden-history-sf
 placement_status: accepted
-placement_rationale: 'Butler''s 1980 Patternist novel (EBSCO, ISFDB): Doro, a body-jumping immortal, and Anyanwu, an Onitsha-Ibo shapeshifter and healer, span 1690-1840
-  from Africa to the American colonies while Doro secretly breeds a people with psychic powers. Psi, not magic (SF); extraordinary powers living inside documented
-  centuries without ever entering the record: Hidden history SF. Placed by the curator 2026-09-23 16:35.'
+placement_rationale: 'Butler''s 1980 Patternist novel (EBSCO, ISFDB): Doro, a body-jumping immortal, and Anyanwu, an Onitsha-Ibo
+  shapeshifter and healer, span 1690-1840 from Africa to the American colonies while Doro secretly breeds a people with psychic
+  powers. Psi, not magic (SF); extraordinary powers living inside documented centuries without ever entering the record: Hidden
+  history SF. Placed by the curator 2026-09-23 16:35.'
 classification_sources:
 - https://www.ebsco.com/research-starters/literature-and-writing/wild-seed-octavia-e-butler
 - https://isfdb.org/cgi-bin/title.cgi?842=
 - https://www.octaviabutler.com/patternist-series2
+books:
+- title: Patternmaster
+  year: 1976
+  cover_url: https://books.google.com/books/content?id=q7dLPgAACAAJ&printsec=frontcover&img=1&zoom=2
+- title: Mind of My Mind
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/285330-L.jpg
+- title: Wild Seed
+  year: 1980
+  cover_url: https://covers.openlibrary.org/b/id/10279447-L.jpg
+- title: Clay's Ark
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/286812-L.jpg
 cover_curation:
   status: complete
   source: Grand Central Publishing 2020 via Open Library
