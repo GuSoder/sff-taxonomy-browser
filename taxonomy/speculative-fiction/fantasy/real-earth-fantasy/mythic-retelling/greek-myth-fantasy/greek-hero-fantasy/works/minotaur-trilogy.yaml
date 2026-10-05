@@ -3,11 +3,11 @@ title: The Minotaur Trilogy
 authors:
 - Thomas Burnett Swann
 first_published: 1966
-canonical_genre: greek-myth-fantasy
+canonical_genre: greek-hero-fantasy
 placement_status: accepted
-placement_rationale: SFE places Swann's three-book Minotaur sequence in Mycenaean Crete, where dryads, centaurs, minotaurs and other legendary peoples confront
-  ascendant humanity. Day of the Minotaur retells the Minotaur from Eunostos's perspective and turns the monster into the defender of the mythic old world,
-  matching Mythic retelling's explicit mythic-age rule.
+placement_rationale: SFE places Swann's three-book Minotaur sequence in Mycenaean Crete, where dryads, centaurs, minotaurs
+  and other legendary peoples confront ascendant humanity. Day of the Minotaur retells the Minotaur from Eunostos's perspective
+  and turns the monster into the defender of the mythic old world, matching Mythic retelling's explicit mythic-age rule.
 classification_sources:
 - https://sf-encyclopedia.com/entry/swann_thomas_burnett
 - https://www.isfdb.org/cgi-bin/title.cgi?2140=
@@ -28,3 +28,9 @@ books:
 - title: Day of the Minotaur
   year: 1966
   cover_url: https://covers.openlibrary.org/b/id/10186823-L.jpg
+placement_history:
+- date: '2026-10-05'
+  reason: Split of Greek myth fantasy by who the retelling follows; re-walked root-down into Greek hero fantasy (curator "Approved"
+    (phonemsg-01M46G5R302AEC66RZJABDYAAC, 2026-10-05 7:00 PM)).
+  from: greek-myth-fantasy
+  to: greek-hero-fantasy

@@ -1,17 +1,13 @@
 id: greek-myth-fantasy
 label: Greek myth fantasy
 parent: mythic-retelling
-children: []
+children:
+- greek-hero-fantasy
+- greek-god-fantasy
 image: 165-greek-myth-fantasy.webp
-definition: Fantasy that retells or reimagines named figures and narratives from ancient Greek mythology and its heroic age.
+definition: 'Fantasy that retells or reimagines named figures and narratives from ancient Greek mythology and its heroic age.
+  Umbrella since 2026-10-05: split-with-umbrella by who the retelling follows - Greek hero fantasy, Greek god fantasy (curator
+  "Approved" (phonemsg-01M46G5R302AEC66RZJABDYAAC, 2026-10-05 7:00 PM)).'
 status: accepted
-works:
-- circe
-- phaedra
-- the-song-of-achilles
-- the-minotaur-trilogy
-- lovely-war
-- the-just-city
-- the-phoenix-and-the-mirror
-- wearing-the-lion
-- wrath-goddess-sing
+works: []
+ruling: curator "Approved" (phonemsg-01M46G5R302AEC66RZJABDYAAC, 2026-10-05 7:00 PM)

@@ -3,12 +3,12 @@ title: The Just City
 authors:
 - Jo Walton
 first_published: 2015
-canonical_genre: greek-myth-fantasy
+canonical_genre: greek-god-fantasy
 placement_status: accepted
-placement_rationale: "Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Mythic retelling -> Greek myth fantasy. SFE describes Pallas\
-  \ Athene creating an island city in the ancient Mediterranean and recruiting people across time to test Plato\u2019s Republic; Apollo becomes mortal and\
-  \ Zeus later moves the cities. Named Greek gods and their divine acts are the causal spine, with time travel and future robots serving Athene\u2019s mythic\
-  \ experiment."
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Mythic retelling -> Greek
+  myth fantasy. SFE describes Pallas Athene creating an island city in the ancient Mediterranean and recruiting people across
+  time to test Plato’s Republic; Apollo becomes mortal and Zeus later moves the cities. Named Greek gods and their divine
+  acts are the causal spine, with time travel and future robots serving Athene’s mythic experiment.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/walton_jo
 - https://us.macmillan.com/books/9780765332660/thejustcity/
@@ -30,3 +30,9 @@ books:
 - title: Necessity
   year: 2016
   cover_url: https://covers.openlibrary.org/b/id/8737297-L.jpg
+placement_history:
+- date: '2026-10-05'
+  reason: Split of Greek myth fantasy by who the retelling follows; re-walked root-down into Greek god fantasy (curator "Approved"
+    (phonemsg-01M46G5R302AEC66RZJABDYAAC, 2026-10-05 7:00 PM)).
+  from: greek-myth-fantasy
+  to: greek-god-fantasy
