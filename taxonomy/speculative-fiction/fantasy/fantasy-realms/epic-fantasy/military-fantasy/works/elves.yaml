@@ -1,0 +1,32 @@
+id: elves
+title: Elves
+authors:
+- James Barclay
+first_published: 2010
+canonical_genre: military-fantasy
+placement_status: accepted
+placement_rationale: Auum and the TaiGethen, the elite elven warriors of Calaius, fight a war across the trilogy - first elf
+  against elf, then the elves against the human occupation. The books follow warriors, campaigns and fighting forces; no existing
+  Rebel leaf fits (Tinderbox is the occupied city in revolt, Samizdat the erased memory), so Military fantasy, war from the
+  warriors' side, holds it.
+books:
+- title: 'Elves: Once Walked With Gods'
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8472355-L.jpg
+- title: 'Elves: Rise of the TaiGethen'
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7467880-L.jpg
+- title: 'Elves: Beyond the Mists of Katura'
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7805695-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8472355-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04149, MC04150, MC04148)
+placement_history:
+- date: '2026-10-04'
+  to: military-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
