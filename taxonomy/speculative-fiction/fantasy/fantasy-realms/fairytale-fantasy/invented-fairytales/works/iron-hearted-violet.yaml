@@ -1,0 +1,24 @@
+id: iron-hearted-violet
+title: Iron Hearted Violet
+authors:
+- Kelly Barnhill
+first_published: 2012
+canonical_genre: invented-fairytales
+placement_status: accepted
+placement_rationale: A plain, clever princess who loves telling stories finds a forbidden book about a banished god; in an
+  invented kingdom of dragons, a story's power is the fairytale engine. Invented fairytale, no inherited tale retold.
+books:
+- title: Iron Hearted Violet
+  year: 2012
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780316056755
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780316056755
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05410)
+placement_history:
+- date: '2026-10-04'
+  to: invented-fairytales
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
