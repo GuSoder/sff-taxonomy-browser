@@ -1,0 +1,31 @@
+id: the-word-and-the-void
+title: The Word and the Void
+authors:
+- Terry Brooks
+first_published: 1997
+canonical_genre: mythic-power-struggle
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Mythological fantasy > Mythic power struggle. Knights
+  of the Word and the demon-lords of the Void fight a long private war across modern America; angels, demons and their chosen
+  champions are the story.'
+books:
+- title: Running with the Demon
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/209230-L.jpg
+- title: A Knight of the Word
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/209315-L.jpg
+- title: Angel Fire East
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/209767-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/209230-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09481, MC09459, MC09461)
+placement_history:
+- date: '2026-10-04'
+  to: mythic-power-struggle
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

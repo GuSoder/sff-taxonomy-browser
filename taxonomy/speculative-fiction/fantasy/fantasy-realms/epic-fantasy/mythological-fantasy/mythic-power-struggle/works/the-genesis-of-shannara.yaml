@@ -1,0 +1,31 @@
+id: the-genesis-of-shannara
+title: The Genesis of Shannara
+authors:
+- Terry Brooks
+first_published: 2006
+canonical_genre: mythic-power-struggle
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Mythological fantasy > Mythic power struggle. In the
+  ruin of a ravaged Earth the Knights of the Word and the demon-lord Findo Gask fight over the Gypsy Morph and the Elves;
+  the old war of the Word and the Void goes on.'
+books:
+- title: Armageddon's Children
+  year: 2006
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345484109
+- title: The Elves of Cintra
+  year: 2007
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345484130
+- title: The Gypsy Morph
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6991646-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345484109
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09462, MC09491, MC09492)
+placement_history:
+- date: '2026-10-04'
+  to: mythic-power-struggle
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
