@@ -1,0 +1,30 @@
+id: the-paradox-trilogy
+title: The Paradox Trilogy
+authors:
+- Rachel Bach
+first_published: 2013
+canonical_genre: space-adventure
+placement_status: accepted
+placement_rationale: Devi Morris, a mercenary in power armor, fights through a string of space disasters aboard a doomed ship;
+  action and physical danger are the engine.
+books:
+- title: Fortune's Pawn
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/10926605-L.jpg
+- title: Honor's Knight
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/9804077-L.jpg
+- title: Heaven's Queen
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/11643034-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10926605-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07901, MC07903, MC07902)
+placement_history:
+- date: '2026-10-04'
+  to: space-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
