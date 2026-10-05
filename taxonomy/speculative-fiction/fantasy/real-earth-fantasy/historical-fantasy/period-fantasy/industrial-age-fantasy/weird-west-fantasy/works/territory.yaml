@@ -1,0 +1,25 @@
+id: territory
+title: Territory
+authors:
+- Emma Bull
+first_published: 2007
+canonical_genre: weird-west-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Historical fantasy > Period fantasy > Industrial-age fantasy > Weird West fantasy. Tombstone,
+  Arizona, 1881: a horse-lover who is secretly a sorcerer and a poet-gambler meet the Earps and the Clantons as magic runs
+  under the gunfight at the O.K. Corral.'
+books:
+- title: Territory
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/6285386-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6285386-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02939)
+placement_history:
+- date: '2026-10-04'
+  to: weird-west-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

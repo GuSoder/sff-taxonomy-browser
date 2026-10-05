@@ -23,6 +23,10 @@ included_titles:
 - Diplomatic Immunity
 - Cryoburn
 - Gentleman Jole and the Red Queen
+books:
+- title: Captain Vorpatril's Alliance
+  year: 2012
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451638455_9781451638455_lg.jpg
 cover_curation:
   status: complete
   source: Open Library
@@ -62,9 +66,9 @@ cover_curation:
     url: https://covers.openlibrary.org/b/isbn/9781451637502-L.jpg
   - title: Gentleman Jole and the Red Queen
     url: https://covers.openlibrary.org/b/isbn/9781481482899-L.jpg
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> New space opera -> Political space
-  opera -> Interstellar court politics. The sequence follows the Barrayaran imperial court, dynastic succession, diplomacy, covert state service and political
-  legitimacy across an interstellar society.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> New space
+  opera -> Political space opera -> Interstellar court politics. The sequence follows the Barrayaran imperial court, dynastic
+  succession, diplomacy, covert state service and political legitimacy across an interstellar society.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/miles_vorkosigan_series
 - https://www.baen.com/categories/lois-mcmaster-bujold/vorkosigan-saga.html
