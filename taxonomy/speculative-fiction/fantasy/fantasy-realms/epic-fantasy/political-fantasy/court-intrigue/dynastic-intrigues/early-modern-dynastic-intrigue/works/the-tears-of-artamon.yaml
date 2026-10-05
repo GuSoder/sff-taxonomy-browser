@@ -1,0 +1,31 @@
+id: the-tears-of-artamon
+title: The Tears of Artamon
+authors:
+- Sarah Ash
+first_published: 2003
+canonical_genre: early-modern-dynastic-intrigue
+placement_status: accepted
+placement_rationale: 'Russian-flavored secondary-world epic: a painter''s son inherits the lordship of Azhkendir and its dragon-spirit
+  Drakhaoul, and is pulled into the tsar''s wars and court politics. The contested inheritance of a ruling house and the power
+  struggle around it drive the series.'
+books:
+- title: Lord of Snow and Shadows
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/374413-L.jpg
+- title: Prisoner of the Iron Tower
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/370039-L.jpg
+- title: Children of the Serpent Gate
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/370040-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/374413-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08586, MC08587, MC08584)
+placement_history:
+- date: '2026-10-04'
+  to: early-modern-dynastic-intrigue
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

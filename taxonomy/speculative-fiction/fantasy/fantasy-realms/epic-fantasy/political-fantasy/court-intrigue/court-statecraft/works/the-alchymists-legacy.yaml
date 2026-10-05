@@ -1,0 +1,27 @@
+id: the-alchymists-legacy
+title: The Alchymist's Legacy
+authors:
+- Sarah Ash
+first_published: 2008
+canonical_genre: court-statecraft
+placement_status: accepted
+placement_rationale: Secondary-world Francia has purged its magi; the story follows kingdoms at siege and war, inquisitors,
+  heretics and rulers under military pressure. Power and survival at state level govern the plot.
+books:
+- title: Tracing the Shadow
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/2519516-L.jpg
+- title: Flight into Darkness
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6303612-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2519516-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08588, MC08585)
+placement_history:
+- date: '2026-10-04'
+  to: court-statecraft
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
