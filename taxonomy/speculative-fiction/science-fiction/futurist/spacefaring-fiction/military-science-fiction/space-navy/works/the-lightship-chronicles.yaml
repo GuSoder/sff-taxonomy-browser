@@ -1,0 +1,31 @@
+id: the-lightship-chronicles
+title: The Lightship Chronicles
+authors:
+- Dave Bara
+first_published: 2015
+canonical_genre: space-navy
+placement_status: accepted
+placement_rationale: Lieutenant Peter Cochrane serves as an officer aboard the Quantar Royal Navy lightship Starbound; the
+  books are ship crews, patrols and fleet engagements, with a royal-navy chain of command driving the story. Ship-crew naval
+  war is the Space navy gate.
+books:
+- title: Impulse
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/7416968-L.jpg
+- title: Starbound
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/12674721-L.jpg
+- title: Defiant
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8458542-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7416968-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02154, MC02155, MC02153)
+placement_history:
+- date: '2026-10-04'
+  to: space-navy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

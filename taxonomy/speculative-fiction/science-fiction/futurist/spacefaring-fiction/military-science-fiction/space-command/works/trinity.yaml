@@ -1,0 +1,28 @@
+id: trinity
+title: Trinity
+authors:
+- Dave Bara
+first_published: 2021
+canonical_genre: space-command
+placement_status: accepted
+placement_rationale: Jared Clement, a defector turned 5 Suns Fleet Admiral, directs a migrant fleet and its escorts against
+  DeVore's new fleet and the Solar League's invasion fleet over the Trinity system. Fleet campaigns decided from the admiral's
+  chair are the Space command gate; Trinity is a separate series from Bara's Lightship Chronicles.
+books:
+- title: Trinity
+  year: 2021
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982125660-lg.jpg
+- title: Trinity's Children
+  year: 2022
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982192112-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982125660-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02183, MC02156)
+placement_history:
+- date: '2026-10-04'
+  to: space-command
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
