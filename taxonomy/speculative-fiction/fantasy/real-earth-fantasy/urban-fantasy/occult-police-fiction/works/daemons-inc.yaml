@@ -1,0 +1,25 @@
+id: daemons-inc
+title: Daemons, Inc.
+authors:
+- Camille Bacon-Smith
+first_published: 2010
+canonical_genre: occult-police-fiction
+placement_status: accepted
+placement_rationale: 'Daemons, Inc.: a Philadelphia detective agency of daemon lords and a half-daemon son takes occult cases;
+  the engine is investigating crimes shaped by magic and supernatural beings. Closest existing home is Occult police fiction
+  (as for Magic for Liars); the agency is private, not police - see note to the curator.'
+books:
+- title: A Legacy of Daemons
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8345998-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8345998-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01393)
+placement_history:
+- date: '2026-10-04'
+  to: occult-police-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
