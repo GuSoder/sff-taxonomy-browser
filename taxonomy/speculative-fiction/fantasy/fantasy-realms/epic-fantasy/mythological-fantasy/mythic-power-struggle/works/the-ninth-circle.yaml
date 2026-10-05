@@ -1,0 +1,25 @@
+id: the-ninth-circle
+title: The Ninth Circle
+authors:
+- Alex Bell
+first_published: 2008
+canonical_genre: mythic-power-struggle
+placement_status: accepted
+placement_rationale: 'Gabriel Antaeus wakes in Budapest with no memory and uncanny skills, and is drawn into a war between
+  angels and demons in which he is a long-standing player. Mythic beings from real tradition locked in a long personal struggle:
+  Mythic power struggle.'
+books:
+- title: The Ninth Circle
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/isbn/9780575080263-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780575080263-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00413)
+placement_history:
+- date: '2026-10-04'
+  to: mythic-power-struggle
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
