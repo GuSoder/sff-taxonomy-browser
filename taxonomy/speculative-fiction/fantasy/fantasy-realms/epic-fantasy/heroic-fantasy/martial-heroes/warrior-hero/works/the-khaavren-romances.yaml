@@ -1,0 +1,40 @@
+id: the-khaavren-romances
+title: The Khaavren Romances
+authors:
+- Steven Brust
+first_published: 1991
+canonical_genre: warrior-hero
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Warrior hero. Khaavren
+  and his Phoenix Guard friends, in the swashbuckling manner of Dumas''s Musketeers, win their place by the sword; the Viscount
+  of Adrilankha volumes are part of the same romance.'
+books:
+- title: The Phoenix Guards
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/9347629-L.jpg
+- title: Five Hundred Years After
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/603262-L.jpg
+- title: The Paths of the Dead
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/182824-L.jpg
+- title: The Lord of Castle Black
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/182426-L.jpg
+- title: Sethra Lavode
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/182425-L.jpg
+- title: The Baron of Magister Valley
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10131381-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9347629-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09161, MC09141, MC09160, MC09159, MC09149, MC09150)
+placement_history:
+- date: '2026-10-04'
+  to: warrior-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

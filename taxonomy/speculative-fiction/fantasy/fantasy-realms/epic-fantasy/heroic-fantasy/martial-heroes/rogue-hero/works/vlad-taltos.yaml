@@ -1,0 +1,52 @@
+id: vlad-taltos
+title: Vlad Taltos
+authors:
+- Steven Brust
+first_published: 1998
+canonical_genre: rogue-hero
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero. Vlad Taltos
+  is a human assassin and Jhereg crime boss in the Dragaeran Empire; his power is stealth, contracts and wit, not the sword
+  or the spell.'
+books:
+- title: Dragon
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/182961-L.jpg
+- title: Issola
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/182516-L.jpg
+- title: Dzur
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/523862-L.jpg
+- title: Jhegaala
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/2615727-L.jpg
+- title: Iorich
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/10335927-L.jpg
+- title: Tiassa
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8841803-L.jpg
+- title: Hawk
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10761390-L.jpg
+- title: Vallista
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/14529745-L.jpg
+- title: Tsalmoth
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13911959-L.jpg
+- title: Lyorn
+  year: 2024
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765382863.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182961-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09138, MC09146, MC09139, MC09147, MC09145, MC09164, MC09144, MC09167, MC09166, MC09148)
+placement_history:
+- date: '2026-10-04'
+  to: rogue-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
