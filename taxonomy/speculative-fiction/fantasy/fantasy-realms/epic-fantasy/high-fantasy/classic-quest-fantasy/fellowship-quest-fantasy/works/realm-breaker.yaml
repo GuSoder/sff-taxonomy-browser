@@ -1,0 +1,30 @@
+id: realm-breaker
+title: Realm Breaker
+authors:
+- Victoria Aveyard
+first_published: 2019
+canonical_genre: fellowship-quest-fantasy
+placement_status: accepted
+placement_rationale: Corayne, last of a forgotten blood, and a ragtag band of Companions cross the realm to stop the darkness
+  tearing the world apart; the company on the road is the engine.
+books:
+- title: Realm Breaker
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10589003-L.jpg
+- title: Blade Breaker
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13323647-L.jpg
+- title: Fate Breaker
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14587608-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10589003-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09856, MC09854, MC09855)
+placement_history:
+- date: '2026-10-04'
+  to: fellowship-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

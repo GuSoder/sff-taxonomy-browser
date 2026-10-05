@@ -1,0 +1,24 @@
+id: red-queen
+title: Red Queen
+authors:
+- Victoria Aveyard
+first_published: 2015
+canonical_genre: overthrow-fantasy
+placement_status: accepted
+placement_rationale: Mare, a Red commoner, is caught between the Silver nobility who rule with powers and the rebel Scarlet
+  Guard; the plot is the uprising against the ruling blood.
+books:
+- title: Red Queen
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/7434883-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7434883-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09857)
+placement_history:
+- date: '2026-10-04'
+  to: overthrow-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
