@@ -1,0 +1,27 @@
+id: the-pumpkin-princess
+title: The Pumpkin Princess
+authors:
+- Steven Banbury
+first_published: 2024
+canonical_genre: otherworld-summonings
+placement_status: accepted
+placement_rationale: An orphan girl fleeing an orphanage is carried off by the Pumpkin King to Hallowell, the hidden land
+  of the undead, and becomes his daughter; someone with power brings her across, and the series follows her life there.
+books:
+- title: The Pumpkin Princess and the Forever Night
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14835299-L.jpg
+- title: The Pumpkin Princess and the Buried Castle
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15121551-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14835299-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09130, MC09129)
+placement_history:
+- date: '2026-10-04'
+  to: otherworld-summonings
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
