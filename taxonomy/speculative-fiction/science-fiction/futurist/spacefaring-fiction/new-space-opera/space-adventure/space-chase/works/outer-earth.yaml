@@ -1,0 +1,28 @@
+id: outer-earth
+title: Outer Earth
+authors:
+- Rob Boffard
+first_published: 2016
+canonical_genre: space-chase
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Spacefaring fiction > New space opera > Space adventure > Space chase. Riley
+  Hale, a tracer courier on the last human space station, is hunted and on the run through its failing sections (''in space
+  there is nowhere to run''); the pursuit drives Zero-G and Impact (Tracer, book 1, is not in the queue).'
+books:
+- title: Zero-G
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/13080356-L.jpg
+- title: Impact
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/isbn/9780356505176-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13080356-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08101, MC08100)
+placement_history:
+- date: '2026-10-04'
+  to: space-chase
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
