@@ -1,0 +1,34 @@
+id: galactic-center-saga
+title: Galactic Center Saga
+authors:
+- Gregory Benford
+first_published: 1977
+canonical_genre: hard-alien
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Alien fiction > Hard alien. Humans caught in a galactic war between mechanical
+  and biological life, starting from an alien probe in the solar system; hard-edged cosmology and genuinely alien minds are
+  the engine, not the voyages (not First contact, which centres on the first consequential encounter).'
+books:
+- title: In the Ocean of Night
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/isbn/9780446611596-L.jpg
+- title: Across the Sea of Suns
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/isbn/9780356102252-L.jpg
+- title: Tides of Light
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/isbn/0553053221-L.jpg
+- title: Furious Gulf
+  year: 1994
+  cover_url: https://books.google.com/books/content?vid=ISBN:0575061006&printsec=frontcover&img=1&zoom=1
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780446611596-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03589, MC03581, MC03594, MC03586)
+placement_history:
+- date: '2026-10-04'
+  to: hard-alien
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
