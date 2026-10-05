@@ -1,21 +1,20 @@
 id: deep-alterations
 label: Deep alterations
 parent: alternate-history
-children: []
+children:
+- antique-alterations
+- age-of-sail-alterations
+- machine-age-alterations
 image: 150-deep-alterations.webp
-definition: Alternate histories where an enduring divergence makes a different world to live in, whether it remakes political orders and cultures or transforms one
-  field of knowledge and experience. The alteration outlasts a single era; the book is about living in its changed world rather than replaying a period’s events.
+definition: 'Alternate histories where an enduring divergence makes a different world to live in, whether it remakes political
+  orders and cultures or transforms one field of knowledge and experience. The alteration outlasts a single era; the book
+  is about living in its changed world rather than replaying a period’s events. Umbrella since 2026-10-05: split-with-umbrella
+  by when the divergence happens - Antique alterations, Age of sail alterations, Machine age alterations (curator "Ok, approved"
+  (phonemsg-01M46DWQZMXRC77R59XP4QV3TA, 2026-10-05 6:21 PM)).'
 status: accepted
-works:
-- the-alteration
-- the-years-of-rice-and-salt
-- pavane
-- sargassa
-- singer-distance
-- the-strange
-- destroyermen
-- the-northland-trilogy
+works: []
 history:
 - date: '2026-09-29'
   change: Definition broadened for enduring lived-in alternate worlds; Singer Distance placed by curator ruling.
   source_message: phonemsg-01M3QGCC70GAAP7RFTC18VJCDQ
+ruling: curator "Ok, approved" (phonemsg-01M46DWQZMXRC77R59XP4QV3TA, 2026-10-05 6:21 PM)

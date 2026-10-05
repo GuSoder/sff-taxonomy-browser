@@ -3,7 +3,7 @@ title: The Northland Trilogy
 authors:
 - Stephen Baxter
 first_published: 2010
-canonical_genre: deep-alterations
+canonical_genre: antique-alterations
 placement_status: accepted
 placement_rationale: 'An alternate history in which Doggerland is not drowned: people of the Stone Age, then the Bronze Age
   and a Roman-era ice winter, build a different world around Northland (Stone Spring, Bronze Summer, Iron Winter); an enduring
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: deep-alterations
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Deep alterations by when the divergence happens; re-walked root-down into Antique alterations (curator
+    "Ok, approved" (phonemsg-01M46DWQZMXRC77R59XP4QV3TA, 2026-10-05 6:21 PM)).
+  from: deep-alterations
+  to: antique-alterations

@@ -3,11 +3,12 @@ title: Singer Distance
 authors:
 - Ethan Chatagnier
 first_published: 2022
-canonical_genre: deep-alterations
+canonical_genre: machine-age-alterations
 placement_status: accepted
-placement_rationale: Science fiction > Historical > Alternate history > Deep alterations. Public Martian math correspondence begins in 1894 and persists across Rick
-  and Crystal Singer’s lives. The altered world reshapes mathematics and the experience of seeking alien minds, though its technology and political order largely
-  resemble ours. The story is about living in that enduring changed world, not an era-specific fork or a first encounter in 1960. Curator ruling phonemsg-01M3QGCC70GAAP7RFTC18VJCDQ.
+placement_rationale: Science fiction > Historical > Alternate history > Deep alterations. Public Martian math correspondence
+  begins in 1894 and persists across Rick and Crystal Singer’s lives. The altered world reshapes mathematics and the experience
+  of seeking alien minds, though its technology and political order largely resemble ours. The story is about living in that
+  enduring changed world, not an era-specific fork or a first encounter in 1960. Curator ruling phonemsg-01M3QGCC70GAAP7RFTC18VJCDQ.
 classification_sources:
 - https://www.kirkusreviews.com/book-reviews/ethan-chatagnier/singer-distance/
 - https://www.libraryjournal.com/review/singer-distance-2163581
@@ -25,3 +26,8 @@ placement_history:
 - date: '2026-09-29'
   change: Placed in Deep alterations by curator ruling; enduring alternate-world experience rather than period-specific event.
   source_message: phonemsg-01M3QGCC70GAAP7RFTC18VJCDQ
+- date: '2026-10-05'
+  reason: Split of Deep alterations by when the divergence happens; re-walked root-down into Machine age alterations (curator
+    "Ok, approved" (phonemsg-01M46DWQZMXRC77R59XP4QV3TA, 2026-10-05 6:21 PM)).
+  from: deep-alterations
+  to: machine-age-alterations

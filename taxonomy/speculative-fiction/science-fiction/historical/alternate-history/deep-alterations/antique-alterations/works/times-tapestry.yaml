@@ -1,0 +1,35 @@
+id: times-tapestry
+title: Time's Tapestry
+authors:
+- Stephen Baxter
+first_published: 2006
+canonical_genre: antique-alterations
+placement_status: accepted
+placement_rationale: 'A prophecy scroll found in Roman Britain sends messages from the future back through time, and the people
+  who read them try to bend history, from Roman Britain through Vikings and the age of exploration to the twentieth century.
+  The fork is ancient and its changed world is lived in across millennia: Antique alterations.'
+books:
+- title: Emperor
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/284398-L.jpg
+- title: Conqueror
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/380361-L.jpg
+- title: Navigator
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2421403-L.jpg
+- title: Weaver
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/10368348-L.jpg
+cover_curation:
+  status: complete
+  source: publisher
+  selected_url: https://covers.openlibrary.org/b/id/284398-L.jpg
+  visually_reviewed_on: '2026-10-05'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08970, MC08968, MC08982, MC08996)
+placement_history:
+- date: '2026-10-05'
+  to: antique-alterations
+  reason: 'Intake from the 10k list: walked to Deep alterations, which was at nine; placed in Antique alterations after the
+    split (curator "Ok, approved" (phonemsg-01M46DWQZMXRC77R59XP4QV3TA, 2026-10-05 6:21 PM)).'
