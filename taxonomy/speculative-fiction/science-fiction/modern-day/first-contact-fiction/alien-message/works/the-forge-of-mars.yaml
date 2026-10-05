@@ -1,0 +1,24 @@
+id: the-forge-of-mars
+title: The Forge of Mars
+authors:
+- Bruce Balfour
+first_published: 2002
+canonical_genre: alien-message
+placement_status: accepted
+placement_rationale: NASA finds alien artifacts buried on Mars; the encounter is mediated through the found artifact, not
+  a visit, and a researcher is pulled into a conspiracy around it.
+books:
+- title: The Forge of Mars
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/284012-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284012-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01253)
+placement_history:
+- date: '2026-10-04'
+  to: alien-message
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
