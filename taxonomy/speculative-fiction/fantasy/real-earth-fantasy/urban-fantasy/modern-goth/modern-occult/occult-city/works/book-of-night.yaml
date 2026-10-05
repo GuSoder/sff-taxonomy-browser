@@ -9,6 +9,13 @@ placement_rationale: Gloamists manipulate shadows for theft and murder inside a 
   of grimoires; occult system embedded in modern professions and organized social life.
 classification_sources: []
 intake: 'gap-2022 tier-2 #44 (LocusRec2022-Fantasy)'
+books:
+- title: Book of Night
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/11275353-L.jpg
+- title: Thief of Night
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15242998-L.jpg
 cover_curation:
   status: complete
   source: Open Library

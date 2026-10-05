@@ -1,0 +1,31 @@
+id: the-curseworkers
+title: The Curseworkers
+authors:
+- Holly Black
+first_published: 2010
+canonical_genre: occult-bloodline
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real-earth fantasy > Urban fantasy > Modern Gothic > Modern occult > Occult bloodline.
+  In a world where touch-magic curseworking is illegal and runs in families, Cassel Sharpe, the one non-worker in a crime
+  family of curseworkers, is pulled into the family''s inherited trade; the bloodline craft and its underworld is the setting.'
+books:
+- title: White Cat
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6376276-L.jpg
+- title: Red Glove
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6716912-L.jpg
+- title: Black Heart
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/9062637-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6376276-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03855, MC03846, MC03844)
+placement_history:
+- date: '2026-10-04'
+  to: occult-bloodline
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

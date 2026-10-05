@@ -20,6 +20,12 @@ books:
 - title: The Queen of Nothing
   first_published: 2019
   cover_url: 270-the-folk-of-the-air-3.jpg
+- title: The Stolen Heir
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13122196-L.jpg
+- title: The Prisoner's Throne
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14594863-L.jpg
 cover_curation:
   status: complete
   source: Open Library
