@@ -1,0 +1,24 @@
+id: tempest
+title: Tempest
+authors:
+- Victoria Aveyard
+first_published: 2026
+canonical_genre: pirate-fantasy
+placement_status: accepted
+placement_rationale: 'Seed card (curator Execute under S&S, 2026-10-05): a former noblewoman is forced to hunt the last great
+  pirate captain on the high seas of an empire at war; ships, crews and the pirate trade carry the story.'
+books:
+- title: Tempest
+  year: 2026
+  cover_url: https://covers.openlibrary.org/b/id/15224821-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15224821-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02546)
+placement_history:
+- date: '2026-10-04'
+  to: pirate-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
