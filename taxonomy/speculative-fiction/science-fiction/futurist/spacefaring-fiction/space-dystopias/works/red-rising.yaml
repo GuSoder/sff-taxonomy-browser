@@ -16,6 +16,25 @@ placement_rationale: 'Root-down traversal: Speculative fiction -> Science fictio
 classification_sources:
 - https://sf-encyclopedia.com/entry/brown_pierce
 - https://www.penguinrandomhouse.com/books/221552/red-rising-by-pierce-brown/
+books:
+- title: Red Rising
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8407136-L.jpg
+- title: Golden Son
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8454351-L.jpg
+- title: Morning Star
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8566174-L.jpg
+- title: Iron Gold
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/14511722-L.jpg
+- title: Dark Age
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8748017-L.jpg
+- title: Light Bringer
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/15157697-L.jpg
 cover_curation:
   status: complete
   source: Open Library
