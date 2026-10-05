@@ -1,0 +1,31 @@
+id: fated-blades
+title: Fated Blades
+authors:
+- Steve Bein
+first_published: 2012
+canonical_genre: occult-cop-cases
+placement_status: accepted
+placement_rationale: 'Mariko Oshiro, the only woman detective in Tokyo''s elite police unit, works sword cases that turn out
+  to involve magical blades forged by master smiths, with the swords'' history running back through the samurai ages. A sworn
+  police officer working cases shaped by magic: Occult cop cases.'
+books:
+- title: Daughter of the Sword
+  year: 2012
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780451464774
+- title: Year of the Demon
+  year: 2013
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780451465207
+- title: Disciple of the Wind
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780451470218
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780451464774
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09089, MC09091, MC09090)
+placement_history:
+- date: '2026-10-04'
+  to: occult-cop-cases
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
