@@ -1,0 +1,28 @@
+id: recursion
+title: Recursion
+authors:
+- Tony Ballantyne
+first_published: 2004
+canonical_genre: ai
+placement_status: accepted
+placement_rationale: 'Recursion series: a future run by machine intelligences (the Watcher, Social Care, the Enemy Domain)
+  where minds live and are copied in processing space; the story centers disembodied machine intelligence and identity under
+  its rule.'
+books:
+- title: Recursion
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/373501-L.jpg
+- title: Capacity
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/373502-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/373501-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09699, MC09698)
+placement_history:
+- date: '2026-10-04'
+  to: ai
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
