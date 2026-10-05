@@ -1,0 +1,28 @@
+id: golgotha
+title: Golgotha
+authors:
+- R. S. Belcher
+first_published: 2014
+canonical_genre: weird-west-fantasy
+placement_status: accepted
+placement_rationale: 'Golgotha, Nevada, an 1870s frontier town where the lawman, the mayor and the saloon keeper hide monsters,
+  angels and old magic behind the gunsmoke. The nineteenth-century American frontier remade through magic and monsters: Weird
+  west fantasy.'
+books:
+- title: The Shotgun Arcana
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10231748-L.jpg
+- title: The Queen of Swords
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8842851-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10231748-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07885, MC07884)
+placement_history:
+- date: '2026-10-04'
+  to: weird-west-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,28 @@
+id: the-brotherhood-of-the-wheel
+title: The Brotherhood of the Wheel
+authors:
+- R. S. Belcher
+first_published: 2016
+canonical_genre: occult-secret-service
+placement_status: accepted
+placement_rationale: 'The Templars went underground as the Brethren, a network of truckers and state troopers who secretly
+  guard the American highways against serial killers, murder cults and monsters. A hidden service that contains occult threats:
+  Occult secret service.'
+books:
+- title: The Brotherhood of the Wheel
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/13085017-L.jpg
+- title: King of the Road
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8842911-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13085017-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07883, MC07882)
+placement_history:
+- date: '2026-10-04'
+  to: occult-secret-service
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
