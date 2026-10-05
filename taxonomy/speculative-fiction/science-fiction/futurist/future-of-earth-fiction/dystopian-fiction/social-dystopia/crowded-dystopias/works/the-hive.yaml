@@ -1,0 +1,28 @@
+id: the-hive
+title: The Hive
+authors:
+- T. J. Bass
+first_published: 1971
+canonical_genre: crowded-dystopias
+placement_status: accepted
+placement_rationale: Earth packed with trillions in vast Hives, where the 'Nebishes' live regimented lives and the mutated
+  Stone-age 'Fyngers' stay outside; the pressure of mass population on society is the setting for both books (Half Past Human,
+  The Godwhale).
+books:
+- title: Half Past Human
+  year: 1971
+  cover_url: https://covers.openlibrary.org/b/id/5540883-L.jpg
+- title: The Godwhale
+  year: 1974
+  cover_url: https://upload.wikimedia.org/wikipedia/en/e/e3/TheGodwhale%281stEd%29.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/5540883-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09303, MC09304)
+placement_history:
+- date: '2026-10-04'
+  to: crowded-dystopias
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
