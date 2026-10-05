@@ -1,0 +1,31 @@
+id: the-horsemistress-saga
+title: The Horsemistress Saga
+authors:
+- Toby Bishop
+first_published: 2006
+canonical_genre: magic-school
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real-earth... Magical coming-of-age > Magic school. Larkyn Hamley, a farm girl whose
+  winged horse is claimed by the Academy of Air, is trained there with the winged mares; formal instruction, rivalry and school
+  life carry the books (closest existing home; the craft taught is the bond with a winged horse).'
+books:
+- title: Airs Beneath the Moon
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/284394-L.jpg
+- title: Airs and Graces
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1230943-L.jpg
+- title: Airs of Night and Sea
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6430186-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284394-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09631, MC09630, MC09632)
+placement_history:
+- date: '2026-10-04'
+  to: magic-school
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
