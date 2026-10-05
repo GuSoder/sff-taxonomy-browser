@@ -1,0 +1,28 @@
+id: the-burnt-empire-saga
+title: The Burnt Empire Saga
+authors:
+- Ashok K. Banker
+first_published: 2019
+canonical_genre: katha
+placement_status: accepted
+placement_rationale: 'Epic fantasy in an invented world, the Burnt Empire, inspired by the Mahabharata (demigods and demons,
+  a Burning Throne, a succession war) but with its own names and places, not a retelling of the named figures: South Asian-tradition
+  fantasy in an invented world.'
+books:
+- title: Upon a Burning Throne
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8796875-L.jpg
+- title: A Dark Queen Rises
+  year: 2021
+  cover_url: https://www.johnjosephadams.com/wp-content/uploads/2021/03/a-dark-queen-rises-660x996.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8796875-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00855, MC00854)
+placement_history:
+- date: '2026-10-04'
+  to: katha
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
