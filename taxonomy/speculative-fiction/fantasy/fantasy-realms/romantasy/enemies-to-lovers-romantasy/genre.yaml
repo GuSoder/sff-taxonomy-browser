@@ -1,21 +1,17 @@
 id: enemies-to-lovers-romantasy
 label: Enemies-to-lovers romantasy
 parent: romantasy
-children: []
-works:
-- divine-rivals
-- this-monster-of-mine
-- fire-metal
-- the-witches-of-halstett
-- the-ever-seas
-- broken-souls-and-bones
-- the-edge-of-glass
-- nemesis-mine
-- hart-and-mercy
+children:
+- rivals-to-lovers-romantasy
+- crown-enemies-romantasy
+- enemy-lines-romantasy
 image: 468-enemies-to-lovers-romantasy.webp
 definition: 'Romantasy where the lovers start on opposed sides: rival journalists across a gods'' war, a prosecutor and the
   judge she suspects, an exile and an enemy soldier, a pirate crew and a throne. The love story is what crosses the divide,
   and the external conflict is the wall it has to cross. Not Bonded romantasy (there the pair start tied together by something
   imposed, not set against each other). Split 2026-10-04 from Romantasy at ten cards (curator "Approved", 2026-10-04 8:44
-  PM (phonemsg-01M443PQET983J8VEJNKHCVEHG), after the Bonded romantasy explanation, relayed by the parent).'
-status: leaf
+  PM (phonemsg-01M443PQET983J8VEJNKHCVEHG), after the Bonded romantasy explanation, relayed by the parent). Umbrella since
+  2026-10-05: split-with-umbrella at ten cards into Rivals-to-lovers romantasy, Crown enemies romantasy and Enemy lines romantasy
+  by what stands between the lovers; curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG, 2026-10-05 3:32 PM).'
+status: accepted
+ruling: curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG, 2026-10-05 3:32 PM)
