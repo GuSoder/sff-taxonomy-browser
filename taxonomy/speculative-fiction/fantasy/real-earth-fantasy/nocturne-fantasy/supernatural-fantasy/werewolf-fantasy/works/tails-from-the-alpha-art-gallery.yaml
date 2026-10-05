@@ -1,0 +1,30 @@
+id: tails-from-the-alpha-art-gallery
+title: Tails From the Alpha Art Gallery
+authors:
+- Cynthia St. Aubin
+canonical_genre: werewolf-fantasy
+placement_status: accepted
+placement_rationale: Series about a woman mated to a werewolf alpha and drawn into the pack's murders and politics around
+  an art gallery; the werewolf mating and pack life drive every book.
+books:
+- title: Love Bites
+  cover_url: https://images.squarespace-cdn.com/content/v1/6830d78c6c14af711ed86a18/af9125fb-0f68-4658-b3c8-9648aa35cf32/love+bites.jpeg
+- title: Love Sucks
+  cover_url: https://images.squarespace-cdn.com/content/v1/6830d78c6c14af711ed86a18/adff16d4-f8c0-4f29-9abe-19d689c9871a/9781250407146.jpg
+- title: Love Binds
+  cover_url: https://images.squarespace-cdn.com/content/v1/6830d78c6c14af711ed86a18/13571740-8b12-42a1-9221-404086517d2c/love-binds.jpg
+- title: Love Lies
+  cover_url: https://images.squarespace-cdn.com/content/v1/6830d78c6c14af711ed86a18/577849c4-be39-4d17-9868-1e569557d06e/love-lies.jpg
+- title: Love Lost
+  cover_url: https://images.squarespace-cdn.com/content/v1/6830d78c6c14af711ed86a18/e86267c1-9108-40d8-ba14-ce108edc6748/love-lost-v2.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.squarespace-cdn.com/content/v1/6830d78c6c14af711ed86a18/af9125fb-0f68-4658-b3c8-9648aa35cf32/love+bites.jpeg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02023, MC02026, MC02022, MC02024, MC02025)
+placement_history:
+- date: '2026-10-04'
+  to: werewolf-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

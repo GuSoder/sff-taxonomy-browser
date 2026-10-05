@@ -1,0 +1,24 @@
+id: second-contact
+title: Second Contact
+authors:
+- J. D. Austin
+first_published: 2001
+canonical_genre: alien-message
+placement_status: accepted
+placement_rationale: Humans try to contact aliens and the aliens screen the calls; the story turns on the attempt to get a
+  message through.
+books:
+- title: Second Contact
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/283957-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/283957-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03999)
+placement_history:
+- date: '2026-10-04'
+  to: alien-message
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
