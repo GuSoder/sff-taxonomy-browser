@@ -77,3 +77,5 @@ Let's call this the split-with-umbrella rule." (phonemsg-01M3C6GAD6M05JSV9RBTHDF
 ## Browser expectation precedent, 2026-09-30
 
 Blood Music was assigned to Altered flesh rather than Successor species on the curator's explicit ruling: "the cover and name leads to expectations for the browser that force us to put it in altered flesh". A card's title and cover can settle a genuine boundary when they set a clear browsing expectation, even if its plot endpoint supports another child. This is a boundary precedent, not permission to ignore the root gates or invent plot facts. The amended Cyborgs / Altered flesh / Successor species distribution (2/5/3) was explicitly approved with "Execute" at 13:27:40 CEST.
+
+See also GLOSSARY.md for the terms "fiction" (an entry: a stand-alone novel up to a whole shared universe of books) and "book" (one volume); split and seed proposals and reports use them.
