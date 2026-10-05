@@ -1,0 +1,27 @@
+id: dragons-wild
+title: Dragons Wild
+authors:
+- Robert Asprin
+first_published: 2008
+canonical_genre: modern-invented-myth
+placement_status: accepted
+placement_rationale: 'Dragons Wild novels: dragons living secretly among modern humans as a hidden mythology of their own,
+  with courts and bloodlines.'
+books:
+- title: Dragons Wild
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/2421396-L.jpg
+- title: Dragons Luck
+  year: 2009
+  cover_url: https://images4.penguinrandomhouse.com/smedia/9780441016808
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2421396-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08129, MC08128)
+placement_history:
+- date: '2026-10-04'
+  to: modern-invented-myth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
