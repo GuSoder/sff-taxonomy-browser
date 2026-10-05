@@ -1,0 +1,24 @@
+id: brains
+title: Brains
+authors:
+- Robin Becker
+first_published: 2010
+canonical_genre: zombie-apocalypse
+placement_status: accepted
+placement_rationale: Jack Barnes, a former professor turned sentient zombie, recounts the resistance he organized after the
+  zombie apocalypse; the plague has turned people and the infected narrator is the victim-monster. Zombie apocalypse.
+books:
+- title: 'Brains: A Zombie Memoir'
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/isbn/9780061974052-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780061974052-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08257)
+placement_history:
+- date: '2026-10-04'
+  to: zombie-apocalypse
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
