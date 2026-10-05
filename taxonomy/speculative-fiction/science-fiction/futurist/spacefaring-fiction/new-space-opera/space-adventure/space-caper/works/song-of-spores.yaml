@@ -1,0 +1,30 @@
+id: song-of-spores
+title: Song of Spores
+authors:
+- Bogi Takács
+first_published: 2025
+canonical_genre: space-caper
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Spacefaring fiction -> New space opera -> Space adventure.
+  Locus (Mond): ''a rollicking ride'' in the Eren universe - an Alliance Treaty Enforcement counterintelligence team (incl.
+  a shapeshifting Chasid) on the chase. Adventure engine: action, momentum, team caper - the leaf def; not pulp-flavored.'
+classification_sources:
+- https://locusmag.com/review/song-of-spores-by-bogi-takacs-review-by-ian-mond/
+- https://www.brokeneyebooks.com/bookstore/song-of-spores
+intake: 'gap-2022 #303 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Broken Eye Books
+  selected_url: http://static1.squarespace.com/static/68e1869e9c789b096dbc46d7/68e1869f9c789b096dbc474c/68e1869f9c789b096dbc477f/1783379
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: space-adventure
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-05'
+  to: space-caper
+  reason: 'Split of Space adventure at ten cards: re-walked root-down into Space caper by what the adventure is made of (curator
+    "Approved" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)).'
+  from: space-adventure

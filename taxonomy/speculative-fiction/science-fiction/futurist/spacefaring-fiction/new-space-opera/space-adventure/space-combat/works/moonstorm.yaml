@@ -3,7 +3,7 @@ title: Moonstorm
 authors:
 - Yoon Ha Lee
 first_published: 2024
-canonical_genre: space-adventure
+canonical_genre: space-combat
 placement_status: accepted
 placement_rationale: 'Root-down: Science fiction -> Futurist -> Spacefaring fiction -> New space opera -> Space adventure.
   Author''s page: teen pilot trainee stranded on an imperial fleet volunteers for lancer duty - giant martial robots, boarding-school
@@ -26,6 +26,11 @@ placement_history:
 - date: '2026-09-28'
   to: space-adventure
   reason: 'Starstrike (Moonstorm #2, Delacorte 2025) folded per DUPLICATES.md: one card per series.'
+- date: '2026-10-05'
+  to: space-combat
+  reason: 'Split of Space adventure at ten cards: re-walked root-down into Space combat by what the adventure is made of (curator
+    "Approved" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)).'
+  from: space-adventure
 books:
 - title: Moonstorm
   year: 2024

@@ -3,12 +3,11 @@ title: Red Star Hustle
 authors:
 - Sam J. Miller
 first_published: 2025
-canonical_genre: space-adventure
+canonical_genre: space-chase
 placement_status: accepted
-placement_rationale: 'Root-down: Science fiction -> Futurist -> Spacefaring fiction -> New space opera
-  -> Space adventure. A bounty-hunter chase across the system after a framed celebrity - the engine is
-  action, chases and momentum (S&S/Saga Doubles jacket; samjmiller.com), not pulp retro-flavor, so not
-  pulp-space-odyssey.'
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Spacefaring fiction -> New space opera -> Space adventure.
+  A bounty-hunter chase across the system after a framed celebrity - the engine is action, chases and momentum (S&S/Saga Doubles
+  jacket; samjmiller.com), not pulp retro-flavor, so not pulp-space-odyssey.'
 classification_sources:
 - https://www.simonandschuster.com/books/Red-Star-Hustle-Apprehension/Sam-J-Miller/Saga-Doubles/9781668099155
 - https://samjmiller.com/books/red-star-hustle/
@@ -23,5 +22,9 @@ cover_curation:
 placement_history:
 - date: '2026-09-28'
   to: space-adventure
-  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf
-    fit.'
+  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-05'
+  to: space-chase
+  reason: 'Split of Space adventure at ten cards: re-walked root-down into Space chase by what the adventure is made of (curator
+    "Approved" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)).'
+  from: space-adventure

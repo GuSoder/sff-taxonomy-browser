@@ -3,7 +3,7 @@ title: The Paradox Trilogy
 authors:
 - Rachel Bach
 first_published: 2013
-canonical_genre: space-adventure
+canonical_genre: space-combat
 placement_status: accepted
 placement_rationale: Devi Morris, a mercenary in power armor, fights through a string of space disasters aboard a doomed ship;
   action and physical danger are the engine.
@@ -28,3 +28,8 @@ placement_history:
 - date: '2026-10-04'
   to: space-adventure
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  to: space-combat
+  reason: 'Split of Space adventure at ten cards: re-walked root-down into Space combat by what the adventure is made of (curator
+    "Approved" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)).'
+  from: space-adventure

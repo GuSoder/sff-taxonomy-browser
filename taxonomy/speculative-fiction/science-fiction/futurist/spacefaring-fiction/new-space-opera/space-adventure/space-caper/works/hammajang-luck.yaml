@@ -3,11 +3,10 @@ title: Hammajang Luck
 authors:
 - Makana Yamamoto
 first_published: 2024
-canonical_genre: space-adventure
+canonical_genre: space-caper
 placement_status: accepted
-placement_rationale: Paroled thief assembles a crew for one last heist on Kepler Station to pay for her
-  niece's cancer treatment - 'Ocean's 8 with a space opera twist' (PW). The caper's daring and momentum
-  drive the story. Space adventure.
+placement_rationale: Paroled thief assembles a crew for one last heist on Kepler Station to pay for her niece's cancer treatment
+  - 'Ocean's 8 with a space opera twist' (PW). The caper's daring and momentum drive the story. Space adventure.
 classification_sources: []
 intake: gap-2022 tier-2 chunk 5 (Locus Recommended-only)
 cover_curation:
@@ -19,3 +18,8 @@ cover_curation:
 placement_history:
 - date: '2026-09-27'
   change: Placed in space-adventure at tier-2 chunk-5 sweep (k2 81-100, the curator greenlight phonemsg-01M3J5GYJDEMZN7NHX40KQ8XET).
+- date: '2026-10-05'
+  to: space-caper
+  reason: 'Split of Space adventure at ten cards: re-walked root-down into Space caper by what the adventure is made of (curator
+    "Approved" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)).'
+  from: space-adventure

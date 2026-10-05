@@ -6,14 +6,8 @@ definition: 'New space opera whose engine is adventure: action, chases, daring a
   or galaxy-scale furniture is the stage, not the book. SFE-recognized term; Named by the curator on 2026-09-27 after Dark Diamond.'
 status: accepted
 image: 373-space-adventure.webp
-children: []
-works:
-- dark-diamond
-- hammajang-luck
-- lady-eves-last-con
-- red-star-hustle
-- song-of-spores
-- where-peace-is-lost
-- ymir
-- sirantha-jax
-- the-paradox-trilogy
+children:
+- space-caper
+- space-chase
+- space-combat
+works: []

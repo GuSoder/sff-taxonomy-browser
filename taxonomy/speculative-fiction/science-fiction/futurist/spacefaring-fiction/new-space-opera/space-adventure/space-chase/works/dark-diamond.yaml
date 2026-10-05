@@ -3,7 +3,7 @@ title: Dark Diamond
 authors:
 - Neal Asher
 first_published: 2025
-canonical_genre: space-adventure
+canonical_genre: space-chase
 placement_status: accepted
 placement_rationale: Time's Shadow book 1 (Polity). Captain Blite survives repeated assassination attempts thanks to a time-shifting
   shard of the rogue AI Penny Royal; the plot is chases, escapes and battles across the galaxy, posthuman furniture as stage,
@@ -23,3 +23,8 @@ placement_history:
   change: Held in chunk 3 (no fitting leaf).
 - date: '2026-09-27'
   change: Un-held into the new space-adventure leaf on the curator ruling "Go with Space adventure" (phonemsg-01M3HJZ851ETQXTAG66SEF7MFH).
+- date: '2026-10-05'
+  to: space-chase
+  reason: 'Split of Space adventure at ten cards: re-walked root-down into Space chase by what the adventure is made of (curator
+    "Approved" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)).'
+  from: space-adventure
