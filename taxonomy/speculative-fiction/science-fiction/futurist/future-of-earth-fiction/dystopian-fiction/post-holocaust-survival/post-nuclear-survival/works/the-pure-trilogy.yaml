@@ -1,0 +1,27 @@
+id: the-pure-trilogy
+title: The Pure Trilogy
+authors:
+- Julianna Baggott
+first_published: 2012
+canonical_genre: post-nuclear-survival
+placement_status: accepted
+placement_rationale: 'Survivors of the Detonations: wretches fused with whatever they touched when the bombs fell, and the
+  Pures sealed in the Dome; the story follows life through the nuclear aftermath.'
+books:
+- title: Pure
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/9338981-L.jpg
+- title: Fuse
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8345920-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9338981-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05008, MC05006)
+placement_history:
+- date: '2026-10-04'
+  to: post-nuclear-survival
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
