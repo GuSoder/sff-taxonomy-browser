@@ -1,0 +1,31 @@
+id: the-dark-legacy-of-shannara
+title: The Dark Legacy of Shannara
+authors:
+- Terry Brooks
+first_published: 2012
+canonical_genre: destiny-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > High fantasy > Classic quest fantasy > Destiny quest
+  fantasy. Aphen Elessedil, a young Elven prince bearing the Elfstones'' charge, and the young Druid Khyber Elessedil quest
+  across the Four Lands to restore a forgotten magic; the journey is their becoming.'
+books:
+- title: Wards of Faerie
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7236761-L.jpg
+- title: Bloodfire Quest
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7607821-L.jpg
+- title: Witch Wraith
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7558069-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7236761-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09507, MC09465, MC09508)
+placement_history:
+- date: '2026-10-04'
+  to: destiny-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
