@@ -1,0 +1,25 @@
+id: twelve-days
+title: Twelve Days
+authors:
+- Steven Barnes
+first_published: 2017
+canonical_genre: psi-powers
+placement_status: accepted
+placement_rationale: 'A paranormal thriller in the recognizable present: a martial-arts teacher offers a soldier mastery and
+  an autistic boy a way past his limits while mass deaths and a terror plot unfold in Atlanta. Psi ability in the present
+  day is the engine (Psi powers).'
+books:
+- title: Twelve Days
+  year: 2017
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765375988
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765375988
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09134)
+placement_history:
+- date: '2026-10-04'
+  to: psi-powers
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
