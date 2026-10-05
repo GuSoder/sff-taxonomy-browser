@@ -1,0 +1,38 @@
+id: darkover-late-novels
+title: Darkover (late novels)
+authors:
+- Marion Zimmer Bradley
+- Deborah J. Ross
+first_published: 1998
+canonical_genre: planetary-romance
+placement_status: accepted
+placement_rationale: 'Walk: Science fantasy > Planetary romance. Darkover, a lost Terran colony on a red-sun world where telepathic
+  Comyn clans wield laran and the Terran Empire presses in; the world carries the story (Forbidden Circle, Clingfire trilogy,
+  The Alton Gift).'
+books:
+- title: The Forbidden Circle
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/503689-L.jpg
+- title: The Fall of Neskaya
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/503639-L.jpg
+- title: Zandru's Forge
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/503726-L.jpg
+- title: A Flame in Hali
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/503777-L.jpg
+- title: The Alton Gift
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/7344195-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/503639-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06406, MC06404, MC06411, MC06393, MC06401)
+placement_history:
+- date: '2026-10-04'
+  to: planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
