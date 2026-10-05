@@ -1,18 +1,15 @@
 id: fantasy-mystery
 label: Fantasy mystery
 parent: gothic-fantasy
-children: []
-works:
-- shadow-of-the-leviathan
-- the-raven-scholar
-- harmattan-season
-- no-gods-for-drowning
-- threads-that-bind
-- lud-in-the-mist
-- the-briar-book-of-the-dead
-- apparatus-infernum
-- fetch-phillips-archives
+children:
+- private-eye-fantasy
+- detective-fantasy
+- ghost-sleuth-fantasy
+works: []
 image: 2-fantasy-mystery.webp
-definition: 'The occult-detective branch of the Gothic School: investigation into uncanny crimes, monstrous institutions or occult systems in an invented
-  world, where Gothic menace is essential to the mystery.'
+definition: 'The occult-detective branch of the Gothic School: investigation into uncanny crimes, monstrous institutions or
+  occult systems in an invented world, where Gothic menace is essential to the mystery. Umbrella since 2026-10-05: split-with-umbrella
+  by who the investigator is - Private-eye fantasy, Detective fantasy, Ghost-sleuth fantasy (curator "Approved" (phonemsg-01M465FT12HN5EPE89ZBQ4PZDC,
+  2026-10-05 3:54 PM)).'
 status: accepted
+ruling: curator "Approved" (phonemsg-01M465FT12HN5EPE89ZBQ4PZDC, 2026-10-05 3:54 PM)

@@ -3,10 +3,11 @@ title: Shadow of the Leviathan
 authors:
 - Robert Jackson Bennett
 first_published: 2024
-canonical_genre: fantasy-mystery
+canonical_genre: detective-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree re-walk: Speculative fiction -> Fantasy -> Fantasy realms -> Gothic fantasy -> Fantasy mystery. The detective inquiry
-  unfolds through monstrous biological alteration, imperial menace and uncanny crimes; its Gothic mode is essential to the mystery.'
+placement_rationale: 'Actual-tree re-walk: Speculative fiction -> Fantasy -> Fantasy realms -> Gothic fantasy -> Fantasy mystery.
+  The detective inquiry unfolds through monstrous biological alteration, imperial menace and uncanny crimes; its Gothic mode
+  is essential to the mystery.'
 books:
 - title: The Tainted Cup
   year: 2024
@@ -19,3 +20,9 @@ cover_curation:
   shows_english_title: false
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-05'
+  to: detective-fantasy
+  reason: Split of Fantasy mystery by who the investigator is; re-walked root-down into Detective fantasy (curator "Approved"
+    (phonemsg-01M465FT12HN5EPE89ZBQ4PZDC, 2026-10-05 3:54 PM)).
+  from: fantasy-mystery

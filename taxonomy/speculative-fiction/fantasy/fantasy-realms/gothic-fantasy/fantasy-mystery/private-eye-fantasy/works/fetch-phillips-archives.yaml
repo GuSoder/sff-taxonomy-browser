@@ -3,7 +3,7 @@ title: Fetch Phillips Archives
 authors:
 - Luke Arnold
 first_published: 2020
-canonical_genre: fantasy-mystery
+canonical_genre: private-eye-fantasy
 placement_status: accepted
 placement_rationale: 'Luke Arnold''s Fetch Phillips Archives (Orbit, 2020-2025): a former soldier turned private investigator
   takes cases in Sunder City, a secondary-world city that lost its magic. Each book is a case in an invented world, with Gothic
@@ -33,3 +33,8 @@ placement_history:
 - date: '2026-10-04'
   to: fantasy-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  to: private-eye-fantasy
+  reason: Split of Fantasy mystery by who the investigator is; re-walked root-down into Private-eye fantasy (curator "Approved"
+    (phonemsg-01M465FT12HN5EPE89ZBQ4PZDC, 2026-10-05 3:54 PM)).
+  from: fantasy-mystery

@@ -3,10 +3,10 @@ title: The Raven Scholar
 authors:
 - Antonia Hodgson
 first_published: 2025
-canonical_genre: fantasy-mystery
+canonical_genre: detective-fantasy
 placement_status: accepted
-placement_rationale: The 24-yearly trial for the throne of Orrun in a realm of absent gods, with scholar Neema investigating a candidate's murder (SFFWorld, Fantasy
-  Hive). Invented-world investigation under menace.
+placement_rationale: The 24-yearly trial for the throne of Orrun in a realm of absent gods, with scholar Neema investigating
+  a candidate's murder (SFFWorld, Fantasy Hive). Invented-world investigation under menace.
 classification_sources:
 - https://www.sffworld.com/2025/04/theravenscholar-by-antoniahodgson/
 - https://fantasy-hive.co.uk/2025/04/the-raven-scholar-by-antonia-hodgson-book-review/
@@ -17,3 +17,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/15067081-L.jpg
   visually_reviewed_on: '2026-09-23'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-05'
+  to: detective-fantasy
+  reason: Split of Fantasy mystery by who the investigator is; re-walked root-down into Detective fantasy (curator "Approved"
+    (phonemsg-01M465FT12HN5EPE89ZBQ4PZDC, 2026-10-05 3:54 PM)).
+  from: fantasy-mystery

@@ -3,7 +3,7 @@ title: Apparatus Infernum
 authors:
 - A. A. Aguirre
 first_published: 2013
-canonical_genre: fantasy-mystery
+canonical_genre: detective-fantasy
 placement_status: accepted
 placement_rationale: 'Apparatus Infernum: CID inspectors investigating uncanny crimes in a steam-and-shadows invented city.'
 books:
@@ -25,3 +25,8 @@ placement_history:
   to: fantasy-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
     ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+- date: '2026-10-05'
+  to: detective-fantasy
+  reason: Split of Fantasy mystery by who the investigator is; re-walked root-down into Detective fantasy (curator "Approved"
+    (phonemsg-01M465FT12HN5EPE89ZBQ4PZDC, 2026-10-05 3:54 PM)).
+  from: fantasy-mystery
