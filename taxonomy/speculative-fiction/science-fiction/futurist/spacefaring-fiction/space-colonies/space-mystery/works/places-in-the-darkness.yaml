@@ -1,0 +1,24 @@
+id: places-in-the-darkness
+title: Places in the Darkness
+authors:
+- Chris Brookmyre
+first_published: 2017
+canonical_genre: space-mystery
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Spacefaring fiction > Space colonies > Space mystery. On the orbital city Ciudad
+  de Cielo, a murder investigation pairs a station security chief with a newly arrived agent; the case drives the story.'
+books:
+- title: Places in the Darkness
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10533869-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10533869-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01719)
+placement_history:
+- date: '2026-10-04'
+  to: space-mystery
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
