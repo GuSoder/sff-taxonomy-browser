@@ -1,0 +1,25 @@
+id: cowl
+title: Cowl
+authors:
+- Neal Asher
+first_published: 2005
+canonical_genre: hard-time-travel
+placement_status: accepted
+placement_rationale: Standalone time-war novel in which a rigorously worked-out mechanism of time travel (Asher's time-travel
+  rationale is explicit physics) carries a homeless teenager and a programmed soldier across eras in the war of the Heliothane
+  and Umbrathane. The mechanism is the engine.
+books:
+- title: Cowl
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/8669017-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8669017-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07323)
+placement_history:
+- date: '2026-10-04'
+  to: hard-time-travel
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

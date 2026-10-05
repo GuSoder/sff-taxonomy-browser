@@ -1,0 +1,25 @@
+id: company-town
+title: Company Town
+authors:
+- Madeline Ashby
+first_published: 2016
+canonical_genre: terms-of-service
+placement_status: accepted
+placement_rationale: 'Near-future noir mystery on a corporate-owned oil-rig city: the one unenhanced woman, a bodyguard to
+  the heir of the owning family, works out a killer inside a world run by the family firm''s systems, surveillance and body-tech.
+  Ordinary life inside the corporate order is the ground; Postcyberpunk Terms of service.'
+books:
+- title: Company Town
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10111193-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10111193-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06263)
+placement_history:
+- date: '2026-10-04'
+  to: terms-of-service
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
