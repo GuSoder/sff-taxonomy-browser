@@ -1,0 +1,79 @@
+id: the-grand-tour
+title: The Grand Tour
+authors:
+- Ben Bova
+first_published: 1985
+canonical_genre: planetary-science
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Hard science fiction > Planetary science. Bova''s linked near-future
+  novels take the solar system a world at a time (Mercury, Venus, Jupiter, Saturn, Titan, Uranus, Neptune, Pluto), with the
+  asteroid belt (Asteroid Wars: The Precipice, The Rock Rats, The Silent War) and the Moon; each book is built on the geology,
+  climate and exploration of one body. Interpretation of the series boundary follows the Grand Tour universe listing (Wikipedia,
+  ISFDB).'
+books:
+- title: Privateers
+  year: 1985
+  cover_url: https://covers.openlibrary.org/b/id/236393-L.jpg
+- title: Empire Builders
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/4990020-L.jpg
+- title: Jupiter
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/183236-L.jpg
+- title: Venus
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/183235-L.jpg
+- title: The Precipice
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/182329-L.jpg
+- title: The Rock Rats
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/523917-L.jpg
+- title: Saturn
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/183237-L.jpg
+- title: The Silent War
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/604405-L.jpg
+- title: Powersat
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/9097569-L.jpg
+- title: Mercury
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/524041-L.jpg
+- title: Titan
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/10304732-L.jpg
+- title: Mars Life
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/5354796-L.jpg
+- title: Leviathans of Jupiter
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6677763-L.jpg
+- title: Farside
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/10468514-L.jpg
+- title: Earth
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8745981-L.jpg
+- title: Uranus
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10301601-L.jpg
+- title: Neptune
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11974439-L.jpg
+- title: Pluto
+  year: 2025
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781250296658
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/183236-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00975, MC00956, MC00960, MC01001, MC00988, MC00990, MC00978, MC00993, MC00974, MC00965,
+  MC00996, MC00963, MC00962, MC00957, MC00955, MC00999, MC00967, MC00973)
+placement_history:
+- date: '2026-10-04'
+  to: planetary-science
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
