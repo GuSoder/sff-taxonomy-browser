@@ -12,4 +12,4 @@ Counting rules:
 - "Books" = individual volumes across all fictions. A fiction with no volume list counts as one book.
 - Report both numbers when giving a total, and name which is which.
 
-Recorded 2026-10-05 from the curator's terminology ruling (phonemsg-01M46M4FE2W9S7P9WS28347HWY, relayed by the parent at 8:10 PM; not yet visible in the message archive when written).
+Recorded 2026-10-05 from the curator's terminology ruling (phonemsg-01M46M4FE2W9S7P9WS28347HWY, 8:10 PM, verified in the message archive).
