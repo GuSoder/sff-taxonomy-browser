@@ -1,0 +1,25 @@
+id: acorna
+title: Acorna
+authors:
+- Anne McCaffrey
+- Margaret Ball
+first_published: 1997
+canonical_genre: spaceship-drama
+placement_status: accepted
+placement_rationale: 'Acorna: The Unicorn Girl. A Linyaari foundling is raised aboard an asteroid-mining ship by three miners
+  who become her family; the story runs on that found family and care.'
+books:
+- title: 'Acorna: The Unicorn Girl'
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/44360-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/44360-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00786)
+placement_history:
+- date: '2026-10-04'
+  to: spaceship-drama
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
