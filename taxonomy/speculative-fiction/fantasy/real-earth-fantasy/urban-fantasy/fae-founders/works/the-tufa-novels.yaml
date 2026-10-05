@@ -1,0 +1,40 @@
+id: the-tufa-novels
+title: The Tufa Novels
+authors:
+- Alex Bledsoe
+first_published: 2011
+canonical_genre: fae-founders
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real-earth fantasy > Urban fantasy > Fae founders. The Tufa of Cloud County, Tennessee,
+  are the hidden descendants of the Fair Folk in the Appalachian hills; their old Faerie lineage, music and bargains shape
+  the modern small-town life in every book.'
+books:
+- title: The Hum and the Shiver
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6935668-L.jpg
+- title: Wisp of a Thing
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/9993843-L.jpg
+- title: Long Black Curl
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/10417167-L.jpg
+- title: Chapel of Ease
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10164598-L.jpg
+- title: Gather Her Round
+  year: 2017
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765383341
+- title: The Fairies of Sadieville
+  year: 2018
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765383365
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6935668-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00423, MC00429, MC00419, MC00415, MC00417, MC00422)
+placement_history:
+- date: '2026-10-04'
+  to: fae-founders
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

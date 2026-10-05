@@ -1,0 +1,37 @@
+id: eddie-lacrosse
+title: Eddie LaCrosse
+authors:
+- Alex Bledsoe
+first_published: 2007
+canonical_genre: private-eye-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Gothic fantasy > Fantasy mystery > Private-eye fantasy. Eddie LaCrosse is a hard-boiled
+  ''sword jockey'' who takes cases for clients in a secondary world for twenty-five gold pieces a day; the hired gumshoe working
+  a client''s case is the engine of every book.'
+books:
+- title: The Sword-Edged Blonde
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2969140-L.jpg
+- title: Burn Me Deadly
+  year: 2009
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765362049
+- title: Dark Jenny
+  year: 2011
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765327437
+- title: Wake of the Bloody Angel
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/9785823-L.jpg
+- title: He Drank, and Saw the Spider
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/7529035-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2969140-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00425, MC00414, MC00416, MC00428, MC00418)
+placement_history:
+- date: '2026-10-04'
+  to: private-eye-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
