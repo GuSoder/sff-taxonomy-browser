@@ -1,0 +1,31 @@
+id: the-books-of-raziel
+title: The Books of Raziel
+authors:
+- Sabrina Benulis
+first_published: 2011
+canonical_genre: mythic-power-struggle
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Epic fantasy > Mythological fantasy > Mythic power struggle. Angels and demons, the
+  archangel siblings Raziel, Lucifel and Israfel, fight over Angela Mathers, a girl who holds the spirit of a dead angel and
+  the keys to Heaven and Hell; the story is the beings and their war, with the girl as its stake.'
+books:
+- title: Archon
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/12493142-L.jpg
+- title: Covenant
+  year: 2014
+  cover_url: https://books.google.com/books/content?vid=ISBN:9780062069412&printsec=frontcover&img=1&zoom=1
+- title: Angelus
+  year: 2016
+  cover_url: https://books.google.com/books/content?vid=ISBN:9780062069429&printsec=frontcover&img=1&zoom=1
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/12493142-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08515, MC08516, MC08514)
+placement_history:
+- date: '2026-10-04'
+  to: mythic-power-struggle
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
