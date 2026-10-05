@@ -1,0 +1,24 @@
+id: marabel-and-the-book-of-fate
+title: Marabel and the Book of Fate
+authors:
+- Tracy Barrett
+first_published: 2018
+canonical_genre: fairytalesque-quest-fantasy
+placement_status: accepted
+placement_rationale: Princess Marabel of Magikos sets out on a quest to save her twin brother, in an original kingdom with
+  a unicorn, a fate-book and fairy-tale rules; an impossible task and enchanted objects drive it.
+books:
+- title: Marabel and the Book of Fate
+  year: 2018
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780316433983
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780316433983
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09720)
+placement_history:
+- date: '2026-10-04'
+  to: fairytalesque-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
