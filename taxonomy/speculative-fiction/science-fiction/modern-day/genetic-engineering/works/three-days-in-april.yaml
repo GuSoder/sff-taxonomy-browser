@@ -1,0 +1,24 @@
+id: three-days-in-april
+title: Three Days in April
+authors:
+- Edward Ashton
+first_published: 2016
+canonical_genre: genetic-engineering
+placement_status: accepted
+placement_rationale: Near-future thriller in a world divided between the genetically engineered and the unmodified; a mass-death
+  event and its mystery play out in that gene-edited social order. Genetic design is the premise.
+books:
+- title: Three Days in April
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/12146380-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/12146380-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02760)
+placement_history:
+- date: '2026-10-04'
+  to: genetic-engineering
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
