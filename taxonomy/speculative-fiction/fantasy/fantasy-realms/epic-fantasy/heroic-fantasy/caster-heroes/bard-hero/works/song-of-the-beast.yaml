@@ -1,0 +1,25 @@
+id: song-of-the-beast
+title: Song of the Beast
+authors:
+- Carol Berg
+first_published: 2003
+canonical_genre: bard-hero
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Epic fantasy > Heroic fantasy > Caster heroes > Bard hero. Aidan McAllister, a musician
+  whose music once gave a kingdom its visions, is broken by years of imprisonment and must unlock the mind of his abandoned
+  god; his power runs through performance and song.'
+books:
+- title: Song of the Beast
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/295095-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/295095-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01410)
+placement_history:
+- date: '2026-10-04'
+  to: bard-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
