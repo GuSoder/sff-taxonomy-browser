@@ -1,0 +1,43 @@
+id: chronicles-of-the-raven
+title: Chronicles of the Raven
+authors:
+- James Barclay
+first_published: 1999
+canonical_genre: pulp-sword-and-sorcery
+placement_status: accepted
+placement_rationale: The Raven are a band of mercenary adventurers - Hirad, Denser, the Unknown Warrior - who take jobs, fight
+  and cast their way through each crisis; the Chronicles and the Legends of the Raven are one continuous series. Action and
+  combat drive it, and a sword-for-hire company is the Black Company lineage this leaf already names.
+books:
+- title: Dawnthief
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/911047-L.jpg
+- title: Noonshade
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/911091-L.jpg
+- title: Nightchild
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/380011-L.jpg
+- title: Elfsorrow
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/1286926-L.jpg
+- title: Shadowheart
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/380262-L.jpg
+- title: Demonstorm
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/380329-L.jpg
+- title: Ravensoul
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/10800458-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/911047-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04145, MC04153, MC04152, MC04147, MC04155, MC04146, MC04154)
+placement_history:
+- date: '2026-10-04'
+  to: pulp-sword-and-sorcery
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
