@@ -3,9 +3,10 @@ title: Service Model
 authors:
 - Adrian Tchaikovsky
 first_published: 2024
-canonical_genre: sentient-robots
+canonical_genre: being-robot
 placement_status: accepted
-placement_rationale: An android valet wanders a post-apocalyptic world after murdering its master (PW; Book and Film Globe). Embodied machine at the center, so Robots.
+placement_rationale: An android valet wanders a post-apocalyptic world after murdering its master (PW; Book and Film Globe).
+  Embodied machine at the center, so Robots.
 classification_sources:
 - https://www.publishersweekly.com/9781250290281
 - https://bookandfilmglobe.com/fiction/book-review-service-model/
@@ -16,3 +17,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/15098528-L.jpg
   visually_reviewed_on: '2026-09-23'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-05'
+  reason: Split of Sentient robots by whose story it follows; re-walked root-down into Being robot (curator "Approved" (phonemsg-01M46HWYGZY6V6G0MDN2J0ZEE1,
+    2026-10-05 7:31 PM)).
+  from: sentient-robots
+  to: being-robot

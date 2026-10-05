@@ -4,7 +4,7 @@ authors:
 - Martha Wells
 first_published: 2017
 last_published: 2026
-canonical_genre: sentient-robots
+canonical_genre: being-robot
 placement_status: accepted
 included_titles:
 - All Systems Red
@@ -40,8 +40,15 @@ cover_curation:
     url: https://mpd-biblio-covers.imgix.net/9781250827005.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/technology-fiction/robots-and-ai to match live tree; placement unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/technology-fiction/robots-and-ai to match
+    live tree; placement unchanged on site.'
   previous_canonical_genre: robots-and-ai
 - date: '2026-09-23'
-  change: 'Robots and AI split into Machine minds (the curator ruling 2026-09-23 10:37): moved to Robots by the embodiment test. Walk: Speculative fiction -> Science fiction
-    -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine minds -> Robots'
+  change: 'Robots and AI split into Machine minds (the curator ruling 2026-09-23 10:37): moved to Robots by the embodiment
+    test. Walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine
+    minds -> Robots'
+- date: '2026-10-05'
+  reason: Split of Sentient robots by whose story it follows; re-walked root-down into Being robot (curator "Approved" (phonemsg-01M46HWYGZY6V6G0MDN2J0ZEE1,
+    2026-10-05 7:31 PM)).
+  from: sentient-robots
+  to: being-robot

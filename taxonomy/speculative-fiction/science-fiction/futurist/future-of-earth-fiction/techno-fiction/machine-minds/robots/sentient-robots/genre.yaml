@@ -1,18 +1,14 @@
 id: sentient-robots
 label: Sentient robots
 parent: robots
-children: []
+children:
+- being-robot
+- robot-relations
 image: 326-sentient-robots.webp
-definition: 'Robots whose personhood is the engine: the book''s claim is that the machine is someone - with an inner life, a will and a claim to be treated as a person,
-  whatever it looks like.'
+definition: 'Robots whose personhood is the engine: the book''s claim is that the machine is someone - with an inner life,
+  a will and a claim to be treated as a person, whatever it looks like. Umbrella since 2026-10-05: split-with-umbrella by
+  whose story it follows - Being robot, Robot relations (curator "Approved" (phonemsg-01M46HWYGZY6V6G0MDN2J0ZEE1, 2026-10-05
+  7:31 PM)).'
 status: accepted
-ruling: Robots split 2026-09-23 22:38 (the curator "Execute")
-works:
-- i-robot
-- the-murderbot-diaries
-- service-model
-- neom
-- the-robots-of-gotham
-- a-thousand-blues
-- remember-you-will-die
-- we-lived-on-the-horizon
+ruling: curator "Approved" (phonemsg-01M46HWYGZY6V6G0MDN2J0ZEE1, 2026-10-05 7:31 PM)
+works: []

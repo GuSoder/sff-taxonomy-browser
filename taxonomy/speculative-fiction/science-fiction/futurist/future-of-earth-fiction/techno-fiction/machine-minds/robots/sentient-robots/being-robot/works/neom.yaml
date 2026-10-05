@@ -3,9 +3,10 @@ title: Neom
 authors:
 - Lavie Tidhar
 first_published: 2022
-canonical_genre: sentient-robots
+canonical_genre: being-robot
 placement_status: accepted
-placement_rationale: Far-future desert city in the Central Station world; an old robot crosses the desert to find a lost love (PW, Fantasy Literature).
+placement_rationale: Far-future desert city in the Central Station world; an old robot crosses the desert to find a lost love
+  (PW, Fantasy Literature).
 classification_sources:
 - https://www.publishersweekly.com/9781616963828
 - https://fantasyliterature.com/reviews/neom/
@@ -16,3 +17,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/13195357-L.jpg
   visually_reviewed_on: '2026-09-23'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-05'
+  reason: Split of Sentient robots by whose story it follows; re-walked root-down into Being robot (curator "Approved" (phonemsg-01M46HWYGZY6V6G0MDN2J0ZEE1,
+    2026-10-05 7:31 PM)).
+  from: sentient-robots
+  to: being-robot
