@@ -1,0 +1,34 @@
+id: the-halfling-saga
+title: The Halfling Saga
+authors:
+- Melissa Blair
+first_published: 2022
+canonical_genre: enemy-lines-romantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Romantasy > Enemies-to-lovers romantasy > Enemy lines. Keera, the king''s Halfling assassin,
+  is sent to hunt the rebel known as the Shadow; the two stand on opposite sides of the king''s war on magical peoples before
+  they cross it together.'
+books:
+- title: A Broken Blade
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/14839701-L.jpg
+- title: A Shadow Crown
+  year: 2023
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781454947899
+- title: A Vicious Game
+  year: 2024
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781454947912
+- title: An Honored Vow
+  year: 2025
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781454954941
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14839701-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06657, MC06658, MC06659, MC06660)
+placement_history:
+- date: '2026-10-04'
+  to: enemy-lines-romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
