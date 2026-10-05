@@ -1,0 +1,24 @@
+id: nemesis
+title: Nemesis
+authors:
+- Isaac Asimov
+first_published: 1989
+canonical_genre: colony-politics
+placement_status: accepted
+placement_rationale: The Rotor settlement breaks from an Earth it believes is doomed and carries a secret about the star Nemesis;
+  the contest between the Settlement and Earth over that knowledge and its power is the story. Colony politics.
+books:
+- title: Nemesis
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/9300703-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9300703-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03974)
+placement_history:
+- date: '2026-10-04'
+  to: colony-politics
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
