@@ -1,0 +1,24 @@
+id: the-martian-race
+title: The Martian Race
+authors:
+- Gregory Benford
+first_published: 1999
+canonical_genre: planetary-science
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Hard SF > Planetary science. A near-future crewed Mars expedition
+  built on Martian geology, life detection and mission engineering; the planet''s science drives the plot.'
+books:
+- title: The Martian Race
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/8222267-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8222267-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03592)
+placement_history:
+- date: '2026-10-04'
+  to: planetary-science
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
