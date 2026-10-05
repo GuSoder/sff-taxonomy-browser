@@ -1,0 +1,34 @@
+id: generation-v
+title: Generation V
+authors:
+- M. L. Brennan
+first_published: 2013
+canonical_genre: vampire-worlds
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real earth fantasy > Contemporary fantasy > Vampire fantasy > Vampire worlds. Fortitude
+  Scott, a young vampire in St. Louis who refuses to feed on people, is pulled into the feuds, lineages and territorial order
+  of his vampire family.'
+books:
+- title: Generation V
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7620567-L.jpg
+- title: Iron Night
+  year: 2014
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780451418418
+- title: Tainted Blood
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10340608-L.jpg
+- title: Dark Ascension
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780451474124
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7620567-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06256, MC06257, MC06258, MC06255)
+placement_history:
+- date: '2026-10-04'
+  to: vampire-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
