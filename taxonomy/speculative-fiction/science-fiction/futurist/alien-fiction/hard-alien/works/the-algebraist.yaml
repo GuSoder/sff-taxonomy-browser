@@ -1,0 +1,24 @@
+id: the-algebraist
+title: The Algebraist
+authors:
+- Iain M. Banks
+first_published: 2004
+canonical_genre: hard-alien
+placement_status: accepted
+placement_rationale: 'Fassin Taak and the Nasqueron Dwellers: a gas-giant civilization of genuinely alien beings, their hoarded
+  data and a wormhole map, as war closes in.'
+books:
+- title: The Algebraist
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/878449-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/878449-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03875)
+placement_history:
+- date: '2026-10-04'
+  to: hard-alien
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

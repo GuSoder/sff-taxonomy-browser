@@ -1,0 +1,24 @@
+id: feersum-endjinn
+title: Feersum Endjinn
+authors:
+- Iain M. Banks
+first_published: 1994
+canonical_genre: dying-earth
+placement_status: accepted
+placement_rationale: Far-future Earth under a dimming sun, with the Crypt and its archived minds; a Dying Earth tale where
+  science and myth meld.
+books:
+- title: Feersum Endjinn
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/369628-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/369628-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03874)
+placement_history:
+- date: '2026-10-04'
+  to: dying-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

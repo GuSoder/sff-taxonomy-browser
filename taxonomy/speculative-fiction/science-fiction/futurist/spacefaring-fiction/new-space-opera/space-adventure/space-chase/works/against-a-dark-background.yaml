@@ -1,0 +1,24 @@
+id: against-a-dark-background
+title: Against a Dark Background
+authors:
+- Iain M. Banks
+first_published: 1993
+canonical_genre: space-chase
+placement_status: accepted
+placement_rationale: Lady Sharrow, hunted by a cult of assassins across the Sepekte system, must find the seven Lazy Guns
+  to save herself; tracking and flight drive it.
+books:
+- title: Against a Dark Background
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/908771-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/908771-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03872)
+placement_history:
+- date: '2026-10-04'
+  to: space-chase
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
