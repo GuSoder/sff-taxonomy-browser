@@ -1,0 +1,24 @@
+id: disappearing-act
+title: Disappearing Act
+authors:
+- Margaret Ball
+first_published: 2004
+canonical_genre: space-chase
+placement_status: accepted
+placement_rationale: A station underworld thief takes a dead diplomat's identity to escape pursuit and is marked for death;
+  a fugitive on the run, so Space chase.
+books:
+- title: Disappearing Act
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/isbn/0743488539-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/0743488539-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06311)
+placement_history:
+- date: '2026-10-04'
+  to: space-chase
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
