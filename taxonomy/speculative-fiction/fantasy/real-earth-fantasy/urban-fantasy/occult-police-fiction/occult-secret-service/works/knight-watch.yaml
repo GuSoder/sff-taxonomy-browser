@@ -3,7 +3,7 @@ title: Knight Watch
 authors:
 - Tim Akers
 first_published: 2020
-canonical_genre: occult-police-fiction
+canonical_genre: occult-secret-service
 placement_status: accepted
 placement_rationale: Tim Akers' Knight Watch is a hidden agency that protects the mundane world from real monsters of myth
   (a LARP fighter joins it in book 1; Valhellions and The Eccentrics follow). The agency's monster-hunting work for the modern
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: occult-police-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Occult police by who holds the case; re-walked root-down into Occult secret service (curator "Approved"
+    (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)).
+  from: occult-police-fiction
+  to: occult-secret-service

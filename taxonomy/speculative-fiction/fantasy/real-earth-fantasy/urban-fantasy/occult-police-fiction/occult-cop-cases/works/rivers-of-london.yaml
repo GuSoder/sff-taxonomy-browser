@@ -4,7 +4,7 @@ authors:
 - Ben Aaronovitch
 first_published: 2011
 last_published: 2018
-canonical_genre: occult-police-fiction
+canonical_genre: occult-cop-cases
 placement_status: accepted
 included_titles:
 - Rivers of London
@@ -57,3 +57,8 @@ placement_history:
   change: Books from the 10k list folded onto this card (False Value, Amongst Our Weapons, Stone and Sky, The Furthest Station,
     The Masquerades of Spring, The October Man, What Abigail Did That Summer); one card per series (DUPLICATES.md). Curator
     ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY.
+- date: '2026-10-05'
+  reason: Split of Occult police by who holds the case; re-walked root-down into Occult cop cases (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
+    2026-10-05 5:51 PM)).
+  from: occult-police-fiction
+  to: occult-cop-cases

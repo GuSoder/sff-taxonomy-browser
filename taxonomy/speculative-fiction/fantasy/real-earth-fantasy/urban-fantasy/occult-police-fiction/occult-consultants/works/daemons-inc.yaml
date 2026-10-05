@@ -3,7 +3,7 @@ title: Daemons, Inc.
 authors:
 - Camille Bacon-Smith
 first_published: 2010
-canonical_genre: occult-police-fiction
+canonical_genre: occult-consultants
 placement_status: accepted
 placement_rationale: 'Daemons, Inc.: a Philadelphia detective agency of daemon lords and a half-daemon son takes occult cases;
   the engine is investigating crimes shaped by magic and supernatural beings. Closest existing home is Occult police fiction
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: occult-police-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Occult police by who holds the case; re-walked root-down into Occult consultants (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
+    2026-10-05 5:51 PM)).
+  from: occult-police-fiction
+  to: occult-consultants

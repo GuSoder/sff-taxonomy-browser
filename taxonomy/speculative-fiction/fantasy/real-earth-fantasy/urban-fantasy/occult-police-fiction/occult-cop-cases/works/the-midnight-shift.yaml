@@ -3,11 +3,10 @@ title: The Midnight Shift
 authors:
 - Cheon Seon-ran
 first_published: 2025
-canonical_genre: occult-police-fiction
+canonical_genre: occult-cop-cases
 placement_status: accepted
-placement_rationale: Detective Suyeon investigates a care hospital's fourth 'suicide'
-  and finds the victims were hurled after death; the stranger Violette, a vampire
-  hunter, recruits her into the hidden vampire world (Kirkus). Police procedure against
+placement_rationale: Detective Suyeon investigates a care hospital's fourth 'suicide' and finds the victims were hurled after
+  death; the stranger Violette, a vampire hunter, recruits her into the hidden vampire world (Kirkus). Police procedure against
   the supernatural; horror register and 1980s hunter-origin chapters noted as bends.
 classification_sources: []
 intake: gap-2022 tier-2 chunk n=366-380
@@ -20,3 +19,8 @@ cover_curation:
 placement_history:
 - date: '2026-09-28'
   change: Placed in intake batch n=366-380.
+- date: '2026-10-05'
+  reason: Split of Occult police by who holds the case; re-walked root-down into Occult cop cases (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
+    2026-10-05 5:51 PM)).
+  from: occult-police-fiction
+  to: occult-cop-cases

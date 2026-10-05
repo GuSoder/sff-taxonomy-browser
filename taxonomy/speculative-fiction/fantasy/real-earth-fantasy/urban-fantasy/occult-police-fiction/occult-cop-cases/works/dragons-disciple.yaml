@@ -4,7 +4,7 @@ authors:
 - Margaret Weis
 - David Baldwin
 first_published: 1998
-canonical_genre: occult-police-fiction
+canonical_genre: occult-cop-cases
 placement_status: accepted
 placement_rationale: 'Dark Heart: Chicago police lieutenant Sandra McCormick hunts the heart-ripping killer who is a centuries-old
   immortal serving the Dragon. A police investigation of supernatural killings, so it follows the Occult police definition.'
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: occult-police-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Occult police by who holds the case; re-walked root-down into Occult cop cases (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
+    2026-10-05 5:51 PM)).
+  from: occult-police-fiction
+  to: occult-cop-cases
