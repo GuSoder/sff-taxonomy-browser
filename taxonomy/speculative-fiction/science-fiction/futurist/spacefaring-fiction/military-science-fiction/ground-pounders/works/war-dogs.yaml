@@ -1,0 +1,30 @@
+id: war-dogs
+title: War Dogs
+authors:
+- Greg Bear
+first_published: 2014
+canonical_genre: ground-pounders
+placement_status: accepted
+placement_rationale: Master Sergeant Michael Venn and his Marine squad fight on Mars and Titan alongside alien Drifters' artifacts
+  (War Dogs, Killing Titan, Take Back the Sky); the soldier's-eye ground war on other worlds is the spine.
+books:
+- title: War Dogs
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8969071-L.jpg
+- title: Killing Titan
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9139258-L.jpg
+- title: Take Back the Sky
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10533878-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8969071-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03548, MC03541, MC03545)
+placement_history:
+- date: '2026-10-04'
+  to: ground-pounders
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

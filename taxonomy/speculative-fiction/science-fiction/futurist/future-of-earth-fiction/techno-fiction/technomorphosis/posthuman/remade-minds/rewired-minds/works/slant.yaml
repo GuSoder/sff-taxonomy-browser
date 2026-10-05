@@ -1,0 +1,24 @@
+id: slant
+title: Slant
+authors:
+- Greg Bear
+first_published: 1997
+canonical_genre: rewired-minds
+placement_status: accepted
+placement_rationale: In a mid-21st-century world rebuilt by nanotechnology and mind therapy, Jack Giffey plans to break into
+  the Omphalos in Green Idaho, where a mind-altering power is at stake (Slant, in the world of Queen of Angels).
+books:
+- title: Slant
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/182416-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182416-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03544)
+placement_history:
+- date: '2026-10-04'
+  to: rewired-minds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

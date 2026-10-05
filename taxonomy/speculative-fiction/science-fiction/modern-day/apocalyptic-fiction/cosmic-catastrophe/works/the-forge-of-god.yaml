@@ -1,0 +1,28 @@
+id: the-forge-of-god
+title: The Forge of God
+authors:
+- Greg Bear
+first_published: 1987
+canonical_genre: cosmic-catastrophe
+placement_status: accepted
+placement_rationale: Aliens hidden in planted artifacts, a mountain in Australia and a moon of Jupiter, destroy the Earth
+  (The Forge of God); the survivors, in two starships, cross space to avenge it (Anvil of Stars). The destruction of the world
+  from the sky is the engine.
+books:
+- title: The Forge of God
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/603432-L.jpg
+- title: Anvil of Stars
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/7087490-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/603432-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03546, MC03535)
+placement_history:
+- date: '2026-10-04'
+  to: cosmic-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

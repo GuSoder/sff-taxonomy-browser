@@ -1,0 +1,28 @@
+id: the-way
+title: The Way
+authors:
+- Greg Bear
+first_published: 1985
+canonical_genre: big-dumb-objects
+placement_status: accepted
+placement_rationale: A hollow asteroid, the Thistledown, appears in Earth orbit in 2005 with a seven-chambered corridor stretching
+  beyond space and time and a library of the future (Eon, Eternity); entering a vast alien artifact for knowledge drives both
+  books.
+books:
+- title: Eon
+  year: 1985
+  cover_url: https://covers.openlibrary.org/b/id/603326-L.jpg
+- title: Eternity
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/1443353-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/603326-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03537, MC03538)
+placement_history:
+- date: '2026-10-04'
+  to: big-dumb-objects
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
