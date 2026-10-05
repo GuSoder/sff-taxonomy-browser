@@ -1,0 +1,34 @@
+id: the-shadow
+title: The Shadow
+authors:
+- Lila Bowen
+first_published: 2015
+canonical_genre: weird-west-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Historical fantasy > Period fantasy > Industrial-age fantasy > Weird West fantasy. Rhett
+  Hennessy, a mixed-race young man in a western frontier haunted by monsters and magic, hunts supernatural creatures across
+  the unforgiving western landscape (Wake of Vultures to Treason of Hawks).'
+books:
+- title: Wake of Vultures
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8506424-L.jpg
+- title: Conspiracy of Ravens
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/13091597-L.jpg
+- title: Malice of Crows
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8841462-L.jpg
+- title: Treason of Hawks
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8780604-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8506424-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06015, MC06012, MC06013, MC06014)
+placement_history:
+- date: '2026-10-04'
+  to: weird-west-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
