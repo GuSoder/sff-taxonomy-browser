@@ -1,0 +1,31 @@
+id: the-century-next-door
+title: The Century Next Door
+authors:
+- John Barnes
+first_published: 1995
+canonical_genre: remade-minds
+placement_status: accepted
+placement_rationale: Resuna and One True, memetic programs run on human brains, take over Earth; Joshua Quare is reborn with
+  wiped memory every life period, Candle follows the memetic war, and Teri on Mars is taken over and her memory edited. The
+  technology that rewrites mind, memory and identity is the Remade minds gate.
+books:
+- title: Kaleidoscope Century
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/7093320-L.jpg
+- title: Candle
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/604464-L.jpg
+- title: The Sky So Big and Black
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/523965-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7093320-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04669, MC04666, MC04674)
+placement_history:
+- date: '2026-10-04'
+  to: remade-minds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

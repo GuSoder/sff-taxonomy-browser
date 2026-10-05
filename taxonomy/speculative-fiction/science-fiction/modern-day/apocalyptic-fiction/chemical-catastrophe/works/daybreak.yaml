@@ -1,0 +1,31 @@
+id: daybreak
+title: Daybreak
+authors:
+- John Barnes
+first_published: 2010
+canonical_genre: chemical-catastrophe
+placement_status: accepted
+placement_rationale: Daybreak is an engineered nanotech event that strips the modern world of its working matter and energy;
+  billions die and the United States shatters. The catastrophe comes through matter itself - the Chemical catastrophe gate
+  - and the books follow the country's fall and rebuilding afterward. No post-holocaust leaf names a nanotech cause.
+books:
+- title: Directive 51
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6683130-L.jpg
+- title: Daybreak Zero
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7820319-L.jpg
+- title: The Last President
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8441112-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6683130-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04668, MC04667, MC04672)
+placement_history:
+- date: '2026-10-04'
+  to: chemical-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

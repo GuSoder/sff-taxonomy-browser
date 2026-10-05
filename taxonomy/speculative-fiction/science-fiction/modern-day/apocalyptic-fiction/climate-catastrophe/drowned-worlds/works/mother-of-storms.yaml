@@ -1,0 +1,24 @@
+id: mother-of-storms
+title: Mother of Storms
+authors:
+- John Barnes
+first_published: 1994
+canonical_genre: drowned-worlds
+placement_status: accepted
+placement_rationale: A methane-clathrate release heats the oceans and breeds mother-storm hurricanes that drown the coasts;
+  water, wind and rising sea are the weapon.
+books:
+- title: Mother of Storms
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/6919774-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6919774-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04670)
+placement_history:
+- date: '2026-10-04'
+  to: drowned-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

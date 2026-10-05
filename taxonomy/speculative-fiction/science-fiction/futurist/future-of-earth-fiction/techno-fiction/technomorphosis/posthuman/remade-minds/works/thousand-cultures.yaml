@@ -1,0 +1,28 @@
+id: thousand-cultures
+title: Thousand Cultures
+authors:
+- John Barnes
+first_published: 2001
+canonical_genre: remade-minds
+placement_status: accepted
+placement_rationale: Giraut Leones, an agent of the Office of Special Projects, works a far future where personalities are
+  recorded into psypyxes and aintellects blur human and machine mind; the books turn on who may copy, trade and entertain
+  themselves with recorded souls. Copied minds and rewritten identity are the Remade minds gate.
+books:
+- title: The Merchants of Souls
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/183663-L.jpg
+- title: The Armies of Memory
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/524893-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/183663-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04673, MC04671)
+placement_history:
+- date: '2026-10-04'
+  to: remade-minds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
