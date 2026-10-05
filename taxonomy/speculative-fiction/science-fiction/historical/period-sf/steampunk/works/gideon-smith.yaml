@@ -1,0 +1,30 @@
+id: gideon-smith
+title: Gideon Smith
+authors:
+- David Barnett
+first_published: 2013
+canonical_genre: steampunk
+placement_status: accepted
+placement_rationale: 'Alternate 1890 Britain of airships, clockwork automata and an imperial hero: a Yorkshire fisherman sets
+  out for London, then America and the Ripper''s London. Victorian retrofuturist adventure (Steampunk).'
+books:
+- title: Gideon Smith and the Mechanical Girl
+  year: 2013
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334244
+- title: Gideon Smith and the Brass Dragon
+  year: 2014
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334251
+- title: Gideon Smith and the Mask of the Ripper
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334268
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334244
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02187, MC02185, MC02186)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
