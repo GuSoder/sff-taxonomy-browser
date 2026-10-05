@@ -1,0 +1,46 @@
+id: green-rider
+title: Green Rider
+authors:
+- Kristen Britain
+first_published: 1998
+canonical_genre: destiny-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Epic fantasy > Heroic fantasy > Classic quest fantasy > Destiny quest fantasy. Karigan
+  G''ladheon, a runaway schoolgirl, takes a dying messenger''s charge and becomes a Green Rider of the king, her journey from
+  student to knight set against the old dark magic of the Blackveil; the marked one''s rise is the spine.'
+books:
+- title: Green Rider
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/12371675-L.jpg
+- title: First Rider's Call
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/12480441-L.jpg
+- title: The High King's Tomb
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/6335795-L.jpg
+- title: Blackveil
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7818495-L.jpg
+- title: Mirror Sight
+  year: 2014
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756410360
+- title: Firebrand
+  year: 2017
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756408800
+- title: Winterlight
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10828669-L.jpg
+- title: Falling in a Sea of Stars
+  year: 2025
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756408824
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/12371675-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05618, MC05617, MC05622, MC05614, MC05619, MC05616, MC05624, MC05615)
+placement_history:
+- date: '2026-10-04'
+  to: destiny-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
