@@ -1,0 +1,29 @@
+id: flood-and-ark
+title: Flood and Ark
+authors:
+- Stephen Baxter
+first_published: 2008
+canonical_genre: sea-drowned-worlds
+placement_status: accepted
+placement_rationale: 'Deep seabed reservoirs burst and the sea rises until it covers every mountain by 2052 (Flood); survivors
+  sail the drowned world and a starship flees it (Ark). The sea itself rising and taking the land is the engine: Sea-drowned
+  worlds.'
+books:
+- title: Flood
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6423556-L.jpg
+- title: Ark
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/10719874-L.jpg
+cover_curation:
+  status: complete
+  source: publisher
+  selected_url: https://covers.openlibrary.org/b/id/6423556-L.jpg
+  visually_reviewed_on: '2026-10-05'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08974, MC08964)
+placement_history:
+- date: '2026-10-05'
+  to: sea-drowned-worlds
+  reason: 'Intake from the 10k list: walked to Drowned worlds, which was at nine; placed in Sea-drowned worlds after the split
+    (curator "Drowned worlds split is approved" (phonemsg-01M46ENDK2JQZA6FW9NZFEE5EK, 2026-10-05 6:34 PM)).'

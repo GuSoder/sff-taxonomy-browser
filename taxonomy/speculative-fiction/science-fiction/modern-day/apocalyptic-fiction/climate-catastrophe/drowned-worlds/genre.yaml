@@ -1,20 +1,14 @@
 id: drowned-worlds
 label: Drowned worlds
 parent: climate-catastrophe
-children: []
+children:
+- sea-drowned-worlds
+- rain-drowned-worlds
 image: 412-drowned-worlds.webp
-definition: 'Climate catastrophe in which water is the weapon: floods, endless rain, the rising or dying sea takes the world. Split 2026-09-28 from Climate catastrophe
-  by the element that turns (curator ruling).'
+definition: 'Climate catastrophe in which water is the weapon: floods, endless rain, the rising or dying sea takes the world.
+  Split 2026-09-28 from Climate catastrophe by the element that turns (curator ruling). Umbrella since 2026-10-05: split-with-umbrella
+  by where the water comes from - Sea-drowned worlds, Rain-drowned worlds (curator "Drowned worlds split is approved" (phonemsg-01M46ENDK2JQZA6FW9NZFEE5EK,
+  2026-10-05 6:34 PM)).'
 status: accepted
-works:
-- the-drowned-world
-- a-childrens-bible
-- private-rites
-- awake-in-the-floating-city
-- landfall
-- the-coral-bones
-- sea-now
-- ship-breaker
-- mother-of-storms
-ruling: 'Split by the curator 2026-09-28, EXECUTE ruling (phonemsg-01M3M5K29WBTHB0T80D02MCZXE): split-with-umbrella by the element that turns. ''scorched-worlds''
-  is his name steer over the served ''parched-worlds'' (phonemsg-01M3M5HRQ3DFYEBCHA2V0TBVM7, ''Why not Scorched?'').'
+works: []
+ruling: curator "Drowned worlds split is approved" (phonemsg-01M46ENDK2JQZA6FW9NZFEE5EK, 2026-10-05 6:34 PM)

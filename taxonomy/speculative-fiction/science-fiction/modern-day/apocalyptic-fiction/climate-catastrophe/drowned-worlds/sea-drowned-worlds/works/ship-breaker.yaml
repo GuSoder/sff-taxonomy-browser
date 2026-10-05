@@ -3,7 +3,7 @@ title: Ship Breaker
 authors:
 - Paolo Bacigalupi
 first_published: 2010
-canonical_genre: drowned-worlds
+canonical_genre: sea-drowned-worlds
 placement_status: accepted
 placement_rationale: 'Ship Breaker series: scavengers and child soldiers on a Gulf Coast swallowed by the rising sea after
   climate collapse; the drowned coast and its flooded cities are the setting that drives every book.'
@@ -28,3 +28,8 @@ placement_history:
 - date: '2026-10-04'
   to: drowned-worlds
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Drowned worlds by where the water comes from; re-walked root-down into Sea-drowned worlds (curator "Drowned
+    worlds split is approved" (phonemsg-01M46ENDK2JQZA6FW9NZFEE5EK, 2026-10-05 6:34 PM)).
+  from: drowned-worlds
+  to: sea-drowned-worlds

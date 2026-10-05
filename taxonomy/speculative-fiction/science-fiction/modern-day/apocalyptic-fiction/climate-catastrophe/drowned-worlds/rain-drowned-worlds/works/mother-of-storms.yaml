@@ -3,7 +3,7 @@ title: Mother of Storms
 authors:
 - John Barnes
 first_published: 1994
-canonical_genre: drowned-worlds
+canonical_genre: rain-drowned-worlds
 placement_status: accepted
 placement_rationale: A methane-clathrate release heats the oceans and breeds mother-storm hurricanes that drown the coasts;
   water, wind and rising sea are the weapon.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: drowned-worlds
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  reason: Split of Drowned worlds by where the water comes from; re-walked root-down into Rain-drowned worlds (curator "Drowned
+    worlds split is approved" (phonemsg-01M46ENDK2JQZA6FW9NZFEE5EK, 2026-10-05 6:34 PM)).
+  from: drowned-worlds
+  to: rain-drowned-worlds

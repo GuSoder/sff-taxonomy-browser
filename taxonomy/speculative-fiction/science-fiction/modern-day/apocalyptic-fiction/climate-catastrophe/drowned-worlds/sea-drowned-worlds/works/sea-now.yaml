@@ -1,0 +1,29 @@
+id: sea-now
+title: Sea Now
+authors:
+- Eva Meijer
+first_published: 2025
+canonical_genre: sea-drowned-worlds
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Modern day -> Apocalyptic fiction -> Climate catastrophe -> Drowned worlds.
+  Locus (Harrison): ''fabulist disaster novel'' in which the doom Dutch engineers have worked centuries to avoid is underway
+  and the sea creeps in - water is the weapon, the leaf def exactly (''the rising... sea'').'
+classification_sources:
+- https://locusmag.com/review/sea-now-by-eva-meijer-review-by-niall-harrison/
+intake: 'gap-2022 #291 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/15204283-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: drowned-worlds
+  reason: 'Intake placement (gap-2022 batch n=291-305), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-05'
+  reason: Split of Drowned worlds by where the water comes from; re-walked root-down into Sea-drowned worlds (curator "Drowned
+    worlds split is approved" (phonemsg-01M46ENDK2JQZA6FW9NZFEE5EK, 2026-10-05 6:34 PM)).
+  from: drowned-worlds
+  to: sea-drowned-worlds
