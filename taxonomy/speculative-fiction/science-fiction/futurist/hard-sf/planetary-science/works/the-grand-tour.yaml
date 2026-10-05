@@ -44,6 +44,9 @@ books:
 - title: Titan
   year: 2006
   cover_url: https://covers.openlibrary.org/b/id/10304732-L.jpg
+- title: The Aftermath
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/524043-L.jpg
 - title: Mars Life
   year: 2008
   cover_url: https://covers.openlibrary.org/b/id/5354796-L.jpg
@@ -71,7 +74,7 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/183236-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC00975, MC00956, MC00960, MC01001, MC00988, MC00990, MC00978, MC00993, MC00974, MC00965,
+intake: ten-k walk v5 (queue ids MC00982, MC00975, MC00956, MC00960, MC01001, MC00988, MC00990, MC00978, MC00993, MC00974, MC00965,
   MC00996, MC00963, MC00962, MC00957, MC00955, MC00999, MC00967, MC00973)
 placement_history:
 - date: '2026-10-04'

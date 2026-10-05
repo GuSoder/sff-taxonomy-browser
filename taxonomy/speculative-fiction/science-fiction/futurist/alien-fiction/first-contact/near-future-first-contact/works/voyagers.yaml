@@ -1,0 +1,31 @@
+id: voyagers
+title: Voyagers
+authors:
+- Ben Bova
+first_published: 1981
+canonical_genre: near-future-first-contact
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Alien fiction > First contact > Near-future first contact. Physicist
+  Keith Stoner reads signals from an alien spacecraft heading for Earth while governments fight to hold the secret; the near-future
+  human world absorbing the contact is the story (Voyagers trilogy).'
+books:
+- title: Voyagers
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765363657-L.jpg
+- title: 'Voyagers II: The Alien Within'
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765363664-L.jpg
+- title: 'Voyagers III: Star Brothers'
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/isbn/0812532368-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780765363657-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01002, MC01003, MC01004)
+placement_history:
+- date: '2026-10-04'
+  to: near-future-first-contact
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
