@@ -15,6 +15,9 @@ books:
 - title: Call of the Bone Ships
   year: 2020
   cover_url: https://covers.openlibrary.org/b/id/12656784-L.jpg
+- title: The Bone Ship's Wake
+  year: 2021
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9780316488051.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -26,3 +29,7 @@ placement_history:
 - date: '2026-10-04'
   to: pirate-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  to: pirate-fantasy
+  reason: 'Intake from the 10k list: The Bone Ship''s Wake (MC08091) added to the existing series card (curator commission
+    phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

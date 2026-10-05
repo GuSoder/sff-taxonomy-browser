@@ -12,6 +12,9 @@ books:
 - title: Gods of the Wyrdwood
   year: 2023
   cover_url: https://covers.openlibrary.org/b/id/14620294-L.jpg
+- title: Warlords of Wyrdwood
+  year: 2024
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2024/06/9780316401883_7e7f4d.jpg
 - title: Heart of the Wyrdwood
   year: 2025
   cover_url: https://shop.hachettebookgroup.com/cdn/shop/files/O_79939b42-4eda-4769-b6c4-736e3c01c518.jpg?v=1771855265
@@ -26,3 +29,7 @@ placement_history:
 - date: '2026-10-04'
   to: warrior-hero
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  to: warrior-hero
+  reason: 'Intake from the 10k list: Warlords of Wyrdwood (MC08092) added to the existing series card (curator commission
+    phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
