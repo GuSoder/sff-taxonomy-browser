@@ -1,0 +1,30 @@
+id: regency-faerie-tales
+title: Regency Faerie Tales
+authors:
+- Olivia Atwater
+first_published: 2020
+canonical_genre: fantasy-of-manners
+placement_status: accepted
+placement_rationale: 'Regency drawing rooms and social rules meet faerie bargains: each book is a manners comedy driven by
+  fae etiquette and Regency class.'
+books:
+- title: Half a Soul
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10137343-L.jpg
+- title: Ten Thousand Stitches
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/11387002-L.jpg
+- title: Longshadow
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/12077201-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10137343-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07441, MC07443, MC07442)
+placement_history:
+- date: '2026-10-04'
+  to: fantasy-of-manners
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
