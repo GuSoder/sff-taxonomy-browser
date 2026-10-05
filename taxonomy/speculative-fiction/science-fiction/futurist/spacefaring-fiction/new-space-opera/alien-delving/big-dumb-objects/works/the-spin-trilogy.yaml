@@ -1,0 +1,31 @@
+id: the-spin-trilogy
+title: The Spin Trilogy
+authors:
+- Andrew Bannister
+first_published: 2016
+canonical_genre: big-dumb-objects
+placement_status: accepted
+placement_rationale: Three standalone novels set in the Spin, an artificially created solar system built by unknown engineers
+  and their sentient creation machines; each book goes after an ancient device or dormant intellect from that making, with
+  the vast artificial system as the subject.
+books:
+- title: Creation Machine
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8802086-L.jpg
+- title: Iron Gods
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8539756-L.jpg
+- title: Stone Clock
+  year: 2018
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250179241.jpg?w=800
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8802086-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00604, MC00605, MC00606)
+placement_history:
+- date: '2026-10-04'
+  to: big-dumb-objects
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
