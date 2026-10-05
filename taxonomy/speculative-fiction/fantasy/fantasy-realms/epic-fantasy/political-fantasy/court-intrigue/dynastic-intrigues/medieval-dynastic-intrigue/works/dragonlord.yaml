@@ -1,0 +1,32 @@
+id: dragonlord
+title: Dragonlord
+authors:
+- Joanne Bertin
+first_published: 1998
+canonical_genre: medieval-dynastic-intrigue
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Epic fantasy > Political fantasy > Court intrigue > Dynastic intrigues > Medieval. The
+  Dragonlords, immortal dragon-shifters, watch over the Five Kingdoms and are called in when a queen dies and two claimants
+  contest the regency; succession, secret societies and civil war between realms carry the books, with the dragon-folk as
+  arbiters.'
+books:
+- title: The Last Dragonlord
+  year: 1998
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780812545418
+- title: Dragon and Phoenix
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/182793-L.jpg
+- title: Bard's Oath
+  year: 2012
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780312873707
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780812545418
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04600, MC04599, MC04598)
+placement_history:
+- date: '2026-10-04'
+  to: medieval-dynastic-intrigue
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,25 @@
+id: the-naming-song
+title: The Naming Song
+authors:
+- Jedediah Berry
+first_published: 2024
+canonical_genre: scripted-hard-magic
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Epic fantasy > Hard fantasy > Hard magic > Scripted hard magic. After the Silence took
+  all words from the world, the named rebuild civilization by divining new words; naming is a rule-bound power that makes
+  law and holds back the nameless wilds, and a word set down correctly acts on the world.'
+books:
+- title: The Naming Song
+  year: 2024
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781250907981
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9781250907981
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04399)
+placement_history:
+- date: '2026-10-04'
+  to: scripted-hard-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
