@@ -1,0 +1,40 @@
+id: magic-kingdom-of-landover
+title: Magic Kingdom of Landover
+authors:
+- Terry Brooks
+first_published: 1986
+canonical_genre: gateway-multiverse-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy rifts > Multiverse fantasy > Gateway multiverse fantasy. A Chicago lawyer buys
+  the kingdom of Landover from a catalog; the crossings between Earth and Landover (the fairy mists, the Paladin''s gate)
+  recur through all six books and drive the plot.'
+books:
+- title: Magic Kingdom for Sale--Sold!
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/908848-L.jpg
+- title: The Black Unicorn
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/908794-L.jpg
+- title: Wizard at Large
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/908792-L.jpg
+- title: The Tangle Box
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/208149-L.jpg
+- title: Witches' Brew
+  year: 1995
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780307570895
+- title: A Princess of Landover
+  year: 2009
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345458537
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/908848-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09477, MC09464, MC09510, MC09485, MC09509, MC09460)
+placement_history:
+- date: '2026-10-04'
+  to: gateway-multiverse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
