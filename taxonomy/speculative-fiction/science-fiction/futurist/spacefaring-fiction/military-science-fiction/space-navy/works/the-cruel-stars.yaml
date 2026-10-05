@@ -1,0 +1,28 @@
+id: the-cruel-stars
+title: The Cruel Stars
+authors:
+- John Birmingham
+first_published: 2019
+canonical_genre: space-navy
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Spacefaring fiction > Military science fiction > Space navy. The Sturm, a species-purist
+  fleet back from Dark Space, wages war on enhanced humanity; the story follows warship commanders, an admiral and their crews
+  through fleet battles and ship-to-ship fights.'
+books:
+- title: The Cruel Stars
+  year: 2019
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780399593338
+- title: The Shattered Skies
+  year: 2021
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781984820563
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780399593338
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04683, MC04685)
+placement_history:
+- date: '2026-10-04'
+  to: space-navy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
