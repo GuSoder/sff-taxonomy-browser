@@ -25,13 +25,22 @@ books:
 - title: The Alton Gift
   year: 2007
   cover_url: https://covers.openlibrary.org/b/id/7344195-L.jpg
+- title: Hastur Lord
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6683389-L.jpg
+- title: The Children of Kings
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8765169-L.jpg
+- title: Thunderlord
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8572697-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/503639-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC06406, MC06404, MC06411, MC06393, MC06401)
+intake: ten-k walk v5 (queue ids MC06397, MC06402, MC06408, MC06406, MC06404, MC06411, MC06393, MC06401)
 placement_history:
 - date: '2026-10-04'
   to: planetary-romance
