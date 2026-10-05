@@ -1,0 +1,25 @@
+id: paprika
+title: Paprika
+authors:
+- Yasutaka Tsutsui
+first_published: 1993
+canonical_genre: neural-fiction
+placement_status: accepted
+placement_rationale: 'A therapist uses a brain-linked device to enter patients'' dreams under the alias Paprika, and the stolen
+  device opens minds to a dream world that spills out. Direct-to-brain access as the passage into an altered reality: Neural
+  fiction. Source row listed the author as East Asia (tag misparse); author is Yasutaka Tsutsui.'
+books:
+- title: Paprika
+  year: 1993
+  cover_url: https://store.gollancz.co.uk/cdn/shop/files/9781399623254-original.jpg?v=1775632783
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://store.gollancz.co.uk/cdn/shop/files/9781399623254-original.jpg?v=1775632783
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02725)
+placement_history:
+- date: '2026-10-04'
+  to: neural-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

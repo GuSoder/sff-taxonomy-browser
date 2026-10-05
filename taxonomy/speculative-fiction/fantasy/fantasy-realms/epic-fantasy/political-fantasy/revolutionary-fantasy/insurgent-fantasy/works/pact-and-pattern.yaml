@@ -9,6 +9,8 @@ placement_rationale: 'Wen Alder between empire and rebellion (J. T. Greathouse):
 books:
 - title: The Hand of the Sun King
   cover_url: https://covers.openlibrary.org/b/id/12399611-L.jpg
+- title: The Garden of Empire
+  cover_url: https://store.gollancz.co.uk/cdn/shop/products/9781473232938-original.jpg?v=1766129305
 - title: The Pattern of the World
   cover_url: https://covers.openlibrary.org/b/id/14743753-L.jpg
 cover_curation:
@@ -17,9 +19,13 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/12399611-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC01923, MC01924)
+intake: ten-k walk v5 (queue ids MC01923, MC01924), MC02726
 placement_history:
 - date: '2026-10-04'
   to: insurgent-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
     ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+- date: '2026-10-05'
+  to: insurgent-fantasy
+  reason: Added book 2 (The Garden of Empire, queue MC02726, source row misparsed the author as East Asia) to the existing
+    series card; leaf unchanged.
