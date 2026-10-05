@@ -1,0 +1,30 @@
+id: manifold
+title: Manifold
+authors:
+- Stephen Baxter
+first_published: 1999
+canonical_genre: world-models
+placement_status: accepted
+placement_rationale: Reid Malenfant and the Fermi paradox across three books, each rebuilding the cosmos under a different
+  model of why the universe is silent (Time, Space, Origin); the discovery of the true cosmological model drives the story.
+books:
+- title: 'Manifold: Time'
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/9068274-L.jpg
+- title: 'Manifold: Space'
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/9068321-L.jpg
+- title: 'Manifold: Origin'
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/9068337-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9068274-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08981, MC08980, MC08979)
+placement_history:
+- date: '2026-10-04'
+  to: world-models
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

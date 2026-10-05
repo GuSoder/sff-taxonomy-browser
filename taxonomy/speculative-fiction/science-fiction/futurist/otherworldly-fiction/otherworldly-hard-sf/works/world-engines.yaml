@@ -1,0 +1,27 @@
+id: world-engines
+title: World Engines
+authors:
+- Stephen Baxter
+first_published: 2019
+canonical_genre: otherworldly-hard-sf
+placement_status: accepted
+placement_rationale: 'The planet-building World Engines of the deep past and a relic threat in the far future, with crews
+  stranded on an alternate Earth: a rigorous speculative cosmos outside the anchored world (Destroyer, Creator).'
+books:
+- title: 'World Engines: Destroyer'
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10405025-L.jpg
+- title: 'World Engines: Creator'
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10835639-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10405025-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08998, MC08997)
+placement_history:
+- date: '2026-10-04'
+  to: otherworldly-hard-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

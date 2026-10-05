@@ -1,0 +1,24 @@
+id: hearthspace
+title: Hearthspace
+authors:
+- Stephen Baxter
+first_published: 2025
+canonical_genre: space-navy
+placement_status: accepted
+placement_rationale: Commander Ulla Breen, on her first tour aboard a patrol sail-ship, is attacked by an unknown enemy in
+  the Hearth, the celestial birthplace of millions of planets; patrols, ship crews and naval war drive it.
+books:
+- title: Hearthspace
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15237909-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15237909-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08977)
+placement_history:
+- date: '2026-10-04'
+  to: space-navy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

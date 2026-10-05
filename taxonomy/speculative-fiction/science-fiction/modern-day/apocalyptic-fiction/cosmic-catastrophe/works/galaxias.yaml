@@ -1,0 +1,24 @@
+id: galaxias
+title: Galaxias
+authors:
+- Stephen Baxter
+first_published: 2021
+canonical_genre: cosmic-catastrophe
+placement_status: accepted
+placement_rationale: The Sun goes dark and a near-future Earth faces a catastrophe from the sky; the cosmic event is the disaster
+  and the story.
+books:
+- title: Galaxias
+  year: 2021
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781473228870
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9781473228870
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08976)
+placement_history:
+- date: '2026-10-04'
+  to: cosmic-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

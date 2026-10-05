@@ -1,0 +1,27 @@
+id: proxima
+title: Proxima
+authors:
+- Stephen Baxter
+first_published: 2013
+canonical_genre: big-dumb-objects
+placement_status: accepted
+placement_rationale: Alien hatches found on the planet Per Ardua let humans step across light-years as if through a door,
+  and the artifacts they open lead further; vast alien structures entered for knowledge (Proxima, Ultima).
+books:
+- title: Proxima
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8175193-L.jpg
+- title: Ultima
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8079769-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8175193-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08984, MC08994)
+placement_history:
+- date: '2026-10-04'
+  to: big-dumb-objects
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

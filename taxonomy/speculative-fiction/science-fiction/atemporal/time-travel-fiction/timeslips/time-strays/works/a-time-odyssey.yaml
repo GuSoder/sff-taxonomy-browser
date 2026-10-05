@@ -1,0 +1,31 @@
+id: a-time-odyssey
+title: A Time Odyssey
+authors:
+- Arthur C. Clarke
+- Stephen Baxter
+first_published: 2003
+canonical_genre: time-strays
+placement_status: accepted
+placement_rationale: Earth is patched with armies and cities from many eras by an alien intervention; people from Alexander's
+  Macedon to Mongol hordes and the British Empire stray into other eras and must live and fight there.
+books:
+- title: Time's Eye
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/210598-L.jpg
+- title: Sunstorm
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/380348-L.jpg
+- title: Firstborn
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2405474-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/210598-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08992, MC08988, MC08973)
+placement_history:
+- date: '2026-10-04'
+  to: time-strays
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

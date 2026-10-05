@@ -1,0 +1,31 @@
+id: the-northland-trilogy
+title: The Northland Trilogy
+authors:
+- Stephen Baxter
+first_published: 2010
+canonical_genre: deep-alterations
+placement_status: accepted
+placement_rationale: 'An alternate history in which Doggerland is not drowned: people of the Stone Age, then the Bronze Age
+  and a Roman-era ice winter, build a different world around Northland (Stone Spring, Bronze Summer, Iron Winter); an enduring
+  divergence remakes cultures.'
+books:
+- title: Stone Spring
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/10345620-L.jpg
+- title: Bronze Summer
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8472380-L.jpg
+- title: Iron Winter
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7268764-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10345620-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08987, MC08966, MC08978)
+placement_history:
+- date: '2026-10-04'
+  to: deep-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
