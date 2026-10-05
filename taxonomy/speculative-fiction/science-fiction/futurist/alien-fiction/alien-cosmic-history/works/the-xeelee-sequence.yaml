@@ -8,9 +8,18 @@ placement_status: accepted
 placement_rationale: 'Xeelee Sequence: humans and the Xeelee across cosmic deep time; nonhuman civilisations'' history in
   hard-SF register.'
 books:
+- title: Raft
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/382507-L.jpg
 - title: Ring
   year: 1994
   cover_url: https://covers.openlibrary.org/b/id/4968-L.jpg
+- title: 'Xeelee: Vengeance'
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8539157-L.jpg
+- title: 'Xeelee: Redemption'
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8506303-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -23,3 +32,7 @@ placement_history:
   to: alien-cosmic-history
   reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
     ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+- date: '2026-10-05'
+  to: alien-cosmic-history
+  reason: Sequence novels added to the existing card (one card per series); the humans-and-Xeelee cosmic history stays the
+    engine.
