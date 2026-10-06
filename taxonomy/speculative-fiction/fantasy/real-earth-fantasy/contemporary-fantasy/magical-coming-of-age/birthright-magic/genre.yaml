@@ -1,19 +1,18 @@
 id: birthright-magic
 name: Birthright magic
-definition: 'Magical coming-of-age in which the magic is inherited: a bloodline, ancestry or heritage awakens in the young protagonist, and claiming it is part of
-  forming an adult identity.'
+definition: 'Magical coming-of-age in which the magic is inherited: a bloodline, ancestry or heritage awakens in the young
+  protagonist, and claiming it is part of forming an adult identity. Umbrella since 2026-10-06: Mageblood, Wildblood, Witchblood
+  (curator "Approved" (2026-10-06 7:54:28 PM) of the posted proposal phonemsg-01M4904FFRGR0MCRDRA81A1XV0 / phonemsg-01M4904JC8ZRX0GBX7R3BS12KR;
+  names workshopped in his messages 7:09-7:54 PM (Mageblood, Wildblood and Witchblood are his coinages)).'
 parent: magical-coming-of-age
 label: Birthright magic
-children: []
+children:
+- mageblood
+- wildblood
+- witchblood
 image: 392-birthright-magic.webp
-status: provisional
-works:
-- from-dust-a-flame
-- shadowshaper-cypher
-- the-mirror-season
-- among-others
-- only-a-monster
-- spells-to-forget-us
-- they-bloom-at-night
-- the-jumbies
-- windy-city-magic
+status: accepted
+works: []
+ruling: ' | Split-with-umbrella 2026-10-06: curator "Approved" (2026-10-06 7:54:28 PM) of the posted proposal phonemsg-01M4904FFRGR0MCRDRA81A1XV0
+  / phonemsg-01M4904JC8ZRX0GBX7R3BS12KR; names workshopped in his messages 7:09-7:54 PM (Mageblood, Wildblood and Witchblood
+  are his coinages)'

@@ -1,0 +1,33 @@
+id: only-a-monster
+title: Only a Monster
+authors:
+- Vanessa Len
+first_published: 2022
+canonical_genre: wildblood
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Real-earth universe -> Contemporary fantasy -> Magical coming-of-age -> Birthright
+  magic. Kirkus: 16-year-old Joan learns she has inherited her late mother''s monster lineage; London''s hidden monster families
+  travel time by stealing human lifespans, and she must embrace her own monstrousness to survive the hero hunting them. A
+  bloodline heritage awakens in the young protagonist and claiming it forms her adult identity - the leaf def verbatim.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/vanessa-len/only-monster/
+- https://www.vanessalen.com/only-a-monster
+- https://www.lapl.org/news-stories/articles/interview-author-vanessa-len
+intake: 'gap-2022 #262 (LocusRec2022-First)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14782284-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: birthright-magic
+  reason: 'Intake placement (gap-2022 batch n=261-275), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-06'
+  reason: Split of Birthright magic by what the inheritance is; re-walked root-down into Wildblood (curator "Approved" (2026-10-06
+    7:54:28 PM) of the posted proposal phonemsg-01M4904FFRGR0MCRDRA81A1XV0 / phonemsg-01M4904JC8ZRX0GBX7R3BS12KR; names workshopped
+    in his messages 7:09-7:54 PM (Mageblood, Wildblood and Witchblood are his coinages)).
+  from: birthright-magic
+  to: wildblood
