@@ -3,10 +3,11 @@ title: The Cerulean Chronicles
 authors:
 - TJ Klune
 first_published: 2020
-canonical_genre: publicly-paranormal
+canonical_genre: paranormal-bureau
 placement_status: accepted
-placement_rationale: 'Magical youth are registered and policed by a government department; a caseworker and an orphanage of magical children push back (BookPage,
-  Locus). Magic public and bureaucratized. Series card: The House in the Cerulean Sea (2020), Somewhere Beyond the Sea (2024).'
+placement_rationale: 'Magical youth are registered and policed by a government department; a caseworker and an orphanage of
+  magical children push back (BookPage, Locus). Magic public and bureaucratized. Series card: The House in the Cerulean Sea
+  (2020), Somewhere Beyond the Sea (2024).'
 classification_sources:
 - https://www.bookpage.com/reviews/somewhere-beyond-the-sea-tj-klune-book-r/
 - https://locusmag.com/review/somewhere-beyond-the-sea-by-tj-klune-review-by-colleen-mondor/
@@ -24,3 +25,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/9312772-L.jpg
   visually_reviewed_on: '2026-09-23'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Publicly paranormal by what public life does with the supernatural; re-walked root-down into Paranormal
+    bureau (curator "Approved" (phonemsg-01M47X455F9ECE2TYKVGZGNMG7, 2026-10-06 8:06 AM)).
+  from: publicly-paranormal
+  to: paranormal-bureau

@@ -1,17 +1,16 @@
 id: publicly-paranormal
 label: Publicly paranormal
 parent: urban-fantasy
-children: []
+children:
+- paranormal-bureau
+- paranormal-aftermath
+- paranormal-neighbours
 image: 98-publicly-paranormal.webp
-definition: Urban fantasy where supernatural beings and phenomena are publicly known and absorbed into ordinary civic life.
+definition: 'Urban fantasy where supernatural beings and phenomena are publicly known and absorbed into ordinary civic life.
+  The supernatural is a known category the society names and lives with. Not Magic realism, where the marvel stays unnamed
+  and unexplained. Umbrella since 2026-10-06: split-with-umbrella by what public life does with the supernatural - Paranormal
+  bureau, Paranormal aftermath, Paranormal neighbours (curator "Approved" (phonemsg-01M47X455F9ECE2TYKVGZGNMG7, 2026-10-06
+  8:06 AM)).'
 status: accepted
-works:
-- simon-canderous
-- a-song-below-water
-- anita-blake-vampire-hunter
-- no-gods-no-monsters
-- elatsoe
-- the-cerulean-chronicles
-- blood-singer
-- kate-daniels
-- noon-onyx
+works: []
+ruling: curator "Approved" (phonemsg-01M47X455F9ECE2TYKVGZGNMG7, 2026-10-06 8:06 AM)

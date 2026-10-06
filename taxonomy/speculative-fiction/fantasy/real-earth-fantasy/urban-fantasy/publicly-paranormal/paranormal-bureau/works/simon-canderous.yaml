@@ -3,7 +3,7 @@ title: Simon Canderous
 authors:
 - Anton Strout
 first_published: 2008
-canonical_genre: publicly-paranormal
+canonical_genre: paranormal-bureau
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -25,3 +25,9 @@ cover_curation:
   selected_url: https://images.penguinrandomhouse.com/cover/9780441015788
   shows_english_title: false
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Publicly paranormal by what public life does with the supernatural; re-walked root-down into Paranormal
+    bureau (curator "Approved" (phonemsg-01M47X455F9ECE2TYKVGZGNMG7, 2026-10-06 8:06 AM)).
+  from: publicly-paranormal
+  to: paranormal-bureau

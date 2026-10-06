@@ -4,7 +4,7 @@ authors:
 - Laurell K. Hamilton
 first_published: 1993
 last_published: 2023
-canonical_genre: publicly-paranormal
+canonical_genre: paranormal-bureau
 placement_status: accepted
 included_titles:
 - Guilty Pleasures
@@ -104,3 +104,9 @@ cover_curation:
     url: https://images3.penguinrandomhouse.com/cover/9781984804501
   - title: Slay
     url: https://images1.penguinrandomhouse.com/cover/9780593637845
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Publicly paranormal by what public life does with the supernatural; re-walked root-down into Paranormal
+    bureau (curator "Approved" (phonemsg-01M47X455F9ECE2TYKVGZGNMG7, 2026-10-06 8:06 AM)).
+  from: publicly-paranormal
+  to: paranormal-bureau

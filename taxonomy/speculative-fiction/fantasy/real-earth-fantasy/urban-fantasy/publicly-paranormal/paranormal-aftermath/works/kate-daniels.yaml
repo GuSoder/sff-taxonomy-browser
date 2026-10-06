@@ -3,7 +3,7 @@ title: Kate Daniels
 authors:
 - Ilona Andrews
 first_published: 2007
-canonical_genre: publicly-paranormal
+canonical_genre: paranormal-aftermath
 placement_status: accepted
 placement_rationale: 'Ilona Andrews'' Kate Daniels novels (Magic Bites through Magic Triumphs, with Gunmetal Magic set in
   the same world): a magic apocalypse comes in waves that stall technology, and in a changed Atlanta shapeshifters, necromancers,
@@ -56,3 +56,8 @@ placement_history:
 - date: '2026-10-04'
   to: publicly-paranormal
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Publicly paranormal by what public life does with the supernatural; re-walked root-down into Paranormal
+    aftermath (curator "Approved" (phonemsg-01M47X455F9ECE2TYKVGZGNMG7, 2026-10-06 8:06 AM)).
+  from: publicly-paranormal
+  to: paranormal-aftermath

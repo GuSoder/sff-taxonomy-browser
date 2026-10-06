@@ -3,9 +3,11 @@ title: A Song Below Water
 authors:
 - Bethany C. Morrow
 first_published: 2020
-canonical_genre: publicly-paranormal
+canonical_genre: paranormal-neighbours
 placement_status: accepted
-placement_rationale: Tor describes a contemporary fantasy of Black sirens facing today's racism and sexism; A Chorus Rises centers a famous Eloko and the public exposure of a siren to the whole world. Supernatural identities are absorbed into media, fame and civic life, making Publicly Paranormal the closest leaf.
+placement_rationale: Tor describes a contemporary fantasy of Black sirens facing today's racism and sexism; A Chorus Rises
+  centers a famous Eloko and the public exposure of a siren to the whole world. Supernatural identities are absorbed into
+  media, fame and civic life, making Publicly Paranormal the closest leaf.
 classification_sources:
 - https://torpublishinggroup.com/a-song-below-water/?format=trade&isbn=9781250315335
 - https://torpublishinggroup.com/a-chorus-rises/?format=trade&isbn=9781250316042
@@ -22,3 +24,9 @@ books:
 - title: A Chorus Rises
   first_published: 2021
   cover_url: https://covers.openlibrary.org/b/id/10630605-L.jpg
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Publicly paranormal by what public life does with the supernatural; re-walked root-down into Paranormal
+    neighbours (curator "Approved" (phonemsg-01M47X455F9ECE2TYKVGZGNMG7, 2026-10-06 8:06 AM)).
+  from: publicly-paranormal
+  to: paranormal-neighbours
