@@ -56,13 +56,16 @@ books:
 - title: Lyorn
   year: 2024
   cover_url: https://mpd-biblio-covers.imgix.net/9780765382863.jpg
+- title: Brokedown Palace
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/284460-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/182961-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC09138, MC09146, MC09139, MC09147, MC09145, MC09164, MC09144, MC09167, MC09166, MC09148)
+intake: ten-k walk v5 (queue ids MC09137, MC09138, MC09146, MC09139, MC09147, MC09145, MC09164, MC09144, MC09167, MC09166, MC09148)
 placement_history:
 - date: '2026-10-04'
   to: rogue-hero
