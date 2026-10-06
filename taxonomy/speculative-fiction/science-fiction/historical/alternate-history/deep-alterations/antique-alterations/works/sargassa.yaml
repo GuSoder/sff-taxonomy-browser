@@ -12,6 +12,13 @@ classification_sources:
 - https://sophieburnham.com/sargassa/
 - https://www.astrahousebooks.com/books/sargassa-sophie-burnham/
 intake: 'gap-2022 #287 (LocusRec2023 sweep)'
+books:
+- title: Sargassa
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14804653-L.jpg
+- title: Bloodtide
+  year: 2025
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756419622
 cover_curation:
   status: complete
   source: Open Library
