@@ -3,7 +3,7 @@ title: Age of Darkness
 authors:
 - Stephen Aryan
 first_published: 2015
-canonical_genre: military-fantasy
+canonical_genre: soldier-fantasy
 placement_status: accepted
 placement_rationale: 'Stephen Aryan''s Age of Darkness trilogy (Orbit, 2015-2016): battlemages sworn to fight and die for
   a country that fears them, a common soldier on the front line and a princess spymaster in an empire-spanning war. Root-down:
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: military-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into Soldier fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
+    2026-10-06 7:27 AM)).
+  from: military-fantasy
+  to: soldier-fantasy

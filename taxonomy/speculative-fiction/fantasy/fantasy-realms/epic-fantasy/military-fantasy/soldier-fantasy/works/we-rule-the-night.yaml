@@ -3,7 +3,7 @@ title: We Rule the Night
 authors:
 - Claire Eliza Bartlett
 first_published: 2019
-canonical_genre: military-fantasy
+canonical_genre: soldier-fantasy
 placement_status: accepted
 placement_rationale: Two young women, one with banned Weave magic and prosthetic legs, one disguised as a boy, are recruited
   into a women's night-bomber unit in a secondary-world army at war (inspired by the Night Witches); campaigns and soldiers'
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: military-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into Soldier fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
+    2026-10-06 7:27 AM)).
+  from: military-fantasy
+  to: soldier-fantasy

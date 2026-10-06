@@ -3,7 +3,7 @@ title: Elves
 authors:
 - James Barclay
 first_published: 2010
-canonical_genre: military-fantasy
+canonical_genre: soldier-fantasy
 placement_status: accepted
 placement_rationale: Auum and the TaiGethen, the elite elven warriors of Calaius, fight a war across the trilogy - first elf
   against elf, then the elves against the human occupation. The books follow warriors, campaigns and fighting forces; no existing
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: military-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into Soldier fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
+    2026-10-06 7:27 AM)).
+  from: military-fantasy
+  to: soldier-fantasy

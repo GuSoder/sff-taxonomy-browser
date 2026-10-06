@@ -3,7 +3,7 @@ title: Wake the Dragon
 authors:
 - Kevin J. Anderson
 first_published: 2019
-canonical_genre: military-fantasy
+canonical_genre: war-fantasy
 placement_status: accepted
 placement_rationale: 'Kevin J. Anderson''s Wake the Dragon trilogy (Spine of the Dragon, Vengewar, Gods and Dragons): two
   continents, the Three Kingdoms and Ishara, fight a thousand-year war, then must ally against a reawakened ancient race (Macmillan).
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: military-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into War fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
+    2026-10-06 7:27 AM)).
+  from: military-fantasy
+  to: war-fantasy

@@ -1,0 +1,34 @@
+id: havemercy
+title: Havemercy
+authors:
+- Jaida Jones
+- Danielle Bennett
+first_published: 2008
+canonical_genre: soldier-fantasy
+placement_status: accepted
+placement_rationale: 'Dragon-riding airmen of Havemercy, the elite corps the war rests on, followed from inside the unit:
+  the unit is the story, so Soldier fantasy.'
+books:
+- title: Havemercy
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6958668-L.jpg
+- title: Shadow Magic
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6306687-L.jpg
+- title: Dragon Soul
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/9919839-L.jpg
+- title: Steelhands
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/9422268-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6958668-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02127, MC02128, MC02126, MC02129)
+placement_history:
+- date: '2026-10-04'
+  to: soldier-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

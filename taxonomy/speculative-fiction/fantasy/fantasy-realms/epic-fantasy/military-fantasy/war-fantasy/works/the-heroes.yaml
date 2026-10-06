@@ -3,7 +3,7 @@ title: The Heroes
 authors:
 - Joe Abercrombie
 first_published: 2011
-canonical_genre: military-fantasy
+canonical_genre: war-fantasy
 placement_status: accepted
 placement_rationale: Three-day battle seen from the ranks.
 books:
@@ -22,3 +22,8 @@ placement_history:
   to: military-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
     ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+- date: '2026-10-06'
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into War fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
+    2026-10-06 7:27 AM)).
+  from: military-fantasy
+  to: war-fantasy

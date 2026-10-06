@@ -3,10 +3,12 @@ title: Siege trilogy
 authors:
 - K. J. Parker
 first_published: 2019
-canonical_genre: military-fantasy
+canonical_genre: war-fantasy
 placement_status: accepted
-placement_rationale: >-
-  Root-down: Orbit/PW place the trilogy in an invented Roman-like fantasy empire and organize all three books around the siege, defending and ruling the City, and finally a war to end all wars. That passes Fantasy -> Fantasy realms -> Epic fantasy -> Military fantasy: armies, campaigns, siegecraft and war seen through engineers, civilians and pragmatic participants rather than a quest or magic system.
+placement_rationale: 'Root-down: Orbit/PW place the trilogy in an invented Roman-like fantasy empire and organize all three
+  books around the siege, defending and ruling the City, and finally a war to end all wars. That passes Fantasy -> Fantasy
+  realms -> Epic fantasy -> Military fantasy: armies, campaigns, siegecraft and war seen through engineers, civilians and
+  pragmatic participants rather than a quest or magic system.'
 classification_sources:
 - https://www.hachettebookgroup.com/titles/k-j-parker/sixteen-ways-to-defend-a-walled-city/9780316270793/
 - https://www.publishersweekly.com/9780316270793
@@ -29,3 +31,9 @@ books:
 - title: A Practical Guide to Conquering the World
   first_published: 2022
   cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2022/01/9780316498616.jpg
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into War fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
+    2026-10-06 7:27 AM)).
+  from: military-fantasy
+  to: war-fantasy
