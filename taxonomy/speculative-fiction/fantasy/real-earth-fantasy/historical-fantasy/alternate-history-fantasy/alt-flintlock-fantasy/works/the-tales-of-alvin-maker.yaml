@@ -13,6 +13,10 @@ included_titles:
 - Alvin Journeyman
 - Heartfire
 - The Crystal City
+books:
+- title: Master Alvin
+  year: 2026
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765300188
 cover_curation:
   status: complete
   source: Open Library

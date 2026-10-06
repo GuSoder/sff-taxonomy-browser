@@ -1,0 +1,23 @@
+id: enchantment
+title: Enchantment
+authors:
+- Orson Scott Card
+first_published: 1999
+canonical_genre: fairytale-transplant
+placement_status: accepted
+placement_rationale: 'Sleeping Beauty relocated: a modern American steps into the Slavic past of the tale.'
+books:
+- title: Enchantment
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/8303036-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8303036-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07463)
+placement_history:
+- date: '2026-10-04'
+  to: fairytale-transplant
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

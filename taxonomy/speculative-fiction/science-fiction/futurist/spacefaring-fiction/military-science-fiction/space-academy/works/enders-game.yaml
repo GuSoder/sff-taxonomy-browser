@@ -10,6 +10,22 @@ placement_rationale: "A gifted child is recruited and trained on a military spac
 classification_sources:
 - https://sf-encyclopedia.com/entry/enders_game
 - https://torpublishinggroup.com/enders-game/?format=hardback&isbn=9780765394866
+books:
+- title: Ender's Game
+  year: 1985
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765394866.jpg
+- title: Speaker for the Dead
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/183878-L.jpg
+- title: Xenocide
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/14525021-L.jpg
+- title: Children of the Mind
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/10162706-L.jpg
+- title: Ender in Exile
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/9317131-L.jpg
 cover_curation:
   status: ranked
   source: Macmillan / Tor Books

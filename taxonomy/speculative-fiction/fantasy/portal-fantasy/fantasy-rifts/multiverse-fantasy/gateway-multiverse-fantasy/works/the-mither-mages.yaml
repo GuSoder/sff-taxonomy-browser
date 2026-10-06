@@ -1,0 +1,29 @@
+id: the-mither-mages
+title: The Mither Mages
+authors:
+- Orson Scott Card
+first_published: 2011
+canonical_genre: gateway-multiverse-fantasy
+placement_status: accepted
+placement_rationale: Mages exiled from Westil to Earth; the gates between worlds are the premise and the plot.
+books:
+- title: The Lost Gate
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/9315051-L.jpg
+- title: The Gate Thief
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/9317169-L.jpg
+- title: Gatefather
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9317145-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9315051-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07496, MC07493, MC07468)
+placement_history:
+- date: '2026-10-04'
+  to: gateway-multiverse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
