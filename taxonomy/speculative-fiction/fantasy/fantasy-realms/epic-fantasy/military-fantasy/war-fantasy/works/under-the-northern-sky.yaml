@@ -1,0 +1,28 @@
+id: under-the-northern-sky
+title: Under the Northern Sky
+authors:
+- Leo Carew
+first_published: 2018
+canonical_genre: war-fantasy
+placement_status: accepted
+placement_rationale: 'Leo Carew''s Under the Northern Sky: the long-lived, hard northern Anakim under Roper face a southern
+  army led by the general Bellamus, and the war itself, its campaigns, battles and sieges, is the story. Walked root-down:
+  Epic fantasy -> Military fantasy -> War fantasy (the whole war, not one unit). Later volumes fold onto this fiction.'
+books:
+- title: The Wolf
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8542503-L.jpg
+- title: The Spider
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9339073-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8542503-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05974, MC05973)
+placement_history:
+- date: '2026-10-04'
+  to: war-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
