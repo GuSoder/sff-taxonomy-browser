@@ -1,0 +1,32 @@
+id: blood-of-earth
+title: Blood of Earth
+authors:
+- Beth Cato
+first_published: 2016
+canonical_genre: alt-diesel-fantasy
+placement_status: accepted
+placement_rationale: 'Alternate 1906 San Francisco where geomancers hold the earthquakes at bay and the United Pacific alliance
+  of Japan and America is at war with China; magic is the engine of a rewritten early-machine-age history, told across the
+  Blood of Earth trilogy (Breath of Earth, Call of Fire, Roar of Sky). Walked root-down: Fantasy -> Alternate history fantasy
+  -> Alt diesel fantasy.'
+books:
+- title: Breath of Earth
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8577221-L.jpg
+- title: Call of Fire
+  year: 2017
+  cover_url: https://images.penguinrandomhouse.com/cover/9780062422118
+- title: Roar of Sky
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8542659-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8577221-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01036, MC01037, MC01040)
+placement_history:
+- date: '2026-10-04'
+  to: alt-diesel-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
