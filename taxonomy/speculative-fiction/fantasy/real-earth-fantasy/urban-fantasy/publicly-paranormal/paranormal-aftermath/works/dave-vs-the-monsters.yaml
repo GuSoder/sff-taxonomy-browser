@@ -1,0 +1,30 @@
+id: dave-vs-the-monsters
+title: Dave vs. the Monsters
+authors:
+- John Birmingham
+first_published: 2015
+canonical_genre: paranormal-aftermath
+placement_status: accepted
+placement_rationale: 'The monsters have emerged and the world is remade around them; the stories live in the new order of
+  a public supernatural: Paranormal aftermath.'
+books:
+- title: Emergence
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8600467-L.jpg
+- title: Resistance
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8763241-L.jpg
+- title: Ascendance
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/10321410-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8600467-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04679, MC04681, MC04677)
+placement_history:
+- date: '2026-10-04'
+  to: paranormal-aftermath
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

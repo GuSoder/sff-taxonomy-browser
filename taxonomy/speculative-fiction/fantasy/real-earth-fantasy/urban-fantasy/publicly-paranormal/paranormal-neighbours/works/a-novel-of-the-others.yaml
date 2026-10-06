@@ -1,0 +1,36 @@
+id: a-novel-of-the-others
+title: A Novel of the Others
+authors:
+- Anne Bishop
+first_published: 2013
+canonical_genre: paranormal-neighbours
+placement_status: accepted
+placement_rationale: 'The Others - shapeshifters and vampires - own the land and let humans live in the Courtyards; Meg Corbyn
+  and the humans and Others share a city, a known and openly lived-with supernatural world: Paranormal neighbours.'
+books:
+- title: Written in Red
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7267447-L.jpg
+- title: Murder of Crows
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/7273070-L.jpg
+- title: Vision in Silver
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8918149-L.jpg
+- title: Marked in Flesh
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8871800-L.jpg
+- title: Etched in Bone
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8825405-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7267447-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00732, MC00720, MC00730, MC00719, MC00717)
+placement_history:
+- date: '2026-10-04'
+  to: paranormal-neighbours
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,30 @@
+id: the-world-of-the-others
+title: The World of the Others
+authors:
+- Anne Bishop
+first_published: 2019
+canonical_genre: paranormal-neighbours
+placement_status: accepted
+placement_rationale: 'Companion novels in the world of the Others: small-town and inn life among the Others, known and lived
+  with openly as neighbours.'
+books:
+- title: Lake Silence
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8566379-L.jpg
+- title: Wild Country
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/8798387-L.jpg
+- title: Crowbones
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/11459777-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8566379-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00718, MC00731, MC00716)
+placement_history:
+- date: '2026-10-04'
+  to: paranormal-neighbours
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
