@@ -1,0 +1,30 @@
+id: the-stars-undying
+title: The Stars Undying
+authors:
+- Emery Robin
+first_published: 2023
+canonical_genre: interstellar-court-politics
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction > Futurist > Spacefaring fiction > New space opera (an interstellar
+  empire of Ceiao and the Pearl of Szayet''s god) > Political space opera, not Space adventure or Military (the books are
+  about who rules, not who fights) > Interstellar court politics, not Space succession opera (the question is not what replaces
+  a collapsed order; the empire is rising) and not Revolutionary space opera (no uprising): exiled princess Altagracia places
+  herself in the hands of Commander Matheus Ceirran and the imperial court to win back her planet, a recast of Cleopatra and
+  Caesar and then Antony. Hachette (https://www.hachettebookgroup.com/titles/emery-robin/the-stars-undying/9780316391498/).'
+books:
+- title: The Stars Undying
+  year: 2023
+  cover_url: cover-stars-undying.jpg
+- title: The Sea Eternal
+  year: 2025
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-stars-undying.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02909, MC02908)
+placement_history:
+- date: '2026-10-04'
+  to: interstellar-court-politics
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,33 @@
+id: creatures-of-light
+title: Creatures of Light
+authors:
+- Emily B. Martin
+first_published: 2016
+canonical_genre: court-statecraft
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Fantasy (invented nations; ranger-and-woods magic, no science engine) > Fantasy
+  realms > Epic fantasy > Political fantasy > Court intrigue, not Revolutionary fantasy (no uprising) > Court statecraft,
+  not Court spies (no covert plots) and not Dynastic intrigues (no succession fight): three vastly different heroines (Mona,
+  Gemma and the woodwalker of book one) must form unlikely alliances to halt a tumultuous war, with Mona''s last-ditch diplomatic
+  mission to secure peace as the hinge of book two; governance and survival under military pressure. Military fantasy considered
+  and rejected: the war is the threat they try to stop, not the ground-level story. Weak card: the publisher also pitches
+  it for ''rangers, princesses, warriors, scribes'' and some viewpoints carry the action. Author site (http://www.emilybmartin.net/the-creatures-of-light-trilogy.html).'
+books:
+- title: Woodwalker
+  year: 2016
+  cover_url: cover-woodwalker.jpg
+- title: Ashes to Fire
+  year: 2017
+- title: Creatures of Light
+  year: 2018
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-woodwalker.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02915, MC02911, MC02912)
+placement_history:
+- date: '2026-10-04'
+  to: court-statecraft
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
