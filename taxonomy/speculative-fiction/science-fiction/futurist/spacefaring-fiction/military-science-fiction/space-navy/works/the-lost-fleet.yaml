@@ -32,22 +32,41 @@ books:
 - title: Invincible
   year: 2012
   cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425256473
+- title: 'The Lost Stars: Tarnished Knight'
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8441134-L.jpg
 - title: Guardian
   year: 2013
   cover_url: https://covers.openlibrary.org/b/isbn/9780425260500-L.jpg
+- title: 'The Lost Stars: Perilous Shield'
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8441138-L.jpg
 - title: Steadfast
   year: 2014
   cover_url: https://covers.openlibrary.org/b/id/10301863-L.jpg
 - title: Leviathan
   year: 2015
   cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425260555
+- title: 'The Genesis Fleet: Vanguard'
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8536707-L.jpg
+- title: 'The Genesis Fleet: Triumphant'
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9373311-L.jpg
+- title: 'The Lost Fleet: Outlands: Resolute'
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/12027031-L.jpg
+- title: 'The Lost Fleet: Outlands: Implacable'
+  year: 2023
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780593199022
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/284362-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC04051, MC04053, MC04049, MC04050, MC04048, MC04052)
+intake: ten-k walk v5 (queue ids MC04051, MC04053, MC04049, MC04050, MC04048, MC04052, folded queue ids MC04055, MC04054,
+  MC04057, MC04056, MC04043, MC04040)
 placement_history:
 - date: '2026-10-04'
   to: space-navy
