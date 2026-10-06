@@ -1,0 +1,27 @@
+id: the-voyage-of-the-jerle-shannara
+title: The Voyage of the Jerle Shannara
+authors:
+- Terry Brooks
+first_published: 2000
+canonical_genre: revival-quest-fantasy
+placement_status: accepted
+placement_rationale: 'A company sails the airship Jerle Shannara across the Blue Divide to the island of Morrowindl against
+  the Ilse Witch and the Morgawr: a fellowship on a quest, in the revival era (2000-2002).'
+books:
+- title: Ilse Witch
+  year: 2000
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345444813
+- title: Morgawr
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/209788-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345444813
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09504, MC09505)
+placement_history:
+- date: '2026-10-04'
+  to: revival-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

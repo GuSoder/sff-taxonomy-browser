@@ -3,7 +3,7 @@ title: The Eternal Sky
 authors:
 - Elizabeth Bear
 first_published: 2012
-canonical_genre: fellowship-quest-fantasy
+canonical_genre: revival-quest-fantasy
 placement_status: accepted
 placement_rationale: Temur, an exiled Khagan's grandson, the sorcerer Samarkar and the tiger-woman Hrahima journey across
   a world of steppes, mountains and celestial skies against usurpers and a rising dark power (Range of Ghosts, Shattered Pillars,
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: fellowship-quest-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Revival quest fantasy (curator
+    "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
+  from: fellowship-quest-fantasy
+  to: revival-quest-fantasy

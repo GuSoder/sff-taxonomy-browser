@@ -3,11 +3,10 @@ title: The Sword of Shannara Trilogy
 authors:
 - Terry Brooks
 first_published: 1977
-canonical_genre: fellowship-quest-fantasy
+canonical_genre: evergreen-quest-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy
-  Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. SFE calls the
-  opening book heavily Tolkien-influenced fantasy; PRH defines the trilogy as its
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Quest fantasy
+  -> Classic quest fantasy. SFE calls the opening book heavily Tolkien-influenced fantasy; PRH defines the trilogy as its
   first three novels, organized around journeys against ancient supernatural evil.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/brooks_terry
@@ -47,5 +46,9 @@ placement_history:
     to match live tree; placement unchanged on site.'
   previous_canonical_genre: classic-quest-fantasy
 - date: '2026-09-28'
-  change: Moved to fellowship-quest-fantasy in the classic-quest-fantasy split (the
-    curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+  change: Moved to fellowship-quest-fantasy in the classic-quest-fantasy split (the curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+- date: '2026-10-06'
+  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Evergreen quest fantasy (curator
+    "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
+  from: fellowship-quest-fantasy
+  to: evergreen-quest-fantasy

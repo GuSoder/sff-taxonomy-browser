@@ -5,7 +5,7 @@ authors:
 - James Richey
 - Alan Riggs
 first_published: 1998
-canonical_genre: fellowship-quest-fantasy
+canonical_genre: revival-quest-fantasy
 placement_status: accepted
 placement_rationale: 'Standalone secondary-world quest (Tor, 1998): young elf-enchantress Chentelle takes a mentor''s message
   and sets out with a band of companions through the Realm of Infinitera, menaced by the Dark One and his Illcreatures, to
@@ -27,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: fellowship-quest-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Revival quest fantasy (curator
+    "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
+  from: fellowship-quest-fantasy
+  to: revival-quest-fantasy

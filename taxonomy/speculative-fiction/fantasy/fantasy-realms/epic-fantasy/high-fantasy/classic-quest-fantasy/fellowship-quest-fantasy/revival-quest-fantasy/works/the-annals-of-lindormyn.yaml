@@ -1,0 +1,27 @@
+id: the-annals-of-lindormyn
+title: The Annals of Lindormyn
+authors:
+- David Bilsborough
+first_published: 2007
+canonical_genre: revival-quest-fantasy
+placement_status: accepted
+placement_rationale: 'A company of unlikely companions crosses the realm against an ancient rising darkness: the fellowship
+  on the road is the spine, in the post-2000 revival.'
+books:
+- title: The Wanderer's Tale
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/14048799-L.jpg
+- title: A Fire in the North
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/8762054-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14048799-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02191, MC02190)
+placement_history:
+- date: '2026-10-04'
+  to: revival-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

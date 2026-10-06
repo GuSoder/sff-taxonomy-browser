@@ -3,13 +3,12 @@ title: The Chronicles of Prydain
 authors:
 - Lloyd Alexander
 first_published: 1964
-canonical_genre: fellowship-quest-fantasy
+canonical_genre: evergreen-quest-fantasy
 placement_status: accepted
-placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Quest
-  fantasy -> Classic quest fantasy. Macmillan presents the five-book Prydain sequence
-  as Taran’s journey from Assistant Pig-Keeper toward heroism through a Welsh-inspired
-  secondary world and an epic good-versus-evil struggle. Fellowship, maturation, ancient
-  evil and world-shaping stakes make it a direct classic quest descendant.'
+placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. Macmillan
+  presents the five-book Prydain sequence as Taran’s journey from Assistant Pig-Keeper toward heroism through a Welsh-inspired
+  secondary world and an epic good-versus-evil struggle. Fellowship, maturation, ancient evil and world-shaping stakes make
+  it a direct classic quest descendant.'
 classification_sources:
 - https://us.macmillan.com/series/thechroniclesofprydain
 - https://us.macmillan.com/books/9780805080483/thebookofthree/
@@ -39,5 +38,9 @@ cover_curation:
   review_method: one-pass complete-series review
 placement_history:
 - date: '2026-09-28'
-  change: Moved to fellowship-quest-fantasy in the classic-quest-fantasy split (the
-    curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+  change: Moved to fellowship-quest-fantasy in the classic-quest-fantasy split (the curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+- date: '2026-10-06'
+  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Evergreen quest fantasy (curator
+    "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
+  from: fellowship-quest-fantasy
+  to: evergreen-quest-fantasy

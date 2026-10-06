@@ -3,7 +3,7 @@ title: The Sorcerer's Song
 authors:
 - Brian D. Anderson
 first_published: 2020
-canonical_genre: fellowship-quest-fantasy
+canonical_genre: revival-quest-fantasy
 placement_status: accepted
 placement_rationale: 'Brian D. Anderson''s Sorcerer''s Song trilogy (The Bard''s Blade, A Chorus of Fire, The Sword''s Elegy):
   a winemaker and a musician leave their magically sealed home when a stranger brings a prophecy of an ancient evil, and travel
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: fellowship-quest-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Revival quest fantasy (curator
+    "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
+  from: fellowship-quest-fantasy
+  to: revival-quest-fantasy
