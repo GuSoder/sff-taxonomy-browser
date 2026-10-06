@@ -1,0 +1,40 @@
+id: spellslinger
+title: Spellslinger
+authors:
+- Sebastien de Castell
+first_published: 2017
+canonical_genre: mage-hero
+placement_status: accepted
+placement_rationale: 'Kellen, a boy of a mage clan who fails to manifest magic, is outlawed and learns that spellcraft, shadow
+  magic and soul bonds can still make him a hero; his power comes from learned arcane craft across six books. Walked root-down:
+  Fantasy -> Fantasy realms -> Epic fantasy -> Heroic fantasy -> Caster heroes -> Mage hero.'
+books:
+- title: Spellslinger
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10340090-L.jpg
+- title: Shadowblack
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8497638-L.jpg
+- title: Charmcaster
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8842669-L.jpg
+- title: Soulbinder
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8842915-L.jpg
+- title: Queenslayer
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8749696-L.jpg
+- title: Crownbreaker
+  year: 2019
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2019/12/9780316525954.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10340090-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08737, MC08735, MC08732, MC08736, MC08734, MC08733)
+placement_history:
+- date: '2026-10-04'
+  to: mage-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
