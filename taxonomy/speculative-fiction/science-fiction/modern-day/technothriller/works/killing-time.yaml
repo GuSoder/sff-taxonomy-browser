@@ -1,0 +1,26 @@
+id: killing-time
+title: Killing Time
+authors:
+- Caleb Carr
+first_published: 2000
+canonical_genre: technothriller
+placement_status: accepted
+placement_rationale: 'Near-future (2023) thriller: criminologist Gideon Wolfe is handed a disc showing that the video of a
+  president''s assassination, broadcast everywhere, was doctored with special effects, and tracks the forgers from New York
+  to Africa in an age when all information can be manipulated. A mundane near-future world built on technical detail of image
+  forgery. Walked root-down: Science fiction -> Modern day -> Technothriller.'
+books:
+- title: Killing Time
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/419336-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/419336-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01378)
+placement_history:
+- date: '2026-10-04'
+  to: technothriller
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
