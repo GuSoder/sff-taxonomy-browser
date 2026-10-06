@@ -1,0 +1,26 @@
+id: the-tinder-box
+title: The Tinder Box
+authors:
+- M. R. Carey
+first_published: 2026
+canonical_genre: fairytale-expansion
+placement_status: accepted
+placement_rationale: 'M. R. Carey''s The Tinder Box (June 2026): a wounded soldier hired by a hidden witch finds a tinderbox
+  of terrifying power on a fallen demon, and Hans Christian Andersen''s familiar tale of the soldier, the witch and the tinderbox
+  becomes the seed of a larger original world of spellcraft, devilry and the fate of nations. Walked root-down: Fantasy ->
+  Fantasy realms -> Fairytale fantasy -> Fairytale expansion.'
+books:
+- title: The Tinder Box
+  year: 2026
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/04/9780316595490.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/04/9780316595490.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06241)
+placement_history:
+- date: '2026-10-04'
+  to: fairytale-expansion
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
