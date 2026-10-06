@@ -1,0 +1,31 @@
+id: rule
+title: Rule
+authors:
+- Ellen Goodlett
+first_published: 2018
+canonical_genre: medieval-dynastic-intrigue
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Fantasy (the invented kingdom of Kolonya and the outer Reaches) > Fantasy realms
+  > Epic fantasy > Political fantasy (the plot is who will wear the crown) > Court intrigue, not Revolutionary fantasy (there
+  is rebellion in the east, but the books follow the claimants, three girls with deadly secrets, not an uprising) and not
+  Court spies or Court statecraft (the claim, not covert action or ruler diplomacy, is the engine) > Dynastic intrigues >
+  Medieval dynastic intrigue, not Renaissance or Early modern (a dying king, a murdered heir, a feudal realm with travelling
+  bands and kings by blood): the question is succession and legitimacy. Hachette (https://www.hachettebookgroup.com/titles/ellen-goodlett/rule/9780316515290/).
+  Medieval dynastic intrigue is now ten fictions.'
+books:
+- title: Rule
+  year: 2018
+  cover_url: cover-rule.jpg
+- title: Rise
+  year: 2019
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-rule.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02885, MC02884)
+placement_history:
+- date: '2026-10-04'
+  to: medieval-dynastic-intrigue
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

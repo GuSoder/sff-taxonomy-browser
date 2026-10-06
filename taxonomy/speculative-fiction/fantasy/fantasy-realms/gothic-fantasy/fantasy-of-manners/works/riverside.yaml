@@ -1,0 +1,31 @@
+id: riverside
+title: Riverside
+authors:
+- Ellen Kushner
+first_published: 1987
+canonical_genre: fantasy-of-manners
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Fantasy (the invented city of Riverside, no science engine) > Fantasy realms >
+  Gothic fantasy (Pax Britannica manners branch) > Fantasy of manners, not Sword and sorcery (the swordsman Richard St Vier
+  fights duels for nobles but the swords serve the politics and the wit; there is almost no magic) and not Political fantasy
+  or Court intrigue (the plots live in drawing rooms and the book''s mode is etiquette and class performance, the author''s
+  own subtitle is ''A Melodrama of Manners''): duels, courtship and intricate social codes among the Hill''s nobles. Author
+  site (https://www.ellenkushner.com/books/swordspoint). Thomas the Rhymer (MC02890) is a different work and is not folded
+  here. Fantasy of manners is now ten fictions.'
+books:
+- title: Swordspoint
+  year: 1987
+  cover_url: cover-riverside.jpg
+- title: The Privilege of the Sword
+  year: 2006
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-riverside.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02888, MC02889)
+placement_history:
+- date: '2026-10-04'
+  to: fantasy-of-manners
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

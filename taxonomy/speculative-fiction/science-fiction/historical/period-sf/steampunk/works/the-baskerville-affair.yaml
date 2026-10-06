@@ -1,0 +1,32 @@
+id: the-baskerville-affair
+title: The Baskerville Affair
+authors:
+- Emma Jane Holloway
+first_published: 2013
+canonical_genre: steampunk
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction (steam-era machinery is the engine; the sorcery is the empire''s
+  enemy, and magic that can run machines is the prize) > Historical > Period SF > Steampunk, which holds alternate or actual-history
+  Victorian settings: Evelina Cooper, Sherlock Holmes''s niece, lives in a Victorian era ruled by a council of steam barons,
+  with automatons and mechanical power as the real monarch. Fantasy side checked and rejected (Gaslight fantasy is for folklore
+  and magic first; here the machines come first), and Steampunk stays at its own level by the standing rule. PRH (https://www.penguinrandomhouse.com/books/220305/a-study-in-silks-by-emma-jane-holloway/).
+  The short stories (The Baskerville Tales, MC02943) are held. Steampunk is now ten fictions.'
+books:
+- title: A Study in Silks
+  year: 2013
+  cover_url: cover-baskerville.jpg
+- title: A Study in Darkness
+  year: 2013
+- title: A Study in Ashes
+  year: 2013
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-baskerville.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02942, MC02941, MC02940)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

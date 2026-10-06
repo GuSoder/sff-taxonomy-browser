@@ -1,0 +1,33 @@
+id: the-wild-hunt
+title: The Wild Hunt
+authors:
+- Elspeth Cooper
+first_published: 2011
+canonical_genre: mage-hero
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Fantasy (invented lands, a church of the Goddess, no science engine) > Fantasy
+  realms > Epic fantasy > Heroic fantasy (the book is built around one protagonist''s power, not a war or a court) > Caster
+  heroes (his power is magic, not weapons or office; Gair is first met chained before the Order''s Rede Hall for the sin of
+  the Gift) > Mage hero, not Paladin hero (the knights who judge him are his enemies, and the book''s power is song-magic
+  that he learns) and not Cleric hero or Bard hero (the Gift is a sorcery of the earth he must master, not a sacred calling
+  or a performer''s art). Cooper''s site (https://elspethcooper.com/songs-of-the-earth-the-wild-hunt-1). Mage hero is now
+  ten fictions.'
+books:
+- title: Songs of the Earth
+  year: 2011
+  cover_url: cover-wildhunt.jpg
+- title: Trinity Rising
+  year: 2013
+- title: The Raven's Shadow
+  year: 2014
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-wildhunt.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02904, MC02906, MC02905)
+placement_history:
+- date: '2026-10-04'
+  to: mage-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
