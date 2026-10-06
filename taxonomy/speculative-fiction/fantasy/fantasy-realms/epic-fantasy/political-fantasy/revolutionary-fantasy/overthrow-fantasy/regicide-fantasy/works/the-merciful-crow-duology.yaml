@@ -1,0 +1,40 @@
+id: the-merciful-crow-duology
+title: The Merciful Crow Duology
+authors:
+- Margaret Owen
+first_published: 2019
+canonical_genre: regicide-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Political fantasy
+  -> Revolutionary fantasy -> Civil revolution fantasy. Macmillan and Owen center a persecuted low caste of mercy-killers,
+  its young chieftain’s bargain with the crown prince, bone magic and the struggle to preserve and liberate her clan from
+  the kingdom’s internal caste order. Resistance remakes the state from within rather than expelling a foreign occupier.'
+classification_sources:
+- https://us.macmillan.com/series/themercifulcrowseries
+- https://margaret-owen.com/tmc-duology/
+cover_curation:
+  status: complete
+  source: Henry Holt / Macmillan
+  selected_url: cover-the-merciful-crow.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
+books:
+- title: The Merciful Crow
+  year: 2019
+  cover_url: cover-the-merciful-crow.jpg
+- title: The Faithless Hawk
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10150811-L.jpg
+placement_history:
+- date: '2026-09-23'
+  change: 'No-duplicates rule (the curator 11:51): Medieval dynastic intrigue duplicate removed; Civil revolution fantasy
+    is the sole home.'
+- date: '2026-10-06'
+  reason: Split of Overthrow fantasy by what marks the overthrow (usurper, regicide, class rising, vengeance war); re-walked
+    root-down into Regicide fantasy (curator "Execute" (2026-10-06 9:30:16 PM) of the posted final sort stated in phonemsg-01M49B2VC6A49FENE6NTJXX51Q
+    (workshop 9:02-9:30 PM replaced the original proposal; Usurper fantasy, Regicide fantasy, Proletariat fantasy and Vengeance
+    war fantasy are his titles)).
+  from: overthrow-fantasy
+  to: regicide-fantasy

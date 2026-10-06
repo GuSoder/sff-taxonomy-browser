@@ -3,9 +3,12 @@ title: Legacy of Orïsha
 authors:
 - Tomi Adeyemi
 first_published: 2018
-canonical_genre: overthrow-fantasy
+canonical_genre: regicide-fantasy
 placement_status: accepted
-placement_rationale: Macmillan describes a complete West African-inspired fantasy trilogy beginning with a monarchy that exterminated the maji and suppressed magic, then follows the restoration of magic into civil war, competing political factions and the monarchy's fall. Magic is explicit, while revolution, rulership and the struggle over who governs Orïsha drive the sequence, matching Political fantasy.
+placement_rationale: Macmillan describes a complete West African-inspired fantasy trilogy beginning with a monarchy that exterminated
+  the maji and suppressed magic, then follows the restoration of magic into civil war, competing political factions and the
+  monarchy's fall. Magic is explicit, while revolution, rulership and the struggle over who governs Orïsha drive the sequence,
+  matching Political fantasy.
 classification_sources:
 - https://us.macmillan.com/books/9781250170972/childrenofbloodandbone
 - https://us.macmillan.com/books/9781250170996/childrenofvirtueandvengeance/
@@ -28,9 +31,18 @@ cover_curation:
   image_url: https://covers.openlibrary.org/b/id/8572526-L.jpg
   cover_id: OL-8572526
   beauty_score: 8.5
-  beauty_rationale: Three coordinated English portrait fronts use white hair, jeweled braids and royal metallic ornament against black and white fields, with intense direct gazes and strong series continuity.
+  beauty_rationale: Three coordinated English portrait fronts use white hair, jeweled braids and royal metallic ornament against
+    black and white fields, with intense direct gazes and strong series continuity.
   visually_reviewed_on: '2026-09-16'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 3
   review_method: one-pass series search
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Overthrow fantasy by what marks the overthrow (usurper, regicide, class rising, vengeance war); re-walked
+    root-down into Regicide fantasy (curator "Execute" (2026-10-06 9:30:16 PM) of the posted final sort stated in phonemsg-01M49B2VC6A49FENE6NTJXX51Q
+    (workshop 9:02-9:30 PM replaced the original proposal; Usurper fantasy, Regicide fantasy, Proletariat fantasy and Vengeance
+    war fantasy are his titles)).
+  from: overthrow-fantasy
+  to: regicide-fantasy

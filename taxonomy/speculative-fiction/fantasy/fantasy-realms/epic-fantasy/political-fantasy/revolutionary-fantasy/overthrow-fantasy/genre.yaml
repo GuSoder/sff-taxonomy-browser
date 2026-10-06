@@ -1,21 +1,21 @@
 id: overthrow-fantasy
 label: Overthrow fantasy
 parent: revolutionary-fantasy
-children: []
+children:
+- usurper-fantasy
+- regicide-fantasy
+- proletariat-fantasy
+- vengeance-war-fantasy
 image: 213-overthrow-fantasy.webp
-definition: Revolutionary fantasy in which civil war, class uprising, or internal mass rebellion remakes a state from within
-  rather than expelling a foreign occupier.
+definition: 'Revolutionary fantasy in which civil war, class uprising, or internal mass rebellion remakes a state from within
+  rather than expelling a foreign occupier. Umbrella since 2026-10-06: Usurper fantasy, Regicide fantasy, Proletariat fantasy,
+  Vengeance war fantasy (curator "Execute" (2026-10-06 9:30:16 PM) of the posted final sort stated in phonemsg-01M49B2VC6A49FENE6NTJXX51Q
+  (workshop 9:02-9:30 PM replaced the original proposal; Usurper fantasy, Regicide fantasy, Proletariat fantasy and Vengeance
+  war fantasy are his titles)).'
 status: accepted
-works:
-- legacy-of-or-sha
-- the-merciful-crow-duology
-- mage-of-fools
-- the-eidyn-saga
-- red-queen
-- birth-of-a-dynasty
-- grace-and-fury
-- the-city-of-silk-and-steel
-- the-drowned-world-duology
+works: []
 ruling: 'Renamed from Civil revolution fantasy to Overthrow fantasy by the curator 2026-09-26 (phonemsg-01M3E5TBJ8367MFXAGM9WABGX5):
   he found the old name boring next to its siblings; Overthrow carries the domestic-revolt register - the enemy is your own
-  ruler.'
+  ruler. | Split-with-umbrella 2026-10-06: curator "Execute" (2026-10-06 9:30:16 PM) of the posted final sort stated in phonemsg-01M49B2VC6A49FENE6NTJXX51Q
+  (workshop 9:02-9:30 PM replaced the original proposal; Usurper fantasy, Regicide fantasy, Proletariat fantasy and Vengeance
+  war fantasy are his titles)'

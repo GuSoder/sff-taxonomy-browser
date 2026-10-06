@@ -1,0 +1,35 @@
+id: metal-from-heaven
+title: Metal from Heaven
+authors:
+- August Clarke
+first_published: 2024
+canonical_genre: proletariat-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Political fantasy -> Revolutionary fantasy ->
+  Overthrow fantasy. PW: Ignavia City ''on the cusp of industrial revolution and roiling with discontent''; Marney Honeycutt
+  joins the Highwayman''s Choir, ''a troop of bandit revolutionaries fighting to bring about the Hereafter: a golden future
+  with no work, wages, or poverty'', after the foundry owner''s strikebreak massacre. Class uprising remaking the state from
+  within - the leaf''s exact mode, and leaf-mate The Age of Madness is the same industrial class-war shape. Not rebel-fantasy
+  (no foreign occupier), not insurgent-fantasy (the movement is open bandit revolt, not insider conspiracy). LocusRec2024-Fantasy.'
+classification_sources:
+- https://www.publishersweekly.com/9781645660989
+- https://www.penguinrandomhouse.com/books/757108/metal-from-heaven-by-august-clarke/
+intake: 'gap-2022 #241 (LocusRec2024-Fantasy)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/9781645660989-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: overthrow-fantasy
+  reason: 'Intake placement (gap-2022 batch n=239-245), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-06'
+  reason: Split of Overthrow fantasy by what marks the overthrow (usurper, regicide, class rising, vengeance war); re-walked
+    root-down into Proletariat fantasy (curator "Execute" (2026-10-06 9:30:16 PM) of the posted final sort stated in phonemsg-01M49B2VC6A49FENE6NTJXX51Q
+    (workshop 9:02-9:30 PM replaced the original proposal; Usurper fantasy, Regicide fantasy, Proletariat fantasy and Vengeance
+    war fantasy are his titles)).
+  from: overthrow-fantasy
+  to: proletariat-fantasy

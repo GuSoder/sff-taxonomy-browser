@@ -3,7 +3,7 @@ title: Birth of a Dynasty
 authors:
 - Chinaza Bado
 first_published: 2025
-canonical_genre: overthrow-fantasy
+canonical_genre: vengeance-war-fantasy
 placement_status: accepted
 placement_rationale: Survivors of slaughtered noble houses plot vengeance against the tyrannical Zenzele dynasty that has
   ruled Ahkebulin for centuries; the plot is bringing the ruling dynasty down.
@@ -22,3 +22,10 @@ placement_history:
 - date: '2026-10-04'
   to: overthrow-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Overthrow fantasy by what marks the overthrow (usurper, regicide, class rising, vengeance war); re-walked
+    root-down into Vengeance war fantasy (curator "Execute" (2026-10-06 9:30:16 PM) of the posted final sort stated in phonemsg-01M49B2VC6A49FENE6NTJXX51Q
+    (workshop 9:02-9:30 PM replaced the original proposal; Usurper fantasy, Regicide fantasy, Proletariat fantasy and Vengeance
+    war fantasy are his titles)).
+  from: overthrow-fantasy
+  to: vengeance-war-fantasy

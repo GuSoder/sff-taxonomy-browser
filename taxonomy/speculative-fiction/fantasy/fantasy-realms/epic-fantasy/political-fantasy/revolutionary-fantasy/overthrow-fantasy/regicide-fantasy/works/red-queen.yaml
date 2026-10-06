@@ -3,7 +3,7 @@ title: Red Queen
 authors:
 - Victoria Aveyard
 first_published: 2015
-canonical_genre: overthrow-fantasy
+canonical_genre: regicide-fantasy
 placement_status: accepted
 placement_rationale: Mare, a Red commoner, is caught between the Silver nobility who rule with powers and the rebel Scarlet
   Guard; the plot is the uprising against the ruling blood.
@@ -22,3 +22,10 @@ placement_history:
 - date: '2026-10-04'
   to: overthrow-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Overthrow fantasy by what marks the overthrow (usurper, regicide, class rising, vengeance war); re-walked
+    root-down into Regicide fantasy (curator "Execute" (2026-10-06 9:30:16 PM) of the posted final sort stated in phonemsg-01M49B2VC6A49FENE6NTJXX51Q
+    (workshop 9:02-9:30 PM replaced the original proposal; Usurper fantasy, Regicide fantasy, Proletariat fantasy and Vengeance
+    war fantasy are his titles)).
+  from: overthrow-fantasy
+  to: regicide-fantasy
