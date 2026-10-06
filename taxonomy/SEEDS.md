@@ -57,3 +57,9 @@ Romantasy (fantasy > fantasy-realms > romantasy; children Enemies-to-lovers roma
 The curator, phonemsg-01M48JWVW56J8R4W0FA14GAMD1 (2:26:58 PM): "If you see some certain type of book repeatedly ending up in contrived locations, or (I hope you don't ever do if it's clearly spec fic:) getting hold - bring it up with me, perhaps they are a new kind of lvl3 genre".
 
 When a type of book keeps landing in leaves that only fit it by stretching, or keeps going to hold or the hanging list although it is clearly spec fic, the pattern is reported to him with the evidence (which books, where they landed or why they waited) as a possible new level-3 genre. Holds stay limited to the listed non-spec-fic or out-of-scope categories; clear spec fic never goes to hold.
+
+## Scope ruling: pure horror is out, speculative horror is in (2026-10-06)
+
+The curator, phonemsg-01M48JZVFV02KN5GW2K89JKXXW (2:28:35 PM): "We don't do horror in this taxonomy, that's ok", then corrected himself in phonemsg-01M48K0QS1JH6N00EY1P6RE8EN (2:29:05 PM): "I mean, we don't do pure horror, without speculative elements".
+
+Out of scope: pure horror with no speculative element (mundane killers, psychological horror); such books are not placed. In scope: any horror with a speculative element (ghosts, hauntings, folk demons, vampires, cursed objects). Those are walked like any other fantasy or SF. Books of that kind that find no honest leaf stay on the hanging list as the evidence for a possible new level-3 genre: so far The House of War and Witness, The Haunting of Alejandra, the Light series (Bradley), the Bullington books.
