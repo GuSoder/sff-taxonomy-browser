@@ -1,0 +1,39 @@
+id: a-song-of-ice-and-fire
+title: A Song of Ice and Fire
+authors:
+- George R. R. Martin
+first_published: 1996
+canonical_genre: thrones-at-war
+placement_status: accepted
+placement_rationale: Root-down traversal passes Epic fantasy -> Political fantasy -> Court intrigue -> Medieval dynastic intrigue.
+  Anchor of the the curator-approved Dynastic epic leaf (his iMessage 2026-09-19 22:33 "Ok, do this" to the split proposal).
+  Moved out of Court intrigue; its six-faction multi-POV war for the Iron Throne sprawls across a continent rather than staying
+  inside one court.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/108331/a-clash-of-kings-by-george-r-r-martin/
+cover_curation:
+  status: partial-series
+  selected_url: https://covers.openlibrary.org/b/id/8134208-L.jpg
+  shows_english_title: false
+  review_method: one-pass
+books:
+- title: A Game of Thrones
+  first_published: 1996
+- title: A Clash of Kings
+  first_published: 1998
+  cover_url: https://covers.openlibrary.org/b/id/8231751-L.jpg
+- title: A Storm of Swords
+  first_published: 2000
+- title: A Feast for Crows
+  first_published: 2005
+- title: A Dance with Dragons
+  first_published: 2011
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Medieval dynastic intrigue by the size of the board (thrones at war or the palace game); re-walked root-down
+    into Thrones at war (curator "Perfect, execute" (2026-10-06 11:54:24 PM, phonemsg-01M49KBWQN46Z17153ADAY6MNG) over the
+    size-of-the-board cut of Medieval dynastic intrigue proposed after his 11:50:03 PM "Retry the split from scratch with
+    a different angle" (phonemsg-01M49K3X9WE05WWEYG5YK6KKB8); the names Thrones at war and The palace game are as proposed
+    and accepted).
+  from: medieval-dynastic-intrigue
+  to: thrones-at-war

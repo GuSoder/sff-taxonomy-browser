@@ -3,7 +3,7 @@ title: Shattered Sea
 authors:
 - Joe Abercrombie
 first_published: 2015
-canonical_genre: medieval-dynastic-intrigue
+canonical_genre: thrones-at-war
 placement_status: accepted
 placement_rationale: Viking-like Shattered Sea; succession engine (Yarvi's crippled-heir kingship) through Half a War.
 books:
@@ -28,3 +28,11 @@ placement_history:
   to: medieval-dynastic-intrigue
   reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
     ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+- date: '2026-10-06'
+  reason: Split of Medieval dynastic intrigue by the size of the board (thrones at war or the palace game); re-walked root-down
+    into Thrones at war (curator "Perfect, execute" (2026-10-06 11:54:24 PM, phonemsg-01M49KBWQN46Z17153ADAY6MNG) over the
+    size-of-the-board cut of Medieval dynastic intrigue proposed after his 11:50:03 PM "Retry the split from scratch with
+    a different angle" (phonemsg-01M49K3X9WE05WWEYG5YK6KKB8); the names Thrones at war and The palace game are as proposed
+    and accepted).
+  from: medieval-dynastic-intrigue
+  to: thrones-at-war

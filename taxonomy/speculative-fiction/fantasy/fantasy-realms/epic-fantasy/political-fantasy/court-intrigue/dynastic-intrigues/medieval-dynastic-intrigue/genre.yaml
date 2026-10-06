@@ -1,19 +1,18 @@
 id: medieval-dynastic-intrigue
 label: Medieval dynastic intrigue
 parent: dynastic-intrigues
-children: []
+children:
+- thrones-at-war
+- the-palace-game
 image: 267-medieval-dynastic-intrigue.webp
-definition: Dynastic fantasy modeled on medieval courts, feudal ruling houses and succession struggles.
+definition: 'Dynastic fantasy modeled on medieval courts, feudal ruling houses and succession struggles. Umbrella since 2026-10-06:
+  Thrones at war, The palace game (curator "Perfect, execute" (2026-10-06 11:54:24 PM, phonemsg-01M49KBWQN46Z17153ADAY6MNG)
+  over the size-of-the-board cut of Medieval dynastic intrigue proposed after his 11:50:03 PM "Retry the split from scratch
+  with a different angle" (phonemsg-01M49K3X9WE05WWEYG5YK6KKB8); the names Thrones at war and The palace game are as proposed
+  and accepted).'
 status: accepted
-ruling: Created by the curator’s 2026-09-22 regular-era split of Dynastic intrigues.
-works:
-- a-song-of-ice-and-fire
-- the-forgotten-beasts-of-eld
-- the-inheritance-trilogy
-- the-folk-of-the-air
-- shattered-sea
-- a-season-of-sinister-dreams
-- lords-of-grass-and-thunder
-- dragonlord
-- the-power-and-the-pattern
-- rule
+ruling: 'Created by the curator’s 2026-09-22 regular-era split of Dynastic intrigues. | Split-with-umbrella 2026-10-06: curator
+  "Perfect, execute" (2026-10-06 11:54:24 PM, phonemsg-01M49KBWQN46Z17153ADAY6MNG) over the size-of-the-board cut of Medieval
+  dynastic intrigue proposed after his 11:50:03 PM "Retry the split from scratch with a different angle" (phonemsg-01M49K3X9WE05WWEYG5YK6KKB8);
+  the names Thrones at war and The palace game are as proposed and accepted'
+works: []
