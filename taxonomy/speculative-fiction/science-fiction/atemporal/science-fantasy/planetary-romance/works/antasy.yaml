@@ -1,0 +1,32 @@
+id: antasy
+title: Antasy
+authors:
+- Clark Thomas Carlton
+first_published: 2011
+canonical_genre: planetary-romance
+placement_status: accepted
+placement_rationale: 'Clark Thomas Carlton''s Antasy series: in the distant future humans have evolved to insect size on the
+  world of Dranveria, and their food, weapons, art and religion are woven from the insects they ride, farm and fight, across
+  a saga of prophets, armies and a ruined empire. Science fantasy organized around adventure on an exotic habitat that carries
+  the sweep and furniture of fantasy. Walked root-down: Science fiction -> Atemporal -> Science fantasy -> Planetary romance.'
+books:
+- title: Prophets of the Ghost Ants
+  year: 2011
+  cover_url: https://clarkthomascarlton.com/wp-content/uploads/2019/02/book1Cover-2.jpg
+- title: The Prophet of the Termite God
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8756762-L.jpg
+- title: The Ghost Ants of Grylladesh
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11495928-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://clarkthomascarlton.com/wp-content/uploads/2019/02/book1Cover-2.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01882, MC01884, MC01883)
+placement_history:
+- date: '2026-10-04'
+  to: planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
