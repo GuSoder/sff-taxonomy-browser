@@ -1,0 +1,39 @@
+id: belisarius
+title: Belisarius
+authors:
+- Eric Flint
+- David Drake
+first_published: 1998
+canonical_genre: antique-alterations
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction > Historical > Alternate history (the fork is a changed 6th century,
+  not a changed present) > Deep alterations (the changed world is lived in for a whole series; not Period alterations, whose
+  fork is in recent memory) > Antique alterations, not Age of sail alterations or Machine age alterations (the fork lies before
+  1500: the Malwa Empire and a crystal intelligence sent from a future that may never be help Belisarius turn the Byzantine
+  army into a modern force, with steamboats, telegraph and Greek fire by The Dance of Time). Science fiction rather than Fantasy:
+  the engine is a machine intelligence from the future, not magic; Time travel fiction rejected: nobody travels, an artifact
+  from the future acts. Baen pages (https://www.baen.com/destiny-s-shield.html, https://www.baen.com/the-dance-of-time.html).
+  Series books An Oblique Approach and Thunder at Dawn are not in the queue.'
+books:
+- title: In the Heart of Darkness
+  year: 1998
+  cover_url: cover-belisarius.jpg
+- title: Destiny's Shield
+  year: 1999
+- title: Fortune's Stroke
+  year: 2000
+- title: The Tide of Victory
+  year: 2001
+- title: The Dance of Time
+  year: 2006
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-belisarius.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02995, MC02989, MC02990, MC03042, MC03033)
+placement_history:
+- date: '2026-10-04'
+  to: antique-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

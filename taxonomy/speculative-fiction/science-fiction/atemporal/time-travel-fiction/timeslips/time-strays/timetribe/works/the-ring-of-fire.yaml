@@ -26,6 +26,8 @@ books:
   year: 2007
 - title: '1634: The Bavarian Crisis'
   year: 2007
+- title: Time Spike
+  year: 2007
 - title: '1635: The Dreeson Incident'
   year: 2008
 - title: '1635: The Eastern Front'
@@ -54,6 +56,8 @@ books:
   year: 2017
 - title: '1637: The Volga Rules'
   year: 2017
+- title: The Alexander Inheritance
+  year: 2017
 - title: Letters from Gronow
   year: 2018
   cover_url: https://covers.openlibrary.org/b/id/9398978-L.jpg
@@ -73,6 +77,8 @@ books:
   year: 2020
 - title: The Muse of Music
   year: 2020
+- title: The Macedonian Hazard
+  year: 2020
 - title: '1637: The Coast of Chaos'
   year: 2021
 - title: '1637: The Transylvanian Decision'
@@ -83,10 +89,12 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/9398978-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC02201) + folded MC02951, MC02952, MC02955, MC02956, MC02958, MC02953, MC02954, MC02959,
+intake: 'ten-k walk v5 (queue ids MC02201) + folded MC02951, MC02952, MC02955, MC02956, MC02958, MC02953, MC02954, MC02959,
   MC02960, MC02971, MC02961, MC02969, MC02968, MC02963, MC02973, MC02957, MC02966, MC02970, MC02964, MC02972, MC02980, MC02978,
   MC02967, MC02962, MC02965, MC02974, MC02975, MC02977, MC02976, MC02979 (Ring of Fire novels, rule 11j) + folded MC02949
-  (Toro and Carrico, Ring of Fire Press)
+  (Toro and Carrico, Ring of Fire Press) + folded MC03029, MC03036 (Alexander Inheritance books: Baen sets them in the same
+  Ring of Fire sequence of cosmic catastrophes) + folded MC03045 Time Spike (Baen: the prison thrown into the past is the
+  second of the cosmic catastrophes in the Ring of Fire sequence)'
 placement_history:
 - date: '2026-10-04'
   to: time-strays

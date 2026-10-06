@@ -1,0 +1,31 @@
+id: trail-of-glory
+title: Trail of Glory
+authors:
+- Eric Flint
+first_published: 2005
+canonical_genre: machine-age-alterations
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction > Historical > Alternate history (a fork in the past, not a changed
+  present) > Deep alterations, not Period alterations (the fork, a changed charge at Horseshoe Bend in the War of 1812 that
+  keeps Sam Houston from the wound that nearly killed him, lies two centuries back and the changed America is lived in across
+  two books) > Machine age alterations, not Alt Civil War (the Civil War is not the fork; the story is the Jacksonian frontier
+  and the removal of the southern tribes and their black neighbors to Oklahoma, with steamboats and the engine age as backdrop)
+  and not Age of sail alterations (the fork is after 1800). Baen pages (https://www.baen.com/1812-the-rivers-of-war.html,
+  https://www.baen.com/1824-the-arkansas-war.html). Series name Trail of Glory.'
+books:
+- title: '1812: The Rivers of War'
+  year: 2005
+- title: '1824: The Arkansas War'
+  year: 2006
+  cover_url: cover-trail-of-glory.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-trail-of-glory.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02981, MC02982)
+placement_history:
+- date: '2026-10-04'
+  to: machine-age-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
