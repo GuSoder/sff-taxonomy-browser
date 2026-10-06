@@ -1,0 +1,33 @@
+id: the-hope-duology
+title: The Hope Duology
+authors: Stephen Chambers
+first_published: 2001
+canonical_genre: lost-colony-planetary-romance
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction (not fantasy: a colony planet settled by exiles from Earth after
+  the 21st-century biotech revolution, the last AI in an ancient computer; SFE shelves it as sf) > Atemporal (not Futurist/Historical/Modern
+  day: the colony''s regressed world sits outside any usable timeline) > Science fantasy (technology at the level of medieval
+  Western Europe, old tech turned legend - SFE: ''the Planetary Romance glow this setting gives off'') > Planetary romance
+  (adventure on an exotic world whose setting carries fantasy furniture) > Lost-colony planetary romance (not Classic - Vel
+  is no visitor from Earth, he is born on Hope; not Far-future - this is not a far future where Earth is forgotten, it is
+  a colony cut off from Earth: the people are descendants of exiled settlers, and the old technology - the Blakes AI - survives
+  as hidden myth, exactly this leaf). Hope''s End (2001) and Hope''s War (2002), Tor; the announced third book never appeared
+  (ISFDB Hope series, SFE). One universe fiction per rule 11j.'
+books:
+- title: Hope's End
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/2647876-L.jpg
+- title: Hope's War
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/2371760-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2647876-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09018, MC09019)
+placement_history:
+- date: '2026-10-04'
+  to: lost-colony-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
