@@ -3,7 +3,7 @@ title: Prison Ship
 authors:
 - Michael Bowers
 first_published: 2009
-canonical_genre: space-navy
+canonical_genre: space-corvette
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Spacefaring fiction > Military science fiction > Space navy. A convicted commander
   is given the captaincy of an obsolete Penitentiary Assault Vessel crewed by felons and sent into the separatists'' space;
@@ -23,3 +23,9 @@ placement_history:
 - date: '2026-10-04'
   to: space-navy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Space navy by the kind of ship (state war fleet or one ship on her own); re-walked root-down into Space
+    corvette (curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC,
+    10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
+  from: space-navy
+  to: space-corvette

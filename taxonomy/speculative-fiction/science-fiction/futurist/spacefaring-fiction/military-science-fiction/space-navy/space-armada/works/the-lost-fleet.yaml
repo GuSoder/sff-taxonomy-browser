@@ -3,7 +3,7 @@ title: The Lost Fleet
 authors:
 - Jack Campbell
 first_published: 2006
-canonical_genre: space-navy
+canonical_genre: space-armada
 placement_status: accepted
 placement_rationale: 'Jack Campbell''s Lost Fleet universe as one fiction: Black Jack Geary leads the Alliance fleet home
   and then beyond the frontier, with the whole story told from the bridge of a fleet at war.'
@@ -75,3 +75,9 @@ placement_history:
   reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
     we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Lost Fleet, The Lost Fleet: Beyond the Frontier;
     re-walked root-down into space-navy.'
+- date: '2026-10-06'
+  reason: Split of Space navy by the kind of ship (state war fleet or one ship on her own); re-walked root-down into Space
+    armada (curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC,
+    10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
+  from: space-navy
+  to: space-armada

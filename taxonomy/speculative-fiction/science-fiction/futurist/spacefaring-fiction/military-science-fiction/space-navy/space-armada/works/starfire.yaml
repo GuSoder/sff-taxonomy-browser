@@ -5,7 +5,7 @@ authors:
 - Steve White
 - Shirley Meier
 first_published: 1990
-canonical_genre: space-navy
+canonical_genre: space-armada
 placement_status: accepted
 placement_rationale: 'The Starfire novels (Insurrection, Crusade, The Shiva Option, Exodus; The Stars at War omnibuses collect
   the earlier books): the Terran-led fleets fight a long war against the alien Arachnid Bugs, with ship design and fleet engagements
@@ -34,3 +34,9 @@ placement_history:
 - date: '2026-10-04'
   to: space-navy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Space navy by the kind of ship (state war fleet or one ship on her own); re-walked root-down into Space
+    armada (curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC,
+    10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
+  from: space-navy
+  to: space-armada

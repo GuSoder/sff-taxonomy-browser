@@ -1,0 +1,31 @@
+id: providence
+title: Providence
+authors:
+- Max Barry
+first_published: 2020
+canonical_genre: space-corvette
+placement_status: accepted
+placement_rationale: SFE barry_max calls Providence Military SF set in an interstellar Space Opera venue - a starship crew
+  beset by inimical aliens whose reports are scripted by the AI commanding their dreadnought; beside Starship Troopers, Old
+  Man's War and The Forever War.
+cover_curation:
+  status: ranked
+  selected_url: https://images4.penguinrandomhouse.com/cover/9780593085196
+  shows_english_title: true
+  review_method: one-pass
+classification_source:
+- https://sf-encyclopedia.com/entry/barry_max
+- https://en.wikipedia.org/wiki/Providence_(Barry_novel)
+placement_history:
+- date: '2026-09-25'
+  change: Moved to space-navy in the military-science-fiction four-way split (the curator ruling).
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live
+    tree; placement unchanged on site.'
+  previous_canonical_genre: space-navy
+- date: '2026-10-06'
+  reason: Split of Space navy by the kind of ship (state war fleet or one ship on her own); re-walked root-down into Space
+    corvette (curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC,
+    10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
+  from: space-navy
+  to: space-corvette

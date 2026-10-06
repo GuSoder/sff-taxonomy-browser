@@ -1,21 +1,17 @@
 id: space-navy
 label: Space navy
 parent: military-science-fiction
-children: []
+children:
+- space-armada
+- space-corvette
 image: 355-space-navy.webp
 definition: 'Military SF of ship crews and naval war: patrols, capital ships and engagements fought from the bridge. Split
-  2026-09-25 from Military science fiction (the curator ruling).'
+  2026-09-25 from Military science fiction (the curator ruling). Umbrella since 2026-10-06: Space armada, Space corvette (curator
+  "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC, 10:39:29
+  PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).'
 status: accepted
-works:
-- in-the-black
-- providence
-- starfire
-- the-lightship-chronicles
-- hearthspace
-- the-cruel-stars
-- prison-ship
-- the-lost-fleet
-- the-serrano-legacy
-- vattas-war
+works: []
 ruling: 'Split from military-science-fiction by the curator 2026-09-25 (phonemsg-01M3CEG3ECB1QSW6TRRV8KAFX6): four-way split
-  by warfare mode; split-with-umbrella keeps MSF on top.'
+  by warfare mode; split-with-umbrella keeps MSF on top. | Split-with-umbrella 2026-10-06: curator "Ok, execute" (2026-10-06
+  10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC, 10:39:29 PM; the names Space
+  armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)'
