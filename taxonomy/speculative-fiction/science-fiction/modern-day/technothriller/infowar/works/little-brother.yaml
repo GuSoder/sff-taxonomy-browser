@@ -1,0 +1,43 @@
+id: little-brother
+title: Little Brother
+authors:
+- Cory Doctorow
+first_published: 2008
+canonical_genre: infowar
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Modern day -> Technothriller. The sequence
+  is set in a recognizable present-day San Francisco (and California): real networks, cryptography, hacking and counter-surveillance
+  drive the thriller plot, so the Modern day gate is met before any Futurist branch. the curator''s no-duplicates rule (2026-09-23
+  11:51): the duplicate Postcyberpunk card was removed and this is the book''s only home.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/doctorow_cory
+- https://us.macmillan.com/series/littlebrother
+- https://us.macmillan.com/books/9781250757517/attacksurface/
+cover_curation:
+  status: complete
+  selected_url: https://mpd-biblio-covers.imgix.net/9780765323118.jpg
+  shows_english_title: true
+  review_method: one-pass official publisher series
+books:
+- title: Little Brother
+  first_published: 2008
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765323118.jpg
+- title: Homeland
+  first_published: 2013
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765333704.jpg
+- title: Attack Surface
+  first_published: 2020
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250757517.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/punk-science-fiction/cyberpunk to match
+    live tree; placement unchanged on site.'
+  previous_canonical_genre: cyberpunk
+- date: '2026-09-23'
+  change: 'No-duplicates rule (the curator 11:51): Postcyberpunk duplicate card removed; Technothriller kept as sole home
+    (Modern day gate). Card covers aligned to the Tor/Macmillan set.'
+- date: '2026-10-06'
+  reason: Split of Technothriller by the thriller engine; re-walked root-down into Infowar (curator "Approved" (phonemsg-01M48HCXES0WY2S9TMJYHC6PKV,
+    2026-10-06 2:00 PM; names workshopped in his messages 1:36-2:00 PM, parent word dropped by his own ruling)).
+  from: technothriller
+  to: infowar

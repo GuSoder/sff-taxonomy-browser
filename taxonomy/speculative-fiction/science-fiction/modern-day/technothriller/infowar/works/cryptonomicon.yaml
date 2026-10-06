@@ -3,7 +3,7 @@ title: Cryptonomicon
 authors:
 - Neal Stephenson
 first_published: 1999
-canonical_genre: technothriller
+canonical_genre: infowar
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -14,3 +14,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/11540410-L.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Technothriller by the thriller engine; re-walked root-down into Infowar (curator "Approved" (phonemsg-01M48HCXES0WY2S9TMJYHC6PKV,
+    2026-10-06 2:00 PM; names workshopped in his messages 1:36-2:00 PM, parent word dropped by his own ruling)).
+  from: technothriller
+  to: infowar

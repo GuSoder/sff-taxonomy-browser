@@ -73,3 +73,7 @@ The commission: a leaf under Political fantasy for post-feudal mass-franchise po
 - **The participle gift.** A word that is its own past participle signals completed state for free ("broadcast" - cast/cast); the -ed participle is the pattern behind Defeudalized. The question that surfaced it: "I want it somehow to be 'BroadcastEd..' but language doesn't work that way, why do I want that?" (phonemsg-01M3JAB4VDTN3BXW8PAF1T20F1).
 - **Phone-grid length matters.** The name sits in a mobile tile.
 - **Names carry feeling, not just parse.** The workshop's hardest question: "What word captures the mighty feeling of a roaring crowd on election night?" (phonemsg-01M3JBBDVAX0ZQRC8NMYJHR05Y).
+
+## Curator ruling: dropping the parent word (Technothriller split, 2026-10-06)
+
+Infowar, Spytech and Technocrisis do not carry the word "technothriller". The curator chose this himself while workshopping the names (phonemsg-01M48G07ZSFZVV8HN13KMJ0B0G 1:36 PM through phonemsg-01M48HCXES0WY2S9TMJYHC6PKV 2:00 PM "Approved"): short coined stems that name the engine of the story, "crisis is more than twice as evoking but only double the syllables". Rejected on the way: Cyber technothriller (sounds like cyberpunk), Technoshock (reads as the technology being shocking), Technofault, Technojam, Technocrash.

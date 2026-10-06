@@ -3,7 +3,7 @@ title: Shadowstorm
 authors:
 - G. T. Almasi
 first_published: 2012
-canonical_genre: technothriller
+canonical_genre: spytech
 placement_status: accepted
 placement_rationale: 'G. T. Almasi''s Shadowstorm (Blades of Winter, Hammer of Angels): cybernetically and biologically enhanced
   operatives fight a Cold War among the powers of a near-future world, a spy-thriller built on technical detail (Penguin Random
@@ -26,3 +26,8 @@ placement_history:
 - date: '2026-10-04'
   to: technothriller
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Technothriller by the thriller engine; re-walked root-down into Spytech (curator "Approved" (phonemsg-01M48HCXES0WY2S9TMJYHC6PKV,
+    2026-10-06 2:00 PM; names workshopped in his messages 1:36-2:00 PM, parent word dropped by his own ruling)).
+  from: technothriller
+  to: spytech
