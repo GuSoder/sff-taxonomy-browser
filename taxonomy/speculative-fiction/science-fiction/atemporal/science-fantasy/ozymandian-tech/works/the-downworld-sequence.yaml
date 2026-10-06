@@ -1,0 +1,26 @@
+id: the-downworld-sequence
+title: The Downworld Sequence
+authors:
+- Emma Mieko Candon
+first_published: 2023
+canonical_genre: ozymandian-tech
+placement_status: accepted
+placement_rationale: 'Emma Mieko Candon''s Downworld Sequence: on a world of ruined city-states once ruled by AI gods and
+  served by archivist priests, the corrupted remains of dead AIs are cobbled into giant ENGINES, and the survivors fight over
+  the dead gods'' legacy. Science fantasy built on the surviving works of a vanished high-tech order that people worship and
+  fear like magic. Walked root-down: Atemporal -> Science fantasy -> Ozymandian tech. Later volumes fold onto this fiction.'
+books:
+- title: The Archive Undying
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13602910-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13602910-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02944)
+placement_history:
+- date: '2026-10-04'
+  to: ozymandian-tech
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
