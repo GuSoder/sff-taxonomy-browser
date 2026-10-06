@@ -1,0 +1,35 @@
+id: howl-s-moving-castle
+title: Howl's Moving Castle
+authors:
+- Diana Wynne Jones
+first_published: 1986
+canonical_genre: courtship-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree re-walk: Speculative fiction -> Fantasy -> Fantasy realms -> Gothic fantasy -> Fantasy of
+  manners. Etiquette, class performance, courtship and social codes govern, matching the school’s Pax Britannica manners branch.'
+books:
+- title: Howl's Moving Castle
+  year: 1986
+  authors:
+  - Diana Wynne Jones
+  cover_url: https://covers.openlibrary.org/b/id/8783945-L.jpg
+- title: Castle in the Air
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/8783953-L.jpg
+- title: House of Many Ways
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6303056-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/8783945-L.jpg
+  shows_english_title: true
+  audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Fantasy of manners by what the social code is for (the match, rank, or reputation); re-walked root-down
+    into Courtship fantasy (curator "I trust your judgement, execute" (2026-10-06 11:35:15 PM, phonemsg-01M49J8T9GWMQ40DBCS8S66E1X)
+    over the three-way split of Fantasy of manners; the names Courtship fantasy, Posh fantasy and Gossip fantasy are his (phonemsg-01M49J1A03C9VZC399VNC55A6Z,
+    11:31:09 PM; phonemsg-01M49J6YJ46DN27ME76WSMB427, 11:34:14 PM); Regency Faerie Tales placed in Gossip on the agent judgement
+    he trusted).
+  from: fantasy-of-manners
+  to: courtship-fantasy

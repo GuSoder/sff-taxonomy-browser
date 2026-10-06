@@ -3,11 +3,11 @@ title: The Kingston Cycle
 authors:
 - C. L. Polk
 first_published: 2018
-canonical_genre: fantasy-of-manners
+canonical_genre: gossip-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree re-walk: Speculative fiction -> Fantasy -> Fantasy realms -> Gothic fantasy -> Fantasy of manners. The invented-world
-  drama is governed by class, concealed status, family duty, marriage, reputation, institutions and social reform, matching the Gothic School’s Pax Britannica
-  manners branch.'
+placement_rationale: 'Actual-tree re-walk: Speculative fiction -> Fantasy -> Fantasy realms -> Gothic fantasy -> Fantasy of
+  manners. The invented-world drama is governed by class, concealed status, family duty, marriage, reputation, institutions
+  and social reform, matching the Gothic School’s Pax Britannica manners branch.'
 classification_sources:
 - https://us.macmillan.com/books/9781250409225/thekingstoncycle/
 - https://us.macmillan.com/series/thekingstoncycle
@@ -31,3 +31,12 @@ books:
 - title: Soulstar
   first_published: 2021
   cover_url: https://mpd-biblio-covers.imgix.net/9781250203571.jpg
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Fantasy of manners by what the social code is for (the match, rank, or reputation); re-walked root-down
+    into Gossip fantasy (curator "I trust your judgement, execute" (2026-10-06 11:35:15 PM, phonemsg-01M49J8T9GWMQ40DBCS8S66E1X)
+    over the three-way split of Fantasy of manners; the names Courtship fantasy, Posh fantasy and Gossip fantasy are his (phonemsg-01M49J1A03C9VZC399VNC55A6Z,
+    11:31:09 PM; phonemsg-01M49J6YJ46DN27ME76WSMB427, 11:34:14 PM); Regency Faerie Tales placed in Gossip on the agent judgement
+    he trusted).
+  from: fantasy-of-manners
+  to: gossip-fantasy

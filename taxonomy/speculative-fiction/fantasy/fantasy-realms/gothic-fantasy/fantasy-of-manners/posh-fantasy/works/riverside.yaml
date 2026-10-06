@@ -3,7 +3,7 @@ title: Riverside
 authors:
 - Ellen Kushner
 first_published: 1987
-canonical_genre: fantasy-of-manners
+canonical_genre: posh-fantasy
 placement_status: accepted
 placement_rationale: 'Full root-down walk: Fantasy (the invented city of Riverside, no science engine) > Fantasy realms >
   Gothic fantasy (Pax Britannica manners branch) > Fantasy of manners, not Sword and sorcery (the swordsman Richard St Vier
@@ -29,3 +29,11 @@ placement_history:
 - date: '2026-10-04'
   to: fantasy-of-manners
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Fantasy of manners by what the social code is for (the match, rank, or reputation); re-walked root-down
+    into Posh fantasy (curator "I trust your judgement, execute" (2026-10-06 11:35:15 PM, phonemsg-01M49J8T9GWMQ40DBCS8S66E1X)
+    over the three-way split of Fantasy of manners; the names Courtship fantasy, Posh fantasy and Gossip fantasy are his (phonemsg-01M49J1A03C9VZC399VNC55A6Z,
+    11:31:09 PM; phonemsg-01M49J6YJ46DN27ME76WSMB427, 11:34:14 PM); Regency Faerie Tales placed in Gossip on the agent judgement
+    he trusted).
+  from: fantasy-of-manners
+  to: posh-fantasy

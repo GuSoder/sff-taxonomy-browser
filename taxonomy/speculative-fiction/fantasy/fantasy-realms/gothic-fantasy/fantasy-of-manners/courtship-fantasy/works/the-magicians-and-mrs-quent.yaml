@@ -3,7 +3,7 @@ title: The Magicians and Mrs. Quent
 authors:
 - Galen Beckett
 first_published: 2008
-canonical_genre: fantasy-of-manners
+canonical_genre: courtship-fantasy
 placement_status: accepted
 placement_rationale: 'A Regency-style secondary world of gentlemen, estates and courtship in the manner of Jane Austen and
   the Brontes, where Ivy Quent''s marriage, her family''s fortunes and the old magic beneath the drawing rooms drive the story.
@@ -29,3 +29,11 @@ placement_history:
 - date: '2026-10-04'
   to: fantasy-of-manners
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Fantasy of manners by what the social code is for (the match, rank, or reputation); re-walked root-down
+    into Courtship fantasy (curator "I trust your judgement, execute" (2026-10-06 11:35:15 PM, phonemsg-01M49J8T9GWMQ40DBCS8S66E1X)
+    over the three-way split of Fantasy of manners; the names Courtship fantasy, Posh fantasy and Gossip fantasy are his (phonemsg-01M49J1A03C9VZC399VNC55A6Z,
+    11:31:09 PM; phonemsg-01M49J6YJ46DN27ME76WSMB427, 11:34:14 PM); Regency Faerie Tales placed in Gossip on the agent judgement
+    he trusted).
+  from: fantasy-of-manners
+  to: courtship-fantasy
