@@ -1,0 +1,28 @@
+id: the-ring-of-fire
+title: The Ring of Fire
+authors:
+- Eric Flint
+- David Carrico
+first_published: 2018
+canonical_genre: time-strays
+placement_status: accepted
+placement_rationale: 'The Ring of Fire (1632) universe: the West Virginia town of Grantville is swept through space-time into
+  Central Europe in 1632 by an unexplained event, and the life of the up-timers in the seventeenth century is the story. One
+  fiction for the whole shared universe (rule 11j); later volumes fold onto it. First volume placed here is Carrico''s Letters
+  from Gronow, in which Lovecraft and Poe stories found in Grantville''s libraries are translated for a Magdeburg magazine.
+  Walked root-down: Science fiction -> Atemporal -> Time travel fiction -> Timeslips -> Time strays.'
+books:
+- title: Letters from Gronow
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/9398978-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9398978-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02201)
+placement_history:
+- date: '2026-10-04'
+  to: time-strays
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
