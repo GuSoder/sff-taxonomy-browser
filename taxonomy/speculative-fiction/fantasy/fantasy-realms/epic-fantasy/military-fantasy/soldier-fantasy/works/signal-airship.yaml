@@ -1,0 +1,27 @@
+id: signal-airship
+title: Signal Airship
+authors:
+- Robyn Bennis
+first_published: 2017
+canonical_genre: soldier-fantasy
+placement_status: accepted
+placement_rationale: Airship crews of a fighting corps, the unit's captain and crew followed from the inside through the war;
+  the unit is the story.
+books:
+- title: The Guns Above
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10235831-L.jpg
+- title: By Fire Above
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8657973-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10235831-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08270, MC08269)
+placement_history:
+- date: '2026-10-04'
+  to: soldier-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
