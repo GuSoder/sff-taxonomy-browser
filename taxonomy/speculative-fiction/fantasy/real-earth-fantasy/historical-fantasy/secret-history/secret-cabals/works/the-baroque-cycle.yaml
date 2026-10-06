@@ -1,0 +1,40 @@
+id: the-baroque-cycle
+title: The Baroque Cycle
+authors:
+- Neal Stephenson
+first_published: 2003
+canonical_genre: secret-cabals
+placement_status: accepted
+placement_rationale: SFE stephenson_neal says the Baroque Cycle is couched as historical novels but does have fantastical
+  elements - the possibly Immortal Enoch Root, who may be a Secret Master tasked with monitoring the creation of modernity;
+  hidden fantastical truth beneath documented Enlightenment history, beside Declare and The Aegypt Cycle.
+books:
+- title: Quicksilver
+  first_published: 2003
+  cover_url: https://covers.openlibrary.org/b/id/274243-L.jpg
+- title: The Confusion
+  first_published: 2004
+  cover_url: https://sf-encyclopedia.com/gallery.php?id=Stephenson-Baroque2.jpg
+- title: The System of the World
+  first_published: 2004
+  cover_url: https://sf-encyclopedia.com/gallery.php?id=Stephenson-Baroque3.jpg
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/274243-L.jpg
+  shows_english_title: true
+  review_method: one-pass official/SFE series review
+classification_source:
+- https://sf-encyclopedia.com/entry/stephenson_neal
+- https://en.wikipedia.org/wiki/Quicksilver_(Stephenson_novel)
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/historical-fantasy/secret-history
+    to match live tree; placement unchanged on site.'
+  previous_canonical_genre: secret-history
+- date: '2026-10-06'
+  reason: Split of Secret history by what the hidden truth is; re-walked root-down into Secret cabals (curator "Ok, approved"
+    (phonemsg-01M48WVSYY2A3WW6EH3W6TBTRX, 2026-10-06 5:21 PM) of the final set stated in phonemsg-01M48WTPYFEQY7GTG3CDMKCDB348R1
+    (Arcane peoples / Secret cabals / Untold magic) over the card lists posted in phonemsg-01M48WEXEM23B9MM9743PXMKT8; names
+    workshopped in his messages 5:09-5:20 PM).
+  from: secret-history
+  to: secret-cabals

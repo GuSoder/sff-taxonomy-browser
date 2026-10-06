@@ -1,18 +1,18 @@
 id: secret-history
 label: Secret history
 parent: historical-fantasy
-children: []
+children:
+- arcane-peoples
+- secret-cabals
+- untold-magic
 image: 136-secret-history.webp
-definition: Historical fantasy in which documented history is secretly explained by a hidden magical truth, and secrecy itself is a main theme. Open or
-  publicly known magic does not qualify.
+definition: 'Historical fantasy in which documented history is secretly explained by a hidden magical truth, and secrecy itself
+  is a main theme. Open or publicly known magic does not qualify. Umbrella since 2026-10-06: Arcane peoples, Secret cabals,
+  Untold magic (curator "Ok, approved" (phonemsg-01M48WVSYY2A3WW6EH3W6TBTRX, 2026-10-06 5:21 PM) of the final set stated in
+  phonemsg-01M48WTPYFEQY7GTG3CDMKCDB348R1 (Arcane peoples / Secret cabals / Untold magic) over the card lists posted in phonemsg-01M48WEXEM23B9MM9743PXMKT8;
+  names workshopped in his messages 5:09-5:20 PM).'
 status: accepted
-works:
-- declare
-- the-aegypt-cycle
-- the-once-and-future-witches
-- the-diabolist-s-library
-- the-innsmouth-legacy
-- the-baroque-cycle
-- the-water-dancer
-- the-doubled-edge
-- the-meq
+works: []
+ruling: ' | Split-with-umbrella 2026-10-06: curator "Ok, approved" (phonemsg-01M48WVSYY2A3WW6EH3W6TBTRX, 2026-10-06 5:21 PM)
+  of the final set stated in phonemsg-01M48WTPYFEQY7GTG3CDMKCDB348R1 (Arcane peoples / Secret cabals / Untold magic) over
+  the card lists posted in phonemsg-01M48WEXEM23B9MM9743PXMKT8; names workshopped in his messages 5:09-5:20 PM'
