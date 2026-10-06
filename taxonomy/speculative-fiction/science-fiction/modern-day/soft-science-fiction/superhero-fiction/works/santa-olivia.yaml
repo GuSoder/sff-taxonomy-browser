@@ -1,0 +1,29 @@
+id: santa-olivia
+title: Santa Olivia
+authors:
+- Jacqueline Carey
+first_published: 2009
+canonical_genre: superhero-fiction
+placement_status: accepted
+placement_rationale: 'Jacqueline Carey''s Santa Olivia and Saints Astray: Loup Garron, born in a walled-off town on the Texas-Mexico
+  buffer zone, is the fearless, superhumanly strong child of a genetically engineered soldier, and she turns into the masked
+  hero her forgotten town needs. The author''s own framing is her take on comic book superheroes; the powered hero and what
+  her acts do to the community are the story. Walked root-down: Modern day -> Soft science fiction -> Superhero fiction.'
+books:
+- title: Santa Olivia
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6682519-L.jpg
+- title: Saints Astray
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/10361129-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6682519-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04132, MC04131)
+placement_history:
+- date: '2026-10-04'
+  to: superhero-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
