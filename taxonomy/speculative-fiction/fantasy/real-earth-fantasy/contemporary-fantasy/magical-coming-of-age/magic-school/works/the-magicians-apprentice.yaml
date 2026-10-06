@@ -1,0 +1,24 @@
+id: the-magicians-apprentice
+title: The Magician's Apprentice
+authors:
+- Trudi Canavan
+first_published: 2009
+canonical_genre: magic-school
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real earth fantasy > Magical coming-of-age > Magic school. Tessia, a young woman of
+  a Kyralian estate, is apprenticed to a lord and learns to use healing and war magic in the years before the Guild.'
+books:
+- title: The Magician's Apprentice
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6298909-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6298909-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09775)
+placement_history:
+- date: '2026-10-04'
+  to: magic-school
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

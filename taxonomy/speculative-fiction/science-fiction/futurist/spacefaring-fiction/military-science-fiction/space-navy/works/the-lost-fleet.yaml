@@ -21,13 +21,19 @@ books:
 - title: Valiant
   year: 2008
   cover_url: https://covers.openlibrary.org/b/id/7125124-L.jpg
+- title: Relentless
+  year: 2009
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780441017089
+- title: Victorious
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6302060-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/284362-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC04049, MC04050, MC04048, MC04052)
+intake: ten-k walk v5 (queue ids MC04051, MC04053, MC04049, MC04050, MC04048, MC04052)
 placement_history:
 - date: '2026-10-04'
   to: space-navy

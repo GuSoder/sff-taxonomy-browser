@@ -1,0 +1,34 @@
+id: millenniums-rule
+title: Millennium's Rule
+authors:
+- Trudi Canavan
+first_published: 2014
+canonical_genre: gateway-multiverse-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy rifts > Multiverse fantasy > Gateway multiverse fantasy. Tyen, a sorcery student,
+  and Rielle, a dye merchant''s daughter, move between linked worlds through gateways, and each crossing changes what waits
+  on the other side.'
+books:
+- title: Thief's Magic
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10280002-L.jpg
+- title: Angel of Storms
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9338775-L.jpg
+- title: Successor's Promise
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8407732-L.jpg
+- title: Maker's Curse
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/11130457-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10280002-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09779, MC09770, MC09772, MC09769)
+placement_history:
+- date: '2026-10-04'
+  to: gateway-multiverse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

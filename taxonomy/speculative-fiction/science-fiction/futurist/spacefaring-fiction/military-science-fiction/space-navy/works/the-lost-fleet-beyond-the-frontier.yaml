@@ -1,0 +1,37 @@
+id: the-lost-fleet-beyond-the-frontier
+title: 'The Lost Fleet: Beyond the Frontier'
+authors:
+- Jack Campbell
+first_published: 2011
+canonical_genre: space-navy
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Spacefaring fiction > Military science fiction > Space navy. Admiral
+  Geary leads the Alliance fleet on a new voyage past the frontier to meet the aliens and hold off the Syndics, with fleet
+  actions fought from the bridge.'
+books:
+- title: Dreadnaught
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8600531-L.jpg
+- title: Invincible
+  year: 2012
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425256473
+- title: Guardian
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/isbn/9780425260500-L.jpg
+- title: Steadfast
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10301863-L.jpg
+- title: Leviathan
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425260555
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8600531-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04044, MC04042, MC04045, MC04047, MC04046)
+placement_history:
+- date: '2026-10-04'
+  to: space-navy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

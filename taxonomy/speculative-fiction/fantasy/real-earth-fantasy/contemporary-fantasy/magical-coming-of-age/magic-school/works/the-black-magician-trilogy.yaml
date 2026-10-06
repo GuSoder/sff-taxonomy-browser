@@ -1,0 +1,30 @@
+id: the-black-magician-trilogy
+title: The Black Magician Trilogy
+authors:
+- Trudi Canavan
+first_published: 2001
+canonical_genre: magic-school
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real earth fantasy > Magical coming-of-age > Magic school. Sonea, a slum girl with untrained
+  power, is taken into the Magicians'' Guild and learns the craft as a novice.'
+books:
+- title: The Magicians' Guild
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/isbn/9780061797675-L.jpg
+- title: The Novice
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/886264-L.jpg
+- title: The High Lord
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/886265-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780061797675-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09776, MC09777, MC09774)
+placement_history:
+- date: '2026-10-04'
+  to: magic-school
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
