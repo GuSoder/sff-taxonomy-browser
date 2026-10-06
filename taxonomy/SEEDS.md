@@ -27,3 +27,9 @@ Doctrine note: the def shipped tight to the seed's evidence; the curator's cover
 The curator, phonemsg-01M48J741HQYF2DJNMQ57TY9ZV (2:15:05 PM): "there are some lvl3 genres that actually are reasonable to expand ... I worry you have not touched them because of my lvl3 rule. One of them is Period SF (could do with more genres, split nice due to time, but Steampunk should not be buried.) Another is Hidden history SF (seems niche, but do not let my lvl3 rule stop this from growing)".
 
 Applies to: Period SF (speculative-fiction > science-fiction > historical > period-sf) and Hidden history SF (same parent). Both may take new children by seed or split. Period SF splits by time period, and new period leaves are siblings of Steampunk and Deco SF under Period SF: Steampunk stays exactly where it is and is never moved down a level. Every other level-3 genre keeps the level-3 rule (avoid seeding at level 3 or higher). Approval flow is unchanged: one "Approve seed?:" or "Approve split?:" at a time.
+
+## Ruling: Animal fantasy added to the level-3 relaxation (2026-10-06)
+
+The curator, phonemsg-01M48JCHHMJTXJ57A1JMQHSJHZ (2:18:03 PM): "Another 'lvl3 genre allowed for growth' is Animal Fantasy, almost silly to have as a thin leaf up here, could perhaps grow into a 'Fable' umbrella category."
+
+Animal fantasy (speculative-fiction > fantasy > real-earth-fantasy > animal-fantasy, 5 fictions) may now take children by seed or split. A Fable umbrella is a structural change: it is brought to him as an "Approve seed?:" or "Approve split?:" proposal when the books justify it, never created on my own. The relaxed level-3 genres are now Period SF, Hidden history SF and Animal fantasy; all others keep the limit.
