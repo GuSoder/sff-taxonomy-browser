@@ -1,0 +1,32 @@
+id: riddle-master
+title: Riddle-Master
+authors:
+- Patricia A. McKillip
+first_published: 1976
+canonical_genre: hidden-heir-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Quest fantasy. SFE calls this the culminating
+  Riddle-Master trilogy, and PRH centers Morgon’s riddle-bound quest across an invented realm. Political fantasy and Hard
+  magic are rejected: the journey and identity quest, not governance or a formalized system, drive it.'
+books:
+- title: The Riddle-Master of Hed
+  year: 1976
+  cover_url: https://covers.openlibrary.org/b/id/10104099-L.jpg
+- title: Heir of Sea and Fire
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/6989851-L.jpg
+- title: Harpist in the Wind
+  year: 1979
+  cover_url: https://covers.openlibrary.org/b/id/207133-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/10104099-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-28'
+  change: Moved to destiny-quest-fantasy in the classic-quest-fantasy split (the curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+- date: '2026-10-06'
+  reason: Split of Destiny quest fantasy by birthright or humble origin; re-walked root-down into Hidden heir quest fantasy
+    (curator "Approved" (phonemsg-01M47ZKTV6B58K5ZBRQC18Z9CS, 2026-10-06 8:49 AM)).
+  from: destiny-quest-fantasy
+  to: hidden-heir-quest-fantasy

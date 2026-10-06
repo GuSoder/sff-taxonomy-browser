@@ -3,7 +3,7 @@ title: The Heritage of Shannara
 authors:
 - Terry Brooks
 first_published: 1990
-canonical_genre: destiny-quest-fantasy
+canonical_genre: hidden-heir-quest-fantasy
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > High fantasy > Classic quest fantasy > Destiny quest
   fantasy. The last heirs of the Ohmsford and Elven lines, Par, Wren, Walker Boh and Quickening, are each marked by inherited
@@ -32,3 +32,8 @@ placement_history:
 - date: '2026-10-04'
   to: destiny-quest-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Destiny quest fantasy by birthright or humble origin; re-walked root-down into Hidden heir quest fantasy
+    (curator "Approved" (phonemsg-01M47ZKTV6B58K5ZBRQC18Z9CS, 2026-10-06 8:49 AM)).
+  from: destiny-quest-fantasy
+  to: hidden-heir-quest-fantasy

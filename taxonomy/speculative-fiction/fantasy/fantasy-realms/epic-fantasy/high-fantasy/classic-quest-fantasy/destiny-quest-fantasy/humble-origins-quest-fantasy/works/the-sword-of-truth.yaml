@@ -3,13 +3,11 @@ title: The Sword of Truth
 authors:
 - Terry Goodkind
 first_published: 1994
-canonical_genre: destiny-quest-fantasy
+canonical_genre: humble-origins-quest-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy
-  Realms -> Epic fantasy -> Quest fantasy -> Classic quest fantasy. Tor calls Wizard’s
-  First Rule the start of Goodkind’s epic Sword of Truth series; Richard, Kahlan and
-  allies undertake linked journeys against world-controlling oppressors and magical
-  evil.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy Realms -> Epic fantasy -> Quest fantasy
+  -> Classic quest fantasy. Tor calls Wizard’s First Rule the start of Goodkind’s epic Sword of Truth series; Richard, Kahlan
+  and allies undertake linked journeys against world-controlling oppressors and magical evil.'
 classification_sources:
 - https://torpublishinggroup.com/series/sword-of-truth/
 - https://torpublishinggroup.com/wizards-first-rule/?format=mass&isbn=9780812548051
@@ -76,5 +74,9 @@ placement_history:
     to match live tree; placement unchanged on site.'
   previous_canonical_genre: classic-quest-fantasy
 - date: '2026-09-28'
-  change: Moved to destiny-quest-fantasy in the classic-quest-fantasy split (the curator
-    ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+  change: Moved to destiny-quest-fantasy in the classic-quest-fantasy split (the curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+- date: '2026-10-06'
+  reason: Split of Destiny quest fantasy by birthright or humble origin; re-walked root-down into Humble origins quest fantasy
+    (curator "Approved" (phonemsg-01M47ZKTV6B58K5ZBRQC18Z9CS, 2026-10-06 8:49 AM)).
+  from: destiny-quest-fantasy
+  to: humble-origins-quest-fantasy
