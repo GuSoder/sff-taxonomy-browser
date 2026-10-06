@@ -45,3 +45,9 @@ Far shores fantasy (speculative-fiction > fantasy > fantasy-realms > far-shores-
 The curator, phonemsg-01M48JK2419MR8PWC2GMR8F504 (2:21:36 PM): "Comic fantasy realms is another one, just a leaf, no issue to grow". And phonemsg-01M48JKVTWBP3DW0TA10RX4RVS (2:22:02 PM): "Same with Cozy fantasy".
 
 Comic fantasy realms (fantasy > fantasy-realms > comic-fantasy-realms, 3 fictions) and Cozy fantasy (fantasy > fantasy-realms > cozy-fantasy, 7 fictions) are leaves at level 3 and may take children by seed or split, with a proposal to him each time. The relaxed level-3 genres are now: Period SF, Hidden history SF, Animal fantasy, Far shores fantasy, Comic fantasy realms and Cozy fantasy.
+
+## Ruling: Romantasy added to the level-3 relaxation, on a condition (2026-10-06)
+
+The curator, phonemsg-01M48JQ4MN5SH49JAZ7PKCBJBN (2:23:50 PM): "Romantasy is allowed to grow if there are books falling out of the two stereotypes there currently".
+
+Romantasy (fantasy > fantasy-realms > romantasy; children Enemies-to-lovers romantasy and Bonded romantasy, the two stereotypes) may take a new child by seed only when books fall outside both stereotypes: the books are the evidence, not the wish to grow. Each seed comes to him as an "Approve seed?:" proposal. Relaxed level-3 genres now: Period SF, Hidden history SF, Animal fantasy, Far shores fantasy, Comic fantasy realms, Cozy fantasy, Romantasy (conditional).
