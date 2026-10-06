@@ -1,0 +1,28 @@
+id: the-rule-of-luck
+title: The Rule of Luck
+authors:
+- Catherine Cerveny
+first_published: 2017
+canonical_genre: space-romance
+placement_status: accepted
+placement_rationale: 'In the year 2950 TriSystem, a Brazilian tarot reader and a Russian crime lord are thrown together across
+  two novels, on Mars and beyond; the romance between them is the spine of the plot, set in an interstellar society of enhancement
+  and organised crime. Walked root-down: Science fiction -> Space opera -> Space soap opera -> Space romance.'
+books:
+- title: The Rule of Luck
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/14737724-L.jpg
+- title: The Chaos of Luck
+  year: 2018
+  cover_url: https://images.penguinrandomhouse.com/cover/9780316510554
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14737724-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01484, MC01483)
+placement_history:
+- date: '2026-10-04'
+  to: space-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
