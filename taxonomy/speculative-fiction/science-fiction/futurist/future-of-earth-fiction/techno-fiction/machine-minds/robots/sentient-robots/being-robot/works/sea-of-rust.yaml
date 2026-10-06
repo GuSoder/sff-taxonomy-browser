@@ -1,0 +1,29 @@
+id: sea-of-rust
+title: Sea of Rust
+authors:
+- C. Robert Cargill
+first_published: 2017
+canonical_genre: being-robot
+placement_status: accepted
+placement_rationale: 'C. Robert Cargill''s Sea of Rust and its prequel Day Zero: the machines have won and humanity is gone,
+  and the books follow robots, the scavenger Brittle in the wasteland and the nanny robot Pounce at the revolution''s first
+  day, working out what they are and what they will do. One shared robot-uprising world, told from inside the machines. Walked
+  root-down: Futurist -> Future of Earth -> Techno fiction -> Machine minds -> Robots -> Sentient robots -> Being robot.'
+books:
+- title: Sea of Rust
+  year: 2017
+  cover_url: http://www.harpercollins.com/cdn/shop/files/9780062405852_c5e6d591-e827-4657-89b6-91b22643ebaf_1200x1200.jpg?v=1779302432
+- title: Day Zero
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10606346-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: http://www.harpercollins.com/cdn/shop/files/9780062405852_c5e6d591-e827-4657-89b6-91b22643ebaf_1200x1200.jpg?v=1779302432
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01278, MC01275)
+placement_history:
+- date: '2026-10-04'
+  to: being-robot
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
