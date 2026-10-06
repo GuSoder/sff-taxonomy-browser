@@ -1,0 +1,24 @@
+id: atlantida
+title: Atlantida
+authors:
+- Pierre Benoit
+first_published: 1919
+canonical_genre: lost-race
+placement_status: accepted
+placement_rationale: 'Officers lost in the Sahara find the hidden kingdom of Antinea, a surviving remnant of Atlantis ruled
+  by a queen: a hidden people and their forgotten city, so Lost race.'
+books:
+- title: Atlantida
+  year: 1919
+  cover_url: https://covers.openlibrary.org/b/id/8539053-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8539053-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07803)
+placement_history:
+- date: '2026-10-04'
+  to: lost-race
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

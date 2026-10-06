@@ -4,7 +4,7 @@ authors:
 - Edgar Rice Burroughs
 first_published: 1912
 last_published: 1965
-canonical_genre: lost-world-fiction
+canonical_genre: lost-wilds
 placement_status: accepted
 included_titles:
 - Tarzan of the Apes
@@ -86,3 +86,9 @@ cover_curation:
     url: https://www.edgarriceburroughs.com/erbauthorizedlibrary/images/TARZAN Madman(1).jpg?_t=1705801588
   - title: Tarzan and the Castaways
     url: https://www.edgarriceburroughs.com/erbauthorizedlibrary/images/TARZAN Castaways(1).jpg?_t=1705801592
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Lost world fiction by what the explorers find; re-walked root-down into Lost wilds (curator "Approved"
+    (phonemsg-01M47YBY60B9NT4M3DX993DTAX, 2026-10-06 8:28 AM)).
+  from: lost-world-fiction
+  to: lost-wilds
