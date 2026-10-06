@@ -4,7 +4,7 @@ authors:
 - Arthur C. Clarke
 - Stephen Baxter
 first_published: 2003
-canonical_genre: time-strays
+canonical_genre: timetribe
 placement_status: accepted
 placement_rationale: Earth is patched with armies and cities from many eras by an alien intervention; people from Alexander's
   Macedon to Mongol hordes and the British Empire stray into other eras and must live and fight there.
@@ -29,3 +29,9 @@ placement_history:
 - date: '2026-10-04'
   to: time-strays
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Time strays by who moves and whether they return; re-walked root-down into Timetribe (curator "Approved"
+    (phonemsg-01M48PCCBD5DHFBCK67K25AQ0T, 2026-10-06 3:27:52 PM) of the posted proposal phonemsg-01M48P8N1Z5VAJPYESVC4F9TZM
+    / phonemsg-01M48P8QX73JHE0BP8CADP4MGY; names workshopped in his messages 2:57-3:25 PM).
+  from: time-strays
+  to: timetribe

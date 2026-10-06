@@ -1,0 +1,35 @@
+id: time-and-again
+title: Time and Again
+authors:
+- Jack Finney
+first_published: 1970
+canonical_genre: timestranded
+placement_status: accepted
+placement_rationale: SFE calls it Time Travel equipoising SF and fantasy and identifies self-hypnosis as its key; the psychological,
+  non-machine transit into 1882 fits Timeslips. Card includes the direct sequel From Time to Time (1995).
+classification_sources:
+- https://sf-encyclopedia.com/entry/finney_jack
+- https://sf-encyclopedia.com/entry/hypnosis
+- https://www.simonandschuster.com/books/Time-and-Again/Jack-Finney/9781982146016
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/3841920-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+books:
+- title: Time and Again
+  year: 1970
+  cover_url: https://covers.openlibrary.org/b/id/3841920-L.jpg
+- title: From Time to Time
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/405925-L.jpg
+placement_history:
+- date: '2026-09-28'
+  to: time-strays
+  reason: 'Timeslips split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M503SY87HJJYFAH10788WH, by who moves.'
+- date: '2026-10-06'
+  reason: Split of Time strays by who moves and whether they return; re-walked root-down into Timestranded (curator "Approved"
+    (phonemsg-01M48PCCBD5DHFBCK67K25AQ0T, 2026-10-06 3:27:52 PM) of the posted proposal phonemsg-01M48P8N1Z5VAJPYESVC4F9TZM
+    / phonemsg-01M48P8QX73JHE0BP8CADP4MGY; names workshopped in his messages 2:57-3:25 PM).
+  from: time-strays
+  to: timestranded

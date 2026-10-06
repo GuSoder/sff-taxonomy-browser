@@ -1,0 +1,45 @@
+id: lest-darkness-fall
+title: Lest Darkness Fall
+authors:
+- L. Sprague de Camp
+first_published: 1939
+canonical_genre: timestranded
+placement_status: accepted
+placement_rationale: SFE and ISFDB describe a modern archaeologist transported to sixth-century Rome who uses knowledge and
+  inventions to prevent the Dark Ages and redirect history. Because his intervention changes the fall of Rome and therefore
+  centuries of world development, Deep alterations is the closest alternate-history leaf.
+classification_sources:
+- https://www.isfdb.org/cgi-bin/title.cgi?1638=
+- https://openlibrary.org/books/OL10682353M/Lest_Darkness_Fall
+- https://sf-encyclopedia.com/entry/de_camp_l_sprague
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL1731641W/Lest_Darkness_Fall
+  image_url: https://covers.openlibrary.org/b/id/7401260-L.jpg
+  cover_id: OL-7401260
+  beauty_score: 8.2
+  beauty_rationale: A colorful painted Roman scene centers the protagonist’s anachronistic wooden machinery amid soldiers
+    and citizens, with highly legible English title and author.
+  visually_reviewed_on: '2026-09-18'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  review_method: one-pass work search
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/historical/alternate-history/period-alterations/deep-alterations
+    to match live tree; placement unchanged on site.'
+  previous_canonical_genre: deep-alterations
+- date: '2026-09-23'
+  change: 'Moved from Deep alterations to Timeslips (the curator ruling 2026-09-23 09:48: any time travel goes Atemporal).
+    Walk: Speculative fiction -> Science fiction -> Atemporal -> Time travel fiction -> Timeslips'
+- date: '2026-09-28'
+  to: time-strays
+  reason: 'Timeslips split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M503SY87HJJYFAH10788WH, by who moves.'
+- date: '2026-10-06'
+  reason: Split of Time strays by who moves and whether they return; re-walked root-down into Timestranded (curator "Approved"
+    (phonemsg-01M48PCCBD5DHFBCK67K25AQ0T, 2026-10-06 3:27:52 PM) of the posted proposal phonemsg-01M48P8N1Z5VAJPYESVC4F9TZM
+    / phonemsg-01M48P8QX73JHE0BP8CADP4MGY; names workshopped in his messages 2:57-3:25 PM).
+  from: time-strays
+  to: timestranded

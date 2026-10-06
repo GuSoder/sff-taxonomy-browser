@@ -1,0 +1,29 @@
+id: a-connecticut-yankee-in-king-arthurs-court
+title: A Connecticut Yankee in King Arthur's Court
+authors:
+- Mark Twain
+first_published: 1889
+canonical_genre: timestranded
+placement_status: accepted
+placement_rationale: SFE identifies the work as science fiction and its Timeslip entry uses Hank Morgan's crowbar blow as
+  a classic transfer into the past. Penguin describes the nineteenth-century mechanic waking in sixth-century Camelot after
+  being knocked unconscious. The accidental unexplained transfer, not the inherited Arthurian story, is the defining mechanism.
+classification_sources:
+- https://sf-encyclopedia.com/entry/twain_mark
+- https://sf-encyclopedia.com/entry/timeslip
+- https://www.penguinrandomhouse.com/books/294590/a-connecticut-yankee-in-king-arthurs-court-by-mark-twain/
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/9168732-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+placement_history:
+- date: '2026-09-28'
+  to: time-strays
+  reason: 'Timeslips split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M503SY87HJJYFAH10788WH, by who moves.'
+- date: '2026-10-06'
+  reason: Split of Time strays by who moves and whether they return; re-walked root-down into Timestranded (curator "Approved"
+    (phonemsg-01M48PCCBD5DHFBCK67K25AQ0T, 2026-10-06 3:27:52 PM) of the posted proposal phonemsg-01M48P8N1Z5VAJPYESVC4F9TZM
+    / phonemsg-01M48P8QX73JHE0BP8CADP4MGY; names workshopped in his messages 2:57-3:25 PM).
+  from: time-strays
+  to: timestranded

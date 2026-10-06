@@ -1,21 +1,20 @@
 id: time-strays
 label: Time strays
 parent: timeslips
-children: []
+children:
+- timestranded
+- timetribe
+- timetide
 image: 407-time-strays.webp
-definition: 'Timeslips in which a person strays out of their own era and must live in another: the crossing is unexplained or natural and often one-off, and the life
-  in the other century is the story. Split 2026-09-28 from Timeslips by who moves (curator ruling).'
+definition: 'Timeslips in which a person strays out of their own era and must live in another: the crossing is unexplained
+  or natural and often one-off, and the life in the other century is the story. Split 2026-09-28 from Timeslips by who moves
+  (curator ruling). Umbrella since 2026-10-06: Timestranded, Timetribe, Timetide (curator "Approved" (phonemsg-01M48PCCBD5DHFBCK67K25AQ0T,
+  2026-10-06 3:27:52 PM) of the posted proposal phonemsg-01M48P8N1Z5VAJPYESVC4F9TZM / phonemsg-01M48P8QX73JHE0BP8CADP4MGY;
+  names workshopped in his messages 2:57-3:25 PM).'
 status: accepted
-works:
-- 11-22-63
-- a-connecticut-yankee-in-king-arthurs-court
-- lest-darkness-fall
-- time-and-again
-- the-dream-years
-- woman-on-the-edge-of-time
-- the-time-quintet
-- a-time-odyssey
-- axis-of-time
-- the-ring-of-fire
-ruling: 'Split by the curator 2026-09-28, EXECUTE ruling (phonemsg-01M3M503SY87HJJYFAH10788WH): split-with-umbrella by who moves - the person crosses, time bleeds,
-  or the person is caught. Matched Time set; ''time-strays'' is his coinage (phonemsg-01M3M4ZBWK8PKGX20D813QYNGD, ''Why not Time strays?'').'
+works: []
+ruling: 'Split by the curator 2026-09-28, EXECUTE ruling (phonemsg-01M3M503SY87HJJYFAH10788WH): split-with-umbrella by who
+  moves - the person crosses, time bleeds, or the person is caught. Matched Time set; ''time-strays'' is his coinage (phonemsg-01M3M4ZBWK8PKGX20D813QYNGD,
+  ''Why not Time strays?''). | Split-with-umbrella 2026-10-06: curator "Approved" (phonemsg-01M48PCCBD5DHFBCK67K25AQ0T, 2026-10-06
+  3:27:52 PM) of the posted proposal phonemsg-01M48P8N1Z5VAJPYESVC4F9TZM / phonemsg-01M48P8QX73JHE0BP8CADP4MGY; names workshopped
+  in his messages 2:57-3:25 PM'
