@@ -1,0 +1,28 @@
+id: the-crescent-city-novels
+title: The Crescent City Novels
+authors:
+- Bryan Camp
+first_published: 2018
+canonical_genre: occult-city
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real earth fantasy > Modern occult > Occult city. Post-Katrina New Orleans, with its
+  gods, vampires, curses and fortunes, is the engine: Jude Dubuisson and later the city''s hustlers deal with a hidden magical
+  economy running under the streets.'
+books:
+- title: The City of Lost Fortunes
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8571015-L.jpg
+- title: Gather the Fortunes
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8571019-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8571015-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01260, MC01259)
+placement_history:
+- date: '2026-10-04'
+  to: occult-city
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
