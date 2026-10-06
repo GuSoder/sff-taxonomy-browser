@@ -1,0 +1,30 @@
+id: tales-of-the-three-kings
+title: Tales of the Three Kings
+authors: Jack L. Chalker
+first_published: 2003
+canonical_genre: alien-expedition
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction (not fantasy: starships, alien minds, a triple planetary system
+  - SFE: Chalker''s arena shifted into the far future) > Futurist (not Atemporal, Historical or Modern day: far-future humanity
+  among the stars) > Alien fiction (not Spacefaring fiction, Future of Earth fiction, Hard sci-fi or Otherworldly fiction:
+  the engine is the encounter with the alien intelligence behind the Three Kings system, not the voyage itself) > First contact
+  (humanity''s first consequential encounter with this alien intelligence; humans travel outward to meet it) > Alien expedition
+  (not Near-future or Far-future first contact by era: the story is an armed expedition sent to the third planet, Kaspar,
+  joining the marooned survivors of the first two expeditions to face the alien minds - a mission voyage away from Earth,
+  Baen). Only volume 3, Kaspar''s Box (2003), is on the intake list; volumes 1-2 (Balshazzar''s Serpent, Melchior''s Fire)
+  fold on if they surface. One universe fiction per rule 11j (ISFDB series: Tales of the Three Kings).'
+books:
+- title: Kaspar's Box
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/476824-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/476824-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04069)
+placement_history:
+- date: '2026-10-04'
+  to: alien-expedition
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
