@@ -1,0 +1,29 @@
+id: the-dragon-wizard
+title: The Dragon Wizard
+authors:
+- David Carrico
+first_published: 2020
+canonical_genre: humble-origins-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Evann, a curious village boy who runs off in search of answers, befriends the dragon Rufous, becomes
+  a wizard and fights an evil wizard and a rival dragon, rising from an ordinary life to magic power; the second book follows
+  his training and the dragons'' war with the goblins. Walked root-down: Fantasy -> Fantasy realms -> Epic fantasy -> High
+  fantasy -> Classic quest fantasy -> Destiny quest fantasy -> Humble origins quest fantasy.'
+books:
+- title: The Dragon's Boy
+  year: 2020
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781953034151-lg.jpg
+- title: The Dragon's Apprentice
+  year: 2020
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781953034359-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781953034151-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02204, MC02203)
+placement_history:
+- date: '2026-10-04'
+  to: humble-origins-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
