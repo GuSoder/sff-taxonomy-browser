@@ -51,3 +51,9 @@ Comic fantasy realms (fantasy > fantasy-realms > comic-fantasy-realms, 3 fiction
 The curator, phonemsg-01M48JQ4MN5SH49JAZ7PKCBJBN (2:23:50 PM): "Romantasy is allowed to grow if there are books falling out of the two stereotypes there currently".
 
 Romantasy (fantasy > fantasy-realms > romantasy; children Enemies-to-lovers romantasy and Bonded romantasy, the two stereotypes) may take a new child by seed only when books fall outside both stereotypes: the books are the evidence, not the wish to grow. Each seed comes to him as an "Approve seed?:" proposal. Relaxed level-3 genres now: Period SF, Hidden history SF, Animal fantasy, Far shores fantasy, Comic fantasy realms, Cozy fantasy, Romantasy (conditional).
+
+## Standing watch rule: repeated contrived placements or holds point to a missing genre (2026-10-06)
+
+The curator, phonemsg-01M48JWVW56J8R4W0FA14GAMD1 (2:26:58 PM): "If you see some certain type of book repeatedly ending up in contrived locations, or (I hope you don't ever do if it's clearly spec fic:) getting hold - bring it up with me, perhaps they are a new kind of lvl3 genre".
+
+When a type of book keeps landing in leaves that only fit it by stretching, or keeps going to hold or the hanging list although it is clearly spec fic, the pattern is reported to him with the evidence (which books, where they landed or why they waited) as a possible new level-3 genre. Holds stay limited to the listed non-spec-fic or out-of-scope categories; clear spec fic never goes to hold.
