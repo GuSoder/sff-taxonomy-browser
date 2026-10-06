@@ -9,6 +9,13 @@ placement_rationale: 'Epistolary whimsy: two scholars fall in love by letter acr
 classification_sources:
 - https://www.kirkusreviews.com/book-reviews/sylvie-cathrall/a-letter-to-the-luminous-deep/
 intake: 'gap-2022 awards tier #5 (LocusRec2024-First)'
+books:
+- title: A Letter to the Luminous Deep
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14835998-L.jpg
+- title: A Letter from the Lonesome Shore
+  year: 2025
+  cover_url: https://images.penguinrandomhouse.com/cover/9780316565554
 cover_curation:
   status: complete
   source: Open Library
