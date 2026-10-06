@@ -1,0 +1,33 @@
+id: the-serrano-legacy
+title: The Serrano Legacy
+authors:
+- Elizabeth Moon
+first_published: 1997
+canonical_genre: space-navy
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction > Futurist > Spacefaring fiction > Military science fiction (fleet
+  officers, courts-martial, fleet actions) > Space navy, not Space command (the heroes are captains and bridge officers, not
+  the war directors), not Space academy (careers, not training), not Interstellar court politics (the Familias Regnant intrigue
+  is the backdrop): retired captain Heris Serrano and naval officer Esmay Suiza run ships and fight a fleet war. Serrano Legacy
+  sequence as one fiction. The omnibus Heris Serrano (MC02861) is held.'
+books:
+- title: Once a Hero
+  year: 1997
+  cover_url: cover-moon-serrano.jpg
+- title: Rules of Engagement
+  year: 1998
+- title: The Serrano Connection
+  year: 2002
+- title: The Serrano Succession
+  year: 2003
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-moon-serrano.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02868, MC02870, MC02874, MC02875)
+placement_history:
+- date: '2026-10-04'
+  to: space-navy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

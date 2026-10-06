@@ -1,0 +1,43 @@
+id: paksworld
+title: Paksworld
+authors:
+- Elizabeth Moon
+first_published: 1988
+canonical_genre: paladin-hero
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Fantasy (Paksworld, no science engine) > Fantasy realms > Epic fantasy > Heroic
+  fantasy (hero-centered, sorted by the protagonist''s power, not by war or court) > Caster heroes (power is sacred, not martial
+  skill alone) > Paladin hero, not Warrior hero (Paksenarrion starts as a sheepfarmer''s daughter turned soldier, but her
+  arc ends in Gird''s paladinhood: martial office joined to sacred power) and not Cleric hero (she fights; she is not a priest).
+  Rule 11j: the Deed of Paksenarrion (1988-89) and the later Paladin''s Legacy books (2010-14: new kings, a mercenary company,
+  Gird''s legacy) share one universe, so they are one fiction placed by its anchor. The omnibuses The Deed of Paksenarrion
+  (MC02872) and The Legacy of Gird (MC02873) repackage these books and are held (source http://www.elizabethmoon.com/books-paksworld.html).'
+books:
+- title: Sheepfarmer's Daughter
+  year: 1988
+  cover_url: cover-moon-pak.jpg
+- title: Divided Allegiance
+  year: 1988
+- title: Oath of Gold
+  year: 1989
+- title: Oath of Fealty
+  year: 2010
+- title: Kings of the North
+  year: 2011
+- title: Echoes of Betrayal
+  year: 2013
+- title: Limits of Power
+  year: 2013
+- title: Crown of Renewal
+  year: 2014
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-moon-pak.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02871, MC02858, MC02867, MC02866, MC02863, MC02859, MC02864, MC02857)
+placement_history:
+- date: '2026-10-04'
+  to: paladin-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
