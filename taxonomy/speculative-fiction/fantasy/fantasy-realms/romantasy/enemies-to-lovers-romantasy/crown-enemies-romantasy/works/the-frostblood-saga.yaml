@@ -18,13 +18,17 @@ books:
 - title: Nightblood
   year: 2019
   cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780316273367
+- title: Daughter of the Wild Gods
+- title: The Cursed Queens Daughter
+- title: The Forest Kings Daughter
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/8402715-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC02900, MC02899, MC02901)
+intake: ten-k walk v5 (queue ids MC02900, MC02899, MC02901) + folded MC02898, MC02902, MC02903 (next-generation novels, same
+  world, rule 11j)
 placement_history:
 - date: '2026-10-04'
   to: crown-enemies-romantasy
