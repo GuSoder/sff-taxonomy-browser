@@ -1,0 +1,62 @@
+id: the-parasolverse
+title: The Parasolverse
+authors:
+- Gail Carriger
+first_published: 2009
+canonical_genre: nightfolk-in-gaslight
+placement_status: accepted
+placement_rationale: 'One shared universe (rule 11j) across three linked series: The Parasol Protectorate (Soulless, Changeless,
+  Blameless, Heartless), the Finishing School books (Etiquette & Espionage, Curtsies & Conspiracies, Waistcoats & Weaponry,
+  Manners & Mutiny) and The Custard Protocol (Prudence, Imprudence, Competence, Reticence). Vampires, werewolves and a soulless
+  preternatural live openly in Victorian London society, so the life and law of these nonhuman folk beside humans is the story.
+  Walked root-down: Fantasy -> Real-earth fantasy -> Historical fantasy -> Period fantasy -> Industrial age fantasy -> Gaslight
+  fantasy -> Folklore in gaslight -> Monsters in gaslight -> Nightfolk in gaslight.'
+books:
+- title: Soulless
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6294570-L.jpg
+- title: Changeless
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6298844-L.jpg
+- title: Blameless
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8402993-L.jpg
+- title: Heartless
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/15141832-L.jpg
+- title: Etiquette & Espionage
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7269352-L.jpg
+- title: Curtsies & Conspiracies
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7306366-L.jpg
+- title: Waistcoats & Weaponry
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10361295-L.jpg
+- title: Manners & Mutiny
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8402444-L.jpg
+- title: Prudence
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9138831-L.jpg
+- title: Imprudence
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8435409-L.jpg
+- title: Competence
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8803891-L.jpg
+- title: Reticence
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8750367-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6294570-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03251, MC03242, MC03241, MC03246, MC03245, MC03244, MC03253, MC03248, MC03249, MC03247,
+  MC03243, MC03250)
+placement_history:
+- date: '2026-10-04'
+  to: nightfolk-in-gaslight
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
