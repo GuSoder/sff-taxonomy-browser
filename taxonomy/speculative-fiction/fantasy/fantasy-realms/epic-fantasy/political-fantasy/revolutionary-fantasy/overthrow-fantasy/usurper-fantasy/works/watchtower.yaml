@@ -1,0 +1,31 @@
+id: watchtower
+title: Watchtower
+authors:
+- Elizabeth A. Lynn
+first_published: 1979
+canonical_genre: usurper-fantasy
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Fantasy (invented north, no science engine) > Fantasy realms (secondary world of
+  Arun and its keeps) > Epic fantasy (a war for a region''s rule, not one quester; Heroic fantasy rejected because the book
+  follows two men and a cause, not one hero''s class power; Military fantasy rejected because the war is the setting, not
+  the story) > Political fantasy (the engine is who holds the keep and why) > Revolutionary fantasy, not Court intrigue (no
+  court game; the fight is open and from below) > Overthrow fantasy (a state remade from within; Rebel fantasy rejected because
+  Col is a southern mercenary captain, not an occupying empire) > Usurper fantasy, not Regicide fantasy (the lord dies in
+  the opening seizure and the story is about the aftermath), not Proletariat or Vengeance war fantasy: mercenary Col Istor
+  kills Lord Athor and holds Tornor Keep, and the lord''s son Errel and watch commander Ryke work to unseat the false ruler.
+  Lynn, Chronicles of Tornor vol. 1; World Fantasy Award 1980 (Wikipedia, PRH). Only Watchtower is in the queue.'
+books:
+- title: Watchtower
+  year: 1979
+  cover_url: cover-watchtower.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-watchtower.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02793)
+placement_history:
+- date: '2026-10-04'
+  to: usurper-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

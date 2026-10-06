@@ -1,0 +1,47 @@
+id: the-symphony-of-ages
+title: The Symphony of Ages
+authors:
+- Elizabeth Haydon
+first_published: 2000
+canonical_genre: revival-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Fantasy (invented continent, no science engine) > Fantasy realms > Epic fantasy
+  > High fantasy (the governing narrative is a journey through an imaginary world, not a war''s campaigns or a court''s politics,
+  so not Military or Political fantasy) > Classic quest fantasy, the Tolkien-template line (not Revisionist quest fantasy:
+  the template is played straight; not Fairytalesque quest fantasy: no fairy-tale grammar) > Fellowship quest fantasy, not
+  Destiny quest fantasy (Rhapsody the Namer, Achmed and Grunthor travel as a bound party against an ancient dark, the F''dor
+  fire demon; the book is not about one marked person''s rise) and not Dark quest fantasy (the register is romantic and adventurous)
+  > Revival quest fantasy, not Evergreen quest fantasy (Rhapsody is 2000, in the later revival ''from the late 1990s on'').
+  Nine books, Rhapsody to The Weaver''s Lament (Macmillan series page https://us.macmillan.com/series/thesymphonyofages).
+  The 2014 ''The Symphony of Ages'' (MC02843) is a series ebook, not a novel, and is held.'
+books:
+- title: Rhapsody
+  year: 2000
+  cover_url: cover-rhapsody-haydon.jpg
+- title: Prophecy
+  year: 2001
+- title: Destiny
+  year: 2002
+- title: Requiem for the Sun
+  year: 2003
+- title: Elegy for a Lost Star
+  year: 2005
+- title: The Assassin King
+  year: 2007
+- title: The Merchant Emperor
+  year: 2014
+- title: The Hollow Queen
+  year: 2015
+- title: The Weaver's Lament
+  year: 2016
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-rhapsody-haydon.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02839, MC02837, MC02835, MC02838, MC02836, MC02840, MC02842, MC02841, MC02844)
+placement_history:
+- date: '2026-10-04'
+  to: revival-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
