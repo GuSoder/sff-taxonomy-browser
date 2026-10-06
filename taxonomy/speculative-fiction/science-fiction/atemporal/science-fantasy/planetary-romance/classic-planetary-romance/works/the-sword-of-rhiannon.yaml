@@ -1,0 +1,26 @@
+id: the-sword-of-rhiannon
+title: The Sword of Rhiannon
+authors:
+- Leigh Brackett
+first_published: 1949
+canonical_genre: classic-planetary-romance
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Atemporal -> Science fantasy -> Planetary
+  romance. SFE calls it a Mars novel combining adventure with a strongly romantic vision of a deeply ancient Martian civilization;
+  the exotic planet supplies fantasy-like sweep without actual magic.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/brackett_leigh
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-the-sword-of-rhiannon.jpg
+  cover_id: 5543455
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-search single pass
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Planetary romance by how the hero stands to Earth; re-walked root-down into Classic planetary romance (curator
+    "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).
+  from: planetary-romance
+  to: classic-planetary-romance

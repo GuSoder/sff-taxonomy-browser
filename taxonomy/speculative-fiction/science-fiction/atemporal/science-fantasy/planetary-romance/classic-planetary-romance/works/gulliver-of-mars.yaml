@@ -3,7 +3,7 @@ title: Gulliver of Mars
 authors:
 - Edwin L. Arnold
 first_published: 1905
-canonical_genre: planetary-romance
+canonical_genre: classic-planetary-romance
 placement_status: accepted
 placement_rationale: 'Edwin L. Arnold''s Gulliver of Mars (1905; Baen 2013): a US army lieutenant is carried to Mars by magical
   means and adventures through its strange civilizations and a Martian princess''s romance, the pulp model for Barsoom. Root-down:
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: planetary-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Planetary romance by how the hero stands to Earth; re-walked root-down into Classic planetary romance (curator
+    "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).
+  from: planetary-romance
+  to: classic-planetary-romance

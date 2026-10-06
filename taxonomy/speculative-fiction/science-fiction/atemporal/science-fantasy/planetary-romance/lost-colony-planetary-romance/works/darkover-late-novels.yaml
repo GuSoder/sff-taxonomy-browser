@@ -4,7 +4,7 @@ authors:
 - Marion Zimmer Bradley
 - Deborah J. Ross
 first_published: 1998
-canonical_genre: planetary-romance
+canonical_genre: lost-colony-planetary-romance
 placement_status: accepted
 placement_rationale: 'Walk: Science fantasy > Planetary romance. Darkover, a lost Terran colony on a red-sun world where telepathic
   Comyn clans wield laran and the Terran Empire presses in; the world carries the story (Forbidden Circle, Clingfire trilogy,
@@ -45,3 +45,8 @@ placement_history:
 - date: '2026-10-04'
   to: planetary-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Planetary romance by how the hero stands to Earth; re-walked root-down into Lost-colony planetary romance
+    (curator "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).
+  from: planetary-romance
+  to: lost-colony-planetary-romance

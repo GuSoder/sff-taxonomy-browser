@@ -3,7 +3,7 @@ title: Antasy
 authors:
 - Clark Thomas Carlton
 first_published: 2011
-canonical_genre: planetary-romance
+canonical_genre: far-future-planetary-romance
 placement_status: accepted
 placement_rationale: 'Clark Thomas Carlton''s Antasy series: in the distant future humans have evolved to insect size on the
   world of Dranveria, and their food, weapons, art and religion are woven from the insects they ride, farm and fight, across
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: planetary-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Planetary romance by how the hero stands to Earth; re-walked root-down into Far-future planetary romance
+    (curator "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).
+  from: planetary-romance
+  to: far-future-planetary-romance

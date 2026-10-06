@@ -1,19 +1,15 @@
 id: planetary-romance
 label: Planetary romance
 parent: science-fantasy
-children: []
+children:
+- classic-planetary-romance
+- lost-colony-planetary-romance
+- far-future-planetary-romance
 image: 168-planetary-romance.webp
-definition: Science fantasy organized around adventure on an exotic alien world or habitat, where the setting carries the sweep and furniture of fantasy
-  without meeting the Hard science fantasy bar.
+definition: 'Science fantasy organized around adventure on an exotic alien world or habitat, where the setting carries the
+  sweep and furniture of fantasy without meeting the Hard science fantasy bar. Umbrella since 2026-10-06: split-with-umbrella
+  by how the hero stands to Earth - Classic planetary romance, Lost-colony planetary romance, Far-future planetary romance
+  (curator "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).'
 status: accepted
-works:
-- the-dragonriders-of-pern
-- majipoor
-- aetherbound
-- northwest-smith
-- the-space-trilogy
-- the-sword-of-rhiannon
-- war-of-the-maps
-- gulliver-of-mars
-- darkover-late-novels
-- antasy
+works: []
+ruling: curator "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)
