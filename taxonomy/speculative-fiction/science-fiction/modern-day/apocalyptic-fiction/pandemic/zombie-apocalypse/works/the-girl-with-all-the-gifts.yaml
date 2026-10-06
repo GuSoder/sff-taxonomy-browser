@@ -1,0 +1,29 @@
+id: the-girl-with-all-the-gifts
+title: The Girl With All the Gifts
+authors:
+- M. R. Carey
+first_published: 2014
+canonical_genre: zombie-apocalypse
+placement_status: accepted
+placement_rationale: 'M. R. Carey''s Hungry plague pair: a fungal infection turns most of humanity into ravenous Hungries,
+  and the children who keep their minds, Melanie and later Stephen, are what the survivors study, fear and fight over. The
+  infected are the monsters and the victims at once. Walked root-down: Modern day -> Apocalyptic fiction -> Pandemic -> Zombie
+  apocalypse. The Boy on the Bridge is set in the same plague world, so it folds onto this fiction.'
+books:
+- title: The Girl With All the Gifts
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/15204549-L.jpg
+- title: The Boy on the Bridge
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10863050-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15204549-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06239, MC06237)
+placement_history:
+- date: '2026-10-04'
+  to: zombie-apocalypse
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
