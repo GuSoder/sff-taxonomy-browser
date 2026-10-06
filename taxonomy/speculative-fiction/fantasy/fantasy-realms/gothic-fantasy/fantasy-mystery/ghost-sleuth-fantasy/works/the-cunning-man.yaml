@@ -1,0 +1,32 @@
+id: the-cunning-man
+title: The Cunning Man
+authors:
+- D.J. Butler
+- Aaron Michael Ritchey
+first_published: 2019
+canonical_genre: ghost-sleuth-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Gothic fantasy > Fantasy mystery > Ghost sleuth fantasy. Hiram Woolley,
+  a dowser and folk-magic cunning man in Depression-era Utah, and his adopted son Michael work out murders with the help of
+  ghosts who ask for justice.'
+books:
+- title: The Cunning Man
+  year: 2019
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982124168-lg.jpg
+- title: The Jupiter Knife
+  year: 2020
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982125189-lg.jpg
+- title: The Familiar Spirit
+  year: 2025
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781668072929-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982124168-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02043, MC02045, MC02044)
+placement_history:
+- date: '2026-10-04'
+  to: ghost-sleuth-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

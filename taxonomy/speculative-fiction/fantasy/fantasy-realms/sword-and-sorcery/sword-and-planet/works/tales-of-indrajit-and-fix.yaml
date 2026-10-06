@@ -1,0 +1,28 @@
+id: tales-of-indrajit-and-fix
+title: Tales of Indrajit and Fix
+authors:
+- D.J. Butler
+first_published: 2020
+canonical_genre: sword-and-planet
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Sword and sorcery > Sword and planet. Indrajit, the last epic poet of his people, and
+  Fix, a foundling mercenary of the ancient city of Kish, take jobs across a far-future world of palaces, gray lords and old
+  gods.'
+books:
+- title: In the Palace of Shadow and Joy
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10328319-L.jpg
+- title: Among the Gray Lords
+  year: 2024
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982193133-lg_1.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10328319-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02041, MC02039)
+placement_history:
+- date: '2026-10-04'
+  to: sword-and-planet
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

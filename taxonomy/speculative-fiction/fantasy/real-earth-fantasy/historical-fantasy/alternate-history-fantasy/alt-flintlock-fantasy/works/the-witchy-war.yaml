@@ -1,0 +1,34 @@
+id: the-witchy-war
+title: The Witchy War
+authors:
+- D.J. Butler
+first_published: 2017
+canonical_genre: alt-flintlock-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Alternate history fantasy > Alt flintlock fantasy. Sarah Calhoun, secret
+  daughter of a dead empress, fights for a throne in an alternate Jacksonian America where Appalachian folk magic, necromancers
+  and a goddess''s Eden drive the history.'
+books:
+- title: Witchy Eye
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8539211-L.jpg
+- title: Witchy Winter
+  year: 2018
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781481483148-lg.jpg
+- title: Witchy Kingdom
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10142501-L.jpg
+- title: Serpent Daughter
+  year: 2020
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781982124977-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8539211-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02046, MC02048, MC02047, MC02042)
+placement_history:
+- date: '2026-10-04'
+  to: alt-flintlock-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
