@@ -3,9 +3,13 @@ title: Shattered Sea
 authors:
 - Joe Abercrombie
 first_published: 2015
-canonical_genre: dynastic-spy-games
+canonical_genre: dynastic-wars
 placement_status: accepted
-placement_rationale: Viking-like Shattered Sea; succession engine (Yarvi's crippled-heir kingship) through Half a War.
+placement_rationale: 'Source-read (2026-10-07): Half a King is revenge and survival after a usurpation, a slave-chained sea
+  journey; Half the World follows a warrior girl and Yarvi''s alliance voyage; Half a War is the High King''s war of conquest
+  and the alliance to stop it, with Skara reclaiming her birthright. Viking-flavored war saga with a political layer, so Dynastic
+  wars, not Dynastic spy games. Walked root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Political fantasy -> Court
+  intrigue -> Dynastic intrigues -> Dynastic wars.'
 books:
 - title: Half a King
   year: 2015
@@ -44,3 +48,10 @@ placement_history:
     era leaves are dissolved by this ruling; Navola stays on the umbrella pending his ruling).
   from: thrones-at-war
   to: dynastic-spy-games
+- date: '2026-10-07'
+  reason: 'Correction of the agent placement after the curator challenge (phonemsg-01M49QTH8E64S53TC2MRD6NRDE, 2026-10-07
+    1:12:18 AM: "the first book is all cold Viking stuff out on the waters") and a source read of the trilogy (Abercrombie,
+    PW, Kirkus: revenge, survival and war at sea with a thin political layer; the third book is a war of conquest and the
+    alliance against it); re-walked root-down into Dynastic wars.'
+  from: dynastic-spy-games
+  to: dynastic-wars
