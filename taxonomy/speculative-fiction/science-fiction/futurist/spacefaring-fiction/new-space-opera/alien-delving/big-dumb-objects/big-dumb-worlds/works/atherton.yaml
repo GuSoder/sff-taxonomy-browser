@@ -1,0 +1,29 @@
+id: atherton
+title: Atherton
+authors:
+- Patrick Carman
+first_published: 2008
+canonical_genre: big-dumb-worlds
+placement_status: accepted
+placement_rationale: 'Atherton is an artificial three-tiered satellite world built as a refuge from a dying Earth; its inhabitants
+  have lost their memories and the story is the discovery of the world''s collapsing structure and its secrets, ending with
+  the trip down to Earth. The object is the setting, entered, crossed and lived in. Walked root-down: Science fiction -> Futurist
+  -> Spacefaring -> New space opera -> Alien delving -> Big dumb objects -> Big dumb worlds.'
+books:
+- title: Rivers of Fire
+  year: 2008
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316166737.jpg
+- title: The Dark Planet
+  year: 2009
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316166751.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.hachettebookgroup.com/wp-content/uploads/2017/06/9780316166737.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07611, MC07612)
+placement_history:
+- date: '2026-10-04'
+  to: big-dumb-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
