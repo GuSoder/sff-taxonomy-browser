@@ -3,10 +3,10 @@ title: Earthsea
 authors:
 - Ursula K. Le Guin
 first_published: 1968
-canonical_genre: mage-hero
+canonical_genre: fledgling-mage
 placement_status: accepted
-placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary
-  power source matches Mage Hero, not merely the setting or tone.'
+placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches Mage Hero,
+  not merely the setting or tone.'
 cover_url: https://covers.openlibrary.org/b/id/8784027-L.jpg
 shows_english_title: true
 books:
@@ -15,11 +15,10 @@ books:
   authors:
   - Ursula K. Le Guin
   cover_url: https://covers.openlibrary.org/b/id/14608471-L.jpg
-  blurb: Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless
-    Sparrowhawk. In his hunger for power and knowledge, he tampered with long-held
-    secrets and loosed a terrible shadow upon the world. This is the tale of his testing,
-    how he mastered the mighty words of power, tamed an ancient dragon, and crossed
-    death's threshold to restore the balance.
+  blurb: Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk. In his hunger for power
+    and knowledge, he tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tale of his
+    testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore
+    the balance.
   blurb_source: https://openlibrary.org/works/OL59798W
   buy:
   - label: Adlibris
@@ -50,8 +49,7 @@ books:
   authors:
   - Ursula K. Le Guin
   cover_url: https://covers.openlibrary.org/b/id/101325-L.jpg
-  blurb: Arha's isolated existence as high priestess in the tombs of Atuan is jarred
-    by a thief who seeks a special treasure.
+  blurb: Arha's isolated existence as high priestess in the tombs of Atuan is jarred by a thief who seeks a special treasure.
   blurb_source: https://openlibrary.org/works/OL59801W
   buy:
   - label: Adlibris
@@ -76,10 +74,9 @@ books:
   authors:
   - Ursula K. Le Guin
   cover_url: https://covers.openlibrary.org/b/id/368813-L.jpg
-  blurb: Darkness threatens to overtake Earthsea. As the world and its wizards are
-    losing their magic, Ged - powerful Archmage, wizard, and dragonlord - embarks
-    on a sailing journey with highborn young prince Arren. They travel far beyond
-    the realm of death to discover the cause.
+  blurb: Darkness threatens to overtake Earthsea. As the world and its wizards are losing their magic, Ged - powerful Archmage,
+    wizard, and dragonlord - embarks on a sailing journey with highborn young prince Arren. They travel far beyond the realm
+    of death to discover the cause.
   blurb_source: https://openlibrary.org/works/OL59855W
   buy:
   - label: Adlibris
@@ -106,8 +103,7 @@ books:
   authors:
   - Ursula K. Le Guin
   cover_url: https://covers.openlibrary.org/b/id/433315-L.jpg
-  blurb: The widowed Tenar finds and nurses her aging friend Sparrowhawk, a magician
-    who has lost his powers.
+  blurb: The widowed Tenar finds and nurses her aging friend Sparrowhawk, a magician who has lost his powers.
   blurb_source: https://openlibrary.org/works/OL15056578W
   buy:
   - label: Adlibris
@@ -128,9 +124,8 @@ books:
   authors:
   - Ursula K. Le Guin
   cover_url: https://covers.openlibrary.org/b/id/112188-L.jpg
-  blurb: A collection of fantasy stories and essays published by Harcourt in 2001.
-    The collection serves as a companion to the five novels of the Earthsea cycle,
-    all set in the fictional archipelago Earthsea.
+  blurb: A collection of fantasy stories and essays published by Harcourt in 2001. The collection serves as a companion to
+    the five novels of the Earthsea cycle, all set in the fictional archipelago Earthsea.
   blurb_source: https://en.wikipedia.org/wiki/Tales_from_Earthsea
   buy:
   - label: Adlibris
@@ -149,9 +144,8 @@ books:
   authors:
   - Ursula K. Le Guin
   cover_url: https://covers.openlibrary.org/b/id/9055173-L.jpg
-  blurb: The sorcerer Alder fears sleep. He dreams of the land of death, of his wife
-    who died young and longs to return to him - and through him the dead may free
-    themselves and invade Earthsea.
+  blurb: The sorcerer Alder fears sleep. He dreams of the land of death, of his wife who died young and longs to return to
+    him - and through him the dead may free themselves and invade Earthsea.
   blurb_source: https://openlibrary.org/works/OL59806W
   buy:
   - label: Adlibris
@@ -165,3 +159,11 @@ books:
     credit: Orion, 2002
   - cover_url: https://covers.openlibrary.org/b/id/9055173-L.jpg
     credit: HMH, 2012
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Mage hero by the life stage of the mage (fledgling or graybeard); re-walked root-down into Fledgling mage
+    (curator "So, execute?" (2026-10-06 11:21:41 PM, phonemsg-01M49HFYZCXFQ4SDE0S7RQN2MF) over the life-stage split of Mage
+    hero; the names Fledgling mage and Graybeard mage are his coinages (phonemsg-01M49HE5AF4H14V75DB2STPNRW, 11:20:41 PM);
+    The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
+  from: mage-hero
+  to: fledgling-mage

@@ -1,0 +1,36 @@
+id: the-warden
+title: The Warden
+authors:
+- Daniel M. Ford
+first_published: 2023
+canonical_genre: fledgling-mage
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy realms -> Epic -> Heroic -> Caster heroes -> Mage hero. Graduate necromancer Aelis
+  uses learned spellcraft as a rural warden to confront ancient evil. Tor calls it a non-stop action adventure; Locus centers
+  her capable magical solutions. Cozy texture and community care do not govern the danger/adventure spine; formal education
+  is backstory, not Magic school''s present-day setting; necromancy alone is not Gothic engineering. First Warden-series card,
+  not a separate card per sequel.'
+classification_sources:
+- https://us.macmillan.com/books/9781250815651/thewarden/
+- https://locusmag.com/review/adrienne-martini-reviews-the-warden-by-daniel-m-ford/
+- https://us.macmillan.com/series/thewardenseries
+intake: 'gap-2022 tail #412'
+cover_curation:
+  status: complete
+  source: Publishers Weekly English cover
+  selected_url: https://www.publishersweekly.com/cover/9781250815651
+  visually_reviewed_on: '2026-09-30'
+  review_method: individual image inspection
+placement_walk: Speculative fiction {Fantasy, Science fiction} -> Fantasy {Real earth fantasy, Fantasy realms, Portal fantasy}
+  -> Fantasy realms {Epic fantasy, Sword and sorcery, Fairy-tale revision, Gothic fantasy, Far shores fantasy, Comic fantasy
+  realms, Cozy fantasy, Romantasy} -> Epic fantasy {Heroic fantasy, Quest fantasy, Political fantasy, Hard fantasy, Mythological
+  fantasy, Military fantasy} -> Heroic fantasy {Caster heroes, Martial heroes, NPC heroes} -> Caster heroes {Bard hero, Mage
+  hero, Cleric hero, Paladin hero} -> Mage hero
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Mage hero by the life stage of the mage (fledgling or graybeard); re-walked root-down into Fledgling mage
+    (curator "So, execute?" (2026-10-06 11:21:41 PM, phonemsg-01M49HFYZCXFQ4SDE0S7RQN2MF) over the life-stage split of Mage
+    hero; the names Fledgling mage and Graybeard mage are his coinages (phonemsg-01M49HE5AF4H14V75DB2STPNRW, 11:20:41 PM);
+    The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
+  from: mage-hero
+  to: fledgling-mage

@@ -1,0 +1,36 @@
+id: unraveller
+title: Unraveller
+authors:
+- Frances Hardinge
+first_published: 2022
+canonical_genre: graybeard-mage
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy realms -> Epic -> Heroic -> Caster heroes -> Mage hero. Kellen''s unique direct mastery
+  unravels curses, driving a journey through Raddith''s towns, markets and Deep Wilds alongside formerly cursed Nettle. Investigation
+  is necessary to undo each curse, but the caster''s magical power, ethical growth and adventures are the spine, not a Gothic
+  detective institution, military campaign or political overthrow. Not inherited Earth magic, a revision of a named fairy
+  tale or an explicit system-building epic.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/frances-hardinge/unraveller/
+- https://locusmag.com/review/alexandra-pierce-reviews-unraveller-by-frances-hardinge/
+- https://www.panmacmillan.com/authors/frances-hardinge/unraveller/9781509836970
+intake: 'gap-2022 tail #430'
+cover_curation:
+  status: complete
+  source: Publishers Weekly English cover
+  selected_url: https://www.publishersweekly.com/cover/9781509836970
+  visually_reviewed_on: '2026-09-30'
+  review_method: individual image inspection
+placement_walk: Speculative fiction {Fantasy, Science fiction} -> Fantasy {Real earth fantasy, Fantasy realms, Portal fantasy}
+  -> Fantasy realms {Epic fantasy, Sword and sorcery, Fairy-tale revision, Gothic fantasy, Far shores fantasy, Comic fantasy
+  realms, Cozy fantasy, Romantasy} -> Epic fantasy {Heroic fantasy, Quest fantasy, Political fantasy, Hard fantasy, Mythological
+  fantasy, Military fantasy} -> Heroic fantasy {Caster heroes, Martial heroes, NPC heroes} -> Caster heroes {Bard hero, Mage
+  hero, Cleric hero, Paladin hero} -> Mage hero
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Mage hero by the life stage of the mage (fledgling or graybeard); re-walked root-down into Graybeard mage
+    (curator "So, execute?" (2026-10-06 11:21:41 PM, phonemsg-01M49HFYZCXFQ4SDE0S7RQN2MF) over the life-stage split of Mage
+    hero; the names Fledgling mage and Graybeard mage are his coinages (phonemsg-01M49HE5AF4H14V75DB2STPNRW, 11:20:41 PM);
+    The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
+  from: mage-hero
+  to: graybeard-mage

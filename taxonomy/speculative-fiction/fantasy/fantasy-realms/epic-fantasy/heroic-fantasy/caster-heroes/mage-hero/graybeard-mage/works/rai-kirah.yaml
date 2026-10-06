@@ -3,7 +3,7 @@ title: Rai-kirah
 authors:
 - Carol Berg
 first_published: 2000
-canonical_genre: mage-hero
+canonical_genre: graybeard-mage
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Epic fantasy > Heroic fantasy > Caster heroes > Mage hero. Seyonne, a Warden of the
   Ezzarian people whose sorcery was stripped by the conquering Derzhi, is sold into slavery to the empire''s heir Aleksander;
@@ -29,3 +29,10 @@ placement_history:
 - date: '2026-10-04'
   to: mage-hero
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Mage hero by the life stage of the mage (fledgling or graybeard); re-walked root-down into Graybeard mage
+    (curator "So, execute?" (2026-10-06 11:21:41 PM, phonemsg-01M49HFYZCXFQ4SDE0S7RQN2MF) over the life-stage split of Mage
+    hero; the names Fledgling mage and Graybeard mage are his coinages (phonemsg-01M49HE5AF4H14V75DB2STPNRW, 11:20:41 PM);
+    The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
+  from: mage-hero
+  to: graybeard-mage
