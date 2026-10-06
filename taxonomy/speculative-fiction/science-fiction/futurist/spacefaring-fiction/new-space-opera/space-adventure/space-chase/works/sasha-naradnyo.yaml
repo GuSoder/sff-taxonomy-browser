@@ -1,0 +1,32 @@
+id: sasha-naradnyo
+title: Sasha Naradnyo
+authors:
+- Frank Chadwick
+first_published: 2013
+canonical_genre: space-chase
+placement_status: accepted
+placement_rationale: 'Sasha Naradnyo, a human gangster from the colony Crack City, saves two alien Varoki children from assassination
+  and spends the trilogy guarding them and their family as hunted fugitives across a galaxy pushed to war; the pursuit is
+  the engine of each novel. Walked root-down: Science fiction -> Space opera -> New space opera -> Space adventure -> Space
+  chase (not Space combat: the fights serve the flight; not Revolutionary space opera: no imperial order is overthrown).'
+books:
+- title: How Dark the World Becomes
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7550297-L.jpg
+- title: Come the Revolution
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/11400617-L.jpg
+- title: Chain of Command
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8460725-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7550297-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03174, MC03173, MC03172)
+placement_history:
+- date: '2026-10-04'
+  to: space-chase
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
