@@ -5,9 +5,8 @@ authors:
 first_published: 2006
 canonical_genre: space-navy
 placement_status: accepted
-placement_rationale: 'Walk: Science fiction > Futurist > Spacefaring fiction > Military science fiction > Space navy. Black
-  Jack Geary, woken from a century in cold sleep, must bring a stranded Alliance fleet home through Syndicate space by command
-  of its ships.'
+placement_rationale: 'Jack Campbell''s Lost Fleet universe as one fiction: Black Jack Geary leads the Alliance fleet home
+  and then beyond the frontier, with the whole story told from the bridge of a fleet at war.'
 books:
 - title: Dauntless
   year: 2006
@@ -27,6 +26,21 @@ books:
 - title: Victorious
   year: 2010
   cover_url: https://covers.openlibrary.org/b/id/6302060-L.jpg
+- title: Dreadnaught
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8600531-L.jpg
+- title: Invincible
+  year: 2012
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425256473
+- title: Guardian
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/isbn/9780425260500-L.jpg
+- title: Steadfast
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10301863-L.jpg
+- title: Leviathan
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780425260555
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -38,3 +52,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-navy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Lost Fleet, The Lost Fleet: Beyond the Frontier;
+    re-walked root-down into space-navy.'

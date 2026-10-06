@@ -5,11 +5,8 @@ authors:
 first_published: 2000
 canonical_genre: big-dumb-relics
 placement_status: accepted
-placement_rationale: 'Root-down traversal: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction, because
-  it ranges across a settled interstellar human future. Hachette and Reynolds identify it as modern/gothic space opera, passing
-  New space opera. Human colonists and scientist Dan Sylveste excavate a long-hidden Amarantin city and alien artifact to
-  solve that civilization’s extinction, making Alien Delving the deepest existing leaf. Political space opera is rejected
-  because relations among interstellar powers are not the primary field of action.'
+placement_rationale: 'Alastair Reynolds''s Revelation Space universe as one fiction: the Inhibitors, the Conjoiners and the
+  ancient relics that shape the whole history, including the Prefect Dreyfus novels.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/reynolds_alastair
 - https://www.hachette.co.uk/titles/alastair-reynolds/revelation-space/9780575083097/
@@ -33,3 +30,20 @@ placement_history:
     (curator "Ok, approved" (phonemsg-01M46K9QKMFS5P99YSW8ZQFTSF, 2026-10-05 7:55 PM)).
   from: big-dumb-objects
   to: big-dumb-relics
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Revelation Space, Prefect Dreyfus Emergencies;
+    re-walked root-down into big-dumb-relics.'
+books:
+- title: Revelation Space
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/911071-L.jpg
+- title: The Prefect
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1286941-L.jpg
+- title: Elysium Fire
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/11087255-L.jpg
+- title: Machine Vendetta
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/13564806-L.jpg

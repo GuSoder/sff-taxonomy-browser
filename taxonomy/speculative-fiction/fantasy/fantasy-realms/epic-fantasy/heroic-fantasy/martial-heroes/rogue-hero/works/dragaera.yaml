@@ -1,20 +1,34 @@
-id: vlad-taltos
-title: Vlad Taltos
+id: dragaera
+title: Dragaera
 authors:
 - Steven Brust
-first_published: 1998
+first_published: 1991
 canonical_genre: rogue-hero
 placement_status: accepted
-placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero. Vlad Taltos
-  is a human assassin and Jhereg crime boss in the Dragaeran Empire; his power is stealth, contracts and wit, not the sword
-  or the spell.'
+placement_rationale: 'Steven Brust''s Dragaera as one fiction: Vlad Taltos, the Easterner assassin among the Dragaerans, with
+  the Khaavren Romances set in the same world.'
 books:
+- title: The Phoenix Guards
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/9347629-L.jpg
+- title: Five Hundred Years After
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/603262-L.jpg
 - title: Dragon
   year: 1998
   cover_url: https://covers.openlibrary.org/b/id/182961-L.jpg
 - title: Issola
   year: 2001
   cover_url: https://covers.openlibrary.org/b/id/182516-L.jpg
+- title: The Paths of the Dead
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/182824-L.jpg
+- title: The Lord of Castle Black
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/182426-L.jpg
+- title: Sethra Lavode
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/182425-L.jpg
 - title: Dzur
   year: 2006
   cover_url: https://covers.openlibrary.org/b/id/523862-L.jpg
@@ -33,6 +47,9 @@ books:
 - title: Vallista
   year: 2017
   cover_url: https://covers.openlibrary.org/b/id/14529745-L.jpg
+- title: The Baron of Magister Valley
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10131381-L.jpg
 - title: Tsalmoth
   year: 2023
   cover_url: https://covers.openlibrary.org/b/id/13911959-L.jpg
@@ -50,3 +67,7 @@ placement_history:
 - date: '2026-10-04'
   to: rogue-hero
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Vlad Taltos, The Khaavren Romances; re-walked
+    root-down into rogue-hero.'

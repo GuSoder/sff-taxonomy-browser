@@ -1,0 +1,43 @@
+id: the-black-magician
+title: The Black Magician
+authors:
+- Trudi Canavan
+first_published: 2001
+canonical_genre: magic-school
+placement_status: accepted
+placement_rationale: 'Trudi Canavan''s Black Magician world as one fiction: Sonea and Dannyl in Kyralia''s Guild of mages,
+  with the apprentice prequel and the Traitor Spy sequel.'
+books:
+- title: The Magicians' Guild
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/isbn/9780061797675-L.jpg
+- title: The Novice
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/886264-L.jpg
+- title: The High Lord
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/886265-L.jpg
+- title: The Magician's Apprentice
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6298909-L.jpg
+- title: The Ambassador's Mission
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7757196-L.jpg
+- title: The Rogue
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/isbn/9780316037846-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780061797675-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09776, MC09777, MC09774)
+placement_history:
+- date: '2026-10-04'
+  to: magic-school
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Black Magician Trilogy, The Magician''s Apprentice,
+    The Traitor Spy Trilogy; re-walked root-down into magic-school.'

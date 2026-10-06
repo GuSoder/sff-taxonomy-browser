@@ -1,0 +1,136 @@
+id: shannara
+title: Shannara
+authors:
+- Terry Brooks
+first_published: 1977
+canonical_genre: evergreen-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Terry Brooks''s Shannara universe as one fiction: from the Sword of Shannara through the Elfstones,
+  the Heritage heirs, the High Druids, the Jerle Shannara voyage and the prequels (First King, Word and Void, Genesis), the
+  Four Lands'' long war of companions and druids against the ancient dark. Walked as the series: a fellowship quest of the
+  founding line (first published 1977).'
+classification_sources:
+- https://sf-encyclopedia.com/entry/brooks_terry
+- https://www.penguinrandomhouse.com/books/19046/the-sword-of-shannara-trilogy-by-terry-brooks/
+series:
+  books:
+  - The Sword of Shannara (1977)
+  - The Elfstones of Shannara (1982)
+  - The Wishsong of Shannara (1985)
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-the-sword-of-shannara.jpg
+  cover_id: 908811
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-search single pass
+book_covers:
+  status: complete
+  audited_on: '2026-09-22'
+  books:
+  - title: The Sword of Shannara
+    year: 1977
+    cover_id: 908811
+    cover_url: cover-the-sword-of-shannara.jpg
+  - title: The Elfstones of Shannara
+    year: 1982
+    cover_id: 908796
+    cover_url: cover-the-elfstones-of-shannara.jpg
+  - title: The Wishsong of Shannara
+    year: 1985
+    cover_id: 908803
+    cover_url: cover-the-wishsong-of-shannara.jpg
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/quest-fantasy/classic-quest-fantasy
+    to match live tree; placement unchanged on site.'
+  previous_canonical_genre: classic-quest-fantasy
+- date: '2026-09-28'
+  change: Moved to fellowship-quest-fantasy in the classic-quest-fantasy split (the curator ruling phonemsg-01M3MHGJ4QQ54VYSXSSFNQ63DW).
+- date: '2026-10-06'
+  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Evergreen quest fantasy (curator
+    "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
+  from: fellowship-quest-fantasy
+  to: evergreen-quest-fantasy
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Sword of Shannara Trilogy, The Heritage of
+    Shannara, The High Druid of Shannara, The Dark Legacy of Shannara, The Defenders of Shannara, The Voyage of the Jerle
+    Shannara, First King of Shannara, The Genesis of Shannara, The Word and the Void; re-walked root-down into evergreen-quest-fantasy.'
+books:
+- title: The Sword of Shannara
+  year: 1977
+  cover_url: cover-the-sword-of-shannara.jpg
+- title: The Elfstones of Shannara
+  year: 1982
+  cover_url: cover-the-elfstones-of-shannara.jpg
+- title: The Wishsong of Shannara
+  year: 1985
+  cover_url: cover-the-wishsong-of-shannara.jpg
+- title: The Scions of Shannara
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/5023743-L.jpg
+- title: The Druid of Shannara
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/6685695-L.jpg
+- title: The Elf Queen of Shannara
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/6685689-L.jpg
+- title: The Talismans of Shannara
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/6685696-L.jpg
+- title: First King of Shannara
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/908993-L.jpg
+- title: Running with the Demon
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/209230-L.jpg
+- title: A Knight of the Word
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/209315-L.jpg
+- title: Angel Fire East
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/209767-L.jpg
+- title: Ilse Witch
+  year: 2000
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345444813
+- title: Morgawr
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/209788-L.jpg
+- title: Jarka Ruus
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/15192144-L.jpg
+- title: Tanequil
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/209790-L.jpg
+- title: Straken
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/210542-L.jpg
+- title: Armageddon's Children
+  year: 2006
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345484109
+- title: The Elves of Cintra
+  year: 2007
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780345484130
+- title: The Gypsy Morph
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6991646-L.jpg
+- title: Wards of Faerie
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7236761-L.jpg
+- title: Bloodfire Quest
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7607821-L.jpg
+- title: Witch Wraith
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7558069-L.jpg
+- title: The High Druid's Blade
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8515924-L.jpg
+- title: The Darkling Child
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8447707-L.jpg
+- title: The Sorcerer's Daughter
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8436135-L.jpg

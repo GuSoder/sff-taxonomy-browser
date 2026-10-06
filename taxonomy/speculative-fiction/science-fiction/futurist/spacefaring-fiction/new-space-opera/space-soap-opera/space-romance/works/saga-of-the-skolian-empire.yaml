@@ -5,11 +5,8 @@ authors:
 first_published: 2008
 canonical_genre: space-romance
 placement_status: accepted
-placement_rationale: 'Catherine Asaro''s Saga of the Skolian Empire (Baen): psionic dynasties of the Ruby Empire across interstellar
-  states, where love across the divides between Skolian, Trader and Eubian societies carries the story. The Ruby Dice, Diamond
-  Star (a rock star and an empire''s heirs) and Carnelians put the relationship in the spine; Gold Dust (Dust Knights, same
-  universe) is carried on the same card as series material. Root-down: Science fiction -> Spacefaring -> New space opera ->
-  Space soap opera -> Space romance.'
+placement_rationale: 'Catherine Asaro''s Skolian Empire as one fiction: the Ruby Dynasty''s psionic empire and its romances,
+  with the Major Bhaajan mysteries set in the same universe.'
 books:
 - title: The Ruby Dice
   year: 2008
@@ -20,9 +17,21 @@ books:
 - title: Carnelians
   year: 2011
   cover_url: https://www.baen.com/media/catalog/product/9/7/9781451637489-lg.jpg
+- title: Undercity
+  year: 2014
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781476736921-lg.jpg
+- title: The Bronze Skies
+  year: 2017
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781481482585-lg.jpg
 - title: Gold Dust
   year: 2020
   cover_url: https://www.baen.com/media/catalog/product/9/7/9781668072905-lg.jpg
+- title: The Vanished Seas
+  year: 2020
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982124717-lg.jpg
+- title: The Jigsaw Assassin
+  year: 2022
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982191962-lg.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -34,3 +43,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Saga of the Skolian Empire, Major Bhaajan Mysteries;
+    re-walked root-down into space-romance.'

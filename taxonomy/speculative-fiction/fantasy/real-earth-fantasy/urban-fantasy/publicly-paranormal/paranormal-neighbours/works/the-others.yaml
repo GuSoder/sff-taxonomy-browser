@@ -1,12 +1,12 @@
-id: a-novel-of-the-others
-title: A Novel of the Others
+id: the-others
+title: The Others
 authors:
 - Anne Bishop
 first_published: 2013
 canonical_genre: paranormal-neighbours
 placement_status: accepted
-placement_rationale: 'The Others - shapeshifters and vampires - own the land and let humans live in the Courtyards; Meg Corbyn
-  and the humans and Others share a city, a known and openly lived-with supernatural world: Paranormal neighbours.'
+placement_rationale: 'Anne Bishop''s world of the Others as one fiction: the shapeshifter Others and the humans who live beside
+  them in the Courtyard and beyond.'
 books:
 - title: Written in Red
   year: 2013
@@ -23,6 +23,15 @@ books:
 - title: Etched in Bone
   year: 2017
   cover_url: https://covers.openlibrary.org/b/id/8825405-L.jpg
+- title: Lake Silence
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8566379-L.jpg
+- title: Wild Country
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/8798387-L.jpg
+- title: Crowbones
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/11459777-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -34,3 +43,7 @@ placement_history:
 - date: '2026-10-04'
   to: paranormal-neighbours
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: A Novel of the Others, The World of the Others;
+    re-walked root-down into paranormal-neighbours.'

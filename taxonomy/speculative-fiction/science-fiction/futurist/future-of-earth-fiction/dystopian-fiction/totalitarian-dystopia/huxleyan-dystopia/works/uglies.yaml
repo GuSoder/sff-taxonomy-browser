@@ -5,10 +5,8 @@ authors:
 first_published: 2005
 canonical_genre: huxleyan-dystopia
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Dystopian Futures ->
-  Totalitarian dystopia -> Huxleyan dystopia. Simon & Schuster’s complete quartet builds conformity through compulsory beauty surgery, neurological
-  conditioning, engineered bodies, high-tech pleasure and later fame rankings. Power manufactures consent and identity through the body rather
-  than relying primarily on overt coercion.'
+placement_rationale: 'Scott Westerfeld''s Uglies universe as one fiction: the pretty surgery society and its sequels, with
+  the Impostors books set in the same world.'
 classification_sources:
 - https://www.simonandschuster.net/series/Uglies
 - https://parents.simonandschuster.com/9781442479395
@@ -25,6 +23,18 @@ books:
 - title: Extras
   year: 2007
   cover_url: cover-extras.jpg
+- title: Impostors
+  year: 2018
+  cover_url: https://images.booksense.com/images/510/151/9781338151510.jpg
+- title: Shatter City
+  year: 2019
+  cover_url: https://images.booksense.com/images/421/150/9781338150421.jpg
+- title: Mirror's Edge
+  year: 2021
+  cover_url: https://images.booksense.com/images/589/151/9781338151589.jpg
+- title: Youngbloods
+  year: 2022
+  cover_url: https://img2.snapplify.com/86bea372e1f2ed87a8b0f2a3ccdd1d42/scholasticdistrib/9781338151572.jpg
 cover_curation:
   status: complete
   source: Open Library cover archive
@@ -37,3 +47,7 @@ cover_curation:
   - 1474615
   - 761913
   - 1787209
+placement_history:
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Uglies, Impostors; re-walked root-down into huxleyan-dystopia.'

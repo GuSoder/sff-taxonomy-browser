@@ -5,10 +5,8 @@ authors:
 first_published: 2019
 canonical_genre: war-fantasy
 placement_status: accepted
-placement_rationale: 'Root-down: Orbit/PW place the trilogy in an invented Roman-like fantasy empire and organize all three
-  books around the siege, defending and ruling the City, and finally a war to end all wars. That passes Fantasy -> Fantasy
-  realms -> Epic fantasy -> Military fantasy: armies, campaigns, siegecraft and war seen through engineers, civilians and
-  pragmatic participants rather than a quest or magic system.'
+placement_rationale: 'K. J. Parker''s Siege trilogy: Sixteen Ways to Defend a Walled City and its two sequels, the war and
+  the siege at the story''s centre. Duplicate fictions merged.'
 classification_sources:
 - https://www.hachettebookgroup.com/titles/k-j-parker/sixteen-ways-to-defend-a-walled-city/9780316270793/
 - https://www.publishersweekly.com/9780316270793
@@ -23,13 +21,13 @@ cover_curation:
   review_method: one-pass official-publisher series review
 books:
 - title: Sixteen Ways to Defend a Walled City
-  first_published: 2019
+  year: 2019
   cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9780316270793.jpg?w=640
 - title: How to Rule an Empire and Get Away with It
-  first_published: 2020
+  year: 2020
   cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2020/08/9780316498678-1.jpg
 - title: A Practical Guide to Conquering the World
-  first_published: 2022
+  year: 2022
   cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2022/01/9780316498616.jpg
 placement_history:
 - date: '2026-10-06'
@@ -37,3 +35,7 @@ placement_history:
     2026-10-06 7:27 AM)).
   from: military-fantasy
   to: war-fantasy
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Siege trilogy, The Siege; re-walked root-down
+    into war-fantasy.'

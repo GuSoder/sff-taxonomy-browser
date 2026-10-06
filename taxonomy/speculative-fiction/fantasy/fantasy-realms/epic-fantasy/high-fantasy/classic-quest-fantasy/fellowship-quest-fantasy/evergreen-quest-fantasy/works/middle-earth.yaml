@@ -1,28 +1,28 @@
-id: the-lord-of-the-rings
-title: The Lord of the Rings
+id: middle-earth
+title: Middle-earth
 authors:
 - J. R. R. Tolkien
 first_published: 1937
 canonical_genre: evergreen-quest-fantasy
 placement_status: accepted
-placement_rationale: ''
+placement_rationale: 'Tolkien''s Middle-earth as one fiction: The Lord of the Rings and its mythology, the Silmarillion, the
+  one world of the fellowship quest against the dark lord.'
 books:
 - title: The Hobbit
   year: 1937
   cover_url: https://covers.openlibrary.org/b/id/14849956-L.jpg
-  shows_english_title: true
 - title: The Fellowship of the Ring
   year: 1954
   cover_url: https://covers.openlibrary.org/b/id/6308837-L.jpg
-  shows_english_title: true
 - title: The Two Towers
   year: 1954
   cover_url: https://covers.openlibrary.org/b/id/15084479-L.jpg
-  shows_english_title: true
 - title: The Return of the King
   year: 1955
   cover_url: https://covers.openlibrary.org/b/id/14626055-L.jpg
-  shows_english_title: true
+- title: The Silmarillion
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/10721368-L.jpg
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/257294-L.jpg
   shows_english_title: false
@@ -35,3 +35,7 @@ placement_history:
     "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
   from: fellowship-quest-fantasy
   to: evergreen-quest-fantasy
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Lord of the Rings, The Silmarillion; re-walked
+    root-down into evergreen-quest-fantasy.'

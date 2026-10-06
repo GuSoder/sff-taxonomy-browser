@@ -1,0 +1,45 @@
+id: saint-of-steel
+title: Saint of Steel
+authors:
+- T. Kingfisher
+first_published: 2021
+canonical_genre: paladin-hero
+placement_status: accepted
+placement_rationale: 'T. Kingfisher''s Saint of Steel books as one fiction: the paladins of the dead god''s order, from Paladin''s
+  Strength to Paladin''s Faith.'
+classification_sources:
+- https://argyllproductions.com/product/paladins-strength/
+- https://www.hachette.co.uk/titles/t-kingfisher/paladins-strength/9780356524337/
+- https://books.google.com/books/about/Paladin_s_Strength.html?id=33io0AEACAAJ
+cover_curation:
+  status: ranked
+  source: Open Library
+  record_url: https://openlibrary.org/works/OL24211259W
+  image_url: https://covers.openlibrary.org/b/id/15173902-L.jpg
+  cover_id: id-15173902
+  beauty_score: 8
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book
+    objects
+  beauty_rationale: Orbit 2025 flat front - detailed colorful painted scene of the paladin and nun in an enchanted wood with
+    rabbit and bear familiars, decorative floral border, English title and author visible. Rejected 14342135 (Argyll 2021
+    first edition, flat graphic black design with bear, flames, skulls and sword; carries "Book Two of the Saint of Steel"
+    band and "Hugo Award-winning author" tagline - weaker art than the painted Orbit scene).
+  visually_reviewed_on: '2026-09-20'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 2
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover
+    art over photos of physical book objects
+  title_overlay: false
+books:
+- title: Paladin's Strength
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/15173902-L.jpg
+- title: Paladin's Faith
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14571740-L.jpg
+placement_history:
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Paladin''s Strength, Paladin''s Faith; re-walked
+    root-down into paladin-hero.'
