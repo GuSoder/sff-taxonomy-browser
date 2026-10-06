@@ -1,0 +1,28 @@
+id: the-clockwork-dagger
+title: The Clockwork Dagger
+authors:
+- Beth Cato
+first_published: 2014
+canonical_genre: steampunk
+placement_status: accepted
+placement_rationale: 'Octavia Leander, a young medician, serves aboard an airship in a war-scarred secondary world of steam,
+  clockwork and airships; healing magic and a fuel-and-engine technology both drive the plot across the two novels. Steampunk
+  covers invented worlds and science fantasy. Walked root-down: Science fiction -> Historical -> Period SF -> Steampunk.'
+books:
+- title: The Clockwork Dagger
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/11605415-L.jpg
+- title: The Clockwork Crown
+  year: 2014
+  cover_url: http://www.harpercollins.com/cdn/shop/files/9780062313980_1200x1200.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11605415-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01042, MC01041)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
