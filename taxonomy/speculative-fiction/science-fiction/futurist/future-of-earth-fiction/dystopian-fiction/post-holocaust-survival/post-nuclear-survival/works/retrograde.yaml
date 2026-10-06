@@ -1,0 +1,29 @@
+id: retrograde
+title: Retrograde
+authors:
+- Peter Cawdron
+first_published: 2017
+canonical_genre: post-nuclear-survival
+placement_status: accepted
+placement_rationale: 'After a nuclear war on Earth waged by artificial intelligences, the crew of a Mars outpost survives
+  cut off from home, and in Reentry the survivors return to a fallout-scarred, insurgent Earth; the aftermath of nuclear war
+  and the survivors'' rebuilding is the story. Walked root-down: Science fiction -> Post-Holocaust survival -> Post-nuclear
+  survival.'
+books:
+- title: Retrograde
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/11532553-L.jpg
+- title: Reentry
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/13163561-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11532553-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07686, MC07685)
+placement_history:
+- date: '2026-10-04'
+  to: post-nuclear-survival
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
