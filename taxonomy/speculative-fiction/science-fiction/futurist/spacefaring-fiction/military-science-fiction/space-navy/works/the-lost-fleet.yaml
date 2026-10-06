@@ -1,0 +1,34 @@
+id: the-lost-fleet
+title: The Lost Fleet
+authors:
+- Jack Campbell
+first_published: 2006
+canonical_genre: space-navy
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Spacefaring fiction > Military science fiction > Space navy. Black
+  Jack Geary, woken from a century in cold sleep, must bring a stranded Alliance fleet home through Syndicate space by command
+  of its ships.'
+books:
+- title: Dauntless
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/284362-L.jpg
+- title: Fearless
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/284403-L.jpg
+- title: Courageous
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/7092894-L.jpg
+- title: Valiant
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/7125124-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284362-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04049, MC04050, MC04048, MC04052)
+placement_history:
+- date: '2026-10-04'
+  to: space-navy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

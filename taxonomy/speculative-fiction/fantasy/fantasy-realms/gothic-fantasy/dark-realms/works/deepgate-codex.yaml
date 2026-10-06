@@ -1,0 +1,31 @@
+id: deepgate-codex
+title: Deepgate Codex
+authors:
+- Alan Campbell
+first_published: 2006
+canonical_genre: dark-realms
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Gothic fantasy > Dark realms. Deepgate, a city hung by chains over
+  an abyss that holds the corpses of dead gods, is a place of dread and enclosure where an angel assassin and a doomed guardian
+  are drawn into dark magic.'
+books:
+- title: Scar Night
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/370180-L.jpg
+- title: Iron Angel
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/2519407-L.jpg
+- title: God of Clocks
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6401253-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/370180-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00348, MC00347, MC00346)
+placement_history:
+- date: '2026-10-04'
+  to: dark-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

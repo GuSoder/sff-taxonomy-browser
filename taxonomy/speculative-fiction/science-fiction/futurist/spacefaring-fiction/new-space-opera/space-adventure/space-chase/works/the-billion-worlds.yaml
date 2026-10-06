@@ -1,0 +1,31 @@
+id: the-billion-worlds
+title: The Billion Worlds
+authors:
+- James L. Cambias
+first_published: 2021
+canonical_genre: space-chase
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Spacefaring fiction > New space opera > Space adventure > Space chase.
+  A droid and his boy, then a spy and his sarcastic AI, hunt across the tenth-millennium Billion Worlds after a weapon, a
+  killer and a fugitive; the pursuit drives each book.'
+books:
+- title: The Godel Operation
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11059269-L.jpg
+- title: The Scarab Mission
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14349862-L.jpg
+- title: The Ishtar Deception
+  year: 2026
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781668073308-lg_1.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11059269-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04198, MC04201, MC04200)
+placement_history:
+- date: '2026-10-04'
+  to: space-chase
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,31 @@
+id: tricksters-game
+title: Trickster's Game
+authors:
+- Barbara Campbell
+first_published: 2005
+canonical_genre: prehistoric-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Antique times fantasy > Prehistoric fantasy. A tribe of the First Forest
+  keeps its Midwinter rite of the Oak and the Holly, and a hunter, then his son, fights the Chaos that breaks into the grove;
+  gods, visions and survival, before writing and cities.'
+books:
+- title: Heartwood
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/503825-L.jpg
+- title: Bloodstone
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/503868-L.jpg
+- title: Foxfire
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/10581246-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/503825-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00916, MC00914, MC00915)
+placement_history:
+- date: '2026-10-04'
+  to: prehistoric-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
