@@ -1,0 +1,28 @@
+id: forgotten-sisters
+title: Forgotten Sisters
+authors:
+- Cynthia Pelayo
+first_published: 2024
+canonical_genre: inherited-ghosts
+placement_status: accepted
+placement_rationale: Two sisters keep their family's haunted Chicago home 'and its ghosts happy' while the river that drowned
+  their parents yields bodies (Library Journal); specific dead bound to the family place, framed by Little Mermaid melancholy.
+  Housebound.
+classification_sources: []
+intake: gap-2022 tier-2 chunk 5 (Locus Recommended-only)
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14594782-L.jpg
+  visually_reviewed_on: null
+  review_method: OL search API title+author match
+placement_history:
+- date: '2026-09-27'
+  change: Placed in housebound at tier-2 chunk-5 sweep (k2 81-100, the curator greenlight phonemsg-01M3J5GYJDEMZN7NHX40KQ8XET).
+- date: '2026-10-06'
+  reason: Split of Housebound dead by how the living meet the bound dead; re-walked root-down into Inherited ghosts (curator
+    "Ok, execute" (2026-10-06 6:11:32 PM) of the posted proposal phonemsg-01M48ZKERM0WZ4HPECR29EJHQR / phonemsg-01M48ZKHPFEZVBHZ5GQDDDECZG;
+    names workshopped in his messages 5:5x-6:09 PM (Housebound dead is his rename; Keys to the Haunting and Haunt and seek
+    are his coinages)).
+  from: housebound
+  to: inherited-ghosts
