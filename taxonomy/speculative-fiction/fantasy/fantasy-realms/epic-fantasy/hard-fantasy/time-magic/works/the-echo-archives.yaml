@@ -1,0 +1,33 @@
+id: the-echo-archives
+title: The Echo Archives
+authors:
+- Melissa Caruso
+first_published: 2024
+canonical_genre: time-magic
+placement_status: accepted
+placement_rationale: 'Echo Archives (Melissa Caruso): the Echo-lords'' year-turning party loops through deeper Echoes while
+  Hound investigator Kembral Thorne alone remembers each round (The Last Hour Between Worlds), continued in The Last Soul
+  Among Wolves. Same characters and world across the trilogy, so one fiction (rule 11j). The loop is the load-bearing engine
+  and its mechanism is magic. Book 3, The Last Star in the Void (November 10, 2026), is held as unpublished.'
+classification_sources: []
+intake: gap-2022 tier-2 chunk n=351-365
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: cover-9780316303477.jpg
+  visually_reviewed_on: '2026-09-28'
+  review_method: montage visual review (agent)
+placement_history:
+- date: '2026-09-28'
+  change: Placed in intake batch n=351-365.
+- date: '2026-10-06'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
+    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Last Hour Between Worlds; re-walked root-down
+    into time-magic.'
+books:
+- title: The Last Hour Between Worlds
+  year: 2024
+  cover_url: cover-9780316303477.jpg
+- title: The Last Soul Among Wolves
+  year: 2025
+  cover_url: https://www.hachette.co.uk/wp-content/uploads/2025/02/hbg-title-the-last-soul-among-wolves-3-46.jpg

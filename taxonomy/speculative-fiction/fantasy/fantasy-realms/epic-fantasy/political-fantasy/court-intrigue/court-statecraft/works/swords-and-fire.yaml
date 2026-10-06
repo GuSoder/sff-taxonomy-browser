@@ -1,0 +1,42 @@
+id: swords-and-fire
+title: Swords and Fire
+authors:
+- Melissa Caruso
+first_published: 2017
+canonical_genre: court-statecraft
+placement_status: accepted
+placement_rationale: 'One shared world (rule 11j): the Swords and Fire trilogy (The Tethered Mage, The Defiant Heir, The Unbound
+  Empire) and the Rooks and Ruin trilogy (The Obsidian Tower, The Quicksilver Court, The Ivory Tomb) are set in the same world,
+  so they sit on one fiction. A Serene Empire that binds its mages to state service, and the diplomats, warders and rulers
+  who keep it together under threat of war and sorcery: ruler-level diplomacy, governance and political survival under military
+  pressure. Walked root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Court statecraft.'
+books:
+- title: The Tethered Mage
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/14524715-L.jpg
+- title: The Defiant Heir
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8596716-L.jpg
+- title: The Unbound Empire
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8804549-L.jpg
+- title: The Obsidian Tower
+  year: 2020
+  cover_url: https://cdn.shopify.com/s/files/1/0674/5433/7265/files/9780316425094_p0.jpg
+- title: The Quicksilver Court
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11115846-L.jpg
+- title: The Ivory Tomb
+  year: 2022
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/02/9780316454391.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14524715-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06667, MC06661, MC06668, MC06665, MC06666, MC06662)
+placement_history:
+- date: '2026-10-04'
+  to: court-statecraft
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
