@@ -1,0 +1,32 @@
+id: the-electric-empire
+title: The Electric Empire
+authors:
+- Viola Carr
+first_published: 2015
+canonical_genre: gaslight-technomancy
+placement_status: accepted
+placement_rationale: 'Metropolitan Police crime scene physician Dr. Eliza Jekyll, hiding her wild other half Lizzie Hyde,
+  works Victorian murders with engineered science: electrical invention, formula and experiment make up the magic of a steampunk
+  empire. Walked root-down: Fantasy -> Real-earth fantasy -> Historical fantasy -> Period fantasy -> Industrial age fantasy
+  -> Gaslight fantasy -> Gaslight technomancy.'
+books:
+- title: The Diabolical Miss Hyde
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8565098-L.jpg
+- title: The Devious Dr. Jekyll
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/11044750-L.jpg
+- title: The Dastardly Miss Lizzie
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10485789-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8565098-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09864, MC09863, MC09862)
+placement_history:
+- date: '2026-10-04'
+  to: gaslight-technomancy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
