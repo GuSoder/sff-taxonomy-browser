@@ -1,0 +1,32 @@
+id: inscape
+title: Inscape
+authors:
+- Louise Carey
+first_published: 2021
+canonical_genre: dystopian-rebellion
+placement_status: accepted
+placement_rationale: 'Louise Carey''s Inscape trilogy: InTech is a corporate state that runs its citizens through a mind-based
+  operating system, and Tanta, once its armed agent, ends up outside its walls and then underground, fighting to bring the
+  system down before its update turns the city into compliant zombies. The regime already holds power; the story follows the
+  resistance. Walked root-down: Futurist -> Future of Earth -> Dystopian fiction -> Totalitarian dystopia -> Dystopian rebellion.'
+books:
+- title: Inscape
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/14763099-L.jpg
+- title: Outcast
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/14687913-L.jpg
+- title: Downfall
+  year: 2023
+  cover_url: https://www.hachette.co.uk/wp-content/uploads/2022/07/hbg-title-9781473232761-11.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14763099-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06135, MC06136, MC06134)
+placement_history:
+- date: '2026-10-04'
+  to: dystopian-rebellion
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
