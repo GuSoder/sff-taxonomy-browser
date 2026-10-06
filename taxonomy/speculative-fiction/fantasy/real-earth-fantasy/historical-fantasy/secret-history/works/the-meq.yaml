@@ -1,0 +1,32 @@
+id: the-meq
+title: The Meq
+authors:
+- Steve Cash
+first_published: 2003
+canonical_genre: secret-history
+placement_status: accepted
+placement_rationale: 'The Meq, a race of ageless children who have lived beside humanity since before recorded history, carry
+  five sacred stones and move through the train wrecks, wars and empires of the last century and a half; documented history
+  is secretly explained by their hidden presence, and keeping their nature secret is a main theme. Walked root-down: Fantasy
+  -> Real-earth fantasy -> Historical fantasy -> Secret history.'
+books:
+- title: The Meq
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/211475-L.jpg
+- title: Time Dancers
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/211476-L.jpg
+- title: The Remembering
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6686996-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/211475-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09093, MC09095, MC09094)
+placement_history:
+- date: '2026-10-04'
+  to: secret-history
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
