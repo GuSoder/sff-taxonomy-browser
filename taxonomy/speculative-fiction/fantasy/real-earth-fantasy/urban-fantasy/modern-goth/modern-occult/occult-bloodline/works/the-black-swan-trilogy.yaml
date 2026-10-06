@@ -1,0 +1,32 @@
+id: the-black-swan-trilogy
+title: The Black Swan Trilogy
+authors:
+- Lee Carroll
+first_published: 2010
+canonical_genre: occult-bloodline
+placement_status: accepted
+placement_rationale: 'Garet James, a New York jeweler, learns she is the Watchtower, last of a hereditary line of women sworn
+  to guard the world against dark magic; the inherited role and a swan ring from her dead mother open the hidden world of
+  fey folk, alchemy and a 400-year-old vampire in contemporary city life. Walked root-down: Fantasy -> Real-earth fantasy
+  -> Urban fantasy -> Modern goth -> Modern occult -> Occult bloodline.'
+books:
+- title: Black Swan Rising
+  year: 2010
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765325976.jpg
+- title: The Watchtower
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/9054568-L.jpg
+- title: The Shape Stealer
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7831186-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://mpd-biblio-covers.imgix.net/9780765325976.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05951, MC05953, MC05952)
+placement_history:
+- date: '2026-10-04'
+  to: occult-bloodline
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
