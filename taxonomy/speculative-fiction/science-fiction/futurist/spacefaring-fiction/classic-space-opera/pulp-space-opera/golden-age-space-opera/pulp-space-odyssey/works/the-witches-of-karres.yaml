@@ -2,16 +2,29 @@ id: the-witches-of-karres
 title: The Witches of Karres
 authors:
 - James H. Schmitz
+- Eric Flint
+- Dave Freer
 first_published: 1966
 canonical_genre: pulp-space-odyssey
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Classic space opera -> Pulp space opera
-  -> Golden Age space opera -> Pulp Space Odyssey. A captain and three witch children flee and roam through comic space adventures as a small party.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Classic
+  space opera -> Pulp space opera -> Golden Age space opera -> Pulp Space Odyssey. A captain and three witch children flee
+  and roam through comic space adventures as a small party. One fiction for the Witches of Karres series (rule 11j): Eric
+  Flint and Dave Freer''s Baen sequels, The Sorceress of Karres (2009) and The Shaman of Karres (2020), follow Captain Pausert
+  and the Karres witches and fold on.'
 books:
 - title: The Witches of Karres
   year: 1966
-  cover_url: https://covers.openlibrary.org/b/id/8740044-L.jpg
+- title: The Sorceress of Karres
+  year: 2009
+- title: The Shaman of Karres
+  year: 2020
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/8740044-L.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+intake:
+- id: MC03040
+  title: The Sorceress of Karres
+- id: MC03039
+  title: The Shaman of Karres
