@@ -39,3 +39,9 @@ Animal fantasy (speculative-fiction > fantasy > real-earth-fantasy > animal-fant
 The curator, phonemsg-01M48JHGJX6H98Z6YYFAJ1HZ40 (2:20:45 PM): "Another 'open lvl3' is Far shores, this one can have geographical bundles like silkpunk when the other children grow numerous".
 
 Far shores fantasy (speculative-fiction > fantasy > fantasy-realms > far-shores-fantasy; children Silkpunk, Khayal, Katha, Griot, Fifth sun; Silkpunk is already a bundle with Chuanqi and Genso) may take new children by seed. When its children are numerous they are bundled geographically, as Silkpunk is; that bundling is a structural step that comes to him as a proposal. The relaxed level-3 genres are now Period SF, Hidden history SF, Animal fantasy and Far shores fantasy.
+
+## Ruling: Comic fantasy realms and Cozy fantasy added to the level-3 relaxation (2026-10-06)
+
+The curator, phonemsg-01M48JK2419MR8PWC2GMR8F504 (2:21:36 PM): "Comic fantasy realms is another one, just a leaf, no issue to grow". And phonemsg-01M48JKVTWBP3DW0TA10RX4RVS (2:22:02 PM): "Same with Cozy fantasy".
+
+Comic fantasy realms (fantasy > fantasy-realms > comic-fantasy-realms, 3 fictions) and Cozy fantasy (fantasy > fantasy-realms > cozy-fantasy, 7 fictions) are leaves at level 3 and may take children by seed or split, with a proposal to him each time. The relaxed level-3 genres are now: Period SF, Hidden history SF, Animal fantasy, Far shores fantasy, Comic fantasy realms and Cozy fantasy.
