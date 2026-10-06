@@ -1,0 +1,24 @@
+id: synners
+title: Synners
+authors:
+- Pat Cadigan
+first_published: 1991
+canonical_genre: neural-fiction
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Techno-fiction > Cyberpunk > Neural fiction. Direct brain sockets
+  let a new generation plug into music, video and games, and a rogue AI grows out of the network they share.'
+books:
+- title: Synners
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/6635519-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6635519-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07545)
+placement_history:
+- date: '2026-10-04'
+  to: neural-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

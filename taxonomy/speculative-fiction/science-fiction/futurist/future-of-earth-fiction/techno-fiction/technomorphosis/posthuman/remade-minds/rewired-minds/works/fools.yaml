@@ -1,0 +1,25 @@
+id: fools
+title: Fools
+authors:
+- Pat Cadigan
+first_published: 1992
+canonical_genre: rewired-minds
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist > Techno-fiction > Technomorphosis > Posthuman > Remade minds > Rewired
+  minds. In a world where actors wear implanted personalities and memories, a woman loses track of which of her selves is
+  real.'
+books:
+- title: Fools
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/9041938-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9041938-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07544)
+placement_history:
+- date: '2026-10-04'
+  to: rewired-minds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

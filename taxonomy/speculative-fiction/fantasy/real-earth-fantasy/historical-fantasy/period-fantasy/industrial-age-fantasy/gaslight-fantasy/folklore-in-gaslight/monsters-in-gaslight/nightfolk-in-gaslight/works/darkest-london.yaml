@@ -1,0 +1,34 @@
+id: darkest-london
+title: Darkest London
+authors:
+- Kristen Callihan
+first_published: 2012
+canonical_genre: nightfolk-in-gaslight
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Gaslight fantasy > Folklore in gaslight > Monsters in gaslight > Nightfolk
+  in gaslight. Gifted and cursed people, among them the masked Lord Archer, live openly in Victorian London society, and each
+  book pairs one with the woman who can break or bear the curse.'
+books:
+- title: Firelight
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8296533-L.jpg
+- title: Moonglow
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7484917-L.jpg
+- title: Winterblaze
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7839613-L.jpg
+- title: Evernight
+  year: 2014
+  cover_url: https://www.publishersweekly.com/cover/9781455581641
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8296533-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05626, MC05627, MC05628, MC05625)
+placement_history:
+- date: '2026-10-04'
+  to: nightfolk-in-gaslight
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
