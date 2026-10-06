@@ -1,0 +1,34 @@
+id: the-amber-crown
+title: The Amber Crown
+authors:
+- Jacey Bedford
+first_published: 2022
+canonical_genre: dynastic-assassins
+placement_status: accepted
+placement_rationale: 'In Zavonia, a Baltic-inspired seventeenth-century kingdom, the king is assassinated and a usurper seizes
+  the throne; a fugitive guard captain, a witch-healer and the assassin himself, who is guarding a hidden royal girl, are
+  drawn into the fight over who rightfully rules. A succession crisis and contested legitimacy in an early modern state: Early
+  modern dynastic intrigue.'
+books:
+- title: The Amber Crown
+  year: 2022
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756417703
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756417703
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04037)
+placement_history:
+- date: '2026-10-04'
+  to: early-modern-dynastic-intrigue
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  reason: Dynastic intrigues restructured from the era split to the weapon ladder; this fiction fights with what Dynastic
+    assassins names; re-walked root-down into Dynastic assassins (curator "Great, execute" (2026-10-07 12:58:26 AM, phonemsg-01M49Q14VF4MTKSFSNWEG86898)
+    over the weapon-ladder restructure of Dynastic intrigues; names Dynastic wars, Dynastic assassins, Dynastic murders, Dynastic
+    spy games, Dynastic favor and Dynastic magic are his final list (phonemsg-01M49PYJ3F8TVCMMX2V5HP6492, 12:57:02 AM); the
+    era leaves are dissolved by this ruling; Navola stays on the umbrella pending his ruling).
+  from: early-modern-dynastic-intrigue
+  to: dynastic-assassins

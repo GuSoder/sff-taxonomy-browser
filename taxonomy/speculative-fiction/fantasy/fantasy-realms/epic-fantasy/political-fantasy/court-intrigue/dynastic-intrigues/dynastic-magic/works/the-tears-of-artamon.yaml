@@ -1,0 +1,39 @@
+id: the-tears-of-artamon
+title: The Tears of Artamon
+authors:
+- Sarah Ash
+first_published: 2003
+canonical_genre: dynastic-magic
+placement_status: accepted
+placement_rationale: 'Russian-flavored secondary-world epic: a painter''s son inherits the lordship of Azhkendir and its dragon-spirit
+  Drakhaoul, and is pulled into the tsar''s wars and court politics. The contested inheritance of a ruling house and the power
+  struggle around it drive the series.'
+books:
+- title: Lord of Snow and Shadows
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/374413-L.jpg
+- title: Prisoner of the Iron Tower
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/370039-L.jpg
+- title: Children of the Serpent Gate
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/370040-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/374413-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08586, MC08587, MC08584)
+placement_history:
+- date: '2026-10-04'
+  to: early-modern-dynastic-intrigue
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  reason: Dynastic intrigues restructured from the era split to the weapon ladder; this fiction fights with what Dynastic
+    magic names; re-walked root-down into Dynastic magic (curator "Great, execute" (2026-10-07 12:58:26 AM, phonemsg-01M49Q14VF4MTKSFSNWEG86898)
+    over the weapon-ladder restructure of Dynastic intrigues; names Dynastic wars, Dynastic assassins, Dynastic murders, Dynastic
+    spy games, Dynastic favor and Dynastic magic are his final list (phonemsg-01M49PYJ3F8TVCMMX2V5HP6492, 12:57:02 AM); the
+    era leaves are dissolved by this ruling; Navola stays on the umbrella pending his ruling).
+  from: early-modern-dynastic-intrigue
+  to: dynastic-magic

@@ -2,15 +2,24 @@ id: dynastic-intrigues
 label: Dynastic intrigues
 parent: court-intrigue
 children:
-- medieval-dynastic-intrigue
-- renaissance-dynastic-intrigue
-- early-modern-dynastic-intrigue
+- dynastic-wars
+- dynastic-assassins
+- dynastic-murders
+- dynastic-spy-games
+- dynastic-favor
+- dynastic-magic
 image: 229-dynastic-intrigues.webp
-definition: Court intrigue driven by succession, contested legitimacy, dynastic rivalry and threats to a ruling house. The label is a provisional descriptive
-  coinage.
-status: umbrella
+definition: 'Court intrigue driven by succession, contested legitimacy, dynastic rivalry and threats to a ruling house. The
+  label is a provisional descriptive coinage. Umbrella over the weapon ladder since 2026-10-07: Dynastic wars, Dynastic assassins,
+  Dynastic murders, Dynastic spy games, Dynastic favor, Dynastic magic; Navola (a banking dynasty) has no rung and is parked
+  pending a ruling.'
+status: accepted
 notes: Provisional descriptive coinage; no single canonical reference term covers the partition.
-ruling: Split into regular-era leaves by the curator on 2026-09-22.
+ruling: 'Restructured 2026-10-07 from the regular-era split to the weapon ladder: curator "Great, execute" (2026-10-07 12:58:26
+  AM, phonemsg-01M49Q14VF4MTKSFSNWEG86898) over the weapon-ladder restructure of Dynastic intrigues; names Dynastic wars,
+  Dynastic assassins, Dynastic murders, Dynastic spy games, Dynastic favor and Dynastic magic are his final list (phonemsg-01M49PYJ3F8TVCMMX2V5HP6492,
+  12:57:02 AM); the era leaves are dissolved by this ruling; Navola stays on the umbrella pending his ruling'
 history:
 - date: '2026-09-23'
   change: The Raven Tower moved to Invented Mythology (the curator 12:20); branch is now pure.
+works: []

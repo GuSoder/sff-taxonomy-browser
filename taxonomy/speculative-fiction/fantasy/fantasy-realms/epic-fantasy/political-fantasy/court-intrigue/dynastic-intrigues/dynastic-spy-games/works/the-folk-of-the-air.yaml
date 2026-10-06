@@ -1,0 +1,56 @@
+id: the-folk-of-the-air
+title: The Folk of the Air
+authors:
+- Holly Black
+first_published: 2018
+last_published: 2019
+canonical_genre: dynastic-spy-games
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Dynastic
+  intrigues -> Medieval dynastic intrigue. Hachette centers Jude, Prince Cardan, royal succession, a contested crown, exile
+  and return as queen. Medieval-mode dynastic legitimacy governs over espionage. Released from the #708 structural hold after
+  the curator approved the era partition on 2026-09-22.'
+classification_sources:
+- https://www.hachettebookgroup.com/series/holly-black/the-folk-of-the-air/
+- https://www.hachettebookgroup.com/titles/holly-black/the-cruel-prince/9780316310277/
+books:
+- title: The Cruel Prince
+  first_published: 2018
+  cover_url: 270-the-folk-of-the-air-1.jpg
+- title: The Wicked King
+  first_published: 2019
+  cover_url: 270-the-folk-of-the-air-2.jpg
+- title: The Queen of Nothing
+  first_published: 2019
+  cover_url: 270-the-folk-of-the-air-3.jpg
+- title: The Stolen Heir
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13122196-L.jpg
+- title: The Prisoner's Throne
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14594863-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  record_url: https://www.hachettebookgroup.com/series/holly-black/the-folk-of-the-air/
+  selected_url: 270-the-folk-of-the-air-1.jpg
+  visually_reviewed_on: '2026-09-22'
+  shows_english_title: true
+  review_method: one-pass coordinated trilogy review
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Medieval dynastic intrigue by the size of the board (thrones at war or the palace game); re-walked root-down
+    into The palace game (curator "Perfect, execute" (2026-10-06 11:54:24 PM, phonemsg-01M49KBWQN46Z17153ADAY6MNG) over the
+    size-of-the-board cut of Medieval dynastic intrigue proposed after his 11:50:03 PM "Retry the split from scratch with
+    a different angle" (phonemsg-01M49K3X9WE05WWEYG5YK6KKB8); the names Thrones at war and The palace game are as proposed
+    and accepted).
+  from: medieval-dynastic-intrigue
+  to: the-palace-game
+- date: '2026-10-07'
+  reason: Dynastic intrigues restructured from the era split to the weapon ladder; this fiction fights with what Dynastic
+    spy games names; re-walked root-down into Dynastic spy games (curator "Great, execute" (2026-10-07 12:58:26 AM, phonemsg-01M49Q14VF4MTKSFSNWEG86898)
+    over the weapon-ladder restructure of Dynastic intrigues; names Dynastic wars, Dynastic assassins, Dynastic murders, Dynastic
+    spy games, Dynastic favor and Dynastic magic are his final list (phonemsg-01M49PYJ3F8TVCMMX2V5HP6492, 12:57:02 AM); the
+    era leaves are dissolved by this ruling; Navola stays on the umbrella pending his ruling).
+  from: the-palace-game
+  to: dynastic-spy-games

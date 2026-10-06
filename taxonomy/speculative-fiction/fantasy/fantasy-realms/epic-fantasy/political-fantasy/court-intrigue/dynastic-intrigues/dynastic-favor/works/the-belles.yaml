@@ -1,0 +1,46 @@
+id: the-belles
+title: The Belles
+authors:
+- Dhonielle Clayton
+first_published: 2018
+canonical_genre: dynastic-favor
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Epic fantasy -> Political fantasy -> Court intrigue -> Renaissance
+  dynastic intrigue. Disney grounds a complete three-book Orleans sequence in magically controlled bodily beauty, a palace
+  favorite serving a queen, rival princesses/rightful succession, underground resistance and a deadly contest to choose the
+  next queen. Across the trilogy, magical power is entangled with who legitimately rules Orleans, so dynastic legitimacy governs
+  over Hard magic or general court espionage.'
+classification_sources:
+- https://books.disney.com/series/the-belles/
+- https://books.disney.com/book/the-belles/
+- https://books.disney.com/book/the-everlasting-rose/
+- https://books.disney.com/book/the-beauty-trials/
+books:
+- title: The Belles
+  first_published: 2018
+  cover_url: http://books.disney.com/content/uploads/2017/10/1484728491.jpg
+- title: The Everlasting Rose
+  first_published: 2019
+  cover_url: http://books.disney.com/content/uploads/2018/09/1484728483-678x1024.jpg
+- title: The Beauty Trials
+  first_published: 2023
+  cover_url: https://i0.wp.com/books.disney.com/content/uploads/2022/10/Beauty-Trials_CVR1.jpg?fit=1650%2C2475&ssl=1
+cover_curation:
+  status: complete
+  source: Disney Books
+  record_url: https://books.disney.com/series/the-belles/
+  selected_url: http://books.disney.com/content/uploads/2017/10/1484728491.jpg
+  visually_reviewed_on: '2026-09-21'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 3
+  selection_rule: one-pass official series review
+placement_history:
+- date: '2026-10-07'
+  reason: Dynastic intrigues restructured from the era split to the weapon ladder; this fiction fights with what Dynastic
+    favor names; re-walked root-down into Dynastic favor (curator "Great, execute" (2026-10-07 12:58:26 AM, phonemsg-01M49Q14VF4MTKSFSNWEG86898)
+    over the weapon-ladder restructure of Dynastic intrigues; names Dynastic wars, Dynastic assassins, Dynastic murders, Dynastic
+    spy games, Dynastic favor and Dynastic magic are his final list (phonemsg-01M49PYJ3F8TVCMMX2V5HP6492, 12:57:02 AM); the
+    era leaves are dissolved by this ruling; Navola stays on the umbrella pending his ruling).
+  from: renaissance-dynastic-intrigue
+  to: dynastic-favor
