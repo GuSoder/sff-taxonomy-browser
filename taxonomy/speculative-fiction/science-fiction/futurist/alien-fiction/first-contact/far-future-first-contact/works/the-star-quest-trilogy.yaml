@@ -1,0 +1,33 @@
+id: the-star-quest-trilogy
+title: The Star Quest Trilogy
+authors:
+- Ben Bova
+first_published: 2013
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: A crew aboard the starship Sagan travels to a distant planet to find a new home for humanity and meets
+  alien minds there; first contact among the stars is the story.
+books:
+- title: New Earth
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/11685208-L.jpg
+- title: Death Wave
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9643002-L.jpg
+- title: Apes and Angels
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8452685-L.jpg
+- title: Survival
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/14809143-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11685208-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00968, MC00954, MC00948, MC00980)
+placement_history:
+- date: '2026-10-04'
+  to: far-future-first-contact
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
