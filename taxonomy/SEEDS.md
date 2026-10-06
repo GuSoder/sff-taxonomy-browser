@@ -33,3 +33,9 @@ Applies to: Period SF (speculative-fiction > science-fiction > historical > peri
 The curator, phonemsg-01M48JCHHMJTXJ57A1JMQHSJHZ (2:18:03 PM): "Another 'lvl3 genre allowed for growth' is Animal Fantasy, almost silly to have as a thin leaf up here, could perhaps grow into a 'Fable' umbrella category."
 
 Animal fantasy (speculative-fiction > fantasy > real-earth-fantasy > animal-fantasy, 5 fictions) may now take children by seed or split. A Fable umbrella is a structural change: it is brought to him as an "Approve seed?:" or "Approve split?:" proposal when the books justify it, never created on my own. The relaxed level-3 genres are now Period SF, Hidden history SF and Animal fantasy; all others keep the limit.
+
+## Ruling: Far shores fantasy added to the level-3 relaxation (2026-10-06)
+
+The curator, phonemsg-01M48JHGJX6H98Z6YYFAJ1HZ40 (2:20:45 PM): "Another 'open lvl3' is Far shores, this one can have geographical bundles like silkpunk when the other children grow numerous".
+
+Far shores fantasy (speculative-fiction > fantasy > fantasy-realms > far-shores-fantasy; children Silkpunk, Khayal, Katha, Griot, Fifth sun; Silkpunk is already a bundle with Chuanqi and Genso) may take new children by seed. When its children are numerous they are bundled geographically, as Silkpunk is; that bundling is a structural step that comes to him as a proposal. The relaxed level-3 genres are now Period SF, Hidden history SF, Animal fantasy and Far shores fantasy.
