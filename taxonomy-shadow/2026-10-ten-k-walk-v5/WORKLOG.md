@@ -20,3 +20,6 @@ MC03061 is a novella, explicitly confirmed by Tor.com publisher announcement and
 
 ## 2026-10-07 - Croquemitaine excluded by curator
 MC03068, The Legend of Croquemitaine (1863; 2013 reissue), was excluded on the curator's explicit "we just skip this" (phonemsg-01M4BF4SEE5XQWZVD6009HNJDJ, 17:19:07). The old chivalric legend is outside his intended browsing scope; he contrasted it with Proto SF. Work-specific scope ruling, not a general historical claim about the invention of fantasy and not permission to remove existing older fantasy. No tree placement or count change.
+
+## 2026-10-07 - Principle of Moments: documented exception
+MC03069 placed in Retro space opera under owner ruling phonemsg-01M4BKD1RJY5Q2EM79AFB7P4YS (18:33:31): one-time exception to "SF time travel goes Atemporal" for this book only; the rule stands for all others. Standing guidance (not a placement): when Star Wars rows reach intake they go to Classic space opera, evergreen side, on the basis that the Force descends from SF psi-power tradition (owner 18:18-18:33 conversation).
