@@ -1886,3 +1886,15 @@
   reason: 'NOVELLA: Tor.com publisher announcement and author explicitly identify short form; excluded from novel intake.'
   sources:
   - https://reactormag.com/book-announcements-an-unnatural-life-erin-k-wagner/
+- id: MC03065
+  title: Swept Away at Witch Camp
+  author: Erin Vanessa
+  reason: 'PICTURE BOOK: publisher explicitly identifies 32-page picture book, not a novel.'
+  sources:
+  - https://www.hachettebookgroup.com/titles/erin-vanessa/swept-away-at-witch-camp/9780762487745/
+- id: MC03066
+  title: The Song
+  author: Erinn L. Kemper
+  reason: 'SHORT STORY: Tor.com Original chapbook; ISFDB contents explicitly short story, not a novel.'
+  sources:
+  - https://www.isfdb.org/cgi-bin/pl.cgi?737319=
