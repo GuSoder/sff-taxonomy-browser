@@ -1,0 +1,41 @@
+id: jacobs-ladder
+title: Jacob's Ladder
+authors:
+- Elizabeth Bear
+first_published: 2007
+canonical_genre: voyage-societies
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation
+  starships > Voyage societies. Rival houses and engineered inhabitants struggle for control and survival across the ship-centered
+  trilogy. The ship remains the multi-generation community and story setting; the approved story-engine partition selects
+  this child.'
+books:
+- title: Dust
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2519488-L.jpg
+- title: Chill
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6445904-L.jpg
+- title: Grail
+  year: 2011
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780553591095
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2519488-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02808, MC02799, MC02804)
+placement_history:
+- date: '2026-10-04'
+  to: generation-starships
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: generation-starships
+  to: voyage-societies
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation starships
+    > Voyage societies. Rival houses and engineered inhabitants struggle for control and survival across the ship-centered
+    trilogy. The ship remains the multi-generation community and story setting; the approved story-engine partition selects
+    this child. Curator split ruling phonemsg-01M4ARYY80J2CA9X9WBW65TVY9'
+classification_sources:
+- https://www.penguinrandomhouse.com/books/10211/dust-by-elizabeth-bear/

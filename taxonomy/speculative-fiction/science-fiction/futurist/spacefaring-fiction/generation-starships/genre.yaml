@@ -1,18 +1,15 @@
 id: generation-starships
 label: Generation starships
 parent: spacefaring-fiction
-children: []
+children:
+- starship-mysteries
+- voyage-societies
 image: 111-generation-starships.webp
-definition: Societies living aboard multigenerational spacecraft, often after the ship’s true nature or mission has been forgotten.
-status: candidate
-works:
-- non-stop
-- escaping-exodus
-- rite-of-passage
-- calypso
-- halcyon-years
-- jacobs-ladder
-- hull-zero-three
-- the-ark
-- the-deep-sky
-- slow-train-to-arcturus
+definition: 'Pure umbrella for societies living aboard multigenerational spacecraft, including biological vessels, split by
+  story engine: Starship mysteries (solving concealed truth) and Voyage societies (social order and conflict).'
+status: umbrella
+works: []
+history:
+- date: '2026-10-07'
+  change: Split with umbrella at ten fictions, curator "Execute" phonemsg-01M4ARYY80J2CA9X9WBW65TVY9, 10:51:26; approved distribution
+    4/6.

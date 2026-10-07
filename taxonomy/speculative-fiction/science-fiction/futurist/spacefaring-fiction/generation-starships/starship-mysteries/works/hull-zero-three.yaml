@@ -1,0 +1,35 @@
+id: hull-zero-three
+title: Hull Zero Three
+authors:
+- Greg Bear
+first_published: 2010
+canonical_genre: starship-mysteries
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation
+  starships > Starship mysteries. An amnesiac awakened crew member investigates the damaged colony ship and its mission while
+  surviving its dangers. The ship remains the multi-generation community and story setting; the approved story-engine partition
+  selects this child.'
+books:
+- title: Hull Zero Three
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/14389028-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14389028-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03540)
+placement_history:
+- date: '2026-10-04'
+  to: generation-starships
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: generation-starships
+  to: starship-mysteries
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation starships
+    > Starship mysteries. An amnesiac awakened crew member investigates the damaged colony ship and its mission while surviving
+    its dangers. The ship remains the multi-generation community and story setting; the approved story-engine partition selects
+    this child. Curator split ruling phonemsg-01M4ARYY80J2CA9X9WBW65TVY9'
+classification_sources:
+- https://www.gregbear.com/books/hull.php

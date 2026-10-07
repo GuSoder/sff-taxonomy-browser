@@ -1,0 +1,32 @@
+id: the-deep-sky
+title: The Deep Sky
+authors:
+- Yume Kitasei
+first_published: 2023
+canonical_genre: starship-mysteries
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation
+  starships > Starship mysteries. A bomb kills crew members; finding the culprit is the mystery at the core of the narrative.
+  The ship remains the multi-generation community and story setting; the approved story-engine partition selects this child.'
+classification_sources:
+- https://locusmag.com/review/gabino-iglesias-reviews-the-deep-sky-by-yume-kitasei/
+- https://locusmag.com/review/gabino-iglesias-reviews-the-deep-sky-by-yume-kitasei/
+intake: 'gap-2022 #334 (LocusRec2023-First)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13252876-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: generation-starships
+  reason: 'Intake placement (gap-2022 batch n=321-335), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-07'
+  from: generation-starships
+  to: starship-mysteries
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation starships
+    > Starship mysteries. A bomb kills crew members; finding the culprit is the mystery at the core of the narrative. The
+    ship remains the multi-generation community and story setting; the approved story-engine partition selects this child.
+    Curator split ruling phonemsg-01M4ARYY80J2CA9X9WBW65TVY9'

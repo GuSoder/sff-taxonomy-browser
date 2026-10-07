@@ -1,0 +1,30 @@
+id: halcyon-years
+title: Halcyon Years
+authors:
+- Alastair Reynolds
+first_published: 2025
+canonical_genre: starship-mysteries
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation
+  starships > Starship mysteries. A private investigator solves deaths and the concealed reality behind the ship''s mission
+  and controlling powers. The ship remains the multi-generation community and story setting; the approved story-engine partition
+  selects this child.'
+classification_sources:
+- https://locusmag.com/review/halcyon-years-by-alastair-reynolds-review-by-russell-letson/
+intake: gap-2022 tier-2 chunk 5 (Locus Recommended-only)
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/15258238-L.jpg
+  visually_reviewed_on: null
+  review_method: OL search API title+author match
+placement_history:
+- date: '2026-09-27'
+  change: Placed in generation-starships at tier-2 chunk-5 sweep (k2 81-100, the curator greenlight phonemsg-01M3J5GYJDEMZN7NHX40KQ8XET).
+- date: '2026-10-07'
+  from: generation-starships
+  to: starship-mysteries
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation starships
+    > Starship mysteries. A private investigator solves deaths and the concealed reality behind the ship''s mission and controlling
+    powers. The ship remains the multi-generation community and story setting; the approved story-engine partition selects
+    this child. Curator split ruling phonemsg-01M4ARYY80J2CA9X9WBW65TVY9'

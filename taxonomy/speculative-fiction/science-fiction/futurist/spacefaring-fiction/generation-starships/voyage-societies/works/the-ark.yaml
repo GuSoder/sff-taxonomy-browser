@@ -1,0 +1,38 @@
+id: the-ark
+title: The Ark
+authors:
+- Paul Chafe
+first_published: 2007
+canonical_genre: voyage-societies
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation
+  starships > Voyage societies. The universe covers construction politics, then descendant theocracy, oppression and the struggle
+  for freedom; recovering the mission is part of the social transformation. The ship remains the multi-generation community
+  and story setting; the approved story-engine partition selects this child.'
+books:
+- title: 'Genesis: The Ark'
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2787297-L.jpg
+- title: 'Exodus: The Ark'
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6715713-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2787297-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07637, MC07636)
+placement_history:
+- date: '2026-10-04'
+  to: generation-starships
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: generation-starships
+  to: voyage-societies
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation starships
+    > Voyage societies. The universe covers construction politics, then descendant theocracy, oppression and the struggle
+    for freedom; recovering the mission is part of the social transformation. The ship remains the multi-generation community
+    and story setting; the approved story-engine partition selects this child. Curator split ruling phonemsg-01M4ARYY80J2CA9X9WBW65TVY9'
+classification_sources:
+- https://www.baen.com/exodus-the-ark.html

@@ -1,0 +1,19 @@
+id: voyage-societies
+label: Voyage societies
+parent: generation-starships
+children: []
+works:
+- rite-of-passage
+- escaping-exodus
+- jacobs-ladder
+- calypso
+- the-ark
+- slow-train-to-arcturus
+image: 571-voyage-societies.webp
+definition: 'Generation-starship fiction centered on the social order and conflicts of communities living across a long voyage:
+  caste, succession, upbringing, belief, political control and the kind of civilization to build or preserve. Includes biological
+  vessels and divided habitat societies. Not Starship mysteries, where solving the ship''s concealed truth drives the plot;
+  secrets may appear here without making investigation the governing engine.'
+status: accepted
+ruling: Curator "Execute" phonemsg-01M4ARYY80J2CA9X9WBW65TVY9, 2026-10-07 10:51:26, following Starship mysteries naming proposal
+  and the 4/6 distribution.
