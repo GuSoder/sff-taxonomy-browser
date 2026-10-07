@@ -1,0 +1,72 @@
+id: boundary
+title: Boundary
+authors:
+- Eric Flint
+- Ryk E. Spoor
+first_published: 2006
+canonical_genre: planetary-science
+placement_status: accepted
+placement_rationale: 'The Boundary universe is hard SF of planetary exploration and survival: paleontology leads to Phobos
+  and Mars, the original trilogy reaches Ceres and Europa, and the Castaway books test human survival on the alien planet
+  Lincoln. Its shared engine is scientific exploration of planetary environments and the practical problems they pose, rather
+  than a war, a colony society, or first contact alone.'
+books:
+- title: Boundary
+  year: 2006
+  cover_url: https://www.baen.com/media/catalog/product/1/4/1416509321-med.jpg
+- title: Threshold
+  year: 2010
+  cover_url: https://www.baen.com/media/catalog/product/1/4/1439133603-med.jpg
+- title: Portal
+  year: 2013
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781451638967-med.jpg
+- title: Castaway Planet
+  year: 2015
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781476780276-med.jpg
+- title: Castaway Odyssey
+  year: 2016
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781476781815-med.jpg
+- title: Castaway Resolution
+  year: 2020
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982124410-med.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/1/4/1416509321-med.jpg
+  visually_reviewed_on: '2026-10-07'
+  review_method: Publisher covers inspected as a six-book contact sheet
+intake: ten-k walk v5 (queue ids MC02984, MC03044, MC03022, MC02986, MC02985, MC02987)
+placement_history:
+- date: '2026-10-07'
+  to: planetary-science
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+root_down_walk:
+- node: speculative-fiction
+  choice: science-fiction
+  reason: A near-future scientific universe; not magic or a fantasy realm.
+- node: science-fiction
+  choice: futurist
+  reason: The author places the initial trilogy roughly thirty years ahead of its present; Castaway continues into later space
+    exploration. Not historical or atemporal; no time-travel premise.
+- node: futurist
+  choice: hard-sf
+  reason: Author calls it hard SF and describes human-versus-universe conflicts, scientific discovery and survival. Alien
+    history and first contact are discoveries inside that engine, not its sole subject; colony politics, warfare and Earth
+    futures do not govern the universe.
+- node: hard-sf
+  choice: planetary-science
+  reason: Mars, Phobos, Ceres, Europa and Lincoln supply the environments to explore and survive. Engineering enables this
+    work, but the subject is not orbital mechanics alone; neither matter transmission nor a conceptual world-model defines
+    it.
+sources:
+- https://www.baen.com/boundary.html
+- https://grandcentralarena.com/boundary-trilogy/
+- https://www.simonandschuster.net/series/Boundary
+- https://www.baen.com/threshold.html
+- https://www.baen.com/portal.html
+- https://www.baen.com/castaway-planet.html
+- https://www.baen.com/castaway-odyssey.html
+- https://www.baen.com/castaway-resolution.html
+intake_notes: 'Boundary, Second Edition is the queue edition of the existing novel, not an additional fiction. Corrected queue
+  years against publisher publication dates: Boundary 2006; Threshold 2010; Castaway Planet 2015; Castaway Resolution 2020.
+  Castaway 4-6 shares the Boundary universe and is folded here under rule 11j.'
