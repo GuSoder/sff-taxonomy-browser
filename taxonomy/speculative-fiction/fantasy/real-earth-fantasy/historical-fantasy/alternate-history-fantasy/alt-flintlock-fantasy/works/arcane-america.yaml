@@ -3,6 +3,8 @@ title: Arcane America
 authors:
 - Kevin J. Anderson
 - Sarah A. Hoyt
+- Eric Flint
+- Walter H. Hunt
 first_published: 2018
 canonical_genre: alt-flintlock-fantasy
 placement_status: accepted
@@ -14,14 +16,30 @@ books:
 - title: Uncharted
   year: 2018
   cover_url: https://covers.openlibrary.org/b/id/13346056-L.jpg
+- title: Council of Fire
+  year: 2019
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982124151-med.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/13346056-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC05511)
+intake: ten-k walk v5 (queue ids MC05511); MC02988 Council of Fire folded as same Arcane America universe
 placement_history:
 - date: '2026-10-04'
   to: alt-flintlock-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  to: alt-flintlock-fantasy
+  reason: 'Council of Fire folds into existing Arcane America under shared-universe rule 11j. Root-down: speculative fiction
+    > fantasy (real magic) > real-earth fantasy (American history) > historical fantasy > alternate-history fantasy (1759
+    Sundering openly rewrites history) > Alt flintlock fantasy (musket-age America). Not secret history, invented-world dynastic
+    fantasy, or SF alternate history: magic transforms the world.'
+sources:
+- https://www.baen.com/council-of-fire.html
+cover_reviews:
+- book: Council of Fire
+  date: '2026-10-07'
+  source: https://www.baen.com/media/catalog/product/9/7/9781982124151-med.jpg
+  result: English title and both authors visually verified on publisher cover.
