@@ -8,3 +8,6 @@ Commission: phonemsg-01M43MYMGAMQTNA3CY402KK7FB (+ pause correction phonemsg-01M
 
 ## 2026-10-04 17:15 - overlay moved to live
 All 96 walked rows are in the live tree or held (commit 42568614 and e4fdefa0). From here the original tree is the only working tree; this overlay is frozen. Resume at MC01356 Bound by Fate after the Otherworld fantasy split answer.
+
+## 2026-10-07 - TNT excluded
+MC03028 T.N.T: Telzey Amberdon & Trigger Argee Together is a James H. Schmitz story collection, edited by Eric Flint and Guy Gordon, not a Flint novel. Publisher original contents lists seven stories and afterwords, with no novel. Excluded under short-form intake scope, not parked for a decision. Sources: https://www.baen.com/Chapters/0671578790/0671578790_c_.htm ; https://www.baen.com/t-n-t-telzey-and-trigger.html . No fiction/book count change.
