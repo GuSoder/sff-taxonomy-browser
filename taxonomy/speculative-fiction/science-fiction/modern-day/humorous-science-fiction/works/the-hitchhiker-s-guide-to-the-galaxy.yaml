@@ -37,8 +37,12 @@ books:
   year: 2009
   authors:
   - Eoin Colfer
-  cover_url: https://images.squarespace-cdn.com/content/v1/5e7b327982e7414cbc8d35ae/1585827789316-QADN6LX3713CKWPLWOVP/AndAnotherThingUK.jpg
+  cover_url: https://www.penguin.co.uk/_next/image?url=https%3A%2F%2Fcdn.penguin.co.uk%2Fdam-assets%2Fbooks%2F9780141932996%2F9780141932996-jacket-large.jpg&w=819&q=100
   shows_english_title: true
+  cover_curation:
+    source: Penguin official ebook jacket
+    visually_reviewed_on: '2026-10-07'
+    review_method: downloaded jacket pixel inspection, no audio read-by label or author-gallery gray border
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/8594912-L.jpg
   shows_english_title: true
