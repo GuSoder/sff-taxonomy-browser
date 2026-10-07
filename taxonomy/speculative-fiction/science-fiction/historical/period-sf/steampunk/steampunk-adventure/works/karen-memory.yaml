@@ -1,0 +1,38 @@
+id: karen-memory
+title: Karen Memory
+authors:
+- Elizabeth Bear
+first_published: 2015
+canonical_genre: steampunk-adventure
+placement_status: accepted
+placement_rationale: Karen Memory, a seamstress at a Seattle brothel in a gold-rush frontier city full of steam-powered machines
+  and sewing-machine exoskeletons, shelters a runaway and takes on a murderer.
+books:
+- title: Karen Memory
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9138788-L.jpg
+- title: Angel Maker
+  year: 2025
+  cover_url: https://images-na.ssl-images-amazon.com/images/P/0986373575.01.LZZZZZZZ.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9138788-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: 'ten-k walk v5 (queue ids MC02806); folded Angel Maker (gap-2022 awards tier #20) under rule 11j'
+placement_history:
+- date: '2026-10-04'
+  to: steampunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: steampunk
+  to: steampunk-adventure
+  reason: 'Curator Execute on October 7 2026 at 10:00 after choosing Steampunk history and Steampunk adventure. Approved 5/5
+    mapping; Angel Maker source-confirmed Karen Memory sequel folded under rule 11j, leaving 5/4. Root-down walk: Speculative
+    fiction > Science fiction (Steampunk gate includes science fantasy and invented worlds) > Historical > Period SF > Steampunk
+    > Steampunk adventure. Steampunk in which a character journey, mystery or mission drives the story inside a steam-powered
+    world, whether alternate Earth or wholly invented. Not Steampunk history, where the transformation of historical events,
+    nations and industrial power is the central subject.'
+sources:
+- https://www.elizabethbear.com/post/the-long-awaited-full-length-sequel-to-karen-memory

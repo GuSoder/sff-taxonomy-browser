@@ -1,22 +1,20 @@
 id: steampunk
 label: Steampunk
 parent: period-sf
-children: []
+children:
+- steampunk-history
+- steampunk-adventure
 image: 24-steampunk.webp
-definition: Science fiction or science fantasy organized around steam-era industrial technology and a retrofuturist nineteenth-century aesthetic; settings may be
-  alternate Earth history, actual-history Victorian settings, or wholly invented worlds.
+definition: Science fiction or science fantasy organized around steam-era industrial technology and a retrofuturist nineteenth-century
+  aesthetic; settings may be alternate Earth history, actual-history Victorian settings, or wholly invented worlds. Umbrella
+  split by whether steam remakes history or supplies the world of a character adventure. Curator Execute on October 7 2026
+  at 10:00 after choosing Steampunk history and Steampunk adventure. Approved 5/5 mapping; Angel Maker source-confirmed Karen
+  Memory sequel folded under rule 11j, leaving 5/4.
 status: accepted
-works:
-- a-transatlantic-tunnel-hurrah
-- the-clockwork-century
-- the-difference-engine
-- leviathan
-- everfair
-- angel-maker
-- gideon-smith
-- karen-memory
-- the-clockwork-dagger
-- the-baskerville-affair
+works: []
 history:
 - date: '2026-09-23'
   change: Moved whole under period-sf (Historical fold, the curator 15:05).
+- date: '2026-10-07'
+  change: Curator Execute on October 7 2026 at 10:00 after choosing Steampunk history and Steampunk adventure. Approved 5/5
+    mapping; Angel Maker source-confirmed Karen Memory sequel folded under rule 11j, leaving 5/4.

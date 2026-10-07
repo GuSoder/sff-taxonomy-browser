@@ -1,0 +1,36 @@
+id: the-cinder-spires
+title: The Cinder Spires
+authors:
+- Jim Butcher
+first_published: 2015
+canonical_genre: steampunk-adventure
+placement_status: accepted
+placement_rationale: 'Captain Grimm and the airship Predator undertake missions through an invented world of spires, steam-powered
+  technology and magic. The author explicitly calls the series steampunk; the current Steampunk gate includes science fantasy
+  and wholly invented worlds. The adventure engine is Grimm and his crew, not a transformation of recognizable Earth history.
+  Full root-down walk: Speculative fiction > Science fiction (the specific Steampunk science-fantasy gate) > Historical >
+  Period SF > Steampunk > Steampunk adventure.'
+books:
+- title: The Aeronaut's Windlass
+  year: 2015
+  cover_url: https://images2.penguinrandomhouse.com/cover/9780593642054
+- title: The Olympian Affair
+  year: 2023
+  cover_url: https://images4.penguinrandomhouse.com/cover/9780451466839
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images2.penguinrandomhouse.com/cover/9780593642054
+  visually_reviewed_on: '2026-10-07'
+  review_method: Both current publisher covers inspected visually
+intake: ten-k walk v5 (queue ids MC04555, MC04559)
+placement_history:
+- date: '2026-10-07'
+  to: steampunk-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+sources:
+- https://www.jim-butcher.com/books/cinder-spires/the-aeronauts-windlass-1
+- https://www.penguinrandomhouse.com/series/AP7/the-cinder-spires/
+- https://www.jim-butcher.com/posts/2023/the-olympian-affair-comes-out-november-7th
+intake_notes: 'Queue years were later editions: original publication years corrected to 2015 and 2023. Warriorborn novella
+  excluded under intake scope.'
