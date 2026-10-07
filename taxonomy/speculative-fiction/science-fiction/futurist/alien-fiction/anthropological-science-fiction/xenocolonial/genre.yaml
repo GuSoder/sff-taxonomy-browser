@@ -1,19 +1,16 @@
 id: xenocolonial
 label: Xenocolonial
 parent: anthropological-science-fiction
-children: []
+children:
+- colonial-worlds
+- alien-dominions
 image: 177-xenocolonial.webp
-definition: Anthropological science fiction where the alien encounter takes the form of colonization, occupation, or cultural erasure.
-status: candidate
-works:
-- the-martian-chronicles
-- exo
-- the-fifth-head-of-cerberus
-- the-city-in-the-middle-of-the-night
-- the-lesson
-- alien-clay
-- the-mercy-of-gods
-- the-mercy-of-gods
-- undertow
-- mother-of-demons
-- jao-empire
+definition: 'Pure umbrella for anthropological science fiction where cross-species encounters take the form of colonization,
+  occupation or cultural erasure. Split by who brings colonial power: Colonial worlds (human colonial institutions on alien
+  worlds) and Alien dominions (humans inside alien colonial power).'
+status: umbrella
+works: []
+history:
+- date: '2026-10-07'
+  change: Split with umbrella at ten fictions; curator "Ok, approved" phonemsg-01M4ATDQD3PK2X7XPSFEQJS4WN at11:16:59 following
+    Colonial worlds / Alien dominions naming exchange. Approved6/4 distribution.

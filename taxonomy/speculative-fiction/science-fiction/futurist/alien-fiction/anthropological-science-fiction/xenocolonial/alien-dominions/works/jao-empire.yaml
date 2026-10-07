@@ -5,19 +5,14 @@ authors:
 - K. D. Wentworth
 - David Carrico
 first_published: 2003
-canonical_genre: xenocolonial
+canonical_genre: alien-dominions
 placement_status: accepted
-placement_rationale: 'Root-down: Speculative fiction -> Science fiction -> Futurist (an interstellar civilization, not a recognizable
-  present invasion, Earth history or time travel) -> Alien fiction (human/Jao/Lleix and further alien cultures learning to
-  cooperate, not Earth futures, rigorous-science demonstration or an unanchored cosmos) -> Anthropological science fiction
-  -> Xenocolonial. Across the trilogy, an occupied Earth becomes a partner of its Jao conquerors; the Jao then confront their
-  participation in the attempted extermination of the Lleix; a new potential ally''s xenophobia is rooted in a prior alien
-  invasion. Imperial violence and the rebuilding of cross-cultural trust govern the alliance that fights the Ekhat. Not Xenanthropology''s
-  non-interference, Xenolinguistics'' translation engine or Earthborn''s human cultures. First contact describes particular
-  encounters but misses the existing occupation and imperial legacy. Space armada is the strongest rival because fleet battles
-  matter, but describes the military means rather than the series-wide cultural relationship; Space command likewise loses
-  the occupation-to-cooperation arc. Modern-day Alien conquest fails the temporal parent and would treat the first volume
-  as the whole universe. One fiction under rule11j, three published novels.'
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological
+  science fiction > Xenocolonial > Alien dominions. Earth''s Jao occupation becomes alliance; the Jao face their imperial
+  violence toward the Lleix and encounter another culture traumatized by invasion. The whole trilogy retains colonial legacy
+  and rebuilding cross-species trust as its continuous relationship. The cross-cultural colonial relationship selects Anthropological
+  science fiction over discovery alone, military means or settled civic life. The approved direction-of-colonial-power axis
+  selects this child.'
 books:
 - title: The Course of Empire
   year: 2003
@@ -49,6 +44,15 @@ placement_history:
 - date: '2026-10-07'
   to: xenocolonial
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: xenocolonial
+  to: alien-dominions
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological science
+    fiction > Xenocolonial > Alien dominions. Earth''s Jao occupation becomes alliance; the Jao face their imperial violence
+    toward the Lleix and encounter another culture traumatized by invasion. The whole trilogy retains colonial legacy and
+    rebuilding cross-species trust as its continuous relationship. The cross-cultural colonial relationship selects Anthropological
+    science fiction over discovery alone, military means or settled civic life. The approved direction-of-colonial-power axis
+    selects this child. Curator split ruling phonemsg-01M4ATDQD3PK2X7XPSFEQJS4WN'
 classification_sources:
 - https://www.baen.com/categories/books-by-series-list/jao-empire-by-eric-flint-and-k-d-wentworth.html
 - https://www.baen.com/the-course-of-empire.html

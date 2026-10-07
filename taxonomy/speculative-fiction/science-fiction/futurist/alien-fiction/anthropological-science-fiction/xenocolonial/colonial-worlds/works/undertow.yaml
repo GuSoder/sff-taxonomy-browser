@@ -1,0 +1,37 @@
+id: undertow
+title: Undertow
+authors:
+- Elizabeth Bear
+first_published: 2007
+canonical_genre: colonial-worlds
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological
+  science fiction > Xenocolonial > Colonial worlds. Human corporate settlers exploit the native ranids as mining labor; ranid
+  resistance and cultural viewpoint govern the colonial encounter. The cross-cultural colonial relationship selects Anthropological
+  science fiction over discovery alone, military means or settled civic life. The approved direction-of-colonial-power axis
+  selects this child.'
+books:
+- title: Undertow
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/373484-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/373484-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02823)
+placement_history:
+- date: '2026-10-04'
+  to: xenocolonial
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: xenocolonial
+  to: colonial-worlds
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological science
+    fiction > Xenocolonial > Colonial worlds. Human corporate settlers exploit the native ranids as mining labor; ranid resistance
+    and cultural viewpoint govern the colonial encounter. The cross-cultural colonial relationship selects Anthropological
+    science fiction over discovery alone, military means or settled civic life. The approved direction-of-colonial-power axis
+    selects this child. Curator split ruling phonemsg-01M4ATDQD3PK2X7XPSFEQJS4WN'
+classification_sources:
+- https://www.eyrie.org/~eagle/reviews/books/0-553-58905-4.html
