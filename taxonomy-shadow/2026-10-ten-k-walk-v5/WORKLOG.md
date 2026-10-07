@@ -17,3 +17,6 @@ MC03059 Erica Hendry's 2026 novel is a contemporary comic yacht mystery about gr
 
 ## 2026-10-07 - An Unnatural Life excluded
 MC03061 is a novella, explicitly confirmed by Tor.com publisher announcement and the author, not a novel. Excluded short form, not a genre hold. https://reactormag.com/book-announcements-an-unnatural-life-erin-k-wagner/ .
+
+## 2026-10-07 - Croquemitaine excluded by curator
+MC03068, The Legend of Croquemitaine (1863; 2013 reissue), was excluded on the curator's explicit "we just skip this" (phonemsg-01M4BF4SEE5XQWZVD6009HNJDJ, 17:19:07). The old chivalric legend is outside his intended browsing scope; he contrasted it with Proto SF. Work-specific scope ruling, not a general historical claim about the invention of fantasy and not permission to remove existing older fantasy. No tree placement or count change.
