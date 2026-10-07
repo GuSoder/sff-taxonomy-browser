@@ -1,18 +1,17 @@
 id: uncanny-thresholds
 label: Uncanny thresholds
 parent: eldritch-doors
-definition: Anchored crossings into solemn, philosophical or Gothic otherworlds where ontological strangeness, metaphysical encounter or transformation governs.
-status: accepted
+definition: 'Pure umbrella for uncanny anchored-threshold fantasy, partitioned by what the crossing is for: Visionary thresholds
+  (vision, reckoning and contemplation) or Quest thresholds (an outward mission, rescue or chase). Includes solemn, philosophical
+  and Gothic encounters; work-specific curator rulings are preserved.'
+status: umbrella
 ruling: the curator, 2026-09-22 15:05 CEST
-children: []
+children:
+- visionary-thresholds
+- quest-thresholds
 image: 282-uncanny-thresholds.webp
-works:
-- piranesi
-- the-haunted-woman
-- the-coming-race
-- the-green-child
-- lilith
-- the-ship-of-ishtar
-- the-ten-thousand-doors-of-january
-- the-staircase-in-the-woods
-- game-of-shadows
+works: []
+history:
+- date: '2026-10-07'
+  change: Split with umbrella at ten fictions; approved 5/5 axis and names amended to thresholds by curator phonemsg-01M4BCDQRD3XSZM9P4P00M1S9Q,
+    16:31:34 CEST.

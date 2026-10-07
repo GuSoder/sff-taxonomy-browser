@@ -1,0 +1,31 @@
+id: lilith
+title: Lilith
+authors:
+- George MacDonald
+first_published: 1895
+canonical_genre: visionary-thresholds
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Fantasy > Portal fantasy > Eldritch doors > Uncanny thresholds
+  > Visionary thresholds. Mirror crossings lead to a spiritual pilgrimage of repentance, death and redemption; inner reckoning
+  governs over adventure.'
+classification_sources:
+- https://www.eerdmans.com/9780802860613/lilith/
+- https://www.gutenberg.org/ebooks/1640
+cover_curation:
+  status: complete
+  selected_url: https://eerdmans-publishing-us.imgix.net/covers/9780802860613.jpg?auto=format&w=1200
+  shows_english_title: true
+  review_method: existing reviewed cover; held cards one-pass official cover
+placement_history:
+- date: '2026-10-07'
+  to: uncanny-thresholds
+  reason: 'Pre-split placement rationale preserved: Actual-tree re-walk: Speculative fiction -> Fantasy -> Portal fantasy
+    -> Eldritch doors. The library mirror is anchored; the adult metaphysical story is solemn and dark. Split re-walk: Speculative
+    fiction -> Fantasy -> Portal fantasy -> Eldritch doors -> Uncanny thresholds; its solemn, philosophical, Gothic or ontologically
+    strange crossing governs.'
+- date: '2026-10-07'
+  from: uncanny-thresholds
+  to: visionary-thresholds
+  reason: 'Source-read root-down: Speculative fiction > Fantasy > Portal fantasy > Eldritch doors > Uncanny thresholds > Visionary
+    thresholds. Mirror crossings lead to a spiritual pilgrimage of repentance, death and redemption; inner reckoning governs
+    over adventure. Curator split naming ruling phonemsg-01M4BCDQRD3XSZM9P4P00M1S9Q'

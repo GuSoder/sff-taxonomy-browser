@@ -1,0 +1,30 @@
+id: piranesi
+title: Piranesi
+authors:
+- Susanna Clarke
+first_published: 2020
+canonical_genre: visionary-thresholds
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Fantasy > Portal fantasy > Eldritch doors > Uncanny thresholds
+  > Visionary thresholds. The solitary deciphering of the House, memory and identity makes perception and reckoning the engine,
+  not an outward rescue mission.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/clarke_susanna
+cover_curation:
+  status: complete
+  selected_url: https://covers.openlibrary.org/b/id/10226290-L.jpg
+  shows_english_title: true
+  review_method: existing reviewed cover; held cards one-pass official cover
+placement_history:
+- date: '2026-10-07'
+  to: uncanny-thresholds
+  reason: 'Pre-split placement rationale preserved: Actual-tree walk: Speculative fiction -> Fantasy -> Portal fantasy ->
+    Eldritch doors. The House is the place-bound otherworld and its corridors connect back to ours; its monumental, uncanny
+    solemnity governs. Split re-walk: Speculative fiction -> Fantasy -> Portal fantasy -> Eldritch doors -> Uncanny thresholds;
+    its solemn, philosophical, Gothic or ontologically strange crossing governs.'
+- date: '2026-10-07'
+  from: uncanny-thresholds
+  to: visionary-thresholds
+  reason: 'Source-read root-down: Speculative fiction > Fantasy > Portal fantasy > Eldritch doors > Uncanny thresholds > Visionary
+    thresholds. The solitary deciphering of the House, memory and identity makes perception and reckoning the engine, not
+    an outward rescue mission. Curator split naming ruling phonemsg-01M4BCDQRD3XSZM9P4P00M1S9Q'
