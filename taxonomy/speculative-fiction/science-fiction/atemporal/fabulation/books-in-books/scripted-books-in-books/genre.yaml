@@ -3,22 +3,27 @@ label: Scripted books in books
 parent: books-in-books
 children: []
 image: 335-scripted-books-in-books.webp
-definition: Books-in-books fiction where reality is revealed or called into question as authored - a world written, narrated or computed from inside, whose inhabitants
-  or readers confront the possibility that its lives and events are someone else's text.
+definition: Books-in-books fiction where reality is revealed or called into question as authored - a world written, narrated
+  or computed from inside, whose inhabitants or readers confront the possibility that its lives and events are someone else's
+  text.
 status: provisional
 works:
 - the-anomaly
 - we-computers
+- acts-of-god
 definition_history:
 - date: '2026-09-30'
-  old: 'Books-in-books fiction where reality itself turns out to be authored - a world written, narrated or computed from inside, whose inhabitants discover their
-    lives are someone else''s text. Coined by the curator 2026-09-24 (workshop: ''Ebooks in books'' -> ''Scripted books in books''); not an SFE/EoF headword.'
-  new: Books-in-books fiction where reality is revealed or called into question as authored - a world written, narrated or computed from inside, whose inhabitants
-    or readers confront the possibility that its lives and events are someone else's text.
+  old: 'Books-in-books fiction where reality itself turns out to be authored - a world written, narrated or computed from
+    inside, whose inhabitants discover their lives are someone else''s text. Coined by the curator 2026-09-24 (workshop: ''Ebooks
+    in books'' -> ''Scripted books in books''); not an SFE/EoF headword.'
+  new: Books-in-books fiction where reality is revealed or called into question as authored - a world written, narrated or
+    computed from inside, whose inhabitants or readers confront the possibility that its lives and events are someone else's
+    text.
   owner_words: Yeah, loosen the def a bit so it fits
   reason: We Computers reader-facing authored-world uncertainty
 image_history:
 - date: '2026-09-30'
   archived_image: art-history/scripted-books-in-books/335-quill-world-2026-09-30.webp
-  reason: 'Replace old-fashioned quill-led script with digital scripted reality: luminous code, computer screen, recursively authored world.'
+  reason: 'Replace old-fashioned quill-led script with digital scripted reality: luminous code, computer screen, recursively
+    authored world.'
   owner_message_id: phonemsg-01M3SN9STWEJK6V92GKPCDVC3E

@@ -2,14 +2,14 @@ id: spacefaring-fiction
 label: Spacefaring fiction
 parent: futurist
 children:
-- classic-space-opera
+- space-opera
 - military-science-fiction
-- new-space-opera
 - future-history-in-space
 - techno-fiction-in-space
 - generation-starships
 - space-dystopias
 - space-colonies
+- comic-space-fiction
 image: 118-spacefaring-fiction.webp
 definition: Science fiction fundamentally about travel, settlement, conflict and civilization beyond Earth.
 status: accepted

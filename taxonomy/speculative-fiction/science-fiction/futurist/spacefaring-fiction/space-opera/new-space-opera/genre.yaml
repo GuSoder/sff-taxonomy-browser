@@ -1,0 +1,18 @@
+id: new-space-opera
+label: New space opera
+parent: space-opera
+children:
+- political-space-opera
+- theological-space-opera
+- alien-delving
+- space-soap-opera
+- space-western
+- space-adventure
+image: 45-new-space-opera.webp
+definition: The self-aware revival of space opera from the 1980s on - Banks and his heirs (SFE 'Space Opera' on the New Space
+  Opera; the Dozois/Strahan anthologies). Split 2026-09-13 from space opera to keep leaves under ten works.
+status: accepted
+works: []
+history:
+- date: '2026-10-07'
+  change: Bundled under Space opera on owner order phonemsg-01M4AR4A5WR9NSBVV611XE7B1F; definition and members unchanged.

@@ -1,0 +1,12 @@
+id: space-opera
+label: Space opera
+parent: spacefaring-fiction
+children:
+- classic-space-opera
+- new-space-opera
+works: []
+image: 568-space-opera.webp
+definition: Umbrella for space opera, the large-scale interstellar adventure tradition, divided into Classic space opera and
+  New space opera. The existing traditions and their definitions are unchanged.
+status: accepted
+ruling: Owner ordered bundling Classic and New under Space opera, October 7 2026 10:36:53, phonemsg-01M4AR4A5WR9NSBVV611XE7B1F

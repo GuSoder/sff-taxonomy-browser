@@ -1,0 +1,30 @@
+id: fault-tolerance
+title: Fault Tolerance
+authors:
+- Valerie Valdes
+first_published: 2022
+canonical_genre: comic-space-fiction
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist (future interstellar civilization)
+  > Spacefaring fiction (life and travel beyond Earth) > Comic space fiction (comedy governs the alien encounters and space
+  adventure). Eva Innocente and her cargo-ship crew confront monoliths threatening the galaxy; the author and review excerpts
+  identify comedic adventure.'
+classification_sources:
+- https://valerievaldes.com/books/fault-tolerance/
+intake: gap-2022 tier-2 chunk 4 (Locus Recommended-only)
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13195361-L.jpg
+  visually_reviewed_on: '2026-10-07'
+  review_method: Existing cover inspected, English title/author confirmed
+placement_history:
+- date: '2026-09-27'
+  change: Placed in humorous-science-fiction during tier-2 chunk 4 sweep.
+- date: '2026-10-07'
+  from: humorous-science-fiction
+  to: comic-space-fiction
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist (future interstellar civilization) > Spacefaring
+    fiction (life and travel beyond Earth) > Comic space fiction (comedy governs the alien encounters and space adventure).
+    Eva Innocente and her cargo-ship crew confront monoliths threatening the galaxy; the author and review excerpts identify
+    comedic adventure.'
