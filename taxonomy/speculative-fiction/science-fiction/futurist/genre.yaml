@@ -6,9 +6,13 @@ children:
 - future-of-earth-fiction
 - spacefaring-fiction
 - alien-fiction
-- otherworldly-fiction
 image: 52-futurist.webp
-definition: "Science fiction organized by rigorous science, Earth futures, spacefaring, alien life or otherworldly cosmology. Reader-relative test: speculative\
-  \ science from a writer\u2019s present that did not pan out can qualify when it now reads as an alternate future\u2019s science."
+definition: 'Science fiction organized by what the reader is after: rigorous science, Earth futures, spacefaring or alien
+  life. Reader-relative test: speculative science from a writer’s present that did not pan out can qualify when it now reads
+  as an alternate future’s science.'
 status: accepted
 works: []
+history:
+- date: '2026-10-07'
+  change: Otherworldly fiction dissolved on owner order (phonemsg-01M4BN9PDP1GN0ZRHCHCPN9X5P, phonemsg-01M4BNG3DRJEH7EEA07XNVF6G6);
+    definition no longer lists otherworldly cosmology.

@@ -1,6 +1,6 @@
 id: otherworldly-hard-sf
 label: Otherworldly hard SF
-parent: otherworldly-fiction
+parent: hard-sf
 children: []
 image: 122-otherworldly-hard-sf.webp
 definition: Rigorous speculative world-models set in an unanchored or wholly other cosmos.
@@ -10,3 +10,7 @@ works:
 - flatland
 - white-light
 - world-engines
+history:
+- date: '2026-10-07'
+  change: 'Re-parented from dissolved Otherworldly fiction to Hard sci-fi; definition unchanged. Owner: sort out any tension
+    with Hard conceptual SF if it arises.'

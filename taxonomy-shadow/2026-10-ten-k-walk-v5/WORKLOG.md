@@ -26,3 +26,6 @@ MC03069 placed in Retro space opera under owner ruling phonemsg-01M4BKD1RJY5Q2EM
 
 ## 2026-10-07 - Friesner anthologies excluded
 MC03073-MC03078 (Chicks n Chained Males, Chicks and Balances, Fangs for the Mammaries, Strip Mauled, Turn the Other Chick, Witch Way to the Mall) are original anthologies edited by Esther Friesner (ISFDB tag original anthology, https://www.isfdb.org/cgi-bin/tag_author.cgi?6544+1178=; Baen pages). Excluded under the short-form/anthology scope (rule 11j), no genre decision.
+
+## 2026-10-07 - Otherworldly fiction dissolved
+On owner order (phonemsg-01M4BN9PDP1GN0ZRHCHCPN9X5P 19:06:38: umbrella with one leaf is a click tax, move Otherworldly hard SF under Hard sci-fi; follow-up 19:10:09 phonemsg-01M4BNG3DRJEH7EEA07XNVF6G6: "The hard sci fi isn't exploding. We can sort it out if there is tension arising between otherworldly and conceptual"). Otherworldly hard SF (Anathem, Flatland, White Light, World Engines) now a direct child of Hard sci-fi, definitions unchanged; Futurist definition now reads by reader interest. No book re-walks. Portrait 120-otherworldly-fiction.webp left in repo, unreferenced. Historical placement rationales in work yamls still name the old path.
