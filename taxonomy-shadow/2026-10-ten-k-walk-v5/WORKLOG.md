@@ -23,3 +23,6 @@ MC03068, The Legend of Croquemitaine (1863; 2013 reissue), was excluded on the c
 
 ## 2026-10-07 - Principle of Moments: documented exception
 MC03069 placed in Retro space opera under owner ruling phonemsg-01M4BKD1RJY5Q2EM79AFB7P4YS (18:33:31): one-time exception to "SF time travel goes Atemporal" for this book only; the rule stands for all others. Note on Star Wars (not a ruling, not a placement): at 18:18 the owner asked whether Star Wars could enter Classic space opera, evergreen side, on the psi-power lineage of the Force; the assistant agreed and the owner moved on without ruling. Parent relayed it as guidance. Treat as an unratified lean; confirm with the owner when Star Wars rows reach intake.
+
+## 2026-10-07 - Friesner anthologies excluded
+MC03073-MC03078 (Chicks n Chained Males, Chicks and Balances, Fangs for the Mammaries, Strip Mauled, Turn the Other Chick, Witch Way to the Mall) are original anthologies edited by Esther Friesner (ISFDB tag original anthology, https://www.isfdb.org/cgi-bin/tag_author.cgi?6544+1178=; Baen pages). Excluded under the short-form/anthology scope (rule 11j), no genre decision.
