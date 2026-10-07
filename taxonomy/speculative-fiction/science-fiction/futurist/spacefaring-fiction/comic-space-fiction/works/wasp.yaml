@@ -1,0 +1,33 @@
+id: wasp
+title: Wasp
+authors:
+- Eric Frank Russell
+first_published: 1957
+canonical_genre: comic-space-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction > Futurist > Spacefaring fiction > Comic space fiction. In a future interplanetary
+  war, Earth sends James Mowry to an enemy Sirian planet to sabotage morale and make a whole authoritarian bureaucracy panic.
+  Jo Walton explicitly calls it a comedy about a terrorist; SFE connects it to Russell''s SF humour, and the publisher calls
+  the covert war witty. The one-man sabotage and bureaucracy satire govern, not infantry ranks, naval bridge, academy or top-command
+  campaigns. The World War Two Japan analogy is not a historical Earth setting; alien culture serves the covert-war comedy
+  rather than anthropological contact. No time-travel premise or element found in the researched plot. Original1957, expanded1958,
+  one standalone.'
+books:
+- title: Wasp
+  year: 1957
+  cover_url: https://www.hachette.co.uk/wp-content/uploads/2023/01/hbg-title-wasp-122.jpg?w=437
+cover_curation:
+  status: complete
+  source: Hachette publisher SF Masterworks
+  selected_url: https://www.hachette.co.uk/wp-content/uploads/2023/01/hbg-title-wasp-122.jpg?w=437
+  visually_reviewed_on: '2026-10-07'
+  review_method: downloaded English publisher cover pixel inspection
+intake: ten-k walk v5 (queue ids MC03048)
+placement_history:
+- date: '2026-10-07'
+  to: comic-space-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+classification_sources:
+- https://www.hachette.co.uk/titles/eric-frank-russell/wasp/9780575129047/
+- https://sf-encyclopedia.com/entry/russell_eric_frank
+- https://reactormag.com/one-man-against-a-whole-planet-eric-frank-russells-wasp/
