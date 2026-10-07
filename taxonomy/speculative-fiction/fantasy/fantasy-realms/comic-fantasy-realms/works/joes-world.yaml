@@ -1,0 +1,49 @@
+id: joes-world
+title: Joe's World
+authors:
+- Eric Flint
+- Richard Roach
+first_published: 2001
+canonical_genre: comic-fantasy-realms
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction -> Fantasy (actual gods, sorcery and an underworld, not a scientific-engine
+  disguise) -> Fantasy realms (invented Grotum and New Sfinctr, not recognizable Earth or a portal journey from Earth) ->
+  Comic fantasy realms. Both novels use their invented world''s absurd institutions, pedantic wizardry, ethical assassin quandaries
+  and satirical quests as the governing joke. Kirkus calls The Philosophical Strangler tongue-in-cheek; Publishers Weekly
+  calls Forward the Mage a Joe''s World prequel of comic pleasure, intense satire and deliberately zany obstacles; BooksForABuck
+  corroborates shared-world humorous adventure. Political revolution and sword-and-sorcery action occur, but comedy rather
+  than either serious political power or swordsmanship governs the whole universe. Neither protagonist''s adventuring class
+  nor cozy low stakes explains its violent satirical stories. One shared-universe fiction under rule11j: two published novels,
+  excluding separately catalogued short stories.'
+books:
+- title: The Philosophical Strangler
+  year: 2001
+  cover_url: https://www.baen.com/media/catalog/product/0/6/0671319868-med.jpg
+  authors:
+  - Eric Flint
+- title: Forward the Mage
+  year: 2002
+  cover_url: https://www.baen.com/media/catalog/product/0/7/0743435249-med.jpg
+  authors:
+  - Eric Flint
+  - Richard Roach
+cover_curation:
+  status: complete
+  source: Baen original illustrated jackets
+  selected_url: https://www.baen.com/media/catalog/product/0/6/0671319868-med.jpg
+  visually_reviewed_on: '2026-10-07'
+  review_method: live browser inspection of both covers
+  shows_english_title: true
+intake: ten-k walk v5 (queue ids MC03037, MC02991)
+placement_history:
+- date: '2026-10-07'
+  to: comic-fantasy-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+classification_sources:
+- https://www.baen.com/the-philosophical-strangler.html
+- https://www.baen.com/forward-the-mage.html
+- https://www.kirkusreviews.com/book-reviews/eric-flint/the-philosophical-strangler/
+- https://www.publishersweekly.com/9780743435246
+- https://www.booksforabuck.com/sfpages/forward_mage.html
+- https://sf-encyclopedia.com/entry/flint_eric
+- https://www.isfdb.org/cgi-bin/pe.cgi?25199=
