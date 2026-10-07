@@ -1,0 +1,16 @@
+id: alt-renaissance-fantasy
+label: Alt Renaissance fantasy
+parent: alternate-history-fantasy
+children: []
+works:
+- heirs-of-alexandria
+image: 567-alt-renaissance-fantasy.webp
+definition: 'Alternate history fantasy of Renaissance Europe, roughly the 15th-16th centuries: cities, courts, churches and
+  competing states, where magic is the engine, history is openly rewritten and the world runs on magic.'
+status: accepted
+ruling: Curator "Ok", 2026-10-07 10:20:57, phonemsg-01M4AQ73ZDK18HV3KQHRYRZKKJ, answering "Approve adding Alt Renaissance
+  fantasy for Heirs of Alexandria?"
+history:
+- date: '2026-10-07'
+  change: Seeded for Heirs of Alexandria on explicit owner approval; existing sibling names already end in fantasy, so no
+    renames.
