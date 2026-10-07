@@ -4,11 +4,15 @@ parent: time-travel-agency
 children: []
 works:
 - for-king-and-country
+- the-forever-engine
 image: 477-time-agency-thrillers.webp
-definition: 'Time travel agency stories of the 1990s-2000s action-thriller register: operatives, labs and rival factions run
-  the apparatus, and the plot is a chase, a mission or a conspiracy across time. Not Classic time agencies (earlier, with
-  the pulp and patrol sensibility), not Time agency revival (later, with a literary and emotional core). Seeded 2026-10-05
-  by For King and Country, a 2002 time-travel thriller that fit neither era sibling, under the curator''s approval of the
-  seed (curator "Approved" (phonemsg-01M45E1KZP4JXXTN8NCGT02062, 2026-10-05 9:04 AM)).'
+definition: 'Time travel agency stories in the action-thriller register: operatives, labs and rival factions run the apparatus,
+  and the plot is a chase, a mission or a conspiracy across time. Not Classic time agencies (the classic pulp and patrol sensibility),
+  not Time agency revival (the literary and emotional core). Seeded 2026-10-05 by For King and Country; widened beyond the
+  original 1990s-2000s date bound on the curator''s October 7 2026 10:15 ruling, "Ok widen thriller", for The Forever Engine.'
 status: accepted
 ruling: curator "Approved" (phonemsg-01M45E1KZP4JXXTN8NCGT02062, 2026-10-05 9:04 AM)
+history:
+- date: '2026-10-07'
+  change: Owner "Ok widen thriller" at 10:15:50 after explicit proposal to remove date bound and place The Forever Engine.
+    Action-thriller register retained; no new node.
