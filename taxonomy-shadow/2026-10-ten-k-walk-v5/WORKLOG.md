@@ -14,3 +14,6 @@ MC03028 T.N.T: Telzey Amberdon & Trigger Argee Together is a James H. Schmitz st
 
 ## 2026-10-07 - Let's Not Go Overboard Here excluded
 MC03059 Erica Hendry's 2026 novel is a contemporary comic yacht mystery about grief, romance and a suspicious disappearance. Publisher full synopsis/excerpt and current reviews contain no speculative premise; "living dead girl" and "Below Deck fantasy" are metaphors, not undead or fantasy-world claims. Excluded, not held for a leaf. Sources: https://www.hachettebookgroup.com/titles/erica-hendry/lets-not-go-overboard-here/9781538776070/ ; https://theeverygirl.com/erica-hendry-lets-not-go-overboard-here-review/ ; https://michelleardillo.com/2026/06/09/book-review-lets-not-go-overboard-here-by-erica-hendry/ . No count change.
+
+## 2026-10-07 - An Unnatural Life excluded
+MC03061 is a novella, explicitly confirmed by Tor.com publisher announcement and the author, not a novel. Excluded short form, not a genre hold. https://reactormag.com/book-announcements-an-unnatural-life-erin-k-wagner/ .
