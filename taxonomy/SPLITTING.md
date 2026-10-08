@@ -90,3 +90,6 @@ See also GLOSSARY.md for the terms "fiction" (an entry: a stand-alone novel up t
 | 2026-10-08 | Cozy fantasy | Cozy place fantasy / Cozy craft fantasy / Cozy peeps fantasy | what the comfort is made of: a house that takes people in / magic as a trade done with hands / the people themselves (3 / 4 / 3 with The Dungeon Book placed from its hold; Dungeon Book, Garden of Delights and Luminous Deep the weak cards); phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9 |
 
 - 2026-10-08 Planetary science split at ten (Mining the Oort the tenth): umbrella with Terraforming fiction (3), Planet expedition fiction (5), Planet ecology fiction (2), by what the book does with the planet; curator "Approved" phonemsg-01M4E20SN3DN3P17PC50ZVQD2N. Weak: Boundary and The Grand Tour mixed; Ecologies thin.
+
+## Log: deleted leaves
+- 2026-10-08: Golden age S&S and S&S revival (empty, hidden since 2026-09-26) deleted on the curator's order; Pulp S&S keeps all its works.
