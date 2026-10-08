@@ -1,0 +1,35 @@
+id: rhymer
+title: Rhymer
+authors:
+- Gregory Frost
+first_published: 2023
+canonical_genre: arcane-peoples
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Historical fantasy > Secret history
+  > Arcane peoples. Thomas the Rhymer, the twelfth-century figure of Scottish balladry, becomes near-immortal and shape-changing
+  after he escapes the Yvag, an alien race thought to be elves and faeries who steal people, skinwalk into positions of power
+  and mean to take the world, and fights them through the centuries as Tam Lin, Robin Hood and others; Rhymer: Hel carries
+  the war into Elizabeth I''s England under Walsingham (Baen pages for both books; ISFDB title 3174162, Rhymer Trilogy). A
+  concealed people living beside humanity through recorded history, with the hero''s one-man war against it, is the leaf''s
+  definition. Rejected: Northern Renaissance fantasy (only the second book is Elizabethan, the series spans centuries), Occult
+  cabals (the hidden hand is a people), Perilous fairy doors (the book is not a crossing into Faerie). Wobble: strong; the
+  Yvag are billed as alien, and the series is also a historical adventure. Sources: Baen pages only. Years: Rhymer 2023, Rhymer:
+  Hel 2025 (the queue showed 2020).'
+books:
+- title: Rhymer
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13941988-L.jpg
+- title: 'Rhymer: Hel'
+  year: 2025
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781668072608-med_1.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13941988-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03596, MC03597)
+placement_history:
+- date: '2026-10-04'
+  to: arcane-peoples
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
