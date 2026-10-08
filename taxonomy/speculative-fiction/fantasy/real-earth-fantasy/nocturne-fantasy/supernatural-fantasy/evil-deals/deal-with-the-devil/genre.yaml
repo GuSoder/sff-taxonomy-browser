@@ -1,21 +1,22 @@
 id: deal-with-the-devil
 label: Deal with the devil
 parent: evil-deals
-children: []
+children:
+- devilish-power-deals
+- devilish-fame-deals
 image: 384-deal-with-the-devil.webp
-definition: 'Evil deals in which the counterparty is the Devil himself or his demons: a soul signed away for power, knowledge, freedom or fame - the established idiom
-  and trope. The signature may be literal (Ambrosio''s contract), negotiated (Melmoth), routed through a devil''s servant (Vathek''s Giaour of Eblis), a folklore
-  demon (Damned If You Do) or signed by proxy (We Sold Our Souls). Sibling line: Wicked wishes holds every other power that answers - a god, the sea, a carnival,
-  a painting, a box. Split 2026-09-28 from Evil deals on the counterparty axis (the curator ruling phonemsg-01M3KFHJ54DC0JWEX3KA03GG04).'
-status: accepted
-works:
-- vathek
-- the-monk
-- melmoth-the-wanderer
-- we-sold-our-souls
-- damned-if-you-do
-- king-sorrow
-- when-devils-sing
-- light-from-uncommon-stars
-- mortal-path
-- the-devils-blade
+definition: 'Evil deals in which the counterparty is the Devil himself or his demons: a soul signed away for power, knowledge,
+  freedom or fame - the established idiom and trope. The signature may be literal (Ambrosio''s contract), negotiated (Melmoth),
+  routed through a devil''s servant (Vathek''s Giaour of Eblis), a folklore demon (Damned If You Do) or signed by proxy (We
+  Sold Our Souls). Sibling line: Wicked wishes holds every other power that answers - a god, the sea, a carnival, a painting,
+  a box. Split 2026-09-28 from Evil deals on the counterparty axis (the curator ruling phonemsg-01M3KFHJ54DC0JWEX3KA03GG04).
+  Pure umbrella since 2026-10-08, partitioned by what the bargain buys: Devilish power deals (power, skill, knowledge, revenge)
+  or Devilish fame deals (fame, talent, success, a better life).'
+status: umbrella
+works: []
+history:
+- date: '2026-10-08'
+  change: 'Split with umbrella at ten fictions into Devilish power deals (6) and Devilish fame deals (4); Curator split approved
+    and named by him: "Devilish power deals" / "Devilish fame deals" (phonemsg-01M4CY473571PVXXFBNW76WH06, "Perfect, execute",
+    2026-10-08 7:00 CEST); axis and 6/4 distribution as proposed 2026-10-07 20:31 (what the bargain buys), Melmoth the forced
+    stray placed with power.'

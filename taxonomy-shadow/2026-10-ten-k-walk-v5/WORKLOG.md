@@ -29,3 +29,6 @@ MC03073-MC03078 (Chicks n Chained Males, Chicks and Balances, Fangs for the Mamm
 
 ## 2026-10-07 - Otherworldly fiction dissolved
 On owner order (phonemsg-01M4BN9PDP1GN0ZRHCHCPN9X5P 19:06:38: umbrella with one leaf is a click tax, move Otherworldly hard SF under Hard sci-fi; follow-up 19:10:09 phonemsg-01M4BNG3DRJEH7EEA07XNVF6G6: "The hard sci fi isn't exploding. We can sort it out if there is tension arising between otherworldly and conceptual"). Otherworldly hard SF (Anathem, Flatland, White Light, World Engines) now a direct child of Hard sci-fi, definitions unchanged; Futurist definition now reads by reader interest. No book re-walks. Portrait 120-otherworldly-fiction.webp left in repo, unreferenced. Historical placement rationales in work yamls still name the old path.
+
+## 2026-10-08 - Deal with the devil split
+Approved and named by the curator (phonemsg-01M4CY473571PVXXFBNW76WH06, "Perfect, execute"). Power: Vathek, The Monk, Melmoth (forced stray), Mortal Path, The Devil's Blade, King Sorrow. Fame: We Sold Our Souls, Light From Uncommon Stars, Damned If You Do, When Devils Sing. Wobblers documented in each fiction history. Portraits 577 and 578 generated.

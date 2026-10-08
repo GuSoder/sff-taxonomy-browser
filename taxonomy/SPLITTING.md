@@ -81,3 +81,4 @@ Blood Music was assigned to Altered flesh rather than Successor species on the c
 See also GLOSSARY.md for the terms "fiction" (an entry: a stand-alone novel up to a whole shared universe of books) and "book" (one volume); split and seed proposals and reports use them.
 
 | 2026-10-07 | Uncanny thresholds | Visionary thresholds / Quest thresholds | what the crossing is for: reckoning/vision vs outward mission (5/5); phonemsg-01M4BCDQRD3XSZM9P4P00M1S9Q |
+| 2026-10-08 | Deal with the devil | Devilish power deals / Devilish fame deals | what the bargain buys: power/skill/knowledge/revenge vs fame/talent/success/better life (6/4, Melmoth forced stray to power); phonemsg-01M4CY473571PVXXFBNW76WH06 |
