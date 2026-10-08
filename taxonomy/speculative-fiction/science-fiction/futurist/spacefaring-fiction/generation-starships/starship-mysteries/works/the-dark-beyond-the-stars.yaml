@@ -1,0 +1,28 @@
+id: the-dark-beyond-the-stars
+title: The Dark Beyond the Stars
+authors:
+- Frank M. Robinson
+first_published: 1991
+canonical_genre: starship-mysteries
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation starships
+  > Starship mysteries. Per Wikipedia, Publishers Weekly and Kirkus: the 2,000-year-old starship Astron searches for alien
+  life; amnesiac crew technician Sparrow, beset by accidents, concludes someone is trying to kill him and investigates the
+  ship''s hidden history and the Captain''s obsession. A concealed truth about the vessel driving the plot is the Starship
+  mysteries definition. Rejected: Voyage societies (the social order is not the engine), Alien expedition (no encounter drives
+  it). First published 1991 (Tor); queue year 1997 is an Orb reissue.'
+books:
+- title: The Dark Beyond the Stars
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/182918-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182918-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03193)
+placement_history:
+- date: '2026-10-04'
+  to: starship-mysteries
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
