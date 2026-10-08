@@ -67,3 +67,9 @@ Approved and named by the curator (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9 "Ok, exec
 Checkpoint 7:38 PM: queue resumes at MC03483 The Tower of Fear (Cook, 1989 standalone, no leaf chosen yet), then MC03489 Hirshberg (collections, skip), MC03492 Glenda Larke onward. Next spec 125. Leaves at 9 now also: invented-mythology.
 
 Checkpoint 7:45 PM: done through MC03511 (Dickson block). Parked at gate: None But Man MC03505 -> colony-politics (9, would be ten). Resume at MC03512 Wolfling (Dickson), then MC03513 1636 Barbie Consortium (Ring of Fire fold?), Grace Curtis, Grace Draven. Next spec 136.
+
+## Checkpoint 2026-10-08 8:56 PM
+Placed since 7:45 PM: Wolfling, Floating Hotel, Fallen Empire, Grace Lin (Shenmo), Helfort's War, Luda, Domestic fantasy split (Magic house / Magic family), Greg Egan block, Keyes, Van Eekhout, Rhymer, Frozen Crown, Kay (Arbonne, Sarantine), Haley, Little Fuzzy, Parry (Shadow Histories, Witch Below), Wells (First Men, Shape of Things), Elsbai, Clement (Noise, Half Life), Duncan, Godkiller folds, Nightshade Crown, Jean le Flambeur, Twenty Palaces, Harrison (Stainless Steel Rat, Hammer and the Cross, To the Stars, Brion Brandd, Bill, Skyfall, Stars and Stripes).
+Leaves at 9: Alien arrival, Fairytale expansion, Fairytale transplant, Fae founders, Gateway multiverse fantasy, Occult consultants, Multiverse odyssey, Terms of service, Invented mythology, Colony politics, Bonded romantasy, Revival quest fantasy, Court spies, Comic space fiction.
+Parked: None But Man, Idolfire/Heaven's Graveyard, Lucid, Teranesia, Queen of Days, Scarlet, Ace Up Her Sleeve, Monster Hunters Bargain, Wilderwood duology (Bonded at 9), Ysabel, The Frame-Up, Parry (Uriah Heep, Magician's Daughter, Far Better Thing), Food of the Gods, Sea Lady, Jones (Kairos, Life), Colebatch Man-Kzin, A Snake Among Swans, Harrison (Turing Option, Daleth Effect).
+Next: Turtledove block from MC03718. QA batches owed.
