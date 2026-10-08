@@ -1,0 +1,29 @@
+id: home-fires
+title: Home Fires
+authors:
+- Gene Wolfe
+first_published: 2011
+canonical_genre: time-distortion
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Time travel fiction > Time distortion.
+  Skip and Chelle planned that she would fight a war on an alien planet while he studied, so that time dilation would leave
+  her barely two years older when twenty years had passed for him; now she is home and the plan has flaws (Wikipedia, Tor
+  2011; Kirkus). The unequal passage of time between two people is the premise and shapes the whole marriage, which is the
+  leaf''s definition. Rejected: Future war (the war is offstage), Hard time travel and other machine leaves (no time machine,
+  only relativity), Modern day (not the recognizable present). Wobble: the cover is a plain title page, and the book is also
+  a domestic and marriage story with an energy-poor future society.'
+books:
+- title: Home Fires
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8035348-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8035348-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03354)
+placement_history:
+- date: '2026-10-04'
+  to: time-distortion
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
