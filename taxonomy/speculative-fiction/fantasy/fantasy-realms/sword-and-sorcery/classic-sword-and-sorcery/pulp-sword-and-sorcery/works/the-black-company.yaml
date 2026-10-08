@@ -3,7 +3,7 @@ title: The Black Company
 authors:
 - Glen Cook
 first_published: 1984
-last_published: 2000
+last_published: 2025
 canonical_genre: pulp-sword-and-sorcery
 placement_status: accepted
 included_titles:
@@ -16,6 +16,8 @@ included_titles:
 - She Is the Darkness
 - Water Sleeps
 - Soldiers Live
+- Port of Shadows
+- Lies Weeping
 cover_curation:
   status: complete
   source: Open Library
@@ -41,10 +43,19 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/182508-L.jpg
   - title: Soldiers Live
     url: https://covers.openlibrary.org/b/id/604076-L.jpg
+  - title: Port of Shadows
+    url: https://covers.openlibrary.org/b/id/14838541-L.jpg
+  - title: Lies Weeping
+    url: https://covers.openlibrary.org/b/id/15139060-L.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/sword-and-sorcery/golden-age-sword-and-sorcery to match live tree; placement
-    unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/sword-and-sorcery/golden-age-sword-and-sorcery
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: golden-age-sword-and-sorcery
 - date: '2026-09-26'
-  change: 'Golden Age S&S hidden by the curator''s 19:52 ruling; card moved up to Pulp S&S, which now holds these works directly.'
+  change: Golden Age S&S hidden by the curator's 19:52 ruling; card moved up to Pulp S&S, which now holds these works directly.
+- date: '2026-10-08'
+  reason: Folded Port of Shadows (2018) and Lies Weeping (2025) into the series fiction under rule 11j; same leaf, no placement
+    change. The omnibuses Annals, Chronicles, Books of the South, The Many Deaths and The Return of the Black Company are
+    editions of volumes already on the card. They Cry (Macmillan on-sale date 2026-11-03) is unpublished and held. Intake
+    MC03471, MC03475, MC03459, MC03461, MC03479, MC03481, MC03482.
