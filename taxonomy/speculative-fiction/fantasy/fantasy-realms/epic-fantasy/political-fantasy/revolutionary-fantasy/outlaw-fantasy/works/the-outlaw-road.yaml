@@ -1,0 +1,34 @@
+id: the-outlaw-road
+title: The Outlaw Road
+authors:
+- Emily B. Martin
+first_published: 2020
+canonical_genre: outlaw-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Revolutionary
+  fantasy > Outlaw fantasy. One duology (Outlaw Road per ISFDB and the author''s site), one fiction. Per Publishers Weekly,
+  Lit Hub and the author: Lark, the Sunshield Bandit, is a former slave and outlaw who protects a cobbled-together family
+  of escaped bond servants and slaves; the second book follows her and unlikely allies working to end inequality in Moquoia.
+  A criminalized class of escaped servants and a hidden family that shelters them is the Outlaw fantasy gate, and the leaf
+  definition accepts the Robin Hood pull. Rejected: Emancipation fantasy (freedom comes by breaking the machinery of bondage,
+  which the second book edges toward but the duology''s engine is the outlaw''s shelter), Proletariat fantasy (not a class
+  rising), Tinderbox fantasy (no occupied-city revolt). Wobble: Floodpath turns toward ending inequality outright, which pulls
+  to Emancipation fantasy. Years follow ISFDB, 2020 and 2021.'
+books:
+- title: Sunshield
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10247475-L.jpg
+- title: Floodpath
+  year: 2021
+  cover_url: https://www.publishersweekly.com/cover/9780062888594
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10247475-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02914, MC02913)
+placement_history:
+- date: '2026-10-04'
+  to: outlaw-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
