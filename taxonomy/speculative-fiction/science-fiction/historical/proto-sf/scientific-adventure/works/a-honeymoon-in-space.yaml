@@ -1,0 +1,31 @@
+id: a-honeymoon-in-space
+title: A Honeymoon in Space
+authors:
+- George Griffith
+first_published: 1901
+canonical_genre: scientific-adventure
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Proto SF > Scientific adventure. George
+  Griffith''s A Honeymoon in Space (1901, serialized in Pearson''s Magazine in 1900 as Stories of Other Worlds) sends the
+  Earl of Redgrave and his bride in the Astronef, an anti-gravity spaceship, on a tour of the Solar System: the ruined Moon,
+  a Mars of giants who speak English, a Venus of sinless beings, Jupiter and Saturn (Wikipedia). A technological marvel and
+  the fantastic voyage it enables, which is the leaf''s definition; Wikipedia calls it a scientific romance. Rejected: Classic
+  planetary romance (it is a tour of many worlds, not one world''s civilizations), Fantastic voyage (that leaf is pre-novelistic
+  journeys to lands and peoples, and this has the machine as its marvel), Pulp space odyssey (a pulp-era form). Wobble: the
+  leaf says nineteenth-century and this is dated 1901; the form is the same as A Journey in Other Worlds (1894), the leaf''s
+  other space tour. The cover is a modern reprint with the original-style pyramid illustration.'
+books:
+- title: A Honeymoon in Space
+  year: 1901
+  cover_url: https://covers.openlibrary.org/b/id/10309920-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10309920-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03405)
+placement_history:
+- date: '2026-10-04'
+  to: scientific-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
