@@ -3,11 +3,14 @@ label: Soft science fiction
 parent: modern-day
 children:
 - social-science-fiction
-- psi-powers
-- superhero-fiction
-- cryptid-horror
+- pseudoscience-fiction
+- pulp-sf
 image: 32-soft-science-fiction.webp
-definition: 'The broad counterpoint to hard SF: speculative fiction not driven by physical science or engineering, including social-science stories, psi
-  powers and superhero fiction.'
+definition: 'The broad counterpoint to hard SF: speculative fiction not driven by physical science or engineering. Partitioned
+  by relation to science: Social science fiction (the real soft sciences), Pseudoscience fiction (science that pretends: psi
+  powers, cryptid horror) and Pulp SF (no pretence: superhero fiction, creature feature).'
 status: accepted
 works: []
+history:
+- date: '2026-10-08'
+  change: 'Restructured into three umbrellas: Social science fiction, Pseudoscience fiction, Pulp SF; curator "Execute" (phonemsg-01M4DN59XKA7GQQBCC3FFNK714).'

@@ -1,6 +1,6 @@
 id: psi-powers
 label: Psi powers
-parent: soft-science-fiction
+parent: pseudoscience-fiction
 children: []
 image: 159-psi-powers.webp
 definition: Contemporary-set psi stories in the recognizable present.
@@ -15,3 +15,6 @@ works:
 - the-sending
 - the-man-who-saw-seconds
 - twelve-days
+history:
+- date: '2026-10-08'
+  change: Moved from Soft science fiction under pseudoscience-fiction in the Soft SF restructure; curator "Execute" (phonemsg-01M4DN59XKA7GQQBCC3FFNK714).

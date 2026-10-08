@@ -1,0 +1,30 @@
+id: the-green-brain
+title: The Green Brain
+authors:
+- Frank Herbert
+first_published: 1966
+canonical_genre: creature-feature
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Soft science fiction > Pulp SF > Creature
+  feature. Per Wikipedia, Kirkus-era reviews and the curator''s own questions of 2026-10-08: in a pesticide-era near future
+  an emergent insect collective intelligence, the Green Brain, assembles insects into human-shaped forms to infiltrate a Brazilian
+  human zone; no society-wide collapse, a covert contest; earnest ecology fable in a pulp package (Ace 1966, expanded from
+  a short story), no real entomology. Nature striking back with a monstrous collective is the Creature feature definition.
+  Rejected: Cryptid horror (not alleged or folkloric, no pose of evidence), Genetic engineering (owner rejected the seed),
+  Alien infiltration (terrestrial). Wobble: full-plot sources are thin; the ending''s reveal is unverified. Year 1966 (Ace),
+  queue says 2002 reissue.'
+books:
+- title: The Green Brain
+  year: 1966
+  cover_url: https://covers.openlibrary.org/b/id/524915-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/524915-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03187)
+placement_history:
+- date: '2026-10-04'
+  to: creature-feature
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

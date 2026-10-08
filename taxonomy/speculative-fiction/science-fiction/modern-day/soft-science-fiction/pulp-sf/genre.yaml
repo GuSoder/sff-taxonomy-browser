@@ -1,0 +1,14 @@
+id: pulp-sf
+label: Pulp SF
+parent: soft-science-fiction
+children:
+- superhero-fiction
+- creature-feature
+works: []
+definition: 'Soft science fiction that does not pretend to science at all: the premise is accepted as given, not defended,
+  and the story runs on adventure, spectacle and consequence in the pulp register. Pure umbrella: Superhero fiction and Creature
+  feature. Not Pseudoscience fiction, where the story dresses its premise as evidence.'
+status: umbrella
+ruling: 'Curator named and approved the Soft SF restructure (pseudo, pulp, creature feature): "Ok, execute the whole reorg"
+  (phonemsg-01M4DN59XKA7GQQBCC3FFNK714, 2026-10-08 13:42 CEST). Axis: does the premise pretend to be science (Pseudoscience
+  fiction) or not even pretend (Pulp SF).'
