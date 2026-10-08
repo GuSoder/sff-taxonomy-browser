@@ -1,0 +1,46 @@
+id: the-masquerade
+title: The Masquerade
+authors:
+- Seth Dickinson
+first_published: 2015
+canonical_genre: palace-insurgents
+placement_status: accepted
+books:
+- title: The Traitor Baru Cormorant
+  year: 2015
+  cover_url: cover-the-traitor-baru-cormorant.jpg
+- title: The Monster Baru Cormorant
+  year: 2018
+  cover_url: cover-the-monster-baru-cormorant.jpg
+- title: The Tyrant Baru Cormorant
+  year: 2020
+  cover_url: cover-the-tyrant-baru-cormorant.jpg
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Political fantasy
+  -> Revolutionary fantasy -> Anti-colonial fantasy. the curator explicitly ruled The Monster Baru Cormorant into Anti-colonial
+  fantasy on 2026-09-22: reader experience governs for this secondary-world geopolitical epic despite no confirmed actual
+  magic. Tor centers colonized Baru infiltrating the Empire of Masks to destroy it, triggering war against the imperial order.
+  Anti-colonial resistance governs the series. Split walk 2026-10-08 (phonemsg-01M4DV2P28N33JQ0KAPP73W1YM): Root-down: Speculative
+  fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Revolutionary fantasy > Insurgent fantasy > Palace
+  insurgents. Baru Cormorant, a colonized prodigy, joins the Empire of Masks'' accountancy and court to destroy it from within:
+  subversion from the seat of power.'
+classification_sources:
+- https://us.macmillan.com/series/themasquerade
+- https://torpublishinggroup.com/the-monster-baru-cormorant/?format=trade&isbn=9780765380753
+cover_curation:
+  status: complete
+  source: Tor/Macmillan
+  selected_url: cover-the-traitor-baru-cormorant.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one series search, all three official covers
+placement_history:
+- date: '2026-10-08'
+  from: insurgent-fantasy
+  to: palace-insurgents
+  reason: 'Split of Insurgent fantasy by where the subversion works (curator "Execute", phonemsg-01M4DV2P28N33JQ0KAPP73W1YM).
+    Baru Cormorant, a colonized prodigy, joins the Empire of Masks'' accountancy and court to destroy it from within: subversion
+    from the seat of power.'
+- date: '2026-09-23'
+  change: 'Anti-colonial fantasy split into Rebel fantasy / Insurgent fantasy (the curator ruling 2026-09-23 11:09): moved
+    to Insurgent fantasy by the resistance-mode test. Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy
+    -> Political fantasy -> Revolutionary fantasy -> Anti-colonial fantasy -> Insurgent fantasy'

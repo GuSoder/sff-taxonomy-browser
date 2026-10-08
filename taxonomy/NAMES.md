@@ -83,3 +83,6 @@ Infowar, Spytech and Technocrisis do not carry the word "technothriller". The cu
 
 ## Exception to the "SF" rule: Pulp science fiction (2026-10-08)
 Soft SF restructure: the umbrella was first written "Pulp SF" under the "SF in long names" ruling. The curator overruled it: "Pulp is like the shortest thing ever, in this case spell out the whole science fiction" (2026-10-08 2:10 PM, relayed 2:10:53 PM). Reading of the ruling: "SF" abbreviates only when the name would otherwise be long; a short stem like Pulp keeps the full words. Renamed to Pulp science fiction (id pulp-science-fiction).
+
+## Insurgent fantasy leaf names (2026-10-08)
+Palace insurgents / War insurgents / Academy insurgents / Pirate insurgents. The curator rejected "Court infiltration fantasy" because it did not separate itself from Court spies and Dynastic spy games (Court intrigue branch) and did not hint at its place in the tree; the shared word "insurgents" ties each leaf to the Insurgent fantasy branch and the first word names where the subversion works. "Conscript" and "Turncoat" were rejected (dull; reads as after-the-fact), and war and academy were split into two leaves because a combined name would make readers expect war academies in every book (2026-10-08 3:17-3:25 PM). "Corsair" was dropped for "Pirate" (Mediterranean association).

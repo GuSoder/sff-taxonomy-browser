@@ -2,10 +2,13 @@ id: pact-and-pattern
 title: Pact and Pattern
 authors:
 - J. T. Greathouse
-canonical_genre: insurgent-fantasy
+canonical_genre: academy-insurgents
 placement_status: accepted
 placement_rationale: 'Wen Alder between empire and rebellion (J. T. Greathouse): the rebellion engine governs, so it sits
-  with insurgent fantasy rather than a culture leaf.'
+  with insurgent fantasy rather than a culture leaf. Split walk 2026-10-08 (phonemsg-01M4DV2P28N33JQ0KAPP73W1YM): Root-down:
+  Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Revolutionary fantasy > Insurgent fantasy
+  > Academy insurgents. Wen Alder is trained in the empire''s sorcery, then moves between empire and rebellion (J. T. Greathouse);
+  the schooling is how the subversion is learned.'
 books:
 - title: The Hand of the Sun King
   cover_url: https://covers.openlibrary.org/b/id/12399611-L.jpg
@@ -29,3 +32,9 @@ placement_history:
   to: insurgent-fantasy
   reason: Added book 2 (The Garden of Empire, queue MC02726, source row misparsed the author as East Asia) to the existing
     series card; leaf unchanged.
+- date: '2026-10-08'
+  from: insurgent-fantasy
+  to: academy-insurgents
+  reason: Split of Insurgent fantasy by where the subversion works (curator "Execute", phonemsg-01M4DV2P28N33JQ0KAPP73W1YM).
+    Wen Alder is trained in the empire's sorcery, then moves between empire and rebellion (J. T. Greathouse); the schooling
+    is how the subversion is learned.

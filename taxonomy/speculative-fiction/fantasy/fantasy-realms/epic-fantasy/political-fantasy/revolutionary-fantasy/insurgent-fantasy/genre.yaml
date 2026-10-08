@@ -2,25 +2,25 @@ id: insurgent-fantasy
 name: Insurgent fantasy
 label: Insurgent fantasy
 parent: revolutionary-fantasy
-children: []
-works:
-- phoenix-extravagant
-- the-masquerade
-- divine-cities
-- the-mermaid-the-witch-and-the-sea
-- to-shape-a-dragons-breath
-- the-siren-the-song-and-the-spy
-- the-unbroken
-- pact-and-pattern
-- islands-of-blood-and-storm
+children:
+- palace-insurgents
+- war-insurgents
+- academy-insurgents
+- pirate-insurgents
+works: []
 image: 306-insurgent-fantasy.webp
 portrait: 306-insurgent-fantasy.webp
-definition: 'Insurgent fantasy of subversion from within: agents, officials and insiders who work the imperial machine
-  against itself through infiltration, conspiracy and turning. Resistance-mode test: if the colonized fight the
-  empire in open revolt, it is Rebel fantasy; if the story''s resistance works by subversion from within the imperial
-  order (infiltration, conspiracy, turning), it is Insurgent fantasy.'
-status: leaf
+definition: 'Insurgent fantasy of subversion from within: agents, officials and insiders who work the imperial machine against
+  itself through infiltration, conspiracy and turning. Resistance-mode test: if the colonized fight the empire in open revolt,
+  it is Rebel fantasy; if the story''s resistance works by subversion from within the imperial order (infiltration, conspiracy,
+  turning), it is Insurgent fantasy. Umbrella since 2026-10-08, partitioned by where the subversion works: Palace insurgents
+  (the seat of power), War insurgents (the imperial war machine), Academy insurgents (the empire''s schools), Pirate insurgents
+  (the empire''s edge).'
+status: umbrella
 history:
 - date: '2026-09-25'
-  change: Anti-colonial fantasy umbrella dissolved (the curator ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y); lifted
-    directly under Revolutionary fantasy. The resistance-mode test stays in this def.
+  change: Anti-colonial fantasy umbrella dissolved (the curator ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y); lifted directly
+    under Revolutionary fantasy. The resistance-mode test stays in this def.
+- date: '2026-10-08'
+  change: Split with umbrella at ten fictions into Palace insurgents (3 with To Cage a God), War insurgents (2), Academy insurgents
+    (2) and Pirate insurgents (3); curator "Execute" (phonemsg-01M4DV2P28N33JQ0KAPP73W1YM).

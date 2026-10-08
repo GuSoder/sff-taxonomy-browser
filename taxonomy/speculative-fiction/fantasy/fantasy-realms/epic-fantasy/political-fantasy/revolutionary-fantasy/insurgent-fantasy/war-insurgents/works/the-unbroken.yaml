@@ -1,0 +1,42 @@
+id: the-unbroken
+title: The Unbroken
+authors:
+- C.L. Clark
+first_published: 2021
+canonical_genre: war-insurgents
+placement_status: accepted
+placement_rationale: 'The Unbroken begins with Touraine, a colonized child conscript in the imperial army, moving through
+  espionage and subversion from within toward anti-colonial revolt; later books move into court, war and plague, but the series
+  is housed by the first book’s defining resistance mode. Split walk 2026-10-08 (phonemsg-01M4DV2P28N33JQ0KAPP73W1YM): Root-down:
+  Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Revolutionary fantasy > Insurgent fantasy
+  > War insurgents. Touraine, a colonized child conscript in the imperial army, moves through espionage and subversion from
+  within toward revolt: the army is the machine.'
+classification_sources:
+- https://locusmag.com/review/maya-c-james-reviews-the-unbroken-by-c-l-clark/
+intake: gap-2022 tier-2 n=392 (LocusRec2025-Fantasy)
+cover_curation:
+  status: complete
+  source: Open Library / Amazon
+  selected_url: cover-9780316542753.jpg
+  visually_reviewed_on: '2026-09-29'
+  review_method: 16-cover contact-sheet visual review
+books:
+- title: The Unbroken
+  year: 2021
+  cover_url: cover-9780316542753.jpg
+  shows_english_title: true
+- title: The Faithless
+  year: 2023
+  cover_url: cover-9780316542760.jpg
+  shows_english_title: true
+- title: The Sovereign
+  year: 2025
+  cover_url: cover-9780316542883.jpg
+  shows_english_title: true
+placement_history:
+- date: '2026-10-08'
+  from: insurgent-fantasy
+  to: war-insurgents
+  reason: 'Split of Insurgent fantasy by where the subversion works (curator "Execute", phonemsg-01M4DV2P28N33JQ0KAPP73W1YM).
+    Touraine, a colonized child conscript in the imperial army, moves through espionage and subversion from within toward
+    revolt: the army is the machine.'
