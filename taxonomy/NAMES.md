@@ -77,3 +77,6 @@ The commission: a leaf under Political fantasy for post-feudal mass-franchise po
 ## Curator ruling: dropping the parent word (Technothriller split, 2026-10-06)
 
 Infowar, Spytech and Technocrisis do not carry the word "technothriller". The curator chose this himself while workshopping the names (phonemsg-01M48G07ZSFZVV8HN13KMJ0B0G 1:36 PM through phonemsg-01M48HCXES0WY2S9TMJYHC6PKV 2:00 PM "Approved"): short coined stems that name the engine of the story, "crisis is more than twice as evoking but only double the syllables". Rejected on the way: Cyber technothriller (sounds like cyberpunk), Technoshock (reads as the technology being shocking), Technofault, Technojam, Technocrash.
+
+## Curator ruling: "SF" in long subgenre names (2026-10-08)
+"Use SF in the long subgenre names" (phonemsg-01M4DCW01Y774F1HJGNY7C22TC), given while naming the Social science fiction split: Psychological SF and Sociological SF instead of "science fiction" spelled out. Use "SF" when a leaf name would otherwise be long.

@@ -3,7 +3,7 @@ title: The Three Stigmata of Palmer Eldritch
 authors:
 - Philip K. Dick
 first_published: 1965
-canonical_genre: social-science-fiction
+canonical_genre: psychological-sf
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -14,3 +14,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/14588882-L.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-08'
+  from: social-science-fiction
+  to: psychological-sf
+  reason: 'Split of Social science fiction by what the social science studies (curator "Execute", phonemsg-01M4DCWGK3P0XX3E2FC9V0X587).
+    A drug shares and warps reality for Mars colonists: perception and the self are the subject.'

@@ -1,17 +1,16 @@
 id: social-science-fiction
 label: Social science fiction
 parent: soft-science-fiction
-children: []
+children:
+- psychological-sf
+- sociological-sf
 image: 32-social-science-fiction.webp
-definition: Science fiction driven by psychology, sociology, anthropology, linguistics and other social sciences rather than by physical or engineering problems.
-status: provisional
-works:
-- flowers-for-algernon
-- more-than-human
-- the-three-stigmata-of-palmer-eldritch
-- crash
-- her-smoke-rose-up-forever
-- catherine-house
-- the-embedding
-- the-weight-of-the-stars
-- the-essence
+definition: 'Science fiction driven by psychology, sociology, anthropology, linguistics and other social sciences rather than
+  by physical or engineering problems. Pure umbrella since 2026-10-08, partitioned by what the social science studies: Psychological
+  SF (the individual mind) and Sociological SF (the group or society).'
+status: umbrella
+works: []
+history:
+- date: '2026-10-08'
+  change: Split with umbrella at ten into Psychological SF (5) and Sociological SF (4, plus Hellstrom Hive placed next); curator
+    "Execute" (phonemsg-01M4DCWGK3P0XX3E2FC9V0X587).

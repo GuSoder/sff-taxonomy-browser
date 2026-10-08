@@ -38,3 +38,6 @@ Approved and named by the curator (phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT "Alright,
 
 ## 2026-10-08 - Genetic engineering split
 Approved and named by the curator (phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ "Execute"; he chose "Cloning fiction" over "Clone fiction" because it covers Jurassic Park, and "Genetic caste fiction"). Axis: what the gene work makes. Cloning fiction: Jurassic Park, Ghost Species, Never Let Me Go, The Echo Wife, Thirteen Ways to Kill Lulabelle Rock. Genetic caste fiction: The End of Ordinary, Three Days in April, Invasive Procedures, Sorrowland (wobble: weakest card), The Eyes of Heisenberg (placed after the split, MC03185). Portraits 583 and 584.
+
+## 2026-10-08 - Social science fiction split
+Approved and named by the curator (phonemsg-01M4DCWGK3P0XX3E2FC9V0X587 "Execute"). Axis: what the social science studies. Psychological SF (individual mind): Flowers for Algernon, The Three Stigmata of Palmer Eldritch, Crash, The Embedding (wobble), The Essence (wobble). Sociological SF (group or society): More Than Human, Catherine House, The Weight of the Stars (wobble), Her Smoke Rose Up Forever (flag: a story collection, kept because he did not answer the flag; he can order it removed), Hellstrom's Hive (placed after the split, MC03180). Portraits 585 and 586.
