@@ -3,7 +3,7 @@ title: The Innkeeper's Song
 authors:
 - Peter S. Beagle
 first_published: 1993
-canonical_genre: dark-realms
+canonical_genre: godforsaken-realms
 placement_status: accepted
 placement_rationale: 'Three women ride into the Gaff and Slasher inn, where a wizard''s soul is to be taken by his pupil Arshadin,
   who sold his blood to demonic Others; ten narrators tell one night of dread and dark magic shut inside an invented-world
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: dark-realms
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-08'
+  from: dark-realms
+  to: godforsaken-realms
+  reason: 'Split of Dark realms by what the dread is made of (curator "Alright, execute", phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT).
+    A pupil sold his blood to demonic Others and takes a wizard''s soul in one night: a demonic power is the dread.'

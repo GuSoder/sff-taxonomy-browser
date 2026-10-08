@@ -3,11 +3,10 @@ title: House of Hunger
 authors:
 - Alexis Henderson
 first_published: 2022
-canonical_genre: dark-realms
+canonical_genre: hungry-realms
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Fantasy -> Fantasy realms -> Gothic fantasy
-  -> Dark realms. Marion Shaw leaves the Southern slums by Night Train for a great
-  house in the North where bloodmaids serve debauched vampire nobles (Library Journal;
+placement_rationale: 'Actual-tree walk: Fantasy -> Fantasy realms -> Gothic fantasy -> Dark realms. Marion Shaw leaves the
+  Southern slums by Night Train for a great house in the North where bloodmaids serve debauched vampire nobles (Library Journal;
   Paste) - invented-world Gothic of enclosure, dread and dark appetites.'
 classification_sources:
 - https://www.libraryjournal.com/review/house-of-hunger-2163940
@@ -19,3 +18,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/12937821-L.jpg
   visually_reviewed_on: '2026-09-28'
   review_method: single-pass OL title/author lookup; contact-sheet pass owed
+placement_history:
+- date: '2026-10-08'
+  from: dark-realms
+  to: hungry-realms
+  reason: 'Split of Dark realms by what the dread is made of (curator "Alright, execute", phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT).
+    Vampire nobles feed on bloodmaids in a great northern house: appetite is the dread.'

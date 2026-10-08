@@ -32,3 +32,6 @@ On owner order (phonemsg-01M4BN9PDP1GN0ZRHCHCPN9X5P 19:06:38: umbrella with one 
 
 ## 2026-10-08 - Deal with the devil split
 Approved and named by the curator (phonemsg-01M4CY473571PVXXFBNW76WH06, "Perfect, execute"). Power: Vathek, The Monk, Melmoth (forced stray), Mortal Path, The Devil's Blade, King Sorrow. Fame: We Sold Our Souls, Light From Uncommon Stars, Damned If You Do, When Devils Sing. Wobblers documented in each fiction history. Portraits 577 and 578 generated.
+
+## 2026-10-08 - Dark realms split
+Approved and named by the curator (phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT "Alright, execute"; third name confirmed phonemsg-01M4DA9MZZSM611YYA1CNSGE4J). Axis: what the dread is made of. Haunted realms: The Death of Jane Lawrence, Among Ghosts, The Path of Thorns (wobble: predatory household and wolf), Weavingshaw. Hungry realms: House of Hunger, Someone You Can Build a Nest In, This Vicious Hunger (the tenth, placed after the split). Godforsaken realms: Asunder, Deepgate Codex, The Innkeeper's Song. Portraits 580, 581, 582 generated and checked by eye.

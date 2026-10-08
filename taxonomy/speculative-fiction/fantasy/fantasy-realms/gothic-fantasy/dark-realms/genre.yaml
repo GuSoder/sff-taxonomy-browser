@@ -1,17 +1,17 @@
 id: dark-realms
 label: Dark realms
 parent: gothic-fantasy
-children: []
-works:
-- the-death-of-jane-lawrence
-- someone-you-can-build-a-nest-in
-- asunder
-- among-ghosts
-- house-of-hunger
-- the-path-of-thorns
-- weavingshaw
-- the-innkeepers-song
-- deepgate-codex
+children:
+- haunted-realms
+- hungry-realms
+- godforsaken-realms
+works: []
 image: 275-dark-fantasy.webp
-definition: Invented-world Gothic fantasy governed by dread, haunting, enclosure and dark magic more than adventure, etiquette or investigation.
-status: accepted
+definition: 'Invented-world Gothic fantasy governed by dread, haunting, enclosure and dark magic more than adventure, etiquette
+  or investigation. Pure umbrella since 2026-10-08, partitioned by what the dread is made of: Haunted realms (the dead), Hungry
+  realms (appetite), Godforsaken realms (dark powers).'
+status: umbrella
+history:
+- date: '2026-10-08'
+  change: Split with umbrella at ten fictions into Haunted realms (4), Hungry realms (3 with This Vicious Hunger) and Godforsaken
+    realms (3); curator "Alright, execute" (phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT).

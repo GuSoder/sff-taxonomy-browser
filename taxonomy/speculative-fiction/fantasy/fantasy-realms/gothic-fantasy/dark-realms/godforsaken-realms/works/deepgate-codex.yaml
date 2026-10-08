@@ -3,7 +3,7 @@ title: Deepgate Codex
 authors:
 - Alan Campbell
 first_published: 2006
-canonical_genre: dark-realms
+canonical_genre: godforsaken-realms
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Fantasy realms > Gothic fantasy > Dark realms. Deepgate, a city hung by chains over
   an abyss that holds the corpses of dead gods, is a place of dread and enclosure where an angel assassin and a doomed guardian
@@ -29,3 +29,9 @@ placement_history:
 - date: '2026-10-04'
   to: dark-realms
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-08'
+  from: dark-realms
+  to: godforsaken-realms
+  reason: 'Split of Dark realms by what the dread is made of (curator "Alright, execute", phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT).
+    A city hung by chains over an abyss that holds the corpses of dead gods; an angel assassin serves them: a dark power is
+    the dread.'

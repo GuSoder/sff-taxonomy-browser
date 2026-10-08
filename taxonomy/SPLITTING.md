@@ -82,3 +82,4 @@ See also GLOSSARY.md for the terms "fiction" (an entry: a stand-alone novel up t
 
 | 2026-10-07 | Uncanny thresholds | Visionary thresholds / Quest thresholds | what the crossing is for: reckoning/vision vs outward mission (5/5); phonemsg-01M4BCDQRD3XSZM9P4P00M1S9Q |
 | 2026-10-08 | Deal with the devil | Devilish power deals / Devilish fame deals | what the bargain buys: power/skill/knowledge/revenge vs fame/talent/success/better life (6/4, Melmoth forced stray to power); phonemsg-01M4CY473571PVXXFBNW76WH06 |
+| 2026-10-08 | Dark realms | Haunted realms / Hungry realms / Godforsaken realms | what the dread is made of: the dead / appetite / dark powers (4/3/3 with This Vicious Hunger; Path of Thorns wobble); phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT |
