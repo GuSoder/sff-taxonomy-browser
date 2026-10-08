@@ -1,0 +1,31 @@
+id: a-columbus-of-space
+title: A Columbus of Space
+authors:
+- Garrett P. Serviss
+first_published: 1909
+canonical_genre: classic-planetary-romance
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Science fantasy > Planetary romance >
+  Classic planetary romance. Per the Gutenberg text and ISFDB: the inventor Edmund Stonewall builds an atomic-powered spaceship,
+  flies a small party from Earth to Venus and adventures there among its people and creatures, then comes home. The hero is
+  a visitor from Earth who arrives on a neighbouring world and adventures on it, which is the Classic planetary romance definition.
+  Rejected: Scientific adventure (that leaf is the nineteenth century and its marvel-and-voyage Verne frame; this one is 1909
+  and the stay on the other world is the book), Alien-fiction leaves (Futurist, observation or first contact is not the engine).
+  Wobble: it is more engineering voyage than romance, and Scientific adventure''s period edge is close; the 1909 date and
+  the Venus adventure decide it. First serialised in All-Story, January 1909 (ISFDB); book 1911. Cover is the Argosy Library
+  omnibus with The Moon Metal, the only usable cover found.'
+books:
+- title: A Columbus of Space
+  year: 1909
+  cover_url: https://covers.openlibrary.org/b/id/10873722-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10873722-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03320)
+placement_history:
+- date: '2026-10-04'
+  to: classic-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
