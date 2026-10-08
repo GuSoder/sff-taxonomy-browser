@@ -1,0 +1,29 @@
+id: the-world-at-the-end-of-time
+title: The World at the End of Time
+authors:
+- Frederik Pohl
+first_published: 1990
+canonical_genre: alien-cosmic-history
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Alien cosmic history.
+  Per Wikipedia, Publishers Weekly and Baen: alternating stories of the star-dwelling plasma intelligence Wan-To, who wars
+  on his sibling selves across the cosmos and disrupts twelve stars, and of the human colony of Newmanhome, carried to the
+  end of time at relativistic speed. The emergence and development of a radically nonhuman mind and its civilisation across
+  cosmic time is the Alien cosmic history definition. Rejected: World models (rewritten physics is not the discovery), Far-future
+  first contact (no encounter is the plot). Wobble: half the book follows Viktor Sorricaine and the human colony. Year 1990
+  (Del Rey); queue says 2011 Baen ebook.'
+books:
+- title: The World at the End of Time
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/7004589-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7004589-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03220)
+placement_history:
+- date: '2026-10-04'
+  to: alien-cosmic-history
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
