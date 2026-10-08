@@ -47,3 +47,4 @@ Approved and named by the curator (phonemsg-01M4DV2P28N33JQ0KAPP73W1YM "Execute"
 
 ## 2026-10-08 - Cozy fantasy split
 Approved and named by the curator (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9 "Ok, execute"). Axis: what the comfort is made of. Cozy place fantasy (3): Legends & Lattes, The Inn at the Foot of Mount Vengeance, Wayside Hotel. Cozy craft fantasy (4): Defensive Baking, Eva Evergreen, Violet Thistlewaite, The Hexologists. Cozy peeps fantasy (3): The Garden of Delights, A Letter to the Luminous Deep, The Dungeon Book (placed from its hold; weak). Umbrella holds zero direct fictions. Portraits pending his bare-letter picks.
+- 2026-10-08: multiverse-war: folded Infinity Gate, Echo of Worlds, Outlaw Planet into The Pandominion (rule 11j, no split); placed The Coming of the Quantum Cats (first pub 1986); leaf 8. Bedlam Boyz placed in found-magic.

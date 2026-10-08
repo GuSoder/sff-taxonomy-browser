@@ -1,0 +1,36 @@
+id: the-pandominion
+title: The Pandominion
+authors:
+- M.R. Carey
+first_published: 2023
+canonical_genre: multiverse-war
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Parallel world fiction > Multiverse war.
+  Dimension-hopping powers raid neighbouring Earths for resources, machine intelligences and refugees cross between versions
+  of reality, and the last engagements of an inter-dimensional war frame Bess''s revenge (Kirkus, PW, Orbit): worlds make
+  war. Folded 2026-10-08 under rule 11j (a shared universe is one fiction): the former
+  separate cards Infinity Gate (2023), Echo of Worlds (2024) and Outlaw Planet (2025, a standalone set in the same universe)
+  are now one fiction with three volumes. Placement history of the three cards: moved to multiverse-war in the Parallel world
+  fiction split (curator ruling: split greenlit ''Do it'' 2026-09-28 11:57 CEST, names locked in the phonemsg-01M3KQ53CJENKAF3B1533ZFAX7
+  exchange).'
+books:
+- title: Infinity Gate
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/15206744-L.jpg
+- title: Echo of Worlds
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14656891-L.jpg
+- title: Outlaw Planet
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/isbn/9780316595469-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15206744-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids fold, fold, fold)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-war
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
