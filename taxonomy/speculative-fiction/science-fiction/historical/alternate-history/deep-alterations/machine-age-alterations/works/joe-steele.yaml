@@ -1,0 +1,27 @@
+id: joe-steele
+title: Joe Steele
+authors:
+- Harry Turtledove
+first_published: 2015
+canonical_genre: machine-age-alterations
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Alternate history > Deep alterations
+  > Machine age alterations. An alternate 1930s to 1950s in which a Stalin-like Joe Steele, not Franklin Roosevelt, wins the
+  1932 election and rules the United States (Wikipedia, Joe Steele; billed ''a novel of alternate history''). The fork is
+  after 1800 and the twentieth-century world is lived in rather than replayed. Rejected: Alt prewar (the book runs through
+  the war and after), Alt postwar. Wobble: moderate. Sources: Wikipedia. Year: 2015.'
+books:
+- title: Joe Steele
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/9780451472182
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780451472182
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03751)
+placement_history:
+- date: '2026-10-04'
+  to: machine-age-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
