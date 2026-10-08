@@ -1,0 +1,29 @@
+id: time-storm
+title: Time Storm
+authors:
+- Gordon R. Dickson
+first_published: 1977
+canonical_genre: time-distortion
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Time travel fiction > Time distortion.
+  A time storm has devastated the Earth and only a small fraction of humankind remains; three survivors, a young man, a young
+  woman and a leopard, form an alliance in a world where regions run at different rates of time (Goodreads blurb of the 1977
+  first edition; ISFDB). Different regions of the world running at radically different time rates shapes the story, which
+  is the leaf''s definition. Rejected: Cosmic catastrophe (the disaster is a distortion of time, not debris from the sky),
+  Dying earth, Hard time travel (no travel device). Wobble: moderate; it is also a survival and post-catastrophe tale, and
+  I read only the blurb. Year is the 1977 first edition (the queue showed 2018).'
+books:
+- title: Time Storm
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/407673-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/407673-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03511)
+placement_history:
+- date: '2026-10-04'
+  to: time-distortion
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
