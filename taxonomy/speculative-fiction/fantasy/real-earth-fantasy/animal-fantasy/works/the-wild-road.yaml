@@ -1,0 +1,31 @@
+id: the-wild-road
+title: The Wild Road
+authors:
+- Gabriel King
+first_published: 1997
+canonical_genre: animal-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-earth fantasy > Animal fantasy. Per ISFDB (Tag, the
+  Cat series, by M. John Harrison and Jane Johnson as Gabriel King; Wild Road 1997, Golden Cat 1999) and Penguin Random House:
+  cats are the people, with their own society, legends and a quest along the wild road, lightly anthropomorphized, in the
+  Watership Down line (Richard Adams''s blurb on the jacket). Animals rendered on their own terms is the Animal fantasy definition.
+  Rejected: Quest fantasy leaves (human or humanoid questers; the cats are not a costume). Two volumes folded as one fiction
+  under the shared-universe rule: The Wild Road (1997) and The Golden Cat (1999).'
+books:
+- title: The Wild Road
+  year: 1997
+  cover_url: https://images.penguinrandomhouse.com/cover/9780345423030
+- title: The Golden Cat
+  year: 1999
+  cover_url: https://images.penguinrandomhouse.com/cover/9780345423054
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780345423030
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03238, MC03237)
+placement_history:
+- date: '2026-10-04'
+  to: animal-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
