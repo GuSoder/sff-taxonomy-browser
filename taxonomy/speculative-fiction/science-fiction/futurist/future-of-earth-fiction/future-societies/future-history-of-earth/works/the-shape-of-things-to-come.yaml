@@ -1,0 +1,27 @@
+id: the-shape-of-things-to-come
+title: The Shape of Things to Come
+authors:
+- H. G. Wells
+first_published: 1933
+canonical_genre: future-history-of-earth
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Future societies
+  > Future history of Earth. A future history of Earth from the Great War to 2106, framed as the recollected notes of the
+  diplomat Dr. Philip Raven''s dream-visions of a future history textbook, tracing the collapse of states, air-police rule
+  and the Modern State (Wikipedia). A sustained course of Earth and Earthbound humanity, the leaf''s definition. Rejected:
+  Utopian leaves (the book is a history, not a society portrait). Wobble: low. Sources: Wikipedia. Year 1933.'
+books:
+- title: The Shape of Things to Come
+  year: 1933
+  cover_url: https://covers.openlibrary.org/b/id/1412560-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/1412560-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03633)
+placement_history:
+- date: '2026-10-04'
+  to: future-history-of-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

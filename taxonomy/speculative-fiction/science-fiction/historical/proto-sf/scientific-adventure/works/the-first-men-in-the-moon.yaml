@@ -1,0 +1,28 @@
+id: the-first-men-in-the-moon
+title: The First Men in the Moon
+authors:
+- H. G. Wells
+first_published: 1901
+canonical_genre: scientific-adventure
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Proto SF > Scientific adventure. Two
+  Englishmen, the businessman Bedford and the scientist Cavor, travel to the Moon in a sphere shielded by Cavor''s gravity-blocking
+  substance and find the insect-like Selenites living inside it (Wikipedia). A technological marvel and the voyage it enables,
+  the leaf''s definition. Rejected: Alien expedition leaves (the book is a scientific romance of its era, the Selenite society
+  is satire), Lost race (the Selenites are not a vanished human people). Wobble: moderate; published 1901, just past the leaf''s
+  nineteenth-century wording. Sources: Wikipedia. Year 1901.'
+books:
+- title: The First Men in the Moon
+  year: 1901
+  cover_url: https://covers.openlibrary.org/b/id/8081288-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8081288-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03629)
+placement_history:
+- date: '2026-10-04'
+  to: scientific-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
