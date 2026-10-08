@@ -1,0 +1,31 @@
+id: the-veteran-series
+title: The Veteran Series
+authors:
+- Gavin G. Smith
+first_published: 2010
+canonical_genre: ground-pounders
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
+  fiction > Ground-pounders. SFE: a grimly told, extremely violent military SF sequence set on a war-torn near-future Earth
+  after sixty years of unequal war with the alien ''Them'', followed by an interstellar second book; the war is seen through
+  the soldiers'' eyes. Rejected: Future war (Earthbound conflict is only the first volume), Space command (nobody directs
+  the campaign from the top), Alien conquest fiction (the war is already decades old, not the arrival). Wobble: Future war
+  for book one''s Earth setting. Two volumes folded as one fiction: Veteran (2010), War in Heaven (2011).'
+books:
+- title: Veteran
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8782577-L.jpg
+- title: War in Heaven
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8472409-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8782577-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03336, MC03337)
+placement_history:
+- date: '2026-10-04'
+  to: ground-pounders
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
