@@ -5,8 +5,14 @@ authors:
 first_published: 1994
 canonical_genre: alien-cosmic-history
 placement_status: accepted
-placement_rationale: 'Xeelee Sequence: humans and the Xeelee across cosmic deep time; nonhuman civilisations'' history in
-  hard-SF register.'
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Alien cosmic history.
+  Stephen Baxter''s Xeelee Sequence is one universe (rule 11j; curator ruling phonemsg-01M4E4MHATNAGJSH6VMAGPVYA7, 2026-10-08
+  18:13 CEST, applied to Baxter): Destiny''s Children (Coalescent, Exultant, Transcendent) is the human-history strand of
+  the Xeelee Sequence and runs into the far-future war with the Xeelee, so it folds onto this card. Placed by what the series
+  is about: humans and the nonhuman Xeelee across deep time, the history of minds and civilisations at cosmic scale, not by
+  endpoint. Wobble: Destiny''s Children alone reads as Future history in space; the card stays in Alien cosmic history because
+  the Xeelee war frames the whole sequence. Rows MC08967, 08972, 08993 folded. Xeelee: Endurance (MC08999) is a story collection
+  and is skipped.'
 books:
 - title: Raft
   year: 1991
@@ -20,6 +26,15 @@ books:
 - title: 'Xeelee: Redemption'
   year: 2018
   cover_url: https://covers.openlibrary.org/b/id/8506303-L.jpg
+- title: Coalescent
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/210824-L.jpg
+- title: Exultant
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/210826-L.jpg
+- title: Transcendent
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/380171-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -36,3 +51,6 @@ placement_history:
   to: alien-cosmic-history
   reason: Sequence novels added to the existing card (one card per series); the humans-and-Xeelee cosmic history stays the
     engine.
+- date: '2026-10-08'
+  to: alien-cosmic-history
+  reason: Folded Destiny's Children onto the card (rule 11j, one universe one fiction); placed by what the series is about.
