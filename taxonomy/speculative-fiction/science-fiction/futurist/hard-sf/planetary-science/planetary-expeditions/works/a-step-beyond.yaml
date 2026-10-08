@@ -3,11 +3,13 @@ title: A Step Beyond
 authors:
 - Christopher K. Anderson
 first_published: 2001
-canonical_genre: planetary-science
+canonical_genre: planetary-expeditions
 placement_status: accepted
 placement_rationale: 'Christopher K. Anderson''s 2001 novel follows a joint U.S.-Russian crewed expedition to Mars after an
   earlier mission died, with the voyage, the hazards of deep space and the planet itself as the subject (Hachette, infinity
-  plus review). Hard SF built on planetary exploration: Planetary science.'
+  plus review). Hard SF built on planetary exploration: Planetary science. Split walk 2026-10-08 (phonemsg-01M4E20SN3DN3P17PC50ZVQD2N):
+  Root-down: Speculative fiction > Science fiction > Futurist > Hard science fiction > Planetary science > Planetary expeditions.
+  A joint US-Russian crewed expedition to Mars after an earlier mission died; the voyage and the planet are the subject.'
 books:
 - title: A Step Beyond
   year: 2001
@@ -20,6 +22,11 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC01802)
 placement_history:
+- date: '2026-10-08'
+  from: planetary-science
+  to: planetary-expeditions
+  reason: Split of Planetary science by what the book does with the planet (curator "Approved", phonemsg-01M4E20SN3DN3P17PC50ZVQD2N).
+    A joint US-Russian crewed expedition to Mars after an earlier mission died; the voyage and the planet are the subject.
 - date: '2026-10-04'
   to: planetary-science
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

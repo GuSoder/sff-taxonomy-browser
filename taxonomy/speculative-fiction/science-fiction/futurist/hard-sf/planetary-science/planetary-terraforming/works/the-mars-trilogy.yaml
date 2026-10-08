@@ -1,0 +1,33 @@
+id: the-mars-trilogy
+title: The Mars Trilogy
+authors:
+- Kim Stanley Robinson
+first_published: 1992
+canonical_genre: planetary-terraforming
+placement_status: accepted
+placement_rationale: 'Split walk 2026-10-08 (phonemsg-01M4E20SN3DN3P17PC50ZVQD2N): Root-down: Speculative fiction > Science
+  fiction > Futurist > Hard science fiction > Planetary science > Planetary terraforming. Robinson''s trilogy follows the
+  terraforming and settling of Mars across centuries; the remaking of the planet is the spine. WEAK EDGE: it is as much politics
+  and revolution as planetary science, and the colonists'' society could also read as colony politics.'
+books:
+- title: Red Mars
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/382552-L.jpg
+- title: Green Mars
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/372391-L.jpg
+- title: Blue Mars
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/3818726-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/8281636-L.jpg
+  shows_english_title: false
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-08'
+  from: planetary-science
+  to: planetary-terraforming
+  reason: 'Split of Planetary science by what the book does with the planet (curator "Approved", phonemsg-01M4E20SN3DN3P17PC50ZVQD2N).
+    Robinson''s trilogy follows the terraforming and settling of Mars across centuries; the remaking of the planet is the
+    spine. WEAK EDGE: it is as much politics and revolution as planetary science, and the colonists'' society could also read
+    as colony politics.'

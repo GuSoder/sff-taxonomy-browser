@@ -89,3 +89,5 @@ Palace insurgents / War insurgents / Academy insurgents / Pirate insurgents. The
 
 ## Cozy fantasy leaf names (2026-10-08)
 Cozy place fantasy / Cozy craft fantasy / Cozy peeps fantasy, coined by the curator (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9 "Ok, execute"). The proposal's Hearth / Craft / Tender were replaced: the "Cozy" prefix makes each name say where it sits in the branch. "Peeps" is slang for people (spelled peeps, no apostrophe): the found-closeness bucket, where the people are the comfort. Rejected: Tender (weak; alternates Gentle, Kindred), Hearth (did not carry the Cozy prefix).
+
+- Planetary terraforming / Planetary expeditions / Planetary ecologies (2026-10-08): parent-word prefix; the three acts are remaking a world, travelling to one, and the world's own climate and life.

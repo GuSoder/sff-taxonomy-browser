@@ -3,13 +3,16 @@ title: The Grand Tour
 authors:
 - Ben Bova
 first_published: 1985
-canonical_genre: planetary-science
+canonical_genre: planetary-expeditions
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Futurist > Hard science fiction > Planetary science. Bova''s linked near-future
   novels take the solar system a world at a time (Mercury, Venus, Jupiter, Saturn, Titan, Uranus, Neptune, Pluto), with the
   asteroid belt (Asteroid Wars: The Precipice, The Rock Rats, The Silent War) and the Moon; each book is built on the geology,
   climate and exploration of one body. Interpretation of the series boundary follows the Grand Tour universe listing (Wikipedia,
-  ISFDB).'
+  ISFDB). Split walk 2026-10-08 (phonemsg-01M4E20SN3DN3P17PC50ZVQD2N): Root-down: Speculative fiction > Science fiction >
+  Futurist > Hard science fiction > Planetary science > Planetary expeditions. Bova''s linked near-future novels take the
+  solar system one world at a time (Mercury to Pluto, the asteroids, the Moon), each built on the geology and exploration
+  of one body. WEAK EDGE: mixed, since the books also carry colonization and some terraforming.'
 books:
 - title: Privateers
   year: 1985
@@ -74,9 +77,16 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/183236-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC00982, MC00975, MC00956, MC00960, MC01001, MC00988, MC00990, MC00978, MC00993, MC00974, MC00965,
-  MC00996, MC00963, MC00962, MC00957, MC00955, MC00999, MC00967, MC00973)
+intake: ten-k walk v5 (queue ids MC00982, MC00975, MC00956, MC00960, MC01001, MC00988, MC00990, MC00978, MC00993, MC00974,
+  MC00965, MC00996, MC00963, MC00962, MC00957, MC00955, MC00999, MC00967, MC00973)
 placement_history:
+- date: '2026-10-08'
+  from: planetary-science
+  to: planetary-expeditions
+  reason: 'Split of Planetary science by what the book does with the planet (curator "Approved", phonemsg-01M4E20SN3DN3P17PC50ZVQD2N).
+    Bova''s linked near-future novels take the solar system one world at a time (Mercury to Pluto, the asteroids, the Moon),
+    each built on the geology and exploration of one body. WEAK EDGE: mixed, since the books also carry colonization and some
+    terraforming.'
 - date: '2026-10-04'
   to: planetary-science
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
