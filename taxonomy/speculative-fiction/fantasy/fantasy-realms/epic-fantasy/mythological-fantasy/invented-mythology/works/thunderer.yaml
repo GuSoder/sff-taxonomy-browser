@@ -1,0 +1,34 @@
+id: thunderer
+title: Thunderer
+authors:
+- Felix Gilman
+first_published: 2007
+canonical_genre: invented-mythology
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Mythological fantasy > Invented
+  mythology. One shared world (Ararat; Gears of the City is the follow-up to Thunderer per Penguin Random House), so one fiction
+  (rule 11j). Per PRW/SFFWorld: Ararat is a vast invented city where the gods are visible and active, the Bird-God returns,
+  Arjun comes seeking the lost Voice of his people''s god, and the god Typhon walks the plot; Gears of the City returns Arjun
+  in the last days of Ararat. The engine is an imagined pantheon and its return, which is the Invented mythology definition
+  (invented gods built from scratch). Rejected: New weird (Bas-Lag kinship is real and a review lists it among city novels,
+  but gods and their lost voice, not grotesquerie or genre-mingling, drive the plot; New weird is also at nine works), Dark
+  realms (not governed by dread), Tinderbox (Jack''s Thunderers are a thread, not the shape). Wobble: New weird is the second
+  reading.'
+books:
+- title: Thunderer
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2519525-L.jpg
+- title: Gears of the City
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/11636586-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2519525-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03139, MC03134)
+placement_history:
+- date: '2026-10-04'
+  to: invented-mythology
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
