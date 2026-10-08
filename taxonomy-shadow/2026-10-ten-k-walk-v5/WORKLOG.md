@@ -75,3 +75,5 @@ Parked: None But Man, Idolfire/Heaven's Graveyard, Lucid, Teranesia, Queen of Da
 Next: Turtledove block from MC03718. QA batches owed.
 
 - 9:00 PM: Harrison remainder, Southern Victory, Darkness (war-fantasy 9), Atlantis (antique-alterations 7) placed. Parked: War That Came Early, Worldwar/Colonization.
+
+- 9:41 PM: Ruled Britannia (age-of-sail-alterations 4), In the Presence of Mine Enemies (alt-postwar 10, SPLIT GATE), Through Darkest Europe (antique-alterations 8), Joe Steele (machine-age-alterations 6) placed. Intake paused pending Alt postwar split.
