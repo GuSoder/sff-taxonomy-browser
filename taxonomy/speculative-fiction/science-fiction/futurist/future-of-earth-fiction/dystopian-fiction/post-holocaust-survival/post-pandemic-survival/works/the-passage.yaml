@@ -1,0 +1,40 @@
+id: the-passage
+title: The Passage
+authors:
+- Justin Cronin
+first_published: 2010
+canonical_genre: post-pandemic-survival
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian fiction
+  > Post-holocaust survival > Post-pandemic survival. Three Gollancz rows (2024 reissues; queue author fields ''Computer Security''
+  and ''Events'' are scrape errors, author verified on the Gollancz pages and the Guardian review) are one trilogy and one
+  shared universe, so one fiction (rule 11j): The Passage (2010), The Twelve (2012), The City of Mirrors (2016; Open Library''s
+  2015 is a catalogue date). A military-engineered virus turns twelve death-row inmates into blood-drinking virals, civilisation
+  falls, and the story follows the survivors'' colony and then the rebuilding, which is the Post-pandemic survival definition
+  (pandemic disease as cause, survivors enduring and rebuilding). I Am Legend, a vampire-plague survival book, sits in the
+  same leaf. Rejected: Vampire fantasy and Vampire hunt (the cause is an engineered virus, not the supernatural; the Guardian
+  calls it post-apocalyptic fantasy but the premise is a lab accident), Post-nuclear survival and Terminal wastelands (the
+  cause is named), SF Atemporal and Genetic engineering leaves (the engine is the aftermath). Wobble: the vampire reading
+  is the second-closest and the first volume''s 300-page prologue is a pre-collapse thriller. Decided on the cause and the
+  survival engine.'
+books:
+- title: The Passage
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8261369-L.jpg
+- title: The Twelve
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/12884497-L.jpg
+- title: The City of Mirrors
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/12884475-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8261369-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01925, MC03090, MC05077)
+placement_history:
+- date: '2026-10-04'
+  to: post-pandemic-survival
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
