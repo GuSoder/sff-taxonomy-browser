@@ -1,0 +1,37 @@
+id: marid-audran
+title: Marid Audran
+authors:
+- George Alec Effinger
+first_published: 1987
+canonical_genre: neural-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Techno-fiction
+  > Cyberpunk > Neural fiction. Marid Audran is a street hustler in the Budayeen, the walled red-light quarter of an Arab
+  city, in a near future where brain implants decide who people are: personality ''moddies'' and skill ''daddies'' plug into
+  the skull, and Marid is pressed into getting wired himself (Wikipedia, Marid Audran series; Locus). The implant at the base
+  of the skull is the passage into altered selves, which is the leaf''s definition, direct-to-brain access as the central
+  way in. Rejected: Postcyberpunk and its leaves (classic noir alienation, not socially embedded; no network heists or resistance),
+  Metaverse (no persistent shared avatar world). Wobble: the engine is a noir detective story in an Islamic-world city, and
+  the implants are a plot condition more than an altered reality the book enters; Neural fiction is the nearest cyberpunk
+  leaf. Series folded as one fiction (rule 11j).'
+books:
+- title: When Gravity Fails
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/524634-L.jpg
+- title: A Fire in the Sun
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/4081370-L.jpg
+- title: The Exile Kiss
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/4028311-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/4081370-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03403, MC03401, MC03402)
+placement_history:
+- date: '2026-10-04'
+  to: neural-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
