@@ -33,3 +33,7 @@ How the walk applies it:
 - Cameo links between otherwise separate worlds are not a shared universe (for example Stephen King's Dark Tower tie-ins). When unsure, ask before merging.
 - Unpublished books stay on hold (Splintered Sun, Osten Ard).
 Merges done 2026-10-06 under this ruling: Osten Ard (Memory, Sorrow, and Thorn), Shannara, The Ender Universe, The Lost Fleet, Mercy Thompson, The Others, Saint of Steel, Kithamar, The Sixth World, Age of Darkness, The Black Magician, Revelation Space, Saga of the Skolian Empire, Uglies, Alliance-Union, Foundation, Middle-earth, Dragaera, The First Law, Siege trilogy.
+
+## Precedent: one universe, several genres (Solar Cycle, 2026-10-08)
+
+Gene Wolfe's New Sun, Long Sun and Short Sun fold into one fiction, The Solar Cycle, and the card sits at the series' final destination, Colonial worlds (curator, phonemsg-01M4E4MHATNAGJSH6VMAGPVYA7, 2026-10-08 6:13 PM: "Ok, put the series in Colonial Worlds"; fold instruction relayed by the parent). The genre journey (Dying earth > Voyage societies > Colonial worlds) goes in the walk record. Omnibus editions of folded volumes are not listed separately.
