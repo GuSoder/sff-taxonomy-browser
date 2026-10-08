@@ -1,0 +1,33 @@
+id: little-fuzzy
+title: Little Fuzzy
+authors:
+- H. Beam Piper
+first_published: 1962
+canonical_genre: colonial-worlds
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological science
+  fiction > Xenocolonial > Colonial worlds. On Zarathustra, a planet run by Victor Grego''s Chartered Zarathustra Company
+  for its sunstones, prospector Jack Holloway finds the golden-furred Fuzzies, and the Company''s scientists try to disprove
+  their sapience to keep its charter; the murder trial settles the question, and Fuzzy Sapiens follows the charterless Company,
+  the new governor and the Fuzzies among the colonists (Wikipedia plot summaries). An extraction colony colliding with native
+  life, the leaf''s definition. The Complete Fuzzy omnibus (MC03614) is an edition of these books and is folded here. Rejected:
+  Alien arrival (the Fuzzies are native, nobody arrives), Colony politics (the engine is the natives'' status, not the settlers''
+  own government). Wobble: moderate; the court case also reads as first contact. Sources: Wikipedia only. Years: 1962, 1964.'
+books:
+- title: Little Fuzzy
+  year: 1962
+  cover_url: https://covers.openlibrary.org/b/id/1591936-L.jpg
+- title: Fuzzy Sapiens
+  year: 1964
+  cover_url: https://covers.openlibrary.org/b/id/6930158-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/1591936-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03616, MC03615)
+placement_history:
+- date: '2026-10-04'
+  to: colonial-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
