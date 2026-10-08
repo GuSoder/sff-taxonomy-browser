@@ -73,3 +73,5 @@ Placed since 7:45 PM: Wolfling, Floating Hotel, Fallen Empire, Grace Lin (Shenmo
 Leaves at 9: Alien arrival, Fairytale expansion, Fairytale transplant, Fae founders, Gateway multiverse fantasy, Occult consultants, Multiverse odyssey, Terms of service, Invented mythology, Colony politics, Bonded romantasy, Revival quest fantasy, Court spies, Comic space fiction.
 Parked: None But Man, Idolfire/Heaven's Graveyard, Lucid, Teranesia, Queen of Days, Scarlet, Ace Up Her Sleeve, Monster Hunters Bargain, Wilderwood duology (Bonded at 9), Ysabel, The Frame-Up, Parry (Uriah Heep, Magician's Daughter, Far Better Thing), Food of the Gods, Sea Lady, Jones (Kairos, Life), Colebatch Man-Kzin, A Snake Among Swans, Harrison (Turing Option, Daleth Effect).
 Next: Turtledove block from MC03718. QA batches owed.
+
+- 9:00 PM: Harrison remainder, Southern Victory, Darkness (war-fantasy 9), Atlantis (antique-alterations 7) placed. Parked: War That Came Early, Worldwar/Colonization.
