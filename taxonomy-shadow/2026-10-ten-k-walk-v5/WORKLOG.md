@@ -65,3 +65,5 @@ Approved and named by the curator (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9 "Ok, exec
 - 2026-10-08 7:06 PM: Marid Audran (Neural fiction 6), Newbury and Hobbes (Steampunk adventure 6), The Witch's Heart (Norse fantasy 4) placed. Fae founders split proposal sent to parent; Castleview and Sorcerer's House parked. Next spec number 107. Queue resumes at Dimova MC03395 (Fantasy), Ryman MC03399/400, England/Griffith MC03404/05, G.R.R. Martin MC03412+.
 
 Checkpoint 7:38 PM: queue resumes at MC03483 The Tower of Fear (Cook, 1989 standalone, no leaf chosen yet), then MC03489 Hirshberg (collections, skip), MC03492 Glenda Larke onward. Next spec 125. Leaves at 9 now also: invented-mythology.
+
+Checkpoint 7:45 PM: done through MC03511 (Dickson block). Parked at gate: None But Man MC03505 -> colony-politics (9, would be ten). Resume at MC03512 Wolfling (Dickson), then MC03513 1636 Barbie Consortium (Ring of Fire fold?), Grace Curtis, Grace Draven. Next spec 136.
