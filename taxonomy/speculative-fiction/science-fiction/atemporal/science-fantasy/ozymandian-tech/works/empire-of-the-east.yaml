@@ -1,0 +1,29 @@
+id: empire-of-the-east
+title: Empire of the East
+authors:
+- Fred Saberhagen
+first_published: 2006
+canonical_genre: ozymandian-tech
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Science fantasy > Ozymandian tech. Per
+  ISFDB, the Empire of the East series (The Broken Lands 1968, The Black Mountains 1971, Changeling Earth 1973, Ardneh''s
+  Sword 2006) is tagged post apocalypse and science fiction: a far-future Earth remade after a nuclear war, where wizards
+  and demons are mutation and surviving technology and Ardneh, a buried machine-god, rules as myth. Fantasy surface built
+  on the wreck of an old high-tech civilisation whose works still run is the Ozymandian tech definition. Rejected: Dying earth
+  (full, and no moribund-sun frame), Hard science fantasy (the magic is mistaken technology, not engineered physics). Wobble:
+  the far-future-Earth frame could suit Dying earth. Year 2006 is Ardneh''s Sword, Tor; the series began 1968.'
+books:
+- title: Ardneh's Sword
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/8314572-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8314572-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03196)
+placement_history:
+- date: '2026-10-04'
+  to: ozymandian-tech
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
