@@ -1,0 +1,28 @@
+id: noise
+title: Noise
+authors:
+- Hal Clement
+first_published: 2003
+canonical_genre: planet-ecology-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Hard sci-fi > Planetary science > Planet
+  ecology fiction. Kainui is an ocean planet with water 1700 miles deep, no solid ground, floating artificial island cities,
+  an unbreathable atmosphere and constant lightning, waterspouts and tsunamis, where the linguist Mike Hoani has come to study
+  the colonists'' language (Hachette UK description). The planet''s seas, weather and the self-sufficiency they force are
+  the world the book is about, the leaf''s definition. Rejected: Colonial worlds (the settlement is the setting, not the subject),
+  Xenolinguistics (the language work is a thread). Wobble: moderate. Sources: Hachette UK. Year 2003 (Tor first edition).'
+books:
+- title: Noise
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/524344-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/524344-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03645)
+placement_history:
+- date: '2026-10-04'
+  to: planet-ecology-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

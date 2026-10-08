@@ -1,0 +1,29 @@
+id: half-life
+title: Half Life
+authors:
+- Hal Clement
+first_published: 1999
+canonical_genre: planet-expedition-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Hard sci-fi > Planetary science > Planet
+  expedition fiction. Near the end of the next century, fast-evolving diseases threaten human survival, and a low-cost expedition
+  travels to Saturn''s moon Titan to examine pre-biotic chemistry; of 50 sickly crew members only 21 reach it, with the nonsentient
+  computer Status (Kirkus Reviews). A crewed mission to a world as it is, with mission engineering and survival carrying the
+  story, the leaf''s definition. Rejected: Medical SF leaves (the disease is the reason for the trip, the book is the Titan
+  mission), Planet ecology fiction (the moon is explored, not the subject). Wobble: moderate. Sources: Kirkus Reviews. Year
+  1999 (Sept 8).'
+books:
+- title: Half Life
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/183123-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/183123-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03643)
+placement_history:
+- date: '2026-10-04'
+  to: planet-expedition-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
