@@ -1,0 +1,41 @@
+id: helforts-war
+title: Helfort's War
+authors:
+- Graham Sharp Paul
+first_published: 2007
+canonical_genre: space-armada
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
+  fiction > Space navy > Space armada. Four books in one war between the Federated Worlds and the Hammer Worlds of Kraa, following
+  Michael Helfort from junior lieutenant on a scout vessel sent to rescue the prisoners of the moons of Hell (Book 1), through
+  the heavy cruiser Ishaq and a Hammer prison camp (Book 2), to captain of the dreadnought squadron sent to destroy the secret
+  antimatter warhead facility (Book 3) and the sailing of three frontline dreadnoughts into Commitment Planet (Book 4); PRH
+  blurbs for all four. Naval war with fleets, formations and dreadnoughts is Space armada''s definition, with the state war
+  fleet and its campaigns the story. Rejected: Space corvette (only Book 1 is the one small scout ship and its crew; the series
+  is about the fleet war), Space combat (Helfort is a naval officer, not a soldier or pilot in the line), Space command (he
+  is not directing the campaign from the top). Wobble: moderate; Book 1 leans corvette and the rest leans armada. PRH blurbs
+  only.'
+books:
+- title: 'Helfort''s War Book 1: The Battle at the Moons of Hell'
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/212497-L.jpg
+- title: 'Helfort''s War Book 2: The Battle of the Hammer Worlds'
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6435338-L.jpg
+- title: 'Helfort''s War Book 3: The Battle of Devastation Reef'
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6438562-L.jpg
+- title: 'Helfort''s War Book 4: The Battle for Commitment Planet'
+  year: 2010
+  cover_url: https://images.penguinrandomhouse.com/cover/9780345513717
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/212497-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03526, MC03527, MC03528, MC03529)
+placement_history:
+- date: '2026-10-04'
+  to: space-armada
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
