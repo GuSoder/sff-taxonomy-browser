@@ -1,0 +1,33 @@
+id: the-dreaming-cities
+title: The Dreaming Cities
+authors:
+- Guy Haley
+first_published: 2016
+canonical_genre: ozymandian-tech
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Science fantasy > Ozymandian tech. A
+  thousand years after a global war and a zombie plague, city-states, church and superstition rule while machine relics, mutants
+  and resurrected prehistoric beasts roam, and the silent Dreaming Cities, said to be the homes of angels, hold sealed technology;
+  in The Ghoul King the knight Quinn serves a woman seeking to repair her robot, guarding a technological secret (Tor Publishing
+  Group pages, described as post-apocalyptic science fantasy). Surviving old-world technology reads as sacred or lost magic,
+  the leaf''s definition. Both books folded as the Dreaming Cities series. Rejected: Dying earth (no moribund sun, the world
+  is a thousand years after a war), Apocalyptic fiction leaves (the catastrophe is long past). Wobble: moderate. Sources:
+  Tor pages. Years: 2016 both (Solaris first editions).'
+books:
+- title: The Emperor's Railroad
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/9361576-L.jpg
+- title: The Ghoul King
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10310707-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9361576-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03608, MC03609)
+placement_history:
+- date: '2026-10-04'
+  to: ozymandian-tech
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
