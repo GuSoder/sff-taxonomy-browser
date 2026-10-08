@@ -1,0 +1,38 @@
+id: warriors-of-estavia
+title: Warriors of Estavia
+authors:
+- Fiona Patton
+first_published: 2005
+canonical_genre: invented-mythology
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Mythological fantasy > Invented
+  mythology. One trilogy in one world (Warriors of Estavia; ISFDB series 12605), so one fiction (rule 11j). Separate from
+  the Branion series: the Warriors of Estavia is a different world (Anavatan on the Silver Lake) and ISFDB lists the two as
+  different series. Per PRH: Anavatan sits on the lake where the gods were born, a God-Wall protects the city, the young God
+  Hisar claims a place in the pantheon, and a prophesied time of change is near; a Malazan Book Review blurb says the gods
+  manifest themselves to their people in physical form. The pantheon and its birth are the story, which is the Invented mythology
+  definition (invented gods built from scratch). Rejected: Hidden heir and Dynastic leaves (no ruling line is the engine),
+  Fifth sun and the other Far shores leaves (no matching tradition). Wobble: Mythic power struggle (real-tradition beings)
+  is the nearest sibling but the gods are invented. Years are the DAW first editions (ISFDB 2005, 2008, 2011), not the queue''s
+  2007 and 2009.'
+books:
+- title: The Silver Lake
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/8271694-L.jpg
+- title: The Golden Tower
+  year: 2008
+  cover_url: https://images4.penguinrandomhouse.com/cover/9780756405779
+- title: The Shining City
+  year: 2011
+  cover_url: https://images4.penguinrandomhouse.com/cover/9781101479117
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8271694-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03154, MC03150, MC03153)
+placement_history:
+- date: '2026-10-04'
+  to: invented-mythology
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

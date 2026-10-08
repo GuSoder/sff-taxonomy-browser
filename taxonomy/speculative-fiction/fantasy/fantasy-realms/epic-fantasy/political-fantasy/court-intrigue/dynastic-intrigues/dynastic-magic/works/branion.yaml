@@ -1,0 +1,39 @@
+id: branion
+title: Branion
+authors:
+- Fiona Patton
+first_published: 1997
+canonical_genre: dynastic-magic
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Court
+  intrigue > Dynastic intrigues > Dynastic magic. One four-book series in one world (the Branion series, Penguin Random House;
+  The Stone Prince is Book 1 of 4), so one fiction (rule 11j). Per PRH: the royal line of Branion wields the Flame, a magic
+  that none can stand against and that destroys an untrained vessel, and the family intrigue around Queen Melesandra, Crown
+  Prince Demnor and the heirs who answer to other Aspects (Wind, Sea, Oaks) is the story. The ruling line''s magic is the
+  instrument and the stake, which is the Dynastic magic definition. Rejected: Dynastic favor (regard of the ruler is secondary
+  to the Flame), Hidden heir quest (not one marked heir). Wobble: Dynastic wars is the second reading for The Golden Sword''s
+  war. Years are the DAW first editions, not the queue''s reissue years.'
+books:
+- title: The Stone Prince
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/683366-L.jpg
+- title: The Painter Knight
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/683400-L.jpg
+- title: The Granite Shield
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/683452-L.jpg
+- title: The Golden Sword
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/683506-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/683366-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03155, MC03152, MC03151, MC03149)
+placement_history:
+- date: '2026-10-04'
+  to: dynastic-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
