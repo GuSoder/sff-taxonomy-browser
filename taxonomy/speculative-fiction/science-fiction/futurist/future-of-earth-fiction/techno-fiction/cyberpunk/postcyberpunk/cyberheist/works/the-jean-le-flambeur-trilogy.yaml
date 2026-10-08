@@ -1,0 +1,36 @@
+id: the-jean-le-flambeur-trilogy
+title: The Jean le Flambeur Trilogy
+authors:
+- Hannu Rajaniemi
+first_published: 2010
+canonical_genre: cyberheist
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Techno fiction
+  > Cyberpunk > Postcyberpunk > Cyberheist. Several centuries after a singularity, posthuman factions of brain-emulation ''gogols''
+  rule the Solar System, and the legendary gentleman thief Jean le Flambeur, modeled on Arsene Lupin, is freed from a virtual
+  prison to pull a job in the Martian city of the Oubliette (Wikipedia, The Quantum Thief: a heist story); The Fractal Prince
+  and The Causal Angel continue the trilogy. Heists and crews working a networked order from inside it, the leaf''s definition.
+  The omnibus (MC03682) and the 2026 reissue (MC03684) are editions folded here. Rejected: Copied minds (the gogols are the
+  setting, the engine is the job), Space opera leaves. Wobble: moderate; the setting is a posthuman Solar System rather than
+  a near-future net. Sources: Wikipedia. Years: 2010, 2012, 2014.'
+books:
+- title: The Quantum Thief
+  year: 2010
+  cover_url: https://images.penguinrandomhouse.com/cover/9780575088887
+- title: The Fractal Prince
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7502964-L.jpg
+- title: The Causal Angel
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/9961108-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780575088887
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03683, MC03681, MC03680)
+placement_history:
+- date: '2026-10-04'
+  to: cyberheist
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
