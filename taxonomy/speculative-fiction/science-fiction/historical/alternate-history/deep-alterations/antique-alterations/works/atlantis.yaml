@@ -1,0 +1,34 @@
+id: atlantis
+title: Atlantis
+authors:
+- Harry Turtledove
+first_published: 2007
+canonical_genre: antique-alterations
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Alternate history > Deep alterations
+  > Antique alterations. A trilogy set in a world where a continent, Atlantis, lies between Europe and Terranova where the
+  Americas are, and its colonization from settlement to rebellion to independence is lived through, billed ''a novel of alternate
+  history'' (Penguin Random House). The fork is the geography itself, which predates 1500, so it goes by fork date to Antique
+  alterations, though the colonial era it plays out in suggests Age of sail alterations. Wobble: moderate. Rejected: Age of
+  sail alterations (fork is not an event of 1500-1800), Machine age alterations. Sources: publisher page. Years: 2007 to 2009.'
+books:
+- title: Opening Atlantis
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1726559-L.jpg
+- title: The United States of Atlantis
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/8112819-L.jpg
+- title: Liberating Atlantis
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6420730-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/1726559-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03762, MC03788, MC03757)
+placement_history:
+- date: '2026-10-04'
+  to: antique-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
