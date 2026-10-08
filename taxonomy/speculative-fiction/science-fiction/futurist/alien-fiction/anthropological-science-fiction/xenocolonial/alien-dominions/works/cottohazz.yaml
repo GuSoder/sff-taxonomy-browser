@@ -1,0 +1,42 @@
+id: cottohazz
+title: Cottohazz
+authors:
+- Frank Chadwick
+first_published: 2013
+canonical_genre: alien-dominions
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological science
+  fiction > Xenocolonial > Alien dominions. One shared universe (the Cottohazz series per Wikipedia; Baen''s Stellar Commonwealth
+  of the alien Varoki), so one fiction (rule 11j), folded across the two casts (Sasha Naradnyo in books 1 and 2, Sam Bitka
+  in books 3 and 4; ISFDB lists the first two as the Sasha Naradnyo series). Per Baen, Fantasy Literature and SFRevu: humans
+  are second-class labor and gangsters under Varoki overlords on Peezgtaan (Crack City), a human bodyguard works for a Varoki
+  heiress and is caught in a Varoki civil war, and the Varoki later launch a pre-emptive strike on Earth''s colonies. Humans
+  living inside alien power, with subordination and accommodation driving the story, is the Alien dominions definition. Rejected:
+  Revolutionary space opera (only book two is a revolution, and it is the Varoki''s own), Space combat (books three and four
+  only), Colonial worlds (the humans do not enter an alien world as colonial masters). Wobble: books three and four are a
+  space-navy war and an exploration voyage, where Alien dominions fits less than Space combat; the shared universe''s human-under-Varoki-power
+  frame is why they stay with books one and two. Ship of Destiny is dated 2020 per Wikipedia and ISFDB, not the queue''s 2019.'
+books:
+- title: How Dark the World Becomes
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/isbn/9781451638707-L.jpg
+- title: Come the Revolution
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/isbn/9781476780955-L.jpg
+- title: Chain of Command
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/isbn/9781481482974-L.jpg
+- title: Ship of Destiny
+  year: 2020
+  cover_url: https://images4.penguinrandomhouse.com/cover/9781982124434
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9781451638707-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03174, MC03173, MC03172, MC03175)
+placement_history:
+- date: '2026-10-04'
+  to: alien-dominions
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
