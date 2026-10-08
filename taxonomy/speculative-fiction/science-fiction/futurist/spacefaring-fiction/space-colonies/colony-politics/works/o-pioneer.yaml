@@ -1,0 +1,29 @@
+id: o-pioneer
+title: O Pioneer!
+authors:
+- Frederik Pohl
+first_published: 1998
+canonical_genre: colony-politics
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space colonies >
+  Colony politics. Per Kirkus, Publishers Weekly and BookPage: computer thief Evesham Giyt emigrates to the colony world Tupelo,
+  is elected mayor of the human colony, and uncovers a cooked-books conspiracy by an American expansionist movement and agent
+  Hoak Hagbarth, who presses him to seize the planet''s interstellar transporter. A contest for power with the colony as the
+  field is the Colony politics definition. Rejected: Colonial worlds (the five alien colonies are neighbours, not the collision
+  driving the story), Space mystery (the hacking is a means, not a case). Year 1998 (Tor); queue says 2011 Baen ebook. Leaf
+  now at 9.'
+books:
+- title: O Pioneer!
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/9320631-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9320631-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03208)
+placement_history:
+- date: '2026-10-04'
+  to: colony-politics
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

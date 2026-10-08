@@ -1,0 +1,29 @@
+id: homegoing
+title: Homegoing
+authors:
+- Frederik Pohl
+first_published: 1989
+canonical_genre: alien-arrival
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > First-contact fiction > Alien arrival.
+  Per the New York Times (1989), Norbert Haupt and Publishers Weekly: a starship carrying 22,000 hive-like Hakh''hli lands
+  on Earth with Sandy Washington, the one human they raised, sent to negotiate for raw materials on a damaged, post-war Earth
+  while both sides pursue hidden agendas. Aliens physically arriving on Earth is the Alien arrival definition. Rejected: Alien
+  expedition (humans do not travel out), Alien infiltration (the arrival is open). Wobble: the Earth is a degraded future
+  one, so Near-future first contact was also read; the arrival of the ship is the engine, not the transformation of a recognizable
+  present. Year 1989 (Del Rey); queue says 2011 Baen ebook.'
+books:
+- title: Homegoing
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/6937871-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6937871-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03204)
+placement_history:
+- date: '2026-10-04'
+  to: alien-arrival
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
