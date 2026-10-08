@@ -1,0 +1,38 @@
+id: latro
+title: Latro
+authors:
+- Gene Wolfe
+first_published: 1986
+canonical_genre: greek-god-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-earth fantasy > Mythic retelling > Greek myth fantasy
+  > Greek god fantasy. Latro is a Roman mercenary after the Persian Wars, around 479 BC, who loses his memory every day and
+  writes his scroll anew; a head wound lets him see the gods, Muses and spirits of the Greek world, and mortals whose fates
+  the immortals hold are the story (Wikipedia: historical fantasy; Soldier of the Mist 1986, Soldier of Arete 1989, Soldier
+  of Sidon 2006). The gods and their world are what Latro sees and what drives the plot, which is the leaf''s definition.
+  Rejected: Greek hero fantasy (Latro is not a hero of the heroic cycles, no named myth is retold), Historical fantasy (an
+  umbrella split by period; its ancient stage would also pull this to Greece, but the gods carry the book). Wobble: the setting
+  is real history with the gods added, so Greek hero fantasy and the ancient-world historical branch are honest neighbours;
+  the leaf says retells or reimagines named figures and narratives, which the Muses, Ares and Pan satisfy. Series folded as
+  one fiction (rule 11j). Latro in the Mist (MC03358, 2003) is an omnibus of the first two novels and is not listed separately.'
+books:
+- title: Soldier of the Mist
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/10252689-L.jpg
+- title: Soldier of Arete
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/6935763-L.jpg
+- title: Soldier of Sidon
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/524763-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/524763-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03358, MC03365)
+placement_history:
+- date: '2026-10-04'
+  to: greek-god-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
