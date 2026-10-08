@@ -44,6 +44,8 @@ books:
   year: 2014
 - title: '1636: The Viennese Waltz'
   year: 2014
+- title: '1636: The Barbie Consortium'
+  year: 2014
 - title: '1635: A Parcel of Rogues'
   year: 2015
 - title: '1636: The Cardinal Virtues'
@@ -94,7 +96,8 @@ intake: 'ten-k walk v5 (queue ids MC02201) + folded MC02951, MC02952, MC02955, M
   MC02967, MC02962, MC02965, MC02974, MC02975, MC02977, MC02976, MC02979 (Ring of Fire novels, rule 11j) + folded MC02949
   (Toro and Carrico, Ring of Fire Press) + folded MC03029, MC03036 (Alexander Inheritance books: Baen sets them in the same
   Ring of Fire sequence of cosmic catastrophes) + folded MC03045 Time Spike (Baen: the prison thrown into the past is the
-  second of the cosmic catastrophes in the Ring of Fire sequence)'
+  second of the cosmic catastrophes in the Ring of Fire sequence) + folded MC03513 1636: The Barbie Consortium (Baen blurb:
+  the transported West Virginia town, teenage girls selling future business in 1630s Europe)'
 placement_history:
 - date: '2026-10-04'
   to: time-strays
@@ -109,3 +112,6 @@ placement_history:
   to: timetribe
   reason: 'Intake: 30 later Ring of Fire novels folded onto the universe fiction (rule 11j); anthologies and the Grantville
     Gazette magazine volumes skipped.'
+- date: '2026-10-08'
+  to: timetribe
+  reason: 'Folded 1636: The Barbie Consortium (Huff and Goodlett): same Ring of Fire shared universe, one fiction (rule 11j).'
