@@ -1,0 +1,36 @@
+id: the-black-iron-legacy
+title: The Black Iron Legacy
+authors:
+- Gareth Hanrahan
+first_published: 2019
+canonical_genre: godforsaken-realms
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Gothic fantasy > Dark realms > Godforsaken
+  realms. Per Orbit''s copy: in the city of Guerdon the gods are dead or dying and their remains still shape the world; a
+  thief, a priest-in-training and a gutterborn mage are drawn into the fight over what is left of them (The Gutter Prayer,
+  The Shadow Saint, The Broken God). The dread is a dark power, dead and fallen gods and the bargains made with their remains,
+  which is the Godforsaken realms definition. Rejected: Caper fantasy (the thieves are heroes of a city-scale divine catastrophe,
+  not a heist story), Haunted realms (the dread is dead gods, not the dead), Occult city (an invented world, not modern).
+  Wobble: the industrial-city setting and gangs could pull toward Caper fantasy. Three volumes folded as one fiction: The
+  Gutter Prayer (2019), The Shadow Saint (2020), The Broken God (2021).'
+books:
+- title: The Gutter Prayer
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8803826-L.jpg
+- title: The Shadow Saint
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/9339049-L.jpg
+- title: The Broken God
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10884008-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8803826-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03313, MC03314, MC03311)
+placement_history:
+- date: '2026-10-04'
+  to: godforsaken-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
