@@ -3,7 +3,7 @@ title: The Dragonriders of Pern
 authors:
 - Anne McCaffrey
 first_published: 1968
-last_published: 2001
+last_published: 2018
 canonical_genre: lost-colony-planetary-romance
 placement_status: accepted
 included_titles:
@@ -20,6 +20,7 @@ included_titles:
 - The Dolphins of Pern
 - The Masterharper of Pern
 - The Skies of Pern
+- Dragon's Code
 cover_curation:
   status: complete
   source: Open Library and Internet Archive
@@ -53,6 +54,8 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/208173-L.jpg
   - title: The Skies of Pern
     url: https://covers.openlibrary.org/b/isbn/9780345434685-L.jpg
+  - title: Dragon's Code
+    url: https://images.penguinrandomhouse.com/cover/700jpg/9781101964743
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/planetary-romance to
@@ -63,3 +66,6 @@ placement_history:
     (curator "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).
   from: planetary-romance
   to: lost-colony-planetary-romance
+- date: '2026-10-08'
+  reason: Folded Dragon's Code (Gigi McCaffrey, 2018, an authorized Pern novel, Piemur among the exiled Oldtimers) into the
+    series fiction under rule 11j; same leaf, no placement change. Intake MC03449.
