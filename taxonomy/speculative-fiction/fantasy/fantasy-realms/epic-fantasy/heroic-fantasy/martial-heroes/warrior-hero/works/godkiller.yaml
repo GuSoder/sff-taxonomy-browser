@@ -5,11 +5,11 @@ authors:
 first_published: 2023
 canonical_genre: warrior-hero
 placement_status: accepted
-placement_rationale: Kissen kills gods for a fee amid zealots, wild gods and civil war; her trade is direct
-  armed combat. Witcher/Black Company lineage (review compares The Steel Remains) - martial hero whose
-  power is the blade. Warrior hero.
+placement_rationale: Kissen kills gods for a fee amid zealots, wild gods and civil war; her trade is direct armed combat.
+  Witcher/Black Company lineage (review compares The Steel Remains) - martial hero whose power is the blade. Warrior hero.
 classification_sources: []
-intake: gap-2022 tier-2 chunk 5 (Locus Recommended-only)
+intake: 'gap-2022 tier-2 chunk 5 (Locus Recommended-only) + folded MC03671, MC03670 (Folded Sunbringer and Faithbreaker: books
+  two and three of the Godkiller (Fallen)'
 cover_curation:
   status: complete
   source: Open Library
@@ -19,3 +19,16 @@ cover_curation:
 placement_history:
 - date: '2026-09-27'
   change: Placed in warrior-hero at tier-2 chunk-5 sweep (k2 81-100, the curator greenlight phonemsg-01M3J5GYJDEMZN7NHX40KQ8XET).
+- date: '2026-10-08'
+  reason: 'Folded Sunbringer and Faithbreaker: books two and three of the Godkiller (Fallen Gods) trilogy, same world and
+    cast (author site hannahkaner.com). A Snake Among Swans is a separate Wild Swans retelling and is not folded.'
+books:
+- title: Godkiller
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13518204-L.jpg
+- title: Sunbringer
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14810938-L.jpg
+- title: Faithbreaker
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15151993-L.jpg
