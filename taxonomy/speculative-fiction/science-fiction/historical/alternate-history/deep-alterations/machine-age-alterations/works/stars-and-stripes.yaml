@@ -1,0 +1,35 @@
+id: stars-and-stripes
+title: Stars and Stripes
+authors:
+- Harry Harrison
+first_published: 1998
+canonical_genre: machine-age-alterations
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Alternate history > Deep alterations
+  > Machine age alterations. After the Trent Affair, Prince Albert dies prematurely rather than helping resolve the crisis,
+  Queen Victoria blames the United States, and Britain enters the American Civil War, with the Duke of Wellington still alive
+  in 1862 hinting that the real divergence reaches back to 1852 (Wikipedia, Stars and Stripes trilogy of three alternate history
+  novels). The fork is in 1852 to 1861, after 1800, in a railway-and-ironclad world lived in. Rejected: Period alterations
+  (the fork is not within living memory of the story), Age of sail alterations (the fork is after 1800). Wobble: low. Sources:
+  Wikipedia. Years: 1998, 2000, 2002 (the queue showed 2001 to 2007 reissue dates).'
+books:
+- title: Stars and Stripes Forever
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/203108-L.jpg
+- title: Stars and Stripes in Peril
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/208707-L.jpg
+- title: Stars and Stripes Triumphant
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/203110-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/203108-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03703, MC03704, MC03705)
+placement_history:
+- date: '2026-10-04'
+  to: machine-age-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

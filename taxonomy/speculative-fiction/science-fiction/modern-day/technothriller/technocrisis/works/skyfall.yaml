@@ -1,0 +1,28 @@
+id: skyfall
+title: Skyfall
+authors:
+- Harry Harrison
+first_published: 1976
+canonical_genre: technocrisis
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Technothriller > Technocrisis. The 2,000-tonne
+  Prometheus, the largest spaceship ever launched, a joint Soviet-American solar-power project, is falling with six crew trapped
+  inside and will explode with the force of an atomic bomb if it strikes Earth (Hachette UK description; billed on the Ace
+  cover as a novel of the near future). A high-tech system under strain in a fast crisis, a shuttle-type disaster, the leaf''s
+  definition. Rejected: Cosmic catastrophe and other apocalyptic leaves (the disaster is one craft, not the world''s end).
+  Wobble: low. Sources: Hachette UK. Year 1976.'
+books:
+- title: Skyfall
+  year: 1976
+  cover_url: https://covers.openlibrary.org/b/isbn/9780441769421-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780441769421-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03702)
+placement_history:
+- date: '2026-10-04'
+  to: technocrisis
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
