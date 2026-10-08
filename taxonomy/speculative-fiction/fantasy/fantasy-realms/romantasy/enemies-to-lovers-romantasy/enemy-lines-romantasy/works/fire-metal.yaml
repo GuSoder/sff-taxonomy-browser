@@ -11,13 +11,16 @@ books:
 - title: Metal Slinger
   year: 2025
   cover_url: https://covers.openlibrary.org/b/id/15234945-L.jpg
+- title: Light Wielder
+  year: 2026
+  cover_url: https://rachelschneiderbooks.com/wp-content/uploads/2025/10/Light-Wielder-Fire-Metal-Book-Two.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/15234945-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC00411)
+intake: ten-k walk v5 (queue ids MC00411, MC03156)
 placement_history:
 - date: '2026-10-04'
   to: romantasy
@@ -31,3 +34,7 @@ placement_history:
 - date: '2026-10-05'
   note: 'Re-walked root-down in the Enemies-to-lovers romantasy split: Fantasy > Fantasy realms > Romantasy > Enemies-to-lovers
     romantasy > Enemy lines romantasy. curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG, 2026-10-05 3:32 PM).'
+- date: '2026-10-08'
+  note: 'Folded Light Wielder (Fire & Metal book two, Gollancz, 9 Jun 2026; queue row MC03156 listed the author as "Fire",
+    a scrape error, real author Rachel Schneider per ISFDB title 3618726) into the existing fiction: same series, same world,
+    rule 11j. Leaf unchanged, still enemy-lines-romantasy per the existing root-down walk.'
