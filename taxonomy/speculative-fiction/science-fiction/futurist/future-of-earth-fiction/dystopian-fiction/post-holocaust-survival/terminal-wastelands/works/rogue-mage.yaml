@@ -1,0 +1,40 @@
+id: rogue-mage
+title: Rogue Mage
+authors:
+- Faith Hunter
+first_published: 2006
+canonical_genre: terminal-wastelands
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian fiction
+  > Post-holocaust survival > Terminal wastelands. One trilogy in one world, so one fiction (rule 11j). Wikipedia and Penguin
+  Random House: about a century after an apocalypse like the one in Revelation but with no God appearing, a post-apocalyptic
+  ice age; the neomage Thorn St. Croix hides among the snowbound human survivors of Mineral City while seraphs, demons and
+  the Enclave press in. The cause is mixed and unnamed in the Post-holocaust leaves (neither pandemic nor nuclear), and what
+  governs the books is enduring a devastated, frozen land with recovery partial, which is the Terminal wastelands definition.
+  Rejected: Biblical fantasy (retells named Bible figures; Rogue Mage is a new story set after the event), Wild ruins and
+  Lost knowledge (neither barbarism among ruins nor guarding fallen technology), Dying earth (not far-future under a dying
+  sun), Dark fantasy torment leaves (the menace is the world, not a pursuer). Wobble: this is a hard walk, the magic and seraphs
+  make Fantasy realms a live second reading, but there is no leaf for post-apocalyptic fantasy there and Earth-ruin fiction
+  with magic already sits in this branch (Dying earth). Queue years corrected from Wikipedia: Seraphs is 2007 (queue said
+  2008), Host Nov 2007.'
+books:
+- title: Bloodring
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/295268-L.jpg
+- title: Seraphs
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1237176-L.jpg
+- title: Host
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/8283845-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/295268-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03106, MC03125, MC03118)
+placement_history:
+- date: '2026-10-04'
+  to: terminal-wastelands
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
