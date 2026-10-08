@@ -1,0 +1,35 @@
+id: twenty-palaces
+title: Twenty Palaces
+authors:
+- Harry Connolly
+first_published: 2009
+canonical_genre: occult-secret-service
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Urban fantasy > Occult police > Occult
+  secret service. Ray Lilly drives for Annalise Powliss of the Twenty Palace Society, a group of sorcerers devoted to hunting
+  down and executing rogue magicians, and in Child of Fire must finish her mission alone against a sorcerer sacrificing innocents
+  for power (Penguin Random House description); Game of Cages and Circle of Enemies are further Twenty Palaces novels. A hidden
+  service whose work is containing occult threats in secret, the leaf''s definition. Rejected: Occult consultants (Ray is
+  bound to the Society, not freelance), Occult cop cases (no badge or case file). Wobble: moderate; the Society is private,
+  not state-run. Sources: PRH page for book one; series membership from the cover lines. Years: 2009, 2010, 2011.'
+books:
+- title: Child of Fire
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6297766-L.jpg
+- title: Game of Cages
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6301795-L.jpg
+- title: Circle of Enemies
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/9945944-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6297766-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03690, MC03692, MC03691)
+placement_history:
+- date: '2026-10-04'
+  to: occult-secret-service
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
