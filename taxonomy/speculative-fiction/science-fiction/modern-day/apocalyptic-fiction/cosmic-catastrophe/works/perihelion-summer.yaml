@@ -1,0 +1,29 @@
+id: perihelion-summer
+title: Perihelion Summer
+authors:
+- Greg Egan
+first_published: 2019
+canonical_genre: cosmic-catastrophe
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Apocalyptic fiction > Cosmic catastrophe.
+  A double black hole system, Taraxippus, passes through the Solar System and throws Earth onto a more elliptical orbit, so
+  that perihelion summers become deadly; Matt and his friends build the Mandjet, a boat with a self-sustaining ecosystem,
+  and sail with a flotilla as the world burns and freezes (Wikipedia plot summary; Locus review: ''a description of how wrong
+  things can go and how fast''). Disaster that falls out of the sky and the survival that follows is the leaf''s definition.
+  Rejected: Post-nuclear and other survival leaves (the cause is cosmic, not human), Climate dystopias (the climate is only
+  the effect). Wobble: light. 2019.'
+books:
+- title: Perihelion Summer
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9171533-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9171533-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03559)
+placement_history:
+- date: '2026-10-04'
+  to: cosmic-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

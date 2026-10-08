@@ -1,0 +1,30 @@
+id: distress
+title: Distress
+authors:
+- Greg Egan
+first_published: 1995
+canonical_genre: mind-models
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Hard sci-fi > Hard conceptual SF > Mind
+  models. Mid twenty-first century, on the artificial island of Stateless, the journalist Andrew Worth covers a physics conference
+  where Violet Mosala will present a Theory of Everything; an anthrocosmologist faction believes the universe was created
+  by the one person who completes a TOE (the ''Keystone'') and an epidemic mental illness, Distress, is bound up with the
+  discovery (Wikipedia plot summary). Consciousness-made reality and an idea that cannot be safely held is the leaf''s definition.
+  Rejected: World models (the physics is the occasion, the cognitive model of Distress is the point), Technothriller. Wobble:
+  strong; it is as much a conference thriller on a biotech island, and my source is the Wikipedia summary. First published
+  1995.'
+books:
+- title: Distress
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/44015-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/44015-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03555)
+placement_history:
+- date: '2026-10-04'
+  to: mind-models
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

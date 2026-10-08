@@ -1,0 +1,30 @@
+id: quarantine
+title: Quarantine
+authors:
+- Greg Egan
+first_published: 1992
+canonical_genre: mind-models
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Hard sci-fi > Hard conceptual SF > Mind
+  models. A near future, 2034 to 2080, in which an impenetrable shield called the Bubble has shut out the stars; the private
+  eye Nick, running neural mods, hunts a missing woman and finds the Ensemble and the ''Eigenmod'', a mod that lets the brain
+  consciously control the quantum collapse of the wave function, which may be why the Bubble exists (Wikipedia plot summary).
+  Consciousness-made reality is the leaf''s definition, and the book is built on the Copenhagen reading in which consciousness
+  collapses the wave function. Rejected: Rewired minds (the neural mods are the furniture, the model of consciousness is the
+  point), Private-eye fantasy leaves (this is not fantasy). Wobble: moderate; it is also a detective novel
+  with neural mods. First published 1992.'
+books:
+- title: Quarantine
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/44117-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/44117-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03561)
+placement_history:
+- date: '2026-10-04'
+  to: mind-models
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,31 @@
+id: diaspora
+title: Diaspora
+authors:
+- Greg Egan
+first_published: 1997
+canonical_genre: copied-minds
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Techno fiction
+  > Technomorphosis > Posthuman > Remade minds > Copied minds. Most of humanity lives as software citizens in polises, running
+  about 800 times faster than the fleshers; Yatima is born by ''orphanogenesis'' with no ancestor, and when a neutron-star
+  collapse sends a burst of energy at Earth the citizens must save what they can and then go exploring the physics of the
+  universe (Wikipedia plot summary; the story began as ''Wang''s Carpets''). Minds that are recorded, copied and live in information
+  space, which is the leaf''s definition. Rejected: Space combat and other spacefaring leaves (the ships are exploration,
+  not the story), World models (the later chapters explore a hyperdimensional physics, but the people, not the model, are
+  the book). Wobble: strong; the second half of the book is as much a hard-SF cosmology as a story of uploaded citizens, and
+  Yatima is not a copy. First published 1997.'
+books:
+- title: Diaspora
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/isbn/9780061057984-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780061057984-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03554)
+placement_history:
+- date: '2026-10-04'
+  to: copied-minds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

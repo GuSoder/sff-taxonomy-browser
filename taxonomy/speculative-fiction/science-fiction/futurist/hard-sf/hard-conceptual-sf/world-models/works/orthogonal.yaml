@@ -1,0 +1,36 @@
+id: orthogonal
+title: Orthogonal
+authors:
+- Greg Egan
+first_published: 2011
+canonical_genre: world-models
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Hard sci-fi > Hard conceptual SF > World
+  models. The Orthogonal trilogy is set in a universe whose geometry has no distinction between space and time (the metric
+  is Riemannian, not Lorentzian), and the plot follows the physicist Yalda and her people as they work out the true model
+  of their physics and use it to build a ship that can save their world (Egan''s site gregegan.net/ORTHOGONAL; the Clockwork
+  Rocket, Eternal Flame and Arrows of Time are books one to three). Rewritten physical laws and the plot as the discovery
+  of the true model is the leaf''s definition. Rejected: Otherworldly hard SF (that leaf is about a wholly other cosmos as
+  setting, here the physics is the plot), Thought experiments. Wobble: light; I know the trilogy but the sources I read for
+  this walk were the author''s site and Open Library records. One universe, one fiction (rule 11j).'
+books:
+- title: The Clockwork Rocket
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7610425-L.jpg
+- title: The Eternal Flame
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7607875-L.jpg
+- title: The Arrows of Time
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7707242-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7610425-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03566, MC03567, MC03564)
+placement_history:
+- date: '2026-10-04'
+  to: world-models
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,28 @@
+id: schilds-ladder
+title: Schild's Ladder
+authors:
+- Greg Egan
+first_published: 2002
+canonical_genre: world-models
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Hard sci-fi > Hard conceptual SF > World
+  models. Twenty thousand years ahead the physicist Cass runs experiments on the Sarumpaet rules of Quantum Graph Theory and
+  creates ''novo-vacuum'', a bubble of something more stable than ordinary vacuum that expands at half light speed; six hundred
+  years later refugees and researchers probe it and find a whole ordered universe inside, where particles and spacetime are
+  special cases of the quantum graph''s lattice (Wikipedia plot summary; gregegan.net/SCHILD). The physical laws are rewritten
+  and the plot is finding the true model, which is the leaf''s definition. Rejected: Otherworldly hard SF. Wobble: light.'
+books:
+- title: Schild's Ladder
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/379968-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/379968-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03562)
+placement_history:
+- date: '2026-10-04'
+  to: world-models
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
