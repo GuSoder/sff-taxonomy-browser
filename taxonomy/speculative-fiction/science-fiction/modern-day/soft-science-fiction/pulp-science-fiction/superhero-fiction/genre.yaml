@@ -1,6 +1,6 @@
 id: superhero-fiction
 label: Superhero fiction
-parent: pulp-sf
+parent: pulp-science-fiction
 children: []
 image: 176-superhero-fiction.webp
 definition: Fiction about extraordinary powered heroes and villains, the institutions around them, and the social consequences
@@ -13,4 +13,4 @@ works:
 - santa-olivia
 history:
 - date: '2026-10-08'
-  change: Moved from Soft science fiction under pulp-sf in the Soft SF restructure; curator "Execute" (phonemsg-01M4DN59XKA7GQQBCC3FFNK714).
+  change: Moved from Soft science fiction under pulp-science-fiction in the Soft SF restructure; curator "Execute" (phonemsg-01M4DN59XKA7GQQBCC3FFNK714).

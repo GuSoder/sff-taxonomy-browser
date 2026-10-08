@@ -1,10 +1,10 @@
 id: creature-feature
 label: Creature feature
-parent: pulp-sf
+parent: pulp-science-fiction
 children: []
 works:
 - the-green-brain
-definition: 'Pulp SF in which nature or a monster comes at people: giant insects, atomic mutants, animal or insect intelligence
+definition: 'Pulp science fiction in which nature or a monster comes at people: giant insects, atomic mutants, animal or insect intelligence
   turned against humanity. The premise is accepted as given and the creatures drive the story. Not Cryptid horror, where an
   alleged hidden species is made materially real as biology and the story keeps the pose of evidence; not Superhero fiction,
   where the powered are people.'

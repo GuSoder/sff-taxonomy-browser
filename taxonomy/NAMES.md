@@ -80,3 +80,6 @@ Infowar, Spytech and Technocrisis do not carry the word "technothriller". The cu
 
 ## Curator ruling: "SF" in long subgenre names (2026-10-08)
 "Use SF in the long subgenre names" (phonemsg-01M4DCW01Y774F1HJGNY7C22TC), given while naming the Social science fiction split: Psychological SF and Sociological SF instead of "science fiction" spelled out. Use "SF" when a leaf name would otherwise be long.
+
+## Exception to the "SF" rule: Pulp science fiction (2026-10-08)
+Soft SF restructure: the umbrella was first written "Pulp SF" under the "SF in long names" ruling. The curator overruled it: "Pulp is like the shortest thing ever, in this case spell out the whole science fiction" (2026-10-08 2:10 PM, relayed 2:10:53 PM). Reading of the ruling: "SF" abbreviates only when the name would otherwise be long; a short stem like Pulp keeps the full words. Renamed to Pulp science fiction (id pulp-science-fiction).
