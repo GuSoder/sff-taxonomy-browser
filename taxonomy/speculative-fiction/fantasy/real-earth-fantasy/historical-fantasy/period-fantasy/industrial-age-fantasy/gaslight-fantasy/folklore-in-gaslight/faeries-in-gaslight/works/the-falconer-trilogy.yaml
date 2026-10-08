@@ -1,0 +1,36 @@
+id: the-falconer-trilogy
+title: The Falconer Trilogy
+authors:
+- Elizabeth May
+first_published: 2014
+canonical_genre: faeries-in-gaslight
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-earth fantasy > Historical fantasy > Period fantasy
+  > Industrial-age fantasy > Faeries in gaslight. One series (The Falconer Trilogy per the author''s site and Chronicle),
+  one fiction. Per the author''s page and Chronicle: Edinburgh 1844, where Aileana Kameron hunts the Sithichean, a faery race
+  that slaughters humans, while a secret war between humans and fae runs beneath the city. Faeries crossing into nineteenth-century
+  life is the Faeries in gaslight definition. Rejected: Gaslight technomancy (the fae, not engineered magic, are the subject),
+  Fae founders (modern city, not gaslight). Wobble: books two and three move to an Edinburgh remade after the fae breach,
+  so the gaslight frame thins; the series stays together as one shared story. Years follow the Chronicle US releases (2014,
+  2016, 2017); a 2013 UK first edition may exist and is unverified.'
+books:
+- title: The Falconer
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8754874-L.jpg
+- title: The Vanishing Throne
+  year: 2016
+  cover_url: https://books.google.com/books/content?vid=ISBN9781452128825&printsec=frontcover&img=1&zoom=1
+- title: The Fallen Kingdom
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8542940-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8754874-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02851, MC02853, MC02852)
+placement_history:
+- date: '2026-10-04'
+  to: faeries-in-gaslight
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
