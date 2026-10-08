@@ -1,0 +1,32 @@
+id: the-shadow-histories
+title: The Shadow Histories
+authors:
+- H. G. Parry
+first_published: 2020
+canonical_genre: alt-flintlock-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Historical fantasy > Alternate history
+  fantasy > Alt flintlock fantasy. In the Age of Enlightenment of a world not quite ours, the necromancer Robespierre drives
+  the French Revolution, the weather mage Toussaint L''Ouverture leads Haiti''s fight for freedom and William Pitt weighs
+  legalizing magic (Hachette Book Group description of A Declaration of the Rights of Magicians); A Radical Act of Free Magic
+  continues the same duology. Real musket-age history is openly rewritten with magic as its engine, the leaf''s definition.
+  Rejected: Secret history (magic is public and legal-political, not hidden). Wobble: low. Sources: publisher page. Years:
+  2020, 2021.'
+books:
+- title: A Declaration of the Rights of Magicians
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10208829-L.jpg
+- title: A Radical Act of Free Magic
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11464885-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10208829-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03618, MC03620)
+placement_history:
+- date: '2026-10-04'
+  to: alt-flintlock-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
