@@ -1,0 +1,35 @@
+id: daniel-blackland
+title: Daniel Blackland
+authors:
+- Greg van Eekhout
+first_published: 2014
+canonical_genre: caper-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Sword and sorcery > Caper fantasy. In the
+  Kingdom of Southern California, run by a Hierarch who feeds on the bones of magicians, the thief Daniel Blackland is pushed
+  by his crime-boss uncle into a heist on the Hierarch''s storehouse of magical artifacts, with a crew of Moth, Jo Alverado,
+  Cassandra and Emma (Tor, California Bones); Pacific Fire and Dragon Coast continue the same world (Tor), so one fiction
+  (rule 11j). Thieves, heists and a crew is the leaf''s definition. Rejected: Technofantasy, Occult consultants (not Earth
+  as we know it). Wobble: moderate; the setting is an alternate Los Angeles rather than an invented realm, but the leaf asks
+  for the heist crew. Sources: Tor pages for California Bones and Pacific Fire; Dragon Coast is read from the series description.'
+books:
+- title: California Bones
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8452662-L.jpg
+- title: Pacific Fire
+  year: 2015
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765328564.jpg
+- title: Dragon Coast
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/10375951-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8452662-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03577, MC03580, MC03578)
+placement_history:
+- date: '2026-10-04'
+  to: caper-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

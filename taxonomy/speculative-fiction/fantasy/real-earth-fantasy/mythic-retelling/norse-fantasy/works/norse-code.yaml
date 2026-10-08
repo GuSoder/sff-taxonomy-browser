@@ -1,0 +1,28 @@
+id: norse-code
+title: Norse Code
+authors:
+- Greg van Eekhout
+first_published: 2009
+canonical_genre: norse-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Mythic retelling > Norse fantasy. The
+  NorseCODE genome project finds Kathy Castillo, a murdered MBA student raised from the dead as the valkyrie Mist to recruit
+  soldiers for Ragnarok, and she crosses a chaotic America with the god Hermod toward Helheim to rescue her sister (PRH blurb:
+  ''Is this Ragnarok, or just California?''). A reimagining of Norse myth, which is the leaf''s definition; the modern setting
+  does not change what is being retold. Rejected: Contemporary mythic fantasy leaves (none is Norse, and the myth is retold
+  rather than only alive in the present). Wobble: moderate. First published 2009.'
+books:
+- title: Norse Code
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6301483-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6301483-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03579)
+placement_history:
+- date: '2026-10-04'
+  to: norse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
