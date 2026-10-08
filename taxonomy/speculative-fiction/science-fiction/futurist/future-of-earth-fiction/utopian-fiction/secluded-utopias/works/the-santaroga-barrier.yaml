@@ -1,0 +1,27 @@
+id: the-santaroga-barrier
+title: The Santaroga Barrier
+authors:
+- Frank Herbert
+first_published: 1968
+canonical_genre: secluded-utopias
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Utopian fiction
+  > Secluded utopias. Per Wikipedia: a psychologist investigates a closed valley community whose ideal life depends on separation
+  and a shared drug. A protected community whose ideals depend on separation is the Secluded utopias definition. Rejected:
+  Satirical utopia, Huxleyan dystopia (the book keeps the ambiguity). Wobble: the community can be read as a dystopia. Year
+  is first publication 1968, not the queue''s 2002.'
+books:
+- title: The Santaroga Barrier
+  year: 1968
+  cover_url: https://covers.openlibrary.org/b/id/7266411-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7266411-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03189)
+placement_history:
+- date: '2026-10-04'
+  to: secluded-utopias
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,27 @@
+id: the-white-plague
+title: The White Plague
+authors:
+- Frank Herbert
+first_published: 1982
+canonical_genre: die-off
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Apocalyptic fiction > Pandemic > Die-off.
+  Per Wikipedia: an engineered plague that kills women worldwide, and the world after. Mass dying and the world after is the
+  Die-off definition. Rejected: Post-pandemic survival (the plot is the avenger''s revenge, not survivors rebuilding), Zombie
+  apocalypse (no monster). Wobble: the story stays with the bioterrorist, so Genetic engineering is a near miss. Year is first
+  publication 1982, not the queue''s 2007.'
+books:
+- title: The White Plague
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/291360-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/291360-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03191)
+placement_history:
+- date: '2026-10-04'
+  to: die-off
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

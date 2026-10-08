@@ -1,0 +1,27 @@
+id: the-dragon-in-the-sea
+title: The Dragon in the Sea
+authors:
+- Frank Herbert
+first_published: 1956
+canonical_genre: future-war
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Future war.
+  Per Wikipedia: a near-future Cold War oil raid by submarine, with a psychological crew-and-saboteur plot. War transformed
+  by technology and fought on Earth is the Future war definition. Rejected: Alt Cold war (no historical fork), Spytech (the
+  war, not covert gear, is the frame). Wobble: the war is a covert undersea one and the book is half psychological thriller.
+  Year is first publication 1956, not the queue''s 2008.'
+books:
+- title: The Dragon in the Sea
+  year: 1956
+  cover_url: https://covers.openlibrary.org/b/id/14948300-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14948300-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03184)
+placement_history:
+- date: '2026-10-04'
+  to: future-war
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

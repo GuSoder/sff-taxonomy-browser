@@ -1,0 +1,32 @@
+id: consentiency
+title: ConSentiency
+authors:
+- Frank Herbert
+first_published: 1970
+canonical_genre: future-history-in-space
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Future history in
+  space. Whipping Star (1970) and The Dosadi Experiment (1977) share one universe, the ConSentiency (Wikipedia: BuSab, Caleban,
+  Gowachin), so one fiction (rule 11j). Per Wikipedia plots: a Bureau of Sabotage agent must keep a Caleban alive across the
+  human-alien polity, and a human-Gowachin experiment on the sealed world Dosadi. Works tracing a sustained future course
+  of interstellar human civilization is the Future history in space definition. Rejected: Far-future first contact (the contact
+  is already settled history), Space dystopias (only Dosadi has the closed society), Alien dominions (humans are not ruled).
+  Wobble: Dosadi alone would lean Space dystopias. Years are first publication, not the queue''s 2009 and 2002 reissues.'
+books:
+- title: Whipping Star
+  year: 1970
+  cover_url: https://covers.openlibrary.org/b/id/10459280-L.jpg
+- title: The Dosadi Experiment
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/6491796-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10459280-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03192, MC03182)
+placement_history:
+- date: '2026-10-04'
+  to: future-history-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
