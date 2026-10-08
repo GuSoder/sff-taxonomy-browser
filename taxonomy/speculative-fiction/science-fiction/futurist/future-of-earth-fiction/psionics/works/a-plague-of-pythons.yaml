@@ -1,0 +1,30 @@
+id: a-plague-of-pythons
+title: A Plague of Pythons
+authors:
+- Frederik Pohl
+first_published: 1962
+canonical_genre: psionics
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Psionics. Per
+  Wikipedia and the Gutenberg text: after a worldwide breakdown, people are suddenly possessed and made to act against their
+  will; the engineer Chandler learns the possessors are humans wearing silver coronets, a sub-millimetre microwave device
+  that lets a wearer take over any body on Earth. Mind or identity transfer by device, shaping a whole society, is the Psionics
+  definition (consciousness/identity transfer treated as science). Rejected: Rewired minds (the host is overridden, not reprogrammed),
+  Post-nuclear survival and the other post-holocaust leaves (the collapse is backstory, the possession is the story). Wobble:
+  the setting is a ruined near future, so a post-holocaust shelf is arguable. The 1984 rewrite Demon in the Skull (MC03216)
+  is folded in as one fiction. Year 1962 is the Galaxy serial; first book 1965.'
+books:
+- title: A Plague of Pythons
+  year: 1962
+  cover_url: https://covers.openlibrary.org/b/id/6879060-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6879060-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03216)
+placement_history:
+- date: '2026-10-04'
+  to: psionics
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
