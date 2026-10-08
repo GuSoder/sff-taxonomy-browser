@@ -1,0 +1,34 @@
+id: planet-of-the-damned
+title: Planet of the Damned
+authors:
+- Harry Harrison
+first_published: 1962
+canonical_genre: planet-expedition-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Hard sci-fi > Planetary science > Planet
+  expedition fiction. Brion Brandd, winner of the planet Anvhar''s games, travels with Ihjel and the Earth scientist Dea to
+  the desert planet Dis, where the ruling magter threaten suicidal war and survival depends on symbiosis, until he finds the
+  brain-destroying parasite and the cobalt bombs; in Planet of No Return he and Dea go to the newly rediscovered Selm-Ill,
+  full of automated war weapons that gun down anyone who approaches, to make it habitable (Wikipedia; Michael Owen Carroll''s
+  Harry Harrison site). Travel to a world as it is, with its hazards as the problem, the leaf''s definition. Rejected: Alien
+  infiltration and xenology leaves (the planet and its hazard are what the book is about, not a hidden species), Space adventure
+  leaves (no chase or caper engine). Wobble: moderate; Planet of the Damned also turns on the Dis parasite and Cultural Relationships
+  Foundation politics. Sources: Wikipedia, Carroll site. Years: 1962, 1981.'
+books:
+- title: Planet of the Damned
+  year: 1962
+  cover_url: https://covers.openlibrary.org/b/id/5542306-L.jpg
+- title: Planet of No Return
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/603572-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/5542306-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03701, MC03700)
+placement_history:
+- date: '2026-10-04'
+  to: planet-expedition-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
