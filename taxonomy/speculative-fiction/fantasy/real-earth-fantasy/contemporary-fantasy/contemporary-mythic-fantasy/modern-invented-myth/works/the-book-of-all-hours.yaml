@@ -1,0 +1,34 @@
+id: the-book-of-all-hours
+title: The Book of All Hours
+authors:
+- Hal Duncan
+first_published: 2005
+canonical_genre: modern-invented-myth
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Contemporary fantasy > Contemporary
+  mythic fantasy > Modern invented myth. In 2017 angels and demons walk the earth, once human and now ''unkin'', transformed
+  by the machine-code language of reality, and seek the Book of All Hours, the blueprint of reality, lost somewhere in the
+  Vellum, the realm of eternity on which our world is a skin (Penguin Random House description of Vellum); Ink is the second
+  volume of the same Book of All Hours (Wikipedia). An author''s own cosmology of unkin, Vellum and Book anchors the story
+  in the present day, the leaf''s definition. Rejected: Modern Greek myth and other inherited-myth leaves (the Sumerian and
+  Biblical figures are reworked into an original cosmology), Occult cabals (the powers are mythic, not a hidden society).
+  Wobble: strong; it is also a multiverse tale across eras. Sources: PRH page, Wikipedia. Years: 2005 (UK first edition),
+  2007.'
+books:
+- title: Vellum
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/212267-L.jpg
+- title: Ink
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/11652653-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/212267-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03649, MC03648)
+placement_history:
+- date: '2026-10-04'
+  to: modern-invented-myth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
