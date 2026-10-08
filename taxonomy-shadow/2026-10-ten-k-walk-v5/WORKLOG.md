@@ -35,3 +35,6 @@ Approved and named by the curator (phonemsg-01M4CY473571PVXXFBNW76WH06, "Perfect
 
 ## 2026-10-08 - Dark realms split
 Approved and named by the curator (phonemsg-01M4D8DM5PQ5VCFM71W57VPNPT "Alright, execute"; third name confirmed phonemsg-01M4DA9MZZSM611YYA1CNSGE4J). Axis: what the dread is made of. Haunted realms: The Death of Jane Lawrence, Among Ghosts, The Path of Thorns (wobble: predatory household and wolf), Weavingshaw. Hungry realms: House of Hunger, Someone You Can Build a Nest In, This Vicious Hunger (the tenth, placed after the split). Godforsaken realms: Asunder, Deepgate Codex, The Innkeeper's Song. Portraits 580, 581, 582 generated and checked by eye.
+
+## 2026-10-08 - Genetic engineering split
+Approved and named by the curator (phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ "Execute"; he chose "Cloning fiction" over "Clone fiction" because it covers Jurassic Park, and "Genetic caste fiction"). Axis: what the gene work makes. Cloning fiction: Jurassic Park, Ghost Species, Never Let Me Go, The Echo Wife, Thirteen Ways to Kill Lulabelle Rock. Genetic caste fiction: The End of Ordinary, Three Days in April, Invasive Procedures, Sorrowland (wobble: weakest card), The Eyes of Heisenberg (placed after the split, MC03185). Portraits 583 and 584.

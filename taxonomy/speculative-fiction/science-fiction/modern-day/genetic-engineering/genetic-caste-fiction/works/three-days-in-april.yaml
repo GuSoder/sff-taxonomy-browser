@@ -3,7 +3,7 @@ title: Three Days in April
 authors:
 - Edward Ashton
 first_published: 2015
-canonical_genre: genetic-engineering
+canonical_genre: genetic-caste-fiction
 placement_status: accepted
 placement_rationale: Near-future thriller in a world divided between the genetically engineered and the unmodified; a mass-death
   event and its mystery play out in that gene-edited social order. Genetic design is the premise.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: genetic-engineering
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-08'
+  from: genetic-engineering
+  to: genetic-caste-fiction
+  reason: 'Split of Genetic engineering by what the gene work makes (curator "Execute", phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ).
+    A near-future city split between genetically modified people and the unmodified: the designed kind of person and the divide.'

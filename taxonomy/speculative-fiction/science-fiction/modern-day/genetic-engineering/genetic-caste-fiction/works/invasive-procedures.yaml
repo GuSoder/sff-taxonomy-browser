@@ -4,7 +4,7 @@ authors:
 - Orson Scott Card
 - Aaron Johnston
 first_published: 2007
-canonical_genre: genetic-engineering
+canonical_genre: genetic-caste-fiction
 placement_status: accepted
 placement_rationale: 'Orson Scott Card and Aaron Johnston''s Invasive Procedures: a geneticist''s engineered virus, V16, heals
   incurable genetic disease and rewrites its carriers to obey him, and a government virologist has to stop him. Deliberate
@@ -25,3 +25,8 @@ placement_history:
 - date: '2026-10-04'
   to: genetic-engineering
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-08'
+  from: genetic-engineering
+  to: genetic-caste-fiction
+  reason: 'Split of Genetic engineering by what the gene work makes (curator "Execute", phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ).
+    A geneticist forces enhancement on humanity: engineered people and the imposed divide.'

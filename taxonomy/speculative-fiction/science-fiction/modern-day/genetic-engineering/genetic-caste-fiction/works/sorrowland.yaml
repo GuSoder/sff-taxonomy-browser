@@ -1,0 +1,33 @@
+id: sorrowland
+title: Sorrowland
+authors:
+- Rivers Solomon
+first_published: 2021
+canonical_genre: genetic-caste-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: the story is set in recognizable contemporary America; Kirkus and the Guardian ground a secret
+  government-backed experiment on Cainland''s Black residents, administered injections, an implanted/engineered fungal parasite
+  and Vern''s resulting superhuman healing, strength and exoskeleton. That passes Science fiction -> Modern day -> Genetic
+  engineering because deliberate reconstruction of a human body through an experimental living organism drives the revelation.
+  Gothic hauntings and cult horror are the mode; the biological experiment is the explanatory engine.'
+classification_sources:
+- https://us.macmillan.com/books/9780374266776/sorrowland/
+- https://www.kirkusreviews.com/book-reviews/rivers-solomon/sorrowland/
+- https://www.theguardian.com/books/2021/may/18/sorrowland-rivers-solomon-review
+- https://sf-encyclopedia.com/entry/solomon_rivers
+cover_curation:
+  status: complete
+  source: Macmillan
+  selected_url: https://mpd-biblio-covers.imgix.net/9780374266776.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass official-publisher review
+placement_history:
+- date: '2026-10-08'
+  from: genetic-engineering
+  to: genetic-caste-fiction
+  reason: 'Split of Genetic engineering by what the gene work makes (curator "Execute", phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ).
+    WOBBLE: the weakest card. A cult''s engineered and mutated survivors; the gene work is the horror frame, and the divide
+    is between the engineered and the cult that made them. It sits in Genetic caste fiction because the story is about people
+    the gene work made into a different kind, not about copies. Recorded in the owner thread when the split was proposed (11:06
+    message) as the weakest card.'

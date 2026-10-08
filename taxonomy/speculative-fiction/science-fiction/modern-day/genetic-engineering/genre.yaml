@@ -1,17 +1,16 @@
 id: genetic-engineering
 label: Genetic engineering
 parent: modern-day
-children: []
+children:
+- cloning-fiction
+- genetic-caste-fiction
 image: 110-genetic-engineering.webp
-definition: Science fiction in which deliberate manipulation, reconstruction, or design of genes and living organisms drives the premise (SFE Genetic Engineering).
-status: accepted
-works:
-- jurassic-park
-- never-let-me-go
-- ghost-species
-- sorrowland
-- the-echo-wife
-- thirteen-ways-to-kill-lulabelle-rock
-- the-end-of-ordinary
-- three-days-in-april
-- invasive-procedures
+definition: 'Science fiction in which deliberate manipulation, reconstruction, or design of genes and living organisms drives
+  the premise (SFE Genetic Engineering). Pure umbrella since 2026-10-08, partitioned by what the gene work makes: Cloning
+  fiction (copies) and Genetic caste fiction (designed kinds of people).'
+status: umbrella
+works: []
+history:
+- date: '2026-10-08'
+  change: Split with umbrella at ten into Cloning fiction (5) and Genetic caste fiction (4, plus The Eyes of Heisenberg placed
+    next); curator "Execute" (phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ).
