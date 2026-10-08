@@ -1,0 +1,36 @@
+id: percheron
+title: Percheron
+authors:
+- Fiona McIntosh
+first_published: 2005
+canonical_genre: khayal
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Far shores fantasy > Khayal. One trilogy
+  in one world (the Percheron Saga: Odalisque, Emissary, Goddess; Wikipedia), so one fiction (rule 11j). Per Wikipedia: the
+  invented desert realm of Percheron has a Zar, a Valide, eunuchs and a harem, the slave Ana and the Spur Lazar, a demon Maliz
+  against the goddess Lyana, and a Galinsean war fleet. The setting is an invented world drawn from Ottoman and Arabic court
+  and desert culture, which the Khayal definition names. Rejected: Dynastic favor (the harem is the stage, but the gods-and-demon
+  war and the desert are the shape), Mythic power struggle (real-tradition beings only; Maliz and Lyana are invented), Invented
+  mythology (the gods are the plot, but the culture is the leaf). Wobble: a Western author''s Ottoman pastiche, not an Arabic-tradition
+  work, so Dynastic favor is the second reading.'
+books:
+- title: Odalisque
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/9390921-L.jpg
+- title: Emissary
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/4940914-L.jpg
+- title: Goddess
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/5498773-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9390921-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03147, MC03145, MC03146)
+placement_history:
+- date: '2026-10-04'
+  to: khayal
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
