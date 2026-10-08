@@ -1,0 +1,30 @@
+id: fevre-dream
+title: Fevre Dream
+authors:
+- George R. R. Martin
+first_published: 1982
+canonical_genre: oldfangs-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Nocturne fantasy > Supernatural fantasy
+  > Vampire fantasy > Vampire world > Oldfangs fantasy. A vampire novel set on the antebellum Mississippi from 1857, ''Bram
+  Stoker meets Mark Twain'' (Wikipedia): steamboat captain Abner Marsh partners with the pale Joshua York, a vampire seeking
+  a way to live without killing, and is drawn into York''s feud with the master vampire Damon Julian. The vampires'' own order,
+  its laws and feuds, are the story, and they have long been what they are, which is the leaf''s definition. Rejected: Vampire
+  hunt (Marsh eventually moves against Julian, but the book is about vampire society and York''s reform, not a hunt), Newfangs
+  fantasy (York is not newly turned), Fangs out fantasy (the world does not know). Wobble: the point of view is the human
+  captain and the setting is a historical Mississippi, so Vampire hunt is a fair neighbour.'
+books:
+- title: Fevre Dream
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/15126864-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15126864-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03416)
+placement_history:
+- date: '2026-10-04'
+  to: oldfangs-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

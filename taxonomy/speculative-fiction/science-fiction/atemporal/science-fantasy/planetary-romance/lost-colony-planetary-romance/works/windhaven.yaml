@@ -1,0 +1,31 @@
+id: windhaven
+title: Windhaven
+authors:
+- George R. R. Martin
+- Lisa Tuttle
+first_published: 1981
+canonical_genre: lost-colony-planetary-romance
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Science fantasy > Planetary romance >
+  Lost-colony planetary romance. Windhaven was settled by the crash of a colony starship; its people are the descendants of
+  forgotten settlers on a world of small islands, harsh weather and monster seas, where light gravity and a dense atmosphere
+  let humans fly on wings made from the cannibalized ship, and the flyers'' guild has become the custom and myth that binds
+  the islands (georgerrmartin.com, Martin and Tuttle). The colony cut off from Earth whose old technology has become custom
+  is the leaf''s definition. Rejected: Far-future planetary romance (Earth is not gone, the crash is remembered as history),
+  Classic planetary romance (no Earth visitor). Wobble: it is a fix-up of earlier novellas and reads more like a social saga
+  of a flying caste than a quest romance; Lost-colony is still the nearest leaf.'
+books:
+- title: Windhaven
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/15114967-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15114967-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03437)
+placement_history:
+- date: '2026-10-04'
+  to: lost-colony-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
