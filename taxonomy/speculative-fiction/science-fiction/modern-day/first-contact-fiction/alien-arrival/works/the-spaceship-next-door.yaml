@@ -1,0 +1,27 @@
+id: the-spaceship-next-door
+title: The Spaceship Next Door
+authors:
+- Gene Doucette
+first_published: 2017
+canonical_genre: alien-arrival
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Earthbound 1st contact > Alien arrival.
+  A spaceship has sat unopened in a field in Sorrow Falls, Massachusetts for three years; a government operative arrives and
+  finds that sixteen-year-old Annie Collins, a neighbour of the ship, holds the answers (publisher and PW descriptions). Aliens
+  physically on Earth, humanity''s first encounter happening on our own ground. Rejected: Near-future first contact (the ship
+  is here, no one travels to it), Alien message (a ship, not a signal). Wobble: Near-future first contact.'
+books:
+- title: The Spaceship Next Door
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8503433-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8503433-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03346)
+placement_history:
+- date: '2026-10-04'
+  to: alien-arrival
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
