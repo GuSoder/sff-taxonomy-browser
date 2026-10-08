@@ -1,0 +1,34 @@
+id: doctor-who-shada
+title: 'Doctor Who: Shada'
+authors:
+- Gareth Roberts
+- Douglas Adams
+first_published: 2012
+canonical_genre: homebrew-time-machines
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Time travel fiction > Time machines >
+  Homebrew time machines. Per Penguin''s copy: the Doctor, Romana and K-9 visit the Time Lord Professor Chronotis, a retired
+  Cambridge don whose college rooms are a hidden TARDIS, while the villain Skagra hunts a stolen Time Lord book to seize the
+  mind of the universe; a novelisation by Gareth Roberts of Douglas Adams'' 1979 Doctor Who serial, first published 2012.
+  The traveler owns the machine, a renegade Time Lord''s private TARDIS with no agency behind it, which is the Homebrew time
+  machines owner test; the Cambridge rooms and the stolen book set the plot in motion from that machine. Rejected: Time travel
+  agency leaves (no organization sends him), Time crossroads (Chronotis''s rooms are a hidden machine, not a hub of eras),
+  Space caper and Alien infiltration (the story is not a scheme or a hidden takeover of people). Wobble: the plot is a mind-stealing
+  space villain more than a time-travel story, so this is the weakest kind of fit; no space-adventure leaf for a Time Lord''s
+  cosmic romp exists in the tree. A tie-in novelisation; the original serial was never broadcast whole. First published as
+  a novel 2012 (BBC Books), not the 2014 reissue in the queue.'
+books:
+- title: 'Doctor Who: Shada'
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7252048-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7252048-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03319)
+placement_history:
+- date: '2026-10-04'
+  to: homebrew-time-machines
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
