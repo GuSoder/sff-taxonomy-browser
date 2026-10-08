@@ -1,20 +1,16 @@
 id: domestic-fantasy
 name: Domestic fantasy
-definition: Contemporary fantasy in which a household, family or multigenerational
-  domestic life is the primary site through which magic enters and reshapes the everyday
-  world.
+definition: 'Contemporary fantasy in which a household, family or multigenerational domestic life is the primary site through
+  which magic enters and reshapes the everyday world. Umbrella since 2026-10-08, partitioned by what the magic is attached
+  to: Magic house fantasy (the inherited place, library or pact) and Magic family fantasy (the relatives who carry it).'
 parent: contemporary-fantasy
 label: Domestic fantasy
-children: []
+children:
+- magic-house-fantasy
+- magic-family-fantasy
 image: 262-domestic-fantasy.webp
-status: provisional
-works:
-- ivory-apples
-- little-big
-- fallow-sisters
-- eastwick
-- lessons-in-magic-and-disaster
-- the-bog-wife
-- ink-blood-sister-scribe
-- if-you-could-see-me-now
-- a-house-like-an-accordion
+status: umbrella
+works: []
+history:
+- date: '2026-10-08'
+  change: Split with umbrella at ten fictions into Magic house fantasy and Magic family fantasy; curator "Ok, execute" (phonemsg-01M4EB23ZEG2G6833YKK7FX1YQ).

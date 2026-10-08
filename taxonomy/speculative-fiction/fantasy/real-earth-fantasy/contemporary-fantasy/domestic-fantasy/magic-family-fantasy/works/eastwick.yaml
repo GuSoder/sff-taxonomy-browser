@@ -1,0 +1,41 @@
+id: eastwick
+title: Eastwick
+series_name: Eastwick
+authors:
+- John Updike
+first_published: 1984
+last_published: 2008
+canonical_genre: magic-family-fantasy
+placement_status: accepted
+included_titles:
+- The Witches of Eastwick
+- The Widows of Eastwick
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Contemporary fantasy -> Domestic
+  fantasy. PRH centers three divorced women whose real household magic—weather, levitation, transmutation and coven practice—reshapes
+  intimate, sexual and community life in contemporary Eastwick; the sequel returns the widowed household circle to confront
+  their lingering enchantment and its consequences. Domestic bonds and aging govern over urban institutions or inherited myth.
+  Split walk 2026-10-08 (phonemsg-01M4EB23ZEG2G6833YKK7FX1YQ): Root-down: Speculative fiction > Fantasy > Real earth fantasy
+  > Contemporary fantasy > Domestic fantasy > Magic family fantasy. Three women''s household magic in a Rhode Island town.
+  WEAK CARD: closer to a coven of three divorcees than a household; it rides with family because the magic is in the women,
+  not in an object.'
+classification_sources:
+- https://www.penguinrandomhouse.com/books/181963/the-witches-of-eastwick-by-john-updike/
+- https://www.penguinrandomhouse.com/books/181962/the-widows-of-eastwick-by-john-updike/
+cover_curation:
+  status: complete
+  source: Penguin Random House
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one series search; single-pass complete two-book review; clean jackets cropped from publisher media backgrounds
+  selected_covers:
+  - title: The Witches of Eastwick
+    url: cover-the-witches-of-eastwick.jpg
+  - title: The Widows of Eastwick
+    url: cover-the-widows-of-eastwick.jpg
+placement_history:
+- date: '2026-10-08'
+  from: domestic-fantasy
+  to: magic-family-fantasy
+  reason: 'Split of Domestic fantasy by what the magic is attached to (curator "Ok, execute", phonemsg-01M4EB23ZEG2G6833YKK7FX1YQ).
+    Three women''s household magic in a Rhode Island town. WEAK CARD: closer to a coven of three divorcees than a household;
+    it rides with family because the magic is in the women, not in an object.'
