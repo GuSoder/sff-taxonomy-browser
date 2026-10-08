@@ -3,7 +3,7 @@ title: Foundation
 authors:
 - Isaac Asimov
 first_published: 1950
-last_published: 1993
+last_published: 1998
 canonical_genre: future-history-in-space
 placement_status: accepted
 included_titles:
@@ -14,6 +14,7 @@ included_titles:
 - Foundation and Earth
 - Prelude to Foundation
 - Forward the Foundation
+- Foundation and Chaos
 cover_curation:
   status: complete
   source: Open Library
@@ -35,6 +36,8 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/12816973-L.jpg
   - title: Forward the Foundation
     url: https://covers.openlibrary.org/b/id/9300894-L.jpg
+  - title: Foundation and Chaos
+    url: https://covers.openlibrary.org/b/id/909032-L.jpg
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/future-history-in-space
@@ -44,6 +47,9 @@ placement_history:
   reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
     we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Foundation, Galactic Empire; re-walked root-down
     into future-history-in-space.'
+- date: '2026-10-08'
+  reason: 'Folded Foundation and Chaos (Greg Bear, 1998): the first of the Second Foundation Trilogy, authorised by the Asimov
+    estate and billed on gregbear.com as a sequel to Asimov''s Foundation series. One universe, one fiction (rule 11j).'
 placement_rationale: 'Isaac Asimov''s Foundation future history as one fiction: the Galactic Empire novels and the Foundation
   books in one history of an empire''s fall.'
 books:
@@ -77,3 +83,6 @@ books:
 - title: Forward the Foundation
   year: 1993
   cover_url: https://covers.openlibrary.org/b/id/9300894-L.jpg
+- title: Foundation and Chaos
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/909032-L.jpg
