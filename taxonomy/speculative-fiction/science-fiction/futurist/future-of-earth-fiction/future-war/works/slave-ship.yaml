@@ -1,0 +1,30 @@
+id: slave-ship
+title: Slave Ship
+authors:
+- Frederik Pohl
+first_published: 1956
+canonical_genre: future-war
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Future war.
+  Per Wikipedia, ISFDB and Templeton Gate: in a low-intensity global war that mirrors the early Vietnam War, naval officer
+  Logan Miller is in a navy that communicates with trained animals and uses them as spies, ESP rapport is sold by the minute,
+  and an enemy weapon called the Glotch kills military and civilians; extraterrestrials arrive in the last pages. War transformed
+  by technology, fought on Earth, is the Future war definition. Rejected: Psionics (telepathy and animal rapport are the war''s
+  tools, not the subject), Alien conquest fiction (the aliens appear only in the last few pages). Wobble: the psi and animal-link
+  technology pulls toward Psionics, and the ending reaches for first contact. Year 1956, the Galaxy serial that was its first
+  publication; ISFDB lists the Ballantine book at 1957.'
+books:
+- title: Slave Ship
+  year: 1956
+  cover_url: http://www.isfdb.org/wiki/images/6/60/SLVSHPBVSM1969.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: http://www.isfdb.org/wiki/images/6/60/SLVSHPBVSM1969.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03211)
+placement_history:
+- date: '2026-10-04'
+  to: future-war
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

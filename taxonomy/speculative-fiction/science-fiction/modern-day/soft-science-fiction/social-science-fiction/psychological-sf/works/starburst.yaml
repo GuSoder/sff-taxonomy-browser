@@ -1,0 +1,29 @@
+id: starburst
+title: Starburst
+authors:
+- Frederik Pohl
+first_published: 1982
+canonical_genre: psychological-sf
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Soft science fiction > Social science fiction > Psychological SF. Per Wikipedia,
+  mathfiction.net and Pohl''s source novella The Gold at the Starbow''s End (1972): eight astronauts launched on a ten-year
+  voyage to a planet at Alpha Centauri that does not exist, with fuel only to reach the system, are transformed into superpowered
+  minds that make fundamental discoveries in mathematics. Intelligence raised and reshaped is the Psychological SF definition
+  (the mind is the experiment). Rejected: Visionary minds (not visions), Psi powers (not psychic), Generation starships (a
+  crew, not a society). Wobble: Dave Langford''s review in White Dwarf says the novel only hints at their offstage transformation,
+  so the placement rests on the premise, not on a depicted mind. Year 1982 (the novel expanding the 1972 novella).'
+books:
+- title: Starburst
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/14919404-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14919404-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03212)
+placement_history:
+- date: '2026-10-04'
+  to: psychological-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
