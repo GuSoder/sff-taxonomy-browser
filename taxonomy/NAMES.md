@@ -86,3 +86,6 @@ Soft SF restructure: the umbrella was first written "Pulp SF" under the "SF in l
 
 ## Insurgent fantasy leaf names (2026-10-08)
 Palace insurgents / War insurgents / Academy insurgents / Pirate insurgents. The curator rejected "Court infiltration fantasy" because it did not separate itself from Court spies and Dynastic spy games (Court intrigue branch) and did not hint at its place in the tree; the shared word "insurgents" ties each leaf to the Insurgent fantasy branch and the first word names where the subversion works. "Conscript" and "Turncoat" were rejected (dull; reads as after-the-fact), and war and academy were split into two leaves because a combined name would make readers expect war academies in every book (2026-10-08 3:17-3:25 PM). "Corsair" was dropped for "Pirate" (Mediterranean association).
+
+## Cozy fantasy leaf names (2026-10-08)
+Cozy place fantasy / Cozy craft fantasy / Cozy peeps fantasy, coined by the curator (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9 "Ok, execute"). The proposal's Hearth / Craft / Tender were replaced: the "Cozy" prefix makes each name say where it sits in the branch. "Peeps" is slang for people (spelled peeps, no apostrophe): the found-closeness bucket, where the people are the comfort. Rejected: Tender (weak; alternates Gentle, Kindred), Hearth (did not carry the Cozy prefix).

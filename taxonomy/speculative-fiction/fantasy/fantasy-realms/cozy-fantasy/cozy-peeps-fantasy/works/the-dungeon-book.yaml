@@ -1,0 +1,42 @@
+id: the-dungeon-book
+title: The Dungeon Book
+authors:
+- Gareth Hanrahan
+first_published: 2026
+canonical_genre: cozy-peeps-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Cozy fantasy. Per Orbit''s copy and the
+  cover quotes (full of heart and warmth): Bait is raised in a dungeon by goblins, a minotaur, a sentient skull and a corridor
+  slime, and as the outside world intrudes she learns what it means to be monstrous and where she belongs. Found family and
+  belonging govern the story even when the adventure is dungeon-delving, which is the Cozy fantasy definition. Rejected: Godforsaken
+  or Haunted realms (the dungeon is a home, not a dread), Comic fantasy realms (the comedy is not the engine), Found magic
+  (real-earth leaf). Wobble: the dungeon, dragon and violence make it lower on comfort than the leaf''s baking-and-community
+  core; placed on belonging and warmth. Published 11 August 2026 (Orbit UK). Split walk 2026-10-08 (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9):
+  Root-down: Speculative fiction > Fantasy > Fantasy realms > Cozy fantasy > Cozy peeps fantasy. Bait is raised in a dungeon
+  by goblins, a minotaur, a sentient skull and a slime, and learns what it means to be monstrous and where she belongs (Orbit;
+  cover quotes call it full of heart and warmth). The dungeon is her home, not her threat. WEAK CARD: dungeon, dragon and
+  violence sit well below the coziest cards, and it could also be read as Cozy place fantasy (the dungeon is her house); placed
+  on the people, not the place.'
+books:
+- title: The Dungeon Book
+  year: 2026
+  cover_url: https://images.penguinrandomhouse.com/cover/9780356531212
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780356531212
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03312)
+placement_history:
+- date: '2026-10-08'
+  from: cozy-fantasy
+  to: cozy-peeps-fantasy
+  reason: 'Split of Cozy fantasy by what the comfort is made of (curator "Ok, execute", phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9).
+    Bait is raised in a dungeon by goblins, a minotaur, a sentient skull and a slime, and learns what it means to be monstrous
+    and where she belongs (Orbit; cover quotes call it full of heart and warmth). The dungeon is her home, not her threat.
+    WEAK CARD: dungeon, dragon and violence sit well below the coziest cards, and it could also be read as Cozy place fantasy
+    (the dungeon is her house); placed on the people, not the place.'
+- date: '2026-10-04'
+  to: cozy-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

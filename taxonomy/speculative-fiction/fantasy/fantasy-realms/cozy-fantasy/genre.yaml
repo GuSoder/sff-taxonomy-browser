@@ -1,17 +1,18 @@
 id: cozy-fantasy
 label: Cozy fantasy
 parent: fantasy-realms
-children: []
-works:
-- a-wizard-s-guide-to-defensive-baking
-- legends-lattes
-- a-letter-to-the-luminous-deep
-- eva-evergreen
-- the-hexologists
-- the-inn-at-the-foot-of-mount-vengeance
-- magic-and-mischief-at-the-wayside-hotel
-- violet-thistlewaite-is-not-a-villain-anymore
+children:
+- cozy-place-fantasy
+- cozy-craft-fantasy
+- cozy-peeps-fantasy
+works: []
 image: 279-cozy-fantasy.webp
-definition: Warm, low-intensity fantasy centered on comfort, community, craft, food, home and everyday care, where safety
-  and belonging govern even when adventure or danger appears.
-status: accepted
+definition: 'Cozy fantasy, warm and low-intensity: comfort, community, craft, food, home and everyday care, where safety and
+  belonging govern even when adventure or danger appears. Umbrella since 2026-10-08, partitioned by what the comfort is made
+  of: Cozy place fantasy (a house that takes people in), Cozy craft fantasy (magic as a trade done with hands), Cozy peeps
+  fantasy (the people themselves: kindness and found closeness).'
+status: umbrella
+history:
+- date: '2026-10-08'
+  change: Split with umbrella at ten fictions into Cozy place fantasy (3), Cozy craft fantasy (4) and Cozy peeps fantasy (3,
+    with The Dungeon Book placed from its hold); curator named the leaves and said "Ok, execute" (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9).

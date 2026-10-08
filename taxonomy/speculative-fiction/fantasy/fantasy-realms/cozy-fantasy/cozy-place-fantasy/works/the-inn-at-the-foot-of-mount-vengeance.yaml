@@ -3,10 +3,13 @@ title: The Inn at the Foot of Mount Vengeance
 authors:
 - Chiara Bullen
 first_published: 2026
-canonical_genre: cozy-fantasy
+canonical_genre: cozy-place-fantasy
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Fantasy realms > Cozy fantasy. A young historian lodges at an adventurers'' inn below
-  a dragon''s mountain and finds a warm, low-danger community and its old secret.'
+  a dragon''s mountain and finds a warm, low-danger community and its old secret. Split walk 2026-10-08 (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9):
+  Root-down: Speculative fiction > Fantasy > Fantasy realms > Cozy fantasy > Cozy place fantasy. A young historian lodges
+  at an adventurers'' inn below a dragon''s mountain and finds a warm, low-danger community and its old secret; the inn is
+  the setting that holds the story.'
 books:
 - title: The Inn at the Foot of Mount Vengeance
   year: 2026
@@ -19,6 +22,12 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC01672)
 placement_history:
+- date: '2026-10-08'
+  from: cozy-fantasy
+  to: cozy-place-fantasy
+  reason: Split of Cozy fantasy by what the comfort is made of (curator "Ok, execute", phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9).
+    A young historian lodges at an adventurers' inn below a dragon's mountain and finds a warm, low-danger community and its
+    old secret; the inn is the setting that holds the story.
 - date: '2026-10-04'
   to: cozy-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

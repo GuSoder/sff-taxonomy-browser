@@ -1,0 +1,38 @@
+id: the-hexologists
+title: The Hexologists
+authors:
+- Josiah Bancroft
+first_published: 2024
+canonical_genre: cozy-craft-fantasy
+placement_status: accepted
+placement_rationale: 'Married hex-casting troubleshooters Iz and Warren Wilby take magical cases in an invented city; warm,
+  funny, food and home-centered (reviewers tag it cozy steampunk fantasy) even as the royal-secret mystery raises the stakes.
+  No leaf holds non-Gothic fantasy mystery; Fantasy mystery requires Gothic menace. Split walk 2026-10-08 (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9):
+  Root-down: Speculative fiction > Fantasy > Fantasy realms > Cozy fantasy > Cozy craft fantasy. Married hex-casting troubleshooters
+  Iz and Warren Wilby take magical cases in an invented city; the trade and the marriage are the cozy part, with a royal-secret
+  mystery on top. The mystery plot is the wobble; no non-Gothic fantasy mystery leaf exists.'
+books:
+- title: The Hexologists
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/isbn/9780316443302-L.jpg
+- title: 'The Hexologists: A Tangle of Time'
+  year: 2025
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2025/07/9780316443500.jpg?w=800
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780316443302-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04976, MC04977)
+placement_history:
+- date: '2026-10-08'
+  from: cozy-fantasy
+  to: cozy-craft-fantasy
+  reason: Split of Cozy fantasy by what the comfort is made of (curator "Ok, execute", phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9).
+    Married hex-casting troubleshooters Iz and Warren Wilby take magical cases in an invented city; the trade and the marriage
+    are the cozy part, with a royal-secret mystery on top. The mystery plot is the wobble; no non-Gothic fantasy mystery leaf
+    exists.
+- date: '2026-10-04'
+  to: cozy-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
