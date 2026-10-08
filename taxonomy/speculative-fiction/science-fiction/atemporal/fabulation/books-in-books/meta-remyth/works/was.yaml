@@ -1,0 +1,30 @@
+id: was
+title: Was
+authors:
+- Geoff Ryman
+first_published: 1992
+canonical_genre: meta-remyth
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Fabulation > Books in books > Meta remyth.
+  Geoff Ryman''s Was (1992) replays The Wonderful Wizard of Oz and the 1939 film across three lives: a Dorothy Gale broken
+  by 1860s Kansas who invents Oz to survive, Judy Garland playing her, and an actor with AIDS searching for the real Dorothy;
+  Baum himself appears (Wikipedia). It enters and rewrites an inherited text and cultural story so that the myth lives differently,
+  which is the leaf''s definition. Rejected: Fairytale inversion (Oz is not a folk fairytale and no single tale is reversed;
+  the book is about the story''s afterlife), Fairytale transplant (no relocation of the tale). Wobble: the queue labels it
+  fantasy but little of it is fantastic; the speculative element is Oz as a mind''s retreat, so scope is borderline and Meta
+  remyth is the honest home if it stays.'
+books:
+- title: Was
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/8160337-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8160337-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03400)
+placement_history:
+- date: '2026-10-04'
+  to: meta-remyth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
