@@ -1,0 +1,36 @@
+id: to-the-stars
+title: To the Stars
+authors:
+- Harry Harrison
+first_published: 1980
+canonical_genre: dystopian-rebellion
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian futures
+  > Totalitarian dystopia > Dystopian rebellion. A ruthless totalitarian oligarchy rules an overpopulated Earth and its colonies
+  through a surveillance state; the technocrat Jan Kulozik loses his illusions and rebels in Homeworld, is exiled to the colony
+  Halvmork in Wheelworld, and in Starworld returns to Earth to spread an interstellar rebellion that has overthrown the Earth
+  Empire''s control of the colonies (Wikipedia). The regime already holds power and the story is the fight to bring it down,
+  the leaf''s definition. Rejected: Crowded dystopias (overpopulation is the origin, not the engine), Classic Orwellian (the
+  first book carries the surveillance but the trilogy ends in revolt). Wobble: moderate; the middle book is a colony survival
+  journey. Sources: Wikipedia. Years: 1980, 1981, 1981.'
+books:
+- title: Homeworld
+  year: 1980
+  cover_url: https://covers.openlibrary.org/b/id/6822182-L.jpg
+- title: Wheelworld
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/9254691-L.jpg
+- title: Starworld
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/6808361-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6822182-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03696, MC03717, MC03706)
+placement_history:
+- date: '2026-10-04'
+  to: dystopian-rebellion
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
