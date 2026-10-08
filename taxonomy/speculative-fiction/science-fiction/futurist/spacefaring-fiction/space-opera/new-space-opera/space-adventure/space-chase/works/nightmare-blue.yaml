@@ -1,0 +1,33 @@
+id: nightmare-blue
+title: Nightmare Blue
+authors:
+- Gardner Dozois
+- George Alec Effinger
+first_published: 1975
+canonical_genre: space-chase
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New
+  space opera > Space adventure > Space chase. Per the Baen blurb: the most addictive drug in the universe is sold only by
+  the alien Aensalords; Jaeger, the last private detective in a peaceful future, and Corcail Sendijen, a lobster-like alien
+  and former Aensalord servant, set out to track the drug to its source, and learn that humans are test subjects for a plan
+  that endangers the galaxy. The engine is a trail followed outward, tracking and the next jump, which is the Space chase
+  definition. Rejected: Space mystery (it is for case-driven stories inside space colonies and their institutions; there is
+  no colony), Space caper (no scheme being run), Alien infiltration fiction (Modern day axis, recognizable present; this is
+  a far future), Alien conquest. Wobble: a detective-trail plot with a conspiracy at the end, so it is a stretch for a leaf
+  whose examples are fugitives and bounty hunters; no better leaf for a future-Earth detective story exists in the tree. Published
+  October 1975 (Berkley Medallion, ISFDB).'
+books:
+- title: Nightmare Blue
+  year: 1975
+  cover_url: https://covers.openlibrary.org/b/id/14572527-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14572527-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03296)
+placement_history:
+- date: '2026-10-04'
+  to: space-chase
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
