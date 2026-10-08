@@ -4,7 +4,7 @@ authors:
 - Jim Butcher
 first_published: 2000
 last_published: 2020
-canonical_genre: fae-founders
+canonical_genre: occult-consultants
 placement_status: accepted
 included_titles:
 - Storm Front
@@ -71,3 +71,22 @@ cover_curation:
     url: https://images.penguinrandomhouse.com/cover/700jpg/9780451464415
   - title: Battle Ground
     url: https://images.penguinrandomhouse.com/cover/700jpg/9780593199329
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Urban fantasy > Occult police > Occult
+  consultants. Harry Dresden is a wizard listed in the Chicago phone book as a private investigator: the Chicago P.D. brings
+  him in as a consultant on cases that transcend mortal capability, such as the black-magic double murder in Storm Front,
+  and across the series the cases are vampires, demons, ghosts, wizards'' councils and fae alike (author''s site, jim-butcher.com/books/dresden/storm-front).
+  He holds no badge and works for paying clients and the police as an outsider, which is the leaf''s definition (private or
+  consulting investigators taking occult cases outside any police force or state service). Rejected: Occult cop cases (no
+  badge, no force; he is called in from outside), Occult secret service (the White Council is a wizards'' body he answers
+  to, not the casework frame), Fae founders (Winter and Summer courts are one recurring strand among many; the series frame
+  is the consulting practice). Wobble: Fae founders is a real strand from Summer Knight on and the Winter Court binds Harry
+  through Mab, so the fae are not incidental, but they are not the frame. No walk was ever recorded for the earlier Fae founders
+  placement; the card was there when the tree was mirrored on 2026-09-23.'
+placement_history:
+- date: '2026-10-08'
+  reason: Moved from Fae founders after a root-down walk, on the curator's word "Walk him properly" (phonemsg-01M4E8YC7MFDJQ2ZWZW0AFG1CK)
+    after he asked whether Dresden is a consultant in the occult rather than someone in a Fae-founded city. No walk had ever
+    supported the Fae founders placement (the card predates the Occult consultants leaf, created 2026-10-05). He consults
+    for the Chicago P.D. without a badge.
+  to: occult-consultants
+  from: fae-founders
