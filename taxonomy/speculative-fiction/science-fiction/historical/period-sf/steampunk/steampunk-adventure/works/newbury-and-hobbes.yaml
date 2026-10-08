@@ -1,0 +1,45 @@
+id: newbury-and-hobbes
+title: Newbury and Hobbes
+authors:
+- George Mann
+first_published: 2008
+canonical_genre: steampunk-adventure
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Period SF > Steampunk > Steampunk adventure.
+  Sir Maurice Newbury, an ''investigator for the Crown'', and his assistant Veronica Hobbes work cases in a Victorian London
+  of airships, clockwork automatons and a Queen kept alive by machines, from a zombie plague on the Affinity Bridge to an
+  Egyptian ritual and a train of the dead (Macmillan series page; Wikipedia, George Mann). A mystery and a mission drive each
+  book inside a steam-powered world, which is the leaf''s definition. Rejected: Steampunk history (the changed history of
+  nations and wars is background, not the engine; each book is a case). Wobble: The Immorality Engine cover is only a title
+  page; The Albion Initiative is dated 2022 per Wikipedia (Tor), Open Library has 2021. Series folded as one fiction (rule
+  11j). Ghosts of Manhattan is a separate series set 25 years later and is not folded.'
+books:
+- title: The Affinity Bridge
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/7018796-L.jpg
+- title: The Osiris Ritual
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/7089659-L.jpg
+- title: The Immorality Engine
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8039728-L.jpg
+- title: The Executioner's Heart
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7740442-L.jpg
+- title: The Revenant Express
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8803957-L.jpg
+- title: The Albion Initiative
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/10154875-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7018796-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03406, MC03410, MC03409, MC03408, MC03411, MC03407)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
