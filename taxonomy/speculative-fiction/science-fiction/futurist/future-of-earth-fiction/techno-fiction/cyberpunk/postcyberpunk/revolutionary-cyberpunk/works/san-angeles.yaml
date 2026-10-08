@@ -1,0 +1,38 @@
+id: san-angeles
+title: San Angeles
+authors:
+- Gerald Brandt
+first_published: 2015
+canonical_genre: revolutionary-cyberpunk
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Techno fiction
+  > Cyberpunk > Postcyberpunk > Revolutionary cyberpunk. Kris Ballard (Merrill in later books) is a motorcycle courier in
+  San Angeles, a multi-level megacity from San Francisco to the Mexican border where corporations make the rules; a delivery
+  that goes wrong gets her hunted by the Meridian corporation, then she trains with the anti-corporate movement, and in The
+  Rebel corporate war starves the lower levels while the insurgents try to fight back (Penguin Random House series page).
+  Three books (Courier, Operative, Rebel) are one fiction. Near-future networked corporate order with a resistance, which
+  is the nearest home. Rejected: Cyberheist (the jobs are not heists), Terms of service (at nine cards, and the story is a
+  fight with the corporations, not life inside their ranking systems), Neural fiction (no brain interface at the centre).
+  Wobble: real; the leaf says the resistance builds the alternative, while here the insurgents mostly fight and survive, so
+  it fits only loosely. Years follow Open Library first editions (2015, 2016, 2017), one year earlier than the queue.'
+books:
+- title: The Courier
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/7433739-L.jpg
+- title: The Operative
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/12385521-L.jpg
+- title: The Rebel
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8842891-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7433739-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03443, MC03444, MC03445)
+placement_history:
+- date: '2026-10-04'
+  to: revolutionary-cyberpunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
