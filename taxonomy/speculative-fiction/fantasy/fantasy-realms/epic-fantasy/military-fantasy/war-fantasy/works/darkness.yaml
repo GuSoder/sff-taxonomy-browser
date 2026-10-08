@@ -1,0 +1,43 @@
+id: darkness
+title: Darkness
+authors:
+- Harry Turtledove
+first_published: 1999
+canonical_genre: war-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > War fantasy.
+  A six-book reimagining of the Second World War in an invented world, nicknamed ''World War II with dragons'', where magic
+  does the work of technology and the covers bill each book as a novel of world war and magic (Wikipedia, Darkness series;
+  Into the Darkness). Armies, fronts and campaigns of a whole war are the story, the leaf''s definition. Rejected: WWII fantasy
+  (the war is invented, not the historical one), Soldier fantasy (no single unit carries the books). Wobble: moderate; the
+  secondary-world setting also fits Alternate-history leaves loosely. Sources: Wikipedia. Years: 1999 to 2004.'
+books:
+- title: Into the Darkness
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/604262-L.jpg
+- title: Darkness Descending
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/183121-L.jpg
+- title: Through the Darkness
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/183567-L.jpg
+- title: Rulers of the Darkness
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/523806-L.jpg
+- title: Jaws of Darkness
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/524045-L.jpg
+- title: Out of the Darkness
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/524061-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/604262-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03749, MC03734, MC03794, MC03766, MC03750, MC03763)
+placement_history:
+- date: '2026-10-04'
+  to: war-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
