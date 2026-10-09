@@ -128,3 +128,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Necroville (MC03930) placed in Post-society (8), wobble moderate.
 
 - Brasyl (MC03923) placed in Multiverse mirror (3), wobble moderate-high; Something More Than Night (MC03935) placed in Private-eye fantasy (8), wobble moderate.
+
+- The Tainted Realm (Vengeance, Rebellion, Justice) placed in Humble-origins quest fantasy (7), wobble moderate-high.
