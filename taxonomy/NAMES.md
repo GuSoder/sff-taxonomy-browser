@@ -92,3 +92,6 @@ Cozy place fantasy / Cozy craft fantasy / Cozy peeps fantasy, coined by the cura
 
 - Terraforming fiction / Planet expedition fiction / Planet ecology fiction (2026-10-08): parent-word prefix; the three acts are remaking a world, travelling to one, and the world's own climate and life.
 - 2026-10-08 (renamed by the curator's own message, 17:30 CEST, before any portrait): Terraforming fiction / Planet expedition fiction / Planet ecology fiction replace the proposed Terraforming fiction / Planet expedition fiction / Planet ecology fiction; terraforming is self-explaining, so no Planetary prefix.
+
+## Space marine corps: revisit if Warhammer 40K arrives (2026-10-09)
+Ground-pounders split into Super space soldier / Space marine corps / Alien-war grunts (curator "Approved" phonemsg-01M4G051FVH5QV9RQYMWJG4J81). "Space marines" reads as appropriated by Warhammer 40,000, and no 40K or Black Library title is in the tree or the queue (checked 2026-10-09). Standing note from the curator (phonemsg-01M4G09YH4MDQR3FXJR73B4T8E): if 40K books show up, revisit Space marine corps - they may belong under a new Grimdark shelf, and the browser should make that choice before readers reach this genre and get confused.
