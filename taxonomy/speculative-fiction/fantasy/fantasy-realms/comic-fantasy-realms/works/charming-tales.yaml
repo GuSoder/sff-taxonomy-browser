@@ -1,0 +1,39 @@
+id: charming-tales
+title: Charming Tales
+authors:
+- Jack Heckel
+first_published: 2014
+canonical_genre: comic-fantasy-realms
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Comic fantasy realms. Jack Heckel (Jack
+  Heckel is the joint pen name of Harry Heckel and John Peck): Charming Tales, in the Kingdom of Royaume. Prince Charming''s
+  one destiny was to slay the dragon and save the princess, but a farmer named Will Pickett did both and Charming had nothing
+  to do with it (A Fairy-tale Ending, publisher blurb, which collects Once Upon a Rhyme and Happily Never After); the second
+  book has King William Pickett and Lady Rapunzel dragged into a new dragon crisis (The Pitchfork of Destiny blurb, which
+  pitches it beside Shrek, Xanth and Magic Kingdom for Sale). The fairy-tale kingdom is the stage of the joke, which is the
+  leaf''s definition. Rejected: Fairytale villain, damsel and viewpoint inversion (the books are a fractured-tale comedy across
+  many tales, not one tale told from the other side), Fairytale transplant (no relocation of one tale). Wobble: moderate;
+  the cast is fairy-tale parody, so Fairytale fantasy could claim it. Years: Happily Never After 2014 and Pitchfork of Destiny
+  2016 (FictionDB); A Fairy-tale Ending is the 2015 combined edition of Once Upon a Rhyme and Happily Never After, so it and
+  Happily Never After are one card by rule 11j. Queue ids MC04061, MC04062, MC04066.'
+books:
+- title: Happily Never After
+  year: 2014
+  cover_url: https://jackheckel.com/wp-content/uploads/2018/09/51PlDTuVuvL.jpg
+- title: A Fairy-tale Ending
+  year: 2015
+  cover_url: https://jackheckel.com/wp-content/uploads/2018/09/51PlDTuVuvL.jpg
+- title: The Pitchfork of Destiny
+  year: 2016
+  cover_url: https://jackheckel.com/wp-content/uploads/2018/09/51uDWQ5XpZL.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://jackheckel.com/wp-content/uploads/2018/09/51PlDTuVuvL.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04062, MC04061, MC04066)
+placement_history:
+- date: '2026-10-04'
+  to: comic-fantasy-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

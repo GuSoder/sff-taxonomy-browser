@@ -1,0 +1,39 @@
+id: mysterium
+title: Mysterium
+authors:
+- Jack Heckel
+first_published: 2016
+canonical_genre: comic-fantasy-realms
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Comic fantasy realms. Jack Heckel''s Mysterium
+  Series: Avery Stewart, a grad student at Mysterium University, spent years as an undercover evil wizard in the enchanted
+  world of Trelari, and is pulled back through interworld doors to keep the multiverse from unraveling (The Dark Lord, The
+  Darker Lord, The Darkest Lord, publisher blurbs). The author''s own post says the novel parodies epic fantasy the way the
+  Charming Tales parody fairy tales (harryheckel.com, 2016-10-22). The invented epic-fantasy world played for comedy is the
+  leaf''s definition. Rejected: Portal fantasy leaves (the doors are the machinery, but comedy governs the book), Epic fantasy
+  leaves (the genre is the target, not the vehicle). Wobble: moderate-high; the multiverse-door structure and the darker tone
+  of books 2 and 3 pull away from pure comedy. Dates conflict across sources: The Dark Lord was released as an ebook on Nov
+  1, 2016 per the author, Dec 27, 2016 on the author site and Jan 2017 on FictionDB; the Darker Lord is Sept 2018 on the author
+  site (Jul 2018 FictionDB); the Darkest Lord is Feb 2019 on the author site (Jun 2018 FictionDB). I use 2016, 2018 and 2018
+  (the earlier of the two sources in each case that I could not reconcile). Queue ids MC04063, MC04064, MC04065.'
+books:
+- title: The Dark Lord
+  year: 2016
+  cover_url: http://epicreads.com/cdn/shop/files/9780062359346_1024x.jpg?v=1741112254
+- title: The Darker Lord
+  year: 2018
+  cover_url: https://www.booktopia.com.au/covers/big/9780062697776/0854/the-darker-lord.jpg
+- title: The Darkest Lord
+  year: 2018
+  cover_url: https://cdn.bookstores.com/t/9780062697806.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: http://epicreads.com/cdn/shop/files/9780062359346_1024x.jpg?v=1741112254
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04063, MC04064, MC04065)
+placement_history:
+- date: '2026-10-04'
+  to: comic-fantasy-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
