@@ -28,7 +28,7 @@ Named historical events, periods, regions and mythic ages retain their proper-na
 
 - Alt Civil War
 - Alt Cold War
-- Alt Great War
+- Alt WWI
 - Dust Bowl fantasy
 - Weird West fantasy
 - Fifth Sun

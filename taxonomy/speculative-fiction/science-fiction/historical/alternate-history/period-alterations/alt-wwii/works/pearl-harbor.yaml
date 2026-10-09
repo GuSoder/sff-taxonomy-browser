@@ -1,0 +1,31 @@
+id: pearl-harbor
+title: Pearl Harbor
+authors:
+- Harry Turtledove
+first_published: 2004
+canonical_genre: alt-wwii
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Alternate history > Period alterations
+  > Alt WWII. Japan invades and holds Hawaii after the Pearl Harbor attack, and the two novels follow the Pacific war that
+  results, fought on the islands and at sea (Days of Infamy, End of the Beginning; Open Library). The fork lies inside the
+  war and the changed world is the war itself, the leaf''s definition. Rejected: Alt postwar (the fork is not the war''s end
+  and the war is the story), Alt prewar (nothing before December 1941 is altered). Wobble: low. Sources: Open Library. Years:
+  first hardcover publication, 2004 and 2005 (queue shows 2006 for the second, a paperback year).'
+books:
+- title: Days of Infamy
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/293488-L.jpg
+- title: End of the Beginning
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/293782-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/293488-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03735, MC03738)
+placement_history:
+- date: '2026-10-04'
+  to: alt-wwii
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

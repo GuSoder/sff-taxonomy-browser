@@ -7,13 +7,15 @@ children:
 - alt-civil-war
 - alt-cold-war
 - alt-present
-- alt-great-war
+- alt-wwi
+- alt-wwii
 image: 145-period-alterations.webp
-definition: Alternate histories in which the alteration starts within living memory
-  of the story being depicted, roughly less than a lifetime before its present.
+definition: Alternate histories in which the alteration starts within living memory of the story being depicted, roughly less
+  than a lifetime before its present.
 status: accepted
 works: []
 history:
 - date: '2026-09-23'
-  change: Added Alt Prewar leaf (the curator 12:03); The Plot Against America moved
-    there; branch is now pure.
+  change: Added Alt Prewar leaf (the curator 12:03); The Plot Against America moved there; branch is now pure.
+- date: '2026-10-09'
+  change: Added Alt WWII leaf (curator phonemsg-01M4FP6VTRBSJ3XBFJRVPSWY3K); Alt Great War renamed Alt WWI in the same ruling.
