@@ -1,0 +1,37 @@
+id: the-divide
+title: The Divide
+authors:
+- J. S. Dewes
+first_published: 2021
+canonical_genre: space-corvette
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
+  fiction > Space navy > Space corvette. At the Divide, the collapsing edge of the universe, Adequin Rake commands the Argus
+  with a crew of recruits, exiles and court-martialed soldiers called Sentinels, with no resources, no comms and no relief;
+  the sequels follow the surviving crew trying to leave the edge, then the war over the genetic plan that threatens the outer
+  colonies (jsdewes.com; Tor Publishing Group pages for The Last Watch, The Exiled Fleet, The Relentless Legion). One small
+  ship and her penal crew out on their own is the leaf''s definition. Rejected: Space armada (the state fleet only appears
+  late in the series), Space command (the view is the one ship, not the campaign room). Wobble: moderate, since the third
+  book widens to fleets and the colony war. One fiction, rule 11j: The Last Watch 2021, The Exiled Fleet 2021, The Relentless
+  Legion 2024 (Open Library and Tor pages).'
+books:
+- title: The Last Watch
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10926378-L.jpg
+- title: The Exiled Fleet
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11595489-L.jpg
+- title: The Relentless Legion
+  year: 2024
+  cover_url: https://images.penguinrandomhouse.com/cover/9781250851253
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10926378-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04017, MC04016, MC04018)
+placement_history:
+- date: '2026-10-04'
+  to: space-corvette
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
