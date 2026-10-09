@@ -137,3 +137,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Frame-of-mind rule to codify in process.md (workshopped with the curator 6:16 to 6:21 PM): historical shelves hold books that celebrate a recognizable past period whose technology's golden age is clearly over, whether written in the era or as a retro throwback; futurist keeps everything from the space race forward, where the verdict is still out (space opera stays futurist whatever its vintage).
 
 - Rocketpunk portrait swapped to variant B (625-rocketpunk.webp) at the owner pick relayed Oct 9 6:47 PM; A (624) removed.
+- Benedict series placed in Space mystery 2026-10-09 on curator condition phonemsg-01M4GXYM7C0389701NV68PJXTF.
