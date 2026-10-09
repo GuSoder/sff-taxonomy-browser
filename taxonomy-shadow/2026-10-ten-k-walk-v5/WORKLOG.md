@@ -104,3 +104,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 2026-10-09 13:40: Gillmore Angel Island MC03967 placed in lost-race (6, moderate).
 2026-10-09 13:45: Brignull The Hawkweed Legacy MC03968 placed in witchblood (4, moderate; Prophecy not in queue). Parked: Thistle Down MC03970 (fae-founders at 9, gates a split; read plot first).
 2026-10-09 14:00: Pitts Sarah Beauhall (Black Blade Blues, Honeyed Words) MC03996-97 placed in found-magic (8, moderate). Skipped: 1636 Seas of Fortune (anthology), Freediver (short story), Two Doctors Gorski (novella), Becoming Superman (memoir), Women of Westeros Oracle (card deck), Asimov collections, Isabel Yap stories.
+2026-10-09 14:02: Parked The Razor MC03998 (prison mining planet, catastrophe survival; no honest Space colonies leaf). Skipped Johansen (thriller).
