@@ -3,10 +3,12 @@ title: The Seer King
 authors:
 - Chris Bunch
 first_published: 1997
-canonical_genre: army-fantasy
+canonical_genre: command-tent-fantasy
 placement_status: accepted
-placement_rationale: A soldier's conquering campaigns across the realm, the whole war seen from the ranks of the army; the
-  war is the story, so Army fantasy.
+placement_rationale: 'A soldier''s conquering campaigns across the realm, the whole war seen from the ranks of the army; the
+  war is the story, so Army fantasy. Split walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): Root-down: Speculative fiction
+  > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy > Command-tent fantasy. A general''s campaigns
+  across the map. WEAK CARD: thin source in the yaml.'
 books:
 - title: The Seer King
   year: 1997
@@ -28,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: army-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: army-fantasy
+  to: command-tent-fantasy
+  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). A general''s campaigns across the map. WEAK
+    CARD: thin source in the yaml.'

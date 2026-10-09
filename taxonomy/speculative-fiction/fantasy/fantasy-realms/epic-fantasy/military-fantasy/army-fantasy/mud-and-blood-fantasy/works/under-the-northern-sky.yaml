@@ -3,11 +3,14 @@ title: Under the Northern Sky
 authors:
 - Leo Carew
 first_published: 2018
-canonical_genre: army-fantasy
+canonical_genre: mud-and-blood-fantasy
 placement_status: accepted
 placement_rationale: 'Leo Carew''s Under the Northern Sky: the long-lived, hard northern Anakim under Roper face a southern
   army led by the general Bellamus, and the war itself, its campaigns, battles and sieges, is the story. Walked root-down:
-  Epic fantasy -> Military fantasy -> Army fantasy (the whole war, not one unit). Later volumes fold onto this fiction.'
+  Epic fantasy -> Military fantasy -> Army fantasy (the whole war, not one unit). Later volumes fold onto this fiction. Split
+  walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic
+  fantasy > Military fantasy > Army fantasy > Mud-and-blood fantasy. The Anakim''s war with the southern army, followed through
+  the fighters who take its battles and sieges. WEAK CARD: Roper and Bellamus are commanders too.'
 books:
 - title: The Wolf
   year: 2018
@@ -26,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: army-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: army-fantasy
+  to: mud-and-blood-fantasy
+  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). The Anakim''s war with the southern army, followed
+    through the fighters who take its battles and sieges. WEAK CARD: Roper and Bellamus are commanders too.'

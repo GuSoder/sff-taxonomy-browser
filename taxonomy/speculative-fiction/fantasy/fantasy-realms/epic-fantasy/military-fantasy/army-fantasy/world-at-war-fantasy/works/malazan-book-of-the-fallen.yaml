@@ -3,9 +3,11 @@ title: Malazan Book of the Fallen
 authors:
 - Steven Erikson
 first_published: 1999
-canonical_genre: army-fantasy
+canonical_genre: world-at-war-fantasy
 placement_status: accepted
-placement_rationale: Root-down traversal passes Epic fantasy -> Military Fantasy. Founding work
+placement_rationale: 'Root-down traversal passes Epic fantasy -> Military Fantasy. Founding work Split walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3):
+  Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy > World-at-war
+  fantasy. A whole world''s wars on many continents with dozens of viewpoints: the tapestry.'
 classification_sources:
 - https://us.macmillan.com/series/malazanbookofthefallen
 cover_curation:
@@ -78,3 +80,8 @@ placement_history:
     > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy, the card''s leaf, where the whole-war epic
     of the series sits. Years are first publication (Open Library); the queue shows later reissue years. The ''Malazan Empire
     Series'' queue entry (MC03887) is a six-book omnibus and is skipped.'
+- date: '2026-10-09'
+  from: army-fantasy
+  to: world-at-war-fantasy
+  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). A whole world''s wars on many continents with
+    dozens of viewpoints: the tapestry.'

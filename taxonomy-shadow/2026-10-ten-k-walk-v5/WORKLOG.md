@@ -89,3 +89,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 2026-10-09 9:05: Fairytale inversion split executed (phonemsg-01M4FQFYJE8WBFFVWS6YQS0JR4): villain 4 (with Crimson Crown duology), damsel 3, viewpoint 3; portraits A 608-610, B at /downloads/fi-*-b.png. Sim War placed in ground-pounders (9).
 
 2026-10-09 9:17: War fantasy renamed Army fantasy (id army-fantasy, 513-army-fantasy.webp), curator phonemsg-01M4FR82HVSTKGHJCJ16E4KY66. War fantasy split proposal still open.
+
+2026-10-09 10:20: Army fantasy split executed (Approved phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): mud-and-blood 3, command-tent 3 (+War Between the Provinces), world-at-war 5 (+Wall of Night); portraits A 611-613, B at /downloads/af-*-b.png. Also placed Chronicles of Hanuvar; Malazan fold.

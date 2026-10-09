@@ -3,10 +3,12 @@ title: The First Law
 authors:
 - Joe Abercrombie
 first_published: 2006
-canonical_genre: army-fantasy
+canonical_genre: mud-and-blood-fantasy
 placement_status: accepted
 placement_rationale: 'Joe Abercrombie''s First Law world as one fiction: the trilogy and the standalone novels and the Age
-  of Madness, the Union''s wars and the men who fight them.'
+  of Madness, the Union''s wars and the men who fight them. Split walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): Root-down:
+  Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy > Mud-and-blood fantasy.
+  The Union''s wars seen through the men who fight them, soldiers and torturers in the line.'
 classification_sources:
 - https://www.hachettebookgroup.com/series/joe-abercrombie/the-first-law-trilogy/
 - https://www.hbglibrary.com/titles/joe-abercrombie/the-blade-itself/9780316387316/
@@ -53,3 +55,8 @@ placement_history:
   reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
     we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The First Law Trilogy, Best Served Cold, The
     Heroes, Red Country, The Age of Madness; re-walked root-down into army-fantasy.'
+- date: '2026-10-09'
+  from: army-fantasy
+  to: mud-and-blood-fantasy
+  reason: Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). The Union's wars seen through the men who fight
+    them, soldiers and torturers in the line.

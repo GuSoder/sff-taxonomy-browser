@@ -3,11 +3,13 @@ title: Wake the Dragon
 authors:
 - Kevin J. Anderson
 first_published: 2019
-canonical_genre: army-fantasy
+canonical_genre: world-at-war-fantasy
 placement_status: accepted
 placement_rationale: 'Kevin J. Anderson''s Wake the Dragon trilogy (Spine of the Dragon, Vengewar, Gods and Dragons): two
   continents, the Three Kingdoms and Ishara, fight a thousand-year war, then must ally against a reawakened ancient race (Macmillan).
-  Armies, campaigns and war drive the books: Military fantasy.'
+  Armies, campaigns and war drive the books: Military fantasy. Split walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3):
+  Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy > World-at-war
+  fantasy. Two continents in a thousand-year war, then an alliance against an ancient race: a world at war.'
 books:
 - title: Spine of the Dragon
   year: 2019
@@ -34,3 +36,8 @@ placement_history:
     2026-10-06 7:27 AM)).
   from: military-fantasy
   to: army-fantasy
+- date: '2026-10-09'
+  from: army-fantasy
+  to: world-at-war-fantasy
+  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). Two continents in a thousand-year war, then
+    an alliance against an ancient race: a world at war.'

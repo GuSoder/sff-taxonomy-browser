@@ -1,24 +1,20 @@
 id: army-fantasy
 label: Army fantasy
 parent: military-fantasy
-children: []
-works:
-- malazan-book-of-the-fallen
-- wake-the-dragon
-- the-ascendant-trilogy
-- the-seer-king
-- the-first-law
-- siege-trilogy
-- under-the-northern-sky
-- the-ascendant-kingdoms-saga
-- darkness
+children:
+- mud-and-blood-fantasy
+- command-tent-fantasy
+- world-at-war-fantasy
+works: []
 image: 513-army-fantasy.webp
-definition: 'Military fantasy of the whole war: armies, fronts, sieges and campaigns seen from the ranks; the war is the story.
-  Not Soldier fantasy (one fighting unit is the story), not WWI fantasy or WWII fantasy (a historical war as stage), not War
-  Gothic (the dead of a war haunting the present). Split 2026-10-06 from Military fantasy at nine fictions (curator "Approved"
-  (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)).'
-status: accepted
+definition: 'Military fantasy of the whole war: armies, fronts, sieges and campaigns; the war is the story. Umbrella since
+  2026-10-09, partitioned by whose war it is: Mud-and-blood fantasy (the ranks), Command-tent fantasy (the commanders) and
+  World-at-war fantasy (a whole world''s tapestry).'
+status: umbrella
 ruling: curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)
 history:
 - date: '2026-10-09'
   change: Renamed War fantasy to Army fantasy (id war-fantasy to army-fantasy); curator ruling phonemsg-01M4FR82HVSTKGHJCJ16E4KY66.
+- date: '2026-10-09'
+  change: Split with umbrella at ten fictions into Mud-and-blood, Command-tent and World-at-war fantasy; curator "Approved"
+    (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3).
