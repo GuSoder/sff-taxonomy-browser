@@ -1,0 +1,29 @@
+id: bored-of-the-rings
+title: Bored of the Rings
+authors:
+- Henry Beard
+- Douglas C. Kenney
+first_published: 1969
+canonical_genre: comic-fantasy-realms
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Comic fantasy realms. A 1969 Harvard Lampoon
+  parody of The Lord of the Rings, written by Henry Beard and Douglas Kenney, with boggies for hobbits and the ring quest
+  sent up scene by scene in an invented Middle-earth stand-in (Wikipedia). Parody is the governing engine and the invented
+  world is the stage of the joke, the leaf''s definition. Rejected: Mythic farce and Earthly comic fantasy (the world is invented,
+  not Earth), Epic fantasy (the quest is the butt, not the stake). Wobble: low. Sources: Wikipedia, publisher listing. The
+  queue''s author field reads ''Hobbies'' (garbled); authors taken from Wikipedia.'
+books:
+- title: Bored of the Rings
+  year: 1969
+  cover_url: https://covers.openlibrary.org/b/id/380223-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/380223-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03841)
+placement_history:
+- date: '2026-10-04'
+  to: comic-fantasy-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
