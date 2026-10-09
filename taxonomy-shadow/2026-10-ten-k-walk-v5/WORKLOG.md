@@ -120,3 +120,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Fae founders split into Big-city fae (5) and Small-town fae (5) on the curator's approval; names coined by the curator; Thistle Down (The Pixie Chronicles) placed as the tenth. Portraits 622 and 623 (A wired; B at /downloads/bcf-b.png, stf-b.png).
 
 - The Razor (MC03998) placed in Planet expedition fiction (8), wobble moderate-high (prison-break thriller on a dying planet).
+
+- The Golden City (Seat of Magic MC04005) placed in Nightfolk in gaslight (6); Palace of Dreams (Dreaming Death MC04004) placed in Detective fantasy (7). Cheney was parked earlier, no gate needed once the walk used the Monsters in gaslight split.
