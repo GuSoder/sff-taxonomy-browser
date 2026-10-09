@@ -1,17 +1,18 @@
 id: fae-founders
 label: Fae founders
 parent: urban-fantasy
-children: []
+children:
+- big-city-fae
+- small-town-fae
 image: 97-fae-founders.webp
-definition: Urban fantasy in which old Faerie peoples, courts, and bargains survive into and shape the modern city.
-status: accepted
-works:
-- war-for-the-oaks
-- october-daye
-- the-changeling
-- maggie-graham-series
-- the-darkest-part-of-the-forest
-- the-tufa-novels
-- dreams-and-shadows
-- castleview
-- the-witch-king
+definition: 'Urban fantasy in which old Faerie peoples, courts and bargains survive into and shape the modern world. Umbrella
+  since 2026-10-09, partitioned by where the fae live: Big-city fae (the metropolis as stage) and Small-town fae (the village,
+  county or hollow).'
+status: umbrella
+works: []
+ruling: 'Curator split approved ("Approved" phonemsg-01M4GFFT79H8HEKZ19P4G9BX2E, 2026-10-09 4:01 PM CEST; names Big-city fae
+  / Small-town fae coined in phonemsg-01M4GFFD8MEHH64ZD2WW7SYEF9): axis where the fae live in our world; 5 + 4 with Thistle
+  Down placed as the tenth.'
+history:
+- date: '2026-10-09'
+  change: Split with umbrella at ten fictions into Big-city fae and Small-town fae; curator "Approved" (phonemsg-01M4GFFT79H8HEKZ19P4G9BX2E).

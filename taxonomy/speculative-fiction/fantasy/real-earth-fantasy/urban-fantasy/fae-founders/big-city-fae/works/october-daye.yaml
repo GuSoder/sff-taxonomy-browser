@@ -4,7 +4,7 @@ authors:
 - Seanan McGuire
 first_published: 2009
 last_published: 2023
-canonical_genre: fae-founders
+canonical_genre: big-city-fae
 placement_status: accepted
 included_titles:
 - Rosemary and Rue
@@ -70,3 +70,9 @@ cover_curation:
     url: https://images.penguinrandomhouse.com/cover/700jpg/9780756416836
   - title: The Innocent Sleep
     url: https://images.penguinrandomhouse.com/cover/700jpg/9780756416805
+placement_history:
+- date: '2026-10-09'
+  from: fae-founders
+  to: big-city-fae
+  reason: 'Split of Fae founders at ten (phonemsg-01M4GFFT79H8HEKZ19P4G9BX2E). Faerie courts and knowes under San Francisco:
+    fits.'
