@@ -1,0 +1,37 @@
+id: crosstime
+title: Crosstime
+authors:
+- Andre Norton
+first_published: 1956
+canonical_genre: multiverse-war
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Parallel world fiction > Multiverse war.
+  Norton''s Blake Walker pair (The Crossroads of Time, 1956; Quest Crosstime, 1965; the 2008 Baen omnibus Crosstime folds
+  into this one card, rule 11j): Blake, an orphan with flashes of foresight, stumbles on a secret web of parallel Earths and
+  is drafted into the Crosstime Corps, which hunts a would-be dictator, Saur To''Kekrops of the advanced Earth Vroom, who
+  has marked our Earth as the place his rule begins and will destroy it if his technology fails (Baen/Norton estate blurb;
+  Wikipedia, Quest Crosstime plot: a rescue across timetracks that ends with the corps confronting and neutralising To''Kekrops).
+  Time travel branches rejected: nothing moves in time, the worlds are parallel timetracks. Multiverse mirror rejected: the
+  counterfactual histories (a Richard III Britain and a surviving Toltec empire) are scenery on missions, not the point. Multiverse
+  odyssey rejected: a rescue of Marva Rogan occurs but the engine is the Corps'' fight against a tyrant who threatens worlds.
+  Multiverse war is the closest: invasion and world-defence fought across parallel realities, with the rescue and spy missions
+  as its method. Wobble: moderate. It is an agency adventure more than open war, no leaf for crosstime corps exists, and I
+  read plot sources for Quest Crosstime and the omnibus blurb for The Crossroads of Time, not the books. Years: 1956 and 1965
+  first publication; the queue''s 2007/2008 is the Baen omnibus. Queue id MC00569.'
+books:
+- title: The Crossroads of Time
+  year: 1956
+- title: Quest Crosstime
+  year: 1965
+  cover_url: https://covers.openlibrary.org/b/id/5542833-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/1786971-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00569, MC00569)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-war
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
