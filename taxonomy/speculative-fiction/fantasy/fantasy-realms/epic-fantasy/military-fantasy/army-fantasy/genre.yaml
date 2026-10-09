@@ -1,5 +1,5 @@
-id: war-fantasy
-label: War fantasy
+id: army-fantasy
+label: Army fantasy
 parent: military-fantasy
 children: []
 works:
@@ -12,10 +12,13 @@ works:
 - under-the-northern-sky
 - the-ascendant-kingdoms-saga
 - darkness
-image: 513-war-fantasy.webp
+image: 513-army-fantasy.webp
 definition: 'Military fantasy of the whole war: armies, fronts, sieges and campaigns seen from the ranks; the war is the story.
   Not Soldier fantasy (one fighting unit is the story), not WWI fantasy or WWII fantasy (a historical war as stage), not War
   Gothic (the dead of a war haunting the present). Split 2026-10-06 from Military fantasy at nine fictions (curator "Approved"
   (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)).'
 status: accepted
 ruling: curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)
+history:
+- date: '2026-10-09'
+  change: Renamed War fantasy to Army fantasy (id war-fantasy to army-fantasy); curator ruling phonemsg-01M4FR82HVSTKGHJCJ16E4KY66.
