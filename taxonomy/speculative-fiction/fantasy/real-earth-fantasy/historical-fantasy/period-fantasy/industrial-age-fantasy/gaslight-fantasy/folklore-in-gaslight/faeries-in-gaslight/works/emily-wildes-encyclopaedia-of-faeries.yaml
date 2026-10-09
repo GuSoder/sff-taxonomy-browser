@@ -5,11 +5,13 @@ authors:
 first_published: 2023
 canonical_genre: faeries-in-gaslight
 placement_status: accepted
-placement_rationale: '1909: a Cambridge dryadologist keeps a field journal while studying the hidden folk of a remote northern island (Kirkus, Library Journal).'
+placement_rationale: '1909: a Cambridge dryadologist keeps a field journal while studying the hidden folk of a remote northern
+  island (Kirkus, Library Journal).'
 classification_sources:
 - https://www.kirkusreviews.com/book-reviews/heather-fawcett/emily-wildes-encyclopaedia-of-faeries/
 - https://www.libraryjournal.com/review/emily-wildes-encyclopedia-of-faeries-9780593500132
-intake: 'gap-2022 awards tier #101 ()'
+intake: 'gap-2022 awards tier #101 () + folded MC03809, MC03807 (Emily Wilde series is one universe and one fiction (rule
+  11j): the Cambridge dry)'
 cover_curation:
   status: complete
   source: Open Library
@@ -19,3 +21,18 @@ cover_curation:
 placement_history:
 - date: '2026-09-24'
   change: Moved folklore-in-gaslight -> faeries-in-gaslight in the curator's three-way split of the frozen leaf (18:38 ruling)
+- date: '2026-10-09'
+  reason: 'Emily Wilde series is one universe and one fiction (rule 11j): the Cambridge dryadologist''s later books fold into
+    the Encyclopaedia card, which sits in Faeries in gaslight (1909 field journals among the hidden folk). Compendium of Lost
+    Tales (2025) and Map of the Otherlands (2024) are the same world and heroine; Emily Wilde''s History of Dark Faerie (2027)
+    is unpublished and held.'
+books:
+- title: Emily Wilde's Encyclopaedia of Faeries
+  year: 2023
+  cover_url: https://images-na.ssl-images-amazon.com/images/P/059350013X.01.LZZZZZZZ.jpg
+- title: Emily Wilde's Map of the Otherlands
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14562407-L.jpg
+- title: Emily Wilde's Compendium of Lost Tales
+  year: 2025
+  cover_url: https://images.penguinrandomhouse.com/cover/9780593500224
