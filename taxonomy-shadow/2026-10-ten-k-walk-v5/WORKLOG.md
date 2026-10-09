@@ -80,3 +80,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2:07 AM: Live QA of 35 leaves touched since 8:10 PM: breadcrumbs match, no broken images. Magic house/family A/B sheets generated (/downloads/magic-house-sheet.jpg, magic-family-sheet.jpg); not wired.
 - 2:08 AM: Reconciled genre.yaml works lists to the live index in 44 leaves (added 41 missing ids, removed 5 dangling ids: paladin-s-strength, the-iron-dragon-s-mother, the-first-law-trilogy, major-arcana-john-pistelli, don-t-fear-the-reaper). Owner-side hygiene approved by the parent.
 - 7:15 AM: Magic house fantasy A (602) and Magic family fantasy A (603) wired; curator picks relayed by the parent.
+- 8:08 AM Alt postwar split executed (Execute phonemsg-01M4FM4XH3PPRW78VZTBT0RYDD): Alt postwar world 4 / states 3 / people 3, umbrella 0. Portraits A wired provisional 604-606; B variants /downloads/pw-*-b.png.

@@ -1,18 +1,16 @@
 id: alt-postwar
 label: Alt postwar
 parent: period-alterations
-children: []
+children:
+- alt-postwar-world
+- alt-postwar-states
+- alt-postwar-people
 image: 146-alt-postwar.webp
-definition: Alternate histories whose fork occurs during the Second World War and whose changed world is depicted after it.
-status: accepted
-works:
-- fatherland
-- the-man-in-the-high-castle
-- the-yiddish-policemen-s-union
-- ascent
-- the-sound-of-his-horn
-- biography-of-x
-- the-underhistory
-- vanishing-world
-- in-the-presence-of-mine-enemies
-- the-book-of-guilt
+definition: 'Alternate histories whose fork occurs during the Second World War and whose changed world is depicted after it.
+  Umbrella since 2026-10-09, partitioned by what the changed world is: Alt postwar world (the Axis won), Alt postwar states
+  (the map is redrawn) and Alt postwar people (the map stays, lives change).'
+status: umbrella
+works: []
+history:
+- date: '2026-10-09'
+  change: Split with umbrella at ten fictions into Alt postwar world, states and people; curator "Execute" (phonemsg-01M4FM4XH3PPRW78VZTBT0RYDD).
