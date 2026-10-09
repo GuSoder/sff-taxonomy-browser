@@ -108,3 +108,7 @@ Next: Turtledove block from MC03718. QA batches owed.
 2026-10-09 14:22: Dewes The Divide MC04016-18 placed in space-corvette (6, moderate); Rubicon MC04015 in super-space-soldier (4, moderate). Skipped: Inkwell Collection, Tolkien editions/translations/Lost Tales, Carmilla (horror). Inkwell Chronicles MC04001-03 (Peabody) still to walk.
 2026-10-09 14:42: Mitchell Three Go Back MC04006 in timetribe (4, moderate); King Mad Merlin/Lancelot/Morte MC04012-14 in arthur-reimagined (4). Parked: Cheney Golden City MC04004-05 (1902 alt-Lisbon fantasy, no honest leaf).
 2026-10-09 15:03: Dawson First Bright Thing MC04023 in bowler-hat-fantasy (6, moderate); Lighthouse at the Edge of the World MC04024 in modern-greek-myth (3, moderate). Skipped: This Is Not My Timeline (Tor original novella), Shadows of the New Sun (anthology). Held: Into the Burning Deep MC04007 (publishes 2027-01-19; re-add then). Parked: J.V. Jones Master and Fool MC04020 (book 3 of Book of Words, only entry in queue).
+
+## 2026-10-09 Campbell block
+- Folded Outlands: Boundless (MC04038, 2021) into The Lost Fleet (Space armada, rule 11j).
+- Placed The Doomed Earth (In Our Stars 2024, Destiny's Way 2026; MC04041, MC04039) in Timestranded (6).

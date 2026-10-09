@@ -53,6 +53,9 @@ books:
 - title: 'The Genesis Fleet: Triumphant'
   year: 2019
   cover_url: https://covers.openlibrary.org/b/id/9373311-L.jpg
+- title: 'The Lost Fleet: Outlands: Boundless'
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11306697-L.jpg
 - title: 'The Lost Fleet: Outlands: Resolute'
   year: 2022
   cover_url: https://covers.openlibrary.org/b/id/12027031-L.jpg
@@ -65,7 +68,7 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/284362-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC04051, MC04053, MC04049, MC04050, MC04048, MC04052, folded queue ids MC04055, MC04054,
+intake: ten-k walk v5 (queue ids MC04051, MC04053, MC04049, MC04050, MC04048, MC04052, folded queue ids MC04038, MC04055, MC04054,
   MC04057, MC04056, MC04043, MC04040)
 placement_history:
 - date: '2026-10-04'
@@ -81,3 +84,5 @@ placement_history:
     10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
   from: space-navy
   to: space-armada
+- date: '2026-10-09'
+  reason: 'Folded Outlands: Boundless (MC04038, 2021) into the one-fiction Lost Fleet card (rule 11j; walk unchanged, Space armada).'
