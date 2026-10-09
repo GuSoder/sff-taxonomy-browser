@@ -91,3 +91,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 2026-10-09 9:17: War fantasy renamed Army fantasy (id army-fantasy, 513-army-fantasy.webp), curator phonemsg-01M4FR82HVSTKGHJCJ16E4KY66. War fantasy split proposal still open.
 
 2026-10-09 10:20: Army fantasy split executed (Approved phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): mud-and-blood 3, command-tent 3 (+War Between the Provinces), world-at-war 5 (+Wall of Night); portraits A 611-613, B at /downloads/af-*-b.png. Also placed Chronicles of Hanuvar; Malazan fold.
+2026-10-09 10:35: Labyrinth Key (+Spears of God) placed in infowar (5, moderate). Empty Cities of the Full Moon parked (standalone parallel-universe/pandemic/werfolk novel, no fitting leaf).

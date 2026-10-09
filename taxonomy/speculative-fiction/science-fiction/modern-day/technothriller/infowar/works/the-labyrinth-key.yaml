@@ -1,0 +1,35 @@
+id: the-labyrinth-key
+title: The Labyrinth Key
+authors:
+- Howard V. Hendrix
+first_published: 2004
+canonical_genre: infowar
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Technothriller > Infowar. The Labyrinth
+  Key (2004) is a US-China race to build a quantum computer that can break any code and protect any secret, with a dead scientist,
+  a Hong Kong detective and the virtual world Cybernesia; knowledge is the weapon. The Spears of God (2006) is the second
+  novel in the ISFDB Labyrinth Key series (series record 12570): a great-power race for a knowledge-based weapon, an NSA double-cross
+  and the secret of mute children, near-future. One universe, one fiction (rule 11j). Rejected: Spytech (the intelligence
+  services are players, the contest is over what is known), Technocrisis (no system under strain), Multiverse leaves (Cybernesia
+  is a virtual world, not a parallel universe). Wobble: moderate; Spears of God drifts toward ancient-mystery and shamanism,
+  and the series'' virtual-reality layer pulls toward Metaverse (4). Sources: penguinrandomhouse.com book pages for both titles,
+  en.wikipedia.org/wiki/The_Labyrinth_Key, isfdb.org series 12570. Years: Labyrinth Key Ace 2004 (reissue 2006), Spears of
+  God Ballantine 2006.'
+books:
+- title: The Labyrinth Key
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/210737-L.jpg
+- title: Spears of God
+  year: 2006
+  cover_url: https://images.penguinrandomhouse.com/cover/9780345495488
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/210737-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03871, MC03863)
+placement_history:
+- date: '2026-10-04'
+  to: infowar
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
