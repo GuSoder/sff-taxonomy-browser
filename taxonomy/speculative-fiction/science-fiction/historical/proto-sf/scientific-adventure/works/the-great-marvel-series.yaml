@@ -1,0 +1,36 @@
+id: the-great-marvel-series
+title: The Great Marvel Series
+authors:
+- Howard R. Garis
+first_published: 1910
+canonical_genre: scientific-adventure
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical SF > Proto-SF > Scientific adventure.
+  The Great Marvel series (Cupples and Leon, as by Roy Rockwood, a Stratemeyer house name; Howard R. Garis wrote the first
+  six volumes per the SF Encyclopedia): sanitized Edisonades after Verne, in which a boy inventor''s marvel craft carries
+  a party on fantastic voyages (to the North Pole, under the sea, the Earth''s centre). Through Space to Mars (1910) and Lost
+  on the Moon (1911) are the space volumes. A technological marvel and the voyage it enables is the leaf''s definition. Rejected:
+  Classic planetary romance (the worlds are visited by gadget voyage, not a romance of the visited civilization), Pulp space
+  odyssey (a Golden Age leaf, and the books are Edwardian juvenile scientific adventure). Wobble: moderate; the leaf''s definition
+  says nineteenth-century and these are 1910 and 1911, and the Moon book also has a lost-in-the-field-of-diamonds quest (ISFDB
+  title record). One card for the series (rule 11j); the two Baen 2013 reissues in the queue carry the Rockwood covers. Years
+  are first publication (ISFDB: Through Space to Mars 1910, Lost on the Moon 1911). Queue ids MC03869, MC03865. The three
+  Rocket Riders volumes (1933-34) are a separate series, not placed here.'
+books:
+- title: Through Space to Mars
+  year: 1910
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781625790118-lg.jpg
+- title: Lost on the Moon
+  year: 1911
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781625790125-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781625790118-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03869, MC03865)
+placement_history:
+- date: '2026-10-04'
+  to: scientific-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
