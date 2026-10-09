@@ -1,0 +1,30 @@
+id: moonfall
+title: Moonfall
+authors:
+- Jack McDevitt
+first_published: 1998
+canonical_genre: cosmic-catastrophe
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Apocalyptic fiction > Cosmic catastrophe.
+  McDevitt, 1998, set in 2024: an interstellar comet is found on course to hit the newly opened Moonbase; the comet shatters
+  the Moon and the debris endangers rescue ships and people on Earth, while the US vice president who promised to leave last
+  stays behind (Wikipedia Moonfall; SFWA synopsis). Disaster falls from the sky and the Moon breaks, which is the leaf''s
+  definition. Rejected: Space colonies (the base is evacuated, not lived in), Future of Earth branches (near-future, the catastrophe
+  is the plot). Wobble: low to moderate. Plot summaries only, no text read. Aftermath on Earth is secondary to the evacuation,
+  which makes it closer to a disaster-rescue story than Lucifer''s Hammer-style collapse; the leaf is the nearest honest fit.
+  Years: first publication 1998 (Wikipedia, Open Library first_publish_year 1998); the queue has no year. Queue id MC04081.'
+books:
+- title: Moonfall
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/43902-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/43902-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04081)
+placement_history:
+- date: '2026-10-04'
+  to: cosmic-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
