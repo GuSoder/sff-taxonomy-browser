@@ -1,0 +1,34 @@
+id: star-corpsman
+title: Star Corpsman
+authors:
+- Ian Douglas
+first_published: 2012
+canonical_genre: space-marine-corps
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
+  fiction > Ground-pounders > Space marine corps. Navy Corpsman Elliot ''Doc'' Carlyle serves with Bravo Company Marines,
+  saving a wounded Marine and two extraterrestrial friendlies on a mining station in Bloodstar, then deploying with a recon
+  team to the ocean planet Abyss Deep (Harper Voyager listings for both books; FictionDB series order). A Marine company seen
+  from the inside, in the Ian Douglas Marine universe but a separate series (no shared-universe fold: the Star Corpsman books
+  carry their own cast and are not part of the Heritage, Legacy and Inheritance saga). Rejected: Alien-war grunts (no sustained
+  war against one enemy), Super space soldier (nobody is remade), Space combat (the corps and its squad, not the fight, is
+  the frame). Wobble: moderate; the hero is a medic and the second book is an expedition mystery. Years: Bloodstar 2012, Abyss
+  Deep 2013 (Harper Voyager first printings).'
+books:
+- title: Bloodstar
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7687851-L.jpg
+- title: Abyss Deep
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7648313-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7687851-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03894, MC03888)
+placement_history:
+- date: '2026-10-04'
+  to: space-marine-corps
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
