@@ -1,0 +1,34 @@
+id: a-far-better-thing
+title: A Far Better Thing
+authors:
+- H. G. Parry
+first_published: 2025
+canonical_genre: meta-remyth
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Fabulation > Books-in-books > Meta remyth.
+  Parry, 2025 (Tor, June 2025): a retelling of Dickens''s A Tale of Two Cities in which Sydney Carton was taken by fairies
+  as a baby, leaving the changeling Charles Darnay in his place, serves the fairies as a lawyer, meets his double at the Old
+  Bailey, and uses the French Revolution''s human and fairy politics to avenge himself on his fairy master Shadow and break
+  free (Wikipedia; Publishers Weekly starred review, called a masterful fantasy riff on the Dickens). Rejected: Alt flintlock
+  fantasy (the Revolution is the setting and the story is the Dickens plot reworked, the runner-up, with Scarlet and The Shadow
+  Histories nearby), Fairytale expansion and Fairytale transplant (at 9, and the seed is a novel, not a fairytale), Textual
+  trespass (no one enters the book), Written worlds. Meta remyth is the leaf for fiction that replays an inherited text so
+  that the existing story lives differently, as Pride and Prometheus does with Austen and Shelley; here the changelings explain
+  Dickens''s coincidences. Wobble: moderate. The leaf lives in the Atemporal fabulation branch and the book reads as historical
+  fantasy; I followed the tree''s own placement of retellings of inherited texts. Plot from Wikipedia and reviews, not the
+  book. Year 2025 (Open Library, Wikipedia). Queue id MC03619.'
+books:
+- title: A Far Better Thing
+  year: 2025
+  cover_url: https://www.publishersweekly.com/cover/9781250334183
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.publishersweekly.com/cover/9781250334183
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03619)
+placement_history:
+- date: '2026-10-04'
+  to: meta-remyth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
