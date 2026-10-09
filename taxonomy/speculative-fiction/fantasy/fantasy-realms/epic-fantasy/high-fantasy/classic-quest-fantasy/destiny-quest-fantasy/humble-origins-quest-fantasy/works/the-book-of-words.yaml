@@ -1,0 +1,32 @@
+id: the-book-of-words
+title: The Book of Words
+authors:
+- J. V. Jones
+first_published: 1996
+canonical_genre: humble-origins-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > High fantasy > Classic quest
+  fantasy > Destiny quest fantasy > Humble-origins quest fantasy. The Book of Words follows Jack, a baker''s boy whose power
+  and destiny pull him into the war of the Known Lands against the sorcerer-chancellor Baralis (series copy; ISFDB series
+  page). The queue holds only book 3, Master and Fool (1996): the Known Lands are on the brink of war, Jack must harness his
+  power to meet his destiny, Tawl must save Melliandre and her unborn child from Kylock and Baralis, and a final confrontation
+  threatens to unravel time (jvj.com publisher page). The marked one''s rise from nothing is the leaf''s definition. Rejected:
+  Hidden-heir quest fantasy (his power, not birthright, drives the rise), Court intrigue (Baralis''s schemes are a thread,
+  not the engine). Wobble: moderate, since this volume leans on convergence, war and palace intrigue more than on Jack''s
+  rise; books 1 and 2 (The Baker''s Boy 1995, A Man Betrayed 1996) are not in the queue. First published 1996 (ISFDB). Queue
+  id MC04020.'
+books:
+- title: Master and Fool
+  year: 1996
+  cover_url: https://www.hachette.co.uk/wp-content/uploads/2019/01/hbg-title-master-and-fool-11.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.hachette.co.uk/wp-content/uploads/2019/01/hbg-title-master-and-fool-11.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04020)
+placement_history:
+- date: '2026-10-04'
+  to: humble-origins-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
