@@ -112,3 +112,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 ## 2026-10-09 Campbell block
 - Folded Outlands: Boundless (MC04038, 2021) into The Lost Fleet (Space armada, rule 11j).
 - Placed The Doomed Earth (In Our Stars 2024, Destiny's Way 2026; MC04041, MC04039) in Timestranded (6).
+
+## 2026-10-09 EVE
+- EVE: The Burning Life (MC03840) placed in Interstellar court politics (9) on the curator ruling; wobble moderate-high.
