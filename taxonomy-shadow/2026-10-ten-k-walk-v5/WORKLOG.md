@@ -102,3 +102,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 2026-10-09 12:58: Skipped The Chronologist MC03934 (short story); held Strange Powers MC03921 (publishes 2027-01-19; re-add then). QA live OK for colony-life and age-of-sail-alterations (head 74f7b9b0 deployed).
 2026-10-09 13:20: Das The Devourers MC03965 placed in werewolf-fantasy (6, moderate). Skipped Of All the New Yorks (short story).
 2026-10-09 13:40: Gillmore Angel Island MC03967 placed in lost-race (6, moderate).
+2026-10-09 13:45: Brignull The Hawkweed Legacy MC03968 placed in witchblood (4, moderate; Prophecy not in queue). Parked: Thistle Down MC03970 (fae-founders at 9, gates a split; read plot first).
