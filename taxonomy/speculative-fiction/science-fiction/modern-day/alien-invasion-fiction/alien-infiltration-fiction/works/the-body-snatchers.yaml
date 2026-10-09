@@ -1,0 +1,30 @@
+id: the-body-snatchers
+title: The Body Snatchers
+authors:
+- Jack Finney
+first_published: 1955
+canonical_genre: alien-infiltration-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Alien fiction > Alien invasion fiction > Alien infiltration
+  fiction. Jack Finney: in the California town of Mill Valley, a doctor finds that seed pods from space are replacing townspeople
+  with emotionless duplicates (Gollancz and Simon and Schuster publisher pages; ISFDB title record lists the 1954 Collier''s
+  serial and the 1955 Dell and Simon and Schuster book). The takeover works from within, through duplicated hosts, and the
+  story is the discovery of who is no longer themselves, the leaf''s definition. Rejected: Alien conquest fiction (no fleets,
+  no open war), Alien horror (the horror is the engine, but the invasion plot is the spine and the leaf already holds The
+  Puppet Masters and The Midwich Cuckoos), Near-future first contact. Wobble: low; the textbook case. Year is first book publication,
+  1955 (ISFDB: serial 1954, copyright 1955). Queue id MC04060; the Gollancz SF Masterworks cover carries the book''s own title.'
+books:
+- title: The Body Snatchers
+  year: 1955
+  cover_url: http://store.gollancz.co.uk/cdn/shop/products/9780575085312-original.jpg?v=1770801535
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: http://store.gollancz.co.uk/cdn/shop/products/9780575085312-original.jpg?v=1770801535
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04060)
+placement_history:
+- date: '2026-10-04'
+  to: alien-infiltration-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
