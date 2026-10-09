@@ -124,3 +124,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 - The Golden City (Seat of Magic MC04005) placed in Nightfolk in gaslight (6); Palace of Dreams (Dreaming Death MC04004) placed in Detective fantasy (7). Cheney was parked earlier, no gate needed once the walk used the Monsters in gaslight split.
 
 - The Book of Words (Master and Fool MC04020) placed in Humble-origins quest fantasy (6), wobble moderate.
+
+- Necroville (MC03930) placed in Post-society (8), wobble moderate.
