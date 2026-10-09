@@ -1,0 +1,34 @@
+id: andromedan-dark
+title: Andromedan Dark
+authors:
+- Ian Douglas
+first_published: 2016
+canonical_genre: alien-expedition
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Alien fiction > First-contact fiction > Alien expedition.
+  Ian Douglas: in 2162, thirty-eight years after first contact, Lord Commander Grayson St. Clair leads the colony ship Tellus
+  Ad Astra, carrying over a million scientists, diplomats, soldiers and AIs, on an expedition to the Galactic Core, where
+  the ship meets a threat no known race has seen (Altered Starscape and Darkness Falling publisher blurbs; the fantasyliterature.com
+  review confirms the 2162 expedition). The outward voyage that meets an unknown intelligence away from Earth is the leaf''s
+  definition. Rejected: Far-future first contact (the encounter is made on a mission out to the Core, not within settled expansion),
+  Alien conquest (the invaders do not take Earth). Wobble: moderate; the earlier contact with other races exists and the second
+  book is mostly ship-to-ship war with the Andromedans, so a military leaf could claim it. Years are HarperCollins US on-sale
+  dates (Altered Starscape October 25, 2016; Darkness Falling November 28, 2017). Queue ids MC03892, MC03899.'
+books:
+- title: Altered Starscape
+  year: 2016
+  cover_url: https://www.harpercollins.com/cdn/shop/files/9780062379191_1200x1200.jpg
+- title: Darkness Falling
+  year: 2017
+  cover_url: https://www.booktopia.com.au/covers/big/9780062379221/4052/darkness-falling.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.harpercollins.com/cdn/shop/files/9780062379191_1200x1200.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03892, MC03899)
+placement_history:
+- date: '2026-10-04'
+  to: alien-expedition
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
