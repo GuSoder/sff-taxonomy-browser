@@ -1,0 +1,20 @@
+id: space-colony-politics
+label: Space colony politics
+parent: space-colonies
+children:
+- breakaway-space-colonies
+- space-colony-dynasties
+works: []
+image: 475-space-colony-politics.webp
+definition: 'Space colonies in which the struggle for power is the story. Umbrella since 2026-10-09, partitioned by who the
+  power fight is against: Breakaway space colonies (Earth or an outside power) and Space colony dynasties (families, companies
+  and coups inside the colony). Not Space mystery (there a case drives the story), not Colony life (there ordinary settled
+  life does).'
+status: umbrella
+ruling: 'Curator split approved ("Execute" phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q, 2026-10-09 12:02 PM CEST; names "Space colony
+  politics" / "Breakaway space colonies" / "Space colony dynasties" settled in the same conversation): axis who the power
+  fight is against, Earth or an outside power vs inside the colony; 5 + 5 with Luna placed.'
+history:
+- date: '2026-10-09'
+  change: Renamed Colony politics to Space colony politics and split with umbrella at ten fictions into Breakaway space colonies
+    and Space colony dynasties; curator "Execute" (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q).

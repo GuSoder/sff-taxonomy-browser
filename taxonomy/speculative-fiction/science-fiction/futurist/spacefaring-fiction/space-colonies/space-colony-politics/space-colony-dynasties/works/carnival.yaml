@@ -3,7 +3,7 @@ title: Carnival
 authors:
 - Elizabeth Bear
 first_published: 2006
-canonical_genre: colony-politics
+canonical_genre: space-colony-dynasties
 placement_status: accepted
 placement_rationale: Two spy-ambassadors, a gay couple, are sent to the matriarchal planet New Amazonia, ostensibly to return
   stolen art; the real mission is to plot a coup against its ruling order.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-politics
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: colony-politics
+  to: space-colony-dynasties
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). Spy-ambassadors plot a coup on a matriarchal
+    planet: a coup, though planned by outsiders. Weak: could sit in Breakaway space colonies.'

@@ -3,7 +3,7 @@ title: Marjorie Westriding
 authors:
 - Sheri S. Tepper
 first_published: 1989
-canonical_genre: colony-politics
+canonical_genre: space-colony-dynasties
 placement_status: accepted
 placement_rationale: 'Full algorithmic walk 2026-09-25 (the curator ruling phonemsg-01M3CF4H6WNEZBR7QYXWFJDS51, ''Move it
   to colonies''): the trilogy fails the Modern day gate (''recognizable present'' vs galaxy-spanning far-future) and the Pandemic
@@ -34,3 +34,8 @@ placement_history:
   reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
     power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
     mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+- date: '2026-10-09'
+  from: colony-politics
+  to: space-colony-dynasties
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). Tepper''s ossified aristocratic colony of
+    Grass and its sibling settlements: power fought inside.'

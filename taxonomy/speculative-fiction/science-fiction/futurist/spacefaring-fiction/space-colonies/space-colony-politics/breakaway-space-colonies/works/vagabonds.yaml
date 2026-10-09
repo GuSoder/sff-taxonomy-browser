@@ -3,7 +3,7 @@ title: Vagabonds
 authors:
 - Hao Jingfang
 first_published: 2020
-canonical_genre: colony-politics
+canonical_genre: breakaway-space-colonies
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Space
   colonies. Locus sets the novel in 2201 after an Earth-Mars war: the Mercury Group returns from Earth to an established collectivist
@@ -31,3 +31,8 @@ placement_history:
   reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
     power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
     mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+- date: '2026-10-09'
+  from: colony-politics
+  to: breakaway-space-colonies
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). A collectivist Martian republic and the
+    group returning from Earth after an Earth-Mars war: the colony against Earth.'

@@ -3,7 +3,7 @@ title: Moving Mars
 authors:
 - Greg Bear
 first_published: 1993
-canonical_genre: colony-politics
+canonical_genre: breakaway-space-colonies
 placement_status: accepted
 placement_rationale: Martian colonists, led by a young woman in a Mars of clans and universities, fight for independence from
   Earth's political order, using a physics breakthrough that can move a planet.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-politics
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: colony-politics
+  to: breakaway-space-colonies
+  reason: Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). Martian clans and universities fight for
+    independence from Earth using a physics breakthrough that can move a planet.

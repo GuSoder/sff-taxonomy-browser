@@ -3,7 +3,7 @@ title: O Pioneer!
 authors:
 - Frederik Pohl
 first_published: 1998
-canonical_genre: colony-politics
+canonical_genre: space-colony-dynasties
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space colonies >
   Colony politics. Per Kirkus, Publishers Weekly and BookPage: computer thief Evesham Giyt emigrates to the colony world Tupelo,
@@ -27,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-politics
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: colony-politics
+  to: space-colony-dynasties
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). A mayor of a colony world uncovers a cooked-books
+    conspiracy by an expansionist movement: internal power fight. Wobble: the conspirators are outside agents.'

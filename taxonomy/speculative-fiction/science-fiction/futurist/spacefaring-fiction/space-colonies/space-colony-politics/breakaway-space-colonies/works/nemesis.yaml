@@ -3,7 +3,7 @@ title: Nemesis
 authors:
 - Isaac Asimov
 first_published: 1989
-canonical_genre: colony-politics
+canonical_genre: breakaway-space-colonies
 placement_status: accepted
 placement_rationale: The Rotor settlement breaks from an Earth it believes is doomed and carries a secret about the star Nemesis;
   the contest between the Settlement and Earth over that knowledge and its power is the story. Colony politics.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-politics
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: colony-politics
+  to: breakaway-space-colonies
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). The Rotor settlement breaks from a doomed
+    Earth and keeps a secret about the star Nemesis: Settlement against Earth.'

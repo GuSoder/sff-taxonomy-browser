@@ -3,7 +3,7 @@ title: Red Moon
 authors:
 - Kim Stanley Robinson
 first_published: 2018
-canonical_genre: colony-politics
+canonical_genre: breakaway-space-colonies
 placement_status: accepted
 placement_rationale: 'Root-down traversal: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction because
   the story is set in a permanent, working lunar settlement. SFE and Hachette center a colonized Moon under Chinese influence;
@@ -29,3 +29,8 @@ placement_history:
   reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
     power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
     mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+- date: '2026-10-09'
+  from: colony-politics
+  to: breakaway-space-colonies
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). A Moon settlement is the arena for a Chinese-American
+    contest, murder and a revolution. Wobble: the inside revolution also reads as colony infighting.'

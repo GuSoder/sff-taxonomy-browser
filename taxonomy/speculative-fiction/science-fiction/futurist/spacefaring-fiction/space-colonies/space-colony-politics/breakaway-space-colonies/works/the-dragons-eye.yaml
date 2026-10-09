@@ -3,7 +3,7 @@ title: The Dragon's Eye
 authors:
 - Joël Champetier
 first_published: 1999
-canonical_genre: colony-politics
+canonical_genre: breakaway-space-colonies
 placement_status: accepted
 placement_rationale: 'Full root-down walk: Science fiction (not fantasy: a colony planet of a double star two hundred years
   on, couriers, spies, a debt to Earth) > Futurist (not Atemporal, Historical or Modern day) > Spacefaring fiction (not Alien
@@ -27,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-politics
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: colony-politics
+  to: breakaway-space-colonies
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). A colony planet two hundred years on, a
+    debt to Earth, couriers and spies: the colony against an outside power.'

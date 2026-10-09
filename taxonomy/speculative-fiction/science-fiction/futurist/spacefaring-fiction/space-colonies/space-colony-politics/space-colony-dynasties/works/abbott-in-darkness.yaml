@@ -3,7 +3,7 @@ title: Abbott in Darkness
 authors:
 - D.J. Butler
 first_published: 2022
-canonical_genre: colony-politics
+canonical_genre: space-colony-dynasties
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Futurist > Spacefaring fiction > Space colonies > Colony politics. Accountant
   John Abbott takes his family to the Sarovar system, where a company holds a monopoly, and is drawn into a corruption fight
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-politics
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: colony-politics
+  to: space-colony-dynasties
+  reason: 'Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). A company monopoly and a corruption fight
+    at a remote trading post in the Sarovar system: power fought inside.'

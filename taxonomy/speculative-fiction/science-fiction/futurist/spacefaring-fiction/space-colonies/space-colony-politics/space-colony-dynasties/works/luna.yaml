@@ -1,0 +1,40 @@
+id: luna
+title: Luna
+authors:
+- Ian McDonald
+first_published: 2015
+canonical_genre: space-colony-dynasties
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space colonies >
+  Space colony politics > Space colony dynasties. A permanent, industrialised lunar colony run on contract law, where five
+  families and corporations (Corta, Mackenzie, Asamoah, Suns, Vorontsov) feud over the Four Elementals, air, water, carbon
+  and data; the Corta dynasty falls and its survivors fight back, then Earth-side allies and the Lunar Bourse enter (Wikipedia
+  on Luna: Moon Rising; Tor and Hachette blurbs describe it as Game of Thrones on the Moon). The story is the power contest
+  among families and companies inside the colony. Rejected: Breakaway space colonies (the war is between lunar houses, not
+  the Moon against Earth, though terrestrial allies appear in book three), Space mystery and Colony life. Wobble: low. Trilogy
+  folded as one fiction (rule 11j): New Moon 2015, Wolf Moon 2017, Moon Rising 2019. Years from Open Library first editions.
+ '
+books:
+- title: 'Luna: New Moon'
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9139546-L.jpg
+- title: Luna
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9139546-L.jpg
+- title: 'Luna: Wolf Moon'
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8743206-L.jpg
+- title: 'Luna: Moon Rising'
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8748627-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9139546-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03928, MC03926, MC03929, MC03927)
+placement_history:
+- date: '2026-10-04'
+  to: space-colony-dynasties
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
