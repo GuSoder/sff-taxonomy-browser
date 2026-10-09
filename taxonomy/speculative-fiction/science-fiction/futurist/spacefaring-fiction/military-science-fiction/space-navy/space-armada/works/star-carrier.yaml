@@ -1,0 +1,55 @@
+id: star-carrier
+title: Star Carrier
+authors:
+- Ian Douglas
+first_published: 2010
+canonical_genre: space-armada
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science fiction > Space navy > Space armada.
+  Admiral Koenig commands the kilometre-long star carrier America and the Confederation fleet against the Sh''daar, an alien
+  coalition set on stopping humanity''s technological transcendence by annihilation; across nine novels the carrier groups,
+  task forces and fleet campaigns are the story (HarperCollins listing for Earth Strike; FictionDB series order). Rejected:
+  Ground-pounders (the Marines trilogies are separate cards), Space command (the view is the carrier fleet in battle, not
+  the headquarters), Space corvette (capital-ship fleets, not small craft). Wobble: moderate; the late books (Deep Time, Dark
+  Mind, Bright Light, Stargods) widen into time travel and cosmic transcendence, though fleet war stays the spine. Sources:
+  harpercollins.co.nz Earth Strike page, kobo.com series listing, fictiondb.com/author/ian-douglas~32928. Years from FictionDB
+  first-print dates (Harper Voyager mass-market originals).'
+books:
+- title: Earth Strike
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7721947-L.jpg
+- title: Center of Gravity
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7608408-L.jpg
+- title: Singularity
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7479414-L.jpg
+- title: Deep Space
+  year: 2013
+  cover_url: https://images.penguinrandomhouse.com/cover/9780062183828
+- title: Dark Matter
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/11391249-L.jpg
+- title: Deep Time
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/11616577-L.jpg
+- title: Dark Mind
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8764951-L.jpg
+- title: Bright Light
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/9755873-L.jpg
+- title: Stargods
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/12381248-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7721947-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03902, MC03896, MC03910, MC03900, MC03897, MC03901, MC03898, MC03895, MC03914)
+placement_history:
+- date: '2026-10-04'
+  to: space-armada
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
