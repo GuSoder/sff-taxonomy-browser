@@ -126,3 +126,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 - The Book of Words (Master and Fool MC04020) placed in Humble-origins quest fantasy (6), wobble moderate.
 
 - Necroville (MC03930) placed in Post-society (8), wobble moderate.
+
+- Brasyl (MC03923) placed in Multiverse mirror (3), wobble moderate-high; Something More Than Night (MC03935) placed in Private-eye fantasy (8), wobble moderate.
