@@ -1,0 +1,30 @@
+id: red-sword
+title: Red Sword
+authors:
+- Bora Chung
+first_published: 2025
+canonical_genre: alien-war-grunts
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction -> Futurist -> Spacefaring fiction -> Military science fiction -> Ground
+  pounders. Conscripted slave soldiers on an alien world, the war told from the infantry mud (Pan Macmillan/Honford Star copy;
+  Locus review): the soldier''s-eye war that defines the leaf, not command-deck space opera.'
+classification_sources:
+- https://honfordstar.com/products/red-sword
+- https://locusmag.com/2025/08/paul-kincaid-reviews-bora-chung-2/
+intake: 'gap-2022 #278 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Honford Star (publisher)
+  selected_url: http://honfordstar.com/cdn/shop/files/FlatRedSword.jpg?v=1737174295
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: ground-pounders
+  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-09'
+  from: ground-pounders
+  to: alien-war-grunts
+  reason: 'Split of Ground-pounders at ten (phonemsg-01M4G051FVH5QV9RQYMWJG4J81). Conscripted slave soldiers on an alien world,
+    the war from the infantry mud. Weak: a literary conscript-slave story; could ride in Super space soldier.'

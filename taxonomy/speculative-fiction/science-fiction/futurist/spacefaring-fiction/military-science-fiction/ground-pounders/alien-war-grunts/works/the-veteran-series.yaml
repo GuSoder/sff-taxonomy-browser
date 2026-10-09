@@ -3,7 +3,7 @@ title: The Veteran Series
 authors:
 - Gavin G. Smith
 first_published: 2010
-canonical_genre: ground-pounders
+canonical_genre: alien-war-grunts
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
   fiction > Ground-pounders. SFE: a grimly told, extremely violent military SF sequence set on a war-torn near-future Earth
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: ground-pounders
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: ground-pounders
+  to: alien-war-grunts
+  reason: 'Split of Ground-pounders at ten (phonemsg-01M4G051FVH5QV9RQYMWJG4J81). Grimly told, extremely violent war against
+    the alien Them, seen through the soldiers'' eyes. Wobble: near-future Earth in volume one, interstellar in volume two.'

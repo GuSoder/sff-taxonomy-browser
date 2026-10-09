@@ -3,7 +3,7 @@ title: The Sim War
 authors:
 - Henry V. O'Neil
 first_published: 2012
-canonical_genre: ground-pounders
+canonical_genre: alien-war-grunts
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
   fiction > Ground-pounders. Humanity has fought for decades against an alien enemy that looks almost human, the Sims, and
@@ -37,3 +37,8 @@ placement_history:
 - date: '2026-10-04'
   to: ground-pounders
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: ground-pounders
+  to: alien-war-grunts
+  reason: Split of Ground-pounders at ten (phonemsg-01M4G051FVH5QV9RQYMWJG4J81). Decades of war against the almost-human Sims,
+    with troops on the ground. Fits.

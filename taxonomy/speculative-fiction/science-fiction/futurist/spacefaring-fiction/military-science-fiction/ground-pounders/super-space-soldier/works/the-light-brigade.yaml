@@ -1,0 +1,29 @@
+id: the-light-brigade
+title: The Light Brigade
+authors:
+- Kameron Hurley
+first_published: 2019
+canonical_genre: super-space-soldier
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Military
+  science fiction. Simon & Schuster and Angry Robot explicitly call it future-war military SF: corporate infantry are broken
+  into light for interplanetary combat drops, while a grunt experiences missions out of sequence and uncovers the war’s false
+  official story.'
+classification_sources:
+- https://www.simonandschuster.com/books/The-Light-Brigade/Kameron-Hurley/9781481447973
+- https://angryrobotbooks.com/books/the-light-brigade/
+cover_curation:
+  status: complete
+  source: Saga Press / Simon & Schuster
+  selected_url: cover-the-light-brigade.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
+placement_history:
+- date: '2026-09-25'
+  change: Moved to ground-pounders in the military-science-fiction four-way split (the curator ruling).
+- date: '2026-10-09'
+  from: ground-pounders
+  to: super-space-soldier
+  reason: Split of Ground-pounders at ten (phonemsg-01M4G051FVH5QV9RQYMWJG4J81). Corporate infantry are broken into light
+    and dropped into combat, the soldier remade by the transit.

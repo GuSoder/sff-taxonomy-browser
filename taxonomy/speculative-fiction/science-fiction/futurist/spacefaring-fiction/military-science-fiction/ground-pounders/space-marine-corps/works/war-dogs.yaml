@@ -3,7 +3,7 @@ title: War Dogs
 authors:
 - Greg Bear
 first_published: 2014
-canonical_genre: ground-pounders
+canonical_genre: space-marine-corps
 placement_status: accepted
 placement_rationale: Master Sergeant Michael Venn and his Marine squad fight on Mars and Titan alongside alien Drifters' artifacts
   (War Dogs, Killing Titan, Take Back the Sky); the soldier's-eye ground war on other worlds is the spine.
@@ -28,3 +28,8 @@ placement_history:
 - date: '2026-10-04'
   to: ground-pounders
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: ground-pounders
+  to: space-marine-corps
+  reason: 'Split of Ground-pounders at ten (phonemsg-01M4G051FVH5QV9RQYMWJG4J81). Master Sergeant Venn''s Marine squad on
+    Mars and Titan: a squad of the Corps.'
