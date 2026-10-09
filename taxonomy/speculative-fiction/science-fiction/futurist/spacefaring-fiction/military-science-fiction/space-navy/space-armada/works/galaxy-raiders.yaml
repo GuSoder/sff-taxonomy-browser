@@ -1,0 +1,34 @@
+id: galaxy-raiders
+title: Galaxy Raiders
+authors:
+- Ian Douglas
+first_published: 2025
+canonical_genre: space-armada
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Space fiction > Military science fiction > Space
+  navy > Space armada. Ian Douglas: amortal humans fight the Galactic Authority, an empire of millions of civilizations ruled
+  from the Galactic Core by its principal Mind (Abyss, HarperCollins and Harper Library Book Club blurbs); in Battlestorm
+  Admiral Alexandra Morrigan leads an expeditionary fleet into the galactic frontier after three years of deep-space combat
+  that has devastated Earth. The war fleet and its admiral''s campaigns carry the story, the leaf''s definition. Rejected:
+  Space corvette (a fleet, not one ship), Alien conquest fiction (the war is fought in space, not over an occupied Earth),
+  Space command (the leaf is for the top-down view of the war, while the books follow fleet action). Wobble: moderate; the
+  blurbs stress the alien Mind and the galactic empire as much as the fleet. Years: Abyss February 4, 2025 (HarperCollins
+  on-sale date), Battlestorm May 5, 2026 (Harper Library Book Club on-sale date; Apple Books agrees). Queue ids MC03905, MC03906.'
+books:
+- title: 'Galaxy Raiders: Abyss'
+  year: 2025
+  cover_url: http://www.harpercollins.com/cdn/shop/files/9780063205741_0a103423-94e7-42f4-ae09-8597acbb18a7_1200x1200.jpg?v=1790903013
+- title: 'Galaxy Raiders: Battlestorm'
+  year: 2026
+  cover_url: https://images.penguinrandomhouse.com/cover/9780063205789
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: http://www.harpercollins.com/cdn/shop/files/9780063205741_0a103423-94e7-42f4-ae09-8597acbb18a7_1200x1200.jpg?v=1790903013
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03905, MC03906)
+placement_history:
+- date: '2026-10-04'
+  to: space-armada
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
