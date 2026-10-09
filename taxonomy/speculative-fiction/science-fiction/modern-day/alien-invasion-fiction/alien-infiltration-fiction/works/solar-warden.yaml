@@ -1,0 +1,38 @@
+id: solar-warden
+title: Solar Warden
+authors:
+- Ian Douglas
+first_published: 2020
+canonical_genre: alien-infiltration-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Alien fiction > Alien invasion fiction > Alien infiltration
+  fiction. Ian Douglas (William H. Keith): in an alternate present where conspiracy theories are real, Navy SEAL Mark Hunter''s
+  team uncovers reptilian Saurians (a time-escaped dinosaur subspecies, per the author''s Q&A with Deborah Kalb, 2023-04-27)
+  trying to retake Earth by infiltration, disinformation and chaos, allied with Nazi remnants in space (HarperVoyager blurb
+  for Alien Hostiles). The takeover works from a hidden hand and the story is the discovery of what has already happened,
+  the leaf''s definition. Rejected: Alien conquest fiction (no open fleets landing or occupation of the planet), Hidden history
+  SF (the secret is a live war, not a past event), Near-future first contact (the aliens are hostile covert actors, not a
+  contact). Wobble: moderate; much of the action is covert military operations in space and the SEAL team''s war with the
+  Saurians, so Alien conquest or a military leaf could claim it. Years: HarperCollins on-sale dates (Alien Secrets June 2020,
+  Alien Hostiles November 2021, Alien Agendas April 2023; ISFDB agrees). Queue ids MC03891, MC03890, MC03889.'
+books:
+- title: Alien Secrets
+  year: 2020
+  cover_url: http://www.harpercollins.com/cdn/shop/files/9780062825384_f063dabc-3749-458b-9f01-f97a8286b959_1200x1200.jpg?v=1790750563
+- title: Alien Hostiles
+  year: 2021
+  cover_url: http://www.harpercollins.com/cdn/shop/files/9780062825407_1200x1200.jpg?v=1781008835
+- title: Alien Agendas
+  year: 2023
+  cover_url: http://www.harpercollins.com/cdn/shop/files/9780063299467_5655e634-d9d8-4a73-9e23-99711cb35554_1200x1200.jpg?v=1785512130
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: http://www.harpercollins.com/cdn/shop/files/9780062825384_f063dabc-3749-458b-9f01-f97a8286b959_1200x1200.jpg?v=1790750563
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03891, MC03890, MC03889)
+placement_history:
+- date: '2026-10-04'
+  to: alien-infiltration-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
