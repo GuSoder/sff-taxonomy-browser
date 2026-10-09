@@ -1,18 +1,19 @@
 id: fairytale-inversion
 label: Fairytale inversion
 parent: fairytale-fantasy
-definition: Fiction that reverses a familiar fairytale’s perspective, moral alignment, power structure, or expected meaning.
-status: accepted
-taxonomy_note: Provisional descriptive coinage for revision mode; no single established critical term cleanly covers this group.
-children: []
+definition: 'Fiction that reverses a familiar fairytale''s perspective, moral alignment, power structure, or expected meaning.
+  Umbrella since 2026-10-09, partitioned by what gets turned over: Fairytale villain inversion (the villain is the protagonist),
+  Fairytale damsel inversion (the rescued role is overturned) and Fairytale viewpoint inversion (the camera moves to the tale''s
+  margins).'
+status: umbrella
+taxonomy_note: Provisional descriptive coinage for revision mode; no single established critical term cleanly covers this
+  group.
+children:
+- fairytale-villain-inversion
+- fairytale-damsel-inversion
+- fairytale-viewpoint-inversion
 image: 225-fairy-tale-inversion.webp
-works:
-- rump
-- we-kept-her-in-the-cellar
-- the-bloody-chamber-and-other-stories
-- damsel
-- wicked
-- sour-cherry
-- damsel-evelyn-skye
-- spellbound
-- malice
+works: []
+history:
+- date: '2026-10-09'
+  change: Split with umbrella at ten fictions into Fairytale villain, damsel and viewpoint inversion; curator "Execute" (phonemsg-01M4FQFYJE8WBFFVWS6YQS0JR4).

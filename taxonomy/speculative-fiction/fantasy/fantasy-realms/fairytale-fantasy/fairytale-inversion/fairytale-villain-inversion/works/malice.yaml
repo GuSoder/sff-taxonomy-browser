@@ -3,7 +3,7 @@ title: Malice
 authors:
 - Heather Walter
 first_published: 2021
-canonical_genre: fairytale-inversion
+canonical_genre: fairytale-villain-inversion
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Fairytale fantasy > Fairytale inversion.
   A darkly magical retelling of ''Sleeping Beauty'' told by the villain, the sorceress Alyce the Dark Grace, who loves the
@@ -11,7 +11,10 @@ placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms 
   Random House). It reverses a familiar tale''s perspective and moral alignment, the leaf''s definition. Rejected: Fairytale
   transplant (same Briar kingdom setting, no new period), Fairytale expansion (the tale is not a seed for a larger mythology),
   Bonded romantasy (at nine; the romance is the engine but the inverted tale is the premise). Wobble: low. The duology (Malice,
-  Misrule) is one fiction. Sources: author site. Years: 2021 to 2022 (first publication; the queue lists reissue years).'
+  Misrule) is one fiction. Sources: author site. Years: 2021 to 2022 (first publication; the queue lists reissue years). Split
+  walk 2026-10-09 (phonemsg-01M4FQFYJE8WBFFVWS6YQS0JR4): Root-down: Speculative fiction > Fantasy > Fantasy realms > Fairytale
+  fantasy > Fairytale inversion > Fairytale villain inversion. Sleeping Beauty told by the wicked fairy who loves the cursed
+  princess.'
 books:
 - title: Malice
   year: 2021
@@ -30,3 +33,8 @@ placement_history:
 - date: '2026-10-04'
   to: fairytale-inversion
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: fairytale-inversion
+  to: fairytale-villain-inversion
+  reason: Split of Fairytale inversion at ten (phonemsg-01M4FQFYJE8WBFFVWS6YQS0JR4). Sleeping Beauty told by the wicked fairy
+    who loves the cursed princess.

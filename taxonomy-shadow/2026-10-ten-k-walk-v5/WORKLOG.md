@@ -85,3 +85,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 8:36 AM: Emily Wilde folded (Faeries in gaslight), Malice (fairytale-inversion 9), Agnes Aubert (cozy-place 4), Vanishing Bookstore (magic-house 6) placed. Held: Calling All Angels (unpublished), Emily Wilde's History of Dark Faerie (2027), Saint of Silence (2027), Crow & Shadow (2027), Hanging Game (unverified), Kuttner Mountain Magic and Last Mimzy (collections). Parked: Crimson Crown duology (inversion would hit 10; Witch Queen published Aug 2026), Helen Lowe Wall of Night (war fantasy gate).
 
 2026-10-09 8:45: curator phonemsg-01M4FP6VTRBSJ3XBFJRVPSWY3K: Alt wartime seed named Alt WWII; Alt Great War renamed Alt WWI (id alt-wwi, portrait 386-alt-wwi.webp). Alt WWII seeded with The War That Came Early (6) and Pearl Harbor (2); portrait A 607 wired, B at /downloads/ww2-b.png.
+
+2026-10-09 9:05: Fairytale inversion split executed (phonemsg-01M4FQFYJE8WBFFVWS6YQS0JR4): villain 4 (with Crimson Crown duology), damsel 3, viewpoint 3; portraits A 608-610, B at /downloads/fi-*-b.png. Sim War placed in ground-pounders (9).

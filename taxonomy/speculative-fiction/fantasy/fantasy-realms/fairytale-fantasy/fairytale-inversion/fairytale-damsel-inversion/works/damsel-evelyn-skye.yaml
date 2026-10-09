@@ -3,7 +3,7 @@ title: Damsel (Evelyn Skye)
 authors:
 - Evelyn Skye
 first_published: 2023
-canonical_genre: fairytale-inversion
+canonical_genre: fairytale-damsel-inversion
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Fairy-tale fantasy > Fairy-tale inversion.
   Not the same book as Elana K. Arnold''s Damsel (2018, already in this leaf): this is the 2023 novelization of Dan Mazeau''s
@@ -12,7 +12,9 @@ placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms 
   the same leaf as Arnold''s. Tie-ins are in scope per the intake README. Rejected: Romantasy (the marriage is the trap, not
   the romance), Warrior hero (the reversal, not trained martial power, drives the plot). Title carries the author because
   of the id collision with Arnold''s Damsel. Wobble: the cover is the Netflix tie-in jacket held by Open Library; no clean
-  original-jacket image was found.'
+  original-jacket image was found. Split walk 2026-10-09 (phonemsg-01M4FQFYJE8WBFFVWS6YQS0JR4): Root-down: Speculative fiction
+  > Fantasy > Fantasy realms > Fairytale fantasy > Fairytale inversion > Fairytale damsel inversion. A bride married to save
+  a famine-struck realm learns the kingdom sacrifices its brides: the rescue role is a trap.'
 books:
 - title: Damsel
   year: 2023
@@ -28,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: fairytale-inversion
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-09'
+  from: fairytale-inversion
+  to: fairytale-damsel-inversion
+  reason: 'Split of Fairytale inversion at ten (phonemsg-01M4FQFYJE8WBFFVWS6YQS0JR4). A bride married to save a famine-struck
+    realm learns the kingdom sacrifices its brides: the rescue role is a trap.'
