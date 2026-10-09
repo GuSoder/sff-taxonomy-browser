@@ -21,3 +21,6 @@ Ruling of 2026-10-09 (curator message phonemsg-01M4GD863CV2Z9QWVMDSNPBY4Y).
 - Branches hold zero direct fictions. Splits keep the original node as an umbrella.
 - A shared universe is one fiction (rule 11j).
 - No leaf is opened without a book that needs it; empty leaves are not opened.
+
+## Historical shelves versus futurist (curator, 2026-10-09)
+Futurist is a frame of mind of the author: a future time of wonder that had not yet come at the time of writing. A book that celebrates a recognizable past period whose technology's golden age has clearly come and gone belongs on the historical shelves, whether it was written in the era or as a retro throwback; browsers of that period find both together (Rocket Riders sits in Rocketpunk beside modern interwar books). Do not apply this test from the space race onward: the verdict is still out on space, so space opera stays futurist whatever its vintage. The atomic age is the awkward edge; atomic-age books stay where they already fit.

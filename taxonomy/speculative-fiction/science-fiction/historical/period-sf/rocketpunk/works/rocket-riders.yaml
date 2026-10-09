@@ -1,0 +1,40 @@
+id: rocket-riders
+title: Rocket Riders
+authors:
+- Howard R. Garis
+first_published: 1933
+canonical_genre: rocketpunk
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical > Period SF > Rocketpunk. Howard R. Garis,
+  written in the era itself: three schoolboys in a small lake town meet a secretive foreign inventor whose new rocket engine
+  powers, one mode per volume, a sled, a boat and a plane (SF Encyclopedia entry on Garis; Free Library record: the boys accompany
+  an inventor to Alaska to test his rocket-powered sled; Baen chapters I to IV read directly: 1930s slang, camp life, a mysterious
+  inventor''s shack and night-time rocket flashes). One new rocket marvel breaks into an otherwise ordinary 1930s world and
+  the world stays unchanged, the leaf''s definition. Rejected: Deco noir SF (the era matches but the mood is a wholesome boys''
+  adventure, not noir; the curator ruled a separate Rocketpunk sibling on 2026-10-09), Scientific adventure (a stunt adventure
+  with transport machines, not a voyage to somewhere strange), Pulp science fiction and Techno fiction (the curator''s historical-shelf
+  test: the rocket age as it dawned is a closed period). Wobble: low to moderate; only the opening chapters of book 1 were
+  read, the later volumes'' content comes from the SF Encyclopedia. Years: Wikipedia''s Rocket Riders list (Across the Ice
+  1933, In Stormy Seas 1933, In the Air 1934); the Baen 2013 ebooks are in the queue. Wikipedia lists five volumes, so Over
+  the Desert (1933) and one more are not in the queue. Queue ids MC03866, MC03867, MC03868.'
+books:
+- title: Rocket Riders Across the Ice
+  year: 1933
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781625790132-lg.jpg
+- title: Rocket Riders in Stormy Seas
+  year: 1933
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781625790149-lg.jpg
+- title: Rocket Riders in the Air
+  year: 1934
+  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781625790156-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/9/7/9781625790132-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03866, MC03867, MC03868)
+placement_history:
+- date: '2026-10-04'
+  to: rocketpunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

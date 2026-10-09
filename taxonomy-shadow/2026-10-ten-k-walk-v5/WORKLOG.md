@@ -130,3 +130,8 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Brasyl (MC03923) placed in Multiverse mirror (3), wobble moderate-high; Something More Than Night (MC03935) placed in Private-eye fantasy (8), wobble moderate.
 
 - The Tainted Realm (Vengeance, Rebellion, Justice) placed in Humble-origins quest fantasy (7), wobble moderate-high.
+
+## 2026-10-09 evening - Deco noir SF rename, Rocketpunk seed, Rocket Riders
+- Curator phonemsg-01M4GRFGMWP3E0FM5WY17DZ7XD (6:38 PM): rename Deco SF to Deco noir SF and seed Rocketpunk. Deco SF id deco-sf became deco-noir-sf (Mem, The Listener keep). New sibling leaf rocketpunk under Period SF with Rocket Riders (Garis; MC03866-68, 1933-34). Portrait A wired as 624-rocketpunk.webp (boys and inventor at a rocket sled on a frozen lake at dawn); B is /downloads/rp-b.png (rocket motorboat, small-town lakefront, biplane). He picks by bare letter; a swap gets a new number.
+- Earlier in the same run: Charming Tales and Mysterium (comic-fantasy-realms 8), The Body Snatchers (alien-infiltration-fiction 8), Andromedan Dark (alien-expedition 8), Galaxy Raiders (space-armada 8), Great Marvel Series (scientific-adventure 7), Solar Warden (alien-infiltration 7).
+- Frame-of-mind rule to codify in process.md (workshopped with the curator 6:16 to 6:21 PM): historical shelves hold books that celebrate a recognizable past period whose technology's golden age is clearly over, whether written in the era or as a retro throwback; futurist keeps everything from the space race forward, where the verdict is still out (space opera stays futurist whatever its vintage).
