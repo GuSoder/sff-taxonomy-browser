@@ -118,3 +118,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-09 Fae founders split
 - Fae founders split into Big-city fae (5) and Small-town fae (5) on the curator's approval; names coined by the curator; Thistle Down (The Pixie Chronicles) placed as the tenth. Portraits 622 and 623 (A wired; B at /downloads/bcf-b.png, stf-b.png).
+
+- The Razor (MC03998) placed in Planet expedition fiction (8), wobble moderate-high (prison-break thriller on a dying planet).
