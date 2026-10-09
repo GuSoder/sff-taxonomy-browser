@@ -34,9 +34,47 @@ books:
   first_published: 2009
 - title: The Crippled God
   first_published: 2011
+- title: Night of Knives
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/6297484-L.jpg
+- title: Return of the Crimson Guard
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6300518-L.jpg
+- title: Stonewielder
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8434660-L.jpg
+- title: Orb Sceptre Throne
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8475024-L.jpg
+- title: Blood and Bone
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/10439798-L.jpg
+- title: Assail
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/isbn/9780765329981-L.jpg
+- title: Dancer's Lament
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8672494-L.jpg
+- title: Deadhouse Landing
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/9424087-L.jpg
+- title: Kellanved's Reach
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10130484-L.jpg
+- title: Forge of the High Mage
+  year: 2024
+  cover_url: https://www.publishersweekly.com/cover/9781250788610
 placement_history:
 - date: '2026-10-06'
   reason: Split of Military fantasy by the unit of the war; re-walked root-down into Army fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
     2026-10-06 7:27 AM)).
   from: military-fantasy
   to: army-fantasy
+- date: '2026-10-09'
+  reason: 'Shared universe folded (rule 11j: one universe, one fiction): Ian C. Esslemont''s Novels of the Malazan Empire
+    (Night of Knives, Return of the Crimson Guard, Stonewielder, Orb Sceptre Throne, Blood and Bone, Assail) and the Path
+    to Ascendancy prequels (Dancer''s Lament, Deadhouse Landing, Kellanved''s Reach, Forge of the High Mage) are set in the
+    same world Esslemont co-created with Steven Erikson (Tor, Bantam; Open Library). Full root-down walk: Speculative fiction
+    > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy, the card''s leaf, where the whole-war epic
+    of the series sits. Years are first publication (Open Library); the queue shows later reissue years. The ''Malazan Empire
+    Series'' queue entry (MC03887) is a six-book omnibus and is skipped.'
