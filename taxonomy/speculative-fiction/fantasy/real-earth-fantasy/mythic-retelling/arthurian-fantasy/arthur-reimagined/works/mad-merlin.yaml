@@ -1,0 +1,36 @@
+id: mad-merlin
+title: Mad Merlin
+authors:
+- J. Robert King
+first_published: 2000
+canonical_genre: arthur-reimagined
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Mythic retelling > Arthurian fantasy
+  > Arthur reimagined. King''s trilogy retells the Arthurian legend through three off-centre figures, a mad Merlin, Lancelot
+  and Morgan le Fey in turn; Publishers Weekly describes Mad Merlin as a retelling that sets Malory against Bradley and Le
+  Morte d''Avalon as the story of Morgan, Arthur''s half-sister, lover and sworn enemy, who opposes him because of a childhood
+  vision (Publishers Weekly reviews, 2000 and 2003). The retelling itself is the argument, with the legend reshaped through
+  its outsiders. Rejected: Arthur classic (the register is not Camelot''s own mode), Arthur returned (the legend does not
+  come back to a later world). Wobble: low to moderate. One fiction, rule 11j: Mad Merlin 2000, Lancelot du Lethe 2001, Le
+  Morte d''Avalon 2003 (Publishers Weekly and Open Library).'
+books:
+- title: Mad Merlin
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/8757877-L.jpg
+- title: Lancelot du Lethe
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/523853-L.jpg
+- title: Le Morte d'Avalon
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/524168-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8757877-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04014, MC04012, MC04013)
+placement_history:
+- date: '2026-10-04'
+  to: arthur-reimagined
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
