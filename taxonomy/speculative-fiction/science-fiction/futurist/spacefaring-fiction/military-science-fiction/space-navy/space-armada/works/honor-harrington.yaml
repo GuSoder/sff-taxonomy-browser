@@ -28,7 +28,7 @@ placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futuris
 books:
 - title: On Basilisk Station
   year: 1993
-  cover_url: https://www.baen.com/media/catalog/product/0/7/0743435710-lg.jpg
+  cover_url: cover-honor-harrington.jpg
 - title: The Honor of the Queen
   year: 1993
 - title: The Short Victorious War
@@ -80,7 +80,7 @@ books:
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: https://www.baen.com/media/catalog/product/0/7/0743435710-lg.jpg
+  selected_url: cover-honor-harrington.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC02451, MC02460, MC02467, MC02426, MC02428, MC02433, MC02436, MC02423, MC02413, MC02485,
