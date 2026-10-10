@@ -182,3 +182,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Supervolcano seed
 - Seed approved (phonemsg-01M4K9EQZV2MMQ5HJVYYA9H99V): Geological catastrophe under Apocalyptic fiction, first card Supervolcano (Turtledove, 3 vols as one fiction, MC03771-73, years 2011-13 per ISFDB). Portrait 646 (ash column over a stalled highway, two people walking away; variant 2, the geyser-basin family running, judged busier and less legible). Next spec 278, next webp 647.
+
+## 2026-10-10 This Side of Judgment
+- Placed (below the gate): Dunn, This Side of Judgment (1994; queue 2012 is the Baen reissue; MC04011) into Rewired minds (9). Next spec 279, next webp 647.
