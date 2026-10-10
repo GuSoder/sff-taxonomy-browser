@@ -3,7 +3,7 @@ title: Millennium's Rule
 authors:
 - Trudi Canavan
 first_published: 2014
-canonical_genre: gateway-multiverse-fantasy
+canonical_genre: worldhopper-multiverse-fantasy
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Fantasy rifts > Multiverse fantasy > Gateway multiverse fantasy. Tyen, a sorcery student,
   and Rielle, a dye merchant''s daughter, move between linked worlds through gateways, and each crossing changes what waits
@@ -32,3 +32,8 @@ placement_history:
 - date: '2026-10-04'
   to: gateway-multiverse-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: gateway-multiverse-fantasy
+  to: worldhopper-multiverse-fantasy
+  reason: 'Split of Gateway multiverse fantasy at ten (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29). Tyen and Rielle move between
+    linked worlds through gateways: fits.'

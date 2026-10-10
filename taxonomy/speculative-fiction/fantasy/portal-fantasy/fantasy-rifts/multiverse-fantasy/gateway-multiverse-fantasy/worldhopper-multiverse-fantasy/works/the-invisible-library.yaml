@@ -3,7 +3,7 @@ title: The Invisible Library
 authors:
 - Genevieve Cogman
 first_published: 2015
-canonical_genre: gateway-multiverse-fantasy
+canonical_genre: worldhopper-multiverse-fantasy
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Portal fantasy > Fantasy rifts > Multiverse fantasy > Gateway
   multiverse fantasy. Irene is a spy for the Library, an institution outside time and space whose agents cross into alternate
@@ -50,3 +50,8 @@ placement_history:
 - date: '2026-10-04'
   to: gateway-multiverse-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: gateway-multiverse-fantasy
+  to: worldhopper-multiverse-fantasy
+  reason: 'Split of Gateway multiverse fantasy at ten (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29). The Library sends agents across
+    many realities: fits.'

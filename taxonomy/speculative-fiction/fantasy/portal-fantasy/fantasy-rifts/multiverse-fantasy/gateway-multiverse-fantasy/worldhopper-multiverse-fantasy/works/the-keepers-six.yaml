@@ -3,7 +3,7 @@ title: The Keeper's Six
 authors:
 - Kate Elliott
 first_published: 2024
-canonical_genre: gateway-multiverse-fantasy
+canonical_genre: worldhopper-multiverse-fantasy
 placement_status: accepted
 placement_rationale: A Hex of six trekkers crosses a system of realms with dragon lords to rescue a son (PW, Reactor).
 classification_sources:
@@ -23,3 +23,8 @@ placement_history:
   reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
     or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
     fantasy and Gateway multiverse fantasy), relayed by the parent.
+- date: '2026-10-10'
+  from: gateway-multiverse-fantasy
+  to: worldhopper-multiverse-fantasy
+  reason: 'Split of Gateway multiverse fantasy at ten (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29). A hex of six trekkers crosses
+    a system of realms: fits.'

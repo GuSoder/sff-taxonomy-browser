@@ -3,7 +3,7 @@ title: The Mither Mages
 authors:
 - Orson Scott Card
 first_published: 2011
-canonical_genre: gateway-multiverse-fantasy
+canonical_genre: borderland-multiverse-fantasy
 placement_status: accepted
 placement_rationale: Mages exiled from Westil to Earth; the gates between worlds are the premise and the plot.
 books:
@@ -27,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: gateway-multiverse-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: gateway-multiverse-fantasy
+  to: borderland-multiverse-fantasy
+  reason: 'Split of Gateway multiverse fantasy at ten (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29). Mages exiled from Westil to Earth,
+    gates between the two: fits.'

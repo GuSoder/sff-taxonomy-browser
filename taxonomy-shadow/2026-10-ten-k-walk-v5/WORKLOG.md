@@ -161,3 +161,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Magicians in gaslight seed
 - The Magician's Daughter (Parry, 2023; MC03621) walked to a seed under Gaslight fantasy; the intake judged it itself under the standing autonomy. Portrait 640 (variant A, a young woman holding a glowing light under a gas lamp with a raven above and a rabbit at her feet, council hall behind) judged and wired as final; variant B (council chamber) not used. Gaslight umbrella line widened to the Edwardian years through 1914. Next spec 273, next webp 641.
+
+## 2026-10-10 Gateway multiverse fantasy split
+- Deep Secret (Jones, 1997; MC02606) was the tenth card in Gateway multiverse fantasy: split with umbrella into Borderland (Landover, The Edge, The Hollow Places, The Mither Mages) and Worldhopper (Millennium's Rule, Mode, The Incomplete Enchanter, The Invisible Library, The Keeper's Six, plus Deep Secret). Portraits 641 (a bayou border with a mist wall) and 642 (a hall of doors onto many worlds), both judged and wired by the intake, no bows. Next spec 274, next webp 643.

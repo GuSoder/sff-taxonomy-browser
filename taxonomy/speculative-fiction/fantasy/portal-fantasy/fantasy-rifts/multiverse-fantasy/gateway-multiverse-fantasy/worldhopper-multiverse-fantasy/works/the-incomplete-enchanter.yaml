@@ -36,7 +36,7 @@ cover_audit:
   reviewed_on: '2026-09-21'
   reviewed_this_pass: 1
   added_this_pass: 1
-canonical_genre: gateway-multiverse-fantasy
+canonical_genre: worldhopper-multiverse-fantasy
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/portal-fantasy/multiverse-fantasy
@@ -48,5 +48,10 @@ placement_history:
   reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
     or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
     fantasy and Gateway multiverse fantasy), relayed by the parent.
+- date: '2026-10-10'
+  from: gateway-multiverse-fantasy
+  to: worldhopper-multiverse-fantasy
+  reason: 'Split of Gateway multiverse fantasy at ten (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29). Harold Shea steps into one world
+    of myth after another by symbolic logic: fits.'
 cover_curation:
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'

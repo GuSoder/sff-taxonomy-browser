@@ -3,7 +3,7 @@ title: Magic Kingdom of Landover
 authors:
 - Terry Brooks
 first_published: 1986
-canonical_genre: gateway-multiverse-fantasy
+canonical_genre: borderland-multiverse-fantasy
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Fantasy rifts > Multiverse fantasy > Gateway multiverse fantasy. A Chicago lawyer buys
   the kingdom of Landover from a catalog; the crossings between Earth and Landover (the fairy mists, the Paladin''s gate)
@@ -38,3 +38,8 @@ placement_history:
 - date: '2026-10-04'
   to: gateway-multiverse-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: gateway-multiverse-fantasy
+  to: borderland-multiverse-fantasy
+  reason: 'Split of Gateway multiverse fantasy at ten (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29). Earth and Landover, with the
+    fairy mists and the Paladin gate recurring: fits.'

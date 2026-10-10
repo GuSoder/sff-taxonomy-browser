@@ -3,7 +3,7 @@ title: The Edge
 authors:
 - Ilona Andrews
 first_published: 2009
-canonical_genre: gateway-multiverse-fantasy
+canonical_genre: borderland-multiverse-fantasy
 placement_status: accepted
 placement_rationale: 'Ilona Andrews'' Novels of the Edge (On the Edge, Bayou Moon, Fate''s Edge, Steel''s Edge): the Edge
   is a border strip between the Broken, our world where magic is a fairy tale, and the Weird, a magic realm of blueblood aristocrats
@@ -39,3 +39,8 @@ placement_history:
   reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
     or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
     fantasy and Gateway multiverse fantasy), relayed by the parent.
+- date: '2026-10-10'
+  from: gateway-multiverse-fantasy
+  to: borderland-multiverse-fantasy
+  reason: 'Split of Gateway multiverse fantasy at ten (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29). The Edge is a border strip between
+    the Broken and the Weird: the clearest fit.'
