@@ -216,3 +216,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-10 10:40 PM: Lord of the Isles (Drake, 8 queue rows folded) into Hidden heir quest fantasy (5 to 6).
 - 2026-10-10 11:00 PM: Safehold (Weber, 9 queue rows folded) into Lost colony planetary romance (6 to 7); wobble moderate to high, see yaml.
 - 2026-10-10 11:20 PM: Empire of Man (Weber and Ringo, 4 novels folded) into Space marine corps (5 to 6).
+- 2026-10-10 11:22 PM: The War God (Weber, 4 novels folded) into Paladin hero (3 to 4).

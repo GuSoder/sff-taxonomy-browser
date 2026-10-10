@@ -1,0 +1,40 @@
+id: the-war-god
+title: The War God
+authors:
+- David Weber
+first_published: 1995
+canonical_genre: paladin-hero
+placement_status: accepted
+placement_rationale: 'Source-read walk, root-down: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Heroic
+  fantasy -> Caster-heroes -> Paladin hero. David Weber''s War God series (Baen, 1995 to 2012; Wikipedia, davidweber.net):
+  Bahzell Bahnakson of the Horse Stealer hradani is the unwilling champion of Tomanak, the War God, ''the unlikely Paladin''.
+  He holds a sacred martial office and draws power from an oath to a god, which is the Paladin hero definition (martial office
+  joined to sacred or oath-bound magic) in the church sense the curator set ("a paladin is a knight of church", 2026-10-10
+  9:40 PM, rejecting Valdemar here). Tried: Warrior hero (arms are not the power; the god''s champion is), Cleric hero (he
+  is a fighter, not a healer or priest), Ranger and Beast master (no bond), Sword and sorcery (the series is epic in scope).
+  Wobble low. Four novels folded as one fiction (11j): Oath of Swords (1995), The War God''s Own (1999), Wind Rider''s Oath
+  (2004), War Maid''s Choice (2012); years are first publication (Wikipedia). The omnibus Oath of Swords and Sword Brother
+  (2007) is skipped. Jacket: Oath of Swords. War Maid''s Choice''s Open Library cover is a title page, so it carries no cover.'
+books:
+- title: Oath of Swords
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/409473-L.jpg
+- title: The War God's Own
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/409628-L.jpg
+- title: Wind Rider's Oath
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/479133-L.jpg
+- title: War Maid's Choice
+  year: 2012
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/409473-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02448, MC02473, MC02488, MC02484)
+placement_history:
+- date: '2026-10-04'
+  to: paladin-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
