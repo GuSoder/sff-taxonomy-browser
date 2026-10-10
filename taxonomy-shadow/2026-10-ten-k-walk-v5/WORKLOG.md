@@ -197,3 +197,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Lords of the Sky
 - Placed (below the gate, wobble moderate to high): Wells, Lords of the Sky (1994; queue 2010 is the ebook; MC00666) into Bard hero (3). Next spec 283, next webp 649.
+
+## 2026-10-10 The Sea Lady
+- Placed (below the gate): H. G. Wells, The Sea Lady (1902; queue 2013 is the Baen ebook; MC03632) into Nightfolk in gaslight (7). Cover is the small Baen ebook jacket. Next spec 284, next webp 649.
