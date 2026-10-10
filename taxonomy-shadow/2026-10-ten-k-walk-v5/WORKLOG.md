@@ -176,3 +176,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Space chase split
 - Approved ("Execute", phonemsg-01M4K7J43GDSDE9TJE4MGY09B6): Space chase became an umbrella with Space dash (6) and Space hunt (4). Man-Kzin Wars (Treasure Planet MC03647, Freedom MC03646 folded as one fiction) was the tenth card and landed in Space hunt. Portraits 644 (a woman sprinting down a red-lit station corridor) and 645 (a tracker and a feline alien at a star-chart trail), judged and wired by the intake, no bows. Next spec 276, next webp 646.
+
+## 2026-10-10 Yesterday's Kings
+- Placed (below the gate, no structure change): Yesterday's Kings (Wells, first published 2001; queue 2009 is the ebook reissue; MC00670) into Humble origins quest fantasy (8). Source evidence is publisher copy only. Next spec 277, next webp 646.
