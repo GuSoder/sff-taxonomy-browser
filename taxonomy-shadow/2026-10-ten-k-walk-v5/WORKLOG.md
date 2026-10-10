@@ -194,3 +194,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 The Guardian
 - Placed (below the gate): Wells, The Guardian (1998; queue 2009 is the ebook reissue; MC00667) into Hidden heir quest fantasy (5). Wobble moderate (guardian viewpoint). Next spec 282, next webp 649.
+
+## 2026-10-10 Lords of the Sky
+- Placed (below the gate, wobble moderate to high): Wells, Lords of the Sky (1994; queue 2010 is the ebook; MC00666) into Bard hero (3). Next spec 283, next webp 649.
