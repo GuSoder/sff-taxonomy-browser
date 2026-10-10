@@ -1,19 +1,19 @@
 id: found-magic
 name: Found magic
-definition: Magical coming-of-age in which the magic is stumbled into rather than taught or inherited - an artifact, an erupting talent, a coven joined - and is developed
-  informally with friends.
+definition: 'Magical coming-of-age in which the magic is stumbled into rather than taught or inherited. Umbrella since 2026-10-10,
+  partitioned by what the magic is found in: Attic talismans (a thing or place carries it in) and Awoken powers (the power
+  wakes in the person).'
 parent: magical-coming-of-age
 label: Found magic
-children: []
+children:
+- attic-talismans
+- awoken-powers
 image: 393-found-magic.webp
-status: provisional
-works:
-- all-our-hidden-gifts
-- the-scapegracers
-- bitter
-- spell-bound
-- night-swimming
-- all-the-birds-in-the-sky
-- bedlam-boyz
-- sarah-beauhall
-- the-inkwell-chronicles
+status: umbrella
+works: []
+ruling: 'Split approved by the curator ("Approved", phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7, 2026-10-10 7:56 PM CEST) after a
+  naming workshop (7:38-7:56 PM). Axis: what the magic is found in, a thing or place (Attic talismans) or the person (Awoken
+  powers). Lucid arrived as the tenth card in Attic talismans.'
+history:
+- date: '2026-10-10'
+  change: Split with umbrella at ten fictions into Attic talismans and Awoken powers; curator "Approved" (phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7).

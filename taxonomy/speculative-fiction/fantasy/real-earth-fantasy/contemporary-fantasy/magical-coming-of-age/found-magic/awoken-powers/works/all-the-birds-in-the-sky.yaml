@@ -3,7 +3,7 @@ title: All the Birds in the Sky
 authors:
 - Charlie Jane Anders
 first_published: 2016
-canonical_genre: found-magic
+canonical_genre: awoken-powers
 placement_status: accepted
 placement_rationale: 'Charlie Jane Anders''s 2016 novel follows Patricia, a girl who finds she can talk to birds, and Laurence,
   a boy engineering prodigy, from childhood to a near-future San Francisco on the edge of catastrophe (Tor, publisher page).
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: found-magic
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: found-magic
+  to: awoken-powers
+  reason: 'Split of Found magic at ten (phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7). Patricia finds she can talk to birds: a talent
+    that wakes in her.'

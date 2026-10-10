@@ -200,3 +200,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 The Sea Lady
 - Placed (below the gate): H. G. Wells, The Sea Lady (1902; queue 2013 is the Baen ebook; MC03632) into Nightfolk in gaslight (7). Cover is the small Baen ebook jacket. Next spec 284, next webp 649.
+
+## 2026-10-10 Found magic split
+- Split approved (phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7): Found magic became an umbrella over Attic talismans (6, portrait 649, with Lucid) and Awoken powers (4, portrait 650). Next spec 285, next webp 651.

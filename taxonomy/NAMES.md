@@ -137,3 +137,17 @@ Graveyard, with reasons:
 - Hightail: good candidate; vivid, flows after Space; passed over for Dash.
 - Bail: "the sound of it, just not the right meaning".
 - Lam, Hegira (nobody knows it on sight), Breakaway (reads as secession), Sail (solar sails), Runaway (teen romance), Fugitive and Space trackers (no pattern).
+
+## Attic talismans / Awoken powers (2026-10-10)
+Split of Found magic at ten for Lucid, approved ("Approved", phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7, 7:56 PM) after a naming workshop (7:38-7:56 PM). Axis: what the magic is found in, a thing or place (Attic talismans) or the person (Awoken powers). His own naming rules from the workshop: the subgenres need three words to carry the context he requires, but "found" makes three words sound boring; he wanted a single word for a magic charm (talisman) and a punchy adjective, and he put the plural in himself ("a common thing to find a talisman in the attic", phonemsg-01M4KFB2TRMCWFAQ53MASM4XTB). Graveyard, with reasons:
+- Found charm / Found talent (my first pair): "found" is boring next to three-word names; talent needs magic in front.
+- Found magic charm / Found magic talent (his "squeeze in magic in the middle", 7:38 PM): reads as a stack; he moved to a verb for each side.
+- Aladdin's lamp / Alladinian fantasy, Lamp: names a setting and an eponym, not the act of finding.
+- Picked up talismans / Picked up powers: game-register loot language.
+- Talisman discoveries / Power discoveries: plural events, reads as a headline.
+- Found talisman / Found gift: Gift echoes Mageblood's handed-down gift.
+- Unearthed magic talisman / Awakened magic talent and Unearthed talisman: tongue-wrestler.
+- Forgotten talisman ("you clearly don't know what it is like to have a mouth, also forgotten is not found"), Newfound talisman ("No, not newfound"), Trove talisman ("good length, bad associations"), Windfall talisman.
+- The 20-list (Uncovered, Discovered, Dug-up, Surfaced, Recovered, Salvaged, Chanced, Stumbled, Stray, Castaway, Wayward, Orphan, Foundling, Flotsam, Drift, Plucked, Serendipity, Hidden, Waiting): none chosen; Attic was picked.
+- Awakened powers: his own word, reshaped to Awoken powers.
+Weakest cards, flagged in the yamls: Night Swimming (a found place, not an object), All Our Hidden Gifts and The Scapegracers (straddle talismans and powers).
