@@ -191,3 +191,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 The Exiles Saga
 - Placed (below the gate, wobble high): Wells, The Exiles Saga (1995-96; queue 2010/2012 reissues; MC00664-65) into Humble origins quest fantasy (9). Finding: Evergreen (to late 1980s) and Revival (from late 1990s) quest fantasy leave a 1990-97 gap. Next spec 281, next webp 649.
+
+## 2026-10-10 The Guardian
+- Placed (below the gate): Wells, The Guardian (1998; queue 2009 is the ebook reissue; MC00667) into Hidden heir quest fantasy (5). Wobble moderate (guardian viewpoint). Next spec 282, next webp 649.
