@@ -152,3 +152,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Duty bond romantasy portrait final: E (the wall), curator "E then" 2026-10-10 2:45 PM, wired as 635-duty-bond-romantasy.webp (replaces provisional B 634). Bonded split closed: Soul A, Bargain A, Duty E.
 - Romantasy umbrella portrait regenerated without bow (curator pick A, 2026-10-10 3:09 PM): 636-romantasy.webp replaces 377 (live had a bow and quiver the generator drew badly).
 - Duty bond romantasy portrait final: Soldiers A (curator "A", 2026-10-10 3:17 PM) wired as 637-duty-bond-romantasy.webp, replacing 635. Standing no-bows rule written into process.md (portrait generation checklist). Bonded romantasy portrait set complete: umbrella A (636), Soul A, Bargain A, Duty Soldiers A.
+
+## 2026-10-10 Hard genetic SF seed
+- Life (Jones, 2004; MC03612) walked to a seed. The curator rejected a Modern-day seed and ruled "under genetic engineering ... seed Hard genetic SF" (phonemsg-01M4K3QM6QBTV6WE00Z5TBB1ZM). Seeded Hard genetic SF with Life; portrait 638 is variant A provisional, B at /downloads/hgsf-b.png. Next spec 272, next webp 639.

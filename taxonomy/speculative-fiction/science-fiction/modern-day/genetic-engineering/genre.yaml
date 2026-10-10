@@ -4,13 +4,16 @@ parent: modern-day
 children:
 - cloning-fiction
 - genetic-caste-fiction
+- hard-genetic-sf
 image: 110-genetic-engineering.webp
 definition: 'Science fiction in which deliberate manipulation, reconstruction, or design of genes and living organisms drives
   the premise (SFE Genetic Engineering). Pure umbrella since 2026-10-08, partitioned by what the gene work makes: Cloning
-  fiction (copies) and Genetic caste fiction (designed kinds of people).'
+  fiction (copies), Genetic caste fiction (designed kinds of people) and Hard genetic SF (the genetic science itself, as research).'
 status: umbrella
 works: []
 history:
 - date: '2026-10-08'
   change: Split with umbrella at ten into Cloning fiction (5) and Genetic caste fiction (4, plus The Eyes of Heisenberg placed
     next); curator "Execute" (phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ).
+- date: '2026-10-10'
+  change: Seeded Hard genetic SF under it for Life (phonemsg-01M4K3QM6QBTV6WE00Z5TBB1ZM).
