@@ -203,3 +203,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Found magic split
 - Split approved (phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7): Found magic became an umbrella over Attic talismans (6, portrait 649, with Lucid) and Awoken powers (4, portrait 650). Next spec 285, next webp 651.
+
+- Rumblewick's Diary (MC03834-37, Hiawyn Oram): skipped. Illustrated early-reader series for ages 5-8 (Orchard Books, illustrated by Sarah Warburton), picture-book scope, same rule as other picture books. Not placed.
