@@ -1,0 +1,61 @@
+id: the-rcn
+title: The RCN
+authors:
+- David Drake
+first_published: 1998
+canonical_genre: space-corvette
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
+  fiction > Space navy > Space corvette (6, now 7). David Drake''s RCN series (Republic of Cinnabar Navy; the Leary and Mundy
+  novels, 13 stand-alone novels in one setting, folded as one fiction under rule 11j; MC02309 is the second edition of With
+  the Lightnings and folds into MC02308). Daniel Leary, a young Cinnabar naval officer, and Adele Mundy, a librarian and spy,
+  run a single captured ship (later the Princess Cecile) and her small crew on diplomatic and treasure-hunting errands at
+  the edge of a long cold war, starting with Leary''s escape from a coup on Kostroma in With the Lightnings (Wikipedia https://en.wikipedia.org/wiki/RCN_series
+  gives the thirteen novels and their summaries; Baen https://www.baen.com/categories/books-by-series-list/lt-leary-rcn-series-by-david-drake.html).
+  Space navy children: Space corvette (the one small ship and her crew out on their own, whatever the mandate: the ship and
+  its people, not the fleet, are the story) fits exactly. Space armada fails (no fleets or admirals; at 9 anyway), Space command
+  (campaigns from the top), Space academy (not a school), Ground-pounders (not the infantry; Drake''s Hammer''s Slammers is
+  a different series). Years: Wikipedia RCN Series table (first-novel year 1998, thirteenth 2019). The queue shows 2007 for
+  When the Tide Rises (Wikipedia 2008), 2018 for To Clear Away the Shadows (Wikipedia 2019), and second-edition years (2013)
+  for With the Lightnings; the queue years are mostly reissues. Not checked against ISFDB for each volume. Cover: the Baen
+  ebook jacket of With the Lightnings, hosted locally (cover-rcn-lightnings.jpg). Wobble: low.'
+books:
+- title: With the Lightnings
+  year: 1998
+  cover_url: cover-rcn-lightnings.jpg
+- title: Lt. Leary, Commanding
+  year: 2000
+- title: The Far Side of the Stars
+  year: 2003
+- title: The Way to Glory
+  year: 2005
+- title: Some Golden Harbor
+  year: 2006
+- title: When the Tide Rises
+  year: 2008
+- title: In the Stormy Red Sky
+  year: 2009
+- title: What Distant Deeps
+  year: 2010
+- title: The Road of Danger
+  year: 2012
+- title: The Sea Without a Shore
+  year: 2014
+- title: Death's Bright Day
+  year: 2016
+- title: Though Hell Should Bar the Way
+  year: 2018
+- title: To Clear Away the Shadows
+  year: 2019
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-rcn-lightnings.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02308, MC02259, MC02280, MC02299, MC02276, MC02307, MC02254, MC02306, MC02290, MC02292,
+  MC02245, MC02301, MC02302)
+placement_history:
+- date: '2026-10-04'
+  to: space-corvette
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
