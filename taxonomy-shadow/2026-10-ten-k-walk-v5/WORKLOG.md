@@ -213,3 +213,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-10 9:58 PM: The Soulbound Saga (Matharu, 2 volumes) folded into Beast master hero. Temeraire omnibus row MC07302 is covered by the existing Temeraire fiction in Alt flintlock fantasy (Real-earth), no move.
 - 2026-10-10 10:00 PM: Beast master hero portrait redone on the curator's veto of the white-horse image (652): rider on a giant raptor, portrait 654.
 - 2026-10-10 10:20 PM: The Twelve Houses (Shinn, 5 novels folded) into Dynastic spy games (4 to 5). Reader and Raelynx is a novel, the pass-1 skip-collection verdict was wrong.
+- 2026-10-10 10:40 PM: Lord of the Isles (Drake, 8 queue rows folded) into Hidden heir quest fantasy (5 to 6).
