@@ -141,3 +141,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Alien message split
 - Alien message split into Alien signals (6: Contact, Remembrance of Earth's Past, Second Contact, Conquest, Chocky, The Hercules Text) and Alien tokens (5: Roadside Picnic, The Forge of Mars, Juniper Time, In Ascension, Ancient Shores/Thunderbird) on the curator's "Execute" (phonemsg-01M4JP972PNDJFGEW5WS1N31P1). Portraits 626 and 627 are variant A; B at /downloads/sig-b.png, tok-b.png.
+- Portrait picks (curator, 1:00 PM "BA"): Alien signals B (listening station) now 628-alien-signals.webp; Alien tokens A (buried object) stays 627-alien-tokens.webp.
