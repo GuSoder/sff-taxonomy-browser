@@ -4,6 +4,7 @@ parent: modern-day
 children:
 - alien-conquest-fiction
 - alien-infiltration-fiction
+- alien-extraction
 image: 4-alien-invasion-fiction.webp
 definition: 'Science fiction centered on extraterrestrial forces attacking, occupying, colonizing, or attempting to conquer
   Earth or another human world. Umbrella split at ten cards by how the invaders take the world: Alien conquest fiction (openly,
@@ -11,3 +12,6 @@ definition: 'Science fiction centered on extraterrestrial forces attacking, occu
   Alien conquest fiction and Alien infiltration fiction), relayed by the parent.'
 status: accepted
 works: []
+history:
+- date: '2026-10-10'
+  change: Seeded Alien extraction under it for Narabedla, Ltd.

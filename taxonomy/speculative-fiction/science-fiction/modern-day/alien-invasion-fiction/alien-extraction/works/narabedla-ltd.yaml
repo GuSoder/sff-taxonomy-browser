@@ -1,0 +1,33 @@
+id: narabedla-ltd
+title: Narabedla, Ltd.
+authors:
+- Frederik Pohl
+first_published: 1988
+canonical_genre: alien-extraction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Alien invasion fiction > Alien extraction
+  (seeded for this book; curator "Approved", phonemsg-01M4KJSXF1ZCF3N1KNRMKVFW3B, 2026-10-10 8:56 PM CEST, on the intake''s
+  Approve seed? question). Frederik Pohl, Narabedla Ltd. (Del Rey/Ballantine, 1988; ISFDB pub 23404 dates it Sept 1988; the
+  queue''s 2011 is the Baen ebook reissue, MC03207): Nolly Stennis, a baritone whose voice was ruined by illness, is recruited
+  into a troupe of gifted performers run by Narabedla Ltd., an alien-owned entertainment firm that lures the best human talent
+  off Earth to perform for alien audiences (Baen https://www.baen.com/narabedla-ltd.html; Wikipedia https://en.wikipedia.org/wiki/Narabedla_Ltd.;
+  ISFDB https://www.isfdb.org/cgi-bin/pl.cgi?23404=). Walk: Fantasy rejected (SF premise). Modern day (near-present Earth)
+  over Futurist or Atemporal. Alien invasion fiction: Alien conquest (9, open force) fails, nothing is occupied; Alien infiltration
+  (8, from within) fails, nobody is replaced and no one is taking over. First contact > Alien arrival fails, the aliens are
+  already at work and the book is not about the meeting. Hence the seed. Cover is the real Del Rey paperback jacket. Wobble:
+  low for the leaf, since the aliens extract people and talent, not worlds; sources are publisher copy and Wikipedia.'
+books:
+- title: Narabedla, Ltd.
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/6796291-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6796291-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03207)
+placement_history:
+- date: '2026-10-04'
+  to: alien-extraction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
