@@ -118,3 +118,6 @@ Seeded by the intake's own judgment under the curator's autonomy (phonemsg-01M4K
 
 ## Borderland / Worldhopper multiverse fantasy (2026-10-10)
 Split of Gateway multiverse fantasy at ten, on the intake's own judgment (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29, phonemsg-01M4K45A5DFAAFXQS8P7XSPGT3). Axis: a home ground with a standing border (Borderland, after the established Windling term for fantasy on the edge between our world and the other) versus a cast ranging across the realms (Worldhopper, the fan word for the trade). Both keep the branch word multiverse. Graveyard: Threshold multiverse fantasy (too close to Gateway), Wayfarer multiverse fantasy, Anchored/Roaming. He may rename either at any time.
+
+## Tournament fantasy (2026-10-10)
+Seeded by the intake's own judgment (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29, phonemsg-01M4K45A5DFAAFXQS8P7XSPGT3) under Epic fantasy for The Wild Huntress, a formal contest with rules, rivals and a prize. Named for the established trope word; the Hunger Games shape in an invented world. Graveyard: Wild Hunt fantasy (names one book's rite), Games fantasy (reads as video games), Contest fantasy (flat). He may rename it at any time.

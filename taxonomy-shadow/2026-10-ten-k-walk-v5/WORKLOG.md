@@ -164,3 +164,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Gateway multiverse fantasy split
 - Deep Secret (Jones, 1997; MC02606) was the tenth card in Gateway multiverse fantasy: split with umbrella into Borderland (Landover, The Edge, The Hollow Places, The Mither Mages) and Worldhopper (Millennium's Rule, Mode, The Incomplete Enchanter, The Invisible Library, The Keeper's Six, plus Deep Secret). Portraits 641 (a bayou border with a mist wall) and 642 (a hall of doors onto many worlds), both judged and wired by the intake, no bows. Next spec 274, next webp 643.
+
+## 2026-10-10 Tournament fantasy seed
+- The Wild Huntress (Lloyd-Jones, 2024; MC02928) had no honest leaf: Fairytalesque quest (9) was the runner-up but the book is a contest, not a journey. Seeded Tournament fantasy under Epic fantasy; portrait 643 (three competitors at the hunt's edge, antlered fae king in the mist) judged and wired by the intake, no bows. Next spec 275, next webp 644.
