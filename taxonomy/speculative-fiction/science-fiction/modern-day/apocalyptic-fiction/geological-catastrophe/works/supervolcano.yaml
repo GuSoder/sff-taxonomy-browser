@@ -1,0 +1,38 @@
+id: supervolcano
+title: Supervolcano
+authors:
+- Harry Turtledove
+first_published: 2011
+canonical_genre: geological-catastrophe
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > Apocalyptic fiction > Geological catastrophe
+  (seeded for this book on the curator''s "Approved", phonemsg-01M4K9EQZV2MMQ5HJVYYA9H99V, 2026-10-10 6:13 PM CEST). Harry
+  Turtledove, Supervolcano: Eruption (Ace/Roc, 2011-12-06), All Fall Down (2012) and Things Fall Apart (2013): one shared
+  universe is one fiction (rule 11j), folded into the first volume. Colin Ferguson, a divorced California police lieutenant,
+  meets a seismologist at Yellowstone, the caldera erupts and his scattered family crosses an ash-covered America; volume
+  2 is no farming, dead machinery and a cooling climate, volume 3 a continent living on dwindling pre-eruption stock (Kirkus
+  https://www.kirkusreviews.com/book-reviews/harry-turtledove/supervolcano-eruption/; PW https://www.publishersweekly.com/9780451464200;
+  PRH https://www.penguinrandomhouse.com/books/308417/supervolcano-all-fall-down-by-harry-turtledove/ and https://www.penguinrandomhouse.com/books/469656/supervolcano-things-fall-apart-by-harry-turtledove/;
+  ISFDB https://www.isfdb.org/cgi-bin/pe.cgi?31872=). Rejected: Pandemic and its leaves (no plague), Unknown catastrophe (cause
+  named), Cosmic catastrophe (the disaster rises from the ground), Chemical catastrophe, Climate catastrophe (runner-up: the
+  leaf splits by the element that turns; the ash winter is a consequence, the cause is the ground). Reviewed years: the queue
+  years 2012/2013/2014 are later paperback dates; ISFDB first publication 2011, 2012, 2013.'
+books:
+- title: 'Supervolcano: Eruption'
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/10264955-L.jpg
+- title: 'Supervolcano: All Fall Down'
+  year: 2012
+- title: 'Supervolcano: Things Fall Apart'
+  year: 2013
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10264955-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03772, MC03771, MC03773)
+placement_history:
+- date: '2026-10-04'
+  to: geological-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

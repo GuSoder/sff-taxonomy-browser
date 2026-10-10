@@ -179,3 +179,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Yesterday's Kings
 - Placed (below the gate, no structure change): Yesterday's Kings (Wells, first published 2001; queue 2009 is the ebook reissue; MC00670) into Humble origins quest fantasy (8). Source evidence is publisher copy only. Next spec 277, next webp 646.
+
+## 2026-10-10 Supervolcano seed
+- Seed approved (phonemsg-01M4K9EQZV2MMQ5HJVYYA9H99V): Geological catastrophe under Apocalyptic fiction, first card Supervolcano (Turtledove, 3 vols as one fiction, MC03771-73, years 2011-13 per ISFDB). Portrait 646 (ash column over a stalled highway, two people walking away; variant 2, the geyser-basin family running, judged busier and less legible). Next spec 278, next webp 647.
