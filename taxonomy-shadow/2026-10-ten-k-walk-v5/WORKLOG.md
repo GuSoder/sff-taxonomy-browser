@@ -156,3 +156,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 ## 2026-10-10 Hard genetic SF seed
 - Life (Jones, 2004; MC03612) walked to a seed. The curator rejected a Modern-day seed and ruled "under genetic engineering ... seed Hard genetic SF" (phonemsg-01M4K3QM6QBTV6WE00Z5TBB1ZM). Seeded Hard genetic SF with Life; portrait 638 is variant A provisional, B at /downloads/hgsf-b.png. Next spec 272, next webp 639.
 - Hard genetic SF portrait: curator picked B ("B", 2026-10-10 4:38 PM); wired as 639-hard-genetic-sf.webp, replacing provisional A (638). Next spec 272, next webp 640.
+- Rule change (curator 2026-10-10 4:39 PM, phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29): seeds and splits are judged and executed by the intake and reported with a link; brand-new umbrellas and portrait letters still go to him. Recorded in process.md.
