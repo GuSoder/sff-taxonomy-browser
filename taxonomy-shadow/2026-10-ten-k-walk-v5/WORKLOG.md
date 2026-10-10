@@ -167,3 +167,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Tournament fantasy seed
 - The Wild Huntress (Lloyd-Jones, 2024; MC02928) had no honest leaf: Fairytalesque quest (9) was the runner-up but the book is a contest, not a journey. Seeded Tournament fantasy under Epic fantasy; portrait 643 (three competitors at the hunt's edge, antlered fae king in the mist) judged and wired by the intake, no bows. Next spec 275, next webp 644.
+
+## 2026-10-10 5:02 PM scope correction
+- Curator phonemsg-01M4K5CVG8CJGKKXHJ26KSAMWK: the earlier full-autonomy reading is withdrawn. We judge portrait variants and wire finals; he decides every seed, split and umbrella through textual approve questions. Magicians in gaslight and the Gateway split stand. He vetoed Tournament fantasy ("too niche to sit directly under Epic fantasy") and asked for a better seed suggestion; the leaf stays live until he approves a move. All intake on hold except this rework. Next spec 275, next webp 644.
