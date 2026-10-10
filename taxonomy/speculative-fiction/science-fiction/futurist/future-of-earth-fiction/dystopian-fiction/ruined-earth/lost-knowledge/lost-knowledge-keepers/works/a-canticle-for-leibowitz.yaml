@@ -3,7 +3,7 @@ title: A Canticle for Leibowitz
 authors:
 - Walter M. Miller Jr.
 first_published: 1959
-canonical_genre: lost-knowledge
+canonical_genre: lost-knowledge-keepers
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -16,5 +16,10 @@ cover_curation:
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
 placement_history:
 - date: '2026-09-23'
-  change: 'Ruined Earth split (the curator approved 2026-09-23 07:13): moved to Lost Knowledge. Walk: Speculative fiction -> Science fiction -> Futurist -> Future
-    of Earth fiction -> Dystopian Futures -> Ruined Earth -> Lost Knowledge'
+  change: 'Ruined Earth split (the curator approved 2026-09-23 07:13): moved to Lost Knowledge. Walk: Speculative fiction
+    -> Science fiction -> Futurist -> Future of Earth fiction -> Dystopian Futures -> Ruined Earth -> Lost Knowledge'
+- date: '2026-10-10'
+  from: lost-knowledge
+  to: lost-knowledge-keepers
+  reason: 'Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). A monastic order guards the surviving books
+    across the centuries: the clearest fit.'

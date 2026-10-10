@@ -3,7 +3,7 @@ title: Beyond the Burn Line
 authors:
 - Paul McAuley
 first_published: 2022
-canonical_genre: lost-knowledge
+canonical_genre: lost-knowledge-quest
 placement_status: accepted
 placement_rationale: Post-Anthropocene successor people seek out the fallen human civilization's maps, relics and feared knowledge.
 classification_sources:
@@ -16,3 +16,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/isbn/9781399603713-L.jpg
   visually_reviewed_on: '2026-09-25'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-10'
+  from: lost-knowledge
+  to: lost-knowledge-quest
+  reason: 'Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). Post-Anthropocene people seek the fallen
+    civilization''s maps, relics and feared knowledge: fits.'

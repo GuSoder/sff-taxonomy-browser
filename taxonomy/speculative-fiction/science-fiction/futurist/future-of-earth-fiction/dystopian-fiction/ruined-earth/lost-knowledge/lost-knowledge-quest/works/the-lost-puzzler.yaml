@@ -3,7 +3,7 @@ title: The Lost Puzzler
 authors:
 - Eyal Kless
 first_published: 2019
-canonical_genre: lost-knowledge
+canonical_genre: lost-knowledge-quest
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian fiction
   > Ruined Earth > Lost knowledge. Per Publishers Weekly: guilds of Salvationists raid the buried high-tech treasures of the
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: lost-knowledge
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: lost-knowledge
+  to: lost-knowledge-quest
+  reason: 'Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). A delve into a ruined city for lost technology:
+    fits.'

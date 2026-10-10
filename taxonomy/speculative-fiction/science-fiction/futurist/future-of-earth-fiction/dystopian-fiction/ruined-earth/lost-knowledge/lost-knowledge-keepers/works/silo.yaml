@@ -3,7 +3,7 @@ title: Silo
 authors:
 - Hugh Howey
 first_published: 2011
-canonical_genre: lost-knowledge
+canonical_genre: lost-knowledge-keepers
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -22,9 +22,14 @@ cover_curation:
   audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit.
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/dystopian-fiction/ruined-earth to match live tree; placement
-    unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/dystopian-fiction/ruined-earth
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: ruined-earth
 - date: '2026-09-23'
-  change: 'Ruined Earth split (the curator approved 2026-09-23 07:13): moved to Lost Knowledge. Walk: Speculative fiction -> Science fiction -> Futurist -> Future
-    of Earth fiction -> Dystopian Futures -> Ruined Earth -> Lost Knowledge'
+  change: 'Ruined Earth split (the curator approved 2026-09-23 07:13): moved to Lost Knowledge. Walk: Speculative fiction
+    -> Science fiction -> Futurist -> Future of Earth fiction -> Dystopian Futures -> Ruined Earth -> Lost Knowledge'
+- date: '2026-10-10'
+  from: lost-knowledge
+  to: lost-knowledge-keepers
+  reason: 'Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). A sealed society that controls what is known:
+    fits.'

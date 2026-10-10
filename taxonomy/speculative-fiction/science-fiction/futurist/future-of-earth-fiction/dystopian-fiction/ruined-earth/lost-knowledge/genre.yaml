@@ -1,18 +1,18 @@
 id: lost-knowledge
 label: Lost knowledge
 parent: ruined-earth
-children: []
-works:
-- a-canticle-for-leibowitz
-- the-long-tomorrow
-- riddley-walker
-- silo
-- the-rampart-trilogy
-- archivist-wasp-saga
-- a-stranger-in-the-citadel
-- beyond-the-burn-line
-- the-lost-puzzler
+children:
+- lost-knowledge-quest
+- lost-knowledge-keepers
+works: []
 image: 287-lost-knowledge.webp
-definition: 'Ruined Earth tales where successor societies guard, rediscover or fear the fallen civilization’s knowledge and technology: archives, enclaves, relic
-  science and its dangerous return.'
-status: accepted
+definition: 'Ruined Earth tales where successor societies guard, rediscover or fear the fallen civilization''s knowledge and
+  technology. Umbrella since 2026-10-10, partitioned by what the society does with the knowledge: Lost knowledge quest (set
+  out to recover it) and Lost knowledge keepers (live with it: guarding, controlling, fearing or half-remembering it).'
+status: umbrella
+ruling: 'Split approved by the curator ("Approved", phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8, 2026-10-10 6:33 PM CEST) on the "Approve
+  split?" question. Axis: what the successor society does with the fallen knowledge, recover it (quest) or live with it (keepers).
+  Eternity Road arrived as the tenth card in Lost knowledge quest.'
+history:
+- date: '2026-10-10'
+  change: Split with umbrella at ten fictions into Lost knowledge quest and Lost knowledge keepers; curator "Approved" (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8).

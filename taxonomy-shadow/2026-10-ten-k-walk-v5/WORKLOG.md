@@ -185,3 +185,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 This Side of Judgment
 - Placed (below the gate): Dunn, This Side of Judgment (1994; queue 2012 is the Baen reissue; MC04011) into Rewired minds (9). Next spec 279, next webp 647.
+
+## 2026-10-10 Lost knowledge split
+- Split approved (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8): Lost knowledge became an umbrella over Lost knowledge quest (5, portrait 647, with Eternity Road) and Lost knowledge keepers (5, portrait 648). Wobbles: Archivist Wasp, Riddley Walker. Next spec 280, next webp 649.

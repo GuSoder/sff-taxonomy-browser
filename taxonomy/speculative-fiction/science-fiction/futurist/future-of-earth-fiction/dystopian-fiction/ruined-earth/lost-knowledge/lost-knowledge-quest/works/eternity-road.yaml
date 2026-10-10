@@ -1,0 +1,31 @@
+id: eternity-road
+title: Eternity Road
+authors:
+- Jack McDevitt
+first_published: 1997
+canonical_genre: lost-knowledge-quest
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian fiction
+  > Ruined Earth > Lost knowledge > Lost knowledge quest (Lost knowledge split at ten on the curator''s "Approved", phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8,
+  2026-10-10 6:33 PM CEST; Eternity Road arrived as the tenth card). Jack McDevitt, Eternity Road (1997, Kirkus release date
+  1 May 1997; the queue gives no year): 1,700 years after a plague, the republic of Illyria sends expeditions after Haven,
+  the legendary repository of Roadmaker knowledge; Chaka, whose brother never returned, sets out with a band after a Roadmaker
+  book (Kirkus https://www.kirkusreviews.com/book-reviews/jack-mcdevitt/eternity-road/; Wikipedia https://en.wikipedia.org/wiki/Eternity_Road_(novel);
+  Apple Books https://books.apple.com/ca/book/eternity-road/id360609469). The expedition to recover the knowledge is the spine,
+  so quest, not keepers. Rejected: Post-holocaust survival (the plague is ancient history and the object is the knowledge),
+  Lost knowledge keepers (the society does not live with the knowledge, it sets out for it). Wobble: low.'
+books:
+- title: Eternity Road
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/43983-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/43983-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04078)
+placement_history:
+- date: '2026-10-04'
+  to: lost-knowledge-quest
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

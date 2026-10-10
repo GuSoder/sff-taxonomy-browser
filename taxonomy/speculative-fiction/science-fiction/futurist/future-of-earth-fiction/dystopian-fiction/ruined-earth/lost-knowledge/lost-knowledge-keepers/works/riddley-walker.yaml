@@ -1,0 +1,25 @@
+id: riddley-walker
+title: Riddley Walker
+authors:
+- Russell Hoban
+first_published: 1980
+canonical_genre: lost-knowledge-keepers
+placement_status: accepted
+placement_rationale: ''
+books:
+- title: Riddley Walker
+  year: 1980
+  cover_url: https://covers.openlibrary.org/b/id/8435360-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/8435360-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-23'
+  change: 'Ruined Earth split (the curator approved 2026-09-23 07:13): moved to Lost Knowledge. Walk: Speculative fiction
+    -> Science fiction -> Futurist -> Future of Earth fiction -> Dystopian Futures -> Ruined Earth -> Lost Knowledge'
+- date: '2026-10-10'
+  from: lost-knowledge
+  to: lost-knowledge-keepers
+  reason: Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). A society half-remembering the lost science
+    as myth; it has a journey, but the spine is the corrupted memory.

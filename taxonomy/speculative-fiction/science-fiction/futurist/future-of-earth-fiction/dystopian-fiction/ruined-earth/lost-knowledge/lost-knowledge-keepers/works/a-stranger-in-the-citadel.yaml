@@ -3,10 +3,10 @@ title: A Stranger in the Citadel
 authors:
 - Tobias S. Buckell
 first_published: 2023
-canonical_genre: lost-knowledge
+canonical_genre: lost-knowledge-keepers
 placement_status: accepted
-placement_rationale: A young lord turned fugitive librarian in a world where books are forbidden ('You shall not suffer a librarian to live'); suppressed knowledge
-  is the treasure.
+placement_rationale: A young lord turned fugitive librarian in a world where books are forbidden ('You shall not suffer a
+  librarian to live'); suppressed knowledge is the treasure.
 classification_sources:
 - https://locusmag.com/review/gary-k-wolfe-reviews-a-stranger-in-the-citadel-by-tobias-s-buckell/
 intake: 'gap-2022 awards tier #11 (LocusRec2023-SF)'
@@ -16,3 +16,9 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/isbn/9781616963989-L.jpg
   visually_reviewed_on: '2026-09-24'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-10'
+  from: lost-knowledge
+  to: lost-knowledge-keepers
+  reason: 'Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). A fugitive librarian where books are forbidden:
+    knowledge kept and suppressed at home.'
