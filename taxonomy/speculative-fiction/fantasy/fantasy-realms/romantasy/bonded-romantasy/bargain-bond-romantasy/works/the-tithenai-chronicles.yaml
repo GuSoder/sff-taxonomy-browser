@@ -3,7 +3,7 @@ title: The Tithenai Chronicles
 authors:
 - Foz Meadows
 first_published: 2022
-canonical_genre: bonded-romantasy
+canonical_genre: bargain-bond-romantasy
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Romantasy > Bonded romantasy. One duology
   in one world (The Tithenai Chronicles, Tor; ISFDB series number 2 for All the Hidden Paths), so one fiction (rule 11j).
@@ -32,3 +32,7 @@ placement_history:
 - date: '2026-10-04'
   to: bonded-romantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: bonded-romantasy
+  to: bargain-bond-romantasy
+  reason: 'Split of Bonded romantasy at nine (phonemsg-01M4JVFKVP6929HEPJNZ02H5BR). Forced diplomatic marriage: fits.'

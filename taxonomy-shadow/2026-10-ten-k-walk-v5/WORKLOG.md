@@ -145,3 +145,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Celtic umbrella and Gaulish seed
 - Modern Celtic myth umbrella created under Contemporary mythic fantasy; Modern Albion myth (7) moved in unchanged; Modern Gaulish myth seeded with Ysabel (MC03607) on the curator's "Execute" (phonemsg-01M4JS149E5JX87808WVW8DGAJ). Portraits A wired provisionally (629 Celtic, 630 Gaulish); B at /downloads/cel-b.png, gau-b.png.
+
+## 2026-10-10 Bonded romantasy split
+- Bonded romantasy split into Soul bond romantasy (3), Bargain bond romantasy (5, with The Wilderwood Duology) and Duty bond romantasy (3, with Idolfire) on the curator's "Execute" (phonemsg-01M4JVFKVP6929HEPJNZ02H5BR). Portraits 631-633 are variant A; B at /downloads/soul-b.png, barg-b.png, duty-b.png.

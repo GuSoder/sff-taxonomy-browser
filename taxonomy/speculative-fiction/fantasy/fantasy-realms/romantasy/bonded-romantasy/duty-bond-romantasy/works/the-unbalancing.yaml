@@ -3,7 +3,7 @@ title: The Unbalancing
 authors:
 - R. B. Lemberg
 first_published: 2022
-canonical_genre: bonded-romantasy
+canonical_genre: duty-bond-romantasy
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy -> Fantasy realms -> Romantasy. Poet Lilun and starkeeper Ranra fall in love while
   trying to save Gelle-Geu from its unstable underwater star; publisher expressly centers new love and their alternating intimate
@@ -32,3 +32,8 @@ placement_history:
   reason: Split of Romantasy at ten cards, split-with-umbrella, by how the lovers start (opposed sides or tied together);
     curator "Approved", 2026-10-04 8:44 PM (phonemsg-01M443PQET983J8VEJNKHCVEHG), after the Bonded romantasy explanation,
     relayed by the parent.
+- date: '2026-10-10'
+  from: bonded-romantasy
+  to: duty-bond-romantasy
+  reason: 'Split of Bonded romantasy at nine (phonemsg-01M4JVFKVP6929HEPJNZ02H5BR). Weak: the pair is tied by the catastrophe
+    they are saving the star from, not by a bond. Rides here for now.'

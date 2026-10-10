@@ -1,21 +1,18 @@
 id: bonded-romantasy
 label: Bonded romantasy
 parent: romantasy
-children: []
-works:
-- dragonfall
-- the-court-of-broken-bonds
-- otherworldly
-- the-maid-and-the-crocodile
-- the-unbalancing
-- the-siren-mage-duology
-- realms-in-peril
-- the-tithenai-chronicles
-- the-fallen-empire
+children:
+- soul-bond-romantasy
+- bargain-bond-romantasy
+- duty-bond-romantasy
+works: []
 image: 469-bonded-romantasy.webp
-definition: 'Romantasy where the lovers start tied together by something imposed, not chosen: a soul-bond, an arranged marriage,
-  a crossroads bargain, a curse and its prophecy, or one shared duty. The romance is the pair learning to live inside the
-  tie, with the external stakes bound up in it. Not Enemies-to-lovers romantasy (there the pair start on opposed sides). Split
-  2026-10-04 from Romantasy at ten cards (curator "Approved", 2026-10-04 8:44 PM (phonemsg-01M443PQET983J8VEJNKHCVEHG), after
-  the Bonded romantasy explanation, relayed by the parent).'
-status: leaf
+definition: 'Romantasy where the lovers start tied together by something imposed, not chosen. Umbrella since 2026-10-10, partitioned
+  by the tie: Soul bond romantasy (a magical bond), Bargain bond romantasy (a deal or sentence: marriage, bargain, curse,
+  sacrifice) and Duty bond romantasy (a shared task). Not Enemies-to-lovers romantasy (there the pair start on opposed sides).'
+status: umbrella
+ruling: 'Curator split approved ("Execute" phonemsg-01M4JVFKVP6929HEPJNZ02H5BR, 2026-10-10 2:09 PM CEST; names in phonemsg-01M4JVCD1BVQJ5M7SQY7YDB2MZ):
+  axis is what the imposed tie is; 3 + 4 + 2 with Wilderwood and Idolfire arriving as the tenth and eleventh.'
+history:
+- date: '2026-10-10'
+  change: Split with umbrella at nine fictions into Soul bond, Bargain bond and Duty bond romantasy; curator "Execute" (phonemsg-01M4JVFKVP6929HEPJNZ02H5BR).

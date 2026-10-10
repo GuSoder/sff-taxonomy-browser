@@ -106,3 +106,6 @@ Ysabel (Kay, 2007) needed a home for Gaulish Provence under Contemporary mythic 
 
 ## Capitalise tradition words in leaf names (2026-10-10)
 Modern orisha myth became Modern Orisha myth, matching Modern Anansi myth, Modern Albion myth and the rest (curator, phonemsg-01M4JS41G9SYENQ6B5VN8VXSK4). House style: the tradition word in a "Modern X myth" leaf is capitalised. Id unchanged (modern-orisha-myth).
+
+## Bonded romantasy split: Soul bond / Bargain bond / Duty bond romantasy (2026-10-10)
+Bonded romantasy split by what the imposed tie is. Execute: phonemsg-01M4JVFKVP6929HEPJNZ02H5BR; naming workshop phonemsg-01M4JVA6CJWFFBWKG7W7ECAA45 ("Again.." - use the genre's established trope term), phonemsg-01M4JVBF02VN62VVVZZQJEXHFR ("The hint word.." - the leaf carries the branch word, bond) and phonemsg-01M4JVCD1BVQJ5M7SQY7YDB2MZ ("But you lost romantasy.." - keep the established genre word). Final names carry all three: the tie, the branch word and the genre word. Graveyard: the working labels Soulbound, Bargained and Duty-bound (died on the hint rule: no branch word, no genre word), and Fated mates (the established trope name, set aside by the curator's hint rule in favour of Soul bond). Weakest cards, flagged in the yaml: The Fallen Empire, Otherworldly, The Unbalancing; Idolfire arrives with a moderate-to-high wobble (romance may be a thread, not the spine).
