@@ -188,3 +188,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Lost knowledge split
 - Split approved (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8): Lost knowledge became an umbrella over Lost knowledge quest (5, portrait 647, with Eternity Road) and Lost knowledge keepers (5, portrait 648). Wobbles: Archivist Wasp, Riddley Walker. Next spec 280, next webp 649.
+
+## 2026-10-10 The Exiles Saga
+- Placed (below the gate, wobble high): Wells, The Exiles Saga (1995-96; queue 2010/2012 reissues; MC00664-65) into Humble origins quest fantasy (9). Finding: Evergreen (to late 1980s) and Revival (from late 1990s) quest fantasy leave a 1990-97 gap. Next spec 281, next webp 649.
