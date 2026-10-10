@@ -1,0 +1,40 @@
+id: empire-of-man
+title: Empire of Man
+authors:
+- David Weber
+- John Ringo
+first_published: 2001
+canonical_genre: space-marine-corps
+placement_status: accepted
+placement_rationale: 'Source-read walk, root-down: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction
+  -> Military science fiction -> Ground-pounders -> Space marine corps. David Weber and John Ringo''s Empire of Man, the Prince
+  Roger series (Baen, 2001 to 2005; Wikipedia, Baen): the spoiled Prince Roger and his guard, the Bronze Battalion of the
+  Empress'' Own, Imperial Marines, are marooned on the jungle planet Marduk and fight their way across it to a ship. The story
+  is the Corps: squads, drill, discipline and a battalion''s loyalty carried across a hostile world. Tried: Space navy (no
+  ships in the story until the end), Super space soldier (soldiers are not remade), Alien-war grunts (the enemy is a world
+  and its barbarian hordes, not an alien war), Planet expedition (survival is not the planet''s science), Space opera leaves
+  (the war is on foot). Wobble low. Four novels folded as one fiction (11j): March Upcountry, March to the Sea, March to the
+  Stars, We Few. Years are first publication (Baen). The omnibus Empire of Man (MC02425) is skipped. Authors are Weber and
+  Ringo; the queue lists Weber. Only the March Upcountry jacket is kept as the cover: Open Library''s March to the Stars and
+  We Few covers are audiobook MP3 covers.'
+books:
+- title: March Upcountry
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/405587-L.jpg
+- title: March to the Sea
+  year: 2001
+- title: March to the Stars
+  year: 2003
+- title: We Few
+  year: 2005
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/405587-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02443, MC02441, MC02442, MC02486)
+placement_history:
+- date: '2026-10-04'
+  to: space-marine-corps
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

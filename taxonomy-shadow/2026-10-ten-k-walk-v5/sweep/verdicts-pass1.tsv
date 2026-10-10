@@ -2044,7 +2044,7 @@ MC02420	Changer of Worlds	David Weber	2001	skip-anthology	Worlds of Honor anthol
 MC02421	Crown of Slaves	David Weber	2003	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02423	Echoes of Honor	David Weber	1999	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02424	Empire From the Ashes	David Weber	2003	WALK	
-MC02425	Empire of Man	David Weber	2013	WALK	
+MC02425	Empire of Man	David Weber	2013	skip-omnibus	Empire of Man omnibus (March Upcountry + March to the Sea)
 MC02426	Field of Dishonor	David Weber	1999	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02427	Fire Season	David Weber	2012	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02428	Flag in Exile	David Weber	2001	placed-folded	Honor Harrington (space-armada), commit 3979bc3
@@ -2059,9 +2059,9 @@ MC02436	In Enemy Hands	David Weber	1998	placed-folded	Honor Harrington (space-ar
 MC02437	In Fire Forged: Worlds of Honor V	David Weber	2010	skip-anthology	Worlds of Honor anthology
 MC02438	In Fury Born	David Weber	2005	WALK	
 MC02440	Like a Mighty Army	David Weber	2014	placed-folded	Safehold, Lost colony planetary romance
-MC02441	March to the Sea	David Weber	2001	WALK	
-MC02442	March to the Stars	David Weber	2003	WALK	
-MC02443	March Upcountry	David Weber	2001	WALK	
+MC02441	March to the Sea	David Weber	2001	placed-folded	Empire of Man, Space marine corps
+MC02442	March to the Stars	David Weber	2003	placed-folded	Empire of Man, Space marine corps
+MC02443	March Upcountry	David Weber	2001	placed-folded	Empire of Man, Space marine corps
 MC02444	Midst Toil and Tribulation	David Weber	2012	placed-folded	Safehold, Lost colony planetary romance
 MC02445	Mission of Honor	David Weber	2009	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02446	More Than Honor	David Weber	1998	skip-anthology	Worlds of Honor anthology
@@ -2101,7 +2101,7 @@ MC02482	Treecat Wars	David Weber	2013	placed-folded	Honor Harrington (space-arma
 MC02483	Uncompromising Honor	David Weber	2018	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02484	War Maid's Choice	David Weber	2012	WALK	
 MC02485	War of Honor	David Weber	2002	placed-folded	Honor Harrington (space-armada), commit 3979bc3
-MC02486	We Few	David Weber	2005	WALK	
+MC02486	We Few	David Weber	2005	placed-folded	Empire of Man, Space marine corps
 MC02487	What Price Victory?	David Weber	2023	WALK	
 MC02488	Wind Rider's Oath	David Weber	2004	WALK	
 MC02489	Worlds of Honor	David Weber	2000	skip-anthology	Worlds of Honor anthology
