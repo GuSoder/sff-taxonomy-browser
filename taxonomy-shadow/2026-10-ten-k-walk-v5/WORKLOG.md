@@ -158,3 +158,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Hard genetic SF portrait: curator picked B ("B", 2026-10-10 4:38 PM); wired as 639-hard-genetic-sf.webp, replacing provisional A (638). Next spec 272, next webp 640.
 - Rule change (curator 2026-10-10 4:39 PM, phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29): seeds and splits are judged and executed by the intake and reported with a link; brand-new umbrellas and portrait letters still go to him. Recorded in process.md.
 - Rule change (curator 2026-10-10 4:41 PM, phonemsg-01M4K45A5DFAAFXQS8P7XSPGT3): full autonomy on seeds, splits, new umbrellas and portraits; no letter picks. Recorded in process.md.
+
+## 2026-10-10 Magicians in gaslight seed
+- The Magician's Daughter (Parry, 2023; MC03621) walked to a seed under Gaslight fantasy; the intake judged it itself under the standing autonomy. Portrait 640 (variant A, a young woman holding a glowing light under a gas lamp with a raven above and a rabbit at her feet, council hall behind) judged and wired as final; variant B (council chamber) not used. Gaslight umbrella line widened to the Edwardian years through 1914. Next spec 273, next webp 641.

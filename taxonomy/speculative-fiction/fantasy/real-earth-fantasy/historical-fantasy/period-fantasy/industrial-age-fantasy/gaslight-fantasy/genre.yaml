@@ -5,8 +5,13 @@ children:
 - gaslight-technomancy
 - mythology-in-gaslight
 - folklore-in-gaslight
+- magicians-in-gaslight
 image: 60-gaslight-fantasy.webp
-definition: 'Fantasy set in the gaslit long nineteenth century, partitioned by how magic enters the historical setting:
-  engineered wonder, revived mythology, or living folklore.'
+definition: 'Fantasy set in the gaslit long nineteenth century, partitioned by how magic enters the historical setting: engineered
+  wonder, revived mythology, living folklore, or magicians and their institutions. The long nineteenth century runs through
+  the Edwardian years to 1914.'
 status: umbrella
 works: []
+history:
+- date: '2026-10-10'
+  change: Seeded Magicians in gaslight under it for The Magician's Daughter, 1912 (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29).

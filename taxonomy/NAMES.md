@@ -112,3 +112,6 @@ Bonded romantasy split by what the imposed tie is. Execute: phonemsg-01M4JVFKVP6
 
 ## Hard genetic SF (2026-10-10)
 Seeded under Genetic engineering for Life (Jones) on the curator's ruling phonemsg-01M4K3QM6QBTV6WE00Z5TBB1ZM: the name is his, with the condition that the book is modern day. Graveyard: Research science fiction (my working label for a Modern-day seed) and Lab lit / Lab lit science fiction (Jennifer Rohn's term, whose own definition excludes SF); the curator placed the book under Genetic engineering instead of opening a Modern-day leaf.
+
+## Magicians in gaslight (2026-10-10)
+Seeded by the intake's own judgment under the curator's autonomy (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29, phonemsg-01M4K45A5DFAAFXQS8P7XSPGT3). Named on the pattern of its siblings under Gaslight fantasy (Faeries in gaslight, Monsters in gaslight, Circus in gaslight, Mythology in gaslight) with the established word magicians. Graveyard (working labels, never shown): Mage orders, Gaslight mages. He may rename it at any time.
