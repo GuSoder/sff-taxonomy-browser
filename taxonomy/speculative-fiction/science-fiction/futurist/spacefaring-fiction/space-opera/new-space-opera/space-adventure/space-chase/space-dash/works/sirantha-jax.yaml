@@ -3,7 +3,7 @@ title: Sirantha Jax
 authors:
 - Ann Aguirre
 first_published: 2008
-canonical_genre: space-chase
+canonical_genre: space-dash
 placement_status: accepted
 placement_rationale: 'Sirantha Jax: gene-carrier jump navigator on the run from the Corp; action-driven interstellar adventure.'
 books:
@@ -42,3 +42,7 @@ placement_history:
   reason: 'Split of Space adventure at ten cards: re-walked root-down into Space chase by what the adventure is made of (curator
     "Approved" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)).'
   from: space-adventure
+- date: '2026-10-10'
+  from: space-chase
+  to: space-dash
+  reason: 'Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). A jump navigator on the run from the Corp: fits.'

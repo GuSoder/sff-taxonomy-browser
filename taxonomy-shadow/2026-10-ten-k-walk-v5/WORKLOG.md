@@ -173,3 +173,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 Tournament fantasy moved
 - Approved by the curator (5:08 PM): Tournament fantasy moved from Epic fantasy to Sword and sorcery. Card, cover and portrait 643 unchanged. Intake otherwise held on his stop; Man-Kzin untouched.
+
+## 2026-10-10 Space chase split
+- Approved ("Execute", phonemsg-01M4K7J43GDSDE9TJE4MGY09B6): Space chase became an umbrella with Space dash (6) and Space hunt (4). Man-Kzin Wars (Treasure Planet MC03647, Freedom MC03646 folded as one fiction) was the tenth card and landed in Space hunt. Portraits 644 (a woman sprinting down a red-lit station corridor) and 645 (a tracker and a feline alien at a star-chart trail), judged and wired by the intake, no bows. Next spec 276, next webp 646.

@@ -3,7 +3,7 @@ title: Against a Dark Background
 authors:
 - Iain M. Banks
 first_published: 1993
-canonical_genre: space-chase
+canonical_genre: space-dash
 placement_status: accepted
 placement_rationale: Lady Sharrow, hunted by a cult of assassins across the Sepekte system, must find the seven Lazy Guns
   to save herself; tracking and flight drive it.
@@ -22,3 +22,9 @@ placement_history:
 - date: '2026-10-04'
   to: space-chase
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: space-chase
+  to: space-dash
+  reason: Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). Lady Sharrow is hunted by a cult of assassins
+    and must find the seven Lazy Guns to save herself; she is the hunted, though she tracks too. Straddles Space hunt; rides
+    here because the flight frames it.

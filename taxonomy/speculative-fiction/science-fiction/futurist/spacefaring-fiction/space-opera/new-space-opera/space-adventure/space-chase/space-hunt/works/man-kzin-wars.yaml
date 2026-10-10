@@ -1,0 +1,39 @@
+id: man-kzin-wars
+title: Man-Kzin Wars
+authors:
+- Hal Colebatch
+- Jessica Q. Fox
+first_published: 2014
+canonical_genre: space-hunt
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New
+  space opera > Space adventure > Space chase > Space hunt (Space chase split at ten on the curator''s "Execute", phonemsg-01M4K7J43GDSDE9TJE4MGY09B6).
+  Hal Colebatch and Jessica Q. Fox, Treasure Planet (Baen, 2014) and its sequel Freedom (Baen, 2020), stand-alone novels in
+  Larry Niven''s Man-Kzin Wars series; one shared universe is one fiction (rule 11j), folded into the first volume. Treasure
+  Planet: a generation after the Liberation of Wunderland, young Peter Cartwright and his kzinrett friend Marthar get a map
+  from an unlikely source and race the most ruthless pirates in Known Space for the kzin pirates'' hidden treasure on a distant
+  world. Freedom: the downed kzin H''char''n flees across the United States toward Niagara Falls, hunted by an angry DHS agent,
+  while the kzin Silver tries to sell a nanotechnological fountain of youth (https://www.baen.com/treasure-planet.html; https://www.baen.com/freedom-hc-jqf.html;
+  https://www.simonandschuster.com/books/Treasure-Planet/Hal-Colebatch/Man-Kzin-Wars/9781476736402; ISFDB https://www.isfdb.org/cgi-bin/title.cgi?2696990=).
+  Rejected: Alien conquest fiction (it sits under Modern day, and the kzin conquest is backstory), Military SF leaves (Space
+  armada, Space command, Alien-war grunts: these are not war-campaign stories), Alien dominions (anthropological SF), Space
+  combat (the fight is faced, not fled), Space caper (no scheme). Known Space appears nowhere else in the tree. Wobble: moderate
+  to high. Treasure Planet is a trail to a hoard (Space hunt) while Freedom is a flight (Space dash); the fold follows the
+  first volume and the yaml notes Freedom''s flight. Reviewed years: Treasure Planet 2014, Freedom 2020 (Baen, ISFDB 2020-02-09).'
+books:
+- title: Treasure Planet
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/isbn/9781476780702-L.jpg
+- title: Freedom
+  year: 2020
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9781476780702-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03647, MC03646)
+placement_history:
+- date: '2026-10-04'
+  to: space-hunt
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -3,7 +3,7 @@ title: The Billion Worlds
 authors:
 - James L. Cambias
 first_published: 2021
-canonical_genre: space-chase
+canonical_genre: space-hunt
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Futurist > Spacefaring fiction > New space opera > Space adventure > Space chase.
   A droid and his boy, then a spy and his sarcastic AI, hunt across the tenth-millennium Billion Worlds after a weapon, a
@@ -29,3 +29,8 @@ placement_history:
 - date: '2026-10-04'
   to: space-chase
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: space-chase
+  to: space-hunt
+  reason: 'Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). A droid and his boy, then a spy and his AI,
+    hunt a weapon, a killer and a fugitive across the Billion Worlds: fits.'

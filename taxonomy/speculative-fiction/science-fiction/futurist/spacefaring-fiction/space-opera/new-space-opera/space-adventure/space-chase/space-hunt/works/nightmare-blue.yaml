@@ -4,7 +4,7 @@ authors:
 - Gardner Dozois
 - George Alec Effinger
 first_published: 1975
-canonical_genre: space-chase
+canonical_genre: space-hunt
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New
   space opera > Space adventure > Space chase. Per the Baen blurb: the most addictive drug in the universe is sold only by
@@ -31,3 +31,8 @@ placement_history:
 - date: '2026-10-04'
   to: space-chase
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: space-chase
+  to: space-hunt
+  reason: 'Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). A detective and an alien ex-servant track the
+    drug to its source: the trail is the story.'

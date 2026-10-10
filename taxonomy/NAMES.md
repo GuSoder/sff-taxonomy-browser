@@ -124,3 +124,16 @@ Seeded by the intake's own judgment (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29, phonem
 
 ### Tournament fantasy moved (2026-10-10, 5:08 PM)
 The curator vetoed the Epic fantasy home as too niche (phonemsg-01M4K5CVG8CJGKKXHJ26KSAMWK) and approved the move under Sword and sorcery, next to Caper fantasy, Pirate fantasy and Sword and planet: a contest is an adventure frame like a heist or the high seas. Name unchanged.
+
+## Space dash / Space hunt (2026-10-10)
+Split of Space chase at ten for Man-Kzin Wars, approved ("Execute", phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). Axis: which end of the pursuit the story lives at, the hunted (Space dash) or the hunter (Space hunt). He wanted a punchy word for a long escape; the workshop ran 2026-10-10 5:30-5:39 PM, and he landed on **Dash** ("make a dash for freedom" carries the escape; the pairing with Hunt does the rest). Flag recorded: a dash is a sprint, and the frame was the long escape.
+Graveyard, with reasons:
+- Escape: the plain first name; flat next to Hunt.
+- Evasion: precise, but "still not catchy enough".
+- Getaway: punchy, but smells of heists and sits beside Caper.
+- Flight / Run: true words, but in an SF tree they read as spaceflight and as a smuggling route.
+- Slip: clean idiom, not chosen.
+- Scram: right meaning, "so hard to say together with space" (the /s/ into /sk/).
+- Hightail: good candidate; vivid, flows after Space; passed over for Dash.
+- Bail: "the sound of it, just not the right meaning".
+- Lam, Hegira (nobody knows it on sight), Breakaway (reads as secession), Sail (solar sails), Runaway (teen romance), Fugitive and Space trackers (no pattern).

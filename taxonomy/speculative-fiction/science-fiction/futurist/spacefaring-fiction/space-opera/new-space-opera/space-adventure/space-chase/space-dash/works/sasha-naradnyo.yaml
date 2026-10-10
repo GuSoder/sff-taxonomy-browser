@@ -3,7 +3,7 @@ title: Sasha Naradnyo
 authors:
 - Frank Chadwick
 first_published: 2013
-canonical_genre: space-chase
+canonical_genre: space-dash
 placement_status: accepted
 placement_rationale: 'Sasha Naradnyo, a human gangster from the colony Crack City, saves two alien Varoki children from assassination
   and spends the trilogy guarding them and their family as hunted fugitives across a galaxy pushed to war; the pursuit is
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: space-chase
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: space-chase
+  to: space-dash
+  reason: 'Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). A gangster guards hunted alien children as fugitives
+    across a galaxy: fits.'

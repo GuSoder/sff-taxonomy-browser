@@ -3,7 +3,7 @@ title: Disappearing Act
 authors:
 - Margaret Ball
 first_published: 2004
-canonical_genre: space-chase
+canonical_genre: space-dash
 placement_status: accepted
 placement_rationale: A station underworld thief takes a dead diplomat's identity to escape pursuit and is marked for death;
   a fugitive on the run, so Space chase.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: space-chase
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: space-chase
+  to: space-dash
+  reason: 'Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). A station thief takes a dead diplomat''s identity
+    to escape pursuit: the clearest fit.'

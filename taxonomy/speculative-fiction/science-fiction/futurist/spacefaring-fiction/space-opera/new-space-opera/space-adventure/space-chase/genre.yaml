@@ -1,18 +1,18 @@
 id: space-chase
 label: Space chase
 parent: space-adventure
-children: []
-works:
-- dark-diamond
-- red-star-hustle
-- sirantha-jax
-- disappearing-act
-- against-a-dark-background
-- outer-earth
-- the-billion-worlds
-- sasha-naradnyo
-- nightmare-blue
+children:
+- space-dash
+- space-hunt
+works: []
 image: 481-space-chase.webp
-definition: "Space adventure whose engine is a pursuit: a hunted captain, a fugitive on the run or a bounty hunter on a trail, where escape, tracking and the next jump drive the story. Not Space caper (no scheme being run), not Space combat (the fighting is a means of getting away, not the point). Split 2026-10-05 from Space adventure (curator \"Approved\" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM))."
-status: accepted
-ruling: "curator \"Approved\" (phonemsg-01M45T4GH3CWJ9S6CWSQRWCN2R, 2026-10-05 12:35 PM)"
+definition: 'Space adventure whose engine is a pursuit. Umbrella since 2026-10-10, partitioned by which end of the pursuit
+  the story lives at: Space dash (the hunted: a fugitive on the run) and Space hunt (the hunter: following a trail to a quarry,
+  a weapon or a hoard). Not Space caper (no scheme being run), not Space combat (the fighting is a means, not the point).'
+status: umbrella
+ruling: Split approved by the curator ("Execute", phonemsg-01M4K7J43GDSDE9TJE4MGY09B6, 2026-10-10 5:40 PM CEST, over the proposal
+  of the hunted and the hunters; Space dash named by him at 5:39 PM after a workshop of escape words). Man-Kzin Wars arrived
+  as the tenth card in Space hunt.
+history:
+- date: '2026-10-10'
+  change: Split with umbrella at ten fictions into Space dash and Space hunt; curator "Execute" (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6).
