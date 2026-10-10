@@ -205,3 +205,5 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Split approved (phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7): Found magic became an umbrella over Attic talismans (6, portrait 649, with Lucid) and Awoken powers (4, portrait 650). Next spec 285, next webp 651.
 
 - Rumblewick's Diary (MC03834-37, Hiawyn Oram): skipped. Illustrated early-reader series for ages 5-8 (Orchard Books, illustrated by Sarah Warburton), picture-book scope, same rule as other picture books. Not placed.
+
+- Seed approved (phonemsg-01M4KJSXF1ZCF3N1KNRMKVFW3B): Alien extraction under Alien invasion fiction, first card Narabedla, Ltd. (Pohl, 1988; queue 2011 is the Baen ebook; MC03207). Alien invasion now has three leaves. Portrait 651 (a man with a cello case entering an executive office where two alien executives wait), variant A; variant B (a violinist watched from a box) was not used because it shows a violin bow, under his no-bows rule. Name: the parent chose "extraction" over "enterprise" (Enterprise is Star Trek's). Next spec 286, next webp 652.
