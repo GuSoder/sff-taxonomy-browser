@@ -1,10 +1,15 @@
 id: ranger-hero
 label: Ranger hero
 parent: martial-heroes
-children: []
+children:
+- beast-master-hero
+- hunter-hero
 image: 198-ranger-hero.webp
-definition: Martial-hero fantasy whose protagonist’s primary power is wilderness craft, tracking, ranged weapons or animal partnership.
+definition: Martial-hero fantasy whose protagonist’s primary power is wilderness craft, tracking, ranged weapons or animal
+  partnership.
 status: accepted
-works:
-- the-skybound-saga
-- the-legend-of-drizzt
+works: []
+history:
+- date: '2026-10-10'
+  change: Split into Beast master hero and Hunter hero, now an umbrella with 0 direct fictions; curator "Perfect, split approved"
+    (phonemsg-01M4KNSAA0TYA10DN79G6N2053).

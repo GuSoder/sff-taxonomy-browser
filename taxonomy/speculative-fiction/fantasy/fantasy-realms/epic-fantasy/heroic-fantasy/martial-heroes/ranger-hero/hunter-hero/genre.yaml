@@ -1,0 +1,18 @@
+id: hunter-hero
+label: Hunter hero
+parent: ranger-hero
+children: []
+image: 653-hunter-hero.webp
+portrait: 653-hunter-hero.webp
+definition: Ranger-hero fantasy whose protagonist is a tracker and hunter of monsters, winning by woodcraft, speed and a chosen
+  quarry. The D&D Hunter reading. Not Beast master hero (the bond with an animal is the power), not Rogue hero (stealth and
+  theft).
+status: accepted
+works:
+- the-legend-of-drizzt
+ruling: Split of Ranger hero, approved by the curator ("Perfect, split approved", phonemsg-01M4KNSAA0TYA10DN79G6N2053, 2026-10-10
+  9:49 PM CEST) after the intake's "Approve split?" question (names from the D&D Ranger subclasses Beast Master and Hunter).
+  Triggered by Valdemar, which he rejected at Rider hero, Knight hero and Paladin hero ("a paladin is a knight of church").
+history:
+- date: '2026-10-10'
+  change: Created by the Ranger hero split; curator "Perfect, split approved" (phonemsg-01M4KNSAA0TYA10DN79G6N2053).

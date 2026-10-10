@@ -1,0 +1,26 @@
+id: the-skybound-saga
+title: The Skybound Saga
+authors:
+- Alex London
+first_published: 2018
+canonical_genre: beast-master-hero
+placement_status: accepted
+placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches Ranger Hero,
+  not merely the setting or tone. Split note: the books are falconers, humans bonded to giant raptors, so they sit in Beast
+  master hero.'
+cover_url: https://covers.openlibrary.org/b/id/10174307-L.jpg
+shows_english_title: true
+books:
+- title: Black Wings Beating
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/10174307-L.jpg
+- title: Red Skies Falling
+  year: 2019
+- title: Gold Wings Rising
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/11015198-L.jpg
+placement_history:
+- date: '2026-10-10'
+  from: ranger-hero
+  to: beast-master-hero
+  reason: Ranger hero split into Beast master hero and Hunter hero on the curator's approval.

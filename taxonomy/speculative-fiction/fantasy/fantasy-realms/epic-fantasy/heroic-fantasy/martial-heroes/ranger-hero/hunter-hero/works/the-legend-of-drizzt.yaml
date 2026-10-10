@@ -3,11 +3,14 @@ title: The Legend of Drizzt
 authors:
 - R. A. Salvatore
 first_published: 1988
-canonical_genre: ranger-hero
+canonical_genre: hunter-hero
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Heroic fantasy -> Martial heroes -> Ranger hero.
-  Wizards/PRH identifies Drizzt as the iconic dark-elven ranger and centers his journey with panther companion Guenhwyvar beyond Menzoberranzan; wilderness
-  skill, weapons and animal partnership define the hero.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Heroic fantasy
+  -> Martial heroes -> Ranger hero. Wizards/PRH identifies Drizzt as the iconic dark-elven ranger and centers his journey
+  with panther companion Guenhwyvar beyond Menzoberranzan; wilderness skill, weapons and animal partnership define the hero.
+  Split note: Drizzt sits in Hunter hero on the curator''s research thread 2026-10-10: the online 5E consensus calls him a
+  Hunter ranger (favoured enemies, chosen quarry) over Beast Master, and Jeremy Crawford notes Guenhwyvar is a figurine of
+  wondrous power, not an animal companion. Chris Perkins calls him more a fighter than a ranger.'
 classification_sources:
 - https://legend-of-drizzt.com/
 - https://www.penguinrandomhouse.com/books/825763/the-dark-elf-trilogy-dungeons-and-dragons-by-ra-salvatore/
@@ -128,5 +131,11 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass official publisher
-  audit_2026_09_23: 'Series audit: one Open Library author search, single pass; English covers filled; non-English editions (Sojourn, The Crystal Shard,
-    The Legacy, Passage to Dawn, The Silent Blade, The Spine of the World, Sea of Swords, Archmage) and a Lolth''s Warrior placeholder rejected.'
+  audit_2026_09_23: 'Series audit: one Open Library author search, single pass; English covers filled; non-English editions
+    (Sojourn, The Crystal Shard, The Legacy, Passage to Dawn, The Silent Blade, The Spine of the World, Sea of Swords, Archmage)
+    and a Lolth''s Warrior placeholder rejected.'
+placement_history:
+- date: '2026-10-10'
+  from: ranger-hero
+  to: hunter-hero
+  reason: Ranger hero split into Beast master hero and Hunter hero on the curator's approval.

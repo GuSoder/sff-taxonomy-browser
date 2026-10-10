@@ -151,3 +151,12 @@ Split of Found magic at ten for Lucid, approved ("Approved", phonemsg-01M4KFBY8W
 - The 20-list (Uncovered, Discovered, Dug-up, Surfaced, Recovered, Salvaged, Chanced, Stumbled, Stray, Castaway, Wayward, Orphan, Foundling, Flotsam, Drift, Plucked, Serendipity, Hidden, Waiting): none chosen; Attic was picked.
 - Awakened powers: his own word, reshaped to Awoken powers.
 Weakest cards, flagged in the yamls: Night Swimming (a found place, not an object), All Our Hidden Gifts and The Scapegracers (straddle talismans and powers).
+
+## Beast master hero / Hunter hero (2026-10-10)
+Split of Ranger hero (now an umbrella, 0 cards) for Heralds of Valdemar, approved ("Perfect, split approved", phonemsg-01M4KNSAA0TYA10DN79G6N2053, 9:49 PM). Names are the real D&D 5e Ranger subclasses, in the local "X hero" pattern. His rule: the leaf must be a true D&D class or subclass reading. Graveyard, with reasons:
+- Rider hero (my first seed, under Martial heroes): "No, that's not a D&D class" (phonemsg 9:36 PM).
+- Knight hero: same veto, "find a different place in the tree, maybe a subclass" (9:37 PM).
+- Paladin hero for Valdemar: "A paladin is a paladin, a knight of church" (9:40 PM). Heralds have no god.
+- Herald hero, Corps hero: the series' own word and an institution, not a power source.
+- Wild rangers (sibling for Skybound Saga): not needed; Skybound Saga is falconers, so it is beast-bonded and sits in Beast master hero.
+Drizzt in Hunter hero: his research thread, 9:44-9:49 PM. The online 5E majority calls him Hunter; Crawford says Guenhwyvar is a figurine of wondrous power, not an animal companion; Perkins calls him more a fighter. Weakest card: Heralds of Valdemar's Mage Wars and Vows and Honor volumes (in the universe, not Herald-bond stories).
