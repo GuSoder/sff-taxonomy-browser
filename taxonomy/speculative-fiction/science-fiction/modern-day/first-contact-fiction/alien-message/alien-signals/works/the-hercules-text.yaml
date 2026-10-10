@@ -1,0 +1,29 @@
+id: the-hercules-text
+title: The Hercules Text
+authors:
+- Jack McDevitt
+first_published: 1986
+canonical_genre: alien-signals
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > First contact fiction > Alien message
+  > Alien signals. McDevitt, 1986 (Ace Special, November 1986): SETI scientists receive a message of intelligent extraterrestrial
+  origin, and the story follows how it lands: a priest on what it means for religion, a psychologist on the aliens'' psyche,
+  the scientists on their own fields, the president on national defense (Wikipedia). Rejected: Alien tokens (no object is
+  found; the message arrives across space), Alien arrival (nobody comes), Alien conquest (no hostility). Wobble: low. A received
+  transmission is the cleanest signal card, with Contact. Plot from Wikipedia and the earlier walk (SFWA), not the book. Year
+  1986 (Wikipedia); the cover is the 2015 Ace reissue. Queue id MC04089.'
+books:
+- title: The Hercules Text
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/8721763-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8721763-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04089)
+placement_history:
+- date: '2026-10-04'
+  to: alien-signals
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

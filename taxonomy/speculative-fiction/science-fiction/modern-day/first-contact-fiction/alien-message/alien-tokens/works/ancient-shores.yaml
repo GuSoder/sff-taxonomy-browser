@@ -1,0 +1,34 @@
+id: ancient-shores
+title: Ancient Shores
+authors:
+- Jack McDevitt
+first_published: 1996
+canonical_genre: alien-tokens
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day > First contact fiction > Alien message
+  > Alien tokens. McDevitt, Ancient Shores (HarperPrism, April 1996; Nebula nominee) and its continuation Thunderbird (2015),
+  one card as a shared setting: a roughly 10,000-year-old alien yacht and stargate turns up on a Sioux reservation in North
+  Dakota, and people go through it to other worlds, an Eden world, a maze and a space station (Wikipedia, Penguin, Fantasy
+  Literature review). Rejected: Alien signals (nothing is transmitted), Alien arrival (nobody visits), Big dumb relics (runner-up:
+  a huge alien structure, but there the explorers go to the relic while here the gate is found at home and used), Portal fantasy
+  (it is science fiction). Wobble: moderate. The object is a vehicle and a gate, not a message as such, so it rides as a thing
+  left behind that waits to be found and stepped through. Plot from the earlier walk''s sources, not the book; Thunderbird''s
+  plot was not walked separately. Years 1996 and 2015 (Wikipedia). Queue ids MC04072, MC04090.'
+books:
+- title: Ancient Shores
+  year: 1996
+  cover_url: https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/070a610dc1b5496793acf6dda0be9a82/0061052078.jpg.300x0_q85_autocrop.webp
+- title: Thunderbird
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/10441202-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/070a610dc1b5496793acf6dda0be9a82/0061052078.jpg.300x0_q85_autocrop.webp
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04072, MC04090)
+placement_history:
+- date: '2026-10-04'
+  to: alien-tokens
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

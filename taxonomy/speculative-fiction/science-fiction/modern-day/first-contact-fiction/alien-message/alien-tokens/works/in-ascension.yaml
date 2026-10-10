@@ -1,0 +1,26 @@
+id: in-ascension
+title: In Ascension
+authors:
+- Martin MacInnes
+first_published: 2023
+canonical_genre: alien-tokens
+placement_status: accepted
+placement_rationale: 'A marine biologist follows an anomalous deep-sea trench and then a space mission toward an object sending
+  an inexplicable signal (Guardian: ''from the ocean floor to outer space''). The encounter comes through a distant signal
+  and artifact.'
+classification_sources:
+- https://www.theguardian.com/books/2023/jan/19/in-ascension-by-martin-macinnes-review-cosmic-wonder
+intake: 'gap-2022 awards tier #36 (Clarke2024, LocusRec2023-SF)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14577092-L.jpg
+  visually_reviewed_on: '2026-09-23'
+  review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-10'
+  from: alien-message
+  to: alien-tokens
+  reason: 'Split of Alien message at nine (phonemsg-01M4JP972PNDJFGEW5WS1N31P1). Borderline: the object in the trench sends
+    an inexplicable signal (Guardian), so it transmits, yet it is an object that people travel to. Rides in Tokens; could
+    sit in Signals.'

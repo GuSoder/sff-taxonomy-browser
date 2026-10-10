@@ -1,18 +1,19 @@
 id: alien-message
 label: Alien message
 parent: first-contact-fiction
-children: []
+children:
+- alien-signals
+- alien-tokens
 image: 210-alien-message.webp
-definition: First-contact fiction in which the first consequential encounter is mediated at a distance through a signal, voice, mind, or artifact rather than a physical
-  visit.
-status: accepted
-works:
-- contact
-- chocky
-- juniper-time
-- remembrance-of-earth-s-past
-- roadside-picnic
-- in-ascension
-- second-contact
-- the-forge-of-mars
-- conquest
+definition: 'First-contact fiction in which the first consequential encounter is mediated at a distance rather than a physical
+  visit. Umbrella since 2026-10-10, partitioned by how the message arrives: Alien signals (it comes to us) and Alien tokens
+  (an object waits to be found).'
+status: umbrella
+works: []
+ruling: 'Curator split approved ("Execute" phonemsg-01M4JP972PNDJFGEW5WS1N31P1, 2026-10-10 12:38 PM CEST; names Alien signals
+  / Alien tokens chosen by the curator in phonemsg-01M4JP75TSAN3JXPW18BJZWY89, 12:37 PM): axis is whether the message comes
+  to us (signal) or waits to be found (token); 6 + 5 with The Hercules Text and Ancient Shores / Thunderbird arriving as new
+  cards.'
+history:
+- date: '2026-10-10'
+  change: Split with umbrella at nine fictions into Alien signals and Alien tokens; curator "Execute" (phonemsg-01M4JP972PNDJFGEW5WS1N31P1).

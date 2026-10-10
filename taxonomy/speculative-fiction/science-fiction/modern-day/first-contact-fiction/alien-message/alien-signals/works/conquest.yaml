@@ -3,7 +3,7 @@ title: Conquest
 authors:
 - Nina Allan
 first_published: 2023
-canonical_genre: alien-message
+canonical_genre: alien-signals
 placement_status: accepted
 placement_rationale: Online conspiracy theorists take a forgotten 1950s alien-invasion novel as prophecy of a real interstellar
   war; the consequential encounter is mediated at a distance through a text, a signal and an artifact rather than a verified
@@ -19,3 +19,8 @@ cover_curation:
 placement_history:
 - date: '2026-09-26'
   change: Placed in alien-message during tier-2 chunk 3 intake.
+- date: '2026-10-10'
+  from: alien-message
+  to: alien-signals
+  reason: 'Split of Alien message at nine (phonemsg-01M4JP972PNDJFGEW5WS1N31P1). The signal-and-text reading of a 1950s invasion
+    novel as prophecy; sources hold it at a distance, so it rides here. Weak: also reads as a text.'

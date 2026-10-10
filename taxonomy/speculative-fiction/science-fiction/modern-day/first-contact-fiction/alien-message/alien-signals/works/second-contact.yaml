@@ -3,7 +3,7 @@ title: Second Contact
 authors:
 - J. D. Austin
 first_published: 2001
-canonical_genre: alien-message
+canonical_genre: alien-signals
 placement_status: accepted
 placement_rationale: Humans try to contact aliens and the aliens screen the calls; the story turns on the attempt to get a
   message through.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: alien-message
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: alien-message
+  to: alien-signals
+  reason: 'Split of Alien message at nine (phonemsg-01M4JP972PNDJFGEW5WS1N31P1). Humans try to call and the aliens screen
+    the calls: the story is getting a message through. Signal, fits.'

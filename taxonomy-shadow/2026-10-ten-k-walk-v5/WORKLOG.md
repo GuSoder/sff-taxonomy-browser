@@ -138,3 +138,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 - Rocketpunk portrait swapped to variant B (625-rocketpunk.webp) at the owner pick relayed Oct 9 6:47 PM; A (624) removed.
 - Benedict series placed in Space mystery 2026-10-09 on curator condition phonemsg-01M4GXYM7C0389701NV68PJXTF.
+
+## 2026-10-10 Alien message split
+- Alien message split into Alien signals (6: Contact, Remembrance of Earth's Past, Second Contact, Conquest, Chocky, The Hercules Text) and Alien tokens (5: Roadside Picnic, The Forge of Mars, Juniper Time, In Ascension, Ancient Shores/Thunderbird) on the curator's "Execute" (phonemsg-01M4JP972PNDJFGEW5WS1N31P1). Portraits 626 and 627 are variant A; B at /downloads/sig-b.png, tok-b.png.

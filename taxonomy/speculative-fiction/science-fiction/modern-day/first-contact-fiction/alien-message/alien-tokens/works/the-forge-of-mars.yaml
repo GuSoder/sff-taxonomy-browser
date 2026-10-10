@@ -3,7 +3,7 @@ title: The Forge of Mars
 authors:
 - Bruce Balfour
 first_published: 2002
-canonical_genre: alien-message
+canonical_genre: alien-tokens
 placement_status: accepted
 placement_rationale: NASA finds alien artifacts buried on Mars; the encounter is mediated through the found artifact, not
   a visit, and a researcher is pulled into a conspiracy around it.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: alien-message
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-10'
+  from: alien-message
+  to: alien-tokens
+  reason: 'Split of Alien message at nine (phonemsg-01M4JP972PNDJFGEW5WS1N31P1). Artifacts buried on Mars, found and dug up
+    by NASA: token, fits.'

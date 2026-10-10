@@ -4,7 +4,7 @@ authors:
 - Liu Cixin
 - Baoshu
 first_published: 2006
-canonical_genre: alien-message
+canonical_genre: alien-signals
 placement_status: accepted
 placement_rationale: 'the curator’s ruling places the series by its famous first book: The Three-Body Problem unfolds chiefly
   on modern-day Earth, and the Red Coast telescope message exchange with Trisolaris is the defining first-contact act for
@@ -47,3 +47,8 @@ placement_history:
 - date: '2026-10-05'
   note: 'Intake from the 10k list: The Redemption of Time (MC00886), Baoshu, the authorized Three-Body sequel, added to the
     existing series card (one card per series); placement unchanged.'
+- date: '2026-10-10'
+  from: alien-message
+  to: alien-signals
+  reason: 'Split of Alien message at nine (phonemsg-01M4JP972PNDJFGEW5WS1N31P1). The Red Coast telescope message exchange
+    with Trisolaris is the defining act of the sequence: signal, fits.'
