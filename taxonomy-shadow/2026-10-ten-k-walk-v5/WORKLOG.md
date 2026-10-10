@@ -218,3 +218,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-10 11:20 PM: Empire of Man (Weber and Ringo, 4 novels folded) into Space marine corps (5 to 6).
 - 2026-10-10 11:22 PM: The War God (Weber, 4 novels folded) into Paladin hero (3 to 4).
 - 2026-10-11 12:02 AM: The Saga of Recluce (Modesitt, 26 novels folded) into Channeled hard magic (5 to 6).
+- 2026-10-11 12:05 AM: The Imager Portfolio (Modesitt, 12 novels folded) into Court statecraft (8 to 9); wobble moderate, alt Fledgling mage.
