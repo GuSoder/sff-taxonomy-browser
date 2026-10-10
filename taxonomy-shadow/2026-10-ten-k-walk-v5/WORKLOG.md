@@ -170,3 +170,6 @@ Next: Turtledove block from MC03718. QA batches owed.
 
 ## 2026-10-10 5:02 PM scope correction
 - Curator phonemsg-01M4K5CVG8CJGKKXHJ26KSAMWK: the earlier full-autonomy reading is withdrawn. We judge portrait variants and wire finals; he decides every seed, split and umbrella through textual approve questions. Magicians in gaslight and the Gateway split stand. He vetoed Tournament fantasy ("too niche to sit directly under Epic fantasy") and asked for a better seed suggestion; the leaf stays live until he approves a move. All intake on hold except this rework. Next spec 275, next webp 644.
+
+## 2026-10-10 Tournament fantasy moved
+- Approved by the curator (5:08 PM): Tournament fantasy moved from Epic fantasy to Sword and sorcery. Card, cover and portrait 643 unchanged. Intake otherwise held on his stop; Man-Kzin untouched.

@@ -8,7 +8,6 @@ children:
 - hard-fantasy
 - mythological-fantasy
 - military-fantasy
-- tournament-fantasy
 image: 11-epic-fantasy.webp
 definition: 'Fantasy driven by worldbuilding at epic scale: long journeys, wars, political stakes, large geographies, cosmic
   systems and invented gods.'
@@ -17,3 +16,5 @@ works: []
 history:
 - date: '2026-10-10'
   change: Seeded Tournament fantasy under it for The Wild Huntress.
+- date: '2026-10-10'
+  change: Tournament fantasy moved out to Sword and sorcery (curator veto and approval).

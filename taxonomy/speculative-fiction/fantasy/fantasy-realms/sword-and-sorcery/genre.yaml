@@ -7,7 +7,12 @@ children:
 - technofantasy
 - classic-sword-and-sorcery
 - pirate-fantasy
+- tournament-fantasy
 image: 7-sword-and-sorcery.webp
-definition: "Action-forward fantasy celebrating combat, glistening spells, clashing swords and the thrill of battle, in the intimate, broadly adventurous tradition named by its literal “and”."
+definition: Action-forward fantasy celebrating combat, glistening spells, clashing swords and the thrill of battle, in the
+  intimate, broadly adventurous tradition named by its literal “and”.
 status: accepted
 works: []
+history:
+- date: '2026-10-10'
+  change: Tournament fantasy moved in from Epic fantasy; curator "Approved".

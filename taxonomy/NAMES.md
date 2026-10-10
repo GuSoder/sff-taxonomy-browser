@@ -121,3 +121,6 @@ Split of Gateway multiverse fantasy at ten, on the intake's own judgment (phonem
 
 ## Tournament fantasy (2026-10-10)
 Seeded by the intake's own judgment (phonemsg-01M4K42F3EQDEGCNTQ1T3FWS29, phonemsg-01M4K45A5DFAAFXQS8P7XSPGT3) under Epic fantasy for The Wild Huntress, a formal contest with rules, rivals and a prize. Named for the established trope word; the Hunger Games shape in an invented world. Graveyard: Wild Hunt fantasy (names one book's rite), Games fantasy (reads as video games), Contest fantasy (flat). He may rename it at any time.
+
+### Tournament fantasy moved (2026-10-10, 5:08 PM)
+The curator vetoed the Epic fantasy home as too niche (phonemsg-01M4K5CVG8CJGKKXHJ26KSAMWK) and approved the move under Sword and sorcery, next to Caper fantasy, Pirate fantasy and Sword and planet: a contest is an adventure frame like a heist or the high seas. Name unchanged.
