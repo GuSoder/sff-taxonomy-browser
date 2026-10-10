@@ -103,3 +103,6 @@ Alien message split by how the message arrives: Alien signals (it comes to us) a
 
 ## Modern Celtic myth umbrella and Modern Gaulish myth seed (2026-10-10)
 Ysabel (Kay, 2007) needed a home for Gaulish Provence under Contemporary mythic fantasy. Workshop: a flat "Celtic" leaf beside Modern Albion myth was rejected because British myth is Celtic too, so it would swallow Albion and readers could not tell the shelves apart (phonemsg-01M4JRXQS9SGD3BKEB4S3E6BJY, "Why not seed Celtic?"); merging by widening Albion to Celtic would blur its British-only definition. The curator's shape (phonemsg-01M4JS02JJ9488ZT8A3G4PE2AM, "umbrella Celtic, move in Albion and seed Gaulish in there"): new umbrella Modern Celtic myth, with Modern Albion myth (island, 7 cards, unchanged) and the seeded Modern Gaulish myth (continent) as children. Execute: phonemsg-01M4JS149E5JX87808WVW8DGAJ. The umbrella keeps island and continent clean and gives Irish or Breton books a natural place to land. "Modern Gaulish myth" was the working name, accepted in that shape.
+
+## Capitalise tradition words in leaf names (2026-10-10)
+Modern orisha myth became Modern Orisha myth, matching Modern Anansi myth, Modern Albion myth and the rest (curator, phonemsg-01M4JS41G9SYENQ6B5VN8VXSK4). House style: the tradition word in a "Modern X myth" leaf is capitalised. Id unchanged (modern-orisha-myth).

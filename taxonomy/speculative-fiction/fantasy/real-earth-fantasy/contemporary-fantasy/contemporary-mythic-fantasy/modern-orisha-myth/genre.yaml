@@ -1,10 +1,13 @@
 id: modern-orisha-myth
-label: Modern orisha myth
+label: Modern Orisha myth
 parent: contemporary-mythic-fantasy
 children: []
 image: 342-modern-orisha-myth.webp
-definition: Contemporary fantasy in which the orisha of the Yoruba tradition remain active within ordinary present-day life.
+definition: Contemporary fantasy in which the Orisha of the Yoruba tradition remain active within ordinary present-day life.
 status: accepted
 works:
 - shigidi-and-the-brass-head-of-obalufon
 - ballad-dagger
+history:
+- date: '2026-10-10'
+  change: Label capitalised to Modern Orisha myth to match Anansi, Albion and the other tradition words (curator, phonemsg-01M4JS41G9SYENQ6B5VN8VXSK4).
