@@ -223,3 +223,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 4:10 AM: The Corean Chronicles (Modesitt, 8 novels folded) into Ozymandian tech (4 to 5); wobble moderate-high, alt Mud-and-blood fantasy.
 - 2026-10-11 4:50 AM: The Ecolitan Matter (Modesitt, 4 novels folded, 2 omnibus skipped) into Revolutionary space opera (8 to 9); wobble moderate.
 - 2026-10-11 5:30 AM: The Timedivers (Modesitt, 2 novels folded, omnibus skipped) into Classic time agencies (5 to 6).
+- 2026-10-11 5:50 AM: The Laundry Files (Stross, 13 novels folded, 8 novella/collection rows skipped) into Occult secret service (5 to 6); wobble low.
