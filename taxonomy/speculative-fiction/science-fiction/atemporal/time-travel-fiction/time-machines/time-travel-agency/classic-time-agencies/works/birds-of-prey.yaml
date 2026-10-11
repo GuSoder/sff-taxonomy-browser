@@ -1,0 +1,33 @@
+id: birds-of-prey
+title: Birds of Prey
+authors:
+- David Drake
+first_published: 1984
+canonical_genre: classic-time-agencies
+placement_status: accepted
+placement_rationale: 'Drake''s Birds of Prey (Tor 1984; Wikipedia, Baen): in the Roman Empire of 262 AD the Bureau of Imperial
+  Affairs agent Aulus Perennius is ordered to take a strange bald figure, Calvus, to Cilicia. Calvus turns out to be one of
+  six telepathic sisters bred and sent back from the far future by a human project to destroy the brood chamber of the insect
+  aliens, the Guardians, who are exterminating humanity; the sisters'' misplaced arrival also explains the dinosaurs and sabre-toothed
+  cats the Romans meet, and Calvus ends the book by destroying the creche. Walk: Science fiction > Atemporal > Time travel
+  fiction > Time machines > Time travel agency > Classic time agencies (an organization of the future owns the apparatus and
+  sends its operative back; owner test passes, and the book is 1984, inside the pulp-to-early-1990s window). Rejected: Hidden
+  history SF (the traveler''s mission, not an unrecorded event, is the engine), Homebrew time machines (no individual inventor),
+  Time agency thrillers (the 1990s-2000s register), Time agency revival (post-2010), Timeslips (the displacement is engineered),
+  Ancestral time travel. Wobble moderate to high: the time agency is offstage and the protagonist is a Roman spy, so this
+  reads in the leaf by who sends the traveler. Queue year 2018 is a reissue; first publication 1984. Queue id MC02241.'
+books:
+- title: Birds of Prey
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/6386387-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6386387-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02241)
+placement_history:
+- date: '2026-10-04'
+  to: classic-time-agencies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
