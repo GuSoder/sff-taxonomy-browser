@@ -3,7 +3,7 @@ title: Little Fuzzy
 authors:
 - H. Beam Piper
 first_published: 1962
-canonical_genre: colonial-worlds
+canonical_genre: planet-plunder
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological science
   fiction > Xenocolonial > Colonial worlds. On Zarathustra, a planet run by Victor Grego''s Chartered Zarathustra Company
@@ -31,3 +31,8 @@ placement_history:
 - date: '2026-10-04'
   to: colonial-worlds
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: colonial-worlds
+  to: planet-plunder
+  reason: 'Colonial worlds split into Planet plunder and Frontier planets on the curator''s approval; re-walked root-down:
+    this card sits in Planet plunder (extraction).'

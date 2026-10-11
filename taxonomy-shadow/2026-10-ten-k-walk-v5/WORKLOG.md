@@ -258,3 +258,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Folded The Sword of the South (MC02470) into The War God (Paladin hero), no count change.
 - Placed Adiamante (MC05662) into Future social SF (2 to 3), spec 336.
 - Placed The Dragon Lord (MC02279) into Arthur classic (3 to 4), spec 337.
+- Colonial worlds split into Planet plunder (3) / Frontier planets (6), curator Execute phonemsg-01M4NWSBHS43Z4JTNSCDTC74SR; portraits 662/663. Placed Petaybee (MC00769) into Planet plunder (4), spec 338.

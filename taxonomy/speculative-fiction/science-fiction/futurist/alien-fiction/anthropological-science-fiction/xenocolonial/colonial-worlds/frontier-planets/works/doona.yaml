@@ -4,7 +4,7 @@ authors:
 - Anne McCaffrey
 - Jody Lynn Nye
 first_published: 1969
-canonical_genre: colonial-worlds
+canonical_genre: frontier-planets
 placement_status: accepted
 placement_rationale: 'McCaffrey''s Doona series (Decision at Doona 1969; Crisis on Doona 1992 and Treaty Planet 1994, with
   Jody Lynn Nye; the queue''s Doona is the later omnibus): one series, so one fiction. An overpopulated Terra settles the
@@ -34,3 +34,8 @@ placement_history:
 - date: '2026-10-04'
   to: colonial-worlds
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: colonial-worlds
+  to: frontier-planets
+  reason: 'Colonial worlds split into Planet plunder and Frontier planets on the curator''s approval; re-walked root-down:
+    this card sits in Frontier planets (settlement).'

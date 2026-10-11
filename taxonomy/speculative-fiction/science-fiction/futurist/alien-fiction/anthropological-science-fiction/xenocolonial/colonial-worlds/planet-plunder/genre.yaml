@@ -1,0 +1,22 @@
+id: planet-plunder
+label: Planet plunder
+parent: colonial-worlds
+children: []
+image: 662-planet-plunder.webp
+portrait: 662-planet-plunder.webp
+definition: Colonial fiction where an outside power, usually a company or a regime, comes to strip an alien world of its resources,
+  labor or knowledge, and the natives or the world itself resist. The extraction reading. Not Frontier planets (settlers make
+  a home on ground that is already someone's).
+status: accepted
+works:
+- alien-clay
+- undertow
+- little-fuzzy
+- petaybee
+ruling: 'Split of Colonial worlds, approved by the curator ("Execute", phonemsg-01M4NWSBHS43Z4JTNSCDTC74SR, 2026-10-11 6:29
+  PM CEST) after the intake''s "Approve split?" question (axis: extraction by a company or regime vs settlers making a home
+  among natives; names coined with the curator: Planet plunder and Frontier planets). Triggered by Powers That Be as the tenth
+  card.'
+history:
+- date: '2026-10-11'
+  change: Created by the Colonial worlds split; curator "Execute" (phonemsg-01M4NWSBHS43Z4JTNSCDTC74SR).
