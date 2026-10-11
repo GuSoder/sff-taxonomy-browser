@@ -35,15 +35,19 @@ books:
   year: 2008
 - title: The Phoenix Transformed
   year: 2009
+- title: Crown of Vengeance
+  year: 2012
 - title: Blade of Empire
   year: 2017
+- title: Deliverance of Dragons
+  year: 2025
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/523909-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC06798, MC06814, MC06819, MC06801, MC06799, MC06800, MC06705)
+intake: ten-k walk v5 (queue ids MC06798, MC06814, MC06819, MC06801, MC06799, MC06800, MC06705, MC06721, MC06723)
 placement_history:
 - date: '2026-10-04'
   to: fledgling-mage
