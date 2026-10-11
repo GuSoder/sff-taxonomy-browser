@@ -266,3 +266,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed Lock In (Lock In, Head On) into Cyborgs (5 to 6), spec 342. Marked Human Division episodes, End of All Things parts, OMW and Interdependency series rows placed-folded (cards exist).
 - Placed Fuzzy Nation (MC04832) into Planet plunder (4 to 5), spec 343.
 - Placed Redshirts (MC04838) into Scripted books in books (3 to 4), spec 344.
+- Placed The Android's Dream (MC04841) into Humorous science fiction (7 to 8), spec 345.
