@@ -265,3 +265,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed The Citizen (Into the Hinterlands MC02255, Into the Maelstrom MC02256) into Breakaway space colonies (5 to 6), spec 341.
 - Placed Lock In (Lock In, Head On) into Cyborgs (5 to 6), spec 342. Marked Human Division episodes, End of All Things parts, OMW and Interdependency series rows placed-folded (cards exist).
 - Placed Fuzzy Nation (MC04832) into Planet plunder (4 to 5), spec 343.
+- Placed Redshirts (MC04838) into Scripted books in books (3 to 4), spec 344.

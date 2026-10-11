@@ -1,0 +1,33 @@
+id: redshirts
+title: Redshirts
+authors:
+- John Scalzi
+first_published: 2012
+canonical_genre: scripted-books-in-books
+placement_status: accepted
+placement_rationale: 'Scalzi''s Redshirts (Tor, June 2012; Hugo and Locus best novel 2013; Wikipedia): aboard the Universal
+  Union flagship Intrepid, ensign Andrew Dahl notices that low-ranking crew keep dying on away missions, and a crew member,
+  Adam Jenkins, tells him their reality is under the influence of a badly written television show from the past, Chronicles
+  of the Intrepid, whose writers progress ''the Narrative'' and suspend the crew''s free will, which is why good officers
+  turn incompetent and last-minute inventions appear. The crew then act to escape the script, and the three codas follow people
+  from the show''s world. Walk: Science fiction > Atemporal > Fabulation > Books in books > Scripted books in books (reality
+  revealed as authored, whose inhabitants confront the possibility that their lives are someone else''s text). Rejected: Humorous
+  science fiction (the book is comic, but the engine is the discovery that the world is written), Textual trespass (nobody
+  enters or alters a specific book; the show writes them), Contradiction fiction and Meta remyth, Space colony and Space opera
+  leaves (the ship is the setting, not the subject). Wobble low to moderate: Humorous science fiction is the other reading.
+  Queue id MC04838, first published 2012.'
+books:
+- title: Redshirts
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7238735-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7238735-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04838)
+placement_history:
+- date: '2026-10-04'
+  to: scripted-books-in-books
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
