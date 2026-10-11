@@ -256,3 +256,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 4:00 PM: Weber/Fox Ascent to Empire (Governor, Rebel) into Insurgent space opera (5 to 6), spec 334; wobble moderate-high; Rebel year corrected 2020 to 2024.
 - 2026-10-11 4:25 PM: Drake Crisis of Empire (3 rows) into Space succession opera (5 to 6), spec 335; wobble moderate.
 - Folded The Sword of the South (MC02470) into The War God (Paladin hero), no count change.
+- Placed Adiamante (MC05662) into Future social SF (2 to 3), spec 336.

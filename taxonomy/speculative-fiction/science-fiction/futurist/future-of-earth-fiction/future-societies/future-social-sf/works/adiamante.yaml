@@ -1,0 +1,33 @@
+id: adiamante
+title: Adiamante
+authors:
+- L. E. Modesitt, Jr.
+first_published: 1996
+canonical_genre: future-social-sf
+placement_status: accepted
+placement_rationale: 'Modesitt''s Adiamante (Tor, Oct 1996; ISFDB, Publishers Weekly): in the far future Earth, long the abandoned
+  capital of a star empire, has rebuilt itself as a society of conservation and nonaggression, and its code forbids offensive
+  action until it is attacked. A fleet of twelve warships of near-indestructible adiamante from a former colony arrives to
+  force surrender, and the planetary coordinator Ecktor deJanes has to defend the world without breaking those principles.
+  Walk: Science fiction > Futurist > Future of Earth fiction > Future societies > Future social SF (an Earthbound society
+  examined at one future moment, driven by its social design). Rejected: Future war (the book is not about technology-transformed
+  fighting; the fleet is in orbit and the question is whether a nonaggressive code can hold), Future history of Earth (no
+  sustained course across time), Secluded utopias and Utopian fiction (the society is the premise, but the plot is its test
+  under siege, not its construction), Space colony politics (the story stays on Earth), Space armada (the fleet is the threat,
+  not the viewpoint). Wobble moderate: the siege is a military plot and sources are the flap copy and one review. Queue year
+  2010 is a reissue; first publication 1996. Queue id MC05662.'
+books:
+- title: Adiamante
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/182549-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182549-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05662)
+placement_history:
+- date: '2026-10-04'
+  to: future-social-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
