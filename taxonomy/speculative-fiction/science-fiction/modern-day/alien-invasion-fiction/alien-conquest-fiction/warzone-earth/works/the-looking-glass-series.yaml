@@ -1,0 +1,40 @@
+id: the-looking-glass-series
+title: The Looking Glass Series
+authors:
+- John Ringo
+- Travis S. Taylor
+first_published: 2005
+canonical_genre: warzone-earth
+placement_status: accepted
+placement_rationale: 'Ringo''s Looking Glass series (Into the Looking Glass 2005; with Travis S. Taylor Vorpal Blade 2007,
+  Manxome Foe 2008, Claws That Catch 2009; one fiction): a physics experiment at the University of Central Florida destroys
+  everything within a mile and opens portal ''looking glasses'' around the world, through which the Dreen, a hostile species
+  with slave races, pour onto Earth, spreading a devouring fungus; the army and SEAL teams in powered armor fight them gate
+  by gate until a weapon from the friendly Adar closes the gates, and the sequels take the war to the Dreen by warp ship (Wikipedia
+  Voyage of the Space Bubble). Walk: Science fiction > Modern day > Alien invasion fiction > Alien conquest fiction > Warzone
+  Earth (the invaders are fought on Earth''s ground for the planet). Rejected: Fallen Earth (humanity is not occupied), Space
+  armada and Alien-war grunts (the war starts at home, though the sequels leave Earth). Wobble moderate to high: the later
+  books are an interstellar hunt for the Dreen, and the portals could suit a gateway leaf.'
+books:
+- title: Into the Looking Glass
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/479542-L.jpg
+- title: Vorpal Blade
+  year: 2007
+- title: Manxome Foe
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/1786966-L.jpg
+- title: Claws That Catch
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/8428454-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/479542-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04799, MC04826, MC04805, MC04790)
+placement_history:
+- date: '2026-10-04'
+  to: warzone-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -236,3 +236,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 9:55 AM: Ringo Legacy of the Aldenata (13 rows, Cally/Hero/Kratman books folded) into Warzone Earth (5 to 6), spec 312; wobble low.
 - 2026-10-11 10:15 AM: Ringo Troy Rising (4 rows) into Fallen Earth (5 to 6), spec 313; wobble moderate, alt Space armada.
 - 2026-10-11 10:35 AM: Ringo/Taylor Von Neumann's War into Warzone Earth (6 to 7), spec 314; wobble moderate.
+- 2026-10-11 10:58 AM: Ringo/Taylor Looking Glass series (4 rows) into Warzone Earth (7 to 8), spec 315; wobble moderate-high.
