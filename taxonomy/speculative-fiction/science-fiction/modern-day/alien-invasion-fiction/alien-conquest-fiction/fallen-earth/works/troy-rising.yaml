@@ -1,0 +1,37 @@
+id: troy-rising
+title: Troy Rising
+authors:
+- John Ringo
+first_published: 2010
+canonical_genre: fallen-earth
+placement_status: accepted
+placement_rationale: 'Ringo''s Troy Rising (Live Free or Die 2010, Citadel 2011, The Hot Gate 2011; the queue holds Live Free
+  or Die, its second edition, The Hot Gate and the Troy Rising omnibus): the Horvath came through the Solar System''s gate,
+  announced ownership by dropping rocks on three cities and have held Earth as a fiefdom ever since, with control of the orbitals;
+  Tyler Vernon sets out to free the world, using off-world technology and building Troy, a vast battlestation (Simon & Schuster).
+  Walk: Science fiction > Modern day > Alien invasion fiction > Alien conquest fiction > Fallen Earth (the invaders won and
+  hold the planet; the story starts under that rule). Rejected: Warzone Earth (no contested ground war for most of the book)
+  and Space armada (the fleet comes late). Wobble moderate: the second half is building a battlestation and fighting in space,
+  so Techno-fiction in space or Space armada are the alternatives, and the book arguably leaves Earth behind.'
+books:
+- title: Live Free or Die
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6665431-L.jpg
+- title: The Hot Gate
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/9904089-L.jpg
+- title: Troy Rising
+  year: 2020
+- title: Live Free or Die, Second Edition
+  year: 2023
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6665431-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04803, MC04812, MC04821, MC04804)
+placement_history:
+- date: '2026-10-04'
+  to: fallen-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
