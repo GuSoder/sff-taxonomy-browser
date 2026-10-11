@@ -1871,9 +1871,9 @@ MC02247	Dogs of War	David Drake		WALK
 MC02248	Foreign Legions	David Drake	2001	WALK	
 MC02249	Goddess of the Ice Realm	David Drake	2004	placed-folded	Lord of the Isles, Hidden heir quest fantasy
 MC02250	Grimmer Than Hell	David Drake	2003	WALK	
-MC02251	Hope Reborn	David Drake	2012	WALK	
-MC02252	Hope Reformed	David Drake	2014	WALK	
-MC02253	Hope Renewed	David Drake	2014	WALK	
+MC02251	Hope Reborn	David Drake	2012	skip-omnibus	General omnibus (Raj Whitehall), The General in tree
+MC02252	Hope Reformed	David Drake	2014	skip-omnibus	General omnibus (Raj Whitehall), The General in tree
+MC02253	Hope Renewed	David Drake	2014	skip-omnibus	General omnibus (Raj Whitehall), The General in tree
 MC02254	In the Stormy Red Sky	David Drake	2008	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02255	Into the Hinterlands	David Drake	2011	WALK	
 MC02256	Into the Maelstrom	David Drake	2014	WALK	
@@ -1901,7 +1901,7 @@ MC02277	Starliner	David Drake	2004	WALK
 MC02278	Starliner, Second Edition	David Drake	2012	WALK	
 MC02279	The Dragon Lord	David Drake	2009	WALK	
 MC02280	The Far Side of the Stars	David Drake	2003	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02281	The Forlorn Hope	David Drake	2015	WALK	
+MC02281	The Forlorn Hope	David Drake	2015	WALK	Forlorn Hope = mercenary company (Fasolini); candidate 2nd card for Mercenary regiments seed
 MC02282	The Gods Return	David Drake	2008	placed-folded	Lord of the Isles, Hidden heir quest fantasy
 MC02283	The Heretic	David Drake	2012	in-tree	taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/military-science-fiction/space-command/works/the-general.yaml
 MC02284	The Hunter Returns	David Drake	2015	WALK	
@@ -1925,7 +1925,7 @@ MC02301	Though Hell Should Bar the Way	David Drake	2018	placed-folded	The RCN (s
 MC02302	To Clear Away the Shadows	David Drake	2018	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02303	Up From Hell	David Drake	2016	WALK	
 MC02304	Voyage Across the Stars	David Drake	2011	WALK	
-MC02305	Warlord	David Drake	2003	WALK	
+MC02305	Warlord	David Drake	2003	in-tree-folded	Warlord = The Forge (Raj Whitehall), The General in tree
 MC02306	What Distant Deeps	David Drake	2009	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02307	When the Tide Rises	David Drake	2007	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02308	With the Lightnings	David Drake	2000	placed-folded	The RCN (space-corvette), commit b04a21a
@@ -6290,7 +6290,7 @@ MC08494	Confessions of a Demon	S.L. Wright	2009	WALK
 MC08495	Demon Underground	S.L. Wright	2010	WALK	
 MC08496	Ghost Ocean	S.M. Peters	2009	WALK	
 MC08497	Whitechapel Gods	S.M. Peters	2008	WALK	
-MC08498	Hope Rearmed	S.M. Stirling	2013	WALK	
+MC08498	Hope Rearmed	S.M. Stirling	2013	skip-omnibus	General omnibus (Raj Whitehall), The General in tree
 MC08499	Man-Kzin Wars V	S.M. Stirling	2018	WALK	
 MC08500	Rome to the Stars	S.M. Stirling	2020	WALK	
 MC08501	The Sky-Blue Wolves	S.M. Stirling	2019	WALK	
