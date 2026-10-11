@@ -275,3 +275,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Lackey: Dragon Prophecy (Crown of Vengeance, Deliverance of Dragons) folded into The Obsidian Universe; Valdemar/Bedlam anthologies, collections, omnibus rows and Wing Commander tie-in recorded skip.
 - Placed The Secret World Chronicle (5 rows) into Superhero fiction (4 to 5), spec 350.
 - Placed Bardic Voices (4 rows) into Bard hero (3 to 4), spec 351.
+- Placed Bedlam's Bard (5 rows) into Big-city fae (5 to 6), spec 352.
