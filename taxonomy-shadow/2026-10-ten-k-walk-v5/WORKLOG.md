@@ -227,3 +227,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 6:10 AM: Stross Eschaton novels (2) and Glasshouse into Techno-fiction in space (4 to 6); wobble moderate/low.
 - 2026-10-11 6:30 AM: Stross Freyaverse (2) into Techno-fiction in space (6 to 7); wobble moderate, alt Space chase.
 - 2026-10-11 6:50 AM: Stross Halting State and Rule 34 into Infowar (5 to 6); wobble low-moderate, alt Spytech.
+- 2026-10-11 7:35 AM: Drake Northworld trilogy (from omnibus rows MC02263/02264) into Big dumb worlds (6 to 7); wobble moderate. Belisarius rows MC02236, 02238-02240 marked in-tree.

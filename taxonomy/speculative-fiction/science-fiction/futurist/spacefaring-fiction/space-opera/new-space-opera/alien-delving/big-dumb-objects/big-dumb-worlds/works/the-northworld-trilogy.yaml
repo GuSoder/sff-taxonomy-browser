@@ -1,0 +1,36 @@
+id: the-northworld-trilogy
+title: The Northworld Trilogy
+authors:
+- David Drake
+first_published: 1990
+canonical_genre: big-dumb-worlds
+placement_status: accepted
+placement_rationale: 'Drake''s Northworld trilogy (Northworld 1990, Vengeance 1991, Justice 1992; the queue lists only the
+  omnibus Northworld Trilogy, two editions, rows MC02263 and MC02264, so the three novels are placed from it as one fiction):
+  in a future where the Consensus rules everything but the missing planet Northworld, Security Forces Commissioner Nils Hansen
+  is sent in after three failed missions, to a space-time enigma of eight warring planes built on Norse myth, where armored
+  men rule as gods and the Matrix bridges space and time (Wikipedia, Worlds Without End, david-drake.com). Root-down: Science
+  fiction -> Futurist -> Spacefaring fiction -> Space opera -> New space opera -> Alien delving -> Big dumb objects -> Big
+  dumb worlds: an immense artificial world entered, crossed and lived in, the object is the setting; not Big dumb relics (nothing
+  is dug up or deciphered). Rejected: Ozymandian tech (the tech is not a buried ruin) and Hard science fantasy (the Matrix
+  is faster-than-light). Wobble moderate: the Norse-myth frame and the military register pull toward Science fantasy.'
+books:
+- title: Northworld
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/7237812-L.jpg
+- title: Vengeance
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/6693899-L.jpg
+- title: Justice
+  year: 1992
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7237812-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02263, MC02264, MC02263)
+placement_history:
+- date: '2026-10-04'
+  to: big-dumb-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
