@@ -220,3 +220,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 12:02 AM: The Saga of Recluce (Modesitt, 26 novels folded) into Channeled hard magic (5 to 6).
 - 2026-10-11 12:05 AM: The Imager Portfolio (Modesitt, 12 novels folded) into Court statecraft (8 to 9); wobble moderate, alt Fledgling mage.
 - 2026-10-11 3:30 AM: The Spellsong Cycle (Modesitt, 5 novels folded) into Otherworld stumblings (5 to 6); wobble moderate, alt Otherworld summonings.
+- 2026-10-11 4:10 AM: The Corean Chronicles (Modesitt, 8 novels folded) into Ozymandian tech (4 to 5); wobble moderate-high, alt Mud-and-blood fantasy.

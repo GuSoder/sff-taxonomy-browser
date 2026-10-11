@@ -1,0 +1,49 @@
+id: the-corean-chronicles
+title: The Corean Chronicles
+authors:
+- L. E. Modesitt Jr.
+first_published: 2002
+canonical_genre: ozymandian-tech
+placement_status: accepted
+placement_rationale: 'Modesitt''s eight-novel Corean Chronicles (Legacies 2002 to Lady-Protector 2011): two trilogies and
+  a duology on Corus, a world built by the Alectors, a human-like race from another world who farm its life force, ride bred
+  pteridons, and rely on technology run from a Master Scepter (the Alucius books, a thousand-plus years later, live among
+  the ruins of that fallen civilization and its Ancient/Soarer remnants). Sources: Wikipedia, Macmillan and lemodesittjr.com
+  blurbs. Root-down: Fantasy surface (Talent magic, militia and court plots) but the world is a collapsed high-tech civilization,
+  so Science fantasy -> Ozymandian tech (buried remains of an ancient high-tech culture whose technology rivals magic). Tried
+  Fantasy -> Epic fantasy -> Military fantasy (Mud-and-blood for the Alucius trilogy) and Political fantasy (Mykella duology)
+  and rejected them: each fits only part of eight books, the fallen-civilization frame covers all three cycles. Wobble moderate
+  to high. Alternative: Mud-and-blood fantasy (3) for the Alucius trilogy alone. Covers: real Tor jackets for the first book
+  of each cycle.'
+books:
+- title: Legacies
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/524149-L.jpg
+- title: Darknesses
+  year: 2003
+- title: Scepters
+  year: 2004
+- title: Alector's Choice
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/524646-L.jpg
+- title: Cadmian's Choice
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/525372-L.jpg
+- title: Soarer's Choice
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/524759-L.jpg
+- title: The Lord-Protector's Daughter
+  year: 2008
+- title: Lady-Protector
+  year: 2011
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/524646-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05688, MC05671, MC05786, MC05663, MC05668, MC05704, MC05778, MC05765)
+placement_history:
+- date: '2026-10-04'
+  to: ozymandian-tech
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
