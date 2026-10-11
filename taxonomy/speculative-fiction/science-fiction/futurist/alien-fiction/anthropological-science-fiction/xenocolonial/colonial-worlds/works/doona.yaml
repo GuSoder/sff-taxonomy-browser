@@ -1,0 +1,36 @@
+id: doona
+title: Doona
+authors:
+- Anne McCaffrey
+- Jody Lynn Nye
+first_published: 1969
+canonical_genre: colonial-worlds
+placement_status: accepted
+placement_rationale: 'McCaffrey''s Doona series (Decision at Doona 1969; Crisis on Doona 1992 and Treaty Planet 1994, with
+  Jody Lynn Nye; the queue''s Doona is the later omnibus): one series, so one fiction. An overpopulated Terra settles the
+  planet Doona only to find it inhabited by the felinoid Hrrubans, and the colonists must either leave, kill, or learn to
+  share the world; the later books follow the shared settlement and the treaty that governs it (Penguin Random House book
+  description; Flayrah review, which reads the series as humans and Hrrubans learning to live together). Walk: Science fiction
+  > Futurist > Alien fiction > Anthropological science fiction > Xenocolonial > Colonial worlds (a human settlement on an
+  alien world collides with native life and culture). Rejected: Alien expedition and Far-future first contact (the colonists
+  did not set out to meet anyone; the story is the settlement, not the encounter), Alien dominions (humans are not subordinate
+  to alien power), Xenanthropology (not observation without interference), Space colonies (the native culture, not the settlement''s
+  civic life, drives it). Wobble low to moderate. I read the publisher description and a review, not the books. First publication
+  1969. Queue ids MC00746, MC00748.'
+books:
+- title: Decision at Doona
+  year: 1969
+  cover_url: https://covers.openlibrary.org/b/isbn/9780345353771-L.jpg
+- title: Doona (omnibus)
+  year: 2004
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780345353771-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00746, MC00748)
+placement_history:
+- date: '2026-10-04'
+  to: colonial-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
