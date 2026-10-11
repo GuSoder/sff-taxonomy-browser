@@ -248,3 +248,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 1:17 PM: McCaffrey Doona (Decision at Doona + omnibus) into Colonial worlds (8 to 9), spec 327; wobble low-moderate, alts Alien expedition / Far-future first contact.
 - 2026-10-11 1:37 PM: McCaffrey Freedom/Catteni series (4 rows) into Alien dominions (6 to 7), spec 328; wobble low.
 - 2026-10-11 1:58 PM: McCaffrey Planet Pirates (Sassinak, Death of Sleep, Generation Warriors) into Space corvette (7 to 8), spec 329; wobble moderate, alt Space armada (9, full).
+- 2026-10-11 2:20 PM: Weber Dahak / Empire from the Ashes (2 rows) into Space succession opera (4 to 5), spec 330; wobble moderate.
