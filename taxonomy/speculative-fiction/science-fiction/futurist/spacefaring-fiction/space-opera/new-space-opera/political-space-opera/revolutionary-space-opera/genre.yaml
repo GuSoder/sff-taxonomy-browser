@@ -1,18 +1,15 @@
 id: revolutionary-space-opera
 label: Revolutionary space opera
 parent: political-space-opera
-children: []
+children:
+- rebel-space-opera
+- insurgent-space-opera
 image: 250-revolutionary-space-opera.webp
 definition: Space opera driven by overthrow of, or liberation from, an imperial order.
 status: accepted
 ruling: Created by the curator's 2026-09-21 five-way partition of Political space opera.
-works:
-- seven-devils
-- the-sun-chronicles
-- empress-of-forever
-- sweep-of-stars
-- far-stars
-- flames-of-rebellion
-- the-graven
-- the-bloodright-trilogy
-- the-ecolitan-matter
+works: []
+history:
+- date: '2026-10-11'
+  change: Split into Rebel space opera and Insurgent space opera, now an umbrella with 0 direct fictions; curator "Ok approved"
+    (phonemsg-01M4N3MYGQ6K3GJC59K5TWBFWR).

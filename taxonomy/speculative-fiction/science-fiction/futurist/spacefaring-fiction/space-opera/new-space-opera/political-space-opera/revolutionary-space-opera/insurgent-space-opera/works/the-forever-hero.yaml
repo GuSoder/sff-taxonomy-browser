@@ -1,0 +1,35 @@
+id: the-forever-hero
+title: The Forever Hero
+authors:
+- L. E. Modesitt, Jr.
+first_published: 1987
+canonical_genre: insurgent-space-opera
+placement_status: accepted
+placement_rationale: 'Modesitt''s The Forever Hero (Dawn for a Distant Earth 1987, The Silent Warrior 1987, In Endless Twilight
+  1988; one fiction, the queue holds all three plus the 1999 omnibus): a feral Earth boy raised inside the Empire''s military,
+  whose long centuries of covert economic war are aimed at forcing the Empire to regreen Earth, ending with the imperial order
+  destroyed (earlier session sourcing: Modesitt''s site, Wikipedia, ISFDB). Walk: Science fiction > Futurist > Spacefaring
+  > Space opera > New space opera > Political space opera > Revolutionary space opera > Insurgent space opera (the revolt
+  is worked from inside the imperial machine by a man it trained), not Rebel space opera (no outside fleets or cells). Wobble
+  moderate: the economic war is slow-burn rather than a rising.'
+books:
+- title: Dawn for a Distant Earth
+  year: 1987
+- title: The Silent Warrior
+  year: 1987
+- title: In Endless Twilight
+  year: 1988
+- title: The Forever Hero (omnibus)
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/183057-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/183057-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05673, MC05780, MC05764, MC05714)
+placement_history:
+- date: '2026-10-04'
+  to: insurgent-space-opera
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

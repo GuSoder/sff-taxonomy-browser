@@ -3,7 +3,7 @@ title: The Ecolitan Matter
 authors:
 - L. E. Modesitt Jr.
 first_published: 1986
-canonical_genre: revolutionary-space-opera
+canonical_genre: insurgent-space-opera
 placement_status: accepted
 placement_rationale: 'Modesitt''s Ecolitan Matter (Ecologic Envoy 1986 to Ecolitan Enigma 1997, four novels): Major Jimjoy
   Wright, a secret agent of the corrupt interstellar Empire, overthrows a military dictatorship too well, is marked for death
@@ -38,3 +38,8 @@ placement_history:
 - date: '2026-10-04'
   to: revolutionary-space-opera
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: revolutionary-space-opera
+  to: insurgent-space-opera
+  reason: 'Revolutionary space opera split into Rebel space opera and Insurgent space opera on the curator''s approval; re-walked
+    root-down: this card sits in Insurgent space opera (the revolt works from inside the regime).'
