@@ -231,3 +231,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 8:12 AM: Drake Redliners into Alien-war grunts (3 to 4); wobble moderate. Ranks of Bronze and Seas of Venus noted as Mercenary-regiments seed candidates.
 - 2026-10-11 8:35 AM: Ringo Black Tide Rising (3 novels folded, anthology skipped) into Zombie apocalypse (6 to 7); wobble low.
 - 2026-10-11 8:55 AM: Ringo The Last Centurion into The die-off (5 to 6); wobble moderate.
+- 2026-10-11 9:15 AM: Ringo Council Wars (3 rows folded) into Lost knowledge keepers (5 to 6); wobble moderate-high, alt Ozymandian tech.

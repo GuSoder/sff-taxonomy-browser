@@ -1,0 +1,39 @@
+id: the-council-wars
+title: The Council Wars
+authors:
+- John Ringo
+first_published: 2004
+canonical_genre: lost-knowledge-keepers
+placement_status: accepted
+placement_rationale: 'Ringo''s Council Wars (There Will Be Dragons 2003, Emerald Sea 2004, Against the Tide 2005, East of
+  the Sun, West of the Moon 2006; the queue holds the last three, the first book is part of the same fiction): thousands of
+  years on, an AI called Mother runs a paradise of nanotech and teleportation; when the ruling council falls out and goes
+  to war the Net fails, and communities such as Raven''s Mill, where smith and historian Edmund Talbot keeps the old knowledge,
+  must live with a technology that now behaves as magic, with elves and dragons that are engineered descendants of military
+  programs (Wikipedia mirror, Simon & Schuster, ISFDB). Root-down: Science fiction -> Futurist -> Future of Earth -> Dystopian
+  fiction -> Ruined Earth -> Lost knowledge -> Lost knowledge keepers (the story is living with the fallen civilization''s
+  knowledge: guarding, controlling and half-remembering it at home), not Lost knowledge quest (the expedition is not the engine)
+  or Wild ruins (they keep, not abandon, the knowledge). Rejected: Ozymandian tech (the tech is not buried) and Hard science
+  fantasy (teleportation exists). Wobble moderate to high: Earth is not ruined so much as its society, and the fourth book
+  leaves for space.'
+books:
+- title: Emerald Sea
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/479147-L.jpg
+- title: Against the Tide
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/479545-L.jpg
+- title: East of the Sun, West of the Moon
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/759842-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/479147-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04792, MC04784, MC04791)
+placement_history:
+- date: '2026-10-04'
+  to: lost-knowledge-keepers
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
