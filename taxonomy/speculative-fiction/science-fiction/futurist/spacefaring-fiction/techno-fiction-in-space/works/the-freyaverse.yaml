@@ -1,0 +1,32 @@
+id: the-freyaverse
+title: The Freyaverse
+authors:
+- Charles Stross
+first_published: 2008
+canonical_genre: techno-fiction-in-space
+placement_status: accepted
+placement_rationale: 'Stross''s Freyaverse (Saturn''s Children 2008, Neptune''s Brood 2013; the second is set thousands of
+  years later with new characters, so one shared universe, one fiction): humanity is extinct and the characters are androids
+  and their metahuman descendants; Freya Nakamichi-47, a gynoid, carries a package across the solar system in Saturn''s Children,
+  and in Neptune''s Brood the metahuman Krina Alizond-114 chases a lost interstellar financial instrument (Wikipedia, PRH,
+  Open Library). Root-down: Science fiction -> Futurist -> Spacefaring fiction -> Techno-fiction in space: posthuman successor
+  life, computation and a cryptocurrency-style economy are the setting and the plot. Wobble moderate: Saturn''s Children reads
+  as a chase and Space chase is the alternative. Cover: Neptune''s Brood only; the Saturn''s Children Open Library cover is
+  blank.'
+books:
+- title: Saturn's Children
+  year: 2008
+- title: Neptune's Brood
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7809763-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7809763-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01610, MC01606)
+placement_history:
+- date: '2026-10-04'
+  to: techno-fiction-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

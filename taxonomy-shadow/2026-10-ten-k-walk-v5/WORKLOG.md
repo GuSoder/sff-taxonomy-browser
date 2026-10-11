@@ -225,3 +225,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 5:30 AM: The Timedivers (Modesitt, 2 novels folded, omnibus skipped) into Classic time agencies (5 to 6).
 - 2026-10-11 5:50 AM: The Laundry Files (Stross, 13 novels folded, 8 novella/collection rows skipped) into Occult secret service (5 to 6); wobble low.
 - 2026-10-11 6:10 AM: Stross Eschaton novels (2) and Glasshouse into Techno-fiction in space (4 to 6); wobble moderate/low.
+- 2026-10-11 6:30 AM: Stross Freyaverse (2) into Techno-fiction in space (6 to 7); wobble moderate, alt Space chase.
