@@ -1,0 +1,33 @@
+id: the-eschaton-novels
+title: The Eschaton novels
+authors:
+- Charles Stross
+first_published: 2003
+canonical_genre: techno-fiction-in-space
+placement_status: accepted
+placement_rationale: 'Stross''s Eschaton novels (Singularity Sky 2003, Iron Sunrise 2004): after a technological singularity
+  an AI, the Eschaton, scattered most of humanity across the galaxy; in Singularity Sky a repressive New Republic fleet sets
+  out to retaliate for an ''invasion'' of its colony that is really a visit by the Festival, a posthuman race that grants
+  its hosts'' wishes with advanced technology and wrecks the colony''s controlled economy; Iron Sunrise follows the destroyed
+  star system and the Eschaton''s role (Wikipedia, Strange Horizons, Black Gate). Root-down: Science fiction -> Futurist ->
+  Spacefaring fiction -> Techno-fiction in space (posthuman technology, computation, networks); post-singularity is the engine,
+  with the naval campaign as the plot. Wobble moderate: Space navy / Space armada (at 9) was the other candidate and is full.
+  Sibling: Accelerando.'
+books:
+- title: Singularity Sky
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/284094-L.jpg
+- title: Iron Sunrise
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/284156-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284094-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01612, MC01605)
+placement_history:
+- date: '2026-10-04'
+  to: techno-fiction-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,27 @@
+id: glasshouse
+title: Glasshouse
+authors:
+- Charles Stross
+first_published: 2006
+canonical_genre: techno-fiction-in-space
+placement_status: accepted
+placement_rationale: 'Stross''s Glasshouse (2006): in the 27th century, after a war against the memory-deleting worm Curious
+  Yellow, Robin wakes with his memories edited out, is hunted, and volunteers for the Glasshouse, an experimental simulated
+  early-21st-century society where he is given a new identity and a woman''s body (PRH, Kirkus, Wikipedia). Root-down: Science
+  fiction -> Futurist -> Spacefaring fiction -> Techno-fiction in space: identity transfer, backups, gates and network worms
+  are the whole plot, aboard a spacecraft in interstellar space. Wobble low.'
+books:
+- title: Glasshouse
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/284352-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284352-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01603)
+placement_history:
+- date: '2026-10-04'
+  to: techno-fiction-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
