@@ -278,3 +278,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed Bedlam's Bard (5 rows) into Big-city fae (5 to 6), spec 352.
 - Placed Gwenhwyfar (MC06737) into Arthur reimagined (4 to 5), spec 353.
 - Placed Hunter series (Hunter, Apex) into Paranormal aftermath (5 to 6), spec 354.
+- Placed The House of the Four Winds into Pirate fantasy (2 to 3), spec 355. Folded The Wizard of Karres into The Witches of Karres.
