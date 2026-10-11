@@ -3,21 +3,20 @@ title: The Solar Cycle
 authors:
 - Gene Wolfe
 first_published: 1980
-canonical_genre: frontier-planets
+canonical_genre: dying-earth
 placement_status: accepted
-placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Anthropological science
-  fiction > Xenocolonial > Colonial worlds. Gene Wolfe''s Solar Cycle, one universe in three series (rule 11j; curator ruling
-  phonemsg-01M4E4MHATNAGJSH6VMAGPVYA7, 2026-10-08 18:13 CEST: fold the whole cycle into one fiction and put it in Colonial
-  worlds). Genre journey, in publication and story order: The Book of the New Sun (1980-87) is a Dying earth tale under a
-  failing sun; The Book of the Long Sun (1993-96) is a generation-ship city, the Whorl, where a priest named Silk fights for
-  his manteion (Voyage societies); The Book of the Short Sun (1999-2001) follows the Whorl''s narrator to the colony planets
-  Blue and Green in search of Silk, settlers and the native inhumi (Colonial worlds), where the cycle ends. Placed in Colonial
-  worlds because the cycle is about settling the colony planets: the Whorl exists to reach them and the Short Sun is that
-  settlement. Curator, 6:14 PM: this is not a rule about endpoints; the card goes where the series is about. Wobble: the earlier
-  volumes read as Dying earth and Voyage societies; the card sits at the cycle''s end by ruling. Folded in: the Long Sun omnibuses
-  Litany of the Long Sun (MC03359) and Epiphany of the Long Sun (MC03351) are editions of the four Long Sun novels and are
-  not listed separately; Long Sun queue rows MC03347, 03352, 03357, 03360, Short Sun rows MC03355, 03361, 03364; the New Sun
-  omnibuses (MC03370, 03377, 03378) are editions of the first four volumes.'
+placement_rationale: 'Moved 2026-10-11 from Frontier planets to Dying earth on the curator''s decision ("Maybe move it dying
+  earth" phonemsg-01M4NXJW80T15H9ZQH2W2M5PR8, then "Yes" phonemsg-01M4NXWDN7RT1YN1MCWYANSGZ1). Root-down: Speculative fiction
+  > Science fiction > Futurist > Future of Earth fiction > Dystopian futures > Dying earth. The Dying earth leaf''s own definition
+  names Wolfe''s Book of the New Sun as the genre''s most significant inheritor, and a reader looking for Wolfe looks there.
+  Earlier placement, kept for the record: Colonial worlds by ruling phonemsg-01M4E4MHATNAGJSH6VMAGPVYA7 (2026-10-08), then
+  Frontier planets after the 2026-10-11 split. The cycle runs from the New Sun (1980-87, a dying Earth under a failing sun)
+  through the Long Sun (1993-96, the generation-ship city of the Whorl) to the Short Sun (1999-2001, the settlement of the
+  colony planets Blue and Green among the inhumi). Wobble: Dying earth covers the first of three series; the Long Sun reads
+  as Voyage societies and the Short Sun as a colony story. One fiction under rule 11j. Folded in: the Long Sun omnibuses Litany
+  of the Long Sun (MC03359) and Epiphany of the Long Sun (MC03351) are editions of the four Long Sun novels and are not listed
+  separately; Long Sun queue rows MC03347, 03352, 03357, 03360, Short Sun rows MC03355, 03361, 03364; the New Sun omnibuses
+  (MC03370, 03377, 03378) are editions of the first four volumes.'
 books:
 - title: The Shadow of the Torturer
   year: 1980
@@ -83,3 +82,7 @@ placement_history:
   to: frontier-planets
   reason: 'Colonial worlds split into Planet plunder and Frontier planets on the curator''s approval; re-walked root-down:
     this card sits in Frontier planets (settlement).'
+- date: '2026-10-11'
+  from: frontier-planets
+  to: dying-earth
+  reason: Moved on the curator's decision (phonemsg-01M4NXWDN7RT1YN1MCWYANSGZ1).
