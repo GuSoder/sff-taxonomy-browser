@@ -1864,7 +1864,7 @@ MC02240	Belisarius III: The Flames of Sunset	David Drake	2009	in-tree-folded	Bel
 MC02241	Birds of Prey	David Drake	2018	WALK	
 MC02242	Cluster Command	David Drake	2012	WALK	
 MC02243	Conqueror	David Drake	2003	WALK	
-MC02244	Cross the Stars	David Drake	1999	WALK	
+MC02244	Cross the Stars	David Drake	1999	placed-space-mercs	Space mercs seed
 MC02245	Death's Bright Day	David Drake	2016	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02246	Dinosaurs and a Dirigible	David Drake	2014	WALK	
 MC02247	Dogs of War	David Drake		WALK	
@@ -1888,20 +1888,20 @@ MC02264	Northworld Trilogy, Second Edition	David Drake	2012	placed-folded	Northw
 MC02265	Old Nathan	David Drake	1991	WALK	
 MC02266	Other Times Than Peace	David Drake	2006	WALK	
 MC02267	Patriots	David Drake	2009	WALK	
-MC02268	Paying the Piper	David Drake	2002	WALK	
+MC02268	Paying the Piper	David Drake	2002	placed-space-mercs	Space mercs seed
 MC02269	Queen of Demons	David Drake	2006	placed-folded	Lord of the Isles, Hidden heir quest fantasy
-MC02270	Ranks of Bronze	David Drake	2007	WALK	Mercenary-regiments seed candidate (hired legion / Free Companions); held for seed answer
+MC02270	Ranks of Bronze	David Drake	2007	placed-space-mercs	Space mercs seed
 MC02271	Redliners	David Drake	1997	placed	Redliners, Alien-war grunts
 MC02272	Redliners, Second Edition	David Drake	2013	placed-folded	Redliners, Alien-war grunts
-MC02273	Seas of Venus	David Drake	2002	WALK	Mercenary-regiments seed candidate (hired legion / Free Companions); held for seed answer
-MC02274	Seas of Venus, Second Edition	David Drake	2013	WALK	Mercenary-regiments seed candidate (hired legion / Free Companions); held for seed answer
+MC02273	Seas of Venus	David Drake	2002	placed-space-mercs	Space mercs seed
+MC02274	Seas of Venus, Second Edition	David Drake	2013	placed-space-mercs	Space mercs seed
 MC02275	Servant of the Dragon	David Drake	2006	placed-folded	Lord of the Isles, Hidden heir quest fantasy
 MC02276	Some Golden Harbor	David Drake	2006	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02277	Starliner	David Drake	2004	WALK	
 MC02278	Starliner, Second Edition	David Drake	2012	WALK	
 MC02279	The Dragon Lord	David Drake	2009	WALK	
 MC02280	The Far Side of the Stars	David Drake	2003	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02281	The Forlorn Hope	David Drake	2015	WALK	Forlorn Hope = mercenary company (Fasolini); candidate 2nd card for Mercenary regiments seed
+MC02281	The Forlorn Hope	David Drake	2015	placed-space-mercs	Space mercs seed
 MC02282	The Gods Return	David Drake	2008	placed-folded	Lord of the Isles, Hidden heir quest fantasy
 MC02283	The Heretic	David Drake	2012	in-tree	taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/military-science-fiction/space-command/works/the-general.yaml
 MC02284	The Hunter Returns	David Drake	2015	WALK	
@@ -1914,10 +1914,10 @@ MC02290	The Road of Danger	David Drake	2011	placed-folded	The RCN (space-corvett
 MC02291	The Sea Hag, Second Edition	David Drake	2012	WALK	
 MC02292	The Sea Without a Shore	David Drake	2014	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02293	The Serpent	David Drake	2021	WALK	
-MC02294	The Sharp End	David Drake	2009	WALK	
+MC02294	The Sharp End	David Drake	2009	placed-space-mercs	Space mercs seed
 MC02295	The Spark	David Drake	2017	WALK	
 MC02296	The Storm	David Drake	2018	WALK	
-MC02297	The Tank Lords, Second Edition	David Drake	2012	WALK	
+MC02297	The Tank Lords, Second Edition	David Drake	2012	placed-space-mercs	Space mercs seed
 MC02298	The War Machine	David Drake	2012	WALK	
 MC02299	The Way to Glory	David Drake	2005	placed-folded	The RCN (space-corvette), commit b04a21a
 MC02300	The World Turned Upside Down	David Drake	2005	WALK	

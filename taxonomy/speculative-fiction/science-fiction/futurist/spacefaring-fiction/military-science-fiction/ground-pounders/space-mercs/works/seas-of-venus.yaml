@@ -1,0 +1,28 @@
+id: seas-of-venus
+title: Seas of Venus
+authors:
+- David Drake
+first_published: 1992
+canonical_genre: space-mercs
+placement_status: accepted
+placement_rationale: 'Drake''s Seas of Venus (Baen, 1992, stand-alone; second-edition row folded): the Free Companions, a
+  mercenary company hired to fight proxy wars for the rival Keeps of Venus''s colony seas. Walk: Science fiction > Futurist
+  > Spacefaring fiction > Military SF > Ground-pounders > Space mercs. Not Space armada or Space corvette (the unit is a hired
+  company, not a fleet). Wobble moderate to high: the war is fought on and under the sea, not on land.'
+books:
+- title: Seas of Venus
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/476825-L.jpg
+- title: Seas of Venus, Second Edition
+  year: 2013
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/476825-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02273, MC02274)
+placement_history:
+- date: '2026-10-04'
+  to: space-mercs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

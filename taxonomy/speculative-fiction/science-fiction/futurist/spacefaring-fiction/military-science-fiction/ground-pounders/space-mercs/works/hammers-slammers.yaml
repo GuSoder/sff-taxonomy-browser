@@ -1,0 +1,37 @@
+id: hammers-slammers
+title: Hammer's Slammers
+authors:
+- David Drake
+first_published: 1984
+canonical_genre: space-mercs
+placement_status: accepted
+placement_rationale: 'Drake''s Hammer''s Slammers (collection 1979; the queue holds the novels The Sharp End 1993, The Tank
+  Lords 1997, Cross the Stars 1984 and Paying the Piper 2002, one shared universe so one fiction): Colonel Alois Hammer''s
+  mercenary hover-tank regiment, hired by planets and factions, where contract, pay and the Bonding Authority shape every
+  war (Wikipedia Hammer''s Slammers; Baen). Walk: Science fiction > Futurist > Spacefaring fiction > Military SF > Ground-pounders
+  > Space mercs. Not Space marine corps (no state Corps), Super space soldier, Alien-war grunts or Space armada. The seed''s
+  founding card. Wobble low.'
+books:
+- title: Cross the Stars
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/406710-L.jpg
+- title: The Sharp End
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/3933835-L.jpg
+- title: The Tank Lords
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/409592-L.jpg
+- title: Paying the Piper
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/476806-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/409592-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02244, MC02294, MC02297, MC02268)
+placement_history:
+- date: '2026-10-04'
+  to: space-mercs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

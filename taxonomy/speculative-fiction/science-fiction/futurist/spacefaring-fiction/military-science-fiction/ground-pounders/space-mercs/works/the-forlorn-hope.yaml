@@ -1,0 +1,26 @@
+id: the-forlorn-hope
+title: The Forlorn Hope
+authors:
+- David Drake
+first_published: 1984
+canonical_genre: space-mercs
+placement_status: accepted
+placement_rationale: 'Drake''s The Forlorn Hope (Baen, 1984, stand-alone): Colonel Guido Fasolini''s mercenary company, stranded
+  and hunted by a whole planet in a Thirty Years War milieu, fights to get home (Wikipedia; Reactor; Nicoll). Walk: Science
+  fiction > Futurist > Spacefaring fiction > Military SF > Ground-pounders > Space mercs. Not Alien-war grunts or Space marine
+  corps (a hired company, not a state''s). Wobble low.'
+books:
+- title: The Forlorn Hope
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/525395-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/525395-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02281)
+placement_history:
+- date: '2026-10-04'
+  to: space-mercs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

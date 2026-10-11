@@ -5,6 +5,7 @@ children:
 - super-space-soldier
 - space-marine-corps
 - alien-war-grunts
+- space-mercs
 image: 354-ground-pounders.webp
 definition: 'Military SF of the infantry: powered armor, boot camp and the soldier''s-eye war fought in the mud rather than
   from the bridge. Umbrella since 2026-10-09, partitioned by who the soldier is: Super space soldier (the war remakes them),
@@ -17,3 +18,5 @@ history:
 - date: '2026-10-09'
   change: Split with umbrella at ten fictions into Super space soldier, Space marine corps and Alien-war grunts; curator "Approved"
     (phonemsg-01M4G051FVH5QV9RQYMWJG4J81).
+- date: '2026-10-11'
+  change: Seeded Space mercs under it for Hammer's Slammers; curator "lol, ok, space mercs it is" (phonemsg-01M4N7A06BP9F4D2ZH7KB64FXH).
