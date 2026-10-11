@@ -268,3 +268,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed Redshirts (MC04838) into Scripted books in books (3 to 4), spec 344.
 - Placed The Android's Dream (MC04841) into Humorous science fiction (7 to 8), spec 345.
 - Scalzi: After the Coup, President's Brain (novellas), Metatropolis (anthology), two excerpts recorded skip. Monsters of Ohio and When the Moon Hits Your Eye still to walk.
+- Placed When the Moon Hits Your Eye (MC04862) into Cosmic catastrophe (8 to 9), spec 346. Monsters of Ohio unreleased (3 Nov 2026), recorded skip-unreleased.
