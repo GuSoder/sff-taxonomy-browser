@@ -263,3 +263,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Seeded Roman fantasy under Antique times fantasy (curator Approved phonemsg-01M4NXXF2BJHZJD9BRDJXWRY3Q) and placed The Books of the Elements (MC02285, MC02233), spec 339, portrait 664.
 - Placed Birds of Prey (MC02241) into Classic time agencies (6 to 7), spec 340.
 - Placed The Citizen (Into the Hinterlands MC02255, Into the Maelstrom MC02256) into Breakaway space colonies (5 to 6), spec 341.
+- Placed Lock In (Lock In, Head On) into Cyborgs (5 to 6), spec 342. Marked Human Division episodes, End of All Things parts, OMW and Interdependency series rows placed-folded (cards exist).

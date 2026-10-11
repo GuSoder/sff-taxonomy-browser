@@ -1,0 +1,39 @@
+id: lock-in
+title: Lock In
+authors:
+- John Scalzi
+first_published: 2014
+canonical_genre: cyborgs
+placement_status: accepted
+placement_rationale: 'Scalzi''s Lock In series (Tor; Lock In 2014, Head On 2018; Wikipedia, Tor/Macmillan descriptions): a
+  flu-like virus leaves about one percent of the world ''locked in'', awake and aware but unable to move, and a generation
+  later the locked-in live and work through threeps, remote-controlled robot bodies driven from a brain implant, while some
+  survivors, Integrators, lend their own bodies to the locked-in. FBI agent Chris Shane, a locked-in threep user, works a
+  murder that turns on that arrangement in Lock In, and the sequel Head On works a murder in Hilketa, a full-contact sport
+  played by threeps. Walk: Science fiction > Futurist > Future of Earth fiction > Techno-fiction > Technomorphosis > Posthuman
+  > Remade bodies > Cyborgs (machine bodies and neural implants transform human embodiment, which is what drives both plots).
+  Rejected: Neural fiction (a cyberpunk leaf about direct-to-brain access as passage into altered reality; the virtual space
+  here is a side feature), Spytech and Technocrisis (the gear is not a covert-ops tool and there is no systemic crisis), Mystery
+  plague and Pandemic (the virus is backstory, told in the prequel novella Unlocked), Rewired minds (the minds are not altered
+  in place). One shared series, so one fiction (11j). Wobble moderate: both books are police procedurals set in a near-future
+  embodiment world, and the cyborgs leaf is about transformation, not investigation. Unlocked: An Oral History of Haden''s
+  Syndrome (2014) is a prequel novella and is not listed; the queue row The Lock In Series (MC04859, 2019) is the series row.
+  Queue ids MC04834, MC04833, MC04859.'
+books:
+- title: Lock In
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8458699-L.jpg
+- title: Head On
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8457792-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8458699-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04834, MC04833, MC04859)
+placement_history:
+- date: '2026-10-04'
+  to: cyborgs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
