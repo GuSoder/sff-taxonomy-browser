@@ -1,0 +1,38 @@
+id: planet-pirates
+title: Planet Pirates
+authors:
+- Anne McCaffrey
+- Elizabeth Moon
+- Jody Lynn Nye
+first_published: 1990
+canonical_genre: space-corvette
+placement_status: accepted
+placement_rationale: 'McCaffrey''s Planet Pirates trilogy (Sassinak 1990 with Elizabeth Moon, The Death of Sleep 1990 with
+  Jody Lynn Nye, Generation Warriors 1991 with Moon; the Baen omnibus The Planet Pirates, 1993): one shared universe, so one
+  fiction. Sassinak, enslaved at twelve when raiders destroyed her colony, escapes, joins the Fleet and becomes captain of
+  a pirate-chasing ship with a human and heavyworlder crew; Lunzie Mespil, a therapist, wakes from cold sleep into a future
+  she does not know, and the two lines meet against a century-old crime syndicate (Wikipedia, Planet Pirates, per-book summaries).
+  Walk: Science fiction > Futurist > Spacefaring > Military science fiction > Space navy > Space corvette (the one patrol
+  ship and her crew out on their own, the ship and its people the story), not Space armada (the fleet and its capital ships),
+  Space command (the view from the top), or Space academy (the story is service, not training). Wobble moderate: the Lunzie
+  strand is a cold-sleep and civil-life story, and Generation Warriors widens into fleet politics. Sources are Wikipedia,
+  not the books. First publication 1990-1991. Queue ids MC00771, MC00774, MC00758.'
+books:
+- title: Sassinak
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/7010144-L.jpg
+- title: The Death of Sleep
+  year: 1990
+- title: Generation Warriors
+  year: 1991
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/407702-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00771, MC00774, MC00758)
+placement_history:
+- date: '2026-10-04'
+  to: space-corvette
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
