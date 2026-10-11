@@ -3,16 +3,15 @@ title: The Pandominion
 authors:
 - M.R. Carey
 first_published: 2023
-canonical_genre: multiverse-war
+canonical_genre: multiverse-invasion
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Parallel world fiction > Multiverse war.
   Dimension-hopping powers raid neighbouring Earths for resources, machine intelligences and refugees cross between versions
   of reality, and the last engagements of an inter-dimensional war frame Bess''s revenge (Kirkus, PW, Orbit): worlds make
-  war. Folded 2026-10-08 under rule 11j (a shared universe is one fiction): the former
-  separate cards Infinity Gate (2023), Echo of Worlds (2024) and Outlaw Planet (2025, a standalone set in the same universe)
-  are now one fiction with three volumes. Placement history of the three cards: moved to multiverse-war in the Parallel world
-  fiction split (curator ruling: split greenlit ''Do it'' 2026-09-28 11:57 CEST, names locked in the phonemsg-01M3KQ53CJENKAF3B1533ZFAX7
-  exchange).'
+  war. Folded 2026-10-08 under rule 11j (a shared universe is one fiction): the former separate cards Infinity Gate (2023),
+  Echo of Worlds (2024) and Outlaw Planet (2025, a standalone set in the same universe) are now one fiction with three volumes.
+  Placement history of the three cards: moved to multiverse-war in the Parallel world fiction split (curator ruling: split
+  greenlit ''Do it'' 2026-09-28 11:57 CEST, names locked in the phonemsg-01M3KQ53CJENKAF3B1533ZFAX7 exchange).'
 books:
 - title: Infinity Gate
   year: 2023
@@ -34,3 +33,8 @@ placement_history:
 - date: '2026-10-04'
   to: multiverse-war
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: multiverse-war
+  to: multiverse-invasion
+  reason: 'Multiverse war split into Multiverse invasion and Multiverse espionage on the curator''s approval; re-walked root-down:
+    this card sits in Multiverse invasion (open armies).'

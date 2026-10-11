@@ -1,0 +1,38 @@
+id: hells-gate
+title: Hell's Gate
+authors:
+- David Weber
+- Linda Evans
+first_published: 2006
+canonical_genre: multiverse-invasion
+placement_status: accepted
+placement_rationale: 'Weber and Linda Evans''s Multiverse series (Hell''s Gate 2006, Hell Hath No Fury 2007, The Road to Hell
+  2015, Weber alone): one shared universe, so one fiction. Arcana, a world of dragons, gryphons, spells and wizards, has explored
+  scores of duplicate empty Earths through inter-universal portals; then its expedition meets another human civilization with
+  guns, aircraft and ''scientists'' where Arcana has wizards, and the two armies fight (Simon & Schuster/Baen blurb; Publishers
+  Weekly: ''magic and high tech collide in this exciting military SF novel''). Walk: Science fiction > Atemporal > Parallel
+  world fiction > Multiverse war > Multiverse invasion (open armies cross between worlds). Rejected: Multiverse espionage
+  (the war is fought with armies, not covert), Multiverse odyssey (no personal quest drives the crossing), Multiverse mirror
+  (the worlds are not counterparts of each other''s history), and the fantasy Multiverse branch (the engine is a military
+  clash set in an SF multiverse; Publishers Weekly calls it military SF). Wobble moderate: the magic side is fantasy-flavoured,
+  and I read the publisher blurb and review, not the books. Years: first publication 2006, 2007 and 2015; queue ids MC02432,
+  MC02430, MC02462.'
+books:
+- title: Hell's Gate
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/1786980-L.jpg
+- title: Hell Hath No Fury
+  year: 2007
+- title: The Road to Hell
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/1786980-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02432, MC02430, MC02462)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-invasion
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

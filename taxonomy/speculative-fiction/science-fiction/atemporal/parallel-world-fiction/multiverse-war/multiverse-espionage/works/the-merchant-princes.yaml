@@ -1,0 +1,42 @@
+id: the-merchant-princes
+title: The Merchant Princes
+authors:
+- Charles Stross
+first_published: 2004
+canonical_genre: multiverse-espionage
+placement_status: accepted
+placement_rationale: 'Stross''s Merchant Princes (The Family Trade 2004, The Hidden Family 2005, The Clan Corporate 2006,
+  The Trade of Queens 2010 and the rest of the nine-novel series; the queue''s Bloodline Feud is the 2014 omnibus of the first
+  books): one series, so one fiction. Miriam Beckstein, a tech journalist, learns she belongs to a bloodline that can walk
+  between parallel worlds; her clan runs a smuggling trade between a feudal world and ours, and the books follow assassination
+  plots, a modernising faction, a US task force that treats the clan as ''transdimensional narcoterrorists'', and escalating
+  covert and then nuclear conflict (Wikipedia, The Merchant Princes, series and book summaries). Walk: Science fiction > Atemporal
+  > Parallel world fiction > Multiverse war > Multiverse espionage (couriers, clans, a task force and trade pressure rather
+  than open armies). Rejected: Multiverse invasion (no army crosses over until late, and then by missile), Multiverse odyssey
+  (the engine is feud and trade, not a personal crossing), Multiverse mirror (the worlds differ in development, not as counterparts),
+  and the fantasy Multiverse branch (Wikipedia: ''science fantasy and alternate history'' but built on tech and politics).
+  Wobble moderate: the later books have open war and nuclear strikes. Sources are Wikipedia and queue titles; I did not re-read
+  the novels. Years: first publication 2004-2010. Queue ids MC01619, MC01621, MC01617, MC01629, MC01616.'
+books:
+- title: The Family Trade
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/524394-L.jpg
+- title: The Hidden Family
+  year: 2005
+- title: The Clan Corporate
+  year: 2006
+- title: The Trade of Queens
+  year: 2010
+- title: The Bloodline Feud (omnibus)
+  year: 2014
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/524394-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01619, MC01621, MC01617, MC01629, MC01616)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-espionage
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

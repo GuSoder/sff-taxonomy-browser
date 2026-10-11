@@ -3,7 +3,7 @@ title: The Coming of the Quantum Cats
 authors:
 - Frederik Pohl
 first_published: 1986
-canonical_genre: multiverse-war
+canonical_genre: multiverse-invasion
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Parallel world fiction > Multiverse war.
   Invasions from alternate Earths: a militaristic American Earth uses paratime travel to attack another, then a council of
@@ -27,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: multiverse-war
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: multiverse-war
+  to: multiverse-invasion
+  reason: 'Multiverse war split into Multiverse invasion and Multiverse espionage on the curator''s approval; re-walked root-down:
+    this card sits in Multiverse invasion (open armies).'

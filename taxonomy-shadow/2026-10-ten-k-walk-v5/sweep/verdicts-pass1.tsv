@@ -1359,12 +1359,12 @@ MC01612	Singularity Sky	Charles Stross	2004	placed-folded	Eschaton novels, Techn
 MC01613	The Annihilation Score	Charles Stross	2015	placed-folded	Laundry Files, Occult secret service
 MC01614	The Apocalypse Codex	Charles Stross	2012	placed-folded	Laundry Files, Occult secret service
 MC01615	The Atrocity Archives	Charles Stross	2006	placed-folded	Laundry Files, Occult secret service
-MC01616	The Bloodline Feud	Charles Stross	2014	WALK	
-MC01617	The Clan Corporate	Charles Stross	2007	WALK	
+MC01616	The Bloodline Feud	Charles Stross	2014	placed-multiverse-espionage	The Merchant Princes (one fiction)
+MC01617	The Clan Corporate	Charles Stross	2007	placed-multiverse-espionage	The Merchant Princes (one fiction)
 MC01618	The Delirium Brief	Charles Stross	2017	placed-folded	Laundry Files, Occult secret service
-MC01619	The Family Trade	Charles Stross	2010	WALK	
+MC01619	The Family Trade	Charles Stross	2010	placed-multiverse-espionage	The Merchant Princes (one fiction)
 MC01620	The Fuller Memorandum	Charles Stross	2011	placed-folded	Laundry Files, Occult secret service
-MC01621	The Hidden Family	Charles Stross	2006	WALK	
+MC01621	The Hidden Family	Charles Stross	2006	placed-multiverse-espionage	The Merchant Princes (one fiction)
 MC01622	The Jennifer Morgue	Charles Stross	2009	placed-folded	Laundry Files, Occult secret service
 MC01623	The Labyrinth Index	Charles Stross	2018	placed-folded	Laundry Files, Occult secret service
 MC01624	The Nightmare Stacks	Charles Stross	2016	placed-folded	Laundry Files, Occult secret service
@@ -1372,7 +1372,7 @@ MC01625	The Regicide Report	Charles Stross	2026	placed-folded	Laundry Files, Occ
 MC01626	The Revolution Business	Charles Stross	2010	WALK	
 MC01627	The Revolution Trade	Charles Stross	2014	WALK	
 MC01628	The Rhesus Chart	Charles Stross	2014	placed-folded	Laundry Files, Occult secret service
-MC01629	The Trade of Queens	Charles Stross	2010	WALK	
+MC01629	The Trade of Queens	Charles Stross	2010	placed-multiverse-espionage	The Merchant Princes (one fiction)
 MC01630	The Traders' War	Charles Stross	2014	WALK	
 MC01631	Three Tales from the Laundry Files	Charles Stross	2014	skip-novella	Laundry Files novella/collection
 MC01632	Wireless	Charles Stross	2010	skip-novella	Laundry Files novella/collection
@@ -2049,9 +2049,9 @@ MC02426	Field of Dishonor	David Weber	1999	placed-folded	Honor Harrington (space
 MC02427	Fire Season	David Weber	2012	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02428	Flag in Exile	David Weber	2001	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02429	Governor	David Weber	2021	WALK	
-MC02430	Hell Hath No Fury	David Weber	2007	WALK	
+MC02430	Hell Hath No Fury	David Weber	2007	placed-multiverse-invasion	Hell's Gate (one fiction)
 MC02431	Hell's Foundations Quiver	David Weber	2015	placed-folded	Safehold, Lost colony planetary romance
-MC02432	Hell's Gate	David Weber	2006	WALK	
+MC02432	Hell's Gate	David Weber	2006	placed-multiverse-invasion	Hell's Gate (one fiction)
 MC02433	Honor Among Enemies	David Weber	1999	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02434	House of Steel	David Weber	2013	WALK	
 MC02435	How Firm a Foundation	David Weber	2011	placed-folded	Safehold, Lost colony planetary romance
@@ -2080,7 +2080,7 @@ MC02458	The Excalibur Alternative	David Weber	2002	WALK
 MC02459	The Gordian Protocol	David Weber	2018	WALK	
 MC02460	The Honor of the Queen, Second Edition	David Weber	2013	placed-folded	Honor Harrington (space-armada), commit 3979bc3
 MC02461	The Janus File	David Weber	2022	WALK	
-MC02462	The Road to Hell	David Weber	2015	WALK	
+MC02462	The Road to Hell	David Weber	2015	placed-multiverse-invasion	Hell's Gate (one fiction)
 MC02463	The Safehold Series, Volume I	David Weber	2017	skip-omnibus	Safehold omnibus
 MC02464	The Service of the Sword	David Weber	2003	skip-anthology	Worlds of Honor anthology
 MC02465	The Shadow of Saganami	David Weber	2004	placed-folded	Honor Harrington (space-armada), commit 3979bc3
