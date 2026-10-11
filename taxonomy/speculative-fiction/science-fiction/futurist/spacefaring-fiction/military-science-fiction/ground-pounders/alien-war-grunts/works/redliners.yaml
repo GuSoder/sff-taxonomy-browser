@@ -1,0 +1,29 @@
+id: redliners
+title: Redliners
+authors:
+- David Drake
+first_published: 1996
+canonical_genre: alien-war-grunts
+placement_status: accepted
+placement_rationale: 'Drake''s Redliners (Baen, 1996; the second-edition row MC02272 is the same book): in humanity''s long
+  war against the alien Kalendru, Major Arthur Farrell and the burnt-out veterans of Strike Force Company C41 are ''redlined'',
+  too dangerous for civilian life, and are given a last mission guarding involuntary colonists on a death world (Baen, TV
+  Tropes, ISFDB). Root-down: Science fiction -> Futurist -> Spacefaring fiction -> Military science fiction -> Ground-pounders
+  (the soldier''s-eye war) -> Alien-war grunts, a grim war against an alien enemy told from the foot soldiers. Rejected: Super
+  space soldier (they are not remade, they are used up) and Space marine corps (no Corps tradition). Wobble moderate: the
+  second half is a colony survival on a death world rather than the war itself.'
+books:
+- title: Redliners
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/409537-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/409537-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02271)
+placement_history:
+- date: '2026-10-04'
+  to: alien-war-grunts
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
