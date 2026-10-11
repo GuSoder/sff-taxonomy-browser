@@ -1,0 +1,42 @@
+id: crisis-of-empire
+title: Crisis of Empire
+authors:
+- David Drake
+- Thomas T. Thomas
+- William C. Dietz
+- Roger MacBride Allen
+first_published: 1988
+canonical_genre: space-succession-opera
+placement_status: accepted
+placement_rationale: 'Drake''s Crisis of Empire (An Honorable Defense 1988 with Thomas T. Thomas, Cluster Command 1989 with
+  William C. Dietz, The War Machine 1989 with Roger MacBride Allen; Crown of Empire 1994 with Chelsea Quinn Yarbro is not
+  in the queue): one shared series, so one fiction. The Pact, a 4,000-world polity modelled on the Roman Principate, loses
+  its head of state to assassination, which sets off local crises in the Clusters and a scramble for power between the supporters
+  of a minor heir and the governors who want the throne; the books follow a bureaucrat, a general and a naval captain through
+  that crisis and a rebellion on Teller (Wikipedia, Crisis of Empire, setting and plot summaries). Walk: Science fiction >
+  Futurist > Spacefaring > Space opera > New space opera > Political space opera > Space succession opera (the order of the
+  empire fractures and its pieces contend). Rejected: Interstellar court politics (the fight is between Clusters and armies,
+  not a court), Space command (the view from the top is not the engine), Rebel and Insurgent space opera (no single revolt
+  against the throne), Space armada (the fleet is one of several lines). Wobble moderate: the succession is partly dynastic
+  (a minor heir), the third book is an alien-infection story, and I used Wikipedia only. First publication 1988-1989; the
+  queue years 2012 are reissues. Queue ids MC02235, MC02242, MC02298.'
+books:
+- title: An Honorable Defense
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/407467-L.jpg
+- title: Cluster Command
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/9851207-L.jpg
+- title: The War Machine
+  year: 1989
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/407467-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02235, MC02242, MC02298)
+placement_history:
+- date: '2026-10-04'
+  to: space-succession-opera
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
