@@ -1,0 +1,32 @@
+id: the-halting-state-novels
+title: The Halting State novels
+authors:
+- Charles Stross
+first_published: 2007
+canonical_genre: infowar
+placement_status: accepted
+placement_rationale: 'Stross''s Halting State (2007) and Rule 34 (2011), a loose two-book series: in 2018 Edinburgh Sergeant
+  Sue Smith investigates a bank robbery inside a multiplayer game world (the suspects are orcs with a dragon), which unfolds
+  into hacking, state espionage and cyberwar; in Rule 34 Detective Inspector Liz Kavanaugh''s Internet-crime squad chases
+  the murders of ex-spammers through an international conspiracy (PRH, Wikipedia). Root-down: Science fiction -> Modern day
+  -> Technothriller (near-future tech thriller, our world) -> Infowar (information is the weapon: hacking, surveillance, spam,
+  forged media), not Spytech (the gear is not the covert operative''s tool; the networks are the battlefield) or Technocrisis
+  (no single system under strain). Wobble low to moderate: police-procedural framing, Spytech was the alternative.'
+books:
+- title: Halting State
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/5541286-L.jpg
+- title: Rule 34
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/11701742-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/5541286-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01604, MC01609)
+placement_history:
+- date: '2026-10-04'
+  to: infowar
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
