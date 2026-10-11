@@ -1,0 +1,37 @@
+id: the-citizen
+title: The Citizen
+authors:
+- David Drake
+- John Lambshead
+first_published: 2011
+canonical_genre: breakaway-space-colonies
+placement_status: accepted
+placement_rationale: 'Drake and Lambshead''s Citizen series (Baen; Into the Hinterlands 2011, Into the Maelstrom 2015 per
+  ISFDB; Baen study guide and publisher copy): in the Cutter Stream colonies Allen Allenson, a colonial gentleman modelled
+  on the young George Washington, finds the homeworld Brasilia''s territory and a rival Terran colonization in the Hinterlands
+  escalate into war between the two home worlds, and in book two war comes to the colonies, whose people are treated by the
+  homeworld as prison camps and a dumping ground for incompetent noblemen, and Allenson, the only man who can lead the colonial
+  army, fights to free the Cutter Stream. One shared series, so one fiction (11j). Walk: Science fiction > Futurist > Spacefaring
+  > Space colonies > Space colony politics > Breakaway space colonies (the colony against an outside power: independence,
+  separation and the fight over who may rule the settlement). Rejected: Space colony dynasties (the contest is not inside
+  the colony), Colony life (not settled routine), Space armada and Space succession opera (the fleets are not the engine,
+  and no throne is at stake), Colonial worlds / Planet plunder (human colonies, no alien natives). Wobble moderate: book one
+  is a race for territory between two homeworlds; the break is the second book''s war. Queue years 2011 and 2014; ISFDB gives
+  2015 for book two. Queue ids MC02255, MC02256.'
+books:
+- title: Into the Hinterlands
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/12493567-L.jpg
+- title: Into the Maelstrom
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/12493567-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02255, MC02256)
+placement_history:
+- date: '2026-10-04'
+  to: breakaway-space-colonies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
