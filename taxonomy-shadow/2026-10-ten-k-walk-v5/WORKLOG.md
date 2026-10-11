@@ -271,3 +271,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed When the Moon Hits Your Eye (MC04862) into Cosmic catastrophe (8 to 9), spec 346. Monsters of Ohio unreleased (3 Nov 2026), recorded skip-unreleased.
 - Placed The Obsidian Universe (Lackey/Mallory, 7 rows) into Fledgling mage (8 to 9), spec 347. Two trilogy omnibus rows skipped.
 - Placed The Dragon Jousters (4 rows) into Soldier fantasy (8 to 9), spec 348.
+- Placed Elemental Masters (Lackey, 19 rows) into Magicians in gaslight (1 to 2), spec 349. Black Swan held for its own walk.
