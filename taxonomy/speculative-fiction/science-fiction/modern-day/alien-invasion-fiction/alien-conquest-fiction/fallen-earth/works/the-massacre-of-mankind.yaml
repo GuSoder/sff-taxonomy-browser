@@ -3,7 +3,7 @@ title: The Massacre of Mankind
 authors:
 - Stephen Baxter
 first_published: 2017
-canonical_genre: alien-conquest-fiction
+canonical_genre: fallen-earth
 placement_status: accepted
 placement_rationale: 'An authorised sequel to H. G. Wells''s The War of the Worlds: the Martians return in 1920 and Britain
   faces open invasion, occupation and war.'
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: alien-conquest-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: alien-conquest-fiction
+  to: fallen-earth
+  reason: 'Alien conquest fiction split into Fallen Earth and Warzone Earth on the curator''s approval; re-walked root-down:
+    this card sits in Fallen Earth (the invaders hold or have broken the planet).'

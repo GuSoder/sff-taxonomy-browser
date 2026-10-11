@@ -232,3 +232,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 8:35 AM: Ringo Black Tide Rising (3 novels folded, anthology skipped) into Zombie apocalypse (6 to 7); wobble low.
 - 2026-10-11 8:55 AM: Ringo The Last Centurion into The die-off (5 to 6); wobble moderate.
 - 2026-10-11 9:15 AM: Ringo Council Wars (3 rows folded) into Lost knowledge keepers (5 to 6); wobble moderate-high, alt Ozymandian tech.
+- 2026-10-11 9:40 AM: SPLIT Alien conquest fiction into Fallen Earth (5, with Out of the Dark placed from hold, spec 311) and Warzone Earth (5); curator "Ok approved" phonemsg-01M4MY687RPVK13NDXD645C7HN. Portraits 655, 656.

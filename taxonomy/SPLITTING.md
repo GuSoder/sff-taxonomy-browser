@@ -93,3 +93,4 @@ See also GLOSSARY.md for the terms "fiction" (an entry: a stand-alone novel up t
 
 ## Log: deleted leaves
 - 2026-10-08: Golden age S&S and S&S revival (empty, hidden since 2026-09-26) deleted on the curator's order; Pulp S&S keeps all its works.
+| 2026-10-11 | Alien conquest fiction | Fallen Earth / Warzone Earth | has the planet fallen (occupation, resistance) vs still a contested war (5/5 with Out of the Dark in Fallen Earth; names workshopped: Pitched war, Contested Earth, Besieged, Frontline rejected; phonemsg-01M4MY687RPVK13NDXD645C7HN) |

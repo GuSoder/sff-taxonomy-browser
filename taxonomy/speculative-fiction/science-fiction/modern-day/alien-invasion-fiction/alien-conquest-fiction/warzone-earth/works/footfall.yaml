@@ -4,7 +4,7 @@ authors:
 - Larry Niven
 - Jerry Pournelle
 first_published: 1985
-canonical_genre: alien-conquest-fiction
+canonical_genre: warzone-earth
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -22,3 +22,8 @@ placement_history:
   reason: Split of Alien invasion fiction at ten cards, split-with-umbrella, by how the invaders take the world (openly by
     force, or from within); curator "Approved", 2026-10-04 10:32 PM (after the proposal naming Alien conquest fiction and
     Alien infiltration fiction), relayed by the parent.
+- date: '2026-10-11'
+  from: alien-conquest-fiction
+  to: warzone-earth
+  reason: 'Alien conquest fiction split into Fallen Earth and Warzone Earth on the curator''s approval; re-walked root-down:
+    this card sits in Warzone Earth (a contested war for the ground).'
