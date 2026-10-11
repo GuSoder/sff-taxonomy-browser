@@ -243,3 +243,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 12:20 PM: McCaffrey Brainships (6 rows incl. Lackey's The Ship Who Dared) into Cyborgs (4 to 5), spec 319; wobble low-moderate.
 - 2026-10-11 12:25 PM: SEED Space mercs under Ground-pounders (curator 'lol, ok, space mercs it is' phonemsg-01M4N7A06BP9F4D2ZH7KB64FXH), portrait 659; placed Hammer's Slammers (4 novel rows), The Forlorn Hope, Ranks of Bronze, Seas of Venus (specs 320-323). Also 12:20: Brainships into Cyborgs (spec 319).
 - 2026-10-11 12:30 PM: SPLIT Multiverse war into Multiverse invasion (5) / Multiverse espionage (6), curator 'Approved' phonemsg-01M4N7YNZ721H6R652MYP6Q4P4; portraits 660/661; placed Hell's Gate (3 rows) into invasion and The Merchant Princes (5 rows) into espionage (specs 324-325); wobble moderate on both.
+- 2026-10-11 12:35 PM: Ringo/Sherrer Into the Real into Warzone Earth (8 to 9), spec 326; wobble moderate-high, blurb-only, alt LitRPG.
