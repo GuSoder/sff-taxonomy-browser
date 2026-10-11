@@ -1,0 +1,33 @@
+id: fuzzy-nation
+title: Fuzzy Nation
+authors:
+- John Scalzi
+first_published: 2011
+canonical_genre: planet-plunder
+placement_status: accepted
+placement_rationale: 'Scalzi''s Fuzzy Nation (Tor, May 2011; Wikipedia, Scalzi''s own clarifications at whatever.scalzi.com):
+  a reboot, authorized by the Piper estate, not a sequel, of H. Beam Piper''s Little Fuzzy. On the colony planet Zara XXIII
+  the contract surveyor Jack Holloway, a former lawyer fired by the firm Zaracorp, blows open a seam of sunstones and meets
+  the cat-like fuzzys; if a Colonial Authority judge finds them sapient, Zaracorp must leave the planet and give up its resources,
+  so the company tries to bribe Holloway and has the fuzzys killed, and the trial ends with Zaracorp losing its extraction
+  license. Walk: Science fiction > Futurist > Alien fiction > Anthropological science fiction > Xenocolonial > Colonial worlds
+  > Planet plunder (a company comes to strip a world of its sunstones and the natives resist; curator split 2026-10-11, phonemsg-01M4NWSBHS43Z4JTNSCDTC74SR).
+  Its own card, not folded into Little Fuzzy: it is a different author''s reboot in a different continuity, not a later volume
+  of Piper''s series. Rejected: Frontier planets (settlers are not making a home), Alien dominions (no alien rule), Colony
+  life and Space colony politics (the human settlement is not the subject). Wobble low. Queue id MC04832, first published
+  2011.'
+books:
+- title: Fuzzy Nation
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6745742-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6745742-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04832)
+placement_history:
+- date: '2026-10-04'
+  to: planet-plunder
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
