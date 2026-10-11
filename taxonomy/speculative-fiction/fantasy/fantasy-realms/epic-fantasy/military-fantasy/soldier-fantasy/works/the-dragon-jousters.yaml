@@ -1,0 +1,39 @@
+id: the-dragon-jousters
+title: The Dragon Jousters
+authors:
+- Mercedes Lackey
+first_published: 2003
+canonical_genre: soldier-fantasy
+placement_status: accepted
+placement_rationale: 'Lackey''s Dragon Jousters (Joust 2003, Alta 2004, Sanctuary 2005, Aerie 2006; Wikipedia, mercedeslackey.com):
+  in a pre-dynastic Egypt-like world the neighboring countries Alta and Tia fight with dragon-riding Jousters, their most
+  powerful weapon. Vetch, a slave boy who tends dragons, becomes a Jouster (later Kiron) and the books follow him through
+  the war and its aftermath. Walk: Fantasy > Fantasy realms > Epic fantasy > Military fantasy (organized around armies and
+  war) > Soldier fantasy (one fighting unit followed from the inside, the dragon corps named in the leaf''s own definition,
+  as in Dragonmaster). Rejected: Army fantasy leaves (the front and the whole war are not the viewpoint; the Jousters are),
+  Warrior hero (the dragon corps, not one fighter''s armed power), Beast master hero (the bond is with a war dragon in a corps,
+  but the corps and the war are the story; the bonded-mount core is Valdemar''s Companions), Dynastic intrigue leaves (the
+  war is the engine, not succession). One series is one fiction (11j): the four novels are one arc. Wobble moderate: Sanctuary
+  and Aerie move away from the front toward Kiron''s duties and the dragons'' sanctuary, so Beast master hero is the alternative
+  reading. Years from Wikipedia first-publication list.'
+books:
+- title: Joust
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/503707-L.jpg
+- title: Alta
+  year: 2004
+- title: Sanctuary
+  year: 2005
+- title: Aerie
+  year: 2006
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/503707-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06747, MC06694, MC06767, MC06693)
+placement_history:
+- date: '2026-10-04'
+  to: soldier-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
