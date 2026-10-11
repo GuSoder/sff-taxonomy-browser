@@ -246,3 +246,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 12:35 PM: Ringo/Sherrer Into the Real into Warzone Earth (8 to 9), spec 326; wobble moderate-high, blurb-only, alt LitRPG.
 - 2026-10-11 12:57 PM: Pern fold: 9 later Pern novels (Dragonseye, Dragon's Kin, Dragonsblood, Dragon's Fire, Dragon Harper, Dragonheart, Dragongirl, Dragon's Time, Sky Dragons) folded into The Dragonriders of Pern (Lost-colony planetary romance, 14 to 23 books); Gift of Dragons and Girl Who Heard Dragons skipped (collections), On Dragonwings omnibus folded. No spec; wobble low.
 - 2026-10-11 1:17 PM: McCaffrey Doona (Decision at Doona + omnibus) into Colonial worlds (8 to 9), spec 327; wobble low-moderate, alts Alien expedition / Far-future first contact.
+- 2026-10-11 1:37 PM: McCaffrey Freedom/Catteni series (4 rows) into Alien dominions (6 to 7), spec 328; wobble low.

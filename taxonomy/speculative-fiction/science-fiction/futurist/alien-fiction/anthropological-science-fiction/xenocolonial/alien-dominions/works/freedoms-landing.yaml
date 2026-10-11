@@ -1,0 +1,38 @@
+id: freedoms-landing
+title: Freedom's Landing
+authors:
+- Anne McCaffrey
+first_published: 1995
+canonical_genre: alien-dominions
+placement_status: accepted
+placement_rationale: 'McCaffrey''s Catteni (Freedom) series (Freedom''s Landing 1995, Freedom''s Choice 1996, Freedom''s Challenge
+  1998, Freedom''s Ransom 2002): one series, so one fiction. Humans are slaves of the humanoid Catteni, who round up troublemakers
+  and drop them on empty worlds; Kristin Bjornsen and a renegade Catteni, Zainal, lead the dumped humans on the planet Botany,
+  then a rebellion against Catteni rule and a trade settlement between humans, Catteni and their allies (Wikipedia, Catteni
+  Series: ''humans are slaves of aliens, the humanoid Catteni''; Kirkus review of Freedom''s Landing). Walk: Science fiction
+  > Futurist > Alien fiction > Anthropological science fiction > Xenocolonial > Alien dominions (humans live inside alien
+  colonial power; captivity, subordination and the alliance that follows). Rejected: Colonial worlds (the humans are not the
+  colonisers; they are deportees under alien rule), Alien conquest fiction (Modern day, and the war is not the story), Alien
+  expedition (no voyage of discovery). Wobble low. Sources are Wikipedia and Kirkus, not the books. First publication 1995-2002.
+  Queue ids MC00756, MC00755, MC00754, MC00757.'
+books:
+- title: Freedom's Landing
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/isbn/9780552142717-L.jpg
+- title: Freedom's Choice
+  year: 1996
+- title: Freedom's Challenge
+  year: 1998
+- title: Freedom's Ransom
+  year: 2002
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780552142717-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00756, MC00755, MC00754, MC00757)
+placement_history:
+- date: '2026-10-04'
+  to: alien-dominions
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
