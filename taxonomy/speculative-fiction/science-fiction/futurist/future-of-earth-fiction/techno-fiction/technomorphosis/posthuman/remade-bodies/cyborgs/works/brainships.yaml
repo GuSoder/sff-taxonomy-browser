@@ -1,0 +1,44 @@
+id: brainships
+title: Brainships
+authors:
+- Anne McCaffrey
+first_published: 1969
+canonical_genre: cyborgs
+placement_status: accepted
+placement_rationale: 'McCaffrey''s Brainship series (The Ship Who Sang 1969, with later volumes by Lackey, Stirling, Nye and
+  others: The Ship Who Searched, The City Who Fought, The Ship Who Saved the Worlds, the Brain Ships omnibus, and The Ship
+  Who Dared, Lackey and Giguere, book 8 in the Simon & Schuster series list): one shared universe, so one fiction. A child
+  born with a crippled body is made a shell-person, her brain wired into the controls of a starship (or space station, in
+  The City Who Fought) while a human partner, the brawn, travels aboard; the stories are about what that fusion of mind and
+  machine is and what it costs. Walk: Science fiction > Futurist > Posthuman > Cyborgs (cybernetic redesign transforms human
+  embodiment), not Robots or AI (the mind is human, not built) and not Space dash or Spaceship drama (the engine is the embodiment,
+  not the voyage). Wobble low to moderate.'
+books:
+- title: The Ship Who Sang
+  year: 1969
+  cover_url: https://covers.openlibrary.org/b/id/207261-L.jpg
+- title: The Ship Who Searched
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/8575972-L.jpg
+- title: The City Who Fought
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/407687-L.jpg
+- title: The Ship Who Saved the Worlds
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/478393-L.jpg
+- title: Brain Ships (omnibus)
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/478388-L.jpg
+- title: The Ship Who Dared
+  year: 2022
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/207261-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00778, MC00780, MC01267, MC00779, MC00738, MC06805)
+placement_history:
+- date: '2026-10-04'
+  to: cyborgs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
