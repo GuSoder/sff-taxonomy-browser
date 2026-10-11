@@ -3,7 +3,7 @@ title: Man-Kzin Wars
 authors:
 - Hal Colebatch
 - Jessica Q. Fox
-first_published: 2014
+first_published: 2006
 canonical_genre: space-hunt
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New
@@ -21,6 +21,9 @@ placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futuris
   to high. Treasure Planet is a trail to a hoard (Space hunt) while Freedom is a flight (Space dash); the fold follows the
   first volume and the yaml notes Freedom''s flight. Reviewed years: Treasure Planet 2014, Freedom 2020 (Baen, ISFDB 2020-02-09).'
 books:
+- title: Destiny's Forge
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/759854-L.jpg
 - title: Treasure Planet
   year: 2014
   cover_url: https://covers.openlibrary.org/b/isbn/9781476780702-L.jpg
@@ -32,8 +35,14 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/isbn/9781476780702-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC03647, MC03646)
+intake: ten-k walk v5 (queue ids MC03647, MC03646, MC07635)
 placement_history:
 - date: '2026-10-04'
   to: space-hunt
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  reason: Folded Paul Chafe's Destiny's Forge (Baen, 2006, a Man-Kzin Wars novel; queue MC07635) into the Man-Kzin Wars fiction
+    under rule 11j (shared universe, one fiction); same leaf, no placement change. Its engine is a young kzin heir's wilderness
+    exile and alliance with two human warriors while the Great Prides fight each other and humanity (Baen blurb), so wobble
+    is moderate to high against Space hunt, as with Freedom. The numbered Man-Kzin Wars volumes in the queue are anthologies
+    and are skipped.
