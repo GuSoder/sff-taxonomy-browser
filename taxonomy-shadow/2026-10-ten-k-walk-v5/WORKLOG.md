@@ -269,3 +269,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed The Android's Dream (MC04841) into Humorous science fiction (7 to 8), spec 345.
 - Scalzi: After the Coup, President's Brain (novellas), Metatropolis (anthology), two excerpts recorded skip. Monsters of Ohio and When the Moon Hits Your Eye still to walk.
 - Placed When the Moon Hits Your Eye (MC04862) into Cosmic catastrophe (8 to 9), spec 346. Monsters of Ohio unreleased (3 Nov 2026), recorded skip-unreleased.
+- Placed The Obsidian Universe (Lackey/Mallory, 7 rows) into Fledgling mage (8 to 9), spec 347. Two trilogy omnibus rows skipped.
