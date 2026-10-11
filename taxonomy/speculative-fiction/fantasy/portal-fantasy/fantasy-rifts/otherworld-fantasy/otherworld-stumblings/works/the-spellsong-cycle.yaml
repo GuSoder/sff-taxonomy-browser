@@ -1,0 +1,39 @@
+id: the-spellsong-cycle
+title: The Spellsong Cycle
+authors:
+- L. E. Modesitt Jr.
+first_published: 1997
+canonical_genre: otherworld-stumblings
+placement_status: accepted
+placement_rationale: 'Modesitt''s five-book Spellsong Cycle (Soprano Sorceress 1997 to Shadowsinger 2002; first three follow
+  Anna Marshall, an Iowa State music instructor, the last two her adopted daughter Secca): Anna is magically transported from
+  Ames, Iowa to Erde, where song is magic and her training makes her a powerful sorceress who is drawn into the war between
+  Defalk and Ebra''s Dark Monks. Sources: Tor and Kirkus blurbs, Wikipedia, lemodesittjr.com. Root-down: Fantasy -> Portal
+  fantasy (a modern person crosses into a secondary world) -> Fantasy rifts -> Otherworld fantasy (one hidden world reached
+  from ours, not a system of many) -> nobody is shown calling her, she is simply carried across, so Otherworld stumblings,
+  not summonings. Wobble moderate: the blurbs say only ''transported'' and do not name a summoner; if a summoner is later
+  shown, Otherworld summonings (5) is the alternative. Not Epic fantasy: the crossing is the defining frame. Cover: Darksong
+  Rising jacket (Soprano Sorceress jacket carries an archer).'
+books:
+- title: The Soprano Sorceress
+  year: 1997
+- title: The Spellsong War
+  year: 1998
+- title: Darksong Rising
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/886030-L.jpg
+- title: The Shadow Sorceress
+  year: 2001
+- title: Shadowsinger
+  year: 2002
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/886030-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05781, MC05782, MC05672, MC05725, MC05703)
+placement_history:
+- date: '2026-10-04'
+  to: otherworld-stumblings
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
