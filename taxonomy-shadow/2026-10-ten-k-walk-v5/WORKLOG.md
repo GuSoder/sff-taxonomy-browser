@@ -238,3 +238,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 10:35 AM: Ringo/Taylor Von Neumann's War into Warzone Earth (6 to 7), spec 314; wobble moderate.
 - 2026-10-11 10:58 AM: Ringo/Taylor Looking Glass series (4 rows) into Warzone Earth (7 to 8), spec 315; wobble moderate-high.
 - 2026-10-11 11:20 AM: SPLIT Revolutionary space opera into Rebel space opera (5) and Insurgent space opera (4 + The Forever Hero = 5, spec 316); curator "Approved" phonemsg-01M4N3MYGQ6K3GJC59K5TWBFWR. Portraits 657, 658.
+- 2026-10-11 11:40 AM: Ringo Special Circumstances (Princess/Queen of Wands) into Occult secret service (6 to 7), spec 317; wobble moderate, alt Occult consultants. Paladin of Shadows rows MC04781/04787/04802/04823 marked skip-nonspec (thriller).
