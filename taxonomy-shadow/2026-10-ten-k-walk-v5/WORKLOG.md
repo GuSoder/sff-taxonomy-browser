@@ -274,3 +274,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed Elemental Masters (Lackey, 19 rows) into Magicians in gaslight (1 to 2), spec 349. Black Swan held for its own walk.
 - Lackey: Dragon Prophecy (Crown of Vengeance, Deliverance of Dragons) folded into The Obsidian Universe; Valdemar/Bedlam anthologies, collections, omnibus rows and Wing Commander tie-in recorded skip.
 - Placed The Secret World Chronicle (5 rows) into Superhero fiction (4 to 5), spec 350.
+- Placed Bardic Voices (4 rows) into Bard hero (3 to 4), spec 351.
