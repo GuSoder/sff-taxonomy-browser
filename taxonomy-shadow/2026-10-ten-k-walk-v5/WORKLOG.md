@@ -267,3 +267,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed Fuzzy Nation (MC04832) into Planet plunder (4 to 5), spec 343.
 - Placed Redshirts (MC04838) into Scripted books in books (3 to 4), spec 344.
 - Placed The Android's Dream (MC04841) into Humorous science fiction (7 to 8), spec 345.
+- Scalzi: After the Coup, President's Brain (novellas), Metatropolis (anthology), two excerpts recorded skip. Monsters of Ohio and When the Moon Hits Your Eye still to walk.
