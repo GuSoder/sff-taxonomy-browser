@@ -253,3 +253,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 3:00 PM: Weber In Fury Born (Path of the Fury rewrite) into Space hunt (4 to 5), spec 332; wobble moderate. Apocalypse Troll held: modern-day war with a Troll (Warzone Earth, 9, needs split).
 - 2026-10-11 3:20 PM: Man-Kzin Wars: Chafe's Destiny's Forge folded into the existing Man-Kzin Wars card (Space hunt); 12 numbered volumes marked skip-anthology; wobble moderate-high. No new spec.
 - 2026-10-11 3:40 PM: Weber/Holo Gordian Division (5 rows) into Time agency thrillers (3 to 4), spec 333; wobble moderate.
+- 2026-10-11 4:00 PM: Weber/Fox Ascent to Empire (Governor, Rebel) into Insurgent space opera (5 to 6), spec 334; wobble moderate-high; Rebel year corrected 2020 to 2024.

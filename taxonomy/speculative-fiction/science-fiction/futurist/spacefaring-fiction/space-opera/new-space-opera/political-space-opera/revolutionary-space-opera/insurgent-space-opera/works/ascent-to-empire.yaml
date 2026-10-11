@@ -1,0 +1,38 @@
+id: ascent-to-empire
+title: Ascent to Empire
+authors:
+- David Weber
+- Richard Fox
+first_published: 2021
+canonical_genre: insurgent-space-opera
+placement_status: accepted
+placement_rationale: 'Weber and Richard Fox''s Ascent to Empire (Governor 2021, Rebel 2024; the queue''s Rebel 2020 is a wrong
+  year, Baen lists 2024): one series, so one fiction. In the mid-27th century the Terran Republic and the Terran League have
+  killed each other for over fifty years while the Five Hundred, the Heart Worlds'' elite, do not care; Rear Admiral Terrence
+  Murphy, himself a Heart Worlder and a member of that elite, is sent to govern the backwater Fringe System of New Dublin
+  and instead sets out to unearth the secrets behind fifty-six years of slaughter and the people who profit from it, which
+  leads to the founding of the Terran Empire (davidweber.net blurb; the series is a companion to In Fury Born; Paul Semel''s
+  interview with Weber and Fox). Walk: Science fiction > Futurist > Spacefaring > Space opera > New space opera > Political
+  space opera > Revolutionary space opera > Insurgent space opera (the revolt starts inside the regime''s own machine: an
+  insider officer works against his own elite). Rejected: Rebel space opera (the revolt does not come from outside the order),
+  Space succession opera (the Republic is not a collapsed empire being succeeded; the empire is being made), Space armada
+  and Space command (the war is the backdrop, not the engine). Wobble moderate to high: I have the Governor blurb and the
+  interview, not Rebel''s text or either book, and the series reads as part reformist politics and part war. First publication
+  2021 and 2024. Queue ids MC02429, MC02453.'
+books:
+- title: Governor
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10670074-L.jpg
+- title: Rebel
+  year: 2024
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10670074-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02429, MC02453)
+placement_history:
+- date: '2026-10-04'
+  to: insurgent-space-opera
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
