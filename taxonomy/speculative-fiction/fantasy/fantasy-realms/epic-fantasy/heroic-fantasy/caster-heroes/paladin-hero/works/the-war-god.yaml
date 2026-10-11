@@ -27,14 +27,19 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/479133-L.jpg
 - title: War Maid's Choice
   year: 2012
+- title: The Sword of the South
+  year: 2015
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/409473-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC02448, MC02473, MC02488, MC02484)
+intake: ten-k walk v5 (queue ids MC02448, MC02473, MC02488, MC02484, MC02470)
 placement_history:
 - date: '2026-10-04'
   to: paladin-hero
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  to: paladin-hero
+  reason: 'Fold: The Sword of the South (2015, davidweber.net lists it as War God Book 5, Bahzell Bahnakson appears) folded as one fiction (11j); no new card.'
