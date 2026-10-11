@@ -276,3 +276,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed The Secret World Chronicle (5 rows) into Superhero fiction (4 to 5), spec 350.
 - Placed Bardic Voices (4 rows) into Bard hero (3 to 4), spec 351.
 - Placed Bedlam's Bard (5 rows) into Big-city fae (5 to 6), spec 352.
+- Placed Gwenhwyfar (MC06737) into Arthur reimagined (4 to 5), spec 353.
