@@ -1,0 +1,33 @@
+id: black-tide-rising
+title: Black Tide Rising
+authors:
+- John Ringo
+first_published: 2014
+canonical_genre: zombie-apocalypse
+placement_status: accepted
+placement_rationale: 'Ringo''s Black Tide Rising (Under a Graveyard Sky 2013, To Sail a Darkling Sea 2014, Islands of Rage
+  and Hope 2014, Strands of Sorrow 2014/15, The Valley of Shadows 2018 and River of Night 2019 with Mike Massa; the queue
+  holds Islands of Rage and Hope, Strands of Sorrow and River of Night, the anthology Black Tide Rising MC00019 is skipped):
+  a plague turns most of humanity into rabid infected, and a survivalist family escapes by boat and becomes the best hope
+  of others stranded at sea (Wikipedia, ISFDB). Root-down: Science fiction -> Modern day -> Apocalyptic fiction -> Pandemic
+  (civilization ends by plague) -> Zombie apocalypse (the plague turns people: the infected). Wobble low: the infected are
+  living and rabid, not the dead, which the Pandemic leaf definition covers (''the infected, the risen dead, the fevered'').'
+books:
+- title: Islands of Rage and Hope
+  year: 2014
+- title: Strands of Sorrow
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8448528-L.jpg
+- title: River of Night
+  year: 2019
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8448528-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04801, MC04810, MC04808)
+placement_history:
+- date: '2026-10-04'
+  to: zombie-apocalypse
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

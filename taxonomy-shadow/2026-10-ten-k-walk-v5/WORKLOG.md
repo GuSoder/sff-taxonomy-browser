@@ -229,3 +229,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - 2026-10-11 6:50 AM: Stross Halting State and Rule 34 into Infowar (5 to 6); wobble low-moderate, alt Spytech.
 - 2026-10-11 7:35 AM: Drake Northworld trilogy (from omnibus rows MC02263/02264) into Big dumb worlds (6 to 7); wobble moderate. Belisarius rows MC02236, 02238-02240 marked in-tree.
 - 2026-10-11 8:12 AM: Drake Redliners into Alien-war grunts (3 to 4); wobble moderate. Ranks of Bronze and Seas of Venus noted as Mercenary-regiments seed candidates.
+- 2026-10-11 8:35 AM: Ringo Black Tide Rising (3 novels folded, anthology skipped) into Zombie apocalypse (6 to 7); wobble low.
