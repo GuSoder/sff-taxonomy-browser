@@ -1,0 +1,36 @@
+id: the-books-of-the-elements
+title: The Books of the Elements
+authors:
+- David Drake
+first_published: 2010
+canonical_genre: roman-fantasy
+placement_status: accepted
+placement_rationale: 'Drake''s Books of the Elements (Tor, four novels, 2010-2015; david-drake.com): The Legions of Fire (2010)
+  and Air and Darkness (2015) are in the queue; Out of the Waters (2011) and Monsters of the Earth (2013) are not. The series
+  is set in Carce, an invented city and empire closely modelled on Rome under Tiberius, where classical myth and magic are
+  real: the Sibylline Books and the Cumean Sibyl are real, and the first book mixes them with Norse myth, the later ones with
+  Native American, African and Indian myth, each paired with an element and a direction. Drake himself says it is not a novel
+  about Rome and not historical fiction. One shared universe, so one fiction (11j). Walk: Speculative fiction > Fantasy >
+  Fantasy realms/Real-earth fantasy > Historical fantasy > Period fantasy > Antique times fantasy > Roman fantasy (seeded
+  2026-10-11, curator ''Approved'' phonemsg-01M4NXXF2BJHZJD9BRDJXWRY3Q). Rejected: Roman myth fantasy (it retells the founding
+  myths, which these books do not), Autumn kingdoms (14th-century Europe), Mythological fantasy and Mythic retelling (the
+  myths are the world''s working magic, not a retold story), Alternate history fantasy (Carce is not a changed Rome). Wobble
+  moderate: the empire is Rome-like, not Rome. Queue years: Legions 2010, Air and Darkness 2015. Queue ids MC02285, MC02233.
+  Jacket: Tor hardcover of The Legions of Fire (author site).'
+books:
+- title: The Legions of Fire
+  year: 2010
+  cover_url: https://david-drake.com/wordpress/wp-content/uploads/2010/01/Legions-small1-198x300.jpg
+- title: Air and Darkness
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://david-drake.com/wordpress/wp-content/uploads/2010/01/Legions-small1-198x300.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02285, MC02233)
+placement_history:
+- date: '2026-10-04'
+  to: roman-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

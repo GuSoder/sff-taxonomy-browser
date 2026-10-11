@@ -260,3 +260,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 - Placed The Dragon Lord (MC02279) into Arthur classic (3 to 4), spec 337.
 - Colonial worlds split into Planet plunder (3) / Frontier planets (6), curator Execute phonemsg-01M4NWSBHS43Z4JTNSCDTC74SR; portraits 662/663. Placed Petaybee (MC00769) into Planet plunder (4), spec 338.
 - Moved The Solar Cycle from Frontier planets to Dying earth (5 / 9), curator Yes phonemsg-01M4NXWDN7RT1YN1MCWYANSGZ1.
+- Seeded Roman fantasy under Antique times fantasy (curator Approved phonemsg-01M4NXXF2BJHZJD9BRDJXWRY3Q) and placed The Books of the Elements (MC02285, MC02233), spec 339, portrait 664.
