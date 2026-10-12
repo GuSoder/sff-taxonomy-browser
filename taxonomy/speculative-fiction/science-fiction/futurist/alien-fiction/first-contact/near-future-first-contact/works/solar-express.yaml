@@ -1,0 +1,27 @@
+id: solar-express
+title: Solar Express
+authors:
+- L. E. Modesitt
+first_published: 2015
+canonical_genre: near-future-first-contact
+placement_status: accepted
+placement_rationale: 'L. E. Modesitt''s Solar Express (2015; Kirkus, Modesitt''s site): about a century from now, the radio
+  astronomer Dr. Alayna Wong-Grant finds a massive nickel-iron asteroid approaching, a power sends Capt. Christopher Tavoian
+  on a solo mission to capture it, and she discovers it is not natural but created, an alien artifact that begins to affect
+  life on Earth. Walk: Futurist > Alien fiction > First contact > Near-future first contact (alien presence transforms a recognizable
+  human world). Weak: it is also hard-SF orbital mechanics. Alternative: Orbital mechanics. Sources: Kirkus, Modesitt''s site;
+  not read.'
+books:
+- title: Solar Express
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8467394-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05705)
+placement_history:
+- date: '2026-10-04'
+  to: near-future-first-contact
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
