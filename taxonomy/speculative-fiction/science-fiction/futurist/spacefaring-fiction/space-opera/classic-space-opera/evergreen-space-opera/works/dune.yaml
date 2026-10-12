@@ -5,9 +5,9 @@ authors:
 first_published: 1965
 canonical_genre: evergreen-space-opera
 placement_status: accepted
-placement_rationale: 'Candidate #731 The Dune Chronicles deduped into this complete Frank Herbert six-book saga. SFE treats Dune as a lasting space-opera
-  landmark; PRH confirms the six original novels. Galactic politics, dynastic conflict and messianic revolution span an interstellar empire, and its perpetual
-  readership makes Evergreen space opera exact.'
+placement_rationale: 'Candidate #731 The Dune Chronicles deduped into this complete Frank Herbert six-book saga. SFE treats Dune as a lasting space-opera landmark;
+  PRH confirms the six original novels. Galactic politics, dynastic conflict and messianic revolution span an interstellar empire, and its perpetual readership makes
+  Evergreen space opera exact.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/dune_series
 - https://www.penguinrandomhouse.com/books/667073/frank-herberts-dune-saga-6-book-boxed-set-by-frank-herbert/
@@ -19,14 +19,14 @@ cover_curation:
   cover_id: ISBN-9780575081505
   beauty_score: 8.5
   beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book objects
-  beauty_rationale: Cloaked figures climb a vast windblown dune beneath a blazing amber sky, their stillsuits, hooks, and trailing fabric rendered in rich
-    painterly detail and dramatic backlight across the flat front.
+  beauty_rationale: Cloaked figures climb a vast windblown dune beneath a blazing amber sky, their stillsuits, hooks, and trailing fabric rendered in rich painterly
+    detail and dramatic backlight across the flat front.
   visually_reviewed_on: '2026-09-12'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 11
-  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical
-    book objects
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover art over photos of physical book
+    objects
   title_overlay: false
 books:
 - title: Dune
@@ -47,6 +47,42 @@ books:
 - title: 'Chapterhouse: Dune'
   first_published: 1985
   cover_url: https://covers.openlibrary.org/b/isbn/0575035765-L.jpg
+- title: House Atreides
+  year: 1999
+- title: House Harkonnen
+  year: 2000
+- title: House Corrino
+  year: 2001
+- title: The Butlerian Jihad
+  year: 2002
+- title: The Machine Crusade
+  year: 2003
+- title: The Battle of Corrin
+  year: 2004
+- title: Hunters of Dune
+  year: 2006
+- title: Sandworms of Dune
+  year: 2007
+- title: Paul of Dune
+  year: 2008
+- title: The Winds of Dune
+  year: 2009
+- title: Sisterhood of Dune
+  year: 2012
+- title: Mentats of Dune
+  year: 2014
+- title: Navigators of Dune
+  year: 2016
+- title: The Duke of Caladan
+  year: 2020
+- title: The Lady of Caladan
+  year: 2021
+- title: The Heir of Caladan
+  year: 2022
+- title: Sands of Dune
+  year: 2022
+- title: Princess of Dune
+  year: 2023
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/space-opera to match live tree; placement unchanged on site.'
