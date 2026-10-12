@@ -5,19 +5,19 @@ authors:
 first_published: 2019
 canonical_genre: lost-knowledge-quest
 placement_status: accepted
-placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian fiction
-  > Ruined Earth > Lost knowledge. Per Publishers Weekly: guilds of Salvationists raid the buried high-tech treasures of the
-  fallen Tarakan civilization, and the Puzzler is the one who can open its cyber-locked nodes; the plot is a hunt for a puzzler
-  lost in the labyrinth of the City within the Mountain. A successor society recovering, selling and fearing the old world''s
-  technology is the Lost knowledge definition (relic science and its dangerous return). Rejected: Wild ruins (the people do
-  not live wild among the ruins; they run guilds and auctions), Big dumb relics and Alien delving (the ruins are human, not
-  alien, and the setting is a ruined Earth, not space opera). Wobble: the dungeon-crawl structure reads like Fantasy-style
-  delving; the leaf fits because the treasure is lost technology. Series opener (The Tarakan Chronicles, book 1); only this
-  volume is in the queue. Year is the Harper Voyager first edition per Open Library (2019); the queue has no year.'
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian fiction > Ruined Earth > Lost knowledge. Per
+  Publishers Weekly: guilds of Salvationists raid the buried high-tech treasures of the fallen Tarakan civilization, and the Puzzler is the one who can open its cyber-locked
+  nodes; the plot is a hunt for a puzzler lost in the labyrinth of the City within the Mountain. A successor society recovering, selling and fearing the old world''s
+  technology is the Lost knowledge definition (relic science and its dangerous return). Rejected: Wild ruins (the people do not live wild among the ruins; they run
+  guilds and auctions), Big dumb relics and Alien delving (the ruins are human, not alien, and the setting is a ruined Earth, not space opera). Wobble: the dungeon-crawl
+  structure reads like Fantasy-style delving; the leaf fits because the treasure is lost technology. Series opener (The Tarakan Chronicles, book 1); only this volume
+  is in the queue. Year is the Harper Voyager first edition per Open Library (2019); the queue has no year.'
 books:
 - title: The Lost Puzzler
   year: 2019
   cover_url: https://covers.openlibrary.org/b/id/8494763-L.jpg
+- title: The Puzzler's War
+  year: 2020
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -32,5 +32,4 @@ placement_history:
 - date: '2026-10-10'
   from: lost-knowledge
   to: lost-knowledge-quest
-  reason: 'Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). A delve into a ruined city for lost technology:
-    fits.'
+  reason: 'Split of Lost knowledge at ten (phonemsg-01M4KAJDNS33TZFGQJ5XBXE1B8). A delve into a ruined city for lost technology: fits.'

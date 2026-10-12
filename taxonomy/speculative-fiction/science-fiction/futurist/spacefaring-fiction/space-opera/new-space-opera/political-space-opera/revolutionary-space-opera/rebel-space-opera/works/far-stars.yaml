@@ -5,9 +5,9 @@ authors:
 first_published: 2015
 canonical_genre: rebel-space-opera
 placement_status: accepted
-placement_rationale: 'Jay Allan''s Far Stars: the crew of the Wolf''s Claw is drawn into a marshal''s campaign to unite the
-  fractured Far Stars worlds into one bloc against imperial encroachment (author site). Resistance to an empire''s reach,
-  and the fight for the Far Stars'' independence, is the spine: Revolutionary space opera.'
+placement_rationale: 'Jay Allan''s Far Stars: the crew of the Wolf''s Claw is drawn into a marshal''s campaign to unite the fractured Far Stars worlds into one bloc
+  against imperial encroachment (author site). Resistance to an empire''s reach, and the fight for the Far Stars'' independence, is the spine: Revolutionary space
+  opera.'
 books:
 - title: Enemy in the Dark
   year: 2015
@@ -18,6 +18,8 @@ books:
 - title: Funeral Games
   year: 2016
   cover_url: https://covers.openlibrary.org/b/id/12660188-L.jpg
+- title: The Emperor's Fist
+  year: 2019
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -32,5 +34,5 @@ placement_history:
 - date: '2026-10-11'
   from: revolutionary-space-opera
   to: rebel-space-opera
-  reason: 'Revolutionary space opera split into Rebel space opera and Insurgent space opera on the curator''s approval; re-walked
-    root-down: this card sits in Rebel space opera (the revolt comes from outside the empire).'
+  reason: 'Revolutionary space opera split into Rebel space opera and Insurgent space opera on the curator''s approval; re-walked root-down: this card sits in Rebel
+    space opera (the revolt comes from outside the empire).'
