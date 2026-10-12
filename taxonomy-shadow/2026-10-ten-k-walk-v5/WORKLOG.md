@@ -283,3 +283,4 @@ Next: Turtledove block from MC03718. QA batches owed.
 Moorcock cluster (MC06888-MC06922): specs 402-409; Behold the Man held (homebrew split).
 Kim Harrison (MC05524-53): spec 410 Hollows -> paranormal-aftermath; Shadow Age held (Occult institutions split).
 KSR (MC05555-75): specs 411-418; Science in the Capital + Galileo's Dream held.
+K cluster MC05576-05604: specs 419-429.
