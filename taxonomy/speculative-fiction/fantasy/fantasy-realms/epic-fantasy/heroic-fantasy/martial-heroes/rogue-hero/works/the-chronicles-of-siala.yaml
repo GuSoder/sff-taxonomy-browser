@@ -1,0 +1,31 @@
+id: the-chronicles-of-siala
+title: The Chronicles of Siala
+authors:
+- Alexey Pehov
+first_published: 2002
+canonical_genre: rogue-hero
+placement_status: accepted
+placement_rationale: 'Alexey Pehov, The Chronicles of Siala (Shadow Prowler 2002 in Russian, English 2010; Simon and Schuster):
+  Shadow Harold, a self-deprecating professional thief, is bound by oath to a commission to find a long-lost artefact that
+  can save the Kingdom of Siala before the Nameless One''s gathered army reaches the walls of Avendoom. The thief''s stealth
+  and cunning carry the story (Simon and Schuster blurb, Publishers Weekly: a thief hero who does not believe he is the chosen
+  one). Walk: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero
+  (a protagonist whose power is stealth, infiltration and cunning). Rejected: Dark quest fantasy (the thief, not the doom,
+  is the engine), Fellowship quest fantasy (the band is a means). Wobble: medium; it is also an expedition quest. Sources:
+  Simon and Schuster blurb and Publishers Weekly review, not the book. Year is the English first edition; Russian original
+  2002.'
+books:
+- title: Shadow Prowler
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/9107523-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9107523-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00470)
+placement_history:
+- date: '2026-10-04'
+  to: rogue-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

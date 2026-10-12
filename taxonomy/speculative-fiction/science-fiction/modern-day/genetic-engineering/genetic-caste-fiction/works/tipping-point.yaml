@@ -1,0 +1,35 @@
+id: tipping-point
+title: Tipping Point
+authors:
+- Alan Dean Foster
+first_published: 2010
+canonical_genre: genetic-caste-fiction
+placement_status: accepted
+placement_rationale: 'Alan Dean Foster, the Tipping Point trilogy (The Human Blend 2010, Body, Inc. 2012, The Sum of Her Parts
+  2012; Del Rey, Publishers Weekly): in a near future where genetic manipulation and extreme body modification are ubiquitous
+  and criminals are punished through gene work and surgery, a geneticist and a modified street runner (Whispr) flee corporate
+  assassins across Africa to reach a mysterious filament. Walk: Speculative fiction > Science fiction > Modern day > Genetic
+  engineering > Genetic caste fiction (gene work makes a designed kind of person; heredity and modification become rank and
+  punishment). Rejected: Cloning fiction (no copies), Technothriller (the engine is the modified body, not a system under
+  strain). Wobble: medium, the chase plot is thriller-shaped. Sources: Penguin Random House, Publishers Weekly, SF Crowsnest.'
+books:
+- title: The Human Blend
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6669853-L.jpg
+- title: Body, Inc.
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8324909-L.jpg
+- title: The Sum of Her Parts
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8110466-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6669853-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00374, MC00350, MC00376)
+placement_history:
+- date: '2026-10-04'
+  to: genetic-caste-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

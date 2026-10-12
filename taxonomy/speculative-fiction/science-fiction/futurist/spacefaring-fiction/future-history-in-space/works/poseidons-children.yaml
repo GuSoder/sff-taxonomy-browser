@@ -1,0 +1,36 @@
+id: poseidons-children
+title: Poseidon's Children
+authors:
+- Alastair Reynolds
+first_published: 2012
+canonical_genre: future-history-in-space
+placement_status: accepted
+placement_rationale: 'Alastair Reynolds, Poseidon''s Children (Blue Remembered Earth 2012, On the Steel Breeze 2013, Poseidon''s
+  Wake 2015; Gollancz, Ace, ISFDB): the Akinya family follows humanity''s expansion across the solar system and out to other
+  stars over centuries, from a near-future African dynasty and the Moon to Mars and an interstellar ark, with elephants, a
+  lost alien Mystery, and a long trail of human diaspora. Walk: Speculative fiction > Science fiction > Futurist > Spacefaring
+  fiction > Future history in space (a sustained future course of interstellar human civilization, as with Alliance-Union
+  and the new Humanx Commonwealth). Rejected: Alien cosmic history (the aliens are a late reveal), Space colonies (the arc
+  is the whole expansion, not one colony), Generation starships (only one volume sails). Wobble: low-medium. Sources: publisher
+  and ISFDB series pages, not the books.'
+books:
+- title: Blue Remembered Earth
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7254226-L.jpg
+- title: On the Steel Breeze
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7319336-L.jpg
+- title: Poseidon's Wake
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/7428906-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7254226-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00391, MC00401, MC00402)
+placement_history:
+- date: '2026-10-04'
+  to: future-history-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

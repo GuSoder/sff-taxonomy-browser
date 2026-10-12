@@ -1,0 +1,34 @@
+id: the-roboteer-trilogy
+title: The Roboteer Trilogy
+authors:
+- Alex Lamb
+first_published: 2015
+canonical_genre: space-combat
+placement_status: accepted
+placement_rationale: 'Alex Lamb, the Roboteer trilogy (Roboteer 2015, Nemesis 2017, Exodus 2017; Gollancz, the author''s site):
+  the starship Ariel, a mile long with six crew, is on a secret mission in a war involving the Galatean worlds; the roboteer
+  Will Kuno commands a fleet of robot warships through his own neural link, and the fighting leads to an alien threat. Walk:
+  Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New space opera > Space adventure
+  > Space combat (a fight faced, with war machines and pilots driving the story). Rejected: Space dash and hunt (not a chase),
+  Alien expedition (the contact is the late turn, not the engine). Wobble: medium; the later books turn on alien contact.
+  Sources: Gollancz and the author''s site, not the books.'
+books:
+- title: Roboteer
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/13081711-L.jpg
+- title: Nemesis
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8540608-L.jpg
+- title: Exodus
+  year: 2017
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13081711-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00440, MC00439, MC00438)
+placement_history:
+- date: '2026-10-04'
+  to: space-combat
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
