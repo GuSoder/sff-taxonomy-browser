@@ -40,18 +40,17 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/909032-L.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/future-history-in-space
-    to match live tree; placement unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/future-history-in-space to match live tree; placement unchanged
+    on site.'
   previous_canonical_genre: future-history-in-space
 - date: '2026-10-06'
-  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
-    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Foundation, Galactic Empire; re-walked root-down
-    into future-history-in-space.'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy we group shared universe books together''
+    (2026-10-06 9:55 AM)); merged: Foundation, Galactic Empire; re-walked root-down into future-history-in-space.'
 - date: '2026-10-08'
-  reason: 'Folded Foundation and Chaos (Greg Bear, 1998): the first of the Second Foundation Trilogy, authorised by the Asimov
-    estate and billed on gregbear.com as a sequel to Asimov''s Foundation series. One universe, one fiction (rule 11j).'
-placement_rationale: 'Isaac Asimov''s Foundation future history as one fiction: the Galactic Empire novels and the Foundation
-  books in one history of an empire''s fall.'
+  reason: 'Folded Foundation and Chaos (Greg Bear, 1998): the first of the Second Foundation Trilogy, authorised by the Asimov estate and billed on gregbear.com as
+    a sequel to Asimov''s Foundation series. One universe, one fiction (rule 11j).'
+placement_rationale: 'Isaac Asimov''s Foundation future history as one fiction: the Galactic Empire novels and the Foundation books in one history of an empire''s
+  fall.'
 books:
 - title: Pebble in the Sky
   year: 1950
@@ -86,3 +85,5 @@ books:
 - title: Foundation and Chaos
   year: 1998
   cover_url: https://covers.openlibrary.org/b/id/909032-L.jpg
+- title: Foundation's Fear
+  year: 1997

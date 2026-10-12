@@ -6,12 +6,14 @@ authors:
 first_published: 1997
 canonical_genre: spaceship-drama
 placement_status: accepted
-placement_rationale: 'Acorna: The Unicorn Girl. A Linyaari foundling is raised aboard an asteroid-mining ship by three miners
-  who become her family; the story runs on that found family and care.'
+placement_rationale: 'Acorna: The Unicorn Girl. A Linyaari foundling is raised aboard an asteroid-mining ship by three miners who become her family; the story runs
+  on that found family and care.'
 books:
 - title: 'Acorna: The Unicorn Girl'
   year: 1997
   cover_url: https://covers.openlibrary.org/b/id/44360-L.jpg
+- title: Acorna's Quest
+  year: 1998
 cover_curation:
   status: complete
   source: Open Library / publisher
