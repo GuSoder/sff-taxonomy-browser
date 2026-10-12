@@ -5,14 +5,12 @@ authors:
 first_published: 2013
 canonical_genre: space-romance
 placement_status: accepted
-placement_rationale: 'Amie Kaufman and Meagan Spooner, Starbound (These Broken Stars 2013, Their Fractured Light 2015; the
-  author''s site, Penguin Random House, Booklist): in the first book the luxury liner Icarus is pulled out of hyperspace and
-  crashes on a planet, stranding the heiress Lilac LaRoux and the soldier Tarver Merendsen; the third pairs the hacker Gideon
-  with the con artist Sofia Quinn on two sides of a bloody war. Each book is built on a pair of star-crossed lovers against
-  interstellar stakes. Walk: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New space
-  opera > Space soap opera > Space romance (the relationship is the spine). Rejected: Spaceship drama (the romance, not the
-  crew, drives the book), Planet expedition fiction (survival is the setting). Wobble: low-medium. Sources: author site, PRH
-  series page, Booklist.'
+placement_rationale: 'Amie Kaufman and Meagan Spooner, Starbound (These Broken Stars 2013, Their Fractured Light 2015; the author''s site, Penguin Random House, Booklist):
+  in the first book the luxury liner Icarus is pulled out of hyperspace and crashes on a planet, stranding the heiress Lilac LaRoux and the soldier Tarver Merendsen;
+  the third pairs the hacker Gideon with the con artist Sofia Quinn on two sides of a bloody war. Each book is built on a pair of star-crossed lovers against interstellar
+  stakes. Walk: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New space opera > Space soap opera > Space romance (the relationship
+  is the spine). Rejected: Spaceship drama (the romance, not the crew, drives the book), Planet expedition fiction (survival is the setting). Wobble: low-medium.
+  Sources: author site, PRH series page, Booklist.'
 books:
 - title: These Broken Stars
   year: 2013
@@ -20,6 +18,8 @@ books:
 - title: Their Fractured Light
   year: 2015
   cover_url: https://covers.openlibrary.org/b/id/10339447-L.jpg
+- title: This Shattered World
+  year: 2014
 cover_curation:
   status: complete
   source: Open Library / publisher
