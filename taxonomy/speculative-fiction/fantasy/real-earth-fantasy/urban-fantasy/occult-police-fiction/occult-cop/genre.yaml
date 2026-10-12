@@ -1,5 +1,5 @@
-id: occult-cop-cases
-label: Occult cop cases
+id: occult-cop
+label: Occult cop
 parent: occult-police-fiction
 children: []
 works:
@@ -11,7 +11,7 @@ works:
 - fated-blades
 - iron-angels
 - ragged-alice
-image: 492-occult-cop-cases.webp
+image: 492-occult-cop.webp
 definition: 'Occult police fiction where sworn police officers or police units work cases shaped by magic or the supernatural:
   detectives, lieutenants and forensic investigators on the force, with a badge, a boss and a case file. Not Occult secret
   service (a hidden or state service that polices occult threats for the state) and not Occult consultants (private, amateur
@@ -19,3 +19,7 @@ definition: 'Occult police fiction where sworn police officers or police units w
   2026-10-05 5:51 PM)).'
 status: accepted
 ruling: curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)
+history:
+- date: '2026-10-12'
+  change: Renamed from Occult cop (id occult-cop-cases) to Occult cop on the curator's "Yeah" (2026-10-12 11:35:54 AM
+    CEST); old id kept as a redirect.
