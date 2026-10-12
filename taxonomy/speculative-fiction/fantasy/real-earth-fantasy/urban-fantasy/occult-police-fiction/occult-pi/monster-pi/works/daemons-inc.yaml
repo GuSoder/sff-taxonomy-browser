@@ -24,12 +24,12 @@ placement_history:
   to: occult-police-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
 - date: '2026-10-05'
-  reason: Split of Occult police by who holds the case; re-walked root-down into Occult consultants (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
+  reason: Split of Occult police by who holds the case; re-walked root-down into Occult PI (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
     2026-10-05 5:51 PM)).
   from: occult-police-fiction
-  to: occult-consultants
+  to: occult-pi
 - date: '2026-10-12'
-  from: occult-consultants
+  from: occult-pi
   to: monster-pi
-  reason: 'Occult consultants split into Mage PI / Monster PI / PI meets Magic on the curator''s approval; re-walked root-down:
+  reason: 'Occult PI split into Mage PI / Monster PI / PI meets Magic on the curator''s approval; re-walked root-down:
     this card sits in Monster PI.'
