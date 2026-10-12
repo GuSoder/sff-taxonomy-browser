@@ -293,3 +293,4 @@ K cluster MC05576-05604: specs 419-429.
 - 2026-10-12 Larry Niven rows (MC05845-MC05878): placed Fleet of Worlds, Heorot, Integral Trees, Harlequin's Moon, Protector, Destiny's Road (specs 467-472); held Goliath Stone, Dream Park, Inferno, Saturn's Race.
 - 2026-10-12 MC05879-MC05897: placed Year of the Warrior, Wolf Time, Blood and Judgment, Mayo Cinderella trilogy (specs 473-476); held Up Against It, Pacifica duology, Esther Diamond.
 - 2026-10-12 Domino Men moved from Occult institutions to Occult secret service on curator 'Do it' (9:05 AM); both leaves now 8.
+- 2026-10-12 Shadow Age placed in Occult institutions (spec 477, 9 cards) after the split question dissolved.
