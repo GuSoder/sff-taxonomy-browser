@@ -3,7 +3,7 @@ title: Daemons, Inc.
 authors:
 - Camille Bacon-Smith
 first_published: 2010
-canonical_genre: occult-consultants
+canonical_genre: monster-pi
 placement_status: accepted
 placement_rationale: 'Daemons, Inc.: a Philadelphia detective agency of daemon lords and a half-daemon son takes occult cases;
   the engine is investigating crimes shaped by magic and supernatural beings. Closest existing home is Occult police fiction
@@ -28,3 +28,8 @@ placement_history:
     2026-10-05 5:51 PM)).
   from: occult-police-fiction
   to: occult-consultants
+- date: '2026-10-12'
+  from: occult-consultants
+  to: monster-pi
+  reason: 'Occult consultants split into Mage PI / Monster PI / PI meets Magic on the curator''s approval; re-walked root-down:
+    this card sits in Monster PI.'

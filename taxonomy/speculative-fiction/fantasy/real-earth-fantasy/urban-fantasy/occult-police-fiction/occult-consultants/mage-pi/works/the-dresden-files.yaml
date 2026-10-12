@@ -4,7 +4,7 @@ authors:
 - Jim Butcher
 first_published: 2000
 last_published: 2020
-canonical_genre: occult-consultants
+canonical_genre: mage-pi
 placement_status: accepted
 included_titles:
 - Storm Front
@@ -90,3 +90,8 @@ placement_history:
     for the Chicago P.D. without a badge.
   to: occult-consultants
   from: fae-founders
+- date: '2026-10-12'
+  from: occult-consultants
+  to: mage-pi
+  reason: 'Occult consultants split into Mage PI / Monster PI / PI meets Magic on the curator''s approval; re-walked root-down:
+    this card sits in Mage PI.'

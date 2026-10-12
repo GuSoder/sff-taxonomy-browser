@@ -286,3 +286,4 @@ KSR (MC05555-75): specs 411-418; Science in the Capital + Galileo's Dream held.
 K cluster MC05576-05604: specs 419-429.
 
 - 2026-10-12 07:00: MC05605-MC05660 (Kit Rocha through Kylie Snow): 14 cards placed (specs 430-443), 23 rows folded, 3 skipped (short story, bookmark set, anthology).
+- 2026-10-12 07:20: Occult consultants split executed (Mage PI / Monster PI / PI meets Magic), curator Execute phonemsg-01M4Q8PYNHZBPN276YRXKQZD65; Diana Tregarde and Sacred Ground placed into Mage PI (specs 444-445). Webp 665-667.
