@@ -1,0 +1,27 @@
+id: icehenge
+title: Icehenge
+authors:
+- Kim Stanley Robinson
+first_published: 1984
+canonical_genre: space-mystery
+placement_status: accepted
+placement_rationale: 'Kim Stanley Robinson''s Icehenge (1984; Wikipedia): in three periods, an engineer''s diary of the failed
+  Martian revolution of 2248 is dug up by an archaeologist three centuries later, as a monument of standing ice slabs is found
+  at Pluto''s north pole, and his great-grandson investigates whether the diary and monument were planted by a reclusive businesswoman
+  in Saturn orbit. Folded: the 2014 and 2024 reissue rows. Walk: Spacefaring > Space colonies > Space mystery (an antiquarian
+  working the buried past across the settled worlds is the engine). Tried Big dumb objects (the monument is human-made, not
+  alien) and Wreck delving. Source: Wikipedia; not read.'
+books:
+- title: Icehenge
+  year: 1984
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182906-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: 'ten-k walk v5 (queue ids MC05564, MC05575: 2014 and 2024 reissues folded)'
+placement_history:
+- date: '2026-10-04'
+  to: space-mystery
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

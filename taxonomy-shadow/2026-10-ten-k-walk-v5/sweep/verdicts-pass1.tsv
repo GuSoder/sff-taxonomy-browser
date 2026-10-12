@@ -3774,28 +3774,28 @@ MC05551	Totality	Kim Harrison	2024	skip-novella	Eclipsed Evolution serial novell
 MC05552	Trouble with the Cursed	Kim Harrison	2023	placed-folded	Hollows card
 MC05553	White Witch, Black Curse	Kim Harrison		placed-folded	Hollows card
 MC05554	Unbound	Kim Harrisonmelissa Marrjeaniene Frostvicki Petterssonjocelynn Drake		WALK	
-MC05555	2312	Kim Stanley Robinson		WALK	
-MC05556	Antarctica	Kim Stanley Robinson	2025	WALK	
-MC05557	Aurora	Kim Stanley Robinson		WALK	
-MC05558	Escape From Kathmandu	Kim Stanley Robinson	2000	WALK	
-MC05559	Fifty Degrees Below	Kim Stanley Robinson	2007	WALK	
-MC05560	Forty Signs of Rain	Kim Stanley Robinson	2005	WALK	
-MC05561	Future Primitive	Kim Stanley Robinson	1997	WALK	
-MC05562	Galileo's Dream	Kim Stanley Robinson	2010	WALK	
-MC05563	Green Earth	Kim Stanley Robinson	2015	WALK	
-MC05564	Icehenge	Kim Stanley Robinson	2014	WALK	
-MC05565	New York 2140	Kim Stanley Robinson		WALK	
-MC05566	Oral Argument	Kim Stanley Robinson	2015	WALK	
-MC05567	Pacific Edge	Kim Stanley Robinson	1995	WALK	
-MC05568	Shaman	Kim Stanley Robinson		WALK	
-MC05569	Sixty Days and Counting	Kim Stanley Robinson	2007	WALK	
-MC05570	The Gold Coast	Kim Stanley Robinson	1995	WALK	
-MC05571	The Martians	Kim Stanley Robinson	2000	WALK	
-MC05572	The Memory of Whiteness	Kim Stanley Robinson	1996	WALK	
-MC05573	The Wild Shore	Kim Stanley Robinson	1995	WALK	
-MC05574	Three Californias	Kim Stanley Robinson; introduction by Francis Spufford	2020	WALK	
-MC05575	Icehenge	Kim Stanley Robinson; introduction by Henry Farrell	2024	WALK	
-MC05576	Why We Love The Matrix	Kim Taylor-Foster		WALK	
+MC05555	2312	Kim Stanley Robinson		placed	-> space-mystery
+MC05556	Antarctica	Kim Stanley Robinson	2025	skip-nonspec	research-station novel; no speculative proof found (sources thin)
+MC05557	Aurora	Kim Stanley Robinson		placed	-> voyage-societies
+MC05558	Escape From Kathmandu	Kim Stanley Robinson	2000	skip-collection	novellas
+MC05559	Fifty Degrees Below	Kim Stanley Robinson	2007	held-question	Science in the Capital
+MC05560	Forty Signs of Rain	Kim Stanley Robinson	2005	held-question	Science in the Capital: no honest leaf, seed question
+MC05561	Future Primitive	Kim Stanley Robinson	1997	skip-anthology	
+MC05562	Galileo's Dream	Kim Stanley Robinson	2010	held-question	no honest time-travel leaf; Homebrew at 9
+MC05563	Green Earth	Kim Stanley Robinson	2015	held-question	Science in the Capital omnibus, folds
+MC05564	Icehenge	Kim Stanley Robinson	2014	placed	-> space-mystery (2014/2024 reissues folded)
+MC05565	New York 2140	Kim Stanley Robinson		placed	-> sea-drowned-worlds
+MC05566	Oral Argument	Kim Stanley Robinson	2015	skip-short	
+MC05567	Pacific Edge	Kim Stanley Robinson	1995	placed	-> ecotopian
+MC05568	Shaman	Kim Stanley Robinson		skip-nonspec	Ice Age prehistoric novel, no speculative element
+MC05569	Sixty Days and Counting	Kim Stanley Robinson	2007	held-question	Science in the Capital
+MC05570	The Gold Coast	Kim Stanley Robinson	1995	placed	-> crowded-dystopias
+MC05571	The Martians	Kim Stanley Robinson	2000	skip-collection	
+MC05572	The Memory of Whiteness	Kim Stanley Robinson	1996	placed	-> colony-life
+MC05573	The Wild Shore	Kim Stanley Robinson	1995	placed	-> post-nuclear-survival
+MC05574	Three Californias	Kim Stanley Robinson; introduction by Francis Spufford	2020	skip-omnibus	each novel placed as own card
+MC05575	Icehenge	Kim Stanley Robinson; introduction by Henry Farrell	2024	placed	-> space-mystery (2014/2024 reissues folded)
+MC05576	Why We Love The Matrix	Kim Taylor-Foster		skip-nonfiction	
 MC05577	Daughters of the Storm	Kim Wilkins	2018	WALK	
 MC05578	Giants of the Frost	Kim Wilkins		WALK	
 MC05579	Sisters of the Fire	Kim Wilkins	2019	WALK	

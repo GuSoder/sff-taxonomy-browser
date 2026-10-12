@@ -1,0 +1,26 @@
+id: aurora
+title: Aurora
+authors:
+- Kim Stanley Robinson
+first_published: 2015
+canonical_genre: voyage-societies
+placement_status: accepted
+placement_rationale: 'Kim Stanley Robinson''s Aurora (2015; Wikipedia, Guardian): a generation ship of twenty-four biomes
+  and some two thousand people, launched from Earth in 2545 for Tau Ceti and narrated largely by the ship''s artificial intelligence,
+  reaches the system after about 160 years and seven generations, and the community splits over what to do when the colony
+  plan fails. Walk: Spacefaring > Generation starships > Voyage societies (the social order and its conflicts across the voyage).
+  Tried Starship mysteries (the ship hides no secret that drives the plot). Sources: Wikipedia, Guardian; not read.'
+books:
+- title: Aurora
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7425787-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05557)
+placement_history:
+- date: '2026-10-04'
+  to: voyage-societies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

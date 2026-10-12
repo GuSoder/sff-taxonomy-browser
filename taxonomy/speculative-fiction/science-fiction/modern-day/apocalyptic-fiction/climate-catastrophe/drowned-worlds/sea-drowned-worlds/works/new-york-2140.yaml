@@ -1,0 +1,26 @@
+id: new-york-2140
+title: New York 2140
+authors:
+- Kim Stanley Robinson
+first_published: 2017
+canonical_genre: sea-drowned-worlds
+placement_status: accepted
+placement_rationale: 'Kim Stanley Robinson''s New York 2140 (2017; Wikipedia): a New York permanently flooded by two sea-level
+  rises, nicknamed SuperVenice south of 46th Street, where residents of the MetLife Tower live on the upper floors and move
+  by boat. Walk: Modern day > Apocalyptic fiction > Climate catastrophe > Drowned worlds > Sea-drowned worlds (flooded coasts,
+  drowned cities and the people who live on the water). Tried Climate class divide (cli-fi dystopia; this is not a dystopia).
+  Source: Wikipedia; not read.'
+books:
+- title: New York 2140
+  year: 2017
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8595447-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05565)
+placement_history:
+- date: '2026-10-04'
+  to: sea-drowned-worlds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

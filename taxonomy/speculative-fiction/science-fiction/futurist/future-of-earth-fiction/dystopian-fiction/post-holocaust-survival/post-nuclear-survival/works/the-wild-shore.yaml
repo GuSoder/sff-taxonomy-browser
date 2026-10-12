@@ -1,0 +1,27 @@
+id: the-wild-shore
+title: The Wild Shore
+authors:
+- Kim Stanley Robinson
+first_published: 1984
+canonical_genre: post-nuclear-survival
+placement_status: accepted
+placement_rationale: 'Kim Stanley Robinson''s The Wild Shore (1984; first of the Three Californias; Wikipedia, Washington
+  Post): decades after a 1987 neutron-bomb strike on North America''s cities, survivors in Orange County live as villages
+  on farming and the sea under a Japanese quarantine, and the young hero''s nostalgia for a lost America is gradually deconstructed.
+  The three Californias are separate novels with separate worlds, so each gets its own card and the Three Californias omnibus
+  is skipped. Walk: Futurist > Future of Earth > Dystopian fiction > Post-holocaust survival > Post-nuclear survival. Tried
+  Terminal wastelands (the cause is nuclear and known). Sources: Wikipedia, Washington Post; not read.'
+books:
+- title: The Wild Shore
+  year: 1984
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/183637-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05573)
+placement_history:
+- date: '2026-10-04'
+  to: post-nuclear-survival
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,26 @@
+id: the-memory-of-whiteness
+title: The Memory of Whiteness
+authors:
+- Kim Stanley Robinson
+first_published: 1985
+canonical_genre: colony-life
+placement_status: accepted
+placement_rationale: 'Kim Stanley Robinson''s The Memory of Whiteness (1985; Wikipedia): a grand tour of human colonies from
+  the outer planets toward the Sun by the Holywelkin Orchestra, a futuristic instrument played by a master, with a journalist
+  who finds a conspiracy among grey-clothed sun-worshippers at a Mercury solar station. The different colony societies are
+  depicted in detail. Walk: Spacefaring > Space colonies > Colony life (the lives of the settled worlds along the tour). Tried
+  Space mystery (the conspiracy comes late; the tour is the book). Source: Wikipedia only; alternative Space mystery.'
+books:
+- title: The Memory of Whiteness
+  year: 1985
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7265296-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05572)
+placement_history:
+- date: '2026-10-04'
+  to: colony-life
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
