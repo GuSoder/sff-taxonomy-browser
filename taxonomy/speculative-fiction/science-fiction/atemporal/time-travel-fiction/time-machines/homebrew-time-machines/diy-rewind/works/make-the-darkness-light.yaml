@@ -3,7 +3,7 @@ title: Make the Darkness Light
 authors:
 - S. M. Stirling
 first_published: 2024
-canonical_genre: homebrew-time-machines
+canonical_genre: diy-rewind
 placement_status: accepted
 placement_rationale: 'S. M. Stirling''s Make the Darkness Light (Gallery/Baen: To Turn the Tide, Aug 2024; The Winds of Fate,
   July 2025; smstirling.com, Baen, Wikipedia bibliography): in 2032 an American history professor and four graduate students
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: homebrew-time-machines
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: homebrew-time-machines
+  to: diy-rewind
+  reason: 'Homebrew time machines split into DIY rewind / Overclockian on the curator''s approval; re-walked: this card sits
+    in DIY rewind.'

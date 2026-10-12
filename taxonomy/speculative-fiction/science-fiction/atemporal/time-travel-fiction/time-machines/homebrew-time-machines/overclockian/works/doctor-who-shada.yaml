@@ -4,7 +4,7 @@ authors:
 - Gareth Roberts
 - Douglas Adams
 first_published: 2012
-canonical_genre: homebrew-time-machines
+canonical_genre: overclockian
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Time travel fiction > Time machines >
   Homebrew time machines. Per Penguin''s copy: the Doctor, Romana and K-9 visit the Time Lord Professor Chronotis, a retired
@@ -32,3 +32,8 @@ placement_history:
 - date: '2026-10-04'
   to: homebrew-time-machines
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: homebrew-time-machines
+  to: overclockian
+  reason: 'Homebrew time machines split into DIY rewind / Overclockian on the curator''s approval; re-walked: this card sits
+    in Overclockian.'
