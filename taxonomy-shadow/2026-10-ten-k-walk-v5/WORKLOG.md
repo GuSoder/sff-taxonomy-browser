@@ -294,3 +294,4 @@ K cluster MC05576-05604: specs 419-429.
 - 2026-10-12 MC05879-MC05897: placed Year of the Warrior, Wolf Time, Blood and Judgment, Mayo Cinderella trilogy (specs 473-476); held Up Against It, Pacifica duology, Esther Diamond.
 - 2026-10-12 Domino Men moved from Occult institutions to Occult secret service on curator 'Do it' (9:05 AM); both leaves now 8.
 - 2026-10-12 Shadow Age placed in Occult institutions (spec 477, 9 cards) after the split question dissolved.
+- 2026-10-12 Interstellar court politics split into Galactic courts (6) / Galactic houses (4 with Liaden Universe card, 31 rows folded, spec 478); webp 668-669; curator Execute phonemsg-01M4QFA6PFPJK23XYEV1TGSCV5.

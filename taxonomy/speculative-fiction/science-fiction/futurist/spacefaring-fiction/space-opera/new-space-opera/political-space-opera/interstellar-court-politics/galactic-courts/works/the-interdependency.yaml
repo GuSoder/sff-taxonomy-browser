@@ -4,15 +4,15 @@ authors:
 - John Scalzi
 first_published: 2017
 last_published: 2020
-canonical_genre: interstellar-court-politics
+canonical_genre: galactic-courts
 placement_status: accepted
 included_titles:
 - The Collapsing Empire
 - The Consuming Fire
 - The Last Emperox
-placement_rationale: Macmillan describes a collapsing interstellar travel network and a starship owner, scientist and Emperox racing to preserve political
-  control across the colonies through political skulduggery. The imperial court and elite personal networks are the main arena, making Interstellar court
-  politics the closest leaf.
+placement_rationale: Macmillan describes a collapsing interstellar travel network and a starship owner, scientist and Emperox
+  racing to preserve political control across the colonies through political skulduggery. The imperial court and elite personal
+  networks are the main arena, making Interstellar court politics the closest leaf.
 classification_sources:
 - https://us.macmillan.com/series/theinterdependency
 - https://sf-encyclopedia.com/entry/scalzi_john
@@ -34,3 +34,8 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/space-opera/political-space-opera/interstellar-court-politics
     to match live tree; placement unchanged on site.'
   previous_canonical_genre: interstellar-court-politics
+- date: '2026-10-12'
+  from: interstellar-court-politics
+  to: galactic-courts
+  reason: 'Interstellar court politics split into Galactic courts / Galactic houses on the curator''s approval; re-walked:
+    this card sits in Galactic courts.'

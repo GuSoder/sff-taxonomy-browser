@@ -1,18 +1,15 @@
 id: interstellar-court-politics
 label: Interstellar court politics
 parent: political-space-opera
-children: []
+children:
+- galactic-courts
+- galactic-houses
 image: 249-interstellar-court-politics.webp
 definition: Interstellar politics conducted through courts, diplomatic missions and elite personal networks.
 status: accepted
 ruling: Created by the curator's 2026-09-21 five-way partition of Political space opera.
-works:
-- teixcalaan
-- the-vorkosigan-saga
-- the-interdependency
-- a-fire-born-of-exile
-- the-splinter-in-the-sky
-- these-burning-stars
-- the-stars-undying
-- a-confusion-of-princes
-- eve-the-burning-life
+works: []
+history:
+- date: '2026-10-12'
+  change: Split into Galactic courts and Galactic houses, now an umbrella with 0 direct fictions; the curator's "Execute"
+    (phonemsg-01M4QFA6PFPJK23XYEV1TGSCV5, 2026-10-12 9:12:57 AM CEST, relayed with his own names Galactic courts / Galactic houses).

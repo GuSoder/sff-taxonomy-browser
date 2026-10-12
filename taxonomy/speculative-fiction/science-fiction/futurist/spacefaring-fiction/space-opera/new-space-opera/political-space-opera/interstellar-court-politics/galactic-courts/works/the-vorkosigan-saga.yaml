@@ -4,7 +4,7 @@ authors:
 - Lois McMaster Bujold
 first_published: 1986
 last_published: 2016
-canonical_genre: interstellar-court-politics
+canonical_genre: galactic-courts
 placement_status: accepted
 included_titles:
 - Shards of Honor
@@ -77,3 +77,8 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/space-opera/political-space-opera/interstellar-court-politics
     to match live tree; placement unchanged on site.'
   previous_canonical_genre: interstellar-court-politics
+- date: '2026-10-12'
+  from: interstellar-court-politics
+  to: galactic-courts
+  reason: 'Interstellar court politics split into Galactic courts / Galactic houses on the curator''s approval; re-walked:
+    this card sits in Galactic courts.'

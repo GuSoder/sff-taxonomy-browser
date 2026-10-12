@@ -3,7 +3,7 @@ title: Teixcalaan
 authors:
 - Arkady Martine
 first_published: 2019
-canonical_genre: interstellar-court-politics
+canonical_genre: galactic-courts
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -17,3 +17,9 @@ cover_curation:
   selected_url: https://cdn11.bigcommerce.com/s-65f8qukrjx/images/stencil/1280x1280/products/6465/17120/Martine_A-Memory_of_Empire_cover__37765.1687451116.jpg?c=1
   shows_english_title: false
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-12'
+  from: interstellar-court-politics
+  to: galactic-courts
+  reason: 'Interstellar court politics split into Galactic courts / Galactic houses on the curator''s approval; re-walked:
+    this card sits in Galactic courts.'

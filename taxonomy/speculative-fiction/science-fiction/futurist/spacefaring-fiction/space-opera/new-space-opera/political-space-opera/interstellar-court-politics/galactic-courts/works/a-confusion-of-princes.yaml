@@ -3,7 +3,7 @@ title: A Confusion of Princes
 authors:
 - Garth Nix
 first_published: 2011
-canonical_genre: interstellar-court-politics
+canonical_genre: galactic-courts
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New
   space opera > Political space opera > Interstellar court politics. Per the author''s page and Wikipedia: Khemri, a superhuman,
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-10-04'
   to: interstellar-court-politics
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: interstellar-court-politics
+  to: galactic-courts
+  reason: 'Interstellar court politics split into Galactic courts / Galactic houses on the curator''s approval; re-walked:
+    this card sits in Galactic courts.'
