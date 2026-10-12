@@ -1,0 +1,32 @@
+id: make-the-darkness-light
+title: Make the Darkness Light
+authors:
+- S. M. Stirling
+first_published: 2024
+canonical_genre: homebrew-time-machines
+placement_status: accepted
+placement_rationale: 'S. M. Stirling''s Make the Darkness Light (Gallery/Baen: To Turn the Tide, Aug 2024; The Winds of Fate,
+  July 2025; smstirling.com, Baen, Wikipedia bibliography): in 2032 an American history professor and four graduate students
+  are tricked into using what is a time machine built by a rogue scientist in Austria, who diverted research money to make
+  an escape from the coming nuclear holocaust, and are sent back to the Roman Empire of 165 CE with a ton of survival gear
+  to integrate and change history. Rome to the Stars (2026), set in the resulting timeline, is a separate space-opera series
+  (Pax Astra) and is held. Walk: Science fiction > Atemporal > Time travel fiction > Time machines (a built device) > Homebrew
+  time machines (owned by an individual, no organization behind it). Tried: Time travel agency (the machine is one man''s
+  private project, not an institute''s).'
+books:
+- title: To Turn the Tide
+  year: 2024
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982193539-med_1.jpg
+- title: The Winds of Fate
+  year: 2025
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/9/7/9781982193539-med_1.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08479, MC08502)
+placement_history:
+- date: '2026-10-04'
+  to: homebrew-time-machines
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

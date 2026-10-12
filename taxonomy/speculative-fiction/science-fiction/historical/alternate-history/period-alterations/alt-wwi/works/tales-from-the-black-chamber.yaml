@@ -1,0 +1,33 @@
+id: tales-from-the-black-chamber
+title: Tales from the Black Chamber
+authors:
+- S. M. Stirling
+first_published: 2018
+canonical_genre: alt-wwi
+placement_status: accepted
+placement_rationale: 'S. M. Stirling''s Tales from the Black Chamber (Ace: Black Chamber, July 2018; Theater of Spies, May
+  2019; Shadows of Annihilation, March 2020; Wikipedia bibliography, publisher listings): an alternate history in which Theodore
+  Roosevelt is elected president for a second time just before the First World War breaks out, and an American secret service,
+  the Black Chamber, fights the Great War''s spy war. Three novels in one series. Walk: Science fiction > Historical > Alternate
+  history > Period alterations (the fork lies within a lifetime of the story) > Alt WWI (fork and central historical substance
+  belong to the Great War era). Tried: Machine age alterations (that is a lived-in changed world, here the war itself is the
+  story).'
+books:
+- title: Black Chamber
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8868718-L.jpg
+- title: Theater of Spies
+  year: 2019
+- title: Shadows of Annihilation
+  year: 2020
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8868718-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08450, MC08478, MC08461)
+placement_history:
+- date: '2026-10-04'
+  to: alt-wwi
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

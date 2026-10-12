@@ -1,0 +1,33 @@
+id: the-shadowspawn
+title: The Shadowspawn
+authors:
+- S. M. Stirling
+first_published: 2010
+canonical_genre: arcane-peoples
+placement_status: accepted
+placement_rationale: 'S. M. Stirling''s Shadowspawn series (Roc: A Taint in the Blood, 2010; The Council of Shadows, 2011;
+  Shadows of Falling Night, 2013; Wikipedia bibliography): the Shadowspawn are an ancient subspecies of Homo sapiens (Homo
+  sapiens nocturnis) who formed the basis of the legends of vampires and werewolves and have secretly controlled the world
+  for most of human history. Walk: Fantasy > Real-earth fantasy > Historical fantasy > Secret history (history secretly explained
+  by a hidden truth) > Arcane peoples (the hidden truth is a concealed people living beside humanity through recorded history).
+  Tried: Occult cabals (the truth is a people, not an order) and Vampire world (they are the source of the legend, not vampires
+  as such).'
+books:
+- title: A Taint in the Blood
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7536429-L.jpg
+- title: The Council of Shadows
+  year: 2011
+- title: Shadows of Falling Night
+  year: 2013
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7536429-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08448, MC08464, MC08462)
+placement_history:
+- date: '2026-10-04'
+  to: arcane-peoples
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

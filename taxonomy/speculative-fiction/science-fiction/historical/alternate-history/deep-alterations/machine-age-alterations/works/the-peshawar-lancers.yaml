@@ -1,0 +1,27 @@
+id: the-peshawar-lancers
+title: The Peshawar Lancers
+authors:
+- S. M. Stirling
+first_published: 2002
+canonical_genre: machine-age-alterations
+placement_status: accepted
+placement_rationale: 'S. M. Stirling''s The Peshawar Lancers (Roc, Jan 2002; Wikipedia bibliography, smstirling.com): an alternate
+  history in which a nineteenth-century comet strike devastates the northern hemisphere and the British court relocates to
+  India, building a twenty-first century Angrezi Raj of lancers, airships and steam, which is lived in rather than replayed.
+  Walk: Science fiction > Historical > Alternate history > Deep alterations > Machine age alterations (fork after 1800, a
+  changed machine-age world). Tried: Age of sail alterations (fork is in the 1870s).'
+books:
+- title: The Peshawar Lancers
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/295026-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/295026-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08470)
+placement_history:
+- date: '2026-10-04'
+  to: machine-age-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

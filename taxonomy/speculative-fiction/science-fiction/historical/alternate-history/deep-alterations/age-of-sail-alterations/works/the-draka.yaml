@@ -1,0 +1,32 @@
+id: the-draka
+title: The Draka
+authors:
+- S. M. Stirling
+first_published: 1996
+canonical_genre: age-of-sail-alterations
+placement_status: accepted
+placement_rationale: 'S. M. Stirling''s Draka series (Baen: Drakon, 1996; The Domination, 1999, the omnibus of Marching Through
+  Georgia, Under the Yoke and The Stone Dogs and the queue''s only row for those novels; Wikipedia bibliography, smstirling.com):
+  a dystopian, slave-holding, militarized empire founded in southern Africa by British Loyalists who left after the American
+  Revolution, later joined by Confederates, grows into the Domination and fights the twentieth century''s wars. The Drakas!
+  anthology and the Clan of the Claw and By Tooth and Claw shared-world anthologies are skipped. Walk: Science fiction > Historical
+  > Alternate history > Deep alterations (an enduring divergence makes a different world to live in) > Age of sail alterations
+  (fork 1500 to about 1800; here 1783). Tried: Machine age alterations (the fork is 1783, not after 1800). Wobble: most of
+  the story is told in the twentieth century, the leaf is chosen by the fork date.'
+books:
+- title: Drakon
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/406686-L.jpg
+- title: The Domination
+  year: 1999
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/406686-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08455, MC08466)
+placement_history:
+- date: '2026-10-04'
+  to: age-of-sail-alterations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
