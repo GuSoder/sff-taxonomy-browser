@@ -1,0 +1,28 @@
+id: a-maze-of-death
+title: A Maze of Death
+authors:
+- Philip K. Dick
+first_published: 1970
+canonical_genre: space-mystery
+placement_status: accepted
+placement_rationale: 'Philip K. Dick''s A Maze of Death (Doubleday, 1970; Wikipedia): fourteen colonists on the planet Delmak-O,
+  a linguist, a theologian, a custodian, a thermoplastics overseer and others, are killed one by one while they try to find
+  out who or what is killing them. Walk: Science fiction > Futurist > Spacefaring > Space colonies > Space mystery (a case
+  drives the story and solving, not politics, is the engine). Tried: Colony life (the community''s routine is not the story)
+  and Space dystopias (no oppressive order). Wobble: the explanation is a reality twist, the engine is still the hunt for
+  the killer.'
+books:
+- title: A Maze of Death
+  year: 1970
+  cover_url: https://upload.wikimedia.org/wikipedia/en/3/31/AMazeOfDeath%281stEd%29.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://upload.wikimedia.org/wikipedia/en/3/31/AMazeOfDeath%281stEd%29.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07755)
+placement_history:
+- date: '2026-10-04'
+  to: space-mystery
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

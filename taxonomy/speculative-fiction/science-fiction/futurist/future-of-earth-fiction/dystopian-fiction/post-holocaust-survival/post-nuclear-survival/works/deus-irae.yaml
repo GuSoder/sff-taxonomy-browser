@@ -1,0 +1,27 @@
+id: deus-irae
+title: Deus Irae
+authors:
+- Philip K. Dick
+first_published: 1976
+canonical_genre: post-nuclear-survival
+placement_status: accepted
+placement_rationale: 'Philip K. Dick and Roger Zelazny''s Deus Irae (Doubleday, 1976; Wikipedia): after a nuclear war in the
+  1980s mutation is widespread and communications are down, a gnostic religion, the Servants of Wrath, worships Carleton Lufteufel,
+  the man whose weapon ended the world, and the armless, legless artist Tibor McMasters is commissioned to paint his mural.
+  Walk: Science fiction > Futurist > Future of Earth > Dystopian fiction > Post-holocaust survival > Post-nuclear survival
+  (aftermath caused by nuclear war, survivors rebuild a world and a faith). Tried: Terminal wastelands (the cause is named).'
+books:
+- title: Deus Irae
+  year: 1976
+  cover_url: https://covers.openlibrary.org/b/id/8419508-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8419508-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07758)
+placement_history:
+- date: '2026-10-04'
+  to: post-nuclear-survival
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

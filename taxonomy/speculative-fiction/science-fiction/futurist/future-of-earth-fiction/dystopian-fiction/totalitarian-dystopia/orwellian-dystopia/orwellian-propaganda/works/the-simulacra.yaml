@@ -1,0 +1,28 @@
+id: the-simulacra
+title: The Simulacra
+authors:
+- Philip K. Dick
+first_published: 1964
+canonical_genre: orwellian-propaganda
+placement_status: accepted
+placement_rationale: 'Philip K. Dick''s The Simulacra (Ace, 1964; Wikipedia): the United States of Europe and America is ruled
+  behind the scenes by a covert council while the public sees a First Lady, Nicole Thibodeaux, and a succession of android
+  presidents, simulacra who are replaced on a schedule; psychotherapy is banned by the drug cartel A. G. Chemie, and the plot
+  follows the factions around a telekinetic pianist. Walk: Science fiction > Futurist > Future of Earth > Dystopian fiction
+  > Totalitarian dystopia > Orwellian dystopia > Orwellian propaganda (governing spectacle: the state shows its people a staged
+  leader). Tried: Huxleyan dystopia (the drug cartel is part of the plot, the manufactured leaders are the engine).'
+books:
+- title: The Simulacra
+  year: 1964
+  cover_url: https://covers.openlibrary.org/b/id/284448-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284448-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07780)
+placement_history:
+- date: '2026-10-04'
+  to: orwellian-propaganda
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

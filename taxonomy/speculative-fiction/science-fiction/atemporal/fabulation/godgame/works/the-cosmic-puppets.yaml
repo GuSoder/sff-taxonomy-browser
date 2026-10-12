@@ -1,0 +1,27 @@
+id: the-cosmic-puppets
+title: The Cosmic Puppets
+authors:
+- Philip K. Dick
+first_published: 1957
+canonical_genre: godgame
+placement_status: accepted
+placement_rationale: 'Philip K. Dick''s The Cosmic Puppets (Ace, 1957; Wikipedia): Ted Barton returns to Millgate, Virginia
+  to find the town''s streets and past replaced and its people unaware, the only road out blocked, and learns that two godlike
+  powers, a rival pair out of Zoroastrian myth, are contesting the town in a game that changed it eighteen years before. Walk:
+  Science fiction > Atemporal > Fabulation > Godgame (rival godlike powers contest and alter the hidden moral pattern of reality
+  as a game). Tried: Hometown of marvels (the marvel is a stake in a contest between gods).'
+books:
+- title: The Cosmic Puppets
+  year: 1957
+  cover_url: https://covers.openlibrary.org/b/id/9249862-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9249862-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07776)
+placement_history:
+- date: '2026-10-04'
+  to: godgame
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

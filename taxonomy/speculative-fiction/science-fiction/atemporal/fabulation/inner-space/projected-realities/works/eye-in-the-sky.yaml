@@ -1,0 +1,27 @@
+id: eye-in-the-sky
+title: Eye in the Sky
+authors:
+- Philip K. Dick
+first_published: 1957
+canonical_genre: projected-realities
+placement_status: accepted
+placement_rationale: 'Philip K. Dick''s Eye in the Sky (Ace, 1957; Wikipedia): in 1959 a malfunction of the Belmont Bevatron
+  leaves eight visitors unconscious and then trapped in a series of unreal worlds shaped in turn by each one''s fears and
+  beliefs, among them a geocentric believer''s world of miracles and curses and a paranoid woman''s. Walk: Science fiction
+  > Atemporal > Fabulation > Inner space > Projected realities (belief, memory and fear project a shared competing reality
+  whose boundary cannot be stabilized). Tried: Godgame (the powers are the minds of the eight, not rival gods).'
+books:
+- title: Eye in the Sky
+  year: 1957
+  cover_url: https://covers.openlibrary.org/b/id/6295100-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6295100-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07759)
+placement_history:
+- date: '2026-10-04'
+  to: projected-realities
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

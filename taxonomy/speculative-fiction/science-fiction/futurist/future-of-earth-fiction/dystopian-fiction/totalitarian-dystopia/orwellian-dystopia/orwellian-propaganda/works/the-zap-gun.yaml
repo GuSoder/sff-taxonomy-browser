@@ -1,0 +1,30 @@
+id: the-zap-gun
+title: The Zap Gun
+authors:
+- Philip K. Dick
+first_published: 1967
+canonical_genre: orwellian-propaganda
+placement_status: accepted
+placement_rationale: 'Philip K. Dick''s The Zap Gun (Pyramid, 1967; Wikipedia): set in 2004, two years after the governments
+  of the two major blocs secretly ended their arms race; under the Plowshare Protocols both sides keep announcing ever stronger
+  weapons, designed by trance-state weapons fashion designers such as Lars Powderdry, and privately turn the designs into
+  consumer toys, so the public believes a Cold War continues that is largely fictitious. Walk: Science fiction > Futurist
+  > Future of Earth > Dystopian fiction > Totalitarian dystopia > Orwellian dystopia > Orwellian propaganda (state distraction
+  and governing spectacle). Tried: Satirical utopia (the blocs rule, no one is shown a better order) and Alt Cold War (a future,
+  not a forked history). Wobble: the book is also a satire with an alien-threat plot, the staged arms race is the governing
+  spectacle.'
+books:
+- title: The Zap Gun
+  year: 1967
+  cover_url: https://upload.wikimedia.org/wikipedia/en/3/37/PhilipKDick_TheZapGun.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://upload.wikimedia.org/wikipedia/en/3/37/PhilipKDick_TheZapGun.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07783)
+placement_history:
+- date: '2026-10-04'
+  to: orwellian-propaganda
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

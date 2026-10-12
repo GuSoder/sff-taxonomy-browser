@@ -1,0 +1,29 @@
+id: solar-lottery
+title: Solar Lottery
+authors:
+- Philip K. Dick
+first_published: 1955
+canonical_genre: future-social-sf
+placement_status: accepted
+placement_rationale: 'Philip K. Dick''s Solar Lottery (Ace, 1955; Wikipedia): the world government is run by a Quizmaster
+  chosen by a computerized lottery, with a televised random selection of an assassin, so that the leader gains the respect
+  of the people by surviving telepathic-guarded attempts on his life, in a society built on minimax game theory; the story
+  follows the idealistic worker Ted Benteley. Walk: Science fiction > Futurist > Future of Earth > Future societies > Future
+  social SF (a society examined at a future moment through social science, here game theory and sortition). Tried: Future
+  history of Earth (one moment, not a sustained course) and Orwellian dystopia (the lottery is the legitimate order, not coercion
+  by a state).'
+books:
+- title: Solar Lottery
+  year: 1955
+  cover_url: https://covers.openlibrary.org/b/id/9249829-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9249829-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07774)
+placement_history:
+- date: '2026-10-04'
+  to: future-social-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
