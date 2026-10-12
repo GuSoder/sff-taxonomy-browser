@@ -1,0 +1,33 @@
+id: the-domino-men
+title: The Domino Men
+authors:
+- Jonathan Barnes
+first_published: 2008
+canonical_genre: occult-secret-service
+placement_status: accepted
+placement_rationale: Re-walked 2026-10-12 at the curator's instruction ("Do it", 9:05 AM, after he asked why it did not walk
+  to Occult secret service). Henry Lamb, a London civil-service archive clerk, is drawn into the Directorate, a covert government
+  agency running a secret war against the House of Windsor, over Queen Victoria's 1857 pact handing London's souls to the
+  Leviathan. A hidden state service whose work is secrecy and defence against an occult threat is the Occult secret service
+  gate. The 2026-10-04 placement in Occult institutions predated the 2026-10-05 split of Occult police that created Occult
+  secret service and was never re-walked.
+books:
+- title: The Domino Men
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/8783957-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8783957-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04908)
+placement_history:
+- date: '2026-10-04'
+  to: occult-institutions
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: occult-institutions
+  to: occult-secret-service
+  reason: 'Moved between existing leaves on the curator''s explicit decision ("Do it", 2026-10-12 9:05 AM CEST), after a re-walk:
+    the card predated the Occult secret service leaf.'
