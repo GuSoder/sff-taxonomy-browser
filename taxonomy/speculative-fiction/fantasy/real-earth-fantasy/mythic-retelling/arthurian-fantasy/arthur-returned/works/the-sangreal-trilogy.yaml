@@ -1,0 +1,36 @@
+id: the-sangreal-trilogy
+title: The Sangreal Trilogy
+authors:
+- Amanda Hemingway
+first_published: 2004
+canonical_genre: arthur-returned
+placement_status: accepted
+placement_rationale: 'Amanda Hemingway, The Sangreal Trilogy (The Greenstone Grail 2004, The Sword of Straw 2005, The Poisoned
+  Crown 2007; Penguin Random House, BookLoons): a mother spirits her infant son to the English village of Thornyhill and the
+  ageless Bartlemy, who comes to believe the boy, Nathan, is destined to find the scattered relics of the Grail; the later
+  books send Nathan after the sword of straw and the poisoned iron crown kept beneath the ocean. Walk: Speculative fiction
+  > Fantasy > Real earth fantasy > Mythic retelling > Arthurian fantasy > Arthur returned (the Grail legend comes back into
+  a later English world). Rejected: Arthur classic (no Camelot), Arthur reimagined (no argument with the legend), Quest-threshold
+  portal fantasy. Wobble: medium, since the relics quest also spans other realms. Sources: Penguin Random House blurbs, BookLoons
+  review.'
+books:
+- title: The Greenstone Grail
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/210959-L.jpg
+- title: The Sword of Straw
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/210961-L.jpg
+- title: The Poisoned Crown
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/7265626-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/210959-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00523, MC00525, MC00524)
+placement_history:
+- date: '2026-10-04'
+  to: arthur-returned
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
