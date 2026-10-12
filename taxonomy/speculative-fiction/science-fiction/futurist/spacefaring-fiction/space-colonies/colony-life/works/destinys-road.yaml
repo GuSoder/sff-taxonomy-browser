@@ -1,0 +1,26 @@
+id: destinys-road
+title: Destiny's Road
+authors:
+- Larry Niven
+first_published: 1997
+canonical_genre: colony-life
+placement_status: accepted
+placement_rationale: 'Larry Niven''s Destiny''s Road (1997; Wikipedia): the descendants of the original Destiny colonists,
+  stranded when their landing craft deserted them, live on the planet Destiny, and Jemmy Bloocher explores Destiny''s Road,
+  a long scar of once-melted rock seared by a spaceship''s fusion drive. Set in the same universe as the Heorot series but
+  a different planet, protagonist and premise, so its own card. Walk: Futurist > Spacefaring > Space colonies > Colony life
+  (settled life years after the founding is the story). Sources: Wikipedia; not read. Alternative: Frontier planets.'
+books:
+- title: Destiny's Road
+  year: 1997
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10101049-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05849)
+placement_history:
+- date: '2026-10-04'
+  to: colony-life
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

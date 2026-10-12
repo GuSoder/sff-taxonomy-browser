@@ -290,3 +290,4 @@ K cluster MC05576-05604: specs 419-429.
 - 2026-10-12 07:40: Modesitt part 1: 9 cards (specs 446-454); held Hammer of Darkness, Quantum Shadows, Elysium Commission, Octagonal Raven, Parafaith War/Ethos Effect.
 - 2026-10-12 MC05736-MC05802 (L. K. Steven to Lane Robins): placed 11 cards (specs 455-465); held Micah Grey, Strange the Dreamer, Land Fit for Heroes; skipped anthology/children's/unreleased. Amberlough and Larissa Ione rows next.
 - 2026-10-12 MC05804-MC05810: Lords of Deliverance placed in Mythic power struggle (spec 466); Amberlough Dossier held (seed question).
+- 2026-10-12 Larry Niven rows (MC05845-MC05878): placed Fleet of Worlds, Heorot, Integral Trees, Harlequin's Moon, Protector, Destiny's Road (specs 467-472); held Goliath Stone, Dream Park, Inferno, Saturn's Race.
