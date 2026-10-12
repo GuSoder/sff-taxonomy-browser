@@ -1,18 +1,15 @@
 id: invented-mythology
 label: Invented mythology
 parent: mythological-fantasy
-children: []
+children:
+- invented-gods
+- mythlike-past
 image: 82-invented-mythology.webp
 definition: Fantasy that builds its own mythology from scratch - invented gods, creation legends and deep-time chronicles
   of an imaginary world rather than retellings of real-world myth. Coined by the curator 2026-09-14; not an SFE/EoF headword.
 status: provisional
-works:
-- the-raven-tower
-- audition-for-the-fox
-- the-spear-cuts-through-water
-- the-troupe
-- age-of-the-five
-- thunderer
-- warriors-of-estavia
-- warring-gods
-- the-instrumentalities-of-the-night
+works: []
+history:
+- date: '2026-10-12'
+  change: Split into Invented gods and Mythlike past, now an umbrella with 0 direct fictions; the curator's "Approved" (2026-10-12
+    4:04:19 PM CEST, phonemsg-01M4R6VED1NEC7PPVQSVBN7CQ3, on his own names Invented gods / Mythlike past).

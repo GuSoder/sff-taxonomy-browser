@@ -3,7 +3,7 @@ title: Age of the Five
 authors:
 - Trudi Canavan
 first_published: 2005
-canonical_genre: invented-mythology
+canonical_genre: invented-gods
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Mythological fantasy > Invented mythology. Five gods
   walk the land, and a priestess and a hunted woman of the Wilds face the pantheon''s war over their worlds and worshippers.'
@@ -25,3 +25,8 @@ placement_history:
 - date: '2026-10-04'
   to: invented-mythology
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: invented-mythology
+  to: invented-gods
+  reason: 'Invented mythology split into Invented gods / Mythlike past on the curator''s approval; re-walked: this card sits
+    in Invented gods.'

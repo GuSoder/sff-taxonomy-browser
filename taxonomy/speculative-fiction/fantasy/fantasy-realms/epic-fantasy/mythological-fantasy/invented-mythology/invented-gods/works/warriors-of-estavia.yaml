@@ -3,7 +3,7 @@ title: Warriors of Estavia
 authors:
 - Fiona Patton
 first_published: 2005
-canonical_genre: invented-mythology
+canonical_genre: invented-gods
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Mythological fantasy > Invented
   mythology. One trilogy in one world (Warriors of Estavia; ISFDB series 12605), so one fiction (rule 11j). Separate from
@@ -36,3 +36,8 @@ placement_history:
 - date: '2026-10-04'
   to: invented-mythology
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: invented-mythology
+  to: invented-gods
+  reason: 'Invented mythology split into Invented gods / Mythlike past on the curator''s approval; re-walked: this card sits
+    in Invented gods.'
