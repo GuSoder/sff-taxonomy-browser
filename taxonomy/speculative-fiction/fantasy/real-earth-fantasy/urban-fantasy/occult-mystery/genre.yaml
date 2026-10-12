@@ -1,0 +1,22 @@
+id: occult-mystery
+label: Occult mystery
+parent: urban-fantasy
+children:
+- occult-cop
+- occult-pi
+image: 219-occult-mystery.webp
+definition: 'Contemporary urban fantasy in which a case drives the story: police officers, formal law-enforcement units or
+  hired private investigators work crimes shaped by magic, supernatural beings or occult forces. Umbrella since 2026-10-05:
+  split-with-umbrella by who holds the case - Occult cop, Occult PI (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
+  2026-10-05 5:51 PM)). Renamed from Occult police on 2026-10-12 and Occult secret service lifted out to sit beside it, as
+  it contains threats for the state rather than working cases; mirrors Space mystery and Fantasy mystery (the curator''s "Ok,
+  do it" (2026-10-12 12:01:10 PM CEST, phonemsg-01M4QRY7C26VC7338KJSM56RQ3, on the proposal to lift Occult secret service one level and rename Occult police to
+  Occult mystery)).'
+status: accepted
+works: []
+ruling: curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)
+history:
+- date: '2026-10-12'
+  change: Renamed from Occult police (id occult-police-fiction) to Occult mystery; Occult secret service lifted out one level;
+    the curator's "Ok, do it" (2026-10-12 12:01:10 PM CEST, phonemsg-01M4QRY7C26VC7338KJSM56RQ3, on the proposal to lift Occult secret service one level and rename
+    Occult police to Occult mystery). Old id kept as a redirect.

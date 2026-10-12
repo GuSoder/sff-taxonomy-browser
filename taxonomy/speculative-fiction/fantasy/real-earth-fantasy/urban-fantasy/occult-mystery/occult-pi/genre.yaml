@@ -1,0 +1,21 @@
+id: occult-pi
+label: Occult PI
+parent: occult-mystery
+children:
+- mage-pi
+- monster-pi
+- pi-meets-magic
+works: []
+image: 494-occult-pi.webp
+definition: 'Occult mystery fiction where private, amateur or consulting investigators take occult cases outside any police
+  force or state service: a private eye, a psychic travel agent, a detective agency of daemons. Not Occult cop (sworn officers)
+  and not Occult secret service (hidden or state services). Split 2026-10-05 from Occult mystery at ten cards (curator "Approved"
+  (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)).'
+status: accepted
+ruling: curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)
+history:
+- date: '2026-10-12'
+  change: Split into Mage PI, Monster PI and PI meets Magic, now an umbrella with 0 direct fictions; curator "Execute" (phonemsg-01M4Q8PYNHZBPN276YRXKQZD65).
+- date: '2026-10-12'
+  change: Renamed from Occult consultants (id occult-consultants) to Occult PI on the curator's "Rename" (2026-10-12 11:42:23
+    AM CEST), to match its children Mage PI, Monster PI and PI meets magic; old id kept as a redirect.

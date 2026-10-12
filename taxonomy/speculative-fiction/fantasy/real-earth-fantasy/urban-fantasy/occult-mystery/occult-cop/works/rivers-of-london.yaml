@@ -1,0 +1,64 @@
+id: rivers-of-london
+title: Rivers of London
+authors:
+- Ben Aaronovitch
+first_published: 2011
+last_published: 2018
+canonical_genre: occult-cop
+placement_status: accepted
+included_titles:
+- Rivers of London
+- Moon Over Soho
+- Whispers Under Ground
+- Broken Homes
+- Foxglove Summer
+- The Hanging Tree
+- Lies Sleeping
+placement_rationale: SFE describes the Peter Grant sequence as Urban Fantasy featuring a Metropolitan Police detective in
+  police-procedural investigations complicated by magic and supernatural creatures. Aaronovitch describes Lies Sleeping as
+  a Metropolitan Police joint operation led by Detective Constable and apprentice wizard Peter Grant. Contemporary formal
+  police work investigating magical crimes makes Occult mystery exact.
+classification_sources:
+- https://sf-encyclopedia.com/entry/aaronovitch_ben
+- https://www.benaaronovitch.com/product/lies-sleeping-chronology/
+- https://www.penguinrandomhouse.com/series/BP9/rivers-of-london/
+cover_curation:
+  status: complete-for-intake-candidate
+  source: Penguin Random House
+  selected_title: Lies Sleeping
+  selected_url: https://images3.penguinrandomhouse.com/cover/9780756411350
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass official-publisher review
+books:
+- title: False Value
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10221123-L.jpg
+- title: Amongst Our Weapons
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14768342-L.jpg
+- title: Stone and Sky
+  year: 2026
+  cover_url: https://covers.openlibrary.org/b/id/15201330-L.jpg
+- title: The Furthest Station
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/11299677-L.jpg
+- title: The Masquerades of Spring
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/15170342-L.jpg
+- title: The October Man
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8612434-L.jpg
+- title: What Abigail Did That Summer
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10713506-L.jpg
+placement_history:
+- date: '2026-10-04'
+  change: Books from the 10k list folded onto this card (False Value, Amongst Our Weapons, Stone and Sky, The Furthest Station,
+    The Masquerades of Spring, The October Man, What Abigail Did That Summer); one card per series (DUPLICATES.md). Curator
+    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY.
+- date: '2026-10-05'
+  reason: Split of Occult mystery by who holds the case; re-walked root-down into Occult cop (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
+    2026-10-05 5:51 PM)).
+  from: occult-mystery
+  to: occult-cop

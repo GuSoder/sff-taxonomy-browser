@@ -1,0 +1,61 @@
+id: the-laundry-files
+title: The Laundry Files
+authors:
+- Charles Stross
+first_published: 2004
+canonical_genre: occult-secret-service
+placement_status: accepted
+placement_rationale: 'Stross''s Laundry Files, thirteen novels folded (The Atrocity Archives 2004 to The Regicide Report 2026;
+  years per the Wikipedia series list): Bob Howard, a former IT worker turned field agent of the Laundry, a top secret British
+  intelligence agency that protects the world from Lovecraftian entities reached through mathematics (Macmillan, antipope.org
+  series guide, Wikipedia). Root-down: Fantasy -> Real-earth fantasy (our contemporary world) -> Urban fantasy -> Occult mystery
+  fiction (a formal service works occult threats) -> Occult secret service (a hidden state supernatural service whose work
+  is secrecy and defence), not Occult cop (no badge caseload) or Occult PI (not freelance). Later books shift
+  to other agents and a post-Laundry order (New Management) but stay inside the same service and setting. Wobble low. Skipped
+  as novellas, novelettes or collections: A Conventional Boy, Escape from Yokai Land, Equoid, Overtime, Down on the Farm,
+  A Tall Tail, Three Tales from the Laundry Files, Wireless.'
+books:
+- title: The Atrocity Archives
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/955271-L.jpg
+- title: The Jennifer Morgue
+  year: 2006
+- title: The Fuller Memorandum
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6670663-L.jpg
+- title: The Apocalypse Codex
+  year: 2012
+- title: The Rhesus Chart
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/7537663-L.jpg
+- title: The Annihilation Score
+  year: 2015
+- title: The Nightmare Stacks
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/13056103-L.jpg
+- title: The Delirium Brief
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8538682-L.jpg
+- title: The Labyrinth Index
+  year: 2018
+- title: Dead Lies Dreaming
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10162820-L.jpg
+- title: Quantum of Nightmares
+  year: 2022
+- title: Season of Skulls
+  year: 2023
+- title: The Regicide Report
+  year: 2026
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6670663-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01615, MC01622, MC01620, MC01614, MC01628, MC01613, MC01624, MC01618, MC01623, MC01599,
+  MC01608, MC01611, MC01625)
+placement_history:
+- date: '2026-10-04'
+  to: occult-secret-service
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
