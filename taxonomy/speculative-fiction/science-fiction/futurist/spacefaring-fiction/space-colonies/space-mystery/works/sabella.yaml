@@ -1,0 +1,30 @@
+id: sabella
+title: Sabella
+authors:
+- Tanith Lee
+first_published: 1980
+canonical_genre: space-mystery
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s Sabella, or The Blood Stone (DAW, 1980; Penguin Random House description): on a Mars-like
+  Earth colony Sabella, allergic to sunlight, strong and fast and a feeder on blood, hides her vampirism after killing men
+  in her youth; her late aunt Cassi, a Christian Revivalist, sets her manservant John Trim to hunt her down, and he hires
+  the private investigator Sand Vincent to get close and find out what she is, while Sabella fights her own hunger to keep
+  him alive. Walk: Science fiction > Futurist > Spacefaring > Space colonies > Space mystery (an investigator works a secret
+  across a settled world; the case drives the story). Tried: Colony life (the community''s routine is only the cover) and
+  Soft SF (the vampire is the premise, not a menace sweeping the colony). Wobble: it is told from Sabella''s side, so Colony
+  life is the alternative leaf. Source: publisher description only, not the text.'
+books:
+- title: Sabella
+  year: 1980
+  cover_url: https://covers.openlibrary.org/b/id/8040402-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8040402-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09378)
+placement_history:
+- date: '2026-10-04'
+  to: space-mystery
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

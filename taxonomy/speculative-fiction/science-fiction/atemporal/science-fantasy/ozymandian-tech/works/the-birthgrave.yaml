@@ -1,0 +1,35 @@
+id: the-birthgrave
+title: The Birthgrave
+authors:
+- Tanith Lee
+first_published: 1975
+canonical_genre: ozymandian-tech
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s The Birthgrave (DAW, 1975; Wikipedia), first of the Birthgrave Trilogy, with Hunting the
+  White Witch (published 1978 as Quest for the White Witch, ISFDB series number 3, the queue''s row) folded in; Vazkor, Son
+  of Vazkor is not in the queue: a nameless woman wakes in a dormant volcano with no memory, a face the villagers call inhuman,
+  and healing powers, and follows the mysterious Karrakaz to a jade that may hold her past; she is worshipped as a goddess
+  in a decadent civilization, serves the sorcerer-conqueror Vazkor, and learns she belongs to the Old Ones, a lost omnipotent
+  people who ruled the world as cruel gods, and the world is later revealed to be one of many visited by the ''hollow star''
+  exploration ship; the third book follows Vazkor''s son hunting the White Witch, his mother, last of the Old Race. Walk:
+  Atemporal > Science fantasy > Ozymandian tech (the fantasy surface is built on the remains of an ancient, high-tech people,
+  whose survivors and works are taken for gods and magic). Tried: Dying earth (a decadent far age, but the Old Ones'' ship
+  is the reveal) and Classic planetary romance (the hero is a native, not an Earth visitor). Wobble: Dying earth, at nine,
+  is the alternative leaf. Source: Wikipedia, PRH and ISFDB.'
+books:
+- title: The Birthgrave
+  year: 1975
+  cover_url: https://upload.wikimedia.org/wikipedia/en/d/d0/Birthgrave_Barr_cover_1975.jpg
+- title: Hunting the White Witch
+  year: 1978
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://upload.wikimedia.org/wikipedia/en/d/d0/Birthgrave_Barr_cover_1975.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09382, MC09371)
+placement_history:
+- date: '2026-10-04'
+  to: ozymandian-tech
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

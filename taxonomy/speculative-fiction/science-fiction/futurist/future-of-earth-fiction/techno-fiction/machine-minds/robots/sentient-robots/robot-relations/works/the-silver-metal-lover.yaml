@@ -1,0 +1,32 @@
+id: the-silver-metal-lover
+title: The Silver Metal Lover
+authors:
+- Tanith Lee
+first_published: 1981
+canonical_genre: robot-relations
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s The Silver Metal Lover (DAW, 1981; Wikipedia), first of the S.I.L.V.E.R. books, with the
+  sequel Metallic Love (2005) folded in: in a far future of few jobs and a thin universal income, the lonely sixteen-year-old
+  Jane, dominated by her rich mother, falls in love with Silver, a companion robot musician made by Electronic Metals, buys
+  him out of deconstruction, runs away to live with him, and loses him to a recall, after which his ''soul'' reaches her through
+  the electronics around her. Walk: Science fiction > Futurist > Future of Earth > Techno fiction > Machine minds > Robots
+  > Sentient robots > Robot relations (the bond between a robot and the people around it is the story). Tried: Androids (Silver
+  is first taken for human, but the book is not about detection) and Being robot (told by Jane, not from inside the machine).
+  Wobble: Being robot, since Silver''s growing humanity is half the book. Source: Wikipedia.'
+books:
+- title: The Silver Metal Lover
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/372997-L.jpg
+- title: Metallic Love
+  year: 2005
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/372997-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09384, MC09374)
+placement_history:
+- date: '2026-10-04'
+  to: robot-relations
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

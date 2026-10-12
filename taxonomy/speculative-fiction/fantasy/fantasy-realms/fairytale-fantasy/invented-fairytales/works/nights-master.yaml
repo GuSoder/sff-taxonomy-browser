@@ -1,0 +1,40 @@
+id: nights-master
+title: Night's Master
+authors:
+- Tanith Lee
+first_published: 1978
+canonical_genre: invented-fairytales
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s Night''s Master (DAW, 1978; Wikipedia, Tales from the Flat Earth), first of the Flat Earth
+  cycle, with Death''s Master (1979), Delusion''s Master (1981), Delirium''s Mistress (1986) and Night''s Sorceries (1987)
+  folded in as the later volumes: a series modelled on One Thousand and One Nights and built, like it, from interconnected
+  stories, set on a flat world floating in chaos with demons beneath it, indifferent gods above and the dead within; Azhrarn,
+  Prince of Demons and Night''s Master, with Uhlume (Death), Chuz (Madness) and Kheshmet (Fortune) work wonder, cruelty and
+  bargains on mortals, and Azhrarn''s half-mortal daughter Azhriaz carries the later books. Walk: Fantasy > Fantasy realms
+  > Fairytale fantasy > Invented fairytales (newly invented tales, a linked cycle with fable and enchantment logic). Tried:
+  Godforsaken realms (demonic powers shape the world, but the books are told as tales, not as dread of an enclosed realm)
+  and Invented mythology (at nine; the cosmology is the setting, the tales are the form). Wobble: Godforsaken realms is the
+  alternative leaf. Source: Wikipedia series page only.'
+books:
+- title: Night's Master
+  year: 1978
+  cover_url: https://upload.wikimedia.org/wikipedia/en/3/34/NightsMaster_firsteditioncover.jpg
+- title: Death's Master
+  year: 1979
+- title: Delusion's Master
+  year: 1981
+- title: Delirium's Mistress
+  year: 1986
+- title: Night's Sorceries
+  year: 1987
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://upload.wikimedia.org/wikipedia/en/3/34/NightsMaster_firsteditioncover.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09375, MC09367, MC09369, MC09368, MC09376)
+placement_history:
+- date: '2026-10-04'
+  to: invented-fairytales
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
