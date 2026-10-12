@@ -3,7 +3,7 @@ title: Bodies of Magic
 authors:
 - Freya Marske
 first_published: 2026
-canonical_genre: fledgling-mage
+canonical_genre: white-mages
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Caster heroes
   > Mage hero > Fledgling mage. Per Tor/Macmillan and Reactor: at the Academie of the Grand Duchy of Sieuxerr, healer-mages
@@ -28,3 +28,8 @@ placement_history:
 - date: '2026-10-04'
   to: fledgling-mage
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: fledgling-mage
+  to: white-mages
+  reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
+    in White Mages.'

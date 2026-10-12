@@ -3,7 +3,7 @@ title: Earthsea
 authors:
 - Ursula K. Le Guin
 first_published: 1968
-canonical_genre: fledgling-mage
+canonical_genre: grey-mages
 placement_status: accepted
 placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches Mage Hero,
   not merely the setting or tone.'
@@ -167,3 +167,8 @@ placement_history:
     The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
   from: mage-hero
   to: fledgling-mage
+- date: '2026-10-12'
+  from: fledgling-mage
+  to: grey-mages
+  reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
+    in Grey Mages.'

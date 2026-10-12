@@ -3,7 +3,7 @@ title: The Rise of the Witch King
 authors:
 - Martha Wells
 first_published: 2023
-canonical_genre: graybeard-mage
+canonical_genre: black-mages
 placement_status: accepted
 placement_rationale: 'Secondary-world dark fantasy (PW; Grimdark Magazine): Kai, the Witch King, is a demon in a human body
   whose power is direct, drawn sorcery; the plot is his vengeance after betrayal. Primary power is magical mastery, so Mage
@@ -33,3 +33,8 @@ placement_history:
     The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
   from: mage-hero
   to: graybeard-mage
+- date: '2026-10-12'
+  from: graybeard-mage
+  to: black-mages
+  reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
+    in Black Mages.'

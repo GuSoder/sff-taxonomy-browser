@@ -3,7 +3,7 @@ title: The Scholomance
 authors:
 - Naomi Novik
 first_published: 2020
-canonical_genre: fledgling-mage
+canonical_genre: black-mages
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Heroic fantasy
   -> Caster heroes -> Mage hero. Penguin Random House describes El surviving the Scholomance through direct spellcraft against
@@ -37,3 +37,8 @@ placement_history:
     The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
   from: mage-hero
   to: fledgling-mage
+- date: '2026-10-12'
+  from: fledgling-mage
+  to: black-mages
+  reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
+    in Black Mages.'

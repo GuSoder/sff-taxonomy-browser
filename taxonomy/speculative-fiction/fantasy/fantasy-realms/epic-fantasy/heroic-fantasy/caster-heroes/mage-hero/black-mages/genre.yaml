@@ -1,0 +1,32 @@
+id: black-mages
+label: Black Mages
+parent: mage-hero
+children: []
+image: 682-black-mages.webp
+portrait: 682-black-mages.webp
+definition: 'Mage hero fantasy where the hero''s art is the dark one: necromancy, death, blood, demons, forbidden or destructive
+  sorcery, practised by the protagonist as his or her own craft. Colour names the art, not the hero''s morality: a kind necromancer
+  is still a Black Mage. Not Grey Mages (between or undefined arts, nature and balance), not White Mages (healing and restoring
+  arts), not Paladin hero or Cleric hero (power from a god or an order).'
+status: accepted
+works:
+- the-warden
+- saint-deaths-daughter
+- the-scholomance
+- spellslinger
+- rai-kirah
+- the-rise-of-the-witch-king
+- age-of-darkness
+ruling: 'Dissolve of Fledgling mage (9) and Graybeard mage (4) and re-division of Mage hero by the hero''s art, approved by
+  the curator''s "Execute on this axis instead" (2026-10-12 5:20:14 PM CEST, phonemsg-01M4RB6ESST3S5DDH4VP9A7HK0, on his own
+  names Black Mages / Grey Mages / White Mages); names are the curator''s own. Supersedes the 2026-10-06 life-stage split
+  (Fledgling mage / Graybeard mage). Axis: Black = death, blood, demons, forbidden or destructive sorcery; White = healing,
+  restoring; Grey = between or not yet defined. Colour denotes the art, not the hero''s morality. Softness: Spellslinger (shadowblack
+  is a curse he fights, but it is his signature magic), Age of Darkness (battlemage, bloodmage and chaosmage books; blood
+  and undead tip it Black), Unraveller (restorative rather than classic healing), The Scholomance (El''s foretold dark sorcery),
+  The Wild Hunt (the Gift is never defined).'
+history:
+- date: '2026-10-12'
+  change: Created by the dissolve of Fledgling mage and Graybeard mage and re-division of Mage hero by art; the curator's
+    "Execute on this axis instead" (2026-10-12 5:20:14 PM CEST, phonemsg-01M4RB6ESST3S5DDH4VP9A7HK0, on his own names Black
+    Mages / Grey Mages / White Mages).

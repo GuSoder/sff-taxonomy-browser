@@ -3,7 +3,7 @@ title: Animist
 authors:
 - Eve Forward
 first_published: 2000
-canonical_genre: fledgling-mage
+canonical_genre: grey-mages
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Caster heroes
   > Mage hero > Fledgling mage. Tor 2000 (ISFDB 2000-06; the queue''s 2001 is the paperback). Alex, a slave-born sixteen-year-old
@@ -27,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: fledgling-mage
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: fledgling-mage
+  to: grey-mages
+  reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
+    in Grey Mages.'

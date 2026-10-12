@@ -3,7 +3,7 @@ title: Age of Darkness
 authors:
 - Stephen Aryan
 first_published: 2015
-canonical_genre: graybeard-mage
+canonical_genre: black-mages
 placement_status: accepted
 placement_rationale: 'Stephen Aryan''s Age of Darkness and Age of Dread as one fiction: the war mages of one world against
   the dark that keeps returning.'
@@ -48,3 +48,8 @@ placement_history:
     The Warden moved to Fledgling after his 11:22:26 PM question (phonemsg-01M49HHBHG26ETX27XN4NJ82H2)).
   from: mage-hero
   to: graybeard-mage
+- date: '2026-10-12'
+  from: graybeard-mage
+  to: black-mages
+  reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
+    in Black Mages.'
