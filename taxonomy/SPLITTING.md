@@ -106,7 +106,7 @@ See also GLOSSARY.md for the terms "fiction" (an entry: a stand-alone novel up t
 
 ## Planned split axes (noted, not yet applied)
 
-Recorded 2026-10-12 from the curator's note (2:57:59 PM CEST, null), in his terms: "I think the future child genres of the rewinders can split quite naturally between if the start in rewinders is far future or writers present, likewise with overclockians if the destination is writers future or if they come from the past to the writers present, just an idea to note down." No tree change was made; apply when the leaf reaches split size and a split question is served and approved.
+Recorded 2026-10-12 from the curator's note (2:57:59 PM CEST, phonemsg-01M4R31YR66XSR63E1C809HCYF), in his terms: "I think the future child genres of the rewinders can split quite naturally between if the start in rewinders is far future or writers present, likewise with overclockians if the destination is writers future or if they come from the past to the writers present, just an idea to note down." No tree change was made; apply when the leaf reaches split size and a split question is served and approved.
 
 - DIY rewind (7 now): candidate child split by START period. Far-future start (for example The Dancers at the End of Time, Galileo's Dream, Time Enough for Love) vs the writer's-present start (for example Behold the Man, Dirk Gently, Make the Darkness Light, The Door into Summer).
 - Overclockian (4 now): candidate child split by DESTINATION. Travel to the writer's future (The Time Machine, The Time Ships) vs coming from the past into the writer's present.
