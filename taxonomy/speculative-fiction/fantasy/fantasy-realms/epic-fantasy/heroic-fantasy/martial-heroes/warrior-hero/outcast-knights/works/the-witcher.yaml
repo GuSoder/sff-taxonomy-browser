@@ -1,0 +1,43 @@
+id: the-witcher
+title: The Witcher
+authors:
+- Andrzej Sapkowski
+first_published: 1994
+canonical_genre: outcast-knights
+placement_status: accepted
+placement_rationale: 'Andrzej Sapkowski, The Witcher saga (Blood of Elves 1994, The Time of Contempt 1995, Baptism of Fire
+  1996, The Tower of the Swallow 1997, The Lady of the Lake 1999, plus the standalone Season of Storms 2013; Polish first
+  publication years; Wikipedia, Gollancz): Geralt of Rivia is a mutated monster-slayer for hire, sworn to no crown, who is
+  drawn through a continental war and the hunt for the girl Ciri; the saga''s later volumes follow Ciri and her pursuit, ending
+  with her passage through the elven portal in The Lady of the Lake. Walk: Speculative fiction > Fantasy > Fantasy realms
+  > Epic fantasy > Heroic fantasy > Martial heroes > Warrior hero > Outcast knights (a masterless fighter who fights for a
+  fee, a grudge or survival). Rejected: Hunter hero (the Ranger reading is woodcraft and a chosen quarry; Geralt''s trade
+  is the sword, not tracking), Champion knights (he is sworn to no one). Wobble: medium; the saga''s later books shift to
+  war and Ciri''s story. Not placed on this card: the short-story collections The Last Wish and Sword of Destiny (collections)
+  and the Hussite trilogy (a separate series). Sources read: Wikipedia pages for Blood of Elves and Baptism of Fire, Witcher
+  wiki page for The Lady of the Lake.'
+books:
+- title: Blood of Elves
+  year: 1994
+- title: The Time of Contempt
+  year: 1995
+- title: Baptism of Fire
+  year: 1996
+- title: The Tower of the Swallow
+  year: 1997
+- title: The Lady of the Lake
+  year: 1999
+- title: Season of Storms
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8457629-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: null
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00630, MC00641, MC00628, MC00644, MC00637, MC00634)
+placement_history:
+- date: '2026-10-04'
+  to: outcast-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

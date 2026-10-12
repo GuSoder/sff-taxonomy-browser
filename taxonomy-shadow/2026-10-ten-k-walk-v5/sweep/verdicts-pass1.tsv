@@ -497,7 +497,7 @@ MC00553	Dhampira	Amy Pennza	2026	WALK
 MC00554	The Rift Coda	Amy S Foster		WALK	Rift trilogy Foster YA; leaf unclear
 MC00555	The Rift Frequency	Amy S Foster		WALK	Rift trilogy
 MC00556	The Rift Uprising	Amy S Foster		WALK	Rift trilogy
-MC00557	Eric Flint's Islands	An Audio Drama Based on the Novella Eric Flint	2014	skip-audio	audio drama
+MC00557	Eric Flint's Islands	An Audio Drama Based on the Novella Eric Flint	2014	skip-audio	audio
 MC00558	Heir of Prophecy	Analeigh Sbrana		WALK	
 MC00559	Lore of the Tides	Analeigh Sbrana		WALK	
 MC00560	Lore of the Wilds	Analeigh Sbrana		WALK	
@@ -544,7 +544,7 @@ MC00601	The Legend Eternal	Andrea Stewart		WALK
 MC00602	The War Beyond	Andrea Stewart		WALK	
 MC00603	The Carpet Makers	Andreas Eschbach	2006	WALK	
 MC00608	Everything Happens So Much	Andrew H. Murray		WALK	
-MC00609	Combat Command: The Legion At War	Andrew Keith	2018	WALK	
+MC00609	Combat Command: The Legion At War	Andrew Keith	2018	skip-tie-in	Combat Command
 MC00610	We Shall Sing a Song into the Deep	Andrew Kelly Stewart	2021	WALK	
 MC00611	Forged for Destiny	Andrew Knighton		WALK	
 MC00612	Forged for Prophecy	Andrew Knighton		WALK	
@@ -553,7 +553,7 @@ MC00614	Emerald Magic	Andrew M. Greeley	2005	WALK
 MC00615	God Game	Andrew M. Greeley	2018	WALK	
 MC00616	The Final Planet	Andrew M. Greeley	2018	WALK	
 MC00617	The Magic Cup	Andrew M. Greeley	2008	WALK	
-MC00618	Red Dwarf: Titan	Andrew Marshall		WALK	
+MC00618	Red Dwarf: Titan	Andrew Marshall		skip-tie-in	Red Dwarf
 MC00619	The Quanderhorn Xperimentations	Andrew Marshall		WALK	
 MC00620	The Ghost Line	Andrew Neil Gray	2017	WALK	
 MC00621	How to Defeat a Demon King in Ten Easy Steps	Andrew Rowe		WALK	
@@ -563,39 +563,39 @@ MC00624	It Ends in Fire	Andrew Shvarts		WALK
 MC00625	Royal Bastards	Andrew Shvarts		WALK	
 MC00626	Royal Bastards Series Collection	Andrew Shvarts		skip-collection	
 MC00627	War of the Bastards	Andrew Shvarts		WALK	
-MC00628	Baptism of Fire	Andrzej Sapkowski		WALK	
-MC00629	Baptism of Fire: Booktrack Edition	Andrzej Sapkowski		WALK	
-MC00630	Blood of Elves	Andrzej Sapkowski		WALK	
-MC00631	Blood of Elves: Booktrack Edition	Andrzej Sapkowski		WALK	
-MC00632	Crossroads of Ravens	Andrzej Sapkowski		WALK	
-MC00633	Light Perpetual	Andrzej Sapkowski		WALK	
-MC00634	Season of Storms	Andrzej Sapkowski		WALK	
-MC00635	Season of Storms: Booktrack Edition	Andrzej Sapkowski		WALK	
-MC00636	Sword of Destiny	Andrzej Sapkowski		WALK	
-MC00637	The Lady of the Lake	Andrzej Sapkowski		WALK	
-MC00638	The Lady of the Lake: Booktrack Edition	Andrzej Sapkowski		WALK	
-MC00639	The Last Wish	Andrzej Sapkowski		WALK	
+MC00628	Baptism of Fire	Andrzej Sapkowski		placed	The Witcher
+MC00629	Baptism of Fire: Booktrack Edition	Andrzej Sapkowski		skip-dup	booktrack
+MC00630	Blood of Elves	Andrzej Sapkowski		placed	The Witcher card outcast-knights
+MC00631	Blood of Elves: Booktrack Edition	Andrzej Sapkowski		skip-dup	booktrack
+MC00632	Crossroads of Ravens	Andrzej Sapkowski		skip-nonfic	Crossroads of Ravens is Sapkowski/French Hussite? unclear; WALK
+MC00633	Light Perpetual	Andrzej Sapkowski		WALK	Hussite trilogy
+MC00634	Season of Storms	Andrzej Sapkowski		placed	The Witcher
+MC00635	Season of Storms: Booktrack Edition	Andrzej Sapkowski		skip-dup	booktrack
+MC00636	Sword of Destiny	Andrzej Sapkowski		skip-collection	Sword of Destiny
+MC00637	The Lady of the Lake	Andrzej Sapkowski		placed	The Witcher
+MC00638	The Lady of the Lake: Booktrack Edition	Andrzej Sapkowski		skip-dup	booktrack
+MC00639	The Last Wish	Andrzej Sapkowski		skip-collection	The Last Wish
 MC00640	The Malady and Other Stories	Andrzej Sapkowski		skip-collection	
-MC00641	The Time of Contempt	Andrzej Sapkowski		WALK	
-MC00642	The Time of Contempt: Booktrack Edition	Andrzej Sapkowski		WALK	
-MC00643	The Tower of Fools	Andrzej Sapkowski		WALK	
-MC00644	The Tower of Swallows	Andrzej Sapkowski		WALK	
-MC00645	The Tower of Swallows: Booktrack Edition	Andrzej Sapkowski		WALK	
-MC00646	The Tower of the Swallow	Andrzej Sapkowski		WALK	
-MC00647	Warriors of God	Andrzej Sapkowski		WALK	
-MC00648	Wakulla Springs	Andy Duncan	2013	WALK	
-MC00649	The Oregon Trail Diary of Willa Porter	Andy Marino	2013	WALK	
-MC00650	A Song for No Man's Land	Andy Remic	2016	WALK	
-MC00651	An Impossible War	Andy Remic	2017	WALK	
-MC00652	Return of Souls	Andy Remic	2016	WALK	
-MC00653	The Iron Beast	Andy Remic	2016	WALK	
-MC00654	1635: The Wars for the Rhine	Anette Pedersen	2016	WALK	
-MC00655	Finnegan's Field	Angela Slatter	2016	WALK	
-MC00656	Of Sorrow and Such	Angela Slatter	2015	WALK	
-MC00657	The Warrior Within	Angus McIntyre	2018	WALK	
-MC00658	Age of Iron	Angus Watson		WALK	
-MC00659	Clash of Iron	Angus Watson		WALK	
-MC00660	Reign of Iron	Angus Watson		WALK	
+MC00641	The Time of Contempt	Andrzej Sapkowski		placed	The Witcher
+MC00642	The Time of Contempt: Booktrack Edition	Andrzej Sapkowski		skip-dup	booktrack
+MC00643	The Tower of Fools	Andrzej Sapkowski		WALK	Hussite trilogy (Narrenturm) card with 647, 633
+MC00644	The Tower of Swallows	Andrzej Sapkowski		placed	The Witcher
+MC00645	The Tower of Swallows: Booktrack Edition	Andrzej Sapkowski		skip-dup	booktrack edition
+MC00646	The Tower of the Swallow	Andrzej Sapkowski		skip-dup	Tower of the Swallow dup of 644
+MC00647	Warriors of God	Andrzej Sapkowski		WALK	Hussite trilogy
+MC00648	Wakulla Springs	Andy Duncan	2013	skip-novella	Wakulla Springs
+MC00649	The Oregon Trail Diary of Willa Porter	Andy Marino	2013	skip-children	Oregon Trail Diary
+MC00650	A Song for No Man's Land	Andy Remic	2016	WALK	Remic Iron Beast/Song for No Man's Land; WWI fantasy candidate
+MC00651	An Impossible War	Andy Remic	2017	skip-omnibus	Impossible War omnibus
+MC00652	Return of Souls	Andy Remic	2016	WALK	Remic
+MC00653	The Iron Beast	Andy Remic	2016	WALK	Remic
+MC00654	1635: The Wars for the Rhine	Anette Pedersen	2016	FOLD	1635 Ring of Fire card
+MC00655	Finnegan's Field	Angela Slatter	2016	skip-novella	Finnegan's Field
+MC00656	Of Sorrow and Such	Angela Slatter	2015	skip-collection	Of Sorrow and Such novella
+MC00657	The Warrior Within	Angus McIntyre	2018	WALK	Warrior Within McIntyre
+MC00658	Age of Iron	Angus Watson		WALK	Watson Iron Age trilogy; celtic/iron-age candidate
+MC00659	Clash of Iron	Angus Watson		WALK	Watson Iron Age trilogy
+MC00660	Reign of Iron	Angus Watson		WALK	Watson Iron Age trilogy
 MC00661	The Land You Never Leave	Angus Watson		WALK	
 MC00662	Where Gods Fear to Go	Angus Watson		WALK	
 MC00663	You Die When You Die	Angus Watson		WALK	
