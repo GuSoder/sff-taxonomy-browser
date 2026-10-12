@@ -3,11 +3,15 @@ title: The Eternal Sky
 authors:
 - Elizabeth Bear
 first_published: 2012
-canonical_genre: revival-quest-fantasy
+canonical_genre: tenger
 placement_status: accepted
-placement_rationale: Temur, an exiled Khagan's grandson, the sorcerer Samarkar and the tiger-woman Hrahima journey across
-  a world of steppes, mountains and celestial skies against usurpers and a rising dark power (Range of Ghosts, Shattered Pillars,
-  Steles of the Sky); a party-bound road through a Mongol-and-Silk-Road secondary world.
+placement_rationale: 'Elizabeth Bear''s The Eternal Sky trilogy (Range of Ghosts 2012, Shattered Pillars, Steles of the Sky;
+  Kirkus, Reactor, publisher blurbs): Temur, an exiled Khagan''s grandson, the sorcerer Samarkar and the tiger-woman Hrahima,
+  outcasts, cross a world of steppes, mountains and moon-marked skies while the khanate''s civil war rages. Walk: Speculative
+  fiction > Fantasy > Fantasy realms > Far shores > Tenger (seeded for this card). Moved from Revival quest fantasy once the
+  curator asked whether the culture is the book''s work: the Mongol-and-Silk-Road steppe world is its signature, passing the
+  about-ness test. Wobble: medium, the company-of-outcasts quest engine remains. Sources: Kirkus, Reactor, publisher blurbs;
+  not read in full.'
 books:
 - title: Range of Ghosts
   year: 2012
@@ -34,3 +38,8 @@ placement_history:
     "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
   from: fellowship-quest-fantasy
   to: revival-quest-fantasy
+- date: '2026-10-12'
+  reason: Moved to the new Far shores leaf Tenger (curator "Approved", phonemsg-01M4RJ4RKC3YGKJAF4NXQ1F7Z8, 2026-10-12 7:21:39
+    PM).
+  from: revival-quest-fantasy
+  to: tenger
