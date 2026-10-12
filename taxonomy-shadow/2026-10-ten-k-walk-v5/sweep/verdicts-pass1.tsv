@@ -1009,74 +1009,74 @@ MC01207	The Bellmaker	Brian Jacques	2004	skip-children	Redwall juvenile
 MC01208	The Legend of Luke	Brian Jacques	2005	skip-children	Redwall juvenile
 MC01209	The Long Patrol	Brian Jacques	2004	skip-children	Redwall juvenile
 MC01210	The Rogue Crew	Brian Jacques	2013	skip-children	Redwall juvenile
-MC01211	The Sable Quean	Brian Jacques	2012	WALK	
-MC01212	Triss	Brian Jacques	2004	WALK	
-MC01213	Voyage of the Slaves	Brian Jacques	2008	WALK	
-MC01214	Blood of Empire	Brian McClellan		WALK	
-MC01215	In the Shadow of Lightning	Brian McClellan	2022	WALK	
-MC01216	Promise of Blood	Brian McClellan		WALK	
-MC01217	Sins of Empire	Brian McClellan		WALK	
-MC01218	The Autumn Republic	Brian McClellan		WALK	
-MC01219	The Crimson Campaign	Brian McClellan		WALK	
-MC01220	The Powder Mage Trilogy	Brian McClellan		WALK	
-MC01221	War Cry	Brian McClellan	2018	WALK	
-MC01222	Wrath of Empire	Brian McClellan		WALK	
-MC01223	Blood of an Exile	Brian Naslund	2019	WALK	
-MC01224	Fury of a Demon	Brian Naslund	2021	WALK	
-MC01225	Sorcery of a Queen	Brian Naslund	2020	WALK	
-MC01226	Monster Slayer	Brian Patten		WALK	
-MC01227	The Edinburgh Dead	Brian Ruckley		WALK	
-MC01228	The Free	Brian Ruckley		WALK	
-MC01229	Architects of Emortality	Brian Stableford	2000	WALK	
-MC01230	Dark Ararat	Brian Stableford	2007	WALK	
-MC01231	Inherit the Earth	Brian Stableford	1998	WALK	
-MC01232	Shadows Over Baker Street	Brian Stableford	2005	WALK	
-MC01233	The Cassandra Complex	Brian Stableford	2001	WALK	
-MC01234	The Fountains of Youth	Brian Stableford	2007	WALK	
-MC01235	The Omega Expedition	Brian Stableford	2007	WALK	
-MC01236	Chronicle of the Unhewn Throne	Brian Staveley	2016	WALK	
-MC01237	Skullsworn	Brian Staveley	2017	WALK	
-MC01238	The Emperor's Blades	Brian Staveley	2014	WALK	
-MC01239	The Empire's Ruin	Brian Staveley	2021	WALK	
-MC01240	The Last Mortal Bond	Brian Staveley	2016	WALK	
-MC01241	The Providence of Fire	Brian Staveley	2015	WALK	
-MC01242	Perdition's Storm	Brian Trent	2020	WALK	
-MC01243	The Exquisite Torment of Loving Your Enemy	Brigitte Knightley	2026	WALK	
-MC01244	The Irresistible Urge to Fall for Your Enemy	Brigitte Knightley	2026	WALK	
-MC01247	Krampus	Brom		WALK	
-MC01248	Lost Gods	Brom		WALK	
-MC01249	Slewfoot	Brom	2021	WALK	
-MC01250	The Child Thief	Brom		WALK	
-MC01251	The Brass Giant	Brooke Johnson		WALK	
-MC01252	The Guild Conspiracy	Brooke Johnson		WALK	
-MC01254	La Signora	Bruce McAllister	2014	WALK	
-MC01255	The Courtship of the Queen	Bruce McAllister	2011	WALK	
-MC01256	Schismatrix Plus	Bruce Sterling	1996	WALK	
-MC01257	The Caryatids	Bruce Sterling	2009	WALK	
-MC01258	The Zenith Angle	Bruce Sterling	2005	WALK	
-MC01261	Galactic Games	Bryan Thomas Schmidt	2016	WALK	
-MC01262	Little Green Men - Attack!	Bryan Thomas Schmidt	2016	WALK	
-MC01263	Mission: Tomorrow	Bryan Thomas Schmidt	2015	WALK	
-MC01264	Shattered Shields	Bryan Thomas Schmidt	2014	WALK	
+MC01211	The Sable Quean	Brian Jacques	2012	skip-children	Redwall
+MC01212	Triss	Brian Jacques	2004	skip-children	Redwall
+MC01213	Voyage of the Slaves	Brian Jacques	2008	skip-children	Redwall
+MC01214	Blood of Empire	Brian McClellan		WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01215	In the Shadow of Lightning	Brian McClellan	2022	WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01216	Promise of Blood	Brian McClellan		WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01217	Sins of Empire	Brian McClellan		WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01218	The Autumn Republic	Brian McClellan		WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01219	The Crimson Campaign	Brian McClellan		WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01220	The Powder Mage Trilogy	Brian McClellan		skip-omnibus	Powder Mage trilogy
+MC01221	War Cry	Brian McClellan	2018	WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01222	Wrath of Empire	Brian McClellan		WALK	McClellan Powder Mage/Gods of Blood and Powder, flintlock leaf (check alt-flintlock/gunpowder leaves)
+MC01223	Blood of an Exile	Brian Naslund	2019	WALK	Naslund Dragons of Terra, unread
+MC01224	Fury of a Demon	Brian Naslund	2021	WALK	Naslund Dragons of Terra, unread
+MC01225	Sorcery of a Queen	Brian Naslund	2020	WALK	Naslund Dragons of Terra, unread
+MC01226	Monster Slayer	Brian Patten		skip-children	Monster Slayer Patten/Riddell
+MC01227	The Edinburgh Dead	Brian Ruckley		WALK	Ruckley Edinburgh Dead, historical gothic check
+MC01228	The Free	Brian Ruckley		WALK	Ruckley The Free unread
+MC01229	Architects of Emortality	Brian Stableford	2000	WALK	Stableford Emortality series (Architects, Cassandra Complex, Fountains of Youth, Omega Expedition) needs leaf; Inherit the Earth; Dark Ararat
+MC01230	Dark Ararat	Brian Stableford	2007	WALK	Stableford Dark Ararat
+MC01231	Inherit the Earth	Brian Stableford	1998	WALK	Stableford Emortality series (Architects, Cassandra Complex, Fountains of Youth, Omega Expedition) needs leaf; Inherit the Earth; Dark Ararat
+MC01232	Shadows Over Baker Street	Brian Stableford	2005	skip-anthology	Shadows Over Baker Street
+MC01233	The Cassandra Complex	Brian Stableford	2001	WALK	Stableford Emortality series (Architects, Cassandra Complex, Fountains of Youth, Omega Expedition) needs leaf; Inherit the Earth; Dark Ararat
+MC01234	The Fountains of Youth	Brian Stableford	2007	WALK	Stableford Emortality series (Architects, Cassandra Complex, Fountains of Youth, Omega Expedition) needs leaf; Inherit the Earth; Dark Ararat
+MC01235	The Omega Expedition	Brian Stableford	2007	WALK	Stableford Emortality series (Architects, Cassandra Complex, Fountains of Youth, Omega Expedition) needs leaf; Inherit the Earth; Dark Ararat
+MC01236	Chronicle of the Unhewn Throne	Brian Staveley	2016	skip-omnibus	Chronicle of the Unhewn Throne
+MC01237	Skullsworn	Brian Staveley	2017	WALK	Staveley Unhewn Throne (+Skullsworn, Empire's Ruin) needs leaf
+MC01238	The Emperor's Blades	Brian Staveley	2014	WALK	Staveley Unhewn Throne (+Skullsworn, Empire's Ruin) needs leaf
+MC01239	The Empire's Ruin	Brian Staveley	2021	WALK	Staveley Unhewn Throne (+Skullsworn, Empire's Ruin) needs leaf
+MC01240	The Last Mortal Bond	Brian Staveley	2016	WALK	Staveley Unhewn Throne (+Skullsworn, Empire's Ruin) needs leaf
+MC01241	The Providence of Fire	Brian Staveley	2015	WALK	Staveley Unhewn Throne (+Skullsworn, Empire's Ruin) needs leaf
+MC01242	Perdition's Storm	Brian Trent	2020	WALK	Trent Perdition's Storm unread
+MC01243	The Exquisite Torment of Loving Your Enemy	Brigitte Knightley	2026	WALK	Knightley enemies-to-lovers romantasy 2026 unread; check rivals-to-lovers-romantasy (9)
+MC01244	The Irresistible Urge to Fall for Your Enemy	Brigitte Knightley	2026	WALK	Knightley enemies-to-lovers romantasy 2026 unread; check rivals-to-lovers-romantasy (9)
+MC01247	Krampus	Brom		WALK	Brom dark fantasy novels, unread each
+MC01248	Lost Gods	Brom		WALK	Brom dark fantasy novels, unread each
+MC01249	Slewfoot	Brom	2021	WALK	Brom dark fantasy novels, unread each
+MC01250	The Child Thief	Brom		WALK	Brom dark fantasy novels, unread each
+MC01251	The Brass Giant	Brooke Johnson		WALK	Johnson Brass Giant / Guild Conspiracy unread
+MC01252	The Guild Conspiracy	Brooke Johnson		WALK	Johnson Brass Giant / Guild Conspiracy unread
+MC01254	La Signora	Bruce McAllister	2014	skip-short	McAllister novella/short
+MC01255	The Courtship of the Queen	Bruce McAllister	2011	skip-short	McAllister novella/short
+MC01256	Schismatrix Plus	Bruce Sterling	1996	skip-collection	Schismatrix Plus omnibus; Schismatrix card absent
+MC01257	The Caryatids	Bruce Sterling	2009	WALK	Sterling Caryatids/Zenith Angle needs leaf
+MC01258	The Zenith Angle	Bruce Sterling	2005	WALK	Sterling Caryatids/Zenith Angle needs leaf
+MC01261	Galactic Games	Bryan Thomas Schmidt	2016	WALK	Schmidt Galactic Games unread
+MC01262	Little Green Men - Attack!	Bryan Thomas Schmidt	2016	skip-anthology	Little Green Men Attack
+MC01263	Mission: Tomorrow	Bryan Thomas Schmidt	2015	skip-anthology	Mission Tomorrow
+MC01264	Shattered Shields	Bryan Thomas Schmidt	2014	skip-anthology	Shattered Shields
 MC01267	The City Who Fought	By Anne McCaffrey	2018	placed-cyborgs	Brainships (one fiction)
-MC01268	Beyond the Ranges	By John Ringo	2024	WALK	
+MC01268	Beyond the Ranges	By John Ringo	2024	WALK	Ringo Beyond the Ranges unread
 MC01269	The Man-Kzin Wars	By Larry Niven	2018	skip-anthology	Man-Kzin Wars numbered volume (anthology)
-MC01270	What the Storm Means: Prologue to the Gathering Storm	By Robert Jordan	2009	WALK	
-MC01271	Forge of Heaven	C J Cherryh		WALK	
-MC01272	Fortress in the Eye of Time	C J Cherryh		WALK	
-MC01273	Fortress of Eagles	C J Cherryh		WALK	
-MC01274	Fortress of Ice	C J Cherryh		WALK	
-MC01280	A Boy and His Dog at the End of the World	C. A. Fletcher		WALK	
-MC01281	Dead Water	C. A. Fletcher		WALK	
-MC01282	The Two of Us at the End of the World	C. A. Fletcher		WALK	
-MC01283	Nemo Rising	C. Courtney Joyner	2017	WALK	
-MC01284	Alliance Rising	C. J. Cherryh	2019	WALK	
-MC01285	Alliance Space	C. J. Cherryh	2008	WALK	
-MC01286	Alliance Unbound	C. J. Cherryh	2024	WALK	
-MC01287	Alternate Realities	C. J. Cherryh	2000	WALK	
-MC01288	Chanur's Endgame	C. J. Cherryh	2007	WALK	
-MC01289	Chanur's Homecoming	C. J. Cherryh	1991	WALK	
-MC01290	Chanur's Legacy	C. J. Cherryh	1993	WALK	
+MC01270	What the Storm Means: Prologue to the Gathering Storm	By Robert Jordan	2009	skip-short	What the Storm Means prologue
+MC01271	Forge of Heaven	C J Cherryh		WALK	Cherryh Forge of Heaven (Hinder? Gene... Cherryh Hanan Rebellion?) unread
+MC01272	Fortress in the Eye of Time	C J Cherryh		WALK	Cherryh Fortress series needs leaf
+MC01273	Fortress of Eagles	C J Cherryh		WALK	Cherryh Fortress series needs leaf
+MC01274	Fortress of Ice	C J Cherryh		WALK	Cherryh Fortress series needs leaf
+MC01280	A Boy and His Dog at the End of the World	C. A. Fletcher		WALK	Fletcher post-apoc novels, unread
+MC01281	Dead Water	C. A. Fletcher		WALK	Fletcher post-apoc novels, unread
+MC01282	The Two of Us at the End of the World	C. A. Fletcher		WALK	Fletcher post-apoc novels, unread
+MC01283	Nemo Rising	C. Courtney Joyner	2017	WALK	Joyner Nemo Rising unread
+MC01284	Alliance Rising	C. J. Cherryh	2019	FOLD	Alliance Rising folded
+MC01285	Alliance Space	C. J. Cherryh	2008	skip-omnibus	Alliance Space omnibus
+MC01286	Alliance Unbound	C. J. Cherryh	2024	FOLD	Alliance Unbound folded
+MC01287	Alternate Realities	C. J. Cherryh	2000	skip-collection	Alternate Realities omnibus
+MC01288	Chanur's Endgame	C. J. Cherryh	2007	skip-omnibus	Chanur's Endgame omnibus 4,5
+MC01289	Chanur's Homecoming	C. J. Cherryh	1991	FOLD	folded into Alliance-Union card (Chanur sub-series)
+MC01290	Chanur's Legacy	C. J. Cherryh	1993	FOLD	folded into Alliance-Union card (Chanur sub-series)
 MC01291	Chanur's Venture	C. J. Cherryh	1987	WALK	
 MC01292	Exile's Gate	C. J. Cherryh	1988	WALK	
 MC01293	The Chanur Saga	C. J. Cherryh	2000	WALK	
