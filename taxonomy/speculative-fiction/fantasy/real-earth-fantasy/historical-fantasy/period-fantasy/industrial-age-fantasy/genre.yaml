@@ -2,19 +2,17 @@ id: industrial-age-fantasy
 label: Industrial age fantasy
 parent: period-fantasy
 children:
-- gaslight-fantasy
-- antebellum-fantasy
-- weird-west-fantasy
-- tudorbethan-fantasy
-- bowler-hat-fantasy
-- dust-bowl-fantasy
-- noir-fantasy
-- neon-fantasy
-- wwi-fantasy
-- wwii-fantasy
+- ember-age-fantasy
+- electric-age-fantasy
 image: 266-industrial-age-fantasy.webp
-definition: Umbrella for Period fantasy set from 1788 onward, from the Regency and industrial nineteenth century through the interwar, Depression and late-twentieth-century
-  eras.
+definition: Umbrella for Period fantasy set from 1788 onward, bundled on the time axis at 1900 into Ember-age fantasy (before
+  1900) and Electric-age fantasy (1900 on).
 status: umbrella
 ruling: Created by the curator's 2026-09-21 Period fantasy ruling.
 works: []
+history:
+- date: '2026-10-12'
+  change: 'Bundled into Ember-age fantasy and Electric-age fantasy at 1900; no fiction moved; the curator''s "Approved" (2026-10-12
+    7:57:08 PM CEST, phonemsg-01M4RM5PXQ390S05HCVHHZHA70, on the bundle Ember-age fantasy / Electric-age fantasy; names settled
+    with him in the 7:46-7:56 PM thread: Steam-age, Machine-age, Electric-age, Ember-age, Flare-age, Belle Epoque and others
+    weighed; he coined and confirmed "Ember/Electric age fantasy works?").'
