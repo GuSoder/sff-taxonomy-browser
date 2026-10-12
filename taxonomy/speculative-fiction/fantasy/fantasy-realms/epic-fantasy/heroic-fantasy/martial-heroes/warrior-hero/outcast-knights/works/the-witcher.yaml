@@ -29,11 +29,10 @@ books:
   year: 1999
 - title: Season of Storms
   year: 2013
-  cover_url: https://covers.openlibrary.org/b/id/8457629-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: null
+  selected_url: https://covers.openlibrary.org/b/id/9359601-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC00630, MC00641, MC00628, MC00644, MC00637, MC00634)
