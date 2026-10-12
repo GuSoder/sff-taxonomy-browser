@@ -3,7 +3,7 @@ title: Godkiller
 authors:
 - Hannah Kaner
 first_published: 2023
-canonical_genre: warrior-hero
+canonical_genre: outcast-knights
 placement_status: accepted
 placement_rationale: Kissen kills gods for a fee amid zealots, wild gods and civil war; her trade is direct armed combat.
   Witcher/Black Company lineage (review compares The Steel Remains) - martial hero whose power is the blade. Warrior hero.
@@ -22,6 +22,11 @@ placement_history:
 - date: '2026-10-08'
   reason: 'Folded Sunbringer and Faithbreaker: books two and three of the Godkiller (Fallen Gods) trilogy, same world and
     cast (author site hannahkaner.com). A Snake Among Swans is a separate Wild Swans retelling and is not folded.'
+- date: '2026-10-12'
+  from: warrior-hero
+  to: outcast-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this card sits
+    in Outcast knights.'
 books:
 - title: Godkiller
   year: 2023

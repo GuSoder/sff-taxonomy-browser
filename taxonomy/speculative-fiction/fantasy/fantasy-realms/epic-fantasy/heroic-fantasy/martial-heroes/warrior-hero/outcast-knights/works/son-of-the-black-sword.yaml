@@ -3,7 +3,7 @@ title: Son of the Black Sword
 authors:
 - Larry Correia
 first_published: 2015
-canonical_genre: warrior-hero
+canonical_genre: outcast-knights
 placement_status: accepted
 placement_rationale: 'Larry Correia''s Son of the Black Sword (Baen, 2015; Wikipedia), first of the Saga of the Forgotten
   Warrior, with House of Assassins (2019), Destroyer of Worlds, Tower of Silence, Graveyard of Demons and Heart of the Mountain
@@ -36,3 +36,8 @@ placement_history:
 - date: '2026-10-04'
   to: warrior-hero
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: warrior-hero
+  to: outcast-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this card sits
+    in Outcast knights.'

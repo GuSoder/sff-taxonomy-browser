@@ -1,0 +1,34 @@
+id: land-fit-for-heroes
+title: Land Fit for Heroes
+authors:
+- Richard K. Morgan
+first_published: 2008
+canonical_genre: outcast-knights
+placement_status: accepted
+placement_rationale: 'Richard K. Morgan''s A Land Fit for Heroes (The Steel Remains 2008, The Cold Commands 2011, The Dark
+  Defiles 2014; Morgan''s site, PRH, ISFDB, Wikipedia; one series, one card): Ringil Eskiath, a washed-up mercenary and war
+  hero of Gallows Gap who lives off his legend, is asked by his mother to find a cousin sold into slavery, and his main power
+  is his sword. Walk: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Warrior
+  hero > Outcast knights. Rejected: Rogue hero and Ranger hero (a veteran fighter, not a thief or tracker), Champion knights
+  (he serves no crown; he is hired for a cousin and estranged from his family). Wobble: low. Later volumes not read in full.'
+books:
+- title: The Steel Remains
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6670503-L.jpg
+- title: The Cold Commands
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/12765899-L.jpg
+- title: The Dark Defiles
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/10367926-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6670503-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05800, MC05798, MC05799)
+placement_history:
+- date: '2026-10-04'
+  to: outcast-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

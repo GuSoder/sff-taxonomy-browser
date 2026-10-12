@@ -3,10 +3,11 @@ title: Jirel of Joiry
 authors:
 - C. L. Moore
 first_published: 1934
-canonical_genre: warrior-hero
+canonical_genre: champion-knights
 placement_status: accepted
-placement_rationale: >-
-  SFE calls Jirel the first Sword-and-Sorcery series with a female hero and a swashbuckling adventuress; Hachette describes her as a fearless commander of warriors whose two-handed sword, physical courage and honor drive her journeys. Her primary power source is direct martial prowess, making Warrior Hero exact under the curator's RPG-class rule.
+placement_rationale: SFE calls Jirel the first Sword-and-Sorcery series with a female hero and a swashbuckling adventuress;
+  Hachette describes her as a fearless commander of warriors whose two-handed sword, physical courage and honor drive her
+  journeys. Her primary power source is direct martial prowess, making Warrior Hero exact under the curator's RPG-class rule.
 classification_sources:
 - https://sf-encyclopedia.com/entry/moore_c_l
 - https://sf-encyclopedia.com/entry/temporal_adventuress
@@ -19,3 +20,9 @@ cover_curation:
   visually_reviewed_on: '2026-09-18'
   review_method: one-pass four-cover sheet
   selection_note: Selected the detailed illustrated Ace front with Jirel visibly facing supernatural enemies.
+placement_history:
+- date: '2026-10-12'
+  from: warrior-hero
+  to: champion-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this card sits
+    in Champion knights.'

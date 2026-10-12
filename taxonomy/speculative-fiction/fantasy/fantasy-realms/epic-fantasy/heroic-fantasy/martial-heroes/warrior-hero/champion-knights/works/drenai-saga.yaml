@@ -4,7 +4,7 @@ authors:
 - David Gemmell
 first_published: 1984
 last_published: 2004
-canonical_genre: warrior-hero
+canonical_genre: champion-knights
 placement_status: accepted
 included_titles:
 - Legend
@@ -18,7 +18,9 @@ included_titles:
 - Hero in the Shadows
 - White Wolf
 - The Swords of Night and Day
-placement_rationale: SFE calls Gemmell primarily a Heroic Fantasy author and says the long-lived Drenai Saga begins with Legend, is built around the indomitable warrior Druss, and continues through Hero in the Shadows with the related Skilgannon books. Its authority and action come from armed combat, courage and battlefield leadership, matching Warrior Hero.
+placement_rationale: SFE calls Gemmell primarily a Heroic Fantasy author and says the long-lived Drenai Saga begins with Legend,
+  is built around the indomitable warrior Druss, and continues through Hero in the Shadows with the related Skilgannon books.
+  Its authority and action come from armed combat, courage and battlefield leadership, matching Warrior Hero.
 classification_sources:
 - https://sf-encyclopedia.com/entry/gemmell_david_a
 - https://www.penguinrandomhouse.com/books/59000/legend-by-david-gemmell/
@@ -52,3 +54,9 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/210842-L.jpg
   - title: The Swords of Night and Day
     url: https://covers.openlibrary.org/b/id/210843-L.jpg
+placement_history:
+- date: '2026-10-12'
+  from: warrior-hero
+  to: champion-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this card sits
+    in Champion knights.'

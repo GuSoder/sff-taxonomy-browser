@@ -1,18 +1,15 @@
 id: warrior-hero
 label: Warrior hero
 parent: martial-heroes
-children: []
+children:
+- champion-knights
+- outcast-knights
 image: 196-warrior-hero.webp
 definition: Martial-hero fantasy whose protagonist’s primary power is direct armed combat, physical courage and battlefield
   leadership.
 status: accepted
-works:
-- jirel-of-joiry
-- graceling-realm
-- the-well-of-the-unicorn
-- the-worm-ouroboros
-- drenai-saga
-- godkiller
-- the-forsaken-trilogy
-- the-burning
-- son-of-the-black-sword
+works: []
+history:
+- date: '2026-10-12'
+  change: Split into Champion knights and Outcast knights, now an umbrella with 0 direct fictions; the curator's "Approved"
+    (2026-10-12 4:36:07 PM CEST, phonemsg-01M4R8NNR9VE8N9T8T2PXE3BQM, on his own names Champion knights / Outcast knights).
