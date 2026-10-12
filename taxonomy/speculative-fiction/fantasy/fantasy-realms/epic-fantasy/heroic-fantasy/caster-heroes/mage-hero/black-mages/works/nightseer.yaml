@@ -1,0 +1,29 @@
+id: nightseer
+title: Nightseer
+authors:
+- Laurell K. Hamilton
+first_published: 1992
+canonical_genre: black-mages
+placement_status: accepted
+placement_rationale: 'Laurell K. Hamilton''s Nightseer (Roc, 1992; PRH, Google Books, SFE-style review): Keleios, a half-elf
+  who saw her mother murdered by the witch Harque, gains a range of powers from the gods but also a demonmark that opens the
+  door to forbidden dark sorcery; she must choose between its tainted power and those she loves while hunting her revenge.
+  Walk: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Caster hero > Mage hero > Black mages
+  (demon-marked forbidden sorcery practised as her own craft). Rejected: Grey mages (the gift is prophecy/mixed, but the story''s
+  question is the dark art), White mages (not healing), Cleric hero (the powers come from gods but she wields them as a sorceress).
+  Wobble: medium-high, Grey mages; sources are blurbs and one review, not read in full. Standalone.'
+books:
+- title: Nightseer
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/294675-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/294675-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05902)
+placement_history:
+- date: '2026-10-04'
+  to: black-mages
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
