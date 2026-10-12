@@ -1,0 +1,32 @@
+id: day-by-night
+title: Day by Night
+authors:
+- Tanith Lee
+first_published: 1980
+canonical_genre: far-future-planetary-romance
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s Day by Night (DAW, 1980; Penguin Random House description and a Stranger Than SF review):
+  a planet locked to its sun, one side in permanent light, the other in permanent dark, where aristocrats live in decadence
+  on estates run by robot servants whose makers no one remembers how to fix and the poor work and rot in slums; in the Day
+  half Vel Thaidis, heir to the Hirz estate, is framed by the suitor she rejected, convicted by robot judges and banished
+  to the Slumopolis, while in the Night half Vitra, who crafts dreams for the masses, dreams Vel into being as a mirror of
+  her own life until the machines fail and she is stuck in the dark. Walk: Atemporal > Science fantasy > Planetary romance
+  > Far-future planetary romance (natives of a far future with forgotten engines that read as fantasy, a strange habitat).
+  Tried: Space colony dynasties (the ruling houses are the setting, the story is Vel and Vitra''s passage), Dying earth (at
+  nine) and Classic planetary romance (no Earth visitor). Wobble: Dying earth and Space colony dynasties are the alternative
+  leaves. Source: publisher description and a review, not the text.'
+books:
+- title: Day by Night
+  year: 1980
+  cover_url: https://images4.penguinrandomhouse.com/cover/9780698404564
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images4.penguinrandomhouse.com/cover/9780698404564
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09365)
+placement_history:
+- date: '2026-10-04'
+  to: far-future-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

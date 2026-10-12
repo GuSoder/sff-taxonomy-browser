@@ -1,0 +1,31 @@
+id: electric-forest
+title: Electric Forest
+authors:
+- Tanith Lee
+first_published: 1979
+canonical_genre: cyborgs
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s Electric Forest (Nelson Doubleday, 1979; Wikipedia and Penguin Random House description):
+  in the future world of Indigo, where the government controls reproduction so every baby is healthy and beautiful, Magdala
+  Cled, one of the rare natural-born mistakes, is an outcast branded ''Ugly'' and raised in an orphanage; the wealthy scientist
+  Claudio Loro offers to transfer her consciousness into a beautiful artificial body he has made, in return for her part in
+  an espionage effort she does not know of at first. Walk: Science fiction > Futurist > Future of Earth > Techno fiction >
+  Technomorphosis > Posthuman > Remade bodies > Cyborgs (the story is the artificial body and what it does to her place in
+  society). Tried: Copied minds (the mind is moved, but at nine and the book follows the body, not the copy), Altered flesh
+  (the body is built, not grown or altered) and Androids (she is a person in a made body, not a replica). Wobble: Copied minds
+  is the alternative leaf, since the transfer is of her consciousness. Source: Wikipedia and publisher description.'
+books:
+- title: Electric Forest
+  year: 1979
+  cover_url: https://images4.penguinrandomhouse.com/cover/9780756411169
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images4.penguinrandomhouse.com/cover/9780756411169
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09370)
+placement_history:
+- date: '2026-10-04'
+  to: cyborgs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

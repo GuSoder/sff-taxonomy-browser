@@ -1,0 +1,30 @@
+id: days-of-grass
+title: Days of Grass
+authors:
+- Tanith Lee
+first_published: 1985
+canonical_genre: fallen-earth
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s Days of Grass (DAW, 1985; Penguin Random House description and ISFDB): after the fall
+  of humanity the free humans live underground like rats, fearing the open sky and the striding laser-armed machines from
+  space; Esther dares the surface, sees the Enemy and is taken captive to a vast, empty alien city of non-Earth science, where
+  she does not know what they want of her, and an alien man with a hold of magic over her comes to her. Walk: Science fiction
+  > Modern day > Alien invasion fiction > Alien conquest fiction > Fallen Earth (the invaders have won, the planet is ruled
+  by them, and the story is survival and accommodation under alien rule). Tried: Warzone Earth (no war is still being fought)
+  and Alien extraction (the aliens rule, they do not quietly harvest). Wobble: post-apocalyptic leaves are the alternative,
+  since the story is as much a dystopia of the survivors; I read the publisher description only.'
+books:
+- title: Days of Grass
+  year: 1985
+  cover_url: https://images4.penguinrandomhouse.com/cover/9780698404557
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images4.penguinrandomhouse.com/cover/9780698404557
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09366)
+placement_history:
+- date: '2026-10-04'
+  to: fallen-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

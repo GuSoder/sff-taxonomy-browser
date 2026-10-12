@@ -1,0 +1,30 @@
+id: lycanthia
+title: Lycanthia
+authors:
+- Tanith Lee
+first_published: 1981
+canonical_genre: werewolf-fantasy
+placement_status: accepted
+placement_rationale: 'Tanith Lee''s Lycanthia, or The Children of Wolves (DAW, 1981; ISFDB back cover and a Nicoll review):
+  Christian Dorse, who believes he is dying, takes back the decaying family chateau in a remote corner of France and is accepted
+  as lord by the villagers; his neighbours in the wood, the siblings Luc and Gabrielle de Lagenay, are shunned and thought
+  to be one with the wolves, under an ancient curse for which his own ancestors were responsible and to which he is bound,
+  and the book turns on what Christian discovers he is. Walk: Fantasy > Real Earth fantasy > Nocturne fantasy > Supernatural
+  fantasy > Werewolf fantasy (lycanthropy, its curse and the choice of the cursed, on recognizable Earth). Tried: Folk horror
+  (the villagers'' belief is not the menace) and Cursed towns (the curse sits in a family, not a settlement). Wobble: Folk
+  horror is the alternative leaf; the French setting is dated by the reviewer as feudal-backwater rural, which I read as Earth.'
+books:
+- title: Lycanthia
+  year: 1981
+  cover_url: https://covers.openlibrary.org/b/id/6655129-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6655129-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC09373)
+placement_history:
+- date: '2026-10-04'
+  to: werewolf-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
