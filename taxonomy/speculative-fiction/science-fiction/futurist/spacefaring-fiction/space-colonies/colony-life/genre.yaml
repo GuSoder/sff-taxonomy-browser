@@ -1,21 +1,18 @@
 id: colony-life
 label: Colony life
 parent: space-colonies
-children: []
-works:
-- planetfall
-- the-moonday-letters
-- the-homecoming-saga
-- remnant-population
-- the-voices-of-heaven
-- the-outposter
-- desolation-road
-- the-memory-of-whiteness
-- destinys-road
+children:
+- space-habitat-life
+- surface-colony-life
+works: []
 image: 476-colony-life.webp
 definition: 'Space colonies in which settled life is the story: the community''s routines, faith, secrets and care, and the
-  people who live them years after the founding. Not Space colony politics (there a contest for power drives the story), not Space
-  mystery (there a case does). Split 2026-10-05 from Space colonies by what drives the story inside the colony (curator "Approved"
-  (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space mystery, phonemsg-01M45985VR35G9EGGEX4169X0F,
-  7:40 AM)).'
-status: leaf
+  people who live them years after the founding. Not Space colony politics (there a contest for power drives the story), not
+  Space mystery (there a case does). Now an umbrella: Space habitat life and Surface colony life. Split 2026-10-05 from Space
+  colonies by what drives the story inside the colony; re-divided 2026-10-12 by where the colony stands.'
+status: accepted
+history:
+- date: '2026-10-12'
+  change: Split into Space habitat life and Surface colony life, now an umbrella with 0 direct fictions; the curator's "Approved"
+    (2026-10-12 6:09:47 PM CEST, phonemsg-01M4RE163DTSQWYY1NZP4J7YHA, on his own names Space habitat life / Surface colony
+    life).

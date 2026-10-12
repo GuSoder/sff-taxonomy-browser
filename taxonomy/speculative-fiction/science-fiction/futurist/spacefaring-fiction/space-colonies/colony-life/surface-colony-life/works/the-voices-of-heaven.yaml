@@ -3,7 +3,7 @@ title: The Voices of Heaven
 authors:
 - Frederik Pohl
 first_published: 1994
-canonical_genre: colony-life
+canonical_genre: surface-colony-life
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space colonies >
   Colony life. Per Publishers Weekly and Kirkus: antimatter engineer Barry di Hoa is shanghaied to the struggling colony of
@@ -26,3 +26,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-life
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: colony-life
+  to: surface-colony-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked: this card
+    sits in Surface colony life.'

@@ -3,7 +3,7 @@ title: Destiny's Road
 authors:
 - Larry Niven
 first_published: 1997
-canonical_genre: colony-life
+canonical_genre: surface-colony-life
 placement_status: accepted
 placement_rationale: 'Larry Niven''s Destiny''s Road (1997; Wikipedia): the descendants of the original Destiny colonists,
   stranded when their landing craft deserted them, live on the planet Destiny, and Jemmy Bloocher explores Destiny''s Road,
@@ -24,3 +24,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-life
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: colony-life
+  to: surface-colony-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked: this card
+    sits in Surface colony life.'

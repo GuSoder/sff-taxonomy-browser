@@ -3,7 +3,7 @@ title: Desolation Road
 authors:
 - Ian McDonald
 first_published: 1988
-canonical_genre: colony-life
+canonical_genre: surface-colony-life
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space colonies >
   Colony life. A far-future terraformed Mars where a town grows around a desert oasis; settlers, exiles and pioneers arrive
@@ -27,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-life
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: colony-life
+  to: surface-colony-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked: this card
+    sits in Surface colony life.'

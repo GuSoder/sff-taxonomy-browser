@@ -3,7 +3,7 @@ title: The Moonday Letters
 authors:
 - Emmi Itäranta
 first_published: 2022
-canonical_genre: colony-life
+canonical_genre: space-habitat-life
 placement_status: accepted
 placement_rationale: An Eight Worlds-style system of prosperous habitats with Earth the semi-abandoned derelict; the healer
   Lumi, whose cures ride mental travel to a spirit-guide dimension, searches the settlements when her spouse Sol vanishes
@@ -26,3 +26,8 @@ placement_history:
   reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
     power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
     mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+- date: '2026-10-12'
+  from: colony-life
+  to: space-habitat-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked: this card
+    sits in Space habitat life.'

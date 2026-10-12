@@ -3,7 +3,7 @@ title: The Memory of Whiteness
 authors:
 - Kim Stanley Robinson
 first_published: 1985
-canonical_genre: colony-life
+canonical_genre: space-habitat-life
 placement_status: accepted
 placement_rationale: 'Kim Stanley Robinson''s The Memory of Whiteness (1985; Wikipedia): a grand tour of human colonies from
   the outer planets toward the Sun by the Holywelkin Orchestra, a futuristic instrument played by a master, with a journalist
@@ -24,3 +24,8 @@ placement_history:
 - date: '2026-10-04'
   to: colony-life
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: colony-life
+  to: space-habitat-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked: this card
+    sits in Space habitat life.'
