@@ -1,5 +1,5 @@
 id: elric-of-melnibon
-title: "Elric of Melnibon\xE9"
+title: Elric of Melniboné
 authors:
 - Michael Moorcock
 first_published: 1972
@@ -7,7 +7,7 @@ canonical_genre: evergreen-sword-and-sorcery
 placement_status: accepted
 placement_rationale: ''
 books:
-- title: "Elric of Melnibon\xE9"
+- title: Elric of Melniboné
   year: 1972
   authors:
   - Michael Moorcock
@@ -28,6 +28,13 @@ books:
 - title: Stormbringer
   year: 1965
   cover_url: https://covers.openlibrary.org/b/id/10237221-L.jpg
+- title: The Fortress of the Pearl
+  year: 1989
+- title: The Revenge of the Rose
+  year: 1991
+- title: The Moonbeam Roads
+- title: The Citadel of Forgotten Myths
+  year: 2022
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/10098033-L.jpg
   shows_english_title: true
