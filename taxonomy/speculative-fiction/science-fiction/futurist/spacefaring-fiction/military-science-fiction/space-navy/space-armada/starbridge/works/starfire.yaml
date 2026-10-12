@@ -5,7 +5,7 @@ authors:
 - Steve White
 - Shirley Meier
 first_published: 1990
-canonical_genre: space-armada
+canonical_genre: starbridge
 placement_status: accepted
 placement_rationale: 'The Starfire novels (Insurrection, Crusade, The Shiva Option, Exodus; The Stars at War omnibuses collect
   the earlier books): the Terran-led fleets fight a long war against the alien Arachnid Bugs, with ship design and fleet engagements
@@ -40,3 +40,7 @@ placement_history:
     10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
   from: space-navy
   to: space-armada
+- date: '2026-10-12'
+  from: space-armada
+  to: starbridge
+  reason: 'Space armada split into Starbridge / Star stripes on the curator''s approval; re-walked: this card sits in Starbridge.'

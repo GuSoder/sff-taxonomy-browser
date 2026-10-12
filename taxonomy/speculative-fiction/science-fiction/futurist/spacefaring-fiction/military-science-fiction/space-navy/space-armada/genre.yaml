@@ -1,17 +1,10 @@
 id: space-armada
 label: Space armada
 parent: space-navy
-children: []
-works:
-- the-lost-fleet
-- starfire
-- the-cruel-stars
-- the-serrano-legacy
-- the-lightship-chronicles
-- helforts-war
-- star-carrier
-- galaxy-raiders
-- honor-harrington
+children:
+- starbridge
+- star-stripes
+works: []
 image: 550-space-armada.webp
 definition: 'Space navy of the state war fleet: fleets, admirals and formations, where the armada itself and its campaigns
   are the story. Split 2026-10-06 from Space navy at ten fictions (curator "Ok, execute" (2026-10-06 10:45:16 PM) over the
@@ -20,3 +13,7 @@ definition: 'Space navy of the state war fleet: fleets, admirals and formations,
 status: accepted
 ruling: curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC,
   10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)
+history:
+- date: '2026-10-12'
+  change: Split into Starbridge and Star stripes, now an umbrella with 0 direct fictions; the curator's "Execute" (2026-10-12
+    9:55:06 AM CEST, phonemsg-01M4QHQC9DX5CWNZHN2PY168T5, on his own names Starbridge / Star stripes).

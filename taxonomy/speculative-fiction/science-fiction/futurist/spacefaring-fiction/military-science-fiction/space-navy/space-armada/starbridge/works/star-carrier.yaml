@@ -3,17 +3,17 @@ title: Star Carrier
 authors:
 - Ian Douglas
 first_published: 2010
-canonical_genre: space-armada
+canonical_genre: starbridge
 placement_status: accepted
-placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science fiction > Space navy > Space armada.
-  Admiral Koenig commands the kilometre-long star carrier America and the Confederation fleet against the Sh''daar, an alien
-  coalition set on stopping humanity''s technological transcendence by annihilation; across nine novels the carrier groups,
-  task forces and fleet campaigns are the story (HarperCollins listing for Earth Strike; FictionDB series order). Rejected:
-  Ground-pounders (the Marines trilogies are separate cards), Space command (the view is the carrier fleet in battle, not
-  the headquarters), Space corvette (capital-ship fleets, not small craft). Wobble: moderate; the late books (Deep Time, Dark
-  Mind, Bright Light, Stargods) widen into time travel and cosmic transcendence, though fleet war stays the spine. Sources:
-  harpercollins.co.nz Earth Strike page, kobo.com series listing, fictiondb.com/author/ian-douglas~32928. Years from FictionDB
-  first-print dates (Harper Voyager mass-market originals).'
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
+  fiction > Space navy > Space armada. Admiral Koenig commands the kilometre-long star carrier America and the Confederation
+  fleet against the Sh''daar, an alien coalition set on stopping humanity''s technological transcendence by annihilation;
+  across nine novels the carrier groups, task forces and fleet campaigns are the story (HarperCollins listing for Earth Strike;
+  FictionDB series order). Rejected: Ground-pounders (the Marines trilogies are separate cards), Space command (the view is
+  the carrier fleet in battle, not the headquarters), Space corvette (capital-ship fleets, not small craft). Wobble: moderate;
+  the late books (Deep Time, Dark Mind, Bright Light, Stargods) widen into time travel and cosmic transcendence, though fleet
+  war stays the spine. Sources: harpercollins.co.nz Earth Strike page, kobo.com series listing, fictiondb.com/author/ian-douglas~32928.
+  Years from FictionDB first-print dates (Harper Voyager mass-market originals).'
 books:
 - title: Earth Strike
   year: 2010
@@ -53,3 +53,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-armada
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-armada
+  to: starbridge
+  reason: 'Space armada split into Starbridge / Star stripes on the curator''s approval; re-walked: this card sits in Starbridge.'

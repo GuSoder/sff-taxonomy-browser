@@ -3,7 +3,7 @@ title: The Lost Fleet
 authors:
 - Jack Campbell
 first_published: 2006
-canonical_genre: space-armada
+canonical_genre: starbridge
 placement_status: accepted
 placement_rationale: 'Jack Campbell''s Lost Fleet universe as one fiction: Black Jack Geary leads the Alliance fleet home
   and then beyond the frontier, with the whole story told from the bridge of a fleet at war.'
@@ -68,8 +68,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/284362-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC04051, MC04053, MC04049, MC04050, MC04048, MC04052, folded queue ids MC04038, MC04055, MC04054,
-  MC04057, MC04056, MC04043, MC04040)
+intake: ten-k walk v5 (queue ids MC04051, MC04053, MC04049, MC04050, MC04048, MC04052, folded queue ids MC04038, MC04055,
+  MC04054, MC04057, MC04056, MC04043, MC04040)
 placement_history:
 - date: '2026-10-04'
   to: space-navy
@@ -85,4 +85,9 @@ placement_history:
   from: space-navy
   to: space-armada
 - date: '2026-10-09'
-  reason: 'Folded Outlands: Boundless (MC04038, 2021) into the one-fiction Lost Fleet card (rule 11j; walk unchanged, Space armada).'
+  reason: 'Folded Outlands: Boundless (MC04038, 2021) into the one-fiction Lost Fleet card (rule 11j; walk unchanged, Space
+    armada).'
+- date: '2026-10-12'
+  from: space-armada
+  to: starbridge
+  reason: 'Space armada split into Starbridge / Star stripes on the curator''s approval; re-walked: this card sits in Starbridge.'

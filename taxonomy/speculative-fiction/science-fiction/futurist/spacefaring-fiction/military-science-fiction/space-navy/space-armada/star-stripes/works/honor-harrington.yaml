@@ -5,7 +5,7 @@ authors:
 - Eric Flint
 - Jane Lindskold
 first_published: 1993
-canonical_genre: space-armada
+canonical_genre: star-stripes
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
   fiction > Space navy > Space armada (8, would be 9). David Weber''s Honorverse (Honor Harrington, Crown of Slaves, Saganami
@@ -90,3 +90,8 @@ placement_history:
 - date: '2026-10-04'
   to: space-armada
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-armada
+  to: star-stripes
+  reason: 'Space armada split into Starbridge / Star stripes on the curator''s approval; re-walked: this card sits in Star
+    stripes.'
