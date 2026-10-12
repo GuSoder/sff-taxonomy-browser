@@ -1,0 +1,31 @@
+id: lies-inc
+title: Lies, Inc.
+authors:
+- Philip K. Dick
+first_published: 1966
+canonical_genre: space-dystopias
+placement_status: accepted
+placement_rationale: 'Philip K. Dick''s The Unteleported Man (1966, novella 1964; expanded as Lies, Inc., the queue''s row;
+  Wikipedia): teleportation (''telpor'') has made spaceships obsolete, forty million people have been sent one way to the
+  colony Whale''s Mouth in the Fomalhaut system on advertising that shows a green utopia, and Rachmael ben Applebaum, whose
+  spaceship firm was ruined, makes the eighteen-year flight in his own ship Omphalos on a hunch that the claims are false,
+  against opposition from German authority figures with a Third Reich flavour; the expanded text adds a drug-dart hallucination
+  and telpor-induced paraworlds. Walk: Science fiction > Futurist > Spacefaring > Space dystopias (the off-Earth colony order
+  is built on a lie and enforced by powerful interests). Tried: Space colonies (the colony life is not shown), Space mystery
+  (not a case) and Fabulation (the paraworlds are the expansion, the spine is the colony lie). Wobble: thin source for the
+  colony''s internal order, the dystopia is the lie and the one-way trap.'
+books:
+- title: Lies, Inc.
+  year: 1966
+  cover_url: https://covers.openlibrary.org/b/id/9251798-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9251798-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07767)
+placement_history:
+- date: '2026-10-04'
+  to: space-dystopias
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
