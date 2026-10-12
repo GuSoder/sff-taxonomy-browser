@@ -289,3 +289,4 @@ K cluster MC05576-05604: specs 419-429.
 - 2026-10-12 07:20: Occult consultants split executed (Mage PI / Monster PI / PI meets Magic), curator Execute phonemsg-01M4Q8PYNHZBPN276YRXKQZD65; Diana Tregarde and Sacred Ground placed into Mage PI (specs 444-445). Webp 665-667.
 - 2026-10-12 07:40: Modesitt part 1: 9 cards (specs 446-454); held Hammer of Darkness, Quantum Shadows, Elysium Commission, Octagonal Raven, Parafaith War/Ethos Effect.
 - 2026-10-12 MC05736-MC05802 (L. K. Steven to Lane Robins): placed 11 cards (specs 455-465); held Micah Grey, Strange the Dreamer, Land Fit for Heroes; skipped anthology/children's/unreleased. Amberlough and Larissa Ione rows next.
+- 2026-10-12 MC05804-MC05810: Lords of Deliverance placed in Mythic power struggle (spec 466); Amberlough Dossier held (seed question).
