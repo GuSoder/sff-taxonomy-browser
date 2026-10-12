@@ -3,7 +3,7 @@ title: Bitter Angels
 authors:
 - C. L. Anderson
 first_published: 2009
-canonical_genre: space-mystery
+canonical_genre: space-cop
 placement_status: accepted
 placement_rationale: 'C. L. Anderson''s 2009 Philip K. Dick Award winner: in the Erasmus System, a failing slave colony run
   by the Four Families, a Guardian is sent to investigate a colleague''s murder and uncovers a plot to make war on the solar
@@ -29,3 +29,7 @@ placement_history:
   reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
     power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
     mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-cop
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space cop.'

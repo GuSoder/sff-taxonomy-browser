@@ -3,7 +3,7 @@ title: Places in the Darkness
 authors:
 - Chris Brookmyre
 first_published: 2017
-canonical_genre: space-mystery
+canonical_genre: space-cop
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Spacefaring fiction > Space colonies > Space mystery. On the orbital city Ciudad
   de Cielo, a murder investigation pairs a station security chief with a newly arrived agent; the case drives the story.'
@@ -22,3 +22,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-cop
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space cop.'

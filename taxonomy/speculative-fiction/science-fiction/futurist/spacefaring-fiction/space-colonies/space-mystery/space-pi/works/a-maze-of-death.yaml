@@ -3,7 +3,7 @@ title: A Maze of Death
 authors:
 - Philip K. Dick
 first_published: 1970
-canonical_genre: space-mystery
+canonical_genre: space-pi
 placement_status: accepted
 placement_rationale: 'Philip K. Dick''s A Maze of Death (Doubleday, 1970; Wikipedia): fourteen colonists on the planet Delmak-O,
   a linguist, a theologian, a custodian, a thermoplastics overseer and others, are killed one by one while they try to find
@@ -26,3 +26,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-pi
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space PI.'

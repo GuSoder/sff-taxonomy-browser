@@ -3,7 +3,7 @@ title: '2312'
 authors:
 - Kim Stanley Robinson
 first_published: 2012
-canonical_genre: space-mystery
+canonical_genre: space-cop
 placement_status: accepted
 placement_rationale: 'Kim Stanley Robinson''s 2312 (2012, Nebula winner; Wikipedia, Hachette): in a solar system of settled
   planets, moons and asteroid terraria, Swan Er Hong, an artist and former terrarium designer, grieving her step-grandmother
@@ -26,3 +26,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-cop
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space cop.'

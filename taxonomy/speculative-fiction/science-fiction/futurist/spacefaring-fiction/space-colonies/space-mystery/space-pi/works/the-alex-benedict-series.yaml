@@ -3,7 +3,7 @@ title: The Alex Benedict series
 authors:
 - Jack McDevitt
 first_published: 1989
-canonical_genre: space-mystery
+canonical_genre: space-pi
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space colonies >
   Space mystery. McDevitt''s Alex Benedict series is one shared universe, so one card (rule 11j): about 9,000 to 10,000 years
@@ -55,3 +55,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-pi
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space PI.'

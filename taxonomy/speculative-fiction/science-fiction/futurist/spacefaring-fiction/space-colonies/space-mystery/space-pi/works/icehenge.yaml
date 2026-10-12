@@ -3,7 +3,7 @@ title: Icehenge
 authors:
 - Kim Stanley Robinson
 first_published: 1984
-canonical_genre: space-mystery
+canonical_genre: space-pi
 placement_status: accepted
 placement_rationale: 'Kim Stanley Robinson''s Icehenge (1984; Wikipedia): in three periods, an engineer''s diary of the failed
   Martian revolution of 2248 is dug up by an archaeologist three centuries later, as a monument of standing ice slabs is found
@@ -25,3 +25,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-pi
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space PI.'

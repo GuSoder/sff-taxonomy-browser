@@ -3,7 +3,7 @@ title: The Investigations of Mossa & Pleiti
 authors:
 - Malka Older
 first_published: 2023
-canonical_genre: space-mystery
+canonical_genre: space-cop
 placement_status: accepted
 placement_rationale: 'Gaslamp mysteries in the settlements on Jupiter''s rings, with an investigator and a scholar working
   cases through its institutions (PW, Library Journal). Series card: The Mimicking of Known Successes (2023), The Imposition
@@ -32,3 +32,7 @@ placement_history:
   reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle for
     power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child renamed Space
     mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-cop
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space cop.'

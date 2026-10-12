@@ -3,7 +3,7 @@ title: Sabella
 authors:
 - Tanith Lee
 first_published: 1980
-canonical_genre: space-mystery
+canonical_genre: space-pi
 placement_status: accepted
 placement_rationale: 'Tanith Lee''s Sabella, or The Blood Stone (DAW, 1980; Penguin Random House description): on a Mars-like
   Earth colony Sabella, allergic to sunlight, strong and fast and a feeder on blood, hides her vampirism after killing men
@@ -28,3 +28,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-mystery
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: space-mystery
+  to: space-pi
+  reason: 'Space mystery split into Space cop / Space PI on the curator''s approval; re-walked: this card sits in Space PI.'
