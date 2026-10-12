@@ -103,3 +103,11 @@ See also GLOSSARY.md for the terms "fiction" (an entry: a stand-alone novel up t
 | 2026-10-12 | Fairytale expansion | Fairytale mythology / Fairytale epilogue | the tale grown into an original mythology (4, 5 with White as Snow) vs the tale's people living past the ending (5); names coined by the curator; the curator's "Execute" (2026-10-12 10:49:29 AM CEST, phonemsg-01M4QMTYSE2ZB9FHVGRB8A3PKE, on his own names Fairytale mythology / Fairytale epilogue) |
 | 2026-10-12 | Space mystery | Space cop / Space PI | official investigators (4) vs private or unofficial ones (5, 6 with The Elysium Commission); names coined by the curator; the curator's "Execute" (2026-10-12 11:34:03 AM CEST, phonemsg-01M4QQCJWFSNFTZMHSEJJ4DY5C, on his own names Space cop / Space PI) |
 | 2026-10-12 | Homebrew time machines | DIY rewind / Overclockian | trips into the past (4, 5 with Behold the Man) vs trips forward and far (5, 6 with Galileo's Dream); names coined by the curator; the curator's "Approved" (2026-10-12 2:05:09 PM CEST, phonemsg-01M4R0186WYG1DYHRX227ZFCZ1, on his own names DIY rewind / Overclockian) |
+
+## Planned split axes (noted, not yet applied)
+
+Recorded 2026-10-12 from the curator's note (2:57:59 PM CEST, null), in his terms: "I think the future child genres of the rewinders can split quite naturally between if the start in rewinders is far future or writers present, likewise with overclockians if the destination is writers future or if they come from the past to the writers present, just an idea to note down." No tree change was made; apply when the leaf reaches split size and a split question is served and approved.
+
+- DIY rewind (7 now): candidate child split by START period. Far-future start (for example The Dancers at the End of Time, Galileo's Dream, Time Enough for Love) vs the writer's-present start (for example Behold the Man, Dirk Gently, Make the Darkness Light, The Door into Summer).
+- Overclockian (4 now): candidate child split by DESTINATION. Travel to the writer's future (The Time Machine, The Time Ships) vs coming from the past into the writer's present.
+- Names are his to coin when the split is served. Placement still goes by a root-down walk first.
