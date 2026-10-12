@@ -284,3 +284,5 @@ Moorcock cluster (MC06888-MC06922): specs 402-409; Behold the Man held (homebrew
 Kim Harrison (MC05524-53): spec 410 Hollows -> paranormal-aftermath; Shadow Age held (Occult institutions split).
 KSR (MC05555-75): specs 411-418; Science in the Capital + Galileo's Dream held.
 K cluster MC05576-05604: specs 419-429.
+
+- 2026-10-12 07:00: MC05605-MC05660 (Kit Rocha through Kylie Snow): 14 cards placed (specs 430-443), 23 rows folded, 3 skipped (short story, bookmark set, anthology).

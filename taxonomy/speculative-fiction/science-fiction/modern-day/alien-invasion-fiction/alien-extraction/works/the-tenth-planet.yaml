@@ -1,0 +1,28 @@
+id: the-tenth-planet
+title: The Tenth Planet
+authors:
+- Kristine Kathryn Rusch
+- Dean Wesley Smith
+first_published: 1999
+canonical_genre: alien-extraction
+placement_status: accepted
+placement_rationale: 'The Tenth Planet (1999; Kristine Kathryn Rusch and Dean Wesley Smith, with Oblivion 2000; PRH, Worlds
+  Without End): Earth''s ''natural disasters'' are shown to be overharvesting of Earth''s limited resources by residents of
+  the solar system''s tenth planet. Walk: Modern day > Alien invasion fiction > Alien extraction (the aliens harvest rather
+  than conquer). Sources: PRH, WWEnd blurbs; not read'
+books:
+- title: The Tenth Planet
+  year: 1999
+- title: 'The Tenth Planet: Oblivion'
+  year: 2000
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/209166-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05641, MC05642)
+placement_history:
+- date: '2026-10-04'
+  to: alien-extraction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

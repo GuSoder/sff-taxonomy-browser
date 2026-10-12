@@ -1,0 +1,25 @@
+id: fortuna
+title: Fortuna
+authors:
+- Kristyn Merbeth
+canonical_genre: spaceship-drama
+placement_status: accepted
+placement_rationale: 'Kristyn Merbeth''s Fortuna (Nova Vita Protocol book 1, with Memoria and Discordia; Hachette, Kirkus):
+  Scorpia Kaiser, the rebellious pilot of the aging cargo ship Fortuna, becomes heir to her mother''s smuggling operation
+  when her brother Corvus leaves, in a family-crew space opera. Walk: Futurist > Spacefaring > Space opera > New space opera
+  > Space soap opera > Spaceship drama (character-led ship family). Sources: Hachette, Kirkus; not read'
+books:
+- title: Fortuna
+- title: Memoria
+- title: Discordia
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10327406-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05645, MC05646, MC05644)
+placement_history:
+- date: '2026-10-04'
+  to: spaceship-drama
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

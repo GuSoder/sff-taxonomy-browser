@@ -1,0 +1,31 @@
+id: white-tiger
+title: White Tiger
+authors:
+- Kylie Chan
+canonical_genre: modern-chinese-myth
+placement_status: accepted
+placement_rationale: 'Kylie Chan''s White Tiger (Dark Heavens book 1, 2010; HarperVoyager; later Blue Dragon, Red Phoenix,
+  Journey to Wudang and Celestial Battle trilogies): in modern Hong Kong an Australian nanny, Emma Donahoe, finds her employer
+  John Chen is the Chinese god Xuan Wu. Walk: Real-earth fantasy > Contemporary fantasy > Contemporary mythic fantasy > Modern
+  Chinese myth. Sources: publisher blurb and general knowledge of the series; not read'
+books:
+- title: White Tiger
+- title: Blue Dragon
+- title: Red Phoenix
+- title: Earth to Hell
+- title: Hell to Heaven
+- title: Heaven to Wudang
+- title: Dark Serpent
+- title: Demon Child
+- title: Black Jade
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7241371-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05658, MC05651, MC05657, MC05654, MC05656, MC05655, MC05652, MC05653, MC05650)
+placement_history:
+- date: '2026-10-04'
+  to: modern-chinese-myth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
