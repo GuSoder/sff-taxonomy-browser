@@ -33,3 +33,4 @@ The curator, phonemsg-01M4K5CVG8CJGKKXHJ26KSAMWK (5:02 PM): "I actually only mea
 
 ## Bundle gate (curator, 2026-10-12, phonemsg-01M4RK8D2CJNFXTC2TQHSX9J2Q)
 A fourth structural gate beside "Approve seed?" and "Approve split?": "Approve bundle?". When an umbrella fills up with ten or more subgenres that run on one clear shared axis (time is the first example), the leaves are grouped into two half-umbrellas along that axis. It needs the curator's textual approval like every structural change; nothing executes before his "Approved". The book that triggers it is held, not seeded or placed. Rules, block form and the Industrial age fantasy worked example are in taxonomy/BUNDLING.md.
+Two-bundle rule (curator, 7:43:51 PM CEST, 2026-10-12): a bundle approval always asks approval of at least two new umbrellas (the halves). A bundle is a split of genres, a split is a split of fictions; the leaves regroup under the halves and no fiction changes leaf.

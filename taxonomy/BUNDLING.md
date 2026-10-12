@@ -2,6 +2,9 @@
 
 A bundle groups the children of an umbrella into two or more half-umbrellas along one clear shared axis. It is a structural change, like a seed, a split or a lift: nothing executes until the curator answers a textual "Approve bundle?" question.
 
+## The two-bundle rule (curator, 2026-10-12, phonemsg-01M4RK8D2CJNFXTC2TQHSX9J2Q follow-up, 7:43:51 PM CEST)
+"In a bundle approval you have to ask for approval of at least two 'bundles', it is effectively a 'split of genres' instead of a 'split of fictions'." So a bundle approval always asks for at least TWO new umbrellas (the halves), never one. A split divides the fictions of one leaf into new leaves; a bundle divides the genres (the leaves) of one umbrella into new half-umbrellas. Existing leaves are regrouped under the halves; no fiction changes leaf because of a bundle. A question that names only one new umbrella is not a bundle question.
+
 ## Trigger (curator, 2026-10-12)
 A genre fills up with ten or more subgenres, and they accumulate on one clear pattern. That is a good sign: it means the area goes a lot of interesting ways along a clear axis. It is not a reason to refuse the new leaf. The new leaf is held (not placed, not seeded) while the bundle is asked, and the leaf count of the umbrella is the gate, the same way nine fictions are the gate for a leaf split.
 
@@ -10,7 +13,7 @@ Source: curator, phonemsg-01M4RK8D2CJNFXTC2TQHSX9J2Q (7:41:06 PM CEST, 2026-10-1
 ## How a bundle works
 1. Name the axis (here: time) and the cut. The cut must be a point every current leaf can be placed against without straddling, or the straddlers are named.
 2. Create two half-umbrellas under the original umbrella. The original umbrella stays, holds zero direct fictions and now has two children.
-3. Move each existing leaf under the half it belongs to. Leaves keep their ids, works and portraits; only the parent changes. Add redirects only if an id changes.
+3. Move each existing leaf under the half it belongs to (leaves regroup; no fiction changes leaf). Leaves keep their ids, works and portraits; only the parent changes. Add redirects only if an id changes.
 4. The two halves are a matched pair: names read right out of context, carry the conflict or axis, share a rhythm, and borrow no franchise-owned term. They are coined by the curator (we propose, he names).
 5. Each half-umbrella gets a definition with a "Not ..." line against its sibling half, a portrait (two variants, we judge) and the usual history entry. Update the original umbrella's definition text to say it is bundled.
 6. Serve it as "Approve bundle?:" in the block form below. Execute only after his explicit "Approved", citing his message id in the log (SPLITTING.md) and in each moved leaf's history.
