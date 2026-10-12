@@ -1,0 +1,28 @@
+id: ambits-run
+title: Ambit's Run
+authors:
+- L. M. Sagas
+first_published: 2024
+canonical_genre: space-hunt
+placement_status: accepted
+placement_rationale: 'L. M. Sagas''s Ambit''s Run (Cascade Failure 2024, Gravity Lost 2024; author site, Tor): a misfit crew
+  of contract marshals discovers a planet-killing computer virus and hunts down the corporation responsible; in book two the
+  crew guards a walking encyclopedia of dirty secrets whom everyone wants. Walk: Futurist > Spacefaring > Space opera > New
+  space opera > Space adventure > Space chase > Space hunt (the story follows the trail of the culprit). Alternative: Spaceship
+  drama (at the gate). Sources: author site, Tor blurb; not read.'
+books:
+- title: Cascade Failure
+  year: 2024
+- title: Gravity Lost
+  year: 2024
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14602368-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05738, MC05739)
+placement_history:
+- date: '2026-10-04'
+  to: space-hunt
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

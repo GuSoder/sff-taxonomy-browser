@@ -1,0 +1,28 @@
+id: the-probability-broach
+title: The Probability Broach
+authors:
+- L. Neil Smith
+first_published: 1980
+canonical_genre: multiverse-mirror
+placement_status: accepted
+placement_rationale: 'L. Neil Smith''s The Probability Broach (1980, queue row 2001; with The American Zone 2001, folded;
+  lneilsmith.org): the North American Confederacy is an alternate universe where the Whiskey Rebellion succeeded, the federal
+  government lost power and the whole continent became one country with little government; the story holds that history up
+  to ours. One shared universe, one fiction. Walk: Atemporal > Parallel world fiction > Multiverse mirror (political counterfactual
+  whose point is the mirror on our history). Sources: lneilsmith.org; not read.'
+books:
+- title: The Probability Broach
+  year: 1980
+- title: The American Zone
+  year: 2001
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/isbn/9780812538755-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05743, MC05742)
+placement_history:
+- date: '2026-10-04'
+  to: multiverse-mirror
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
