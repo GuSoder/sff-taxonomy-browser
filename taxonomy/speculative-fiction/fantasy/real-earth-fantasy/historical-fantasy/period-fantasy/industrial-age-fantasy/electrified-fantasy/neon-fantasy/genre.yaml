@@ -1,16 +1,15 @@
-id: noir-fantasy
-label: Noir fantasy
-parent: electric-age-fantasy
+id: neon-fantasy
+label: Neon fantasy
+parent: electrified-fantasy
 children: []
-image: 308-noir-fantasy.webp
-definition: 'Fantasy set in the hardboiled urban crime era of roughly the 1930s and 1940s, where gangsters, nightclubs, moral
-  shadow and the approach of war form the stage for real magic. Named by the curator 2026-09-23; future siblings banked: Gatsby
-  fantasy, Deco fantasy.'
+image: 263-neon-fantasy.webp
+definition: 1980s-era historical fantasy in which neon, analogue media, youth culture and late-Cold-War social textures form
+  the stage for supernatural intrusion - the Stranger Things texture.
 status: accepted
-ruling: Created by the curator's 2026-09-23 12:37 ruling ("Noir fantasy, yes!").
+ruling: Created by the curator's 2026-09-21 Period fantasy ruling; late-1900s settings get individual decade leaves.
 works:
-- trouble-the-saints
-- siren-queen
+- the-angels-of-l19
+- left-handed-booksellers-of-london
 history:
 - date: '2026-10-12'
   change: 'Regrouped under Electric-age fantasy by the Industrial age bundle; no fiction moved; the curator''s "Approved"

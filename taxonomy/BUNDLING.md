@@ -30,9 +30,10 @@ Axis: <axis and cut>
 ```
 with the distribution of fictions per half, the straddlers, and name candidates (with our call) beneath it.
 
-## Worked example: Industrial age fantasy (proposed 2026-10-12, not executed)
+## Worked example: Industrial age fantasy (executed 2026-10-12)
+Executed on the curator's "Approved" (phonemsg-01M4RM5PXQ390S05HCVHHZHA70). The halves are named Ember age fantasy (old half) and Electrified fantasy (young half), his own names (rename "Rename", phonemsg-01M4RNMPFPAE5M6F8ZRGTD4KQQ).
 Industrial age fantasy is the Period fantasy umbrella for eras from 1788 onward. It reached ten children: Gaslight fantasy (an umbrella, 32 fictions), Antebellum fantasy (2), Weird West fantasy (9), Tudorbethan fantasy (2), Bowler hat fantasy (6), Dust Bowl fantasy (1), Noir fantasy (2), Neon fantasy (2), WWI fantasy (2), WWII fantasy (2). The axis is time, and the cut falls at 1900:
-- Old half, before 1900: Gaslight fantasy, Antebellum fantasy, Weird West fantasy.
-- Young half, 1900 on: Bowler hat fantasy (1900-1929), Tudorbethan fantasy (1918-39), Dust Bowl fantasy, Noir fantasy, Neon fantasy, WWI fantasy, WWII fantasy.
+- Old half, before 1900 (Ember age fantasy): Gaslight fantasy, Antebellum fantasy, Weird West fantasy.
+- Young half, 1900 on (Electrified fantasy): Bowler hat fantasy (1900-1929), Tudorbethan fantasy (1918-39), Dust Bowl fantasy, Noir fantasy, Neon fantasy, WWI fantasy, WWII fantasy.
 This mirrors how Period fantasy itself was cut in two (Antique times before 1788, Industrial age from 1788): when a time-ordered umbrella fills up, it is bundled into an old half and a young half. The split is 3 leaves old and 7 young, and 43 fictions old against 17 young, because Gaslight is large. The time axis, not an even count, is what the curator asked for.
 A leaf that held a new book (the Jim Crow-era American South, Daughter of the Merciful Deep) triggered the question; it stays unseeded until the bundle and the name are settled.

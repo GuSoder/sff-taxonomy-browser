@@ -1,5 +1,5 @@
 id: ember-age-fantasy
-label: Ember-age fantasy
+label: Ember age fantasy
 parent: industrial-age-fantasy
 children:
 - gaslight-fantasy
@@ -7,7 +7,7 @@ children:
 - weird-west-fantasy
 image: 60-gaslight-fantasy.webp
 definition: 'Umbrella for Industrial age fantasy set before 1900: the long nineteenth century of coal, iron and gaslight,
-  from the Regency to the Wild West and the antebellum South. Not Electric-age fantasy (1900 on).'
+  from the Regency to the Wild West and the antebellum South. Not Electrified fantasy (1900 on).'
 status: umbrella
 works: []
 ruling: 'Created by the Industrial age bundle, approved by the curator''s "Approved" (2026-10-12 7:57:08 PM CEST, phonemsg-01M4RM5PXQ390S05HCVHHZHA70,
@@ -20,3 +20,7 @@ history:
     under it; the curator''s "Approved" (2026-10-12 7:57:08 PM CEST, phonemsg-01M4RM5PXQ390S05HCVHHZHA70, on the bundle Ember-age
     fantasy / Electric-age fantasy; names settled with him in the 7:46-7:56 PM thread: Steam-age, Machine-age, Electric-age,
     Ember-age, Flare-age, Belle Epoque and others weighed; he coined and confirmed "Ember/Electric age fantasy works?").'
+- date: '2026-10-12'
+  change: Renamed from Ember-age fantasy to Ember age fantasy; the curator (2026-10-12 8:18-8:22 PM CEST thread, phonemsg-01M4RNCQTZZAX71J7A480ZGM3Y
+    "Electrified fantasy sounds more evocative", then "I like Ember age, without hyphen"; locked pair confirmed by his "Rename",
+    phonemsg-01M4RNMPFPAE5M6F8ZRGTD4KQQ, 8:22:46 PM).

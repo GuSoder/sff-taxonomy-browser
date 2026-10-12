@@ -1,15 +1,14 @@
-id: neon-fantasy
-label: Neon fantasy
-parent: electric-age-fantasy
+id: wwii-fantasy
+label: WWII fantasy
+parent: electrified-fantasy
 children: []
-image: 263-neon-fantasy.webp
-definition: 1980s-era historical fantasy in which neon, analogue media, youth culture and late-Cold-War social textures form
-  the stage for supernatural intrusion - the Stranger Things texture.
+image: 443-wwii-fantasy.webp
+definition: Period fantasy of the Second World War era, battlefield or home front, where the war and its social machinery
+  form the stage for magic, curses, monsters or haunting.
 status: accepted
-ruling: Created by the curator's 2026-09-21 Period fantasy ruling; late-1900s settings get individual decade leaves.
 works:
-- the-angels-of-l19
-- left-handed-booksellers-of-london
+- the-fervor
+- the-tapestry-of-time
 history:
 - date: '2026-10-12'
   change: 'Regrouped under Electric-age fantasy by the Industrial age bundle; no fiction moved; the curator''s "Approved"
