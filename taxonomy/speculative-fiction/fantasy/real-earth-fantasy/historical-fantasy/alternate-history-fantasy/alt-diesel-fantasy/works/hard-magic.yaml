@@ -1,0 +1,34 @@
+id: hard-magic
+title: Hard Magic
+authors:
+- Larry Correia
+first_published: 2011
+canonical_genre: alt-diesel-fantasy
+placement_status: accepted
+placement_rationale: 'Larry Correia''s Hard Magic (Baen, 2011; Wikipedia author page and series description), with Spellbound
+  (2011) and Warbound (2013) folded in as the trilogy''s later volumes: an alternate 1930s in which magic began to appear
+  in people in 1849, about one in a hundred has a minor power and about one in a thousand is an Active, and the gravity-manipulating
+  Heavy Jake Sullivan, a veteran turned enforcer, finds that the government is lying to him and joins the Grimnoir Society
+  against the Japanese Imperium and the ambitions of Okubo Tokugawa. Walk: Fantasy > Real Earth fantasy > Historical fantasy
+  > Alternate history fantasy > Alt diesel fantasy (the machine-age 1930s, rewritten openly by magic). Tried: Occult consultants
+  (the setting is a rewritten 1930s world with an empire war, not a modern private-eye world) and Modern occult (no hidden
+  contemporary occult layer: magic is public).'
+books:
+- title: Hard Magic
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7793833-L.jpg
+- title: Spellbound
+  year: 2011
+- title: Warbound
+  year: 2013
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7793833-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05816, MC05838, MC05843)
+placement_history:
+- date: '2026-10-04'
+  to: alt-diesel-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
