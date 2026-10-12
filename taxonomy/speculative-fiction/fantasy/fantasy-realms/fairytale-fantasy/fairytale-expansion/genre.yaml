@@ -3,16 +3,14 @@ label: Fairytale expansion
 parent: fairytale-fantasy
 definition: Fiction that uses a familiar fairytale as the seed for a larger original world, mythology, or interwoven narrative.
 status: accepted
-taxonomy_note: Provisional descriptive coinage for revision mode; no single established critical term cleanly covers this group.
-children: []
+taxonomy_note: Provisional descriptive coinage for revision mode; no single established critical term cleanly covers this
+  group.
+children:
+- fairytale-mythology
+- fairytale-epilogue
 image: 227-fairy-tale-expansion.webp
-works:
-- uprooted
-- spinning-silver
-- blanca-roja
-- hemlock-silver
-- after-the-forest
-- sleep-like-death
-- alliana-girl-of-dragons
-- the-tinder-box
-- defenders-of-lore
+works: []
+history:
+- date: '2026-10-12'
+  change: Split into Fairytale mythology and Fairytale epilogue, now an umbrella with 0 direct fictions; the curator's "Execute"
+    (2026-10-12 10:49:29 AM CEST, phonemsg-01M4QMTYSE2ZB9FHVGRB8A3PKE, on his own names Fairytale mythology / Fairytale epilogue).

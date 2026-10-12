@@ -3,10 +3,11 @@ title: Spinning Silver
 authors:
 - Naomi Novik
 first_published: 2018
-canonical_genre: fairytale-expansion
+canonical_genre: fairytale-mythology
 placement_status: accepted
-placement_rationale: The publisher explicitly calls it an imaginative retelling of the Rumpelstiltskin fairy tale; fairy-tale transformation is the book’s
-  organizing form. Reclassified in the EoF-aligned audit to Fairy Tale Revision as the deeper sourced boundary.
+placement_rationale: The publisher explicitly calls it an imaginative retelling of the Rumpelstiltskin fairy tale; fairy-tale
+  transformation is the book’s organizing form. Reclassified in the EoF-aligned audit to Fairy Tale Revision as the deeper
+  sourced boundary.
 classification_sources:
 - bisac-fiction
 - https://www.penguinrandomhouse.com/books/554775/spinning-silver-by-naomi-novik/
@@ -18,11 +19,17 @@ cover_curation:
   cover_id: grim-oak-limited-edition
   beauty_score: 8.5
   beauty_scale: 0-10; higher favors detailed colorful paintings
-  beauty_rationale: A lush full-scene painting of a magical woman beneath a silver-filled chandelier, with pearly lavender color, intricate glass and coin
-    detail, and strong storybook atmosphere.
+  beauty_rationale: A lush full-scene painting of a magical woman beneath a silver-filled chandelier, with pearly lavender
+    color, intricate glass and coin detail, and strong storybook atmosphere.
   visually_reviewed_on: '2026-09-11'
   shows_english_title: true
   display_eligible: true
   candidates_visually_reviewed: 6
   selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true
   title_overlay: false
+placement_history:
+- date: '2026-10-12'
+  from: fairytale-expansion
+  to: fairytale-mythology
+  reason: 'Fairytale expansion split into Fairytale mythology / Fairytale epilogue on the curator''s approval; re-walked:
+    this card sits in Fairytale mythology.'
