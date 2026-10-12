@@ -5,12 +5,11 @@ authors:
 first_published: 2018
 canonical_genre: mud-and-blood-fantasy
 placement_status: accepted
-placement_rationale: 'Leo Carew''s Under the Northern Sky: the long-lived, hard northern Anakim under Roper face a southern
-  army led by the general Bellamus, and the war itself, its campaigns, battles and sieges, is the story. Walked root-down:
-  Epic fantasy -> Military fantasy -> Army fantasy (the whole war, not one unit). Later volumes fold onto this fiction. Split
-  walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic
-  fantasy > Military fantasy > Army fantasy > Mud-and-blood fantasy. The Anakim''s war with the southern army, followed through
-  the fighters who take its battles and sieges. WEAK CARD: Roper and Bellamus are commanders too.'
+placement_rationale: 'Leo Carew''s Under the Northern Sky: the long-lived, hard northern Anakim under Roper face a southern army led by the general Bellamus, and
+  the war itself, its campaigns, battles and sieges, is the story. Walked root-down: Epic fantasy -> Military fantasy -> Army fantasy (the whole war, not one unit).
+  Later volumes fold onto this fiction. Split walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic
+  fantasy > Military fantasy > Army fantasy > Mud-and-blood fantasy. The Anakim''s war with the southern army, followed through the fighters who take its battles
+  and sieges. WEAK CARD: Roper and Bellamus are commanders too.'
 books:
 - title: The Wolf
   year: 2018
@@ -18,6 +17,9 @@ books:
 - title: The Spider
   year: 2019
   cover_url: https://covers.openlibrary.org/b/id/9339073-L.jpg
+- id: MC05972
+  title: The Cuckoo
+  year: 2022
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -32,5 +34,5 @@ placement_history:
 - date: '2026-10-09'
   from: army-fantasy
   to: mud-and-blood-fantasy
-  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). The Anakim''s war with the southern army, followed
-    through the fighters who take its battles and sieges. WEAK CARD: Roper and Bellamus are commanders too.'
+  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). The Anakim''s war with the southern army, followed through the fighters who take its
+    battles and sieges. WEAK CARD: Roper and Bellamus are commanders too.'
