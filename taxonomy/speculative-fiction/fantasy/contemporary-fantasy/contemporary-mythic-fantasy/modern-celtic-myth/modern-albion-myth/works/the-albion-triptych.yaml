@@ -3,11 +3,13 @@ title: The Albion Triptych
 authors:
 - Andrew Sinclair
 first_published: 1967
-canonical_genre: pulp-fantasy
+canonical_genre: modern-albion-myth
 placement_status: accepted
-placement_rationale: "Root-down: Fantasy -> Real earth fantasy -> Historical fantasy -> Pulp fantasy. SFE calls the Albion Triptych half satire and half\
-  \ mythopoesis; Valancourt describes its hilarious, horrific, bawdy and bizarre picaresque. the curator\u2019s 2026-09-20 seriousness gate routes unserious/knockabout\
-  \ treatments of mythic national history to Pulp fantasy rather than Mythic retelling."
+placement_rationale: 'Root-down: Fantasy -> Contemporary fantasy -> Contemporary mythic fantasy -> Modern Celtic myth -> Modern
+  Albion myth. Gog washes ashore in Scotland in 1945 and walks to London, with the myth and history of Britain running through
+  the journey (SFE; The Modern Novel). Moved from Pulp fantasy on the curator''s instruction (phonemsg-01M4VE383QNKGNPPAF5YDGC6XN).
+  Wobble: Gog is set in 1945, 22 years before the 1967 publication, and it is a picaresque satire across British history rather
+  than folk magic inside ordinary life; the curator''s call.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/sinclair_andrew
 - https://www.valancourtbooks.com/gog-1967.html
@@ -28,3 +30,8 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-20'
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
+placement_history:
+- date: '2026-10-13'
+  from: pulp-fantasy
+  to: modern-albion-myth
+  reason: Moved on the curator's instruction (phonemsg-01M4VE383QNKGNPPAF5YDGC6XN). Gog is set in 1945, his call.
