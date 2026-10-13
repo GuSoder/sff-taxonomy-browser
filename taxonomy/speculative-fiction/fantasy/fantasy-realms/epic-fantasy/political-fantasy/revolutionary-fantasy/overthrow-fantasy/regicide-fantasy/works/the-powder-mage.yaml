@@ -1,0 +1,42 @@
+id: the-powder-mage
+title: The Powder Mage
+authors:
+- Brian McClellan
+first_published: 2013
+canonical_genre: regicide-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk: invented world (the Nine Nations, a flintlock-era realm with gods stirring), so Fantasy
+  realms and not Real earth fantasy; Epic fantasy, Political fantasy, Revolutionary fantasy, Overthrow fantasy (the state
+  is remade from within, not freed from an occupier). Source (author''s page for Promise of Blood): Field Marshal Tamas''s
+  coup against his king sent corrupt aristocrats to the guillotine, and the book follows the fallout while his powder mages
+  and old gods stir. The king''s overthrow is the event the story turns on, so Regicide fantasy, not Usurper (the king is
+  removed, not a false ruler exposed) and not Proletariat (it is a marshal''s coup, though unions are among the factions).
+  Wobble: only the first trilogy is built on the coup; the later Gods of Blood and Powder trilogy (Sins of Empire, Wrath of
+  Empire, Blood of Empire) is, per the author''s page, set in the same world and follows an insurrection in the young nation
+  of Fatrasta, folded here under the shared-universe rule. Years per Wikipedia (2013-2015) and the queue. The Glass Immortals
+  series (In the Shadow of Lightning) is a separate series and the novella War Cry is not folded.'
+books:
+- title: Promise of Blood
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7667720-L.jpg
+- title: The Crimson Campaign
+  year: 2014
+- title: The Autumn Republic
+  year: 2015
+- title: Sins of Empire
+  year: 2017
+- title: Wrath of Empire
+  year: 2018
+- title: Blood of Empire
+  year: 2019
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7667720-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01216, MC01219, MC01218, MC01217, MC01222, MC01214)
+placement_history:
+- date: '2026-10-04'
+  to: regicide-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
