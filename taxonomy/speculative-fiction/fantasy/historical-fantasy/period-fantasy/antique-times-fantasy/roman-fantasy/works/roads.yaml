@@ -1,0 +1,27 @@
+id: roads
+title: Roads
+authors:
+- Seabury Quinn
+first_published: 1938
+canonical_genre: roman-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Historical fantasy -> Period fantasy -> Antique times fantasy -> Roman fantasy.
+  Quinn''s Claus is a Northland barbarian who finishes his gladiator service in the Roman province of Judea, then outlives
+  Rome and the dark ages and becomes Santa (Red Jacket Press blurb). Moved from Pulp fantasy on the curator''s instruction
+  (phonemsg-01M4VE0A0BRK6XNVKBNHGCPYWC). Wobble: it starts in the Roman empire but spans centuries after it.'
+classification_sources:
+- https://www.redjacketpress.com/roads-by-seabury-quinn
+- https://isfdb.org/cgi-bin/title.cgi?1949123
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/740772-L.jpg
+  cover_id: OL-740772
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  note: Virgil Finlay illustrated Arkham House design.
+placement_history:
+- date: '2026-10-13'
+  from: pulp-fantasy
+  to: roman-fantasy
+  reason: Moved on the curator's instruction (phonemsg-01M4VE0A0BRK6XNVKBNHGCPYWC).
