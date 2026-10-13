@@ -1,0 +1,40 @@
+id: lightbringer
+title: Lightbringer
+authors:
+- Brent Weeks
+first_published: 2010
+canonical_genre: channeled-hard-magic
+placement_status: accepted
+placement_rationale: 'Root-down walk: invented world (the Seven Satrapies), so Fantasy realms; Epic fantasy; Hard fantasy;
+  Hard magic; Channeled hard magic (force drawn from the world and run through the user''s body, limited by what the body
+  can bear). Source: Wikipedia The Black Prism (2010; first of five Lightbringer books): chromaturgy, where drafters take
+  light into solid ''luxin'' in seven colours; the Prism can split white light and draft all colours; a drafter who keeps
+  drafting builds luxin residue in the eyes (''breaking the halo''), goes mad and turns into a wight; the plot is the False
+  Prism''s War between the Guile brothers Gavin and Dazen, the Chromeria''s theocratic politics and Gavin''s discovery of
+  his son Kip. The magic has a fixed rule set and a bodily limit that the plot keeps using, so Channeled hard magic. Folded:
+  The Blinding Knife, The Broken Eye, The Blood Mirror, The Burning White as later volumes. Wobble: the politics (Chromeria,
+  brother against brother) is large; cousins are Dynastic wars and Dynastic magic, but the magic''s rules are the series''
+  signature. Only the book-one Wikipedia article was read in full. Year 2010.'
+books:
+- title: The Black Prism
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6459308-L.jpg
+- title: The Blinding Knife
+  year: 2012
+- title: The Broken Eye
+  year: 2014
+- title: The Blood Mirror
+  year: 2016
+- title: The Burning White
+  year: 2019
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6459308-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01140, MC01141, MC01144, MC01143, MC01145)
+placement_history:
+- date: '2026-10-04'
+  to: channeled-hard-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
