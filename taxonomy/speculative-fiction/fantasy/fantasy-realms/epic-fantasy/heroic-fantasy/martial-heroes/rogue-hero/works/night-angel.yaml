@@ -1,0 +1,39 @@
+id: night-angel
+title: Night Angel
+authors:
+- Brent Weeks
+first_published: 2008
+canonical_genre: rogue-hero
+placement_status: accepted
+placement_rationale: 'Root-down walk: invented world (Midcyru, the city of Cenaria), so Fantasy realms; Epic fantasy; Heroic
+  fantasy; Martial heroes; Rogue hero (power is stealth, infiltration and assassination). Sources: brentweeks.com Night Angel
+  omnibus page and summarybook.net plot summary (street child Azoth in the Warrens of Cenaria asks the wetboy Durzo Blint
+  to train him, must kill the bully Rat, takes the name Kylar Stern; learns poisons, disguise and killing; the black ka''kari
+  bonds to him and he becomes the Night Angel; Khalidor''s coup, Sa''kage politics and war over the throne follow across the
+  three books). First edition The Way of Shadows October 2008 (brentweeks.com). Folded: Shadow''s Edge, Beyond the Shadows,
+  Perfect Shadow (prequel) and Night Angel Nemesis as later volumes in the same world. Wobble: the later books widen into
+  war and a god-magic plot, so Dynastic or Political fantasy are cousins; the core of book one and the hero''s craft is the
+  assassin''s trade, so Rogue hero. Sources are summaries, not the books. Year 2008.'
+books:
+- title: The Way of Shadows
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6306862-L.jpg
+- title: Shadow's Edge
+  year: 2009
+- title: Beyond the Shadows
+  year: 2010
+- title: Perfect Shadow
+  year: 2012
+- title: Night Angel Nemesis
+  year: 2014
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6306862-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01147, MC01139, MC01136, MC01138, MC01137)
+placement_history:
+- date: '2026-10-04'
+  to: rogue-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
