@@ -5,16 +5,13 @@ authors:
 first_published: 2012
 canonical_genre: champion-knights
 placement_status: accepted
-placement_rationale: 'Root-down walk: invented world (the Unified Realm and the Volarian Empire), so Fantasy realms; Epic
-  fantasy, Heroic fantasy, Martial heroes, Warrior hero. Source (anthonyryan.net and the series blurbs): Vaelin Al Sorna is
-  left at ten at the gate of the Sixth Order, a caste devoted to battle, where he is trained as a warrior of the Faith; his
-  father was Battle Lord to King Janus. In Queen of Fire he must help his Queen reclaim the Realm and is named Battle Lord
-  of the Realm against the invading Volarian army. His fighting is service to a crown and realm, so Champion knights, not
-  Outcast knights (he has an order and a queen) and not Command-tent fantasy (the books follow Vaelin the fighter, not the
-  generals'' map). Wobble: the trilogy is also large-scale war, so World-at-war and Soldier fantasy (full at 9) were considered;
-  the protagonist focus decides it. Years per Wikipedia: 2012, 2014, 2015 (Blood Song was self-published before the 2012 deal).
-  The later Raven''s Blade (Wolf''s Call, Black Song) and Covenant of Steel (Pariah, Martyr, Traitor) series are separate
-  series on the author''s page and are walked separately; Draconis Memoria and Age of Wrath are other series.'
+placement_rationale: 'Root-down walk: invented world (the Unified Realm and the Volarian Empire), so Fantasy realms; Epic fantasy, Heroic fantasy, Martial heroes,
+  Warrior hero. Source (anthonyryan.net and the series blurbs): Vaelin Al Sorna is left at ten at the gate of the Sixth Order, a caste devoted to battle, where he
+  is trained as a warrior of the Faith; his father was Battle Lord to King Janus. In Queen of Fire he must help his Queen reclaim the Realm and is named Battle Lord
+  of the Realm against the invading Volarian army. His fighting is service to a crown and realm, so Champion knights, not Outcast knights (he has an order and a queen)
+  and not Command-tent fantasy (the books follow Vaelin the fighter, not the generals'' map). Wobble: the trilogy is also large-scale war, so World-at-war and Soldier
+  fantasy (full at 9) were considered; the protagonist focus decides it. Years per Wikipedia: 2012, 2014, 2015 (Blood Song was self-published before the 2012 deal).
+  The Raven''s Blade books (The Wolf''s Call 2019, The Black Song 2020) are folded in as the same world and hero: the publisher blurb (anthonyryan.net/books/the-wolfs-call-book-one-of-the-ravens-blade/) has Vaelin Al Sorna returning as a living legend who left glory for a quiet life in the Realm''s north. Covenant of Steel (Alwyn Scribe) is a separate walk.'
 books:
 - title: Blood Song
   year: 2012
@@ -24,6 +21,10 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/8954285-L.jpg
 - title: Queen of Fire
   year: 2015
+- title: The Wolf's Call
+  year: 2019
+- title: The Black Song
+  year: 2020
 cover_curation:
   status: complete
   source: Open Library / publisher
