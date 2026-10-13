@@ -1,0 +1,29 @@
+id: able-one
+title: Able One
+authors:
+- Ben Bova
+first_published: 2010
+canonical_genre: technocrisis
+placement_status: accepted
+placement_rationale: 'Root-down walk: near-future Earth, a North Korean missile and a 747-mounted laser, so Modern-day; Technothriller;
+  Technocrisis (a high-tech system under strain in a fast-moving crisis). Source: Publishers Weekly review of Able One (Tor,
+  2010): a rogue North Korean army faction detonates a nuclear missile in space, the electromagnetic shockwave takes out satellites
+  and cripples communications, the US launches the untested ABL-1 laser aboard a 747 with a skeleton crew that may hold a
+  saboteur, while the president tries to avoid world war. Wobble: Future war is a cousin (war fought with technology), but
+  the plot is one weapon system and one crisis, not a war. Year 2010 (PW reviewed December 2009 for the February 2010 release;
+  Open Library edition February 2 2010).'
+books:
+- title: Able One
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8600469-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8600469-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00947)
+placement_history:
+- date: '2026-10-04'
+  to: technocrisis
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
