@@ -1,0 +1,37 @@
+id: the-reckoners
+title: The Reckoners
+authors:
+- Brandon Sanderson
+first_published: 2013
+canonical_genre: superhero-fiction
+placement_status: accepted
+placement_rationale: 'Root-down walk: superpowered people and their rule in a changed present-day-adjacent world, so Modern-day;
+  Soft science fiction; Pulp science fiction; Superhero fiction (powered heroes and villains and the social consequences).
+  Sources: Wikipedia (The Reckoners, ''a series of young adult superhero novels''; twelve years ago an object called Calamity
+  burst in the sky and gave a small group of humans superpowers, the Epics, who took to crime and, the strongest of them,
+  replaced governments and enslaved the rest; David Charleston, orphaned at eight when the High Epic Steelheart killed his
+  father, grows up in Newcago, which Steelheart has turned to steel, and joins the Reckoners, a group led by Professor Jonathan
+  Phaedrus that kills Epics; publication dates Steelheart 24 Sep 2013, Firefight 6 Jan 2015, Calamity 16 Feb 2016; Mitosis
+  is a novella, 2013, and Lux (2021) is a later book, neither in the card). The story is about powered tyrants and the ordinary
+  resisters who hunt them, so Superhero fiction; Post-holocaust survival leaves were considered, but the powers and the Epics''
+  rule are the engine, not the survival. Wobble: the setting is a post-apocalyptic Chicago-sized city twelve years after the
+  Calamity, so the Modern-day branch is a stretch; no other leaf has superhumans as the core. Year of the card: 2013.'
+books:
+- title: Steelheart
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8737498-L.jpg
+- title: Firefight
+  year: 2015
+- title: Calamity
+  year: 2016
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8737498-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01120, MC01107, MC01104)
+placement_history:
+- date: '2026-10-04'
+  to: superhero-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
