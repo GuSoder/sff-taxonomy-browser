@@ -4,15 +4,16 @@ parent: ranger-hero
 children: []
 image: 653-hunter-hero.webp
 portrait: 653-hunter-hero.webp
-definition: Ranger-hero fantasy whose protagonist is a tracker and hunter of monsters, winning by woodcraft, speed and a chosen
-  quarry. The D&D Hunter reading. Not Beast master hero (the bond with an animal is the power), not Rogue hero (stealth and
-  theft).
+definition: "Ranger-hero fantasy whose protagonist is a hunter of any prey: a tracker of monsters, a slayer of the undead, a quarry chosen and followed, winning by woodcraft, speed and knowledge of what is hunted. The D&D Hunter reading, with the favored enemy of any kind. Not Beast master hero (the bond with an animal is the power), not Rogue hero (stealth and theft), and not Vampire hunt, which is the real-earth vampire-threat leaf: here the world is invented and the hunter is the protagonist."
 status: accepted
 works:
 - the-legend-of-drizzt
+- the-noble-dead-saga
 ruling: Split of Ranger hero, approved by the curator ("Perfect, split approved", phonemsg-01M4KNSAA0TYA10DN79G6N2053, 2026-10-10
   9:49 PM CEST) after the intake's "Approve split?" question (names from the D&D Ranger subclasses Beast Master and Hunter).
   Triggered by Valdemar, which he rejected at Rider hero, Knight hero and Paladin hero ("a paladin is a knight of church").
 history:
 - date: '2026-10-10'
   change: Created by the Ranger hero split; curator "Perfect, split approved" (phonemsg-01M4KNSAA0TYA10DN79G6N2053).
+- date: '2026-10-13'
+  change: Definition widened to hunters of any prey and The Noble Dead Saga placed beside Drizzt, on the curator's instruction (phonemsg-01M4V19Y1HE24PW8S6ZBEAF917). No split, no seed.
