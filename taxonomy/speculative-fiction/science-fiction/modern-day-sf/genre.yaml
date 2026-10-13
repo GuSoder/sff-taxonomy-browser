@@ -1,0 +1,19 @@
+id: modern-day-sf
+label: Modern day SF
+parent: science-fiction
+children:
+- alien-invasion-fiction
+- apocalyptic-fiction
+- first-contact-fiction
+- genetic-engineering
+- humorous-science-fiction
+- soft-science-fiction
+- technothriller
+- social-dystopia-modern
+image: 53-modern-day.webp
+definition: Science fiction set in the recognizable present.
+status: accepted
+works: []
+history:
+- date: '2026-10-13'
+  change: 'Renamed from Modern day (id modern-day, label Modern day) to Modern day SF (id modern-day-sf) on the curator''s "Can you add SF to all genres directly under Science Fiction" (phonemsg-01M4V92ZW3M555BYE46EV973Y8, 2026-10-13 8:41 PM CEST). Old id redirects; portrait unchanged.'

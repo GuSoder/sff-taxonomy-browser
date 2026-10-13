@@ -160,3 +160,6 @@ Split of Ranger hero (now an umbrella, 0 cards) for Heralds of Valdemar, approve
 - Herald hero, Corps hero: the series' own word and an institution, not a power source.
 - Wild rangers (sibling for Skybound Saga): not needed; Skybound Saga is falconers, so it is beast-bonded and sits in Beast master hero.
 Drizzt in Hunter hero: his research thread, 9:44-9:49 PM. The online 5E majority calls him Hunter; Crawford says Guenhwyvar is a figurine of wondrous power, not an animal companion; Perkins calls him more a fighter. Weakest card: Heralds of Valdemar's Mage Wars and Vows and Honor volumes (in the universe, not Herald-bond stories).
+
+## SF suffix on the four Science fiction umbrellas (2026-10-13)
+Curator: "Can you add SF to all genres directly under Science Fiction" (phonemsg-01M4V92ZW3M555BYE46EV973Y8). Renamed Historical / Futurist / Modern day / Atemporal to Historical SF (historical-sf), Futurist SF (futurist-sf), Modern day SF (modern-day-sf), Atemporal SF (atemporal-sf). Old ids redirect; portraits unchanged; old names kept in each genre.yaml history. Uses "SF" per the 2026-10-08 ruling.

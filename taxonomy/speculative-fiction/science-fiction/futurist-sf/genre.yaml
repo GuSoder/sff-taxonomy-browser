@@ -1,0 +1,20 @@
+id: futurist-sf
+label: Futurist SF
+parent: science-fiction
+children:
+- hard-sf
+- future-of-earth-fiction
+- spacefaring-fiction
+- alien-fiction
+image: 52-futurist.webp
+definition: 'Science fiction organized by what the reader is after: rigorous science, Earth futures, spacefaring or alien
+  life. Reader-relative test: speculative science from a writer’s present that did not pan out can qualify when it now reads
+  as an alternate future’s science.'
+status: accepted
+works: []
+history:
+- date: '2026-10-07'
+  change: Otherworldly fiction dissolved on owner order (phonemsg-01M4BN9PDP1GN0ZRHCHCPN9X5P, phonemsg-01M4BNG3DRJEH7EEA07XNVF6G6);
+    definition no longer lists otherworldly cosmology.
+- date: '2026-10-13'
+  change: 'Renamed from Futurist (id futurist, label Futurist) to Futurist SF (id futurist-sf) on the curator''s "Can you add SF to all genres directly under Science Fiction" (phonemsg-01M4V92ZW3M555BYE46EV973Y8, 2026-10-13 8:41 PM CEST). Old id redirects; portrait unchanged.'

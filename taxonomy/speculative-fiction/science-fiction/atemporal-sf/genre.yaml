@@ -1,0 +1,19 @@
+id: atemporal-sf
+label: Atemporal SF
+parent: science-fiction
+children:
+- fabulation
+- new-weird
+- reincarnation-fiction
+- science-fantasy
+- time-travel-fiction
+- parallel-world-fiction
+image: 54-unplaceable.webp
+definition: 'Science fiction unplaceable as modern-day, historical, or futuristic: stories that cross eras, worlds with no Earth-time anchor, and realities
+  that resist a stable place in time. Any science-fiction time travel, as premise or element, sorts here under Time travel fiction, regardless of setting
+  dates.'
+status: accepted
+works: []
+history:
+- date: '2026-10-13'
+  change: 'Renamed from Atemporal (id atemporal, label Atemporal) to Atemporal SF (id atemporal-sf) on the curator''s "Can you add SF to all genres directly under Science Fiction" (phonemsg-01M4V92ZW3M555BYE46EV973Y8, 2026-10-13 8:41 PM CEST). Old id redirects; portrait unchanged.'
