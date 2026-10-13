@@ -1,0 +1,40 @@
+id: the-harper-connelly-mysteries
+title: The Harper Connelly Mysteries
+authors:
+- Charlaine Harris
+first_published: 2005
+canonical_genre: pi-meets-magic
+placement_status: accepted
+placement_rationale: 'Root-down walk: set in contemporary America with a real-world supernatural gift, so Real earth fantasy;
+  Urban fantasy; Occult mystery; Occult PI. Sources: Wikipedia (Harper Connelly Mysteries, ''a series of fantasy mystery novels'';
+  at 15 Harper was struck by lightning, which left her able to sense dead people and see how they died, not who killed them;
+  her stepbrother Tolliver Lang manages her bookings) and charlaineharris.com (a woman who finds dead people for pay; Grave
+  Sight: she and Tolliver arrive in Sarne, Arkansas and are embroiled in a murder mystery; Grave Surprise: in Memphis, asked
+  by an anthropology professor to demonstrate her talent in an old cemetery, she finds two bodies in one grave and a third
+  turns up; An Ice Cold Grave: Doraville, North Carolina, several missing teenage boys, she is attacked and becomes part of
+  the investigation; Grave Secret: a trip to Texas, family secrets, and what happened to her missing sister Cameron). She
+  is an untrained human whose accidental gift is hired out and whose cases run into murder, so Pi meets magic (ordinary or
+  untrained humans), not Mage PI (no craft) and not Ghost speakers (she senses bodies and cause of death, she does not speak
+  with the dead). Wobble: Ghost speakers and Occult cop were considered; the gift is corpse-sensing and she is a hired finder,
+  not police. Years per Wikipedia: 2005, 2006, 2007, 2009.'
+books:
+- title: Grave Sight
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/273318-L.jpg
+- title: Grave Surprise
+  year: 2006
+- title: An Ice Cold Grave
+  year: 2007
+- title: Grave Secret
+  year: 2009
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/273318-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01529, MC01530, MC01515, MC01528)
+placement_history:
+- date: '2026-10-04'
+  to: pi-meets-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
