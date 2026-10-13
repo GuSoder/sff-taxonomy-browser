@@ -1,0 +1,29 @@
+id: rescue-mode
+title: Rescue Mode
+authors:
+- Ben Bova
+- Les Johnson
+first_published: 2014
+canonical_genre: technocrisis
+placement_status: accepted
+placement_rationale: 'Root-down walk: near-future Earth and a first crewed Mars mission, so Modern-day; Technothriller; Technocrisis
+  (a high-tech system under strain in a fast-moving crisis). Sources: Simon & Schuster publisher page (Rescue Mode, Bova with
+  NASA''s Les Johnson, Baen 2014): the first human mission to Mars is struck by a meteoroid and nearly destroyed, too far
+  out to turn back; the eight-person crew must nurse the crippled ship on while anti-spaceflight politicians on Earth use
+  the accident against the program. Wobble: Hard SF > spaceflight could host it, but the plot is a crisis, not a research
+  problem; Space-disaster stories are not a separate leaf. Year 2014.'
+books:
+- title: Rescue Mode
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8470796-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8470796-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00977)
+placement_history:
+- date: '2026-10-04'
+  to: technocrisis
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

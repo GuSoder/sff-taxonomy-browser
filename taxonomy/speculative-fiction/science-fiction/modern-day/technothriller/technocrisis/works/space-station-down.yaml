@@ -1,0 +1,30 @@
+id: space-station-down
+title: Space Station Down
+authors:
+- Ben Bova
+- Doug Beason
+first_published: 2020
+canonical_genre: technocrisis
+placement_status: accepted
+placement_rationale: 'Root-down walk: near-future ISS, so Modern-day; Technothriller; Technocrisis. Sources: Tor Publishing
+  Group page and Publishers Weekly review (Space Station Down, Bova and Doug Beason, Tor 2020): a space tourist and an extremist
+  cosmonaut kill the ISS crew and plan to crash the station into New York; the lone survivor, astronaut Kimberly Hadid-Robinson,
+  barricades herself while the US president weighs destroying the station and her ex-husband Scott works the ground side;
+  PW calls it a Die Hard and Apollo 13 mash-up. Wobble: a terrorist hijack, so Spytech (counterterror conspiracies) is the
+  cousin; placed on the crisis around a failing station and the clock to impact, not on covert tech operations. PW is negative
+  on quality, not relevant to placement. Year 2020.'
+books:
+- title: Space Station Down
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10299239-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10299239-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00979)
+placement_history:
+- date: '2026-10-04'
+  to: technocrisis
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
