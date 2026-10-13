@@ -34,3 +34,16 @@ The curator, phonemsg-01M4K5CVG8CJGKKXHJ26KSAMWK (5:02 PM): "I actually only mea
 ## Bundle gate (curator, 2026-10-12, phonemsg-01M4RK8D2CJNFXTC2TQHSX9J2Q)
 A fourth structural gate beside "Approve seed?" and "Approve split?": "Approve bundle?". When an umbrella fills up with ten or more subgenres that run on one clear shared axis (time is the first example), the leaves are grouped into two half-umbrellas along that axis. It needs the curator's textual approval like every structural change; nothing executes before his "Approved". The book that triggers it is held, not seeded or placed. Rules, block form and the Industrial age fantasy worked example are in taxonomy/BUNDLING.md.
 Two-bundle rule (curator, 7:43:51 PM CEST, 2026-10-12): a bundle approval always asks approval of at least two new umbrellas (the halves). A bundle is a split of genres, a split is a split of fictions; the leaves regroup under the halves and no fiction changes leaf.
+
+## Per-row walk checklist (standing rules, check every walked row against this)
+
+Written 2026-10-13 after the curator asked why rules get forgotten mid-walk. Run it for every row you walk, before you write a verdict.
+
+1. No honest leaf after the root-down walk = a seed proposal, served to the curator at once ("Approve seed?:" through the parent). Never a HELD verdict, never a note for later.
+2. The honest leaf is at 9 or 10 fictions = a split proposal, served at once ("Approve split?:"). Never place the tenth card, never hold it.
+3. One open decision at a time. While a seed, split or bundle question is open, intake pauses: no placements, no new questions. Resume when he answers.
+4. Show the full root-down walk in the question and in the yaml `why`: every branch tried, why each failed, the wobble, and where the sources are thin. Every plot detail comes from a source read.
+5. Never a parked pile. Only non-fiction with no speculative proof, children's books, novellas, collections, anthologies, omnibus rows and media tie-ins are skipped. A fiction is placed, or it is a seed or split proposal.
+6. Also still in force: no empty leaves, shared universe = one card, portraits without bows, arrows, quivers, violin bows or franchise references, and only the curator approves structural change (real message ID cited before anything executes).
+
+Rows already marked HELD-walked in verdicts-pass1.tsv before this checklist are owed a proposal under rules 1 and 2; they are served one at a time as the curator answers.
