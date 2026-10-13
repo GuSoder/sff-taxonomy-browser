@@ -1,0 +1,41 @@
+id: the-skyward-series
+title: The Skyward Series
+authors:
+- Brandon Sanderson
+first_published: 2018
+canonical_genre: space-combat
+placement_status: accepted
+placement_rationale: 'Root-down walk: human survivors under alien attack on a far planet, told through a fighter pilot, so
+  Futurist; Spacefaring fiction; Space opera; New space opera; Space adventure; Space combat (the engine is a fight; pilots
+  in war machines). Sources: brandonsanderson.com Skyward series page (Spensa''s world has been under alien attack for decades;
+  pilots are the heroes of what is left of humanity; she wants to fly but her father was killed for desertion; she finds something
+  in a forgotten cavern that may grant her a way to claim the stars; Starsight: the stars Spensa hears and the truths about
+  her father and her world; Cytonic: she is a Defiant Defense Force starfighter pilot who saved her people from the Krell
+  and traveled as an undercover spy into the Superiority, which starts a galaxy-wide war with the Delvers as weapons, and
+  she must enter the Nowhere; Defiant is the final book) and Coppermind (Skyward released 6 Nov 2018, Starsight 2019, Cytonic
+  2021, Defiant 21 Nov 2023, set in the Cytoverse). PRH calls Skyward Flight a novella collection, so it is skipped. The pilot''s
+  fight against the Krell and then the Superiority''s war drives the series, so Space combat, not Space academy (the flight
+  school is the first act only) or Space command (she does not direct campaigns). Wobble: Far-future first contact and Alien
+  war grunts were considered; the Krell are the enemy but the story is about the pilot''s war machine, not the contact. Years:
+  2018, 2019, 2021, 2023.'
+books:
+- title: Skyward
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/14658323-L.jpg
+- title: Starsight
+  year: 2019
+- title: Cytonic
+  year: 2021
+- title: Defiant
+  year: 2023
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14658323-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01116, MC01119, MC01105, MC01106)
+placement_history:
+- date: '2026-10-04'
+  to: space-combat
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
