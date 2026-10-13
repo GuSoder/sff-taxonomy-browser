@@ -1,0 +1,40 @@
+id: the-coldfire-trilogy
+title: The Coldfire Trilogy
+authors:
+- C. S. Friedman
+first_published: 1991
+canonical_genre: lost-colony-planetary-romance
+placement_status: accepted
+placement_rationale: 'Root-down walk: science fantasy on a settled planet far from Earth, so Atemporal; Science fantasy; Planetary
+  romance. Sources: Wikipedia (Black Sun Rising, ''a science fantasy novel'', on the fictional planet Erna; Damien Vryce is
+  a priest of the Church of Human Unification sent to teach sorcery with the fae; Ciani''s memories and skills are stripped
+  by soul-eating creatures; Gerald Tarrant, servant of the Hunter, joins them) and the author''s and PRH pages (Erna was settled
+  over a millennium ago by colonists from far-distant Earth; twelve centuries on, humans live in an uneasy stalemate with
+  the fae, a natural force that preys on the mind and gives nightmares and dreams life, and human sorcerers manipulate it).
+  The people are descendants of settlers cut off from Earth whose planet''s dangers and powers have become religion and custom,
+  so Lost colony planetary romance, not Classic (the hero is a native, not a visitor from Earth) and not Far future (Earth
+  is remembered, not gone). Nightborn: Coldfire Rising (2023, PRH) is the prequel of the first colonists, folded into the
+  same card under the shared-universe rule. Wobble: Hard science fantasy and Surface colony life were considered; the fae
+  is told as magic and the story is the native sorcerer-priest''s. Years per Wikipedia: 1991, 1993, 1995 (queue years are
+  reissues); Nightborn 2023 (DAW).'
+books:
+- title: Black Sun Rising
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/503837-L.jpg
+- title: When True Night Falls
+  year: 1993
+- title: Crown of Shadows
+  year: 1995
+- title: 'Nightborn: Coldfire Rising'
+  year: 2023
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/503837-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01337, MC01350, MC01338, MC01345)
+placement_history:
+- date: '2026-10-04'
+  to: lost-colony-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
