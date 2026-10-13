@@ -1,0 +1,23 @@
+id: mythic-retelling
+label: Mythic retelling
+parent: historical-fantasy
+children:
+- arthurian-fantasy
+- greek-myth-fantasy
+- norse-fantasy
+- mayan-myth-fantasy
+- navajo-myth-fantasy
+- biblical-fantasy
+- roman-myth-fantasy
+- slavic-myth-fantasy
+image: 5-mythic-retelling.webp
+definition: 'Fantasy anchored to an inherited story, whose source is the myth itself: it retells or reimagines named figures and narratives
+  from mythology or legend. Mythic-age settings such as Homeric Greece and Arthurian Britain count as retelling territory. Not Contemporary
+  mythic fantasy (myth alive in the present day), which sits under Contemporary fantasy.'
+status: umbrella
+works: []
+history:
+- date: '2026-10-12'
+  change: Seeded Slavic myth fantasy under it for The House of Frost and Feathers.
+- date: '2026-10-13'
+  change: Moved from Real earth fantasy to Historical fantasy, whole and as is, when Real earth fantasy was dissolved (curator phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).

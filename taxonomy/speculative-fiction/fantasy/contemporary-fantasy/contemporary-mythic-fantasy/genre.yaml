@@ -1,0 +1,25 @@
+id: contemporary-mythic-fantasy
+name: Contemporary mythic fantasy
+definition: 'Contemporary fantasy in which ancient mythic beings, archetypes or powers remain active within ordinary present-day life,
+  making myth a living force, partitioned by which mythology stays alive: the inherited traditions of Celtic myth (Albion and Gaul),
+  Greek, Anansi, Chinese and Orisha, or an invented cosmology an author built outright. Not Mythic retelling (a retold myth or legend,
+  under Historical fantasy).'
+parent: contemporary-fantasy
+label: Contemporary mythic fantasy
+children:
+- modern-celtic-myth
+- modern-greek-myth
+- modern-anansi-myth
+- modern-orisha-myth
+- modern-invented-myth
+- modern-chinese-myth
+- modern-jamaican-myth
+image: 260-contemporary-mythic-fantasy.webp
+status: provisional
+works: []
+history:
+- date: '2026-10-10'
+  change: Modern Albion myth moved under the new umbrella Modern Celtic myth; Modern Gaulish myth seeded (phonemsg-01M4JS149E5JX87808WVW8DGAJ).
+- date: '2026-10-13'
+  change: Added a Not line against Mythic retelling, which sits under Historical fantasy after the Real earth fantasy dissolve (curator
+    phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).

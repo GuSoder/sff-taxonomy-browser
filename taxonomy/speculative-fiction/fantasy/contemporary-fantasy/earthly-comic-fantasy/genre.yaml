@@ -1,0 +1,22 @@
+id: earthly-comic-fantasy
+label: Earthly comic fantasy
+parent: contemporary-fantasy
+children:
+- mythic-farce
+- screwball-fantasy
+- comic-noir-fantasy
+- corporate-fantasy
+works: []
+image: 421-earthly-comic-fantasy.webp
+definition: 'Comic fantasy set on Earth, where comedy, farce or satire is the governing engine: gods and myth loose among mortals, or
+  a supernatural device let loose in ordinary life, modern or period. Created 2026-09-28 as the Earth-rooted counterpart to Comic fantasy
+  realms when the realm-fork exception dissolved (the curator ruling, phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0). Period widened per the curator
+  ruling phonemsg-01M3MH1EFC99JWQJPF4J072RBP (Shadow Ticket, 1932 Milwaukee). Umbrella split at ten cards into Mythic farce (gods and
+  myth loose among mortals), Screwball fantasy (a supernatural thing scrambles a love life) and Comic noir fantasy (the detective frame),
+  under curator approval phonemsg-01M43NTTR1HGGN3BC7TWEGMPK6 2026-10-04. Seed 2026-10-05: Corporate fantasy for magic run as a business
+  (curator "Approved" (phonemsg-01M45H5Q869HZ1M6VK1K5D933A, 2026-10-05 9:59 AM)); Comic noir renamed Comic noir fantasy.'
+status: provisional
+history:
+- date: '2026-10-13'
+  change: Moved from Real earth fantasy to Contemporary fantasy, whole and as is, when Real earth fantasy was dissolved (curator phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
+    Definition reworded to drop 'Real Earth'.
