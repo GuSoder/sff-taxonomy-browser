@@ -1,0 +1,39 @@
+id: the-proteus-series
+title: The Proteus Series
+authors:
+- Charles Sheffield
+first_published: 1978
+canonical_genre: genetic-caste-fiction
+placement_status: accepted
+placement_rationale: 'Root-down walk: near-future Solar System where biology is remade, so Modern-day; Genetic engineering;
+  Genetic caste fiction (designed kinds of person and the hierarchy that follows). Sources: Wikipedia (Proteus in the Underworld,
+  1995, ''set in the same universe as Proteus Unbound (1989) and Sight of Proteus (1978)''; Form Change tanks let people modify
+  physiology and appearance, from treating defects to fusing bodies; colonies run by fanatics adopt forms such as giant Fugates
+  grown for brain size, a fiefdom where appearance marks status, and kangaroo-like surface forms for Mars; the ability to
+  form change has become the definition of humanity and infants who fail the Humanity Test are euthanised; Sondra Wolf Dearborn
+  of the Office of Form Control and the retired expert Bey Wolf uncover that Trudy Melford of BEC rigged false positives to
+  undermine the test after her own son failed it, and that Logians financed Mars terraforming to stop human speciation; isfdb
+  series page confirms the three titles and years 1978, 1989, 1995). Body design makes kinds of people and the test makes
+  heredity into rank, so Genetic caste fiction, not Hard genetic SF (the biotech is the backdrop, the plot is a conspiracy
+  and a detective-style inquiry) and not Cloning fiction. Wobble: I read only the Proteus in the Underworld article in full;
+  the earlier two books are placed on the shared-universe rule and the isfdb series listing, not on their own plot summaries.
+  Years: 1978, 1989, 1995.'
+books:
+- title: Sight of Proteus
+  year: 1978
+  cover_url: https://covers.openlibrary.org/b/id/8229716-L.jpg
+- title: Proteus Unbound
+  year: 1989
+- title: Proteus in the Underworld
+  year: 1995
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8229716-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01590, MC01589, MC01588)
+placement_history:
+- date: '2026-10-04'
+  to: genetic-caste-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
