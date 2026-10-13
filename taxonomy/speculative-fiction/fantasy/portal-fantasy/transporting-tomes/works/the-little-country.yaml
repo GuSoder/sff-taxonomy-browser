@@ -1,0 +1,32 @@
+id: the-little-country
+title: The Little Country
+authors:
+- Charles de Lint
+first_published: 1991
+canonical_genre: transporting-tomes
+placement_status: accepted
+placement_rationale: 'Root-down walk: modern Ottawa/Cornwall plus invented alternate worlds reached through a book and a stone,
+  so Portal fantasy (the story must start on or include Earth); crossing carried by a text, so Transporting tomes. Sources:
+  charlesdelint.com description (folk musician Janey Little finds a mysterious manuscript in an old trunk in her grandfather''s
+  cottage and is swept into a dangerous realm both strange and familiar; the magic lurks in the pages of The Little Country);
+  Publishers Weekly (a book that could give its possessor ultimate power, a Cornish family that has hidden it, a secret society
+  out to get it, two or possibly three alternate worlds); Black Gate (two parallel stories, each read by the protagonist of
+  the other; the book is a talisman that opens its effects once Janey starts to read, drawing the notice of John Madden of
+  the Order of the Grey Dove; a standing stone with an opening that people and objects pass through exists in both worlds).
+  Wobble: Textual trespass (books-in-books) is the near cousin, and the standing stone is a second crossing; the book is what
+  sets everything in motion, so the text governs. Year 1991 (author''s site and Publishers Weekly listing).'
+books:
+- title: The Little Country
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/5441118-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/5441118-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01553)
+placement_history:
+- date: '2026-10-04'
+  to: transporting-tomes
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
