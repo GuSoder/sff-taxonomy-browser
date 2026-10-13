@@ -1,0 +1,37 @@
+id: orion
+title: Orion
+authors:
+- Ben Bova
+first_published: 1988
+canonical_genre: reincarnation-fiction
+placement_status: accepted
+placement_rationale: 'Root-down walk: Earth''s own past, present and future seen through one recurring being, so not a time
+  machine story; Atemporal; Reincarnation fiction (a soul or consciousness recurs across lifetimes and eras as the linking
+  device; sibling card The Eternal Champion). Sources: Wikipedia Vengeance of Orion (1988; sequel to Orion; Orion ''comes
+  into being'' as a rower on a Greek ship bound for Troy, the Golden One who made him reveals himself as Apollo and says Orion
+  was punished for defying him and is resurrected to serve him again, the woman he loved died when their star ship exploded;
+  he then moves through Hittite lands, Jericho and Egypt); Goodreads series blurb (John O''Ryan, an eternal warrior destined
+  to fight the Dark Lord through all time, from the caves of our ancestors to nuclear annihilation); isfdb/SFE years: Orion
+  in the Dying Time 1990, Orion and the Conqueror 1994. Folded: Orion in the Dying Time and Orion and the Conqueror as later
+  books of the same series. Wobble: Greek-god fantasy and Time travel are cousins, since the gods are revealed as made beings
+  and a time-spanning conflict drives the plot; I read only the Vengeance of Orion article in full, the other two are placed
+  on the series blurb and shared-series rule. Year 1988 for the first queued book (series began with Orion 1984).'
+books:
+- title: Vengeance of Orion
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/6633745-L.jpg
+- title: Orion in the Dying Time
+  year: 1990
+- title: Orion and the Conqueror
+  year: 1994
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6633745-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01000, MC00971, MC00970)
+placement_history:
+- date: '2026-10-04'
+  to: reincarnation-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
