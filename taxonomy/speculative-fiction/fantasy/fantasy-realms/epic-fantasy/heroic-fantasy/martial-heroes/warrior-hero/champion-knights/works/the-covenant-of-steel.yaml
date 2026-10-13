@@ -1,0 +1,36 @@
+id: the-covenant-of-steel
+title: The Covenant of Steel
+authors:
+- Anthony Ryan
+first_published: 2021
+canonical_genre: champion-knights
+placement_status: accepted
+placement_rationale: 'Root-down walk: invented world (the kingdom of Albermaine), so Fantasy realms; Epic fantasy, Heroic
+  fantasy, Martial heroes, Warrior hero. Sources (publisher blurbs for The Pariah, The Martyr and The Traitor, found via web
+  search of anthonyryan.net and Hachette): Alwyn Scribe is raised an outlaw, trained by his band to steal, kill, spy and deceive;
+  an act of betrayal sends him to a soldier''s life in the king''s army under Lady Evadine Courlain, a noblewoman beset by
+  visions of a demonic apocalypse. By The Martyr he is a spymaster and sworn protector of Evadine and sent to put down a rebellion
+  in the Duchy of Alundia; by The Traitor he is a knight and her most trusted advisor. The arc is outlaw to sworn service,
+  so Champion knights (fights for a lord and a cause), not Outcast knights (he is sworn) and not Rogue hero (the stealth years
+  are his past; the books are about his war service). Wobble: Rogue hero is the alternative for the first book alone. Years:
+  The Pariah 2021, The Martyr 2021, The Traitor 2022 (first UK editions; read from the author''s pages, not isfdb). Set in
+  the same world as Raven''s Shadow but a separate cast and a separate card.'
+books:
+- title: The Pariah
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10927428-L.jpg
+- title: The Martyr
+  year: 2021
+- title: The Traitor
+  year: 2022
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10927428-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00801, MC00800, MC00802)
+placement_history:
+- date: '2026-10-04'
+  to: champion-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
