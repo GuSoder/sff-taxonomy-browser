@@ -1,0 +1,19 @@
+id: edo-fantasy
+label: Edo fantasy
+parent: antique-times-fantasy
+children: []
+works:
+- the-kouga-ninja-scrolls
+definition: 'Historical fantasy set in Japan''s Edo period, the Tokugawa shogunate of 1603 to 1868: daimyo domains, samurai,
+  ninja clans, castle towns and the closed country, where the supernatural is real or the powers are open to the story. Not
+  Genso (East Asian fantasy in invented worlds), not Wuxia (Chinese martial heroes), and not Alt Ming fantasy (rewritten Chinese
+  history).'
+status: provisional
+ruling: Seeded on the curator's approval ("Ok, we can widen antique times, approved", phonemsg-01M4VGXP34B0YSERWPPQYH9PG7,
+  2026-10-13 10:58 PM CEST) of the "Approve seed?" block for Edo fantasy. No existing leaf fits The Kouga Ninja Scrolls (real
+  1614 Japan, open superhuman ninja clans). Name as served; the curator may rename.
+image: 695-edo-fantasy.webp
+portrait: 695-edo-fantasy.webp
+history:
+- date: '2026-10-13'
+  change: Seeded for The Kouga Ninja Scrolls, moved from Pulp fantasy; curator approved (phonemsg-01M4VGXP34B0YSERWPPQYH9PG7).

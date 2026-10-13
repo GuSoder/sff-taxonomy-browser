@@ -5,14 +5,16 @@ children:
 - period-fantasy
 - secret-history
 - alternate-history-fantasy
-- pulp-fantasy
 - mythic-retelling
 image: 16-historical-fantasy.webp
-definition: 'Fantasy set in a real past era, or retelling the myths and legends of the past: period fantasy, secret histories, alternate
-  histories, pulp fantasy and mythic retellings. Not Contemporary fantasy (the present day or outside any past era).'
+definition: 'Fantasy set in a real past era, or retelling the myths and legends of the past: period fantasy, secret histories,
+  alternate histories and mythic retellings. Not Contemporary fantasy (the present day or outside any past era).'
 status: umbrella
 works: []
 history:
 - date: '2026-10-13'
-  change: Lifted from Real earth fantasy to Fantasy when Real earth fantasy was dissolved, and Mythic retelling moved in whole (curator
-    phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6). Definition written (it had none).
+  change: Lifted from Real earth fantasy to Fantasy when Real earth fantasy was dissolved, and Mythic retelling moved in whole
+    (curator phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6). Definition written (it had none).
+- date: '2026-10-13'
+  change: Pulp fantasy retired (empty after its cards were re-homed); children now Period fantasy, Secret history, Alternate
+    history fantasy, Mythic retelling (phonemsg-01M4VGXP34B0YSERWPPQYH9PG7).

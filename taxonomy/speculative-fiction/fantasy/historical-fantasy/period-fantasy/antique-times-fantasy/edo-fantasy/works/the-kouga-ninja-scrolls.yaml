@@ -1,0 +1,32 @@
+id: the-kouga-ninja-scrolls
+title: The Kouga Ninja Scrolls
+authors:
+- Futaro Yamada
+first_published: 1959
+canonical_genre: edo-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy -> Historical fantasy -> Period fantasy -> Antique times fantasy -> Edo fantasy.
+  April 1614 Japan: the retired shogun Ieyasu lifts the no-hostilities treaty so ten fighters from each of the rival Kouga
+  and Iga ninja clans can settle a succession dispute; generations of selective breeding have given the ninja inhuman powers
+  (Wikipedia; Penguin Random House). Real Edo history with open superhuman powers. Moved from Pulp fantasy into the new leaf
+  Edo fantasy on the curator''s approval (phonemsg-01M4VGXP34B0YSERWPPQYH9PG7). Year 1959 is the original Japanese publication;
+  English translation Del Rey 2006.'
+books:
+- title: The Kouga Ninja Scrolls
+  year: 1959
+  cover_url: https://images.penguinrandomhouse.com/cover/9780345495105
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images.penguinrandomhouse.com/cover/9780345495105
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03230)
+placement_history:
+- date: '2026-10-04'
+  to: pulp-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-13'
+  from: pulp-fantasy
+  to: edo-fantasy
+  reason: Moved into the new leaf Edo fantasy on the curator's approval (phonemsg-01M4VGXP34B0YSERWPPQYH9PG7).
