@@ -1,0 +1,48 @@
+id: newford
+title: Newford
+authors:
+- Charles de Lint
+first_published: 1997
+canonical_genre: big-city-fae
+placement_status: accepted
+placement_rationale: 'Root-down walk: set in the fictional modern North American city of Newford, so Real-earth fantasy; Urban
+  fantasy; Fae founders; Big-city fae. Sources: Wikipedia (The Onion Girl and Widdershins are ''in the Newford universe'';
+  Widdershins turns on a potential war between fairies, who came to the Americas with the European explorers, and ''cousins'',
+  the original inhabitants who take animal forms, with a bogan gang, the fairy court and Jilly''s otherworld ''croi baile'');
+  charlesdelint.com (Forests of the Heart is set in Newford and environs, with displaced Irish genius loci, the Gentry who
+  still wander the city streets, and Latin American healers; Trader is set in Newford and environs); Publishers Weekly (Irish
+  fairies, Native American shape-changers and Anansi meet in a tale of urban magic); Google Books blurb for Someplace to Be
+  Flying (the animal people walking among the city''s slums). One fiction because the novels share the city, its art scene
+  and a recurring cast (de Lint: Newford is not a running series, books share a common setting and characters); collections
+  (Dreams Underfoot, Moonlight and Vines, Muse and Reverie and the other Newford story books) are skipped. Wobble: the fae
+  are one of several mythic peoples (the First peoples'' spirits are co-equal), and Trader''s soul-switch plot has little
+  Faerie in it; Big-city fae is the leaf where the old peoples live on inside the metropolis with the city as stage. Years:
+  Trader 1997, Someplace to Be Flying 1998 (Tor, Feb 1998), Forests of the Heart 2000 (Tor, June 2000), The Onion Girl 2001,
+  Widdershins 2006 (Tor, 16 May 2006).'
+books:
+- title: Trader
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/10671886-L.jpg
+- title: Someplace to Be Flying
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/182485-L.jpg
+- title: Forests of the Heart
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/182847-L.jpg
+- title: The Onion Girl
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/524020-L.jpg
+- title: Widdershins
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/524593-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/524020-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01556, MC01548, MC01537, MC01555, MC01557)
+placement_history:
+- date: '2026-10-04'
+  to: big-city-fae
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
