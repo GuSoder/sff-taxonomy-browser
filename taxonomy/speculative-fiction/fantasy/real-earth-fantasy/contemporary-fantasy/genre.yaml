@@ -6,12 +6,10 @@ children:
 - magical-coming-of-age
 - domestic-fantasy
 - dark-fantasy
-- paranormal-fantasy
 - supernatural-fantasy
 - urban-fantasy
 - magic-realism
-- earthly-comic-fantasy
-- animal-fantasy
+- folktale
 works: []
 label: Contemporary fantasy
 parent: real-earth-fantasy
@@ -22,6 +20,8 @@ definition: 'Fantasy set in the present-day world or outside any past era: conte
   or retold past myth).'
 status: provisional
 history:
+- date: '2026-10-14'
+  change: 'Folktale umbrella bundled in from Earthly comic fantasy and Fables, and Paranormal fantasy moved under Supernatural fantasy (curator explicit requests phonemsg-01M4XAPFWMPD5166ZKJ7GZQ9AK, 2026-10-14 3:47 PM CEST; executed directly under his standing rule phonemsg-01M4XATQCWY1E291J460A3XGX2). 10 to 8 children.'
 - date: '2026-10-13'
   change: Portrait regenerated with the car up close in the foreground against the fairies (curator phonemsg-01M4VDCP6X4FVWPFGFXTJRV2X1).
     Previous portrait 47-contemporary-fantasy.webp kept in the repo.

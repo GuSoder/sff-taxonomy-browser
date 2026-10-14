@@ -1,6 +1,6 @@
 id: paranormal-fantasy
 label: Paranormal fantasy
-parent: contemporary-fantasy
+parent: supernatural-fantasy
 children: []
 image: 19-paranormal-fantasy.webp
 definition: ''
@@ -13,6 +13,8 @@ works:
 name: Paranormal fantasy
 portrait: 19-paranormal-fantasy.webp
 history:
+- date: '2026-10-14'
+  change: 'Moved under Supernatural fantasy (curator explicit request "then move paranormal in under supernatural", phonemsg-01M4XAPFWMPD5166ZKJ7GZQ9AK, 2026-10-14 3:47 PM CEST; executed directly under his standing rule phonemsg-01M4XATQCWY1E291J460A3XGX2).'
 - date: '2026-10-14'
   change: Lifted from the dissolved Nocturne fantasy umbrella to Contemporary fantasy (curator "Approved", phonemsg-01M4X5TPGN4ZEBKZBV3QQD0M4W,
     2026-10-14 2:22 PM CEST).

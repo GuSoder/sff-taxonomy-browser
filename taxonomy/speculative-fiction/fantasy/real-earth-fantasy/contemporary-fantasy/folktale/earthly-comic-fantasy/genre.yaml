@@ -1,6 +1,6 @@
 id: earthly-comic-fantasy
 label: Earthly comic fantasy
-parent: contemporary-fantasy
+parent: folktale
 children:
 - mythic-farce
 - screwball-fantasy
@@ -17,6 +17,8 @@ definition: 'Comic fantasy set on Earth, where comedy, farce or satire is the go
   (curator "Approved" (phonemsg-01M45H5Q869HZ1M6VK1K5D933A, 2026-10-05 9:59 AM)); Comic noir renamed Comic noir fantasy.'
 status: provisional
 history:
+- date: '2026-10-14'
+  change: 'Bundled under the new Folktale umbrella with Fables (curator explicit request "Can you make a folktale bundle of Comic and fables", phonemsg-01M4XAPFWMPD5166ZKJ7GZQ9AK, 2026-10-14 3:47 PM CEST; executed directly under his standing rule phonemsg-01M4XATQCWY1E291J460A3XGX2).'
 - date: '2026-10-13'
   change: Moved from Real earth fantasy to Contemporary fantasy, whole and as is, when Real earth fantasy was dissolved (curator phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
     Definition reworded to drop 'Real Earth'.

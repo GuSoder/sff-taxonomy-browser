@@ -196,3 +196,6 @@ Curator: "Can you dissolve nocturne fantasy and move up the three children" (pho
 
 ## Fables (curator, 2026-10-14)
 Animal fantasy renamed Fables (curator phonemsg-01M4X9J2AQEK89QCMB3EKNWNJC, "Can you rename animal fantasy to Fables and redo the image to have some more anthropomorphic animals"). Id animal-fantasy kept so links resolve. Definition anchored in the Aesop-to-Orwell fable tradition, Not lines added against Fairytale fantasy and Contemporary magical realism. "Fables" is also the name of the Vertigo comic franchise; no franchise reference is made, and no tree node clashes. Portrait regenerated with more anthropomorphic animals; old portrait 31 parked in art-history/animal-fantasy/.
+
+## Folktale (curator, 2026-10-14)
+Bundled under Contemporary fantasy from Earthly comic fantasy and Fables (curator explicit request "Can you make a folktale bundle of Comic and fables", phonemsg-01M4XAPFWMPD5166ZKJ7GZQ9AK; executed directly under his standing rule phonemsg-01M4XATQCWY1E291J460A3XGX2). Name source: the Oxford Classical Dictionary folktale entry - folktale as the umbrella over the humorous tale and the animal tale. No clash in tree or NAMES.md (folk-horror, folklore-in-gaslight, nightfolk are different words).

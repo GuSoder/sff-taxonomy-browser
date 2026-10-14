@@ -1,0 +1,16 @@
+id: folktale
+name: Folktale
+type: umbrella
+children:
+- earthly-comic-fantasy
+- animal-fantasy
+works: []
+label: Folktale
+parent: contemporary-fantasy
+image: 705-folktale.webp
+definition: 'Contemporary fantasy in the folktale tradition - the humorous tale and the animal tale, where the tale-shape and its moral engine govern. Not Fairytale fantasy (human wonder-tales retold), not Contemporary magical realism (the marvelous accepted as ordinary, uncomic).'
+status: accepted
+history:
+- date: '2026-10-14'
+  change: 'Bundled from Earthly comic fantasy and Fables under Contemporary fantasy (curator explicit request "Can you make a folktale bundle of Comic and fables", phonemsg-01M4XAPFWMPD5166ZKJ7GZQ9AK, 2026-10-14 3:47 PM CEST; executed directly under his standing rule phonemsg-01M4XATQCWY1E291J460A3XGX2, 3:50 PM CEST). Name source: the Oxford Classical Dictionary folktale entry, folktale as the umbrella over the humorous tale and the animal tale. Portrait 705-folktale.webp.'
+portrait: 705-folktale.webp
