@@ -47,3 +47,7 @@ Written 2026-10-13 after the curator asked why rules get forgotten mid-walk. Run
 6. Also still in force: no empty leaves, shared universe = one card, portraits without bows, arrows, quivers, violin bows or franchise references, and only the curator approves structural change (real message ID cited before anything executes).
 
 Rows already marked HELD-walked in verdicts-pass1.tsv before this checklist are owed a proposal under rules 1 and 2; they are served one at a time as the curator answers.
+
+## Setting rulings (curator)
+
+- 2026-10-14, "Leave it contemporary" (phonemsg-01M4WKJT1Y5CR9MEJX3DXDYMWC), on The Bewitching: a story framed in the 1990s (1998) with older strands (1934, 1908) stays Contemporary. There is no era leaf for the 1990s and none is seeded; a one-book era leaf for a book that is not about its era was declined (Nineties fantasy seed withdrawn).
