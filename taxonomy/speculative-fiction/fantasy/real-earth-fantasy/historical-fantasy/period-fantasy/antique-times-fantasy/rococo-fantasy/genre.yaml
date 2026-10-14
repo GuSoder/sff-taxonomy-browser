@@ -2,7 +2,7 @@ id: rococo-fantasy
 label: Rococo fantasy
 parent: antique-times-fantasy
 children: []
-image: 137-rococo-fantasy.webp
+image: 701-rococo-fantasy.webp
 definition: 'Fantasy of eighteenth-century Europe before the industrial age, the whole century in all its strata: courts,
   salons and music above, guilds, slums and trades below, with the fantastic entering either world. The era''s elegance and
   its stench belong to the same shelf. Not Renaissance fantasy (the centuries before), not Industrial age fantasy (1788 on),
@@ -17,3 +17,8 @@ history:
     so Perfume is an honest fit; curator direct instruction "You can change the def also" (phonemsg-01M4WRFKDKV87T9QRXKGRB7FNZ,
     2026-10-14 10:29 AM CEST). The Ancien Regime magical realism seed and the Antique times bundle were withdrawn on the same
     message.
+- date: '2026-10-14'
+  change: 'Portrait regenerated (701) without the violin bow in the old one, per the standing no-bows rule (phonemsg-01M4JZCH7KSE3706YYDG67RMJW);
+    two variants judged by the delegated standing rule; winner: the perfumer alley with the gilded carriage above, matching
+    the widened whole-century definition.'
+portrait: 701-rococo-fantasy.webp
