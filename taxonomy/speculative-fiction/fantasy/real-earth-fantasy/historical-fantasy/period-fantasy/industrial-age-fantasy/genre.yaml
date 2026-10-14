@@ -4,6 +4,7 @@ parent: period-fantasy
 children:
 - ember-age-fantasy
 - electrified-fantasy
+- industrial-fantasy-chronicles
 image: 266-industrial-age-fantasy.webp
 definition: Umbrella for Period fantasy set from 1788 onward, bundled on the time axis at 1900 into Ember age fantasy (before
   1900) and Electrified fantasy (1900 on). Not Edo fantasy (Japan's Edo period, 1603-1868, sits under Antique times fantasy).
@@ -22,3 +23,5 @@ history:
     locked pair confirmed by his "Rename", phonemsg-01M4RNMPFPAE5M6F8ZRGTD4KQQ, 8:22:46 PM).
 - date: '2026-10-13'
   change: Not line added for Edo fantasy (phonemsg-01M4VGXP34B0YSERWPPQYH9PG7).
+- date: '2026-10-14'
+  change: 'Child added: industrial-fantasy-chronicles (curator "Approved", phonemsg-01M4WQAXE3XNPCYJDEGKGH04CQ).'

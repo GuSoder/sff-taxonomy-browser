@@ -178,3 +178,6 @@ Curator instruction phonemsg-01M4WF3Z7QHFHHMZVZV394Q46X ("reinstate Real earth f
 
 ## Contemporary magical realism (curator, 2026-10-14)
 Magic realism renamed Contemporary magical realism (curator phonemsg-01M4WQ1K8FTHFN4PG0QRCRGNSW, "Rename Magical realism to Contemporary magical realism"), pairing with the past-set Electric fantasy chronicles under Historical fantasy. Id magic-realism kept so existing links resolve.
+
+## Industrial fantasy chronicles (curator, 2026-10-14)
+Seeded under Industrial age fantasy for One Hundred Years of Solitude (curator "Approved", phonemsg-01M4WQAXE3XNPCYJDEGKGH04CQ, on the Approve seed? block). Name is his coinage from the served block; sibling pattern is Electric fantasy chronicles under Electrified fantasy. Chronicles leaves hold span-across-decades books that no single-era leaf can honestly hold: Industrial straddles the 1900 line, Electric runs after it.
