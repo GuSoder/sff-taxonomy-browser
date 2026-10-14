@@ -1,14 +1,20 @@
 id: magical-coming-of-age
 name: Magical coming-of-age
-definition: Contemporary fantasy in which young people discover or develop magical
-  abilities while forming identity, relationships and an adult place in the world.
+definition: Contemporary fantasy in which young people discover or develop magical abilities - or have their identity forged
+  by a one-time magical event - while forming identity, relationships and an adult place in the world.
 parent: contemporary-fantasy
 label: Magical coming-of-age
 children:
 - magic-school
 - birthright-magic
 - found-magic
+- body-swap
 image: 261-magical-coming-of-age.webp
 status: provisional
 works: []
 type: umbrella
+history:
+- date: '2026-10-14'
+  change: Body swap leaf moved in from Contemporary fantasy and definition widened one clause (a one-time magical event, not
+    only a developed ability) so the swap sits honestly under it; curator "Approve" (phonemsg-01M4X4MTMXDPE6C7JJJJJ017ZM,
+    2026-10-14 2:01 PM CEST).
