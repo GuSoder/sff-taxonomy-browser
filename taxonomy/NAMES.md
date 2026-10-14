@@ -193,3 +193,6 @@ Seeded under Electrified fantasy (8 to 9 children) for The Famished Road (indepe
 
 ## Nocturne fantasy dissolved (2026-10-14)
 Curator: "Can you dissolve nocturne fantasy and move up the three children" (phonemsg-01M4X5SG1AZZ5JFFQEZVBJCSK3), "Approved" (phonemsg-01M4X5TPGN4ZEBKZBV3QQD0M4W). Nocturne fantasy held zero direct fictions; Dark fantasy, Paranormal fantasy and Supernatural fantasy lifted to Contemporary fantasy, which lands at 10 children (golden-rule split or bundle follows). Id nocturne-fantasy redirects to contemporary-fantasy; genre.yaml archived in taxonomy/_retired/2026-10-14-nocturne-fantasy; portrait 48-nocturne-fantasy.webp kept in the repo.
+
+## Fables (curator, 2026-10-14)
+Animal fantasy renamed Fables (curator phonemsg-01M4X9J2AQEK89QCMB3EKNWNJC, "Can you rename animal fantasy to Fables and redo the image to have some more anthropomorphic animals"). Id animal-fantasy kept so links resolve. Definition anchored in the Aesop-to-Orwell fable tradition, Not lines added against Fairytale fantasy and Contemporary magical realism. "Fables" is also the name of the Vertigo comic franchise; no franchise reference is made, and no tree node clashes. Portrait regenerated with more anthropomorphic animals; old portrait 31 parked in art-history/animal-fantasy/.

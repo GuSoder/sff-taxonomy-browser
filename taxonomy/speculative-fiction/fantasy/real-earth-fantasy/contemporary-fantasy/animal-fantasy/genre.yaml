@@ -1,10 +1,12 @@
 id: animal-fantasy
-label: Animal fantasy
+label: Fables
 parent: contemporary-fantasy
 children: []
-image: 31-animal-fantasy.webp
-definition: Fantasy that renders the inner life, society, and mythology of animals on their own terms, lightly anthropomorphized. The
-  Encyclopedia of Fantasy treats animal fantasy as a distinct form; Watership Down's rabbit society is its modern exemplar.
+image: 704-animal-fantasy.webp
+definition: 'Fables: animal tales in the Aesop-to-Orwell tradition - fantasy that renders the inner life, society, and mythology
+  of animals on their own terms, lightly anthropomorphized. The Encyclopedia of Fantasy treats animal fantasy as a distinct
+  form; Watership Down''s rabbit society is its modern exemplar. Not Fairytale fantasy (human wonder-tales retold), not Contemporary
+  magical realism (the marvelous accepted inside ordinary human life).'
 status: provisional
 works:
 - animal-farm
@@ -15,4 +17,13 @@ works:
 - the-wild-road
 history:
 - date: '2026-10-13'
-  change: Moved from Real earth fantasy to Contemporary fantasy, whole and as is, when Real earth fantasy was dissolved (curator phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
+  change: Moved from Real earth fantasy to Contemporary fantasy, whole and as is, when Real earth fantasy was dissolved (curator
+    phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
+- date: '2026-10-14'
+  change: Renamed Animal fantasy to Fables (curator, phonemsg-01M4X9J2AQEK89QCMB3EKNWNJC, 2026-10-14 3:27 PM CEST); id animal-fantasy
+    kept, definition anchored in the Aesop-to-Orwell fable tradition, Not lines added against Fairytale fantasy and Contemporary
+    magical realism.
+- date: '2026-10-14'
+  change: Portrait regenerated on his word - more anthropomorphic animals (winner of two variants judged by the delegated
+    standing rule); old portrait 31-animal-fantasy.webp parked in art-history.
+portrait: 704-animal-fantasy.webp
