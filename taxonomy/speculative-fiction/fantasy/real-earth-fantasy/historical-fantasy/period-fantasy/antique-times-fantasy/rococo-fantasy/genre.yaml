@@ -3,7 +3,17 @@ label: Rococo fantasy
 parent: antique-times-fantasy
 children: []
 image: 137-rococo-fantasy.webp
-definition: 'Fantasy of the Rococo world: eighteenth-century courtly and musical Europe, with its ornate salons, manners, artifice and fairy-tale elegance.'
+definition: 'Fantasy of eighteenth-century Europe before the industrial age, the whole century in all its strata: courts,
+  salons and music above, guilds, slums and trades below, with the fantastic entering either world. The era''s elegance and
+  its stench belong to the same shelf. Not Renaissance fantasy (the centuries before), not Industrial age fantasy (1788 on),
+  not Edo fantasy (Japan''s own early modern, 1603-1868).'
 status: accepted
 works:
 - the-kingdom-of-back
+- perfume
+history:
+- date: '2026-10-14'
+  change: Definition widened from the courtly, musical side of the century to the whole eighteenth century in all its strata,
+    so Perfume is an honest fit; curator direct instruction "You can change the def also" (phonemsg-01M4WRFKDKV87T9QRXKGRB7FNZ,
+    2026-10-14 10:29 AM CEST). The Ancien Regime magical realism seed and the Antique times bundle were withdrawn on the same
+    message.

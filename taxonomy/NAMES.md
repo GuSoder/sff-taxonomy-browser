@@ -181,3 +181,6 @@ Magic realism renamed Contemporary magical realism (curator phonemsg-01M4WQ1K8FT
 
 ## Industrial fantasy chronicles (curator, 2026-10-14)
 Seeded under Industrial age fantasy for One Hundred Years of Solitude (curator "Approved", phonemsg-01M4WQAXE3XNPCYJDEGKGH04CQ, on the Approve seed? block). Name is his coinage from the served block; sibling pattern is Electric fantasy chronicles under Electrified fantasy. Chronicles leaves hold span-across-decades books that no single-era leaf can honestly hold: Industrial straddles the 1900 line, Electric runs after it.
+
+## Rococo fantasy, definition widened (curator, 2026-10-14)
+Perfume (1738-66, slums and guilds, not salons) needed an honest past-set leaf. The Ancien Regime magical realism seed and Antique times bundle were withdrawn when the curator ruled "You can change the def also" (phonemsg-01M4WRFKDKV87T9QRXKGRB7FNZ): Rococo fantasy's definition now covers the whole eighteenth century in all its strata, and Perfume sits in it. Precedent: widen an existing era leaf's definition before seeding a one-book era leaf, when he says so.
