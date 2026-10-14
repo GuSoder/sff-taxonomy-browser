@@ -2,18 +2,15 @@ id: electrified-fantasy
 label: Electrified fantasy
 parent: industrial-age-fantasy
 children:
-- bowler-hat-fantasy
-- tudorbethan-fantasy
-- depression-era-fantasy
-- noir-fantasy
-- neon-fantasy
-- wwi-fantasy
-- wwii-fantasy
+- electric-dawn-fantasy
+- world-wars-fantasy
+- diesel-age-fantasy
+- electronic-age-fantasy
 - electric-fantasy-chronicles
-- postcolonial-fantasy
 image: 691-electrified-fantasy.webp
-definition: 'Umbrella for Industrial age fantasy set from 1900 on: the century of electric light, radio, cars and the world
-  wars, from the Edwardian years through the Depression, noir cities and neon. Not Ember age fantasy (before 1900).'
+definition: 'Umbrella for Industrial age fantasy set from 1900 on, in era bands: Electric dawn (to 1914), World wars, Diesel
+  age (interwar), Electronic age (postwar, 1945 on), plus the decade-spanning Electric fantasy chronicles. Not Ember age fantasy
+  (before 1900).'
 status: umbrella
 works: []
 ruling: 'Created by the Industrial age bundle, approved by the curator''s "Approved" (2026-10-12 7:57:08 PM CEST, phonemsg-01M4RM5PXQ390S05HCVHHZHA70,
@@ -39,3 +36,5 @@ history:
   change: Postcolonial fantasy seeded beneath (8 to 9 children), holding The Famished Road; curator "Approved" (phonemsg-01M4X23S62AH3YFG4F3GCGCTK7,
     2026-10-14 1:17 PM CEST).
 portrait: 691-electrified-fantasy.webp
+- date: '2026-10-14'
+  change: 'Era bundle executed: the nine leaves regrouped under four new era umbrellas - Electric dawn fantasy (bowler-hat), World wars fantasy (wwi, wwii), Diesel age fantasy = interwar 1918-39 (tudorbethan, depression-era, noir), Electronic age fantasy = informally the postwar decades, 1945 on (civil-rights-era seed holding The Reformatory, postcolonial, neon); electric-fantasy-chronicles stays first-class. 9 to 5 children. Era words are the curator''s own (Diesel = interwar, phonemsg-01M4XTMY84APARXF6Z5Y5M5FN9; Electronic = postwar, phonemsg-01M4XTQNYZ9FYZFXB76DA5VY18; Civil rights era name, phonemsg-01M4XV354N5AXPZHB0ZRJYQMVA); approved by the curator''s "Approved" (phonemsg-01M4XV5ER7821A9GST2QMAS8KY, 2026-10-14 8:35 PM CEST) on the served Electrified fantasy era block Electric dawn / World wars / Diesel age / Electronic age / Electric chronicles.'

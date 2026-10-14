@@ -1,9 +1,9 @@
 id: depression-era-fantasy
 label: Depression era fantasy
-parent: electrified-fantasy
+parent: diesel-age-fantasy
 children: []
 image: 692-depression-era-fantasy.webp
-definition: 'Fantasy set in the United States of the 1930s, the Great Depression years: drought and dust on the Plains and Southwest, itinerant spectacle, hard-times towns, federal works and Authority dams, and the Jim Crow South of the era. The decade and the country define the leaf, not a required supernatural mode. Not Noir fantasy (the city crime story) and not Wartime fantasy (the Second World War, 1939 on).'
+definition: 'Fantasy set in the United States of the 1930s, the Great Depression years: drought and dust on the Plains and Southwest, itinerant spectacle, hard-times towns, federal works and Authority dams, and the segregated South of the era. The decade and the country define the leaf, not a required supernatural mode. Not Noir fantasy (the city crime story) and not Wartime fantasy (the Second World War, 1939 on).'
 status: accepted
 ruling: Created by the curator's 2026-09-21 Period fantasy ruling; simplified from Dust Bowl Carnivalesque so the leaf is
   not limited to carnival stories.
@@ -18,3 +18,7 @@ history:
     and others weighed; he coined and confirmed "Ember/Electric age fantasy works?").'
 - date: '2026-10-13'
   change: 'Renamed from Dust Bowl fantasy (id dust-bowl-fantasy, label Dust Bowl fantasy, portrait 264-dust-bowl-fantasy.webp, kept in the repo) to Depression era fantasy (id depression-era-fantasy) and widened from the Plains and Southwest to the whole 1930s United States, on the curator''s "do the Depression era fantasy leaf, new image, but keep Dustbowl name and image in the records to pull back if needed" (phonemsg-01M4T6F8XANSMRSKNA278X54RA, 2026-10-13 10:36 AM CEST). Old id redirects. New portrait 692-depression-era-fantasy.webp. Former definition: Depression-era fantasy of the American Plains and Southwest, where drought, dust, itinerant spectacle and hard-times communities form the historical stage. Magic-agnostic: the period and region define the leaf, not a required supernatural mode. Second card: Daughter of the Merciful Deep.'
+- date: '2026-10-14'
+  change: 'Regrouped under Diesel age fantasy by the Electrified fantasy era bundle; no fiction moved; approved by the curator''s "Approved" (phonemsg-01M4XV5ER7821A9GST2QMAS8KY, 2026-10-14 8:35 PM CEST) on the served Electrified fantasy era block Electric dawn / World wars / Diesel age / Electronic age / Electric chronicles.'
+- date: '2026-10-14'
+  change: 'Definition wording: "the Jim Crow South of the era" changed to "the segregated South of the era" - the curator: "I don''t want Jim Crow anywhere, it''s an ugly name" (phonemsg-01M4XV0V2D13J061232MJZ2X06), executed with the era bundle on his "Approved" (phonemsg-01M4XV5ER7821A9GST2QMAS8KY).'
