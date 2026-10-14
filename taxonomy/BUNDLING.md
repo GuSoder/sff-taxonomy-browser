@@ -36,4 +36,4 @@ Industrial age fantasy is the Period fantasy umbrella for eras from 1788 onward.
 - Old half, before 1900 (Ember age fantasy): Gaslight fantasy, Antebellum fantasy, Weird West fantasy.
 - Young half, 1900 on (Electrified fantasy): Bowler hat fantasy (1900-1929), Tudorbethan fantasy (1918-39), Dust Bowl fantasy, Noir fantasy, Neon fantasy, WWI fantasy, WWII fantasy.
 This mirrors how Period fantasy itself was cut in two (Antique times before 1788, Industrial age from 1788): when a time-ordered umbrella fills up, it is bundled into an old half and a young half. The split is 3 leaves old and 7 young, and 43 fictions old against 17 young, because Gaslight is large. The time axis, not an even count, is what the curator asked for.
-A leaf that held a new book (the Jim Crow-era American South, Daughter of the Merciful Deep) triggered the question; it stays unseeded until the bundle and the name are settled.
+A leaf that held a new book (the segregation-era American South, Daughter of the Merciful Deep) triggered the question; it stays unseeded until the bundle and the name are settled.
