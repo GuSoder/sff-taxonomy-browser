@@ -3,11 +3,9 @@ title: The Edda of Burdens
 authors:
 - Elizabeth Bear
 first_published: 2008
-canonical_genre: norse-fantasy
+canonical_genre: technomancy
 placement_status: accepted
-placement_rationale: After Ragnarok the surviving Norse gods, Valkyries and wolves fight the last remnants of the wars, in
-  a world built from the Eddas and told again through their survivors (All the Windwracked Stars, By the Mountain Bound, The
-  Sea Thy Mistress).
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Gothic fantasy > Technomancy. Valdyrgard, a world shaped by Ragnarok where magic and technology work side by side; the last city on a dying planet is ruled by the Technomancer (Macmillan, Loreful; PW: a single city survives 2,300 years after the Last Day). No source names Earth, so it sits in Fantasy realms. Chosen by the curator (phonemsg-01M4WJRAASX7Q8DT9BXTF8X4SZ). Earlier Norse fantasy walk: after Ragnarok the surviving Norse gods, Valkyries and wolves fight the last remnants of the wars.'
 books:
 - title: All the Windwracked Stars
   year: 2008
@@ -29,3 +27,7 @@ placement_history:
 - date: '2026-10-04'
   to: norse-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-14'
+  from: norse-fantasy
+  to: technomancy
+  reason: Secondary world, not Earth (no source names Earth); moved to Technomancy on the curator's instruction (phonemsg-01M4WJRAASX7Q8DT9BXTF8X4SZ, 'Go technomancer then', after his Technofantasy question phonemsg-01M4WJ3EDYE5N60ZP9KYKWYWHW).
