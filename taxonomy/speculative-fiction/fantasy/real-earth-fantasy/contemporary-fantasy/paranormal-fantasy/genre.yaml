@@ -1,6 +1,6 @@
 id: paranormal-fantasy
 label: Paranormal fantasy
-parent: nocturne-fantasy
+parent: contemporary-fantasy
 children: []
 image: 19-paranormal-fantasy.webp
 definition: ''
@@ -12,3 +12,7 @@ works:
 - dr-greta-helsing
 name: Paranormal fantasy
 portrait: 19-paranormal-fantasy.webp
+history:
+- date: '2026-10-14'
+  change: Lifted from the dissolved Nocturne fantasy umbrella to Contemporary fantasy (curator "Approved", phonemsg-01M4X5TPGN4ZEBKZBV3QQD0M4W,
+    2026-10-14 2:22 PM CEST).

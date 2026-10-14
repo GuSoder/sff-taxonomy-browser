@@ -190,3 +190,6 @@ Seeded under Period fantasy for Orlando (curator "Approved" phonemsg-01M4WX3F14Q
 
 ## Postcolonial fantasy (curator, 2026-10-14)
 Seeded under Electrified fantasy (8 to 9 children) for The Famished Road (independence-era Nigeria; abiku spirit-child Azaro). The curator asked for the most evocative word for the era (phonemsg-01M4X1YCF2Q98376VCQDHDP6FQ), was served Postcolonial magical realism, renamed it "Keep the pattern actually, use fantasy as last word" (phonemsg-01M4X22Q8WRXHPBDB6TJHY0C8H), then "Approved" the re-served block (phonemsg-01M4X23S62AH3YFG4F3GCGCTK7). Name follows the era-leaf pattern <era word> fantasy (bowler-hat, noir, neon).
+
+## Nocturne fantasy dissolved (2026-10-14)
+Curator: "Can you dissolve nocturne fantasy and move up the three children" (phonemsg-01M4X5SG1AZZ5JFFQEZVBJCSK3), "Approved" (phonemsg-01M4X5TPGN4ZEBKZBV3QQD0M4W). Nocturne fantasy held zero direct fictions; Dark fantasy, Paranormal fantasy and Supernatural fantasy lifted to Contemporary fantasy, which lands at 10 children (golden-rule split or bundle follows). Id nocturne-fantasy redirects to contemporary-fantasy; genre.yaml archived in taxonomy/_retired/2026-10-14-nocturne-fantasy; portrait 48-nocturne-fantasy.webp kept in the repo.

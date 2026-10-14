@@ -1,0 +1,17 @@
+id: dark-fantasy
+label: Dark fantasy
+parent: contemporary-fantasy
+children:
+- horror-fantasy
+- torment-fantasy
+image: 9-dark-fantasy.webp
+definition: Menacing dark fantasy on recognizable Earth, divided between horror, where the menace lies in the places the characters
+  end up, and torment, where tormentors follow the main characters around.
+status: candidate
+works: []
+name: Dark fantasy
+portrait: 9-dark-fantasy.webp
+history:
+- date: '2026-10-14'
+  change: Lifted from the dissolved Nocturne fantasy umbrella to Contemporary fantasy (curator "Approved", phonemsg-01M4X5TPGN4ZEBKZBV3QQD0M4W,
+    2026-10-14 2:22 PM CEST).

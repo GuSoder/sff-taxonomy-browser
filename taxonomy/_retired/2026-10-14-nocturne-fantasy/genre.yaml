@@ -1,0 +1,21 @@
+id: nocturne-fantasy
+label: Nocturne fantasy
+parent: contemporary-fantasy
+children:
+- dark-fantasy
+- paranormal-fantasy
+- supernatural-fantasy
+image: 48-nocturne-fantasy.webp
+definition: 'Umbrella for menacing and supernatural fantasy on recognizable Earth, from the spooky through the horrifying:
+  dark fantasy, paranormal fantasy, and supernatural fantasy with its being- and power-specific branches. ''Nocturne fantasy''
+  was coined by the curator on 2026-09-22, drawing on the established nocturne or night-piece in music and painting.'
+status: provisional
+works: []
+history:
+- date: '2026-10-13'
+  change: Moved from Real earth fantasy to Contemporary fantasy, whole and as is, when Real earth fantasy was dissolved (curator
+    phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
+- date: '2026-10-14'
+  change: 'Dissolved: zero direct fictions, its three children (Dark fantasy, Paranormal fantasy, Supernatural fantasy) lifted
+    to Contemporary fantasy; curator "Approved" (phonemsg-01M4X5TPGN4ZEBKZBV3QQD0M4W, 2026-10-14 2:22 PM CEST). Id redirects
+    to contemporary-fantasy; portrait 48-nocturne-fantasy.webp kept in the repo.'
