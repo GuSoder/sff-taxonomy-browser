@@ -3,12 +3,11 @@ title: The Tin Drum
 authors:
 - Günter Grass
 first_published: 1959
-canonical_genre: flesh-of-marvel
+canonical_genre: electric-fantasy-chronicles
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Magic
-  realism -> Metamorphic magic realism. Penguin/Britannica center Oskar consciously stopping his bodily
-  growth at three and using a glass-shattering voice amid otherwise historical Danzig; impossible bodily
-  state is treated as ordinary lived reality.'
+placement_rationale: 'Walk 2026-10-14: Magic realism is contemporary-set, but this book is past-set and spans decades after
+  1900 (Span 1899-1954 (Danzig to Düsseldorf), starts a year before 1900 with nearly all after.) with no single-era Electrified
+  leaf honest for the whole. Sources: excerpt-level (Wikipedia/encyclopedia/EBSCO), not the books.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/grass_gunter
 - https://www.penguin.co.uk/books/358171/the-tin-drum-by-gunter-grass/9781448180103
@@ -26,3 +25,8 @@ placement_history:
   to: flesh-of-marvel
   reason: 'Metamorphic-magic-realism split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M5DV0HWYCGNDN45RVCYV96,
     by what the person becomes.'
+- date: '2026-10-14'
+  from: flesh-of-marvel
+  to: electric-fantasy-chronicles
+  reason: 'Curator approval of Approve seed? (phonemsg-01M4WPY670TQCZ60GQ2D65WP04 "Approved"): seed Electric fantasy chronicles
+    under Electrified fantasy.'
