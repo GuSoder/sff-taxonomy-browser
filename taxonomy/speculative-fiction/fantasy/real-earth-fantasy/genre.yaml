@@ -1,0 +1,18 @@
+id: real-earth-fantasy
+label: Real earth fantasy
+parent: fantasy
+children:
+- historical-fantasy
+- contemporary-fantasy
+- future-fantasy
+image: 65-real-earth-fantasy.webp
+definition: 'Fantasy rooted in our own Earth and its universe rather than an independently invented fantasy universe, partitioned by when: Historical fantasy (the past), Contemporary fantasy (the present day), Future fantasy (the future). Earth-rooted stories may leave Earth for space, other planets, parallel dimensions, Faerie or the afterlife without leaving this branch.'
+status: umbrella
+works: []
+history:
+- date: '2026-09-30'
+  change: 'Renamed Real Earth Universe to Real earth fantasy; clarified Earth/universe grounding with off-Earth excursions allowed. Original curator iMessage 11:32:10: "Ok, do the rewording and renaming".'
+- date: '2026-10-13'
+  change: 'Dissolved; Historical fantasy and Contemporary fantasy lifted to Fantasy (curator Approved phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).'
+- date: '2026-10-14'
+  change: 'Reinstated under Fantasy on the curator''s instruction (phonemsg-01M4WF3Z7QHFHHMZVZV394Q46X): Historical fantasy and Contemporary fantasy moved back under it, with the new Future fantasy as a third child. Definition rewritten to the three-way partition by time.'

@@ -2,13 +2,11 @@ id: fantasy
 label: Fantasy
 parent: speculative-fiction
 children:
-- historical-fantasy
-- contemporary-fantasy
+- real-earth-fantasy
 - fantasy-realms
 - portal-fantasy
 image: 13-fantasy.webp
-definition: 'Fantasy split by setting: Historical fantasy and Contemporary fantasy for stories rooted in our own Earth, Fantasy realms
-  for invented worlds, and Portal fantasy for crossings between Earth and another world.'
+definition: 'Fantasy split by setting: Real earth fantasy for stories rooted in our own Earth (Historical, Contemporary and Future fantasy), Fantasy realms for invented worlds, and Portal fantasy for crossings between Earth and another world.'
 status: accepted
 works: []
 history:
@@ -16,3 +14,5 @@ history:
   change: Real earth fantasy dissolved; its children Historical fantasy and Contemporary fantasy lifted to direct children of Fantasy
     (curator Approved phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6, 2026-10-13 9:48 PM CEST, on the Approve move? block served 9:45 PM after
     his instruction phonemsg-01M4VCQ8CWKAK7JZSCTS190C09). Definition written.
+- date: '2026-10-14'
+  change: 'Real earth fantasy reinstated as a direct child; Historical fantasy and Contemporary fantasy moved under it; Future fantasy added beneath it (curator phonemsg-01M4WF3Z7QHFHHMZVZV394Q46X). Definition rewritten.'

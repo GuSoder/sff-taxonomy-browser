@@ -3,7 +3,7 @@ title: Race to the Sun
 authors:
 - Rebecca Roanhorse
 first_published: 2020
-canonical_genre: navajo-myth-fantasy
+canonical_genre: modern-navajo-myth
 placement_status: accepted
 placement_rationale: SFE roanhorse_rebecca calls it fantasy irradiated by the Navajo cauldron of story; Nizhoni Begay's quest involves the Hero Twins (Monster Slayer and Born-for-Water), Changing Woman and the monsters of Dine cosmology. Reimagining named Navajo myth figures makes Navajo myth fantasy exact, sibling to mayan-myth-fantasy under mythic-retelling.
 classification_sources:
@@ -13,3 +13,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/9261764-L.jpg
   shows_english_title: true
   review_method: one-pass
+placement_history:
+- date: '2026-10-14'
+  from: navajo-myth-fantasy
+  to: modern-navajo-myth
+  reason: Present-day setting (Arizona); moved into the seeded leaf Modern Navajo myth on the curator's approval (phonemsg-01M4WF3Z7QHFHHMZVZV394Q46X, 'Approved' to the Approve move? block of 07:38).
