@@ -1,5 +1,5 @@
 id: magic-realism
-label: Magic realism
+label: Contemporary magical realism
 parent: contemporary-fantasy
 children:
 - communal-magic-realism
@@ -8,12 +8,16 @@ children:
 - ontological-magic-realism
 - dark-magical-realism
 image: 64-magic-realism.webp
-definition: Earth-rooted fiction in which the marvelous arrives unannounced and is accepted as ordinary (EoF headword MAGIC REALISM).
-  Restored 2026-09-13 at the curator's direction; One Hundred Years of Solitude returns home from the retired Modern era placeholder
-  leaf.
+definition: Earth-rooted fiction in which the marvelous arrives unannounced and is accepted as ordinary (EoF headword MAGIC
+  REALISM). Restored 2026-09-13 at the curator's direction; One Hundred Years of Solitude returns home from the retired Modern
+  era placeholder leaf. Contemporary means set in the author's present; past-set magical realism belongs in Historical fantasy
+  (curator, 2026-10-14).
 status: provisional
 works: []
 history:
 - date: '2026-10-13'
-  change: Moved from Real earth fantasy to Contemporary fantasy, whole and as is, when Real earth fantasy was dissolved (curator phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
-    Definition reworded to drop 'Real Earth'.
+  change: Moved from Real earth fantasy to Contemporary fantasy, whole and as is, when Real earth fantasy was dissolved (curator
+    phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6). Definition reworded to drop 'Real Earth'.
+- date: '2026-10-14'
+  change: Renamed from Magic realism to Contemporary magical realism; id magic-realism kept so links still resolve (curator
+    phonemsg-01M4WQ1K8FTHFN4PG0QRCRGNSW, "Rename Magical realism to Contemporary magical realism", 2026-10-14 10:04 AM CEST).
