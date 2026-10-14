@@ -187,3 +187,6 @@ Perfume (1738-66, slums and guilds, not salons) needed an honest past-set leaf. 
 
 ## Long chronicle fantasy (curator, 2026-10-14)
 Seeded under Period fantasy for Orlando (curator "Approved" phonemsg-01M4WX3F14QYD0VR5P9WVP9876 on the Period fantasy chronicles block, renamed at his "Wait, call it Long chronicle fantasy instead", phonemsg-01M4WX5MF14E9HHZM76SQ4R325). Third chronicles leaf: Industrial fantasy chronicles straddles 1900, Electric fantasy chronicles runs after 1900, Long chronicle fantasy takes the spans that cross the whole Period range.
+
+## Postcolonial fantasy (curator, 2026-10-14)
+Seeded under Electrified fantasy (8 to 9 children) for The Famished Road (independence-era Nigeria; abiku spirit-child Azaro). The curator asked for the most evocative word for the era (phonemsg-01M4X1YCF2Q98376VCQDHDP6FQ), was served Postcolonial magical realism, renamed it "Keep the pattern actually, use fantasy as last word" (phonemsg-01M4X22Q8WRXHPBDB6TJHY0C8H), then "Approved" the re-served block (phonemsg-01M4X23S62AH3YFG4F3GCGCTK7). Name follows the era-leaf pattern <era word> fantasy (bowler-hat, noir, neon).
