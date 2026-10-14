@@ -1,0 +1,29 @@
+id: orlando
+title: Orlando
+authors:
+- Virginia Woolf
+first_published: 1928
+canonical_genre: long-chronicle-fantasy
+placement_status: accepted
+placement_rationale: 'Walk 2026-10-14: Contemporary magical realism holds author''s-present books; Orlando runs from the Elizabethan
+  court of the 1580s to 11 October 1928, past-set with the 1928 strand only the ending pages. No single-era leaf or era band
+  is honest for a 340-year span, so it seeds the long-span chronicle leaf. Source: excerpt-level (Wikipedia), not the book.'
+classification_sources:
+- https://en.wikipedia.org/wiki/Orlando:_A_Biography
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/6980533-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-09-28'
+  to: flesh-of-marvel
+  reason: 'Metamorphic-magic-realism split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M5DV0HWYCGNDN45RVCYV96,
+    by what the person becomes.'
+- date: '2026-10-14'
+  from: flesh-of-marvel
+  to: long-chronicle-fantasy
+  reason: 'Curator approval of Approve seed? (phonemsg-01M4WX3F14QYD0VR5P9WVP9876 "Approved") plus his rename (phonemsg-01M4WX5MF14E9HHZM76SQ4R325):
+    seed Long chronicle fantasy under Period fantasy.'

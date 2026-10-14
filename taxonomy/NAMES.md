@@ -184,3 +184,6 @@ Seeded under Industrial age fantasy for One Hundred Years of Solitude (curator "
 
 ## Rococo fantasy, definition widened (curator, 2026-10-14)
 Perfume (1738-66, slums and guilds, not salons) needed an honest past-set leaf. The Ancien Regime magical realism seed and Antique times bundle were withdrawn when the curator ruled "You can change the def also" (phonemsg-01M4WRFKDKV87T9QRXKGRB7FNZ): Rococo fantasy's definition now covers the whole eighteenth century in all its strata, and Perfume sits in it. Precedent: widen an existing era leaf's definition before seeding a one-book era leaf, when he says so.
+
+## Long chronicle fantasy (curator, 2026-10-14)
+Seeded under Period fantasy for Orlando (curator "Approved" phonemsg-01M4WX3F14QYD0VR5P9WVP9876 on the Period fantasy chronicles block, renamed at his "Wait, call it Long chronicle fantasy instead", phonemsg-01M4WX5MF14E9HHZM76SQ4R325). Third chronicles leaf: Industrial fantasy chronicles straddles 1900, Electric fantasy chronicles runs after 1900, Long chronicle fantasy takes the spans that cross the whole Period range.

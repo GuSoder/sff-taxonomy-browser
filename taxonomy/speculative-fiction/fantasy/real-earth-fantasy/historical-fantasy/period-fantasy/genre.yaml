@@ -4,8 +4,12 @@ parent: historical-fantasy
 children:
 - antique-times-fantasy
 - industrial-age-fantasy
+- long-chronicle-fantasy
 image: 140-period-fantasy.webp
-definition: Historical fantasy anchored to a documented era, whose source is chronicles and recorded history; the era is the stage, not a puzzle secretly
-  explained or rewritten.
+definition: Historical fantasy anchored to a documented era, whose source is chronicles and recorded history; the era is the
+  stage, not a puzzle secretly explained or rewritten.
 status: umbrella
 works: []
+history:
+- date: '2026-10-14'
+  change: 'Child added: long-chronicle-fantasy (curator phonemsg-01M4WX3F14QYD0VR5P9WVP9876, renamed at phonemsg-01M4WX5MF14E9HHZM76SQ4R325).'
