@@ -5,8 +5,8 @@ authors:
 first_published: 2022
 canonical_genre: beasts-of-marvel
 placement_status: accepted
-placement_rationale: 1950s America after thousands of women turn into dragons at once, and the silence
-  around it (Kirkus, Star Tribune).
+placement_rationale: 1950s America after thousands of women turn into dragons at once, and the silence around it (Kirkus,
+  Star Tribune).
 classification_sources:
 - https://www.kirkusreviews.com/book-reviews/kelly-barnhill/when-women-were-dragons/
 - https://www.startribune.com/review-when-women-were-dragons-by-kelly-barnhill/600169044
@@ -22,3 +22,8 @@ placement_history:
   to: beasts-of-marvel
   reason: 'Metamorphic-magic-realism split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M5DV0HWYCGNDN45RVCYV96,
     by what the person becomes.'
+- date: '2026-10-14'
+  to: beasts-of-marvel
+  from: beasts-of-marvel
+  reason: 'Curator ruling (phonemsg-01M4WZMJNJET59R90X0TFR8Q5W "Ok, move it contemporary", 2026-10-14 12:34 PM CEST): the
+    era is the stage, not the point - stays in Contemporary magical realism; the Cold War magical realism seed is withdrawn.'
