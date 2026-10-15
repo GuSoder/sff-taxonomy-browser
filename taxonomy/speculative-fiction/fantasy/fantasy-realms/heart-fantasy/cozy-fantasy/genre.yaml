@@ -1,6 +1,6 @@
 id: cozy-fantasy
 label: Cozy fantasy
-parent: fantasy-realms
+parent: heart-fantasy
 children:
 - cozy-place-fantasy
 - cozy-craft-fantasy
@@ -16,3 +16,5 @@ history:
 - date: '2026-10-08'
   change: Split with umbrella at ten fictions into Cozy place fantasy (3), Cozy craft fantasy (4) and Cozy peeps fantasy (3,
     with The Dungeon Book placed from its hold); curator named the leaves and said "Ok, execute" (phonemsg-01M4DYQ6Z64WSG77Y8R9PKSJP9).
+- date: '2026-10-15'
+  change: 'Regrouped under the new Heart fantasy umbrella (bond-as-spine bundle with Horse fantasy); the curator''s "Do Heart fantasy" (phonemsg-01M4ZCCYWS7H2CD8A73KCG814E, 2026-10-15 10:55 AM CEST).'
