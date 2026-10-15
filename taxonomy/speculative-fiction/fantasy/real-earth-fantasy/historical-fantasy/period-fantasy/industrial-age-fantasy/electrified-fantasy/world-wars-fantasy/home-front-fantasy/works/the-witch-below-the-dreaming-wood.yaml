@@ -3,14 +3,14 @@ title: The Witch Below the Dreaming Wood
 authors:
 - H. G. Parry
 first_published: 2026
-canonical_genre: arthur-returned
+canonical_genre: home-front-fantasy
 placement_status: accepted
-placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Mythic retelling > Arthurian fantasy
-  > Arthur returned. Wales, 1941: as the Second World War rages, people everywhere begin to dream of King Arthur, the dreams
-  spread like a plague, and wonders appear, dragons in the London Underground among them (Hachette Book Group description).
-  The legend returns into a later world, the leaf''s definition. Rejected: WWII fantasy (the war is the setting, the story
-  is the Arthurian legend returning), Arthur reimagined (the legend is not retold but arrives). Wobble: moderate. Sources:
-  publisher page only. Year 2026 (published 21 July 2026).'
+placement_rationale: 'Root-down walk 2026-10-15: Speculative fiction -> Fantasy -> Real earth fantasy
+  (Wales) -> Historical fantasy (set 1941, written 2026; the publisher bills it as historical fantasy)
+  -> Period fantasy -> Industrial age fantasy -> Electrified fantasy -> World wars fantasy -> Home
+  front fantasy: a librarian in Blitz-era Wales while people everywhere dream of King Arthur - the
+  civilian war years, not the battlefield. Sources: Hachette Australia (publisher).'
+
 books:
 - title: The Witch Below the Dreaming Wood
   year: 2026
@@ -30,3 +30,8 @@ placement_history:
   from: arthur-returned (under arthurian-fantasy)
   to: arthur-returned (under modern-celtic-myth)
   reason: Leaf moved whole from Mythic retelling to Modern Celtic myth on the curator's approval (phonemsg-01M4WDY7S8Q5XR9E5QFHVHQPAA, 'Just do the move', after the Approve move? block of 07:24).
+- date: '2026-10-15'
+  from: arthur-returned
+  to: home-front-fantasy
+  reason: Period-set (1941 Wales), fails the Contemporary era test. curator "Move" (phonemsg-01M502DAADA3S72MNHEWZYCH4Y,
+    2026-10-15 ~5:20 PM CEST).
