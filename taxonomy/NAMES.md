@@ -132,7 +132,7 @@ Graveyard, with reasons:
 - Evasion: precise, but "still not catchy enough".
 - Getaway: punchy, but smells of heists and sits beside Caper.
 - Flight / Run: true words, but in an SF tree they read as spaceflight and as a smuggling route.
-- Slip: clean idiom, not chosen.
+- Slip: clean idiom, not chosen here; later chosen for the Otherworld stumblings split (Slip into myth / Slip into realm, 2026-10-15).
 - Scram: right meaning, "so hard to say together with space" (the /s/ into /sk/).
 - Hightail: good candidate; vivid, flows after Space; passed over for Dash.
 - Bail: "the sound of it, just not the right meaning".
@@ -214,3 +214,13 @@ Beloved (1873 Cincinnati) left The reckoning dead for a new leaf on his explicit
 
 ## Heart fantasy bundle: Romantasy + Cozy + Horse (curator, 2026-10-15)
 Horse books out of Martial heroes by his word ("I want these pony book out of my martial hero fantasy! Find a place to put horse fantasy!", phonemsg-01M4ZBPM61507CV3FRGW4VBM75, 10:43 AM). Epic rejected next ("is these really epic books?", phonemsg-01M4ZBYBN9Z8J4J77JJQJ1DBWN) - duchy-scale, and Fantasy realms had no non-epic shelf, pushing a 9th child; his level-2 rule: bundle by generalization (phonemsg-01M4ZCA44PWYTMCT30Q4NDDR9M, 10:54 AM). The shared axis is bond-as-spine: Romantasy's def already says the romantic arc is the spine, Cozy is community bonds, Horse is the horse bond. He picked from the served list: "Do Heart fantasy" (phonemsg-01M4ZCCYWS7H2CD8A73KCG814E, 10:55 AM). Rejected names: Bond fantasy (bond language already fills the Romantasy subtree and Bonded hard magic), Kinship fantasy (Cozy left out, Realms stays at 8). Fantasy realms 8 to 7; Horse fantasy holds Heralds of Valdemar (Beast master hero 3 to 2, def narrowed to non-horse bonds) and The Horsemistress Saga (Magic school 9 to 8). Riders of Earth and Sky stays in Enemy lines romantasy. Cozy's tone test stays inside Cozy; no definitions broken. Heart borrows Romantasy's portrait; Horse gets its own (713).
+
+## Slip into myth / Slip into realm (2026-10-15)
+
+Split of Otherworld stumblings at ten, approved ("Approved", phonemsg-01M4ZVJEVK4QR6KZB08P0VMB6Y). Axis: the kind of world stumbled into, a living myth tradition vs an invented epic world. His naming rule from this workshop, the sharpest statement of it yet: the NAME ALONE must carry the context - "the _name_ should carry the context I don't need more" (phonemsg-01M4ZV1HWKMCZ4N5TGZSKK6MTF) - and for a split of a crossing genre that means both halves of the parent hint: the otherworld AND the stumbling ("What the hint of otherworld? What's the hint of stumbling? Come on!", phonemsg-01M4ZV4X142DHN1V6T2PJ00Q96). The pair itself is his own pattern: "Slip-into-myth? Slip-into-<what?>" (phonemsg-01M4ZVDPB9GZXKRX1J1CM0PRH4), then "You can drop the fantasy" (phonemsg-01M4ZVG7SAACD4DNJ1MJNAHD4M) and no hyphens - "Do we like the hyphens?" (phonemsg-01M4ZVGW6GEKB40DNW0FZ411H1), answered no. First verb-phrase labels in the tree (all prior labels are noun phrases).
+Graveyard, with reasons:
+- Myth-swept / World-swept, Legend-taken: "Terribly uncool names".
+- Legend / Kingdom, Storybook / Kingdom, Fable / Saga, Myth-tale / Realm, Lore / Kingdom: relayed and passed over.
+- Folklore / Frontier: drops both hints - no otherworld, no stumbling.
+- Talefall / Landfall (my pick going into the final round): carried the fall and the world, but his Slip-into pattern landed first.
+- Mythfall / Worldfall, Tale-dive / World-dive, Talebound / Landbound: never served; his pattern won the round.

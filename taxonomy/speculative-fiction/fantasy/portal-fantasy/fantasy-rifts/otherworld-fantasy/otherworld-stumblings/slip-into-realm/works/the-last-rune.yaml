@@ -3,13 +3,15 @@ title: The Last Rune
 authors:
 - Mark Anthony
 first_published: 1998
-canonical_genre: otherworld-stumblings
+canonical_genre: slip-into-realm
 placement_status: accepted
-placement_rationale: 'Mark Anthony''s six-book Last Rune (Beyond the Pale to The Keep of Fire to The Dark Remains to Blood
-  of Mystery to The Gates of Winter to The First Stone): a rift in ordinary reality in Colorado opens and saloon owner Travis
-  Wilder and ER doctor Grace Beckett slip through into Eldh, a hidden land of gods, monsters and magic, where he finds a gift
-  for rune magic and she learns she is a witch. Root-down: Fantasy -> Portal fantasy -> Fantasy rifts -> Otherworld fantasy;
-  nobody summons them, they are carried across by a rupture, so Otherworld stumblings.'
+placement_rationale: 'Mark Anthony''s six-book Last Rune (Beyond the Pale to The Keep of Fire to The Dark Remains
+  to Blood of Mystery to The Gates of Winter to The First Stone): a rift in ordinary reality in Colorado opens and
+  saloon owner Travis Wilder and ER doctor Grace Beckett slip through into Eldh, a hidden land of gods, monsters
+  and magic, where he finds a gift for rune magic and she learns she is a witch. Root-down: Fantasy -> Portal fantasy
+  -> Fantasy rifts -> Otherworld fantasy; nobody summons them, they are carried across by a rupture, so Otherworld
+  stumblings. Re-walked on the 2026-10-15 split: Otherworld stumblings -> Slip into realm; Eldh is an invented epic
+  world, not a living myth tradition.'
 books:
 - title: Beyond the Pale
   year: 1998
@@ -40,3 +42,8 @@ placement_history:
 - date: '2026-10-04'
   to: otherworld-stumblings
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-15'
+  from: otherworld-stumblings
+  to: slip-into-realm
+  reason: Split of Otherworld stumblings at ten cards into Slip into myth and Slip into realm, by the kind of world
+    stumbled into; curator "Approved" (phonemsg-01M4ZVJEVK4QR6KZB08P0VMB6Y, 2026-10-15 3:21 PM CEST).

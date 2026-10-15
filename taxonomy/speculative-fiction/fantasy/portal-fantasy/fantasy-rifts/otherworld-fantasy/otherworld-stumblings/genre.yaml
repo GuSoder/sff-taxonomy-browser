@@ -1,26 +1,23 @@
 id: otherworld-stumblings
 label: Otherworld stumblings
 parent: otherworld-fantasy
-children: []
-works:
-- three-hearts-and-three-lions
-- the-wizard-knight
-- tessa-miyata-is-no-hero
-- amira-hamza
-- the-last-rune
-- the-spellsong-cycle
-- hidden-sea-tales
-- moonheart
-- jack-of-kinrowan
-- grimus
+children:
+- slip-into-myth
+- slip-into-realm
+works: []
 image: 460-otherworld-stumblings.webp
-definition: 'Otherworld fantasy in which the protagonists reach the hidden world by accident or rupture: they stray, slip,
-  fall or are thrown in, and no one has called them. Not Otherworld summonings (a summoner brings them); not Wainscot fantasy
-  (no crossing at all, the hidden world already sits beside ours). Split 2026-10-04 from Otherworld fantasy at ten cards (curator
-  approval phonemsg-01M43V766YS0W3Z2NVW9CY6NTJ).'
-status: leaf
+definition: 'Otherworld fantasy in which the protagonists reach the hidden world by accident or rupture: they stray,
+  slip, fall or are thrown in, and no one has called them. Not Otherworld summonings (a summoner brings them); not
+  Wainscot fantasy (no crossing at all, the hidden world already sits beside ours). Split 2026-10-04 from Otherworld
+  fantasy at ten cards (curator approval phonemsg-01M43V766YS0W3Z2NVW9CY6NTJ). Umbrella since 2026-10-15, partitioned
+  by the kind of world stumbled into: Slip into myth (a living myth or story tradition) and Slip into realm (an
+  invented epic world); curator "Approved" (phonemsg-01M4ZVJEVK4QR6KZB08P0VMB6Y, 2026-10-15 3:21 PM CEST).'
+status: umbrella
 history:
 - date: '2026-10-15'
   change: 'Grimus moved in from Flesh of marvel (Contemporary) on the curator''s "Approved" (phonemsg-01M4ZJNK7Y42X88Z2CKVY20FR5,
-    2026-10-15 12:45 PM CEST): falls through a hole in the Mediterranean into a parallel dimension; 9 works to
-    10, at the split threshold.'
+    2026-10-15 12:45 PM CEST): falls through a hole in the Mediterranean into a parallel dimension; 9 works to 10,
+    at the split threshold.'
+- date: '2026-10-15'
+  change: Split with umbrella at ten cards into Slip into myth (7) and Slip into realm (3); curator "Approved" (phonemsg-01M4ZVJEVK4QR6KZB08P0VMB6Y,
+    2026-10-15 3:21 PM CEST).
