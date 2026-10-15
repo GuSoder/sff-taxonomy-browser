@@ -1,14 +1,16 @@
-id: rust-belt-fantasy
-label: Rust belt fantasy
+id: asbestos-fantasy
+label: Asbestos fantasy
 parent: electronic-age-fantasy
 children: []
 works:
 - mexican-gothic
-image: 718-rust-belt-fantasy.webp
+image: 718-asbestos-fantasy.webp
 definition: 'Electronic age fantasy of the postwar decades'' decaying old order: the grand house, company town,
   institution or bloodline whose time has passed, rotting on its foundations, and the haunting that comes with the
   rot - ghosts, monsters or the past itself reaching for the living. Any postwar setting, any old order; the decay
-  and its haunting are the engine. Not Civil rights era fantasy (the fight against the color line is the stage,
+  and its haunting are the engine. Asbestos names it: mined industrially since the late 1800s, its mass
+  sealing into the world's buildings peaked in the postwar boom - the poison walled in at the moment of building
+  and handed down with the house. Not Civil rights era fantasy (the fight against the color line is the stage,
   not decay), not Postcolonial fantasy (the end of empire as emergence, not rot), not Neon fantasy (the 1980s''
   bright surface).'
 status: accepted
@@ -17,9 +19,13 @@ ruling: 'Seeded under Electronic age fantasy, curator "Approved, make the def br
   or the US). Name carries era and content together after his rejections: Atomic age, Cold War (era frame, not the
   books), Mid-century ("Lame name"), Bad blood (books, no era), Motel (era image, fits neither book). Ceiling kin
   walked, not moved: The Reformatory (1950 Florida, segregated reform school and its dead) - his call to bring it
-  home. Born with Mexican Gothic (from Eldritch fungi).'
+  home. Born Rust belt fantasy, renamed Asbestos fantasy 2026-10-15 on the single-image rule (also rejected: Rust belt (US-only), Borrowed time, Postwar gothic ("no A + B thing")); curator "Perfect, approved" (phonemsg-01M500KDSWG6NBBE9C7C393C7W, 2026-10-15 ~4:48 PM CEST). Born with Mexican Gothic (from Eldritch fungi).'
 history:
+- date: '2026-10-15'
+  change: Renamed Rust belt fantasy -> Asbestos fantasy; curator "Perfect, approved" (phonemsg-01M500KDSWG6NBBE9C7C393C7W,
+    2026-10-15 ~4:48 PM CEST). Def sentence added so the name does not claim asbestos is postwar-only (mined industrially
+    since the late 1800s, mass use peaked postwar).
 - date: '2026-10-15'
   change: Seeded with Mexican Gothic (from Eldritch fungi); curator "Approved, make the def broad" (phonemsg-01M4ZZFR6QFD58DXSE39R3G4MP,
     2026-10-15 ~4:29 PM CEST).
-portrait: 718-rust-belt-fantasy.webp
+portrait: 718-asbestos-fantasy.webp
