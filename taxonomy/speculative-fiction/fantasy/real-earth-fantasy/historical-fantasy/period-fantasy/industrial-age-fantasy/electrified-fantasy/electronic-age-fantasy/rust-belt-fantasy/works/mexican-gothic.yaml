@@ -1,0 +1,27 @@
+id: mexican-gothic
+title: Mexican Gothic
+authors:
+- Silvia Moreno-Garcia
+first_published: 2020
+canonical_genre: rust-belt-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk 2026-10-15: Speculative fiction -> Fantasy -> Real earth fantasy -> Historical
+  fantasy (1950s Mexico) -> Period fantasy -> Industrial age fantasy -> Electrified fantasy (post-1900) -> Electronic
+  age fantasy (postwar) -> Rust belt fantasy: High Place is the decaying seat of the Doyle family''s played-out
+  silver enterprise, a colonial old order rotting on its foundations; the family''s preserved dead and the mycelial
+  hive are the haunting that comes with the rot. Not Civil rights era (the fight is not the stage), not Postcolonial
+  (the end of empire is the rot here, not an emergence), not Neon (not the 1980s). Sources: Wikipedia, Hachette.'
+books:
+- title: Mexican Gothic
+  year: 2020
+  cover_url: https://www.hachette.co.uk/wp-content/uploads/2022/04/hbg-title-mexican-gothic-6-102.jpg
+cover_curation:
+  selected_url: https://www.hachette.co.uk/wp-content/uploads/2022/04/hbg-title-mexican-gothic-6-102.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-15'
+  from: fungal-horror
+  to: rust-belt-fantasy
+  reason: Seeded Rust belt fantasy under Electronic age fantasy; 1950s era rules out Contemporary. curator "Approved,
+    make the def broad" (phonemsg-01M4ZZFR6QFD58DXSE39R3G4MP, 2026-10-15 ~4:29 PM CEST).
