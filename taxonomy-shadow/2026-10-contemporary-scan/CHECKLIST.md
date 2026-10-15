@@ -130,7 +130,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ## Dark fantasy
 ### hellscape-horror [Hellscape horror] (3 cards)
-- [ ] **Between Two Fires** (2012) - FLAG: 1348 France, Black Death - '2012 historical fiction horror novel' (en.wikipedia.org/wiki/Between_Two_Fires_(novel))
+- [x] **Between Two Fires** (2012) - seeded Plague fantasy with The Dark Apostle (2026-10-15). FLAG was: - FLAG: 1348 France, Black Death - '2012 historical fiction horror novel' (en.wikipedia.org/wiki/Between_Two_Fires_(novel))
 - [x] Black Easter
 - [x] House of Bone and Rain
 
