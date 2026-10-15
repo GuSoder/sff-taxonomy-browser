@@ -321,7 +321,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Riddance
 - [x] Beyond Black
 - [ ] **The Reformatory** (2023) - FLAG: 1950 Florida - Wikipedia genre: historical fiction; no honest leaf (Electrified gap 1945-1980) (en.wikipedia.org/wiki/The_Reformatory)
-- [ ] **The Spirit Bares Its Teeth** (2023) - FLAG: London, 1883 (andrewjosephwhite.com/the-spirit-bares-its)
+- [x] **The Spirit Bares Its Teeth** (2023) - FLAG: London, 1883 (andrewjosephwhite.com/the-spirit-bares-its) | RESOLVED: moved to Gothic in gaslight (new seed under Gaslight fantasy) 2026-10-15, approved phonemsg-01M4ZYT4XG40J98WNNRE9PD78Q
 
 ### haunted-objects [Haunted objects] (2 cards)
 - [x] The Midnight Timetable
@@ -372,7 +372,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### fungal-horror [Eldritch fungi] (3 cards)
 - [ ] **Mexican Gothic** (2020) - FLAG: set in 1950s Mexico (en.wikipedia.org/wiki/Mexican_Gothic)
 - [x] The Marigold
-- [ ] **What Moves the Dead** (2022) - FLAG: invented 1890s Ruritania (Gallacia/Ruravia), Usher retelling - not real Earth (en.wikipedia.org/wiki/What_Moves_the_Dead)
+- [x] **What Moves the Dead** (2022) - FLAG: invented 1890s Ruritania (Gallacia/Ruravia), Usher retelling - not real Earth (en.wikipedia.org/wiki/What_Moves_the_Dead) | RESOLVED: moved to Gothic in gaslight (new seed under Gaslight fantasy) 2026-10-15, approved phonemsg-01M4ZYT4XG40J98WNNRE9PD78Q
 
 ### werewolf-fantasy [Werewolf fantasy] (8 cards)
 - [x] The Transition
