@@ -69,7 +69,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] The Incandescent
 - [x] How To Succeed in Witchcraft
 - [x] School of Shards
-- [ ] **The Scholar and the Last Faerie Door** (2024) - FLAG: 1920s England - Wikipedia genre: Historical fantasy (en.wikipedia.org/wiki/The_Scholar_and_the_Last_Faerie_Door)
+- [x] **The Scholar and the Last Faerie Door** (2024) - moved to Tudorbethan fantasy (2026-10-15). FLAG was: - FLAG: 1920s England - Wikipedia genre: Historical fantasy (en.wikipedia.org/wiki/The_Scholar_and_the_Last_Faerie_Door)
 - [x] Tim Te Maro and the Subterranean Heartsick Blues
 - [x] **The Horsemistress Saga** (2006) - FLAG: secondary world (the Duchy of Oc) - not Earth (goodreads.com/series/62471-horsemistress-saga) | RESOLVED: moved to Horse fantasy (Heart fantasy) 2026-10-15, approved phonemsg-01M4ZCCYWS7H2CD8A73KCG814E
 - [x] **The Black Magician** (2001) - FLAG: secondary world (Kyralia) - not Earth (trudicanavan.com/books/) | RESOLVED: moved to Black mages (Fantasy realms) 2026-10-15, approved phonemsg-01M4ZDCAZMFJNEJEWEGNZQ5FVB
