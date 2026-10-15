@@ -281,10 +281,10 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ### the-reckoning-dead [The reckoning dead] (7 cards)
 - [x] A Christmas Carol
-- [ ] **Beloved** (1987) - FLAG: set in the period after the Civil War (en.wikipedia.org/wiki/Beloved_(novel))
+- [x] **Beloved** (1987) - moved to Bluestone fantasy (2026-10-15). FLAG was: - FLAG: set in the period after the Civil War (en.wikipedia.org/wiki/Beloved_(novel))
 - [x] The Blade Between
 - [x] The Gone Away Place
-- [ ] **Thirteen Doorways, Wolves Behind Them All** (2019) - FLAG: 1941 Chicago, WWII home front (en.wikipedia.org/wiki/Thirteen_Doorways,_Wolves_Behind_Them_All)
+- [x] **Thirteen Doorways, Wolves Behind Them All** (2019) - moved to Home front fantasy (2026-10-15). FLAG was: - FLAG: 1941 Chicago, WWII home front (en.wikipedia.org/wiki/Thirteen_Doorways,_Wolves_Behind_Them_All)
 - [x] Secrets of the First School
 - [x] Carol for Another Christmas
 
