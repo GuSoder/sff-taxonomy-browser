@@ -3,10 +3,11 @@ title: The Black Magician
 authors:
 - Trudi Canavan
 first_published: 2001
-canonical_genre: magic-school
+canonical_genre: black-mages
 placement_status: accepted
 placement_rationale: 'Trudi Canavan''s Black Magician world as one fiction: Sonea and Dannyl in Kyralia''s Guild of mages,
-  with the apprentice prequel and the Traitor Spy sequel.'
+  with the apprentice prequel and the Traitor Spy sequel. Kyralia is a secondary world, and Sonea''s defining art is the
+  forbidden black magic banned by the Guild, so it sits in Black mages under Mage hero (the hero''s-art axis).'
 books:
 - title: The Magicians' Guild
   year: 2001
@@ -41,3 +42,10 @@ placement_history:
   reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
     we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Black Magician Trilogy, The Magician''s Apprentice,
     The Traitor Spy Trilogy; re-walked root-down into magic-school.'
+- date: '2026-10-15'
+  from: magic-school
+  to: black-mages
+  reason: 'Out of Real-earth Contemporary: Kyralia is a secondary world (author''s own site, trudicanavan.com/books/:
+    "the Magicians'' Guild of Kyralia"), not Earth. Mage hero partitions by the hero''s art, and Sonea''s defining art is
+    the forbidden one, black magic banned by the Guild. Approved by the curator''s "Approved" (phonemsg-01M4ZDCAZMFJNEJEWEGNZQ5FVB,
+    2026-10-15 11:13 AM CEST) on the served move block; alternative Channeled hard magic was offered and not chosen.'
