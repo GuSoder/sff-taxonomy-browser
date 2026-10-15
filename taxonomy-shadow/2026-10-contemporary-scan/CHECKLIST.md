@@ -370,7 +370,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Red Rabbit Ghost
 
 ### fungal-horror [Eldritch fungi] (3 cards)
-- [ ] **Mexican Gothic** (2020) - FLAG: set in 1950s Mexico (en.wikipedia.org/wiki/Mexican_Gothic)
+- [x] **Mexican Gothic** (2020) - FLAG: set in 1950s Mexico (en.wikipedia.org/wiki/Mexican_Gothic) | RESOLVED: moved to Rust belt fantasy (new seed under Electronic age fantasy) 2026-10-15, approved phonemsg-01M4ZZFR6QFD58DXSE39R3G4MP
 - [x] The Marigold
 - [x] **What Moves the Dead** (2022) - FLAG: invented 1890s Ruritania (Gallacia/Ruravia), Usher retelling - not real Earth (en.wikipedia.org/wiki/What_Moves_the_Dead) | RESOLVED: moved to Gothic in gaslight (new seed under Gaslight fantasy) 2026-10-15, approved phonemsg-01M4ZYT4XG40J98WNNRE9PD78Q
 
