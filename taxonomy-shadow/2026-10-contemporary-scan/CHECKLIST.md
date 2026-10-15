@@ -546,7 +546,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### flesh-of-marvel [Flesh of marvel] (4 cards)
 - [x] The Satanic Verses
 - [x] Our Wives Under the Sea
-- [ ] **Grimus** (1975) - FLAG: invented Calf Island, a 777-year span (en.wikipedia.org/wiki/Grimus)
+- [x] **Grimus** - DONE 2026-10-15: to Otherworld stumblings (curator Approved phonemsg-01M4ZJNK7Y42X88Z2CKVY20FR5). Was: (1975) - FLAG: invented Calf Island, a 777-year span (en.wikipedia.org/wiki/Grimus)
 - [x] The Moth Girl
 
 ### sensory-magic-realism [Sensory magic realism] (4 cards)
