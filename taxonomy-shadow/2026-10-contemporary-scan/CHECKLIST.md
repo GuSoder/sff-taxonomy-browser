@@ -25,7 +25,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] War in Heaven
 - [x] The Legendborn Cycle
 - [x] **The Isle in the Silver Sea** - DONE 2026-10-15: to Mythlike past (curator Approved phonemsg-01M4ZJFJ0KW6CP051CV1VY4ET1). Was: (2025) - FLAG: invented patchwork Britain 'ruled by the Eternal Queen', medieval folklore - not our Earth (kirkusreviews.com/book-reviews/tasha-suri/the-isle-in-the-silver-sea/)
-- [ ] **The Witch Below the Dreaming Wood** (2026) - FLAG: Wales, 1941 - publisher calls it a historical fantasy (hachette.com.au/h-g-parry/the-witch-below-the-dreaming-wood)
+- [x] **The Witch Below the Dreaming Wood** (2026) - moved to Home front fantasy (2026-10-15). FLAG was: - FLAG: Wales, 1941 - publisher calls it a historical fantasy (hachette.com.au/h-g-parry/the-witch-below-the-dreaming-wood)
 - [x] The Sangreal Trilogy
 
 ### modern-greek-myth [Modern Greek myth] (4 cards)
