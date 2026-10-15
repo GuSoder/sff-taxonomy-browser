@@ -3,9 +3,13 @@ label: Eldritch fungi
 parent: haunted-house
 children: []
 image: 96-eldritch-fungi.webp
-definition: Horror in which an uncanny fungus or mycelial intelligence transforms bodies, minds, inheritance, and the places they inhabit.
+definition: Horror in which an uncanny fungus or mycelial intelligence transforms bodies, minds, inheritance, and
+  the places they inhabit.
 status: accepted
 works:
 - mexican-gothic
 - the-marigold
-- what-moves-the-dead
+history:
+- date: '2026-10-15'
+  change: What Moves the Dead moved to the new Gothic in gaslight leaf (era rules out Contemporary); 3 works to
+    2. curator "Ok, approved" (phonemsg-01M4ZYT4XG40J98WNNRE9PD78Q, 2026-10-15 ~4:17 PM CEST).
