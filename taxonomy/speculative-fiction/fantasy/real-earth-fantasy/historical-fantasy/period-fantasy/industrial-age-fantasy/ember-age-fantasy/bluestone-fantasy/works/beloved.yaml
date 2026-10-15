@@ -1,0 +1,29 @@
+id: beloved
+title: Beloved
+authors:
+- Toni Morrison
+first_published: 1987
+canonical_genre: bluestone-fantasy
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Historical fantasy -> Period fantasy -> Industrial age fantasy -> Ember age fantasy -> Bluestone fantasy. Cincinnati 1873 (Wikipedia; NEA Big Read; Penguin Reader''s Guide; SparkNotes setting): the novel opens in 1873 at 124 Bluestone Road outside Cincinnati, Sethe a formerly enslaved woman, the house haunted by what they believe is the ghost of her dead daughter - the decade after the war, and a haunting that will not stay buried.'
+classification_sources:
+- https://en.wikipedia.org/wiki/Beloved_(novel)
+- https://www.arts.gov/initiatives/nea-big-read/beloved
+- https://www.penguinrandomhouse.com/books/117647/beloved-by-toni-morrison/9780394535975/readers-guide/
+- https://www.sparknotes.com/lit/beloved/setting/
+books:
+- title: Beloved
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/isbn/9780394535975-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/isbn/9780394535975-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-28'
+  to: the-reckoning-dead
+  reason: 'Lessons-beyond-the-grave split (frozen at 10): the curator EXECUTE ruling phonemsg-01M3M7HD5YY4QRKSSSDYYQYMG0,
+    by what the dead are FOR.'
+- date: '2026-10-15'
+  to: bluestone-fantasy
+  reason: 'Bluestone fantasy seeded under Ember age fantasy on the curator''s "Ok, Seed Bluestone fantasy" (phonemsg-01M4Z9RYQGSMX9F5SYE8WE2KSV, 2026-10-15 10:10 AM CEST).'
