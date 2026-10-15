@@ -1,0 +1,51 @@
+id: prisoner-of-midnight
+title: Prisoner of Midnight
+authors:
+- Barbara Hambly
+first_published: 2019
+canonical_genre: wwi-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk 2026-10-15: Speculative fiction -> Fantasy -> Real earth fantasy
+  -> Historical fantasy (set March 1917, written 2019; the war is the engine: every government in the
+  Great War wants a vampire as a weapon, and Lydia Asher sails in pursuit across the Atlantic) ->
+  Period fantasy -> Industrial age fantasy -> Electrified fantasy -> World wars fantasy -> WWI
+  fantasy, beside Dry Land and The Warm Hands of Ghosts. The James Asher novels as one fiction: eight
+  volumes 1988-2019, from Those Who Hunt the Night to Prisoner of Midnight; the move carries the
+  series card. Sources: Severn House (publisher), FictionDB (series order).'
+
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/8781109-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+books:
+- title: Those Who Hunt the Night
+  year: 1988
+- title: Traveling with the Dead
+  year: 1995
+- title: Blood Maidens
+  year: 2011
+- title: The Magistrates of Hell
+  year: 2012
+- title: The Kindred of Darkness
+  year: 2014
+- title: Darkness on His Bones
+  year: 2015
+- title: Pale Guardian
+  year: 2017
+- title: Prisoner of Midnight
+  year: 2019
+classification_source:
+- https://severnhouse.com/books/prisoner-of-midnight/
+- https://www.publishersweekly.com/9780727888600
+placement_history:
+- date: '2026-09-29'
+  from: vampire-fantasy
+  to: vampire-hunt
+  reason: Curator split and Fringe rename ruling phonemsg-01M3PB3NP69Q1FH8ND9YY997Q0.
+- date: '2026-10-15'
+  from: vampire-hunt
+  to: wwi-fantasy
+  reason: Period-set (March 1917), fails the Contemporary era test; WWI is the plot's engine. curator
+    "Move" (phonemsg-01M501ZT6RP1TR5KN40BZRBMAV, 2026-10-15 ~5:12 PM CEST). The other seven James
+    Asher volumes fold onto this card as one fiction on his instruction.
