@@ -1,0 +1,30 @@
+id: between-two-fires
+title: Between Two Fires
+authors:
+- Christopher Buehlman
+first_published: 2012
+canonical_genre: plague-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk 2026-10-15: Speculative fiction -> Fantasy -> Real earth fantasy
+  -> Historical fantasy -> Plague fantasy: set 1348 France, written 2012 (Wikipedia: ''2012 historical
+  fiction horror novel''); the Black Death is the stage and the war between Heaven and the fallen angels
+  is the engine - the plague-year supernatural book the leaf was seeded for. Sources: Wikipedia, Penguin.'
+
+books:
+- title: Between Two Fires
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8441116-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/8441116-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-09-23'
+  change: 'Nocturne restructure (the curator ruling 2026-09-23 09:08): moved to Hellscape horror. Walk: Speculative fiction -> Fantasy
+    -> Real earth fantasy -> Nocturne fantasy -> Dark fantasy -> Horror fantasy -> Hellscape horror'
+- date: '2026-10-15'
+  from: hellscape-horror
+  to: plague-fantasy
+  reason: Period-set (1348 France), fails the Contemporary era test. curator "Move" to Medieval (phonemsg-01M50CPH601KWQ6CD7VDBJZJ4D,
+    ~8:20 PM), then "Wait" and the Plague fantasy seed "Approved" (phonemsg-01M50CWMQXJ62CVEJQMFX2YTMD, ~8:23 PM) -
+    landed in the new leaf without going live in Medieval.
