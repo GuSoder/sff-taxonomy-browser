@@ -71,8 +71,8 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] School of Shards
 - [ ] **The Scholar and the Last Faerie Door** (2024) - FLAG: 1920s England - Wikipedia genre: Historical fantasy (en.wikipedia.org/wiki/The_Scholar_and_the_Last_Faerie_Door)
 - [x] Tim Te Maro and the Subterranean Heartsick Blues
-- [ ] **The Horsemistress Saga** (2006) - FLAG: secondary world (the Duchy of Oc) - not Earth (goodreads.com/series/62471-horsemistress-saga)
-- [ ] **The Black Magician** (2001) - FLAG: secondary world (Kyralia) - not Earth (trudicanavan.com/books/)
+- [x] **The Horsemistress Saga** (2006) - FLAG: secondary world (the Duchy of Oc) - not Earth (goodreads.com/series/62471-horsemistress-saga) | RESOLVED: moved to Horse fantasy (Heart fantasy) 2026-10-15, approved phonemsg-01M4ZCCYWS7H2CD8A73KCG814E
+- [x] **The Black Magician** (2001) - FLAG: secondary world (Kyralia) - not Earth (trudicanavan.com/books/) | RESOLVED: moved to Black mages (Fantasy realms) 2026-10-15, approved phonemsg-01M4ZDCAZMFJNEJEWEGNZQ5FVB
 - [x] The Whispering Dark
 
 ### mageblood [Mageblood] (3 cards)
@@ -222,7 +222,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] The Picture of Dorian Gray
 - [ ] **The Invisible Life of Addie LaRue** (2020) - FLAG: bargain in 1714, spans 300 years to 2014 - an era-spanning chronicle (en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue)
 - [x] Something Wicked This Way Comes
-- [ ] **All the Murmuring Bones** (2021) - FLAG: invented world (the Sourdough world) - not Earth (angelaslatter.com/publications/blackwater/)
+- [x] **All the Murmuring Bones** (2021) - FLAG: invented world (the Sourdough world) - not Earth (angelaslatter.com/publications/blackwater/) | RESOLVED: moved to Haunted realms (Gothic) 2026-10-15, approved phonemsg-01M4ZJ75J13HFH82THW2XBAVBY
 - [x] Gwendy's Final Task
 
 ### surreal-afterlife [Surreal afterlife] (9 cards)
