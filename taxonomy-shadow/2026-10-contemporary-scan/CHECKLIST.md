@@ -240,7 +240,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Dracula
 - [x] 'Salem's Lot
 - [ ] **The Southern Book Club's Guide to Slaying Vampires** (2020) - BORDER: 1990s Charleston, written 2020; 90s suburbia is flavor (en.wikipedia.org/wiki/The_Southern_Book_Club%27s_Guide_to_Slaying_Vampires)
-- [ ] **Prisoner of Midnight** (2019) - FLAG: March 1917, WWI (severnhouse.com/books/prisoner-of-midnight/)
+- [x] **Prisoner of Midnight** (2019) - moved to WWI fantasy (2026-10-15, Asher series folded). FLAG was: - FLAG: March 1917, WWI (severnhouse.com/books/prisoner-of-midnight/)
 
 ### oldfangs-fantasy [Oldfangs fantasy] (9 cards)
 - [ ] **The Vampire Chronicles** (1976) - FLAG: bulk of the action 18th-19th century, modern frame only (britannica.com/topic/Interview-with-the-Vampire-novel-by-Rice)
