@@ -88,7 +88,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Aunt Tigress
 
 ### witchblood [Witchblood] (4 cards)
-- [ ] **Among Others** (2011) - BORDER: set 1979, written 2011; semi-autobiographical, the 1979 SF scene is part of the weave (jowaltonbooks.com/books/among-others/)
+- [x] **Among Others** (2011) - BORDER: set 1979, written 2011; semi-autobiographical, the 1979 SF scene is part of the weave (jowaltonbooks.com/books/among-others/) - DONE: no move, stays. Authors own living years (Dazzling carve-out); "Gah, let it stay" (phonemsg-01M52Y1HCSVFMYCP6ST6JXBXDY)
 - [x] Spells to Forget Us
 - [x] Windy City Magic
 - [x] The Hawkweed Legacy
