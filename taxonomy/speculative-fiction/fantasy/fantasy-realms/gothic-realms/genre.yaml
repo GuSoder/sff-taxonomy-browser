@@ -1,0 +1,20 @@
+id: gothic-realms
+label: Gothic realms
+parent: fantasy-realms
+children:
+- dark-realms
+- technomancy
+- isolationist-fantasy
+- fantasy-of-manners
+- fantasy-mystery
+works: []
+image: 274-gothic-realms.webp
+definition: 'Gothic realms: the register of menace in an invented world - dread, haunting, dark appetite, confinement
+  and the uncanny - from haunted houses and ancestral curses to dark powers and their bargains, plus the Pax Britannica
+  manners branch (British imperial-era gentlemen, etiquette, class performance and social codes). Its branches range from
+  Dark Fantasy and isolation to manners, occult detection and necromantic machinery. Rewritten 2026-10-16 to the menace
+  register (curator ruling, phonemsg-01M52MKHJV8ZPQ4YV1XSTQYY01).'
+status: accepted
+history:
+- date: '2026-10-16'
+  change: 'Renamed from Gothic fantasy to Gothic realms (curator instruction, phonemsg-01M52N7A851SMZT4QJCYTQ893G, 2026-10-16 17:27); slug, portrait and references moved with it.'

@@ -251,3 +251,6 @@ Seeded for T.E. Grau's I Am the River (curator "Approved", phonemsg-01M52A31KVFK
 
 ## Abbasid fantasy seeded (2026-10-16)
 Seeded for Beckford's Vathek (curator "Abbasid fantasy approved", phonemsg-01M52ASXQPHV4ZY620F67SVZJ5) under Antique times fantasy. He considered the broader "Caliphate fantasy" and chose Abbasid - the dynasty and empire (Baghdad 762 to the Mongol sack 1258), the same naming shape as Mughal. "Arabian Nights fantasy" was rejected in the serve: a text, not an era.
+
+## Gothic realms (curator, 2026-10-16)
+Renamed from Gothic fantasy on his instruction ("Can we rename Gothic fantasy to Gothic realms btw?", phonemsg-01M52N7A851SMZT4QJCYTQ893G, 17:27). Same shelf, same def (the menace register in an invented world, rewritten earlier the same day); slug, portrait (274) and all references moved with it.
