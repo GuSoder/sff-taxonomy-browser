@@ -436,7 +436,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Elatsoe
 - [x] A Song Below Water
 - [x] Blood Singer
-- [ ] **The Others** (2013) - FLAG: the world of Namid (Thaisia) - not Earth (annebishop.com/s.others.places.html)
+- [x] **The Others** (2013) - FLAG: the world of Namid (Thaisia) - not Earth (annebishop.com/s.others.places.html) - DONE: -> Hungry realms, Gothic realms renamed (his rulings 17:13-17:27)
 - [x] Agent of Hel
 - [ ] **Ghosts of Columbia (the Ghost books)** (1994) - FLAG: alternate-history North America (worldswithoutend.com / author site)
 
