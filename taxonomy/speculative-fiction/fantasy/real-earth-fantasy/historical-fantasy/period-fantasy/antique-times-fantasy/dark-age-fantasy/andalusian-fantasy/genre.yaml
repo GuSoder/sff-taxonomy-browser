@@ -1,6 +1,6 @@
 id: andalusian-fantasy
 label: Andalusian fantasy
-parent: antique-times-fantasy
+parent: dark-age-fantasy
 children: []
 image: 138-andalusian-fantasy.webp
 definition: Historical fantasy rooted in medieval Muslim Iberia and the cultures, courts and conflicts of Al-Andalus, including the final Kingdom of Granada.
@@ -10,3 +10,6 @@ works:
 history:
 - date: '2026-09-23'
   change: The Lions of Al-Rassan moved to Far shores fantasy > Khayal (veiled stand-in world); Bird King (real Granada) stays.
+- date: '2026-10-16'
+  change: 'Moved under the new Dark age fantasy umbrella (curator: "Ok, Bundle Celtic, Viking, Medieval
+    Andalusian and plague under a Dark age fantasy genre", phonemsg-01M51MY29PQY3R2PKER94T6460).'

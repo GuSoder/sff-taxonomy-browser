@@ -1,6 +1,6 @@
 id: viking-fantasy
 label: Viking fantasy
-parent: antique-times-fantasy
+parent: dark-age-fantasy
 children: []
 image: 62-nordic-fantasy.webp
 definition: 'Historical fantasy anchored in the Viking Age: medieval Scandinavian societies, seafaring, raiding, dynastic struggle and their neighboring
@@ -10,3 +10,6 @@ works:
 - the-weaver-and-the-witch-queen
 - the-broken-sword
 - the-year-of-the-warrior
+- date: '2026-10-16'
+  change: 'Moved under the new Dark age fantasy umbrella (curator: "Ok, Bundle Celtic, Viking, Medieval
+    Andalusian and plague under a Dark age fantasy genre", phonemsg-01M51MY29PQY3R2PKER94T6460).'

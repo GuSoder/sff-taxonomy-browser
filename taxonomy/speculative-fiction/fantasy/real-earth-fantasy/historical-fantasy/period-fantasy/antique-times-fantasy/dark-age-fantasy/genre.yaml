@@ -1,0 +1,22 @@
+id: dark-age-fantasy
+label: Dark age fantasy
+parent: antique-times-fantasy
+children:
+- celtic-fantasy
+- viking-fantasy
+- medieval-fantasy
+- andalusian-fantasy
+- plague-fantasy
+image: 720-dark-age-fantasy.webp
+definition: Umbrella for Antique times fantasy of the Middle Ages broadly, from post-Roman Britain and the
+  Viking north through the feudal kingdoms and the plague years: Celtic, Viking, Medieval, Andalusian and
+  Plague fantasy. "Dark age" is used in the loose popular sense of the whole medieval era, not the historians'
+  narrower fifth-to-tenth-century Dark Ages.
+status: umbrella
+ruling: Created by the curator's explicit bundle request, 2026-10-16 (phonemsg-01M51MY29PQY3R2PKER94T6460):
+  "Ok, Bundle Celtic, Viking, Medieval Andalusian and plague under a Dark age fantasy genre."
+works: []
+history:
+- date: '2026-10-16'
+  change: 'Created as an umbrella; Celtic fantasy, Viking fantasy, Medieval fantasy, Andalusian fantasy and
+    Plague fantasy moved under it from Antique times fantasy (curator, phonemsg-01M51MY29PQY3R2PKER94T6460).'

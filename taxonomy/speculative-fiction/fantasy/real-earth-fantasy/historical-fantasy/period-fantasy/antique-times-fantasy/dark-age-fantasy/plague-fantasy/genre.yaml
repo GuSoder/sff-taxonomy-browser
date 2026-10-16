@@ -1,6 +1,6 @@
 id: plague-fantasy
 label: Plague fantasy
-parent: antique-times-fantasy
+parent: dark-age-fantasy
 children: []
 works:
 - between-two-fires
@@ -29,3 +29,6 @@ history:
   change: Seeded with Between Two Fires and The Dark Apostle; curator "Approved" (phonemsg-01M50CWMQXJ62CVEJQMFX2YTMD,
     2026-10-15 ~8:23 PM CEST).
 portrait: 719-plague-fantasy.webp
+- date: '2026-10-16'
+  change: 'Moved under the new Dark age fantasy umbrella (curator: "Ok, Bundle Celtic, Viking, Medieval
+    Andalusian and plague under a Dark age fantasy genre", phonemsg-01M51MY29PQY3R2PKER94T6460).'

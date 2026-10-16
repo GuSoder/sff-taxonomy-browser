@@ -1,6 +1,6 @@
 id: medieval-fantasy
 label: Medieval fantasy
-parent: antique-times-fantasy
+parent: dark-age-fantasy
 children: []
 image: 143-medieval-fantasy.webp
 definition: 'Fantasy of feudal Christian Europe in the High and late Middle Ages, roughly the 11th to the 14th century: kings,
@@ -25,3 +25,6 @@ history:
     rupture. The name Autumn kingdoms was coined by the curator on 2026-09-16 (phonemsg-01M2MJYQ8DJWKCRBWBJTNKTDGC, phonemsg-01M2MKHE995FMYHWZVEQ777QQJ)
     as a riff on Huizinga''s The Autumn of the Middle Ages, and was never an established term; the leaf was called Medieval
     fantasy before that. Old id autumn-kingdoms redirects here. Portrait unchanged.'
+- date: '2026-10-16'
+  change: 'Moved under the new Dark age fantasy umbrella (curator: "Ok, Bundle Celtic, Viking, Medieval
+    Andalusian and plague under a Dark age fantasy genre", phonemsg-01M51MY29PQY3R2PKER94T6460).'

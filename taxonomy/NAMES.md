@@ -236,3 +236,6 @@ His own long-standing wish: "I always wanted to have a plague fantasy" (phonemsg
 
 ## Plague fantasy relocated to Antique times (curator, 2026-10-16)
 "Move it to period fantasy antique times" (phonemsg-01M51GB4XN85MPQ6D1DD4H7VG5): the theme leaf leaves the Historical fantasy junction for Period fantasy > Antique times fantasy, tenth child there. Def narrowed from era-open to the parent's band: pre-industrial plague years (before 1788), the Black Death above all. Portrait and holdings unchanged.
+
+## Dark age fantasy created (2026-10-16)
+Curator's explicit bundle: "Ok, Bundle Celtic, Viking, Medieval Andalusian and plague under a Dark age fantasy genre" (phonemsg-01M51MY29PQY3R2PKER94T6460). New umbrella dark-age-fantasy under Antique times fantasy, holding Celtic, Viking, Medieval, Andalusian and Plague fantasy. "Dark age" is used in the loose popular sense of the whole Middle Ages, not the historians' fifth-to-tenth-century Dark Ages; the def says so. This supersedes the held Antique times split proposal (never answered); Antique times now has 6 children, under the split threshold.

@@ -1,6 +1,6 @@
 id: celtic-fantasy
 label: Celtic fantasy
-parent: antique-times-fantasy
+parent: dark-age-fantasy
 children: []
 image: 63-celtic-fantasy.webp
 definition: Fantasy drawing on Celtic myth and early-medieval Ireland, Wales and Britain - bards, the sidhe and heroic legend. Label attested by the Encyclopedia
@@ -10,3 +10,6 @@ works:
 - sistersong
 - the-buried-giant
 - the-sorceresss-tale
+- date: '2026-10-16'
+  change: 'Moved under the new Dark age fantasy umbrella (curator: "Ok, Bundle Celtic, Viking, Medieval
+    Andalusian and plague under a Dark age fantasy genre", phonemsg-01M51MY29PQY3R2PKER94T6460).'
