@@ -1,0 +1,38 @@
+id: the-devils-blade
+title: The Devil's Blade
+authors:
+- Mark Alder
+first_published: 2020
+canonical_genre: northern-renaissance-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk 2026-10-16: Speculative fiction -> Fantasy -> Real earth fantasy
+  (Paris) -> Historical fantasy (set in the 1690s, the singer-duelist Julie d''Aubigny''s Paris;
+  written 2020. Gollancz) -> Period fantasy -> Antique times fantasy -> Renaissance fantasy ->
+  Northern Renaissance fantasy: Paris is north of the Alps and the leaf already holds the 1600s
+  (The Wax Child''s Danish witch trials). Sources: Gollancz.'
+
+books:
+- title: The Devil's Blade
+  year: 2020
+  cover_url: https://store.gollancz.co.uk/cdn/shop/products/9780575129733-original.jpg?v=1757468362
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://store.gollancz.co.uk/cdn/shop/products/9780575129733-original.jpg?v=1757468362
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03089)
+placement_history:
+- date: '2026-10-04'
+  to: deal-with-the-devil
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-08'
+  from: deal-with-the-devil
+  to: devilish-power-deals
+  reason: 'Split of Deal with the devil by what the bargain buys (phonemsg-01M4CY473571PVXXFBNW76WH06). Julie d''Aubigny sells
+    her soul for duelling skill to kill the men who ruined her: skill and revenge, so power.'
+- date: '2026-10-16'
+  from: devilish-power-deals
+  to: northern-renaissance-fantasy
+  reason: Period-set (1690s Paris), fails the Contemporary era test. curator "Move" (phonemsg-01M52B2P18Z07KZ945F887B76V,
+    2026-10-16 ~2:30 PM CEST).
