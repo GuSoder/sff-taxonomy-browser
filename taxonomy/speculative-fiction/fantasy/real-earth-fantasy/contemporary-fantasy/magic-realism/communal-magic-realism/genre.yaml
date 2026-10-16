@@ -6,8 +6,16 @@ definition: Magic realism in which the marvelous belongs to a community, town or
 image: 215-communal-magic-realism.webp
 status: provisional
 label: Communal magic realism
-children:
-- nation-of-marvels
-- hometown-of-marvels
-works: []
-type: umbrella
+children: []
+works:
+- dazzling
+- dwelling
+- honeyeater
+- into-the-sun
+- the-shipbuilder-of-bellfairie
+history:
+- date: '2026-10-16'
+  change: 'Nation of marvels (1 fiction) and Hometown of marvels (4 fictions) dissolved into this leaf (5 fictions); the
+    curator asked whether both could be dissolved ("I''m not sure there is even 10 books left in the parent genre in total",
+    phonemsg-01M52QQ0CR73D29W0GR3QRRG7W) and ruled "Dissolve" (phonemsg-01M52QY2GCZW13D2NJ2GZAX5WM, 6:15 PM CEST). Reverses
+    his 2026-09-28 scale-axis split; the def already covered both scales. Both ids redirect here.'
