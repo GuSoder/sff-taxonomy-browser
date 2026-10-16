@@ -189,7 +189,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Horror Movie
 - [ ] **How to Make a Horror Movie and Survive** (2024) - BORDER: late 1980s, written 2024; the 80s slasher era is the material (craigdilouie.com/book/how-to-make-and-horror-movie-and-survive/)
 - [x] Incidents Around the House
-- [ ] **The Possession of Alba Díaz** (2025) - FLAG: 1765 Mexico, colonial silver mine (penguinrandomhouse.com/books/737414/)
+- [x] **The Possession of Alba Díaz** (2025) - DONE: Virreinato fantasy seeded under Antique times (his coinage+Approved, phonemsg-01M529SDVNK31VBC9HENQXMTKT 14:08, live)
 - [x] The Last Days of Jack Sparks
 
 ### vengeance-torment [Vengeance torment] (9 cards)
