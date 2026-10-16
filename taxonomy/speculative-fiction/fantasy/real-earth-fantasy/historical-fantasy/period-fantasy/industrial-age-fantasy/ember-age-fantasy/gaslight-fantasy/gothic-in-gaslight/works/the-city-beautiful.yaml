@@ -1,0 +1,35 @@
+id: the-city-beautiful
+title: The City Beautiful
+authors:
+- Aden Polydoros
+first_published: 2021
+canonical_genre: gothic-in-gaslight
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy (Chicago, 1893, the Worlds Fair)
+  > Historical fantasy (set 1893 - the authors site) > Period fantasy > Industrial age fantasy > Ember age fantasy
+  > Gaslight fantasy > Gothic in gaslight. Alter Rosen is possessed by the dybbuk of his murdered friend Yakov,
+  bound to him by grief, love and revenge until the killer is exposed (authors site; Jewish Book Council). Gothic
+  by register: haunting, dread and the uncanny, the past literally reaching for the living. Rejected: Vengeful
+  spirits (previous shelf: right on the dybbuk, wrong era - nothing in the book is set in our time, so it fails
+  the bulk era test); Monsters in Gaslight (the dybbuk is not creature-lore loose in the world - a Gothic-register
+  haunting belongs here).'
+classification_sources:
+- https://adenpolydoros.com/the-city-beautiful
+- https://www.jewishbookcouncil.org/book/the-city-beautiful
+- https://www.harpercollins.com/products/the-city-beautiful-aden-polydoros
+cover_curation:
+  status: complete
+  source: Jewish Book Council / Inkyard Press
+  selected_url: https://www.jewishbookcouncil.org/sites/default/files/styles/book/public/images/51O9OAC%2BrFL._SX328_BO1%2C204%2C203%2C200_.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-21'
+  review_method: one-pass official-edition cover
+  selection_note: Selected the publisher jacket reproduced by Jewish Book Council; English title and author are clear, with red World's Fair architecture against black.
+placement_history:
+- date: '2026-10-16'
+  from: vengeful-spirits
+  to: gothic-in-gaslight
+  reason: 'Curator ruling (phonemsg-01M52JSB10NR7BACM3Y7EB3ADA, 2026-10-16 16:45): Gothic in gaslight widened to
+    the whole Gothic register in the era; the dybbuk haunting is that register.'
+- date: '2026-09-26'
+  change: 'Revenants split into Ghosts & grief / Vengeful spirits under the curator''s 20:20 ruling (''Execute'' on the Ghosts & grief / Vengeful spirits split as served); this card lands in vengeful-spirits.'
