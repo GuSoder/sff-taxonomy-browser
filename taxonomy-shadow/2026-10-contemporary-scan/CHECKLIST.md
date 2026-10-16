@@ -416,7 +416,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] The Man Who Was Thursday
 - [x] Hawksmoor - NOTE: dual 1711/1980s; the detective strand is half the book - stays
 - [x] The City & the City
-- [ ] **Winter's Tale** (1983) - FLAG: New York at the beginning AND the end of the 20th century - era-spanning (markhelprin.org/novels/winters-tale/)
+- [x] **Winter's Tale** (1983) - FLAG: New York at the beginning AND the end of the 20th century - era-spanning (markhelprin.org/novels/winters-tale/) - DONE: -> Electric fantasy chronicles (his Move 17:04)
 - [x] Saturnalia
 - [x] Luda
 
