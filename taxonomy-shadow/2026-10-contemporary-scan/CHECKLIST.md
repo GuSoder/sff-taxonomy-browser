@@ -380,7 +380,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Mercy Thompson
 - [x] Jessica McClain
 - [x] **The Wolf and His King** (2025) - DONE: moved to Medieval fantasy (his call, phonemsg-01M5286M7PHD3C2REQFGBMYVAG 13:40, live)
-- [ ] **The Devourers** (2015) - FLAG: contemporary Kolkata frame, but the bulk is a 17th-century Mughal chronicle (randomhousebooks.com/books/534499/)
+- [x] **The Devourers** (2015) - DONE: Mughal fantasy seeded under Antique times, moved in (his Approved, phonemsg-01M5290YY7XBANSH9Y3QYB8QKY 13:54, live)
 - [x] Lycanthia - NOTE: checked: publisher frames a present-day remote French village - stays
 - [x] Kitty Norville
 
