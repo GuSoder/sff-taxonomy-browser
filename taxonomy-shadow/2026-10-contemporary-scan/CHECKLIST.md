@@ -438,7 +438,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Blood Singer
 - [x] **The Others** (2013) - FLAG: the world of Namid (Thaisia) - not Earth (annebishop.com/s.others.places.html) - DONE: -> Hungry realms, Gothic realms renamed (his rulings 17:13-17:27)
 - [x] Agent of Hel
-- [ ] **Ghosts of Columbia (the Ghost books)** (1994) - FLAG: alternate-history North America (worldswithoutend.com / author site)
+- [x] **Ghosts of Columbia (the Ghost books)** (1994) - FLAG: alternate-history North America (worldswithoutend.com / author site) - DONE: no move. Setting test: alternate-history Earth stays Real earth (his ruling); alt-present era passes era test; Paranormal neighbours exact (phonemsg-01M52PRS9JQ47MSHXP7DEGYPPK)
 
 ### postcolonial-gothic [Postcolonial Gothic] (6 cards)
 - [x] Black Water Sister
