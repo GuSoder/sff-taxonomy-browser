@@ -1,0 +1,26 @@
+id: fevre-dream
+title: Fevre Dream
+authors:
+- George R. R. Martin
+first_published: 1982
+canonical_genre: antebellum-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy (the antebellum Mississippi) > Historical fantasy (set from 1857, written 1982) > Period fantasy > Industrial age fantasy > Ember age fantasy > Antebellum fantasy. Set on the antebellum Mississippi from 1857, Bram Stoker meets Mark Twain (Wikipedia): steamboat captain Abner Marsh partners with the pale Joshua York, a vampire seeking a way to live without killing, and is drawn into Yorks feud with the master vampire Damon Julian. The whole book is 1857 and after, so it fails the bulk era test for any contemporary shelf, and its steamboat South before the Civil War is this leafs exact center, beside The Underground Railroad and Enigmatic Pilot. Rejected: Oldfangs fantasy (previous shelf: the vampires old order is in the story, but era shelving outranks creature shelving for a historical set book).'
+books:
+- title: Fevre Dream
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/15126864-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15126864-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03416)
+placement_history:
+- date: '2026-10-04'
+  to: oldfangs-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-16'
+  to: antebellum-fantasy
+  reason: 'Curator ruling (phonemsg-01M52CP3KMS14E05FRC8ZFBDS3, 2026-10-16 14:58): bulk era test fails (whole book 1857 and after); moved to Antebellum fantasy, the leaf for the pre-Civil War South.'
