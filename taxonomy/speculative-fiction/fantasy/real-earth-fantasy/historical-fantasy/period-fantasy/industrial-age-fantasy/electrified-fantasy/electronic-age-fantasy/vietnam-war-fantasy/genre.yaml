@@ -1,0 +1,19 @@
+id: vietnam-war-fantasy
+label: Vietnam War fantasy
+parent: electronic-age-fantasy
+children: []
+image: 723-vietnam-war-fantasy.webp
+definition: 'Fantasy set in the Vietnam War era and its aftermath, the Second Indochina War years
+  of the 1960s and 1970s and the war''s long shadow after: the jungles and rivers of Vietnam, Laos
+  and Cambodia, the war at home and the war carried home, with magic or the supernatural in it.
+  Not US-only: the shelf belongs to the whole war and everyone it touched.'
+status: accepted
+works:
+- i-am-the-river
+label_status: established-era
+label_note: The era name people already call those years; the author himself dates I Am the River
+  as a Vietnam-era novel.
+history:
+- date: '2026-10-16'
+  change: 'Seeded for T.E. Grau''s I Am the River (curator "Approved", phonemsg-01M52A31KVFKTS3ENT90KJKKZB);
+    def covers the war era and its aftermath, not US-only.'

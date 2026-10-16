@@ -2,6 +2,7 @@ id: electronic-age-fantasy
 label: Electronic age fantasy
 parent: electrified-fantasy
 children:
+- vietnam-war-fantasy
 - civil-rights-era-fantasy
 - postcolonial-fantasy
 - neon-fantasy
@@ -33,3 +34,6 @@ history:
   change: Rust belt fantasy seeded as fourth child; curator "Approved, make the def broad" (phonemsg-01M4ZZFR6QFD58DXSE39R3G4MP,
     2026-10-15 4:29 PM CEST).
 portrait: 709-electronic-age-fantasy.webp
+- date: '2026-10-16'
+  change: 'Vietnam War fantasy seeded under it for I Am the River (curator "Approved",
+    phonemsg-01M52A31KVFKTS3ENT90KJKKZB); children now 5.'

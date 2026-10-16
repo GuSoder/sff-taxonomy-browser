@@ -245,3 +245,6 @@ Seeded for Indra Das's The Devourers (curator "Approved", phonemsg-01M5290YY7XBA
 
 ## Virreinato fantasy seeded (2026-10-16)
 Curator's own coinage (phonemsg-01M529QX484WP53XARW2SQ0TZ2), seeded for Isabel Cañas's The Possession of Alba Díaz under Antique times fantasy ("Approved", phonemsg-01M529SDVNK31VBC9HENQXMTKT). Spanish for viceroyalty; covers the Spanish viceroyalties of the Americas 1521-1821. Flagged before the seed that the word is opaque to most English readers (alt offered: New Spain, though that names only the Mexico viceroyalty); he approved it as given. Regional era shelf, parallel to Mughal and Edo.
+
+## Vietnam War fantasy seeded (2026-10-16)
+Seeded for T.E. Grau's I Am the River (curator "Approved", phonemsg-01M52A31KVFKTS3ENT90KJKKZB) under Electronic age fantasy. The era name people already call those years; the author himself dates the book as a Vietnam-era novel. Def covers the war era and its aftermath, not US-only (his widening instruction: the war era and its aftermath as the leaf's setting, not US-only).
