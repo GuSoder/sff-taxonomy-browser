@@ -320,7 +320,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### ghost-speakers [Ghost speakers] (4 cards)
 - [x] Riddance
 - [x] Beyond Black
-- [ ] **The Reformatory** (2023) - FLAG: 1950 Florida - Wikipedia genre: historical fiction; no honest leaf (Electrified gap 1945-1980) (en.wikipedia.org/wiki/The_Reformatory)
+- [x] **The Reformatory** (2023) - FLAG: 1950 Florida - Wikipedia genre: historical fiction; no honest leaf (Electrified gap 1945-1980) (en.wikipedia.org/wiki/The_Reformatory) - DONE: already home - Civil rights era fantasy was seeded FOR it Oct 14 (his Approved, phonemsg-01M4XV5ER7821A9GST2QMAS8KY); line was stale
 - [x] **The Spirit Bares Its Teeth** (2023) - FLAG: London, 1883 (andrewjosephwhite.com/the-spirit-bares-its) | RESOLVED: moved to Gothic in gaslight (new seed under Gaslight fantasy) 2026-10-15, approved phonemsg-01M4ZYT4XG40J98WNNRE9PD78Q
 
 ### haunted-objects [Haunted objects] (2 cards)
