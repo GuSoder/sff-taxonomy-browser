@@ -194,7 +194,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ### vengeance-torment [Vengeance torment] (9 cards)
 - [x] The Only Good Indians
-- [ ] **I Am the River** (2018) - FLAG: Laos in the waning days of the Vietnam War (publishersweekly.com - I Am the River)
+- [x] **I Am the River** (2018) - DONE: Vietnam War fantasy seeded under Electronic age (his Approved, phonemsg-01M52A31KVFKTS3ENT90KJKKZB 14:13, live)
 - [x] Soul Eater
 - [x] The Bridge
 - [x] Don't Fear the Reaper
