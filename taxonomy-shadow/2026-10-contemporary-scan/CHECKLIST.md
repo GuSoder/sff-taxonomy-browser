@@ -356,7 +356,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### haunt-and-seek [Haunt and seek] (3 cards)
 - [x] Bag of Bones
 - [x] lost boy lost girl
-- [ ] **The House of War and Witness** (2014) - FLAG: the year 1740, Silesia (hachette.co.uk/titles/m-r-carey/the-house-of-war-and-witness/9780575132740/)
+- [x] **The House of War and Witness** (2014) - FLAG: the year 1740, Silesia (hachette.co.uk/titles/m-r-carey/the-house-of-war-and-witness/9780575132740/) - DONE: -> Rococo fantasy (his Approved 17:00)
 
 ### feral-house [Feral house] (3 cards)
 - [x] A Haunting on the Hill
