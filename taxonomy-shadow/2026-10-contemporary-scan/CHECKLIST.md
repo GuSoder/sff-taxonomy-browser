@@ -243,7 +243,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] **Prisoner of Midnight** (2019) - moved to WWI fantasy (2026-10-15, Asher series folded). FLAG was: - FLAG: March 1917, WWI (severnhouse.com/books/prisoner-of-midnight/)
 
 ### oldfangs-fantasy [Oldfangs fantasy] (9 cards)
-- [ ] **The Vampire Chronicles** (1976) - FLAG: bulk of the action 18th-19th century, modern frame only (britannica.com/topic/Interview-with-the-Vampire-novel-by-Rice)
+- [x] **The Vampire Chronicles** (1976) - DONE: moved to Long chronicle fantasy (his Move, phonemsg-01M52CFQ51PDGP23RFA43NYDT1 14:55, live)
 - [x] Fledgling
 - [x] Generation V
 - [x] His Father's Son
