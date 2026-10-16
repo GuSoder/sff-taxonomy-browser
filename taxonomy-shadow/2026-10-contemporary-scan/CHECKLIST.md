@@ -210,7 +210,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Melmoth the Wanderer
 - [x] Mortal Path
 - [x] **The Devil's Blade** (2020) - DONE: moved to Northern Renaissance fantasy (his Move, phonemsg-01M52B2P18Z07KZ945F887B76V 14:30, live)
-- [ ] **King Sorrow** (2025) - BORDER: opens late 1980s at Rackham College, spans to present - dual-timeline rule: present strand substantial, recommend stays (en.wikipedia.org/wiki/King_Sorrow_(novel))
+- [x] **King Sorrow** (2025) - BORDER: opens late 1980s at Rackham College, spans to present - dual-timeline rule: present strand substantial, recommend stays (en.wikipedia.org/wiki/King_Sorrow_(novel)) - DONE: no move, stays. 1990s onward is not a Historical era, no leaf (his ruling 22:55)
 
 ### devilish-fame-deals [Devilish fame deals] (4 cards)
 - [x] We Sold Our Souls
