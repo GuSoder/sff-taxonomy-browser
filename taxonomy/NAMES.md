@@ -233,3 +233,6 @@ Seeded as Rust belt fantasy under Electronic age fantasy ("Approved, make the de
 
 ## Plague fantasy (curator, 2026-10-15)
 His own long-standing wish: "I always wanted to have a plague fantasy" (phonemsg-01M50CQRJACW0J4G3CQ2YZMEDK), approved "Approved" (phonemsg-01M50CWMQXJ62CVEJQMFX2YTMD). Theme leaf under Historical fantasy beside Secret history, Alternate history fantasy and Mythic retelling - theme beats era at that junction, as Mythic retelling already does. Under Medieval fantasy was rejected on the clean-block rule (Medieval's other five books would have had to redistribute). Era-open def (any plague year, supernatural engine); both birth holdings are Black Death books - Between Two Fires (1348 France, landed here straight from Hellscape horror after his Move-then-Wait) and The Dark Apostle (1347-48 England, from Medieval fantasy). The SF side's Pandemic subtree is untouched - different word, different shelf.
+
+## Plague fantasy relocated to Antique times (curator, 2026-10-16)
+"Move it to period fantasy antique times" (phonemsg-01M51GB4XN85MPQ6D1DD4H7VG5): the theme leaf leaves the Historical fantasy junction for Period fantasy > Antique times fantasy, tenth child there. Def narrowed from era-open to the parent's band: pre-industrial plague years (before 1788), the Black Death above all. Portrait and holdings unchanged.

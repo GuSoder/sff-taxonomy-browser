@@ -1,22 +1,30 @@
 id: plague-fantasy
 label: Plague fantasy
-parent: historical-fantasy
+parent: antique-times-fantasy
 children: []
 works:
 - between-two-fires
 - the-dark-apostle
 image: 719-plague-fantasy.webp
-definition: 'Fantasy in which a plague year is the stage and the supernatural is the engine: the Black
-  Death above all, any pestilence year with magic in it. Not the science-fiction pandemic shelf (disease
-  as science), not books where plague is only backstory.'
+definition: 'Fantasy of the pre-industrial plague years: the Black Death above all, any pestilence
+  year before the industrial age with magic in it - the plague as the stage, the supernatural as the
+  engine. Not the science-fiction pandemic shelf (disease as science), not books where plague is only
+  backstory.'
+
 status: accepted
 ruling: 'Seeded under Historical fantasy, curator "I always wanted to have a plague fantasy" (phonemsg-01M50CQRJACW0J4G3CQ2YZMEDK,
   2026-10-15 ~8:21 PM CEST) and "Approved" on the served block (phonemsg-01M50CWMQXJ62CVEJQMFX2YTMD, ~8:23 PM CEST).
   Theme leaf beside Secret history, Alternate history fantasy and Mythic retelling - theme beats era at this
   junction, as Mythic retelling already does. Under Medieval fantasy was rejected: the clean-block rule would
   have forced Medieval''s other five books to redistribute. Born with Between Two Fires (1348 France) and The
-  Dark Apostle (1347-48 England, from Medieval fantasy).'
+  Dark Apostle (1347-48 England, from Medieval fantasy). Relocated to Period fantasy > Antique times fantasy on his
+  explicit "Move it to period fantasy antique times" (phonemsg-01M51GB4XN85MPQ6D1DD4H7VG5, 2026-10-16 ~6:43 AM CEST);
+  def narrowed to the pre-industrial band the parent carries.'
 history:
+- date: '2026-10-16'
+  change: Relocated Historical fantasy -> Antique times fantasy; curator "Move it to period fantasy antique times"
+    (phonemsg-01M51GB4XN85MPQ6D1DD4H7VG5, 2026-10-16 ~6:43 AM CEST). Def narrowed to pre-industrial plague years
+    to fit the Antique times band.
 - date: '2026-10-15'
   change: Seeded with Between Two Fires and The Dark Apostle; curator "Approved" (phonemsg-01M50CWMQXJ62CVEJQMFX2YTMD,
     2026-10-15 ~8:23 PM CEST).
