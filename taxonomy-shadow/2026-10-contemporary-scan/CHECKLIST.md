@@ -239,7 +239,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### vampire-hunt [Vampire hunt] (4 cards)
 - [x] Dracula
 - [x] 'Salem's Lot
-- [ ] **The Southern Book Club's Guide to Slaying Vampires** (2020) - BORDER: 1990s Charleston, written 2020; 90s suburbia is flavor (en.wikipedia.org/wiki/The_Southern_Book_Club%27s_Guide_to_Slaying_Vampires)
+- [x] **The Southern Book Club's Guide to Slaying Vampires** (2020) - BORDER: 1990s Charleston, written 2020; 90s suburbia is flavor (en.wikipedia.org/wiki/The_Southern_Book_Club%27s_Guide_to_Slaying_Vampires) - DONE: no move, stays. 1990s is not Historical (his ruling); "Contemporary, stays" (phonemsg-01M5381MWTVSHNBSJTHHHWSCRS)
 - [x] **Prisoner of Midnight** (2019) - moved to WWI fantasy (2026-10-15, Asher series folded). FLAG was: - FLAG: March 1917, WWI (severnhouse.com/books/prisoner-of-midnight/)
 
 ### oldfangs-fantasy [Oldfangs fantasy] (9 cards)
