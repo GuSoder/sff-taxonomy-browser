@@ -568,7 +568,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ## Folktale
 ### mythic-farce [Mythic farce] (5 cards)
-- [ ] **The Twilight of the Gods and Other Tales** (1888) - BORDER: 1888 collection of mythic-past-set tales; also a story collection (gutenberg.org/ebooks/10095)
+- [x] **The Twilight of the Gods and Other Tales** (1888) - BORDER: 1888 collection of mythic-past-set tales; also a story collection (gutenberg.org/ebooks/10095)
 - [x] The Night Life of the Gods
 - [x] Expecting Someone Taller
 - [x] Mojo and the Pickle Jar
