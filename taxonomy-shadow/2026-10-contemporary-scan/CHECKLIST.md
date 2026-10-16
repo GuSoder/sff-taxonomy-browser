@@ -247,7 +247,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Fledgling
 - [x] Generation V
 - [x] His Father's Son
-- [ ] **Fevre Dream** (1982) - FLAG: antebellum Mississippi, beginning 1857 (en.wikipedia.org/wiki/Fevre_Dream)
+- [x] **Fevre Dream** (1982) - FLAG: antebellum Mississippi, beginning 1857 (en.wikipedia.org/wiki/Fevre_Dream) - DONE: -> Antebellum fantasy (his Move 14:58) 
 - [x] The Argeneau Novels
 - [x] Last Blood
 - [x] Twilight Forever Rising
