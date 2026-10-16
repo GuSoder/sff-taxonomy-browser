@@ -220,7 +220,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ### wicked-wishes [Wicked wishes] (5 cards)
 - [x] The Picture of Dorian Gray
-- [ ] **The Invisible Life of Addie LaRue** (2020) - FLAG: bargain in 1714, spans 300 years to 2014 - an era-spanning chronicle (en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue)
+- [x] **The Invisible Life of Addie LaRue** (2020) - DONE: moved to Long chronicle fantasy under his bulk era test (his Yes approved, phonemsg-01M52BVR8G4GXFEEQKTHCDNGZG 14:44, live)
 - [x] Something Wicked This Way Comes
 - [x] **All the Murmuring Bones** (2021) - FLAG: invented world (the Sourdough world) - not Earth (angelaslatter.com/publications/blackwater/) | RESOLVED: moved to Haunted realms (Gothic) 2026-10-15, approved phonemsg-01M4ZJ75J13HFH82THW2XBAVBY
 - [x] Gwendy's Final Task
