@@ -13,3 +13,4 @@ Counting rules:
 - Report both numbers when giving a total, and name which is which.
 
 Recorded 2026-10-05 from the curator's terminology ruling (phonemsg-01M46M4FE2W9S7P9WS28347HWY, 8:10 PM, verified in the message archive).
+- **Era test** - the gate between Contemporary fantasy and Historical fantasy: where the BULK of the book is set. A co-lead present-day strand does not make a book contemporary; if the bulk is set in a past era, the book walks Historical. (The curator, phonemsg-01M52BETD579YERZZTANJ2807V, 2026-10-16: "if the bulk is not contemporary it's not a contemporary book.")
