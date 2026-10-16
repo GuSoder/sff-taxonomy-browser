@@ -452,7 +452,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Conjure Wife
 - [x] Ninth House
 - [ ] **Silver Nitrate** (2023) - FLAG: Mexico City, 1993 (npr.org/2023/07/19/1187300629)
-- [ ] **The Bewitching** (2025) - FLAG: three eras (1930s-1990s), no present-day spine (silviamoreno-garcia.com/writing/the-bewitching/)
+- [x] **The Bewitching** (2025) - FLAG: three eras (1930s-1990s), no present-day spine (silviamoreno-garcia.com/writing/the-bewitching/) - DONE: -> Electric fantasy chronicles (4th); bulk era test supersedes his Oct 14 stays-ruling (his move ruling 18:01)
 - [x] Supernatural Minnesota
 - [x] The Magician and the Fool
 - [x] Echo Park Coven
