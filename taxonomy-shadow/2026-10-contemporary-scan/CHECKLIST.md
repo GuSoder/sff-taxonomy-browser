@@ -379,7 +379,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Tails From the Alpha Art Gallery
 - [x] Mercy Thompson
 - [x] Jessica McClain
-- [ ] **The Wolf and His King** (2025) - FLAG: medieval Brittany (hachette - The Wolf and His King)
+- [x] **The Wolf and His King** (2025) - DONE: moved to Medieval fantasy (his call, phonemsg-01M5286M7PHD3C2REQFGBMYVAG 13:40, live)
 - [ ] **The Devourers** (2015) - FLAG: contemporary Kolkata frame, but the bulk is a 17th-century Mughal chronicle (randomhousebooks.com/books/534499/)
 - [x] Lycanthia - NOTE: checked: publisher frames a present-day remote French village - stays
 - [x] Kitty Norville
