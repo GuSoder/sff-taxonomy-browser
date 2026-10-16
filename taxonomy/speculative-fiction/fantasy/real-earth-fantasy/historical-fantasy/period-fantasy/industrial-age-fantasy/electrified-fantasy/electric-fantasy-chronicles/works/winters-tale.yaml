@@ -1,0 +1,38 @@
+id: winters-tale
+title: Winter's Tale
+authors:
+- Mark Helprin
+first_published: 1983
+canonical_genre: electric-fantasy-chronicles
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy (New York) > Historical fantasy >
+  Period fantasy > Industrial age fantasy > Electrified fantasy > Electric fantasy chronicles: a place followed across
+  decades after 1900, the century''s own events the stage, the fantastic running through the whole span. SFE calls it a
+  fantastic history of the City through the whole twentieth century, heading toward an ambiguously redemptive apocalypse
+  in 2000 - the leaf''s def word for word, beside Midnight''s Children and The Tin Drum. Rejected: Paranormal bricks
+  (previous shelf: right that the city is the fantastical subject, wrong era - its bulk is a twentieth century that is
+  now history).'
+classification_sources:
+- https://sf-encyclopedia.com/entry/helprin_mark
+books:
+- title: Winter's Tale
+  year: 1983
+  cover_url: cover-winters-tale.jpg
+cover_curation:
+  status: complete
+  source: Open Library cover archive
+  selected_url: cover-winters-tale.jpg
+  cover_id: 112572
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-23'
+  review_method: one work search, single pass
+placement_history:
+- date: '2026-10-14'
+  from: paranormal-bricks
+  to: paranormal-bricks
+  reason: 'Setting review (New York c.1900 and 2000, mythic city, published 1983): curator ruled leave it in Contemporary (phonemsg-01M4WKXJJ1ZR16VHWKV7K1BAAW).'
+- date: '2026-10-16'
+  from: paranormal-bricks
+  to: electric-fantasy-chronicles
+  reason: 'Curator ruling (phonemsg-01M52KWY9V4F80BYG41M1C2GZV, 2026-10-16 17:04): under the bulk era test the twentieth-century
+    span is now history; the chronicle leaf is its honest shelf.'
