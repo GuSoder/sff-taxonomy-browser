@@ -3,15 +3,14 @@ title: Lapvona
 authors:
 - Ottessa Moshfegh
 first_published: 2022
-canonical_genre: folk-horror
+canonical_genre: medieval-fantasy
 placement_status: accepted
-placement_rationale: 'Held at intake (gap-2022 #231) as folk horror with no leaf; the curator ruled it
-  in-genre 2026-09-28 (''there seems to be some magic'') and created this leaf for it. NYT genres it folk
-  horror twice (''a mix of fairy tale and folk horror''; Kunzru: Ina is ''an ancient and magical blind
-  woman... a sort of supernatural wet nurse, suckling generations of Lapvonians''). An isolated medieval
-  fief whose communal cruelty, superstition and old rites are the engine; the marvel is real but marginal
-  - a working horse-eyes charm, the ending''s life-drain - which the curator weighed and accepted. About-ness
-  call was his, per the corrected brief.'
+placement_rationale: 'Root-down walk 2026-10-15: Speculative fiction -> Fantasy -> Real earth fantasy
+  -> Historical fantasy (a corrupt medieval fiefdom - lord Villiam, the shepherd''s son Marek, the
+  village alchemist-midwife; written 2022. Wikipedia, NYT) -> Period fantasy -> Antique times fantasy
+  -> Medieval fantasy: feudal Europe is the stage, whatever the contemporary prose voice. Sources:
+  Wikipedia, NPR, NYT.'
+
 classification_sources:
 - https://www.publishersweekly.com/9780593300268
 - https://www.nytimes.com/2022/06/21/books/review/ottessa-moshfegh-lapvona.html
@@ -34,3 +33,8 @@ placement_history:
   to: folk-horror
   reason: The curator ruled it in-genre and created the leaf (phonemsg-01M3M3DBAC7DPNKTR90912W8JN proposal,
     phonemsg-01M3M3HHJZK9YZ21QNQGGRHZ8F 'Ok execute')
+- date: '2026-10-16'
+  from: folk-horror
+  to: medieval-fantasy
+  reason: Period-set (medieval fiefdom), fails the Contemporary era test. curator "Approved" (phonemsg-01M51GD1YT6BF1BAPDBQ3RTK69,
+    2026-10-16 ~6:44 AM CEST).
