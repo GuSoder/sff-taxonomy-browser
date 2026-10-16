@@ -3,11 +3,14 @@ title: The Private Memoirs and Confessions of a Justified Sinner
 authors:
 - James Hogg
 first_published: 1824
-canonical_genre: satanic-torment
+canonical_genre: rococo-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Nocturne fantasy -> Dark fantasy. Penguin calls it a nightmarish
-  macabre tale of fanatic Robert Wringhim driven to monstrous acts by an evil physical doppelganger who may be an agent of the devil. The ambiguity between
-  psychological double and supernatural tempter is the dark fantastic engine.'
+placement_rationale: 'Root-down walk 2026-10-16: Speculative fiction -> Fantasy -> Real earth fantasy
+  (Scotland) -> Historical fantasy (set in early 18th-century Scotland, written 1824. Google Books)
+  -> Period fantasy -> Antique times fantasy -> Rococo fantasy: eighteenth-century Europe before
+  the industrial age, and Hogg''s Scotland of the early 1700s is exactly that shelf; the
+  devil-tempter ambiguity is the fantastic in one of its strata. Sources: Google Books, Penguin.'
+
 classification_sources:
 - https://www.penguin.co.uk/books/183669/the-private-memoirs-and-confessions-of-a-justified-sinner-by-hogg-james/9780141973852
 - https://oxfordworldsclassics.com/display/10.1093/owc/9780199217953.001.0001/isbn-9780199217953
@@ -22,3 +25,8 @@ placement_history:
 - date: '2026-09-23'
   change: 'Nocturne restructure (the curator ruling 2026-09-23 09:08): moved to Satanic torment. Walk: Speculative fiction -> Fantasy
     -> Real earth fantasy -> Nocturne fantasy -> Dark fantasy -> Torment fantasy -> Satanic torment'
+- date: '2026-10-16'
+  from: satanic-torment
+  to: rococo-fantasy
+  reason: Period-set (early 18th-century Scotland, written 1824), fails the Contemporary era test.
+    curator "Approved" (phonemsg-01M529B5ZXHTQ3KA6S2JWWZ9N6, 2026-10-16 ~2:00 PM CEST).
