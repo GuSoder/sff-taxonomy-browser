@@ -596,3 +596,4 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Doctor Dolittle
 - [x] The Wild Road
 
+- [ ] **Ariosto** - QUEUED 2026-10-16 by the setting test (curator phonemsg-01M52MD1GQ9V2Y5MDZ81JCX4NN): the book states an alternate-world Italian Renaissance federation, so it walks Fantasy realms as its own later single walk.
