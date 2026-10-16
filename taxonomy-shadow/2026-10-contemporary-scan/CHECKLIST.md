@@ -205,7 +205,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ## Supernatural fantasy
 ### devilish-power-deals [Devilish power deals] (6 cards)
-- [ ] **Vathek** (1786) - FLAG: legendary caliphate, an Arabian tale, written 1786 (en.wikipedia.org/wiki/Vathek)
+- [x] **Vathek** (1786) - DONE: Abbasid fantasy seeded under Antique times (his "Abbasid fantasy approved", phonemsg-01M52ASXQPHV4ZY620F67SVZJ5 14:25, live)
 - [x] The Monk
 - [x] Melmoth the Wanderer
 - [x] Mortal Path
