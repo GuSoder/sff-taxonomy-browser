@@ -209,7 +209,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] The Monk
 - [x] Melmoth the Wanderer
 - [x] Mortal Path
-- [ ] **The Devil's Blade** (2020) - FLAG: 17th-century Paris, D'Artagnan-era (store.gollancz.co.uk/products/the-devils-blade)
+- [x] **The Devil's Blade** (2020) - DONE: moved to Northern Renaissance fantasy (his Move, phonemsg-01M52B2P18Z07KZ945F887B76V 14:30, live)
 - [ ] **King Sorrow** (2025) - BORDER: opens late 1980s at Rackham College, spans to present - dual-timeline rule: present strand substantial, recommend stays (en.wikipedia.org/wiki/King_Sorrow_(novel))
 
 ### devilish-fame-deals [Devilish fame deals] (4 cards)
