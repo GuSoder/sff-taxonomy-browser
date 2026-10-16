@@ -304,7 +304,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ### grief-imprinted [Grief-imprinted] (2 cards)
 - [x] Cicadas Sing of Summer Graves
-- [ ] **Peace** (1975) - BORDER: memories of a small Midwestern town, early-to-mid 20th century, written 1975 (en.wikipedia.org/wiki/Peace_(novel))
+- [x] **Peace** (1975) - BORDER: memories of a small Midwestern town, early-to-mid 20th century, written 1975 (en.wikipedia.org/wiki/Peace_(novel)) - DONE: -> Electric fantasy chronicles (5th); his explicit pick "Electric chronicles" (phonemsg-01M5387QPRDWYSEH89FWCB5J7N)
 
 ### vengeful-spirits [Vengeful spirits] (9 cards)
 - [x] The Influence

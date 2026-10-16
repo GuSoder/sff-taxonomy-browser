@@ -3,7 +3,7 @@ title: Peace
 authors:
 - Gene Wolfe
 first_published: 1975
-canonical_genre: grief-imprinted
+canonical_genre: electric-fantasy-chronicles
 placement_status: accepted
 placement_rationale: 'Wikipedia classifies Peace as a psychological fantasy / ghost story; the publisher
   copy calls it "an extraordinary combination of the mythic vision of fantasy and the thrilling, disquieting
@@ -42,3 +42,9 @@ placement_history:
 - date: '2026-09-28'
   change: 'Ghosts & grief split (the curator, ''Execute'' phonemsg-01M3KXDH5Q1PMD9C63XENK7SWM): lands
     in grief-imprinted.'
+- date: '2026-10-16'
+  from: grief-imprinted
+  to: electric-fantasy-chronicles
+  reason: 'Era-test walk: the bulk is a life across the early-to-mid 20th century. The curator''s explicit pick: "Electric
+    chronicles" (phonemsg-01M5387QPRDWYSEH89FWCB5J7N, 2026-10-16 11:00 PM CEST). Def fit: one man followed across decades
+    after 1900, the century as stage, the fantastic through the whole span.'
