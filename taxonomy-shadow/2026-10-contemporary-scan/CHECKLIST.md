@@ -123,7 +123,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### magic-family-fantasy [Magic family fantasy] (6 cards)
 - [x] Ivory Apples
 - [x] Fallow Sisters
-- [ ] **Eastwick** (1984) - OPEN: already flagged in the Domestic audit: late-60s, no honest leaf (Electrified gap) - his call pending
+- [x] **Eastwick** (1984) - OPEN: already flagged in the Domestic audit: late-60s, no honest leaf (Electrified gap) - his call pending - DONE: -> Age of Aquarius fantasy (seeded for it, his name pick + Approved 23:22-23:23)
 - [x] Lessons in Magic and Disaster
 - [x] If You Could See Me Now
 - [x] The Frame-Up

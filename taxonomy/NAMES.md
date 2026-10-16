@@ -254,3 +254,6 @@ Seeded for Beckford's Vathek (curator "Abbasid fantasy approved", phonemsg-01M52
 
 ## Gothic realms (curator, 2026-10-16)
 Renamed from Gothic fantasy on his instruction ("Can we rename Gothic fantasy to Gothic realms btw?", phonemsg-01M52N7A851SMZT4QJCYTQ893G, 17:27). Same shelf, same def (the menace register in an invented world, rewritten earlier the same day); slug, portrait (274) and all references moved with it.
+
+## Age of Aquarius fantasy (curator, 2026-10-16)
+Seeded for Updike's Eastwick under Electronic age fantasy ("Approved", phonemsg-01M539JQ124VHY9NVM6KYD2C7C). His pick over Flower power ("Let's take the long one", phonemsg-01M539GRG0K0DZFQA30MNM66RA); "Aquarian fantasy" rejected as aquarium-sounding. The era name people call the late 60s-70s counterculture years; fills the slot between Civil rights era (to 1968) and Neon (1980s).
