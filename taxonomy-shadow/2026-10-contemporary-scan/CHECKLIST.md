@@ -330,7 +330,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### undying [Undying] (5 cards)
 - [x] The Case of Charles Dexter Ward
 - [x] Tide of Stone
-- [ ] **Once Was Willem** (2025) - FLAG: fantasy version of early-12th-century England (kirkusreviews.com/book-reviews/mr-carey/once-was-willem/)
+- [x] **Once Was Willem** (2025) - DONE: moved to Medieval fantasy (his call, phonemsg-01M527ZEC6Q9BH2FG2R6N2BMH5 13:36, live)
 - [x] Make Me a Monster
 - [x] The Hundred Loves of Juliet
 
