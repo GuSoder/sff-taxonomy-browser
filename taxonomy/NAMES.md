@@ -239,3 +239,6 @@ His own long-standing wish: "I always wanted to have a plague fantasy" (phonemsg
 
 ## Dark age fantasy created (2026-10-16)
 Curator's explicit bundle: "Ok, Bundle Celtic, Viking, Medieval Andalusian and plague under a Dark age fantasy genre" (phonemsg-01M51MY29PQY3R2PKER94T6460). New umbrella dark-age-fantasy under Antique times fantasy, holding Celtic, Viking, Medieval, Andalusian and Plague fantasy. "Dark age" is used in the loose popular sense of the whole Middle Ages, not the historians' fifth-to-tenth-century Dark Ages; the def says so. This supersedes the held Antique times split proposal (never answered); Antique times now has 6 children, under the split threshold.
+
+## Mughal fantasy seeded (2026-10-16)
+Seeded for Indra Das's The Devourers (curator "Approved", phonemsg-01M5290YY7XBANSH9Y3QYB8QKY) under Antique times fantasy. Mughal names the dynasty and its empire (1526-1850s), not a location; the def spans the whole empire era and notes it runs parallel to Europe's late Renaissance and Rococo centuries without overlap - a regional era. Answered the curator's question "Is Mughal a dynasty or a location?" (phonemsg-01M528ZYNYDT29BJP0J70A1TM8) before the seed: dynasty + empire.

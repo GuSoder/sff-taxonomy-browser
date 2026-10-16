@@ -1,0 +1,20 @@
+id: mughal-fantasy
+label: Mughal fantasy
+parent: antique-times-fantasy
+children: []
+image: 721-mughal-fantasy.webp
+definition: 'Fantasy set in the Mughal dynasty''s South Asia, the empire years from Babur''s 1526
+  victory to the empire''s end in the 1850s: emperors'' courts and caravan roads, Agra and Delhi,
+  domes rising over the Yamuna, with magic in it. Mughal names the dynasty and its empire, not a
+  single city; the shelf runs parallel to Europe''s late Renaissance and Rococo centuries without
+  overlapping them - it is a regional era, not a European one.'
+status: accepted
+works:
+- the-devourers
+label_status: established-term
+label_note: Mughal is the dynasty and empire (1526-1857); the curator asked whether it named a
+  dynasty or a location before approving the seed.
+history:
+- date: '2026-10-16'
+  change: 'Seeded for Indra Das''s The Devourers (curator "Approved", phonemsg-01M5290YY7XBANSH9Y3QYB8QKY);
+    def spans the whole Mughal era (1526-1850s) rather than only the 17th century.'

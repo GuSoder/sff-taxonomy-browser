@@ -1,0 +1,34 @@
+id: the-devourers
+title: The Devourers
+authors:
+- Indra Das
+first_published: 2015
+canonical_genre: mughal-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk 2026-10-16: Speculative fiction -> Fantasy -> Real earth fantasy
+  (Kolkata and Mughal India) -> Historical fantasy -> Period fantasy -> Antique times fantasy ->
+  Mughal fantasy: the book''s spine is a seventeenth-century chronicle of shape-shifters in Shah
+  Jahan''s empire around the building of the Taj Mahal; the present-day Kolkata strand is only the
+  frame. Sources: Publishers Weekly, Scroll.in, LiveMint, Penguin Random House.'
+
+books:
+- title: The Devourers
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8771334-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8771334-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03965)
+placement_history:
+- date: '2026-10-04'
+  to: werewolf-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-16'
+  from: werewolf-fantasy
+  to: mughal-fantasy
+  reason: Spine is the 17th-century Mughal chronicle; the contemporary Kolkata strand is only the
+    frame. Mughal fantasy seeded for it. curator "Approved" (phonemsg-01M5290YY7XBANSH9Y3QYB8QKY,
+    2026-10-16 ~1:55 PM CEST).
