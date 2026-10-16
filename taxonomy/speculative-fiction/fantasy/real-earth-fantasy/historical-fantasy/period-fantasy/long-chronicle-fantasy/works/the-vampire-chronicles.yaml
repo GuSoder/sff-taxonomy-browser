@@ -4,7 +4,7 @@ authors:
 - Anne Rice
 first_published: 1976
 last_published: 2018
-canonical_genre: oldfangs-fantasy
+canonical_genre: long-chronicle-fantasy
 placement_status: accepted
 included_titles:
 - Interview with the Vampire
@@ -69,3 +69,9 @@ placement_history:
     phonemsg 3:47:57 PM)).
   from: vampire-world
   to: oldfangs-fantasy
+- date: '2026-10-16'
+  from: oldfangs-fantasy
+  to: long-chronicle-fantasy
+  reason: Fails the bulk era test (curator ruling phonemsg-01M52BETD579YERZZTANJ2807V); the
+    two-century span is the point. curator "Move" (phonemsg-01M52CFQ51PDGP23RFA43NYDT1,
+    2026-10-16 ~2:55 PM CEST).
