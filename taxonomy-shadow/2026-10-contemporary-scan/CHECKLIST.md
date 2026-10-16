@@ -313,7 +313,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Hidden Pictures
 - [x] Melmoth
 - [x] Motherthing
-- [ ] **The Executioners Three** (2025) - BORDER: 1990s small town, written 2025 (lapl.org synopsis)
+- [x] **The Executioners Three** (2025) - BORDER: 1990s small town, written 2025 (lapl.org synopsis) - DONE: no move, stays. 1990s not Historical (his line); "Stays" (phonemsg-01M538N9NETRAGQH9AY6SJ07S7)
 - [x] The Haunting of Alejandra
 - [x] Ghost Roads
 
