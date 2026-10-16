@@ -160,7 +160,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] The Red Tree
 
 ### folk-horror [Folk horror] (5 cards)
-- [ ] **Lapvona** (2022) - FLAG: medieval fiefdom (en.wikipedia.org/wiki/Lapvona)
+- [x] **Lapvona** (2022) - moved to Medieval fantasy (2026-10-16). FLAG was: - FLAG: medieval fiefdom (en.wikipedia.org/wiki/Lapvona)
 - [x] Snake-Eater - NOTE: checked: contemporary desert town (cars, dollars) - stays
 - [x] The Honeys
 - [x] The Unmothers
