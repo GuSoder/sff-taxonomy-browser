@@ -175,7 +175,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### satanic-torment [Satanic torment] (3 cards)
 - [x] The Master and Margarita
 - [x] Rosemary's Baby
-- [ ] **The Private Memoirs and Confessions of a Justified Sinner** (1824) - FLAG: early 18th-century Scotland, written 1824 (books.google.com/books?id=J6KdMEm6rfEC)
+- [x] **The Private Memoirs and Confessions of a Justified Sinner** (1824) - DONE: moved to Rococo fantasy (his Approved, phonemsg-01M529B5ZXHTQ3KA6S2JWWZ9N6 14:00, live)
 
 ### primordial-torment [Primordial torment] (3 cards)
 - [x] It
