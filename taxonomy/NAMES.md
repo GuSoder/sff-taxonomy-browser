@@ -242,3 +242,6 @@ Curator's explicit bundle: "Ok, Bundle Celtic, Viking, Medieval Andalusian and p
 
 ## Mughal fantasy seeded (2026-10-16)
 Seeded for Indra Das's The Devourers (curator "Approved", phonemsg-01M5290YY7XBANSH9Y3QYB8QKY) under Antique times fantasy. Mughal names the dynasty and its empire (1526-1850s), not a location; the def spans the whole empire era and notes it runs parallel to Europe's late Renaissance and Rococo centuries without overlap - a regional era. Answered the curator's question "Is Mughal a dynasty or a location?" (phonemsg-01M528ZYNYDT29BJP0J70A1TM8) before the seed: dynasty + empire.
+
+## Virreinato fantasy seeded (2026-10-16)
+Curator's own coinage (phonemsg-01M529QX484WP53XARW2SQ0TZ2), seeded for Isabel Cañas's The Possession of Alba Díaz under Antique times fantasy ("Approved", phonemsg-01M529SDVNK31VBC9HENQXMTKT). Spanish for viceroyalty; covers the Spanish viceroyalties of the Americas 1521-1821. Flagged before the seed that the word is opaque to most English readers (alt offered: New Spain, though that names only the Mexico viceroyalty); he approved it as given. Regional era shelf, parallel to Mughal and Edo.

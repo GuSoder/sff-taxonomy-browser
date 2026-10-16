@@ -9,6 +9,7 @@ children:
 - roman-fantasy
 - edo-fantasy
 - mughal-fantasy
+- virreinato-fantasy
 image: 265-antique-times-fantasy.webp
 definition: Umbrella for Period fantasy set before the Western industrial age (before 1788), spanning the post-Roman, Viking,
   medieval, Renaissance, Andalusian and Rococo historical stages, and Japan's Edo period (1603-1868), which sits here because
@@ -31,3 +32,6 @@ history:
 - date: '2026-10-16'
   change: 'Mughal fantasy seeded under it for The Devourers (curator "Approved",
     phonemsg-01M5290YY7XBANSH9Y3QYB8QKY); children now 7.'
+- date: '2026-10-16'
+  change: 'Virreinato fantasy seeded under it for The Possession of Alba Diaz (curator''s name,
+    phonemsg-01M529QX484WP53XARW2SQ0TZ2; "Approved", phonemsg-01M529SDVNK31VBC9HENQXMTKT); children now 8.'
