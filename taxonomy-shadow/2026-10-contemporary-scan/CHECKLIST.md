@@ -308,7 +308,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ### vengeful-spirits [Vengeful spirits] (9 cards)
 - [x] The Influence
-- [ ] **The City Beautiful** (2021) - FLAG: Chicago, 1893 (adenpolydoros.com/the-city-beautiful)
+- [x] **The City Beautiful** (2021) - FLAG: Chicago, 1893 (adenpolydoros.com/the-city-beautiful) - DONE: -> Gothic in gaslight (his widen-to-register ruling 16:45)
 - [x] Sisters
 - [x] Hidden Pictures
 - [x] Melmoth
