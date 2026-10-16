@@ -350,7 +350,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] How to Sell a Haunted House
 - [x] Just Like Home
 - [x] Forgotten Sisters
-- [ ] **The Hacienda** (2022) - FLAG: 1820s Mexico, aftermath of the War of Independence (libraryjournal.com/review/the-hacienda-1786905)
+- [x] **The Hacienda** (2022) - FLAG: 1820s Mexico, aftermath of the War of Independence (libraryjournal.com/review/the-hacienda-1786905) - DONE: -> Gothic in gaslight (his Move 16:55)
 - [x] Mormama
 
 ### haunt-and-seek [Haunt and seek] (3 cards)
