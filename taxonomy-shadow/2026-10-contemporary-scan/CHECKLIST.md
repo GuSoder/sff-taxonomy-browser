@@ -113,7 +113,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ## Domestic fantasy
 ### magic-house-fantasy [Magic house fantasy] (6 cards)
-- [ ] **Little, Big** (1981) - OPEN: already flagged in the Domestic audit: chronicle spine ca. 1970, recommend stays - his call pending
+- [x] **Little, Big** (1981) - OPEN: already flagged in the Domestic audit: chronicle spine ca. 1970, recommend stays - his call pending - DONE: -> Electric fantasy chronicles (6th); generations ca.1900-1970s (his Move 23:09)
 - [x] The Bog Wife
 - [x] Ink Blood Sister Scribe
 - [x] A House Like an Accordion
