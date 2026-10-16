@@ -339,7 +339,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] The Shining
 - [x] The Green Man
 - [x] The Turn of the Screw
-- [ ] **The Castle of Otranto** (1764) - FLAG: medieval Italy, written 1764 (en.wikipedia.org/wiki/The_Castle_of_Otranto)
+- [x] **The Castle of Otranto** (1764) - FLAG: medieval Italy, written 1764 (en.wikipedia.org/wiki/The_Castle_of_Otranto) - DONE: -> Medieval fantasy (his Move 16:49)
 
 ### keys-to-the-haunting [Keys to the Haunting] (3 cards)
 - [x] It Was Her House First
