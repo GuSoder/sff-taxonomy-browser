@@ -187,7 +187,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Temper
 - [x] Fraternity
 - [x] Horror Movie
-- [ ] **How to Make a Horror Movie and Survive** (2024) - BORDER: late 1980s, written 2024; the 80s slasher era is the material (craigdilouie.com/book/how-to-make-and-horror-movie-and-survive/)
+- [x] **How to Make a Horror Movie and Survive** (2024) - BORDER: late 1980s, written 2024; the 80s slasher era is the material (craigdilouie.com/book/how-to-make-and-horror-movie-and-survive/) - DONE: -> Neon fantasy (3rd); 80s slasher era is the material (his Move 21:22)
 - [x] Incidents Around the House
 - [x] **The Possession of Alba Díaz** (2025) - DONE: Virreinato fantasy seeded under Antique times (his coinage+Approved, phonemsg-01M529SDVNK31VBC9HENQXMTKT 14:08, live)
 - [x] The Last Days of Jack Sparks
