@@ -8,7 +8,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ## Contemporary mythic fantasy
 ### modern-albion-myth [Modern Albion myth] (8 cards)
-- [ ] **Mythago Wood** (1984) - BORDER: set in the aftermath of WWII (1940s), written 1984; the wood is the point, era as stage? (foliosociety.com/uk/holdstock-mythago-wood)
+- [x] **Mythago Wood** (1984) - BORDER: set in the aftermath of WWII (1940s), written 1984; the wood is the point, era as stage? (foliosociety.com/uk/holdstock-mythago-wood) - DONE: -> Home front fantasy (3rd); purposely dated 1946-48 walks Historical, reader-browsing ruling (his 19:33); narrows era-as-stage
 - [x] Lanny
 - [x] The Dark Is Rising Sequence
 - [x] The Owl Service
