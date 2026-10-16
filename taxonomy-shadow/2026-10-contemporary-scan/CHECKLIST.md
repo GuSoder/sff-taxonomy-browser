@@ -451,7 +451,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### occult-institutions [Occult institutions] (9 cards)
 - [x] Conjure Wife
 - [x] Ninth House
-- [ ] **Silver Nitrate** (2023) - FLAG: Mexico City, 1993 (npr.org/2023/07/19/1187300629)
+- [x] **Silver Nitrate** (2023) - FLAG: Mexico City, 1993 (npr.org/2023/07/19/1187300629) - DONE: no move, stays Occult institutions. Un-parked by the era-test sharpening (phonemsg-01M52QQ0CR73D29W0GR3QRRG7W)
 - [x] **The Bewitching** (2025) - FLAG: three eras (1930s-1990s), no present-day spine (silviamoreno-garcia.com/writing/the-bewitching/) - DONE: -> Electric fantasy chronicles (4th); bulk era test supersedes his Oct 14 stays-ruling (his move ruling 18:01)
 - [x] Supernatural Minnesota
 - [x] The Magician and the Fool
@@ -528,7 +528,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ## Contemporary magical realism
 ### nation-of-marvels [Nation of marvels] (1 cards)
-- [ ] **Dazzling** (2023) - FLAG: two girls in 1990s Nigeria, written 2023 (kirkusreviews.com/book-reviews/chikodili-emelumadu/dazzling/)
+- [x] **Dazzling** (2023) - FLAG: two girls in 1990s Nigeria, written 2023 (kirkusreviews.com/book-reviews/chikodili-emelumadu/dazzling/) - DONE: no move, stays Nation of marvels. Era-test sharpening ruled: living-memory backdrop decade stays Contemporary (phonemsg-01M52QQ0CR73D29W0GR3QRRG7W)
 
 ### hometown-of-marvels [Hometown of marvels] (4 cards)
 - [x] The Shipbuilder of Bellfairie
