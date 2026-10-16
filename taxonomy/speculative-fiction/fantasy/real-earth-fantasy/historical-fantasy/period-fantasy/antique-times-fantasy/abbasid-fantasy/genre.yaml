@@ -1,0 +1,20 @@
+id: abbasid-fantasy
+label: Abbasid fantasy
+parent: antique-times-fantasy
+children: []
+image: 724-abbasid-fantasy.webp
+definition: 'Fantasy set in the Abbasid caliphate, the dynasty''s centuries from Baghdad''s founding
+  in 762 to the Mongol sack in 1258: the caliphs'' courts at Baghdad and Samarra, the House of
+  Wisdom, the Tigris and the caravan roads, with magic and the supernatural in it. Abbasid names
+  the dynasty and its empire, the same shape as Mughal. The curator chose it over the broader
+  Caliphate fantasy.'
+status: accepted
+works:
+- vathek
+label_status: established-era
+label_note: Dynasty and empire name; chosen by the curator over the broader Caliphate fantasy
+  (phonemsg-01M52ASXQPHV4ZY620F67SVZJ5).
+history:
+- date: '2026-10-16'
+  change: 'Seeded for William Beckford''s Vathek (curator "Abbasid fantasy approved",
+    phonemsg-01M52ASXQPHV4ZY620F67SVZJ5).'

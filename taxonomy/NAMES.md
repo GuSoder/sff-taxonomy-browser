@@ -248,3 +248,6 @@ Curator's own coinage (phonemsg-01M529QX484WP53XARW2SQ0TZ2), seeded for Isabel C
 
 ## Vietnam War fantasy seeded (2026-10-16)
 Seeded for T.E. Grau's I Am the River (curator "Approved", phonemsg-01M52A31KVFKTS3ENT90KJKKZB) under Electronic age fantasy. The era name people already call those years; the author himself dates the book as a Vietnam-era novel. Def covers the war era and its aftermath, not US-only (his widening instruction: the war era and its aftermath as the leaf's setting, not US-only).
+
+## Abbasid fantasy seeded (2026-10-16)
+Seeded for Beckford's Vathek (curator "Abbasid fantasy approved", phonemsg-01M52ASXQPHV4ZY620F67SVZJ5) under Antique times fantasy. He considered the broader "Caliphate fantasy" and chose Abbasid - the dynasty and empire (Baghdad 762 to the Mongol sack 1258), the same naming shape as Mughal. "Arabian Nights fantasy" was rejected in the serve: a text, not an era.

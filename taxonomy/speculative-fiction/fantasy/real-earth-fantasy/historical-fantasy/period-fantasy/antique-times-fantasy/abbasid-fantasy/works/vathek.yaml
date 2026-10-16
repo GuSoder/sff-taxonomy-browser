@@ -1,0 +1,35 @@
+id: vathek
+title: Vathek
+authors:
+- William Beckford
+first_published: 1786
+canonical_genre: abbasid-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk 2026-10-16: Speculative fiction -> Fantasy -> Real earth fantasy
+  (the caliph''s court at Samarra) -> Historical fantasy (an Arabian tale of the Abbasid caliphate,
+  written 1786. Wikipedia) -> Period fantasy -> Antique times fantasy -> Abbasid fantasy: the
+  caliph''s court is the stage; the Giaour''s bargain and Eblis are the supernatural engine. A
+  European Gothic imagining, but the stage is the caliphate, so Real earth holds. Sources:
+  Wikipedia.'
+
+classification_sources:
+- https://www.sourcebooks.com/9781492699743-vathek-tp.html
+- https://www.oupjapan.co.jp/en/node/13105?language=en
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/15200443-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+placement_history:
+- date: '2026-10-08'
+  from: deal-with-the-devil
+  to: devilish-power-deals
+  reason: Split of Deal with the devil by what the bargain buys (phonemsg-01M4CY473571PVXXFBNW76WH06). The caliph signs away
+    his soul for forbidden knowledge and boundless power.
+- date: '2026-10-16'
+  from: devilish-power-deals
+  to: abbasid-fantasy
+  reason: Period-set (legendary Abbasid caliphate, written 1786), fails the Contemporary era test.
+    Abbasid fantasy seeded for it; curator chose Abbasid over the broader Caliphate fantasy.
+    curator "Abbasid fantasy approved" (phonemsg-01M52ASXQPHV4ZY620F67SVZJ5, 2026-10-16 ~2:25 PM
+    CEST).
