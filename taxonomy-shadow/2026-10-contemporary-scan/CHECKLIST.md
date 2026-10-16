@@ -582,7 +582,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] Bunny
 
 ### comic-noir-fantasy [Comic noir fantasy] (2 cards)
-- [ ] **Shadow Ticket** (2025) - FLAG: Milwaukee, 1932 (en.wikipedia.org/wiki/Shadow_Ticket)
+- [x] **Shadow Ticket** (2025) - FLAG: Milwaukee, 1932 (en.wikipedia.org/wiki/Shadow_Ticket) - DONE: -> Noir fantasy (3rd); era test: 1932 period pastiche (his Move 18:21)
 - [x] Felix Gomez
 
 ### corporate-fantasy [Corporate fantasy] (1 cards)
