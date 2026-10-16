@@ -3,11 +3,9 @@ title: Anno Dracula
 authors:
 - Kim Newman
 first_published: 1992
-canonical_genre: fangs-out-fantasy
+canonical_genre: gothic-in-gaslight
 placement_status: accepted
-placement_rationale: SFE identifies the sequence's transformed alternate world as beginning when Dracula marries Queen Victoria,
-  with vampires and supernatural figures continuing through later eras; Titan calls Daikaiju part of its alternate-history
-  vampire series. Vampires are the shared actors and the counterfactual world's governing condition, making Vampire closest.
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy (Victorian London) > Historical fantasy (the title volume is set in 1888, written 1992 - Wikipedia) > Period fantasy > Industrial age fantasy > Ember age fantasy > Gaslight fantasy > Gothic in gaslight. Anno Dracula is a take on the Gothic canon itself: Dracula has married Queen Victoria and vampires live openly in the gaslit world, with the canon''s figures walking through it (Wikipedia). That is the leaf''s widened center - takes on the Gothic canon in the era that made them. Rejected: Fangs out fantasy (previous shelf: right on openness, wrong era - nothing in the title volume is set in our time, so it fails the bulk era test); Nightfolk in Gaslight (beings of folklore among people, not the Gothic canon). Wobble: later volumes of the series move into the twentieth century (Wikipedia series bibliography); the shelf follows the title volume and the Gothic-canon identity of the fiction.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/newman_kim
 - https://titanbooks.com/9593-anno-dracula-1999-daikaiju/
@@ -48,3 +46,8 @@ placement_history:
     phonemsg 3:47:57 PM)).
   from: vampire-world
   to: fangs-out-fantasy
+- date: '2026-10-16'
+  reason: 'Curator ruling (phonemsg-01M52E1R4TPD91ARH58AK7AYD4, 2026-10-16 15:22): Gothic in gaslight widened to hold
+    takes on the Gothic canon; moved here from Fangs out fantasy.'
+  from: fangs-out-fantasy
+  to: gothic-in-gaslight
