@@ -1,0 +1,35 @@
+id: the-wolf-and-his-king
+title: The Wolf and His King
+authors:
+- Finn Longman
+first_published: 2025
+canonical_genre: medieval-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down walk 2026-10-16: Speculative fiction -> Fantasy -> Real earth fantasy
+  (the courts and forests of medieval Britain, per the author''s page) -> Historical fantasy (a
+  retelling of Bisclavret from the lais of Marie de France, twelfth-century milieu; Gollancz, Nov
+  2025) -> Period fantasy -> Antique times fantasy -> Dark age fantasy -> Medieval fantasy: feudal
+  courts, a king''s fealty, a baron kept from court. The werewolf curse is the book''s engine, but
+  its stage is medieval Britain, not the present day. Sources: finnlongman.com, Hachette/Gollancz.'
+
+books:
+- title: The Wolf and His King
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15261696-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/15261696-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03143)
+placement_history:
+- date: '2026-10-04'
+  to: werewolf-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-16'
+  from: werewolf-fantasy
+  to: medieval-fantasy
+  reason: Period-set (medieval Britain, Bisclavret retelling), fails the Contemporary era test; old
+    "not fourteenth-century" rejection died with the Oct 13 widening. curator "Move" (phonemsg-01M5286M7PHD3C2REQFGBMYVAG,
+    2026-10-16 ~1:40 PM CEST).
