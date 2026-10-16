@@ -169,7 +169,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### elder-god-torment [Elder god torment] (4 cards)
 - [x] Beneath the Rising
 - [x] Providence
-- [ ] **Revelator** (2021) - FLAG: 1930s Smoky Mountains (darylgregory.com/books/revelator/)
+- [x] **Revelator** (2021) - DONE: moved to Depression era fantasy (his call, phonemsg-01M51GNAH8723HWTJ5TJYATG6P 06:48, commit 9b6089c, live)
 - [x] The Immaculate Void
 
 ### satanic-torment [Satanic torment] (3 cards)
