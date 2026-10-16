@@ -6,7 +6,7 @@ children:
 - electrified-fantasy
 - industrial-fantasy-chronicles
 image: 266-industrial-age-fantasy.webp
-definition: Umbrella for Period fantasy set from 1788 onward, bundled on the time axis at 1900 into Ember age fantasy (before
+definition: Umbrella for Period fantasy set from 1800 onward, bundled on the time axis at 1900 into Ember age fantasy (before
   1900) and Electrified fantasy (1900 on). Not Edo fantasy (Japan's Edo period, 1603-1868, sits under Antique times fantasy).
 status: umbrella
 ruling: Created by the curator's 2026-09-21 Period fantasy ruling.
@@ -25,3 +25,7 @@ history:
   change: Not line added for Edo fantasy (phonemsg-01M4VGXP34B0YSERWPPQYH9PG7).
 - date: '2026-10-14'
   change: 'Child added: industrial-fantasy-chronicles (curator "Approved", phonemsg-01M4WQAXE3XNPCYJDEGKGH04CQ).'
+- date: '2026-10-16'
+  change: 'Antique/Industrial boundary moved from 1788 to 1800 (curator ruling, phonemsg-01M52JCFRX56NT2Z8TZT8VBVZM,
+    2026-10-16 16:37): the 1788 line was a distribution median, not a fixed rule; no fiction re-sorted (the 1788-1800
+    band held no books).'

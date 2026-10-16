@@ -5,13 +5,14 @@ children: []
 image: 701-rococo-fantasy.webp
 definition: 'Fantasy of eighteenth-century Europe before the industrial age, the whole century in all its strata: courts,
   salons and music above, guilds, slums and trades below, with the fantastic entering either world. The era''s elegance and
-  its stench belong to the same shelf. Not Renaissance fantasy (the centuries before), not Industrial age fantasy (1788 on),
+  its stench belong to the same shelf. Not Renaissance fantasy (the centuries before), not Industrial age fantasy (1800 on),
   not Edo fantasy (Japan''s own early modern, 1603-1868).'
 status: accepted
 works:
 - justified-sinner
 - the-kingdom-of-back
 - perfume
+- scarlet
 history:
 - date: '2026-10-14'
   change: Definition widened from the courtly, musical side of the century to the whole eighteenth century in all its strata,

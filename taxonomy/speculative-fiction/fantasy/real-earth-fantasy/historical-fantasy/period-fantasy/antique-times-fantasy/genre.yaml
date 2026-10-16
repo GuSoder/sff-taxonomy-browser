@@ -12,10 +12,10 @@ children:
 - virreinato-fantasy
 - abbasid-fantasy
 image: 265-antique-times-fantasy.webp
-definition: Umbrella for Period fantasy set before the Western industrial age (before 1788), spanning the post-Roman, Viking,
+definition: Umbrella for Period fantasy set before the Western industrial age (before 1800), spanning the post-Roman, Viking,
   medieval, Renaissance, Andalusian and Rococo historical stages, and Japan's Edo period (1603-1868), which sits here because
-  Japan's own industrial age began with the Meiji Restoration in 1868. The 1788 start of Industrial age fantasy is the Western
-  date, so Edo books after 1788 stay in Edo fantasy.
+  Japan's own industrial age began with the Meiji Restoration in 1868. The 1800 start of Industrial age fantasy is the Western
+  date, so Edo books after 1800 stay in Edo fantasy.
 status: umbrella
 ruling: Created by the curator's 2026-09-21 Period fantasy ruling; Rococo remains here because The Kingdom of Back is set
   around 1765.
@@ -39,3 +39,7 @@ history:
 - date: '2026-10-16'
   change: 'Abbasid fantasy seeded under it for Vathek (curator "Abbasid fantasy approved",
     phonemsg-01M52ASXQPHV4ZY620F67SVZJ5); children now 9.'
+- date: '2026-10-16'
+  change: 'Antique/Industrial boundary moved from 1788 to 1800 (curator ruling, phonemsg-01M52JCFRX56NT2Z8TZT8VBVZM,
+    2026-10-16 16:37): the 1788 line was a distribution median, not a fixed rule; no fiction re-sorted (the 1788-1800
+    band held no books).'

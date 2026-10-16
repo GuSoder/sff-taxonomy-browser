@@ -1,0 +1,27 @@
+id: scarlet
+title: Scarlet
+authors:
+- Genevieve Cogman
+first_published: 2023
+canonical_genre: rococo-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy (Revolutionary France) > Historical fantasy (set 1793 - Cogmans site; Publishers Weekly) > Period fantasy > Antique times fantasy (1793 is before the 1800 industrial line) > Rococo fantasy. France, 1793, where the aristocrats are vampires: the Scarlet Pimpernel plot reworked, Sir Percy Blakeney smuggling vampire nobles from the guillotine (Cogmans site; Publishers Weekly; Straits Times review). The leaf takes the whole eighteenth century in all its strata, and the ancien regime dying at the guillotine is that world''s end scene. Rejected: Fangs out fantasy (previous shelf: right on openness, wrong era - nothing in the book is set in our time, so it fails the bulk era test); Ember age leaves (the industrial line is 1800 now).'
+books:
+- title: Scarlet
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13314599-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13314599-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03382)
+placement_history:
+- date: '2026-10-04'
+  to: fangs-out-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-16'
+  to: rococo-fantasy
+  reason: 'Curator ruling (phonemsg-01M52JCFRX56NT2Z8TZT8VBVZM, 2026-10-16 16:37): the Antique/Industrial boundary moved
+    to 1800; 1793 is Rococo. Fails the bulk era test for any contemporary shelf.'
