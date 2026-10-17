@@ -375,14 +375,14 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 - [x] **What Moves the Dead** (2022) - FLAG: invented 1890s Ruritania (Gallacia/Ruravia), Usher retelling - not real Earth (en.wikipedia.org/wiki/What_Moves_the_Dead) | RESOLVED: moved to Gothic in gaslight (new seed under Gaslight fantasy) 2026-10-15, approved phonemsg-01M4ZYT4XG40J98WNNRE9PD78Q
 
 ### werewolf-fantasy [Werewolf fantasy] (8 cards)
-- [x] The Transition
-- [x] Tails From the Alpha Art Gallery
-- [x] Mercy Thompson
-- [x] Jessica McClain
+- [x] The Transition - DONE: plainly present-day (Kisner 2025, modern setting per Penguin); stays
+- [x] Tails From the Alpha Art Gallery - DONE: plainly present-day paranormal romance (Cynthia St. Aubin, Tor); stays
+- [x] Mercy Thompson - DONE: plainly present-day Tri-Cities; stays
+- [x] Jessica McClain - DONE: plainly present-day; stays
 - [x] **The Wolf and His King** (2025) - DONE: moved to Medieval fantasy (his call, phonemsg-01M5286M7PHD3C2REQFGBMYVAG 13:40, live)
 - [x] **The Devourers** (2015) - DONE: Mughal fantasy seeded under Antique times, moved in (his Approved, phonemsg-01M5290YY7XBANSH9Y3QYB8QKY 13:54, live)
 - [x] Lycanthia - NOTE: checked: publisher frames a present-day remote French village - stays
-- [x] Kitty Norville
+- [x] Kitty Norville - DONE: plainly present-day Denver; stays
 
 ### paranormal-fantasy [Paranormal fantasy] (4 cards)
 - [x] American Gods
@@ -583,7 +583,7 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 
 ### comic-noir-fantasy [Comic noir fantasy] (2 cards)
 - [x] **Shadow Ticket** (2025) - FLAG: Milwaukee, 1932 (en.wikipedia.org/wiki/Shadow_Ticket) - DONE: -> Noir fantasy (3rd); era test: 1932 period pastiche (his Move 18:21)
-- [x] Felix Gomez
+- [x] Felix Gomez - DONE: plainly present-day vampire detective comedy (Acevedo, 2006+); stays
 
 ### corporate-fantasy [Corporate fantasy] (1 cards)
 - [x] E. Godz
