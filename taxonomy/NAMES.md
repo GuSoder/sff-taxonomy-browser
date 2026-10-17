@@ -266,3 +266,6 @@ Same split. The long era after: communities, traders and colonies rebuilding a w
 
 ## Mutant fiction (curator, 2026-10-17)
 Same split. The far aftermath: the bomb rewrote the people - nuclear-born mutation, gifts, scarred bloodlines. Served as Nukedleus fiction (his coinage), renamed by him 2:38 PM (phonemsg-01M54XXR9FQCVETCR74XEGDEK3): "Mutant fiction reads cleaner."
+
+## Civil-war dystopias (curator, 2026-10-17)
+Seed under Social dystopia ("Approved", phonemsg-01M5516ZSJYB14KNWKAEGK7XHS, 3:35 PM) after his steer that Fugue for a Darkening Island is "some kind of social dystopia" (phonemsg-01M54Y2Q87FVNDH5QTFXY8ZCXP). Dystopian futures whose sick society breaks into open civil war: the state fragments, factions and militias replace order, ordinary people caught between the lines. First fiction: Fugue for a Darkening Island.
