@@ -264,5 +264,5 @@ Post-nuclear survival split at ten by distance from the bomb ("Approved", phonem
 ## Nuke time fiction (curator, 2026-10-17)
 Same split. The long era after: communities, traders and colonies rebuilding a working world in the ruins.
 
-## Nukedleus fiction (curator, 2026-10-17)
-Same split. The far aftermath: the bomb rewrote the people - mutants, gifts, scarred bloodlines. His coinage: nucleus with the nuke inside.
+## Mutant fiction (curator, 2026-10-17)
+Same split. The far aftermath: the bomb rewrote the people - nuclear-born mutation, gifts, scarred bloodlines. Served as Nukedleus fiction (his coinage), renamed by him 2:38 PM (phonemsg-01M54XXR9FQCVETCR74XEGDEK3): "Mutant fiction reads cleaner."
