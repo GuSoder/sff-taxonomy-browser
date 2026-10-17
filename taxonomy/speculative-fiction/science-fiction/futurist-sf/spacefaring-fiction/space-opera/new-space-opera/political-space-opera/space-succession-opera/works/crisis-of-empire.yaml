@@ -29,6 +29,9 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/9851207-L.jpg
 - title: The War Machine
   year: 1989
+- title: Crown of Empire
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/9865665-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
