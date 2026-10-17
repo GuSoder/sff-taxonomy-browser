@@ -3,6 +3,7 @@ label: Big dumb relics
 parent: big-dumb-objects
 children: []
 works:
+- fractal-noise
 - needle
 - proxima
 - the-continuance
