@@ -1,0 +1,27 @@
+id: alas-babylon
+title: Alas, Babylon
+authors:
+- Pat Frank
+first_published: 1959
+canonical_genre: nuke-time-fiction
+placement_status: accepted
+placement_rationale: SFE says full-scale nuclear war leaves Fort Repose surviving the first consequences, then follows the
+  small town coping and modestly flourishing. The lived aftermath and community survival, rather than the strike itself, make
+  Post-Holocaust Survival closest.
+classification_sources:
+- https://sf-encyclopedia.com/entry/frank_pat
+- https://www.harpercollins.com/products/alas-babylon-pat-frank
+cover_curation:
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/2540438-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+placement_history:
+- date: '2026-10-17'
+  to: nuked-fiction
+  reason: Post-nuclear survival split at ten by distance from the bomb (curator "Approved" (phonemsg-01M54XG7N9V8350R0WSJNRKD0A));
+    card re-walked into Nuked fiction.
+- date: '2026-10-17'
+  to: nuke-time-fiction
+  reason: 'Curator flip (phonemsg-01M551GD37E8PHS6GWFK7VK5T0): Nuke time means the blast moment, Nuked (past tense) means
+    living in the rubble; card re-walked to match his ruling.'
