@@ -1,19 +1,13 @@
 id: post-nuclear-survival
 label: Post-nuclear survival
 parent: post-holocaust-survival
-status: accepted
+status: umbrella
 definition: Post-Holocaust survival fiction whose living aftermath is caused by nuclear war, following survivors through fallout, social collapse and reconstruction.
 portrait: 258-post-nuclear.webp
-children: []
+children:
+- nuked-fiction
+- nuke-time-fiction
+- nukedleus-fiction
 image: 258-post-nuclear.webp
-works:
-- traders-world
-- alas-babylon
-- dr-bloodmoney
-- dayfall
-- the-pure-trilogy
-- retrograde
-- bone-dance
-- black-star-rising
-- deus-irae
-- the-wild-shore
+works: []
+ruling: 'Split at ten fictions into Nuked fiction / Nuke time fiction / Nukedleus fiction by distance from the bomb (curator "Approved" (phonemsg-01M54XG7N9V8350R0WSJNRKD0A, 2026-10-17 2:30 PM)); stays as umbrella with zero direct cards per the split-with-umbrella rule.'

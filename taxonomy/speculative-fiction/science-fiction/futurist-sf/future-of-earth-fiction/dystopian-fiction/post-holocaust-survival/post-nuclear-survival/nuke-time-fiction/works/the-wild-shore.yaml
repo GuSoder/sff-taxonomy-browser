@@ -3,13 +3,13 @@ title: The Wild Shore
 authors:
 - Kim Stanley Robinson
 first_published: 1984
-canonical_genre: post-nuclear-survival
+canonical_genre: nuke-time-fiction
 placement_status: accepted
 placement_rationale: 'Kim Stanley Robinson''s The Wild Shore (1984; first of the Three Californias; Wikipedia, Washington
   Post): decades after a 1987 neutron-bomb strike on North America''s cities, survivors in Orange County live as villages
   on farming and the sea under a Japanese quarantine, and the young hero''s nostalgia for a lost America is gradually deconstructed.
   The three Californias are separate novels with separate worlds, so each gets its own card and the Three Californias omnibus
-  is skipped. Walk: Futurist > Future of Earth > Dystopian fiction > Post-holocaust survival > Post-nuclear survival. Tried
+  is skipped. Walk: Futurist > Future of Earth > Dystopian fiction > Post-holocaust survival > Post-nuclear survival > Nuke time fiction. Tried
   Terminal wastelands (the cause is nuclear and known). Sources: Wikipedia, Washington Post; not read.'
 books:
 - title: The Wild Shore
@@ -25,3 +25,6 @@ placement_history:
 - date: '2026-10-04'
   to: post-nuclear-survival
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-17'
+  to: nuke-time-fiction
+  reason: 'Post-nuclear survival split at ten by distance from the bomb (curator "Approved" (phonemsg-01M54XG7N9V8350R0WSJNRKD0A)); card re-walked into Nuke time fiction.'

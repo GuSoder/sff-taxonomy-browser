@@ -257,3 +257,12 @@ Renamed from Gothic fantasy on his instruction ("Can we rename Gothic fantasy to
 
 ## Age of Aquarius fantasy (curator, 2026-10-16)
 Seeded for Updike's Eastwick under Electronic age fantasy ("Approved", phonemsg-01M539JQ124VHY9NVM6KYD2C7C). His pick over Flower power ("Let's take the long one", phonemsg-01M539GRG0K0DZFQA30MNM66RA); "Aquarian fantasy" rejected as aquarium-sounding. The era name people call the late 60s-70s counterculture years; fills the slot between Civil rights era (to 1968) and Neon (1980s).
+
+## Nuked fiction (curator, 2026-10-17)
+Post-nuclear survival split at ten by distance from the bomb ("Approved", phonemsg-01M54XG7N9V8350R0WSJNRKD0A, 2:30 PM). The bomb's own days: survival hour-to-hour in the fresh fallout. Names workshopped with him 2:04-2:29 PM: Phoenix and Homestead dinged as symbolic/vague out of context, "Fallout" failed the franchise check (Bethesda), plain SF-side naming ruled (no "fantasy" suffix on the SF side).
+
+## Nuke time fiction (curator, 2026-10-17)
+Same split. The long era after: communities, traders and colonies rebuilding a working world in the ruins.
+
+## Nukedleus fiction (curator, 2026-10-17)
+Same split. The far aftermath: the bomb rewrote the people - mutants, gifts, scarred bloodlines. His coinage: nucleus with the nuke inside.
