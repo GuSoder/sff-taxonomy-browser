@@ -256,11 +256,11 @@ Legend: - [ ] FLAG = fails the test, his call needed | BORDER = era-as-stage bor
 ### fangs-out-fantasy [Fangs out fantasy] (7 cards)
 - [x] **Anno Dracula** (1992) - FLAG: 1888 alternate-history Victorian London (en.wikipedia.org/wiki/Anno_Dracula) - DONE: -> Gothic in gaslight (his widen+move ruling 15:22)
 - [x] **Sunshine** (2003) - BORDER: alternate post-Voodoo-Wars Earth (New Arcadia); the fangs-out leaf presumes alt-presents, but this world diverges hard (openroadmedia.com/ebook/sunshine/9781497673717) - DONE: no move, stays. Forked earth = Real earth (his forked ruling); "Stays" (phonemsg-01M5383Z4VM1GYTNCS035S7R16)
-- [x] The Coldest Girl in Coldtown
+- [x] The Coldest Girl in Coldtown - DONE: plainly present-day walled-Coldtown USA; stays (his ruling, parent 11:49)
 - [x] **Scarlet** (2023) - FLAG: 1793, the French Revolution with vampires (penguinrandomhouse.com/books/724335/) - DONE: -> Rococo fantasy (his Ok on 1800 boundary, 16:38)
-- [x] Dark Brethren
-- [x] Chicagoland Vampires
-- [x] The Southern Vampire Mysteries
+- [x] Dark Brethren - DONE: plainly present-day; stays
+- [x] Chicagoland Vampires - DONE: plainly present-day modern Chicago; stays
+- [x] The Southern Vampire Mysteries - DONE: plainly present-day rural Louisiana post-Revelation; stays
 
 ### newfangs-fantasy [Newfangs fantasy] (4 cards)
 - [x] Immortality Bites
