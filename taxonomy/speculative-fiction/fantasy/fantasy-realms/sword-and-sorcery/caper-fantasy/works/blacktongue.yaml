@@ -13,4 +13,5 @@ classification_sources:
 books:
 - {title: The Blacktongue Thief, first_published: 2021, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250799975.jpg'}
 - {title: The Daughters' War, first_published: 2024, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250887672.jpg'}
+- {title: The Thrice-Bound Fool, first_published: 2026, cover_url: ''}
 cover_curation: {status: complete, source: Macmillan, record_url: 'https://us.macmillan.com/series/blacktongue', selected_url: 'https://mpd-biblio-covers.imgix.net/9781250799975.jpg', visually_reviewed_on: '2026-09-21', shows_english_title: true, display_eligible: true, candidates_visually_reviewed: 2, selection_rule: one-pass official series review}
