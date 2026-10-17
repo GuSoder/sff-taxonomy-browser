@@ -6,7 +6,7 @@ image: 441-bowler-hat-fantasy.webp
 portrait: 441-bowler-hat-fantasy.webp
 definition: 'American historical fantasy of the early twentieth century, roughly 1900-1929, before the Depression: from the
   last land claims of the frontier to new urban life and the Jazz Age. Any American region and civilian or home-front setting
-  may fit; magic or the supernatural enters that period stage. The name evokes the era, not a required hat in the story. The
+  may fit; magic or the supernatural enters that period stage. The name evokes the era, not a required hat in the story. The years read as a cultural/technological register, not strict dates: a really rural setting where the diesel age has not yet spread can stay Bowler hat past 1929 (the curator, phonemsg-01M54NA7AHRP9Z6XHS2C6E5CGK, 2026-10-17). The
   Great War leaf takes works whose engine is the war or its social machinery; Weird West takes the nineteenth-century frontier,
   and Dust Bowl takes Depression-era Plains and Southwest.'
 status: accepted
@@ -21,6 +21,8 @@ works:
 - the-first-bright-thing
 - green-town
 history:
+- date: '2026-10-17'
+  change: 'Definition extended: era years read as a cultural/technological axis, not strict dates; really rural settings where the diesel age has not yet spread can stay Bowler hat past 1929 (the curator ruling phonemsg-01M54NA7AHRP9Z6XHS2C6E5CGK).'
 - date: '2026-10-12'
   change: 'Regrouped under Electric-age fantasy by the Industrial age bundle; no fiction moved; the curator''s "Approved"
     (2026-10-12 7:57:08 PM CEST, phonemsg-01M4RM5PXQ390S05HCVHHZHA70, on the bundle Ember-age fantasy / Electric-age fantasy;
