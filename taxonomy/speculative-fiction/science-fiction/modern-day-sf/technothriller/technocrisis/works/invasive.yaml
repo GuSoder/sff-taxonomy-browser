@@ -1,0 +1,26 @@
+id: invasive
+title: Invasive
+authors:
+- Chuck Wendig
+first_published: 2016
+canonical_genre: technocrisis
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern-day SF > Technothriller > Technocrisis. FBI
+  futurist Hannah Stander consults on a lab breach: bioengineered ants weaponized against humanity, a fast-moving containment
+  crisis from a high-tech system under strain (Harper Voyager; Kirkus starred). Technocrisis exact.'
+classification_sources:
+- https://www.harpercollins.com/products/invasive-chuck-wendig
+- https://www.kirkusreviews.com/book-reviews/chuck-wendig/invasive/
+- https://reactormag.com/invasive-chuck-wendig/
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13055411-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-17'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-10-17'
+  to: technocrisis
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M54NW04SEYDB64EDSQHK8438).
+    Queue id MC01843.'

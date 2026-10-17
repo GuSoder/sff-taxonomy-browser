@@ -1,0 +1,28 @@
+id: the-book-of-accidents
+title: The Book of Accidents
+authors:
+- Chuck Wendig
+first_published: 2021
+canonical_genre: cursed-towns
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-Earth fantasy > Contemporary fantasy > Dark fantasy
+  > Horror fantasy > Unholy ground horror > Cursed towns. The Graves family returns to their Pennsylvania hometown, where
+  a demon walks the coal-mine tunnels and boulder field of Ramble Rocks - ground the Lenape called haunted - and the town''s
+  own people become its victims and vectors (PRH; full plot: SuperSummary). The multiverse doors are mechanics; the evil worked
+  into the community''s ground is the engine. Cursed towns exact.'
+classification_sources:
+- https://www.penguinrandomhouse.com/books/555274/the-book-of-accidents-by-chuck-wendig/
+- https://www.supersummary.com/the-book-of-accidents/summary/
+- https://www.kirkusreviews.com/book-reviews/chuck-wendig/the-book-of-accidents/
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/10620957-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-17'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-10-17'
+  to: cursed-towns
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M54NW04SEYDB64EDSQHK8438).
+    Queue id MC01844.'
