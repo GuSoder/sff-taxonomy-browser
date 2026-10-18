@@ -1,0 +1,39 @@
+id: ball-lightning
+title: Ball Lightning
+authors:
+- Cixin Liu
+first_published: 2004
+canonical_genre: world-models
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist SF >
+  Hard sci-fi > Hard conceptual SF > World models. After a ball lightning strike
+  incinerates his parents, Chen devotes his life to cracking the phenomenon; the
+  search runs through stormy mountaintops, an experimental military weapons lab and
+  an old Soviet science station until the true model of the phenomenon surfaces - a
+  quantum picture whose states can be weaponized and whose observer effects raise
+  the stakes, with an army major obsessed with the weaponry and a physicist with no
+  place for ethical considerations (publisher copy, torpublishinggroup.com). The plot
+  is the discovery of the true model - the leaf definition. Rejected: thought-experiments
+  (form test: a novel-length research quest, not a controlled single-idea experiment),
+  technocrisis (no high-tech system under strain in a fast-moving crisis), future-war
+  (the late-war use of the weapon is consequence, not engine). Wobble: moderate; the
+  setting is the contemporary real world, so physics is extended rather than rewritten,
+  and the weaponization thread runs alongside the discovery. First published in
+  Chinese 2004 (written 2001, zh.wikipedia); English translation by Joel Martinsen,
+  Tor 2018.'
+books:
+- title: Ball Lightning
+  year: 2004
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765394088.jpg
+cover_curation:
+  status: complete
+  source: Macmillan/Tor CDN
+  selected_url: https://mpd-biblio-covers.imgix.net/9780765394088.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-18'
+  review_method: one-pass (Open Library has no -L size for ISBN 9780765394088, 404)
+intake: ten-k walk v5 (queue id MC01867)
+placement_history:
+- date: '2026-10-18'
+  to: world-models
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
