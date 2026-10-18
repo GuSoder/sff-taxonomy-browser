@@ -1,20 +1,10 @@
 id: occult-bloodline
 label: Occult bloodline
 parent: modern-occult
-children: []
-works:
-- blood-debts
-- the-making-of-yolanda-la-bruja
-- the-shadow-sister
-- your-blood-my-bones
-- wildlands
-- the-curseworkers
-- the-black-swan-trilogy
-- the-city-of-stardust
-- incryptid
-- the-calamities
+children:
+- occult-legacy
+- occult-tradition
+works: []
 image: 437-occult-bloodline.webp
-definition: Modern occult fantasy where family inheritance and practiced ancestral magic open the occult world within contemporary urban life. Yolanda's school threat
-  is the plot bend; inherited brujeria and visions are the gift that lets her meet it. Split from Modern Occult under the curator's harmonized names (phonemsg-01M3P9RM636KMZRM7J0PR29XGC,
-  2026-09-29).
+definition: 'Modern occult fantasy where family inheritance and practiced ancestral magic open the occult world within contemporary urban life. Yolanda''s school threat is the plot bend; inherited brujeria and visions are the gift that lets her meet it. Split from Modern Occult under the curator''s harmonized names (phonemsg-01M3P9RM636KMZRM7J0PR29XGC, 2026-09-29). Umbrella since 2026-10-18: split-with-umbrella at ten cards by what the inheritance is - Occult tradition (a practiced family art handed down) and Occult legacy (the bloodline''s claim) (curator "Approved" (phonemsg-01M58A56D2EB20J6KARM8W6VR4, 2026-10-18 10:09 PM), on his rename steer phonemsg-01M584PQEAJ0KEHYDEWG9JVSEH).'
 status: accepted
