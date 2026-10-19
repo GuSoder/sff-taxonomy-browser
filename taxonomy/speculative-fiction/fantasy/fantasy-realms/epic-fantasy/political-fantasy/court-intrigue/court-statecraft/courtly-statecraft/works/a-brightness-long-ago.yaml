@@ -3,7 +3,7 @@ title: A Brightness Long Ago
 authors:
 - Guy Gavriel Kay
 first_published: 2019
-canonical_genre: court-statecraft
+canonical_genre: courtly-statecraft
 placement_status: accepted
 placement_rationale: Root-down traversal passes Epic fantasy -> Political fantasy
   -> Court intrigue -> Court Statecraft. Penguin Random House and Hachette set this
@@ -19,3 +19,7 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/8794618-L.jpg
   shows_english_title: true
   review_method: one-pass
+placement_history:
+- date: '2026-10-19'
+  to: courtly-statecraft
+  reason: 'Split of Court statecraft at ten cards by the lever the statecraft runs on (curator "Approved" (phonemsg-01M59V8WXD1ZKNZT2R0Z4R0R3F, 2026-10-19 12:28 PM); names after his grammar steer phonemsg-01M59V1CCFYQCX04M62VDTW7RA and his 7:11 hint steer phonemsg-01M5994ARH4K748S87ZQTXCDNE). Re-walked root-down into Courtly statecraft.'

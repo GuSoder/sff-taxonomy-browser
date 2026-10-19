@@ -3,7 +3,7 @@ title: The Lotus Kingdoms
 authors:
 - Elizabeth Bear
 first_published: 2017
-canonical_genre: court-statecraft
+canonical_genre: martial-statecraft
 placement_status: accepted
 books:
 - title: The Stone in the Skull
@@ -26,3 +26,7 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one series search, all three official covers
+placement_history:
+- date: '2026-10-19'
+  to: martial-statecraft
+  reason: 'Split of Court statecraft at ten cards by the lever the statecraft runs on (curator "Approved" (phonemsg-01M59V8WXD1ZKNZT2R0Z4R0R3F, 2026-10-19 12:28 PM); names after his grammar steer phonemsg-01M59V1CCFYQCX04M62VDTW7RA and his 7:11 hint steer phonemsg-01M5994ARH4K748S87ZQTXCDNE). Re-walked root-down into Martial statecraft.'
