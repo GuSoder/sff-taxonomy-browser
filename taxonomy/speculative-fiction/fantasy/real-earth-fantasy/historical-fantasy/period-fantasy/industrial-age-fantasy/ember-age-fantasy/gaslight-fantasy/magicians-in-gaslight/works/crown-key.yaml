@@ -1,0 +1,30 @@
+id: crown-key
+title: Crown & Key
+authors:
+- Clay Griffith
+- Susan Griffith
+first_published: 2015
+canonical_genre: magicians-in-gaslight
+placement_status: accepted
+placement_rationale: 'Walk: Victorian-era urban fantasy in London where the Crown and Key Society faces demons, undead legions
+  and finally the demigod Gaios (Penguin Random House; freshfiction.com). A society of magic-users guarding the era is the
+  stage: Magicians in gaslight. One series card.'
+books:
+- title: The Shadow Revolution
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/9919585-L.jpg
+- title: The Undying Legion
+  year: 2015
+- title: The Conquering Dark
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9919585-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01892, MC01893, MC01891)
+placement_history:
+- date: '2026-10-04'
+  to: magicians-in-gaslight
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
