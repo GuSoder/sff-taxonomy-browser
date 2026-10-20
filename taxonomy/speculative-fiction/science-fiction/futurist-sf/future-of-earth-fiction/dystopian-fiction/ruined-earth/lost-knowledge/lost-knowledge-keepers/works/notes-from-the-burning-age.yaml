@@ -1,0 +1,25 @@
+id: notes-from-the-burning-age
+title: Notes from the Burning Age
+authors:
+- Claire North
+first_published: 2021
+canonical_genre: lost-knowledge-keepers
+placement_status: accepted
+placement_rationale: 'Walk: far-future Europe after the old civilization burned; a priestly order curates the Burning Age''s
+  surviving records and decides what knowledge is forbidden (NPR, npr.org/2021/07/21/1018496548). Society lives with the knowledge,
+  guarding and fearing it: Lost knowledge keepers.'
+books:
+- title: Notes from the Burning Age
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10829511-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10829511-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01873)
+placement_history:
+- date: '2026-10-04'
+  to: lost-knowledge-keepers
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
