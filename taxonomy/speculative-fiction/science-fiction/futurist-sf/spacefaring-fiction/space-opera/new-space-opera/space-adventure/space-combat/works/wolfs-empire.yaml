@@ -1,0 +1,26 @@
+id: wolfs-empire
+title: Wolf's Empire
+authors:
+- Claudia Christian
+- Morgan Grant Buchanan
+first_published: 2016
+canonical_genre: space-combat
+placement_status: accepted
+placement_rationale: 'Walk: in the Galactic Roman Empire, noblewoman Accala Viridius, whose mother and brother are murdered,
+  trains as a common gladiator to face her enemies in the imperial games (Macmillan; gameindustry.com review). The story''s
+  engine is the fight: Space combat.'
+books:
+- title: 'Wolf''s Empire: Gladiator'
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10213306-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10213306-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01887)
+placement_history:
+- date: '2026-10-04'
+  to: space-combat
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
