@@ -1,0 +1,33 @@
+id: tigers-curse
+title: Tiger's Curse
+authors:
+- Colleen Houck
+first_published: 2011
+canonical_genre: bargain-bond-romantasy
+placement_status: accepted
+placement_rationale: 'Walk: Kelsey Hayes travels to India, where she meets an enchanted white tiger and learns of an ancient
+  curse to break through a quest (Kirkus; Blinkist summary). The pair is bound by a curse and the quest to lift it: Bargain
+  bond romantasy. One series card (four books).'
+books:
+- title: Tiger's Curse
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6677695-L.jpg
+- title: Tiger's Quest
+  year: 2011
+- title: Tiger's Voyage
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/8765605-L.jpg
+- title: Tiger's Destiny
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7344076-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6677695-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01916, MC01918, MC01919, MC01917)
+placement_history:
+- date: '2026-10-04'
+  to: bargain-bond-romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

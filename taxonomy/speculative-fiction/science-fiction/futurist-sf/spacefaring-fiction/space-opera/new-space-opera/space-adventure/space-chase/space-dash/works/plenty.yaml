@@ -1,0 +1,31 @@
+id: plenty
+title: Plenty
+authors:
+- Colin Greenland
+first_published: 1990
+canonical_genre: space-dash
+placement_status: accepted
+placement_rationale: 'Walk: Tabitha Jute, a penniless freighter captain dodging planetary law, takes a delivery job to the
+  giant alien station Plenty and learns her own ship carries the star drive others are hunting (Wikipedia, Take Back Plenty;
+  EBSCO). The courier who is herself the quarry: Space dash. One series card (Tabitha Jute trilogy).'
+books:
+- title: Take Back Plenty
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/8442724-L.jpg
+- title: Seasons of Plenty
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/10602713-L.jpg
+- title: Mother of Plenty
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/236139-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8442724-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01913, MC01912, MC01911)
+placement_history:
+- date: '2026-10-04'
+  to: space-dash
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,25 @@
+id: cobra-rebellion
+title: Cobra Rebellion
+authors:
+- Timothy Zahn
+first_published: 2015
+canonical_genre: super-space-soldier
+placement_status: accepted
+placement_rationale: 'Walk: Cobra warriors, technologically enhanced human soldiers built to fight an implacable alien menace,
+  now face trouble from their own kind (Baen; ISFDB title record 1809471, Cobra Rebellion book 2). The war remakes the soldier''s
+  body: Super space soldier. Card holds the one queued book.'
+books:
+- title: Cobra Outlaw
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8741938-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8741938-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01908)
+placement_history:
+- date: '2026-10-04'
+  to: super-space-soldier
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

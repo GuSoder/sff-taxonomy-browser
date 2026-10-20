@@ -1,0 +1,28 @@
+id: heart-of-the-world
+title: Heart of the World
+authors:
+- Col Buchanan
+first_published: 2010
+canonical_genre: rogue-hero
+placement_status: accepted
+placement_rationale: 'Walk: Ash, an aging Roshun, a secretive order of assassins who protect charges through the threat of
+  vendetta, takes the street thief Nico as apprentice while the Holy Empire of Mann conquers the free cities (sffworld.com;
+  functionalnerds.com; kingofthenerds review). Assassination and cunning are the heroes'' craft: Rogue hero. One series card.'
+books:
+- title: Farlander
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6679787-L.jpg
+- title: Stands a Shadow
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/10193791-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6679787-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01909, MC01910)
+placement_history:
+- date: '2026-10-04'
+  to: rogue-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
