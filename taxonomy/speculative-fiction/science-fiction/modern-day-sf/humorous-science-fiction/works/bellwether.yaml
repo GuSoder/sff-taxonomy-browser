@@ -1,0 +1,25 @@
+id: bellwether
+title: Bellwether
+authors:
+- Connie Willis
+first_published: 1996
+canonical_genre: humorous-science-fiction
+placement_status: accepted
+placement_rationale: 'Walk: Dr. Sandra Foster studies fads in Boulder for her employer Hi-Tek, who wants to predict them (Wikipedia;
+  Penguin Random House blurb: wit and inventiveness joining science, pop culture and the arcane). Comedy is the governing
+  frame: Humorous science fiction.'
+books:
+- title: Bellwether
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/3815579-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/3815579-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01930)
+placement_history:
+- date: '2026-10-04'
+  to: humorous-science-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

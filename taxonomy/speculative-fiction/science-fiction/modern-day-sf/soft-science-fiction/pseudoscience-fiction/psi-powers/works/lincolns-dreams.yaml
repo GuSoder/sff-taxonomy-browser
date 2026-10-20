@@ -1,0 +1,25 @@
+id: lincolns-dreams
+title: Lincoln's Dreams
+authors:
+- Connie Willis
+first_published: 1987
+canonical_genre: psi-powers
+placement_status: accepted
+placement_rationale: 'Walk: a historical researcher for a Civil War novelist meets Annie, a young woman who seems to be dreaming
+  General Lee''s dreams; Wikipedia calls the book one of parapsychology and metaphysical speculation, set in the contemporary
+  United States. Psi in the recognizable present: Psi powers.'
+books:
+- title: Lincoln's Dreams
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/368834-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/368834-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01934)
+placement_history:
+- date: '2026-10-04'
+  to: psi-powers
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
