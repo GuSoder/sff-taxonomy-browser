@@ -1,22 +1,15 @@
 id: cosmic-catastrophe
 label: Cosmic catastrophe
 parent: apocalyptic-fiction
-children: []
+children:
+- impact-disaster
+- starlight-disaster
+- replicator-disaster
+- tidal-disaster
 image: 685-cosmic-catastrophe.webp
-definition: Disaster falls from the sky - the Moon shatters and its debris begins to rain down. Coined by the curator 2026-09-14;
-  not an SFE/EoF headword.
+definition: 'Disaster falls from the sky - the Moon shatters and its debris begins to rain down. Coined by the curator 2026-09-14; not an SFE/EoF headword. Split at ten cards by what the sky sends, into four leaves the curator named himself: Impact disaster (a body hits), Starlight disaster (a star''s light turns lethal), Replicator disaster (machines take the world apart), Tidal disaster (a passing body''s gravity wrecks it).'
 status: provisional
-works:
-- supernova-era
-- lucifer-s-hammer
-- the-end-of-the-world-news
-- the-wanderer
-- galaxias
-- the-forge-of-god
-- perihelion-summer
-- moonfall
-- when-the-moon-hits-your-eye
-- the-goliath-stone
+works: []
 history:
 - date: '2026-10-12'
   change: 'Gave Seveneves to Orbital mechanics; the curator''s explicit decision (2026-10-12 5:35:46 PM CEST phonemsg-01M4RC2WDXD2FC8RW8WS86QTVY:
@@ -25,3 +18,5 @@ history:
 - date: '2026-10-12'
   change: Portrait regenerated (the old Moon-shattering image was made for Seveneves, which left the leaf); old file 78-cosmic-catastrophe.webp
     stays in git history.
+- date: '2026-10-20'
+  change: Split at ten cards into Impact disaster / Starlight disaster / Replicator disaster / Tidal disaster (curator named the four children himself (phonemsg-01M5CZTXG4M5G19SJWJJQXY7HN, 2026-10-20 5:45 PM; Impact / Starlight / Replicator from phonemsg-01M5CZN09W723PBSR3VASYCZ4G, Tidal added by him)); the umbrella holds no cards.

@@ -3,7 +3,7 @@ title: The Wanderer
 authors:
 - Fritz Leiber
 first_published: 1964
-canonical_genre: cosmic-catastrophe
+canonical_genre: tidal-disaster
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Modern day -> Apocalyptic fiction -> Cosmic Catastrophe. SFE calls it a long Disaster novel: an artificial world-ship intrudes into the Solar System, destroys the Moon, and causes worldwide tidal, earthquake and volcanic devastation as it unfolds. Disaster falling from the sky governs over its alien society and scattered survival viewpoints.'
 classification_sources:
@@ -16,3 +16,10 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass exact-title cover review
+placement_history:
+- date: '2026-10-20'
+  to: tidal-disaster
+  reason: 'Split of Cosmic catastrophe at ten cards by what the sky sends (curator named the four children himself (phonemsg-01M5CZTXG4M5G19SJWJJQXY7HN, 2026-10-20 5:45 PM; Impact / Starlight / Replicator from phonemsg-01M5CZN09W723PBSR3VASYCZ4G, Tidal added by him)). Re-walked root-down into Tidal disaster. Re-walked into Tidal disaster: the wandering planet never hits the Earth; its gravity raises ocean waves, earthquakes and volcanoes and splits the Moon (Wikipedia, The Wanderer).'
+- date: '2026-10-04'
+  to: cosmic-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

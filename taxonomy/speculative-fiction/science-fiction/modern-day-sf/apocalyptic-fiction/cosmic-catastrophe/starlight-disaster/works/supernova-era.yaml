@@ -3,7 +3,7 @@ title: Supernova Era
 authors:
 - Cixin Liu
 first_published: 2003
-canonical_genre: cosmic-catastrophe
+canonical_genre: starlight-disaster
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day
   SF > Apocalyptic fiction > Cosmic catastrophe. A star eight light-years away dies
@@ -33,6 +33,9 @@ cover_curation:
   review_method: one-pass (Open Library has no -L size for ISBN 9781250306043, 404)
 intake: ten-k walk v5 (queue id MC01868)
 placement_history:
+- date: '2026-10-20'
+  to: starlight-disaster
+  reason: 'Split of Cosmic catastrophe at ten cards by what the sky sends (curator named the four children himself (phonemsg-01M5CZTXG4M5G19SJWJJQXY7HN, 2026-10-20 5:45 PM; Impact / Starlight / Replicator from phonemsg-01M5CZN09W723PBSR3VASYCZ4G, Tidal added by him)). Re-walked root-down into Starlight disaster.'
 - date: '2026-10-18'
   to: cosmic-catastrophe
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

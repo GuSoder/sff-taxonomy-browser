@@ -3,7 +3,7 @@ title: The End of the World News
 authors:
 - Anthony Burgess
 first_published: 1982
-canonical_genre: cosmic-catastrophe
+canonical_genre: impact-disaster
 placement_status: accepted
 placement_rationale: 'Root-down: Science fiction -> Modern Day -> Apocalyptic fiction -> Cosmic catastrophe. SFE grounds three intercut narratives whose future frame escapes Earth just before a wandering planet destroys it. Freud and Trotsky pastiches supply the narrative form, but the active extrasolar collision governs the speculative arc.'
 classification_sources:
@@ -16,3 +16,10 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass exact-title review
+placement_history:
+- date: '2026-10-20'
+  to: impact-disaster
+  reason: 'Split of Cosmic catastrophe at ten cards by what the sky sends (curator named the four children himself (phonemsg-01M5CZTXG4M5G19SJWJJQXY7HN, 2026-10-20 5:45 PM; Impact / Starlight / Replicator from phonemsg-01M5CZN09W723PBSR3VASYCZ4G, Tidal added by him)). Re-walked root-down into Impact disaster.'
+- date: '2026-10-04'
+  to: cosmic-catastrophe
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
