@@ -1,0 +1,28 @@
+id: janet-watson-chronicles
+title: Janet Watson Chronicles
+authors:
+- Claire O'Dell
+first_published: 2018
+canonical_genre: spytech
+placement_status: accepted
+placement_rationale: 'Walk: near-future Washington during a second American civil war; Dr. Janet Watson, with a mechanical
+  arm, teams with covert agent Sara Holmes and uses espionage, advanced technology and deduction to unmask a murderer targeting
+  veterans (publisher summary, johnhwatsonsociety.com review; Kirkus on book 2: they infiltrate a secret facility inside the
+  New Confederacy). Covert agents running near-future gear make Spytech the home; the civil war is backdrop. One series card.'
+books:
+- title: A Study in Honor
+  year: 2018
+  cover_url: https://book-assets.openroadmedia.com/9780062699329.jpg
+- title: The Hound of Justice
+  year: 2019
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://book-assets.openroadmedia.com/9780062699329.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01876, MC01877)
+placement_history:
+- date: '2026-10-04'
+  to: spytech
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
