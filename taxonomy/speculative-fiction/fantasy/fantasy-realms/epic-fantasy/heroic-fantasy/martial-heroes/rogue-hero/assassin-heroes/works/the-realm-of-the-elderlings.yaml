@@ -3,10 +3,10 @@ title: The Realm of the Elderlings
 authors:
 - Robin Hobb
 first_published: 1995
-canonical_genre: rogue-hero
+canonical_genre: assassin-heroes
 placement_status: accepted
-placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary
-  power source matches Rogue Hero, not merely the setting or tone.'
+placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches Rogue Hero,
+  not merely the setting or tone.'
 cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780593722824
 shows_english_title: true
 books:
@@ -58,3 +58,8 @@ books:
 - title: Assassin's Fate
   year: 2017
   cover_url: https://covers.openlibrary.org/b/id/8539225-L.jpg
+placement_history:
+- date: '2026-10-21'
+  to: assassin-heroes
+  reason: Moved in the split of Rogue hero at ten cards (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21
+    9:07 PM).

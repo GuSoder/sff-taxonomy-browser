@@ -1,19 +1,11 @@
 id: rogue-hero
 label: Rogue hero
 parent: martial-heroes
-children: []
+children:
+- assassin-heroes
+- thief-heroes
 image: 197-rogue-hero.webp
 definition: Martial-hero fantasy whose protagonist’s primary power is stealth, infiltration, deception, assassination or cunning
-  survival.
+  survival. Split at ten cards into Assassin heroes and Thief heroes.
 status: accepted
-works:
-- the-fade
-- the-realm-of-the-elderlings
-- the-dead-cat-tail-assassins
-- the-wounded-kingdom
-- dragaera
-- the-chronicles-of-siala
-- night-angel
-- heart-of-the-world
-- the-ancient-blades-trilogy
-- morningstar
+works: []

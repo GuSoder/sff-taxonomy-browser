@@ -1,0 +1,19 @@
+id: thief-heroes
+label: Thief heroes
+parent: rogue-hero
+children: []
+image: 758-thief-heroes.webp
+definition: 'Rogue hero fantasy whose protagonist steals and survives by cunning: the professional thief, the cutpurse, the
+  bandit passing as a hero. Not Assassin heroes (the protagonist kills for a living). Split of Rogue hero at ten cards by
+  assassin vs thief (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21 9:07 PM).'
+status: provisional
+ruling: Split of Rogue hero at ten cards by assassin vs thief (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21
+  9:07 PM); the original stays umbrella.
+works:
+- the-chronicles-of-siala
+- the-ancient-blades-trilogy
+- morningstar
+history:
+- date: '2026-10-21'
+  change: Created in the split of Rogue hero at ten cards (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21
+    9:07 PM).

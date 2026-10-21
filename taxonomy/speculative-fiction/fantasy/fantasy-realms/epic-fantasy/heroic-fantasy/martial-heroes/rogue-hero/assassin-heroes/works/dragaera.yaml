@@ -3,7 +3,7 @@ title: Dragaera
 authors:
 - Steven Brust
 first_published: 1991
-canonical_genre: rogue-hero
+canonical_genre: assassin-heroes
 placement_status: accepted
 placement_rationale: 'Steven Brust''s Dragaera as one fiction: Vlad Taltos, the Easterner assassin among the Dragaerans, with
   the Khaavren Romances set in the same world.'
@@ -65,7 +65,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/182961-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC09137, MC09138, MC09146, MC09139, MC09147, MC09145, MC09164, MC09144, MC09167, MC09166, MC09148)
+intake: ten-k walk v5 (queue ids MC09137, MC09138, MC09146, MC09139, MC09147, MC09145, MC09164, MC09144, MC09167, MC09166,
+  MC09148)
 placement_history:
 - date: '2026-10-04'
   to: rogue-hero
@@ -74,3 +75,7 @@ placement_history:
   reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
     we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Vlad Taltos, The Khaavren Romances; re-walked
     root-down into rogue-hero.'
+- date: '2026-10-21'
+  to: assassin-heroes
+  reason: Moved in the split of Rogue hero at ten cards (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21
+    9:07 PM).
