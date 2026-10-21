@@ -1,0 +1,27 @@
+id: the-institute
+title: The Institute
+authors:
+- Stephen King
+first_published: 2019
+canonical_genre: psi-telekinesis
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Modern day -> Soft science fiction -> Psi
+  powers. Simon & Schuster and King center contemporary abducted children with telepathy and telekinesis, confined and experimented
+  on so their extranormal gifts can be combined and exploited. Under the curator’s 2026-09-14 ruling, established psychic
+  powers count as pseudoscience rather than magic.'
+classification_sources:
+- https://www.simonandschuster.net/books/The-Institute/Stephen-King/9781982110567
+- https://stephenking.com/p/the-institute/
+cover_curation:
+  status: complete
+  source: Scribner / Simon & Schuster
+  selected_url: cover-the-institute.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
+placement_history:
+- date: '2026-10-21'
+  to: psi-telekinesis
+  reason: 'Split of Psi powers at ten cards; re-walked root-down: Speculative fiction -> Science fiction -> Modern day ->
+    Soft science fiction -> Pseudoscience fiction -> Psi powers -> Psi telekinesis (curator "Approved", phonemsg-01M5ECYTBT376K4BQ1YEWNWTWM).'
+  from: psi-powers

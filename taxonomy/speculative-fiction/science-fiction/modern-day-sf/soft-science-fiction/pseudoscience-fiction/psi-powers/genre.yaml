@@ -1,21 +1,16 @@
 id: psi-powers
 label: Psi powers
 parent: pseudoscience-fiction
-children: []
+children:
+- psi-telepathy
+- psi-foresight
+- psi-telekinesis
 image: 159-psi-powers.webp
-definition: Contemporary-set psi stories in the recognizable present.
+definition: Contemporary-set psi stories in the recognizable present. Split at ten cards by which gift drives the story, into Psi telepathy (minds meeting), Psi foresight (sight beyond the moment) and Psi telekinesis (mind moving matter).
 status: accepted
-works:
-- dying-inside
-- carrie
-- mother-london
-- riot-baby
-- the-institute
-- the-philosopher-s-stone
-- the-sending
-- the-man-who-saw-seconds
-- twelve-days
-- lincolns-dreams
+works: []
 history:
 - date: '2026-10-08'
   change: Moved from Soft science fiction under pseudoscience-fiction in the Soft SF restructure; curator "Execute" (phonemsg-01M4DN59XKA7GQQBCC3FFNK714).
+- date: '2026-10-21'
+  change: Split at ten cards into Psi telepathy / Psi foresight / Psi telekinesis (curator "Approved", phonemsg-01M5ECYTBT376K4BQ1YEWNWTWM, 2026-10-21 6:54 AM); the umbrella holds no cards.

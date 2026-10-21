@@ -3,7 +3,7 @@ title: Twelve Days
 authors:
 - Steven Barnes
 first_published: 2017
-canonical_genre: psi-powers
+canonical_genre: psi-telekinesis
 placement_status: accepted
 placement_rationale: 'A paranormal thriller in the recognizable present: a martial-arts teacher offers a soldier mastery and
   an autistic boy a way past his limits while mass deaths and a terror plot unfold in Atlanta. Psi ability in the present
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: psi-powers
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  to: psi-telekinesis
+  reason: 'Split of Psi powers at ten cards; re-walked root-down: Speculative fiction -> Science fiction -> Modern day ->
+    Soft science fiction -> Pseudoscience fiction -> Psi powers -> Psi telekinesis (curator "Approved", phonemsg-01M5ECYTBT376K4BQ1YEWNWTWM).'
+  from: psi-powers

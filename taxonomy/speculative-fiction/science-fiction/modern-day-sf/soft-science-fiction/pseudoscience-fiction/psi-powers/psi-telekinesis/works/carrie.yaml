@@ -1,0 +1,24 @@
+id: carrie
+title: Carrie
+authors:
+- Stephen King
+first_published: 1974
+canonical_genre: psi-telekinesis
+placement_status: accepted
+placement_rationale: SFE describes King's first novel as focused on Psi Powers, notably Telekinesis. King's official synopsis
+  centers Carrie White gradually discovering telekinetic powers and using them in the prom confrontation; her mind-driven
+  physical power is the engine.
+books:
+- title: Carrie
+  year: 1974
+  cover_url: https://covers.openlibrary.org/b/id/15228374-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/15228374-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-21'
+  to: psi-telekinesis
+  reason: 'Split of Psi powers at ten cards; re-walked root-down: Speculative fiction -> Science fiction -> Modern day ->
+    Soft science fiction -> Pseudoscience fiction -> Psi powers -> Psi telekinesis (curator "Approved", phonemsg-01M5ECYTBT376K4BQ1YEWNWTWM).'
+  from: psi-powers

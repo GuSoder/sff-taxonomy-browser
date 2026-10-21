@@ -3,7 +3,7 @@ title: Lincoln's Dreams
 authors:
 - Connie Willis
 first_published: 1987
-canonical_genre: psi-powers
+canonical_genre: psi-telepathy
 placement_status: accepted
 placement_rationale: 'Walk: a historical researcher for a Civil War novelist meets Annie, a young woman who seems to be dreaming
   General Lee''s dreams; Wikipedia calls the book one of parapsychology and metaphysical speculation, set in the contemporary
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: psi-powers
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  to: psi-telepathy
+  reason: 'Split of Psi powers at ten cards; re-walked root-down: Speculative fiction -> Science fiction -> Modern day ->
+    Soft science fiction -> Pseudoscience fiction -> Psi powers -> Psi telepathy (curator "Approved", phonemsg-01M5ECYTBT376K4BQ1YEWNWTWM).'
+  from: psi-powers
