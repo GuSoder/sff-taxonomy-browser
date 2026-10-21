@@ -1,0 +1,38 @@
+id: the-kings-blades
+title: The King's Blades
+authors:
+- Dave Duncan
+first_published: 1998
+canonical_genre: champion-knights
+placement_status: accepted
+placement_rationale: 'Walk: in the land of Chivial the King''s Blades are expert swordsmen bound by a magic ritual to defend
+  their ward to the death, the king or whoever he names (Kirkus on The Gilded Chain; OCLS series page). The fighter holds
+  a place in a crown''s service and the fighting is that allegiance in action: Champion knights (7 to 8). Stand-alone volumes,
+  folded as one series card.'
+books:
+- title: The Gilded Chain
+  year: 1998
+  cover_url: https://pictures.abebooks.com/isbn/9780380974603-us.jpg
+- title: Sky of Swords
+  year: 2000
+  cover_url: https://pictures.abebooks.com/isbn/9780060555115-us.jpg
+- title: Paragon Lost
+  year: 2002
+  cover_url: https://pictures.abebooks.com/isbn/9780380978960-us.jpg
+- title: Impossible Odds
+  year: 2003
+  cover_url: https://pictures.abebooks.com/isbn/9780380818341-us.jpg
+- title: The Jaguar Knights
+  year: 2004
+  cover_url: https://pictures.abebooks.com/isbn/9780060555115-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780060555115-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02158, MC02162, MC02161, MC02159, MC02167)
+placement_history:
+- date: '2026-10-04'
+  to: champion-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
