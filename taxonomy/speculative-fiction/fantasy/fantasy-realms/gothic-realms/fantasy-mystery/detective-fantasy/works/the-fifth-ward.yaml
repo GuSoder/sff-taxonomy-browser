@@ -1,0 +1,31 @@
+id: the-fifth-ward
+title: The Fifth Ward
+authors:
+- Dale Lucas
+first_published: 2017
+canonical_genre: detective-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: in the city of Yenara the Watch Wardens keep order among humans, orcs, elves and dwarves; a police
+  procedural in fantasy dress, with the case as the institution''s business (Hachette, Barnes & Noble). Fantasy mystery from
+  official duty: Detective fantasy (7 to 8).'
+books:
+- title: First Watch
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/9338455-L.jpg
+- title: Friendly Fire
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/9338455-L.jpg
+- title: Good Company
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9338455-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9338455-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02056, MC02057, MC02058)
+placement_history:
+- date: '2026-10-04'
+  to: detective-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
