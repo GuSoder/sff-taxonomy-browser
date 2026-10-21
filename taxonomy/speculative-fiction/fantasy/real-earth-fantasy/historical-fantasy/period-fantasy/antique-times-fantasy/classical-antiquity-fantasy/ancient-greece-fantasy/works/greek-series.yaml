@@ -1,0 +1,32 @@
+id: greek-series
+title: Greek Series
+authors:
+- David Gemmell
+first_published: 1990
+canonical_genre: ancient-greece-fantasy
+placement_status: accepted
+placement_rationale: 'Penguin Random House (penguinrandomhouse.com/series/GKS/greek-series/) and davidgemmell.com/dark-prince/:
+  the Greek series follows the half-caste Spartan Parmenion in historical ancient Greece, where the aged seeress Tamis sees
+  dark forces threatening Greece and makes him the deadliest warrior, and in Dark Prince Parmenion fights to keep the child
+  Alexander, host to a chaos spirit, from the darkness, with a parallel version of the world created by a twist of fate. Real
+  ancient Greece with seers and a dark power is the frame. Seeded on the curator''s approval (phonemsg-01M5FZGNGS9X8DP59QAXEPT87E);
+  no existing leaf covers real ancient Greece (Roman fantasy is Rome, Greek myth fantasy retells myth). Walk: Fantasy > Real-earth
+  fantasy > Historical fantasy > Period fantasy > Antique times fantasy > Classical antiquity fantasy > Ancient Greece fantasy.'
+books:
+- title: Lion of Macedon
+  year: 1990
+  cover_url: https://pictures.abebooks.com/isbn/9780345485359-us.jpg
+- title: Dark Prince
+  year: 1991
+  cover_url: https://pictures.abebooks.com/isbn/9780345494788-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780345485359-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02354, MC02346)
+placement_history:
+- date: '2026-10-04'
+  to: ancient-greece-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

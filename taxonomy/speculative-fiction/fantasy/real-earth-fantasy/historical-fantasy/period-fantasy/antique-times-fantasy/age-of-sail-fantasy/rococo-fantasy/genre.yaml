@@ -1,6 +1,6 @@
 id: rococo-fantasy
 label: Rococo fantasy
-parent: antique-times-fantasy
+parent: age-of-sail-fantasy
 children: []
 image: 701-rococo-fantasy.webp
 definition: 'Fantasy of eighteenth-century Europe before the industrial age, the whole century in all its strata: courts,
@@ -29,4 +29,7 @@ history:
     11:03 AM CEST). The 701 file now carries the previous salon portrait (same bytes as 137); the bow-free perfumer-alley
     variant is kept aside in art-history/rococo-fantasy/701-perfumer-alley-2026-10-14.webp, not live. His word overrides the
     no-bows rule for this image.'
+- date: '2026-10-21'
+  change: Re-parented under Age of sail fantasy in the antiquity and early modern bundles (curator "Approved", phonemsg-01M5FZGNGS9X8DP59QAXEPT87E,
+    2026-10-21 9:37 PM).
 portrait: 701-rococo-fantasy.webp

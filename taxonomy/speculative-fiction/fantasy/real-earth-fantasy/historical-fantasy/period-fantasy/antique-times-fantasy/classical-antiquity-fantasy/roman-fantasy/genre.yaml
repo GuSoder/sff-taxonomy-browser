@@ -1,6 +1,6 @@
 id: roman-fantasy
 label: Roman fantasy
-parent: antique-times-fantasy
+parent: classical-antiquity-fantasy
 children: []
 works:
 - the-books-of-the-elements
@@ -18,3 +18,6 @@ portrait: 664-roman-fantasy.webp
 history:
 - date: '2026-10-11'
   change: Seeded for Drake's Books of the Elements; curator "Approved" (phonemsg-01M4NXXF2BJHZJD9BRDJXWRY3Q).
+- date: '2026-10-21'
+  change: Re-parented under Classical antiquity fantasy in the antiquity and early modern bundles (curator "Approved", phonemsg-01M5FZGNGS9X8DP59QAXEPT87E,
+    2026-10-21 9:37 PM).

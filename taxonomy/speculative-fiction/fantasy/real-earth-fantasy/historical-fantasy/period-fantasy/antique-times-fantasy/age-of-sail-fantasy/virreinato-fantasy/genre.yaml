@@ -1,0 +1,22 @@
+id: virreinato-fantasy
+label: Virreinato fantasy
+parent: age-of-sail-fantasy
+children: []
+image: 722-virreinato-fantasy.webp
+definition: 'Fantasy set in the Spanish viceroyalties of the Americas, the colonial centuries from the fall of Mexico (1521)
+  to independence (1821): silver cities and mine country, viceroys'' courts, missions and haciendas, with magic in it. Virreinato
+  is Spanish for viceroyalty. A regional era shelf: it overlaps Europe''s late Renaissance and Rococo centuries and the Mughal
+  shelf in years, separated by region, not by date.'
+status: accepted
+works:
+- the-possession-of-alba-diaz
+label_status: curator-coinage
+label_note: The curator's own name (phonemsg-01M529QX484WP53XARW2SQ0TZ2). Flagged before the seed that the Spanish word is
+  opaque to most English readers (the alternative was New Spain); he approved it as given.
+history:
+- date: '2026-10-16'
+  change: Seeded for Isabel Canas's The Possession of Alba Diaz (curator proposed the name, phonemsg-01M529QX484WP53XARW2SQ0TZ2;
+    "Approved", phonemsg-01M529SDVNK31VBC9HENQXMTKT).
+- date: '2026-10-21'
+  change: Re-parented under Age of sail fantasy in the antiquity and early modern bundles (curator "Approved", phonemsg-01M5FZGNGS9X8DP59QAXEPT87E,
+    2026-10-21 9:37 PM).

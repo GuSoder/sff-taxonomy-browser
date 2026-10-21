@@ -1,6 +1,6 @@
 id: renaissance-fantasy
 label: Renaissance fantasy
-parent: antique-times-fantasy
+parent: age-of-sail-fantasy
 children:
 - mediterranean-renaissance-fantasy
 - northern-renaissance-fantasy
@@ -11,3 +11,7 @@ definition: 'Fantasy anchored to Renaissance history, culture and personalities.
 status: accepted
 works: []
 ruling: curator "Reneaissance fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)
+history:
+- date: '2026-10-21'
+  change: Re-parented under Age of sail fantasy in the antiquity and early modern bundles (curator "Approved", phonemsg-01M5FZGNGS9X8DP59QAXEPT87E,
+    2026-10-21 9:37 PM).

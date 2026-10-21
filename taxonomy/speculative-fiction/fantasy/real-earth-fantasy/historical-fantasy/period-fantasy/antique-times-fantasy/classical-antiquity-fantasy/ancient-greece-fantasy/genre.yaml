@@ -1,0 +1,17 @@
+id: ancient-greece-fantasy
+label: Ancient Greece fantasy
+parent: classical-antiquity-fantasy
+children: []
+image: 761-ancient-greece-fantasy.webp
+definition: Fantasy set in the historical ancient Greek world, from the city-states and Sparta to Macedon and the Hellenistic
+  kingdoms, where magic, seers or the gods act inside real history. Not Greek myth fantasy (retold myths and heroes), not
+  Roman fantasy (Rome).
+status: provisional
+ruling: Seeded for Gemmell's Greek Series (curator "Approved", phonemsg-01M5FZGNGS9X8DP59QAXEPT87E, 2026-10-21 9:37 PM); bundled
+  with Roman fantasy in Classical antiquity fantasy.
+works:
+- greek-series
+history:
+- date: '2026-10-21'
+  change: Seeded with Gemmell's Greek Series; no leaf covered real ancient Greece (curator "Approved", phonemsg-01M5FZGNGS9X8DP59QAXEPT87E,
+    2026-10-21 9:37 PM).
