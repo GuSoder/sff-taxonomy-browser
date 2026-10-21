@@ -1874,62 +1874,62 @@ MC02250	Grimmer Than Hell	David Drake	2003	WALK
 MC02251	Hope Reborn	David Drake	2012	skip-omnibus	General omnibus (Raj Whitehall), The General in tree
 MC02252	Hope Reformed	David Drake	2014	skip-omnibus	General omnibus (Raj Whitehall), The General in tree
 MC02253	Hope Renewed	David Drake	2014	skip-omnibus	General omnibus (Raj Whitehall), The General in tree
-MC02254	In the Stormy Red Sky	David Drake	2008	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02255	Into the Hinterlands	David Drake	2011	placed	Breakaway space colonies (The Citizen)
-MC02256	Into the Maelstrom	David Drake	2015	placed	Breakaway space colonies (The Citizen)
+MC02254	In the Stormy Red Sky	David Drake	2008	already-placed	space-corvette: The RCN
+MC02255	Into the Hinterlands	David Drake	2011	already-placed	breakaway-space-colonies: The Citizen
+MC02256	Into the Maelstrom	David Drake	2015	already-placed	breakaway-space-colonies: The Citizen
 MC02257	Loose Cannon	David Drake	2011	WALK	
-MC02258	Lord of the Isles	David Drake	1998	placed-folded	Lord of the Isles, Hidden heir quest fantasy
-MC02259	Lt. Leary Commanding	David Drake	2000	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02260	Master of the Cauldron	David Drake	2004	placed-folded	Lord of the Isles, Hidden heir quest fantasy
-MC02261	Mistress of the Catacombs	David Drake	2002	placed-folded	Lord of the Isles, Hidden heir quest fantasy
+MC02258	Lord of the Isles	David Drake	1998	already-placed	hidden-heir-quest-fantasy: Lord of the Isles
+MC02259	Lt. Leary Commanding	David Drake	2000	already-placed	space-corvette: The RCN
+MC02260	Master of the Cauldron	David Drake	2004	already-placed	hidden-heir-quest-fantasy: Lord of the Isles
+MC02261	Mistress of the Catacombs	David Drake	2002	already-placed	hidden-heir-quest-fantasy: Lord of the Isles
 MC02262	Night & Demons	David Drake	2012	WALK	
-MC02263	Northworld Trilogy	David Drake	2007	placed-folded	Northworld trilogy (omnibus rows), Big dumb worlds
-MC02264	Northworld Trilogy, Second Edition	David Drake	2012	placed-folded	Northworld trilogy (omnibus rows), Big dumb worlds
+MC02263	Northworld Trilogy	David Drake	2007	already-placed	big-dumb-worlds: The Northworld Trilogy
+MC02264	Northworld Trilogy, Second Edition	David Drake	2012	already-placed	big-dumb-worlds: The Northworld Trilogy
 MC02265	Old Nathan	David Drake	1991	WALK	
 MC02266	Other Times Than Peace	David Drake	2006	WALK	
 MC02267	Patriots	David Drake	2009	WALK	
-MC02268	Paying the Piper	David Drake	2002	placed-space-mercs	Space mercs seed
-MC02269	Queen of Demons	David Drake	2006	placed-folded	Lord of the Isles, Hidden heir quest fantasy
-MC02270	Ranks of Bronze	David Drake	2007	placed-space-mercs	Space mercs seed
-MC02271	Redliners	David Drake	1997	placed	Redliners, Alien-war grunts
-MC02272	Redliners, Second Edition	David Drake	2013	placed-folded	Redliners, Alien-war grunts
-MC02273	Seas of Venus	David Drake	2002	placed-space-mercs	Space mercs seed
-MC02274	Seas of Venus, Second Edition	David Drake	2013	placed-space-mercs	Space mercs seed
-MC02275	Servant of the Dragon	David Drake	2006	placed-folded	Lord of the Isles, Hidden heir quest fantasy
-MC02276	Some Golden Harbor	David Drake	2006	placed-folded	The RCN (space-corvette), commit b04a21a
+MC02268	Paying the Piper	David Drake	2002	already-placed	space-mercs: Hammer's Slammers
+MC02269	Queen of Demons	David Drake	2006	already-placed	hidden-heir-quest-fantasy: Lord of the Isles
+MC02270	Ranks of Bronze	David Drake	2007	already-placed	space-mercs: Ranks of Bronze
+MC02271	Redliners	David Drake	1997	already-placed	alien-war-grunts: Redliners
+MC02272	Redliners, Second Edition	David Drake	2013	already-placed	alien-war-grunts: Redliners
+MC02273	Seas of Venus	David Drake	2002	already-placed	space-mercs: Seas of Venus
+MC02274	Seas of Venus, Second Edition	David Drake	2013	already-placed	space-mercs: Seas of Venus
+MC02275	Servant of the Dragon	David Drake	2006	already-placed	hidden-heir-quest-fantasy: Lord of the Isles
+MC02276	Some Golden Harbor	David Drake	2006	already-placed	space-corvette: The RCN
 MC02277	Starliner	David Drake	2004	WALK	
 MC02278	Starliner, Second Edition	David Drake	2012	WALK	
-MC02279	The Dragon Lord	David Drake	1979	placed	Arthur classic
-MC02280	The Far Side of the Stars	David Drake	2003	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02281	The Forlorn Hope	David Drake	2015	placed-space-mercs	Space mercs seed
-MC02282	The Gods Return	David Drake	2008	placed-folded	Lord of the Isles, Hidden heir quest fantasy
-MC02283	The Heretic	David Drake	2012	in-tree	taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/military-science-fiction/space-command/works/the-general.yaml
+MC02279	The Dragon Lord	David Drake	1979	already-placed	arthur-classic: The Dragon Lord
+MC02280	The Far Side of the Stars	David Drake	2003	already-placed	space-corvette: The RCN
+MC02281	The Forlorn Hope	David Drake	2015	already-placed	space-mercs: The Forlorn Hope
+MC02282	The Gods Return	David Drake	2008	already-placed	hidden-heir-quest-fantasy: Lord of the Isles
+MC02283	The Heretic	David Drake	2012	already-placed	space-command: The General
 MC02284	The Hunter Returns	David Drake	2015	WALK	
-MC02285	The Legions of Fire	David Drake	2010	placed	Roman fantasy (seed)
+MC02285	The Legions of Fire	David Drake	2010	already-placed	roman-fantasy: The Books of the Elements
 MC02286	The Lord of Isles Series	David Drake	2018	skip-omnibus	Lord of the Isles series omnibus
 MC02287	The Military Dimension: Mark II	David Drake	2009	WALK	
-MC02288	The Mirror of Worlds	David Drake	2008	placed-folded	Lord of the Isles, Hidden heir quest fantasy
+MC02288	The Mirror of Worlds	David Drake	2008	already-placed	hidden-heir-quest-fantasy: Lord of the Isles
 MC02289	The Reaches	David Drake	2004	WALK	
-MC02290	The Road of Danger	David Drake	2011	placed-folded	The RCN (space-corvette), commit b04a21a
+MC02290	The Road of Danger	David Drake	2011	already-placed	space-corvette: The RCN
 MC02291	The Sea Hag, Second Edition	David Drake	2012	WALK	
-MC02292	The Sea Without a Shore	David Drake	2014	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02293	The Serpent	David Drake	2021	WALK	
-MC02294	The Sharp End	David Drake	2009	placed-space-mercs	Space mercs seed
+MC02292	The Sea Without a Shore	David Drake	2014	already-placed	space-corvette: The RCN
+MC02293	The Serpent	David Drake	2021	already-placed	sword-and-planet: Cija / Atlantis
+MC02294	The Sharp End	David Drake	2009	already-placed	space-mercs: Hammer's Slammers
 MC02295	The Spark	David Drake	2017	WALK	
 MC02296	The Storm	David Drake	2018	WALK	
-MC02297	The Tank Lords, Second Edition	David Drake	2012	placed-space-mercs	Space mercs seed
-MC02298	The War Machine	David Drake	2012	placed-space-succession-opera	Crisis of Empire (one fiction)
-MC02299	The Way to Glory	David Drake	2005	placed-folded	The RCN (space-corvette), commit b04a21a
+MC02297	The Tank Lords, Second Edition	David Drake	2012	already-placed	space-mercs: Hammer's Slammers
+MC02298	The War Machine	David Drake	2012	already-placed	space-succession-opera: Crisis of Empire
+MC02299	The Way to Glory	David Drake	2005	already-placed	space-corvette: The RCN
 MC02300	The World Turned Upside Down	David Drake	2005	WALK	
-MC02301	Though Hell Should Bar the Way	David Drake	2018	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02302	To Clear Away the Shadows	David Drake	2018	placed-folded	The RCN (space-corvette), commit b04a21a
+MC02301	Though Hell Should Bar the Way	David Drake	2018	already-placed	space-corvette: The RCN
+MC02302	To Clear Away the Shadows	David Drake	2018	already-placed	space-corvette: The RCN
 MC02303	Up From Hell	David Drake	2016	WALK	
 MC02304	Voyage Across the Stars	David Drake	2011	WALK	
 MC02305	Warlord	David Drake	2003	in-tree-folded	Warlord = The Forge (Raj Whitehall), The General in tree
-MC02306	What Distant Deeps	David Drake	2009	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02307	When the Tide Rises	David Drake	2007	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02308	With the Lightnings	David Drake	2000	placed-folded	The RCN (space-corvette), commit b04a21a
-MC02309	With the Lightnings, Second Edition	David Drake	2013	placed-folded	The RCN (space-corvette), commit b04a21a
+MC02306	What Distant Deeps	David Drake	2009	already-placed	space-corvette: The RCN
+MC02307	When the Tide Rises	David Drake	2007	already-placed	space-corvette: The RCN
+MC02308	With the Lightnings	David Drake	2000	already-placed	space-corvette: The RCN
+MC02309	With the Lightnings, Second Edition	David Drake	2013	already-placed	space-corvette: The RCN
 MC02310	Belgarath the Sorcerer	David Eddings	1996	WALK	
 MC02311	Crystal Gorge	David Eddings		WALK	
 MC02312	Domes of Fire	David Eddings	1993	WALK	
@@ -1964,11 +1964,11 @@ MC02340	Twenty-First Century Science Fiction	David G. Hartwell	2013	WALK
 MC02341	Visions of Wonder	David G. Hartwell	1996	WALK	
 MC02342	Year's Best Fantasy 9	David G. Hartwell	2009	skip-collection	
 MC02343	Year's Best SF 18	David G. Hartwell	2013	skip-collection	
-MC02344	Bloodstone	David Gemmell	2011	WALK	
+MC02344	Bloodstone	David Gemmell	2011	already-placed	prehistoric-fantasy: Trickster's Game
 MC02345	Dark Moon	David Gemmell	2003	WALK	
 MC02346	Dark Prince	David Gemmell	2011	WALK	
 MC02347	Echoes of the Great Song	David Gemmell	2011	WALK	
-MC02348	Ghost King	David Gemmell	2011	WALK	
+MC02348	Ghost King	David Gemmell	2011	already-placed	hunter-hero: The Legend of Drizzt
 MC02349	In the Realm of the Wolf	David Gemmell	1998	WALK	
 MC02350	Ironhand's Daughter	David Gemmell	2007	WALK	
 MC02351	Knights of Dark Renown	David Gemmell	1993	WALK	
@@ -1976,7 +1976,7 @@ MC02352	Last Guardian	David Gemmell	1997	WALK
 MC02353	Last Sword of Power	David Gemmell	1996	WALK	
 MC02354	Lion of Macedon	David Gemmell	2011	WALK	
 MC02355	Midnight Falcon	David Gemmell	2011	WALK	
-MC02356	Morningstar	David Gemmell	2011	WALK	
+MC02356	Morningstar	David Gemmell	2011	already-placed	space-dystopias: Red Rising
 MC02357	Ravenheart	David Gemmell	2011	WALK	
 MC02358	Rhyming Rings	David Gemmell		WALK	
 MC02359	Stormrider	David Gemmell	2003	WALK	

@@ -1,0 +1,27 @@
+id: down-and-out-in-the-magic-kingdom
+title: Down and Out in the Magic Kingdom
+authors:
+- Cory Doctorow
+first_published: 2003
+canonical_genre: post-society-orders
+placement_status: accepted
+placement_rationale: 'Re-walked after the Post-society split: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Techno fiction > Technomorphosis > Post-society > Post-society orders. A post-scarcity world with a reputation economy where death is cured (Wikipedia; NYT, 2003): technology rewrites the order of the economy and status. Moved from Future social SF at the curator pointing (phonemsg-01M5FGCG4FYBWPNDGREATXSJ94). Not Future social SF (social-science driven); Terms of service, Satirical utopia, Hopepunk, Secluded utopias also rejected.'
+books:
+- title: Down and Out in the Magic Kingdom
+  year: 2003
+  cover_url: https://pictures.abebooks.com/isbn/9780765309532-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780765309532-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01954)
+placement_history:
+- date: '2026-10-04'
+  to: future-social-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  from: future-social-sf
+  to: post-society-orders
+  reason: 'Curator pointed to Post-society (phonemsg-01M5FGCG4FYBWPNDGREATXSJ94); split approved phonemsg-01M5FHAEX2ERBZP6ZQH3RJQ178.'

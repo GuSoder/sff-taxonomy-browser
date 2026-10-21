@@ -1,17 +1,13 @@
 id: post-society
 label: Post-society
 parent: technomorphosis
-children: []
+children:
+- post-society-orders
+- post-society-relations
 image: 180-post-society.webp
 definition: 'Technomorphosis centered on transformed collectives, classes, communities or landscapes: technology changes how shared life is organized.'
 status: accepted
-works:
-- the-diamond-age
-- the-dervish-house
-- air-or-have-not-have
-- anthropocene-rag
-- catnet
-- little-eyes
-- waste-tide
-- necroville
-- jump-225
+works: []
+history:
+- date: '2026-10-21'
+  change: "Split at ten cards into Post-society orders and Post-society relations (curator \"Approved\", phonemsg-01M5FHAEX2ERBZP6ZQH3RJQ178, 2026-10-21 5:29 PM; the name \"relations\" his, phonemsg-01M5FHBJMACT4ZW5DTX9FTZ0HK, 5:30 PM); the original stays umbrella."
