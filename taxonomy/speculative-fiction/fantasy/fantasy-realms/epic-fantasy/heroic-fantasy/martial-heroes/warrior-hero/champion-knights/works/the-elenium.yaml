@@ -1,0 +1,28 @@
+id: the-elenium
+title: The Elenium
+authors:
+- David Eddings
+first_published: 1991
+canonical_genre: champion-knights
+placement_status: accepted
+placement_rationale: 'PRH (penguinrandomhouse.com/books/44915/the-elenium-by-david-eddings/): Sparhawk, Knight and Queen''s
+  Champion, quests to save Queen Ehlana. Walk: Fantasy > Epic fantasy > Heroic fantasy > Martial heroes > Warrior hero > Champion
+  knights (fights for a queen and realm in her service; not Outcast knights, not a fellowship journey against an ancient dark).'
+books:
+- title: Ruby Knight
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/207839-L.jpg
+- title: Sapphire Rose
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/207867-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/207839-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02314, MC02315)
+placement_history:
+- date: '2026-10-04'
+  to: champion-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

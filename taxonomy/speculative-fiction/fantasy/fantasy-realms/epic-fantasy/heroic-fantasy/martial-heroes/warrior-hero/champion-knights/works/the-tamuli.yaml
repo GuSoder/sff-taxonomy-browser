@@ -1,0 +1,25 @@
+id: the-tamuli
+title: The Tamuli
+authors:
+- David Eddings
+first_published: 1993
+canonical_genre: champion-knights
+placement_status: accepted
+placement_rationale: 'PRH (penguinrandomhouse.com/books/44891/domes-of-fire-by-david-eddings/) and WorldCat: Sparhawk, Ehlana''s
+  champion and Prince Consort, is called to the Tamul Empire. Same hero and service as The Elenium. Walk: Fantasy > Epic fantasy
+  > Heroic fantasy > Martial heroes > Warrior hero > Champion knights.'
+books:
+- title: Domes of Fire
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/382536-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/382536-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02312)
+placement_history:
+- date: '2026-10-04'
+  to: champion-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

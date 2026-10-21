@@ -27,6 +27,9 @@ books:
 - id: MC05968
   title: Polgara the Sorceress
   year: 1997
+- title: Belgarath the Sorcerer
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/6461802-L.jpg
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/6610126-L.jpg
   shows_english_title: false
