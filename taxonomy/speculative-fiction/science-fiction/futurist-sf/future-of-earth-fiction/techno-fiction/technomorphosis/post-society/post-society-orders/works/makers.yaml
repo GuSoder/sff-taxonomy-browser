@@ -1,0 +1,28 @@
+id: makers
+title: Makers
+authors:
+- Cory Doctorow
+first_published: 2009
+canonical_genre: post-society-orders
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Techno fiction
+  > Technomorphosis > Post-society > Post-society orders. Near-future hardware hackers who "hack hardware, business-models,
+  and living arrangements" while the economy falls apart (Wikipedia, Makers (novel)); the publisher blurb has them invent
+  entirely new economic systems, the "New Work" (craphound.com/makers/about/). Technology rewriting how the economy and work
+  are organized: Post-society orders. Rejected: Post-society relations (the subject is the economy, not intimacy), Technothriller
+  (not a thriller). Sources: Wikipedia and author site, not the novel.'
+books:
+- title: Makers
+  year: 2009
+  cover_url: https://pictures.abebooks.com/isbn/9780765312815-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780765312815-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01958)
+placement_history:
+- date: '2026-10-04'
+  to: post-society-orders
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
