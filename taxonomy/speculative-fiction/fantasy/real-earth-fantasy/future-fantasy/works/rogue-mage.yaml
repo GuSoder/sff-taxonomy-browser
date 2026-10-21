@@ -1,0 +1,40 @@
+id: rogue-mage
+title: Rogue Mage
+authors:
+- Faith Hunter
+first_published: 2006
+canonical_genre: future-fantasy
+placement_status: accepted
+placement_rationale: 'Faith Hunter''s Rogue Mage (Wikipedia, Penguin Random House): a post-apocalyptic ice age about a century
+  after a Revelation-style apocalypse, where the neomage Thorn St. Croix uses stone magic and seraphs and demons are real,
+  so the magic is real and the books are fantasy. Moved from Wasteland settlements on the curator''s no-magic-in-science-fiction
+  ruling. Walk: Fantasy > Real-earth fantasy > Future fantasy (Earth''s own future after a catastrophe, magic and monsters
+  returned).'
+books:
+- title: Bloodring
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/295268-L.jpg
+- title: Seraphs
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1237176-L.jpg
+- title: Host
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/8283845-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/295268-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03106, MC03125, MC03118)
+placement_history:
+- date: '2026-10-04'
+  to: terminal-wastelands
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  to: wasteland-settlements
+  reason: Moved in the split of Terminal wastelands at ten cards (curator "Approved", phonemsg-01M5FSP924SR27F1HTDT8ZXFEY,
+    2026-10-21 7:56 PM).
+- date: '2026-10-21'
+  to: future-fantasy
+  reason: 'Moved from wasteland-settlements: curator no-magic-in-science-fiction recheck (phonemsg phonemsg-01M5FTG925J5N92JEHJJ01YBXH).'

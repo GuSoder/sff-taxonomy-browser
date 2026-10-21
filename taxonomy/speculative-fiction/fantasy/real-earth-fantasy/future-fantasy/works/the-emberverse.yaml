@@ -3,17 +3,13 @@ title: The Emberverse
 authors:
 - S. M. Stirling
 first_published: 2004
-canonical_genre: wasteland-settlements
+canonical_genre: future-fantasy
 placement_status: accepted
-placement_rationale: 'S. M. Stirling''s Emberverse (Roc and Ace, from Dies the Fire, 2004, to The Sky-Blue Wolves, 2018; Wikipedia
-  bibliography): on one night, called the Change, electricity, guns, explosives, internal combustion and steam power stop
-  working everywhere, most of humanity dies, and the survivors of Oregon''s Willamette Valley rebuild as farming clans and
-  feudal realms through three generations. 15 novels folded into the first as one shared universe (rule 11j); The Change anthology
-  is skipped. The series is the sequel setting of the Nantucket trilogy, which is a separate series. Walk: Science fiction
-  > Futurist > Future of Earth > Dystopian fiction > Post-holocaust survival (the living aftermath of a catastrophe) > Terminal
-  wastelands (unspecified or mixed-cause collapse, enduring a devastated world). Tried: Post-nuclear survival (not nuclear
-  war) and Post-pandemic survival (not disease). Wobble: later volumes are neo-medieval war and quest in the rebuilt world,
-  so the ''wasteland'' recedes after the early books.'
+placement_rationale: 'S. M. Stirling''s Emberverse (Wikipedia lists genres alternate history, science fiction, post-apocalyptic
+  and fantasy): after the Change stops electricity, firearms and engines worldwide, the later books bring supernatural powers
+  (a CUT High Seeker with supernatural powers in The Sword of the Lady, Wikipedia), so real magic is in the series. Moved
+  from Wasteland settlements on the curator''s no-magic-in-science-fiction ruling. Walk: Fantasy > Real-earth fantasy > Future
+  fantasy (Earth''s own future after a catastrophe, with magic). Soft: the supernatural arrives gradually across 15 novels.'
 books:
 - title: Dies the Fire
   year: 2004
@@ -62,3 +58,6 @@ placement_history:
   to: wasteland-settlements
   reason: Moved in the split of Terminal wastelands at ten cards (curator "Approved", phonemsg-01M5FSP924SR27F1HTDT8ZXFEY,
     2026-10-21 7:56 PM).
+- date: '2026-10-21'
+  to: future-fantasy
+  reason: 'Moved from wasteland-settlements: curator no-magic-in-science-fiction recheck (phonemsg phonemsg-01M5FTG925J5N92JEHJJ01YBXH).'

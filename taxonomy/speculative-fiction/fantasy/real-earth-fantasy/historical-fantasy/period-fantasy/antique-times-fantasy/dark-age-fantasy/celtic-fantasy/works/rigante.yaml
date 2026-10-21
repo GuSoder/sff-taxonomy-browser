@@ -1,0 +1,35 @@
+id: rigante
+title: Rigante
+authors:
+- David Gemmell
+first_published: 1998
+canonical_genre: celtic-fantasy
+placement_status: accepted
+placement_rationale: 'Penguin''s series page (penguin.co.uk/series/RIGANTE/rigante) presents the four-book Rigante series
+  as introducing the Rigante tribe, "mixing the intriguing worlds of Celtic Myth and ancient Earth Magic". Celtic myth is
+  the named source the leaf draws on; the setting is an invented world, so this is a soft placement. Walk: Fantasy > Fantasy
+  realms > Antique times fantasy > Dark age fantasy > Celtic fantasy.'
+books:
+- title: Sword in the Storm
+  year: 1998
+  cover_url: https://pictures.abebooks.com/isbn/9780345432346-us.jpg
+- title: Midnight Falcon
+  year: 1999
+  cover_url: https://pictures.abebooks.com/isbn/9780345432360-us.jpg
+- title: Ravenheart
+  year: 2001
+  cover_url: https://pictures.abebooks.com/isbn/9780345432261-us.jpg
+- title: Stormrider
+  year: 2002
+  cover_url: https://pictures.abebooks.com/isbn/9780345445773-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780345432346-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02360, MC02355, MC02357, MC02359)
+placement_history:
+- date: '2026-10-04'
+  to: celtic-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
