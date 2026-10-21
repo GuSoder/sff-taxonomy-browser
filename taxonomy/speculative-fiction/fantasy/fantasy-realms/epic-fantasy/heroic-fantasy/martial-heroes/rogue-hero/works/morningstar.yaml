@@ -1,0 +1,27 @@
+id: morningstar
+title: Morningstar
+authors:
+- David Gemmell
+first_published: 1992
+canonical_genre: rogue-hero
+placement_status: accepted
+placement_rationale: 'Penguin Random House (penguinrandomhouse.com/books/59006/morningstar-by-david-gemmell/) and sff180.com:
+  Jarek Mace, an outlaw, bandit and thief who acknowledges no obligations, is hailed as the legendary Morningstar after harassing
+  the invading Angostins for his own ends; the bard Owen Odell builds the legend, and Mace has to play the role through the
+  oncoming war to survive. His power is cunning survival and deception (a thief passing as a hero), the Rogue hero gate. Walk:
+  Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero.'
+books:
+- title: Morningstar
+  year: 1992
+  cover_url: https://pictures.abebooks.com/isbn/9780356503806-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780356503806-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02356)
+placement_history:
+- date: '2026-10-04'
+  to: rogue-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

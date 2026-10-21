@@ -1,0 +1,31 @@
+id: the-hawk-queen
+title: The Hawk Queen
+authors:
+- David Gemmell
+first_published: 1995
+canonical_genre: messianic-fantasy
+placement_status: accepted
+placement_rationale: 'Penguin Random House (penguinrandomhouse.com/books/58994/ironhands-daughter-by-david-gemmell/ and /series/THQ/the-hawk-queen/):
+  the highlanders are a conquered people under the Outlander baron Gottasson, and prophecies name a descendant of Ironhand
+  as the new leader who will throw off the yoke; Sigarni, the only one with Ironhand''s blood, is that figure. In book 2 she
+  crosses a gate into a parallel version of her universe to help the clans against the Aenir. The prophesied figure around
+  whom the order breaks is the governing frame, so Messianic fantasy; soft because book 2 turns to war and a portal quest.
+  Walk: Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Revolutionary fantasy > Messianic fantasy.'
+books:
+- title: Ironhand's Daughter
+  year: 1995
+  cover_url: https://pictures.abebooks.com/isbn/9780345458384-us.jpg
+- title: The Hawk Eternal
+  year: 1995
+  cover_url: https://pictures.abebooks.com/isbn/9780345458391-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780345458384-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02350, MC02361)
+placement_history:
+- date: '2026-10-04'
+  to: messianic-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
