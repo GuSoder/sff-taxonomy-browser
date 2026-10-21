@@ -1,0 +1,38 @@
+id: stones-of-power
+title: Stones of Power
+authors:
+- David Gemmell
+first_published: 1987
+canonical_genre: wasteland-journeys
+placement_status: accepted
+placement_rationale: 'The Sipstrassi series, placed on its Jon Shannow frame only: in Wolf in Shadow the lone wanderer Jon
+  Shannow, the Jerusalem Man, crosses a ruined world 300 years after "the fall", an apocalypse of unspecified cause (the book
+  hints at pollution and nuclear weapons); Gemmell''s site describes a lone wanderer searching a ruined world for Jerusalem,
+  and SFE calls the sequence science fantasy with Ruined-Earth framing books (the middle two are set in Roman-era Britain).
+  Crossing the ruin is the governing condition and its cause is unspecified. Walk: Science fiction > Futurist SF > Future
+  of Earth fiction > Dystopian fiction > Post-holocaust survival > Terminal wastelands > Wasteland journeys. Sources: davidgemmell.com/wolf-in-shadow,
+  en.wikipedia.org/wiki/Wolf_in_Shadow, sf-encyclopedia.com/entry/gemmell_david_a.'
+books:
+- title: Wolf in Shadow
+  year: 1987
+  cover_url: https://pictures.abebooks.com/isbn/9781857237887-us.jpg
+- title: Ghost King
+  year: 1988
+  cover_url: https://pictures.abebooks.com/isbn/9780345379023-us.jpg
+- title: Last Sword of Power
+  year: 1988
+  cover_url: https://pictures.abebooks.com/isbn/9780345416841-us.jpg
+- title: Last Guardian
+  year: 1989
+  cover_url: https://pictures.abebooks.com/isbn/9781857235821-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9781857237887-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02364, MC02348, MC02353, MC02352)
+placement_history:
+- date: '2026-10-04'
+  to: wasteland-journeys
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

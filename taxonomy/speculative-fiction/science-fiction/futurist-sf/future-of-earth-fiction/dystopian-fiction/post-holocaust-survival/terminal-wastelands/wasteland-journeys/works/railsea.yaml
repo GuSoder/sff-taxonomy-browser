@@ -1,0 +1,31 @@
+id: railsea
+title: Railsea
+authors:
+- China Mieville
+first_published: 2012
+canonical_genre: wasteland-journeys
+placement_status: accepted
+placement_rationale: 'NPR: Moby-Dick "remixed" on a future Earth whose poisoned ground is a wasteland teeming with giant carnivores,
+  crisscrossed by an endless rail network; a mole-train hunts its ivory monster across the devastation, and crossing the wasted
+  landscape is the governing condition, its cause unspecified (the poisoned "upsky"). Walk: Science fiction > Futurist SF
+  > Future of Earth fiction > Dystopian fiction > Post-holocaust survival > Terminal wastelands. Sources: npr.org, penguinrandomhouse.com.'
+books:
+- title: Railsea
+  year: 2012
+cover_curation:
+  status: complete
+  source: Open Library (Del Rey 2012)
+  selected_url: https://covers.openlibrary.org/b/id/7172616-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-17'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01676)
+placement_history:
+- date: '2026-10-17'
+  to: terminal-wastelands
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB; obvious
+    placement, no question per his 2026-10-17 ruling).'
+- date: '2026-10-21'
+  to: wasteland-journeys
+  reason: Moved in the split of Terminal wastelands at ten cards (curator "Approved", phonemsg-01M5FSP924SR27F1HTDT8ZXFEY,
+    2026-10-21 7:56 PM).

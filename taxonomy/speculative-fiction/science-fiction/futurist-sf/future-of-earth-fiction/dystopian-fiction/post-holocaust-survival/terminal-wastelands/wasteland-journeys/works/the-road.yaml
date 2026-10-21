@@ -3,7 +3,7 @@ title: The Road
 authors:
 - Cormac McCarthy
 first_published: 2006
-canonical_genre: terminal-wastelands
+canonical_genre: wasteland-journeys
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -14,3 +14,8 @@ cover_curation:
   selected_url: https://images.booksense.com/images/899/387/9780307387899.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-21'
+  to: wasteland-journeys
+  reason: Moved in the split of Terminal wastelands at ten cards (curator "Approved", phonemsg-01M5FSP924SR27F1HTDT8ZXFEY,
+    2026-10-21 7:56 PM).

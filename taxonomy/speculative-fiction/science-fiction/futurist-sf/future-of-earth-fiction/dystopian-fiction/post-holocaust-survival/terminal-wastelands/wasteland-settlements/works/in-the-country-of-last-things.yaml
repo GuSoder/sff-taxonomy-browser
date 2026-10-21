@@ -3,13 +3,11 @@ title: In the Country of Last Things
 authors:
 - Paul Auster
 first_published: 1987
-canonical_genre: terminal-wastelands
+canonical_genre: wasteland-settlements
 placement_status: accepted
-placement_rationale: SFE identifies a near-future New York reduced to a nightmarishly
-  entropic landscape, imprisoned by a vast Sea Wall Project; Penguin calls it dystopian
-  and post-apocalyptic and follows Anna scavenging food and shelter in a devastated
-  city. Immediate endurance inside the catastrophe’s living aftermath makes Post-Holocaust
-  Survival closest.
+placement_rationale: SFE identifies a near-future New York reduced to a nightmarishly entropic landscape, imprisoned by a
+  vast Sea Wall Project; Penguin calls it dystopian and post-apocalyptic and follows Anna scavenging food and shelter in a
+  devastated city. Immediate endurance inside the catastrophe’s living aftermath makes Post-Holocaust Survival closest.
 classification_sources:
 - https://sf-encyclopedia.com/entry/auster_paul
 - https://www.penguinrandomhouse.com/books/301190/in-the-country-of-last-things-by-paul-auster/
@@ -21,3 +19,8 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-18'
   review_method: one-pass
+placement_history:
+- date: '2026-10-21'
+  to: wasteland-settlements
+  reason: Moved in the split of Terminal wastelands at ten cards (curator "Approved", phonemsg-01M5FSP924SR27F1HTDT8ZXFEY,
+    2026-10-21 7:56 PM).

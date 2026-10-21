@@ -3,7 +3,7 @@ title: The Doloriad
 authors:
 - Missouri Williams
 first_published: 2022
-canonical_genre: terminal-wastelands
+canonical_genre: wasteland-settlements
 placement_status: accepted
 placement_rationale: 'Locus (Mond): an unknown cataclysm has wiped out humanity; in a deserted Czech city, one incest-born
   family ekes out a hard-scrabble existence under the Matriarch. Unspecified collapse whose defining condition is enduring
@@ -23,3 +23,7 @@ placement_history:
 - date: '2026-09-28'
   to: terminal-wastelands
   reason: 'Intake placement (gap-2022 batch n=336-350), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-21'
+  to: wasteland-settlements
+  reason: Moved in the split of Terminal wastelands at ten cards (curator "Approved", phonemsg-01M5FSP924SR27F1HTDT8ZXFEY,
+    2026-10-21 7:56 PM).
