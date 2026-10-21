@@ -1,0 +1,24 @@
+id: repo-virtual
+title: Repo Virtual
+authors:
+- Corey J. White
+first_published: 2020
+canonical_genre: cyberheist
+placement_status: accepted
+placement_rationale: 'Walk: Neo Songdo is a Russian doll of augmented and virtual realities and the book is a cyberpunk heist
+  story (Tor/Macmillan blurb). A job against the networked order from inside it: Cyberheist.'
+books:
+- title: Repo Virtual
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10150434-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10150434-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01946)
+placement_history:
+- date: '2026-10-04'
+  to: cyberheist
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
