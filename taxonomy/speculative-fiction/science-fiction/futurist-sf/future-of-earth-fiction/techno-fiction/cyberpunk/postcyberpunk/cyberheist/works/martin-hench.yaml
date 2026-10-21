@@ -1,0 +1,31 @@
+id: martin-hench
+title: Martin Hench
+authors:
+- Cory Doctorow
+first_published: 2023
+canonical_genre: cyberheist
+placement_status: accepted
+placement_rationale: 'Walk: forensic accountant Martin Hench is pulled into a cryptocurrency heist in Red Team Blues (Publishers
+  Weekly, Doctorow); the series follows his work unwinding high-tech scams from the first PCs to the crypto bubble (Doctorow).
+  Jobs against and inside the networked order: Cyberheist. Series folded as one card.'
+books:
+- title: Red Team Blues
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13186512-L.jpg
+- title: The Bezzle
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14596679-L.jpg
+- title: Picks and Shovels
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15109392-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13186512-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01962, MC01965, MC01960)
+placement_history:
+- date: '2026-10-04'
+  to: cyberheist
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
