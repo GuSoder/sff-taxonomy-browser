@@ -1,0 +1,31 @@
+id: the-ancient-blades-trilogy
+title: The Ancient Blades Trilogy
+authors:
+- David Chandler
+first_published: 2011
+canonical_genre: rogue-hero
+placement_status: accepted
+placement_rationale: 'Walk: Malden is an unparalleled thief in the Free City of Ness, with no wish to take up arms against
+  horrific evil, who is drawn into it by saving the knight Croy (Fantasy Book Review, HarperCollins). The hero''s power is
+  stealth and cunning survival: Rogue hero (8 to 9).'
+books:
+- title: Den of Thieves
+  year: 2011
+  cover_url: https://pictures.abebooks.com/isbn/9780062021243-us.jpg
+- title: A Thief in the Night
+  year: 2011
+  cover_url: https://pictures.abebooks.com/isbn/9780062021250-us.jpg
+- title: Honor Among Thieves
+  year: 2011
+  cover_url: https://pictures.abebooks.com/isbn/9780062021243-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780062021243-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02207, MC02206, MC02208)
+placement_history:
+- date: '2026-10-04'
+  to: rogue-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
