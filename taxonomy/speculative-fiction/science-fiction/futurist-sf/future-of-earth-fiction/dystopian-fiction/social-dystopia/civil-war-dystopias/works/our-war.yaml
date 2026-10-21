@@ -1,0 +1,24 @@
+id: our-war
+title: Our War
+authors:
+- Craig DiLouie
+first_published: 2019
+canonical_genre: civil-war-dystopias
+placement_status: accepted
+placement_rationale: 'Walk: after his impeachment the US president refuses to leave office and the country erupts into civil
+  war (author''s site, Orbit). A society breaking into open civil war: Civil war dystopias.'
+books:
+- title: Our War
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9338931-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9338931-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01973)
+placement_history:
+- date: '2026-10-04'
+  to: civil-war-dystopias
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
