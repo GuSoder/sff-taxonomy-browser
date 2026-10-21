@@ -1793,15 +1793,15 @@ MC02138	The Tempest Blade	Danielle L. Jensen	2026	WALK
 MC02139	The Traitor Queen	Danielle L. Jensen	2026	WALK	
 MC02140	The Twisted Throne	Danielle L. Jensen	2025	WALK	
 MC02141	The God Game	Danny Tobey		WALK	
-MC02142	Hex	Darieck Scott		WALK	
+MC02142	Hex	Darieck Scott		new	
 MC02143	Noise	Darin Bradley	2010	WALK	
 MC02144	City of the Snakes	Darren Shan		WALK	
 MC02145	Afterparty	Daryl Gregory	2014	WALK	
-MC02147	Im Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe	Daryl Gregory	2024	WALK	
-MC02148	Nine Last Days on Planet Earth	Daryl Gregory	2018	WALK	
+MC02147	Im Not Disappointed Just Mad AKA The Heaviest Couch in the Known Universe	Daryl Gregory	2024	skip	novella
+MC02148	Nine Last Days on Planet Earth	Daryl Gregory	2018	skip	novella
 MC02149	Pandemonium	Daryl Gregory	2008	WALK	
-MC02150	Raising Stony Mayhall	Daryl Gregory	2011	WALK	
-MC02151	The Album of Dr. Moreau	Daryl Gregory	2021	WALK	
+MC02150	Raising Stony Mayhall	Daryl Gregory	2011	placed-zombie-apocalypse	Stony Mayhall
+MC02151	The Album of Dr. Moreau	Daryl Gregory	2021	skip	novella
 MC02152	The Devil's Alphabet	Daryl Gregory	2009	WALK	
 MC02157	Children of Chaos	Dave Duncan	2006	WALK	
 MC02158	Gilded Chain	Dave Duncan		WALK	
@@ -1810,9 +1810,9 @@ MC02160	Mother of Lies	Dave Duncan	2007	WALK
 MC02161	Paragon Lost	Dave Duncan		WALK	
 MC02162	Sky of Swords	Dave Duncan		WALK	
 MC02163	Speak to the Devil	Dave Duncan	2010	WALK	
-MC02164	The Alchemist's Apprentice	Dave Duncan	2008	WALK	
-MC02165	The Alchemist's Code	Dave Duncan	2008	WALK	
-MC02166	The Alchemist's Pursuit	Dave Duncan	2009	WALK	
+MC02164	The Alchemist's Apprentice	Dave Duncan	2008	placed-mediterranean-renaissance-fantasy	Venice trilogy
+MC02165	The Alchemist's Code	Dave Duncan	2008	placed-mediterranean-renaissance-fantasy	Venice trilogy
+MC02166	The Alchemist's Pursuit	Dave Duncan	2009	placed-mediterranean-renaissance-fantasy	Venice trilogy
 MC02167	The Jaguar Knights	Dave Duncan		WALK	
 MC02168	When the Saints	Dave Duncan	2011	WALK	
 MC02169	Natural Selection	Dave Freedman		WALK	

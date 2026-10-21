@@ -1,0 +1,31 @@
+id: the-alchemist-venice-trilogy
+title: The Alchemist (Venice trilogy)
+authors:
+- Dave Duncan
+first_published: 2008
+canonical_genre: mediterranean-renaissance-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: an alternate-history Venice where magic and alchemy are prevalent (Goodreads series page), with
+  the clairvoyant Maestro Nostradamus in the first book (Orange County Library catalog). Italian city-state Renaissance fantasy:
+  Mediterranean Renaissance fantasy (5 to 6). Sources: Goodreads, OCLS; not read in full.'
+books:
+- title: The Alchemist's Apprentice
+  year: 2008
+  cover_url: https://pictures.abebooks.com/isbn/9780441015757-us.jpg
+- title: The Alchemist's Code
+  year: 2008
+  cover_url: https://pictures.abebooks.com/isbn/9780441015627-us.jpg
+- title: The Alchemist's Pursuit
+  year: 2009
+  cover_url: https://pictures.abebooks.com/isbn/9780441016785-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780441015757-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02164, MC02165, MC02166)
+placement_history:
+- date: '2026-10-04'
+  to: mediterranean-renaissance-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
