@@ -63,3 +63,7 @@ When a type of book keeps landing in leaves that only fit it by stretching, or k
 The curator, phonemsg-01M48JZVFV02KN5GW2K89JKXXW (2:28:35 PM): "We don't do horror in this taxonomy, that's ok", then corrected himself in phonemsg-01M48K0QS1JH6N00EY1P6RE8EN (2:29:05 PM): "I mean, we don't do pure horror, without speculative elements".
 
 Out of scope: pure horror with no speculative element (mundane killers, psychological horror); such books are not placed. In scope: any horror with a speculative element (ghosts, hauntings, folk demons, vampires, cursed objects). Those are walked like any other fantasy or SF. Books of that kind that find no honest leaf stay on the hanging list as the evidence for a possible new level-3 genre: so far The House of War and Witness, The Haunting of Alejandra, the Light series (Bradley), the Bullington books.
+
+## Modern technomancy (seeded 2026-10-21)
+Under Modern occult, for magic that runs through technology and media. Trigger: The Star and the Strange Moon would have been the tenth card of Occult institutions. Curator-proposed name and "Approved" (phonemsg-01M5FA1RVJSCSVQDA77KWZ9QZ1). Cards: Silver Nitrate, The Shadow Age, The Star and the Strange Moon.
+
