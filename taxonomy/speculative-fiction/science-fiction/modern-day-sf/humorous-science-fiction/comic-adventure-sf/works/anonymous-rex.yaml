@@ -3,7 +3,7 @@ title: Anonymous Rex
 authors:
 - Eric Garcia
 first_published: 1999
-canonical_genre: humorous-science-fiction
+canonical_genre: comic-adventure-sf
 placement_status: accepted
 placement_rationale: 'Root-down: Science fiction > Modern day > Humorous science fiction. Evolved dinosaurs have survived
   secretly and live in contemporary Los Angeles and Miami in artificial latex human disguises; velociraptor private eye Vincent
@@ -33,6 +33,12 @@ placement_history:
 - date: '2026-10-07'
   to: humorous-science-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  from: humorous-science-fiction
+  to: comic-adventure-sf
+  reason: 'Split of Humorous science fiction at ten cards; re-walked root-down: Speculative fiction -> Science fiction ->
+    Modern day -> Humorous science fiction -> Comic adventure SF (curator "Approved", phonemsg-01M5EV70ETPXKW42PWESME4A2E,
+    2026-10-21 11:03 AM).'
 classification_sources:
 - https://www.penguinrandomhouse.com/books/57969/hot-and-sweaty-rex-by-eric-garcia/
 - https://www.publishersweekly.com/9780375503269

@@ -3,7 +3,7 @@ title: Bellwether
 authors:
 - Connie Willis
 first_published: 1996
-canonical_genre: humorous-science-fiction
+canonical_genre: rom-com-sf
 placement_status: accepted
 placement_rationale: 'Walk: Dr. Sandra Foster studies fads in Boulder for her employer Hi-Tek, who wants to predict them (Wikipedia;
   Penguin Random House blurb: wit and inventiveness joining science, pop culture and the arcane). Comedy is the governing
@@ -23,3 +23,9 @@ placement_history:
 - date: '2026-10-04'
   to: humorous-science-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  from: humorous-science-fiction
+  to: rom-com-sf
+  reason: 'Split of Humorous science fiction at ten cards; re-walked root-down: Speculative fiction -> Science fiction ->
+    Modern day -> Humorous science fiction -> Rom-com SF (curator "Approved", phonemsg-01M5EV70ETPXKW42PWESME4A2E, 2026-10-21
+    11:03 AM).'

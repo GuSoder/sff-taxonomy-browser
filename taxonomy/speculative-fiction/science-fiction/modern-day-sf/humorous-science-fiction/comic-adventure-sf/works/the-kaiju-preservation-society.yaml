@@ -3,10 +3,10 @@ title: The Kaiju Preservation Society
 authors:
 - John Scalzi
 first_published: 2022
-canonical_genre: humorous-science-fiction
+canonical_genre: comic-adventure-sf
 placement_status: accepted
-placement_rationale: 'Comic Scalzi (Kirkus ''fun but with a purpose''; Locus): a laid-off delivery driver joins a team caring for kaiju on a parallel Earth. Humor
-  governs, so Humorous SF.'
+placement_rationale: 'Comic Scalzi (Kirkus ''fun but with a purpose''; Locus): a laid-off delivery driver joins a team caring
+  for kaiju on a parallel Earth. Humor governs, so Humorous SF.'
 classification_sources:
 - https://www.kirkusreviews.com/book-reviews/john-scalzi/the-kaiju-preservation-society/
 - https://locusmag.com/review/paul-di-filippo-reviews-john-scalzis-the-kaiju-preservation-society/
@@ -17,3 +17,10 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/13204838-L.jpg
   visually_reviewed_on: '2026-09-23'
   review_method: contact-sheet one-pass
+placement_history:
+- date: '2026-10-21'
+  from: humorous-science-fiction
+  to: comic-adventure-sf
+  reason: 'Split of Humorous science fiction at ten cards; re-walked root-down: Speculative fiction -> Science fiction ->
+    Modern day -> Humorous science fiction -> Comic adventure SF (curator "Approved", phonemsg-01M5EV70ETPXKW42PWESME4A2E,
+    2026-10-21 11:03 AM).'

@@ -4,7 +4,7 @@ authors:
 - Douglas Adams
 - Eoin Colfer
 first_published: 1979
-canonical_genre: humorous-science-fiction
+canonical_genre: comic-adventure-sf
 placement_status: accepted
 placement_rationale: 'Owner-ruled root-down: Science fiction > Modern day > Humorous science fiction. Curator "Hitchhiker
   is clearly modern day" (phonemsg-01M4AY010W8PRTWF5HJT832J8W, 2026-10-07 12:19:24), with the time-travel gate on the table,
@@ -55,6 +55,12 @@ placement_history:
     retains this whole universe in Modern day despite time-travel elements. This is a universe-specific owner exception to
     the general SF any-time-travel Atemporal rule, not a general comedy bypass. Six novels on one universe card: five by Douglas
     Adams, And Another Thing... (2009) by Eoin Colfer, verified as the sixth by Colfer and Penguin. No separate sequel card.'
+- date: '2026-10-21'
+  from: humorous-science-fiction
+  to: comic-adventure-sf
+  reason: 'Split of Humorous science fiction at ten cards; re-walked root-down: Speculative fiction -> Science fiction ->
+    Modern day -> Humorous science fiction -> Comic adventure SF (curator "Approved", phonemsg-01M5EV70ETPXKW42PWESME4A2E,
+    2026-10-21 11:03 AM).'
 classification_sources:
 - https://www.eoincolfer.com/works/and-another-thing
 - https://www.penguin.co.uk/books/133267/and-another-thing--by-colfer-eoin/9780141931203

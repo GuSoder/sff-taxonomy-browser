@@ -3,7 +3,7 @@ title: The Android's Dream
 authors:
 - John Scalzi
 first_published: 2006
-canonical_genre: humorous-science-fiction
+canonical_genre: satirical-sf
 placement_status: accepted
 placement_rationale: 'Scalzi''s The Android''s Dream (Tor, Oct 2006; Wikipedia; Publishers Weekly calls it a ''swashbuckling
   satire of interstellar diplomacy'', SFF180 an ''outright comedy''): the ex-soldier and State Department man Harry Creek
@@ -30,3 +30,9 @@ placement_history:
 - date: '2026-10-04'
   to: humorous-science-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  from: humorous-science-fiction
+  to: satirical-sf
+  reason: 'Split of Humorous science fiction at ten cards; re-walked root-down: Speculative fiction -> Science fiction ->
+    Modern day -> Humorous science fiction -> Satirical SF (curator "Approved", phonemsg-01M5EV70ETPXKW42PWESME4A2E, 2026-10-21
+    11:03 AM).'
