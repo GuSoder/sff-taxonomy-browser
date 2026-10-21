@@ -1,0 +1,24 @@
+id: the-hollow-man
+title: The Hollow Man
+authors:
+- Dan Simmons
+first_published: 1992
+canonical_genre: psi-telepathy
+placement_status: accepted
+placement_rationale: 'Walk: a university lecturer who can "hear" the thoughts of others, a gift he shares with his dying wife
+  (Wikipedia, The Hollow Man (Simmons novel)). Minds meeting in the recognizable present: Psi telepathy (3 to 4).'
+books:
+- title: The Hollow Man
+  year: 1992
+  cover_url: https://pictures.abebooks.com/isbn/9780553563504-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780553563504-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02086)
+placement_history:
+- date: '2026-10-04'
+  to: psi-telepathy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

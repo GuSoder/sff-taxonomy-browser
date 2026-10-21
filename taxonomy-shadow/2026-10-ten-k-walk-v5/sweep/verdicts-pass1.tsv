@@ -1751,16 +1751,16 @@ MC02080	Domesticating Dragons	Dan Koboldt	2020	WALK
 MC02081	The Rogue Retrieval	Dan Koboldt		WALK	
 MC02082	Black Hills	Dan Simmons		WALK	
 MC02083	Flashback	Dan Simmons		WALK	
-MC02084	Prayers to Broken Stones	Dan Simmons	1997	WALK	
+MC02084	Prayers to Broken Stones	Dan Simmons	1997	skip	collection
 MC02085	Song of Kali	Dan Simmons		WALK	
-MC02086	The Hollow Man	Dan Simmons	1993	WALK	
-MC02087	Worlds Enough & Time	Dan Simmons		WALK	
+MC02086	The Hollow Man	Dan Simmons	1993	placed-psi-telepathy	Hollow Man
+MC02087	Worlds Enough & Time	Dan Simmons		skip	collection
 MC02088	The Beast of Harwood Forest	Dan Smith		WALK	
 MC02089	The Horror of Dunwick Farm	Dan Smith		WALK	
 MC02090	The Invasion of Crooked Oak	Dan Smith		WALK	
-MC02091	Titan Song	Dan Stout	2021	WALK	
-MC02092	Titan's Day	Dan Stout	2021	WALK	
-MC02093	Titanshade	Dan Stout	2019	WALK	
+MC02091	Titan Song	Dan Stout	2021	placed-occult-cop	Titanshade
+MC02092	Titan's Day	Dan Stout	2021	placed-occult-cop	Titanshade
+MC02093	Titanshade	Dan Stout	2019	placed-occult-cop	Titanshade
 MC02094	Combat Command: Cut by Emerald	Dana Kramer	2017	WALK	
 MC02095	Vile Lady Villains	Danai Christopoulou		WALK	
 MC02096	Broken Dove	Dani Francis	2026	WALK	
@@ -1771,8 +1771,8 @@ MC02112	Jade Man's Skin	Daniel Fox	2010	WALK
 MC02113	Anyway: Angie	Daniel Jose Older	2014	WALK	
 MC02114	Ginga	Daniel Jose Older	2015	WALK	
 MC02115	Kia and Gio	Daniel Jose Older	2015	WALK	
-MC02116	Advocate	Daniel M. Ford	2025	WALK	
-MC02117	Necrobane	Daniel M. Ford	2024	WALK	
+MC02116	Advocate	Daniel M. Ford	2025	folded-black-mages	Warden card
+MC02117	Necrobane	Daniel M. Ford	2024	folded-black-mages	Warden card
 MC02118	Royal Gambit	Daniel O		WALK	
 MC02119	Stiletto	Daniel O		in-tree	taxonomy/speculative-fiction/fantasy/real-earth-fantasy/urban-fantasy/occult-police-fiction/occult-secret-service/works/the-rook-files.yaml
 MC02120	The Rook	Daniel O		in-tree	taxonomy/speculative-fiction/fantasy/real-earth-fantasy/urban-fantasy/occult-police-fiction/occult-secret-service/works/the-rook-files.yaml
