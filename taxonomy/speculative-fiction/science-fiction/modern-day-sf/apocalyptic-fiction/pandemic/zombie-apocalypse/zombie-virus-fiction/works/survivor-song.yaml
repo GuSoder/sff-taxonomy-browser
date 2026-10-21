@@ -3,7 +3,7 @@ title: Survivor Song
 authors:
 - Paul Tremblay
 first_published: 2020
-canonical_genre: zombie-apocalypse
+canonical_genre: zombie-virus-fiction
 placement_status: accepted
 placement_rationale: >-
   Root-down: SFE explicitly identifies a near-future zombie-creating pandemic; the publisher synopsis grounds a rabies-like saliva virus overrunning Massachusetts, collapsing hospitals and emergency protocols while an infected pregnant woman races for a vaccine. Biological outbreak and systemic collapse make Pandemic exact.
@@ -21,3 +21,7 @@ cover_curation:
 placement_history:
 - date: '2026-09-25'
   change: Moved to zombie-apocalypse in the pandemic three-way split (the curator ruling phonemsg-01M3D543ZBP2R9WMQH420W2D1P).
+- date: '2026-10-21'
+  from: zombie-apocalypse
+  to: zombie-virus-fiction
+  reason: 'Split of Zombie apocalypse by cause (curator Approved phonemsg-01M5FJRRY7TDYG9VAJ0005E646).'

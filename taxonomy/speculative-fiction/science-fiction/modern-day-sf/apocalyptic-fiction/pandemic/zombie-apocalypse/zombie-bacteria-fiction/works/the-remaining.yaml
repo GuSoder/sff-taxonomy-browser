@@ -2,7 +2,7 @@ id: the-remaining
 title: The Remaining
 authors:
 - D. J. Molles
-canonical_genre: zombie-apocalypse
+canonical_genre: zombie-bacteria-fiction
 placement_status: accepted
 placement_rationale: 'Walk: a soldier waits in a bunker while a bacterium has turned over 90% of the population into hyper-aggressive
   creatures (author''s site, djmolles.com/books/the-remaining). The plague turns people into the infected: Zombie apocalypse
@@ -21,3 +21,7 @@ placement_history:
 - date: '2026-10-04'
   to: zombie-apocalypse
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-21'
+  from: zombie-apocalypse
+  to: zombie-bacteria-fiction
+  reason: 'Split of Zombie apocalypse by cause (curator Approved phonemsg-01M5FJRRY7TDYG9VAJ0005E646).'

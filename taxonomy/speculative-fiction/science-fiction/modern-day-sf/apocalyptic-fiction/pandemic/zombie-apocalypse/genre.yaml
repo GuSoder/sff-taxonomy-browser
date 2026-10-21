@@ -1,18 +1,16 @@
 id: zombie-apocalypse
 label: Zombie apocalypse
 parent: pandemic
-children: []
+children:
+- zombie-virus-fiction
+- zombie-bacteria-fiction
+- zombie-fungus-fiction
+- zombie-mystery-fiction
 image: 358-zombie-apocalypse.webp
 definition: 'Pandemic fiction in which the plague turns people: the infected, the risen dead, the fevered - the monster is the victim. Split 2026-09-25 from Pandemic (the curator ruling).'
 status: accepted
-works:
-- world-war-z
-- survivor-song
-- severance
-- brains
-- the-girl-with-all-the-gifts
-- manhunt
-- black-tide-rising
-- the-remaining
-- raising-stony-mayhall
+works: []
 ruling: 'Split from pandemic by the curator 2026-09-25 (phonemsg-01M3D543ZBP2R9WMQH420W2D1P): three-way split by plague mode; split-with-umbrella keeps Pandemic on top.'
+history:
+- date: '2026-10-21'
+  change: "Split at ten cards by the cause of the zombification into Zombie virus, bacteria, fungus and mystery fiction (curator \"Approved\", phonemsg-01M5FJRRY7TDYG9VAJ0005E646, 2026-10-21 5:55 PM, of his axis and names in phonemsg-01M5FJH3VQFYMMPXRN5N7T6BB3); the original stays umbrella."

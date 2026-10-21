@@ -3,7 +3,7 @@ title: Manhunt
 authors:
 - Gretchen Felker-Martin
 first_published: 2022
-canonical_genre: zombie-apocalypse
+canonical_genre: zombie-virus-fiction
 placement_status: accepted
 placement_rationale: 'Root-down: Science fiction -> Modern day -> Apocalyptic fiction
   -> Pandemic -> Zombie apocalypse. NPR (McBain, cited in Wikipedia): ''a virus turns
@@ -28,3 +28,7 @@ placement_history:
   to: zombie-apocalypse
   reason: 'Intake placement (gap-2022 batch n=239-245), autonomous per standing instruction:
     existing-leaf fit.'
+- date: '2026-10-21'
+  from: zombie-apocalypse
+  to: zombie-virus-fiction
+  reason: 'Split of Zombie apocalypse by cause (curator Approved phonemsg-01M5FJRRY7TDYG9VAJ0005E646).'

@@ -1,0 +1,40 @@
+id: autumn
+title: Autumn
+authors:
+- David Moody
+first_published: 2010
+canonical_genre: zombie-virus-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day SF > Apocalyptic fiction > Pandemic >
+  Zombie apocalypse > Zombie virus fiction. After 99% of the world''s population dies in under 24 hours, the dead begin to
+  rise, animated by "phase two" of "some unknown contagion" (author''s site, davidmoody.net/books-2/the-autumn-series/autumn/);
+  Kirkus calls the cause "a fast-moving virus" (kirkusreviews.com/book-reviews/david-moody/autumn2/). Virus by the reviewer;
+  the author does not name the type, so this is the softest placement in the leaf. Rejected: Zombie mystery fiction (the sources
+  call it a virus/contagion), Die-off (the dead rise, the zombie is the subject). Sources: author site and Kirkus, not the
+  novels.'
+books:
+- title: 'Autumn: Aftermath'
+  year: 2010
+  cover_url: https://pictures.abebooks.com/isbn/9780575091481-us.jpg
+- title: 'Autumn: Disintegration'
+  year: 2010
+  cover_url: https://pictures.abebooks.com/isbn/9780575091429-us.jpg
+- title: 'Autumn: Purification'
+  year: 2010
+  cover_url: https://pictures.abebooks.com/isbn/9780575091399-us.jpg
+- title: 'Autumn: The City'
+  year: 2010
+  cover_url: https://pictures.abebooks.com/isbn/9780575091337-us.jpg
+- title: Autumn
+  cover_url: https://pictures.abebooks.com/isbn/9780575091290-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780575091290-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02388, MC02389, MC02390, MC02391, MC02387)
+placement_history:
+- date: '2026-10-04'
+  to: zombie-virus-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
