@@ -1,0 +1,26 @@
+id: seconds
+title: Seconds
+authors:
+- David Ely
+first_published: 1963
+canonical_genre: psychological-sf
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day SF > Soft science fiction > Social science
+  fiction > Psychological SF. Per Kirkus and Google Books (Pantheon, 1963): a middle-aged banker, Wilson, pays an anonymous
+  organization that stages his death, remakes his face by surgery and gives him a new identity, and the novel follows what
+  that new self does to him. The mind and identity are the experiment. Soft call: it is also a suspense thriller, but Technothriller
+  is about technical detail, and here the surgery is only the premise.'
+books:
+- title: Seconds
+  year: 1963
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780062264923-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02324)
+placement_history:
+- date: '2026-10-04'
+  to: psychological-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

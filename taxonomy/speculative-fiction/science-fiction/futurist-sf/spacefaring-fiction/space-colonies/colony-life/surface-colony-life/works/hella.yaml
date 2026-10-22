@@ -1,0 +1,26 @@
+id: hella
+title: Hella
+authors:
+- David Gerrold
+first_published: 2020
+canonical_genre: surface-colony-life
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Space colonies
+  > Colony life > Surface colony life. PRH and Astra: Hella is a planet where trees are mile-high, dinosaur herds are huge
+  and the weather is so extreme that the colonists migrate twice a year; Locus calls it an alien-planet colonization adventure.
+  Land, weather and distance are the daily condition of the settlers, the leaf''s definition. Soft call: it is also a colonization
+  adventure, near Planet ecology fiction, but the settlers'' life drives it, not a worked-out planet.'
+books:
+- title: Hella
+  year: 2020
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10312543-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02365)
+placement_history:
+- date: '2026-10-04'
+  to: surface-colony-life
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

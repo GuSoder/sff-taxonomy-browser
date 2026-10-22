@@ -1,0 +1,27 @@
+id: sandymancer
+title: Sandymancer
+authors:
+- David Edison
+first_published: 2023
+canonical_genre: new-weird
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal SF > New Weird. Tor''s synopsis (torpublishinggroup.com/sandymancer):
+  Caralee Vinnet, in a world of dust where water is the most precious thing, has sand magic in her bones and summons a mad
+  god trying to fix the world he broke; Tor calls it ''a genre-warping mashup of weird fantasy and hard science fiction''.
+  That is the New Weird definition (mingles science-fiction and dark-fantasy modes in a strange, materially detailed setting
+  that resists a single genre). Not a Fantasy leaf (the engine and setting are science-fictional as well) and not Hard science
+  fantasy (the magic is not explained by technology). Soft call: the cover carries a review quote.'
+books:
+- title: Sandymancer
+  year: 2023
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780765379610-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02322)
+placement_history:
+- date: '2026-10-04'
+  to: new-weird
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
