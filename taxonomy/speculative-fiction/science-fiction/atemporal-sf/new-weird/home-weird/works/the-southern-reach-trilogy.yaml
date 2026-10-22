@@ -3,7 +3,7 @@ title: The Southern Reach Trilogy
 authors:
 - Jeff VanderMeer
 first_published: 2014
-canonical_genre: new-weird
+canonical_genre: home-weird
 placement_status: accepted
 placement_rationale: ''
 books:
@@ -22,7 +22,12 @@ books:
 cover_curation:
   status: complete
   selected_url: https://images.booksense.com/images/042/824/9781250824042.jpg
-  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit; per-book covers from one Open Library author search, single pass.
+  audit_2026_09_23: YAML backfilled from live index.html (parity gap) during series cover audit; per-book covers from one
+    Open Library author search, single pass.
 placement_history:
 - date: '2026-09-23'
   change: Absolution (2024), the fourth Southern Reach book (NYT, Guardian), added to the series card; gap-2022 awards tier.
+- date: '2026-10-22'
+  to: home-weird
+  reason: Moved in the split of New weird at ten cards (curator "Approved" (phonemsg-01M5JB21HA15KCZB76HR7GHDQ9, 2026-10-22
+    7:38 PM)).

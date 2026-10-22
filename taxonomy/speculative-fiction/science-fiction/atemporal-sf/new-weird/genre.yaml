@@ -1,20 +1,16 @@
 id: new-weird
 label: New Weird
 parent: atemporal-sf
-children: []
+children:
+- far-weird
+- home-weird
 image: 18-new-weird.webp
 definition: Cross-genre speculative fiction that freely mingles science-fiction, dark-fantasy, and horror modes, often using
   strange, materially detailed settings, grotesquerie, ecological unease, or transformations that resist a single explanatory
-  genre.
+  genre. Split at ten cards into Far weird and Home weird.
 status: accepted
-works:
-- bas-lag
-- the-southern-reach-trilogy
-- cyber-mage
-- dead-astronauts
-- her-body-and-other-parties
-- sleeping-worlds-have-no-memory
-- dengue-boy
-- the-etched-city
-- the-iron-dragon
-- sandymancer
+works: []
+history:
+- date: '2026-10-22'
+  change: Split at ten cards into Far weird and Home weird (curator "Approved" (phonemsg-01M5JB21HA15KCZB76HR7GHDQ9, 2026-10-22
+    7:38 PM)); the original stays umbrella.
