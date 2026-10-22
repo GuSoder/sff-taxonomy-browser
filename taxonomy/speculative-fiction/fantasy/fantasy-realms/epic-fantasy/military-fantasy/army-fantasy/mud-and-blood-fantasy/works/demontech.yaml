@@ -1,0 +1,33 @@
+id: demontech
+title: Demontech
+authors:
+- David Sherman
+first_published: 2002
+canonical_genre: mud-and-blood-fantasy
+placement_status: accepted
+placement_rationale: 'PRH (penguinrandomhouse.com/series/A46/demontech/): the Dark Prince''s demon-summoning armies conquer
+  nation after nation and two Marines, Haft and Spinner, fight and retreat through the war gathering refugees and soldiers.
+  Real demon magic, so fantasy; the war seen from the soldiers'' ranks. Walk: Fantasy > Fantasy realms > Epic fantasy > Military
+  fantasy > Army fantasy > Mud and blood fantasy. Soft call: Soldier fantasy (one unit) is the other candidate; the story
+  follows the whole campaign.'
+books:
+- title: Onslaught
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/210183-L.jpg
+- title: Rally Point
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/210184-L.jpg
+- title: Gulf Run
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/210185-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/210183-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02402, MC02403, MC02401)
+placement_history:
+- date: '2026-10-04'
+  to: mud-and-blood-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

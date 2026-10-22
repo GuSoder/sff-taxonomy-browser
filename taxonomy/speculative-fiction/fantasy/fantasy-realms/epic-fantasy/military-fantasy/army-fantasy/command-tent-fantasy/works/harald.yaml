@@ -1,0 +1,26 @@
+id: harald
+title: Harald
+authors:
+- David Friedman
+first_published: 2006
+canonical_genre: command-tent-fantasy
+placement_status: accepted
+placement_rationale: 'Author''s page (daviddfriedman.com/harald/Harald.html): Harald, farmer and former commander of the allied
+  armies, must rebuild the alliance, raise an army from the Vales, end a civil war and prepare for the Emperor''s legions;
+  alliances, supply and strategy decide the war. Walk: Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy
+  > Command-tent fantasy. Soft call: no source I read says whether magic is present; it sits in a secondary world either way.'
+books:
+- title: Harald
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/8315233-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8315233-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02333)
+placement_history:
+- date: '2026-10-04'
+  to: command-tent-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

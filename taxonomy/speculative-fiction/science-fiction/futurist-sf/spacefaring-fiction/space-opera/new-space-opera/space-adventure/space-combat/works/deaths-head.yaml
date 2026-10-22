@@ -1,0 +1,32 @@
+id: deaths-head
+title: Death's Head
+authors:
+- David Gunn
+first_published: 2007
+canonical_genre: space-combat
+placement_status: accepted
+placement_rationale: 'PRH (penguinrandomhouse.com/books/72879/deaths-head-by-david-gunn/) and Penguin UK series page (penguin.co.uk/series/DEATH/deaths-head):
+  Sven Tveskoeg, ex-Legion sergeant, is a soldier and assassin sent on special-operations missions by an empire''s elite Death''s
+  Head force; the books are missions and fights. Walk: Science fiction > Futurist SF > Spacefaring fiction > Space opera >
+  New space opera > Space adventure > Space combat. Soft call: it is also military SF, but the engine is the fight, not the
+  ranks, the command or a hired unit.'
+books:
+- title: Death's Head
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/212574-L.jpg
+- title: 'Death''s Head: Maximum Offence'
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6445609-L.jpg
+- title: 'Death''s Head: Day of the Damned'
+  year: 2009
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/212574-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02366, MC02367, MC02368)
+placement_history:
+- date: '2026-10-04'
+  to: space-combat
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

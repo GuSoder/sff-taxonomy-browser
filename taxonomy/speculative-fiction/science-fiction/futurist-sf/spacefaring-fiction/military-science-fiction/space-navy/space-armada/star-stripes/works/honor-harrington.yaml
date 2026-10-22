@@ -7,24 +7,19 @@ authors:
 first_published: 1993
 canonical_genre: star-stripes
 placement_status: accepted
-placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science
-  fiction > Space navy > Space armada (8, would be 9). David Weber''s Honorverse (Honor Harrington, Crown of Slaves, Saganami
-  Island and Star Kingdom, all one shared universe, rule 11j, folded into one fiction; the six Worlds of Honor anthologies,
-  MC02416, 02420, 02437, 02446, 02464 and 02489, are skipped as anthologies, and the Ascent to Empire novels Governor and
-  Rebel are a separate Weber and Fox series, not folded). Honor Harrington commands a Manticoran light cruiser on a distant
-  picket in On Basilisk Station (Wikipedia https://en.wikipedia.org/wiki/On_Basilisk_Station; Baen/S&S copy), then squadrons
-  and the Royal Manticoran Navy''s fleets in the long war with the People''s Republic of Haven, to admiral and First Space
-  Lord; the cycle is naval war from the bridge. Space navy children: Space armada = the state war fleet, fleets, admirals
-  and formations, where the fleet and its campaigns are the story; Space corvette (6) = one small ship and her crew on their
-  own, which fits the first volumes only (Basilisk, the Fearless) and not the cycle, which is fleet-scale from Honor Among
-  Enemies on; ground-pounders, space-command (campaigns directed from the top, a close second, rejected because the books
-  stay on the flag bridge and the ship rather than the staff view) and space-academy (only Saganami Island) fail. Years: ISFDB
-  (https://www.isfdb.org/cgi-bin/ea.cgi?David_Weber=, series Honor Harrington pe.cgi?171) gives the first-publication years
-  used here; the queue''s later years are Baen reissues (for example On Basilisk Station 1993, queue 1994; Mission of Honor
-  2010, queue 2009; A Rising Thunder 2012, queue 2011; Honor of the Queen 2nd edition is 2013). Toll of Honor is dated 2024
-  by ISFDB (queue says 2020; the Baen page gives no date). Cover: the Baen reissue jacket of On Basilisk Station from baen.com.
-  Wobble: moderate; the early books sit in Space corvette and the later political war books straddle Space command, and the
-  fiction is placed where the series centre of gravity is.'
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Military science fiction > Space navy > Space armada (8,
+  would be 9). David Weber''s Honorverse (Honor Harrington, Crown of Slaves, Saganami Island and Star Kingdom, all one shared universe, rule 11j, folded into one
+  fiction; the six Worlds of Honor anthologies, MC02416, 02420, 02437, 02446, 02464 and 02489, are skipped as anthologies, and the Ascent to Empire novels Governor
+  and Rebel are a separate Weber and Fox series, not folded). Honor Harrington commands a Manticoran light cruiser on a distant picket in On Basilisk Station (Wikipedia
+  https://en.wikipedia.org/wiki/On_Basilisk_Station; Baen/S&S copy), then squadrons and the Royal Manticoran Navy''s fleets in the long war with the People''s Republic
+  of Haven, to admiral and First Space Lord; the cycle is naval war from the bridge. Space navy children: Space armada = the state war fleet, fleets, admirals and
+  formations, where the fleet and its campaigns are the story; Space corvette (6) = one small ship and her crew on their own, which fits the first volumes only (Basilisk,
+  the Fearless) and not the cycle, which is fleet-scale from Honor Among Enemies on; ground-pounders, space-command (campaigns directed from the top, a close second,
+  rejected because the books stay on the flag bridge and the ship rather than the staff view) and space-academy (only Saganami Island) fail. Years: ISFDB (https://www.isfdb.org/cgi-bin/ea.cgi?David_Weber=,
+  series Honor Harrington pe.cgi?171) gives the first-publication years used here; the queue''s later years are Baen reissues (for example On Basilisk Station 1993,
+  queue 1994; Mission of Honor 2010, queue 2009; A Rising Thunder 2012, queue 2011; Honor of the Queen 2nd edition is 2013). Toll of Honor is dated 2024 by ISFDB
+  (queue says 2020; the Baen page gives no date). Cover: the Baen reissue jacket of On Basilisk Station from baen.com. Wobble: moderate; the early books sit in Space
+  corvette and the later political war books straddle Space command, and the fiction is placed where the series centre of gravity is.'
 books:
 - title: On Basilisk Station
   year: 1993
@@ -77,15 +72,24 @@ books:
   year: 2018
 - title: Toll of Honor
   year: 2024
+- title: A Call to Duty
+  year: 2014
+- title: A Call to Arms
+  year: 2015
+- title: A Call to Vengeance
+  year: 2016
+- title: A Call to Insurrection
+  year: 2022
+- title: A New Clan
+  year: 2022
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: cover-honor-harrington.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC02451, MC02460, MC02467, MC02426, MC02428, MC02433, MC02436, MC02423, MC02413, MC02485,
-  MC02421, MC02465, MC02414, MC02456, MC02481, MC02445, MC02405, MC02412, MC02427, MC02454, MC02482, MC02419, MC02455, MC02483,
-  MC02480)
+intake: ten-k walk v5 (queue ids MC02451, MC02460, MC02467, MC02426, MC02428, MC02433, MC02436, MC02423, MC02413, MC02485, MC02421, MC02465, MC02414, MC02456, MC02481,
+  MC02445, MC02405, MC02412, MC02427, MC02454, MC02482, MC02419, MC02455, MC02483, MC02480)
 placement_history:
 - date: '2026-10-04'
   to: space-armada
@@ -93,5 +97,4 @@ placement_history:
 - date: '2026-10-12'
   from: space-armada
   to: star-stripes
-  reason: 'Space armada split into Starbridge / Star stripes on the curator''s approval; re-walked: this card sits in Star
-    stripes.'
+  reason: 'Space armada split into Starbridge / Star stripes on the curator''s approval; re-walked: this card sits in Star stripes.'
