@@ -1,23 +1,18 @@
 id: alien-expedition
 label: Alien expedition
 parent: first-contact
-children: []
+children:
+- xenological-expeditions
+- exoplanet-expeditions
 image: 209-alien-expedition.webp
 definition: First-contact fiction in which humans travel outward on a mission or voyage and encounter an extraterrestrial
-  intelligence or society away from Earth.
+  intelligence or society away from Earth. Split at ten cards into Xenological expeditions and Exoplanet expeditions.
 status: accepted
-works:
-- a-case-of-conscience
-- the-sparrow
-- binti
-- semiosis
-- shroud
-- lady-hanna
-- tales-of-the-three-kings
-- andromedan-dark
-- forge-of-the-elders
-- the-last-astronaut
+works: []
 history:
 - date: '2026-10-22'
   change: Heaven's Shadow moved to Big dumb relics (curator "I was actually thinking heavens shadow with an alien object was
     more of a big dumb object" (phonemsg-01M5J3SZ6WFYA68AN2CF20ZNC4, 2026-10-22 5:31 PM)).
+- date: '2026-10-22'
+  change: Split at ten cards into Xenological expeditions and Exoplanet expeditions (curator "Approved" (phonemsg-01M5JBQ2GEA8N1NAK6XH0YNKG6,
+    2026-10-22 7:49 PM), on his own names (phonemsg-01M5HZ86YR5V8DCKHZJ6D4HK0X)); the original stays umbrella.
