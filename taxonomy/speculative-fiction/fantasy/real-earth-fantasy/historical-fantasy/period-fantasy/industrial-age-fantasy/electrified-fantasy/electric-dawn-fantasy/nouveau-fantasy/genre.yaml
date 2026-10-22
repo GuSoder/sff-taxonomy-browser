@@ -1,0 +1,19 @@
+id: nouveau-fantasy
+label: Nouveau fantasy
+parent: electric-dawn-fantasy
+children: []
+image: 777-nouveau-fantasy.webp
+definition: 'Urban, artistic and hopeful fantasy of the Art Nouveau years, roughly 1890-1914: the new modern city, its salons,
+  stages, workshops and exhibitions, with a turn-of-the-century sense of optimism and wonder where Gaslight fantasy holds
+  dread. Any city, any craft or art. Not Gaslight fantasy (the dread and the long nineteenth century), not Bowler hat fantasy
+  (American, rural or immigrant life, not the artistic city), not Gatsby fantasy (the Jazz Age).'
+status: provisional
+ruling: Seeded under electric-dawn-fantasy on the curator's go (curator "Ok, can you seed Neuveau fantasy with it ... and
+  go ahead with Gatsby fantasy" (phonemsg-01M5JJJA7ZB9FQHPFTZ92KSXNJ, 2026-10-22 9:49 PM CEST)).
+works:
+- the-golden-city
+portrait: 777-nouveau-fantasy.webp
+history:
+- date: '2026-10-22'
+  change: Created (curator "Ok, can you seed Neuveau fantasy with it ... and go ahead with Gatsby fantasy" (phonemsg-01M5JJJA7ZB9FQHPFTZ92KSXNJ,
+    2026-10-22 9:49 PM CEST)).
