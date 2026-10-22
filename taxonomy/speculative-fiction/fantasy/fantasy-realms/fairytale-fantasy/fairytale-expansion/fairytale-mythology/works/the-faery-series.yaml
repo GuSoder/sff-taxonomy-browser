@@ -1,0 +1,36 @@
+id: the-faery-series
+title: The Faery series
+authors:
+- Dennis L. McKiernan
+first_published: 2002
+canonical_genre: fairytale-mythology
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy > Fantasy realms > Fairytale fantasy > Fairytale expansion > Fairytale mythology.
+  Per McKiernan''s own foreword at mithgar.com and Penguin Random House: the first four books (Once Upon a Winter''s Night,
+  Summer Day, Autumn Eve, Spring Morn) are known fairy tales, each retold as a long novel set in the land of Faery, a seasonal
+  cycle of Winter, Spring, Summer and Autumn Woods; the fifth, Once Upon a Dreadful Time, grows out of their events, pitting
+  the four heroic couples against the wizard Orbane and the witch Hradian. The tales grow into one invented realm with its
+  own seasons and powers. Soft: Fairytale epilogue is the runner-up; the sources do not say which tales the books retell beyond
+  calling them known tales. One card for the five-book series.'
+books:
+- title: Once Upon a Winter's Night
+  year: 2002
+- title: Once Upon a Summer Day
+  year: 2006
+- title: Once Upon an Autumn Eve
+  year: 2007
+- title: Once Upon a Spring Morn
+  year: 2007
+- title: Once Upon a Dreadful Time
+  year: 2007
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/1237196-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02564, MC02563, MC02565, MC02562, MC02561)
+placement_history:
+- date: '2026-10-04'
+  to: fairytale-mythology
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

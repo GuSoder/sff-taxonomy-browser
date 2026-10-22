@@ -1,0 +1,42 @@
+id: mithgar
+title: Mithgar
+authors:
+- Dennis L. McKiernan
+first_published: 1990
+canonical_genre: evergreen-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy > Fantasy realms > Epic fantasy > Quest fantasy > Classic quest fantasy > Fellowship
+  quest fantasy > Evergreen quest fantasy. Per Penguin Random House''s Mithgar series page and mithgar.com: a secondary world
+  whose books send companions after an ancient dark - two Warrows carry a coin east to warn Agron of the black Mage Modru
+  (Into the Forge), a fellowship of two sworn enemies seeks a lost warhammer against a dragon (Dragondoom), a crew of men
+  and dwarves sails after a lost city (City of Jade). The series begins in 1984 with The Iron Tower trilogy (Goodreads publication
+  order), which puts it in the founding line. Soft: this card holds seven later books (1990-2014), not the 1984 trilogy, and
+  Stolen Crown is a usurper-war history rather than a journey, so the late dates and that book sit at the edge of the leaf''s
+  cutoff. Series is one card; Tales and omnibus editions are not carded. Cover carries a publisher tagline; no clean edition
+  found.'
+books:
+- title: Dragondoom
+  year: 1990
+- title: The Eye of the Hunter
+  year: 1992
+- title: Voyage of the Fox Rider
+  year: 1993
+- title: The Dragonstone
+  year: 1996
+- title: Into the Forge
+  year: 1997
+- title: City of Jade
+  year: 2008
+- title: Stolen Crown
+  year: 2014
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8191806-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02559, MC02568, MC02569, MC02567, MC02560, MC02558, MC02566)
+placement_history:
+- date: '2026-10-04'
+  to: evergreen-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
