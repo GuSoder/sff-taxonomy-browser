@@ -1,0 +1,27 @@
+id: princess
+title: Princess
+authors:
+- Dawn Cook
+first_published: 2005
+canonical_genre: dynastic-spy-games
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Court intrigue > Dynastic intrigues
+  > Dynastic spy games. Per Penguin Random House and Bookey: Princess Contessa learns she is an orphan raised as a decoy to
+  shield the real princess, and must live by hidden identity, betrayal and plots around the crown; in book 2 she is a queen
+  whose magic is the real prize pirates miss. Soft: it is also a coming-of-age adventure.'
+books:
+- title: The Decoy Princess
+  year: 2005
+- title: Princess at Sea
+  year: 2006
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284311-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02506, MC02505)
+placement_history:
+- date: '2026-10-04'
+  to: dynastic-spy-games
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
