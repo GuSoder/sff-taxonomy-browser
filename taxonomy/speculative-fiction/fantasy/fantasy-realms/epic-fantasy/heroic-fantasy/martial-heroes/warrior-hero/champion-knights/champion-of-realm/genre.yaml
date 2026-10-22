@@ -1,0 +1,20 @@
+id: champion-of-realm
+label: Champion of Realm
+parent: champion-knights
+children: []
+image: 763-champion-of-realm.webp
+definition: 'Champion knights fantasy where the fighter fights for a whole realm and its people: the battle captain who rises
+  to lead armies against an invader. Not Champion of Crown (there the fighter is sworn to a ruler''s person), not Champion
+  Lord (there the fighter rules the land himself).'
+status: provisional
+ruling: 'Split of Champion knights at ten cards by whose fight it is: a ruler''s person, a realm, or the fighter''s own land
+  (curator "Approved" (phonemsg-01M5H1AJ4ST4ZBKPMCHGMC6F31, 2026-10-22 7:28 AM), on the curator''s own names); the original
+  stays umbrella.'
+works:
+- drenai-saga
+- ravens-shadow
+- the-covenant-of-steel
+history:
+- date: '2026-10-22'
+  change: Created in the split of Champion knights at ten cards (curator "Approved" (phonemsg-01M5H1AJ4ST4ZBKPMCHGMC6F31,
+    2026-10-22 7:28 AM)).

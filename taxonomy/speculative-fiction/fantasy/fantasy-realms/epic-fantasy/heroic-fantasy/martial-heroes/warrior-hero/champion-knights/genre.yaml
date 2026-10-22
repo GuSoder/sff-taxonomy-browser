@@ -1,25 +1,18 @@
 id: champion-knights
 label: Champion knights
 parent: warrior-hero
-children: []
+children:
+- champion-of-crown
+- champion-of-realm
+- champion-lord
 image: 680-champion-knights.webp
-portrait: 680-champion-knights.webp
 definition: 'Warrior hero fantasy where the fighter fights for someone: a people, a crown, a realm or a cause. The protagonist
   holds or earns a place in a lord''s, queen''s or nation''s service and the fighting is that allegiance in action. Not Outcast
   knights (there the fighter''s own master is gone, threw him out or never existed), not Ranger hero (tracker and wilderness
-  skill), not Rogue hero (stealth and cunning).'
+  skill), not Rogue hero (stealth and cunning). Split at ten cards into Champion of Crown, Champion of Realm and Champion
+  Lord.'
 status: accepted
-works:
-- drenai-saga
-- jirel-of-joiry
-- the-worm-ouroboros
-- the-well-of-the-unicorn
-- the-burning
-- ravens-shadow
-- the-covenant-of-steel
-- the-kings-blades
-- the-elenium
-- the-tamuli
+works: []
 ruling: 'Split of Warrior hero at ten cards (Land Fit for Heroes held at the gate), approved by the curator''s "Approved"
   (2026-10-12 4:36:07 PM CEST, phonemsg-01M4R8NNR9VE8N9T8T2PXE3BQM, on his own names Champion knights / Outcast knights),
   after the intake''s "Approve split?" question; names are the curator''s own. Axis: whose fight it is, a people, crown or
@@ -30,3 +23,6 @@ history:
 - date: '2026-10-12'
   change: Created by the Warrior hero split; the curator's "Approved" (2026-10-12 4:36:07 PM CEST, phonemsg-01M4R8NNR9VE8N9T8T2PXE3BQM,
     on his own names Champion knights / Outcast knights).
+- date: '2026-10-22'
+  change: Split at ten cards into Champion of Crown, Champion of Realm and Champion Lord (curator "Approved" (phonemsg-01M5H1AJ4ST4ZBKPMCHGMC6F31,
+    2026-10-22 7:28 AM)); the original stays umbrella.

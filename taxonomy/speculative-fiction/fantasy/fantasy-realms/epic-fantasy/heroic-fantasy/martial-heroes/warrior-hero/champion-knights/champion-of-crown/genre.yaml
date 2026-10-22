@@ -1,0 +1,21 @@
+id: champion-of-crown
+label: Champion of Crown
+parent: champion-knights
+children: []
+image: 762-champion-of-crown.webp
+definition: 'Champion knights fantasy where the fighter is sworn to a ruler''s person: the queen''s champion, the king''s
+  blade, the guard who stands at the throne. Not Champion of Realm (there the fighter leads armies for a whole realm), not
+  Champion Lord (there the fighter is the ruler of the land he fights for).'
+status: provisional
+ruling: 'Split of Champion knights at ten cards by whose fight it is: a ruler''s person, a realm, or the fighter''s own land
+  (curator "Approved" (phonemsg-01M5H1AJ4ST4ZBKPMCHGMC6F31, 2026-10-22 7:28 AM), on the curator''s own names); the original
+  stays umbrella.'
+works:
+- the-elenium
+- the-tamuli
+- the-kings-blades
+- the-burning
+history:
+- date: '2026-10-22'
+  change: Created in the split of Champion knights at ten cards (curator "Approved" (phonemsg-01M5H1AJ4ST4ZBKPMCHGMC6F31,
+    2026-10-22 7:28 AM)).

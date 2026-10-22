@@ -1,0 +1,46 @@
+id: ravens-shadow
+title: Raven's Shadow
+authors:
+- Anthony Ryan
+first_published: 2012
+canonical_genre: champion-of-realm
+placement_status: accepted
+placement_rationale: 'Root-down walk: invented world (the Unified Realm and the Volarian Empire), so Fantasy realms; Epic
+  fantasy, Heroic fantasy, Martial heroes, Warrior hero. Source (anthonyryan.net and the series blurbs): Vaelin Al Sorna is
+  left at ten at the gate of the Sixth Order, a caste devoted to battle, where he is trained as a warrior of the Faith; his
+  father was Battle Lord to King Janus. In Queen of Fire he must help his Queen reclaim the Realm and is named Battle Lord
+  of the Realm against the invading Volarian army. His fighting is service to a crown and realm, so Champion knights, not
+  Outcast knights (he has an order and a queen) and not Command-tent fantasy (the books follow Vaelin the fighter, not the
+  generals'' map). Wobble: the trilogy is also large-scale war, so World-at-war and Soldier fantasy (full at 9) were considered;
+  the protagonist focus decides it. Years per Wikipedia: 2012, 2014, 2015 (Blood Song was self-published before the 2012 deal).
+  The Raven''s Blade books (The Wolf''s Call 2019, The Black Song 2020) are folded in as the same world and hero: the publisher
+  blurb (anthonyryan.net/books/the-wolfs-call-book-one-of-the-ravens-blade/) has Vaelin Al Sorna returning as a living legend
+  who left glory for a quiet life in the Realm''s north. Covenant of Steel (Alwyn Scribe) is a separate walk.'
+books:
+- title: Blood Song
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8952054-L.jpg
+- title: Tower Lord
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8954285-L.jpg
+- title: Queen of Fire
+  year: 2015
+- title: The Wolf's Call
+  year: 2019
+- title: The Black Song
+  year: 2020
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8952054-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00794, MC00805, MC00796)
+placement_history:
+- date: '2026-10-04'
+  to: champion-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-22'
+  to: champion-of-realm
+  reason: Moved in the split of Champion knights at ten cards (curator "Approved" (phonemsg-01M5H1AJ4ST4ZBKPMCHGMC6F31, 2026-10-22
+    7:28 AM)).
