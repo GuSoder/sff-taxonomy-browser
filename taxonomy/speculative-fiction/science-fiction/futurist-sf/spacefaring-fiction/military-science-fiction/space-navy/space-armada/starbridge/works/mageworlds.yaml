@@ -1,0 +1,40 @@
+id: mageworlds
+title: Mageworlds
+authors:
+- Debra Doyle
+- James D. Macdonald
+first_published: 1992
+canonical_genre: starbridge
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction > Futurist SF > Spacefaring fiction > Military science fiction > Space navy
+  > Space armada > Starbridge. Per Tor and ISFDB (SF), SFE (space opera) and the blurbs: the Republic''s Space Force against
+  the Mageworlds across the Magewars (Galcen falls in book 3; The Long Hunt is a generation after the Second Magewar). The
+  war is the arc across seven books. Soft, three ways: SFE notes fantasy outcomes (Mages) so it is a NO-REAL-MAGIC watch item,
+  the books mix pilot adventure (Space dash runner-up) and war, and Stars Asunder and A Working of Stars are prequels. Stars
+  Asunder year is 1999 (ISFDB), intake row lists 2011.'
+books:
+- title: The Price of the Stars
+  year: 1992
+- title: Starpilot's Grave
+  year: 1993
+- title: By Honor Betray'd
+  year: 1994
+- title: The Gathering Flame
+  year: 1995
+- title: The Long Hunt
+  year: 1996
+- title: The Stars Asunder
+  year: 1999
+- title: A Working of Stars
+  year: 2002
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/603285-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02532, MC02529, MC02527, MC02531, MC02534, MC02533, MC02526)
+placement_history:
+- date: '2026-10-04'
+  to: starbridge
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
