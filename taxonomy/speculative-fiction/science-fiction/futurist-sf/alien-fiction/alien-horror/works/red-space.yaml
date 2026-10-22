@@ -1,0 +1,29 @@
+id: red-space
+title: Red Space
+authors:
+- David Wellington
+first_published: 2023
+canonical_genre: alien-horror
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction > Futurist SF > Alien fiction > Alien horror. Hachette and Wikipedia describe
+  the Red Space trilogy as survival horror in deep space: a crew sent to a silent colony finds that what remains of the colony
+  is not human. The engine is dread and predation, not war or first contact. Years: Paradise-1 2023, Revenant-X Nov 2024,
+  Erebus-13 Jul 2026 (Hachette AU ebook date).'
+books:
+- title: Paradise-1
+  year: 2023
+- title: Revenant-X
+  year: 2024
+- title: Erebus-13
+  year: 2026
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/13295280-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02492, MC02494, MC02491)
+placement_history:
+- date: '2026-10-04'
+  to: alien-horror
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

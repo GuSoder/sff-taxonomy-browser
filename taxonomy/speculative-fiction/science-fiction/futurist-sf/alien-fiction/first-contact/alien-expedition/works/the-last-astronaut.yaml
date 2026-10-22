@@ -1,0 +1,26 @@
+id: the-last-astronaut
+title: The Last Astronaut
+authors:
+- David Wellington
+first_published: 2019
+canonical_genre: alien-expedition
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction > Futurist SF > Alien fiction > First contact > Alien expedition. Per Kirkus:
+  an object enters the solar system and slows toward Earth, and NASA sends the Orion crew out to make contact and enter the
+  alien craft, where the story turns to survival horror. Humans travel outward on a mission and meet the intelligence away
+  from Earth. Soft: it is also set on near-future Earth under threat (Near-future first contact) and it has a horror turn
+  (Alien horror).'
+books:
+- title: The Last Astronaut
+  year: 2019
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9338679-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02495)
+placement_history:
+- date: '2026-10-04'
+  to: alien-expedition
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,24 @@
+id: positive
+title: Positive
+authors:
+- David Wellington
+first_published: 2015
+canonical_genre: zombie-virus-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction > Modern day SF > Apocalyptic fiction > Pandemic > Zombie apocalypse > Zombie
+  virus fiction. Per Kirkus: twenty years after a zombie pandemic, a virus with a 20-year gestation period turns people, and
+  the 19-year-old Finn is tattooed positive and sent toward the Akron medical camps. The zombie condition is viral infection.'
+books:
+- title: Positive
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780062315373-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02493)
+placement_history:
+- date: '2026-10-04'
+  to: zombie-virus-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

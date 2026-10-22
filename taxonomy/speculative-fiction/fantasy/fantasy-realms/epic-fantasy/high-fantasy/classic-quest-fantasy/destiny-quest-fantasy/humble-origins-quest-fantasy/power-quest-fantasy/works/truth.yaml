@@ -1,0 +1,32 @@
+id: truth
+title: Truth
+authors:
+- Dawn Cook
+first_published: 2002
+canonical_genre: power-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy > Fantasy realms > Epic fantasy > Quest fantasy > Classic quest fantasy > Destiny
+  quest fantasy > Humble origins quest fantasy > Power quest fantasy. Per Audible and Penguin Random House: Alissa, a girl
+  who does not believe in magic, travels to the Hold to be taught magic by the Masters and grows through four books into a
+  Keeper. The rise from nothing is into hard-won personal power. Soft: runner-up is Grey mages (learned magic). Lost Truth
+  is a 2004 ebook.'
+books:
+- title: First Truth
+  year: 2002
+- title: Hidden Truth
+  year: 2002
+- title: Forgotten Truth
+  year: 2003
+- title: Lost Truth
+  year: 2004
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8311310-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02501, MC02503, MC02502, MC02504)
+placement_history:
+- date: '2026-10-04'
+  to: power-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
