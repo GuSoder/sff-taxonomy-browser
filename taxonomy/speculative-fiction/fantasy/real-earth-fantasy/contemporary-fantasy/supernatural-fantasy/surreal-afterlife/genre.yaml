@@ -1,18 +1,15 @@
 id: surreal-afterlife
 label: Surreal afterlife
 parent: supernatural-fantasy
-children: []
+children:
+- afterreal-worlds
+- afterreal-edges
 image: 95-surreal-afterlife.webp
-definition: Supernatural fiction that renders death, dying, or disembodied existence as a strange and dreamlike reality.
+definition: Supernatural fiction that renders death, dying, or disembodied existence as a strange and dreamlike reality. Split
+  at ten cards into Afterreal worlds and Afterreal edges.
 status: accepted
-works:
-- the-third-policeman
-- out-of-body
-- how-the-dead-live
-- pincher-martin
-- sweet-dreams
-- katabasis
-- incarnations-of-immortality
-- one-year-ago-in-spain
-- the-leaving-room
-- the-waking-engine
+works: []
+history:
+- date: '2026-10-22'
+  change: Split at ten cards into Afterreal worlds and Afterreal edges (curator "Approved" (phonemsg-01M5JAC70HQBZT29BFS2K2YVB7,
+    2026-10-22 7:26 PM)); the original stays umbrella.
