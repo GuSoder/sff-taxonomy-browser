@@ -1,0 +1,27 @@
+id: the-sea-hag
+title: The Sea Hag
+authors:
+- David Drake
+first_published: 1988
+canonical_genre: outcast-knights
+placement_status: accepted
+placement_rationale: 'Baen (baen.com/the-sea-hag-second-edition.html) blurb: Dennis flees the crystal walls of Emath when
+  he learns the truth behind the city his father rules, and in the jungle his sword arm is tested by monsters before a final
+  wizardry. A fighter sworn to no one who fled his own palace, fighting for his love and his soul. Walk: Fantasy > Fantasy
+  realms > Epic fantasy > Heroic fantasy > Martial heroes > Warrior hero > Outcast knights. Soft call: Dennis also meets wizardry,
+  but the book''s engine is the sword arm.'
+books:
+- title: The Sea Hag
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/4649923-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/4649923-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02291)
+placement_history:
+- date: '2026-10-04'
+  to: outcast-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

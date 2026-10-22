@@ -1,0 +1,26 @@
+id: patriots
+title: Patriots
+authors:
+- David Drake
+first_published: 1996
+canonical_genre: breakaway-space-colonies
+placement_status: accepted
+placement_rationale: 'Fictiondb (fictiondb.com/book/patriots~david-drake~107176.htm) blurb: the corrupt government of Earth
+  sends an army to the frontier planet Greenwood to remove the settlers, who join together to save their homes. The contest
+  is colony against Earth, the Breakaway space colonies definition. Walk: Science fiction > Futurist SF > Spacefaring fiction
+  > Space colonies > Space colony politics > Breakaway space colonies.'
+books:
+- title: Patriots
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/182662-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182662-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02267)
+placement_history:
+- date: '2026-10-04'
+  to: breakaway-space-colonies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

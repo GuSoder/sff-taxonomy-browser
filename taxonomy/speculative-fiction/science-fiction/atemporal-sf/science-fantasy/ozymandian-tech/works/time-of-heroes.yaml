@@ -1,0 +1,30 @@
+id: time-of-heroes
+title: Time of Heroes
+authors:
+- David Drake
+first_published: 2017
+canonical_genre: ozymandian-tech
+placement_status: accepted
+placement_rationale: 'Baen (baen.com/the-spark.html) and Locus review (locusmag.com/review/carolyn-cushman-reviews-the-spark-by-david-drake/):
+  a far future where shattered worlds are joined by a strange Road, remnants of an ancient empire whose broken artifacts a
+  few Makers can reshape; a Leader rebuilds order and Champions like Pal fight the monsters. Arthurian in shape (Publishers
+  Weekly: Arthurian legend with far-future super science), but the wonders are the Ancients'' technology, so Ozymandian tech.
+  Walk: Speculative fiction > Science fiction > Atemporal SF > Science fantasy > Ozymandian tech. Soft call.'
+books:
+- title: The Spark
+  year: 2017
+  cover_url: https://pictures.abebooks.com/isbn/9781481482769-us.jpg
+- title: The Storm
+  year: 2018
+  cover_url: https://pictures.abebooks.com/isbn/9781481483698-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9781481482769-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02295, MC02296)
+placement_history:
+- date: '2026-10-04'
+  to: ozymandian-tech
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
