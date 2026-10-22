@@ -1,0 +1,30 @@
+id: the-outside
+title: The Outside
+authors:
+- Ada Hoffmann
+first_published: 2019
+canonical_genre: ai-overlords
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Techno-fiction
+  -> Robots and AI. Angry Robot centers super-intelligent AI Gods ruling humanity, policing technology and reality through
+  posthuman agents, then coercing a scientist to hunt her mentor. Cosmic horror supplies the register, but machine minds and
+  their domination of human science and society govern.'
+classification_sources:
+- https://angryrobotbooks.com/books/the-outside/
+- https://www.publishersweekly.com/9780857668134
+cover_curation:
+  status: complete
+  source: Angry Robot
+  selected_url: cover-the-outside.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass official publisher
+placement_history:
+- date: '2026-09-23'
+  change: 'Robots and AI split into Machine minds (the curator ruling 2026-09-23 10:37): moved to AI by the embodiment test.
+    Walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine minds
+    -> AI'
+- date: '2026-10-22'
+  to: ai-overlords
+  reason: Moved in the split of AI at ten cards (curator "Approved" (phonemsg-01M5JCK2HSW2VSDAG49JFZQENR, 2026-10-22 8:04
+    PM), on his own names (phonemsg-01M5JCEVT57K1A8A76S69VG6S6, phonemsg-01M5JCJAR0MM550KH7BWVKA4TS)).

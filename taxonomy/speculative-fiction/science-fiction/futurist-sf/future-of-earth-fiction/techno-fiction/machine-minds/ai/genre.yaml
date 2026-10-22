@@ -2,21 +2,18 @@ id: ai
 name: AI
 label: AI
 parent: machine-minds
-children: []
-works:
-- dual-memory
-- river-of-gods
-- michaelmas
-- the-outside
-- where-the-axe-is-buried
-- artificial-truth
-- playground
-- recursion
-- the-hidden-worlds
-- dark-transmissions
+children:
+- ai-overlords
+- ai-awakening
+- rogue-ai
+works: []
 image: 304-ai.webp
-portrait: 304-ai.webp
-definition: 'Disembodied or distributed machine intelligences: minds living in networks, databases and
-  systems rather than a single body. Embodiment test: if the story centers a machine in a body, it is
-  Robots; if it centers a disembodied or distributed intelligence, it is AI.'
+definition: 'Disembodied or distributed machine intelligences: minds living in networks, databases and systems rather than
+  a single body. Embodiment test: if the story centers a machine in a body, it is Robots; if it centers a disembodied or distributed
+  intelligence, it is AI. Split at ten cards into AI overlords, AI awakening and Rogue AI.'
 status: leaf
+history:
+- date: '2026-10-22'
+  change: Split at ten cards into AI overlords, AI awakening and Rogue AI (curator "Approved" (phonemsg-01M5JCK2HSW2VSDAG49JFZQENR,
+    2026-10-22 8:04 PM), on his own names (phonemsg-01M5JCEVT57K1A8A76S69VG6S6, phonemsg-01M5JCJAR0MM550KH7BWVKA4TS)); the
+    original stays umbrella.

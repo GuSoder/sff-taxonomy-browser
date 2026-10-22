@@ -1,0 +1,34 @@
+id: michaelmas
+title: Michaelmas
+authors:
+- Algis Budrys
+first_published: 1977
+canonical_genre: ai-overlords
+placement_status: accepted
+placement_rationale: SFE centers the immensely sophisticated AI Domino, its access to the entire world-net and autonomous
+  participation in secret governance; Hachette describes Michaelmas and Domino as linked to Earth’s complete database and
+  virtually ruling the world. The machine mind is central.
+classification_sources:
+- https://sf-encyclopedia.com/entry/budrys_algis
+- https://sf-encyclopedia.com/entry/ai
+- https://www.hachette.com.au/algis-budrys/michaelmas
+cover_curation:
+  status: complete
+  source: Open Road Media
+  selected_url: https://book-assets.openroadmedia.com/9781497652989.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-19'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/techno-fiction/robots-and-ai to
+    match live tree; placement unchanged on site.'
+  previous_canonical_genre: Robots and AI
+- date: '2026-09-23'
+  change: 'Robots and AI split into Machine minds (the curator ruling 2026-09-23 10:37): moved to AI by the embodiment test.
+    Walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine minds
+    -> AI'
+- date: '2026-10-22'
+  to: ai-overlords
+  reason: Moved in the split of AI at ten cards (curator "Approved" (phonemsg-01M5JCK2HSW2VSDAG49JFZQENR, 2026-10-22 8:04
+    PM), on his own names (phonemsg-01M5JCEVT57K1A8A76S69VG6S6, phonemsg-01M5JCJAR0MM550KH7BWVKA4TS)).

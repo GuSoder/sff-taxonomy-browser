@@ -1,0 +1,42 @@
+id: dual-memory
+title: Dual Memory
+authors:
+- Sue Burke
+first_published: 2023
+canonical_genre: ai-awakening
+placement_status: accepted
+placement_rationale: Tor explicitly describes Dual Memory as blending hard science fiction with action adventure, in an Arctic
+  island city threatened by global pirates.
+classification_sources:
+- https://torpublishinggroup.com/dual-memory/?format=trade&isbn=9781250809148
+cover_curation:
+  status: ranked
+  source: Macmillan / Tor Books
+  record_url: https://us.macmillan.com/books/9781250809131/dualmemory/
+  image_url: https://mpd-biblio-covers.imgix.net/9781250809131.jpg
+  cover_id: ISBN-9781250809131
+  beauty_score: 7.5
+  beauty_scale: 0-10; higher favors detailed colorful paintings and flat front-cover artwork over photos of physical book
+    objects
+  beauty_rationale: An electric-blue polygonal dome rises from a dense tangle of luminous circuitry against a deep black field,
+    making the flat front crisp, atmospheric, and thematically precise.
+  visually_reviewed_on: '2026-09-12'
+  shows_english_title: true
+  display_eligible: true
+  candidates_visually_reviewed: 6
+  selection_rule: highest beauty_score among visually reviewed covers with shows_english_title=true, preferring flat front-cover
+    art over photos of physical book objects
+  title_overlay: false
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/hard-science-fiction to match live tree;
+    placement unchanged on site.'
+  previous_canonical_genre: hard-science-fiction
+- date: '2026-09-23'
+  change: 'Robots and AI split into Machine minds (the curator ruling 2026-09-23 10:37): moved to AI by the embodiment test.
+    Walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Techno Fiction -> Machine minds
+    -> AI'
+- date: '2026-10-22'
+  to: ai-awakening
+  reason: Moved in the split of AI at ten cards (curator "Approved" (phonemsg-01M5JCK2HSW2VSDAG49JFZQENR, 2026-10-22 8:04
+    PM), on his own names (phonemsg-01M5JCEVT57K1A8A76S69VG6S6, phonemsg-01M5JCJAR0MM550KH7BWVKA4TS)).
