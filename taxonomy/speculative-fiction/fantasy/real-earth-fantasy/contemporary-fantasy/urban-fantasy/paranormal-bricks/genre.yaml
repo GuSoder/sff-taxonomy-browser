@@ -1,18 +1,15 @@
 id: paranormal-bricks
 label: Paranormal bricks
 parent: urban-fantasy
-children: []
+children:
+- shadow-city-fantasy
+- living-city-fantasy
 image: 100-paranormal-bricks.webp
-definition: 'Urban fantasy in which the city itself becomes the fantastical subject: a hidden double, living being, or metaphysical nightmare.'
+definition: 'Urban fantasy in which the city itself becomes the fantastical subject: a hidden double, living being, or metaphysical
+  nightmare. Split at ten cards into Shadow city fantasy and Living city fantasy.'
 status: accepted
-works:
-- the-shadow-men
-- un-lun-dun
-- neverwhere
-- the-great-cities
-- the-man-who-was-thursday
-- hawksmoor
-- the-city-the-city
-- saturnalia
-- luda
-- evenings-empire
+works: []
+history:
+- date: '2026-10-22'
+  change: Split at ten cards into Shadow city fantasy and Living city fantasy (curator "Approved" (phonemsg-01M5J9X2TA2NZMDSFJ250AGWHP,
+    2026-10-22 7:17 PM)); the original stays umbrella.
