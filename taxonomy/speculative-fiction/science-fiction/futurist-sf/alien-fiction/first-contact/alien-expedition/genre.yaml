@@ -3,7 +3,8 @@ label: Alien expedition
 parent: first-contact
 children: []
 image: 209-alien-expedition.webp
-definition: First-contact fiction in which humans travel outward on a mission or voyage and encounter an extraterrestrial intelligence or society away from Earth.
+definition: First-contact fiction in which humans travel outward on a mission or voyage and encounter an extraterrestrial
+  intelligence or society away from Earth.
 status: accepted
 works:
 - a-case-of-conscience
@@ -15,4 +16,7 @@ works:
 - tales-of-the-three-kings
 - andromedan-dark
 - forge-of-the-elders
-- heavens-shadow
+history:
+- date: '2026-10-22'
+  change: Heaven's Shadow moved to Big dumb relics (curator "I was actually thinking heavens shadow with an alien object was
+    more of a big dumb object" (phonemsg-01M5J3SZ6WFYA68AN2CF20ZNC4, 2026-10-22 5:31 PM)).
