@@ -296,3 +296,5 @@ Seeded under Modern occult, name proposed by the curator (phonemsg-01M5F9Z0YBWXT
 Do not name children by keeping the parent's first word and adding a new one: "<Word1 word2>" split into "<Word1 foo>" and "<Word1 bar>". A parent name is two carefully chosen words that together are the unique hint. Word1 alone is usually already inherited from the grandparent, and dropping word2 loses any trace of where the children sit relative to their cousins.
 
 Instead, find ONE existing English word that captures or evokes both parent words. Some precision may be lost; rely on common associations. The word must not already be a generic axis of division. Then combine it with a NEW second word that carries the axis of the split; the associations bring the parent's two words back and the new word restores precision. No stacking Word1 Word2 Word3, no endless names. Applies to splits, seeds and bundles. Per-row checklist: fuse, franchise-scan, read the name cold.
+
+Per-row checklist: when no Approve block is open, intake continues at once in the same turn; never end a turn idle without an open decision.
