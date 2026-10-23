@@ -1,23 +1,21 @@
 id: crown-enemies-romantasy
 label: Crown enemies romantasy
 parent: enemies-to-lovers-romantasy
-children: []
-works:
-- ember-eternal
-- broken-souls-and-bones
-- the-ever-seas
-- this-monster-of-mine
-- the-edge-of-glass
-- the-frostblood-saga
-- the-nightshade-crown
-- the-lies-of-lena
-- the-bridge-kingdom
-- house-of-dusk
+children:
+- crown-outlaw-romantasy
+- royal-enemies-romantasy
+works: []
 image: 484-crown-enemies-romantasy.webp
 definition: 'Enemies-to-lovers romantasy where the other lover is the crown or its instrument: a king, a prince, a crown guard,
   a judge who rules the city, or a spy sent into a rival royal house. The throne is the wall the love has to cross. Not Rivals-to-lovers
   romantasy (peers in a personal feud), not Enemy lines romantasy (the divide is a war or treaty between peoples, not a ruler).
   Split 2026-10-05 from Enemies-to-lovers romantasy at ten cards (curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG,
-  2026-10-05 3:32 PM)).'
-status: accepted
+  2026-10-05 3:32 PM)). Split at ten cards into Crown-outlaw romantasy (the enemy is the crown''s own condemned subject) and
+  Royal enemies romantasy (the enemy belongs to a rival royal house).'
+status: umbrella
 ruling: curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG, 2026-10-05 3:32 PM)
+history:
+- date: '2026-10-23'
+  change: Split at ten cards into Crown-outlaw romantasy and Royal enemies romantasy (curator "Approved" (phonemsg-01M5MFNXXTAH5GBHTGDXZB9VAQ,
+    2026-10-23 3:37 PM CEST), on his own names Crown-outlaw romantasy and Royal enemies romantasy (phonemsg-01M5MFN1T1NBAF8K6RV486VY1Q));
+    the original stays umbrella.
