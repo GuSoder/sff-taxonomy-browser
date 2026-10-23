@@ -42,6 +42,13 @@ The method above is the search order; these tests are the quality gates a candid
 - **Punchy, but sayable.** No tongue-stuck consonant clusters: "Suit fantasy is almost to short, the tongue gets stuck between those consonants" (phonemsg-01M3JBZ9BV8XFHJDY4V156KBMQ).
 - **Engine, not cover.** The name must name the axis of the split, not the surface furniture. The Underground fault: samizdat is underground too - the axis is WHAT is saved: texts vs bodies (phonemsg-01M3K8NHWWEKN50AJKYBFKWBQ6).
 
+
+## The standalone test: the name must hold up in conversation without the parent
+
+(the curator, phonemsg-01M5M4VM9R5686WW61Z121R930, 2026-10-23)
+
+"The name have to hold up in conversation between people without the parent as context." A split child's name must carry the whole conflict on its own: said alone in a sentence, a listener who never saw the parent shelf must still get what the genre is. Names that only make sense as "the other half of <parent>" fail. (First applied to the Crown enemies romantasy split, where "Outlaw romantasy" and "Rival house romantasy" did not carry the crown conflict alone.)
+
 ## Case study: Election fantasy (2026-09-27/28)
 
 The commission: a leaf under Political fantasy for post-feudal mass-franchise politics, seeded by Fire Becomes Her. Roughly fifty candidates across eight families died in one night and a morning.
