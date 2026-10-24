@@ -3,7 +3,7 @@ title: Hunter
 authors:
 - Mercedes Lackey
 first_published: 2015
-canonical_genre: future-fantasy
+canonical_genre: post-apocalyptic-fantasy
 placement_status: accepted
 placement_rationale: 'Lackey''s Hunter trilogy (Hunter 2015, Elite 2016, Apex 2017, Disney-Hyperion; mercedeslackey.com, Kirkus,
   PW, SLJ): long ago the barriers between our world and the Otherworld were ripped open, and it took centuries to rebuild
@@ -46,3 +46,8 @@ placement_history:
   to: future-fantasy
   reason: 'Curator approval of Approve move? (phonemsg-01M4WKZDRCZPFF53XD052GWJTA "Approved"): our Earth centuries after the
     catastrophe, Earth''s future.'
+- date: '2026-10-24'
+  from: future-fantasy
+  to: post-apocalyptic-fantasy
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
+    fate: {REASONS[wid]}.'

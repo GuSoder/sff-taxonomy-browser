@@ -2,7 +2,7 @@ id: house-of-the-rising-sun
 title: House of the Rising Sun
 authors:
 - Kristen Painter
-canonical_genre: future-fantasy
+canonical_genre: vampire-future
 placement_status: accepted
 placement_rationale: 'Kristen Painter''s House of the Rising Sun (Crescent City book 1; PW, Hachette): in a 2068 New Orleans
   that is a Haven city for witches and the fae, the playboy fae Augustine finds his adoptive mother Olivia Goodwin murdered
@@ -30,3 +30,8 @@ placement_history:
   from: big-city-fae
   to: future-fantasy
   reason: 'Curator approval of Approve move? (phonemsg-01M4WMHMBS82168MWBFKMCJKAC "Approved"): Earth''s future.'
+- date: '2026-10-24'
+  from: future-fantasy
+  to: vampire-future
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
+    fate: {REASONS[wid]}.'

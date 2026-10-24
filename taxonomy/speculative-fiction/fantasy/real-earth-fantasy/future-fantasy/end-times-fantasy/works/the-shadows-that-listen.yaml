@@ -3,7 +3,7 @@ title: The Shadows That Listen
 authors:
 - Louisa Carmody
 first_published: 2026
-canonical_genre: future-fantasy
+canonical_genre: end-times-fantasy
 placement_status: accepted
 placement_rationale: 'Five years after an immortal war in which daemons crawled from hell and angels arrived and did not save
   humanity, Amara works for the Angel Intelligence Agency in a world remade by that outcome and teams with an archangel against
@@ -30,3 +30,8 @@ placement_history:
   from: paranormal-aftermath
   to: future-fantasy
   reason: 'Curator approval of Approve move? (phonemsg-01M4WMYGTK10X672J388N4064X "Approved"): Earth''s future.'
+- date: '2026-10-24'
+  from: future-fantasy
+  to: end-times-fantasy
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
+    fate: {REASONS[wid]}.'

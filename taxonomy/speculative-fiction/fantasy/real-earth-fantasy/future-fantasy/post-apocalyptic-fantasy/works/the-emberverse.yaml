@@ -3,7 +3,7 @@ title: The Emberverse
 authors:
 - S. M. Stirling
 first_published: 2004
-canonical_genre: future-fantasy
+canonical_genre: post-apocalyptic-fantasy
 placement_status: accepted
 placement_rationale: 'S. M. Stirling''s Emberverse (Wikipedia lists genres alternate history, science fiction, post-apocalyptic
   and fantasy): after the Change stops electricity, firearms and engines worldwide, the later books bring supernatural powers
@@ -61,3 +61,8 @@ placement_history:
 - date: '2026-10-21'
   to: future-fantasy
   reason: 'Moved from wasteland-settlements: curator no-magic-in-science-fiction recheck (phonemsg phonemsg-01M5FTG925J5N92JEHJJ01YBXH).'
+- date: '2026-10-24'
+  from: future-fantasy
+  to: post-apocalyptic-fantasy
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
+    fate: {REASONS[wid]}.'

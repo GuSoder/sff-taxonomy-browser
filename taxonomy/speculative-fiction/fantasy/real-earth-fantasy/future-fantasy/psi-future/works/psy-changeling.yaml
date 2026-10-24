@@ -3,7 +3,7 @@ title: Psy-Changeling
 authors:
 - Nalini Singh
 first_published: 2006
-canonical_genre: future-fantasy
+canonical_genre: psi-future
 placement_status: accepted
 placement_rationale: 'Nalini Singh''s Psy-Changeling series (Berkley, from Slave to Sensation, Sept 2006, and its Trinity
   continuation to Atonement Sky, 2025; nalinisingh.com, publisher pages): in a near-future Earth the telepathic Psy are held
@@ -84,3 +84,8 @@ placement_history:
   from: paranormal-aftermath
   to: future-fantasy
   reason: 'Curator approval of Approve move? (phonemsg-01M4WMD2DPGZADBTKYEPEB3XDX "Approved"): Earth''s future.'
+- date: '2026-10-24'
+  from: future-fantasy
+  to: psi-future
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
+    fate: {REASONS[wid]}.'

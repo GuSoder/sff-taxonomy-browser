@@ -3,7 +3,7 @@ title: Rogue Mage
 authors:
 - Faith Hunter
 first_published: 2006
-canonical_genre: future-fantasy
+canonical_genre: end-times-fantasy
 placement_status: accepted
 placement_rationale: 'Faith Hunter''s Rogue Mage (Wikipedia, Penguin Random House): a post-apocalyptic ice age about a century
   after a Revelation-style apocalypse, where the neomage Thorn St. Croix uses stone magic and seraphs and demons are real,
@@ -38,3 +38,8 @@ placement_history:
 - date: '2026-10-21'
   to: future-fantasy
   reason: 'Moved from wasteland-settlements: curator no-magic-in-science-fiction recheck (phonemsg phonemsg-01M5FTG925J5N92JEHJJ01YBXH).'
+- date: '2026-10-24'
+  from: future-fantasy
+  to: end-times-fantasy
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
+    fate: {REASONS[wid]}.'

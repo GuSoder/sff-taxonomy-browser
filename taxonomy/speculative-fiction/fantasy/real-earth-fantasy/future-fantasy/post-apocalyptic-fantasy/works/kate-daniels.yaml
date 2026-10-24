@@ -3,7 +3,7 @@ title: Kate Daniels
 authors:
 - Ilona Andrews
 first_published: 2007
-canonical_genre: future-fantasy
+canonical_genre: post-apocalyptic-fantasy
 placement_status: accepted
 placement_rationale: 'Ilona Andrews'' Kate Daniels novels (Magic Bites through Magic Triumphs, with Gunmetal Magic set in
   the same world): a magic apocalypse comes in waves that stall technology, and in a changed Atlanta shapeshifters, necromancers,
@@ -67,3 +67,8 @@ placement_history:
   from: paranormal-aftermath
   to: future-fantasy
   reason: 'Curator approval of Approve move? (phonemsg-01M4WM6Q9TFAN2P27JT4P56EZC "Approved"): Earth''s future.'
+- date: '2026-10-24'
+  from: future-fantasy
+  to: post-apocalyptic-fantasy
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
+    fate: {REASONS[wid]}.'
