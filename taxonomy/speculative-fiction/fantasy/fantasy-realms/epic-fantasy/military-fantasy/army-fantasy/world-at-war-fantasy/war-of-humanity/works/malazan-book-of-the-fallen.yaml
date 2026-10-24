@@ -3,11 +3,12 @@ title: Malazan Book of the Fallen
 authors:
 - Steven Erikson
 first_published: 1999
-canonical_genre: world-at-war-fantasy
+canonical_genre: war-of-humanity
 placement_status: accepted
-placement_rationale: 'Root-down traversal passes Epic fantasy -> Military Fantasy. Founding work Split walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3):
-  Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy > World-at-war
-  fantasy. A whole world''s wars on many continents with dozens of viewpoints: the tapestry.'
+placement_rationale: 'Root-down traversal passes Epic fantasy -> Military Fantasy. Founding work Split
+  walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): Root-down: Speculative fiction > Fantasy > Fantasy
+  realms > Epic fantasy > Military fantasy > Army fantasy > World-at-war fantasy. A whole world''s wars
+  on many continents with dozens of viewpoints: the tapestry.'
 classification_sources:
 - https://us.macmillan.com/series/malazanbookofthefallen
 cover_curation:
@@ -68,20 +69,27 @@ books:
   cover_url: https://www.publishersweekly.com/cover/9781250788610
 placement_history:
 - date: '2026-10-06'
-  reason: Split of Military fantasy by the unit of the war; re-walked root-down into Army fantasy (curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR,
-    2026-10-06 7:27 AM)).
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into Army fantasy (curator
+    "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)).
   from: military-fantasy
   to: army-fantasy
 - date: '2026-10-09'
-  reason: 'Shared universe folded (rule 11j: one universe, one fiction): Ian C. Esslemont''s Novels of the Malazan Empire
-    (Night of Knives, Return of the Crimson Guard, Stonewielder, Orb Sceptre Throne, Blood and Bone, Assail) and the Path
-    to Ascendancy prequels (Dancer''s Lament, Deadhouse Landing, Kellanved''s Reach, Forge of the High Mage) are set in the
-    same world Esslemont co-created with Steven Erikson (Tor, Bantam; Open Library). Full root-down walk: Speculative fiction
-    > Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy, the card''s leaf, where the whole-war epic
-    of the series sits. Years are first publication (Open Library); the queue shows later reissue years. The ''Malazan Empire
-    Series'' queue entry (MC03887) is a six-book omnibus and is skipped.'
+  reason: 'Shared universe folded (rule 11j: one universe, one fiction): Ian C. Esslemont''s Novels of
+    the Malazan Empire (Night of Knives, Return of the Crimson Guard, Stonewielder, Orb Sceptre Throne,
+    Blood and Bone, Assail) and the Path to Ascendancy prequels (Dancer''s Lament, Deadhouse Landing,
+    Kellanved''s Reach, Forge of the High Mage) are set in the same world Esslemont co-created with Steven
+    Erikson (Tor, Bantam; Open Library). Full root-down walk: Speculative fiction > Fantasy > Fantasy
+    realms > Epic fantasy > Military fantasy > Army fantasy, the card''s leaf, where the whole-war epic
+    of the series sits. Years are first publication (Open Library); the queue shows later reissue years.
+    The ''Malazan Empire Series'' queue entry (MC03887) is a six-book omnibus and is skipped.'
 - date: '2026-10-09'
   from: army-fantasy
   to: world-at-war-fantasy
-  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). A whole world''s wars on many continents with
-    dozens of viewpoints: the tapestry.'
+  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). A whole world''s wars on
+    many continents with dozens of viewpoints: the tapestry.'
+- date: '2026-10-24'
+  from: world-at-war-fantasy
+  to: war-of-humanity
+  reason: 'Split of World-at-war fantasy at ten (curator "Approved" phonemsg-01M5Q31JC8YZZ7MTR9A9Y3NNZ7)
+    by who wages the war. Soft: placed by the main-war rule - the human empire and its rebellions are
+    the spine; the inhuman powers are major threads.'

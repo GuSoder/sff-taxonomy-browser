@@ -3,14 +3,15 @@ title: Echoes of the Great Song
 authors:
 - David Gemmell
 first_published: 1997
-canonical_genre: world-at-war-fantasy
+canonical_genre: war-of-immortals
 placement_status: accepted
 placement_rationale: 'Penguin Random House (penguinrandomhouse.com/books/58987/echoes-of-the-great-song-by-david-gemmell/)
-  and davidgemmell.com/echoes-of-the-great-song/: the immortal Avatars'' dying empire, its crystal magic failing after a flood
-  and sudden ice age, is invaded by the Almecs under the Crystal Queen when two moons appear, while the oppressed Vagar rise
-  in revolt under the assassin Mejana. Invasion, a collapsing empire and an internal revolt woven into one war across a world
-  is the frame, so World at war fantasy; soft. Walk: Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy
-  > World at war fantasy.'
+  and davidgemmell.com/echoes-of-the-great-song/: the immortal Avatars'' dying empire, its crystal magic
+  failing after a flood and sudden ice age, is invaded by the Almecs under the Crystal Queen when two
+  moons appear, while the oppressed Vagar rise in revolt under the assassin Mejana. Invasion, a collapsing
+  empire and an internal revolt woven into one war across a world is the frame, so World at war fantasy;
+  soft. Walk: Fantasy > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy > World at war
+  fantasy.'
 books:
 - title: Echoes of the Great Song
   year: 1997
@@ -26,3 +27,8 @@ placement_history:
 - date: '2026-10-04'
   to: world-at-war-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-24'
+  from: world-at-war-fantasy
+  to: war-of-immortals
+  reason: Split of World-at-war fantasy at ten (curator "Approved" phonemsg-01M5Q31JC8YZZ7MTR9A9Y3NNZ7)
+    by who wages the war.

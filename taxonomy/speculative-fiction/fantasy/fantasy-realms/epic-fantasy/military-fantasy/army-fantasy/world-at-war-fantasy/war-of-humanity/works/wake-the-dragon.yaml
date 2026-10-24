@@ -1,0 +1,50 @@
+id: wake-the-dragon
+title: Wake the Dragon
+authors:
+- Kevin J. Anderson
+first_published: 2019
+canonical_genre: war-of-humanity
+placement_status: accepted
+placement_rationale: 'Kevin J. Anderson''s Wake the Dragon trilogy (Spine of the Dragon, Vengewar, Gods
+  and Dragons): two continents, the Three Kingdoms and Ishara, fight a thousand-year war, then must ally
+  against a reawakened ancient race (Macmillan). Armies, campaigns and war drive the books: Military fantasy.
+  Split walk 2026-10-09 (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3): Root-down: Speculative fiction > Fantasy
+  > Fantasy realms > Epic fantasy > Military fantasy > Army fantasy > World-at-war fantasy. Two continents
+  in a thousand-year war, then an alliance against an ancient race: a world at war.'
+books:
+- title: Spine of the Dragon
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9335036-L.jpg
+- title: Vengewar
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10635266-L.jpg
+- title: Gods and Dragons
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/11461905-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9335036-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05509, MC05512, MC05507)
+placement_history:
+- date: '2026-10-04'
+  to: military-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-06'
+  reason: Split of Military fantasy by the unit of the war; re-walked root-down into Army fantasy (curator
+    "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)).
+  from: military-fantasy
+  to: army-fantasy
+- date: '2026-10-09'
+  from: army-fantasy
+  to: world-at-war-fantasy
+  reason: 'Split of Army fantasy at ten (phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3). Two continents in a thousand-year
+    war, then an alliance against an ancient race: a world at war.'
+- date: '2026-10-24'
+  from: world-at-war-fantasy
+  to: war-of-humanity
+  reason: 'Split of World-at-war fantasy at ten (curator "Approved" phonemsg-01M5Q31JC8YZZ7MTR9A9Y3NNZ7)
+    by who wages the war. Soft: the thousand-year human war is the frame; the awakened ancient race owns
+    only the endgame.'

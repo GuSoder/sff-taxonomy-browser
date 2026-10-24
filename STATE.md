@@ -1265,3 +1265,9 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 - The two Wormwood cards folded into one: kept The Wormwood Trilogy (3 books) in alien-invasion-fiction, removed the Wormwood trilogy card from near-future-first-contact (index.html, works yaml, genre.yaml). See DUPLICATES.md. Gate OK: 1307 cards.
 
 - REVISIT (curator note phonemsg-01M4G09YH4MDQR3FXJR73B4T8E, 2026-10-09): Space marine corps (under Ground-pounders). If any Warhammer 40K / Black Library title enters the tree, re-examine the leaf; 40K may belong under a new Grimdark shelf, to be decided before readers hit Space marine corps and get confused. No 40K title is in the tree or queue as of 2026-10-09.
+
+## 2026-10-24 15:59 - World-at-war split at ten (4-way, his names)
+- Split world-at-war-fantasy (10) into War of humanity (5) / War on humanity (1) / War of immortals (2) / Eldritch invasions (2), curator "Approved" phonemsg-01M5Q31JC8YZZ7MTR9A9Y3NNZ7 on his own names (phonemsg-01M5MGX2D2SX7M222M423QDHD0) + widened immortals scope (phonemsg-01M5MH104DM8ESNC7191S2G92P). Original stays umbrella.
+- Main-war rule placed the mixed cases: Malazan + Wake the Dragon + Between Dragons + Ascendant Kingdoms -> War of humanity (soft); Wall of Night alone -> War on humanity; Dark Moon + Echoes -> War of immortals; Gates of Good and Evil + Ascendant Trilogy -> Eldritch invasions.
+- Portraits 781-784 (1024x1536 webp): human armies clashing / shadow swarm at the last wall (Gondor-echo tree banner edited out) / two immortals warring above a burning city / eldritch gate pouring horrors.
+- Gate OK: 733 nodes, 2429 cards / 5,515 books.

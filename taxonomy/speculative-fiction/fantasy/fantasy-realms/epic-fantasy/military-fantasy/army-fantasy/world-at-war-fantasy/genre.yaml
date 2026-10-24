@@ -1,22 +1,24 @@
 id: world-at-war-fantasy
 label: World-at-war fantasy
 parent: army-fantasy
-children: []
-works:
-- malazan-book-of-the-fallen
-- wake-the-dragon
-- the-ascendant-trilogy
-- the-ascendant-kingdoms-saga
-- the-wall-of-night
-- the-gates-of-good-and-evil
-- the-age-of-wrath
-- dark-moon
-- echoes-of-the-great-song
-- between-dragons-and-their-wrath
-definition: 'Army fantasy in which a whole world is at war: many fronts, many viewpoints and many threads woven into one long
-  war, a tapestry rather than one line of march.'
-status: accepted
-ruling: 'Curator split approved ("Approved" phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3, 2026-10-09 10:12 AM CEST): Mud-and-blood
-  / Command-tent / World-at-war fantasy; axis whose war it is; 3 + 3 + 5 (with War Between the Provinces and Wall of Night).'
+children:
+- war-of-humanity
+- war-on-humanity
+- war-of-immortals
+- eldritch-invasions
+works: []
+definition: 'Army fantasy in which a whole world is at war: many fronts, many viewpoints and many threads
+  woven into one long war, a tapestry rather than one line of march. Umbrella since 2026-10-24, partitioned
+  by who wages the war: War of humanity (human powers), War on humanity (a war to destroy humankind),
+  War of immortals (undying powers) and Eldritch invasions (otherworldly or demonic invaders).'
+status: umbrella
+ruling: 'Curator split approved ("Approved" phonemsg-01M4FVHVPC3MQ5DWP32Z6QAXC3, 2026-10-09 10:12 AM CEST):
+  Mud-and-blood / Command-tent / World-at-war fantasy; axis whose war it is; 3 + 3 + 5 (with War Between
+  the Provinces and Wall of Night).'
 image: 615-world-at-war-fantasy.webp
 portrait: 615-world-at-war-fantasy.webp
+history:
+- date: '2026-10-24'
+  change: 'Split at ten cards by who wages the war: War of humanity (5) / War on humanity (1) / War of
+    immortals (2) / Eldritch invasions (2). Curator "Approved" (phonemsg-01M5Q31JC8YZZ7MTR9A9Y3NNZ7),
+    his names (phonemsg-01M5MGX2D2SX7M222M423QDHD0), widened immortals scope (phonemsg-01M5MH104DM8ESNC7191S2G92P).'
