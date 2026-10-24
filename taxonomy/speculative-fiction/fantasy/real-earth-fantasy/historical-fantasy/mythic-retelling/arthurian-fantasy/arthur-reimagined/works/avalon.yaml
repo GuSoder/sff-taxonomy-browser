@@ -27,6 +27,14 @@ books:
   year: 2004
   cover_url: https://covers.openlibrary.org/b/id/10134-L.jpg
   shows_english_title: true
+- title: Marion Zimmer Bradley's Ravens of Avalon
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1726518-L.jpg
+  shows_english_title: true
+- title: Marion Zimmer Bradley's Sword of Avalon
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6446627-L.jpg
+  shows_english_title: true
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/14648001-L.jpg
   shows_english_title: false

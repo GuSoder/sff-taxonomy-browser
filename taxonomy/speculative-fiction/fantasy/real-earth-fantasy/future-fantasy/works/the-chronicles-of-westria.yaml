@@ -1,0 +1,52 @@
+id: the-chronicles-of-westria
+title: The Chronicles of Westria
+authors:
+- Diana L. Paxson
+first_published: 1982
+canonical_genre: future-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy > Real Earth fantasy > Future fantasy. Per the author''s own series page (diana-paxson.com/writing/westria):
+  the Chronicles of Westria are set in ''an alternate future California in which a Cataclysm has destroyed our civilization
+  and the Powers of Nature have reassumed their sovereignty'' - sorcery, the four Jewels of Power, the Guardians and the People
+  of the Sea drive every novel. Our own Earth''s future after collapse with magic returned: the leaf''s definition verbatim.
+  Rejected: Futurist SF post-holocaust (the supernatural is real in-world, not explained by science), Fantasy realms (this
+  is a remade California, not a secondary world). One card; the shorts (''When Coyote Came to Town'', ''The Name of a King'')
+  are excluded per the shorts rule. Years are first publication per the author''s bibliography and Open Library: 1982-2006.
+  Queue carries only book 7 (MC02588, The Golden Hills of Westria, Tor 2006; westria.org confirms it as the seventh novel);
+  books 1-6 folded onto the series card.'
+books:
+- title: Lady of Light
+  year: 1982
+  cover_url: https://covers.openlibrary.org/b/id/6795704-L.jpg
+- title: Lady of Darkness
+  year: 1983
+  cover_url: https://covers.openlibrary.org/b/id/8288052-L.jpg
+- title: Silverhair the Wanderer
+  year: 1986
+  cover_url: https://covers.openlibrary.org/b/id/291394-L.jpg
+- title: The Earthstone
+  year: 1987
+  cover_url: https://covers.openlibrary.org/b/id/12186775-L.jpg
+- title: The Sea Star
+  year: 1988
+  cover_url: https://covers.openlibrary.org/b/id/12187920-L.jpg
+- title: The Wind Crystal
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/12195696-L.jpg
+- title: The Jewel of Fire
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/7086872-L.jpg
+- title: The Golden Hills of Westria
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/524366-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6795704-L.jpg
+  visually_reviewed_on: '2026-10-24'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue id MC02588; books 1-6 folded onto the series card)
+placement_history:
+- date: '2026-10-24'
+  to: future-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
