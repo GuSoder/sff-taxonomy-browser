@@ -30,7 +30,7 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/7597146-L.jpg
 - title: Fury of the Demon
   year: 2014
-  cover_url: https://covers.openlibrary.org/b/isbn/9780756408305-L.jpg
+  cover_url: https://images.penguinrandomhouse.com/cover/9780756408305
 - title: Vengeance of the Demon
   year: 2015
   cover_url: https://covers.openlibrary.org/b/id/9323974-L.jpg
@@ -39,7 +39,7 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/13076978-L.jpg
 - title: Rise of the Demon
   year: 2022
-  cover_url: https://covers.openlibrary.org/b/isbn/9780756408282-L.jpg
+  cover_url: https://images.penguinrandomhouse.com/cover/9780756408282
 cover_curation:
   status: complete
   source: Open Library / publisher
