@@ -1,21 +1,13 @@
 id: pulp-space-odyssey
 label: Pulp space odyssey
 parent: golden-age-space-opera
-definition: 'A protagonist or small party propelled across space by exploration, revenge, flight or adventure rather than governing galactic power. Boundary test:
-  remove the rival-power structure; if a person’s journey remains, it belongs here.'
-status: accepted
-boundary_test: 'Remove the rival-power structure: if the plot collapses, Empire; if a person’s journey remains, Odyssey.'
-ruling: the curator, 2026-09-22 15:02 CEST
-children: []
+children:
+- pulp-space-voyage
+- pulp-space-chase
+- pulp-space-war
+works: []
 image: 280-pulp-space-odyssey.webp
-works:
-- the-heechee-saga
-- the-stars-my-destination
-- the-witches-of-karres
-- have-space-suit-will-travel
-- the-high-crusade
-- the-voyage-of-the-space-beagle
-- starliner
-- doomstar
-- starwolf
-- the-haunted-stars
+definition: 'A protagonist or small party propelled across space by exploration, revenge, flight or adventure rather than governing galactic power. Boundary test: remove the rival-power structure; if a person''s journey remains, it belongs here. Umbrella since 2026-10-25: Pulp space voyage, Pulp space chase, Pulp space war ().'
+status: accepted
+boundary_test: 'Remove the rival-power structure: if the plot collapses, Empire; if a person''s journey remains, Odyssey.'
+ruling: the curator, 2026-09-22 15:02 CEST

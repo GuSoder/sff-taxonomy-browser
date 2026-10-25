@@ -3,11 +3,9 @@ title: The Heechee Saga
 authors:
 - Frederik Pohl
 first_published: 1977
-canonical_genre: pulp-space-odyssey
+canonical_genre: pulp-space-voyage
 placement_status: accepted
-placement_rationale: "Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Classic space opera -> Pulp space opera\
-  \ -> Golden Age space opera -> Pulp Space Odyssey. A small group\u2019s high-risk Heechee-gateway exploration and Robinette Broadhead\u2019s survival/guilt\
-  \ remain the engine rather than governance of galactic power."
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Classic space opera -> Pulp space opera -> Golden Age space opera -> Pulp Space Odyssey. A small group’s high-risk Heechee-gateway exploration and Robinette Broadhead’s survival/guilt remain the engine rather than governance of galactic power.'
 books:
 - title: Gateway
   year: 1977
@@ -31,3 +29,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/isbn/9780575094239-L.jpg
   shows_english_title: true
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-25'
+  from: pulp-space-odyssey
+  to: pulp-space-voyage
+  reason: Split of Pulp space odyssey at ten fictions (curator "Approved" (phonemsg-01M5T9NZ3CHGCT0S9DACEQYGJ9, 2026-10-25 8:47:56 PM) of the posted 4/3/3 split of Pulp space odyssey (phonemsg-01M5T94KGRJHRGGJWABK5YVHJ4, 8:38:27 PM)).

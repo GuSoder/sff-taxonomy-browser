@@ -5,10 +5,14 @@ authors:
 year: 1960
 cover_url: https://covers.openlibrary.org/b/id/6634542-L.jpg
 shows_english_title: true
-canonical_genre: pulp-space-odyssey
+canonical_genre: pulp-space-voyage
 placement_note: 'Root-down: Science fiction -> Futurist SF -> Spacefaring fiction -> Space opera -> Classic space opera -> Pulp space opera -> Golden age space opera -> Pulp space odyssey. An arms-race Earth sends an expedition to Ryn, a planet of Altair, to dig up weapons technology from an ancient space war against the wishes of Ryn''s people: a small party propelled across space by a mission, with the Cold War as backdrop rather than engine - the linguist Fairlie''s journey into the ancient race''s legacy is what remains. (en.wikipedia.org/wiki/The_Haunted_Stars; fantasyliterature.com/reviews/the-haunted-stars/; ISFDB: NOVEL 1960.)'
 placement_history:
 - date: '2026-10-25'
   from: intake
   to: pulp-space-odyssey
   reason: 'Intake from the 10k list: placed by a root-down walk (queue id MC02752).'
+- date: '2026-10-25'
+  from: pulp-space-odyssey
+  to: pulp-space-voyage
+  reason: Split of Pulp space odyssey at ten fictions (curator "Approved" (phonemsg-01M5T9NZ3CHGCT0S9DACEQYGJ9, 2026-10-25 8:47:56 PM) of the posted 4/3/3 split of Pulp space odyssey (phonemsg-01M5T94KGRJHRGGJWABK5YVHJ4, 8:38:27 PM)).

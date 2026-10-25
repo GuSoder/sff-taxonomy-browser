@@ -1,0 +1,27 @@
+id: the-voyage-of-the-space-beagle
+title: The Voyage of the Space Beagle
+authors:
+- A. E. van Vogt
+first_published: 1950
+canonical_genre: pulp-space-voyage
+placement_status: accepted
+placement_rationale: 'A. E. van Vogt, The Voyage of the Space Beagle (1950 fix-up of four Astounding stories; Wikipedia, ISFDB): a vast starship with a crew of a thousand sets out on a deep-space expedition through the galaxy, and the Nexialist scientist Grosvenor outthinks a series of hostile alien species met along the way (Coeurl, Ixtl, the Anabis, the Riim). Walk: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > Classic space opera > Pulp space opera > Golden age space opera > Pulp space odyssey (a party carried across space by exploration, no governing galactic power). Rejected: Alien expedition (at nine, and the book is pulp adventure rather than contact), Pulp space empire (no rival-power structure). Wobble: low. Sources read: Wikipedia and enotes summaries; ISFDB listing.'
+books:
+- title: The Voyage of the Space Beagle
+  year: 1950
+  cover_url: https://covers.openlibrary.org/b/id/5544050-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/5544050-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00239)
+placement_history:
+- date: '2026-10-04'
+  to: pulp-space-odyssey
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  from: pulp-space-odyssey
+  to: pulp-space-voyage
+  reason: Split of Pulp space odyssey at ten fictions (curator "Approved" (phonemsg-01M5T9NZ3CHGCT0S9DACEQYGJ9, 2026-10-25 8:47:56 PM) of the posted 4/3/3 split of Pulp space odyssey (phonemsg-01M5T94KGRJHRGGJWABK5YVHJ4, 8:38:27 PM)).

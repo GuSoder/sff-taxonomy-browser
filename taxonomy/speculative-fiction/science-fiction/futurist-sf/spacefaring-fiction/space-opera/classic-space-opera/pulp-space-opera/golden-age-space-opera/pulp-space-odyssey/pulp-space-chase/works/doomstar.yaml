@@ -5,10 +5,14 @@ authors:
 year: 1966
 cover_url: https://covers.openlibrary.org/b/id/6634965-L.jpg
 shows_english_title: true
-canonical_genre: pulp-space-odyssey
+canonical_genre: pulp-space-chase
 placement_note: 'Root-down: Science fiction -> Futurist SF -> Spacefaring fiction -> Space opera -> Classic space opera -> Pulp space opera -> Golden age space opera -> Pulp space odyssey. Johnny Kettrick, a trader expelled from the Hyades cluster for smuggling, is called back when someone finds a way to poison a star; his hunt for the Doomstar is one man''s mission across space, not the governance of galactic power - remove any rival-power structure and his journey remains. (hachette.com.au/edmond-hamilton/doomstar blurb; fantasyliterature.com/reviews/doomstar/; ISFDB: NOVEL 1966.)'
 placement_history:
 - date: '2026-10-25'
   from: intake
   to: pulp-space-odyssey
   reason: 'Intake from the 10k list: placed by a root-down walk (queue id MC02748).'
+- date: '2026-10-25'
+  from: pulp-space-odyssey
+  to: pulp-space-chase
+  reason: Split of Pulp space odyssey at ten fictions (curator "Approved" (phonemsg-01M5T9NZ3CHGCT0S9DACEQYGJ9, 2026-10-25 8:47:56 PM) of the posted 4/3/3 split of Pulp space odyssey (phonemsg-01M5T94KGRJHRGGJWABK5YVHJ4, 8:38:27 PM)).
