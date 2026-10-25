@@ -4,20 +4,17 @@ parent: mage-hero
 children: []
 image: 682-black-mages.webp
 portrait: 682-black-mages.webp
-definition: 'Mage hero fantasy where the hero''s art is the dark one: necromancy, death, blood, demons, forbidden or destructive
+definition: 'Mage hero fantasy where the hero''s art is the dark one: necromancy, death, blood, forbidden or destructive
   sorcery, practised by the protagonist as his or her own craft. Colour names the art, not the hero''s morality: a kind necromancer
   is still a Black Mage. Not Grey Mages (between or undefined arts, nature and balance), not White Mages (healing and restoring
-  arts), not Paladin hero or Cleric hero (power from a god or an order).'
+  arts), not Paladin hero or Cleric hero (power from a god or an order), not Warlock hero (power drawn from demons at the caster level).'
 status: accepted
 works:
 - the-warden
 - saint-deaths-daughter
 - the-scholomance
 - spellslinger
-- rai-kirah
-- the-rise-of-the-witch-king
 - age-of-darkness
-- nightseer
 - the-black-magician
 - the-redwinter-chronicles
 ruling: 'Dissolve of Fledgling mage (9) and Graybeard mage (4) and re-division of Mage hero by the hero''s art, approved by

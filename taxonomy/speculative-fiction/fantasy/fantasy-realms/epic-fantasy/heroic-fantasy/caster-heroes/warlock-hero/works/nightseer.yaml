@@ -3,7 +3,7 @@ title: Nightseer
 authors:
 - Laurell K. Hamilton
 first_published: 1992
-canonical_genre: black-mages
+canonical_genre: warlock-hero
 placement_status: accepted
 placement_rationale: 'Laurell K. Hamilton''s Nightseer (Roc, 1992; PRH, Google Books, SFE-style review): Keleios, a half-elf
   who saw her mother murdered by the witch Harque, gains a range of powers from the gods but also a demonmark that opens the
@@ -27,3 +27,10 @@ placement_history:
 - date: '2026-10-04'
   to: black-mages
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  from: black-mages
+  to: warlock-hero
+  reason: 'Curator-created Warlock hero genre (phonemsg-01M5T3AGRVQXZKVHHY4KXBFSZM, "Ok, then go ahead with the warlock hero genre")
+    on his definition that warlocks "draw their powers from demons" (phonemsg-01M5T307A00YA8CYNEM53C0YSE), patronage not
+    required (phonemsg-01M5T37P4MSCBBPJ4JYDDEGH4E); this hero''s power is demonic in source, so the card moves out of Black
+    Mages to the new caster-level leaf.'

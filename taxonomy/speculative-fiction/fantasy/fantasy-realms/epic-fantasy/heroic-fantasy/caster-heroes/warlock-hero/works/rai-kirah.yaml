@@ -3,7 +3,7 @@ title: Rai-kirah
 authors:
 - Carol Berg
 first_published: 2000
-canonical_genre: black-mages
+canonical_genre: warlock-hero
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Epic fantasy > Heroic fantasy > Caster heroes > Mage hero. Seyonne, a Warden of the
   Ezzarian people whose sorcery was stripped by the conquering Derzhi, is sold into slavery to the empire''s heir Aleksander;
@@ -41,3 +41,10 @@ placement_history:
   to: black-mages
   reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
     in Black Mages.'
+- date: '2026-10-25'
+  from: black-mages
+  to: warlock-hero
+  reason: 'Curator-created Warlock hero genre (phonemsg-01M5T3AGRVQXZKVHHY4KXBFSZM, "Ok, then go ahead with the warlock hero genre")
+    on his definition that warlocks "draw their powers from demons" (phonemsg-01M5T307A00YA8CYNEM53C0YSE), patronage not
+    required (phonemsg-01M5T37P4MSCBBPJ4JYDDEGH4E); this hero''s power is demonic in source, so the card moves out of Black
+    Mages to the new caster-level leaf.'
