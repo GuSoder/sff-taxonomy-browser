@@ -1,0 +1,35 @@
+id: metro
+title: Metro
+authors: Dmitry Glukhovsky
+first_published: 2005
+canonical_genre: nuked-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: speculative-fiction > science-fiction > futurist-sf > future-of-earth-fiction > dystopian-fiction
+  > post-holocaust-survival > post-nuclear-survival > nuked-fiction. Twenty years after a global nuclear holocaust, the last
+  survivors live in the Moscow Metro: station communities, traders and polis-states rebuilding a working world in the tunnels
+  under a lethal surface, with Artyom crossing the system on his quest (en.wikipedia.org Metro 2033 (novel); Gollancz editions).
+  The bomb is past tense and the rebuilt communities are the leaf verbatim. Not Nuke time (not the blast''s fresh aftermath)
+  and not Mutant fiction (the Metro''s people are ordinary humans; mutation rides the surface fauna, not the survivors'' bloodlines).
+  Cause is explicitly nuclear, so not Terminal wastelands. Trilogy 2005/2009/2015, first Russian printings (Eksmo; English
+  from 2010). Years are first print publication.'
+books:
+- title: Metro 2033
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/9931150-L.jpg
+- title: Metro 2034
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/13295123-L.jpg
+- title: Metro 2035
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/10695686-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9931150-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02626, MC02627, MC02628)
+placement_history:
+- date: '2026-10-04'
+  to: nuked-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
