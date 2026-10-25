@@ -3,7 +3,7 @@ title: The Ganymede Takeover
 authors:
 - Philip K. Dick
 first_published: 1967
-canonical_genre: fallen-earth
+canonical_genre: earth-resistance
 placement_status: accepted
 placement_rationale: 'Philip K. Dick and Ray Nelson''s The Ganymede Takeover (Ace, 1967; Wikipedia): Earth has been conquered
   by limbless, worm-like aliens from Ganymede who keep a slave race of creeches; the human resistance includes the Neeg-parts
@@ -26,3 +26,8 @@ placement_history:
 - date: '2026-10-04'
   to: fallen-earth
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  from: fallen-earth
+  to: earth-resistance
+  reason: 'Fallen Earth split at ten cards into Fall of Earth / Occupied Earth / Earth resistance (curator steering phonemsg-01M5SJ810R3B47WBVC8M20T9AY;
+    Fall of Earth his coinage phonemsg-01M5SJ95G1MM6326PNVMBC10J7); re-walked root-down: this card sits in Earth resistance.'

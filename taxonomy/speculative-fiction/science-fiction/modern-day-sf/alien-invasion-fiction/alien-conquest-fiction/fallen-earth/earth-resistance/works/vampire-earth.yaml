@@ -3,7 +3,7 @@ title: Vampire Earth
 authors:
 - E. E. Knight
 first_published: 2003
-canonical_genre: fallen-earth
+canonical_genre: earth-resistance
 placement_status: accepted
 placement_rationale: 'Louisiana 2065, the 43rd year of the Kurian Order: Earth''s alien occupiers rule through the bloodthirsty
   Reapers, and David Valentine''s resistance fights the occupation (PRH). The invaders have won; the story is survival, collaboration
@@ -54,3 +54,8 @@ placement_history:
 - date: '2026-10-04'
   to: fallen-earth
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  from: fallen-earth
+  to: earth-resistance
+  reason: 'Fallen Earth split at ten cards into Fall of Earth / Occupied Earth / Earth resistance (curator steering phonemsg-01M5SJ810R3B47WBVC8M20T9AY;
+    Fall of Earth his coinage phonemsg-01M5SJ95G1MM6326PNVMBC10J7); re-walked root-down: this card sits in Earth resistance.'

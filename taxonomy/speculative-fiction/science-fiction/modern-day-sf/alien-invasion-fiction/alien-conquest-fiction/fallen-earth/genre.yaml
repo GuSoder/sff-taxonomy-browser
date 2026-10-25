@@ -1,24 +1,17 @@
 id: fallen-earth
 label: Fallen Earth
 parent: alien-conquest-fiction
-children: []
+children:
+- fall-of-earth
+- occupied-earth
+- earth-resistance
 image: 655-fallen-earth.webp
 portrait: 655-fallen-earth.webp
 definition: 'Alien conquest fiction in which the invaders have won, or are winning: the cities are broken, the planet is occupied
   or ruled, and the story is survival, collaboration and resistance under alien rule. The war is mostly over or one-sided.
   Not Warzone Earth (there the defenders still fight a real war for the ground).'
 status: accepted
-works:
-- the-war-of-the-worlds
-- the-massacre-of-mankind
-- pandoras-legions
-- the-aleutian-trilogy
-- out-of-the-dark
-- troy-rising
-- the-ganymede-takeover
-- days-of-grass
-- war-of-the-worlds-new-millennium
-- vampire-earth
+works: []
 ruling: 'Split of Alien conquest fiction, approved by the curator ("Ok approved", phonemsg-01M4MY687RPVK13NDXD645C7HN, 2026-10-11
   9:35 AM CEST) after the intake''s "Approve split?" question (axis: has the planet fallen, or is it still a contested war;
   names workshopped with the curator: Fallen Earth and Warzone Earth). Triggered by the fiction held in Alien conquest at
@@ -26,3 +19,7 @@ ruling: 'Split of Alien conquest fiction, approved by the curator ("Ok approved"
 history:
 - date: '2026-10-11'
   change: Created by the Alien conquest fiction split; curator "Ok approved" (phonemsg-01M4MY687RPVK13NDXD645C7HN).
+- date: '2026-10-25'
+  change: 'Split of Fallen Earth at ten cards, 2026-10-25, by what the human fight amounts to (curator steering phonemsg-01M5SJ810R3B47WBVC8M20T9AY:
+    "2 works, 3 I would prefer Earth resistance, 1 I don''t get"; Earth resistance his rename; Fall of Earth his coinage,
+    phonemsg-01M5SJ95G1MM6326PNVMBC10J7). The umbrella keeps the name and portrait; the three leaves hold the cards.'

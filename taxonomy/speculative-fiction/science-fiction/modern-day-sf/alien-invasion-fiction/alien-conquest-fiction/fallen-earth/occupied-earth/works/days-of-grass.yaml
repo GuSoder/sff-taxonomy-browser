@@ -3,7 +3,7 @@ title: Days of Grass
 authors:
 - Tanith Lee
 first_published: 1985
-canonical_genre: fallen-earth
+canonical_genre: occupied-earth
 placement_status: accepted
 placement_rationale: 'Tanith Lee''s Days of Grass (DAW, 1985; Penguin Random House description and ISFDB): after the fall
   of humanity the free humans live underground like rats, fearing the open sky and the striding laser-armed machines from
@@ -28,3 +28,8 @@ placement_history:
 - date: '2026-10-04'
   to: fallen-earth
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  from: fallen-earth
+  to: occupied-earth
+  reason: 'Fallen Earth split at ten cards into Fall of Earth / Occupied Earth / Earth resistance (curator steering phonemsg-01M5SJ810R3B47WBVC8M20T9AY;
+    Fall of Earth his coinage phonemsg-01M5SJ95G1MM6326PNVMBC10J7); re-walked root-down: this card sits in Occupied Earth.'

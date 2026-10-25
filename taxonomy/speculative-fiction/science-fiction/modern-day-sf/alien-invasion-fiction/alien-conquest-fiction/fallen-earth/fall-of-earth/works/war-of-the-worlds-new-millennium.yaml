@@ -3,7 +3,7 @@ title: 'War of the Worlds: New Millennium'
 authors:
 - Douglas Niles
 first_published: 2005
-canonical_genre: fallen-earth
+canonical_genre: fall-of-earth
 placement_status: accepted
 placement_rationale: 'Wells''s invasion replayed in the 21st century: Martian cylinders land across America and the assault
   is as one-sided as the first time, humanity routed until the invaders'' own biology fails them (Wikipedia, FictionDB). Sits
@@ -23,3 +23,8 @@ placement_history:
 - date: '2026-10-04'
   to: fallen-earth
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  from: fallen-earth
+  to: fall-of-earth
+  reason: 'Fallen Earth split at ten cards into Fall of Earth / Occupied Earth / Earth resistance (curator steering phonemsg-01M5SJ810R3B47WBVC8M20T9AY;
+    Fall of Earth his coinage phonemsg-01M5SJ95G1MM6326PNVMBC10J7); re-walked root-down: this card sits in Fall of Earth.'
