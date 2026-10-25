@@ -1,0 +1,30 @@
+id: the-universe-after
+title: The Universe After
+authors:
+- Drew Williams
+first_published: 2018
+canonical_genre: space-hunt
+placement_status: accepted
+placement_rationale: 'Far-future gleeful explodey space opera: a century after the Pulse fried technology across the galaxy,
+  Jane Kamali and the Justified race warlords and raiders to rescue gifted children (Simon & Schuster, Tor). Action, chases
+  and space battles are the engine.'
+books:
+- title: The Stars Now Unclaimed
+  year: 2018
+  cover_url: 10453458
+- title: A Chain Across the Dawn
+  year: 2019
+  cover_url: 8802292
+- title: The Firmament of Flame
+  year: 2020
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 10453458
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids the-stars-now-unclaimed, a-chain-across-the-dawn, the-firmament-of-flame)
+placement_history:
+- date: '2026-10-04'
+  to: space-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

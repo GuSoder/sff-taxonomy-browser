@@ -1,0 +1,28 @@
+id: the-dragonslayer-trilogy
+title: The Dragonslayer Trilogy
+authors:
+- Duncan M. Hamilton
+first_published: 2019
+canonical_genre: champion-of-realm
+placement_status: accepted
+placement_rationale: 'Guillot dal Villerauvais, a retired master swordsman, is called back when dragons return to the realm
+  after a thousand years; his sword is the answer the Prince Bishop''s court cannot provide (author site, Amazing Stories:
+  Dumas-and-dragons Renaissance-France adventure). The protagonist''s power is the blade.'
+books:
+- title: Dragonslayer
+  year: 2019
+  cover_url: 10109115
+- title: Knight of the Silver Circle
+  year: 2019
+  cover_url: 10153265
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 10109115
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids dragonslayer, knight-of-the-silver-circle)
+placement_history:
+- date: '2026-10-04'
+  to: warrior-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
