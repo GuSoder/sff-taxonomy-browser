@@ -1,0 +1,25 @@
+id: billy-moon
+title: Billy Moon
+authors:
+- Douglas Lain
+first_published: 2013
+canonical_genre: age-of-aquarius-fantasy
+placement_status: accepted
+placement_rationale: 'Fictional biography of Christopher Robin Milne: invited to Paris for the May 1968 student uprisings,
+  he is guided by Gerrard, whose relationship with time and space slips; Library Journal: a magical-realist tapestry of the
+  late-1960s revolutionary fervor. The Aquarian-years counterculture stage with the supernatural inside it.'
+books:
+- title: Billy Moon
+  year: 2013
+  cover_url: 11596193
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 11596193
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids billy-moon)
+placement_history:
+- date: '2026-10-04'
+  to: age-of-aquarius-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
