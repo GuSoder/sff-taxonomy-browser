@@ -1,0 +1,40 @@
+id: the-shadow-campaigns
+title: The Shadow Campaigns
+authors: Django Wexler
+first_published: 2013
+canonical_genre: mud-and-blood-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: speculative-fiction > fantasy > fantasy-realms > epic-fantasy > military-fantasy > army-fantasy
+  > mud-and-blood-fantasy. Invented-world musket-age fantasy: Captain Marcus d''Ivoire''s colonial garrison of the Vordanai
+  empire is upended by rebellion, a demoralized force clinging to a desert fortress, ''the thunder of muskets and the clang
+  of steel'' with a subtle sinister magic underneath (djangowexler.com author copy, Ace). The campaign is lived by the soldiers
+  and company officers in the line - the leaf''s remit; not Command-tent even though General Janus''s strategy is a major
+  thread (the POV anchors are Marcus and ranker Winter Ihernglass). Not Alt-flintlock: Vordan is an invented world, not rewritten
+  history. Five novels 2013-2018 (OL first-publication years). Years are first publication.'
+books:
+- title: The Thousand Names
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8444220-L.jpg
+- title: The Shadow Throne
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/12918434-L.jpg
+- title: The Price of Valor
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8737394-L.jpg
+- title: The Guns of Empire
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10301972-L.jpg
+- title: The Infernal Battalion
+  year: 2018
+  cover_url: https://images2.penguinrandomhouse.com/cover/9780698409477
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8444220-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02625, MC02624, MC02623, MC02620, MC02621)
+placement_history:
+- date: '2026-10-04'
+  to: mud-and-blood-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
