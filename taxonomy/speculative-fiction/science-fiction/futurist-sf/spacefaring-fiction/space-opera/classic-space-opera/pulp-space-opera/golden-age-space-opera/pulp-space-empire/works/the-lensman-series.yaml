@@ -1,0 +1,40 @@
+id: the-lensman-series
+title: The Lensman Series
+authors:
+- E. E. 'Doc' Smith
+first_published: 1939
+canonical_genre: pulp-space-empire
+placement_status: accepted
+placement_rationale: 'The fountainhead golden-age space war: the Lens-bearing Galactic Patrol of Civilization against Boskone''s
+  pirate empire, two rival powers fighting for the galaxy across six books (Gollancz SF Masterworks listing). Remove the rival-power
+  structure and the plot collapses.'
+books:
+- title: Gray Lensman
+  year: 1939
+  cover_url: 929106
+- title: Triplanetary
+  year: 1948
+  cover_url: 4627686
+- title: First Lensman
+  year: 1950
+  cover_url: 929104
+- title: Galactic Patrol
+  year: 1950
+  cover_url: 929105
+- title: Second Stage Lensmen
+  year: 1953
+  cover_url: 929107
+- title: Children of the Lens
+  year: 1954
+  cover_url: 7250627
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 4627686
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids gray-lensman, triplanetary, first-lensman, galactic-patrol, second-stage-lensmen, children-of-the-lens)
+placement_history:
+- date: '2026-10-04'
+  to: pulp-space-empire
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
