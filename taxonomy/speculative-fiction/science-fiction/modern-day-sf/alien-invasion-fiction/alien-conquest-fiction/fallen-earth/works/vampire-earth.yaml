@@ -1,0 +1,56 @@
+id: vampire-earth
+title: Vampire Earth
+authors:
+- E. E. Knight
+first_published: 2003
+canonical_genre: fallen-earth
+placement_status: accepted
+placement_rationale: 'Louisiana 2065, the 43rd year of the Kurian Order: Earth''s alien occupiers rule through the bloodthirsty
+  Reapers, and David Valentine''s resistance fights the occupation (PRH). The invaders have won; the story is survival, collaboration
+  and resistance under their rule.'
+books:
+- title: Way of the Wolf
+  year: 2003
+  cover_url: 295109
+- title: Choice of the Cat
+  year: 2004
+  cover_url: 295139
+- title: Tale of the Thunderbolt
+  year: 2005
+  cover_url: 295180
+- title: Valentine's Rising
+  year: 2005
+  cover_url: 295219
+- title: Valentine's Exile
+  year: 2006
+  cover_url: 295247
+- title: Valentine's Resolve
+  year: 2007
+  cover_url: 1237175
+- title: Fall with Honor
+  year: 2008
+  cover_url: 6948622
+- title: Winter Duty
+  year: 2009
+  cover_url: 10002726
+- title: March in Country
+  year: 2011
+  cover_url: 6685580
+- title: Appalachian Overthrow
+  year: 2013
+  cover_url: 7783261
+- title: Baltic Gambit
+  year: 2014
+  cover_url: 12324400
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 295109
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids way-of-the-wolf, choice-of-the-cat, tale-of-the-thunderbolt, valentines-rising, valentines-exile,
+  valentines-resolve, fall-with-honor, winter-duty, march-in-country, appalachian-overthrow, baltic-gambit)
+placement_history:
+- date: '2026-10-04'
+  to: fallen-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
