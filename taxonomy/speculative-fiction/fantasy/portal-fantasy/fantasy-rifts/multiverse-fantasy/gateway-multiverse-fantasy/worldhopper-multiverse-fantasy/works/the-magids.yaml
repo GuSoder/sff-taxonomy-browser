@@ -1,0 +1,33 @@
+id: the-magids
+title: The Magids
+authors: Diana Wynne Jones
+first_published: 1997
+canonical_genre: worldhopper-multiverse-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy > Portal fantasy (the story includes our Earth - the Wantchester convention - inside
+  a system of worlds) > Fantasy rifts > Multiverse fantasy (a system of many worlds with order and chaos in play across them:
+  the magids'' task is to urge the worlds in an Ayewards direction against the Nayward pull - Wikipedia, Deep Secret) > Gateway
+  multiverse fantasy (distinct realms joined by crossings through the gaps between worlds) > Worldhopper multiverse fantasy:
+  Rupert Venables is junior magid for Earth and the Koryfonic Empire, serving the magid institution and ranging across Earth,
+  Thule and the Empire - ''serving an institution... each crossing lands somewhere new; the multiverse itself is the stage''
+  verbatim. Not Mirror multiverse fantasy (the worlds are distinct realms, not counterparts of one another). One card for
+  the Magids series (Wikipedia: Deep Secret 1997, The Merlin Conspiracy 2003). Years are first publication; the queue''s 2013
+  is the Tor reissue.'
+books:
+- title: Deep Secret
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/183072-L.jpg
+- title: The Merlin Conspiracy
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/27184-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/183072-L.jpg
+  visually_reviewed_on: '2026-10-25'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02606)
+placement_history:
+- date: '2026-10-25'
+  to: worldhopper-multiverse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
