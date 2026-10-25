@@ -1,22 +1,19 @@
 id: black-mages
 label: Black Mages
 parent: mage-hero
-children: []
+children:
+- necromancer
+- chaos-mage
+- shadow-mage
+- siphon-mage
 image: 682-black-mages.webp
 portrait: 682-black-mages.webp
 definition: 'Mage hero fantasy where the hero''s art is the dark one: necromancy, death, blood, forbidden or destructive
   sorcery, practised by the protagonist as his or her own craft. Colour names the art, not the hero''s morality: a kind necromancer
   is still a Black Mage. Not Grey Mages (between or undefined arts, nature and balance), not White Mages (healing and restoring
-  arts), not Paladin hero or Cleric hero (power from a god or an order), not Warlock hero (power drawn from demons at the caster level).'
+  arts), not Paladin hero or Cleric hero (power from a god or an order), not Warlock hero (power drawn from demons at the caster level). Umbrella since 2026-10-25: split by the hero''s dark art into Necromancer, Chaos mage, Shadow mage and Siphon mage on the curator''s ''Approved'' (phonemsg-01M5T3P2VPKRD9HRFG3GEYDA40) over his requested art-name split (phonemsg-01M5SSDAAZE7A207PTF43A6SG2); the leaf names are his coinages.'
 status: accepted
-works:
-- the-warden
-- saint-deaths-daughter
-- the-scholomance
-- spellslinger
-- age-of-darkness
-- the-black-magician
-- the-redwinter-chronicles
+works: []
 ruling: 'Dissolve of Fledgling mage (9) and Graybeard mage (4) and re-division of Mage hero by the hero''s art, approved by
   the curator''s "Execute on this axis instead" (2026-10-12 5:20:14 PM CEST, phonemsg-01M4RB6ESST3S5DDH4VP9A7HK0, on his own
   names Black Mages / Grey Mages / White Mages); names are the curator''s own. Supersedes the 2026-10-06 life-stage split

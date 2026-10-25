@@ -1,0 +1,11 @@
+id: shadow-mage
+label: Shadow mage
+parent: black-mages
+children: []
+image: 807-shadow-mage.webp
+portrait: 807-shadow-mage.webp
+definition: 'Black Mages whose art is shadow: slipping into shadow and sight into hidden truths, as with the shadowblack. Not Necromancer (the dead), not Chaos mage (destruction), not Siphon mage (the drain).'
+status: accepted
+works:
+- spellslinger
+ruling: 'Black Mages split by the hero''s dark art, approved by the curator "Approved" (phonemsg-01M5T3P2VPKRD9HRFG3GEYDA40) over his requested art-name split (phonemsg-01M5SSDAAZE7A207PTF43A6SG2); the leaf names are his coinages (phonemsg-01M5SZQCR55YHCK9RHN57HGQ03, phonemsg-01M5SZSC5VHEQPHQHS41AAZQ7X, phonemsg-01M5T1M2BZCP17DDQWV3DGMRQ1).'

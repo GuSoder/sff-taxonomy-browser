@@ -1,0 +1,13 @@
+id: necromancer
+label: Necromancer
+parent: black-mages
+children: []
+image: 805-necromancer.webp
+portrait: 805-necromancer.webp
+definition: 'Black Mages whose art is necromancy: speaking with, raising or binding the dead as their own craft. Not Warlock hero (power drawn from demons), not Siphon mage (strength drained from the living), not Chaos mage (large-scale destruction), not Shadow mage (shadow and hidden knowledge).'
+status: accepted
+works:
+- the-warden
+- saint-deaths-daughter
+- the-redwinter-chronicles
+ruling: 'Black Mages split by the hero''s dark art, approved by the curator "Approved" (phonemsg-01M5T3P2VPKRD9HRFG3GEYDA40) over his requested art-name split (phonemsg-01M5SSDAAZE7A207PTF43A6SG2); the leaf names are his coinages (phonemsg-01M5SZQCR55YHCK9RHN57HGQ03, phonemsg-01M5SZSC5VHEQPHQHS41AAZQ7X, phonemsg-01M5T1M2BZCP17DDQWV3DGMRQ1).'
