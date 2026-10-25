@@ -1,0 +1,24 @@
+id: starwolf
+title: Starwolf
+authors:
+- Edmond Hamilton
+year: 1967
+cover_url: https://covers.openlibrary.org/b/id/6627924-L.jpg
+shows_english_title: true
+canonical_genre: pulp-space-odyssey
+books:
+- title: The Weapon from Beyond
+  year: 1967
+  cover_url: https://covers.openlibrary.org/b/id/6627924-L.jpg
+- title: The Closed Worlds
+  year: 1968
+  cover_url: https://covers.openlibrary.org/b/id/6629264-L.jpg
+- title: World of the Starwolves
+  year: 1968
+  cover_url: https://covers.openlibrary.org/b/id/6633359-L.jpg
+placement_note: 'Root-down: Science fiction -> Futurist SF -> Spacefaring fiction -> Space opera -> Classic space opera -> Pulp space opera -> Golden age space opera -> Pulp space odyssey. Morgan Chane, Earth-born but raised among the Viking-like Starwolves of the heavy-gravity pirate world Varna, roves the galaxy as a mercenary across three novels of planet-to-planet adventure: one wanderer''s fortunes, not the governance of galactic power. (en.wikipedia.org/wiki/Starwolf_(novel_series); hachette.co.uk Edmond Hamilton contributor page; ISFDB title 3475: The Weapon from Beyond NOVEL 1967, Starwolf #1.)'
+placement_history:
+- date: '2026-10-25'
+  from: intake
+  to: pulp-space-odyssey
+  reason: 'Intake from the 10k list: one series card folding queue ids MC02751, MC02756, MC02757.'
