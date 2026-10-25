@@ -20,3 +20,5 @@ Supersedes: 3-way economies/classes/places proposal AND the Anthropocene Rag mov
 - Caveats banked: 6/8 singletons; Down and Out equally post-scarcity (kept post-death per served pairing).
 
 2026-10-25 12:55 CET - EXECUTED: waste-tide moved to cyborgs (Approved, phonemsg-01M5SEDQP26T7ACFNSRXSK3F1Y). HEAD 6540cbd0 live-verified: cyborgs 8, post-society-orders 9. E-waste child DEAD. Split now hypothetical at 9 books / 7 children (Post-death 2, Post-scarcity 2, Post-nano 1, Maker/Post-factory 1, Post-climate 1, Post-law 1, Upgrade 1); trigger (10 cards) no longer holds - parent to confirm with Gustav whether the mechanism split is still wanted before re-serving. Portraits 795+ untouched.
+
+2026-10-25 12:56 CET - RE-SERVED by parent: 7-child mechanism split, using Post-factory society for Makers (his name taken). Approval block is the decision; awaiting approval. No execution.
