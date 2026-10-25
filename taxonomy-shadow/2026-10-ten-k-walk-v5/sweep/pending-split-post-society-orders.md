@@ -7,7 +7,9 @@ Supersedes: 3-way economies/classes/places proposal AND the Anthropocene Rag mov
 - post-nano-society (1): anthropocene-rag  [scoped: after-the-nano-event aftermath; unstable terrain, machine-recreated myths]
 - maker-society (1): makers
 - post-climate-society (1): the-dervish-house  [his widening, approved scope: climate-response order, NOT solved climate; boundary vs cli-fi-dystopia + climate-tyranny written in definition]
-- post-law-society (1): corporate-gunslinger  [his name, endorsed scope: end of PUBLIC justice; contracts persist, duel is legal system's final stop; definition must not claim law itself ended]
+- post-law-society (1): corporate-gunslinger
+
+2026-10-25 12:50 CET - OPEN single-book decision ahead of this split: parent served recommendation to move waste-tide to existing cyborgs leaf (existing fitting leaf beats seed; Cyborgs definition met by embodiment-enabling-revolt reading). If approved: E-waste child DROPS from this split (7 children, 9 books) and the move executes as its own change. If rejected: E-waste child stands. Awaiting user reply via parent.  [his name, endorsed scope: end of PUBLIC justice; contracts persist, duel is legal system's final stop; definition must not claim law itself ended]
 - upgrade-society (1): jump-225
 - e-waste-society (1): waste-tide
 ## Execution notes
