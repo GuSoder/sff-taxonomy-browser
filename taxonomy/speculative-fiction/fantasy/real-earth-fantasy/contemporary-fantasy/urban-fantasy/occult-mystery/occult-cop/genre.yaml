@@ -1,27 +1,26 @@
 id: occult-cop
 label: Occult cop
 parent: occult-mystery
-children: []
-works:
-- rivers-of-london
-- the-outsider
-- the-midnight-shift
-- dragons-disciple
-- osi
-- fated-blades
-- iron-angels
-- ragged-alice
-- titanshade
-- kara-gillian
+children:
+- folklore-cop
+- vampire-cop
+- demon-cop
+- cult-cop
+- curse-cop
+- monster-cop
+works: []
 image: 492-occult-cop.webp
 definition: 'Occult mystery fiction where sworn police officers or police units work cases shaped by magic or the supernatural:
   detectives, lieutenants and forensic investigators on the force, with a badge, a boss and a case file. Not Occult secret
   service (a hidden or state service that polices occult threats for the state) and not Occult PI (private, amateur
   or freelance investigators with no badge). Split 2026-10-05 from Occult mystery at ten cards (curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF,
   2026-10-05 5:51 PM)).'
-status: accepted
+status: umbrella
 ruling: curator "Approved" (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)
 history:
 - date: '2026-10-12'
   change: Renamed from Occult cop (id occult-cop-cases) to Occult cop on the curator's "Yeah" (2026-10-12 11:35:54 AM
     CEST); old id kept as a redirect.
+- date: '2026-10-25'
+  change: 'Split at ten cards by the supernatural case-world into Folklore cop (4), Vampire cop (1), Demon cop (2), Cult cop (1), Curse cop (1) and Monster cop (1); the original stays umbrella. Curator "Approved" (phonemsg-01M5S781PG8ASB6F1SAPBD7J15, 2026-10-25 10:46 AM CET), his bestiary proposal (phonemsg-01M5S6XFC2K782QCFMS62QM3V7), his names (phonemsg-01M5S7713Z7B4YQQR1HF7GQV9X); Curse cop and Monster cop are his renames of Artifact cop and Multispecies cop.'
+

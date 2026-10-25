@@ -1,0 +1,18 @@
+id: monster-cop
+label: Monster cop
+parent: occult-cop
+children: []
+image: 794-monster-cop.webp
+portrait: 794-monster-cop.webp
+definition: 'Occult cop fiction policing an openly nonhuman city: the peoples of the world are monsters and magic is open;
+  the hook is the many-species city itself, not a quarry. Not Folklore cop (hidden folklore in our world).'
+status: provisional
+ruling: Split of Occult cop at ten cards by the supernatural case-world (curator "Approved" (phonemsg-01M5S781PG8ASB6F1SAPBD7J15,
+  2026-10-25 10:46 AM CET), his bestiary proposal (phonemsg-01M5S6XFC2K782QCFMS62QM3V7), his names (phonemsg-01M5S7713Z7B4YQQR1HF7GQV9X));
+  the original stays umbrella.
+works:
+- titanshade
+history:
+- date: '2026-10-25'
+  change: Created in the split of Occult cop at ten cards (curator "Approved" (phonemsg-01M5S781PG8ASB6F1SAPBD7J15), his proposal
+    (phonemsg-01M5S6XFC2K782QCFMS62QM3V7), his names (phonemsg-01M5S7713Z7B4YQQR1HF7GQV9X)).

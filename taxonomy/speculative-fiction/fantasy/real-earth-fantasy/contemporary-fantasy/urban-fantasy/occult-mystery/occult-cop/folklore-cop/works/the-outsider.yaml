@@ -3,7 +3,7 @@ title: The Outsider
 authors:
 - Stephen King
 first_published: 2018
-canonical_genre: occult-cop
+canonical_genre: folklore-cop
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Urban fantasy -> Occult mystery
   fiction. Hachette explicitly describes a present-day police procedural that becomes a supernatural thriller as Detective
@@ -25,3 +25,7 @@ placement_history:
     2026-10-05 5:51 PM)).
   from: occult-mystery
   to: occult-cop
+- date: '2026-10-25'
+  to: folklore-cop
+  reason: 'Split of Occult cop at ten cards by the supernatural case-world: beings of myth and folklore drive the cases (curator
+    "Approved" (phonemsg-01M5S781PG8ASB6F1SAPBD7J15), his proposal (phonemsg-01M5S6XFC2K782QCFMS62QM3V7), his names (phonemsg-01M5S7713Z7B4YQQR1HF7GQV9X)).'

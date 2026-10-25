@@ -2,7 +2,7 @@ id: kara-gillian
 title: Kara Gillian
 authors: Diana Rowland
 first_published: 2009
-canonical_genre: occult-cop
+canonical_genre: demon-cop
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy > Real-earth fantasy > Contemporary fantasy > Urban fantasy > Occult mystery > Occult
   cop. Kara Gillian is a sworn homicide detective in Beaulac, Louisiana who is also a secret Summoner of Demons: ''she must
@@ -51,3 +51,7 @@ placement_history:
 - date: '2026-10-24'
   to: occult-cop
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  to: demon-cop
+  reason: 'Split of Occult cop at ten cards by the supernatural case-world: demons drive the cases (curator "Approved" (phonemsg-01M5S781PG8ASB6F1SAPBD7J15),
+    his proposal (phonemsg-01M5S6XFC2K782QCFMS62QM3V7), his names (phonemsg-01M5S7713Z7B4YQQR1HF7GQV9X)).'

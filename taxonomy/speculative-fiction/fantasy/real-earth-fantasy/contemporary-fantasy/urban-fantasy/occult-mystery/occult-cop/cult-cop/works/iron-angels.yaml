@@ -4,13 +4,13 @@ authors:
 - Eric Flint
 - Alistair Kimble
 first_published: 2017
-canonical_genre: occult-cop
+canonical_genre: cult-cop
 placement_status: accepted
 placement_rationale: 'Fantasy > Real-earth fantasy > Urban fantasy > Occult mystery fiction > Occult cop: in contemporary
   Chicago and northwest Indiana, FBI agents Jasper Wilde and Temple Black investigate kidnapping, mutilated corpses and warring
   cults around an otherworldly evil. Kimble calls it urban fantasy and, at its heart, an FBI procedural. The Scientific Anomalies
-  Group is a specialist FBI unit, but the criminal case and sworn investigators govern: Occult cop, not an independent
-  hidden service. The alien/demon description is not evidence for a technological extraterrestrial invasion; horror and dimensional
+  Group is a specialist FBI unit, but the criminal case and sworn investigators govern: Occult cop, not an independent hidden
+  service. The alien/demon description is not evidence for a technological extraterrestrial invasion; horror and dimensional
   menace are the register of the case, not a traveller adventure.'
 books:
 - title: Iron Angels
@@ -27,6 +27,11 @@ placement_history:
 - date: '2026-10-07'
   to: occult-cop
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-25'
+  to: cult-cop
+  reason: 'Split of Occult cop at ten cards by the supernatural case-world: cults serving an unknown entity are the case engine
+    (curator "Approved" (phonemsg-01M5S781PG8ASB6F1SAPBD7J15), his proposal (phonemsg-01M5S6XFC2K782QCFMS62QM3V7), his names
+    (phonemsg-01M5S7713Z7B4YQQR1HF7GQV9X)).'
 research_sources:
 - https://www.baen.com/iron-angels.html
 - https://thedashingchap.com/celebration-of-style/tag/Iron+Angels
