@@ -1,0 +1,32 @@
+id: the-chaos-born
+title: The Chaos Born
+authors:
+- Drew Karpyshyn
+first_published: 2013
+canonical_genre: burden-quest-fantasy
+placement_status: accepted
+placement_rationale: The gods' champion Daemron, corrupted by his own talismans, lies sealed behind the Legacy; his dying
+  curse marks four newborn children with the aspects of his mantle (Wizard, Warrior, Prophet, King) - four ordinary mortals
+  who will either save the world or bring about its destruction (Karpyshyn's site, Penguin). Marked ones bound to the war
+  only they can decide.
+books:
+- title: Children of Fire
+  year: 2013
+  cover_url: 10205256
+- title: The Scorched Earth
+  year: 2014
+  cover_url: 10339646
+- title: Chaos Unleashed
+  year: 2015
+  cover_url: 8754244
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 10205256
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids children-of-fire, the-scorched-earth, chaos-unleashed)
+placement_history:
+- date: '2026-10-04'
+  to: burden-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
