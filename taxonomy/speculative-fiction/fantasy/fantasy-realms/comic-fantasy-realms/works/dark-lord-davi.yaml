@@ -1,0 +1,30 @@
+id: dark-lord-davi
+title: Dark Lord Davi
+authors: Django Wexler
+first_published: 2024
+canonical_genre: comic-fantasy-realms
+placement_status: accepted
+placement_rationale: 'Root-down: speculative-fiction > fantasy > fantasy-realms > comic-fantasy-realms. ''Groundhog Day meets
+  Guardians of the Galaxy'' in a ''laugh-out-loud fantasy tale'': Davi has rallied humanity against the all-powerful Dark
+  Lord a hundred times and the time loop beats her every time, so she decides to become the Dark Lord herself (djangowexler.com
+  author copy, Orbit). Comedy is the governing engine, not incidental relief, and the invented Dark-Lord world is the stage
+  of the joke - the leaf verbatim. The time loop is the device, not the shelf. Two novels 2024-2025 (Hachette pub dates: book
+  1 May 21, 2024; book 2 2025 per OL/Orbit). Years are first US publication.'
+books:
+- title: How to Become the Dark Lord and Die Trying
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14633608-L.jpg
+- title: Everybody Wants to Rule the World Except Me
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15090460-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14633608-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02619, MC02617)
+placement_history:
+- date: '2026-10-04'
+  to: comic-fantasy-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
