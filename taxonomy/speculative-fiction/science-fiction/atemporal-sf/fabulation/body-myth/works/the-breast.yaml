@@ -1,6 +1,7 @@
 id: the-breast
 title: The Breast
-authors: [Philip Roth]
+authors:
+- [Philip Roth]
 first_published: 1972
 canonical_genre: body-myth
 placement_status: accepted

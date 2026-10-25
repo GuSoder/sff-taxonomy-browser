@@ -18,7 +18,7 @@ for b in bl:
     books.append(e)
 fy=min([b['year'] for b in bl if b.get('year')],default=None)
 cover=sp['cover']
-wy=dict(id=wid,title=title,authors=sp['authors'],first_published=fy,canonical_genre=leaf,placement_status='accepted',placement_rationale=sp['why'],
+wy=dict(id=wid,title=title,authors=[sp['authors']] if isinstance(sp['authors'],str) else sp['authors'],first_published=fy,canonical_genre=leaf,placement_status='accepted',placement_rationale=sp['why'],
  books=books,cover_curation=dict(status='complete',source='Open Library / publisher',selected_url=cover,visually_reviewed_on='2026-10-04',review_method='contact-sheet one-pass'),
  intake='ten-k walk v5 (queue ids '+', '.join(b['id'] for b in bl)+')',
  placement_history=[dict(date='2026-10-04',to=leaf,reason=f'Intake from the 10k list: placed by a root-down walk (curator commission {MSG}).')])
@@ -33,7 +33,7 @@ else:
 open(d+'/genre.yaml','w',encoding='utf-8').write(g)
 s=open('index.html',encoding='utf-8').read()
 m=re.search(r'const nodes=(.*)\n',s); nodes,end=json.JSONDecoder().raw_decode(m.group(1)); by={n['id']:n for n in nodes}
-nw=dict(title=title,cover_url=cover,shows_english_title=True,authors=sp['authors'],year=fy,books=books,placement_note=sp['why'])
+nw=dict(title=title,cover_url=cover,shows_english_title=True,authors=[sp['authors']] if isinstance(sp['authors'],str) else sp['authors'],year=fy,books=books,placement_note=sp['why'])
 if fy is None: nw.pop('year')
 by[leaf]['works'].append(nw)
 s=s[:m.start(1)]+json.dumps(nodes,ensure_ascii=False,separators=(',',':'))+m.group(1)[end:]+s[m.end(1):]
