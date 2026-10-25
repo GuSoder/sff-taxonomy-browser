@@ -1,4 +1,4 @@
-# Pending split: post-society-orders (10 cards) - SERVED 2026-10-25 ~11:24 CET (corrected 8-child mechanism split)
+# Pending split: post-society-orders (10 cards) - SERVED 2026-10-25 ~11:33 CET (8-child mechanism split, his Post-climate + Post-law names)
 Axis: each leaf names the disruption that rewrote the social order. Sole open approval; NOTHING executed.
 Supersedes: 3-way economies/classes/places proposal AND the Anthropocene Rag move-to-wasteland-journeys proposal.
 ## Children (on approval; umbrella keeps name + portrait, sheds all 10 works)
@@ -6,8 +6,8 @@ Supersedes: 3-way economies/classes/places proposal AND the Anthropocene Rag mov
 - post-scarcity-society (2): the-diamond-age, counting-heads
 - post-nano-society (1): anthropocene-rag  [scoped: after-the-nano-event aftermath; unstable terrain, machine-recreated myths]
 - maker-society (1): makers
-- carbon-card-society (1): the-dervish-house
-- debt-duel-society (1): corporate-gunslinger
+- post-climate-society (1): the-dervish-house  [his widening, approved scope: climate-response order, NOT solved climate; boundary vs cli-fi-dystopia + climate-tyranny written in definition]
+- post-law-society (1): corporate-gunslinger  [his name, endorsed scope: end of PUBLIC justice; contracts persist, duel is legal system's final stop; definition must not claim law itself ended]
 - upgrade-society (1): jump-225
 - e-waste-society (1): waste-tide
 ## Execution notes
