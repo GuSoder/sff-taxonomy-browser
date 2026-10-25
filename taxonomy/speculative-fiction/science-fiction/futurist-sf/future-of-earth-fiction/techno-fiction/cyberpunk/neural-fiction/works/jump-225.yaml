@@ -1,0 +1,34 @@
+id: jump-225
+title: Jump 225
+authors:
+- David Louis Edelman
+first_published: 2006
+canonical_genre: neural-fiction
+placement_status: accepted
+placement_rationale: 'Moved from Post-society orders 2026-10-25 (curator ''Approved'', phonemsg-01M5SF5B4VX8YRN70GZWD7RT65). Actual-tree walk: Speculative fiction -> Science fiction -> Futurist -> Future of Earth fiction -> Techno Fiction -> Cyberpunk -> Neural fiction. The trilogy''s central technology MultiReal runs on bio/logic - nervous-system nanomachines, everyone neurally linked through the Data Sea - and delivers experienced simulations of possible realities: targets trapped in loops of possible scenarios, users running and selecting among simulated outcomes, ''one minute in the future'', eventually month-long reality simulations rolled back at will (Futurismic, Gizmodo). Direct-to-brain access as the passage into altered reality makes Neural fiction exact; no separate virtual world is required.'
+
+classification_sources:
+- https://futurismic.com/2008/10/08/book-review-multireal-by-david-louis-edelman/
+- https://gizmodo.com/reality-is-a-strange-commodity-as-the-multireal-saga-e-5444961
+- https://davidlouisedelman.com/jump225/multireal/
+books:
+- title: Infoquake
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/862568-L.jpg
+- title: MultiReal
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/862568-L.jpg
+- title: Geosynchron
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/862568-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/862568-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00082, MC00096, MC00069)
+placement_history:
+- date: '2026-10-04'
+  to: post-society
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
