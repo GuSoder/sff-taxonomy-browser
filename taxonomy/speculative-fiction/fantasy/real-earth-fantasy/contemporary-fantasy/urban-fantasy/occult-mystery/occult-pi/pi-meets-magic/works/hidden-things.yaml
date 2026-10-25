@@ -11,11 +11,11 @@ placement_rationale: 'Calliope Jenkins of White Investigations, an ordinary huma
 books:
 - title: Hidden Things
   year: 2012
-  cover_url: 8180407
+  cover_url: https://covers.openlibrary.org/b/id/8180407-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 8180407
+  selected_url: https://covers.openlibrary.org/b/id/8180407-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids hidden-things)

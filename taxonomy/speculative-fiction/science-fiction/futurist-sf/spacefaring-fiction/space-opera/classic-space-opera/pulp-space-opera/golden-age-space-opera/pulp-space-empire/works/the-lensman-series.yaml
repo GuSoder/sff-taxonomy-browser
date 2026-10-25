@@ -11,26 +11,26 @@ placement_rationale: 'The fountainhead golden-age space war: the Lens-bearing Ga
 books:
 - title: Gray Lensman
   year: 1939
-  cover_url: 929106
+  cover_url: https://covers.openlibrary.org/b/id/929106-L.jpg
 - title: Triplanetary
   year: 1948
-  cover_url: 4627686
+  cover_url: https://covers.openlibrary.org/b/id/4627686-L.jpg
 - title: First Lensman
   year: 1950
-  cover_url: 929104
+  cover_url: https://covers.openlibrary.org/b/id/929104-L.jpg
 - title: Galactic Patrol
   year: 1950
-  cover_url: 929105
+  cover_url: https://covers.openlibrary.org/b/id/929105-L.jpg
 - title: Second Stage Lensmen
   year: 1953
-  cover_url: 929107
+  cover_url: https://covers.openlibrary.org/b/id/929107-L.jpg
 - title: Children of the Lens
   year: 1954
-  cover_url: 7250627
+  cover_url: https://covers.openlibrary.org/b/id/7250627-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 4627686
+  selected_url: https://covers.openlibrary.org/b/id/4627686-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids gray-lensman, triplanetary, first-lensman, galactic-patrol, second-stage-lensmen, children-of-the-lens)

@@ -11,11 +11,11 @@ placement_rationale: 'Seventeen-year-old Dayna Walsh is ascending into her mothe
 books:
 - title: Witches of Ash and Ruin
   year: 2020
-  cover_url: 10936374
+  cover_url: https://covers.openlibrary.org/b/id/10936374-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 10936374
+  selected_url: https://covers.openlibrary.org/b/id/10936374-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids witches-of-ash-and-ruin)

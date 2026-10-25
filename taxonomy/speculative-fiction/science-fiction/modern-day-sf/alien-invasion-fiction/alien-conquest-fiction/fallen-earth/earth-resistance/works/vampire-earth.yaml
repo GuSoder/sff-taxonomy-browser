@@ -11,41 +11,41 @@ placement_rationale: 'Louisiana 2065, the 43rd year of the Kurian Order: Earth''
 books:
 - title: Way of the Wolf
   year: 2003
-  cover_url: 295109
+  cover_url: https://covers.openlibrary.org/b/id/295109-L.jpg
 - title: Choice of the Cat
   year: 2004
-  cover_url: 295139
+  cover_url: https://covers.openlibrary.org/b/id/295139-L.jpg
 - title: Tale of the Thunderbolt
   year: 2005
-  cover_url: 295180
+  cover_url: https://covers.openlibrary.org/b/id/295180-L.jpg
 - title: Valentine's Rising
   year: 2005
-  cover_url: 295219
+  cover_url: https://covers.openlibrary.org/b/id/295219-L.jpg
 - title: Valentine's Exile
   year: 2006
-  cover_url: 295247
+  cover_url: https://covers.openlibrary.org/b/id/295247-L.jpg
 - title: Valentine's Resolve
   year: 2007
-  cover_url: 1237175
+  cover_url: https://covers.openlibrary.org/b/id/1237175-L.jpg
 - title: Fall with Honor
   year: 2008
-  cover_url: 6948622
+  cover_url: https://covers.openlibrary.org/b/id/6948622-L.jpg
 - title: Winter Duty
   year: 2009
-  cover_url: 10002726
+  cover_url: https://covers.openlibrary.org/b/id/10002726-L.jpg
 - title: March in Country
   year: 2011
-  cover_url: 6685580
+  cover_url: https://covers.openlibrary.org/b/id/6685580-L.jpg
 - title: Appalachian Overthrow
   year: 2013
-  cover_url: 7783261
+  cover_url: https://covers.openlibrary.org/b/id/7783261-L.jpg
 - title: Baltic Gambit
   year: 2014
-  cover_url: 12324400
+  cover_url: https://covers.openlibrary.org/b/id/12324400-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 295109
+  selected_url: https://covers.openlibrary.org/b/id/295109-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids way-of-the-wolf, choice-of-the-cat, tale-of-the-thunderbolt, valentines-rising, valentines-exile,

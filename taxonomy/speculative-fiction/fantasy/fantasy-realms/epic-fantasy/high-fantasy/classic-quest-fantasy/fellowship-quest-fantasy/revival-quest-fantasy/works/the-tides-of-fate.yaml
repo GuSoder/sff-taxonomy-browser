@@ -12,11 +12,11 @@ placement_rationale: 'Classic-template epic in the invented world of Ellynrie: a
 books:
 - title: The Tower of Shadows
   year: 2006
-  cover_url: 6393763
+  cover_url: https://covers.openlibrary.org/b/id/6393763-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 6393763
+  selected_url: https://covers.openlibrary.org/b/id/6393763-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids the-tower-of-shadows)

@@ -12,17 +12,17 @@ placement_rationale: The gods' champion Daemron, corrupted by his own talismans,
 books:
 - title: Children of Fire
   year: 2013
-  cover_url: 10205256
+  cover_url: https://covers.openlibrary.org/b/id/10205256-L.jpg
 - title: The Scorched Earth
   year: 2014
-  cover_url: 10339646
+  cover_url: https://covers.openlibrary.org/b/id/10339646-L.jpg
 - title: Chaos Unleashed
   year: 2015
-  cover_url: 8754244
+  cover_url: https://covers.openlibrary.org/b/id/8754244-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 10205256
+  selected_url: https://covers.openlibrary.org/b/id/10205256-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids children-of-fire, the-scorched-earth, chaos-unleashed)

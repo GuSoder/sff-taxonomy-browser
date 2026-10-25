@@ -11,17 +11,17 @@ placement_rationale: 'Guillot dal Villerauvais, a retired master swordsman, is c
 books:
 - title: Dragonslayer
   year: 2019
-  cover_url: 10109115
+  cover_url: https://covers.openlibrary.org/b/id/10109115-L.jpg
 - title: Knight of the Silver Circle
   year: 2019
-  cover_url: 10153265
+  cover_url: https://covers.openlibrary.org/b/id/10153265-L.jpg
 - title: Servant of the Crown
   year: 2020
-  cover_url: 10284889
+  cover_url: https://covers.openlibrary.org/b/id/10284889-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 10109115
+  selected_url: https://covers.openlibrary.org/b/id/10109115-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids dragonslayer, knight-of-the-silver-circle)

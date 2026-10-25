@@ -12,14 +12,14 @@ placement_rationale: '2050: Navy SEALs re-badged SEALS (Sea, Air, Land, and Spac
 books:
 - title: Task Force Mars
   year: 2007
-  cover_url: 212308
+  cover_url: https://covers.openlibrary.org/b/id/212308-L.jpg
 - title: Operation Orion
   year: 2008
-  cover_url: 6430456
+  cover_url: https://covers.openlibrary.org/b/id/6430456-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 212308
+  selected_url: https://covers.openlibrary.org/b/id/212308-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids starstrike-task-force-mars, starstrike-operation-orion)

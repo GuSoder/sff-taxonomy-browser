@@ -11,11 +11,11 @@ placement_rationale: 'Fictional biography of Christopher Robin Milne: invited to
 books:
 - title: Billy Moon
   year: 2013
-  cover_url: 11596193
+  cover_url: https://covers.openlibrary.org/b/id/11596193-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 11596193
+  selected_url: https://covers.openlibrary.org/b/id/11596193-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids billy-moon)

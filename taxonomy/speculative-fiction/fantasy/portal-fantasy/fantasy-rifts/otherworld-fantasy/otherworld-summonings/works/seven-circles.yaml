@@ -11,14 +11,14 @@ placement_rationale: The druids of the Seven Circles summon warriors from Earth 
 books:
 - title: Circle at Center
   year: 2000
-  cover_url: 283845
+  cover_url: https://covers.openlibrary.org/b/id/283845-L.jpg
 - title: The Goddess Worldweaver
   year: 2004
-  cover_url: 284055
+  cover_url: https://covers.openlibrary.org/b/id/284055-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 283845
+  selected_url: https://covers.openlibrary.org/b/id/283845-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids circle-at-center)

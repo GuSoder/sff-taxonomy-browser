@@ -11,11 +11,11 @@ placement_rationale: 'Wells''s invasion replayed in the 21st century: Martian cy
 books:
 - title: 'War of the Worlds: New Millennium'
   year: 2005
-  cover_url: 524513
+  cover_url: https://covers.openlibrary.org/b/id/524513-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 524513
+  selected_url: https://covers.openlibrary.org/b/id/524513-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids war-of-the-worlds-new-millennium)

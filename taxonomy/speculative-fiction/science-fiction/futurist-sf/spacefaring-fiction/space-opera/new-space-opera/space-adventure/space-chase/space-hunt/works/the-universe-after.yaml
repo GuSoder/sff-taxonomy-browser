@@ -11,16 +11,16 @@ placement_rationale: 'Far-future gleeful explodey space opera: a century after t
 books:
 - title: The Stars Now Unclaimed
   year: 2018
-  cover_url: 10453458
+  cover_url: https://covers.openlibrary.org/b/id/10453458-L.jpg
 - title: A Chain Across the Dawn
   year: 2019
-  cover_url: 8802292
+  cover_url: https://covers.openlibrary.org/b/id/8802292-L.jpg
 - title: The Firmament of Flame
   year: 2020
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: 10453458
+  selected_url: https://covers.openlibrary.org/b/id/10453458-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids the-stars-now-unclaimed, a-chain-across-the-dawn, the-firmament-of-flame)
