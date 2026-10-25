@@ -3,7 +3,7 @@ title: Spellslinger
 authors:
 - Sebastien de Castell
 first_published: 2017
-canonical_genre: black-mages
+canonical_genre: grey-mages
 placement_status: accepted
 placement_rationale: 'Kellen, a boy of a mage clan who fails to manifest magic, is outlawed and learns that spellcraft, shadow
   magic and soul bonds can still make him a hero; his power comes from learned arcane craft across six books. Walked root-down:
@@ -50,3 +50,9 @@ placement_history:
   to: black-mages
   reason: 'Fledgling mage / Graybeard mage dissolved on the curator''s approval; re-sorted by the hero''s art: this card sits
     in Black Mages.'
+- date: '2026-10-25'
+  from: black-mages
+  to: grey-mages
+  reason: 'Curator-approved move (phonemsg-01M5SM6ENHGDX7VVPYFPDKK61M): the shadowblack is a curse Kellen seeks to cure (decastell.com
+    Soulbinder copy), not a practised dark art; his sigil-coin craft and the Reichis soul bond sit in Grey mages (''names,
+    nature and beast bonds... a gift that is never pinned to death or healing'').'
