@@ -1,0 +1,25 @@
+id: seven-circles
+title: Seven Circles
+authors:
+- Douglas Niles
+first_published: 2000
+canonical_genre: otherworld-summonings
+placement_status: accepted
+placement_rationale: The druids of the Seven Circles summon warriors from Earth (the Seventh Circle) - the Aztec Natac, the
+  Crusader Sir Christopher - to defend their peaceful realm; the way across is the summoning itself (PRH description, Kirkus
+  review).
+books:
+- title: Circle at Center
+  year: 2000
+  cover_url: 283845
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 283845
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids circle-at-center)
+placement_history:
+- date: '2026-10-04'
+  to: otherworld-summonings
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,29 @@
+id: starstrike
+title: Starstrike
+authors:
+- Douglas Niles
+- Kevin Dockery
+first_published: 2007
+canonical_genre: alien-war-grunts
+placement_status: accepted
+placement_rationale: '2050: Navy SEALs re-badged SEALS (Sea, Air, Land, and Space) are sent to a silent Mars outpost, kidnapped
+  by hostile aliens, and fight through alien battalions; book 2 puts them on an ice moon crawling with enemy commandos amid
+  three warring alien empires (PRH series page). A ground-level war against aliens.'
+books:
+- title: Task Force Mars
+  year: 2007
+  cover_url: 212308
+- title: Operation Orion
+  year: 2008
+  cover_url: 6430456
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: 212308
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids starstrike-task-force-mars, starstrike-operation-orion)
+placement_history:
+- date: '2026-10-04'
+  to: alien-war-grunts
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
