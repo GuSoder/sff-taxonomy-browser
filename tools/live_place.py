@@ -6,6 +6,9 @@ R=os.path.expanduser('~/sff-taxonomy-browser'); os.chdir(R)
 MSG='phonemsg-01M43MYMGAMQTNA3CY402KK7FB'
 sp=json.load(open(sys.argv[1]))
 slug=lambda s: re.sub(r'-+','-',re.sub(r'[^a-z0-9]+','-',s.lower().replace("'",''))).strip('-')
+def cov(c):
+    if isinstance(c,int) or (isinstance(c,str) and c.isdigit()): return f'https://covers.openlibrary.org/b/id/{c}-L.jpg'
+    return c
 gdir={os.path.basename(os.path.dirname(f)):os.path.dirname(f) for f in glob.glob('taxonomy/speculative-fiction/**/genre.yaml',recursive=True)}
 leaf=sp['leaf']; title=sp['title']; wid=slug(title)
 assert not glob.glob(f'taxonomy/speculative-fiction/**/works/{wid}.yaml',recursive=True),'exists'
@@ -14,10 +17,10 @@ books=[]
 for b in bl:
     e=dict(title=b['title'])
     if b.get('year'): e['year']=b['year']
-    if b.get('cover'): e['cover_url']=b['cover']
+    if b.get('cover'): e['cover_url']=cov(b['cover'])
     books.append(e)
 fy=min([b['year'] for b in bl if b.get('year')],default=None)
-cover=sp['cover']
+cover=cov(sp['cover'])
 wy=dict(id=wid,title=title,authors=[sp['authors']] if isinstance(sp['authors'],str) else sp['authors'],first_published=fy,canonical_genre=leaf,placement_status='accepted',placement_rationale=sp['why'],
  books=books,cover_curation=dict(status='complete',source='Open Library / publisher',selected_url=cover,visually_reviewed_on='2026-10-04',review_method='contact-sheet one-pass'),
  intake='ten-k walk v5 (queue ids '+', '.join(b['id'] for b in bl)+')',
