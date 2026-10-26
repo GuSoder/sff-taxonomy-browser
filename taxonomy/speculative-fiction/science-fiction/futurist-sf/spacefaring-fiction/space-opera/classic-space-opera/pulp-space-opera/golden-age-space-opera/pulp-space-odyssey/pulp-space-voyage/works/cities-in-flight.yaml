@@ -3,11 +3,9 @@ title: Cities in Flight
 authors:
 - James Blish
 first_published: 1956
-canonical_genre: pulp-space-empire
+canonical_genre: pulp-space-voyage
 placement_status: accepted
-placement_rationale: SFE identifies the four Okie novels and their iconic antigravity cities roaming the Galaxy for work, while Hachette calls the omnibus
-  a galaxy-spanning four-volume future of giant city-spaceships and Galactic empire. The pulp-scale interstellar adventure is foundational Classic space
-  opera.
+placement_rationale: 'SFE blish_james: the antigravity Okie cities roam the Galaxy looking for work (''much as the Okies did in America in the 1930s''); by the 2026-09-22 boundary test the migrant-city journey remains when the rival-power structure is removed, so Odyssey not Empire; the wandering-for-work journey is the story: Pulp space voyage.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/blish_james
 - https://www.hachette.co.uk/titles/james-blish/cities-in-flight/9780575094178/
@@ -37,3 +35,8 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/futurist/spacefaring-fiction/space-opera/classic-space-opera to match
     live tree; placement unchanged on site.'
   previous_canonical_genre: classic-space-opera
+- date: '2026-10-26'
+  from: pulp-space-empire
+  to: pulp-space-voyage
+  reason: 'Boundary test (2026-09-22 ruling): remove the rival-power structure and the wandering-for-work journey remains -
+    Odyssey. Moved with voyage widened to wandering for work (curator Approved phonemsg-01M5W9555H8M5VF8DPNY7E5K6B).'
