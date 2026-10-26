@@ -3,7 +3,7 @@ title: The Lensman Series
 authors:
 - E. E. 'Doc' Smith
 first_published: 1939
-canonical_genre: pulp-space-empire
+canonical_genre: pulp-space-armada
 placement_status: accepted
 placement_rationale: 'The fountainhead golden-age space war: the Lens-bearing Galactic Patrol of Civilization against Boskone''s
   pirate empire, two rival powers fighting for the galaxy across six books (Gollancz SF Masterworks listing). Remove the rival-power
@@ -38,3 +38,7 @@ placement_history:
 - date: '2026-10-04'
   to: pulp-space-empire
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-26'
+  from: pulp-space-empire
+  to: pulp-space-armada
+  reason: 'Pulp space empire split at ten fictions into armada/throne/intrigue (curator Approved phonemsg-01M5W9KEVA5TWTPZQMN2P4CP4K, 2026-10-26).'

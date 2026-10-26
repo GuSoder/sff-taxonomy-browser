@@ -2,20 +2,13 @@ id: pulp-space-empire
 label: Pulp space empire
 parent: golden-age-space-opera
 definition: 'Space opera driven by rule, war, diplomacy, political impersonation, imperial systems or rival powers. Boundary test: remove the rival-power structure;
-  if the plot collapses, it belongs here.'
+  if the plot collapses, it belongs here. Umbrella since 2026-10-26: Pulp space armada, Pulp space throne, Pulp space intrigue (curator Approved phonemsg-01M5W9KEVA5TWTPZQMN2P4CP4K).'
 status: accepted
 boundary_test: 'Remove the rival-power structure: if the plot collapses, Empire; if a person’s journey remains, Odyssey.'
 ruling: the curator, 2026-09-22 15:02 CEST
-children: []
+children:
+- pulp-space-armada
+- pulp-space-throne
+- pulp-space-intrigue
 image: 281-pulp-space-empire.webp
-works:
-- battle-for-the-stars
-- judgment-night
-- double-star
-- nova
-- the-centauri-device
-- the-technic-civilization-saga
-- none-but-man
-- the-lensman-series
-- the-sun-smasher
-- outside-the-universe
+works: []

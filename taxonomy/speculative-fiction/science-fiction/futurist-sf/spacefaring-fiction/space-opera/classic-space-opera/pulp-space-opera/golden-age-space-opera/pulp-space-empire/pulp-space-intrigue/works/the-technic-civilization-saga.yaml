@@ -3,7 +3,7 @@ title: The Technic Civilization Saga
 authors:
 - Poul Anderson
 first_published: 2008
-canonical_genre: pulp-space-empire
+canonical_genre: pulp-space-intrigue
 placement_status: accepted
 placement_rationale: 'Poul Anderson''s Technic Civilization Saga as Baen collects it in seven volumes (The Van Rijn Method,
   David Falkayn: Star Trader, Rise of the Terran Empire, Young Flandry, Captain Flandry, Sir Dominic Flandry, Flandry''s Legacy):
@@ -43,3 +43,7 @@ placement_history:
 - date: '2026-10-04'
   to: pulp-space-empire
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-26'
+  from: pulp-space-empire
+  to: pulp-space-intrigue
+  reason: 'Pulp space empire split at ten fictions into armada/throne/intrigue (curator Approved phonemsg-01M5W9KEVA5TWTPZQMN2P4CP4K, 2026-10-26).'

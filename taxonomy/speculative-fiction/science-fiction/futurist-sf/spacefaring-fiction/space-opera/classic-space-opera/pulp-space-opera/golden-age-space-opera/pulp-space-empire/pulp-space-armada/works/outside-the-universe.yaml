@@ -5,10 +5,14 @@ authors:
 year: 1964
 cover_url: https://covers.openlibrary.org/b/id/6628074-L.jpg
 shows_english_title: true
-canonical_genre: pulp-space-empire
+canonical_genre: pulp-space-armada
 placement_note: 'Root-down: Science fiction > Futurist SF > Spacefaring fiction > Space opera > Classic space opera > Pulp space opera > Golden age space opera > Pulp space empire. The multi-race Interstellar Patrol confronts an invading swarm of alien ships from outside the universe - Captain Dur Nal with Korus Kan and Jhul Din (Project Gutenberg 74020 summary; SFE hamilton_edmond: the 1929 Weird Tales serial is the Interstellar Patrol sequence''s novel, Ace F-271 1964, ISFDB 25465 single NOVEL, not an omnibus). Remove the rival-power structure and no plot remains: Pulp space empire.'
 placement_history:
 - date: '2026-10-26'
   from: intake
   to: pulp-space-empire
   reason: 'Root-down: Science fiction > Futurist SF > Spacefaring fiction > Space opera > Classic space opera > Pulp space opera > Golden age space opera > Pulp space empire. The multi-race Interstellar Patrol confronts an invading swarm of alien ships from outside the universe - Captain Dur Nal with Korus Kan and Jhul Din (Project Gutenberg 74020 summary; SFE hamilton_edmond: the 1929 Weird Tales serial is the Interstellar Patrol sequence''s novel, Ace F-271 1964, ISFDB 25465 single NOVEL, not an omnibus). Remove the rival-power structure and no plot remains: Pulp space empire.'
+- date: '2026-10-26'
+  from: pulp-space-empire
+  to: pulp-space-armada
+  reason: 'Pulp space empire split at ten fictions into armada/throne/intrigue (curator Approved phonemsg-01M5W9KEVA5TWTPZQMN2P4CP4K, 2026-10-26).'

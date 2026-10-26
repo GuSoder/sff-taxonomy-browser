@@ -3,7 +3,7 @@ title: None But Man
 authors:
 - Gordon R. Dickson
 first_published: 1969
-canonical_genre: pulp-space-empire
+canonical_genre: pulp-space-intrigue
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Spacefaring fiction > Space opera > Classic space
   opera > Pulp space empire. Dickson, 1969 (Baen reissue 2017): the Old Worlds (Earth, Mars, Venus) and the Frontier planets
@@ -32,3 +32,7 @@ placement_history:
 - date: '2026-10-04'
   to: pulp-space-empire
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-26'
+  from: pulp-space-empire
+  to: pulp-space-intrigue
+  reason: 'Pulp space empire split at ten fictions into armada/throne/intrigue (curator Approved phonemsg-01M5W9KEVA5TWTPZQMN2P4CP4K, 2026-10-26).'
