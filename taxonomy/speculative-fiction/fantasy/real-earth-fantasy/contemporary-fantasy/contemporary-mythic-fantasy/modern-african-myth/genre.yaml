@@ -1,0 +1,18 @@
+id: modern-african-myth
+name: Modern African myth
+definition: 'Contemporary mythic fantasy rooted in West African traditions and their Caribbean diaspora: the Orisha of the
+  Yoruba tradition, the Anansi spider-trickster tradition of West Africa and the Caribbean, and the figures of Jamaican
+  myth and folklore. Bundled from the tradition leaves on the curator''s approval (phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB,
+  2026-10-27), grouping the umbrella''s children by their ethnical or geographical roots.'
+parent: contemporary-mythic-fantasy
+label: Modern African myth
+children:
+- modern-orisha-myth
+- modern-anansi-myth
+- modern-jamaican-myth
+image: 821-modern-african-myth.webp
+status: provisional
+works: []
+history:
+- date: '2026-10-27'
+  change: Seeded as a bundle half-umbrella (West African roots and Caribbean diaspora) under Contemporary mythic fantasy, curator phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB.

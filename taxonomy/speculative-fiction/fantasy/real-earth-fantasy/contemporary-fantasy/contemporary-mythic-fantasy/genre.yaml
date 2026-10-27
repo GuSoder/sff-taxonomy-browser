@@ -1,20 +1,17 @@
 id: contemporary-mythic-fantasy
 name: Contemporary mythic fantasy
 definition: 'Contemporary fantasy in which ancient mythic beings, archetypes or powers remain active within ordinary present-day life,
-  making myth a living force, partitioned by which mythology stays alive: the inherited traditions of Celtic myth (Albion and Gaul),
-  Greek, Anansi, Chinese and Orisha, or an invented cosmology an author built outright. Not Mythic retelling (a retold myth or legend,
+  making myth a living force, bundled by the ethnical or geographical roots of the traditions: Modern European myth (Celtic,
+  Greek and Norse) and Modern African myth (West African roots and their Caribbean diaspora), with the Chinese, Navajo and
+  biblical traditions and invented cosmologies standing as direct children. Not Mythic retelling (a retold myth or legend,
   under Historical fantasy).'
 parent: contemporary-fantasy
 label: Contemporary mythic fantasy
 children:
-- modern-celtic-myth
-- modern-greek-myth
-- modern-anansi-myth
-- modern-orisha-myth
+- modern-european-myth
+- modern-african-myth
 - modern-invented-myth
 - modern-chinese-myth
-- modern-jamaican-myth
-- modern-norse-myth
 - modern-navajo-myth
 - modern-biblical-myth
 image: 260-contemporary-mythic-fantasy.webp
@@ -26,3 +23,7 @@ history:
 - date: '2026-10-13'
   change: Added a Not line against Mythic retelling, which sits under Historical fantasy after the Real earth fantasy dissolve (curator
     phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
+- date: '2026-10-27'
+  change: Bundled at ten children on the curator's approval (phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB) by ethnical/geographical
+    roots (his axis, phonemsg-01M5YKMAZQD90MVZY5MZJZSVMQ): Modern European myth (Celtic, Greek, Norse) and Modern African
+    myth (Orisha, Anansi, Jamaican); Chinese, Navajo, Biblical and Invented stay direct children. Ten children to six.
