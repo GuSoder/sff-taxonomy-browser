@@ -1,0 +1,46 @@
+id: state-of-decay
+title: State of Decay
+authors:
+- James Knapp
+first_published: 2010
+canonical_genre: huxleyan-dystopia
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist SF > Future of Earth
+  fiction > Dystopian fiction > Totalitarian dystopia > Huxleyan dystopia. In a future America,
+  citizenship is tiered by consent: serve in the war, or be wired so the state can reanimate your
+  corpse as a "revivor" - technologically reanimated dead who do humanity''s dirtiest work - and
+  refusal means third-tier poverty (author site james-knapp.com; Penguin Random House description,
+  book 305035). Power here engineers consent through the body - the revivor program is literally
+  state control of citizens'' bodies, living and dead - the Huxleyan mode (engineered bodies,
+  conditioned consent), not surveillance-and-force Orwellian and not the rebellion shelf (the
+  protagonists are an FBI agent and a police detective working a conspiracy, not insurgents).
+  Rejected: Zombie apocalypse (no pandemic, no collapse - society functions; the author: "I didn''t
+  write a zombie story", Scalzi Big Idea), Undying (technological reanimation, not supernatural),
+  Social dystopia modern (extrapolated future, not recognizable present), Future social SF (the
+  citizenship premise is examined, but the shelf-defining engine is the coercive body-state, which
+  is dystopian). Wobble: MEDIUM - marketed as a techno-zombie thriller (Roc), and the
+  thriller-conspiracy plot is the surface; the dystopia is the premise, not the plot''s target.
+  Three published novels: State of Decay (2010), The Silent Army (2010), Element Zero (2011), one
+  series (PRH "Revivors" series BP2), one card. Sources: penguinrandomhouse.com, james-knapp.com,
+  whatever.scalzi.com; not read.'
+books:
+- title: State of Decay
+  year: 2010
+  cover_url: https://images.penguinrandomhouse.com/cover/9781101184776
+- title: The Silent Army
+  year: 2010
+  cover_url: https://images.penguinrandomhouse.com/cover/9780451463616
+- title: Element Zero
+  year: 2011
+  cover_url: https://images.penguinrandomhouse.com/cover/9780451463920
+cover_curation:
+  status: complete
+  source: Penguin Random House
+  selected_url: https://images.penguinrandomhouse.com/cover/9781101184776
+  visually_reviewed_on: '2026-10-27'
+  review_method: one-pass
+intake: ten-k walk v5 (queue ids MC04194, MC04195, MC04196)
+placement_history:
+- date: '2026-10-27'
+  to: huxleyan-dystopia
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
