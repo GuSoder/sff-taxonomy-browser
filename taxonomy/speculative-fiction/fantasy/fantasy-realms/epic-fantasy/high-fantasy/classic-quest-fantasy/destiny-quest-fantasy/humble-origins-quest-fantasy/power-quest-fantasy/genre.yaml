@@ -3,9 +3,14 @@ label: Power quest fantasy
 parent: humble-origins-quest-fantasy
 children: []
 image: 731-power-quest-fantasy.webp
-definition: 'Humble-origins quest fantasy in which the rise from nothing is into hard-won personal power: the kitchen boy becomes a master magician, the village boy a wizard, the baker''s boy the power the realm''s fate turns on. Split of Humble origins quest fantasy at ten cards by what the rise is earned into (curator "Perfect, approved" (phonemsg-01M583YHAJ78VC6AF4QXDKXGRM, 2026-10-18 8:21 PM), on his rename steer phonemsg-01M583V3KSHKPTN1Z3GC27YXC3).'
+definition: 'Humble-origins quest fantasy in which the rise from nothing is into hard-won personal power:
+  the kitchen boy becomes a master magician, the village boy a wizard, the baker''s boy the power the
+  realm''s fate turns on. Split of Humble origins quest fantasy at ten cards by what the rise is earned
+  into (curator "Perfect, approved" (phonemsg-01M583YHAJ78VC6AF4QXDKXGRM, 2026-10-18 8:21 PM), on his
+  rename steer phonemsg-01M583V3KSHKPTN1Z3GC27YXC3).'
 status: accepted
-ruling: 'Split of Humble origins quest fantasy at ten cards by what the rise is earned into (curator "Perfect, approved" (phonemsg-01M583YHAJ78VC6AF4QXDKXGRM, 2026-10-18 8:21 PM), on his rename steer phonemsg-01M583V3KSHKPTN1Z3GC27YXC3).'
+ruling: Split of Humble origins quest fantasy at ten cards by what the rise is earned into (curator "Perfect,
+  approved" (phonemsg-01M583YHAJ78VC6AF4QXDKXGRM, 2026-10-18 8:21 PM), on his rename steer phonemsg-01M583V3KSHKPTN1Z3GC27YXC3).
 works:
 - the-riftwar-saga
 - the-dragon-wizard
@@ -13,4 +18,9 @@ works:
 - the-exiles-saga
 - truth
 - the-age-of-fire
-- the-pact-and-pattern
+history:
+- date: '2026-10-27'
+  change: Removed duplicate card 'The Pact and Pattern' (placed here in error by the MC02723-30 intake
+    re-walk on 2026-10-25). One card per series (taxonomy/DUPLICATES.md); the series' authorized home
+    is Academy insurgents per the curator-approved 2026-10-08 Insurgent fantasy split walk (phonemsg-01M4DV2P28N33JQ0KAPP73W1YM).
+    Provenance merged into that card.
