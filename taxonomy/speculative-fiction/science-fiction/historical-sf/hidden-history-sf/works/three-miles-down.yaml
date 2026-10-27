@@ -1,0 +1,32 @@
+id: three-miles-down
+title: Three Miles Down
+authors:
+- Harry Turtledove
+first_published: 2022
+canonical_genre: hidden-history-sf
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction > Science fiction > Historical SF > Hidden history SF. Real 1974: a UCLA
+  marine-biology grad student is press-ganged into the real Project Azorian; the Glomar Explorer''s Soviet-submarine
+  salvage is itself a cover for the thing that killed the sub - an alien spacecraft on the Pacific floor (Tor blurb;
+  cover copy: ''a novel of first contact in tumultuous 1970s''). The documented operation and the Watergate backdrop
+  are real history; the alien contact is what history never recorded, and the double cover story is the book''s engine -
+  concealment from the record is the leaf''s marker. Rejected: Alien tokens (the wreck does wait to be found, but that
+  branch is present-day first contact; here the period frame and the concealment inside real events are the subject),
+  Alien arrival (no arrival: the craft is a long-sunk wreck), Alternate history (nothing diverges - Azorian, Nixon and
+  1974 are documentary). Wobble: low to moderate; the first-contact reading is the blurb''s own, but the hidden-history
+  frame governs. Year: 2022 first edition (Tor). Queue id MC03792.'
+books:
+- title: Three Miles Down
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/12856661-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/12856661-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: single-cover check
+intake: ten-k walk v5 (queue ids MC03792)
+placement_history:
+- date: '2026-10-27'
+  to: hidden-history-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
