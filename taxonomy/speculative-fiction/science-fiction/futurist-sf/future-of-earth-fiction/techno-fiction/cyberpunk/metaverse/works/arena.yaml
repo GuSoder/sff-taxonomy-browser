@@ -1,0 +1,33 @@
+id: arena
+title: Arena
+authors:
+- Holly Jennings
+first_published: 2016
+canonical_genre: metaverse
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction > Science fiction > Futurist SF > Future of Earth > Techno-fiction >
+  Cyberpunk > Metaverse. Near-future: Kali Ling captains a team in the RAGE tournaments, the Virtual Gaming League''s elite
+  competition, fought as avatars in immersive VR where the pain is real and every kill is broadcast (PRH blurb; Library
+  Journal and Booklist compare it directly to Ready Player One, this shelf''s own). The shared immersive virtual arena is
+  where the life and the fight happen. Rejected: Postcyberpunk branches (no heist or revolution plot; the industry fight is
+  inside the game), Dystopian fiction (RT reads a rebel-in-dystopia note, but the engine is the VR league, not the state).
+  Wobble: moderate; the virtual world is a sports league rather than a persistent society. Years: Arena 2016, Gauntlet
+  2017 (Ace). Queue ids MC03857, MC03858.'
+books:
+- title: Arena
+  year: 2016
+  cover_url: https://images1.penguinrandomhouse.com/cover/9780425282878
+- title: Gauntlet
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8541977-L.jpg
+cover_curation:
+  status: complete
+  source: publisher (PRH) / Open Library
+  selected_url: https://images1.penguinrandomhouse.com/cover/9780425282878
+  visually_reviewed_on: '2026-10-27'
+  review_method: contact-sheet check
+intake: ten-k walk v5 (queue ids MC03857, MC03858)
+placement_history:
+- date: '2026-10-27'
+  to: metaverse
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

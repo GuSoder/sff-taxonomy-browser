@@ -1,0 +1,30 @@
+id: fury
+title: Fury
+authors:
+- Henry Kuttner
+first_published: 1947
+canonical_genre: far-future-planetary-romance
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction > Science fiction > Atemporal SF > Science fantasy > Planetary romance >
+  Far-future planetary romance. Generations after old Earth''s ruin, humanity''s remnant lives in the Keeps, domed cities
+  under Venus''s seas, alongside the Immortals, a long-lived strain; Sam Reed''s ambition drives the colonization of the
+  lethal surface and the Keeps'' final fall (EBSCO Research Starters summary; sequel to the novella Clash by Night). Natives
+  of a far future where Earth is gone, strange habitats and remade humans - the leaf''s definition. Rejected: Classic
+  planetary romance (no visitor from Earth; the Keeps folk are the natives), Dying Earth (the world is Venus, not Earth,
+  and its people have a future). Wobble: low. Year: 1947 (Astounding serial as by Lawrence O''Donnell; book 1950). Queue
+  id MC03826.'
+books:
+- title: Fury
+  year: 1947
+  cover_url: https://covers.openlibrary.org/b/id/379979-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/379979-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: contact-sheet check
+intake: ten-k walk v5 (queue ids MC03826)
+placement_history:
+- date: '2026-10-27'
+  to: far-future-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
