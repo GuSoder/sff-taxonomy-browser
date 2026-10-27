@@ -6,18 +6,21 @@ authors:
 first_published: 2019
 canonical_genre: time-agency-thrillers
 placement_status: accepted
-placement_rationale: 'Weber and Jacob Holo''s Gordian Division series (The Gordian Protocol 2019, The Valkyrie Protocol 2020,
-  The Janus File 2022, The Weltall File 2023, The Thermopylae Protocol 2024; the series has six books, the queue lists five):
-  one series, so one fiction. A history professor, Benjamin Schroeder, is told by a man from the Gordian Division that time
-  travel has produced more than a dozen doomed alternate universes, and that he must choose which one lives; the division,
-  an agency that polices and repairs timelines, then runs operations across worlds, including later threats such as a ship
-  from an uncharted universe and a hidden weapon (Baen blurb for The Gordian Protocol; Simon & Schuster series page for The
-  Thermopylae Protocol). Walk: Science fiction > Atemporal > Time travel fiction > Time machines > Time travel agency > Time
-  agency thrillers (operatives and rival factions run the apparatus, and the plot is a mission or conspiracy across time).
-  Rejected: Classic time agencies (the pulp patrol sensibility, not the action-thriller register), Time agency revival (literary
-  and emotional), the Multiverse leaves (the engine is the timeline agency, not the crossing itself). Wobble moderate: the
-  later books move toward multiverse war and the agency''s world is also an alternate-history setting, and I used the blurb
-  and series page, not the books. First publication 2019-2024. Queue ids MC02459, MC02472, MC02461, MC02475, MC02471.'
+placement_rationale: 'Weber and Jacob Holo''s Gordian Division series (The Gordian Protocol 2019, The
+  Valkyrie Protocol 2020, The Janus File 2022, The Weltall File 2023, The Thermopylae Protocol 2024; the
+  series has six books, the queue lists five): one series, so one fiction. A history professor, Benjamin
+  Schroeder, is told by a man from the Gordian Division that time travel has produced more than a dozen
+  doomed alternate universes, and that he must choose which one lives; the division, an agency that polices
+  and repairs timelines, then runs operations across worlds, including later threats such as a ship from
+  an uncharted universe and a hidden weapon (Baen blurb for The Gordian Protocol; Simon & Schuster series
+  page for The Thermopylae Protocol). Walk: Science fiction > Atemporal > Time travel fiction > Time machines
+  > Time travel agency > Time agency thrillers (operatives and rival factions run the apparatus, and the
+  plot is a mission or conspiracy across time). Rejected: Classic time agencies (the pulp patrol sensibility,
+  not the action-thriller register), Time agency revival (literary and emotional), the Multiverse leaves
+  (the engine is the timeline agency, not the crossing itself). Wobble moderate: the later books move
+  toward multiverse war and the agency''s world is also an alternate-history setting, and I used the blurb
+  and series page, not the books. First publication 2019-2024. Queue ids MC02459, MC02472, MC02461, MC02475,
+  MC02471.'
 books:
 - title: The Gordian Protocol
   year: 2019
@@ -30,13 +33,16 @@ books:
   year: 2023
 - title: The Thermopylae Protocol
   year: 2024
+- title: The Dyson File
+  year: 2023
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982193010-lg_1.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/8569192-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC02459, MC02472, MC02461, MC02475, MC02471)
+intake: ten-k walk v5 (queue ids MC02459, MC02472, MC02461, MC02475, MC02471), MC04125
 placement_history:
 - date: '2026-10-04'
   to: time-agency-thrillers
