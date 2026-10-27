@@ -1,0 +1,32 @@
+id: the-frost-files
+title: The Frost Files
+authors:
+- Jackson Ford
+first_published: 2019
+canonical_genre: psi-telekinesis
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction > Science fiction > Modern-day SF > Soft science fiction > Pseudoscience fiction > Psi powers > Psi telekinesis. The Frost Files (four books 2019-2022, Orbit; Hachette series page lists exactly these four): telekinetic government operative Teagan Frost, pitched as ''Alias meets X-Men''; each book turns on the reach, cost and control of her telekinesis (Hachette). The gift is force, set in the recognizable present: Psi telekinesis. Rejected: Psi powers umbrella (too broad; this leaf is the force-gift split). Wobble: low-moderate; techno-thriller register, but the power''s reach and who controls it is the story. Years: 2019, 2020, 2021, 2022 (Orbit; ISFDB). Queue ids MC04117, MC04118, MC04119, MC04122.'
+books:
+- title: The Girl Who Could Move Sh*t with Her Mind
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8741138-L.jpg
+- title: Random Sh*t Flying Through the Air
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10162785-L.jpg
+- title: Eye of the Sh*t Storm
+  year: 2021
+  cover_url: https://www.hbglibrary.com/wp-content/uploads/2026/02/9780316702775.jpg
+- title: A Sh*tload of Crazy Powers
+  year: 2022
+  cover_url: https://www.hbglibrary.com/wp-content/uploads/2026/02/9780316702805.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/8741138-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: contact-sheet check
+intake: ten-k walk v5 (queue ids MC04117, MC04118, MC04119, MC04122)
+placement_history:
+- date: '2026-10-27'
+  to: psi-telekinesis
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

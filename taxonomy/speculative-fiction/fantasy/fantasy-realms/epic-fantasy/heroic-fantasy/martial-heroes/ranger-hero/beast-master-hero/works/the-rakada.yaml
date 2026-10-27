@@ -1,0 +1,26 @@
+id: the-rakada
+title: The Rakada
+authors:
+- Jackson Ford
+first_published: 2025
+canonical_genre: beast-master-hero
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Ranger hero > Beast master hero. The Rakada (The Bone Raiders 2025, Sisters of the Lizard 2026, Orbit): scout Sayana bonds a fire-breathing lizard of legend and the Rakada ride their great lizards to defend their homeland from an invading enemy (Hachette; Books Bones Buffy blurb). The bonded mount that fights is the story''s engine: Beast master hero. Rejected: Horse fantasy (sibling leaf for conventional mounts; these are bonded war-lizards, and the bond, not the cavalry, is the point), Epic fantasy and Martial heroes umbrellas (too broad). Wobble: low-moderate; the leaf def says ''lifelong bond'' and book one is the forging of that bond. Years: 2025, 2026 (Orbit; Hachette). Queue ids MC04120, MC04121.'
+books:
+- title: The Bone Raiders
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15130385-L.jpg
+- title: Sisters of the Lizard
+  year: 2026
+  cover_url: ''
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/15130385-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: contact-sheet check
+intake: ten-k walk v5 (queue ids MC04120, MC04121)
+placement_history:
+- date: '2026-10-27'
+  to: beast-master-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
