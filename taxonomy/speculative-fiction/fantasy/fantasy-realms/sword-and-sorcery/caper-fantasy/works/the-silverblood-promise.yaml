@@ -1,0 +1,38 @@
+id: the-silverblood-promise
+title: The Silverblood Promise
+authors:
+- James Logan
+first_published: 2024
+canonical_genre: caper-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Sword and sorcery >
+  Caper fantasy. Disgraced heir Lukan Gardova teams with master thief Ashra ("Lady Midnight") and
+  street rat Flea: in Saphrona they untangle his father''s murder through the city underworld, and in
+  Korslakov they must steal back the vault key a rival thief lifted from Lukan (Kirkus reviews of both
+  books; Goodreads/Penguin blurbs). The series engine is a thief crew working criminal adventures city
+  to city - the leaf ("thieves, heists, gangs and intimate criminal adventure", seeded on Scott
+  Lynch''s own description; The Gentleman Bastard Sequence is the direct precedent, epic connective
+  arc and all). Rejected: Classic quest fantasy (no Tolkien-fellowship world-saving march - the party
+  is a thief crew and the ancient-race/war arc is connective tissue, same shape as the Lynch
+  precedent), Heroic fantasy (not organized by hero class), Sword and sorcery umbrella proper (Caper
+  is its child for exactly this). Wobble: low. Two published novels: The Silverblood Promise (2024,
+  Tor) and The Blackfire Blade (2025, Tor), one series (The Last Legacy, per both covers and Kirkus),
+  one card. Sources: kirkusreviews.com (x2), goodreads.com; not read.'
+books:
+- title: The Silverblood Promise
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14853122-L.jpg
+- title: The Blackfire Blade
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15139897-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14853122-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: one-pass
+intake: ten-k walk v5 (queue ids MC04202, MC04203)
+placement_history:
+- date: '2026-10-27'
+  to: caper-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
