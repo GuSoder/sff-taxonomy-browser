@@ -3,7 +3,7 @@ title: The Laundry Files
 authors:
 - Charles Stross
 first_published: 2004
-canonical_genre: occult-secret-service
+canonical_genre: eldritch-counter-ops
 placement_status: accepted
 placement_rationale: 'Stross''s Laundry Files, thirteen novels folded (The Atrocity Archives 2004 to The Regicide Report 2026;
   years per the Wikipedia series list): Bob Howard, a former IT worker turned field agent of the Laundry, a top secret British
@@ -13,7 +13,7 @@ placement_rationale: 'Stross''s Laundry Files, thirteen novels folded (The Atroc
   is secrecy and defence), not Occult cop (no badge caseload) or Occult PI (not freelance). Later books shift
   to other agents and a post-Laundry order (New Management) but stay inside the same service and setting. Wobble low. Skipped
   as novellas, novelettes or collections: A Conventional Boy, Escape from Yokai Land, Equoid, Overtime, Down on the Farm,
-  A Tall Tail, Three Tales from the Laundry Files, Wireless.'
+  A Tall Tail, Three Tales from the Laundry Files, Wireless. Split of Occult secret service 2026-10-27 by what the service fights: its enemy is cosmic outsiders pressing into the world, so Eldritch counter ops, not the diabolic (Demon counter ops) or dangerous magic (Magic counter ops) (curator "Approved" phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP).'
 books:
 - title: The Atrocity Archives
   year: 2004
@@ -59,3 +59,7 @@ placement_history:
 - date: '2026-10-04'
   to: occult-secret-service
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-27'
+  from: occult-secret-service
+  to: eldritch-counter-ops
+  reason: 'Split of Occult secret service by what the service fights (curator "Approved" (phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP, 2026-10-27 4:01 PM CET) over the posted 2/2/6 threat-axis split; the counter ops names are his, refined from his Threat Unit coinages in the same thread).'

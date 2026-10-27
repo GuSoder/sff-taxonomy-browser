@@ -3,7 +3,7 @@ title: The Rook Files
 authors:
 - Daniel O'Malley
 first_published: 2012
-canonical_genre: occult-secret-service
+canonical_genre: magic-counter-ops
 placement_status: accepted
 books:
 - title: The Rook
@@ -18,7 +18,7 @@ books:
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Urban fantasy -> Occult mystery
   fiction. Hachette centers the Checquy, a formal supernatural intelligence agency protecting Britain from supernatural threats,
   with operatives investigating an internal mole, attacks and rogue agents. Institutional occult enforcement and investigation
-  govern the series.'
+  govern the series. Split of Occult secret service 2026-10-27 by what the service fights: its enemy is dangerous magic itself - rogue sorcerers, magical outbreaks and mythic creatures - so Magic counter ops, not cosmic outsiders (Eldritch counter ops) or the diabolic (Demon counter ops) (curator "Approved" phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP).'
 classification_sources:
 - https://www.hachettebookgroup.com/series/daniel-omalley/the-rook-files/
 - https://www.hachettebookgroup.com/titles/daniel-omalley/the-rook/9780316098809/
@@ -35,3 +35,7 @@ placement_history:
     (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)).
   from: occult-mystery
   to: occult-secret-service
+- date: '2026-10-27'
+  from: occult-secret-service
+  to: magic-counter-ops
+  reason: 'Split of Occult secret service by what the service fights (curator "Approved" (phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP, 2026-10-27 4:01 PM CET) over the posted 2/2/6 threat-axis split; the counter ops names are his, refined from his Threat Unit coinages in the same thread).'

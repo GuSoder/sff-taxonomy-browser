@@ -3,11 +3,11 @@ title: Knight Watch
 authors:
 - Tim Akers
 first_published: 2020
-canonical_genre: occult-secret-service
+canonical_genre: magic-counter-ops
 placement_status: accepted
 placement_rationale: Tim Akers' Knight Watch is a hidden agency that protects the mundane world from real monsters of myth
   (a LARP fighter joins it in book 1; Valhellions and The Eccentrics follow). The agency's monster-hunting work for the modern
-  world is the engine, the same ground as The Rook Files, so Occult mystery is the nearest home.
+  world is the engine, the same ground as The Rook Files, so Occult mystery is the nearest home. Split of Occult secret service 2026-10-27 by what the service fights - its enemy is dangerous magic itself - rogue sorcerers, magical outbreaks and mythic creatures - so Magic counter ops, not cosmic outsiders (Eldritch counter ops) or the diabolic (Demon counter ops) (curator "Approved" phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP).
 books:
 - title: Knight Watch
   year: 2020
@@ -34,3 +34,7 @@ placement_history:
     (phonemsg-01M46C5ZHZNA8VVZ39X6625QKF, 2026-10-05 5:51 PM)).
   from: occult-mystery
   to: occult-secret-service
+- date: '2026-10-27'
+  from: occult-secret-service
+  to: magic-counter-ops
+  reason: 'Split of Occult secret service by what the service fights (curator "Approved" (phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP, 2026-10-27 4:01 PM CET) over the posted 2/2/6 threat-axis split; the counter ops names are his, refined from his Threat Unit coinages in the same thread).'

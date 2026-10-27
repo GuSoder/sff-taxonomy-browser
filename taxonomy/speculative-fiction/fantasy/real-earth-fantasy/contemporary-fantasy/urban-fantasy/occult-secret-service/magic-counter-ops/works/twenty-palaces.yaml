@@ -3,7 +3,7 @@ title: Twenty Palaces
 authors:
 - Harry Connolly
 first_published: 2009
-canonical_genre: occult-secret-service
+canonical_genre: magic-counter-ops
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Urban fantasy > Occult mystery > Occult
   secret service. Ray Lilly drives for Annalise Powliss of the Twenty Palace Society, a group of sorcerers devoted to hunting
@@ -11,7 +11,7 @@ placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fant
   for power (Penguin Random House description); Game of Cages and Circle of Enemies are further Twenty Palaces novels. A hidden
   service whose work is containing occult threats in secret, the leaf''s definition. Rejected: Occult PI (Ray is
   bound to the Society, not freelance), Occult cop (no badge or case file). Wobble: moderate; the Society is private,
-  not state-run. Sources: PRH page for book one; series membership from the cover lines. Years: 2009, 2010, 2011.'
+  not state-run. Sources: PRH page for book one; series membership from the cover lines. Years: 2009, 2010, 2011. Split of Occult secret service 2026-10-27 by what the service fights: its enemy is dangerous magic itself - rogue sorcerers, magical outbreaks and mythic creatures - so Magic counter ops, not cosmic outsiders (Eldritch counter ops) or the diabolic (Demon counter ops) (curator "Approved" phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP).'
 books:
 - title: Child of Fire
   year: 2009
@@ -33,3 +33,7 @@ placement_history:
 - date: '2026-10-04'
   to: occult-secret-service
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-27'
+  from: occult-secret-service
+  to: magic-counter-ops
+  reason: 'Split of Occult secret service by what the service fights (curator "Approved" (phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP, 2026-10-27 4:01 PM CET) over the posted 2/2/6 threat-axis split; the counter ops names are his, refined from his Threat Unit coinages in the same thread).'

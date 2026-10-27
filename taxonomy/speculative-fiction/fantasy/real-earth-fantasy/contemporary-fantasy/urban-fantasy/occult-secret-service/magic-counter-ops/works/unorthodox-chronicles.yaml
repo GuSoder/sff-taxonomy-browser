@@ -3,7 +3,7 @@ title: The Unorthodox Chronicles
 authors:
 - James J. Butcher
 first_published: 2022
-canonical_genre: occult-secret-service
+canonical_genre: magic-counter-ops
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-Earth fantasy > Contemporary fantasy
   > Urban fantasy > Occult secret service. In modern Boston the Department of Unorthodox Affairs keeps the
@@ -13,7 +13,7 @@ placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-Earth fant
   Department''s newest, then junior Auditor working cases with veteran Huntsman Mayflower. Rejected: the
   Occult cop leaves (Auditors are not sworn police), Occult PI (the service frames the whole series). One
   fiction: Dead Man''s Hand 2022, Long Past Dues 2023, Cold Iron Task 2025 (Open Library; PRH book page).
-  Book four, Grim Folk Tale, is announced for Jan 5, 2027 (PRH) - unreleased at intake, excluded.'
+  Book four, Grim Folk Tale, is announced for Jan 5, 2027 (PRH) - unreleased at intake, excluded. Split of Occult secret service 2026-10-27 by what the service fights: its enemy is dangerous magic itself - rogue sorcerers, magical outbreaks and mythic creatures - so Magic counter ops, not cosmic outsiders (Eldritch counter ops) or the diabolic (Demon counter ops) (curator "Approved" phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP).'
 books:
 - title: Dead Man's Hand
   year: 2022
@@ -34,3 +34,7 @@ placement_history:
 - date: '2026-10-27'
   to: occult-secret-service
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-27'
+  from: occult-secret-service
+  to: magic-counter-ops
+  reason: 'Split of Occult secret service by what the service fights (curator "Approved" (phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP, 2026-10-27 4:01 PM CET) over the posted 2/2/6 threat-axis split; the counter ops names are his, refined from his Threat Unit coinages in the same thread).'
