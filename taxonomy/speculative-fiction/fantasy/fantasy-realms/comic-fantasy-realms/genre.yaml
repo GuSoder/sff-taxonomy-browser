@@ -1,23 +1,22 @@
 id: comic-fantasy-realms
 label: Comic fantasy realms
 parent: fantasy-realms
-children: []
-works:
-- discworld
-- xanth
-- im-afraid-youve-got-dragons
-- joes-world
-- dragonforged
-- bored-of-the-rings
-- charming-tales
-- mysterium
-- dark-lord-davi
+children:
+- parody-realms
+- absurd-realms
+works: []
 image: 163-comic-fantasy-realms.webp
-definition: Comic fantasy set in an invented world, where comedy, parody or satire is the governing engine rather than incidental relief
-  and the invented world itself is the stage of the joke. Lifted 2026-09-28 from under Sword and sorcery to a direct child of Fantasy
-  realms and renamed from Comic fantasy; the 2026-09-22 realm-fork exception is dissolved - Earth-rooted comicals now hang at Earthly
-  comic fantasy (the curator ruling, phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0).
-status: leaf
+definition: 'Comic fantasy set in an invented world, where comedy, parody or satire is the governing engine rather than
+  incidental relief, split by what the joke is: Parody realms (inherited story material - a text, a fairy-tale or quest
+  script, the genre''s own furniture) or Absurd realms (the invented world itself - absurd institutions, customs and
+  wordplay transposing our own). Split at ten cards on the curator''s approval (phonemsg-01M5YNYMEG0VPS33MRRR37B0FB,
+  2026-10-27); Absurd realms is his coinage. A fiction spanning both follows its whole-fiction main engine (his caveat).
+  Earlier history: lifted 2026-09-28 from under Sword and sorcery to a direct child of Fantasy realms and renamed from
+  Comic fantasy; the 2026-09-22 realm-fork exception dissolved (the curator ruling, phonemsg-01M3MDGRXMYQTGHZX3RX5CGGV0).'
+status: provisional
 history:
 - date: '2026-10-13'
   change: Definition reworded to drop 'Real Earth' after the dissolve (curator phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
+- date: '2026-10-27'
+  change: Split at ten cards (curator approval phonemsg-01M5YNYMEG0VPS33MRRR37B0FB) into Parody realms (7) and Absurd realms
+    (3, his coinage); becomes an umbrella; all ten works moved down.
