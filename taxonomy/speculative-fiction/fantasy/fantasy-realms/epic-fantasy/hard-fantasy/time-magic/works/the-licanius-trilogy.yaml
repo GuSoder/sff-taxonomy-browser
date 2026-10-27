@@ -1,0 +1,37 @@
+id: the-licanius-trilogy
+title: The Licanius Trilogy
+authors:
+- James Islington
+first_published: 2014
+canonical_genre: time-magic
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Hard fantasy
+  > Time magic. In Andarra the Gifted channel Essence under the Four Tenets, but the trilogy''s spine is
+  the Augurs'' time power: precognition, Davian''s transport into the past and his training under Malshash,
+  and Caeden''s centuries of past lives rewinding toward the sword Licanius (Wikipedia, The Shadow of What
+  Was Lost). Rejected: Channeled hard magic (Essence is rule-bound and drawn from a Reserve, but time is
+  the load-bearing domain), the High fantasy quest leaves (the quest frame is not the engine). Wobble:
+  moderate - the first book leans on the Essence school system before the Augur plot takes over. One fiction:
+  The Shadow of What Was Lost 2014 (self-published; Orbit 2016), An Echo of Things to Come 2017, The Light
+  of All That Falls 2019 (Wikipedia, James Islington).'
+books:
+- title: The Shadow of What Was Lost
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8471205-L.jpg
+- title: An Echo of Things to Come
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8402719-L.jpg
+- title: The Light of All That Falls
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/9248546-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/8471205-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04182, MC04179, MC04181)
+placement_history:
+- date: '2026-10-27'
+  to: time-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
