@@ -1,0 +1,47 @@
+id: crosstime-traffic
+title: Crosstime Traffic
+authors:
+- Harry Turtledove
+first_published: 2003
+canonical_genre: multiverse-espionage
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction > Science fiction > Atemporal SF > Parallel world fiction > Multiverse war
+  > Multiverse espionage. The home timeline (a 2090s Earth running low on resources) holds a global monopoly on crosstime
+  travel through the company Crosstime Traffic and covertly imports supplies from parallel Earths where history went
+  differently; each novel sends young agents or traders into one alternate world by stealth (Wikipedia, Crosstime Traffic).
+  The leaf''s own wording: agents and crews work between worlds by stealth, trade and sabotage rather than open armies.
+  Rejected: Multiverse invasion (no open armies cross), Multiverse mirror (the books immerse in the altered world, not a
+  mirror on ours), Multiverse odyssey (commerce and survival, not an intimate crossing), Alternate history leaves (the
+  mechanism is crosstime travel, not a single altered history). Wobble: low to moderate; the war frame is background
+  (resource survival), but the stealth-trade engine is exact. Young adult series; the card lists all six novels though the
+  queue carries four. Queue ids MC03733, MC03741, MC03746, MC03777.'
+books:
+- title: Gunpowder Empire
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/524233-L.jpg
+- title: Curious Notions
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/524234-L.jpg
+- title: In High Places
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/524235-L.jpg
+- title: The Disunited States of America
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/524696-L.jpg
+- title: The Gladiator
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1443104-L.jpg
+- title: The Valley-Westside War
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/2615753-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/524233-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03733, MC03741, MC03746, MC03777)
+placement_history:
+- date: '2026-10-27'
+  to: multiverse-espionage
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
