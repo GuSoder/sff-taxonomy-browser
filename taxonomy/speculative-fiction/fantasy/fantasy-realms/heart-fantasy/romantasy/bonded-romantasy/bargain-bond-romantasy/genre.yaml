@@ -1,22 +1,20 @@
 id: bargain-bond-romantasy
 label: Bargain bond romantasy
 parent: bonded-romantasy
-children: []
-works:
-- the-court-of-broken-bonds
-- the-tithenai-chronicles
-- otherworldly
-- the-maid-and-the-crocodile
-- the-wilderwood-duology
-- a-curse-of-crows-and-serpents
-- king-of-ravens
-- tigers-curse
-- married-to-magic
-- arcana-academy
+children:
+- court-bond-romantasy
+- magic-bond-romantasy
+works: []
 definition: 'Bonded romantasy in which the tie is a deal or a sentence: an arranged marriage, a forced diplomatic match, a
   crossroads bargain, a curse and its prophecy, a sacrifice. The pair is bound by terms, not by magic in the blood.'
-status: accepted
+status: umbrella
 ruling: 'Curator split approved ("Execute" phonemsg-01M4JVFKVP6929HEPJNZ02H5BR, 2026-10-10 2:09 PM CEST; names in phonemsg-01M4JVCD1BVQJ5M7SQY7YDB2MZ):
   axis is what the imposed tie is; 3 + 4 + 2 with Wilderwood and Idolfire arriving as the tenth and eleventh.'
 image: 632-bargain-bond-romantasy.webp
 portrait: 632-bargain-bond-romantasy.webp
+history:
+- date: '2026-10-27'
+  change: Split at ten cards into Court bond romantasy (3, the tie answers to a court''s law) and Magic bond romantasy (7,
+    the tie answers to a supernatural power''s claim, bargain or curse) (curator "Approved" (phonemsg-01M5Y0DZCRQ6PWR5WKZVE292Q0,
+    2026-10-27 7:23 AM CET) of the split as served (phonemsg-01M5XYMC8E2NVW33FDZBEQAJM9); name Magic bond from the parent''s
+    shortening offer (phonemsg-01M5Y0DET26Z730VBQQF37NNCP) after he found Supernatural bond long (phonemsg-01M5Y0D64EECNHQ8YZEVX9NBKB)).
