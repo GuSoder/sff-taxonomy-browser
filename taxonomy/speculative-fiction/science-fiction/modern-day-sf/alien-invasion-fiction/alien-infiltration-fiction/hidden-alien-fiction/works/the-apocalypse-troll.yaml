@@ -3,7 +3,7 @@ title: The Apocalypse Troll
 authors:
 - David Weber
 first_published: 1999
-canonical_genre: alien-infiltration-fiction
+canonical_genre: hidden-alien-fiction
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Modern day SF > Alien invasion fiction > Alien infiltration
   fiction. Per Wikipedia and Baen: a lone alien cyborg (a Troll) survives on 21st-century Earth, hidden, and works from within
@@ -26,3 +26,10 @@ placement_history:
 - date: '2026-10-04'
   to: alien-infiltration-fiction
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+
+- date: '2026-10-27'
+  from: alien-infiltration-fiction
+  to: hidden-alien-fiction
+  reason: 'Umbrella split of Alien infiltration fiction at ten fictions: Bodysnatcher fiction (the takeover
+    steals human bodies) and Hidden alien fiction (the invaders keep their own skins and hide among us).
+    Curator "Approved" phonemsg-01M5ZGPR3S9M85C26RP243Z8N9, 2026-10-27 21:26:54.'
