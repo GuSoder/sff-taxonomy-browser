@@ -93,3 +93,5 @@ Def fixes to apply at execution (parent 14:51):
 
 === NAME STEERING (user 14:54, phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ): "Maybe spaceship instead of corvette" ===
 Parent 14:54: refreshed proposal served - parent node Space corvette UNCHANGED, children renamed Patrol spaceship (6) / Privateer spaceship (2) / Penal spaceship (2). Naming steering only; split still unapproved. X-corvette child names are OUT (never re-propose). At execution (on approval): children ids patrol-spaceship / privateer-spaceship / penal-spaceship under space-corvette, with the corrected penal def (no involuntariness absolute; "sentence or dumping ground"), Hearthspace wobble + straddler notes preserved.
+
+=== EXECUTED 2026-10-27 ~15:17 CET: commit be9600e1, deploy success, live-verified (curl + pixel screenshots). Leaves patrol-spaceship(6)/privateer-spaceship(2)/penal-spaceship(2); space-corvette umbrella. Portraits 824/825/826. ===
