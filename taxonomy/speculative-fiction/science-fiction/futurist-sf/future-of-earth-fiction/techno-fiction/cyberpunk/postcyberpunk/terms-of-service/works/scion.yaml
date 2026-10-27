@@ -1,0 +1,31 @@
+id: scion
+title: Scion
+authors:
+- James Islington
+first_published: 2026
+canonical_genre: terms-of-service
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist SF > Future of Earth fiction
+  > Techno-fiction > Cyberpunk > Postcyberpunk > Terms of service. Azure is a gene-boosted contract killer
+  legally taking out immortal "lifers" for token payments to crawl out of debt - a working life lived inside
+  the networked biotech contract order, drones, q-coms and biosecurity the air he breathes (Saga Press/S&S
+  publisher page, blurb and chapter one; "John Wick meets Ghost in the Shell"). Rejected: Cyberheist (his
+  kills are legal and system-sanctioned, not jobs against the system), Revolutionary cyberpunk (no
+  alternative-building), Metaverse, Neural fiction and LitRPG (no virtual world, no brain-interface passage,
+  no game mechanics). Wobble: moderate - the blurb''s "next job, the opposite of my regular duties" may
+  turn the plot against the order. Standalone: the S&S page names no series (2026, Saga Press).'
+books:
+- title: Scion
+  year: 2026
+  cover_url: https://covers.openlibrary.org/b/id/15251908-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/15251908-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: one-pass
+intake: ten-k walk v5 (queue id MC04180)
+placement_history:
+- date: '2026-10-27'
+  to: terms-of-service
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
