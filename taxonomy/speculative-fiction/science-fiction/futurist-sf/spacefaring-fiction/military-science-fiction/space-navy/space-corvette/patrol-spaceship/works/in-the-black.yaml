@@ -3,7 +3,7 @@ title: In the Black
 authors:
 - Patrick S. Tomlinson
 first_published: 2020
-canonical_genre: space-corvette
+canonical_genre: patrol-spaceship
 placement_status: accepted
 placement_rationale: Tor explicitly calls the book military science fiction; its naval-style patrol crew confronts an unknown
   hostile ship in a demilitarized interstellar border zone.
@@ -40,3 +40,9 @@ placement_history:
     10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
   from: space-navy
   to: space-corvette
+- date: '2026-10-27'
+  from: space-corvette
+  to: patrol-spaceship
+  reason: 'Split of Space corvette at ten cards by the crew''s mandate - regular service, commerce war,
+    or the punished and unwanted; re-walked root-down. A regular navy corvette on a hunting patrol. (Curator approval phonemsg-01M5YV0H7Q8BYW6P8KDJXXCNRX,
+    2026-10-27; spaceship names follow his steering phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ.)'

@@ -1,23 +1,20 @@
 id: space-corvette
 label: Space corvette
 parent: space-navy
-children: []
-works:
-- in-the-black
-- hearthspace
-- providence
-- vattas-war
-- prison-ship
-- the-divide
-- the-rcn
-- planet-pirates
-- bretta-martyn
-- the-flight-engineer
+children:
+- patrol-spaceship
+- privateer-spaceship
+- penal-spaceship
+works: []
 image: 551-space-corvette.webp
-definition: 'Space navy of the one small ship and her crew out on their own, whatever the mandate (patrol, privateer or penal):
-  the ship and its people, not the fleet, are the story. Split 2026-10-06 from Space navy at ten fictions (curator "Ok, execute"
-  (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC, 10:39:29 PM; the
-  names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).'
-status: accepted
-ruling: curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC,
-  10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)
+definition: 'Space navy of the one small ship and her crew out on their own, whatever the mandate (patrol,
+  privateer or penal): the ship and its people, not the fleet, are the story. Split 2026-10-06 from Space
+  navy at ten fictions (curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space
+  navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC, 10:39:29 PM; the names Space armada and Space corvette are his,
+  accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)). Umbrella since 2026-10-27:
+  Patrol spaceship, Privateer spaceship, Penal spaceship (curator approval phonemsg-01M5YV0H7Q8BYW6P8KDJXXCNRX,
+  2026-10-27; the spaceship names follow his steering phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ).'
+status: umbrella
+ruling: 'Split 2026-10-06 from Space navy: curator "Ok, execute" (2026-10-06 10:45:16 PM) over phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC.
+  | Split-with-umbrella 2026-10-27: curator approval phonemsg-01M5YV0H7Q8BYW6P8KDJXXCNRX; spaceship names follow
+  his steering phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ.'

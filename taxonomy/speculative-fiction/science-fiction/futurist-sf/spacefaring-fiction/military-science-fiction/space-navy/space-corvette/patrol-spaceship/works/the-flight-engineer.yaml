@@ -4,7 +4,7 @@ authors:
 - James Doohan
 - S. M. Stirling
 first_published: 1996
-canonical_genre: space-corvette
+canonical_genre: patrol-spaceship
 placement_status: accepted
 placement_rationale: 'Walk: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Military science fiction > Space navy > Space corvette. The Flight Engineer (The Rising 1996, The Privateer 1999, The Independent Command 2000, Baen; ISFDB series listing and smstirling.com bibliography): Commander Peter Raeder, the Commonwealth''s first flight engineer on the command track, and the crew of the single ship Invincible fight the alien Mollies through raids, privateering and independent commands. One small ship and her people out on their own, not the fleet: Space corvette. Rejected: Space command (Raeder''s view is the deck of one ship, not the top of a campaign), Space armada (no fleet action). Wobble: low. Years: 1996, 1999, 2000 (smstirling.com; queue''s 2000/2001 are reprints). Queue ids MC04168, MC04169, MC04170.'
 books:
@@ -28,3 +28,9 @@ placement_history:
 - date: '2026-10-27'
   to: space-corvette
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-27'
+  from: space-corvette
+  to: patrol-spaceship
+  reason: 'Split of Space corvette at ten cards by the crew''s mandate - regular service, commerce war,
+    or the punished and unwanted; re-walked root-down. Regular navy. (Curator approval phonemsg-01M5YV0H7Q8BYW6P8KDJXXCNRX,
+    2026-10-27; spaceship names follow his steering phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ.)'

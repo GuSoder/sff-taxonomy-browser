@@ -1,0 +1,14 @@
+id: patrol-spaceship
+label: Patrol spaceship
+parent: space-corvette
+children: []
+image: 824-patrol-spaceship.webp
+definition: 'Space corvette of regular service: navy crews on patrol, escort and war errands - the one small ship and her people doing the service''s work far from the fleet. Not Privateer spaceship (commerce war under letter or outlaw flag) and not Penal spaceship (punished and unwanted crews). Split from Space corvette at ten cards (curator approval phonemsg-01M5YV0H7Q8BYW6P8KDJXXCNRX, 2026-10-27; the spaceship names follow his steering phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ).'
+status: provisional
+works:
+- in-the-black
+- hearthspace
+- providence
+- the-rcn
+- planet-pirates
+- the-flight-engineer

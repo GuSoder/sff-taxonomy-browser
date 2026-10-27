@@ -3,7 +3,7 @@ title: Hearthspace
 authors:
 - Stephen Baxter
 first_published: 2025
-canonical_genre: space-corvette
+canonical_genre: patrol-spaceship
 placement_status: accepted
 placement_rationale: Commander Ulla Breen, on her first tour aboard a patrol sail-ship, is attacked by an unknown enemy in
   the Hearth, the celestial birthplace of millions of planets; patrols, ship crews and naval war drive it.
@@ -28,3 +28,9 @@ placement_history:
     10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
   from: space-navy
   to: space-corvette
+- date: '2026-10-27'
+  from: space-corvette
+  to: patrol-spaceship
+  reason: 'Split of Space corvette at ten cards by the crew''s mandate - regular service, commerce war,
+    or the punished and unwanted; re-walked root-down. A patrol sail-ship of the Service; the blurb does not name the commissioning operator - the wobble stands. (Curator approval phonemsg-01M5YV0H7Q8BYW6P8KDJXXCNRX,
+    2026-10-27; spaceship names follow his steering phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ.)'
