@@ -1,3 +1,9 @@
+# Superseded preparation: outcome2026-10-28
+
+Original trilogy placed18:38 as ONE fiction in Post-pandemic survival,9->10, frozen, commit255e8ece. See post-pandemic-threshold-audit.md. No Zero World placement. MC04346 prequel is excluded novella under normal rule, not automatically retained by shared-fiction membership. Earlier below in-tree-novella claim was an unsupported generalization of title-specific exceptions, withdrawn after main18:47 clarification. Independent CETAPS final-book record now supports intentionally alien substance/test purpose, but not nanomachine mechanism. No nano assertion.
+
+## Earlier reversible prep, not current instructions
+
 # MC04345 next-fiction preparation, 2026-10-28 16:31
 
 PREPARATION ONLY. Space combat frozen10; Hour corrective move awaits owner decision. No placement or queue completion. Death's Head stays.
