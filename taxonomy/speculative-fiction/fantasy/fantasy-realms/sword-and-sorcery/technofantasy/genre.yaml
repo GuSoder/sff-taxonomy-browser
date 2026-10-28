@@ -5,7 +5,6 @@ children: []
 works:
 - the-books-of-babel
 - road-to-ruin
-- the-jewel-in-the-skull
 image: 90-technofantasy.webp
 definition: 'Adventure-forward fantasy in which technology is central to the worldbuilding or story: wondrous machinery, artifacts,
   airships and impossible engineering. Actual magic is not required. Where the magic is necromancy run as engineering, the
@@ -19,3 +18,6 @@ history:
 - date: '2026-10-28'
   change: 'Owner Approved phonemsg-01M62568QVA0WD2HJFJVBZ8Y49: existing The Star Thief moved from Technofantasy to Gaslight
     technomancy, no metadata repair or added books.'
+- date: '2026-10-28'
+  change: 'Owner Approved phonemsg-01M626T2N022Q780BNWDX1H1E2: Hawkmoon moved to Post-apocalyptic fantasy and six malformed
+    omnibus/novel entries reconciled to seven distinct novels. One fiction retained; book total +1.'

@@ -1,0 +1,112 @@
+id: the-jewel-in-the-skull
+title: The Jewel in the Skull
+authors:
+- Michael Moorcock
+first_published: 1967
+canonical_genre: post-apocalyptic-fantasy
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Future fantasy -> Post-apocalyptic fantasy.
+  Publisher locates Hawkmoon on old Earth in an alternate far future; Black Gate independently identifies post-holocaust Earth.
+  Real sorcery, the Runestaff and multiverse powers govern, rather than a science-explained future. Thus not independently
+  invented Fantasy realms, Historical or Contemporary. Later Castle Brass quests follow this Earth-rooted Hawkmoon through
+  alternate realities to recover his wife and children; excursions do not erase the Real earth root. Within Future, the old
+  civilization fell: not biblical End-times, Vampire future or Psi future on an Earth that never fell. The quartet follows
+  the Dark Empire/Runestaff conflict; Castle Brass continues the same character''s reality-changing family quests. Publisher
+  plot copy and specialist bibliography checked, not full-text reading of every novel. Owner Approved phonemsg-01M626T2N022Q780BNWDX1H1E2,
+  2026-10-28 22:31 CET, following move plus six-entry-to-seven-distinct-novel reconciliation proposal phonemsg-01M625BZ5FB0MVM3N59YC6D5SV.
+  One fiction retained; overlapping omnibus labels removed, seven unique novels listed.'
+books:
+- title: The Jewel in the Skull
+  year: 1967
+  cover_url: cover-hawkmoon-1.jpg
+  shows_english_title: true
+- title: The Mad God's Amulet
+  year: 1968
+  cover_url: cover-hawkmoon-2.jpg
+  shows_english_title: true
+- title: The Sword of the Dawn
+  year: 1968
+  cover_url: cover-hawkmoon-3.jpg
+  shows_english_title: true
+- title: The Runestaff
+  year: 1969
+  cover_url: cover-hawkmoon-4.jpg
+  shows_english_title: true
+- title: Count Brass
+  year: 1973
+  cover_url: cover-hawkmoon-5.jpg
+  shows_english_title: true
+- title: The Champion of Garathorm
+  year: 1973
+  cover_url: cover-hawkmoon-6.jpg
+  shows_english_title: true
+- title: The Quest for Tanelorn
+  year: 1975
+  cover_url: cover-hawkmoon-7.jpg
+  shows_english_title: true
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://upload.wikimedia.org/wikipedia/en/1/17/Jewel_in_the_skull.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06900, MC06901, MC06902, MC06903, MC06899, MC06910)
+placement_history:
+- date: '2026-10-04'
+  to: technofantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: technofantasy
+  to: post-apocalyptic-fantasy
+  reason: 'Owner Approved phonemsg-01M626T2N022Q780BNWDX1H1E2: move and seven-distinct-novel reconciliation after explicit
+    proposal phonemsg-01M625BZ5FB0MVM3N59YC6D5SV.'
+classification_sources:
+- https://www.hachette.co.uk/titles/michael-moorcock/hawkmoon-the-history-of-the-runestaff/9780575108691/
+- https://www.blackgate.com/2012/10/03/hawkmoon-gets-some-respect-with-tor-reprints/
+- https://moorcography.org/hawkmoon-the-history-of-the-runestaff/
+- https://moorcography.org/hawkmoon-count-brass/
+- https://moorcography.org/sword-and-runestaff/
+- https://sf-encyclopedia.com/entry/moorcock_michael
+- https://www.hachette.co.uk/titles/michael-moorcock/the-jewel-in-the-skull/9780575109704/
+- https://www.hachette.co.uk/titles/michael-moorcock/the-mad-gods-amulet/9780575109841/
+- https://www.hachette.co.uk/titles/michael-moorcock/the-sword-of-the-dawn/9780575110182/
+- https://www.hachette.co.uk/titles/michael-moorcock/the-runestaff/9780575110212/
+- https://moorcography.org/count-brass/
+- https://www.hachette.co.uk/titles/michael-moorcock/the-champion-of-garathorm/9780575092501/
+- https://www.hachette.co.uk/titles/michael-moorcock/the-quest-for-tanelorn/9780575092518/
+volume_cover_sources:
+- title: The Jewel in the Skull
+  record_url: https://www.hachette.co.uk/titles/michael-moorcock/the-jewel-in-the-skull/9780575109704/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-jewel-in-the-skull-36.jpg
+  local_file: cover-hawkmoon-1.jpg
+  visually_reviewed_on: '2026-10-28'
+- title: The Mad God's Amulet
+  record_url: https://www.hachette.co.uk/titles/michael-moorcock/the-mad-gods-amulet/9780575109841/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-mad-gods-amulet-29.jpg
+  local_file: cover-hawkmoon-2.jpg
+  visually_reviewed_on: '2026-10-28'
+- title: The Sword of the Dawn
+  record_url: https://www.hachette.co.uk/titles/michael-moorcock/the-sword-of-the-dawn/9780575110182/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-sword-of-the-dawn-35.jpg
+  local_file: cover-hawkmoon-3.jpg
+  visually_reviewed_on: '2026-10-28'
+- title: The Runestaff
+  record_url: https://www.hachette.co.uk/titles/michael-moorcock/the-runestaff/9780575110212/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-runestaff-36.jpg
+  local_file: cover-hawkmoon-4.jpg
+  visually_reviewed_on: '2026-10-28'
+- title: Count Brass
+  record_url: https://moorcography.org/count-brass/
+  image_url: https://moorcography.org/wp-content/uploads/2020/10/count-1.jpg?w=402
+  local_file: cover-hawkmoon-5.jpg
+  visually_reviewed_on: '2026-10-28'
+- title: The Champion of Garathorm
+  record_url: https://www.hachette.co.uk/titles/michael-moorcock/the-champion-of-garathorm/9780575092501/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-champion-of-garathorm-8.jpg
+  local_file: cover-hawkmoon-6.jpg
+  visually_reviewed_on: '2026-10-28'
+- title: The Quest for Tanelorn
+  record_url: https://www.hachette.co.uk/titles/michael-moorcock/the-quest-for-tanelorn/9780575092518/
+  image_url: https://www.hachette.co.uk/wp-content/uploads/2018/07/hbg-title-the-quest-for-tanelorn-14.jpg
+  local_file: cover-hawkmoon-7.jpg
+  visually_reviewed_on: '2026-10-28'
