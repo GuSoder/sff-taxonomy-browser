@@ -4,7 +4,7 @@ authors:
 - Susan Cooper
 first_published: 1965
 last_published: 1977
-canonical_genre: modern-albion-myth
+canonical_genre: modern-albion-epics
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy -> Real earth fantasy -> Contemporary fantasy -> Contemporary mythic fantasy. SFE calls the five-book sequence a mythological
   fantasy epic set in the modern world, with contemporary child Will Stanton as vessel of the ancient Old Ones and Anglo-Saxon, Celtic and Matter of Britain mythology
@@ -38,3 +38,6 @@ books:
 placement_history:
 - date: '2026-09-24'
   change: Moved contemporary-mythic-fantasy -> modern-albion-myth in the curator's four-way split of the frozen leaf (19:56 ruling)
+- date: '2026-10-28'
+  to: modern-albion-epics
+  reason: 'Re-walked root-down into the new leaf after the approved scope split of Modern Albion myth (curator ''Approved'' phonemsg-01M61D077MHHYJF0EHC3X22B7K): the card belongs with the epics - the modern world''s fate is the prize.'

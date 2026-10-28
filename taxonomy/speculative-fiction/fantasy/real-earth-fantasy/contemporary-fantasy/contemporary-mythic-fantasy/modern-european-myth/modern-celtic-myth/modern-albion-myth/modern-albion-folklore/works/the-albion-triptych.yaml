@@ -3,7 +3,7 @@ title: The Albion Triptych
 authors:
 - Andrew Sinclair
 first_published: 1967
-canonical_genre: modern-albion-myth
+canonical_genre: modern-albion-folklore
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy -> Contemporary fantasy -> Contemporary mythic fantasy -> Modern Celtic myth -> Modern
   Albion myth. Gog washes ashore in Scotland in 1945 and walks to London, with the myth and history of Britain running through
@@ -35,3 +35,6 @@ placement_history:
   from: pulp-fantasy
   to: modern-albion-myth
   reason: Moved on the curator's instruction (phonemsg-01M4VE383QNKGNPPAF5YDGC6XN). Gog is set in 1945, his call.
+- date: '2026-10-28'
+  to: modern-albion-folklore
+  reason: 'Re-walked root-down into the new leaf after the approved scope split of Modern Albion myth (curator ''Approved'' phonemsg-01M61D077MHHYJF0EHC3X22B7K): the card belongs with the folklore - the old powers shape particular lives and communities, not the world''s fate.'

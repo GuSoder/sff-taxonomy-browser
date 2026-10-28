@@ -1,22 +1,15 @@
 id: modern-albion-myth
 label: Modern Albion myth
 parent: modern-celtic-myth
-children: []
+children:
+- modern-albion-epics
+- modern-albion-folklore
 image: 339-modern-albion-myth.webp
-definition: Contemporary fantasy in which the old powers of Albion - mythagos, green men, the Old Ones, Welsh and Cheshire
-  legend, midwinter folk-magic - remain alive within ordinary present-day life, wherever they wake.
-status: accepted
-works:
-- prosperos-children
-- king-rat
-- greenmantle
-- lanny
-- the-dark-is-rising-sequence
-- the-owl-service
-- the-weirdstone-trilogy
-- the-green-man-series
-- a-midwinters-tail
-- the-albion-triptych
+definition: 'Contemporary fantasy in which the old powers of Albion - mythagos, green men, the Old Ones, Welsh and Cheshire legend, midwinter folk-magic - remain alive within ordinary present-day life, wherever they wake. Umbrella since 2026-10-28: split at ten cards by the scale of what the myth stakes on the present - Modern Albion epics (the modern world''s fate is the prize) and Modern Albion folklore (particular lives and communities).'
+status: umbrella
+works: []
 history:
 - date: '2026-10-10'
   change: Moved under the new umbrella Modern Celtic myth; definition and cards unchanged (phonemsg-01M4JS149E5JX87808WVW8DGAJ).
+- date: '2026-10-28'
+  change: 'Split at ten cards by stake-scale into Modern Albion epics (3) and Modern Albion folklore (7); umbrella, holds zero direct cards (curator ''Approved'' phonemsg-01M61D077MHHYJF0EHC3X22B7K).'

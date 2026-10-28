@@ -5,7 +5,7 @@ authors:
 - Alan Garner
 first_published: 1960
 last_published: 2012
-canonical_genre: modern-albion-myth
+canonical_genre: modern-albion-epics
 placement_status: accepted
 included_titles:
 - The Weirdstone of Brisingamen
@@ -34,3 +34,6 @@ cover_curation:
 placement_history:
 - date: '2026-09-24'
   change: Moved contemporary-mythic-fantasy -> modern-albion-myth in the curator's four-way split of the frozen leaf (19:56 ruling)
+- date: '2026-10-28'
+  to: modern-albion-epics
+  reason: 'Re-walked root-down into the new leaf after the approved scope split of Modern Albion myth (curator ''Approved'' phonemsg-01M61D077MHHYJF0EHC3X22B7K): the card belongs with the epics - the modern world''s fate is the prize (Boneland noted as the trilogy''s quieter late coda).'

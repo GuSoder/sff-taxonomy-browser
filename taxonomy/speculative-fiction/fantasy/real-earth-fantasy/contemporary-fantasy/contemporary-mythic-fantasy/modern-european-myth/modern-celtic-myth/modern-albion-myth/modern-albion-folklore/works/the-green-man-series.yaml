@@ -4,7 +4,7 @@ authors:
 - Juliet E. McKenna
 first_published: 2018
 last_published: 2025
-canonical_genre: modern-albion-myth
+canonical_genre: modern-albion-folklore
 placement_status: accepted
 placement_rationale: |-
   Daniel Mackmain, son of a human man and a dryad, sees the supernatural creatures ordinary mortals
@@ -53,3 +53,6 @@ placement_history:
   change: Moved contemporary-mythic-fantasy -> modern-albion-myth in the curator's four-way split of the frozen leaf (19:56 ruling)
 - date: '2026-10-28'
   change: Expanded the single-book card (The Green Man's Quarry) to the full 8-volume Green Man series under the standing series-card rule; no original constraint limited the card to Quarry (verified against curator messages)
+- date: '2026-10-28'
+  to: modern-albion-folklore
+  reason: 'Re-walked root-down into the new leaf after the approved scope split of Modern Albion myth (curator ''Approved'' phonemsg-01M61D077MHHYJF0EHC3X22B7K): the card belongs with the folklore - the old powers shape particular lives and communities, not the world''s fate.'

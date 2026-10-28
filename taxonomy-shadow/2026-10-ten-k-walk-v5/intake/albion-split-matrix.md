@@ -14,8 +14,25 @@ Albion's land, not Arthur)".
    Will learns on his 11th birthday he IS an Old One by birth - "guardians and warriors for the Light"
    in a "centuries-long battle against the forces of the Dark, whose power is rising"; quests for the
    Circle of Signs; Herne the Hunter appears. ENGINE: cosmic war + born-to-the-myth hero INSEPARABLE.
-   Identity-and-war fuse here - kills any war-vs-heritage axis boundary. TODO: Over Sea Under Stone,
-   Greenwitch, The Grey King, Silver on the Tree plots for whole-sequence check.
+   Identity-and-war fuse here - kills any war-vs-heritage axis boundary.
+   WHOLE-SEQUENCE CHECK DONE 2026-10-28 14:44 (corrects earlier "all 10 verified" - only bk2 had been
+   re-verified before this pass; sources en.wikipedia.org/wiki/Over_Sea%2C_Under_Stone, /Greenwitch,
+   /The_Grey_King, /Silver_on_the_Tree):
+   - Bk1 Over Sea, Under Stone (1965): ORDINARY Drew children find a map in an attic; Grail-quest
+     pursued by Dark agents (ordinary-looking tourists); "more a mystery, with traditional fantasy
+     elements mainly the subject of hints later in the narrative". Quest/war register, mystery-shaped.
+   - Bk3 Greenwitch (1974): Drews + Will recover the Grail's secret; the Greenwitch - a village women's
+     ritual effigy - is a REAL wild power holding a secret both Light and Dark covet; Jane succeeds by
+     compassion. Folk custom alive and outside the war; still a recovery quest.
+   - Bk4 The Grey King (1975): Will quests for a golden harp in Wales; Bran = Arthur's son brought
+     forward in time; the Grey King (Brenin Llwyd) local Dark lord; Sutherland: "the classic form of
+     the quest". Quest register, explicit.
+   - Bk5 Silver on the Tree (1977): gather allies + objects, the prophesied Six, FINAL BATTLE;
+     ends with the Old Ones departing and memory of magic lost (Tor.com: "The loss of magic and
+     memory"). War register.
+   => Sequence register CONSISTENT: quest-and-war across all five volumes; bk1 mystery-shaped and bk3
+   custom-interlude, but the myth's stance to the present is a RISING ENEMY TO BE FOUGHT throughout.
+   Ordinary agents (Drews) in bks 1,3,5 sit beside born-power Will - fusion holds sequence-wide.
 2. The Weirdstone Trilogy (Garner, 1960/1963/2012). VERIFIED all three volumes:
    - Bk1 Weirdstone (en.wikipedia.org/wiki/The_Weirdstone_of_Brisingamen): Nastrond's return prophesied;
      sleeping knights in Fundindelve; the Morrigan + Grimnir hunt the stone; pitched battle; children
@@ -173,3 +190,45 @@ ERA, mirroring the owner's own approved era-split precedent (Sep 22: "split clea
   central-agents critique; content axes died to card-internal straddles).
 - Names would be regular era words per precedent ("Classic Albion myth" / "Contemporary Albion
   myth") - but naming certification stays frozen until an axis is agreed.
+
+## FINAL PROPOSAL DELIVERED TO PARENT 2026-10-28 14:06 (no mutation; awaiting ruling)
+Publication-era classification, explicitly NOT a mechanism axis (corpus supports none).
+Precedent verbatim: phonemsg-01M33QZ22W3ARS9JJSGF3VPPXF (his approved haunted-house era split,
+1977/1998 boundary = 21-year publication gap; "regular era words, per your ruling").
+- Classic Albion myth (5): Weirdstone 1960-63 (Boneland 2012 coda disclosed), DIR 1965-77,
+  Owl Service 1967, Albion Triptych 1967-88, Greenmantle 1988.
+- Contemporary Albion myth (5): King Rat 1998, Prospero's 1999-2002, Green Man series 2018-25,
+  Lanny 2019, Midwinter's Tail 2023.
+- Boundary 1988/1998 = the actual publication gap (zero cards 1989-1997), same shape as precedent.
+- Tradition distinction: classic = founding generation, contemporary = inheritors; observed sources
+  Wrightson-on-McKenna (measured against Garner), Fantasy-Hive on Midwinter. Thin, disclosed.
+- Shape: split-with-umbrella; Not-lines vs arthur-returned and between siblings.
+- Midwinter KEPT (phonemsg-01M619JQPYMCZY5DQ3DXJ7B0SM) - leaf stays 10, split required.
+- Green Man expansion executed and live (fd5d5833, d8dd0671; QA passed).
+
+## 2026-10-28 ~14:45 - killed axes log update
+- blood/land ("what the old power lives in") KILLED by parent as duplicate of inherited-vs-seized
+  (same 5/5, same failed cards: Drews' Grail plot unaccounted, Fern's gift+key+Morgus fuse, Owl
+  blood-vs-valley subjective). Also failed the user's standing both-names-say-modern-setting test.
+- Narrative-action pass (parent directive): case/quest/pattern/satire/cozy grouping REPORTED AS FACTS
+  ONLY, not a partition; my loose "case 4" grouping (with crime pursuit + disappearance) retracted.
+  Better-fit check: occult-mystery gated to cities (Green Man rural - fails; King Rat urban but no
+  case worked); Destiny quest + Cozy gated realm-side (DIR, Midwinter real-earth - blocked). No moves.
+- Fiction-splitting (worst-case note) ruled out by parent without explicit user decision.
+- NEW CANDIDATE AXIS under assessment: what the myth DOES to contemporary reality - wars over it vs
+  lives within it (presence/order/custom/compulsion/embodiment). Mapping: WAR = DIR, Weirdstone
+  (within-card straddle: Boneland bk3 is persistence-in-psyche), Prospero's, King Rat (4); LIVES =
+  Owl Service, Greenmantle, Lanny, Green Man, Midwinter's Tail, Albion Triptych (6). DIR volume
+  checks above ground the WAR call sequence-wide. Resemblance to killed war-vs-heritage disclosed:
+  the pair is different (presence, not heritage), so DIR's war+heritage fusion does not break it.
+
+## 2026-10-28 ~14:47 - FINAL CALL (parent-refined)
+Weirdstone bk1 stakes VERIFIED (en.wikipedia.org/wiki/The_Weirdstone_of_Brisingamen): introduction
+states the knights sleep until "the world once more in mortal peril" and the Weirdstone is "the heart
+of the white magic" defending Fundindelve - world-scale stake, not local pursuit.
+FINAL MAPPING (scale of mythic conflict's stake in present-day life): PRIZE = DIR, Prospero's,
+Weirdstone (Boneland coda disclosed) = 3; WITHIN ORDINARY LIFE = King Rat (verified feud/revenge),
+Green Man (publisher: "threats to the supernatural community"), Owl Service, Lanny, Greenmantle,
+Midwinter's Tail, Albion Triptych (embodiment/comment, parent's placement) = 7. 3/7, honest.
+NAME CALL: Modern Albion myth at war / Modern Albion myth at home (myth word + modern setting both;
+parent rejected "Modern Albion at war" as military-sounding). He coins final.
