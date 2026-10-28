@@ -1,0 +1,28 @@
+id: homegrown-magic-series
+title: The Homegrown Magic series
+authors:
+- Jamie Pacton
+- Rebecca Podos
+first_published: 2025
+canonical_genre: cozy-peeps-fantasy
+placement_status: accepted
+placement_rationale: |-
+  Root-down: Fantasy > Cozy fantasy > Cozy peeps fantasy. Two shared-world cozy queer romantic fantasies (Homeward is "the magical world introduced in Homegrown Magic" per blurb quotes on penguinrandomhouse.com; StoryGraph: spin-off/sequel with both leads introduced in Homegrown Magic). The series-wide constant is found family and gentle romance: Homegrown Magic is "found family, rival family drama, and cozy garden magic" (jamiepacton.com), Homeward for a Spell is a ragtag adventuring party whose members "learn to work together" around a sapphic romance (penguinrandomhouse.com). Rejected: Cozy craft fantasy (the greenhouse trade holds book 1 but book 2 has no trade; the leaf needs craft as the series' comfort), Cozy place fantasy (no house/hosting engine). Wobble mild (book 1 is garden-craft-centered) RESOLVED: the cross-book engine is the people, not the work.
+classification_sources:
+- https://www.penguinrandomhouse.com/books/755775/homegrown-magic-by-jamie-pacton-and-rebecca-podos/
+- https://www.penguinrandomhouse.com/books/755777/homeward-for-a-spell-by-jamie-pacton-and-rebecca-podos/
+- https://app.thestorygraph.com/reviews/05f19efb-8c96-411a-b3ef-89ef061f7ce1
+cover_curation:
+  status: complete
+  source: Open Library cover (Homegrown Magic), Penguin Random House CDN (Homeward for a Spell)
+  selected_url: https://covers.openlibrary.org/b/id/15241203-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-28'
+  review_method: one-pass visual review of both covers
+books:
+- title: Homegrown Magic
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15241203-L.jpg
+- title: Homeward for a Spell
+  year: 2026
+  cover_url: https://images.penguinrandomhouse.com/cover/9780593873670
