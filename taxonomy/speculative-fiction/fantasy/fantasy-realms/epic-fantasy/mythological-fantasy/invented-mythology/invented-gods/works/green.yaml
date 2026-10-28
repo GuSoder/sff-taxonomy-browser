@@ -2,6 +2,7 @@ id: green
 title: Green
 authors:
 - Jay Lake
+- Shannon Page
 first_published: 2009
 canonical_genre: invented-gods
 placement_status: accepted
@@ -24,17 +25,33 @@ placement_rationale: 'Walk: Speculative fiction > Fantasy > Fantasy realms > Epi
   > Invented mythology: the pantheon is authored, not real-world beings; Invented gods rather than Mythlike past
   because gods act on-page and are created, hunted and fought. Wobble moderate: extremely personal first-person
   life story, not a gods-only cast, but the leaf requires gods as active plot actors, not sole narrators. All3volume
-  plots independently checked; no definition widening. Years2009/2011/2013, not later paperback dates.'
+  plots independently checked; no definition widening. Years2009/2011/2013, not later paperback dates. Expansion:
+  Our Lady of the Islands(2014), co-written Shannon Page, is explicitly in Green world (author, publisher, SFE,
+  PW). Sian receives unwanted divine healing power, male physician-priests pursue her, a dead god stirs and an unwanted
+  divine mission links her with Arian. Same-fiction expansion retains active-gods engine, original hero and leaf;
+  not claimed part of the numbered trilogy. No published sequel found on coauthor publication list as checked2026-10-28.'
 books:
 - title: Green
   year: 2009
   cover_url: https://mpd-biblio-covers.imgix.net/9780765326478.jpg
+  authors:
+  - Jay Lake
 - title: Endurance
   year: 2011
   cover_url: https://elitistbookreviews.com/wp-content/uploads/2014/08/bafb8-endurance.jpg?x50127
+  authors:
+  - Jay Lake
 - title: Kalimpura
   year: 2013
   cover_url: https://publishersweekly.com/cover/9780765326775
+  authors:
+  - Jay Lake
+- title: Our Lady of the Islands
+  authors:
+  - Shannon Page
+  - Jay Lake
+  year: 2014
+  cover_url: https://www.shannonpage.net/wp-content/uploads/2020/11/ourladyoftheislands_72_color_revised.jpg
 classification_sources:
 - https://torpublishinggroup.com/the-green-universe-trilogy/?format=ebook&isbn=9781250305473
 - https://torpublishinggroup.com/green/?format=trade&isbn=9780765326478
@@ -47,6 +64,11 @@ classification_sources:
 - http://www.shelfinflicted.com/2013/08/reposting-lost-review-ninth-jay-lake.html
 - https://www.lightspeedmagazine.com/nonfiction/interview-jay-lake/
 - https://www.seattletimes.com/entertainment/books/green-a-slaves-fantastic-rebellion/
+- https://www.shannonpage.net/books/our-lady-of-the-islands/
+- https://outlandentertainment.com/blogs/blog/outland-entertainment-to-rerelease-our-lady-of-the-islands
+- https://best-books.publishersweekly.com/pw/best-books/2014
+- https://www.isfdb.org/cgi-bin/title.cgi?1803277=
+- https://sf-encyclopedia.com/entry/lake_jay
 cover_curation:
   status: complete
   source: Tor/Macmillan; Elitist Book Reviews; Publishers Weekly
@@ -60,3 +82,8 @@ placement_history:
   to: invented-gods
   reason: Root-down delegated intake under standing commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB. Accepted is
     placement status, not title-specific user approval.
+- date: '2026-10-28'
+  to: invented-gods
+  reason: 'Source completion before next fiction: expanded Green shared universe from numbered3novels to4eligible
+    novels with Our Lady of the Islands. Coauthor Shannon Page recorded globally and exact per-volume, existing3remain
+    Jay Lake only. New English print cover actual pixels inspected.'
