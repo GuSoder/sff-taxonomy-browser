@@ -1,0 +1,50 @@
+id: witch-wizard
+title: Witch & Wizard
+authors:
+- James Patterson
+- Gabrielle Charbonnet
+first_published: 2009
+canonical_genre: outlaw-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Revolutionary fantasy > Outlaw fantasy. Wikipedia (''dystopian fantasy novels''): the New Order regime charges people with witchcraft; teen siblings Whit and Wisty Allgood show magical abilities, are sentenced to execution at eighteen, escape through the Shadowland to Freeland, a haven for persecuted children, and lead the Resistance ''willing to sacrifice anything to save kidnapped and imprisoned kids'' (The Gift). The state criminalizes a class of people and a covert network hides and smuggles them to safety - the leaf''s exact gate (criminalized class plus rescue engine). Rejected: Rebel fantasy children (samizdat = erased-name resistance, no; tinderbox = occupied-city street uprising, no), Insurgent fantasy (not subversion from within the machine). Wobble: mild - the prophecy thread makes the siblings the regime''s prophesied Liberators (overthrow arc in The Fire), but the fugitive/rescue engine dominates. YA, eligible. Series card, five books per Wikipedia. Queue ids MC04242, MC04243, MC04245, MC04247, MC04251, MC04252.'
+books:
+- title: Witch & Wizard
+  year: 2009
+  authors:
+  - James Patterson
+  - Gabrielle Charbonnet
+  cover_url: https://covers.openlibrary.org/b/id/6424662-L.jpg
+- title: The Gift
+  year: 2010
+  authors:
+  - James Patterson
+  - Ned Rust
+  cover_url: https://covers.openlibrary.org/b/id/15259183-L.jpg
+- title: The Fire
+  year: 2011
+  authors:
+  - James Patterson
+  - Jill Dembowski
+  cover_url: https://covers.openlibrary.org/b/id/10382964-L.jpg
+- title: The Kiss
+  year: 2013
+  authors:
+  - James Patterson
+  - Jill Dembowski
+  cover_url: https://covers.openlibrary.org/b/id/13262226-L.jpg
+- title: The Lost
+  year: 2014
+  authors:
+  - James Patterson
+  - Emily Raymond
+  cover_url: https://covers.openlibrary.org/b/id/8402508-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/6424662-L.jpg
+  shows_english_title: true
+intake: ten-k walk v5 (queue ids MC04242, MC04243, MC04245, MC04247, MC04251, MC04252)
+placement_history:
+- date: '2026-10-28'
+  to: outlaw-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+classification_sources:
+- https://en.wikipedia.org/wiki/Witch_%26_Wizard
