@@ -50,3 +50,6 @@ https://gusoder.github.io/sff-taxonomy-browser/?v=1793209227#post-pandemic-survi
 
 ##18:55 checkpoint
 Main served split18:54, awaiting approval. No structure mutation. Hollow Kingdom original36330904 had only Feral Creatures; no explicit owner limit found. Completed eligible2-volume fiction by adding first novel2019, preserving original card cover and leaf. Corrected card first year2019. Totals2584fictions/5883books. Wilder title-specific owner ruling not found; accepted is repo metadata, not user approval. Child Zero cover loaded, no repair.
+
+##18:56 approved
+Owner phonemsg-01M61TF55M4EDZRV6VZE4APPNC approved latest names Post-pandemic mutants / Post-pandemic recovery5/5. Earlier plague/metamorphosis names rejected as medieval/long. Executed same distribution, broad host sense, no genetic-mechanism requirement. Umbrella art unchanged. Hollow card2eligiblevolumes.

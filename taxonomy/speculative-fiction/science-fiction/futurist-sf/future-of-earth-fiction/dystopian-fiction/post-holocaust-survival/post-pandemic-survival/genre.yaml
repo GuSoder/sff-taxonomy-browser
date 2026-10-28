@@ -1,20 +1,15 @@
 id: post-pandemic-survival
 label: Post-pandemic survival
 parent: post-holocaust-survival
-status: accepted
-definition: Post-Holocaust survival fiction whose living aftermath is caused by pandemic
-  disease, following survivors as communities endure, adapt or rebuild.
+status: umbrella
+definition: 'Pure umbrella for survival in the living aftermath of epidemic disease, divided by what remains to live among: a population remade
+  by infection, or people enduring the deaths, illness, scarcity and institutional damage it leaves. The cause may be natural, engineered or alien;
+  this is an aftermath mode, not a biological mechanism test.'
 portrait: 257-post-pandemic.webp
-children: []
+children:
+- post-pandemic-mutants
+- post-pandemic-recovery
 image: 257-post-pandemic.webp
-works:
-- child-zero
-- the-death-of-grass
-- earth-abides
-- i-am-legend
-- station-eleven
-- wilder-girls
-- how-high-we-go-in-the-dark
-- hollow-kingdom
-- the-passage
-- the-darwin-elevator
+works: []
+ruling: Split approved2026-10-28 18:56 CET, phonemsg-01M61TF55M4EDZRV6VZE4APPNC, latest served names Post-pandemic mutants / Post-pandemic recovery,5fictions
+  each. Original remains pure umbrella.
