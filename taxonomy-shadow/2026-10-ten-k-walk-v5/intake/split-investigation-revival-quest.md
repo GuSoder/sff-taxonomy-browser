@@ -10,3 +10,8 @@
 - Quest target: reach/claim a thing or place vs hunt/confront a being or force.
 - Victory mechanism: claim/awaken a power vs destroy/seal the dark.
 - If none survives with affirmative per-work evidence: report NO honest axis + exact outliers (do not manufacture).
+
+## More full-series verifications (2026-10-28 11:20)
+- Realm Breaker (3): active from book 1 - Spindles already opening, monsters loose, "darkness tearing Allward apart"; mechanism invariant = Corayne, last of the bloodline, is the ONLY one who can wield a Spindleblade and close the portals (victoriaaveyard.com/series/realm-breaker, mostrecommendedbooks series page). Escalates to undead armies + unleashing the god What Waits by book 3.
+- The Sorcerer's Song (3): prophecy arrival in book 1; by book 3 "Belkar's prison has broken, armies are moving, Lamoria is running out of time"; mechanism = recover the lost magic of the Bards (mostrecommendedbooks series page). Again escalation, no stable clock.
+- Observation for axis design: a recurring INVARIANT pattern across Realm Breaker, Sorcerer's Song, Moonfall, Thorn and Bone, Symphony: the company needs ONE specific key/power/bloodline to end the threat (Spindleblade bloodline, lost Bard magic, the lost key + engines, the Born Queen's throne power, Rhapsody's naming/Child of Time). Counter-candidates: does any card's quest END the dark WITHOUT a unique key (pure confrontation)? Tides of Fate (stop the apprentice's vengeance - dagger god-wrought = object again?), Lindormyn, Fallen Star (the star itself is the thing), Infernal City (Umbriel - ?), Book of Forbidden Wisdom (the Book is the object). If nearly all are key-quests, that axis degenerates (no split) - check Infernal City + Tides of Fate + Lindormyn next; they are the swing cards.
