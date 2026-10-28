@@ -1,0 +1,34 @@
+id: the-anomaly-quartet
+title: The Anomaly Quartet
+authors:
+- James Smythe
+first_published: 2013
+canonical_genre: unmoored-selves
+placement_status: accepted
+placement_rationale: |-
+  Root-down: Science fiction > Atemporal SF > Fabulation > Inner space > Consciousness fiction > Unmoored selves. A manned mission to an inexplicable anomaly in deep space becomes an identity horror: after passing through it, Cormac relives the doomed voyage while his other self is still aboard - "an introspective time travel novel... Moon meets Groundhog Day" and "the various incarnations of Cormac Easton alternate" (reactormag.com/book-review-james-smythe-the-explorer/); the quartet (The Explorer 2013, The Echo 2014, The Edge 2021, The Ends 2022, complete per HarperVoyager) keeps doubling its people. Identity divides and comes loose in time, the leaf's definition. Rejected: Starship mysteries (umbrella is generation starships; the Ishiguro is a mission vessel), Hard time travel (the anomaly stays unexplained, no rigorous mechanism), Alien horror (no nonhuman life established), Hard alien (space-opera register). Wobble mild (RESOLVED): book 1 reads as a survival thriller until the loop reveal; two professional reviews ground the identity-loop engine.
+classification_sources:
+- https://reactormag.com/book-review-james-smythe-the-explorer/
+- https://www.kirkusreviews.com/news-and-features/articles/book-smugglers-explorer-or-groundhog-day-deep-spac/
+- https://www.harperreach.com/products/the-explorer-the-anomaly-quartet-book-1-james-smythe-9780007456765/
+- https://harpervoyagerbooks.co.uk/products/the-ends-the-anomaly-quartet-book-4-james-smythe-9780007541898/
+cover_curation:
+  status: complete
+  source: Open Library ISBN covers (books 1-2) and Harper UK CDN (books 3-4)
+  selected_url: https://covers.openlibrary.org/b/isbn/9780007456765-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-28'
+  review_method: one-pass visual review of all four covers
+books:
+- title: The Explorer
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/isbn/9780007456765-L.jpg
+- title: The Echo
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/isbn/9780007456802-L.jpg
+- title: The Edge
+  year: 2021
+  cover_url: https://i.harperapps.com/hcuk/covers/9780007541850/x400.jpg
+- title: The Ends
+  year: 2022
+  cover_url: https://i.harperapps.com/hcuk/covers/9780007541898/x400.jpg
