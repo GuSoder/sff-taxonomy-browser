@@ -12,15 +12,15 @@ classification_sources:
 - https://locusmag.com/index/yr2002/t37.htm
 cover_curation:
   status: complete
-  source: Penguin Random House CDN (all three)
-  selected_url: https://images.penguinrandomhouse.com/cover/9780307416438
+  source: Penguin Random House CDN (Dragon Charmer, Witch Queen), Open Library cover 209913 (Prospero's Children - PRH CDN URL failed to load in the live site check)
+  selected_url: https://covers.openlibrary.org/b/id/209913-L.jpg
   shows_english_title: true
   visually_reviewed_on: '2026-10-28'
   review_method: one-pass visual review of all three covers
 books:
 - title: Prospero's Children
   year: 1999
-  cover_url: https://images.penguinrandomhouse.com/cover/9780307416438
+  cover_url: https://covers.openlibrary.org/b/id/209913-L.jpg
 - title: The Dragon Charmer
   year: 2000
   cover_url: https://images.penguinrandomhouse.com/cover/9780307522122
