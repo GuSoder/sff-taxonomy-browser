@@ -1,0 +1,28 @@
+id: bug-park
+title: Bug Park
+authors:
+- James P. Hogan
+first_published: 1997
+canonical_genre: neural-fiction
+placement_status: accepted
+placement_rationale: 'Teenagers turn a breakthrough in direct neural interfacing into a live-action entertainment medium at
+  micro-mechanical scale, "the ultimate out of body experience" (Baen blurb). Direct-to-brain access as the passage into an
+  altered reality - here a neural link into the bug-scale physical world rather than a virtual one; the Neural fiction
+  definition covers the passage regardless of medium. Rejected siblings: Metaverse (virtual avatar worlds, not physical
+  micro-mechs), LitRPG (game mechanics), Postcyberpunk, and Technothriller (requires an essentially mundane narrative world;
+  direct neural interfacing is not mundane).'
+books:
+- title: Bug Park
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/isbn/0671877739-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/0671877739-L.jpg
+  visually_reviewed_on: '2026-10-28'
+  review_method: single-image visual check (Baen 1997 hardcover, Mattingly art; no barcode or sticker)
+intake: ten-k walk v5 (queue ids MC04216)
+placement_history:
+- date: '2026-10-28'
+  to: neural-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
