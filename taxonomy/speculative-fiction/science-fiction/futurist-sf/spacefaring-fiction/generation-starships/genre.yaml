@@ -3,10 +3,10 @@ label: Generation starships
 parent: spacefaring-fiction
 children:
 - starship-mysteries
-- voyage-societies
+- starship-societies
 image: 111-generation-starships.webp
 definition: 'Pure umbrella for societies living aboard multigenerational spacecraft, including biological vessels, split by
-  story engine: Starship mysteries (solving concealed truth) and Voyage societies (social order and conflict).'
+  story engine: Starship mysteries (solving concealed truth) and Starship societies (social order and conflict).'
 status: umbrella
 works: []
 history:

@@ -1,5 +1,5 @@
-id: voyage-societies
-label: Voyage societies
+id: starship-societies
+label: Starship societies
 parent: generation-starships
 children: []
 works:
@@ -21,3 +21,7 @@ definition: 'Generation-starship fiction centered on the social order and confli
 status: accepted
 ruling: Curator "Execute" phonemsg-01M4ARYY80J2CA9X9WBW65TVY9, 2026-10-07 10:51:26, following Starship mysteries naming proposal
   and the 4/6 distribution.
+history:
+- date: '2026-10-28'
+  change: Renamed from Voyage societies to Starship societies (curator "Ok, rename to starship societies",
+    phonemsg-01M60K8PWQNM62AA1PK6C49R78, 7:30 AM), removing the collision with Fantastic voyage under Proto SF.
