@@ -14,7 +14,7 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/11626901-L.jpg
 - title: Shadow of Empire
   year: 2015
-  cover_url: https://covers.openlibrary.org/b/id/11585567-L.jpg
+  cover_url: https://www.fictiondb.com/coversth/978/006/th_9780062388902.jpg
 - title: Funeral Games
   year: 2016
   cover_url: https://covers.openlibrary.org/b/id/12660188-L.jpg
@@ -26,10 +26,11 @@ books:
   cover_url: https://www.fictiondb.com/coversth/978/138/th_9781386686576.jpg
 cover_curation:
   status: complete
-  source: Open Library / publisher
-  selected_url: https://covers.openlibrary.org/b/id/11585567-L.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
+  source: FictionDB exact Harper Voyager print front
+  selected_url: https://www.fictiondb.com/coversth/978/006/th_9780062388902.jpg
+  visually_reviewed_on: '2026-10-28'
+  review_method: English title, author and print-edition front pixels inspected. Replaces exposed audiobook hero
+    and matching volume thumbnail; all other4unchanged.
 intake: ten-k walk v5 (queue ids MC04353, MC04356, MC04355)
 placement_history:
 - date: '2026-10-04'
@@ -49,6 +50,11 @@ placement_history:
   to: rebel-space-opera
   reason: 'Bounded repair: live five-volume QA exposed missing Emperor Fist cover_url. Added exact remote FictionDB
     English cover after pixel inspection, no legacy sweep, no hero change.'
+- date: '2026-10-28'
+  to: rebel-space-opera
+  reason: 'Bounded cover correction: parent pixel review identified UNABRIDGED/PERFORMED BY on Shadow hero and volume.
+    Replaced only these two occurrences with verified print front remote URL, no placement or other4cover changes.
+    Source https://www.fictiondb.com/book/shadow-of-empire~jay-allan~1266111.htm .'
 sources:
 - https://jayallanbooks.com/project/far-stars/
 - https://jayallanbooks.com/project/far-stars-legends/
