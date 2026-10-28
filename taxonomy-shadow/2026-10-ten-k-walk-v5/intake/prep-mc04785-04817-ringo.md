@@ -1,0 +1,8 @@
+# Prep: Ringo WALK rows MC04785-04817 (2026-10-28). All other Ringo rows in the tsv already carry prior-pass verdicts.
+
+- MC04785 Behind the Veil (2020 per tsv) = TRANSDIMENSIONAL HUNTER book 3 (Fantastic Fiction: "(TransDimensional Hunter, book 3)", Aug 2025 release - DATE DISCREPANCY vs tsv 2020; same series either way). Into the Real (MC04800) is already placed-warzone-earth -> Behind the Veil joins the SAME card; add book. Flag the date.
+- MC04788 Citadel (2010) = TROY RISING book 2 (Live Free or Die MC04803 + The Hot Gate MC04812 both already placed-fallen-earth) -> joins the SAME card; add book. Obvious.
+- MC04789 Citizens (2009/2010) -> skip-anthology (Baen: multi-author anthology ed. Ringo & Brian M. Thomsen - Heinlein, Clarke, Drake, Haldeman etc.).
+- MC04794 Ghost (2005) -> skip-nonspec (Paladin of Shadows #1; prior rows A Deeper Blue/Choosers of the Slain/Kildar already verdicted skip-nonspec for this ex-SEAL thriller series, "no speculative element per Wikipedia Ringo bibliography" - same reasoning).
+- MC04815 The Valley of Shadows (Ringo & Mike Massa, 2018) = BLACK TIDE RISING novel ("A New Novel in John Ringo's best-selling Black Tide Rising zombie apocalypse series", Baen) -> joins the SAME card as Islands of Rage and Hope (MC04801), River of Night (MC04808), Strands of Sorrow (MC04810), all placed-folded; add book. Obvious.
+- MC04816 There Will be Dragons (2003) + MC04817 There Will be Dragons, Second Edition (2013) = COUNCIL WARS book 1 (two edition rows, one fiction) -> joins the SAME card as Against the Tide (MC04784) and East of the Sun, West of the Moon (MC04791), both placed-folded "Council Wars, Lost knowledge keepers"; add book once. Obvious.
