@@ -16,13 +16,13 @@ placement_rationale: 'Root-down: Science fiction > Futurist SF > Alien fiction >
 books:
 - title: Hellspark
   year: 1988
-  cover_url: cover-hellspark.jpg
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781625795359-med.jpg
 cover_curation:
   status: complete
-  source: Amazon scan of the Meisha Merlin 1998 edition, spine cropped off the wraparound
-  selected_url: cover-hellspark.jpg
+  source: Baen CDN (trade paperback reprint front cover)
+  selected_url: https://www.baen.com/media/catalog/product/9/7/9781625795359-med.jpg
   visually_reviewed_on: '2026-10-28'
-  review_method: direct image read; rejected OL 730286 wraparound-with-spine scan, cropped local cover instead
+  review_method: direct image read; rejected OL 730286 wraparound-with-spine scan; Baen reprint front cover verified 2026-10-28
 intake: ten-k walk v5 (queue ids MC04315)
 placement_history:
 - date: '2026-10-28'
