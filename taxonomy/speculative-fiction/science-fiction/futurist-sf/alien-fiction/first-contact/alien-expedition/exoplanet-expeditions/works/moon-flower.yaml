@@ -1,0 +1,30 @@
+id: moon-flower
+title: Moon Flower
+authors:
+- James P. Hogan
+first_published: 2008
+canonical_genre: exoplanet-expeditions
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > First contact > Alien expedition > Exoplanet expeditions. Cyrene is a planet beyond the solar system being ''developed'' by the Interworld Restructuring Corporation; Terrans from the base are disappearing, facilitator Myles Callen is sent to investigate, and physicist Marc Shearer finds that the vanished Evan Wade has arranged contact via the Cyreneans, the indigenous sentient species (Simon & Schuster/Baen blurb). Harriet Klausner''s review: ''a fascinating encounter between humans and a sentient species that thinks radically different... the selfless Cyreneans.'' A survey/investigation crew lands on another world and meets the life that lives there, which is the leaf definition. Rejected: Planet expedition fiction (the planet''s hazards are not the problem; the encounter with the Cyreneans is the story - corrected from the first placement, which had wrongly recorded no alien intelligence), Xenological expeditions (the destination is the planet and its indigenous life, not the alien itself as a voyage target). Queue id MC04224.'
+books:
+- title: Moon Flower
+  year: 2008
+  authors:
+  - James P. Hogan
+  cover_url: https://covers.openlibrary.org/b/id/2787305-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/2787305-L.jpg
+  shows_english_title: true
+intake: ten-k walk v5 (queue id MC04224)
+placement_history:
+- date: '2026-10-28'
+  to: planet-expedition-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: planet-expedition-fiction
+  to: exoplanet-expeditions
+  reason: 'Fit re-test against both definitions (curator directive 2026-10-28): live sources (S&S/Baen blurb, Klausner review) confirm the indigenous sentient Cyreneans and that the contact is the story; Exoplanet expeditions definition matches exactly.'
+classification_sources:
+- https://www.baen.com/moon-flower.html
+- https://www.simonandschuster.com/books/Moon-Flower/James-P-Hogan/9781439134375
+- http://worldsofwonders.blogspot.com/2008/04/moon-flowers-james-p-hogan.html
