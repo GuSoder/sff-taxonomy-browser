@@ -5,17 +5,7 @@ authors:
 first_published: 1977
 canonical_genre: alien-cosmic-history
 placement_status: accepted
-placement_rationale: 'Root-down walk: Speculative fiction > Science fiction > Futurist > Alien fiction > Alien cosmic history.
-  A spacesuited human corpse millennia old found on the Moon starts a scientific reconstruction
-  of the lost history of Minerva, the destroyed fifth planet, and of the Ganymeans, the radically
-  nonhuman civilization that once lived there; later books follow humanity meeting the Ganymeans
-  and the fate of both species (Baen Giants series page, Wikipedia). The destination of the series
-  is the emergence and fate of a nonhuman civilization and humanity''s rewritten cosmic history,
-  which is the leaf definition. Rejected: alien-delving (the engine is deduction from remains, not
-  entering alien structures), hard-alien (new-space-opera register; this is classic hard-SF detection),
-  alien-expedition children (the Ganymede expedition is one episode), near-future-first-contact
-  (the contact serves the history, not a transformed Earth). Wobble: soft - the vehicle is a
-  scientific detective puzzle; member shape (The Xeelee Sequence, Children of Time) matches.'
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Alien fiction > Alien cosmic history. A spacesuited human corpse 50,000 years old found on the Moon starts a scientific reconstruction of the lost history of Minerva, the destroyed fifth planet, and of the Ganymeans, the radically nonhuman civilization that once lived there; the later books follow the emergence of the Entoverse (a pocket universe of nonhuman minds inside the Jevlenese computer JEVEX) and a cross-multiverse mission to save Minerva itself (Wikipedia Giants series, Baen). The series'' subject is the emergence and fate of nonhuman minds and civilizations and humanity''s rewritten cosmic history. Rejected: alien-delving (deduction from remains, not entering structures), hard-alien (new-space-opera register), alien-expedition children (the Ganymede expedition is one episode), near-future-first-contact (contact serves the history). Wobble: soft - the vehicle is a scientific detective puzzle; member shape matches. Series card, five novels per Baen and Wikipedia; The Two Moons (2006) and The Two Worlds (2007) are Baen omnibus reissues of the novels, not new books. Queue ids MC04223, MC04227, MC04228.'
 books:
 - title: Inherit the Stars
   year: 1977
@@ -42,16 +32,6 @@ books:
   authors:
   - James P. Hogan
   cover_url: https://covers.openlibrary.org/b/id/479563-L.jpg
-- title: The Two Moons
-  year: 2006
-  authors:
-  - James P. Hogan
-  cover_url: https://covers.openlibrary.org/b/id/759647-L.jpg
-- title: The Two Worlds
-  year: 2007
-  authors:
-  - James P. Hogan
-  cover_url: https://covers.openlibrary.org/b/id/760310-L.jpg
 cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/206906-L.jpg
   shows_english_title: true
@@ -62,4 +42,6 @@ placement_history:
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
 classification_sources:
 - https://www.baen.com/giants-star.html
+- https://www.baen.com/the-two-moons.html
+- https://www.baen.com/the-two-worlds.html
 - https://en.wikipedia.org/wiki/Giants_series
