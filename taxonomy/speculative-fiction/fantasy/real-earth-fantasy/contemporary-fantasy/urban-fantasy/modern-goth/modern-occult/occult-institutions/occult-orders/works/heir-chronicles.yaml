@@ -3,7 +3,7 @@ title: The Heir Chronicles
 authors:
 - Cinda Williams Chima
 first_published: 2006
-canonical_genre: occult-institutions
+canonical_genre: occult-orders
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-Earth fantasy
   > Contemporary fantasy > Urban fantasy > Modern goth > Modern occult > Occult
@@ -41,3 +41,11 @@ placement_history:
 - date: '2026-10-18'
   to: occult-institutions
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+
+- date: '2026-10-28'
+  from: occult-institutions
+  to: occult-orders
+  reason: 'Umbrella split of Occult institutions at ten fictions: Occult orders (initiatory
+    magical societies, covens and guilds) and Workplace occultism (the occult inside ordinary
+    jobs and workplaces). Curator "Approved" phonemsg-01M60GAF03AQKV8KYV2S3Z4YFX, 2026-10-28
+    6:39:26 AM, on his naming proposal phonemsg-01M60G9T66RS9927WJ8134P0DY.'

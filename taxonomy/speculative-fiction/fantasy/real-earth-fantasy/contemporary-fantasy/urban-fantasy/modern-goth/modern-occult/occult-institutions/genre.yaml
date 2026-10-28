@@ -1,23 +1,21 @@
 id: occult-institutions
 label: Occult institutions
 parent: modern-occult
-children: []
-works:
-- conjure-wife
-- ninth-house
-- supernatural-minnesota
-- the-magician-and-the-fool
-- echo-park-coven
-- the-atlas-series
-- heir-chronicles
-- the-macabre
-- the-initiate
-- the-knights-of-the-cornerstone
+children:
+- occult-orders
+- workplace-occultism
+works: []
 image: 435-occult-institutions.webp
-definition: 'Modern occult fantasy where working magic is embedded in institutions and professions: campuses,
-  secret societies, film production, medicine or religion. Supernatural Minnesota spans four linked novels
-  and not every one centers an institution; this is its nearest series-level home. Split from Modern Occult
-  under the curator''s harmonized names (phonemsg-01M3P9RM636KMZRM7J0PR29XGC, 2026-09-29). Magic that
-  runs through technology or media sits in Modern technomancy instead, so this leaf stayed at seven cards
-  and was not split (curator "Approved", phonemsg-01M5FA1RVJSCSVQDA77KWZ9QZ1, 2026-10-21 3:22 PM).'
-status: accepted
+definition: 'Pure umbrella for modern occult fantasy where working magic is embedded in institutions and professions, split by
+  the kind of institution: Occult orders (initiatory magical societies, covens and guilds) and Workplace occultism (the occult
+  inside ordinary jobs and workplaces).'
+status: umbrella
+history:
+- date: '2026-09-29'
+  change: Split from Modern Occult under the curator's harmonized names (phonemsg-01M3P9RM636KMZRM7J0PR29XGC).
+- date: '2026-10-21'
+  change: Magic that runs through technology or media moved to Modern technomancy instead, so this leaf stayed at seven cards
+    and was not split (curator "Approved", phonemsg-01M5FA1RVJSCSVQDA77KWZ9QZ1, 3:22 PM).
+- date: '2026-10-28'
+  change: Split with umbrella at ten fictions, curator "Approved" phonemsg-01M60GAF03AQKV8KYV2S3Z4YFX, 6:39:26 AM, on his
+    naming proposal phonemsg-01M60G9T66RS9927WJ8134P0DY; approved distribution 7/3 as Occult orders and Workplace occultism.
