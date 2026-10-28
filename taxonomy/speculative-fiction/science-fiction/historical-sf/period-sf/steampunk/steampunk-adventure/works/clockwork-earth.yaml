@@ -1,0 +1,55 @@
+id: clockwork-earth
+title: Clockwork Earth
+authors:
+- Jay Lake
+first_published: 2007
+canonical_genre: steampunk-adventure
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Historical SF > Period SF > Steampunk >
+  Steampunk adventure. Complete3novel shared Clockwork Earth (Mainspring2007, Escapement2008, Pinion2010), not first-volume-only
+  inference. SF vs Fantasy: real sorcery, angels and southern spirit-world coexist with literal planetary clockwork;
+  explicit Steampunk gate includes science fantasy, while SFE explicitly calls whole sequence unmistakably Steampunk.
+  Historical over Futurist/Modern/Atemporal: recognizable alternate early1900s Earth, undead Queen Victoria, British/Chinese
+  empires, steam-era airships/submarines. Period SF rather than Alternate history: enormous clockwork cosmos and
+  technological aesthetic, not one historical divergence. Steam/clockwork physics primary rather than Deco noir/Rocketpunk.
+  Adventure over history: Mainspring follows apprentice Hethor on divine Key Perilous/South Polar repair quest;
+  Escapement follows Paolina seeking learning and escape from exploitation, Childress negotiating secret societies
+  on Chinese submarine, al-Wazir assigned Wall tunnel expedition; Pinion continues all personal journeys, Boaz seeking
+  Paolina, Wang pursuing then collaborating with Childress and Kitchens on secret mission until convergence ends
+  war. Empires, colonialism and brewing war are substantial, not absent, but traversing/discovering strange Earth
+  and personal autonomy drive whole-fiction narrative (SFE, Tor, Kincaid, Kara), rather than alternate industrial/national
+  history as primary subject. Moderate adventure/history boundary because later2volumes expand geopolitics; not
+  an invariant simple quest across all3. No definition change or corrective rehome. First-publication years independently
+  SFE/FictionDB/Worldcat; queue2008 is paperback date. 2linked novellas excluded by normal form rule, not missing
+  novels. Leaf9->10 triggers immediate freeze, no later intake placement before split.'
+books:
+- title: Mainspring
+  year: 2007
+  cover_url: https://www.fictiondb.com/coversth/978/076/th_9780765356369.jpg
+- title: Escapement
+  year: 2008
+  cover_url: https://www.fictiondb.com/coversth/978/076/th_9780765356376.jpg
+- title: Pinion
+  year: 2010
+  cover_url: https://www.fictiondb.com/coversth/978/076/th_9780765331083.jpg
+classification_sources:
+- https://sf-encyclopedia.com/entry/lake_jay
+- https://www.fictiondb.com/series/clockwork-earth-jay-lake~19065.htm
+- https://search.worldcat.org/title/85243813
+- https://www.waterstones.com/book/mainspring/jay-lake/9780765356369
+- https://www.waterstones.com/book/escapement/jay-lake/9780765356376
+- https://torpublishinggroup.com/pinion/?format=trade&isbn=9780765331083
+- https://kara.reviews/escapement/
+- https://strangehorizons.com/wordpress/non-fiction/reviews/pinion-by-jay-lake/
+cover_curation:
+  status: complete
+  source: FictionDB exact observed front URLs
+  selected_url: https://www.fictiondb.com/coversth/978/076/th_9780765356369.jpg
+  visually_reviewed_on: '2026-10-28'
+  review_method: All3 English print fronts inspected actual pixels. Remote URLs only, no image bytes in repo.
+intake: ten-k walk v5 MC04363 and MC04364, complete missing middle novel Escapement
+placement_history:
+- date: '2026-10-28'
+  to: steampunk-adventure
+  reason: Standing intake commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB; ordinary tenth placement then freeze.
+    Not title-specific approval.
