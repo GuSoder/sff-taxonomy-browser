@@ -1,0 +1,27 @@
+id: migration
+title: Migration
+authors:
+- James P. Hogan
+first_published: 2010
+canonical_genre: voyage-societies
+placement_status: accepted
+placement_rationale: 'After a civilizational collapse, the nation-state of Sofi builds a generation starship that grows into
+  a flotilla of variously run city-states, frontier towns, religious monasteries, pleasure resorts and academic retreats;
+  the story''s engine is which kind of civilization to build and the old social patterns reasserting themselves aboard
+  (Baen blurb). Social order and conflict across a long voyage: Voyage societies. Not Starship mysteries: no concealed-truth
+  investigation governs the plot.'
+books:
+- title: Migration
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/isbn/1439133522-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/1439133522-L.jpg
+  visually_reviewed_on: '2026-10-28'
+  review_method: single-image visual check (Baen 2010 paperback)
+intake: ten-k walk v5 (queue ids MC04222)
+placement_history:
+- date: '2026-10-28'
+  to: voyage-societies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
