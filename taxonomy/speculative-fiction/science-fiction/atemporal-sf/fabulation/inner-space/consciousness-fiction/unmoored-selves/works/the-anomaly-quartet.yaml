@@ -12,6 +12,10 @@ classification_sources:
 - https://www.kirkusreviews.com/news-and-features/articles/book-smugglers-explorer-or-groundhog-day-deep-spac/
 - https://www.harperreach.com/products/the-explorer-the-anomaly-quartet-book-1-james-smythe-9780007456765/
 - https://harpervoyagerbooks.co.uk/products/the-ends-the-anomaly-quartet-book-4-james-smythe-9780007541898/
+- https://reactormag.com/book-review-the-echo-by-james-smythe/
+- https://geekdad.com/2021/03/the-edge-by-james-smythe/
+- https://www.curiositykilledthebookworm.net/2022/07/the-ends/
+- https://josbookblog.co.uk/2022/08/05/the-ends-by-james-smythe/
 cover_curation:
   status: complete
   source: Open Library ISBN covers (books 1-2) and Harper UK CDN (books 3-4)
@@ -32,3 +36,11 @@ books:
 - title: The Ends
   year: 2022
   cover_url: https://i.harperapps.com/hcuk/covers/9780007541898/x400.jpg
+
+per_volume_checks: |-
+  Per-volume evidence for the whole-series engine (parent request 2026-10-28):
+  The Explorer: Cormac passes through the anomaly and relives the doomed voyage while his other self is still aboard - "an introspective time travel novel... Moon meets Groundhog Day", "the various incarnations of Cormac Easton alternate" (reactormag.com/book-review-james-smythe-the-explorer/).
+  The Echo: the lost Ishiguro's crew survive inside the anomaly in "a truly gruesome loop that results, no matter what the poor few do, in death... the seemingly immortal cycle of life inside the anomaly"; twin brothers Tomas/Mira are "sides of the same coin" who diverge (reactormag.com/book-review-the-echo-by-james-smythe/).
+  The Edge: "Smythe's books are largely about identity... Hyvönen is using a memory machine to attempt to keep himself himself"; Alannah suffers "rogue thoughts and fugue states" and the book examines "the reliability of memory and how our recollections define us" (geekdad.com/2021/03/the-edge-by-james-smythe/).
+  The Ends: the anomaly envelops Earth; inside it no one can die and people are "reset... unaware that this has already happened. Death is no longer permanent" (curiositykilledthebookworm.net/2022/07/the-ends/; josbookblog.co.uk/2022/08/05/the-ends-by-james-smythe/).
+  All four: identity and memory come loose from time - Unmoored selves. No mismatch found.
