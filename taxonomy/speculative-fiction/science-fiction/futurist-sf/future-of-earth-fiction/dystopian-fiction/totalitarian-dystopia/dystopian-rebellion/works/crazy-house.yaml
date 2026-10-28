@@ -1,0 +1,33 @@
+id: crazy-house
+title: Crazy House
+authors:
+- James Patterson
+- Gabrielle Charbonnet
+first_published: 2017
+canonical_genre: dystopian-rebellion
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Future of Earth fiction > Dystopian fiction > Totalitarian dystopia > Dystopian rebellion. SLJ (Gr 8 Up): ''first installment in a new dystopian thriller series'' - twin sisters Cassie and Becca in a highly regulated farming ''cell'' under the authoritarian ruling body The United; Becca is taken to a violent prison (the Crazy House) and Cassie sets out to rescue her; book two is The Fall of Crazy House. The regime already holds power and the sisters'' fight against it carries the story, which is the leaf definition. Rejected: orwellianesque (last-resort leaf; rebellion is the specific pattern), orwellian-propaganda (no media-control engine). YA dystopia, eligible. Series card, two books per jamespatterson.com. Queue id MC04235.'
+books:
+- title: Crazy House
+  year: 2017
+  authors:
+  - James Patterson
+  - Gabrielle Charbonnet
+  cover_url: https://covers.openlibrary.org/b/id/8435584-L.jpg
+- title: The Fall of Crazy House
+  year: 2019
+  authors:
+  - James Patterson
+  - Gabrielle Charbonnet
+  cover_url: https://covers.openlibrary.org/b/id/13261747-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/8435584-L.jpg
+  shows_english_title: true
+intake: ten-k walk v5 (queue id MC04235)
+placement_history:
+- date: '2026-10-28'
+  to: dystopian-rebellion
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+classification_sources:
+- https://www.slj.com/review/crazy-house
+- https://www.jamespatterson.com/
