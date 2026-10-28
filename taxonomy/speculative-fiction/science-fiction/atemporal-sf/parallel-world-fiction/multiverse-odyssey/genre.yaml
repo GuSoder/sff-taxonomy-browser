@@ -1,24 +1,22 @@
 id: multiverse-odyssey
-name: Multiverse Odyssey
 label: Multiverse odyssey
 parent: parallel-world-fiction
-children: []
-works:
-- the-adjacent
-- the-affirmation
-- the-space-between-worlds
-- the-need
-- the-possibilities
-- mr-breakfast
-- bridge
-- in-universes
-- the-singular-life-of-aria-patel
-- the-beautiful-land
-- the-quantum-empirica
-- dantes-equation
+children:
+- multiverse-longing
+- multiverse-selves
 image: 387-multiverse-odyssey.webp
 portrait: 387-multiverse-odyssey.webp
-definition: 'Parallel-world fiction in which love, grief, family or the self drives the crossing: intimate journeys across the multiverse for the sake of one person.
-  Split 2026-09-28 from Parallel World fiction by what the crossing serves (the curator ruling: split greenlit "Do it" 2026-09-28 11:57 CEST, names locked in the
-  phonemsg-01M3KQ53CJENKAF3B1533ZFAX7 exchange).'
-status: leaf
+definition: 'Parallel-world fiction where the crossing serves love, grief, family or the self: intimate journeys across the
+  multiverse. Umbrella since 2026-10-28: split-with-umbrella into Multiverse longing and Multiverse selves by what the
+  crossing serves - one person vs the self. Definition widened 2026-10-28 from ''drives the crossing'' to ''the crossing
+  serves'' (involuntary crossings count; what sorts a book is what the journey serves).'
+status: accepted
+works: []
+ruling: 'Split of Multiverse odyssey, approved by the curator ("Approved", phonemsg-01M61FRGN8WAGVWT1PBXB4CC1H, 2026-10-28
+  3:48 PM CET) after his clarification that the branch stays Science fiction > Atemporal SF > Parallel world fiction;
+  the threshold miss (leaf passed 10 unflagged on 2026-10-17) was disclosed in the serve. Originally split from
+  Parallel World fiction 2026-09-28 ("Do it", phonemsg-01M3KQ53CJENKAF3B1533ZFAX7).'
+history:
+- date: '2026-10-28'
+  change: 'Split into Multiverse longing and Multiverse selves; definition widened to serving-wording; curator "Approved"
+    (phonemsg-01M61FRGN8WAGVWT1PBXB4CC1H).'
