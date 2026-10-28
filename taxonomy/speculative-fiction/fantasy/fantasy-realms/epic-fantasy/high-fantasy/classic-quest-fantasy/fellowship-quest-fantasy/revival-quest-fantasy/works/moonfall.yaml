@@ -1,0 +1,42 @@
+id: moonfall
+title: Moonfall
+authors:
+- James Rollins
+first_published: 2022
+canonical_genre: revival-quest-fantasy
+placement_status: accepted
+placement_rationale: |-
+  Rollins's Moonfall saga (Tor): a gifted student foretells an apocalyptic doom and flees into an
+  alliance of outcasts - a broken soldier, a drunken prince, an imprisoned thief - whose journey into
+  the unknown to uncover the secrets that can save their world is the spine (jamesrollins.com and
+  torpublishinggroup.com series pages). Root-down: Fantasy (secondary world, prophecy and outcast-band
+  quest grammar; publisher genre Fantasy) > Fantasy realms > Epic fantasy > High fantasy (the
+  governing narrative is the companions' journey, not war campaigns) > Classic quest fantasy (template
+  played straight) > Fellowship quest fantasy (the alliance travels as a bound party; not Destiny
+  quest fantasy: no single marked one's rise is the spine, though the student is prophetic) > Revival
+  quest fantasy (2022, 'from the late 1990s on'). Wobble: mild; SFnal furniture surfaces late (a
+  tidally locked planet, world-spin engines buried in the core, a falling moon - book 4 blurb), but
+  the governing grammar is the fantasy quest, not a science engine. Card holds the three released
+  novels; A Fist of Molten Fire (Moonfall 4, finale) releases 2026-12-01 (jamesrollins.com,
+  torpublishinggroup.com) and is excluded as unreleased.
+books:
+- title: The Starless Crown
+  year: 2022
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250816771.jpg?w=800
+- title: The Cradle of Ice
+  year: 2023
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250766748.jpg?w=800
+- title: A Dragon of Black Glass
+  year: 2025
+  cover_url: https://mpd-biblio-covers.imgix.net/9781250768179.jpg?w=800
+cover_curation:
+  status: complete
+  source: Macmillan publisher CDN (mpd-biblio-covers.imgix.net), US hardcovers
+  selected_url: https://mpd-biblio-covers.imgix.net/9781250816771.jpg?w=800
+  visually_reviewed_on: '2026-10-28'
+  review_method: individual inspection; OL had only the audio-CD edition (13268373, rejected)
+intake: ten-k walk v5 (queue ids MC04254, MC04255, MC04256; MC04257 A Fist of Molten Fire unreleased, noted)
+placement_history:
+- date: '2026-10-28'
+  to: revival-quest-fantasy
+  reason: Intake from the 10k list; leaf reaches ten cards, split proposal follows.
