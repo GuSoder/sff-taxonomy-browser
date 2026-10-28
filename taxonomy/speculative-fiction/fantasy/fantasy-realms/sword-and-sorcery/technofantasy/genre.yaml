@@ -3,7 +3,6 @@ label: Technofantasy
 parent: sword-and-sorcery
 children: []
 works:
-- bluecrowne
 - the-books-of-babel
 - road-to-ruin
 - the-star-thief
@@ -13,3 +12,8 @@ definition: 'Adventure-forward fantasy in which technology is central to the wor
   airships and impossible engineering. Actual magic is not required. Where the magic is necromancy run as engineering, the
   book belongs in Technomancy.'
 status: accepted
+history:
+- date: '2026-10-28'
+  change: 'Owner Approved phonemsg-01M620WZA46N1CQFT4FE1KZC23: existing Bluecrowne moved from Technofantasy to Industrial
+    fantasy chronicles; destination definition allows connected stories across generations without one lifetime or industrialization
+    as the main subject. No extra books or rename; Long unchanged.'

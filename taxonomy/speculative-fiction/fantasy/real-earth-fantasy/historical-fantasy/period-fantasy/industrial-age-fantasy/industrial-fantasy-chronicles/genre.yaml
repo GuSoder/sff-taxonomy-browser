@@ -3,14 +3,16 @@ label: Industrial fantasy chronicles
 parent: industrial-age-fantasy
 children: []
 image: 700-industrial-fantasy-chronicles.webp
-definition: 'Fantasy chronicles that follow people, families or places across decades straddling the 1900 line, where the
-  long industrial age (railways, telegraphs, companies, wars) arrives inside one lifetime-spanning story and the fantastic
-  runs through the whole span. Magic-agnostic: the span and the era crossing define the leaf, not a required supernatural
-  mode. Not Ember age fantasy (whole story ends before 1900), not Electrified fantasy (whole story from 1900 on), and not
-  the single-era Electrified leaves, which take books set within one era.'
+definition: 'Fantasy chronicles that follow people, families, places or a connected shared-world community across substantial
+  stories before and after 1900, beginning in the industrial age from 1800 onward and sometimes reaching the author''s present.
+  The chronicle may be one long narrative or connected novels across generations; it need not fit one lifetime or make industrialization
+  its main subject. Magic-agnostic: the span and era crossing define the leaf. Not Ember age fantasy (the whole fiction ends
+  before 1900), not Electric fantasy chronicles (the substantial span is after 1900), and not Long chronicle fantasy (the
+  substantial span begins before the industrial age).'
 status: accepted
 works:
 - one-hundred-years-of-solitude
+- bluecrowne
 history:
 - date: '2026-10-14'
   change: 'Seeded for One Hundred Years of Solitude; curator "Approved" (phonemsg-01M4WQAXE3XNPCYJDEGKGH04CQ, 2026-10-14 10:09
@@ -19,4 +21,8 @@ history:
 - date: '2026-10-14'
   change: 'Portrait generated (two variants judged by the delegated standing rule; winner: three generations on a veranda
     watching a steam locomotive arrive in a tropical town at dusk).'
+- date: '2026-10-28'
+  change: 'Owner Approved phonemsg-01M620WZA46N1CQFT4FE1KZC23: existing Bluecrowne moved from Technofantasy to Industrial
+    fantasy chronicles; destination definition allows connected stories across generations without one lifetime or industrialization
+    as the main subject. No extra books or rename; Long unchanged.'
 portrait: 700-industrial-fantasy-chronicles.webp
