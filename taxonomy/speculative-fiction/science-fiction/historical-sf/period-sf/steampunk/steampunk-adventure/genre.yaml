@@ -3,16 +3,13 @@ label: Steampunk adventure
 parent: steampunk
 children: []
 works:
+- newbury-and-hobbes
+- the-baskerville-affair
+- clockwork-earth
 - the-space-machine
+- the-iron-assassin
 - gideon-smith
 - karen-memory
-- the-clockwork-dagger
-- the-baskerville-affair
-- the-cinder-spires
-- newbury-and-hobbes
-- tales-of-the-ketty-jay
-- the-iron-assassin
-- clockwork-earth
 image: 566-steampunk-adventure.webp
 definition: Steampunk in which a character journey, mystery or mission drives the story inside a steam-powered world,
   whether alternate Earth or wholly invented. Not Steampunk history, where the transformation of historical events,
@@ -21,3 +18,8 @@ status: accepted
 ruling: Curator Execute (phonemsg-01M4AP0TGCEPRNZD2F0JM46PZE) on October 7 2026 at 10:00 after choosing Steampunk
   history and Steampunk adventure. Approved 5/5 mapping; Angel Maker source-confirmed Karen Memory sequel folded
   under rule 11j, leaving 5/4.
+history:
+- date: '2026-10-28'
+  change: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+    2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+    intake.'

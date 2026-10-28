@@ -1,0 +1,16 @@
+id: magitech
+label: Magitech
+parent: technofantasy
+children: []
+image: 845-magitech.webp
+definition: Adventure-forward fantasy in independent fantasy worlds where magic powers or operates the machinery
+  and engineered infrastructure central to the worldbuilding or story, without steam defining that technological
+  world. Necromancy-as-engineering stays in existing Technomancy.
+status: accepted
+works:
+- road-to-ruin
+history:
+- date: '2026-10-28'
+  change: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+    2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+    intake.'

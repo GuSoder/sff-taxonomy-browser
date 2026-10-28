@@ -1,0 +1,17 @@
+id: steampunk-realms
+label: Steampunk realms
+parent: technofantasy
+children: []
+image: 844-steampunk-realms.webp
+definition: Adventure-forward fantasy in independent fantasy worlds where steam-powered technology is central to
+  the worldbuilding or story. Magic may coexist; steam plus magic remains here rather than Magitech.
+status: accepted
+works:
+- the-books-of-babel
+- the-clockwork-dagger
+- the-cinder-spires
+history:
+- date: '2026-10-28'
+  change: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+    2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+    intake.'

@@ -1,0 +1,51 @@
+id: the-clockwork-dagger
+title: The Clockwork Dagger
+authors:
+- Beth Cato
+first_published: 2014
+canonical_genre: steampunk-realms
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Sword and sorcery -> Technofantasy
+  -> Steampunk realms. Octavia''s airship assassination/crown conspiracy continues into the Waste and Lady''s Tree
+  quest with Alonzo. The invented-world duology combines divine healing magic with steam infrastructure. Steam plus
+  magic routes here rather than Magitech. Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+  2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+  intake.'
+books:
+- title: The Clockwork Dagger
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/11605415-L.jpg
+- title: The Clockwork Crown
+  year: 2014
+  cover_url: http://www.harpercollins.com/cdn/shop/files/9780062313980_1200x1200.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11605415-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01042, MC01041)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: steampunk
+  to: steampunk-adventure
+  reason: 'Curator Execute (phonemsg-01M4AP0TGCEPRNZD2F0JM46PZE) on October 7 2026 at 10:00 after choosing Steampunk
+    history and Steampunk adventure. Approved 5/5 mapping; Angel Maker source-confirmed Karen Memory sequel folded
+    under rule 11j, leaving 5/4. Root-down walk: Speculative fiction > Science fiction (Steampunk gate includes
+    science fantasy and invented worlds) > Historical > Period SF > Steampunk > Steampunk adventure. Steampunk in
+    which a character journey, mystery or mission drives the story inside a steam-powered world, whether alternate
+    Earth or wholly invented. Not Steampunk history, where the transformation of historical events, nations and
+    industrial power is the central subject.'
+- date: '2026-10-28'
+  from: steampunk-adventure
+  to: steampunk-realms
+  reason: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+    2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+    intake.'
+classification_sources:
+- https://www.bethcato.com/the-clockwork-dagger/
+- https://www.bethcato.com/the-clockwork-dagger/the-clockwork-crown/
+- https://www-users.york.ac.uk/~ss44/books/pages/c/BethCato.htm

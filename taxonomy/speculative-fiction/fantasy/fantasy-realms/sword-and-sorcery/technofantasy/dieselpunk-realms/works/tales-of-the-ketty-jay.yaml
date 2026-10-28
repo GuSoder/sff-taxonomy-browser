@@ -1,0 +1,46 @@
+id: tales-of-the-ketty-jay
+title: Tales of the Ketty Jay
+authors:
+- Chris Wooding
+first_published: 2009
+canonical_genre: dieselpunk-realms
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Sword and sorcery -> Technofantasy
+  -> Dieselpunk realms. The four novels follow a framed freighter heist, lost-aircraft salvage, cursed relic/desert
+  secrets and civil war in the same Vardia world. Wooding expressly calls the whole series dieselpunk; aircraft
+  use aerium lift and prothane propulsion, not steam. The daemonist and golem establish fantasy but do not make
+  the aircraft engines mana-powered. Thus Dieselpunk realms rather than Steampunk realms, Magitech, sea Pirate fantasy
+  or an Earth-rooted SF setting. Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+  2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+  intake.'
+books:
+- title: Retribution Falls
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/8472359-L.jpg
+- title: The Black Lung Captain
+  year: 2011
+- title: The Iron Jackal
+  year: 2012
+- title: The Ace of Skulls
+  year: 2014
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8472359-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01757, MC01759, MC01763, MC01758)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: steampunk-adventure
+  to: dieselpunk-realms
+  reason: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+    2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+    intake.'
+classification_sources:
+- https://www.hachette.com.au/chris-wooding/tales-of-the-ketty-jay-retribution-falls-the-black-lung-captain-the-iron-jackal-the-ace-of-skulls
+- https://www.reddit.com/r/Fantasy/comments/3vwmrd/im_fantasy_sf_author_chris_wooding_ask_me_anything/
+- https://vector-bsfa.com/2010/04/01/retribution-falls/

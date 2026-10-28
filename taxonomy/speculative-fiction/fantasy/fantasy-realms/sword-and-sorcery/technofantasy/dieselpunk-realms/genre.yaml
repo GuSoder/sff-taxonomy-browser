@@ -1,0 +1,16 @@
+id: dieselpunk-realms
+label: Dieselpunk realms
+parent: technofantasy
+children: []
+image: 846-dieselpunk-realms.webp
+definition: Adventure-forward fantasy in independent fantasy worlds where combustion-engine machinery and dieselpunk
+  technology are central to the worldbuilding or story. Coexisting sorcery alone does not make the technology Magitech;
+  steam-led worlds go to Steampunk realms.
+status: accepted
+works:
+- tales-of-the-ketty-jay
+history:
+- date: '2026-10-28'
+  change: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+    2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+    intake.'

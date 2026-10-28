@@ -1,0 +1,40 @@
+id: road-to-ruin
+title: Road to Ruin
+authors:
+- Hana Lee
+first_published: 2024
+canonical_genre: magitech
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Sword and sorcery -> Technofantasy
+  -> Magitech. The author explicitly describes magebike engines powered by mana and innate Talent, not gasoline.
+  The sequel continues the same magical infrastructure through Talentless Jin, refugees, mana scarcity and the First
+  City search. Curator title-specific ruling phonemsg-01M627ZSSE62HK48AMEG5GRRKA permits assuming a fantasy realm
+  for this classification. Road Builder/colony provenance remains unverified, not newly established cosmology or
+  a blanket root exemption. No steam-led technological world is evidenced. Existing title and book list retained;
+  no Flight of the Fallen addition or relabel. Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+  2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+  intake.'
+classification_sources:
+- https://www.simonandschuster.com/books/Road-to-Ruin/Hana-Lee/9781668039564
+- https://paulsemel.com/exclusive-interview-road-to-ruin-author-hana-lee/
+- https://www.mysterycenter.com/2024/04/30/genre-blending-sff-a-reading-list-for-lovers-of-the-difficult-to-categorize/
+- https://www.simonandschuster.net/books/Flight-of-the-Fallen/Hana-Lee/Magebike-Courier/9781668035719
+- https://www.redheadedfemme.com/2025/10/review-flight-of-fallen.html
+intake: 'gap-2022 #283 (LocusRec2023 sweep)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/14627263-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-28'
+  review_method: batch montage one-pass
+placement_history:
+- date: '2026-09-28'
+  to: technofantasy
+  reason: 'Intake placement (gap-2022 batch n=276-290), autonomous per standing instruction: existing-leaf fit.'
+- date: '2026-10-28'
+  from: technofantasy
+  to: magitech
+  reason: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
+    2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
+    intake.'
