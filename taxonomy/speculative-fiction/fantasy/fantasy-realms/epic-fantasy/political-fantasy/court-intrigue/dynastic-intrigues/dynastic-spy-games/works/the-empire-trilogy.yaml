@@ -1,0 +1,29 @@
+id: the-empire-trilogy
+title: The Empire Trilogy
+authors:
+- Raymond E. Feist
+- Janny Wurts
+first_published: 1987
+canonical_genre: dynastic-spy-games
+placement_status: accepted
+placement_rationale: |-
+  Root-down: Fantasy > Dynastic intrigues > Dynastic spy games. On Kelewan, Mara of the Acoma survives the Game of the Council by out-scheming rival houses: Wikipedia calls the trilogy "political fantasy novels" in which Mara "must plot, bend tradition, avoid assassination attempts, and trade her heart for power in order to save the Acoma" and face "the spies of rival houses" (en.wikipedia.org/wiki/Empire_Trilogy); Publishers Weekly calls Daughter "a full-bodied dynastic fantasy"; Tor.com's reread notes it "prioritizes the domestic and political machinations over quests and forests". Secrets and schemes decide who holds power - the leaf's gate. Rejected: Dynastic wars (no field war decides; the Warlord is toppled politically), Dynastic assassins (the assassins' brotherhood threatens Mara, they are not her instrument), Dynastic favor (rival houses, not the ruler's regard, are the arena), Dynastic magic (the Assembly's magicians are antagonists, not the dynasty's weapon). Wobble mild (assassin/battle furniture present) RESOLVED by the decisive-weapon test: plotting and intelligence win every volume's endgame.
+classification_sources:
+- https://en.wikipedia.org/wiki/Empire_Trilogy
+cover_curation:
+  status: complete
+  source: Wikimedia first-edition scan (Daughter), Open Library covers (Servant HarperVoyager 2010, Mistress Doubleday 1992); rejected a library-sticker scan, an interior title page and an interior bio page
+  selected_url: https://upload.wikimedia.org/wikipedia/en/3/30/Daughter_of_the_Empire_%281987%29_-_Feist_%26_Wurts.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-28'
+  review_method: one-pass visual review of all three covers
+books:
+- title: Daughter of the Empire
+  year: 1987
+  cover_url: https://upload.wikimedia.org/wikipedia/en/3/30/Daughter_of_the_Empire_%281987%29_-_Feist_%26_Wurts.jpg
+- title: Servant of the Empire
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/7792251-L.jpg
+- title: Mistress of the Empire
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/12145800-L.jpg
