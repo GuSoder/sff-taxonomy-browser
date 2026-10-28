@@ -15,3 +15,26 @@
 - Realm Breaker (3): active from book 1 - Spindles already opening, monsters loose, "darkness tearing Allward apart"; mechanism invariant = Corayne, last of the bloodline, is the ONLY one who can wield a Spindleblade and close the portals (victoriaaveyard.com/series/realm-breaker, mostrecommendedbooks series page). Escalates to undead armies + unleashing the god What Waits by book 3.
 - The Sorcerer's Song (3): prophecy arrival in book 1; by book 3 "Belkar's prison has broken, armies are moving, Lamoria is running out of time"; mechanism = recover the lost magic of the Bards (mostrecommendedbooks series page). Again escalation, no stable clock.
 - Observation for axis design: a recurring INVARIANT pattern across Realm Breaker, Sorcerer's Song, Moonfall, Thorn and Bone, Symphony: the company needs ONE specific key/power/bloodline to end the threat (Spindleblade bloodline, lost Bard magic, the lost key + engines, the Born Queen's throne power, Rhapsody's naming/Child of Time). Counter-candidates: does any card's quest END the dark WITHOUT a unique key (pure confrontation)? Tides of Fate (stop the apprentice's vengeance - dagger god-wrought = object again?), Lindormyn, Fallen Star (the star itself is the thing), Infernal City (Umbriel - ?), Book of Forbidden Wisdom (the Book is the object). If nearly all are key-quests, that axis degenerates (no split) - check Infernal City + Tides of Fate + Lindormyn next; they are the swing cards.
+
+## Final whole-fiction verifications (11:21)
+- Infernal City (UESP full plot + Wikipedia): Umbriel destroys as it travels; company splits inside/outside the city; mechanism = STOP the city (sabotage/survival), no instrument to claim; the Ingenium is the ENEMY's engine. Cliffhanger into Lord of Souls (not in queue).
+- Tides of Fate (PRH + Penguin AU full copy): the demon broke free long ago and retreated; the VILLAIN Cade seeks the god-wrought dagger; the heroes (fledgling wizard, tormented mercenary, the daughter) rally to STOP Cade's vendetta. The key-object belongs to the villain's quest, not the heroes'.
+- Annals of Lindormyn (Pan Macmillan + FantasyBookCritic): a ramshackle company journeys to Melhus to make sure the demigod Drauglir is "properly despatched this time" - a march to confront, no instrument quest.
+- Quest for the Fallen Star (Kirkus + Google Books full copy): the band must carry the Thunderwood Staff to Norivika and ignite the Sphere of Ohnn, "which alone can destroy the aforementioned Star" - deliver-and-use the one instrument.
+- Moonfall released books 1-3 only (parent 11:20:52: book-4 copy excluded): book 3 press kit "journey through treacherous landscapes in search of an ancient weapon to save their world" - search-for-the-means holds across the released volumes.
+
+## RESULTING AXIS (invariant, reader-facing): the shape of the quest
+CELL A - the company journeys FOR the one instrument (find/recover/deliver/claim the means of victory):
+1. Quest for the Fallen Star - deliver the Staff, ignite the Sphere, the only destroyer of the Star
+2. The Sorcerer's Song - recover the lost magic of the Bards
+3. Moonfall - search for the ancient weapon/secrets (books 1-3)
+4. The Book of Forbidden Wisdom - journey to find the Book at the end of the world
+5. The Kingdoms of Thorn and Bone - FLAGGED: the ancestor's journal + claiming the throne's power, but multi-strand war narrative
+6. Realm Breaker - FLAGGED other direction: Corayne IS the instrument (bloodline + blade in hand books 1-2, recovered book 3)
+CELL B - the company marches against the dark itself (confront/destroy/stop the enemy, no instrument to claim):
+7. The Annals of Lindormyn - march to Melhus to despatch Drauglir
+8. The Symphony of Ages - find and destroy the F'dor, then the war against his emperor (holds across all 9 books)
+9. The Tides of Fate - stop Cade's vendetta (the dagger is the villain's quest)
+10. The Elder Scrolls: The Infernal City - stop/escape Umbriel, no instrument to claim
+Distribution 6/4, two flagged borderline cells shown upfront.
+NAME (one suggestion each, his to coin): A: "Grail quest fantasy". B: "Dark march quest fantasy". Collision check: grail/march absent from all 785 labels/ids.
