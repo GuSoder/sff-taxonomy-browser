@@ -5,9 +5,9 @@ authors:
 first_published: 2015
 canonical_genre: rebel-space-opera
 placement_status: accepted
-placement_rationale: 'Jay Allan''s Far Stars: the crew of the Wolf''s Claw is drawn into a marshal''s campaign to unite the fractured Far Stars worlds into one bloc
-  against imperial encroachment (author site). Resistance to an empire''s reach, and the fight for the Far Stars'' independence, is the spine: Revolutionary space
-  opera.'
+placement_rationale: 'Jay Allan''s Far Stars: the crew of the Wolf''s Claw is drawn into a marshal''s campaign to
+  unite the fractured Far Stars worlds into one bloc against imperial encroachment (author site). Resistance to
+  an empire''s reach, and the fight for the Far Stars'' independence, is the spine: Revolutionary space opera.'
 books:
 - title: Enemy in the Dark
   year: 2015
@@ -20,6 +20,9 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/12660188-L.jpg
 - title: The Emperor's Fist
   year: 2019
+- title: Blackhawk
+  year: 2016
+  cover_url: https://www.fictiondb.com/coversth/978/138/th_9781386686576.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -34,5 +37,16 @@ placement_history:
 - date: '2026-10-11'
   from: revolutionary-space-opera
   to: rebel-space-opera
-  reason: 'Revolutionary space opera split into Rebel space opera and Insurgent space opera on the curator''s approval; re-walked root-down: this card sits in Rebel
-    space opera (the revolt comes from outside the empire).'
+  reason: 'Revolutionary space opera split into Rebel space opera and Insurgent space opera on the curator''s approval;
+    re-walked root-down: this card sits in Rebel space opera (the revolt comes from outside the empire).'
+- date: '2026-10-28'
+  to: rebel-space-opera
+  reason: 'Chronological reconciliation MC04353/55/56: retain existing card and leaf, add eligible2016 prequel novel
+    Blackhawk under standing complete-series rule. Author confirms same protagonist/world origin story; FictionDB330pages.
+    No title-specific user approval implied. Hero unchanged.'
+sources:
+- https://jayallanbooks.com/project/far-stars/
+- https://jayallanbooks.com/project/far-stars-legends/
+- https://www.fictiondb.com/book/blackhawk~jay-allan~1677618.htm
+- https://mylifemybooksmyescape.wordpress.com/2019/10/30/author-interview-jay-allen-2/
+- https://www.scifipulse.net/in-review-the-emperors-fist/
