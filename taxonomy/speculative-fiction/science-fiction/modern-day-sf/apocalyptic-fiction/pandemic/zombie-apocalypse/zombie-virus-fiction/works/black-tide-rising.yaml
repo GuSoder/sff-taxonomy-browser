@@ -23,6 +23,11 @@ books:
   year: 2020
 - title: At the End of the Journey
   year: 2021
+- title: Mountain of Fire
+  authors:
+  - Jason Cordova
+  year: 2024
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982193614-med_1.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
