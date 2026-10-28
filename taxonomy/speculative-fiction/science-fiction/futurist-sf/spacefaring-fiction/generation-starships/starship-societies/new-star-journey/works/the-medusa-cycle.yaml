@@ -3,7 +3,7 @@ title: The Medusa Cycle
 authors:
 - Emily Devenport
 first_published: 2018
-canonical_genre: starship-societies
+canonical_genre: new-star-journey
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Generation starships
   > Starship societies. One series (The Medusa Cycle per Publishers Weekly and Tor), one fiction. Per Kirkus and Publishers
@@ -31,3 +31,7 @@ placement_history:
 - date: '2026-10-04'
   to: voyage-societies
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: starship-societies
+  to: new-star-journey
+  reason: 'Mission split of Starship societies (Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1, 2026-10-28 10:32, approving the three-way mission split of Starship societies): one new home (single destination world).'

@@ -1,27 +1,20 @@
 id: starship-societies
 label: Starship societies
 parent: generation-starships
-children: []
-works:
-- rite-of-passage
-- escaping-exodus
-- jacobs-ladder
-- calypso
-- the-ark
-- slow-train-to-arcturus
-- the-medusa-cycle
-- aurora
-- thirsty-ground
-- migration
+children:
+- new-star-journey
+- star-seeding
+- vagabond-starship
+works: []
 image: 571-voyage-societies.webp
-definition: 'Generation-starship fiction centered on the social order and conflicts of communities living across a long voyage:
-  caste, succession, upbringing, belief, political control and the kind of civilization to build or preserve. Includes biological
-  vessels and divided habitat societies. Not Starship mysteries, where solving the ship''s concealed truth drives the plot;
-  secrets may appear here without making investigation the governing engine.'
-status: accepted
+definition: 'Generation-starship fiction centered on the social order and conflicts of communities living across a long voyage: caste, succession, upbringing, belief, political control and the kind of civilization to build or preserve. Includes biological vessels and divided habitat societies. Split by the ship''s mission: New star journey (one destination world), Star seeding (settlements delivered to many stars) and Vagabond starship (the ship itself as permanent home). Not Starship mysteries, where solving the ship''s concealed truth drives the plot.'
+status: umbrella
 ruling: Curator "Execute" phonemsg-01M4ARYY80J2CA9X9WBW65TVY9, 2026-10-07 10:51:26, following Starship mysteries naming proposal
   and the 4/6 distribution.
 history:
 - date: '2026-10-28'
   change: Renamed from Voyage societies to Starship societies (curator "Ok, rename to starship societies",
     phonemsg-01M60K8PWQNM62AA1PK6C49R78, 7:30 AM), removing the collision with Fantastic voyage under Proto SF.
+- date: '2026-10-28'
+  change: >-
+    Split at ten works into New star journey (6), Star seeding (1), Vagabond starship (3) by the ship''s mission; Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1, 2026-10-28 10:32, approving the three-way mission split of Starship societies. Leaf became umbrella and shed all works. Missions change across some series; the mission at story time governs membership, with chronology kept in leaf definitions.

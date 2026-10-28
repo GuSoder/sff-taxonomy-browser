@@ -3,7 +3,7 @@ title: Aurora
 authors:
 - Kim Stanley Robinson
 first_published: 2015
-canonical_genre: starship-societies
+canonical_genre: new-star-journey
 placement_status: accepted
 placement_rationale: 'Kim Stanley Robinson''s Aurora (2015; Wikipedia, Guardian): a generation ship of twenty-four biomes
   and some two thousand people, launched from Earth in 2545 for Tau Ceti and narrated largely by the ship''s artificial intelligence,
@@ -24,3 +24,7 @@ placement_history:
 - date: '2026-10-04'
   to: voyage-societies
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: starship-societies
+  to: new-star-journey
+  reason: 'Mission split of Starship societies (Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1, 2026-10-28 10:32, approving the three-way mission split of Starship societies): one new home (single destination world).'

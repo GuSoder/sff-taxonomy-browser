@@ -3,7 +3,7 @@ title: Thirsty Ground
 authors:
 - Kimber St. Lawrence
 first_published: 2025
-canonical_genre: starship-societies
+canonical_genre: vagabond-starship
 placement_status: accepted
 placement_rationale: 'Kimber St. Lawrence''s Thirsty Ground (2025; Hachette): thirteen decades after the ark Tsimmaon left
   the Arid Planet in search of water carrying one percent of humanity, young recruits compete for a place in the elite Hydroseeker
@@ -24,3 +24,7 @@ placement_history:
 - date: '2026-10-04'
   to: voyage-societies
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: starship-societies
+  to: vagabond-starship
+  reason: 'Mission split of Starship societies (Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1, 2026-10-28 10:32, approving the three-way mission split of Starship societies): the ship itself as home (no final destination).'

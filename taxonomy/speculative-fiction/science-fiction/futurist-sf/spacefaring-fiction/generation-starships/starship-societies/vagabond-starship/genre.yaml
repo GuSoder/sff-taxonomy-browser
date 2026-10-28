@@ -1,0 +1,16 @@
+id: vagabond-starship
+label: Vagabond starship
+parent: starship-societies
+children: []
+works:
+- rite-of-passage
+- escaping-exodus
+- thirsty-ground
+image: 836-vagabond-starship.webp
+definition: 'Generation-starship societies for whom the ship itself is the permanent home: there is no destination to reach. Includes by-design roamers travelling between settled worlds, societies whose original colony mission failed or was abandoned and who now live voyage to voyage, and vessels repurposed to keep a remnant alive on an open-ended search. Not New star journey (launched for one destination world) or Star seeding (delivering settlements to many stars).'
+status: accepted
+ruling: 'Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1, 2026-10-28 10:32, approving the three-way mission split of Starship societies'
+history:
+- date: '2026-10-28'
+  change: >-
+    Seeded by the approved mission split of Starship societies: New star journey (one new home), Star seeding (many settlements), Vagabond starship (the ship itself as home).
