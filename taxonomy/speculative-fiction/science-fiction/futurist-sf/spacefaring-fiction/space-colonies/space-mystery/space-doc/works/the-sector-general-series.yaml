@@ -1,0 +1,67 @@
+id: the-sector-general-series
+title: The Sector General series
+authors:
+- James White
+first_published: 1963
+canonical_genre: space-doc
+placement_status: accepted
+placement_rationale: |-
+  Root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Space colonies > Space mystery > Space doc (seeded 2026-10-28 with the umbrella widened to medical cases; curator "Approved" phonemsg-01M6143BJF1AK9W39EX4WQT5A1). The 384-level multi-species hospital station with some 10,000 staff is an established off-Earth settlement and the hospital is its institution (SFE: "Space-Habitat hospital", "galactic Medicine", sf-encyclopedia.com/entry/white_james); the series engine is solving medical problems across species lines - SFE: the staff "solves alone or with colleagues a series of medical crises". Rejected: Space colony politics (no governing power contest), Colony life (solving, not settled rhythm, drives the story), Alien fiction branch (contact established and routine in an old Federation), Hard sci-fi (not the rigorous-physics engine). Departure volumes stated at approval: The Galactic Gourmet is catering comedy, Mind Changer a career retrospective; diagnosis is the series' main engine, not every volume's. 9 eligible books: 7 novels (Star Healer 1985, Code Blue - Emergency 1987, The Genocidal Healer 1992, The Galactic Gourmet 1996, Final Diagnosis 1997, Mind Changer 1998, Double Contact 1999) + 2 fix-ups (Star Surgeon 1963, Major Operation 1971); 3 linked-story collections (Hospital Station 1962, Ambulance Ship 1979, Sector General 1983) excluded per intake rules.
+classification_sources:
+- https://sf-encyclopedia.com/entry/white_james
+- https://en.wikipedia.org/wiki/Star_Surgeon
+- https://www.sectorgeneral.com/books/majoroperation.html
+- https://en.wikipedia.org/wiki/Star_Healer
+- https://en.wikipedia.org/wiki/Code_Blue_%E2%80%93_Emergency
+- https://en.wikipedia.org/wiki/The_Genocidal_Healer
+- https://en.wikipedia.org/wiki/The_Galactic_Gourmet
+- https://en.wikipedia.org/wiki/Final_Diagnosis
+- https://en.wikipedia.org/wiki/Mind_Changer
+- https://en.wikipedia.org/wiki/Double_Contact
+cover_curation:
+  status: complete
+  source: Open Library cover ids (7) and Wikimedia first-edition scans (Star Healer, Code Blue); rejected interior title-page scans and a barcode-sticker scan
+  selected_url: https://covers.openlibrary.org/b/id/8034824-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-28'
+  review_method: one-pass visual review of all nine covers
+books:
+- title: Star Surgeon
+  year: 1963
+  cover_url: https://covers.openlibrary.org/b/id/8034824-L.jpg
+- title: Major Operation
+  year: 1971
+  cover_url: https://covers.openlibrary.org/b/id/8451458-L.jpg
+- title: Star Healer
+  year: 1985
+  cover_url: https://upload.wikimedia.org/wikipedia/en/7/76/StarHealer.jpg
+- title: Code Blue – Emergency
+  year: 1987
+  cover_url: https://upload.wikimedia.org/wikipedia/en/8/8c/CodeBlueEmergency.jpg
+- title: The Genocidal Healer
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/14916535-L.jpg
+- title: The Galactic Gourmet
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/182620-L.jpg
+- title: Final Diagnosis
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/182607-L.jpg
+- title: Mind Changer
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/182946-L.jpg
+- title: Double Contact
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/183192-L.jpg
+per_volume_checks: |-
+  Per-volume engine check (parent request 2026-10-28, served at approval):
+  Star Surgeon: unconscious ELPH patient puzzle; Conway identifies the microscopic virus-type "doctor" cells resisting treatment and ends the Etlan war through treatment (en.wikipedia.org/wiki/Star_Surgeon). CASE-DRIVEN.
+  Major Operation: invisible, undetectable life form aboard the hospital causing hallucinations and accidents; identifying and neutralizing it is the plot (sectorgeneral.com/books/majoroperation.html). CASE-DRIVEN.
+  Star Healer: diagnosis of the Goglesk racial mass-hysteria response, Hudlar transplant and elective-amputation treatment proposals, Unborn/Protector delivery (en.wikipedia.org/wiki/Star_Healer). CASE-DRIVEN.
+  Code Blue - Emergency: Cha Thrat's mishandled cases (Hudlar amputation, the untouchable Khone, a parasite species found on a derelict ship) drive the plot; episodic, no single overarching case (en.wikipedia.org/wiki/Code_Blue_–_Emergency). CLINICAL BUT EPISODIC.
+  The Genocidal Healer: built around Lioren's "kill-or-cure" outcome and the medical catastrophe; also deals with deeper philosophical/theological issues (en.wikipedia.org/wiki/The_Genocidal_Healer). CASE-FRAMED, ETHICS-HEAVY.
+  The Galactic Gourmet: a visiting chef's catering problems are the engine (motile food, Hudlar flavor toxins, nutmeg-overdose epidemic, starving-planet diet fix); comedy of chaos, not diagnosis (en.wikipedia.org/wiki/The_Galactic_Gourmet). DEPARTURE - NOT CASE-DRIVEN.
+  Final Diagnosis: a patient with mysterious multiple illnesses is labeled a hypochondriac; the doctors develop a theory and find the explanation at the scene of a childhood accident (en.wikipedia.org/wiki/Final_Diagnosis). CASE-DRIVEN, PUREST FIT.
+  Mind Changer: the frame is O'Mara's retirement and choosing his successor; hospital content is career-flashback recollection (en.wikipedia.org/wiki/Mind_Changer; Booklist "an enjoyable, witty resume"). DEPARTURE - NOT CASE-DRIVEN.
+  Double Contact: trust-building first contact with one new species, worked through the hospital's people within the medical frame (en.wikipedia.org/wiki/Double_Contact). CONTACT PUZZLE, MEDICAL FRAME.
+  Series-level engine remains medical problem-solving (SFE); two of nine volumes depart from the case engine, disclosed at approval.
