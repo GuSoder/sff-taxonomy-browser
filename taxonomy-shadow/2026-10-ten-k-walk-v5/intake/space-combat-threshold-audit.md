@@ -2,21 +2,9 @@
 
 State: frozen at 10 after MC04343/44, Injection Burn (2017) + Escape Velocity (2017), ONE fiction, commit e04e7d09. No later intake placed. No structural change approved or executed.
 
-## Call
+## Current conclusion
 
-Move Death's Head to Military SF > Ground pounders > Space marine corps, subject to curator approval. Counts: Space combat 10->9, Space marine corps 8->9; no split then required. This is a correction proposal, not an executed escape from the gate.
-
-Reason: the current placement note distinguishes fighting from institutional service, but all three publisher descriptions describe institutional service as the organizing frame. Book 1 recruits ex-Legion sergeant Sven into the imperial elite enforcers and sends him to a military disaster. Book 2 promotes him to lieutenant and gives his band of corps rejects an assigned rescue mission. Book 3 follows that same lieutenant and auxiliaries into civil war at the capital. The corps and his squad persist across the complete trilogy. His unusual DNA and smart gun do not make the series Super space soldier: the war does not remake him through its cost in time, body or memory. It is not Space mercs: he serves an imperial corps, not a contract. Not Alien war grunts: the third book is internal civil war. Space marine corps explicitly covers a Corps and its squads, not only formations literally called Marines.
-
-Caveat: Death's Head is an assassination/enforcement corps, not literally a marine corps; this is the breadth already stated by the leaf's Corps-and-squads definition. If that reading is rejected, do not move it automatically to another military leaf. Return to the ten-fiction split audit.
-
-Sources, individually fetched:
-- https://www.penguinrandomhouse.com/books/72879/deaths-head-by-david-gunn/ (2007; recruitment, imperial corps, military disaster)
-- https://www.penguinrandomhouse.com/books/72881/deaths-head--maximum-offense-by-david-gunn/ (2008 first ebook; lieutenant, assigned rescue with corps rejects)
-- https://www.penguinrandomhouse.com/books/72880/deaths-head-day-of-the-damned-by-david-gunn/ (2009; same auxiliaries, capital civil war)
-- https://www.penguin.co.uk/books/394044/deaths-head-day-of-the-damned-by-david-gunn/9780553818796 (book 3; exile, recall, team)
-
-The live card has Maximum Offence year 2009 (paperback year); publisher first ebook is April 29 2008. Metadata correction may be included if moving, but no silent date edit made.
+Death's Head correction WITHDRAWN after original workshop recovery and full independent book3 review. No change to tree. See correction record below. Hour of the Horde separately under root-down review, not moved.
 
 ## Whole-fiction audit
 
@@ -33,8 +21,40 @@ The live card has Maximum Offence year 2009 (paperback year); publisher first eb
 
 ## Axes tested, not proposed
 
-Pilots vs personal fighters superficially yields 4/6 (Moonstorm, Roboteer, Skyward, Hour vs the rest), but fails an invariant literal-cockpit reading in Cytonic and relies on reducing psychic teamwork in Hour to ship furniture. War for a people vs personal battle fails Paradox (personal employment to cosmic rescue), Where Peace Is Lost (private exile protecting community), and Injection Burn (rescue and self-preservation). Do not force these into a tidy distribution. The institutional corps correction above is the cleaner root-down result.
+Pilots vs personal fighters superficially yields 4/6 (Moonstorm, Roboteer, Skyward, Hour vs the rest), but fails an invariant literal-cockpit reading in Cytonic and relies on reducing psychic teamwork in Hour to ship furniture. War for a people vs personal battle fails Paradox (personal employment to cosmic rescue), Where Peace Is Lost (private exile protecting community), and Injection Burn (rescue and self-preservation). Do not force these into a tidy distribution. The institutional corps correction was withdrawn; no split is currently recommended.
 
 ## Live QA
 
 https://gusoder.github.io/sff-taxonomy-browser/#space-combat opened cache-busted and shows 10 fictions, breadcrumb correct. All 10 covers completed with naturalWidth >0 after lazy-load scrolling. Screenshot 20261028-152218 shows Injection Burn front cover next to Death's Head. No new cover bytes in repo. Hellspark remote Baen repair separately verified live before intake resumed.
+
+## Correction withdrawn, 16:25
+
+The corps correction above is not recommended. Original workshop recovered: Oct22 user asked why squad books do not fit Ground-pounders (phonemsg-01M5HXS57PAGGZ8VXSZZVTMMCN). Main explicitly retained Paradox, Death's Head and Hour of the Horde as soft and proposed only Bastard Legion to Space mercs; user's Approved phonemsg-01M5HXVK0D769JT6RT9D9DPQGD covered that move. No Death's Head-specific owner placement ruling found, but this was considered retention, not an overlooked military label.
+
+Full independent review of book3: https://fantasybookcritic.blogspot.com/2009/07/deaths-head-3-day-of-damned-by-david.html explicitly says the Aux take a marginal role and Sven navigates largely on his own with Anton. Therefore my invariant Corps-and-squad claim was overstated. Book1 squad formation and book2 squad mission do not make the whole trilogy Marine infantry tradition. No move or definition widening proposed.
+
+Root-down alternatives tested: Military SF's Ground-pounders requires infantry war; Navy requires ship/fleet service (not Sven); Academy formation is not the series arc; Command requires directing campaigns (not Sven). Ground-pounder children: Marine corps too narrow; Space mercs wrong contract engine; Alien war grunts fails book3 internal civil war; Super space soldier's war-remakes-the-body axis is not established by Sven's already-unusual DNA. New space opera's adventure remains strongest; Caper requires a scheme; Hunt/Dash require pursuit as engine; Space combat remains the fighting engine.
+
+Original naming workshop also recovered: Starfare rejected/not accepted; user liked Mecha but wanted space carried without stacked words (phonemsg-01M5HWZNT8CZCYSDPQQ0NPS8YP). Space pilots/strike teams/duels was not approved; duels explicitly shown false for two of three, solo-vs-squad failed Where Peace Is Lost. Never recycle this proposal unchanged.
+
+## Separate correction candidate: Hour of the Horde
+
+Recommend, subject to owner approval: Space combat -> Pulp space war. Current counts10->9 and3->4. No definition changes. This is not a military-leaf relabel and not a year-only move.
+
+Original commit90e93ff7 (Oct8 19:44:44 CEST) used a DAW back cover, acknowledged moderate wobble, rejected military Command/Armada and Alien conquest, but did not check Classic space opera's root gate. Recovered original task transcript at Oct8 19:43-44 confirms no Classic walk. Oct22 workshop revisited Ground-pounders, not Classic. No owner-specific Hour ruling found in direct messages. Existing Pulp space war arrived Oct25, later than original intake.
+
+Full standalone content: a present-day painter is recruited as Earth's champion. On Fighting Rowboat he rises through hand-to-hand pecking-order fights, welds alien champions into a crew, masters psychic weapons, and leads that ship into the final fight after advanced allies decide to flee. The psychic human-exceptionalism and personal-war-odyssey form are original pulp mode, not the self-aware1980s-on revival New space opera explicitly names. It is personal war adventure, not a fleet-command campaign. Pulp space odyssey's test (remove rival-power structure, does personal journey remain?) leaves Miles' transformation of himself and his outcast crew intact.
+
+Sibling test: Pulp space voyage loses because exploration or wandering for work is not the engine; Pulp space chase has no hunter/hunted plot; Pulp space war explicitly admits war adventures. Pulp space armada requires the fleet campaign itself, not this champion/crew story; Pulp space throne no succession stake; Intrigue no scheme spine. Evergreen's escaped-its-era gate unproved, Retro requires deliberate21st-century throwback, both wrong. Military SF's Command and Navy compete but not the institutional formation or command-room story; the improvised group and psychic pulp solution are the engine.
+
+Sources fetched (not search snippets):
+- https://www.baen.com/hour-of-the-horde.html : publisher full premise, assembled champions.
+- https://jamesdavisnicoll.com/review/a-way-out-of-the-cage : full plot, psychic amplifiers, pecking-order fights, crew, advanced allies abandoning, explicit classic old-time human-special-gifts mode.
+- https://yellowedandcreased.wordpress.com/2012/04/30/hour-of-the-horde-gordon-r-dickson/ : complete reading review, painter-to-crew-leader arc, short climactic battle, by-the-numbers old military space opera.
+- http://theporporbooksblog.blogspot.com/2009/06/book-review-hour-of-horde-by-gordon-r.html : complete reading review,23person crew and psychic reserve; not fleet HQ.
+- https://isfdb.org/cgi-bin/title.cgi?3749 :1969 magazine variant and1970 book, DAW synopsis. Nicoll's1969 and tree's1970 are therefore distinct publication forms, not material conflict for this classification.
+
+Live destination opened through tree navigation and visually inspected: https://gusoder.github.io/sff-taxonomy-browser/#pulp-space-war ,3 FICTIONS, The High Crusade; Starwolf; Starliner. Screenshot /downloads/cloud-browser-20261028-152859.png shows correct breadcrumb,3 count,title and covers. Existing portrait not changed. No browser lease.
+
+## Executed2026-10-28 18:31 CET
+Owner Approved phonemsg-01M61S0Y6FB897FXKYNS5R8RT6. Hour moved to Pulp space war. Space combat9, Pulp space war4. No definitions or portraits changed. Death's Head retained.

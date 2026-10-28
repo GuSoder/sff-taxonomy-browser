@@ -1,0 +1,34 @@
+id: hour-of-the-horde
+title: Hour of the Horde
+authors:
+- Gordon R. Dickson
+first_published: 1970
+canonical_genre: pulp-space-war
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Space opera >
+  Classic space opera > Pulp space opera > Golden age space opera > Pulp space odyssey > Pulp space war. Original1969 magazine/1970
+  book pulp adventure: Earth''s champion Miles Vander unites an outcast alien crew, masters psychic weapons and fights the
+  Horde. Personal war odyssey, not fleet-campaign or naval-service institution; not exploration or pursuit. Full reading reviews
+  https://jamesdavisnicoll.com/review/a-way-out-of-the-cage and https://yellowedandcreased.wordpress.com/2012/04/30/hour-of-the-horde-gordon-r-dickson/
+  support this over the New space opera revival gate. Corrective move approved by owner2026-10-28 18:30:46 CET, phonemsg-01M61S0Y6FB897FXKYNS5R8RT6,
+  on proposal phonemsg-01M61KWCW8EGREY01992HMGVGR.'
+books:
+- title: Hour of the Horde
+  year: 1970
+  cover_url: https://covers.openlibrary.org/b/id/8294051-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8294051-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03504)
+placement_history:
+- date: '2026-10-04'
+  to: space-combat
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: space-combat
+  to: pulp-space-war
+  reason: Owner approved corrective move phonemsg-01M61S0Y6FB897FXKYNS5R8RT6 on full root-down proposal phonemsg-01M61KWCW8EGREY01992HMGVGR;
+    source10->9 destination3->4.
