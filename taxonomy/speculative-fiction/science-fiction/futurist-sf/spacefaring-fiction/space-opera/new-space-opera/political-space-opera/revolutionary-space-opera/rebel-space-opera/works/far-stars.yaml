@@ -20,6 +20,7 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/12660188-L.jpg
 - title: The Emperor's Fist
   year: 2019
+  cover_url: https://www.fictiondb.com/coversth/978/006/th_9780062566867.jpg
 - title: Blackhawk
   year: 2016
   cover_url: https://www.fictiondb.com/coversth/978/138/th_9781386686576.jpg
@@ -44,6 +45,10 @@ placement_history:
   reason: 'Chronological reconciliation MC04353/55/56: retain existing card and leaf, add eligible2016 prequel novel
     Blackhawk under standing complete-series rule. Author confirms same protagonist/world origin story; FictionDB330pages.
     No title-specific user approval implied. Hero unchanged.'
+- date: '2026-10-28'
+  to: rebel-space-opera
+  reason: 'Bounded repair: live five-volume QA exposed missing Emperor Fist cover_url. Added exact remote FictionDB
+    English cover after pixel inspection, no legacy sweep, no hero change.'
 sources:
 - https://jayallanbooks.com/project/far-stars/
 - https://jayallanbooks.com/project/far-stars-legends/
