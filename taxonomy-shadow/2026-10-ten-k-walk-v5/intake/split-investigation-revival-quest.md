@@ -56,3 +56,87 @@ FINDING 4 - Fallen Star mechanism correction (for the record): the company TRANS
 FINDING 5 - Infernal City same-test wobble (reported, not swept): ensemble mosaic (Annaïg/Glim captivity strand is static; Colin investigation strand), but Sul+Attrebus's pursuit across Oblivion IS a genuine journey spine, unlike Thorn and Bone. Stays as the leaf's weakest member unless the curator rules otherwise.
 FINDING 6 - "Nemesis is an established word" claim dropped; not evidence of an established genre.
 NO MUTATIONS MADE. Corrective proposal (Thorn and Bone -> war-of-humanity) awaits relayed approval.
+
+## Round 5 - full root-down corrective walk (2026-10-28, parent-required)
+
+Parent (11:24): corrective move proposal, not a split. Required: full root-down candidate walk with
+all children at each plausible umbrella, evidence the whole tree was considered (not keyword
+shortlist), exact source URLs with schemes, verified destination node link. NO mutation.
+
+### Full root-down walk for The Kingdoms of Thorn and Bone (Greg Keyes, 4 vols 2003-2008, complete)
+
+L0. Speculative fiction -> Fantasy (vs SF). Secondary world, no science engine. SETTLED.
+L1. Fantasy -> Fantasy realms (vs Real earth fantasy, Portal fantasy). Invented world (Crotheny).
+    SETTLED.
+L2. Fantasy realms children: Epic fantasy (epic-scale worldbuilding) vs Sword and sorcery
+    (action-forward), Fairy-tale revision, Heritage schools, Far shores, Comic fantasy, Heart
+    fantasy. Multi-volume dynastic epic at world scale -> Epic fantasy. SETTLED.
+L3. Epic fantasy children (all tested):
+    - Military fantasy (armies, campaigns, the war from the ranks) -> children:
+      * Soldier fantasy (one fighting unit from inside) - REJECTED: no single unit is the story.
+      * Army fantasy -> Mud-and-blood (ranks' view) - REJECTED: not the soldiers' war.
+      * Army fantasy -> Command-tent (commanders' map) - REJECTED: not campaign-view.
+      * Army fantasy -> World-at-war -> CANDIDATE (see L4b).
+    - High fantasy / Quest fantasy (consequential journey is the governing narrative) - FAILED at
+      Classic quest > Fellowship (round 4: tapestry, no party-bound road).
+    - Quest fantasy > Classic quest > Destiny quest fantasy (the marked one's rise; parent asked
+      explicitly): children hidden-heir-quest-fantasy (the heir is hidden, raised unknown) -
+      Anne is known royalty, the king's youngest daughter from book 1; FAILS. humble-origins /
+      calling-quest (rise from nothing into a named office) - no rise from nothing; FAILS.
+      Clean-block rule: umbrella holds zero cards, no fitting child -> destiny branch DEAD.
+    - Quest fantasy > Revisionist (interrogates the template) - played straight; REJECTED.
+    - Quest fantasy > Fairytalesque (fairy-tale grammar) - no; REJECTED.
+    - Hard fantasy (magic as consistent quasi-science is the engine) - the sedos harmonies are
+      a thread, not the governing system; REJECTED.
+    - Mythological fantasy (invented mythology/gods register) - REJECTED.
+    - Heroic fantasy (one hero's fight is the spine) - ensemble, no single hero; REJECTED.
+    - Political fantasy -> children tested: Election fantasy (mass franchise) - REJECTED;
+      Court spies (espionage-driven) - intrigue is not the engine; REJECTED; Court statecraft
+      (ruler-level diplomacy, 0 works) - multi-POV tapestry, not statecraft focus; REJECTED;
+      Revolutionary fantasy (overthrow of an order) - Anne IS the establishment's heir, no
+      uprising against an order; REJECTED;
+      Court intrigue > Dynastic intrigues (umbrella, weapon ladder) -> CANDIDATE (see L4a).
+L4a. Dynastic intrigues children (all tested): Dynastic assassins (poison/knife) - Robert's
+    murder opens it but the war decides; REJECTED. Dynastic murders (the inquiry is the game) -
+    REJECTED. Dynastic spy games (secrets decide) - REJECTED. Dynastic favor (ruler's regard) -
+    REJECTED. Dynastic magic (magic is the dynasty's instrument) - a thread, not the weapon;
+    REJECTED. Dynastic wars ("Dynastic intrigue fought with swords: rival houses, claimants and
+    clans take the field and the war decides who holds the crown") - FITS: Crotheny's contested
+    succession (Anne's claim) vs the Church's holy war vs Hansa's invasion; "whoever sits upon
+    the throne will have the ultimate command to bring about the world's salvation - or its
+    apocalypse" (publisher, Born Queen). ASOIAF is the archetypal member. CANDIDATE.
+L4b. World-at-war children (all tested): War on humanity (annihilating horde) - the enemy powers
+    are human realms; REJECTED. War of immortals (undying powers wage it) - the warring sides are
+    mortal; REJECTED. Eldritch invasions (enemy from outside the world) - the Skasloi/Kept/Briar
+    King are of the world; REJECTED. War of humanity ("many fronts, many viewpoints and many
+    threads woven into one long war, a tapestry... realms, empires and city states fighting each
+    other for rule, survival or reunification, whatever threads of the inhuman run alongside";
+    Malazan in-leaf) - FITS textually. CANDIDATE.
+L5. Decider between the two live candidates (sibling-pair test): what does the war DECIDE -
+    the crown (Dynastic wars) or the world's survival/reunification as the subject itself
+    (War of humanity)? The publisher's own copy makes the THRONE the pivot of world salvation;
+    Anne's succession claim drives every strand and the finale resolves through who commands the
+    throne. The inhuman threads run alongside a human dynastic war.
+
+    MY CALL: Dynastic wars. Corrects my round-4 war-of-humanity proposal: that leaf came from a
+    keyword shortlist and Dynastic wars was never tested - exactly the gap parent named.
+
+### Sources (verbatim URLs)
+- https://en.wikipedia.org/wiki/The_Briar_King (book-1 tapestry: Prince Robert's murder,
+  engineered Hansa war, convent/holter strands)
+- https://penguinrandomhouse.com/books/92219/the-born-queen-by-greg-keyes/ ("a holy war is
+  declared against the Briar King... whoever sits upon the throne will have the ultimate command
+  to bring about the world's salvation - or its apocalypse")
+- https://www.sffworld.com/2008/06/bookreview458/ (ensemble review)
+- https://www.fantasyliterature.com/reviews/the-born-queen/ (multi-thread review)
+
+### Destination node link (live-verified 2026-10-28 11:25 CET, read lease)
+https://gusoder.github.io/sff-taxonomy-browser/#dynastic-wars
+DOM-verified: breadcrumb Speculative fiction > Fantasy > Fantasy realms > Epic fantasy >
+Political fantasy > Court intrigue > Dynastic intrigues > Dynastic wars; 6 FICTIONS
+(ASOIAF, Shattered Sea, Daughters of the Storm, ...). URL resolves and renders.
+
+### Consequence if approved
+Revival quest fantasy 10 -> 9; split trigger dissolves (Seveneves precedent 2026-10-12);
+Grail/Nemesis split withdrawn as moot; intake resumes at MC04258. Cards arriving while this is
+open settle on the hanging list per his rule - none pending.
