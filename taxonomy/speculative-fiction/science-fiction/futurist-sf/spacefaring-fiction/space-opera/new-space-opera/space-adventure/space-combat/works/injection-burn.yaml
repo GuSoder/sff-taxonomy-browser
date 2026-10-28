@@ -1,0 +1,37 @@
+id: injection-burn
+title: Injection Burn
+authors:
+- Jason M. Hough
+first_published: 2017
+canonical_genre: space-combat
+placement_status: accepted
+placement_rationale: 'Root-down: Science fiction > Futurist SF > Spacefaring fiction > Space opera > New space opera
+  > Space adventure > Space combat. The Dire Earth duology (Beyond Dire Earth): Injection Burn sends Skyler Luiken
+  and a ragtag crew of scavengers, scientists and brawlers through the Swarm Blockade to rescue captive aliens;
+  Escape Velocity follows the scattered crews fighting to destroy alien military compounds on Carthage and get home.
+  Both volumes make the fight the adventure engine. Not Space chase (the rescue mission faces the foe), not Space
+  caper (no scheme), not Military SF (improvised mixed crews rather than institutional warfare mode). Both publisher
+  descriptions verified.'
+books:
+- title: Injection Burn
+  year: 2017
+  cover_url: https://images3.penguinrandomhouse.com/cover/9780553391312
+- title: Escape Velocity
+  year: 2017
+  cover_url: https://images2.penguinrandomhouse.com/cover/9780553391343
+cover_curation:
+  status: complete
+  source: Penguin Random House cover CDN
+  selected_url: https://images3.penguinrandomhouse.com/cover/9780553391312
+  visually_reviewed_on: '2026-10-28'
+  review_method: direct image read of both front covers
+intake: ten-k walk v5 (queue ids MC04343, MC04344)
+placement_history:
+- date: '2026-10-28'
+  to: space-combat
+  reason: 'New intake under standing 10k root-down commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB. Tenth fiction:
+    freeze and split before further intake.'
+sources:
+- https://www.penguinrandomhouse.com/books/240565/injection-burn-by-jason-m-hough/
+- https://www.penguinrandomhouse.com/books/240566/escape-velocity-by-jason-m-hough/
+- https://www.jasonhough.com/book/beyond-dire-earth
