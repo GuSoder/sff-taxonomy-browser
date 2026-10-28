@@ -1,0 +1,37 @@
+id: mystic
+title: Mystic
+authors:
+- Jason Denzel
+first_published: 2015
+canonical_genre: grey-mages
+placement_status: accepted
+placement_rationale: 'Root-down: Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy >
+  Caster heroes > Mage hero > Grey Mages. The Mystic trilogy: low-born Pomella can see fay
+  creatures and Unveil the Myst, the source of all magic and life; forbidden by custom and
+  law, she apprentices as a Mystic and her destiny grows to reshape reality itself
+  (Apprentice. Mystic. Master. - author synopsis, Tor). Her gift is fay-sight and Myst-wielding,
+  never pinned to death or healing: Grey, not Black and not White.'
+books:
+- title: Mystic
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/11683902-L.jpg
+- title: Mystic Dragon
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/9332822-L.jpg
+- title: Mystic Skies
+  year: 2022
+  cover_url: https://jasondenzel.com/wp-content/uploads/2022/01/MysticSkies-cover-lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / author site
+  selected_url: https://covers.openlibrary.org/b/id/11683902-L.jpg
+  visually_reviewed_on: '2026-10-28'
+  review_method: direct image read of all three covers
+intake: ten-k walk v5 (queue ids MC04338, MC04339, MC04340; MC04341 The Mystic Trilogy omnibus - skip-omnibus)
+placement_history:
+- date: '2026-10-28'
+  to: grey-mages
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+sources:
+- https://jasondenzel.com/mystic-trilogy/
+- https://torpublishinggroup.com/the-mystic-trilogy/?format=ebook&isbn=9781250325204
