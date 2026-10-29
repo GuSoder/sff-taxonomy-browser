@@ -1,0 +1,55 @@
+id: consentiency
+title: ConSentiency
+authors:
+- Frank Herbert
+first_published: 1970
+canonical_genre: space-cop
+placement_status: accepted
+placement_rationale: 'Root-down correction, 2026-10-29: Science fiction > Futurist SF > Spacefaring fiction > Space colonies
+  > Space mystery > Space cop. Both eligible ConSentiency novels follow government agent Jorj X. McKie on assigned investigations
+  across settled worlds. Whipping Star investigates Caleban disappearances and tracks a criminal contract threatening all
+  jumpdoor users; The Dosadi Experiment sends him to uncover an illegal, hidden human-Gowachin prison-planet experiment, resolved
+  through Gowachin law. The legal and cultural puzzles are the machinery of his official casework, not a dynastic contest,
+  and the two novels do not trace successive historical eras. Space cop explicitly includes official agents and inspectors
+  with system authority, not only uniformed police. Not Space PI (not private), Space colony politics (neither is primarily
+  a contest to govern a colony), Xenolinguistics (communication central in Whipping Star but not the common whole), nor Space
+  dystopias (Dosadi only). Shared universe means one fiction, not automatically future history. Sources read: Tor Whipping
+  Star publisher description; Dosadi original jacket transcribed by ISFDB; detailed finished-book reviews of both. Individual
+  move authority phonemsg-01M63B6PTVDTX8TZVYPSWGTJGP; no definition or book metadata changes.'
+books:
+- title: Whipping Star
+  year: 1970
+  cover_url: https://covers.openlibrary.org/b/id/10459280-L.jpg
+- title: The Dosadi Experiment
+  year: 1977
+  cover_url: https://covers.openlibrary.org/b/id/6491796-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10459280-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03192, MC03182)
+placement_history:
+- date: '2026-10-04'
+  to: future-history-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-29'
+  from: future-history-in-space
+  to: space-cop
+  reason: 'Root-down correction, 2026-10-29: Science fiction > Futurist SF > Spacefaring fiction > Space colonies > Space
+    mystery > Space cop. Both eligible ConSentiency novels follow government agent Jorj X. McKie on assigned investigations
+    across settled worlds. Whipping Star investigates Caleban disappearances and tracks a criminal contract threatening all
+    jumpdoor users; The Dosadi Experiment sends him to uncover an illegal, hidden human-Gowachin prison-planet experiment,
+    resolved through Gowachin law. The legal and cultural puzzles are the machinery of his official casework, not a dynastic
+    contest, and the two novels do not trace successive historical eras. Space cop explicitly includes official agents and
+    inspectors with system authority, not only uniformed police. Not Space PI (not private), Space colony politics (neither
+    is primarily a contest to govern a colony), Xenolinguistics (communication central in Whipping Star but not the common
+    whole), nor Space dystopias (Dosadi only). Shared universe means one fiction, not automatically future history. Sources
+    read: Tor Whipping Star publisher description; Dosadi original jacket transcribed by ISFDB; detailed finished-book reviews
+    of both. Individual move authority phonemsg-01M63B6PTVDTX8TZVYPSWGTJGP; no definition or book metadata changes.'
+classification_sources:
+- https://torpublishinggroup.com/whipping-star/?format=trade&isbn=9780765317759
+- https://isfdb.org/cgi-bin/title.cgi?2258=
+- https://www.omphalosbookreviews.com/reviews/441-whipping-star/
+- https://www.boomtron.com/dosadi-experiment-frank-herbert-review/
