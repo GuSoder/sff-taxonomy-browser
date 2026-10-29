@@ -1,0 +1,26 @@
+id: genetic-engineering
+label: Genetic engineering
+parent: bioengineering
+children:
+- cloning-fiction
+- genetic-caste-fiction
+- hard-genetic-sf
+image: 110-genetic-engineering.webp
+definition: 'Science fiction in which deliberate manipulation, reconstruction, or design of genes and living organisms
+  drives the premise (SFE Genetic Engineering). Pure umbrella since 2026-10-08, partitioned by what the gene work makes:
+  Cloning fiction (copies), Genetic caste fiction (designed kinds of people) and Hard genetic SF (the genetic science
+  itself, as research).'
+status: umbrella
+works: []
+history:
+- date: '2026-10-08'
+  change: Split with umbrella at ten into Cloning fiction (5) and Genetic caste fiction (4, plus The Eyes of Heisenberg
+    placed next); curator "Execute" (phonemsg-01M4DCCZNGMXPRD54EQCZ0NDEQ).
+- date: '2026-10-10'
+  change: Seeded Hard genetic SF under it for Life (phonemsg-01M4K3QM6QBTV6WE00Z5TBB1ZM).
+- date: '2026-10-29'
+  change: Moved intact under new Bioengineering umbrella; definitions, three children, fiction holdings and portrait
+    unchanged. Curator Approved phonemsg-01M63K1BY3YCSN9H1N87PQVCPZ, 2026-10-29 11:24:37 CET, on proposal phonemsg-01M63K0E8D5QFSMP7ZZ3RP9079.
+- date: '2026-10-29'
+  change: 'Temporal premise rechecked: publisher explicitly modern-day; ancient Atlantis technology is backstory, not
+    future society. User reaffirmed Approved, continue (phonemsg-01M63K642BCDSJVVV92K4XF4AW, 11:27:13 CET).'

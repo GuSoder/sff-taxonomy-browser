@@ -5,7 +5,7 @@ children:
 - alien-invasion-fiction
 - apocalyptic-fiction
 - first-contact-fiction
-- genetic-engineering
+- bioengineering
 - humorous-science-fiction
 - soft-science-fiction
 - technothriller
@@ -16,4 +16,10 @@ status: accepted
 works: []
 history:
 - date: '2026-10-13'
-  change: 'Renamed from Modern day (id modern-day, label Modern day) to Modern day SF (id modern-day-sf) on the curator''s "Can you add SF to all genres directly under Science Fiction" (phonemsg-01M4V92ZW3M555BYE46EV973Y8, 2026-10-13 8:41 PM CEST). Old id redirects; portrait unchanged.'
+  change: Renamed from Modern day (id modern-day, label Modern day) to Modern day SF (id modern-day-sf) on the curator's
+    "Can you add SF to all genres directly under Science Fiction" (phonemsg-01M4V92ZW3M555BYE46EV973Y8, 2026-10-13 8:41
+    PM CEST). Old id redirects; portrait unchanged.
+- date: '2026-10-29'
+  change: Existing Genetic engineering slot generalized to Bioengineering with Genetic engineering intact and Nanomedicine
+    fiction seeded for Argeneau. Eight children retained. Curator Approved phonemsg-01M63K1BY3YCSN9H1N87PQVCPZ, 2026-10-29
+    11:24:37 CET, on proposal phonemsg-01M63K0E8D5QFSMP7ZZ3RP9079.

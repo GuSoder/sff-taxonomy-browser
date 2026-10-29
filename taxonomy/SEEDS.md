@@ -67,3 +67,6 @@ Out of scope: pure horror with no speculative element (mundane killers, psycholo
 ## Modern technomancy (seeded 2026-10-21)
 Under Modern occult, for magic that runs through technology and media. Trigger: The Star and the Strange Moon would have been the tenth card of Occult institutions. Curator-proposed name and "Approved" (phonemsg-01M5FA1RVJSCSVQDA77KWZ9QZ1). Cards: Silver Nitrate, The Shadow Age, The Star and the Strange Moon.
 
+
+## Bioengineering and Nanomedicine fiction (2026-10-29)
+Approved seed with a generalizing umbrella: Bioengineering occupies the existing Modern day SF slot (eight children unchanged), with Genetic engineering intact and Nanomedicine fiction seeded for Argeneau (one fiction, 37 existing novels). Names use established scientific terms; not a new shallow romance branch. Gene design versus nanos acting within bodies is the defining-intervention partition, applied to whole fictions. No additional kin claimed. Curator Approved phonemsg-01M63K1BY3YCSN9H1N87PQVCPZ, 2026-10-29 11:24:37 CET, on proposal phonemsg-01M63K0E8D5QFSMP7ZZ3RP9079.
