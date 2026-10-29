@@ -1,0 +1,43 @@
+id: the-tales-of-durand
+title: The Tales of Durand
+authors:
+- David Keck
+first_published: 2007
+canonical_genre: champion-of-crown
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial
+  heroes > Warrior hero > Champion knights > Champion of Crown. Whole-trilogy correction approved 2026-10-29, phonemsg-01M634WJF0TCFZFT8D5T7J8YRK,
+  responding to phonemsg-01M6335AWXY67791Y3XYGVGWE9. In the Eye of Heaven enters Lamoric''s service; In a Time of Treason
+  explicitly makes Durand a knight of Lamoric''s household; A King in Cobwebs calls him Duke Gireth''s champion. Landless
+  origin is not sustained masterlessness. Personal service to a ruler, not ruling his own domain (Champion Lord) or primarily
+  army leadership for a realm (Champion of Realm). Heroic rather than Political/High/Military: becoming and living as a good
+  knight, personal allegiance and divided loyalty organize the trilogy. Martial/Warrior rather than Caster/NPC/Rogue/Ranger:
+  trained direct armed combat. Sources: https://lib.byu.edu/search/byu/record/cat.4186248.item.31197229809931 ; https://lib.byu.edu/search/byu/record/cat.4186244.item.31197230015544
+  ; https://terribleminds.com/ramble/2018/12/06/david-keck-five-things-i-learned-writing-a-king-in-cobwebs/ . Existing book
+  list and bibliographic metadata unchanged.'
+books:
+- title: In the Eye of Heaven
+  year: 2007
+  cover_url: https://pictures.abebooks.com/isbn/9780765351692-us.jpg
+- title: In a Time of Treason
+  year: 2008
+  cover_url: https://pictures.abebooks.com/isbn/9780765351708-us.jpg
+- title: A King in Cobwebs
+  year: 2018
+  cover_url: https://pictures.abebooks.com/isbn/9781250303974-us.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://pictures.abebooks.com/isbn/9780765351692-us.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02375, MC02374, MC02373)
+placement_history:
+- date: '2026-10-04'
+  to: outcast-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-29'
+  from: outcast-knights
+  to: champion-of-crown
+  reason: Whole-trilogy personal-service correction approved by user phonemsg-01M634WJF0TCFZFT8D5T7J8YRK, on proposal phonemsg-01M6335AWXY67791Y3XYGVGWE9.
+    Three-book list and metadata unchanged.
