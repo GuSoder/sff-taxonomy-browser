@@ -4,11 +4,17 @@ authors:
 - Marion Zimmer Bradley
 - Deborah J. Ross
 first_published: 1998
-canonical_genre: lost-colony-planetary-romance
+canonical_genre: broken-lander-romance
 placement_status: accepted
 placement_rationale: 'Walk: Science fantasy > Planetary romance. Darkover, a lost Terran colony on a red-sun world where telepathic
   Comyn clans wield laran and the Terran Empire presses in; the world carries the story (Forbidden Circle, Clingfire trilogy,
-  The Alton Gift).'
+  The Alton Gift).
+
+
+  Approved lost-colony split 2026-10-29: Inherited colony foundation is an off-course crash with repair rendered impossible.
+  Later matrix science is a developed alternative, not absence of all technology; selective weapons control is not blanket
+  repression of discovery. The existing card spans historical stages and later contact. https://www.ebsco.com/research-starters/history/darkover-landfall-marion-zimmer-bradley/
+  Authority: phonemsg-01M64CXKTBZPD549Z6EPDRPBDW.'
 books:
 - title: The Forbidden Circle
   year: 1998
@@ -50,3 +56,10 @@ placement_history:
     (curator "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).
   from: planetary-romance
   to: lost-colony-planetary-romance
+- date: '2026-10-29'
+  from: lost-colony-planetary-romance
+  to: broken-lander-romance
+  reason: Approved corrected three-child split (phonemsg-01M64CXKTBZPD549Z6EPDRPBDW). Inherited colony foundation is an off-course
+    crash with repair rendered impossible. Later matrix science is a developed alternative, not absence of all technology;
+    selective weapons control is not blanket repression of discovery. The existing card spans historical stages and later
+    contact. https://www.ebsco.com/research-starters/history/darkover-landfall-marion-zimmer-bradley/

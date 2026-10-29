@@ -3,7 +3,7 @@ title: The Ghatti's Tale
 authors:
 - Gayle Greeno
 first_published: 1993
-canonical_genre: lost-colony-planetary-romance
+canonical_genre: broken-lander-romance
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Science fantasy > Planetary romance >
   Lost-colony planetary romance. A colonizing expedition from Earth, its technology destroyed, has been stranded on Methuen
@@ -14,7 +14,12 @@ placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atempor
   Colony life and Colonial worlds (the settlers have forgotten Earth; this is not an established settlement''s civic life
   or a settlement-native collision), Psi powers (the telepathy is native to the ghatti and the realm, not a modern-day talent).
   Wobble: Psi powers, Fantasy realm politics. Five volumes folded as one fiction: Finders-Seekers (1993), Mindspeakers'' Call
-  (1994), Exiles'' Return (1995), Sunderlies Seeking (1998), The Farthest Seeking (2000; the Ghatten''s Gambit books).'
+  (1994), Exiles'' Return (1995), Sunderlies Seeking (1998), The Farthest Seeking (2000; the Ghatten''s Gambit books).
+
+
+  Approved lost-colony split 2026-10-29: Publisher establishes destroyed technological resources and a stranded Earth expedition;
+  actor and motive remain unverified. Placement asserts physical loss, not proven accident or censorship. https://www.penguinrandomhouse.com/series/AX8/ghattis-tale/
+  Authority: phonemsg-01M64CXKTBZPD549Z6EPDRPBDW.'
 books:
 - title: Finders-Seekers
   year: 1993
@@ -42,3 +47,9 @@ placement_history:
 - date: '2026-10-04'
   to: lost-colony-planetary-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-29'
+  from: lost-colony-planetary-romance
+  to: broken-lander-romance
+  reason: Approved corrected three-child split (phonemsg-01M64CXKTBZPD549Z6EPDRPBDW). Publisher establishes destroyed technological
+    resources and a stranded Earth expedition; actor and motive remain unverified. Placement asserts physical loss, not proven
+    accident or censorship. https://www.penguinrandomhouse.com/series/AX8/ghattis-tale/

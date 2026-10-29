@@ -3,7 +3,7 @@ title: The Hope Duology
 authors:
 - Stephen Chambers
 first_published: 2001
-canonical_genre: lost-colony-planetary-romance
+canonical_genre: hidden-lander-romance
 placement_status: accepted
 placement_rationale: 'Full root-down walk: Science fiction (not fantasy: a colony planet settled by exiles from Earth after
   the 21st-century biotech revolution, the last AI in an ancient computer; SFE shelves it as sf) > Atemporal (not Futurist/Historical/Modern
@@ -13,7 +13,12 @@ placement_rationale: 'Full root-down walk: Science fiction (not fantasy: a colon
   is no visitor from Earth, he is born on Hope; not Far-future - this is not a far future where Earth is forgotten, it is
   a colony cut off from Earth: the people are descendants of exiled settlers, and the old technology - the Blakes AI - survives
   as hidden myth, exactly this leaf). Hope''s End (2001) and Hope''s War (2002), Tor; the announced third book never appeared
-  (ISFDB Hope series, SFE). One universe fiction per rule 11j.'
+  (ISFDB Hope series, SFE). One universe fiction per rule 11j.
+
+
+  Approved lost-colony split 2026-10-29: Almost all technology deliberately lost under Church and King; book ownership punished
+  by death. This is imposed suppression, not a claim that all colonists freely renounce technology. https://www.sffworld.com/2001/08/bookreview39/
+  ; https://www.encyclopedia.com/arts/educational-magazines/chambers-stephen-m-1980 Authority: phonemsg-01M64CXKTBZPD549Z6EPDRPBDW.'
 books:
 - title: Hope's End
   year: 2001
@@ -32,3 +37,9 @@ placement_history:
 - date: '2026-10-04'
   to: lost-colony-planetary-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-29'
+  from: lost-colony-planetary-romance
+  to: hidden-lander-romance
+  reason: Approved corrected three-child split (phonemsg-01M64CXKTBZPD549Z6EPDRPBDW). Almost all technology deliberately lost
+    under Church and King; book ownership punished by death. This is imposed suppression, not a claim that all colonists freely
+    renounce technology. https://www.sffworld.com/2001/08/bookreview39/ ; https://www.encyclopedia.com/arts/educational-magazines/chambers-stephen-m-1980

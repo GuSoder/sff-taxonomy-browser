@@ -1,0 +1,47 @@
+id: warlocks-heirs
+title: Warlock's Heirs
+authors:
+- Christopher Stasheff
+first_published: 1994
+canonical_genre: abandoned-lander-romance
+placement_status: accepted
+placement_rationale: 'Stasheff''s Warlock''s Heirs: The Warlock''s Heirs series (1994-2001): on Gramarye, a lost colony world
+  where esper powers read as magic, the grown children of the Warlock Rod Gallowglass fight monsters and court intrigue -
+  descendants of forgotten settlers whose psi and old tech have become myth and custom. Sources: isfdb.org, penguinrandomhouse.com,
+  christopher.stasheff.com. Walk: Science fiction > Atemporal SF > Science fantasy > Planetary romance > Lost-colony planetary
+  romance.
+
+
+  Approved lost-colony split 2026-10-29: The inherited Gramarye world is the romantic founders'' deliberate recreation of
+  preindustrial life. A voluntary founding project, not a universal claim about the descendants'' consent. Memory-editing/monastery
+  details remain community-sourced and are not needed for the core placement. https://christopher.stasheff.com/fiction/warlock/warlock_review.htm
+  Authority: phonemsg-01M64CXKTBZPD549Z6EPDRPBDW.'
+books:
+- title: M'lady Witch
+  year: 1994
+- title: Quicksilver's Knight
+  year: 1995
+- title: The Spell-bound Scholar
+  year: 1999
+- title: Here Be Monsters
+  year: 2001
+cover_curation:
+  status: complete
+  source: Open Library (Ace 2001)
+  selected_url: https://covers.openlibrary.org/b/id/283932-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-17'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01834-38)
+placement_history:
+- date: '2026-10-17'
+  to: lost-colony-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB; obvious
+    placement, no question per phonemsg-01M54NW04SEYDB64EDSQHK8438).'
+- date: '2026-10-29'
+  from: lost-colony-planetary-romance
+  to: abandoned-lander-romance
+  reason: Approved corrected three-child split (phonemsg-01M64CXKTBZPD549Z6EPDRPBDW). The inherited Gramarye world is the
+    romantic founders' deliberate recreation of preindustrial life. A voluntary founding project, not a universal claim about
+    the descendants' consent. Memory-editing/monastery details remain community-sourced and are not needed for the core placement.
+    https://christopher.stasheff.com/fiction/warlock/warlock_review.htm

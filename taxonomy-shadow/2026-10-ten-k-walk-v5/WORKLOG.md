@@ -296,3 +296,6 @@ K cluster MC05576-05604: specs 419-429.
 - 2026-10-12 Shadow Age placed in Occult institutions (spec 477, 9 cards) after the split question dissolved.
 - 2026-10-12 Interstellar court politics split into Galactic courts (6) / Galactic houses (4 with Liaden Universe card, 31 rows folded, spec 478); webp 668-669; curator Execute phonemsg-01M4QFA6PFPJK23XYEV1TGSCV5.
 - 2026-10-12 Nantucket series placed in Timetribe (spec 479, now 6).
+
+### 2026-10-29: approved Lost-colony split and Second Sons intake
+Approval phonemsg-01M64CXKTBZPD549Z6EPDRPBDW follows corrected Hidden active-leader-repression definition. Umbrella0, children Hidden3 / Abandoned3 / Broken4. Second Sons3 original-year novels added; existing9 corpus unchanged. No Forgotten emptychild, no Pern chronology move or corpus repairs. New portraits852-854, variants inspected and chosen A/B/A. Local verification803nodes/2603fictions/5973books. Main owns live closeout before next intake.

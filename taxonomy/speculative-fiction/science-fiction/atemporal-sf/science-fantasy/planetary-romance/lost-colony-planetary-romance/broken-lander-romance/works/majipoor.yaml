@@ -4,7 +4,7 @@ authors:
 - Robert Silverberg
 first_published: 1980
 last_published: 2013
-canonical_genre: lost-colony-planetary-romance
+canonical_genre: broken-lander-romance
 placement_status: accepted
 included_titles:
 - Lord Valentine's Castle
@@ -48,3 +48,16 @@ placement_history:
     (curator "Approved" (phonemsg-01M48DAFVZE9B98WX5QCQ8ANMV, 2026-10-06 12:49 PM)).
   from: planetary-romance
   to: lost-colony-planetary-romance
+- date: '2026-10-29'
+  from: lost-colony-planetary-romance
+  to: broken-lander-romance
+  reason: Approved corrected three-child split (phonemsg-01M64CXKTBZPD549Z6EPDRPBDW). Persistent low-metal world limits broadly
+    reproducible industry despite inherited machines and occasional starship contact. Broken is the technological lifeline
+    metaphor, not a literal crash or total isolation. https://strangehorizons.com/wordpress/non-fiction/reviews/too-large-for-its-own-good-robert-silverbergs-second-majipoor-series/
+placement_rationale: '
+
+
+  Approved lost-colony split 2026-10-29: Persistent low-metal world limits broadly reproducible industry despite inherited
+  machines and occasional starship contact. Broken is the technological lifeline metaphor, not a literal crash or total isolation.
+  https://strangehorizons.com/wordpress/non-fiction/reviews/too-large-for-its-own-good-robert-silverbergs-second-majipoor-series/
+  Authority: phonemsg-01M64CXKTBZPD549Z6EPDRPBDW.'

@@ -4,7 +4,7 @@ authors:
 - George R. R. Martin
 - Lisa Tuttle
 first_published: 1981
-canonical_genre: lost-colony-planetary-romance
+canonical_genre: broken-lander-romance
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atemporal > Science fantasy > Planetary romance >
   Lost-colony planetary romance. Windhaven was settled by the crash of a colony starship; its people are the descendants of
@@ -13,7 +13,12 @@ placement_rationale: 'Root-down: Speculative fiction > Science fiction > Atempor
   the islands (georgerrmartin.com, Martin and Tuttle). The colony cut off from Earth whose old technology has become custom
   is the leaf''s definition. Rejected: Far-future planetary romance (Earth is not gone, the crash is remembered as history),
   Classic planetary romance (no Earth visitor). Wobble: it is a fix-up of earlier novellas and reads more like a social saga
-  of a flying caste than a quest romance; Lost-colony is still the nearest leaf.'
+  of a flying caste than a quest romance; Lost-colony is still the nearest leaf.
+
+
+  Approved lost-colony split 2026-10-29: Crashed colony ship and finite inherited sail material that descendants cannot reproduce
+  industrially; hereditary wing ownership is a later access restriction, not a general rejection of science. https://georgerrmartin.com/grrm_book/windhaven/
+  ; https://www.infinityplus.co.uk/nonfiction/windhaven.htm Authority: phonemsg-01M64CXKTBZPD549Z6EPDRPBDW.'
 books:
 - title: Windhaven
   year: 1981
@@ -29,3 +34,9 @@ placement_history:
 - date: '2026-10-04'
   to: lost-colony-planetary-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-29'
+  from: lost-colony-planetary-romance
+  to: broken-lander-romance
+  reason: Approved corrected three-child split (phonemsg-01M64CXKTBZPD549Z6EPDRPBDW). Crashed colony ship and finite inherited
+    sail material that descendants cannot reproduce industrially; hereditary wing ownership is a later access restriction,
+    not a general rejection of science. https://georgerrmartin.com/grrm_book/windhaven/ ; https://www.infinityplus.co.uk/nonfiction/windhaven.htm
