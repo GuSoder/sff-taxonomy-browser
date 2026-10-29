@@ -4,18 +4,22 @@ parent: occult-pi
 children: []
 image: 666-monster-pi.webp
 portrait: 666-monster-pi.webp
-definition: 'Occult PI who are not human in kind: a skinwalker, a house of daemon lords. What the investigator is,
-  not a learned craft, is the tool of the case. Not Mage PI (a trained human practitioner) and not PI meets Magic (an ordinary
+definition: 'Occult PI who are not human in kind: a skinwalker, a house of daemon lords. What the investigator is, not
+  a learned craft, is the tool of the case. Not Mage PI (a trained human practitioner) and not PI meets Magic (an ordinary
   human).'
 status: accepted
 works:
 - jane-yellowrock
 - daemons-inc
 - the-changeling-detective
-ruling: 'Split of Occult PI, approved by the curator ("Execute", phonemsg-01M4Q8PYNHZBPN276YRXKQZD65, 2026-10-12
-  7:17 AM CEST) after the intake''s "Approve split?" question; axis and names are the curator''s own ("phonemsg-01M4Q8NC7MK8STQWRARQJ75G3W":
-  Mage PI / Monster PI / PI meets Magic): what the investigator is - trained practitioner, creature, or ordinary human meeting
-  magic. Triggered by the nine-card gate.'
+- joe-pitt-casebooks
+ruling: 'Split of Occult PI, approved by the curator ("Execute", phonemsg-01M4Q8PYNHZBPN276YRXKQZD65, 2026-10-12 7:17
+  AM CEST) after the intake''s "Approve split?" question; axis and names are the curator''s own ("phonemsg-01M4Q8NC7MK8STQWRARQJ75G3W":
+  Mage PI / Monster PI / PI meets Magic): what the investigator is - trained practitioner, creature, or ordinary human
+  meeting magic. Triggered by the nine-card gate.'
 history:
 - date: '2026-10-12'
   change: Created by the Occult PI split; curator "Execute" (phonemsg-01M4Q8PYNHZBPN276YRXKQZD65).
+- date: '2026-10-29'
+  change: Received from Oldfangs fantasy,3to4. Whole-five-novel Joe Pitt detective-fiction correction under user grant
+    phonemsg-01M63B6PTVDTX8TZVYPSWGTJGP; metadata unchanged.
