@@ -1,0 +1,51 @@
+id: son-of-the-black-sword
+title: Son of the Black Sword
+authors:
+- Larry Correia
+first_published: 2015
+canonical_genre: messianic-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Revolutionary
+  fantasy > Messianic fantasy. Whole-six-novel correction approved 2026-10-29, phonemsg-01M635G9RJZMJNPCH83H3A0S8S, responding
+  to proposal phonemsg-01M6352Q47H0WCZEM4YKZKN1GJ. Invented Lok, not historical India or an Earth-crossing story. Across Son
+  of the Black Sword, House of Assassins, Destroyer of Worlds, Tower of Silence, Graveyard of Demons and Heart of the Mountain,
+  the caste rebellion gathers around Thera and her prophecy. Correia explicitly describes Ashok''s vow to protect this prophet
+  and rebellion leader, and calls the books one continuous story. Changing the caste order is the governing whole-fiction
+  conflict, not merely Ashok''s personal combat or unit campaigns. Messianic rather than Overthrow/Proletariat: sacred leadership
+  organizes the class uprising. Not foreign-occupation Rebel, official-cover Insurgent, covert-rescue Outlaw or Emancipation
+  without a mass sacred movement. Original Outcast rationale relied too much on opening-volume status. Sources: https://paulsemel.com/exclusive-interview-destroyer-of-worlds-author-larry-correia/
+  ; https://www.baen.com/destroyer-of-worlds.html ; https://www.baen.com/tower-of-silence.html ; https://www.simonandschuster.com/books/Graveyard-of-Demons/Larry-Correia/Saga-of-the-Forgotten-Warrior/9781668073025
+  ; https://www.simonandschuster.com/books/Heart-of-the-Mountain/Larry-Correia/Saga-of-the-Forgotten-Warrior/9781668072394
+  . Six-book list and bibliographic metadata unchanged.'
+books:
+- title: Son of the Black Sword
+  year: 2015
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781476780863-lg.jpg
+- title: House of Assassins
+  year: 2019
+- title: Destroyer of Worlds
+  year: 2020
+- title: Tower of Silence
+- title: Graveyard of Demons
+- title: Heart of the Mountain
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.baen.com/media/catalog/product/9/7/9781476780863-lg.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05837, MC05818, MC05813, MC05842, MC05814, MC05817)
+placement_history:
+- date: '2026-10-04'
+  to: warrior-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: warrior-hero
+  to: outcast-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this card sits
+    in Outcast knights.'
+- date: '2026-10-29'
+  from: outcast-knights
+  to: messianic-fantasy
+  reason: Whole-six-novel prophet-led caste-rebellion correction approved by user phonemsg-01M635G9RJZMJNPCH83H3A0S8S on proposal
+    phonemsg-01M6352Q47H0WCZEM4YKZKN1GJ. Six-book list and metadata unchanged.
