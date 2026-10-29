@@ -1,0 +1,79 @@
+id: green
+title: Green
+authors:
+- Jay Lake
+- Shannon Page
+first_published: 2009
+canonical_genre: invented-worship
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy
+  -> Invented mythology -> Invented gods -> Invented worship. Green contests temple and divine claims over her agency
+  across Green, Endurance and Kalimpura; the connected Our Lady of the Islands keeps the human-facing divine mission
+  within the same fiction. Faith, service and resistance qualify; devotional agreement is not required. User Approved
+  phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing
+  book lists unchanged.'
+books:
+- title: Green
+  year: 2009
+  cover_url: https://mpd-biblio-covers.imgix.net/9780765326478.jpg
+  authors:
+  - Jay Lake
+- title: Endurance
+  year: 2011
+  cover_url: https://elitistbookreviews.com/wp-content/uploads/2014/08/bafb8-endurance.jpg?x50127
+  authors:
+  - Jay Lake
+- title: Kalimpura
+  year: 2013
+  cover_url: https://publishersweekly.com/cover/9780765326775
+  authors:
+  - Jay Lake
+- title: Our Lady of the Islands
+  authors:
+  - Shannon Page
+  - Jay Lake
+  year: 2014
+  cover_url: https://www.shannonpage.net/wp-content/uploads/2020/11/ourladyoftheislands_72_color_revised.jpg
+classification_sources:
+- https://torpublishinggroup.com/the-green-universe-trilogy/?format=ebook&isbn=9781250305473
+- https://torpublishinggroup.com/green/?format=trade&isbn=9780765326478
+- https://www.kirkusreviews.com/book-reviews/jay-lake/green-4/
+- https://www.kirkusreviews.com/book-reviews/jay-lake/endurance2/
+- https://publishersweekly.com/978-0-7653-2676-8
+- https://torpublishinggroup.com/kalimpura/?format=trade&isbn=9780765327161
+- https://publishersweekly.com/9780765326775
+- https://www.kirkusreviews.com/book-reviews/jay-lake/kalimpura/
+- http://www.shelfinflicted.com/2013/08/reposting-lost-review-ninth-jay-lake.html
+- https://www.lightspeedmagazine.com/nonfiction/interview-jay-lake/
+- https://www.seattletimes.com/entertainment/books/green-a-slaves-fantastic-rebellion/
+- https://www.shannonpage.net/books/our-lady-of-the-islands/
+- https://outlandentertainment.com/blogs/blog/outland-entertainment-to-rerelease-our-lady-of-the-islands
+- https://best-books.publishersweekly.com/pw/best-books/2014
+- https://www.isfdb.org/cgi-bin/title.cgi?1803277=
+- https://sf-encyclopedia.com/entry/lake_jay
+cover_curation:
+  status: complete
+  source: Tor/Macmillan; Elitist Book Reviews; Publishers Weekly
+  selected_url: https://mpd-biblio-covers.imgix.net/9780765326478.jpg
+  visually_reviewed_on: '2026-10-28'
+  review_method: All3 English front-cover pixels inspected; remote only. Tor Kalimpura paperback image was a Cover Unavailable
+    placeholder, rejected in favor of exact PW hardcover.
+intake: ten-k walk v5 (queue ids MC04360, MC04361, MC04362)
+placement_history:
+- date: '2026-10-28'
+  to: invented-gods
+  reason: Root-down delegated intake under standing commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB. Accepted is placement
+    status, not title-specific user approval.
+- date: '2026-10-28'
+  to: invented-gods
+  reason: 'Source completion before next fiction: expanded Green shared universe from numbered3novels to4eligible novels
+    with Our Lady of the Islands. Coauthor Shannon Page recorded globally and exact per-volume, existing3remain Jay Lake
+    only. New English print cover actual pixels inspected.'
+- date: '2026-10-29'
+  from: invented-gods
+  to: invented-worship
+  reason: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented
+    mythology -> Invented gods -> Invented worship. Green contests temple and divine claims over her agency across Green,
+    Endurance and Kalimpura; the connected Our Lady of the Islands keeps the human-facing divine mission within the same
+    fiction. Faith, service and resistance qualify; devotional agreement is not required. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3,
+    2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing book lists unchanged.'

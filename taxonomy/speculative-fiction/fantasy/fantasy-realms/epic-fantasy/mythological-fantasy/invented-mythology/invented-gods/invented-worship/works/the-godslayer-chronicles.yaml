@@ -1,0 +1,45 @@
+id: the-godslayer-chronicles
+title: The Godslayer Chronicles
+authors:
+- James Clemens
+first_published: 2005
+canonical_genre: invented-worship
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy
+  -> Invented mythology -> Invented gods -> Invented worship. The human Graces live under invented gods through domains,
+  servitude and a conspiracy of divine murder across Shadowfall and Hinterland. The approved meaning of worship covers
+  living under, serving and resisting this divine order, not devotion by every character. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3,
+  2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing book lists unchanged.'
+books:
+- title: Shadowfall
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/8358190-L.jpg
+- title: Hinterland
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/8787801-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/8358190-L.jpg
+  visually_reviewed_on: '2026-10-27'
+  review_method: contact-sheet check
+intake: ten-k walk v5 (queue ids MC04160, MC04161)
+placement_history:
+- date: '2026-10-27'
+  to: outcast-knights
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-29'
+  from: outcast-knights
+  to: invented-gods
+  reason: Whole-fiction living-gods correction approved by user phonemsg-01M6397C47ZYA2QFTHAD9B1V9R on proposal phonemsg-01M6376MMP6GM9RSNTEF3S08PT.
+    Shared-universe published scope checked; two-book list and metadata unchanged.
+- date: '2026-10-29'
+  from: invented-gods
+  to: invented-worship
+  reason: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented
+    mythology -> Invented gods -> Invented worship. The human Graces live under invented gods through domains, servitude
+    and a conspiracy of divine murder across Shadowfall and Hinterland. The approved meaning of worship covers living
+    under, serving and resisting this divine order, not devotion by every character. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3,
+    2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing book lists unchanged.'
+classification_sources:
+- https://fantasybookcritic.blogspot.com/2013/08/a-paean-to-myrillia-godslayer.html

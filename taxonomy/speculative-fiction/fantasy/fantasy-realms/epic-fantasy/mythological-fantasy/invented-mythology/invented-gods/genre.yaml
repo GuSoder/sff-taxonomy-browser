@@ -1,40 +1,42 @@
 id: invented-gods
 label: Invented gods
 parent: invented-mythology
-children: []
+children:
+- invented-godhood
+- invented-worship
 image: 678-invented-gods.webp
 portrait: 678-invented-gods.webp
-definition: 'Invented mythology where the gods themselves are on the page: invented gods act, speak, fight or are fought as
-  characters, and the plot turns on what they do. Not Mythlike past (there the invented myth is an inherited past or backdrop
-  the story walks through), not Mythic power struggle (the beings come from real traditions).'
+definition: 'Invented mythology where the gods themselves are on the page: invented gods act, speak, fight or are fought
+  as characters, and the plot turns on what they do. Not Mythlike past (there the invented myth is an inherited past
+  or backdrop the story walks through), not Mythic power struggle (the beings come from real traditions). Umbrella divided
+  between sustained experience of divine existence (Invented godhood) and people living in relation to an invented divine
+  order (Invented worship). Worship includes faith, service, refusal, resistance, divine absence and search. Sustained
+  experience of divinity takes priority when both are substantial.'
 status: accepted
-works:
-- age-of-the-five
-- thunderer
-- warring-gods
-- warriors-of-estavia
-- the-raven-tower
-- the-dreamers
-- green
-- the-forsaken-trilogy
-- the-godslayer-chronicles
-- godkiller
-ruling: 'Split of Invented mythology at ten cards (Strange the Dreamer held at the gate), approved by the curator''s "Approved"
-  (2026-10-12 4:04:19 PM CEST, phonemsg-01M4R6VED1NEC7PPVQSVBN7CQ3, on his own names Invented gods / Mythlike past), after
-  the intake''s "Approve split?" question; names are the curator''s own. Axis: gods as actors on the page (Invented gods)
-  vs invented myth as inherited past or backdrop (Mythlike past). Softness: Audition for the Fox has a living acting god,
-  The Instrumentalities of the Night has living dark gods offstage, and The Spear Cuts Through Water carries a dying goddess
-  across the land, so those three sit in Mythlike past on balance. Cousin: Mythic power struggle.'
+works: []
+ruling: 'Split of Invented mythology at ten cards (Strange the Dreamer held at the gate), approved by the curator''s
+  "Approved" (2026-10-12 4:04:19 PM CEST, phonemsg-01M4R6VED1NEC7PPVQSVBN7CQ3, on his own names Invented gods / Mythlike
+  past), after the intake''s "Approve split?" question; names are the curator''s own. Axis: gods as actors on the page
+  (Invented gods) vs invented myth as inherited past or backdrop (Mythlike past). Softness: Audition for the Fox has
+  a living acting god, The Instrumentalities of the Night has living dark gods offstage, and The Spear Cuts Through Water
+  carries a dying goddess across the land, so those three sit in Mythlike past on balance. Cousin: Mythic power struggle.
+  User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY.
+  Existing book lists unchanged. Approved 4/6 thematic split; Godkiller overlaps both and follows godhood priority; Thunderer
+  includes divine absence/search in its sequel.'
 history:
 - date: '2026-10-12'
   change: Created by the Invented mythology split; the curator's "Approved" (2026-10-12 4:04:19 PM CEST, phonemsg-01M4R6VED1NEC7PPVQSVBN7CQ3,
     on his own names Invented gods / Mythlike past).
 - date: '2026-10-29'
-  change: Received The Forsaken Trilogy from Outcast knights, 7 to 8. User approval phonemsg-01M636XPB168TJEVV5JXXWNRR5; existing
-    three-book list unchanged.
+  change: Received The Forsaken Trilogy from Outcast knights, 7 to 8. User approval phonemsg-01M636XPB168TJEVV5JXXWNRR5;
+    existing three-book list unchanged.
 - date: '2026-10-29'
   change: Received The Godslayer Chronicles from Outcast knights, 8 to 9. User approval phonemsg-01M6397C47ZYA2QFTHAD9B1V9R;
     existing two-book list unchanged.
 - date: '2026-10-29'
   change: Received Godkiller from Outcast knights, 9 to 10; frozen immediately for split examination. User approval phonemsg-01M63B34YE7F2P5RRPXS1QJT50;
     existing three-book list unchanged.
+- date: '2026-10-29'
+  change: 'Became pure umbrella: Invented godhood 4 / Invented worship 6; all ten existing fictions redistributed, no
+    book-list additions. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY.
+    Existing book lists unchanged.'

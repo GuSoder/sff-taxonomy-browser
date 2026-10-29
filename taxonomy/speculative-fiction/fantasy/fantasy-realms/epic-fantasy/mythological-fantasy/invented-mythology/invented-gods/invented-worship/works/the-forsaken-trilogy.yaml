@@ -1,0 +1,61 @@
+id: the-forsaken-trilogy
+title: The Forsaken Trilogy
+authors:
+- RJ Barker
+first_published: 2023
+canonical_genre: invented-worship
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy
+  -> Invented mythology -> Invented gods -> Invented worship. The human ensemble experiences the invented gods through
+  the chosen-one claim, cowl and religious order across Gods of the Wyrdwood, Warlords of Wyrdwood and Heart of the Wyrdwood.
+  Service, coercion, refusal and resistance drive the human-facing relationship rather than sustained experience of being
+  a god. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY.
+  Existing book lists unchanged.'
+books:
+- title: Gods of the Wyrdwood
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14620294-L.jpg
+- title: Warlords of Wyrdwood
+  year: 2024
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2024/06/9780316401883_7e7f4d.jpg
+- title: Heart of the Wyrdwood
+  year: 2025
+  cover_url: https://shop.hachettebookgroup.com/cdn/shop/files/O_79939b42-4eda-4769-b6c4-736e3c01c518.jpg?v=1771855265
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14620294-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC08086, MC08087)
+placement_history:
+- date: '2026-10-04'
+  to: warrior-hero
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-05'
+  to: warrior-hero
+  reason: 'Intake from the 10k list: Warlords of Wyrdwood (MC08092) added to the existing series card (curator commission
+    phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: warrior-hero
+  to: outcast-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this card
+    sits in Outcast knights.'
+- date: '2026-10-29'
+  from: outcast-knights
+  to: invented-gods
+  reason: Whole-fiction divine-world correction approved by user phonemsg-01M636XPB168TJEVV5JXXWNRR5 on proposal phonemsg-01M636NVQQ10JC9VHMVXD2VXZY.
+    Shared-universe scope verified; existing three-book list and metadata unchanged.
+- date: '2026-10-29'
+  from: invented-gods
+  to: invented-worship
+  reason: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented
+    mythology -> Invented gods -> Invented worship. The human ensemble experiences the invented gods through the chosen-one
+    claim, cowl and religious order across Gods of the Wyrdwood, Warlords of Wyrdwood and Heart of the Wyrdwood. Service,
+    coercion, refusal and resistance drive the human-facing relationship rather than sustained experience of being a
+    god. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY.
+    Existing book lists unchanged.'
+classification_sources:
+- https://www.runalongtheshelves.net/interviews/2024/10/4/interviewing-rj-barker
+- https://thegenrenerd.com/2025/06/25/review-warlords-of-wyrdwood-by-rj-barker/
+- https://mikeofthepalace.wixsite.com/books/post/heart-of-the-wyrdwood-by-rj-barker

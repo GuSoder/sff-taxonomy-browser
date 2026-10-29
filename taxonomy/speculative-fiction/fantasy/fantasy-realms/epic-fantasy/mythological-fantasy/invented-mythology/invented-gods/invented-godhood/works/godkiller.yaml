@@ -1,0 +1,60 @@
+id: godkiller
+title: Godkiller
+authors:
+- Hannah Kaner
+first_published: 2023
+canonical_genre: invented-godhood
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy
+  -> Invented mythology -> Invented gods -> Invented godhood. Across Godkiller, Sunbringer and Faithbreaker, Skedi experiences
+  deity identity, belief, bonds, extinction and sacrifice, alongside Inara and the human-facing conflict with gods. This
+  strongly does both sides: the approved priority gives sustained experience of divinity precedence, not automatic priority
+  to any divine viewpoint. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY.
+  Existing book lists unchanged.'
+classification_sources:
+- https://www.kirkusreviews.com/book-reviews/hannah-kaner/godkiller/
+- https://fantasy-hive.co.uk/2024/01/sunbringer-by-hannah-kaner-book-review/
+- https://reactormag.com/book-review-faithbreaker-by-hannah-kaner/
+intake: 'gap-2022 tier-2 chunk 5 (Locus Recommended-only) + folded MC03671, MC03670 (Folded Sunbringer and Faithbreaker:
+  books two and three of the Godkiller (Fallen)'
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/13518204-L.jpg
+  visually_reviewed_on: null
+  review_method: OL search API title+author match
+placement_history:
+- date: '2026-09-27'
+  change: Placed in warrior-hero at tier-2 chunk-5 sweep (k2 81-100, the curator greenlight phonemsg-01M3J5GYJDEMZN7NHX40KQ8XET).
+- date: '2026-10-08'
+  reason: 'Folded Sunbringer and Faithbreaker: books two and three of the Godkiller (Fallen Gods) trilogy, same world
+    and cast (author site hannahkaner.com). A Snake Among Swans is a separate Wild Swans retelling and is not folded.'
+- date: '2026-10-12'
+  from: warrior-hero
+  to: outcast-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this card
+    sits in Outcast knights.'
+- date: '2026-10-29'
+  from: outcast-knights
+  to: invented-gods
+  reason: Whole-fiction living-gods correction approved by user phonemsg-01M63B34YE7F2P5RRPXS1QJT50 on proposal phonemsg-01M639D5F8X2M4P2KXJDSZTCA3.
+    Shared-universe published scope checked; three-book list and metadata unchanged.
+- date: '2026-10-29'
+  from: invented-gods
+  to: invented-godhood
+  reason: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented
+    mythology -> Invented gods -> Invented godhood. Across Godkiller, Sunbringer and Faithbreaker, Skedi experiences
+    deity identity, belief, bonds, extinction and sacrifice, alongside Inara and the human-facing conflict with gods.
+    This strongly does both sides: the approved priority gives sustained experience of divinity precedence, not automatic
+    priority to any divine viewpoint. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on
+    proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing book lists unchanged.'
+books:
+- title: Godkiller
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/13518204-L.jpg
+- title: Sunbringer
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14810938-L.jpg
+- title: Faithbreaker
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15151993-L.jpg

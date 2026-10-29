@@ -1,0 +1,49 @@
+id: thunderer
+title: Thunderer
+authors:
+- Felix Gilman
+first_published: 2007
+canonical_genre: invented-worship
+placement_status: accepted
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy
+  -> Invented mythology -> Invented gods -> Invented worship. Arjun seeks his lost god and Voice in Thunderer; Gears
+  of the City extends the human relationship to the divine into absence and the search for a god. The approved broad
+  meaning includes divine absence and search: this is not a claim that ongoing devotional worship is central in both
+  volumes. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY.
+  Existing book lists unchanged.'
+books:
+- title: Thunderer
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2519525-L.jpg
+- title: Gears of the City
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/11636586-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2519525-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03139, MC03134)
+placement_history:
+- date: '2026-10-04'
+  to: invented-mythology
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: invented-mythology
+  to: invented-gods
+  reason: 'Invented mythology split into Invented gods / Mythlike past on the curator''s approval; re-walked: this card
+    sits in Invented gods.'
+- date: '2026-10-29'
+  from: invented-gods
+  to: invented-worship
+  reason: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented
+    mythology -> Invented gods -> Invented worship. Arjun seeks his lost god and Voice in Thunderer; Gears of the City
+    extends the human relationship to the divine into absence and the search for a god. The approved broad meaning includes
+    divine absence and search: this is not a claim that ongoing devotional worship is central in both volumes. User Approved
+    phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing
+    book lists unchanged.'
+classification_sources:
+- https://fantasybookcritic.blogspot.com/2007/12/thunderer-by-felix-gilman.html
+- https://fantasybookcritic.blogspot.com/2008/12/gears-of-city-by-felix-gilman-reviewed.html
+- https://gizmodo.com/gears-of-the-city-wanders-a-fantastical-godless-urba-5157081
