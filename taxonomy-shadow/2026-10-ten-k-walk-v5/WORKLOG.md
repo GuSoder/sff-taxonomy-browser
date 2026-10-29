@@ -299,3 +299,5 @@ K cluster MC05576-05604: specs 419-429.
 
 ### 2026-10-29: approved Lost-colony split and Second Sons intake
 Approval phonemsg-01M64CXKTBZPD549Z6EPDRPBDW follows corrected Hidden active-leader-repression definition. Umbrella0, children Hidden3 / Abandoned3 / Broken4. Second Sons3 original-year novels added; existing9 corpus unchanged. No Forgotten emptychild, no Pern chronology move or corpus repairs. New portraits852-854, variants inspected and chosen A/B/A. Local verification803nodes/2603fictions/5973books. Main owns live closeout before next intake.
+
+2026-10-29 19:19: FirstKillMC04434 skip-short; Hythrun Chronicles8eligible novels one fiction to Dynastic spy games8→9 after whole8research, genuineMagic/Worship rivals recorded. NextMC04437TideLords, no out-of-intake additions.
