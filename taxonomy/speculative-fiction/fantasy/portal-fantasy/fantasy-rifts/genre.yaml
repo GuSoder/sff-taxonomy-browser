@@ -5,10 +5,14 @@ children:
 - multiverse-fantasy
 - otherworld-fantasy
 - world-bleeds
+- planetary-portal-fantasy
 works: []
 image: 129-fantasy-rifts.webp
-definition: 'Portal fantasy of rifts between realities: a free-floating tear or an opened channel may lead people
-  across, or allow another world to leak into ours without human travel. Otherworld is one hidden world found or
-  revealed; Multiverse is a many-world cosmology; World Bleeds is the leak without a journey. World Bleeds added
-  on curator ruling phonemsg-01M3P75RM8YV1VNTH0R3E65J53 (''Ok, execute'') 2026-09-29.'
+definition: 'Portal fantasy of rifts between worlds: a free-floating tear or an opened channel may lead people across, or allow another world
+  to leak into ours without human travel. Otherworld is one hidden mythic world found or revealed; Multiverse is a many-world cosmology; Planetary
+  portal fantasy connects planets within our universe; World bleeds is the leak without a journey.'
 status: accepted
+history:
+- date: '2026-10-29'
+  change: Curator Approved phonemsg-01M64QTMDMT9Y1K5ETKPYYD3VY, 2026-10-29 22:07 CET, on seed proposal phonemsg-01M64F2JC7HPYKGBJGJYKAPYPX including
+    explicit Fantasy rifts wording change from realities to worlds. Multiverse unchanged.
