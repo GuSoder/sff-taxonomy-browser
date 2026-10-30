@@ -44,7 +44,7 @@ Written 2026-10-13 after the curator asked why rules get forgotten mid-walk. Run
 2. The honest leaf is at 9 or 10 fictions = a split proposal, served at once ("Approve split?:"). Never place the tenth card, never hold it.
 3. One open decision at a time. While a seed, split or bundle question is open, intake pauses: no placements, no new questions. Resume when he answers.
 4. Show the full root-down walk in the question and in the yaml `why`: every branch tried, why each failed, the wobble, and where the sources are thin. Every plot detail comes from a source read.
-5. Never a parked pile. Only non-fiction with no speculative proof, children's books, novellas, collections, anthologies, omnibus rows and media tie-ins are skipped. A fiction is placed, or it is a seed or split proposal.
+5. Never a parked pile. Non-fiction with no speculative proof, novellas, collections, anthologies, omnibus rows and media tie-ins are skipped. Do not infer a blanket juvenile/YA exclusion from audience labels; see the 2026-10-30 scope reconciliation below. A fiction is placed, or it is a seed or split proposal.
 6. Also still in force: no empty leaves, shared universe = one card, portraits without bows, arrows, quivers, violin bows or franchise references, and only the curator approves structural change (real message ID cited before anything executes).
 
 Rows already marked HELD-walked in verdicts-pass1.tsv before this checklist are owed a proposal under rules 1 and 2; they are served one at a time as the curator answers.
@@ -66,3 +66,6 @@ Curator clarification phonemsg-01M66ABATXVE9HVF53454XKE1D, rejecting the propose
 ## Individual fiction authority clarified (curator, 2026-10-30)
 
 Original phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX, after the CoDominium move/consolidation proposal: "What's there to approve? I told you I trust your judgment on single books and fictions, and if it is a shared universe it is one fiction". Individual book and whole-fiction moves and shared-universe consolidations are covered by his trust; do not ask approval again for those. New genres, splits, umbrellas and definition changes still require the structural approval process. This clarification does not authorize unrelated corpus repairs or additions outside the active fiction.
+
+## Juvenile scope reconciliation, 2026-10-30
+The checklist's former blanket "children's books" phrase was agent-authored in commit80c75a6a, without an owner source. It cannot create a user ban. Original owner instructions included Juvenile SF under Upbeat SF (phonemsg-01M2GVQ0VM5KEENS8AW0TG8VK1, September14), then moved its existing juvenile fiction into Golden Age Space opera while dissolving that audience genre (phonemsg-01M2Z56W6WC8MQ8ACBWN9DKYH1 and phonemsg-01M2Z5M2Q0QWH43WH2ESHBBPAH, September20). Starswarm is therefore judged on content, not silently excluded for being a Heinlein-style YA/juvenile novel. This reconciles this placement against actual originals; it does not invent a new global age policy, reopen old exclusions, or authorize unrelated corpus repairs.
