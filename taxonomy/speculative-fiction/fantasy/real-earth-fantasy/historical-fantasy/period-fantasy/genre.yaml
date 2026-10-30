@@ -6,10 +6,13 @@ children:
 - industrial-age-fantasy
 - long-chronicle-fantasy
 image: 140-period-fantasy.webp
-definition: Historical fantasy anchored to a documented era, whose source is chronicles and recorded history; the era is the
-  stage, not a puzzle secretly explained or rewritten.
+definition: Historical fantasy anchored to a documented era or Earth's imagined prehistory. Chronicles and recorded
+  history supply the documented eras; the era is the stage, not a puzzle secretly explained or rewritten.
 status: umbrella
 works: []
 history:
 - date: '2026-10-14'
   change: 'Child added: long-chronicle-fantasy (curator phonemsg-01M4WX3F14QYD0VR5P9WVP9876, renamed at phonemsg-01M4WX5MF14E9HHZM76SQ4R325).'
+- date: '2026-10-30'
+  change: Explicit imagined-prehistory exception added for the Prehistoric fantasy widening. User Approved phonemsg-01M65YNHRGGQ2XMXG15VX8Q57F
+    (2026-10-30 09:26 CET), replying to proposal phonemsg-01M64V3RH65JSJSQR4S0DY9KZR.
