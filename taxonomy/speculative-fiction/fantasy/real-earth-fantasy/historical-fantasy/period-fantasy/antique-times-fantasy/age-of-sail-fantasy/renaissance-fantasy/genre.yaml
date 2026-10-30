@@ -4,10 +4,12 @@ parent: age-of-sail-fantasy
 children:
 - mediterranean-renaissance-fantasy
 - northern-renaissance-fantasy
+- pan-european-renaissance-fantasy
 image: 144-renaissance-fantasy.webp
 definition: 'Fantasy anchored to Renaissance history, culture and personalities. Umbrella since 2026-10-05: split-with-umbrella
   by where the story''s Renaissance is - Mediterranean Renaissance fantasy, Northern Renaissance fantasy (curator "Reneaissance
-  fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)).'
+  fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)). Pan-European Renaissance fantasy
+  added for sustained action across both geographic regions, rather than incidental travel from one regional home.'
 status: accepted
 works: []
 ruling: curator "Reneaissance fantasy split is approved" (phonemsg-01M46FGJHWN26FWJSP4VH3VGQE, 2026-10-05 6:49 PM)
@@ -15,3 +17,6 @@ history:
 - date: '2026-10-21'
   change: Re-parented under Age of sail fantasy in the antiquity and early modern bundles (curator "Approved", phonemsg-01M5FZGNGS9X8DP59QAXEPT87E,
     2026-10-21 9:37 PM).
+- date: '2026-10-30'
+  change: Third geographic child seeded for The Enterprise of Death; existing two holdings unchanged.
+  authority: phonemsg-01M66CBRKJ52Z51K11KQX891ZD

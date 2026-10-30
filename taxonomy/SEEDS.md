@@ -76,3 +76,6 @@ Established genre phrase (WIRED https://www.wired.com/2011/07/cyber-noir-finale-
 
 ## Impostor torment (2026-10-30)
 Sixth Torment fantasy child, Bedfellow one2018novel. Positive mechanism is nonhuman trusted-role insertion and predation, not unspecified-entity remainder. No established ancientgod/demon/Satanic/prehuman/vengeance identity, so existing siblings not stretched. Honest ceiling one fiction; no other kin/moves. Approved phonemsg-01M6630QDARAFTFE44N306K0K6 on phonemsg-01M661Z81ADYZE3828EEWSCZKZ.
+
+## Pan-European Renaissance fantasy (2026-10-30)
+Approved phonemsg-01M66CBRKJ52Z51K11KQX891ZD on proposal phonemsg-01M66C9BDQQSDVVBDETCRCMSZX. Third geographic Renaissance child for sustained action across Mediterranean and northern Europe; one fiction/one novel, The Enterprise of Death (Bullington2011), no existing moves. Descriptive sibling-pattern name, not established genre; exact phrase/franchise scan found no exact fiction/game title. Weakness: long; Pan-European alone may suggest Europe generally, so definition requires both regions materially. Itinerant too journey-specific; Transalpine omits Pyrenees. Reciprocal boundary lines distinguish sustained multi-region action from incidental travel only. Portrait857 variantB, inspected at size: coherent southern/northern landscape linked by bridge, spectral traveler, no visible hands/bows/text.
