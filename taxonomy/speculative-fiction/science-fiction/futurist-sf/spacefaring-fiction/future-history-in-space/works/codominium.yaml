@@ -31,60 +31,77 @@ placement_rationale: 'Speculative fiction > Science fiction > Futurist SF > Spac
 books:
 - title: The Mote in God's Eye
   year: 1974
-  cover_url: https://covers.openlibrary.org/b/id/408133-L.jpg
+  cover_url: covers/codominium/the-mote-in-god-s-eye.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/408133-L.jpg
 - title: West of Honor
   year: 1976
-  cover_url: https://covers.openlibrary.org/b/id/6821377-L.jpg
+  cover_url: covers/codominium/west-of-honor.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/6821377-L.jpg
 - title: The Mercenary
   year: 1977
-  cover_url: https://covers.openlibrary.org/b/id/9519784-L.jpg
+  cover_url: covers/codominium/the-mercenary.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/9519784-L.jpg
 - title: King David's Spaceship
   year: 1981
-  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/0/6/0671431056-lg.jpg
+  cover_url: covers/codominium/king-david-s-spaceship.jpg
+  source_cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/0/6/0671431056-lg.jpg
 - title: Prince of Mercenaries
   year: 1989
-  cover_url: https://covers.openlibrary.org/b/id/407471-L.jpg
+  cover_url: covers/codominium/prince-of-mercenaries.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/407471-L.jpg
 - title: Go Tell the Spartans
   year: 1991
-  cover_url: https://covers.openlibrary.org/b/id/6505584-L.jpg
+  cover_url: covers/codominium/go-tell-the-spartans.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/6505584-L.jpg
 - title: Blood Feuds
   year: 1993
-  cover_url: https://covers.openlibrary.org/b/isbn/9780671721503-L.jpg
+  cover_url: covers/codominium/blood-feuds.jpg
+  source_cover_url: https://covers.openlibrary.org/b/isbn/9780671721503-L.jpg
 - title: The Gripping Hand
   year: 1993
-  cover_url: https://covers.openlibrary.org/b/id/6689695-L.jpg
+  cover_url: covers/codominium/the-gripping-hand.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/6689695-L.jpg
 - title: Prince of Sparta
   year: 1993
-  cover_url: https://covers.openlibrary.org/b/id/6902850-L.jpg
+  cover_url: covers/codominium/prince-of-sparta.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/6902850-L.jpg
 - title: Blood Vengeance
   year: 1994
-  cover_url: https://covers.openlibrary.org/b/id/407711-L.jpg
+  cover_url: covers/codominium/blood-vengeance.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/407711-L.jpg
 - title: The Battle of Sauron
   year: 2007
-  cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_The_Battle_of_Sauron.jpg
+  cover_url: covers/codominium/the-battle-of-sauron.jpg
+  source_cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_The_Battle_of_Sauron.jpg
 - title: Outies
   year: 2010
-  cover_url: https://covers.openlibrary.org/b/id/10691259-L.jpg
+  cover_url: covers/codominium/outies.jpg
+  source_cover_url: https://covers.openlibrary.org/b/id/10691259-L.jpg
 - title: Cyborg Revolt
   year: 2013
-  cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_Cyborg_Revolt.jpg
+  cover_url: covers/codominium/cyborg-revolt.jpg
+  source_cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_Cyborg_Revolt.jpg
 - title: Falkenberg's Regiment
   year: 2018
-  cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_Falkenbergs_Regiment.jpg
+  cover_url: covers/codominium/falkenberg-s-regiment.jpg
+  source_cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_Falkenbergs_Regiment.jpg
 - title: Andromeda Flight
   year: 2021
-  cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_Andromeda_Flight.jpg
+  cover_url: covers/codominium/andromeda-flight.jpg
+  source_cover_url: https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/books/images/WarWorld_-_Andromeda_Flight.jpg
 - title: The Falkenberg Protectorate
   year: 2023
-  cover_url: https://images.booksense.com/images/843/912/9780937912843.jpg
+  cover_url: covers/codominium/the-falkenberg-protectorate.jpg
+  source_cover_url: https://images.booksense.com/images/843/912/9780937912843.jpg
 cover_curation:
-  selected_url: https://covers.openlibrary.org/b/id/9261060-L.jpg
+  selected_url: covers/codominium/the-mote-in-god-s-eye.jpg
   shows_english_title: true
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
   status: complete
   visually_reviewed_on: '2026-10-30'
   review_method: All16 covers inspected in contact sheet; King David and Battle of Sauron title-page images rejected and replaced
     with publisher covers; two replacements inspected separately. Existing representative Mote cover preserved.
+  source_selected_url: https://covers.openlibrary.org/b/id/9261060-L.jpg
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
 intake: ten-k walk v5 MC04506; existing Mote2 plus14distinct eligible novels
 book_credits:
