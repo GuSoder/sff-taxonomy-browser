@@ -1,0 +1,1 @@
+Official image http://images.penguinrandomhouse.com/cover/700jpg/9781101157534 observed at https://astrapublishinghouse.com/product/grasp-the-stars-9781101157534/ -> cover-grasp-the-stars.jpg434x700. Inspected310x500 front2026-10-30 English title/author/DAW and station sabotage tagline.
