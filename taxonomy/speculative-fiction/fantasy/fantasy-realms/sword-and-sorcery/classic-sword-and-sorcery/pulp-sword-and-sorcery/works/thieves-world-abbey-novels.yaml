@@ -5,15 +5,13 @@ authors:
 first_published: 2003
 canonical_genre: pulp-sword-and-sorcery
 placement_status: accepted
-placement_rationale: 'Thieves'' World novels (Abbey, 2002/2007): revival of the Sanctuary shared-world S&S line; Pulp S&S
-  def runs through the Black Company.'
+placement_rationale: Sanctuary retained in the Thieves' World fiction after removing unrelated Rifkind's Challenge.
+  Existing title, year and cover retained. Separation approved phonemsg-01M6600BJE63FWFEYY0KHGNYZA; Cleric hero
+  destination explicitly approved phonemsg-01M66033QPNHMWVR6YTESV4ZST (2026-10-30), following clarification phonemsg-01M6601A9DT5FDRSHHAJVADY8W.
 books:
 - title: Sanctuary
   year: 2003
   cover_url: https://covers.openlibrary.org/b/id/10141738-L.jpg
-- title: Rifkind's Challenge
-  year: 2007
-  cover_url: https://covers.openlibrary.org/b/id/524626-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -24,5 +22,9 @@ intake: ten-k walk v5 (queue ids MC06165, MC06164)
 placement_history:
 - date: '2026-10-04'
   to: pulp-sword-and-sorcery
-  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator
-    ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+  reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live
+    tree (curator ruling phonemsg-01M43PCHC0ZAEWEVCJF5MDZ3ZY).'
+- date: '2026-10-30'
+  change: Unrelated Rifkind Challenge extracted into Cleric hero; Sanctuary retained. Separation approved phonemsg-01M6600BJE63FWFEYY0KHGNYZA;
+    Cleric hero destination explicitly approved phonemsg-01M66033QPNHMWVR6YTESV4ZST (2026-10-30), following clarification
+    phonemsg-01M6601A9DT5FDRSHHAJVADY8W.

@@ -1,0 +1,5 @@
+# Rifkind-only approved separation2026-10-30
+
+Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Caster heroes > Cleric hero. Rifkind is an invented-world goddess-empowered healer; her sacred power comes through service to the Bright Moon, not a Celtic cultural inference. The broad epic journey/gods/worldbuilding gate applies, then Heroic sorts her primary power source. Armed intimate adventure is a genuine Sword and Sorcery rival, but deity-granted healing supplies the more specific class. This fiction is distinct from Sanctuary/Thieves' World. Only its one already-listed volume is represented; no missing volumes or year corrections made. Separation approved phonemsg-01M6600BJE63FWFEYY0KHGNYZA; Cleric hero destination explicitly approved phonemsg-01M66033QPNHMWVR6YTESV4ZST (2026-10-30), following clarification phonemsg-01M6601A9DT5FDRSHHAJVADY8W.
+
+Cleric1->2/Pulp8unchanged;804nodes/2613fictions/6011books. Sanctuary retained. No definition changes, missing volumes, Sword intake or metadata repair. Existing2007editionyear preserved, not asserted originalpublicationyear.

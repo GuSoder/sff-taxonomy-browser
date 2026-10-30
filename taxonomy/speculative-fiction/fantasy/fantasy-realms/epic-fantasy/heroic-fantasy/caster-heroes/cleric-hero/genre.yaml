@@ -3,7 +3,14 @@ label: Cleric hero
 parent: caster-heroes
 children: []
 image: 194-cleric-hero.webp
-definition: Caster-hero fantasy whose protagonist’s primary power comes through service to a deity, sacred calling or accepted divine burden.
+definition: Caster-hero fantasy whose protagonist’s primary power comes through service to a deity, sacred calling
+  or accepted divine burden.
 status: accepted
 works:
 - world-of-the-five-gods
+- rifkinds-challenge
+history:
+- date: '2026-10-30'
+  change: Existing Rifkind Challenge extracted from unrelated Sanctuary card and placed here;1 to2fictions. Separation
+    approved phonemsg-01M6600BJE63FWFEYY0KHGNYZA; Cleric hero destination explicitly approved phonemsg-01M66033QPNHMWVR6YTESV4ZST
+    (2026-10-30), following clarification phonemsg-01M6601A9DT5FDRSHHAJVADY8W.
