@@ -62,3 +62,7 @@ Rows already marked HELD-walked in verdicts-pass1.tsv before this checklist are 
 ## Evergreen space opera: economic gate (curator, 2026-10-30)
 
 Curator clarification phonemsg-01M66ABATXVE9HVF53454XKE1D, rejecting the proposed Norstrilia move: "No, Evergreen is about always economically viable classic sci fi, only Dune and Star Wars live up to this". Evergreen means lasting commercial viability, not simply enduring literary reputation or classic status. The examples clarify the gate; they do not authorize adding Star Wars or changing other cards. Norstrilia's Evergreen proposal was withdrawn.
+
+## Individual fiction authority clarified (curator, 2026-10-30)
+
+Original phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX, after the CoDominium move/consolidation proposal: "What's there to approve? I told you I trust your judgment on single books and fictions, and if it is a shared universe it is one fiction". Individual book and whole-fiction moves and shared-universe consolidations are covered by his trust; do not ask approval again for those. New genres, splits, umbrellas and definition changes still require the structural approval process. This clarification does not authorize unrelated corpus repairs or additions outside the active fiction.
