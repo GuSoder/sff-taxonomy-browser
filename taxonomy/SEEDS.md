@@ -73,3 +73,6 @@ Approved seed with a generalizing umbrella: Bioengineering occupies the existing
 
 ## Cyberpunk noir (2026-10-29)
 Established genre phrase (WIRED https://www.wired.com/2011/07/cyber-noir-finale-with-the-final-evolution/ ; CrimeReads https://crimereads.com/5-classics-of-cyberpunk-noir/), not coinage. Fifth child of Cyberpunk for Avery Cates, one fiction/eight novels. Complete serial novels count once, individual novella sections and duplicate omnibus editions excluded. Cybernoir rejected for franchise collision. Minimal approved umbrella insertion: alienated outsiders in corrupt high-tech societies. No existing moves. User Approved phonemsg-01M63MMG73SWP6PHD5R18R7R4R, 2026-10-29 11:52:33 CET, on proposal phonemsg-01M63M2P4XWV8QH153T021HXK7.
+
+## Impostor torment (2026-10-30)
+Sixth Torment fantasy child, Bedfellow one2018novel. Positive mechanism is nonhuman trusted-role insertion and predation, not unspecified-entity remainder. No established ancientgod/demon/Satanic/prehuman/vengeance identity, so existing siblings not stretched. Honest ceiling one fiction; no other kin/moves. Approved phonemsg-01M6630QDARAFTFE44N306K0K6 on phonemsg-01M661Z81ADYZE3828EEWSCZKZ.
