@@ -58,3 +58,7 @@ Rows already marked HELD-walked in verdicts-pass1.tsv before this checklist are 
 
 ## Standing rule: explicit structural requests skip the Approve block (curator, 2026-10-14)
 "Stop asking for approve if I explicitly asked you to do bundles and moves, approve questions was to slimline big intakes" (phonemsg-01M4XATQCWY1E291J460A3XGX2, 3:50 PM CEST). When the curator explicitly asks for a bundle, move, rename or dissolve, do it directly: execute, verify live, report counts and link. Approve blocks stay only for seeds, splits, and moves the agent proposes out of intake.
+
+## Evergreen space opera: economic gate (curator, 2026-10-30)
+
+Curator clarification phonemsg-01M66ABATXVE9HVF53454XKE1D, rejecting the proposed Norstrilia move: "No, Evergreen is about always economically viable classic sci fi, only Dune and Star Wars live up to this". Evergreen means lasting commercial viability, not simply enduring literary reputation or classic status. The examples clarify the gate; they do not authorize adding Star Wars or changing other cards. Norstrilia's Evergreen proposal was withdrawn.
