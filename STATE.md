@@ -1299,3 +1299,6 @@ Complete duology (Mageborn, Nightborn; Bookouture 2020, Hachette reissue 2025). 
 
 ## 2026-10-31 - MC04539+MC04540 Nevermoor (Jessica Townsend) -> Grey Mages
 4 published vols (Nevermoor 2017, Wundersmith 2018, Hollowpox 2020, Silverborn 2025; Hachette). Morrigan Crow learns the Wundersmith's craft (wild Wunder, undefined art) in the invented-world Wundrous Society -> mage-hero > grey-mages (8->9), same slot as Earthsea. Not magic-school (real-earth branch; Nevermoor is a wholly invented world). Per-volume AU Hachette covers served locally.
+
+## 2026-10-31 - MC04541+MC04543+MC04546 Consortium Rebellion (Jessie Mihalik) -> Space romance (9->10 FREEZE FLAGGED)
+Complete trilogy (Polaris Rising, Aurora Blazing 2019, Chaos Reigning 2020; Harper Voyager). One self-contained von Hasenberg sister romance per volume against the High Houses' alcubium war; romance is the spine in every volume = space-romance def exactly. Leaf hit 10 with this card; freeze-at-10 flagged to parent before the next card (Starlight's Shadow, MC04542+44+45, same leaf, is held pending ruling). Covers: per-volume author-site published jackets served locally.

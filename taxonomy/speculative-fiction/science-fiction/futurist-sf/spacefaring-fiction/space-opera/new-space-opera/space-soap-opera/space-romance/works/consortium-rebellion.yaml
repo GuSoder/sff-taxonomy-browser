@@ -1,0 +1,41 @@
+id: consortium-rebellion
+title: Consortium Rebellion
+authors:
+- Jessie Mihalik
+first_published: 2019
+canonical_genre: space-romance
+placement_status: accepted
+placement_rationale: 'Complete space opera romance trilogy (Harper Voyager, 2019-2020).
+  Three von Hasenberg sisters, one self-contained romance per volume - runaway princess
+  Ada and outlaw soldier Marcus Loch (Polaris Rising), widowed spymaster Bianca and the
+  family''s security advisor (Aurora Blazing), socialite spy Catarina undercover with a
+  bodyguard posing as her lover (Chaos Reigning) - against the High Houses'' war over
+  the alcubium FTL mineral. The romantic relationship is the plot''s spine in every
+  volume, with interstellar society and conflict shaping who can be together: Space
+  romance, exactly the leaf definition. Sources: jessiemihalik.com series/book pages,
+  harpercollins.com, Goodreads series 248909.'
+books:
+- title: Polaris Rising
+  year: 2019
+  cover_url: cover-polaris-rising.jpg
+- title: Aurora Blazing
+  year: 2019
+  cover_url: cover-aurora-blazing.jpg
+- title: Chaos Reigning
+  year: 2020
+  cover_url: cover-chaos-reigning.jpg
+cover_curation:
+  status: complete
+  source: author site (jessiemihalik.com, published jackets)
+  selected_url: https://www.jessiemihalik.com/wp-content/uploads/2018/12/PolarisRising.jpg
+  original_urls:
+  - https://www.jessiemihalik.com/wp-content/uploads/2018/12/PolarisRising.jpg
+  - https://www.jessiemihalik.com/wp-content/uploads/2019/03/AuroraBlazing_PB_web.jpg
+  - https://www.jessiemihalik.com/wp-content/uploads/2019/11/ChaosReigning_PB_web.jpg
+  visually_reviewed_on: '2026-10-31'
+  review_method: individual download and visual check per volume
+intake: sequential whole-fiction intake (queue ids MC04541, MC04543, MC04546)
+placement_history:
+- date: '2026-10-31'
+  to: space-romance
+  reason: 'Sequential intake from merged-candidates-2026-10 (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB). Leaf hits 10 with this card: freeze-at-10 flagged to parent 2026-10-31.'
