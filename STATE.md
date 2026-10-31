@@ -1278,3 +1278,9 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 - Medieval definition corrected at same approval: pre-Black-Death cap removed, full medieval cultural stage incl. 15th c.; Plague gate unchanged; no Autumn restoration.
 - Portraits 858-haunting (grave-risen boy), 859-fey (leaf-dressed faerie + hooded outlaw), 860-folklore (hearth domovoi), 861-spiritual (demonic shadow over congregation), all 1024x1536, we-judged A/A/A/B. No bows, hands clean, no text.
 - Folly cover OL id 10589394 (US Orbit 2012). yaml mirror moved 9 works + new folly yaml; medieval genre.yaml history entry.
+
+## 2026-10-31 20:44 - Intake MC04530 Brothers Grossbart into Medieval Spiritual
+- The Sad Tale of the Brothers Grossbart (Bullington, Orbit 2009) -> Medieval Spiritual (3->4). Existing-leaf placement under the 2026-10-30 autonomy ruling (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX), no approval needed.
+- Basis: Christian supernatural operative on-page (demons possess/walk, plague demon hunted by priest Martyn, Heinrich's soul-sale; publisher "living saints and livelier demons"); approved widened Spiritual scope covers it. Folk menagerie (werewolf, cat-men, witch, sea-monsters, salamander) disclosed as episodic crossover, not the engine. Not Plague: set 1364, pestilence past.
+- Cover: US Orbit jacket from author's site, served locally (cover-the-sad-tale-of-the-brothers-grossbart.jpg, 400x600).
+- Gate OK: 810 nodes, 2628 cards / 6,055 books. Commit 2dca4e9.
