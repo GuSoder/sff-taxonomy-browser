@@ -1288,3 +1288,8 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 ## 2026-10-31 20:48 - MC04531 skipped, MC04532 excluded
 - MC04531 An Edge Sharp Enough (Sutanto, Harper Voyager) SKIPPED: forthcoming (publishes 2026-11-17); unpublished-volume exclusion confirmed by main 2026-10-31 20:48, no revisit obligation. Recorded in candidates.tsv.
 - MC04532 Brave Like Fireweed (Jesse White) EXCLUDED: 40-page children's picture book (Union Square Kids 2024) - not an SFF novel; slipped the non-novel filter. Recorded in candidates.tsv.
+
+## 2026-10-31 20:52 - MC04533 excluded; MC04534+35 The Lost Queen into Royal enemies romantasy
+- MC04533 Bourbon, Sugar, Grace (Reisman) EXCLUDED: Tor.com 2017 novelette, shorter than a novella.
+- MC04534+MC04535 collapsed: The Lost Queen trilogy (Jessica Thorne, Bookouture Second Sky 2024; A Touch of Shadows / A Kiss of Flame / A Crown of Darkness, all published) -> Royal enemies romantasy (4->5). Whole-arc: book 1 Crown-outlaw register (hunted shadow-mage vs crown knight), settling on two rival royal houses (Wren = lost queen of Asteroth's daughter; Finn = enemy king's son). Cover: book 1 jacket from publisher CDN, served locally.
+- Gate OK: 810 nodes, 2629 cards / 6,058 books.
