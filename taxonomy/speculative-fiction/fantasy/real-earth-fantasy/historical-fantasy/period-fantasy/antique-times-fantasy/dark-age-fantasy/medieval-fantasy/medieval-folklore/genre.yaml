@@ -1,0 +1,17 @@
+id: medieval-folklore
+label: Medieval Folklore
+parent: medieval-fantasy
+children: []
+image: 860-medieval-folklore.webp
+definition: 'Medieval fantasy of the spirits and creatures of folk legend: household and water spirits, witches, cursed men
+  and the old powers of the countryside.'
+status: accepted
+works:
+- winternight-trilogy
+- the-wolf-and-his-king
+- knights-wyrd
+label_status: curator-coinage
+history:
+- date: '2026-10-31'
+  change: Created in the approved four-way split of Medieval fantasy (phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9); definitions and
+    distribution as served.

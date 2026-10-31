@@ -3,7 +3,7 @@ title: Son of the Morning
 authors:
 - Mark Alder
 first_published: 2013
-canonical_genre: medieval-fantasy
+canonical_genre: medieval-spiritual
 placement_status: accepted
 placement_rationale: 'Mark Alder''s Son of the Morning and Son of the Night run the Hundred Years War from 1337: Edward III
   against Philip VI, with angels and demons answering kings'' prayers (Simon & Schuster, Hachette). Fourteenth-century kingdoms
@@ -26,3 +26,7 @@ placement_history:
 - date: '2026-10-04'
   to: medieval-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-31'
+  previous_canonical_genre: medieval-fantasy
+  note: Re-walked in the approved four-way split of Medieval fantasy (phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9); dominant whole-fiction
+    engine places it in Medieval Spiritual.

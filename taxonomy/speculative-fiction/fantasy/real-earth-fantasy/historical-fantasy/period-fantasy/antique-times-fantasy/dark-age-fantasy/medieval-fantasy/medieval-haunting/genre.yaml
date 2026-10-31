@@ -1,0 +1,17 @@
+id: medieval-haunting
+label: Medieval Haunting
+parent: medieval-fantasy
+children: []
+image: 858-medieval-haunting.webp
+definition: 'Medieval fantasy of ghosts, revenants and uncanny returns of the dead: the grave does not hold, and the living
+  must reckon with what comes back.'
+status: accepted
+works:
+- the-castle-of-otranto
+- once-was-willem
+- the-folly-of-the-world
+label_status: curator-coinage
+history:
+- date: '2026-10-31'
+  change: Created in the approved four-way split of Medieval fantasy (phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9); definitions and
+    distribution as served.

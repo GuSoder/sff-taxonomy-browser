@@ -1,0 +1,15 @@
+id: medieval-fey
+label: Medieval Fey
+parent: medieval-fantasy
+children: []
+image: 859-medieval-fey.webp
+definition: 'Medieval fantasy of the Fair Folk and their realm: faerie powers with their own ancient politics pressing against
+  the human world.'
+status: accepted
+works:
+- the-hood
+label_status: curator-coinage
+history:
+- date: '2026-10-31'
+  change: Created in the approved four-way split of Medieval fantasy (phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9); definitions and
+    distribution as served.

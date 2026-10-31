@@ -1,23 +1,19 @@
 id: medieval-fantasy
 label: Medieval fantasy
 parent: dark-age-fantasy
-children: []
+children:
+- medieval-haunting
+- medieval-fey
+- medieval-folklore
+- medieval-spiritual
 image: 143-medieval-fantasy.webp
-definition: 'Fantasy of feudal Christian Europe in the High and late Middle Ages, roughly the 11th to the 14th century: kings,
-  knights, castles, chivalry, the Church and the medieval court, from outlaw-haunted Norman England to the kingdoms of the
-  fourteenth century before the Black Death. Not Celtic fantasy, Viking fantasy or Andalusian fantasy (named cultures whose
-  own world is the stage, even when they are medieval), and not Renaissance fantasy (the fifteenth century on).'
+definition: 'Fantasy of feudal Christian Europe in the High and late Middle Ages, roughly the 11th to the 15th century: kings,
+  knights, castles, chivalry, the Church and the medieval court, covering the full medieval cultural stage into the fifteenth
+  century. Not Celtic fantasy, Viking fantasy or Andalusian fantasy (named cultures whose own world is the stage, even when
+  they are medieval), not Plague fantasy (the pestilence years as the stage), and not Renaissance fantasy (the Renaissance
+  as a culture, not a calendar date).'
 status: accepted
-works:
-- the-wolf-and-his-king
-- once-was-willem
-- lapvona
-- armed-in-her-fashion
-- son-of-the-morning
-- winternight-trilogy
-- the-hood
-- the-castle-of-otranto
-- knights-wyrd
+works: []
 label_status: taxonomy-coinage
 label_note: Taxonomy label for the knights-and-castles Middle Ages; not an established shelf headword. Former name Autumn
   kingdoms was itself a coinage (the curator, 2026-09-16), a riff on Huizinga's The Autumn of the Middle Ages.
@@ -30,5 +26,13 @@ history:
     as a riff on Huizinga''s The Autumn of the Middle Ages, and was never an established term; the leaf was called Medieval
     fantasy before that. Old id autumn-kingdoms redirects here. Portrait unchanged.'
 - date: '2026-10-16'
-  change: 'Moved under the new Dark age fantasy umbrella (curator: "Ok, Bundle Celtic, Viking, Medieval
-    Andalusian and plague under a Dark age fantasy genre", phonemsg-01M51MY29PQY3R2PKER94T6460).'
+  change: 'Moved under the new Dark age fantasy umbrella (curator: "Ok, Bundle Celtic, Viking, Medieval Andalusian and plague
+    under a Dark age fantasy genre", phonemsg-01M51MY29PQY3R2PKER94T6460).'
+- date: '2026-10-31'
+  change: 'Split into Medieval Haunting / Medieval Fey / Medieval Folklore / Medieval Spiritual on the curator''s approval
+    (phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9) of the served four-child proposal; the leaf becomes an umbrella with zero direct
+    cards. Definition corrected at the same approval: the pre-Black-Death cap is removed so Medieval covers the full medieval
+    cultural stage including the fifteenth century (The Folly of the World, 1420s Holland); Plague fantasy''s event-stage
+    gate is unchanged and no Autumn label is restored. Medieval Spiritual''s scope (miracles, curses and faith shaping the
+    story without gods necessarily appearing) accepted by the curator (phonemsg-01M69P8ES3PT64SMMGCHB3CQ8D). Medieval Mages
+    was proposed by the curator and held out until a book earns it. New portraits 858-861 at 1024x1536.'

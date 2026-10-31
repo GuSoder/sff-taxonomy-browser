@@ -1271,3 +1271,10 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 - Main-war rule placed the mixed cases: Malazan + Wake the Dragon + Between Dragons + Ascendant Kingdoms -> War of humanity (soft); Wall of Night alone -> War on humanity; Dark Moon + Echoes -> War of immortals; Gates of Good and Evil + Ascendant Trilogy -> Eldritch invasions.
 - Portraits 781-784 (1024x1536 webp): human armies clashing / shadow swarm at the last wall (Gondor-echo tree banner edited out) / two immortals warring above a burning city / eldritch gate pouring horrors.
 - Gate OK: 733 nodes, 2429 cards / 5,515 books.
+
+## 2026-10-31 20:22 - Medieval fantasy four-way split (approved)
+- Approved split phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9 of serve phonemsg-01M69P9EW3V3NAC1G363DEV105. Medieval Haunting (Otranto, Once Was Willem, + intake MC04529 The Folly of the World - provisional, ontology deliberately unresolved) / Medieval Fey (The Hood) / Medieval Folklore (Winternight, Wolf and His King, Knight's Wyrd) / Medieval Spiritual (Son of the Morning/Night, Armed in Her Fashion, Lapvona). 3/1/3/3.
+- Medieval Mages held out until a book earns it. Spiritual scope (miracles/curses/faith without gods appearing) accepted phonemsg-01M69P8ES3PT64SMMGCHB3CQ8D.
+- Medieval definition corrected at same approval: pre-Black-Death cap removed, full medieval cultural stage incl. 15th c.; Plague gate unchanged; no Autumn restoration.
+- Portraits 858-haunting (grave-risen boy), 859-fey (leaf-dressed faerie + hooded outlaw), 860-folklore (hearth domovoi), 861-spiritual (demonic shadow over congregation), all 1024x1536, we-judged A/A/A/B. No bows, hands clean, no text.
+- Folly cover OL id 10589394 (US Orbit 2012). yaml mirror moved 9 works + new folly yaml; medieval genre.yaml history entry.

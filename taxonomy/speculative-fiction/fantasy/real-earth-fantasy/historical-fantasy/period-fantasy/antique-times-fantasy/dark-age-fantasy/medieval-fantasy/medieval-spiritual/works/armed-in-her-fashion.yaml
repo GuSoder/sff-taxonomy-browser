@@ -3,11 +3,11 @@ title: Armed in Her Fashion
 authors:
 - Kate Heartfield
 first_published: 2018
-canonical_genre: medieval-fantasy
+canonical_genre: medieval-spiritual
 placement_status: accepted
-placement_rationale: SFE identifies a fantasy set in fourteenth-century northern Europe with revenants and shapeshifters; Publishers Weekly fixes it in
-  1328 Flanders during the siege of Bruges and weaves a supernatural Hell, chimeras and undead into the era's politics and religion. The documented late-medieval
-  setting is the stage, making Medieval fantasy closest.
+placement_rationale: SFE identifies a fantasy set in fourteenth-century northern Europe with revenants and shapeshifters;
+  Publishers Weekly fixes it in 1328 Flanders during the siege of Bruges and weaves a supernatural Hell, chimeras and undead
+  into the era's politics and religion. The documented late-medieval setting is the stage, making Medieval fantasy closest.
 classification_sources:
 - https://sf-encyclopedia.com/entry/heartfield_kate
 - http://www.publishersweekly.com/9781771484527
@@ -21,3 +21,7 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/historical-fantasy/period-fantasy/medieval-fantasy
     to match live tree; placement unchanged on site.'
   previous_canonical_genre: medieval-fantasy
+- date: '2026-10-31'
+  previous_canonical_genre: medieval-fantasy
+  note: Re-walked in the approved four-way split of Medieval fantasy (phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9); dominant whole-fiction
+    engine places it in Medieval Spiritual.

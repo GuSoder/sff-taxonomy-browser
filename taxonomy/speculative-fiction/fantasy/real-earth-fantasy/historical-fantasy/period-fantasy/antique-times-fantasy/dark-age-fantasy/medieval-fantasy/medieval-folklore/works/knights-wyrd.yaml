@@ -4,7 +4,7 @@ authors:
 - Debra Doyle
 - James D. Macdonald
 first_published: 1992
-canonical_genre: medieval-fantasy
+canonical_genre: medieval-folklore
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy > Real earth fantasy > Historical fantasy > Period fantasy > Antique times fantasy
   > Medieval fantasy. Per Tor: a dark medieval fantasy (Mythopoeic Award) in which Will Odosson learns on the eve of his knighting
@@ -25,3 +25,7 @@ placement_history:
 - date: '2026-10-04'
   to: medieval-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-31'
+  previous_canonical_genre: medieval-fantasy
+  note: Re-walked in the approved four-way split of Medieval fantasy (phonemsg-01M69PA8ZZT9AT6DCD6BAPNWE9); dominant whole-fiction
+    engine places it in Medieval Folklore.
