@@ -1293,3 +1293,6 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 - MC04533 Bourbon, Sugar, Grace (Reisman) EXCLUDED: Tor.com 2017 novelette, shorter than a novella.
 - MC04534+MC04535 collapsed: The Lost Queen trilogy (Jessica Thorne, Bookouture Second Sky 2024; A Touch of Shadows / A Kiss of Flame / A Crown of Darkness, all published) -> Royal enemies romantasy (4->5). Whole-arc: book 1 Crown-outlaw register (hunted shadow-mage vs crown knight), settling on two rival royal houses (Wren = lost queen of Asteroth's daughter; Finn = enemy king's son). Cover: book 1 jacket from publisher CDN, served locally.
 - Gate OK: 810 nodes, 2629 cards / 6,058 books.
+
+## 2026-10-31 - MC04537+MC04538 The Hollow King (Jessica Thorne) -> Crown-outlaw romantasy
+Complete duology (Mageborn, Nightborn; Bookouture 2020, Hachette reissue 2025). Whole-fiction basis: mageborn collared/bound to the crown of Larelwynn; Grace Marchant = orphan soldier with hidden suppressed magic; beloved Prince Bastien = heir and the crown's own mageborn enforcer (Lord of Thorns). One crown, not two rival houses -> crown-outlaw (6->7), not royal-enemies; not crown-slave (no slavery bondage). Covers: per-volume verified Hachette jackets served locally (cover-mageborn.jpg, cover-nightborn.jpg).
