@@ -1284,3 +1284,7 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 - Basis: Christian supernatural operative on-page (demons possess/walk, plague demon hunted by priest Martyn, Heinrich's soul-sale; publisher "living saints and livelier demons"); approved widened Spiritual scope covers it. Folk menagerie (werewolf, cat-men, witch, sea-monsters, salamander) disclosed as episodic crossover, not the engine. Not Plague: set 1364, pestilence past.
 - Cover: US Orbit jacket from author's site, served locally (cover-the-sad-tale-of-the-brothers-grossbart.jpg, 400x600).
 - Gate OK: 810 nodes, 2628 cards / 6,055 books. Commit 2dca4e9.
+
+## 2026-10-31 20:48 - MC04531 skipped, MC04532 excluded
+- MC04531 An Edge Sharp Enough (Sutanto, Harper Voyager) SKIPPED: forthcoming (publishes 2026-11-17); unpublished-volume exclusion confirmed by main 2026-10-31 20:48, no revisit obligation. Recorded in candidates.tsv.
+- MC04532 Brave Like Fireweed (Jesse White) EXCLUDED: 40-page children's picture book (Union Square Kids 2024) - not an SFF novel; slipped the non-novel filter. Recorded in candidates.tsv.
