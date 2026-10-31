@@ -1296,3 +1296,6 @@ Apply autonomously without asking per case: too absurd to call SF or Fantasy AND
 
 ## 2026-10-31 - MC04537+MC04538 The Hollow King (Jessica Thorne) -> Crown-outlaw romantasy
 Complete duology (Mageborn, Nightborn; Bookouture 2020, Hachette reissue 2025). Whole-fiction basis: mageborn collared/bound to the crown of Larelwynn; Grace Marchant = orphan soldier with hidden suppressed magic; beloved Prince Bastien = heir and the crown's own mageborn enforcer (Lord of Thorns). One crown, not two rival houses -> crown-outlaw (6->7), not royal-enemies; not crown-slave (no slavery bondage). Covers: per-volume verified Hachette jackets served locally (cover-mageborn.jpg, cover-nightborn.jpg).
+
+## 2026-10-31 - MC04539+MC04540 Nevermoor (Jessica Townsend) -> Grey Mages
+4 published vols (Nevermoor 2017, Wundersmith 2018, Hollowpox 2020, Silverborn 2025; Hachette). Morrigan Crow learns the Wundersmith's craft (wild Wunder, undefined art) in the invented-world Wundrous Society -> mage-hero > grey-mages (8->9), same slot as Earthsea. Not magic-school (real-earth branch; Nevermoor is a wholly invented world). Per-volume AU Hachette covers served locally.

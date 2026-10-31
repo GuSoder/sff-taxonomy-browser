@@ -1,0 +1,49 @@
+id: nevermoor
+title: Nevermoor
+authors:
+- Jessica Townsend
+first_published: 2017
+canonical_genre: grey-mages
+placement_status: accepted
+placement_rationale: 'Ongoing middle-grade series, 4 volumes published (Hachette:
+  Orion/Little, Brown; Silverborn 2025). Morrigan Crow is a cursed child rescued from
+  a death-date into the invented world of the Free State city Nevermoor, where she
+  wins a place in the Wundrous Society and learns the Wundersmith''s craft: gathering
+  and shaping Wunder, a wild living power never pinned to death or healing, mastered
+  through the Wundrous Arts. Mage-hero by learned arcane mastery; the art is undefined
+  wild magic -> Grey Mages (same structural slot as Earthsea: young person with an
+  unusual gift schooled in a magical institution). Not Magic-school (that leaf sits
+  under real-earth Contemporary fantasy; the Wintersea Republic/Free State is a wholly
+  invented world, never our Earth). Not Whimsical-doors (portal-fantasy requires Earth;
+  no Earth threshold exists here). Not Tournament fantasy (the trials are book 1 only;
+  the series engine is schooling, society politics and the Hollowpox/Squall arcs).
+  Sources: hachette.com.au series + title pages, Wikipedia series bibliography.'
+books:
+- title: 'Nevermoor: The Trials of Morrigan Crow'
+  year: 2017
+  cover_url: cover-nevermoor.jpg
+- title: 'Wundersmith: The Calling of Morrigan Crow'
+  year: 2018
+  cover_url: cover-wundersmith.jpg
+- title: 'Hollowpox: The Hunt for Morrigan Crow'
+  year: 2020
+  cover_url: cover-hollowpox.jpg
+- title: 'Silverborn: The Mystery of Morrigan Crow'
+  year: 2025
+  cover_url: cover-silverborn.jpg
+cover_curation:
+  status: complete
+  source: Hachette Australia CDN (cdn.hachette.com.au)
+  selected_url: https://cdn.hachette.com.au/books/440/9780734418074.jpg
+  original_urls:
+  - https://cdn.hachette.com.au/books/440/9780734418074.jpg
+  - https://cdn.hachette.com.au/books/440/9780734418227.jpg
+  - https://cdn.hachette.com.au/books/440/9780734418241.jpg
+  - https://cdn.hachette.com.au/books/440/9780734421029.jpg
+  visually_reviewed_on: '2026-10-31'
+  review_method: individual download and visual check per volume
+intake: sequential whole-fiction intake (queue ids MC04539, MC04540)
+placement_history:
+- date: '2026-10-31'
+  to: grey-mages
+  reason: 'Sequential intake from merged-candidates-2026-10 (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
