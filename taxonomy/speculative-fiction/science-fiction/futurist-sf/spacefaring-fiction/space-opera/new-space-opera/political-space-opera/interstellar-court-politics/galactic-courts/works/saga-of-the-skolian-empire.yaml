@@ -2,43 +2,81 @@ id: saga-of-the-skolian-empire
 title: Saga of the Skolian Empire
 authors:
 - Catherine Asaro
-first_published: 2008
+first_published: 1995
 canonical_genre: galactic-courts
 placement_status: accepted
-placement_rationale: 'Catherine Asaro''s Skolian Empire as one fiction: the Ruby Dynasty''s psionic empire and its romances,
-  with the Major Bhaajan mysteries set in the same universe.'
+placement_rationale: 'Catherine Asaro''s Skolian Empire as one fiction (shared universe, rule 11j): the Ruby Dynasty''s
+  psionic Imperialate - dynastic intrigues, treaty wars and successions across three generations in the 14 mainline
+  novels, with the deliberately sidebar Undercity strand (4 Major Bhaajan noir mysteries, 2 Dust Knights novels)
+  in the imperial capital''s undercity. Kept in Galactic courts by whole-fiction center of gravity (rule 39).'
 books:
+- title: Primary Inversion
+  year: 1995
+  cover_url: cover-primary-inversion.jpg
+- title: Catch the Lightning
+  year: 1996
+  cover_url: cover-catch-the-lightning.jpg
+- title: The Last Hawk
+  year: 1997
+  cover_url: cover-the-last-hawk.jpg
+- title: The Radiant Seas
+  year: 1999
+  cover_url: cover-the-radiant-seas.jpg
+- title: Ascendant Sun
+  year: 2000
+  cover_url: cover-ascendant-sun.jpg
+- title: The Quantum Rose
+  year: 2000
+  cover_url: cover-the-quantum-rose.jpg
+- title: Spherical Harmonic
+  year: 2001
+  cover_url: cover-spherical-harmonic.jpg
+- title: The Moon's Shadow
+  year: 2003
+  cover_url: cover-the-moons-shadow.jpg
+- title: Skyfall
+  year: 2003
+  cover_url: cover-skyfall.jpg
+- title: Schism
+  year: 2004
+  cover_url: cover-schism.jpg
+- title: The Final Key
+  year: 2005
+  cover_url: cover-the-final-key.jpg
 - title: The Ruby Dice
   year: 2008
-  cover_url: https://www.baen.com/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/1/4/1416555145-lg.jpg
+  cover_url: cover-the-ruby-dice.jpg
 - title: Diamond Star
   year: 2009
-  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781439133828_9781439133828_lg.jpg
+  cover_url: cover-diamond-star.jpg
 - title: Carnelians
   year: 2011
-  cover_url: https://www.baen.com/media/catalog/product/9/7/9781451637489-lg.jpg
+  cover_url: cover-carnelians.jpg
 - title: Undercity
   year: 2014
-  cover_url: https://www.baen.com/media/catalog/product/9/7/9781476736921-lg.jpg
+  cover_url: cover-undercity.jpg
 - title: The Bronze Skies
   year: 2017
-  cover_url: https://www.baen.com/media/catalog/product/9/7/9781481482585-lg.jpg
-- title: Gold Dust
-  year: 2020
-  cover_url: https://www.baen.com/media/catalog/product/9/7/9781668072905-lg.jpg
+  cover_url: cover-the-bronze-skies.jpg
 - title: The Vanished Seas
   year: 2020
-  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982124717-lg.jpg
+  cover_url: cover-the-vanished-seas.jpg
 - title: The Jigsaw Assassin
   year: 2022
-  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982191962-lg.jpg
+  cover_url: cover-the-jigsaw-assassin.jpg
+- title: The Down Deep
+  year: 2024
+  cover_url: cover-the-down-deep.jpg
+- title: Gold Dust
+  year: 2025
+  cover_url: cover-gold-dust.jpg
 cover_curation:
   status: complete
-  source: Open Library / publisher
-  selected_url: https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781439133828_9781439133828_lg.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC01480, MC01475, MC01474, MC01476)
+  source: Open Library and publisher (Baen/Simon & Schuster), served locally as cover-<slug>.jpg
+  selected_url: cover-primary-inversion.jpg
+  visually_reviewed_on: '2026-10-31'
+  review_method: contact-sheet two-pass, per-volume title/author check
+intake: ten-k walk v5 (queue ids MC01474, MC01475, MC01476, MC01478, MC01479, MC01480, MC01481, MC01482; The Down Deep surfaced by the bibliography, not in the queue)
 placement_history:
 - date: '2026-10-04'
   to: space-romance
@@ -50,10 +88,20 @@ placement_history:
 - date: '2026-10-31'
   from: space-romance
   to: galactic-courts
-  reason: 'Per-book corpus inspection during the space-romance split work: 8 published volumes - The Ruby Dice,
-    Diamond Star, Carnelians (imperial politics with romance subplots), Undercity, The Bronze Skies, The Vanished Seas,
-    The Jigsaw Assassin (Major Bhaajan noir mysteries) and Gold Dust. Romance is woven through but is not the plot spine
-    of the corpus, so the fiction fails the Space romance root gate; the throne and its ruling circle are the arena
-    (two emperors, the Ruby Dynasty court, heirs and envoys decide who rules) -> Galactic courts. Corrected under
-    single-fiction move autonomy (curator phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX); ordered by main 2026-10-31 21:20.
-    Sources: catherineasaro.net book pages, simonandschuster.net, baen.com, Wikipedia The Ruby Dice.'
+  reason: 'Per-book corpus inspection during the space-romance split work: romance is woven through but is not the plot spine
+    of the corpus, so the fiction fails the Space romance root gate; the throne and its ruling circle are the arena -> Galactic
+    courts. Corrected under single-fiction move autonomy (curator phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).'
+- date: '2026-10-31'
+  to: galactic-courts
+  reason: 'Bibliography completion and rule-39 retention. Complete published shared-universe bibliography verified
+    (FictionDB series page, Wikipedia Catherine Asaro bibliography, catherineasaro.net series page, baen.com): 20 novels -
+    mainline 14 (Primary Inversion 1995 to Carnelians 2011; Lightning Strike I/II 2014/2020 are the expanded re-edition
+    of Catch the Lightning and count as that volume), Major Bhaajan 4 (Undercity 2014 to The Jigsaw Assassin 2022),
+    Dust Knights 2 (The Down Deep 2024, Gold Dust 2025). Novellas excluded (City of Cries absorbed into Undercity;
+    Children of the Dust; Pyre of New Day). Gold Dust year corrected 2020 -> 2025 (Baen, ISBN 9781668072905).
+    Future-history gate tested and failed at story level for the 6 Undercity volumes, corroborated by SFE ("different
+    events over a wide time span, without making up a single story arc"). Main ruled 2026-10-31 21:47: keep in Galactic
+    courts by whole-fiction center of gravity (rule 39 as ridden 2026-10-08, phonemsg-01M4E4QSXNEM1D65P6PJA25MST;
+    rule 15f whole-universe evidence, phonemsg-01M636VQ7T3G26NFRZD5692CG6) - the Ruby Dynasty intrigues, wars and
+    successions are the defining arena; the 6 Undercity sidebar volumes disclosed plainly in the placement note.
+    All 20 jackets downloaded from publisher/Open Library and visually verified in two contact-sheet passes.'
