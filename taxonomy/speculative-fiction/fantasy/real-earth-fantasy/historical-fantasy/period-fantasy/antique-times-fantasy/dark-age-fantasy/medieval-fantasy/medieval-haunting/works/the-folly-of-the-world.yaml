@@ -15,7 +15,11 @@ classification_sources:
 - https://clarkesworldmagazine.com/bullington_interview/
 cover_curation:
   status: ranked
-  selected_url: https://covers.openlibrary.org/b/id/10589394-L.jpg
+  selected_url: cover-the-folly-of-the-world.jpg
+  selected_source_url: https://covers.openlibrary.org/b/id/10631408-L.jpg
+  selected_edition_isbn13: '9780356500881'
+  original_url: https://covers.openlibrary.org/b/id/10589394-L.jpg
+  original_rejected_reason: library barcode sticker visible (Multnomah County scan)
   shows_english_title: true
   review_method: one-pass
 placement_history:
