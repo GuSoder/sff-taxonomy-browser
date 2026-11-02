@@ -1,0 +1,32 @@
+id: tooth-and-claw
+title: Tooth and Claw
+authors:
+- Jo Walton
+first_published: 2003
+canonical_genre: courtship-fantasy
+placement_status: accepted
+placement_rationale: 'Standalone novel (Tor 2003, World Fantasy Award winner). SFE classes it outright: ''a Satirical Fantasy
+  of Manners in which dragons effectively inhabit a sharply conceived world that Anthony Trollope could have described in
+  his own terms''. Root walk: imaginary dragon world -> fantasy-realms; gothic-realms gate passes via its own manners clause
+  (''plus the Pax Britannica manners branch'' - Trollope = British imperial-era social codes; the dragon world also supplies
+  the menace register: dark appetite, confinement). Leaf: the match is the plot - after the patriarch''s death (and ritual
+  eating), the engine is the sisters'' marriage prospects, Selendra''s suitors and the inheritance lawsuit, with draconic
+  biology (wing-blushing at impropriety, growth by eating) working through the courtship and settlement machinery. Not posh
+  (the drawing-room rank games are the medium, not the story) and not gossip (reputation-talk serves the matches).'
+books:
+- title: Tooth and Claw
+  year: 2003
+  cover_url: cover-tooth-and-claw.jpg
+cover_curation:
+  status: complete
+  source: Amazon (ISBN-10 0765349094, Tor US jacket)
+  selected_url: cover-tooth-and-claw.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: 'single-cover direct read: real US jacket, red dragon art, no placeholder'
+intake: sequential candidates.tsv walk, row MC04586
+placement_history:
+- date: '2026-11-02'
+  to: courtship-fantasy
+  reason: Sequential intake MC04586; single-fiction placement under standing autonomy (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).
+classification_sources:
+- https://sf-encyclopedia.com/entry/walton_jo
