@@ -1459,3 +1459,8 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 
 ### 2026-11-02 21:27 CET - Honeycomb World card: ancestor reconciliation added (QA from main)
 - placement_rationale now explicitly reconciles the fantasy-root setting split: fiction anchored in the invented Nine Worlds (Honeycomb wholly; Moonlight Market's plot is the Folk's exile/homecoming), fairytale-fantasy ancestor setting-agnostic for invented fairy tales, modern-invented-myth and portal-fantasy alternatives rejected. No gate changed.
+
+### 2026-11-02 21:31 CET - MC04609-16 Jocelynn Drake block
+- MC04609/10/11/13 placed as one fiction 'The Dark Days Series' (Nightwalker 2008, Dayhunter 2009, Dawnbreaker 2009, Pray for Dawn 2010, Wait for Dusk 2010, Burn the Night 2011; FictionDB + Fantastic Fiction bibliographies; Nightwalker and Wait for Dusk surfaced) -> oldfangs-fantasy (8->9). Mira = ancient nightwalker, secret Coven enforcer; leaf = inside-the-dynasties vampire world; tenants Night Huntress/Sabina Kane same shape. Rejected fangs-out/newfangs/occult-mystery/publicly-paranormal. Wobble low (naturi share plot).
+- Covers: 6 English jackets contact-sheet verified; OL 8292916 (Burn the Night) was a title-page scan -> rejected, replaced with Amazon 0061851825 jacket; Nightwalker/Wait for Dusk/Pray for Dawn via Amazon ISBN-10 (OL had no/small covers). All localized.
+- MC04612 Inner Demon, MC04614/15 Asylum Interviews, MC04616 The Dead the Damned and the Forgotten = excluded_novella (FictionDB/bookseries.org form records).

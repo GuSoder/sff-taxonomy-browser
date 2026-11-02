@@ -1,0 +1,53 @@
+id: the-dark-days-series
+title: The Dark Days Series
+authors:
+- Jocelynn Drake
+first_published: 2008
+canonical_genre: oldfangs-fantasy
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): the Dark Days series - Nightwalker (2008), Dayhunter (2009), Dawnbreaker (2009),
+  Pray for Dawn (2010), Wait for Dusk (2010), Burn the Night (2011). Bibliography per FictionDB and Fantastic Fiction series
+  listings (six novels; queue rows MC04609-11 and MC04613 carried four, and Nightwalker plus Wait for Dusk were surfaced as
+  the missing series volumes under the standing completeness rule). Root-down: Fantasy -> Real earth fantasy -> Contemporary
+  fantasy -> Supernatural fantasy -> Vampire fantasy -> Vampire world -> Oldfangs fantasy: Mira is a centuries-old nightwalker
+  and the secret Coven''s enforcer, and the series is told from inside vampire society - the Triad''s laws, the Venice nightwalker
+  rulers, coven lineages and feuds - with vampires long established and hidden from ordinary humanity (catalog copy: ''she
+  has secretly enforced the history-altering edicts of the Triad... Venice, home of the nightwalker rulers''). The leaf''s
+  accepted definition is ''told from inside the vampires'' own dynasties: families, covens and orders with lineages, laws
+  and feuds, where the vampires have long been what they are''; tenants Night Huntress Universe and Sabina Kane are the same
+  enforcer-insider shape. Rejected: Fangs out fantasy (vampires are hidden in Dark Days, not public), Newfangs fantasy (Mira
+  is ancient, not newly turned), Occult mystery branches (not case-driven police fiction; the engine is coven politics and
+  the naturi war), Publicly paranormal (the supernatural is concealed). Wobble: low - the naturi share the plot, but the vampire-society
+  frame governs. First publications 2008-2011 (FictionDB).'
+books:
+- title: Nightwalker
+  year: 2008
+  cover_url: cover-nightwalker.jpg
+- title: Dayhunter
+  year: 2009
+  cover_url: cover-dayhunter.jpg
+- title: Dawnbreaker
+  year: 2009
+  cover_url: cover-dawnbreaker.jpg
+- title: Pray for Dawn
+  year: 2010
+  cover_url: cover-pray-for-dawn.jpg
+- title: Wait for Dusk
+  year: 2010
+  cover_url: cover-wait-for-dusk.jpg
+- title: Burn the Night
+  year: 2011
+  cover_url: cover-burn-the-night.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-nightwalker.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet visual check 2026-11-02 (6 English jackets; OL title-page scan for Burn the Night rejected,
+    replaced with Amazon first-edition jacket)
+intake: ten-k walk v5 (queue ids MC04609, MC04610, MC04611, MC04613; Nightwalker and Wait for Dusk surfaced as missing series
+  volumes)
+placement_history:
+- date: '2026-11-02'
+  to: oldfangs-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
