@@ -41,12 +41,14 @@ books:
   cover_url: cover-the-marshals-lover.jpg
 cover_curation:
   status: complete
-  source: Open Library (2379134 Orbit / 7669907 Orbit 2010 / 6388615 / 8178947 Gallery Books / 10940149 / 8443460)
+  source: Open Library (2379134 Orbit / 7669907 Orbit 2010 / 6388615 / 10940149 / 8443460) + Amazon (The General's Mistress,
+    1451667213)
   selected_url: cover-black-ships.jpg
   visually_reviewed_on: '2026-11-02'
-  review_method: contact-sheet one-pass; rejected the title-page-style Orbit scan of Hand of Isis (OL 8049305) for the painted
-    2010 Orbit jacket (7669907); The General's Mistress uses the authentic Gallery Books jacket scan (OL 8178947) which carries
-    library stamps - best available, S&S CDN blocked; all 6 are distinct English jackets
+  review_method: 'contact-sheet one-pass + main live-pixel review: OL 8049305 (Hand of Isis title page) replaced by painted
+    2010 Orbit jacket (7669907); OL 8178947 (The General''s Mistress) confirmed by main''s live inspection to be an interior
+    title page with library stamps, not a jacket - replaced by the verified Amazon front jacket (1451667213, painted portrait,
+    Gallery Books imprint); all 6 are distinct English jackets'
 intake: 'ten-k walk v5 (queue ids MC04576 Black Ships, MC04577 Stealing Fire; 4 volumes surfaced from bibliography completion:
   Hand of Isis + Elza Versfelt trilogy, ISFDB Numinous World; The Ravens of Falkenau and Other Stories 2011 excluded as short
   fiction)'
@@ -58,3 +60,4 @@ placement_history:
 classification_sources:
 - https://isfdb.stoecker.eu/cgi-bin/pe.cgi?35464=
 - https://en.wikipedia.org/wiki/Jo_Graham
+- https://www.amazon.com/Generals-Mistress-Jo-Graham/dp/1451667213
