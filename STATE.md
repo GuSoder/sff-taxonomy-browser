@@ -1473,3 +1473,8 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 ### 2026-11-02 21:41 CET - MC04618/19 Imperium placement REVERTED pre-push (tenth-card rule)
 - comic-space-fiction was already at 9 works (bill-the-galactic-hero existed; my earlier tenant listing was truncated by head -8, so I misread the count as 8). live_place reported 10 after append; placement immediately reverted before any push (commit bef6e6a dropped via reset to 2ac4f7c).
 - MC04618/19 marked pending_split: a full split proposal for comic-space-fiction is owed before The Imperium Series can be placed. LESSON: never count tenants from a head-truncated listing; always ls works/ or count live_place's pre-check.
+
+### 2026-11-02 21:45 CET - Tenth-card resolution for comic-space-fiction (no split needed)
+- Tenant fit check (main 21:42): The Sol Majestic fails the comic gate - PW/WaPo/LJ/WSJ center coming-of-age + station-community rescue, not comedy governing. MOVED to space-habitat-life (3->4) under single-fiction move autonomy; full source-grounded rationale on card. Comic-space-fiction 9->8.
+- MC04618/19 The Imperium Series then placed as the 9th (View 2011 surfaced, Fortunes 2014, Rhythm 2015; SFE 'Military SF laced with Humour'; publisher 'P.G. Wodehouse meets space opera'; leaf def explicitly includes comic military adventures). No structural change; no split proposal required.
+- OPEN: Fault Tolerance card (comic-space-fiction) represents only book 3 of Valdes's Chilling Effect series and has an empty books list - 11j completeness fix owed (fiction = Chilling Effect 2019, Prime Deceptions 2020, Fault Tolerance 2022).

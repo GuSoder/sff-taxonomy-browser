@@ -1,0 +1,44 @@
+id: the-sol-majestic
+title: The Sol Majestic
+authors:
+- Ferrett Steinmetz
+first_published: 2019
+canonical_genre: space-habitat-life
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space colonies >
+  Colony life > Space habitat life. Whole-fiction aboutness, source-grounded: PW (starred) - ''At its heart, it''s a complex,
+  chaotic, and mystifying coming-of-age story... a memorable love letter to the nourishment of body and soul as well as the
+  dignity of work and service''; Washington Post - ''The discussion around this novel implies that it''s a revelous romp,
+  but that would be oversimplifying it''; Library Journal (starred) - ''a charming coming-of-age tale''; WSJ shelved it as
+  hopepunk. The governing modes are coming-of-age and a station community saving itself, not comedy: the comic-space-fiction
+  gate (''comedy, parody or satire governs rather than supplies incidental relief'') is not met, so the card moves from Comic
+  space fiction. Positive fit: Savor Station is a built habitat and the story is its settled life - the restaurant community''s
+  routines (the kitchen), faith (the house philosophy of service; Kenna is the prince of a forgotten religion), secrets and
+  care - the space-habitat-life gate. Tenant precedent: The Memory of Whiteness likewise follows an artist through habitat
+  society rather than a founding. Wobble: moderate - the ''community'' is a restaurant rather than a civic settlement, and
+  Kenna is a newcomer; the station arena and its settled-life engine hold under the gate''s ''station'' wording. Moved 2026-11-02
+  under the standing single-fiction-move autonomy after the comic-leaf tenant fit check.'
+books:
+- title: The Sol Majestic
+  year: 2019
+  cover_url: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1539699476i/41555945.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1539699476i/41555945.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03141)
+placement_history:
+- date: '2026-10-04'
+  to: comic-space-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-02'
+  to: space-habitat-life
+  previous_canonical_genre: comic-space-fiction
+  reason: 'Tenant fit check at the tenth-card review: comedy does not govern (PW, WaPo, LJ, WSJ) - coming-of-age and station-community
+    rescue do; moved to the positive habitat-life fit.'
+classification_sources:
+- https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/14181/the-sol-majestic
+- https://www.bookshop.org/p/books/sol-majestic-ferrett-steinmetz/9842430
+- https://en.wikipedia.org/wiki/Ferrett_Steinmetz
