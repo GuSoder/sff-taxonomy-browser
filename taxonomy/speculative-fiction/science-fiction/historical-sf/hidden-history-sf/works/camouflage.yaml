@@ -1,0 +1,31 @@
+id: camouflage
+title: Camouflage
+authors:
+- Joe Haldeman
+first_published: 2004
+canonical_genre: hidden-history-sf
+placement_status: accepted
+placement_rationale: 'Standalone novel (2004; Nebula Award). Two immortal shapeshifting aliens have lived concealed on Earth
+  for over a million years, passing as human across recorded history - the changeling drifting through identities (WWII resistance
+  fighter, 1970s drifter) toward sympathy with humanity, the chameleon a predator - until an alien artifact raised from the
+  ocean floor draws them together (editorsreads.com synopsis; Wikipedia). The book''s backbone is the aliens'' secret passage
+  through real history, undocumented and concealed from the record - the hidden-history-sf shape; same shelf-shape as tenant
+  Wild Seed (immortals living through history unrecorded). Rejected: hidden-alien-fiction under alien-invasion (the beings
+  are residents, not invaders - no attack, occupation or conquest, so the invasion ancestor gate fails), alien-tokens (the
+  artifact hunt is the convergence device, not humanity''s first consequential encounter; the aliens, not the token, are the
+  subject), alien-cosmic-history (Earthbound personal biography, not cosmic-scale civilization history).'
+books:
+- title: Camouflage
+  year: 2004
+  cover_url: cover-camouflage.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-camouflage.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04635)
+placement_history:
+- date: '2026-11-02'
+  to: hidden-history-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
