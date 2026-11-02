@@ -1,24 +1,57 @@
-title: Honeycomb
-cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534433052/honeycomb-9781534433052_lg.jpg
-shows_english_title: true
+id: honeycomb
+title: The Honeycomb World
 authors:
 - Joanne M. Harris
-year: 2021
-placement_note: Speculative fiction -> Fantasy -> Fantasy realms -> Fairytale fantasy -> Invented fairytales. Mosaic of100 original fairy-story cells with
-  Lacewing King and Silken Folk; original fables/enchantments carry the story rather than Silmarillion-register lore. Owner11:01:53 approval phonemsg-01M3VB5RS19WN2A3YAWQG8ZRTV
-  of bundle phonemsg-01M3VB4DWBRJJVGAJPY2ZDEQ95.
+first_published: 2021
 canonical_genre: invented-fairytales
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): Joanne Harris''s Honeycomb world - Honeycomb (2021) and The Moonlight Market
+  (2024). The author''s own site ties them: The Moonlight Market ''is very much part of my Honeycomb world... A snapshot of
+  it exists in Honeycomb, and there are nods in it to Orfeia and to my other novellas'' (joanne-harris.co.uk/the-moonlight-market);
+  both feature the Silken Folk and the Spider''s web between the Nine Worlds (NZ Herald review: the Spider Mage ''spins a
+  web between the Nine Worlds''). Root-down: Fantasy -> Fantasy realms -> Fairytale fantasy -> Invented fairytales: Honeycomb
+  is a mosaic of 100 original fairy-story cells (Lacewing King, Silken Folk), and The Moonlight Market is an original adult
+  fairytale whose engine is fable and enchantment logic - no recognizable inherited tale is revised (Reactor: ''a perfectly
+  paced gem of a modern fairytale''; Library Journal: ''a consistently delightful fairy tale''; Kirkus). Rejected: Contemporary
+  fantasy > Folktale (not humorous/animal-tale shaped) and Urban fantasy (the London setting is contemporary, but the story''s
+  engine is fairytale enchantment, not an urban occult system; the fiction''s center is the Nine Worlds cycle). The folklore
+  novellas A Pocketful of Crows, The Blue Salt Road and Orfeia share this world per the author but stay excluded as novellas
+  (queue MC04601-03). Wobble: low-moderate - The Moonlight Market plays out in contemporary London, unusual for a Fantasy
+  realms leaf; the shared-world consolidation keeps the whole fiction in one leaf. Original Honeycomb placement: Owner11:01:53
+  approval phonemsg-01M3VB5RS19WN2A3YAWQG8ZRTV of bundle phonemsg-01M3VB4DWBRJJVGAJPY2ZDEQ95.'
+books:
+- title: Honeycomb
+  year: 2021
+  cover_url: cover-honeycomb.jpg
+- title: The Moonlight Market
+  year: 2024
+  cover_url: cover-the-moonlight-market.jpg
+cover_curation:
+  status: complete
+  source: publisher (Saga Press / Gollancz via author site)
+  selected_url: cover-honeycomb.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet visual check 2026-11-02 (2 English jackets)
+intake: 'Honeycomb: curator bundle 2026-10-01 (phonemsg-01M3VB4DWBRJJVGAJPY2ZDEQ95); The Moonlight Market: ten-k walk v5 (queue
+  id MC04607)'
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/epic-fantasy/invented-mythology to match live tree; placement
-    unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/epic-fantasy/invented-mythology
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: null
 - date: '2026-10-01'
-  note: Speculative fiction -> Fantasy -> Fantasy realms -> Fairytale fantasy -> Invented fairytales. Mosaic of100 original fairy-story cells with Lacewing
-    King and Silken Folk; original fables/enchantments carry the story rather than Silmarillion-register lore. Owner11:01:53 approval phonemsg-01M3VB5RS19WN2A3YAWQG8ZRTV
-    of bundle phonemsg-01M3VB4DWBRJJVGAJPY2ZDEQ95.
+  note: Speculative fiction -> Fantasy -> Fantasy realms -> Fairytale fantasy -> Invented fairytales. Mosaic of100 original
+    fairy-story cells with Lacewing King and Silken Folk; original fables/enchantments carry the story rather than Silmarillion-register
+    lore. Owner11:01:53 approval phonemsg-01M3VB5RS19WN2A3YAWQG8ZRTV of bundle phonemsg-01M3VB4DWBRJJVGAJPY2ZDEQ95.
   previous_canonical_genre: invented-mythology
-placement_walk: Speculative fiction -> Fantasy -> Fantasy realms -> Fairytale fantasy -> Invented fairytales
+- date: '2026-11-02'
+  to: invented-fairytales
+  reason: 'Consolidated The Moonlight Market (2024) into the Honeycomb fiction as one shared-world fiction (rule 11j; author
+    site: ''very much part of my Honeycomb world''); card retitled The Honeycomb World.'
 classification_sources:
 - https://www.simonandschuster.com/books/Honeycomb/Joanne-M-Harris/9781534433052
 - https://www.joanne-harris.co.uk/honeycomb/
+- https://www.joanne-harris.co.uk/the-moonlight-market/
+- https://reactormag.com/book-review-the-moonlight-market-by-joanne-harris/
+- https://www.libraryjournal.com/story/The-Moonlight-Market-by-Joanne-Harris-SFF-Pick-of-the-Month
+- https://www.kirkusreviews.com/book-reviews/joanne-harris/the-moonlight-market/

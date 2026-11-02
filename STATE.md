@@ -1453,3 +1453,6 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 - One fiction (11j): author's own site lists Runemarks 2007, Runelight 2011, The Gospel of Loki 2014, The Testament of Loki 2018 as the RUNE books.
 - Walk: real-earth fantasy -> historical fantasy -> mythic retelling -> norse fantasy: Gospel retells the Eddic myths, Runemarks/Runelight reimagine the Nine Worlds post-Ragnarok, Testament continues the same Loki. Rejected modern-norse-myth (only Testament is modern-set; one fiction can't split). Wobble moderate.
 - Covers: 4 English jackets (Doubleday Runemarks, Runelight, Gollancz Gospel/Testament); contact-sheet verified; localized.
+
+### 2026-11-02 21:21 CET - MC04607 The Moonlight Market -> consolidated into Honeycomb fiction (Invented fairytales, 5 cards, now 2 books)
+- Author site: 'very much part of my Honeycomb world... a snapshot of it exists in Honeycomb'; Silken Folk + Nine Worlds shared. Card retitled 'The Honeycomb World'; books Honeycomb 2021, The Moonlight Market 2024. Both covers localized + contact-sheet verified.
