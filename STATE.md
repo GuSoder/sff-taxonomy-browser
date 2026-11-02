@@ -1456,3 +1456,6 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 
 ### 2026-11-02 21:21 CET - MC04607 The Moonlight Market -> consolidated into Honeycomb fiction (Invented fairytales, 5 cards, now 2 books)
 - Author site: 'very much part of my Honeycomb world... a snapshot of it exists in Honeycomb'; Silken Folk + Nine Worlds shared. Card retitled 'The Honeycomb World'; books Honeycomb 2021, The Moonlight Market 2024. Both covers localized + contact-sheet verified.
+
+### 2026-11-02 21:27 CET - Honeycomb World card: ancestor reconciliation added (QA from main)
+- placement_rationale now explicitly reconciles the fantasy-root setting split: fiction anchored in the invented Nine Worlds (Honeycomb wholly; Moonlight Market's plot is the Folk's exile/homecoming), fairytale-fantasy ancestor setting-agnostic for invented fairy tales, modern-invented-myth and portal-fantasy alternatives rejected. No gate changed.
