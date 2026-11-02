@@ -4610,15 +4610,15 @@ MC04608	The Testament of Loki	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		
 MC04609	Burn the Night	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			placed	0	one fiction 'The Dark Days Series' (6 novels 2008-2011; Nightwalker + Wait for Dusk surfaced) -> oldfangs-fantasy (8->9)
 MC04610	Dawnbreaker	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			placed	0	one fiction 'The Dark Days Series' (6 novels 2008-2011; Nightwalker + Wait for Dusk surfaced) -> oldfangs-fantasy (8->9)
 MC04611	Dayhunter	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			placed	0	one fiction 'The Dark Days Series' (6 novels 2008-2011; Nightwalker + Wait for Dusk surfaced) -> oldfangs-fantasy (8->9)
-MC04612	Inner Demon	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			new	0	author from URL slug
+MC04612	Inner Demon	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			excluded_novella	0	Inner Demon = 'Part 3 of the Final Asylum Tales' e-novella 2014 (FictionDB/bookseries.org); Asylum Tales universe; novella exclusion
 MC04613	Pray for Dawn	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			placed	0	one fiction 'The Dark Days Series' (6 novels 2008-2011; Nightwalker + Wait for Dusk surfaced) -> oldfangs-fantasy (8->9)
-MC04614	The Asylum Interviews: Bronx	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			new	0	author from URL slug
-MC04615	The Asylum Interviews: Trixie	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			new	0	author from URL slug
-MC04616	The Dead, the Damned, and the Forgotten	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			new	0	author from URL slug
+MC04614	The Asylum Interviews: Bronx	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			excluded_novella	0	The Asylum Interviews: Bronx = Asylum Tales prequel novella 2012 (FictionDB 'Short Story / Novella'); novella exclusion
+MC04615	The Asylum Interviews: Trixie	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			excluded_novella	0	The Asylum Interviews: Trixie = Asylum Tales prequel novella 2012 (FictionDB 'Short Story / Novella'); novella exclusion
+MC04616	The Dead, the Damned, and the Forgotten	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			excluded_novella	0	The Dead, the Damned, and the Forgotten = Dark Days 0.5 novella in the Unbound anthology 2009 (FictionDB 'Short Story / Novella'); novella exclusion
 MC04617	Dragons Deal	Jody Lynn Nye	2010	Ace	PRH randomhousebooks.com API	1		A Dragon's Wild Novel	placed	0	one fiction 'Griffen McCandles' (Dragons Wild 2008, Dragons Luck 2009, Dragons Deal 2010, Dragons Run 2013; Asprin solo volumes surfaced) -> paranormal-fantasy (6->7)
 MC04618	Fortunes of the Imperium	Jody Lynn Nye	2014	Baen	Baen category pages	1			placed	0	one fiction 'The Imperium Series' (View 2011 surfaced, Fortunes 2014, Rhythm 2015) -> comic-space-fiction (8->9 after Sol Majestic moved to space-habitat-life)
 MC04619	Rhythm of the Imperium	Jody Lynn Nye	2015	Baen	Baen category pages	1			placed	0	one fiction 'The Imperium Series' (View 2011 surfaced, Fortunes 2014, Rhythm 2015) -> comic-space-fiction (8->9 after Sol Majestic moved to space-habitat-life)
-MC04620	Robert Asprin's Dragons Run	Jody Lynn Nye	2013	Ace	PRH randomhousebooks.com API	1		Dragons Run	new	0	
+MC04620	Robert Asprin's Dragons Run	Jody Lynn Nye	2013	Ace	PRH randomhousebooks.com API	1		Dragons Run	already_in_tree	0	Robert Asprin's Dragons Run (2013) = book 4 of Griffen McCandles, already on the placed card (MC04617)
 MC04621	School of Light	Jody Lynn Nye	2000	Baen	Baen category pages	1			new	0	
 MC04622	The Grand Tour	Jody Lynn Nye	2000	Baen	Baen category pages	1			new	0	
 MC04623	View from the Imperium	Jody Lynn Nye	2010	Baen	Baen category pages	1			new	0	

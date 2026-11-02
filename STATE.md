@@ -1481,3 +1481,6 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 
 ### 2026-11-02 21:47 CET - Fault Tolerance 11j completeness fix
 - Card expanded from book 3 only (empty books list) to the whole Chilling Effect series: Chilling Effect 2019, Prime Deceptions 2020, Fault Tolerance 2022 (author site lists exactly 3). Retitled 'The Chilling Effect Series'; leaf unchanged (comic-space-fiction, stays 9). 3 English jackets contact-sheet verified, localized.
+
+### 2026-11-02 21:51 CET - tsv bookkeeping fix
+- MC04612/14/15/16 novella exclusions had not landed (regex skipped them in the Drake commit); now written. MC04620 Dragons Run = already_in_tree (on the Griffen card).
