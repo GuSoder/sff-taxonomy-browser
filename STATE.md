@@ -1505,3 +1505,6 @@ Standalone 2005. Immortal humans (Becker-Cendrek Process) on a one-way Beta Hydr
 
 ## 2026-11-02 The Accidental Time Machine (MC04643)
 Standalone 2007. Matt Fuller accidentally builds a forward-only time machine, exponential jumps through millennia (Strange Horizons review). Atemporal root ruling ("when in sci fi, anything time travel goes Atemporal", curator 2026-09-23) -> overclockian 4->5 (forward-only private device; initially placed into umbrella homebrew-time-machines, moved to the child leaf after verify_local caught the non-leaf card). Cover OL 11957012 (2007 Ace jacket). Wobble: none material.
+
+## 2026-11-02 Work Done for Hire (MC04644)
+Standalone 2014. Near-future (c.2030) surveillance thriller: blackmailed ex-sniper vs an employer who sees through the whole grid (Locus/Letson, The Tech). Technothriller -> infowar 8->9. Cover OL 14420921 (2014 Ace jacket, ISBN 9780425256619; rejected 8333459 title page). Wobble: none.
