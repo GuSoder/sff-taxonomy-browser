@@ -1362,3 +1362,6 @@ Forthcoming June 2027 (DAW) per the author's own bibliography page. No revisit w
 - Cover: DAW print jacket, tagline "Retire. Save the world. Again." Queue MC04561 -> in_tree (year corrected 2026->2025). verify_local: 816 nodes, 2637 cards / 6,090 books, refs consistent.
 - Wobble fixed mid-flight: first commit put cover+portrait only in the leaf dir; site 404'd them (root-relative resolution) - caught on live verify, fixed in 905d0f3 before closeout.
 - Portrait 867 generated per standing self-select rule (bookshop with three retired heroes + trope furniture), full-res at /downloads/parody-fantasy-portrait.png.
+
+## 2026-11-02 11:57 CET - Parody fantasy portrait v2 (main review correction)
+- Main rejected v1: read secondary-world (robed wizard, armor, medieval shop). Corrected via image EDIT of the original (commit e30a591): same composition/jokes, contemporary Earth unmistakable (denim/cardigan/flannel+cap, card reader+laptop, to-go coffee, street view with parked car). No oil-style prompt. Full-res /downloads/parody-fantasy-portrait-v2.png sent to main with live screenshot; live-verified 200/0 broken.

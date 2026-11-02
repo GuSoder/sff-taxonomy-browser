@@ -1,0 +1,41 @@
+id: kirith-kirin
+title: Kirith Kirin
+authors:
+- Jim Grimsley
+first_published: 2000
+canonical_genre: far-future-planetary-romance
+placement_status: accepted
+placement_rationale: 'The three Senal/Irion novels (SFE): Kirith Kirin (2000, fantasy), The Ordinary (2004, science fantasy,
+  Lambda winner), The Last Green Tree (2006 fixup, space opera tending to transcendence). A flat mage-made world of myth collides
+  with, then merges into, Senal''s cybernetic galactic civilization; Great Mage, singing priests and Gates as fantasy furniture
+  inside a far-future SF cosmos where Earth is never referenced. Walk: hard-science-fantasy fails (real magic, Gate travel
+  - no known-physics bar); ozymandian-tech fails (magic is real, not buried tech); classic/lost-colony planetary romance fail
+  (the people are far-future natives, not Earth visitors or forgotten colonists); theological space opera only fits vol 3''s
+  tonality, not the series engine.'
+books:
+- title: Kirith Kirin
+  year: 2000
+  cover_url: cover-kirith-kirin.jpg
+- title: The Ordinary
+  year: 2004
+  cover_url: cover-the-ordinary.jpg
+- title: The Last Green Tree
+  year: 2006
+  cover_url: cover-the-last-green-tree.jpg
+cover_curation:
+  status: complete
+  source: Macmillan CDN (Tor print ISBNs) + Open Library (Kirith Kirin 940824)
+  selected_url: cover-kirith-kirin.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet, OL vs Macmillan cross-checked per volume
+intake: ten-k walk v5 (queue ids MC04567, MC04568; Kirith Kirin surfaced from bibliography completion)
+placement_history:
+- date: '2026-11-02'
+  to: far-future-planetary-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB);
+    whole-fiction rule 11j - one fiction for the shared Senal/Irion universe.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/grimsley_jim
+- https://www.fantasticfiction.com/g/jim-grimsley/ordinary.htm
+- https://www.fantasticfiction.com/g/jim-grimsley/last-green-tree.htm
+- https://www.isfdb.org/cgi-bin/ea.cgi?6787=
