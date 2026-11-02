@@ -1,0 +1,28 @@
+id: the-accidental-time-machine
+title: The Accidental Time Machine
+authors:
+- Joe Haldeman
+first_published: 2007
+canonical_genre: overclockian
+placement_status: accepted
+placement_rationale: 'Standalone novel (2007). Doctoral candidate Matt Fuller accidentally builds a time machine that only
+  jumps forward, at exponentially increasing intervals, carrying him through millennia of futures (Strange Horizons review).
+  Per the Atemporal root ruling (''when in sci fi, anything time travel goes Atemporal''), this is time-travel fiction; the
+  device is a lone individual''s accidental homebrew machine with no organization behind it - the homebrew-time-machines shape.
+  Rejected: time-travel-agency (no institution owns the machine), futurist-sf branches (the Atemporal walk supersedes setting-based
+  sorting for SF time travel).'
+books:
+- title: The Accidental Time Machine
+  year: 2007
+  cover_url: cover-the-accidental-time-machine.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-accidental-time-machine.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04643)
+placement_history:
+- date: '2026-11-02'
+  to: overclockian
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
