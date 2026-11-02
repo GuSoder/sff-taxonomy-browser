@@ -1484,3 +1484,6 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 
 ### 2026-11-02 21:51 CET - tsv bookkeeping fix
 - MC04612/14/15/16 novella exclusions had not landed (regex skipped them in the Drake commit); now written. MC04620 Dragons Run = already_in_tree (on the Griffen card).
+
+### 2026-11-02 21:51 CET - MC04623, MC04625-32 already_in_tree/excluded
+- MC04623 View from the Imperium = book 1 on the placed Imperium card. MC04625/29/30 Best Served Cold, Red Country (+Booktrack edition) on The First Law card; MC04632 Age of Madness omnibus same; MC04626-28 Shattered Sea on its card (dynastic-wars); MC04631 Sharp Ends = excluded_collection.
