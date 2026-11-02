@@ -1,0 +1,29 @@
+id: forever-peace
+title: Forever Peace
+authors:
+- Joe Haldeman
+first_published: 1997
+canonical_genre: future-war
+placement_status: accepted
+placement_rationale: 'Standalone novel (1997; SFE: shares only its title with The Forever War, separate universe). In 2043
+  an Alliance of rich states fights a prolonged dirty war against third-world guerrillas, soldiers like Julian Class jacking
+  cyberlinks into remote soldierboy war machines (Kirkus; SFE). The war and its technology organize the book, and the resolution
+  comes through that same technology: prolonged cyberlinking renders soldiers incapable of killing, so peace becomes inevitable
+  (SFE). War transformed by technology, fought on a near-future Earth - the future-war shape. Rejected: military-science-fiction
+  under spacefaring (the conflict is Earthbound; the spacefaring ancestor gate fails), techno-fiction (the nanoforge/Jupiter
+  threads serve the war story''s resolution, not vice versa).'
+books:
+- title: Forever Peace
+  year: 1997
+  cover_url: cover-forever-peace.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-forever-peace.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04637)
+placement_history:
+- date: '2026-11-02'
+  to: future-war
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
