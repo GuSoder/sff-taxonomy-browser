@@ -3,7 +3,7 @@ title: Everybody's Perfect
 authors:
 - Jo Walton
 first_published: 2026
-canonical_genre: invented-mythology
+canonical_genre: mythlike-past
 placement_status: accepted
 placement_rationale: 'Standalone literary fantasy novel (Tor, 2026-06-30, 272pp): the Serenissima, an imaginary shadow-Venice
   ''built from mist and belief'' and crossroads of the nine worlds, where a laborer''s dream of a doge who will marry the
@@ -15,7 +15,10 @@ placement_rationale: 'Standalone literary fantasy novel (Tor, 2026-06-30, 272pp)
   cast, not imperial drawing-room elite), heart-fantasy (no bond spine; PW: ''elaborate worldbuilding... ambitious''). Disclosed
   friction: epic-fantasy ancestor wording lists journeys/wars/large geographies (absent) but also ''political stakes... cosmic
   systems and invented gods'' (present: nine-world crossroads, belief-built city, fated doge-sea marriage); tone is gentle/intimate,
-  engine over tone. First tenant of the provisional invented-mythology leaf.'
+  engine over tone. No on-page god actors - the invented myth (belief-built Serenissima, the fated doge-sea marriage) is what
+  the human relay story walks through, so the mythlike-past side of the 2026-10-12 curator split; friction: its wording says
+  inherited PAST/backdrop while this myth is live and unfolding, but the governing axis is gods-on-page vs not (Spear Cuts
+  Through Water precedent: mythic element present, human story).'
 books:
 - title: Everybody's Perfect
   year: 2026
@@ -29,9 +32,10 @@ cover_curation:
 intake: sequential candidates.tsv walk, row MC04580 (queue year 2026 correct; on sale 2026-06-30, published)
 placement_history:
 - date: '2026-11-02'
-  to: invented-mythology
-  reason: Sequential intake MC04580; single-fiction placement under standing autonomy (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).
-    First tenant of the provisional leaf.
+  to: mythlike-past
+  reason: 'Sequential intake MC04580; single-fiction placement under standing autonomy (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).
+    First pass landed on the umbrella node in error (verifier caught it); moved to the correct leaf: no on-page gods, myth
+    is the world the human story walks through.'
 classification_sources:
 - http://www.jowaltonbooks.com/books/everybodys-perfect/
 - https://torpublishinggroup.com/everybodys-perfect/?format=hardback&isbn=9781250314055
