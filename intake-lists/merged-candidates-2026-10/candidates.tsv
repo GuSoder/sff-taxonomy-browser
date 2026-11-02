@@ -4631,16 +4631,16 @@ MC04629	Red Country	Joe Abercrombie		Gollancz; Hachette group (Orbit/Redhook/oth
 MC04630	Red Country: Booktrack Edition	Joe Abercrombie		Hachette group (Orbit/Redhook/other)	Hachette site search	1			already_in_tree	0	Red Country: Booktrack Edition = edition of Red Country, on The First Law card
 MC04631	Sharp Ends	Joe Abercrombie		Gollancz; Hachette group (Orbit/Redhook/other)	Gollancz store; Hachette site search	2	Fantasy		excluded_collection	0	Sharp Ends = First Law short story collection (2016); collection exclusion
 MC04632	The Age of Madness Trilogy	Joe Abercrombie		Hachette group (Orbit/Redhook/other)	Hachette site search	1			already_in_tree	0	The Age of Madness Trilogy = omnibus of A Little Hatred / The Trouble with Peace / The Wisdom of Crowds, all on The First Law card
-MC04633	The Heroes	Joe Abercrombie		Gollancz; Hachette group (Orbit/Redhook/other)	Gollancz store; Hachette site search	2	Fantasy		new	0	author from tags (matches author seen elsewhere)
-MC04634	A Separate War and Other Stories	Joe Haldeman	2007	Ace	PRH randomhousebooks.com API	1			new	0	
+MC04633	The Heroes	Joe Abercrombie		Gollancz; Hachette group (Orbit/Redhook/other)	Gollancz store; Hachette site search	2	Fantasy		already_in_tree	0	already on 'The First Law' card (The Heroes 2011 is book 5 of 9) - mud-and-blood-fantasy
+MC04634	A Separate War and Other Stories	Joe Haldeman	2007	Ace	PRH randomhousebooks.com API	1			excluded_collection	0	short story collection (ISFDB pub 146771; stories incl. 'A Separate War') - form excluded
 MC04635	Camouflage	Joe Haldeman	2005	Ace	PRH randomhousebooks.com API	1			new	0	
-MC04636	Earthbound	Joe Haldeman	2012	Ace	PRH randomhousebooks.com API	1			new	0	
+MC04636	Earthbound	Joe Haldeman	2012	Ace	PRH randomhousebooks.com API	1			placed	0	one fiction 'The Marsbound Trilogy' (Marsbound 2008, Starbound 2010, Earthbound 2011; queue years 2009/2012 are reprints) -> xenological-expeditions (7->8)
 MC04637	Forever Peace	Joe Haldeman	1998	Ace	PRH randomhousebooks.com API	1			new	0	
-MC04638	Future Weapons of War	Joe Haldeman	2007	Baen	Baen category pages	1			new	0	
-MC04639	Marsbound	Joe Haldeman	2009	Ace	PRH randomhousebooks.com API	1		A Marsbound Novel	new	0	
+MC04638	Future Weapons of War	Joe Haldeman	2007	Baen	Baen category pages	1			excluded_collection	0	anthology edited by Haldeman & Martin H. Greenberg (baen.com/future-weapons-of-war.html) - multi-author anthology, form excluded
+MC04639	Marsbound	Joe Haldeman	2009	Ace	PRH randomhousebooks.com API	1		A Marsbound Novel	placed	0	one fiction 'The Marsbound Trilogy' (Marsbound 2008, Starbound 2010, Earthbound 2011; queue years 2009/2012 are reprints) -> xenological-expeditions (7->8)
 MC04640	Old Twentieth	Joe Haldeman	2006	Ace	PRH randomhousebooks.com API	1			new	0	
 MC04641	Peace And War	Joe Haldeman		Gollancz	Gollancz store	1	Science Fiction		new	0	author from tags (matches author seen elsewhere)
-MC04642	Starbound	Joe Haldeman	2010	Ace	PRH randomhousebooks.com API	1		A Marsbound Novel	new	0	
+MC04642	Starbound	Joe Haldeman	2010	Ace	PRH randomhousebooks.com API	1		A Marsbound Novel	placed	0	one fiction 'The Marsbound Trilogy' (Marsbound 2008, Starbound 2010, Earthbound 2011; queue years 2009/2012 are reprints) -> xenological-expeditions (7->8)
 MC04643	The Accidental Time Machine	Joe Haldeman	2008	Ace	PRH randomhousebooks.com API	1			new	0	
 MC04644	Work Done for Hire	Joe Haldeman	2014	Ace	PRH randomhousebooks.com API	1			new	0	
 MC04645	20th Century Ghosts	Joe Hill		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)

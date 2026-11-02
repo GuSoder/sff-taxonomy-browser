@@ -1,0 +1,35 @@
+id: the-marsbound-trilogy
+title: The Marsbound Trilogy
+authors:
+- Joe Haldeman
+first_published: 2008
+canonical_genre: xenological-expeditions
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): the Marsbound trilogy (Marsbound, 2008; Starbound, 2010; Earthbound, 2011; ISFDB
+  series 26405). Mars colonist Carmen Dula is rescued on the Martian surface by members of another species already living
+  there, and the encounter deepens into contact with the Others; Starbound sends a human starship 25 light-years to Wolf 25
+  expressly to meet them, and Earthbound brings the consequences home. Contact with the alien is the governing story across
+  the trilogy, with the voyage to meet the alien society at its center - the xenological-expeditions shape. Rejected: near-future-first-contact
+  (the encounter unfolds on Mars and in deep space, not on a transformed near-future Earth), surface-colony-life (the colony
+  is the launch point, not the subject; settled civic life does not govern). Queue years 2009/2012 are reprints of 2008/2011.'
+books:
+- title: Marsbound
+  year: 2008
+  cover_url: cover-marsbound.jpg
+- title: Starbound
+  year: 2010
+  cover_url: cover-starbound.jpg
+- title: Earthbound
+  year: 2011
+  cover_url: cover-earthbound.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-marsbound.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04639, MC04642, MC04636)
+placement_history:
+- date: '2026-11-02'
+  to: xenological-expeditions
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
