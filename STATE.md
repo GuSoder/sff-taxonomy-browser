@@ -1432,3 +1432,8 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 - One fiction (11j): Snow Queen cycle - The Snow Queen 1980, World's End 1984, The Summer Queen 1991, Tangled Up in Blue 2000 (SFE Vinge); queue years reprints.
 - Walk: atemporal SF -> science fantasy -> planetary romance -> lost-colony -> hidden lander: Hegemony strips/bans tech to keep Tiamat a primitive mer farm, Winter Queen suppresses succession = leaders repressing technological recovery. Darkover precedent: active contact OK. Rejected classic-PR (visitor-from-Earth shape; at 9), far-future PR (Earth current), abandoned/broken lander, rebel space opera. Wobble moderate (cyclical cut-off; Gundhalinu offworlder lead in book 4).
 - Covers: 4 distinct English jackets localized (288125 Warner Snow Queen, 10121558 Bluejay first World's End, 7024106 Warner first Summer Queen, 183221 Tor Tangled); contact-sheet verified; fiction cover = book 1.
+
+### 2026-11-02 21:06 CET - MC04594-95 The Resurgam Trilogy -> Zombie mystery fiction (1->2)
+- One fiction (11j): Dust (Ace 2010), Frail (Ace 2011), Grave (Candlemark & Gleam 2014, surfaced third volume). SFE Turner + publisher page.
+- Gate: zombification never explained (dead simply rise, not bite-spread; Reactor/Odd Things Considered). 'Virus'/'bacteria'/'artificial plague' evidence describes the later zombie-KILLING lab plague, not zombification. Raising Stony Mayhall precedent. Wobble mild.
+- Covers: Ace print Dust (rejected Penguin audio ed), Ace Frail, Amazon Candlemark Grave (rejected OL library-sticker photo); localized.
