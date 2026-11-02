@@ -1345,3 +1345,6 @@ The Olympian Affair = Cinder Spires #2, already on the card (steampunk-realms); 
 
 ## 2026-11-02 - MC04562-64 Janitors of the Post-Apocalypse (Jim C. Hines) -> Comic adventure SF (3->4)
 Complete trilogy (Terminal Alliance Nov 2017 [queue said 2018], Terminal Uprising Feb 2019, Terminal Peace Aug 2022; DAW; author's bibliography lists exactly 3). Krakau aliens + feral-human plague Earth; Mops and her spaceship sanitation crew pulled through zombie-plague/conspiracy escapades. Comic-adventure gate exact (comedy runs on adventure; Hitchhiker's sibling); not satirical (joke not aimed at society), not rom-com. Covers: per-volume verified jackets served locally (OL 14524563/10891359 + PRH CDN 9780756412814), contact-sheet checked. Queue MC04562-64 -> in_tree.
+
+## 2026-11-02 - MC04565 Unchosen Ones (Jim C. Hines) -> skipped_forthcoming
+Forthcoming June 2027 (DAW) per the author's own bibliography page. No revisit wake per standing rule.
