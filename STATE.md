@@ -1365,3 +1365,8 @@ Forthcoming June 2027 (DAW) per the author's own bibliography page. No revisit w
 
 ## 2026-11-02 11:57 CET - Parody fantasy portrait v2 (main review correction)
 - Main rejected v1: read secondary-world (robed wizard, armor, medieval shop). Corrected via image EDIT of the original (commit e30a591): same composition/jokes, contemporary Earth unmistakable (denim/cardigan/flannel+cap, card reader+laptop, to-go coffee, street view with parked car). No oil-style prompt. Full-res /downloads/parody-fantasy-portrait-v2.png sent to main with live screenshot; live-verified 200/0 broken.
+
+## 2026-11-02 12:03 CET - MC04566 excluded_non_novel + MC04567/68 Kirith Kirin -> Far-future planetary romance (7->8)
+- MC04566 Weather Wizards Cloud Book: nonfiction (Algonquin 1989 cloud-forecasting humor guide) -> excluded_non_novel (3f4f8d9).
+- MC04567+68 = one fiction (rule 11j): Senal/Irion trilogy per SFE (Kirith Kirin 2000 fantasy / The Ordinary 2004 science fantasy / The Last Green Tree 2006 fixup space opera). Kirith Kirin surfaced; card = 3 vols. Walk rejects: hard-science-fantasy (physics bar), ozymandian-tech (real magic not buried tech), classic/lost-colony PR (not Earth-visitor/forgotten-colony), theological space opera (vol 3 tonality only). Commit 0f2d4e7. Live-verified 8 FICTIONS + fiction page 3 BOOKS, 0 broken. Covers: OL 940824 + Macmillan 9780765305282/9780765305305, leaf dir + root copies.
+- Mechanics learning: fiction-page deep links (#leaf/work) render the leaf grid after a plain reload; a card tap renders the fiction page. Verify fiction pages by tap.
