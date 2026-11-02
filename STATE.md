@@ -1348,3 +1348,9 @@ Complete trilogy (Terminal Alliance Nov 2017 [queue said 2018], Terminal Uprisin
 
 ## 2026-11-02 - MC04565 Unchosen Ones (Jim C. Hines) -> skipped_forthcoming
 Forthcoming June 2027 (DAW) per the author's own bibliography page. No revisit wake per standing rule.
+
+## 2026-11-02 ~09:42 CET - MC04561 Slayers of Old: refined seed serve prep
+- Parent chain verified LIVE: Speculative fiction > Fantasy > Real earth fantasy > Contemporary fantasy > Folktale > Earthly comic fantasy (4 subgenres), https://gusoder.github.io/sff-taxonomy-browser/#earthly-comic-fantasy
+- NAMES/SEEDS check: Parody realms (under Comic fantasy realms) is the established in-tree trope-parody concept but invented-world only; Earthly comic fantasy has no parody child. Age-based leaf = one-book singleton (illegal narrowness per SEEDS.md carve doctrine). Recommendation: seed "Parody fantasy" as 5th Earthly comic fantasy child.
+- Engine evidence: psillustrated ("takes on the trope of the retired Chosen One in an obvious homage to Buffy"; "still has his wit"), booksbonesbuffy ("humor galore", "laugh-out-loud dialog", Buffy nods: Giles-like mentor Felipe, Council, destiny), WSJ via PRH ("Buffy the Vampire Slayer meets Thursday Murder Club and thoroughly enjoyable"). Uncertainty preserved: reviews also call it heart-felt urban fantasy; comedy-engine reading is the proposal's load-bearing judgment.
+- Kaiju cover QA swap now LIVE-verified: card serves local cover-the-kaiju-preservation-society.jpg (Tor print jacket).
