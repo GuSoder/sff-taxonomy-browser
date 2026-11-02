@@ -1437,3 +1437,8 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 - One fiction (11j): Dust (Ace 2010), Frail (Ace 2011), Grave (Candlemark & Gleam 2014, surfaced third volume). SFE Turner + publisher page.
 - Gate: zombification never explained (dead simply rise, not bite-spread; Reactor/Odd Things Considered). 'Virus'/'bacteria'/'artificial plague' evidence describes the later zombie-KILLING lab plague, not zombification. Raising Stony Mayhall precedent. Wobble mild.
 - Covers: Ace print Dust (rejected Penguin audio ed), Ace Frail, Amazon Candlemark Grave (rejected OL library-sticker photo); localized.
+
+### 2026-11-02 21:10 CET - MC04596-97 The Elysium Chronicles -> Planet ecology fiction (5->6)
+- One fiction (11j): A Door into Ocean 1986, Daughter of Elysium 1993, The Children Star 1998, Brain Plague 2000 (SFE Slonczewski); two volumes surfaced.
+- Walk: futurist -> hard SF (practicing biologist, rigorous biological extrapolation) -> planetary science -> planet ecology (Shora's ocean ecology and Prokaryon's microbial intelligence are the main characters). Rejected terraforming (refused, not enacted), planet expedition, genetic-engineering umbrella. Wobble mild.
+- Covers: Orb Door, Avon Daughter (small but real jacket), Tor Children Star, Tor Brain Plague; rejected blank spine + two title-page images; localized.

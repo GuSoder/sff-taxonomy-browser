@@ -1,0 +1,44 @@
+id: the-elysium-chronicles
+title: The Elysium Chronicles
+authors:
+- Joan Slonczewski
+first_published: 1986
+canonical_genre: planet-ecology-fiction
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): the Elysium Chronicles - A Door into Ocean (1986), Daughter of Elysium (1993),
+  The Children Star (1998), Brain Plague (2000); SFE Slonczewski entry names the sequence and all four volumes. Root-down:
+  Speculative fiction -> Science fiction -> Futurist SF -> Hard SF (Slonczewski is a practicing biologist; the reading experience
+  is rigorous biological extrapolation - Sharer lifeshaping, microbial intelligence) -> Planetary science -> Planet ecology
+  fiction: invented worlds worked out as planets whose climate and life shape their civilizations, and the world is the main
+  character - Shora''s ocean ecology IS A Door into Ocean (the web of life resists the invasion), and Prokaryon''s ecology
+  is the hidden master of The Children Star. Rejected: Terraforming fiction (Prokaryon''s terraforming is attempted and refused;
+  nothing is remade - the leaf''s own Not line), Planet expedition fiction (no mission or survival problem on a known world),
+  Genetic engineering umbrella (wrong era branch - modern-day - and the gene work serves the worlds; ecology is the character).
+  Wobble: mild - Daughter of Elysium and Brain Plague lean societal/microbial, but the cycle''s center of gravity is planetary
+  ecology. Queue years 2000/1999 are reprints; first pubs 1986/1993/1998/2000 (SFE); Daughter of Elysium and Brain Plague
+  surfaced under 11j series autonomy.'
+books:
+- title: A Door into Ocean
+  year: 1986
+  cover_url: cover-a-door-into-ocean.jpg
+- title: Daughter of Elysium
+  year: 1993
+  cover_url: cover-daughter-of-elysium.jpg
+- title: The Children Star
+  year: 1998
+  cover_url: cover-the-children-star.jpg
+- title: Brain Plague
+  year: 2000
+  cover_url: cover-brain-plague.jpg
+cover_curation:
+  status: complete
+  source: Open Library edition covers
+  selected_url: cover-a-door-into-ocean.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet visual check 2026-11-02 (Orb Door, Avon Daughter, Tor Children Star/Brain Plague; rejected
+    blank spine 4142790, Avon title-page 5352555, Morrow title-page 8233917)
+intake: ten-k walk v5 (queue ids MC04596, MC04597; Daughter of Elysium and Brain Plague surfaced under 11j)
+placement_history:
+- date: '2026-11-02'
+  to: planet-ecology-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
