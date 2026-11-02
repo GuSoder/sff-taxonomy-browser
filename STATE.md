@@ -1514,3 +1514,6 @@ Standalone 2014. Near-future (c.2030) surveillance thriller: blackmailed ex-snip
 
 ## 2026-11-02 Horns (MC04647)
 Standalone 2010. Ig Perrish's devil horns make people confess/act on darkest impulses; God vs Satan through earthly pawns (NYT, Reactor, PopMatters reviews). Contemporary dark fantasy -> torment -> satanic-torment 3->4 (explicit Satan iconography/engine; tenants Rosemary's Baby, Master and Margarita). Rejected demonic-torment (generic demon; this is Satanic), horror-fantasy (no place menace), urban-fantasy. Cover OL 6303181 (2010 Morrow jacket; faint Amazon 'Copyrighted Material' watermark; rejected 10367822 movie tie-in, 9119615 audio). Wobble: none.
+
+## 2026-11-02 The Fireman (MC04649)
+Standalone 2016. Dragonscale spore pandemic, origin and transmission uncertain, no treatment (Locus/Langan; Guardian; NYT). Apocalyptic -> pandemic -> mystery-plague 7->8 (inexplicable affliction; tenants Blindness, The Violence). Rejected die-off (progressive burn, not one mass dying), zombie, post-pandemic-survival (in progress not aftermath). Cover OL 7885034 (2016 Gollancz UK jacket, English). Wobble: none.

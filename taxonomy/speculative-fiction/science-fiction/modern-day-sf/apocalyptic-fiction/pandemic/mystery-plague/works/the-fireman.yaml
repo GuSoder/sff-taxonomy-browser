@@ -1,0 +1,29 @@
+id: the-fireman
+title: The Fireman
+authors:
+- Joe Hill
+first_published: 2016
+canonical_genre: mystery-plague
+placement_status: accepted
+placement_rationale: 'Standalone novel (2016). The Dragonscale spore (Draco incendia trychophyton) covers the world: origin
+  and means of transmission uncertain, no treatment, civilization collapsing as it spreads, survivors hunted by cremation
+  crews; nurse Harper Willowes shelters with an infected camp that has learned to control the burn (Locus/Langan: ''Its origin
+  is uncertain, as is its means of transmission. There is no effective treatment''; Guardian, NYT reviews). Apocalyptic fiction
+  (end of the world in progress) -> pandemic -> mystery-plague: an inexplicable affliction with no certain cause or nature,
+  matching tenants Blindness and The Violence. Rejected: die-off (no single short mass dying - the burn unfolds progressively),
+  zombie-apocalypse, post-pandemic-survival (the catastrophe is in progress, not aftermath).'
+books:
+- title: The Fireman
+  year: 2016
+  cover_url: cover-the-fireman.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-fireman.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04649)
+placement_history:
+- date: '2026-11-02'
+  to: mystery-plague
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
