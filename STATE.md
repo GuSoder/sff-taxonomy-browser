@@ -1339,3 +1339,6 @@ Queue rows collide with the existing Noon Onyx card (placed 2026-10-14 after a s
 
 ## 2026-11-02 - MC04553-58 Dresden/Cinder Spires cluster reconciliation (no tree change)
 Both universes already carded: The Dresden Files (mage-pi, 17 novels + Twelve Months 2026) and The Cinder Spires (steampunk-realms, 2 vols). MC04553 Brief Cases + MC04554 Side Jobs = short-fiction collections -> excluded_short_fiction (standing rule). MC04555 The Aeronaut's Windlass -> in_tree (Cinder Spires #1, on card). MC04556/57/58 Dresden Files Collection 1-6/13-15/7-12 = omnibus e-bundles of carded novels -> in_tree with omnibus note.
+
+## 2026-11-02 - MC04559 The Olympian Affair + MC04560 Twelve Months -> in_tree (no tree change)
+The Olympian Affair = Cinder Spires #2, already on the card (steampunk-realms); queue year 2024 vs card 2023 (Ace pub Nov 2023), card year stands. Twelve Months = Dresden Files #18 (Ace 2026-01-20), already on The Dresden Files card (mage-pi) as book 18 of 18.
