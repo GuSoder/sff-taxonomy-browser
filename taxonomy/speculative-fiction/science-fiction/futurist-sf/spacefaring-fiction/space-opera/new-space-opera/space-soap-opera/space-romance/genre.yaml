@@ -1,18 +1,19 @@
 id: space-romance
 label: Space romance
 parent: space-soap-opera
-children: []
+children:
+- alien-space-love
+- ai-space-love
+- forbidden-space-love
+- dangerous-space-love
+- arranged-space-love
+works: []
 image: 445-space-romance.webp
-definition: New space opera in which the romantic relationship is the plot's spine, with interstellar societies, travel or
+definition: 'New space opera in which the romantic relationship is the plot''s spine, with interstellar societies, travel or
   conflict shaping who can be together. Adventure and politics supply the stakes rather than displacing the relationship.
-  Created by the curator on 2026-09-30.
-status: accepted
-works:
-- the-kindred
-- alien-affairs
-- the-imperial-broadcasts
-- the-rule-of-luck
-- winters-orbit
-- the-stars-too-fondly
-- starbound
-- defy-the-stars
+  Created by the curator on 2026-09-30. Umbrella since 2026-11-02: split-with-umbrella at ten cards by what the love
+  must cross - Alien space love (a species divide), AI space love (a made or uploaded mind), Forbidden space love (a
+  prohibited match), Dangerous space love (a dangerous beloved), Arranged space love (an imposed match); curator "Add
+  dangerous love also then, split approved" (phonemsg-01M6DM13NE1BRN2W37SQPZWGG0, 2026-11-02 8:54 AM CET).'
+status: umbrella
+ruling: curator "Add dangerous love also then, split approved" (phonemsg-01M6DM13NE1BRN2W37SQPZWGG0, 2026-11-02 8:54 AM CET)
