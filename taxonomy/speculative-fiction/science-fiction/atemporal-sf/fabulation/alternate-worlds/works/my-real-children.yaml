@@ -1,0 +1,35 @@
+id: my-real-children
+title: My Real Children
+authors:
+- Jo Walton
+first_published: 2014
+canonical_genre: alternate-worlds
+placement_status: accepted
+placement_rationale: 'Literary speculative novel (Tor 2014, Tiptree co-winner): Patricia Cowan, elderly and confused in a
+  care home, remembers two mutually exclusive lives from 1926 to 2015 diverging at one 1949 choice, each in a differently-altered
+  world (one with repeated localized nuclear conflicts), and neither version replaces or succeeds the other (SFE: ''utilizes
+  the Parallel World topos to examine two versions of one woman''s long life... a meditative intensity about how individual
+  lives take their shape''). Positive fit to Alternate worlds: a literary fabulation whose alternate Earths destabilize memory
+  (the dementia frame never settles which life is real) and history, exactly the leaf''s wording, ''rather than mechanism-centered
+  parallel-world travel or conventional counterfactual history'' - there is no travel or communication between the worlds,
+  and the divergence is personal/mysterious, not a historical POD (rules out alternate-history''s ''fiction set in a history
+  that diverges at an identifiable turning point'' and parallel-world-fiction''s travel/communication mechanism; multiverse-mirror
+  wants the mirror on OUR history to be the point, while this immerses in both altered lives). Fabulation ancestor gate fits:
+  the device challenges whether a world can be reliably told; atemporal gate fits: two timelines resist a stable reality.'
+books:
+- title: My Real Children
+  year: 2014
+  cover_url: cover-my-real-children.jpg
+cover_curation:
+  status: complete
+  source: Amazon (ISBN-10 0765332655, Tor US jacket)
+  selected_url: cover-my-real-children.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: 'single-cover direct read: real US jacket, no placeholder'
+intake: sequential candidates.tsv walk, row MC04581
+placement_history:
+- date: '2026-11-02'
+  to: alternate-worlds
+  reason: Sequential intake MC04581; single-fiction placement under standing autonomy (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).
+classification_sources:
+- https://sf-encyclopedia.com/entry/walton_jo
