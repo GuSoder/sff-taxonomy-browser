@@ -1445,3 +1445,6 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 
 ### 2026-11-02 21:16 CET - MC04598-600 Dragonlord trilogy = already_in_tree
 - dynastic-murders 'Dragonlord' card already carries The Last Dragonlord 1998, Dragon and Phoenix 1999, Bard's Oath 2012 (placed 2026-10-04, same queue). Rows MC04598/599/600 marked already_in_tree. ISFDB series 6025 confirms the 3-novel bibliography; short story Dragonlord's Justice (1995) excluded per shorts rule.
+
+### 2026-11-02 21:18 CET - MC04601-03 Harris folklore novellas excluded
+- A Pocketful of Crows (2017), Orfeia (2020) = two of Harris's three illustrated folklore novellas (author's own site + RCW agency call them novellas); Maiden, Mother, Crone (2023) = their omnibus collection + 3 shorts (ISFDB Type: COLLECTION). All excluded under the novella/collection rules.

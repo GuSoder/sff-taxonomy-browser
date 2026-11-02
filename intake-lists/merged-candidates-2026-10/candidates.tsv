@@ -4599,9 +4599,9 @@ MC04597	The Children Star	Joan Slonczewski	1999	Tor Books	Macmillan/Tor	1	Scienc
 MC04598	Bard's Oath	Joanne Bertin	2012	Tor Books	Macmillan/Tor	1	Fantasy		already_in_tree	0	already_in_tree: 'Dragonlord' card in dynastic-murders already carries all 3 novels (Last Dragonlord 1998, Dragon and Phoenix 1999, Bard's Oath 2012; placed 2026-10-04); duplicate of the in-tree fiction
 MC04599	Dragon and Phoenix	Joanne Bertin	2000	Tor Books	Macmillan/Tor	1	Fantasy		already_in_tree	0	already_in_tree: 'Dragonlord' card in dynastic-murders already carries all 3 novels (Last Dragonlord 1998, Dragon and Phoenix 1999, Bard's Oath 2012; placed 2026-10-04); duplicate of the in-tree fiction
 MC04600	The Last Dragonlord	Joanne Bertin	1999	Tor Books	Macmillan/Tor	1	Fantasy		already_in_tree	0	already_in_tree: 'Dragonlord' card in dynastic-murders already carries all 3 novels (Last Dragonlord 1998, Dragon and Phoenix 1999, Bard's Oath 2012; placed 2026-10-04); duplicate of the in-tree fiction
-MC04601	A Pocketful of Crows	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
-MC04602	Maiden, Mother, Crone	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
-MC04603	Orfeia	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
+MC04601	A Pocketful of Crows	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		excluded_novella	0	excluded_novella: one of Harris's three illustrated folklore novellas (author site + RCW agency: 'my three novellas A Pocketful of Crows, The Blue Salt Road and Orfeia')
+MC04602	Maiden, Mother, Crone	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		excluded_collection	0	excluded_collection: omnibus of the 3 folklore novellas + 3 shorts (author site, ISFDB pub record 978366: Type COLLECTION)
+MC04603	Orfeia	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		excluded_novella	0	excluded_novella: one of Harris's three illustrated folklore novellas (author site + RCW agency)
 MC04604	Runelight	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
 MC04605	Runemarks	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
 MC04606	The Gospel of Loki	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
