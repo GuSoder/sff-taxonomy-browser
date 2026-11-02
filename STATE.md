@@ -1517,3 +1517,6 @@ Standalone 2010. Ig Perrish's devil horns make people confess/act on darkest imp
 
 ## 2026-11-02 The Fireman (MC04649)
 Standalone 2016. Dragonscale spore pandemic, origin and transmission uncertain, no treatment (Locus/Langan; Guardian; NYT). Apocalyptic -> pandemic -> mystery-plague 7->8 (inexplicable affliction; tenants Blindness, The Violence). Rejected die-off (progressive burn, not one mass dying), zombie, post-pandemic-survival (in progress not aftermath). Cover OL 7885034 (2016 Gollancz UK jacket, English). Wobble: none.
+
+## 2026-11-02 MC04650 Fortress at the End of Time - TENTH arrival, split proposal
+Standalone novel (272p, Tordotcom 2017; PW + Tor page count). Walk: far-future, military listening station Citadel at edge of human space; closed oppressive posting society (corruption, suicide, no escape) is the engine (Verge, PW, Book Smugglers). Honest best fit = space-dystopias (closed, oppressive societies off Earth; tenants incl. Dred prison ship, Unkindness generation ship) but leaf is FULL at 9. Per standing rule: no tenth placement; split proposal served to main. Alternatives rejected: military-sf children (warfare-mode keyed, war long over), colony-life children (outpost not a colony), future-history-in-space, space-opera, techno-fiction-in-space (also FULL, and engine is social not tech).
