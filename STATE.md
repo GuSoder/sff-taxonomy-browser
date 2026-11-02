@@ -1342,3 +1342,6 @@ Both universes already carded: The Dresden Files (mage-pi, 17 novels + Twelve Mo
 
 ## 2026-11-02 - MC04559 The Olympian Affair + MC04560 Twelve Months -> in_tree (no tree change)
 The Olympian Affair = Cinder Spires #2, already on the card (steampunk-realms); queue year 2024 vs card 2023 (Ace pub Nov 2023), card year stands. Twelve Months = Dresden Files #18 (Ace 2026-01-20), already on The Dresden Files card (mage-pi) as book 18 of 18.
+
+## 2026-11-02 - MC04562-64 Janitors of the Post-Apocalypse (Jim C. Hines) -> Comic adventure SF (3->4)
+Complete trilogy (Terminal Alliance Nov 2017 [queue said 2018], Terminal Uprising Feb 2019, Terminal Peace Aug 2022; DAW; author's bibliography lists exactly 3). Krakau aliens + feral-human plague Earth; Mops and her spaceship sanitation crew pulled through zombie-plague/conspiracy escapades. Comic-adventure gate exact (comedy runs on adventure; Hitchhiker's sibling); not satirical (joke not aimed at society), not rom-com. Covers: per-volume verified jackets served locally (OL 14524563/10891359 + PRH CDN 9780756412814), contact-sheet checked. Queue MC04562-64 -> in_tree.
