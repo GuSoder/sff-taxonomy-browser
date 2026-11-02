@@ -1,0 +1,46 @@
+id: the-snow-queen
+title: The Snow Queen
+authors:
+- Joan D. Vinge
+first_published: 1980
+canonical_genre: hidden-lander-romance
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): the Snow Queen cycle - The Snow Queen (1980), World''s End (1984), The Summer
+  Queen (1991), Tangled Up in Blue (2000); SFE lists all four as the Snow Queen series and calls its power that of a Planetary
+  Romance founded on Graves-style mythopoeia with heroic-fantasy furniture. Root-down: Speculative fiction -> Science fiction
+  -> Atemporal SF (Tiamat has no Earth-time anchor) -> Science fantasy (fantasy surfaces on scientific engines: sibyl network,
+  mer-blood immortality, cloning) -> Planetary romance -> Lost-colony planetary romance -> Hidden lander romance. Tiamat is
+  a settled world kept primitive: the Hegemony strips imported technology at every departure and bans tech transfer to preserve
+  the mer-harvest order, and the Winter Queen suppresses the seasonal succession to keep her reign - leaders actively repressing
+  technological recovery to preserve the inherited order, the Hidden lander definition. Darkover precedent: active offworld
+  contact does not break the lander family. Rejected: Classic planetary romance (visitor-from-Earth shape; the series'' center
+  is native Tiamatans Moon and Sparks - and the leaf sits at 9), Far-future planetary romance (Earth neither gone nor forgotten;
+  the Hegemony is current), Abandoned/Broken lander (no founding renunciation; active repression, not physical loss, is the
+  defining mechanism), Rebel space opera (the revolt matures only in The Summer Queen; the engine is the kept-primitive planet,
+  and the atemporal science-fantasy branch gates first). Wobble: moderate - the cut-off is cyclical (the Hegemony is present
+  each winter), and Gundhalinu in Tangled Up in Blue is an offworlder lead. Queue years 2001/2015/2003/2017 are reprints;
+  first pubs 1980/1984/1991/2000 (SFE).'
+books:
+- title: The Snow Queen
+  year: 1980
+  cover_url: cover-the-snow-queen.jpg
+- title: World's End
+  year: 1984
+  cover_url: cover-worlds-end.jpg
+- title: The Summer Queen
+  year: 1991
+  cover_url: cover-the-summer-queen.jpg
+- title: Tangled Up in Blue
+  year: 2000
+  cover_url: cover-tangled-up-in-blue.jpg
+cover_curation:
+  status: complete
+  source: Open Library edition covers (Bluejay 1984, Warner 1991, Tor 2000, Warner Snow Queen)
+  selected_url: cover-the-snow-queen.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: 'contact-sheet visual check 2026-11-02 (4 English jackets: Warner/Bluejay first eds/Tor)'
+intake: ten-k walk v5 (queue ids MC04590, MC04591, MC04592, MC04593)
+placement_history:
+- date: '2026-11-02'
+  to: hidden-lander-romance
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

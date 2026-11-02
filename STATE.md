@@ -1427,3 +1427,8 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 - Consolidated all three Cory books onto one Donovan's Brain series card in psionics (verified in-tree English jackets reused); removed the card from mad-science-gothic (6->5). Single-fiction consolidation autonomy; main confirmed 2026-11-02 20:42. No split, no gate change.
 - MC04587-89 Cat (Psion 1982, Catspaw 1988, Dreamfall 1996) placed as psionics' 9th fiction. verify_local green (816 nodes, 2645 cards / 6,127 books).
 - Split proposal withdrawn (evidence retained in /tmp/psionics-split.md).
+
+### 2026-11-02 20:58 CET - MC04590-93 The Snow Queen -> Hidden lander romance (3->4)
+- One fiction (11j): Snow Queen cycle - The Snow Queen 1980, World's End 1984, The Summer Queen 1991, Tangled Up in Blue 2000 (SFE Vinge); queue years reprints.
+- Walk: atemporal SF -> science fantasy -> planetary romance -> lost-colony -> hidden lander: Hegemony strips/bans tech to keep Tiamat a primitive mer farm, Winter Queen suppresses succession = leaders repressing technological recovery. Darkover precedent: active contact OK. Rejected classic-PR (visitor-from-Earth shape; at 9), far-future PR (Earth current), abandoned/broken lander, rebel space opera. Wobble moderate (cyclical cut-off; Gundhalinu offworlder lead in book 4).
+- Covers: 4 distinct English jackets localized (288125 Warner Snow Queen, 10121558 Bluejay first World's End, 7024106 Warner first Summer Queen, 183221 Tor Tangled); contact-sheet verified; fiction cover = book 1.
