@@ -1,0 +1,41 @@
+id: the-rune-books
+title: The Rune Books
+authors:
+- Joanne Harris
+first_published: 2007
+canonical_genre: norse-fantasy
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): the RUNE/Loki cycle - Runemarks (2007), Runelight (2011), The Gospel of Loki
+  (2014), The Testament of Loki (2018); the author''s own site lists exactly these four as the RUNE books in sequence (joanne-harris.co.uk
+  BOOKS page: ''1: The Gospel of Loki. 2: The Testament of Loki. 3: Runemarks. 4: Runelight.''). Root-down: Fantasy -> Real
+  earth fantasy -> Historical fantasy -> Mythic retelling -> Norse fantasy: the cycle retells and reimagines Norse source
+  material - The Gospel of Loki is a first-person retelling of the Eddic myths to Ragnarok, Runemarks and Runelight reimagine
+  the Nine Worlds five hundred years after it, and The Testament of Loki continues the same Loki directly from the Gospel
+  (author site). Rejected: Modern Norse myth (only The Testament of Loki puts the gods in the present-day world; the cycle''s
+  gravity is the mythic frame, and one fiction cannot split across leaves). Wobble: moderate - Testament is modern-set, and
+  Runemarks'' Malbry is a continuation-world rather than the myth''s own age; the leaf''s ''retells or reimagines'' wording
+  covers reimagining. First pubs 2007/2011/2014/2018 (author site, Gollancz).'
+books:
+- title: Runemarks
+  year: 2007
+  cover_url: cover-runemarks.jpg
+- title: Runelight
+  year: 2011
+  cover_url: cover-runelight.jpg
+- title: The Gospel of Loki
+  year: 2014
+  cover_url: cover-the-gospel-of-loki.jpg
+- title: The Testament of Loki
+  year: 2018
+  cover_url: cover-the-testament-of-loki.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-runemarks.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet visual check 2026-11-02 (4 English jackets)
+intake: ten-k walk v5 (queue ids MC04604, MC04605, MC04606, MC04608)
+placement_history:
+- date: '2026-11-02'
+  to: norse-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

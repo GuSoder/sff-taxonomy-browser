@@ -4602,11 +4602,11 @@ MC04600	The Last Dragonlord	Joanne Bertin	1999	Tor Books	Macmillan/Tor	1	Fantasy
 MC04601	A Pocketful of Crows	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		excluded_novella	0	excluded_novella: one of Harris's three illustrated folklore novellas (author site + RCW agency: 'my three novellas A Pocketful of Crows, The Blue Salt Road and Orfeia')
 MC04602	Maiden, Mother, Crone	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		excluded_collection	0	excluded_collection: omnibus of the 3 folklore novellas + 3 shorts (author site, ISFDB pub record 978366: Type COLLECTION)
 MC04603	Orfeia	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		excluded_novella	0	excluded_novella: one of Harris's three illustrated folklore novellas (author site + RCW agency)
-MC04604	Runelight	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
-MC04605	Runemarks	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
-MC04606	The Gospel of Loki	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
+MC04604	Runelight	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		placed	0	one fiction 'The Rune Books' (Runemarks 2007, Runelight 2011, Gospel of Loki 2014, Testament of Loki 2018; author's RUNE sequence) -> norse-fantasy (2->3)
+MC04605	Runemarks	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		placed	0	one fiction 'The Rune Books' (Runemarks 2007, Runelight 2011, Gospel of Loki 2014, Testament of Loki 2018; author's RUNE sequence) -> norse-fantasy (2->3)
+MC04606	The Gospel of Loki	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		placed	0	one fiction 'The Rune Books' (Runemarks 2007, Runelight 2011, Gospel of Loki 2014, Testament of Loki 2018; author's RUNE sequence) -> norse-fantasy (2->3)
 MC04607	The Moonlight Market	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
-MC04608	The Testament of Loki	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		new	0	author from tags (matches author seen elsewhere)
+MC04608	The Testament of Loki	Joanne Harris		Gollancz	Gollancz store	1	Fantasy		placed	0	one fiction 'The Rune Books' (Runemarks 2007, Runelight 2011, Gospel of Loki 2014, Testament of Loki 2018; author's RUNE sequence) -> norse-fantasy (2->3)
 MC04609	Burn the Night	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			new	0	author from URL slug
 MC04610	Dawnbreaker	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			new	0	author from URL slug
 MC04611	Dayhunter	Jocelynn Drake		Harper Voyager	HarperCollins Voyager collection	1			new	0	author from URL slug
