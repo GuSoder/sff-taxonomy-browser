@@ -1,0 +1,46 @@
+id: suliens-world
+title: Sulien's World
+authors:
+- Jo Walton
+first_published: 2000
+canonical_genre: arthur-reimagined
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): Walton''s first three novels, one universe (author''s own series page ''Sulien''s
+  World''): The King''s Peace (2000), The King''s Name (2001), The Prize in the Game (2002 prequel). A reworking of the Arthurian
+  legend (SFE Walton entry) set in Tir Tanagiri - ''a fantasy alternate sixth century Europe... the alternate Britain'', same
+  geography as ours, mythically connected to our world (author site) - so Earth-rooted, not an independently invented universe
+  (real-earth gate passes: alternate Britain = rooted in our own Earth). Positive fit to Arthur reimagined: the legend reshaped
+  through a woman''s perspective rather than told straight - Sulien ap Gwien, woman warrior, narrates her rise through Urdo''s
+  (Arthur''s) cavalry while Urdo unites the island''s kingdoms and restores law (Wikipedia plot summary; Emerald City review
+  title ''Alternate Arthur''); peer tenants gwenhwyfar, spear, half-sick-of-shadows share the women''s/queer-perspective reshaping.
+  Rejected: warrior-hero/martial-heroes (true of Sulien''s skill but the fiction''s anchor is the inherited Arthurian story
+  - mythic-retelling owns ''the source is the myth itself'' and explicitly names Arthurian Britain), alternate-history-fantasy
+  (history openly rewritten with magic as engine; here the anchor is the legend, not a divergence), mythological-fantasy branches
+  (invented myth; here the myth is inherited Arthurian matter). Queue years 2007/2000/2004 are reprints; first publications
+  2000/2001/2002 (Wikipedia, Tor).'
+books:
+- title: The King's Peace
+  year: 2000
+  cover_url: cover-the-kings-peace.jpg
+- title: The King's Name
+  year: 2001
+  cover_url: cover-the-kings-name.jpg
+- title: The Prize in the Game
+  year: 2002
+  cover_url: cover-the-prize-in-the-game.jpg
+cover_curation:
+  status: complete
+  source: Amazon (ISBN-10 0312872291 / 031287653X / 0765302632, Tor US jackets, Julie Bell art on book 1)
+  selected_url: cover-the-kings-peace.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: 'contact-sheet one-pass: 3 distinct real Tor jackets, correct titles, no placeholders'
+intake: sequential candidates.tsv walk, rows MC04582/83/84 merged as one fiction (rule 11j shared universe)
+placement_history:
+- date: '2026-11-02'
+  to: arthur-reimagined
+  reason: Sequential intake MC04582-84; single-fiction placement under standing autonomy (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).
+classification_sources:
+- http://www.jowaltonbooks.com/books/the-sulien-series/
+- https://sf-encyclopedia.com/entry/walton_jo
+- https://en.wikipedia.org/wiki/The_King%27s_Peace_(novel)
+- https://www.goodreads.com/series/44233-tir-tanagiri
