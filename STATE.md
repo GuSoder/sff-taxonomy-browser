@@ -1511,3 +1511,6 @@ Standalone 2014. Near-future (c.2030) surveillance thriller: blackmailed ex-snip
 
 ## 2026-11-02 Joe Hill collections excluded (MC04645/46/48)
 20th Century Ghosts (short story collection, PS Publishing 2005 - joehill.nl + en.wikipedia), Full Throttle (13 stories, William Morrow 2019 - harpercollins.com), Strange Weather (four novellas, William Morrow 2017 - joehill.nl + headline.co.uk). All excluded_collection per novellas/shorts/collections rule. Novels Horns (MC04647) and The Fireman (MC04649) proceed to walks.
+
+## 2026-11-02 Horns (MC04647)
+Standalone 2010. Ig Perrish's devil horns make people confess/act on darkest impulses; God vs Satan through earthly pawns (NYT, Reactor, PopMatters reviews). Contemporary dark fantasy -> torment -> satanic-torment 3->4 (explicit Satan iconography/engine; tenants Rosemary's Baby, Master and Margarita). Rejected demonic-torment (generic demon; this is Satanic), horror-fantasy (no place menace), urban-fantasy. Cover OL 6303181 (2010 Morrow jacket; faint Amazon 'Copyrighted Material' watermark; rejected 10367822 movie tie-in, 9119615 audio). Wobble: none.
