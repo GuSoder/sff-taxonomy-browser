@@ -1,0 +1,30 @@
+id: old-twentieth
+title: Old Twentieth
+authors:
+- Joe Haldeman
+first_published: 2005
+canonical_genre: techno-fiction-in-space
+placement_status: accepted
+placement_rationale: 'Standalone novel (2005). Immortal humans (the Becker-Cendrek Process) mount a one-way colony expedition
+  to Beta Hydri, passing the centuries in VR ''time machines'' that recreate the twentieth century; when immortals start dying
+  in the tanks, VR engineer Jacob Brewer must find whether the simulation system itself is acting independently (SF Site review
+  sfsite.com/03b/ot220.htm; sffworld.com; worldswithoutend). The engine is the VR/AI mystery aboard an interstellar voyage
+  crewed by posthuman immortals - computation, virtual identity and posthuman technology at the core: the techno-fiction-in-space
+  shape (tenant Glasshouse shares the VR-in-spacepolity shape). Rejected: generation-starships (the crew are immortals making
+  a single-generation voyage, not a multigenerational society), machine-minds under future-of-earth (the story is spacefaring,
+  so that ancestor gate fails), time-travel fiction (the ''time machines'' are VR recreation, not travel).'
+books:
+- title: Old Twentieth
+  year: 2005
+  cover_url: cover-old-twentieth.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-old-twentieth.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04640)
+placement_history:
+- date: '2026-11-02'
+  to: techno-fiction-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
