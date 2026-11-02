@@ -1508,3 +1508,6 @@ Standalone 2007. Matt Fuller accidentally builds a forward-only time machine, ex
 
 ## 2026-11-02 Work Done for Hire (MC04644)
 Standalone 2014. Near-future (c.2030) surveillance thriller: blackmailed ex-sniper vs an employer who sees through the whole grid (Locus/Letson, The Tech). Technothriller -> infowar 8->9. Cover OL 14420921 (2014 Ace jacket, ISBN 9780425256619; rejected 8333459 title page). Wobble: none.
+
+## 2026-11-02 Joe Hill collections excluded (MC04645/46/48)
+20th Century Ghosts (short story collection, PS Publishing 2005 - joehill.nl + en.wikipedia), Full Throttle (13 stories, William Morrow 2019 - harpercollins.com), Strange Weather (four novellas, William Morrow 2017 - joehill.nl + headline.co.uk). All excluded_collection per novellas/shorts/collections rule. Novels Horns (MC04647) and The Fireman (MC04649) proceed to walks.
