@@ -1442,3 +1442,6 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 - One fiction (11j): A Door into Ocean 1986, Daughter of Elysium 1993, The Children Star 1998, Brain Plague 2000 (SFE Slonczewski); two volumes surfaced.
 - Walk: futurist -> hard SF (practicing biologist, rigorous biological extrapolation) -> planetary science -> planet ecology (Shora's ocean ecology and Prokaryon's microbial intelligence are the main characters). Rejected terraforming (refused, not enacted), planet expedition, genetic-engineering umbrella. Wobble mild.
 - Covers: Orb Door, Avon Daughter (small but real jacket), Tor Children Star, Tor Brain Plague; rejected blank spine + two title-page images; localized.
+
+### 2026-11-02 21:16 CET - MC04598-600 Dragonlord trilogy = already_in_tree
+- dynastic-murders 'Dragonlord' card already carries The Last Dragonlord 1998, Dragon and Phoenix 1999, Bard's Oath 2012 (placed 2026-10-04, same queue). Rows MC04598/599/600 marked already_in_tree. ISFDB series 6025 confirms the 3-novel bibliography; short story Dragonlord's Justice (1995) excluded per shorts rule.
