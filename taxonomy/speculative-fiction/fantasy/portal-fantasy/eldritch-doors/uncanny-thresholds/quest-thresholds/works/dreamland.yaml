@@ -1,0 +1,32 @@
+id: dreamland
+title: Dreamland
+authors:
+- Jody Lynn Nye
+first_published: 1998
+canonical_genre: quest-thresholds
+placement_status: accepted
+placement_rationale: A three-novel dream-fantasy series (Waking in Dreamland, 1998; School of Light, 1999; The Grand Tour,
+  2000) in which visitors from the Waking World cross into the ever-shifting Dreamland - the shared dream-world sustained
+  by seven Sleepers - on quests through its strange realms, with a light satirical tone reviewers compared to Piers Anthony's
+  Xanth.
+books:
+- title: Waking in Dreamland
+  year: 1998
+  cover_url: cover-waking-in-dreamland.jpg
+- title: School of Light
+  year: 1999
+  cover_url: cover-school-of-light.jpg
+- title: The Grand Tour
+  year: 2000
+  cover_url: cover-the-grand-tour.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-waking-in-dreamland.jpg
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04624, MC04621, MC04622)
+placement_history:
+- date: '2026-11-02'
+  to: quest-thresholds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
