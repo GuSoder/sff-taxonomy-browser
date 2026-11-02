@@ -1333,3 +1333,6 @@ Standalone MG (Little, Brown 2010; no sequel/shared universe). Lanesha, born wit
 
 ## 2026-11-02 - MC04549 Paradise on Fire (Jewell Parker Rhodes) -> excluded_non_speculative
 Realistic MG wildfire-survival novel (2021): Addy, whose parents died in a fire, at a wilderness camp when a wildfire strikes. "Haunted" is metaphorical; no speculative element (author site, SuperSummary, NYT review). New queue status value excluded_non_speculative introduced for non-speculative novels (disclosed to main).
+
+## 2026-11-02 - MC04550-52 Noon Onyx (Jill Archer) -> already in tree (godforsaken-realms); vol 4 surfaced + added
+Queue rows collide with the existing Noon Onyx card (placed 2026-10-14 after a setting review: world is Halja, a fictional country with circa-1900s tech, not Earth - hence Godforsaken realms, not urban/end-times). Placement stands; no new contradicting evidence. Bibliography completion: Pocket Full of Tinder (Black Willow 2016, ISFDB Type NOVEL, series #4) was missing from the card - added with verified jacket served locally (cover-pocket-full-of-tinder.jpg). Vol 3 jacket re-verified (PRH print ISBN 9780425257173; OL id 8092549 was an interior title page - rejected). Vols 1-2 jackets unchanged (OL 7492145/7751135, contact-sheet re-verified). Queue MC04550/51/52 -> in_tree.

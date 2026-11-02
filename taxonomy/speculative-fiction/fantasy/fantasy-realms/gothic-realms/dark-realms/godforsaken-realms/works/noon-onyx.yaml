@@ -23,12 +23,15 @@ books:
 - title: White Heart of Justice
   year: 2014
   cover_url: https://images.penguinrandomhouse.com/cover/9780698139671
+- title: Pocket Full of Tinder
+  year: 2016
+  cover_url: cover-pocket-full-of-tinder.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/7492145-L.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
+  visually_reviewed_on: '2026-11-02'
+  review_method: contact-sheet one-pass (vol 4 added; vol 3 re-verified via PRH print jacket 9780425257173)
 intake: ten-k walk v5 (queue ids MC04550, MC04551, MC04552)
 placement_history:
 - date: '2026-10-04'
@@ -42,8 +45,10 @@ placement_history:
 - date: '2026-10-14'
   from: paranormal-aftermath
   to: godforsaken-realms
-  reason: 'Curator approval of Approve move? (phonemsg-01M4WN59KFGMXAZXCR23M4Z9MF "Approved"): secondary world, Godforsaken realms.'
+  reason: 'Curator approval of Approve move? (phonemsg-01M4WN59KFGMXAZXCR23M4Z9MF "Approved"): secondary world, Godforsaken
+    realms.'
 - date: '2026-10-14'
   from: godforsaken-realms
   to: godforsaken-realms
-  reason: 'Setting review: the author calls Halja a fictional country and no source ties it to our Earth; curator ruled let it stay in Godforsaken realms (phonemsg-01M4WNG306SCHK6J2TM8D5ASXJ).'
+  reason: 'Setting review: the author calls Halja a fictional country and no source ties it to our Earth; curator ruled let
+    it stay in Godforsaken realms (phonemsg-01M4WNG306SCHK6J2TM8D5ASXJ).'
