@@ -1,0 +1,43 @@
+id: donovans-brain
+title: Donovan's Brain
+authors:
+- Curt Siodmak
+first_published: 1942
+canonical_genre: psionics
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j, shared universe): the Dr Patrick Cory series - Donovan''s Brain (1942), Hauser''s
+  Memory (1968), Gabriel''s Body (1992); SFE: all three feature the biochemist Dr Patrick Cory, and Donovan''s Brain''s preserved
+  brain develops ''the baleful Psi Power of mind control''. The series engine is psi as studiable science - mind control,
+  memory transfer, identity transfer - squarely inside the Psionics definition (''telepathy... or consciousness/identity transfer'').
+  Consolidated 2026-11-02: supersedes the 2026-09-22 reader-relative era split that had Donovan''s Brain in Mad-science Gothic
+  and the sequels here; rule 11j keeps the whole fiction on one card. Consolidation under single-fiction move autonomy (commission
+  phonemsg-01M43MYMGAMQTNA3CY402KK7FB; main 2026-11-02).'
+classification_sources:
+- https://sf-encyclopedia.com/entry/siodmak_curt
+- https://sf-encyclopedia.com/entry/donovans_brain
+- https://www.isfdb.org/cgi-bin/title.cgi?1120246
+books:
+- title: Donovan's Brain
+  year: 1942
+  cover_url: https://covers.openlibrary.org/b/id/15178384-L.jpg
+- title: Hauser's Memory
+  year: 1968
+  cover_url: https://covers.openlibrary.org/b/id/11036159-L.jpg
+- title: Gabriel's Body
+  year: 1992
+  cover_url: https://www.worldswithoutend.com/covers/cs_gabriels.jpg
+cover_curation:
+  status: complete
+  source: Open Library / Worlds Without End (original Leisure front)
+  selected_url: https://covers.openlibrary.org/b/id/15178384-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-11-02'
+  review_method: in-tree verified jackets reused; per-volume distinct English jackets
+intake: pre-existing tree fiction (era-split 2026-09-22); consolidated under rule 11j on 2026-11-02
+placement_history:
+- date: '2026-09-22'
+  to: mad-science-gothic
+  reason: Reader-relative era split of the Cory trilogy (historical 1942 frame).
+- date: '2026-11-02'
+  to: psionics
+  reason: 'Rule 11j consolidation: whole Cory fiction on one card; psi engine fits Psionics definition.'

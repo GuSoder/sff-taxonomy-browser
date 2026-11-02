@@ -1,0 +1,36 @@
+id: cat
+title: Cat
+authors:
+- Joan D. Vinge
+first_published: 1982
+canonical_genre: psionics
+placement_status: accepted
+placement_rationale: 'One fiction (rule 11j): the Cat sequence - Psion (1982), Catspaw (1988), Dreamfall (1996); SFE Vinge
+  entry: ''Cat, an orphan (half human, half Hydran, a race despised by humans) with catlike eyes and Psi Powers''. Positive
+  fit to Psionics: psi treated as a studiable science that shapes society and the story - Cat''s telepathy is researched,
+  regulated and weaponized by institutes and corporations across near-future Earth, and his psion identity IS the plot spine.
+  Futurist gate fits: Earth''s corporate near future. The leaf''s own Cold War note: Psion (1982) and Catspaw (1988) are Cold-War-era
+  futurist psi, Dreamfall (1996) continues the same fiction. Rejected: cyberpunk umbrella (invasive network tech shapes the
+  world; here network tech is set-dressing, psi is the engine), SFE''s ''Space-Opera adventures'' is flavor (no spacefaring
+  sweep; Earth-centered corporate intrigue). Queue years 2002/2004/2007 are reprints; first pubs 1982/1988/1996 (SFE).'
+books:
+- title: Psion
+  year: 1982
+  cover_url: cover-psion.jpg
+- title: Catspaw
+  year: 1988
+  cover_url: cover-catspaw.jpg
+- title: Dreamfall
+  year: 1996
+  cover_url: cover-dreamfall.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-psion.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids psion, catspaw, dreamfall)
+placement_history:
+- date: '2026-10-04'
+  to: psionics
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
