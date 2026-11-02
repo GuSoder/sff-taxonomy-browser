@@ -1469,3 +1469,7 @@ Queue rows: MC04573 Shadowkill (1991), MC04574 Shadowplay, MC04575 Shadowspeer =
 - One fiction (11j): Dragons Wild 2008 + Dragons Luck 2009 (Asprin solo), Dragons Deal 2010 (Asprin+Nye), Dragons Run 2013 (Nye). SFE Nye entry + jodynye.com bibliography + FictionDB.
 - Walk: hidden dragon race in modern New Orleans -> supernatural-fantasy gate ('monsters walking the modern world') -> paranormal-fantasy (tenant shape: hidden supernatural communities; Dr. Greta Helsing etc). Rejected werewolf (wolf-specific), beasts-of-marvel (magic realism), fae-founders (Faerie-specific), occult-mystery. Wobble low-moderate: paranormal-fantasy def still candidate/empty; fit rests on ancestor gate + tenants.
 - Covers: 4 English jackets; OL Dragons Luck was a title page -> Amazon 0441016804. Localized.
+
+### 2026-11-02 21:41 CET - MC04618/19 Imperium placement REVERTED pre-push (tenth-card rule)
+- comic-space-fiction was already at 9 works (bill-the-galactic-hero existed; my earlier tenant listing was truncated by head -8, so I misread the count as 8). live_place reported 10 after append; placement immediately reverted before any push (commit bef6e6a dropped via reset to 2ac4f7c).
+- MC04618/19 marked pending_split: a full split proposal for comic-space-fiction is owed before The Imperium Series can be placed. LESSON: never count tenants from a head-truncated listing; always ls works/ or count live_place's pre-check.
