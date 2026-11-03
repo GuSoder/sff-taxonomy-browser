@@ -2,13 +2,16 @@ id: the-century-next-door
 title: The Century Next Door
 authors:
 - John Barnes
-first_published: 1995
+first_published: 1991
 canonical_genre: rewired-minds
 placement_status: accepted
 placement_rationale: Resuna and One True, memetic programs run on human brains, take over Earth; Joshua Quare is reborn with
   wiped memory every life period, Candle follows the memetic war, and Teri on Mars is taken over and her memory edited. The
   technology that rewrites mind, memory and identity is the Remade minds gate.
 books:
+- title: Orbital Resonance
+  year: 1991
+  cover_url: https://covers.openlibrary.org/b/id/603493-L.jpg
 - title: Kaleidoscope Century
   year: 1995
   cover_url: https://covers.openlibrary.org/b/id/7093320-L.jpg
@@ -34,3 +37,6 @@ placement_history:
   reason: Split of Remade minds by what happens to the mind; re-walked root-down into Rewired minds (curator "Approved" (phonemsg-01M466ZJ4DM0JQCFBKZR8K3R1X,
     2026-10-05 4:20 PM)).
   from: remade-minds
+- date: '2026-11-03'
+  reason: '11j completeness from queue row MC04666 (Candle): recheck against the ISFDB series record (The Century Next Door,
+    714) showed four novels; added book 1, Orbital Resonance (1991), and corrected first_published to 1991. Placement unchanged.'

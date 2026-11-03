@@ -1538,3 +1538,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Sarah Beauhall series card already at attic-talismans with books 1-2 (MC03996/97). ISFDB series 29561 = 5 novels; added Forged in Fire (2012), Night Terrors (2016, Wordfire), Rainbow Brigade (2020). Card now 5 books; tree book count 6,187 → 6,190.
 - Covers QA'd: OL 14605095 (Forged, proper Tor jacket; rejected OL 8105751 title-page scan), OL 8666866 (Night Terrors), OL 11428114 (Rainbow Brigade); localized as cover-forged-in-fire.jpg / cover-night-terrors.jpg / cover-rainbow-brigade.jpg.
 - Hand-edit (live_place asserts card must not exist): works yaml books+intake+history, index.html node books array. NOTE: json round-trip regex ate inline JS tail once; restored tail from git HEAD; verify_local green. Commit 7af3ac7.
+
+## 2026-11-03 MC04666 Candle + MC04669 Kaleidoscope Century + MC04674 The Sky So Big and Black (John Barnes)
+- All three rows already owned by The Century Next Door series card at rewired-minds (intake line listed all three ids; ISFDB series 714 confirms 4 novels). Queue years are reprints (Candle 2000, KC 1995, SSB&B 2002 first pubs).
+- 11j completeness gap found: card was missing book 1, Orbital Resonance (1991). Added to works yaml + index.html node (cover OL 603493, Tor 1992 pb; rejected OL 9793086 photo-of-book and PRH placeholder); first_published 1995 -> 1991. Tree books 6,190 -> 6,191. Leaf stays at 9 cards (existing card, no new placement).
+- index.html edit done line-based (prefix + json + preserved tail) after the earlier regex trap; verify_local green.
