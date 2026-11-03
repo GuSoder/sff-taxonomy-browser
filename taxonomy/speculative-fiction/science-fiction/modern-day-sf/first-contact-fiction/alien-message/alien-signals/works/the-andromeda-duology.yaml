@@ -1,0 +1,33 @@
+id: the-andromeda-duology
+title: The Andromeda duology
+authors:
+- Fred Hoyle
+- John Elliot
+first_published: 1962
+canonical_genre: alien-signals
+placement_status: accepted
+placement_rationale: 'The archetypal signal first contact: a new radio telescope picks up a dot-dash signal from the Andromeda
+  constellation; decoded, it is a do-it-yourself kit for a super-computer that, once built, begins a question-and-answer protocol
+  and fabricates a living human, Andromeda (A for Andromeda, 1962). In The Andromeda Breakthrough (1964) the INTEL conglomerate
+  rebuilds the alien computer for the desert state of Azaran and its meddling begins unbalancing Earth''s weather and atmosphere.
+  The encounter arrives as a transmission, never a visit: alien-signals. Queue row MC04719 is the Gollancz 2020 omnibus The
+  Andromeda Anthology containing exactly these two novels; the row''s author tag ''John Elliott'' is a misspelling of co-author
+  John Elliot - the fiction is the Hoyle & Elliot duology, first published 1962.'
+books:
+- title: A for Andromeda
+  year: 1962
+  cover_url: cover-the-andromeda-duology-1.jpg
+- title: The Andromeda Breakthrough
+  year: 1964
+  cover_url: cover-the-andromeda-duology-2.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-andromeda-duology-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue id MC04719 (The Andromeda Anthology, Gollancz 2020 omnibus of the duology))
+placement_history:
+- date: '2026-11-03'
+  to: alien-signals
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
