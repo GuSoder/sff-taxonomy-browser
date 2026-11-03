@@ -5,19 +5,20 @@ authors:
 first_published: 1966
 canonical_genre: norse-fantasy
 placement_status: accepted
-placement_rationale: 'The Photinus sequence (Cassell 1966-1969; collected as the Gollancz Fantasy Masterworks omnibus Votan
-  and Other Novels, 2014 - the queue row): Votan (1966), Not for All the Gold in Ireland (1968), Men Went to Cattraeth (1969).
-  The namesake novel and series engine reimagines Norse myth material: in 2nd-century Germania the Greek merchant-adventurer
-  Photinus is mistaken for the god Votan and, keeping up the comic pretence, becomes the mortal origin of the Odin legend
-  (publisher copy: ''items that lead the people he encounters to think him a Norse God, a fortuitous point of view which he
-  does little to dispel'', SF Gateway). norse-fantasy reads ''retells or reimagines Norse and Northern Germanic mythic or
-  legendary source material, rather than merely using the Viking Age as a setting'' - the Odin-imposture premise is exactly
-  that reimagining, and the Grendel tenant sets the ironic-rationalizing register precedent. Disclosed tangents: the loose
-  sequence then ranges beyond Norse material - Not for All the Gold in Ireland (ISFDB Photinus #2) plays games with Irish
-  legend in Roman-era Ireland and Men Went to Cattraeth retells the Welsh heroic legend of the Gododdin through Aneirin the
-  bard (celtic-fantasy was the alternative for those volumes; a series is never split across leaves, and the namesake Norse-myth
-  engine governs the card). No active magic: the fantasy is the mythic reimagining itself, as with the leaf''s gate wording.
-  First published 1966.'
+placement_rationale: 'The Photinus novels (Cassell 1966-1968): Votan and Not for All the Gold in Ireland
+  - text-level evidence (Vulpes Libris) is that exactly these two of the three omnibus novels tell Photinus''s
+  story; Men Went to Cattraeth (narrator Aneirin, c. 600 CE) shares no characters and is its own fiction in
+  Celtic fantasy. The fiction''s engine is one man''s euhemeristic career as the mortal origin of Northern
+  god-myths, and its spine is Norse: in 2nd-century Germania the Greek trader Photinus is mistaken for the
+  god Votan and, keeping up the comic pretence, becomes the origin of the Odin legend (SF Gateway publisher
+  copy; Neil Gaiman: ''probably the best book ever done about the Norse''; the god-identity he creates and is
+  remembered by across the sequence is Votan). norse-fantasy reads ''retells or reimagines Norse and Northern
+  Germanic mythic or legendary source material, rather than merely using the Viking Age as a setting''. Whole-fiction
+  aboutness, not per-volume purity: the Odin-imposture is the founding and governing case; disclosed tangent -
+  in Not for All the Gold in Ireland (AD 70, Britain and Ireland) the same device extends to Irish myth as
+  Photinus takes on the role of Manannan (Reactor review), material celtic-fantasy would cover if the books were
+  separable; they are not (one continuous protagonist and premise). No active magic: the fantasy is the mythic
+  reimagining itself, as the gate wording admits. First published 1966.'
 books:
 - title: Votan
   year: 1966
@@ -25,16 +26,13 @@ books:
 - title: Not for All the Gold in Ireland
   year: 1968
   cover_url: cover-not-for-all-the-gold-in-ireland.jpg
-- title: Men Went to Cattraeth
-  year: 1969
-  cover_url: cover-men-went-to-cattraeth.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: cover-votan.jpg
   visually_reviewed_on: '2026-11-03'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC04743, not-for-all-the-gold-in-ireland, men-went-to-cattraeth)
+intake: ten-k walk v5 (queue ids MC04743, not-for-all-the-gold-in-ireland)
 placement_history:
 - date: '2026-11-03'
   to: norse-fantasy
