@@ -1,19 +1,22 @@
-id: theirs-not-to-reason-why-universe
-title: Theirs Not to Reason Why Universe
+id: theirs-not-to-reason-why
+title: Theirs Not to Reason Why
 authors:
 - Jean Johnson
 first_published: 2011
 canonical_genre: star-stripes
 placement_status: accepted
-placement_rationale: 'Whole-fiction re-walk after the 2026-11-03 gate challenge from main. The fiction is Ia''s military career:
-  enlistment (A Soldier''s Duty), commission (An Officer''s Duty), the captain''s chair on Hellfire, and the flag-scale war-plan
-  of Hardship and Damnation, all driven by her precognitive visions of a galaxy-killing invasion three centuries on; the First
-  Salik War prequel trilogy (The Terrans, The V''Dan, The Blockade) covers the same universe''s earlier contact and war with
-  other protagonists. The author''s own site and PRH call it ''A Military Science Fiction Series''. The subject is the soldier
-  and her wars, not the sustained course of interstellar civilization itself, so the Future history in space gate fails. Walk:
-  Science fiction > Futurist SF > Spacefaring fiction > Military science fiction > Space navy > Space armada > Star stripes
-  (one officer''s climb through the ranks is the arc; the prequel trilogy folds in under rule 11j). Wobble disclosed: she
-  begins in the Terran Army rather than a navy, and the prequel trilogy is an ensemble war chronicle, not a climb.'
+placement_rationale: 'Whole-fiction re-walk after main''s 2026-11-03 gate challenges. The card now holds only the Theirs Not
+  to Reason Why pentalogy: the First Salik War trilogy is a separate author-named series with different protagonists and a
+  different thematic focus (author site series pages; ISFDB series records; reading1000lives.com: ''marks the start of a new
+  series, with a different thematic focus, which can be read on its own'') - separated under the Eternity War / Lazarus War
+  precedent (same universe, separate named series = separate cards). The pentalogy is one officer''s climb through the ranks:
+  Marine recruit with precognitive visions, field-promoted (A Soldier''s Duty), Space Force Navy academy (An Officer''s Duty
+  - author site and PRH: ''poised to become an officer in the Space Force Navy... her plan is to command a Blockade Patrol
+  ship''), captain of the Blockade Patrol ship Hellfire as the Second Salik War breaks out (Hellfire), the crew fighting out
+  of a planetary blockade (Hardship), and the final Salik/Grey campaigns (Damnation). Walk: Science fiction > Futurist SF
+  > Spacefaring fiction > Military science fiction > Space navy > Space armada > Star stripes - the climb from a first posting
+  to the captain''s chair inside the service''s chain of command is the arc, and the Salik/Grey fleet war is its field. Wobble
+  disclosed: book 1 is Marine infantry before her Space Force Navy commission (Elitist Book Reviews: she joins the Marines).'
 books:
 - title: A Soldier's Duty
   year: 2011
@@ -30,15 +33,6 @@ books:
 - title: Damnation
   year: 2014
   cover_url: cover-theirs-not-reason-why-5.jpg
-- title: The Terrans
-  year: 2015
-  cover_url: cover-theirs-not-reason-why-6.jpg
-- title: The V'Dan
-  year: 2015
-  cover_url: cover-theirs-not-reason-why-7.jpg
-- title: The Blockade
-  year: 2016
-  cover_url: cover-theirs-not-reason-why-8.jpg
 cover_curation:
   status: complete
   source: Penguin Random House publisher
@@ -54,7 +48,7 @@ cover_curation:
   - https://images1.penguinrandomhouse.com/cover/9780425276914
   - https://images2.penguinrandomhouse.com/cover/9780425276938
   - https://images1.penguinrandomhouse.com/cover/9780698175839
-intake: ten-k walk v5 (queue ids MC04375, MC04376, MC04379, MC04378, MC04377, MC04381, MC04382, MC04380)
+intake: ten-k walk v5 (queue ids MC04375, MC04376, MC04379, MC04378, MC04377)
 placement_history:
 - date: '2026-10-29'
   to: future-history-in-space
@@ -64,6 +58,11 @@ placement_history:
   to: star-stripes
   reason: 'Whole-fiction gate re-check ordered by main (2026-11-03 ~10:52): Future history in space fails as governing mode
     (military career and war-plan, not civilization''s course); single-fiction correction under existing authority.'
+- date: '2026-11-03'
+  reason: 'Card separation: First Salik War trilogy removed to its own fiction under the separate-named-series precedent,
+    after main''s gate challenge (2026-11-03 ~11:03); the pentalogy remains at Star stripes on the officer''s-climb gate.'
+  from: star-stripes
+  to: star-stripes
 classification_sources:
 - https://jeanjohnson.net/index.php/theirs-not-to-reason-why/
 - https://jeanjohnson.net/index.php/the-first-salik-war/
