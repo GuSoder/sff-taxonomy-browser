@@ -1,0 +1,47 @@
+id: the-terran-republic-caine-riordan
+title: The Terran Republic (Caine Riordan)
+authors:
+- Charles E. Gannon
+first_published: 2013
+canonical_genre: far-future-first-contact
+placement_status: accepted
+placement_rationale: 'Whole-fiction re-walk after the 2026-11-03 gate challenge from main. The series runs roughly 2105-2125:
+  one analyst-envoy''s missions through humanity''s first consequential encounter with the alien powers - contact at Delta
+  Pavonis, the Arat Kur/Hkh''Rkh invasion, and diplomacy seeking alliance with the Slaasriithi (elitistbookreviews.com on
+  Fire with Fire: ''a first contact story overflowing with espionage, politicking, diplomacy''; bookseriesinorder.com: the
+  series focuses on Caine Riordan''s contact and alliance-building with non-humans). A two-decade crisis sequence centered
+  on one protagonist is not the sustained course of interstellar civilization the Future history in space gate requires. Walk:
+  Science fiction > Futurist SF > Alien fiction > First contact (the encounter unfolds during future expansion among the stars)
+  > Far-future first contact (the setting is humanity''s expansion era: FTL and settled nearby systems, so not the near-future
+  sibling). Wobble disclosed: the middle volumes carry war-thriller texture; the contact-and-diplomacy frame governs.'
+books:
+- title: Fire with Fire
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/8446472-L.jpg
+- title: Trial by Fire
+  year: 2014
+- title: Raising Caine
+  year: 2015
+- title: Caine's Mutiny
+  year: 2017
+- title: Marque of Caine
+  year: 2019
+- title: Mission Critical
+  year: 2023
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8446472-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01564, MC01572, MC01570, MC01563, MC01568, MC01569)
+placement_history:
+- date: '2026-10-04'
+  to: future-history-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-03'
+  from: future-history-in-space
+  to: far-future-first-contact
+  reason: 'Whole-fiction gate re-check ordered by main (2026-11-03 ~10:52): Future history in space fails as governing mode
+    (a decades-scale first-contact crisis sequence, not a civilization chronicle); single-fiction correction under existing
+    authority.'
