@@ -1665,3 +1665,12 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-03 Portrait: 873-space-station-thrillers.webp shipped
 - Two 1024x1536 variants generated (smart tier, 2:3): A = courier chased through crowded concourse (rejected: reads as space-dash chase cousin); B = hooded saboteur planting a blinking device on a reactor conduit, security sweeping from a catwalk, Earth through the viewport (PICKED: sabotage is the distinguishing act vs space-mystery's case-work and space-dash's chase). Content checklist passed: genre legible at a glance, no franchise silhouettes, no bows, gloved hands clean on the device, plausible station scale, no readable text. Root file 873-space-station-thrillers.webp; genre.yaml image+portrait set; index.html node image set. verify_local green.
+
+## 2026-11-03 Router slug collision recorded (no fix now, per main)
+- Two cards share the book/fiction slug wolf-in-shadow: Gemmell's Wolf in Shadow (1987), volume 1 inside fiction card stones-of-power (post-apocalyptic-fantasy), and Lambshead's standalone Wolf in Shadow (2013) at magic-counter-ops/works/wolf-in-shadow.yaml. Bare hash #magic-counter-ops/wolf-in-shadow resolves to the stones-of-power card; the magic-counter-ops card is reachable via the #magic-counter-ops leaf page (click book-wolf-in-shadow) and verified live. Any link sent to Gustav must be checked to resolve to the intended card.
+
+## 2026-11-03 Queue anomaly recorded (unresolved intake state, do not process)
+- intake-lists/merged-candidates-2026-10/candidates.tsv: 11,681 rows tree_status=new; 4,499 of them sit BEFORE the current cursor (file line 4747), spanning MC00001 (line 2) through MC04530 (line 4531). Statuses for those rows are unresolved, not evidence of absence from the tree. Cursor continues in file order (MC04751 at 4:20 PM).
+
+## 2026-11-03 Widening executed: classic-time-agencies "through the early 1990s" -> "through the 1990s"
+- Gustav Approved (phonemsg-01M6GZ55KP7K0ZFT54AHVC8J91, iMessage, verified against the phone channel). Admits Corrupting Dr. Nice (1997, classic institutional comedy sensibility). Thriller register and post-2010 revival unchanged. Commit 07ede1e.
