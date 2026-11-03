@@ -1,0 +1,31 @@
+id: username-series
+title: Username series
+authors:
+- Joe Sugg
+first_published: 2015
+canonical_genre: private-metaverse
+placement_status: accepted
+placement_rationale: A father builds his bullied daughter e.scape, a bespoke immersive virtual world entered only through
+  the family's gateway laptop; people cross in and avatars cross out across all three volumes (Evie, Regenerated, Uprising)
+  - entry is closed to designated participants (private metaverse).
+books:
+- title: 'Username: Evie'
+  year: 2015
+  cover_url: cover-username-evie.jpg
+- title: 'Username: Regenerated'
+  year: 2016
+  cover_url: cover-username-regenerated.jpg
+- title: 'Username: Uprising'
+  year: 2017
+  cover_url: cover-username-uprising.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-username-evie.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids username-evie, username-regenerated, username-uprising)
+placement_history:
+- date: '2026-11-03'
+  to: private-metaverse
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

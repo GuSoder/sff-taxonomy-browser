@@ -3,7 +3,7 @@ title: Omnitopia Dawn
 authors:
 - Diane Duane
 first_published: 2011
-canonical_genre: metaverse
+canonical_genre: platform-metaverse
 placement_status: accepted
 placement_rationale: 'Root-down: Science fiction > Futurist SF > Future-of-Earth fiction > Techno-fiction > Cyberpunk > Metaverse.
   Omnitopia is a persistent, massively multiplayer virtual world inhabited through avatars - fifty million players, nearly
@@ -29,3 +29,6 @@ placement_history:
 - date: '2026-10-04'
   to: metaverse
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-03'
+  to: platform-metaverse
+  reason: 'Re-walked root-down in the Metaverse split (open vs closed access axis; curator Approved phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, 2026-11-03): the virtual world is open to the public - anyone with money, an account or a rig can enter.'
