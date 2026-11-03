@@ -1,0 +1,42 @@
+id: the-lion-of-farside
+title: The Lion of Farside
+authors:
+- John Dalmas
+first_published: 1995
+canonical_genre: quest-thresholds
+placement_status: accepted
+placement_rationale: 'Dalmas''s Lion of Farside trilogy (Baen): Oregon farmer Curtis Macurdy''s wife Varia is an Ylver of
+  Yuulith, a hidden world reached through cross-dimensional gates that open at anchored sites under the full moon (TV Tropes,
+  Baen copy). Every volume turns on a deliberate crossing that starts an active adventure: in The Lion of Farside (7/1995,
+  Baen) the Sisterhood abducts Varia back to Yuulith and Macurdy follows to win her back, becoming a war-leader; in The Bavarian
+  Gate (1/1997, Baen 0-671-87764-X; ISFDB 12949) a Nazi occult project finds a second gate and Macurdy must infiltrate and
+  destroy it before Hitler allies with the militaristic Voitusotar; in The Lion Returns (8/1999, Baen) he passes through the
+  gate again into another Yuulith war. Root-down: Fantasy -> Portal fantasy (Earth<->hidden world exchange; wholly-invented-universe
+  shelves excluded) -> Eldritch doors (adult portal fantasy, anchored physical thresholds) -> Uncanny thresholds -> Quest
+  thresholds: the threshold serves rescue, pursuit and mission, never contemplation. Rejected: Otherworld summonings/stumblings/wainscot
+  (Macurdy is never called across and never slips - he goes deliberately through known gates); Multiverse fantasy (one hidden
+  world, not a many-world cosmology); Planetary portal fantasy (Yuulith is an alternate universe, not a planet of ours, per
+  TV Tropes); WWII fantasy (the war is one volume''s stage, not the whole-fiction engine). Whole trilogy grounded per volume
+  (Baen pages; ISFDB; TV Tropes Farside Trilogy). Queue row MC04709 (Bavarian Gate, 2006 reprint); vols 1 and 3 are completeness
+  adds.'
+books:
+- title: The Lion of Farside
+  year: 1995
+  cover_url: cover-the-lion-of-farside-1.jpg
+- title: The Bavarian Gate
+  year: 1997
+  cover_url: cover-the-lion-of-farside-2.jpg
+- title: The Lion Returns
+  year: 1999
+  cover_url: cover-the-lion-of-farside-3.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-lion-of-farside-1.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids lion-of-farside-1, MC04709, lion-of-farside-3)
+placement_history:
+- date: '2026-10-04'
+  to: quest-thresholds
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
