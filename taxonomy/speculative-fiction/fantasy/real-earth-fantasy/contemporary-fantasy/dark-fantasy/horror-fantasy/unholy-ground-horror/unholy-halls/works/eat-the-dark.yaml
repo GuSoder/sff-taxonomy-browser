@@ -1,0 +1,24 @@
+id: eat-the-dark
+title: Eat the Dark
+authors:
+- Joe Schreiber
+first_published: 2007
+canonical_genre: unholy-halls
+placement_status: accepted
+placement_rationale: 'One-night supernatural siege in a hospital on its closing night: an unholy predator dwells and waits
+  in a building that is no one''s home (unholy halls).'
+books:
+- title: Eat the Dark
+  year: 2007
+  cover_url: cover-eat-the-dark.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-eat-the-dark.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids eat-the-dark)
+placement_history:
+- date: '2026-11-03'
+  to: unholy-halls
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

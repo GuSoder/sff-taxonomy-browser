@@ -1523,3 +1523,4 @@ Standalone novel (272p, Tordotcom 2017; PW + Tor page count). Walk: far-future, 
 
 ## 2026-11-03 Space dystopias split EXECUTED + Fortress placed (MC04650)
 Gustav Approved the split 2026-11-03 7:06 AM (phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, verified user iMessage in-thread). Split-with-umbrella: space-dystopias -> shipboard-dystopias (Unkindness of Ghosts, Dred Chronicles + incoming) / planetary-dystopias (7), hull-vs-surface axis. New portraits 868/869 (2:3, no text, generated). 818 nodes. Fortress at the End of Time -> shipboard-dystopias 2->3 (272p Tordotcom 2017, cover OL isbn 9780765392800). Wobble: none.
+- 2026-11-03 MC04651 Eat the Dark (Schreiber, Del Rey 2007) -> unholy-halls (8->9). One-night supernatural siege in a closing hospital; unholy predator dwells and waits in a building that is no one's home. Cover OL id 2405465 (real 2007 Del Rey jacket, red-lit corridor), QA'd.
