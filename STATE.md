@@ -1611,7 +1611,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Covers: 3 distinct verified English Tor print jackets localized (Amazon P-pattern: 0765311313, 0765314967, 076531648X; Titans jacket confirms series name "The fantastic climax of The Chronicles of Chaos"). Visually reviewed all 3.
 - 2,672 cards / 6,206 books. Cursor next: MC04692 Null-A Continuum, then MC04694-97 already_in_tree (Eschaton card).
 
-## 2026-11-03 Placed: Null-A Continuum -> retro-space-opera (MC04692)
-- Singleton (1 book), John C. Wright, first pub Tor 2008 (queue row 2015 = reprint; SFE). Continuation of van Vogt's Null-A sequence, deliberate golden-age pulp mode in 2008 = the retro-space-opera gate verbatim ("twenty-first-century space opera that deliberately looks backward"). Rejected: golden-age (era-bound), psionics (Earth-gated; Null-A is interstellar). Leaf 5->6.
-- Cover: verified English Tor print jacket localized (Amazon 0765316293, Sci Fi Essential edition), visually reviewed.
-- 2,673 cards / 6,207 books.
+## 2026-11-03 Null-A: singleton REVERTED (main 11:15); whole-fiction fold + deep seed proposal served
+- Main 11:15: whole-shared-universe rule applies across authors; Null-A Continuum is a continuation of van Vogt's Null-A sequence - fold, don't close as singleton. Reverted 7e91675; MC04692 back to new.
+- Whole fiction = the Null-A sequence, 4 novels, one Gosseyn story (Wikipedia The World of Null-A + SFE): The World of Null-A (serial 1945, book 1948), The Pawns of Null-A (1956), Null-A Three (1984), Null-A Continuum (Wright 2008).
+- Rewalk vs era-bound gates: golden-age branch fails the 2008 volume; retro-space-opera fails the 1945-84 volumes; psionics fails honestly (psi is toolset, not governing mode; galactic power struggle is the engine); evergreen ("escaped its era, perpetually current") is a weak fit for famously of-its-era pulp; future-history fails (single-period adventure, not civilization course). NO existing leaf honestly holds the whole 4-novel fiction.
+- Deep seed proposal served to main (11:20): seed under pulp-space-opera, one recommended name. INTAKE PAUSED (one open Gustav decision).
