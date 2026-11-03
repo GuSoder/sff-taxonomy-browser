@@ -1,0 +1,41 @@
+id: the-regiment-series
+title: The Regiment series
+authors:
+- John Dalmas
+first_published: 1987
+canonical_genre: space-mercs
+placement_status: accepted
+placement_rationale: 'Five novels about the hired regiments of Tyss: The Regiment (1987) follows a mercenary regiment and
+  the reporter who joins as its publicist; The White Regiment (1990) has the Confederation hire the legendary Tyss mercenaries
+  to train a first test regiment; The Kalif''s War (1991), The Regiment''s War (1993) and The Three-Cornered War (1999) put
+  the White Regiment under contract against the Kalif''s holy-war fleet, a rival hired Tyss regiment, and the Caliphate''s
+  return. The hired unit''s contract, pay and loyalty drive every story: space-mercs, not Space marine corps (no state Corps),
+  not Alien-war grunts (jobs for paymasters, not a grim alien war). Queue year 2007 is the Baen ebook; first publication 1991
+  (Baen page: Published 5/1/1991).'
+books:
+- title: The Regiment
+  year: 1987
+  cover_url: cover-the-regiment-series-1.jpg
+- title: The White Regiment
+  year: 1990
+  cover_url: cover-the-regiment-series-2.jpg
+- title: The Kalif's War
+  year: 1991
+  cover_url: cover-the-regiment-series-3.jpg
+- title: The Regiment's War
+  year: 1993
+  cover_url: cover-the-regiment-series-4.jpg
+- title: The Three-Cornered War
+  year: 1999
+  cover_url: cover-the-regiment-series-5.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-regiment-series-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids the-regiment, the-white-regiment, MC04711, the-regiment-s-war, the-three-cornered-war)
+placement_history:
+- date: '2026-11-03'
+  to: space-mercs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
