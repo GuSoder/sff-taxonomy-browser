@@ -1,0 +1,59 @@
+id: the-worldwar-series
+title: The Worldwar series
+authors:
+- Harry Turtledove
+first_published: 1994
+canonical_genre: alt-wwii
+placement_status: accepted
+placement_rationale: 'Turtledove''s Worldwar fiction (the Worldwar tetralogy, the Colonization trilogy and Homeward Bound;
+  eight novels, one shared universe, one card per rule 11j): the reptilian Race invades Earth on 30 May 1942, mid-Second-World-War;
+  Axis and Allies must cooperate against it; the tetralogy tells the changed war on its fronts to a stalemate with the Race
+  holding half the planet; Colonization follows the world it leaves behind (1960s cold war with the Race''s colonists) and
+  Homeward Bound reaches 2031 (Wikipedia, Worldwar series). Root-down: Science fiction > Historical SF > Alternate history
+  (identifiable fork: the Race''s arrival) > Period alterations (fork within living memory of the story) > Alt WWII, as widened
+  2026-11-03 with the curator''s ''Approved'' (phonemsg-01M6GRETKSYG4HS6CDKP2ZBYR2) to include continuations showing the world
+  the changed war leaves behind. Rejected: Modern day SF / Warzone Earth (the 1942 fork is not the recognizable present -
+  the earlier placement failed the ancestor gate); Alt postwar (the fork is mid-war, not the war''s end); Hidden history SF
+  (the arrival is open and remakes the record). Whole fiction moves together; no book separated.'
+books:
+- title: In the Balance
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/208187-L.jpg
+- title: Tilting the Balance
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/208224-L.jpg
+- title: Upsetting the Balance
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/5001318-L.jpg
+- title: Striking the Balance
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/208584-L.jpg
+- title: Second Contact
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/209533-L.jpg
+- title: Homeward Bound
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/210852-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/208187-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03747, MC03795, MC03798, MC03770, MC03767, MC03743)
+placement_history:
+- date: '2026-10-04'
+  to: alien-conquest-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: alien-conquest-fiction
+  to: warzone-earth
+  reason: 'Alien conquest fiction split into Fallen Earth and Warzone Earth on the curator''s approval; re-walked root-down:
+    this card sits in Warzone Earth (a contested war for the ground).'
+- date: '2026-11-03'
+  from: warzone-earth
+  to: alt-wwii
+  reason: 'Whole-fiction move on the widened Alt WWII gate (curator ''Approved'' phonemsg-01M6GRETKSYG4HS6CDKP2ZBYR2, 2026-11-03):
+    modern-day-sf''s recognizable-present gate fails on the 1942 fork; the fork changes WWII and all eight novels - the invasion
+    war on its fronts and the world it leaves behind (Colonization 1960s, Homeward Bound 2031) - are one divergence''s fiction.
+    No book separated from the shared universe.'
