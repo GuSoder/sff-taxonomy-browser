@@ -1553,3 +1553,6 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-03 MC04671 The Armies of Memory — placed (11j completeness)
 - Thousand Cultures card at copied-minds had only books 3-4. ISFDB series 750 = 4 novels; added A Million Open Doors (1992, OL 603277) and Earth Made of Glass (1998, OL 182486), first_published 2001 -> 1992. Series shorts (Canso de Fis de Jovent 1991, The Little White Nerves Went Last 2006) excluded per no-shorts rule. Leaf stays 9 cards. Tree books 6,191 -> 6,193. verify_local green.
+
+## 2026-11-03 MC04673 The Merchants of Souls — already_in_tree
+- Owned by the Thousand Cultures card at copied-minds (book 3; intake id MC04673 already on the card). Tsv-only change.
