@@ -1,0 +1,28 @@
+id: the-point
+title: The Point
+authors:
+- John Dixon
+first_published: 2018
+canonical_genre: superhero-fiction
+placement_status: accepted
+placement_rationale: 'A secret unit beneath West Point trains superpowered cadets - telekinetic combat, dreamscape recon -
+  and Scarlett Winter, who can control pure energy, must choose between herself and becoming a hero when a threat rises from
+  the program''s dark past (Del Rey publisher copy, Aug 2018; ''school for superheroes'' per Kirkus, X-Men''s school for gifted
+  youngsters per Library Journal). Extraordinary powered heroes and the institution around them: superhero-fiction. Not Pseudoscience
+  fiction - the powers are accepted as given, with no posture of evidence. ISFDB shows no series (standalone; tags posthuman,
+  psychic ability).'
+books:
+- title: The Point
+  year: 2018
+  cover_url: cover-the-point-1.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-point-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04718)
+placement_history:
+- date: '2026-11-03'
+  to: superhero-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
