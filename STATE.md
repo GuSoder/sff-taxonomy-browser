@@ -1637,3 +1637,11 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Leaf now 8 works (a-half-built-garden, beyond-the-light-horizon, einsteins-bridge, exordia, solar-express, the-blue-beautiful-world, the-burn-zone, voyagers). NOTE: genre.yaml works list had been stale (listed only 4 of 7 pre-existing); live_place regenerated it from the works dir.
 - Covers: Baen CDN product-page jackets (9781625799265/9781625799272-med_1.jpg), localized as cover-einsteins-bridge-1/2.jpg. Small (157x240) but publisher-served, distinct, alt-labeled per volume.
 - verify_local green (819 nodes, 2674 cards / 6212 books).
+
+## 2026-11-03 Excluded: MC04707 Otherwhens, Otherwheres (Dalmas) = collection
+- SFE dalmas_john tags it [coll]: "Otherwhens, Otherwheres: Favorite Tales" (Silver Dragon Books 2002). Queue year 2007 likely reprint. excluded_collection.
+
+## 2026-11-03 STRUCTURAL GAP: MC04706 Fanglith (Dalmas) - no fitting leaf, proposal drafted
+- Fiction: Fanglith series = Fanglith (1985) + Return to Fanglith (1987), Baen (queue 2006 = reprint). Baen blurb (baen.com/fanglith.html): political refugees of a galactic tyranny stranded on "the galaxy's most barbaric planet", revealed as 11th-century Earth; kids + ship computer + telepathic wolf must save parents from Thought Police and medieval warriors. SFE: "the planet to which criminals are exiled turns out to be Earth".
+- Texture = planetary romance (adventure on an exotic world, fantasy furniture) but the planetary-romance umbrella partitions "by how the hero stands to Earth" into 3 leaves, none fitting: classic = visitor FROM Earth to alien world (inverted here); lost-colony children = descendants of settlers (repression/renunciation/broken tech - none apply; locals are just medieval Earth natives); far-future = natives of a far future where Earth is gone/forgotten (galactic society here is contemporary with 11th-c Earth). hard-science-fantasy fails (FTL present). space-dash weak (chase element yes, engine is survival-adventure on the planet) and at 9 works (would freeze). No umbrella in the tree holds works (verified: 0 nodes have both children and works).
+- Proposal drafted for Gustav (new 4th child under planetary-romance); served via main. Intake pauses when served.
