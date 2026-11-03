@@ -1568,7 +1568,7 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 ## 2026-11-03 Birmingham sweep MC04677-87
 - Dave vs. the Monsters (MC04677/79/81): already_in_tree, 3 novels complete at paranormal-aftermath; series shorts (A Protocol for Monsters, Soul Full of Guns) excluded.
 - Axis of Time (MC04678/80/86 placed): 11j completeness - added Axis of Time Reloaded novels WW3.1 (2023, Amazon B0CJCJBP96), WW3.2 (2025, B0FQBMVP8K, Dragon finalist per ISFDB), WW3.3 (2026, B0GNLTSBLQ); same time-thrown Multinational Force, Timetribe gate holds. Covers = Amazon ebook jackets, localized. Card 3->6 books; tree 6,193 -> 6,196. Stalin's Hammer novellas + 2017 omnibus excluded (MC04682 excluded_novella).
-- The Cruel Stars (MC04683/85 already_in_tree; MC04684 skipped_forthcoming): The Forever Dead publishes 2026-11-24 (PRH 9781984820587); one-shot wake set for 2026-11-25 to add it to the starbridge card.
+- The Cruel Stars (MC04683/85 already_in_tree; MC04684 skipped_forthcoming): The Forever Dead publishes 2026-11-24 (PRH 9781984820587); no revisit wake per durable forthcoming restriction (main 2026-11-03); fact preserved on project state only.
 - MC04687 Without Warning: already_in_tree (Disappearance card).
 
 ## 2026-11-03 MC04688 The Shockwave Rider (John Brunner, Harper & Row 1975) — placed, NEW
