@@ -1,0 +1,56 @@
+id: red-rising
+title: Red Rising
+authors:
+- Pierce Brown
+first_published: 2014
+canonical_genre: insurgent-space-opera
+placement_status: accepted
+placement_rationale: 'Whole-fiction placement after the curator''s 2026-11-03 ruling. The saga''s engine is the revolt against
+  the Society''s imperial order and the war over what replaces it (SFE on Brown: ''epic action'', Darrow ''working out how
+  to bring the downfall of this rigid but precarious world''; the caste order remains the integral object of the war across
+  all six published books). With the Space opera umbrella widened to the genre''s recognized scope (SFE: ''interplanetary
+  or interstellar conflict''), the walk runs: Science fiction > Futurist SF > Spacefaring fiction > Space opera > New space
+  opera > Political space opera > Revolutionary space opera > Insurgent space opera - the curator''s own 2026-10-11 axis:
+  the Rising starts inside the empire''s machine (an enslaved labor caste within the Society, the Sons of Ares cells, Darrow
+  carved into a false Gold working the regime from within), the Insurgent reading; not Rebel (outside the throne''s reach).
+  Red God excluded as forthcoming.'
+classification_sources:
+- https://sf-encyclopedia.com/entry/brown_pierce
+- https://www.penguinrandomhouse.com/books/221552/red-rising-by-pierce-brown/
+books:
+- title: Red Rising
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8407136-L.jpg
+- title: Golden Son
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8454351-L.jpg
+- title: Morning Star
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8566174-L.jpg
+- title: Iron Gold
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/14511722-L.jpg
+- title: Dark Age
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8748017-L.jpg
+- title: Light Bringer
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/15157697-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/8407136-L.jpg
+  cover_id: OL-8407136
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-20'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-11-03'
+  to: planetary-dystopias
+  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6,
+    2026-11-03): the oppressive order is housed on a world surface.'
+- date: '2026-11-03'
+  from: planetary-dystopias
+  to: insurgent-space-opera
+  reason: 'Curator ruling phonemsg-01M6GH9KVDQT9W738983QDKK1E: approved the Space opera definition widening (interplanetary
+    or interstellar) and this move; whole-fiction engine is the revolt from inside the regime.'

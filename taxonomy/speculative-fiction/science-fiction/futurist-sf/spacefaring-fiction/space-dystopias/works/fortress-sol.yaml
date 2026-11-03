@@ -3,7 +3,7 @@ title: Fortress Sol
 authors:
 - Stephen Baxter
 first_published: 2024
-canonical_genre: planetary-dystopias
+canonical_genre: space-dystopias
 placement_status: accepted
 placement_rationale: The Solar System hides behind the Mask from an alien threat while workers are consigned to the mines
   of Mercury; the closed, oppressive social order is the horror, until a ship from a lost colony arrives.
@@ -21,7 +21,12 @@ intake: ten-k walk v5 (queue ids MC08975)
 placement_history:
 - date: '2026-11-03'
   to: planetary-dystopias
-  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, 2026-11-03): the oppressive order is housed on a world surface.'
+  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6,
+    2026-11-03): the oppressive order is housed on a world surface.'
 - date: '2026-10-04'
   to: space-dystopias
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-03'
+  to: space-dystopias
+  reason: 'Space dystopias split undone on the curator''s conditional approval (phonemsg-01M6GH9KVDQT9W738983QDKK1E): with
+    Red Rising moved out, the merged leaf holds 9 fictions, below ten; the hull/surface partition is dissolved.'
