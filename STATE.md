@@ -1652,3 +1652,7 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - space-dash hits 10 -> FROZEN pending split proposal (intake pauses when served).
 - Covers: vol 1 Baen CDN 0671559885-med.jpg (160x240); vol 2 OL covers.openlibrary.org/b/isbn/0671653431-L.jpg (305x500). Localized cover-fanglith-1/2.jpg. Vol 2 ISBN-10 0671653431 via AbeBooks.
 - MC04707 excluded_collection committed separately (2f06019). verify_local green (819 nodes, 2675 cards / 6214 books).
+
+## 2026-11-03 Completeness: Tracer added to Outer Earth card (book 1, 16 Jul 2015, Hachette-verified)
+- Card previously held Zero-G + Impact only (queue ids MC08100/08101; Tracer never in queue). Jacket: Hachette CDN hbg-title-tracer-6.jpg (795x1250), localized cover-outer-earth-0.jpg. Card now 3 books, first_published 2015.
+- PENDING DECISION (reported to main): Outer Earth fails space-dash whole-fiction gate (publisher-copy audit); proposed new leaf under space-colonies for the station/colony thriller mode. Awaiting Gustav ruling via main.

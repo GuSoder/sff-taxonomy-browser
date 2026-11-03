@@ -2,13 +2,16 @@ id: outer-earth
 title: Outer Earth
 authors:
 - Rob Boffard
-first_published: 2016
+first_published: 2015
 canonical_genre: space-dash
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Spacefaring fiction > New space opera > Space adventure > Space chase. Riley
   Hale, a tracer courier on the last human space station, is hunted and on the run through its failing sections (''in space
   there is nowhere to run''); the pursuit drives Zero-G and Impact (Tracer, book 1, is not in the queue).'
 books:
+- title: Tracer
+  year: 2015
+  cover_url: cover-outer-earth-0.jpg
 - title: Zero-G
   year: 2016
   cover_url: https://covers.openlibrary.org/b/id/13080356-L.jpg
