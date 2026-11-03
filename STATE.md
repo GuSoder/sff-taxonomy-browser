@@ -1573,3 +1573,13 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-03 MC04688 The Shockwave Rider (John Brunner, Harper & Row 1975) — placed, NEW
 - cyberpunk-noir (1->2): alienated fugitive rewriting identities via the net, survival story against corrupt high-tech power; proto-cyberpunk ancestor text. Rejected cyberheist, revolutionary-cyberpunk (ending = coda), huxleyan-dystopia, algorithmic-surveillance-dystopias (present-day branch), remade-minds leaves. Cover: OL 211303 Del Rey print jacket (first edition only available at 250px; rejected OL 11254030 audiobook). Live run before push.
+
+## RULE CORRECTION (main 2026-11-03 10:31): tenth-card rule
+- 9 existing fictions in a leaf is NOT a split trigger and NOT a stop. If the honest fit is a 9-work leaf, PLACE the tenth card, THEN propose the required split (at ten) and pause intake for that decision. Do not invent a nine-fiction cap. (Supersedes the earlier "9 + incoming = stop" reading.)
+
+## MC04689/90 banked research — Count to the Eschaton (John C. Wright), NOT YET PLACED
+- Series (ISFDB ea.cgi/John_C._Wright + Goodreads series 104450): 6 novels, all published: 1 Count to a Trillion (2011), 2 The Hermetic Millennia (2012), 3 The Judge of Ages (2014), 4 The Architect of Aeons (2015), 5 The Vindication of Man (2016), 6 Count to Infinity (2017). No forthcoming volume.
+- Tree status: grep clean — NOT in tree. Existing "the-eschaton-novels" card (techno-fiction-in-space) is Charles Stross Singularity Sky/Iron Sunrise — name collision, different fiction.
+- Aboutness so far: Kirkus on bk1 — 23rd-c exhausted Earth, Texas duelist/math genius Menelaus Montrose; robot starship 50 ly out at an antimatter star reports a monument with symbols = gift of advanced knowledge. Kirkus on bk6 — billions of years of deep time, cosmic-scale structure. Goodreads: bk3 year 10,515 AD, Hyades Armada; bk5 innumerable ages. Mode: deep-time far-future future history with intelligence augmentation; verify per-volume.
+- TODO next run: per-volume grounding (all 6), root-down walk; if fit is future-history-in-space (9 works) place the tenth per corrected rule, then split proposal + pause.
+- Walk pre-assessment: future-history-in-space def "Works tracing a sustained future course of interstellar human civilization" — strong whole-fiction fit (2210 -> billions of years; interstellar to intergalactic human clades/civilizations). Leaf at 9 works; per main's corrected rule: place the tenth, then draft the required split proposal and pause intake. LibraryThing publisher copy calls bk5 "space opera" — check space-opera def before final walk.
