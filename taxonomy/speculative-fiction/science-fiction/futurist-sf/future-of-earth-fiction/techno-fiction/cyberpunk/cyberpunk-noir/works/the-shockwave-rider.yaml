@@ -1,0 +1,32 @@
+id: the-shockwave-rider
+title: The Shockwave Rider
+authors:
+- John Brunner
+first_published: 1975
+canonical_genre: cyberpunk-noir
+placement_status: accepted
+placement_rationale: 'Standalone novel (1975, Harper & Row). In a dystopian early-21st-century America dominated by the data
+  network, Tarnover runaway Nick Haflinger survives as a fugitive by punching whole new identities into the net through the
+  stolen 4GH code; the frame story is his recapture, interrogation and renewed flight, and the book coined the network ''worm''
+  (Wikipedia). An alienated outsider moving through corrupt high-tech power with invasive technology rewriting his identity
+  while the price of staying alive drives the story - the cyberpunk-noir shape, and the proto-cyberpunk ancestor text of the
+  mode. Rejected: cyberheist (no crew or paid job against the system - his hacks are survival, not heists), revolutionary-cyberpunk
+  (the closing network plebiscite and Precipice offer an alternative, but as coda; the governing story is fugitive survival,
+  not institution-building), huxleyan-dystopia (Tarnover''s conditioning is backstory; the engine is the fugitive/net survival,
+  not consent engineering), algorithmic-surveillance-dystopias (that branch is the recognizable present; this is future America),
+  remade-minds leaves (his personas are data edits, not copied or rewired minds).'
+books:
+- title: The Shockwave Rider
+  year: 1975
+  cover_url: cover-the-shockwave-rider.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-shockwave-rider.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04688)
+placement_history:
+- date: '2026-11-03'
+  to: cyberpunk-noir
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
