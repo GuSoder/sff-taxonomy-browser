@@ -1,0 +1,41 @@
+id: dog-days
+title: Dog Days
+authors:
+- John Levitt
+first_published: '2007'
+canonical_genre: mage-pi
+placement_status: accepted
+placement_rationale: 'San Francisco urban fantasy: Mason, a trained magic practitioner (mentored by Eli) and jazz guitarist,
+  does freelance enforcement case-work for Victor, the Bay Area''s chief magical enforcer, with his ifrit familiar Lou. Each
+  volume is a case: Dog Days (2007) - missing ifrits and a power-hungry practitioner bidding to control the magical world;
+  New Tricks (2008) - an energy pool Mason opens lets supernatural monsters into the city; Unleashed (2009) - hunting the
+  shape-shifters that came through; Play Dead (2011) - a black-magic practitioner hires Mason to find another black practitioner
+  and retrieve stolen materials (fangfiction.blogspot.com series review; penguinrandomhouse.com series page, 4 volumes 2007-2011,
+  Ace). The investigator''s own craft is the working tool of the case -> mage-pi verbatim. Not occult-cop (no badge: freelance
+  hire, not a sworn officer), not occult-secret-service (Victor enforces for the magical community, not a hidden state service),
+  not monster-pi (Mason is human; Lou is the familiar, not the investigator), not pi-meets-magic (Mason is a trained practitioner,
+  not an ordinary human). 10TH WORK - LEAF FREEZES pending split proposal.'
+books:
+- title: Dog Days
+  year: '2007'
+  cover_url: cover-dog-days-1.jpg
+- title: New Tricks
+  year: '2008'
+  cover_url: cover-dog-days-2.jpg
+- title: Unleashed
+  year: '2009'
+  cover_url: cover-dog-days-3.jpg
+- title: Play Dead
+  year: '2011'
+  cover_url: cover-dog-days-4.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-dog-days-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04752, MC04753, MC04755, MC04754)
+placement_history:
+- date: '2026-11-03'
+  to: mage-pi
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

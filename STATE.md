@@ -1674,3 +1674,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-03 Widening executed: classic-time-agencies "through the early 1990s" -> "through the 1990s"
 - Gustav Approved (phonemsg-01M6GZ55KP7K0ZFT54AHVC8J91, iMessage, verified against the phone channel). Admits Corrupting Dr. Nice (1997, classic institutional comedy sensibility). Thriller register and post-2010 revival unchanged. Commit 07ede1e.
+
+## 2026-11-03 Placed: Dog Days (MC04752/53/54/55, one fiction, 4 books) -> mage-pi [10TH WORK - LEAF FROZEN]
+- Whole-fiction grounding: fangfiction.blogspot.com series review + PRH series page. Mason = trained practitioner (mentor Eli), jazz guitarist, freelance enforcement for Victor (Bay Area chief magical enforcer), ifrit familiar Lou. Per-volume engines: v1 missing ifrits / power-hungry practitioner; v2 energy pool lets monsters in; v3 hunting the shape-shifters; v4 hired by a black practitioner to find another and retrieve stolen materials. Case-driven -> occult-mystery > occult-pi > mage-pi (own craft is the working tool). Rejected: occult-cop (no badge), occult-secret-service (community enforcer, not state), monster-pi (human), pi-meets-magic (trained).
+- mage-pi hits 10 -> FROZEN pending split proposal (intake pauses when served).
+- Covers: OL 2421401 / 7094333 (v1-2); PRH CDN images3/images1.penguinrandomhouse.com/cover/<isbn> (v3-4, 279x450). Rejected OL 8018890 + 10051864 (title pages, Burlingame library stamp). Localized cover-dog-days-1..4.jpg. ISBNs 9780441015535 / ...016563 / ...017980 / ...019649.
