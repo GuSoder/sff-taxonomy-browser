@@ -1,0 +1,55 @@
+id: count-to-the-eschaton
+title: Count to the Eschaton
+authors:
+- John C. Wright
+first_published: 2011
+canonical_genre: future-history-in-space
+placement_status: accepted
+placement_rationale: 'Six-volume sequence (Tor, 2011-2017), one fiction under rule 11j. Walk: Science fiction > Futurist SF
+  > Spacefaring fiction (travel, settlement, conflict and civilization beyond Earth - the Monument starship mission, the Hyades
+  Armada defense and humanity''s spread through the Dominions govern the series) > Future history in space (works tracing
+  a sustained future course of interstellar human civilization). Per-volume: bk1 Count to a Trillion (2011): 23rd-century
+  post-collapse Earth, Texas duelist-mathematician Menelaus Montrose joins the starship mission to the alien Monument at the
+  antimatter star, injects himself with an intelligence-amplifying serum, and wakes 150 years later under del Azarchel''s
+  world rule (Kirkus, Strange Horizons). Bk2 The Hermetic Millennia (2012) and bk3 The Judge of Ages (2014, year 10,515):
+  across eight millennia of Stapledonian human clades Montrose sleeps and wakes as the Judge, raising a defense against the
+  coming Hyades Armada (Locus/Di Filippo). Bk4 The Architect of Aeons (2015), bk5 The Vindication of Man (2016): Rania returns
+  bearing the Monument coding and the judgment of the Dominions ruling the known cosmos, deciding humanity''s fate (publisher
+  copy, LibraryThing). Bk6 Count to Infinity (2017): billions of years on, copies of Montrose and del Azarchel duel as the
+  Milky Way-Andromeda collision is revealed as a war between cosmic intellects, under a presiding intellect of supercluster
+  smart matter (Kirkus). The sustained multi-millennia chronicle of human civilization into interstellar and intergalactic
+  society is exactly the leaf''s shape. Rejected: Space opera umbrella (adventure tradition; this is a didactic Stapledonian
+  chronicle, philosophy-forward rather than adventure-first, despite publisher ''space opera'' copy), Techno-fiction in space
+  (computation and posthuman minds are furniture, not the engine; note the unrelated Charles Stross ''Eschaton novels'' card
+  lives there - name collision only).'
+books:
+- title: Count to a Trillion
+  year: 2011
+  cover_url: cover-count-to-a-trillion.jpg
+- title: The Hermetic Millennia
+  year: 2012
+  cover_url: cover-the-hermetic-millennia.jpg
+- title: The Judge of Ages
+  year: 2014
+  cover_url: cover-the-judge-of-ages.jpg
+- title: The Architect of Aeons
+  year: 2015
+  cover_url: cover-the-architect-of-aeons.jpg
+- title: The Vindication of Man
+  year: 2016
+  cover_url: cover-the-vindication-of-man.jpg
+- title: Count to Infinity
+  year: 2017
+  cover_url: cover-count-to-infinity.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-count-to-a-trillion.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04689, the-hermetic-millennia, the-judge-of-ages, the-architect-of-aeons, the-vindication-of-man,
+  MC04690)
+placement_history:
+- date: '2026-11-03'
+  to: future-history-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
