@@ -1,0 +1,11 @@
+id: space-station-thrillers
+label: Space station thrillers
+parent: space-colonies
+children: []
+works:
+- outer-earth
+definition: 'Space colonies in which a fast-moving criminal or terrorist threat is the engine: conspiracies,
+  blackmail, hostage crises and sabotage inside the settlement, met by the couriers, cops and crews who live
+  there. Not Space mystery (there a case drives the story and an investigator works it). Seeded 2026-11-03 as
+  the fourth child of Space colonies (curator "Approved" (phonemsg-01M6GJVGFYGSCTWGCMS05RZBA4, 2026-11-03)).'
+status: active

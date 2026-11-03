@@ -2,6 +2,7 @@ id: space-colonies
 label: Space colonies
 parent: spacefaring-fiction
 children:
+- space-station-thrillers
 - space-mystery
 - space-colony-politics
 - colony-life

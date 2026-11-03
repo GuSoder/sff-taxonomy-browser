@@ -1656,3 +1656,9 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 ## 2026-11-03 Completeness: Tracer added to Outer Earth card (book 1, 16 Jul 2015, Hachette-verified)
 - Card previously held Zero-G + Impact only (queue ids MC08100/08101; Tracer never in queue). Jacket: Hachette CDN hbg-title-tracer-6.jpg (795x1250), localized cover-outer-earth-0.jpg. Card now 3 books, first_published 2015.
 - PENDING DECISION (reported to main): Outer Earth fails space-dash whole-fiction gate (publisher-copy audit); proposed new leaf under space-colonies for the station/colony thriller mode. Awaiting Gustav ruling via main.
+
+## 2026-11-03 SEED EXECUTED: Space station thrillers (space-station-thrillers) under Space colonies
+- Gustav approved (phonemsg-01M6GJVGFYGSCTWGCMS05RZBA4, iMessage "Approved", verified in delegation context). Fourth child of space-colonies by story engine (case / power / daily life / threat).
+- Def: fast-moving criminal or terrorist threat is the engine (conspiracies, blackmail, hostage crises, sabotage inside the settlement) vs Space mystery's case engine. Seed tenant: Outer Earth (3 books incl Tracer completeness add).
+- space-dash back to 9 works; freeze dissolved; no split needed. verify_local green (820 nodes, 2675 cards / 6215 books).
+- DISCLOSED: new leaf has no portrait webp (portrait pipeline outside intake scope); node image="" renders dark background. May want a portrait later.

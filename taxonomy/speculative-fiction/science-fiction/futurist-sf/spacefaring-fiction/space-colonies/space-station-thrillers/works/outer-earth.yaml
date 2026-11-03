@@ -3,7 +3,7 @@ title: Outer Earth
 authors:
 - Rob Boffard
 first_published: 2015
-canonical_genre: space-dash
+canonical_genre: space-station-thrillers
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Spacefaring fiction > New space opera > Space adventure > Space chase. Riley
   Hale, a tracer courier on the last human space station, is hunted and on the run through its failing sections (''in space
@@ -34,3 +34,8 @@ placement_history:
   to: space-dash
   reason: 'Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). A tracer courier hunted through a failing station:
     fits.'
+- date: '2026-11-03'
+  from: space-dash
+  to: space-station-thrillers
+  reason: 'Whole-trilogy publisher-copy audit (Hachette): station action-conspiracy thriller, not prey-side flight - fails the Space dash gate. Moved to the new seed leaf Space station thrillers (curator "Approved" (phonemsg-01M6GJVGFYGSCTWGCMS05RZBA4, 2026-11-03)). Tracer (2015) added as book 1 same day (completeness).'
+
