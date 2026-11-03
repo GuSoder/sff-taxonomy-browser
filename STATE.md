@@ -1631,3 +1631,9 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 ## 2026-11-03 Excluded: John Chu rows MC04699-04702 (all Tor.com short fiction, SFE-verified)
 - Cost-Benefit Analysis (2014), Beyond the El (2019), Hold-Time Violations (2015), The Water That Falls on You from Nowhere (2013, Hugo Best Short Story 2014) - all stories per SFE Chu entry. excluded_short_fiction.
 - SURFACED GAP: Hold-Time Violations was much-expanded into Chu's debut novel The Subtle Art of Folding Space (2026, SFE entry updated 2026-05-04). The novel is in NEITHER the tree NOR the candidates queue (harvest predates/omitted it). Not placed (not a queue row; no unasked sweep). Flagged to main for the list-harvesting layer.
+
+## 2026-11-03 Placed: Einstein's Bridge (MC04703+MC04704, one fiction) -> near-future-first-contact
+- SFE cramer_john: Einstein's Bridge (1997, Avon) = near-future hard-SF, messages from another dimension when a particle accelerator operates. Baen pages (baen.com/einstein-s-bridge.html, published 5/2/2023 reprint; baen.com/fermi-s-question.html, published 6/6/2023): Fermi's Question is the explicit sequel ("15 years since the events of Einstein's Bridge", same Griffin/Coulton characters, Iris Foundation, Hive war) -> ONE fiction, 2 books (1997 + 2023).
+- Leaf now 8 works (a-half-built-garden, beyond-the-light-horizon, einsteins-bridge, exordia, solar-express, the-blue-beautiful-world, the-burn-zone, voyagers). NOTE: genre.yaml works list had been stale (listed only 4 of 7 pre-existing); live_place regenerated it from the works dir.
+- Covers: Baen CDN product-page jackets (9781625799265/9781625799272-med_1.jpg), localized as cover-einsteins-bridge-1/2.jpg. Small (157x240) but publisher-served, distinct, alt-labeled per volume.
+- verify_local green (819 nodes, 2674 cards / 6212 books).

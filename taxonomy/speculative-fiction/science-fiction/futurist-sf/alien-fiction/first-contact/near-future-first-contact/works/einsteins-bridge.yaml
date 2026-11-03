@@ -1,0 +1,31 @@
+id: einsteins-bridge
+title: Einstein's Bridge
+authors:
+- John Cramer
+first_published: 1997
+canonical_genre: near-future-first-contact
+placement_status: accepted
+placement_rationale: 'Hard-SF first contact on near-future Earth: at the newly operational Superconducting Super Collider,
+  physicist George Griffin discovers a Bridgehead - a wormhole link to the Makers'' universe - and learns a Hive invasion
+  of Earth is imminent; the Makers send him back to 1987 to change the future. The Baen sequel Fermi''s Question (2023) continues
+  the same fiction 15 years on: the Iris Foundation masters Maker wormhole tech, builds Fermi Station in the Oort Cloud, and
+  joins the Makers and the robotic Centaurs in the war on the Hive. Near-future Earth transformed by alien contact, matching
+  the leaf''s tenants (Voyagers, Exordia).'
+books:
+- title: Einstein's Bridge
+  year: 1997
+  cover_url: cover-einsteins-bridge-1.jpg
+- title: Fermi's Question
+  year: 2023
+  cover_url: cover-einsteins-bridge-2.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-einsteins-bridge-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04703, MC04704)
+placement_history:
+- date: '2026-11-03'
+  to: near-future-first-contact
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
