@@ -1,0 +1,44 @@
+id: the-banished-lands
+title: The Banished Lands
+authors:
+- John Gwynne
+first_published: 2012
+canonical_genre: war-of-immortals
+placement_status: accepted
+placement_rationale: "Gwynne's whole Banished Lands universe (publisher-confirmed: Pan Macmillan's 'An introduction to John Gwynne's Banished Lands universe' groups both series in one world; Of Blood and Bone is 'set a century after the events of Wrath'; ISFDB 'The Faithful and the Fallen universe'): The Faithful and the Fallen - Malice (2012), Valour (2014), Ruin (2015), Wrath (2016); Of Blood and Bone - A Time of Dread (2018), A Time of Blood (2019), A Time of Courage (2020). WHOLE-FICTION ENGINE: the God-War between the immortal powers - the angelic Ben-Elim and the demonic Kadoshim of the fallen Asroth - fought across many fronts with human and giant allies, told as a multi-POV war tapestry in both series. The first quartet carries a strong destiny-quest thread (smith's son Corban rises as the prophesied Bright Star), but that engine does NOT continue: Fantasy Hive's A Time of Dread review explicitly praises the later trilogy for 'the lack of bloodline of destiny, foretold one or any prophecy' - its spine is the Ben-Elim's iron-fisted rule and the Kadoshim's return a century on, seen through trapper Drem, soldier Riv, hostage-prince Bleda and giant-hunter Sig. The constant across all seven books is immortal powers waging war - war-of-immortals' gate exactly ('undying races, godlike beings... against each other'), not eldritch-invasions (the Ben-Elim/Kadoshim are the world's established powers for generations, not an enemy newly come from outside). Tenants dark-moon and echoes-of-the-great-song are the same Gemmell-register god-touched war epics. Short works in the universe (The Heir Apparent 2019, Better to Live Than to Die 2015) excluded per standing orders. Queue rows MC04725-04729 are five individual volumes; first published 2012. Initially placed in calling-quest-fantasy on the first quartet's Bright Star thread; moved here the same day on the whole-fiction check."
+books:
+- title: Malice
+  year: 2012
+  cover_url: cover-the-banished-lands-1.jpg
+- title: Valour
+  year: 2014
+  cover_url: cover-the-banished-lands-2.jpg
+- title: Ruin
+  year: 2015
+  cover_url: cover-the-banished-lands-3.jpg
+- title: Wrath
+  year: 2016
+  cover_url: cover-the-banished-lands-4.jpg
+- title: A Time of Dread
+  year: 2018
+  cover_url: cover-the-banished-lands-5.jpg
+- title: A Time of Blood
+  year: 2019
+  cover_url: cover-the-banished-lands-6.jpg
+- title: A Time of Courage
+  year: 2020
+  cover_url: cover-the-banished-lands-7.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-banished-lands-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04728, valour, MC04729, wrath, MC04727, MC04725, MC04726)
+placement_history:
+- date: '2026-11-03'
+  to: calling-quest-fantasy
+- date: '2026-11-03'
+  to: war-of-immortals
+  reason: 'Whole-fiction aboutness check (curator challenge): the God-War of immortal powers is the engine across all seven books; moved to War of immortals.'
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
