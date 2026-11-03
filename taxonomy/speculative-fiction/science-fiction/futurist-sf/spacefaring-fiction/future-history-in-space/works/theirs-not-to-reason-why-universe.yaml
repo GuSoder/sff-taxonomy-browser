@@ -1,22 +1,22 @@
-id: theirs-not-to-reason-why
-title: Theirs Not to Reason Why
+id: theirs-not-to-reason-why-universe
+title: Theirs Not to Reason Why Universe
 authors:
 - Jean Johnson
 first_published: 2011
-canonical_genre: star-stripes
+canonical_genre: future-history-in-space
 placement_status: accepted
-placement_rationale: 'Whole-fiction re-walk after main''s 2026-11-03 gate challenges. The card now holds only the Theirs Not
-  to Reason Why pentalogy: the First Salik War trilogy is a separate author-named series with different protagonists and a
-  different thematic focus (author site series pages; ISFDB series records; reading1000lives.com: ''marks the start of a new
-  series, with a different thematic focus, which can be read on its own'') - separated under the Eternity War / Lazarus War
-  precedent (same universe, separate named series = separate cards). The pentalogy is one officer''s climb through the ranks:
-  Marine recruit with precognitive visions, field-promoted (A Soldier''s Duty), Space Force Navy academy (An Officer''s Duty
-  - author site and PRH: ''poised to become an officer in the Space Force Navy... her plan is to command a Blockade Patrol
-  ship''), captain of the Blockade Patrol ship Hellfire as the Second Salik War breaks out (Hellfire), the crew fighting out
-  of a planetary blockade (Hardship), and the final Salik/Grey campaigns (Damnation). Walk: Science fiction > Futurist SF
-  > Spacefaring fiction > Military science fiction > Space navy > Space armada > Star stripes - the climb from a first posting
-  to the captain''s chair inside the service''s chain of command is the arc, and the Salik/Grey fleet war is its field. Wobble
-  disclosed: book 1 is Marine infantry before her Space Force Navy commission (Elitist Book Reviews: she joins the Marines).'
+placement_rationale: 'Whole-fiction placement of Jean Johnson''s single shared universe (user directive 2026-10-30, phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX:
+  ''if it is a shared universe it is one fiction''): The First Salik War trilogy and the Theirs Not to Reason Why pentalogy
+  are one timeline, ~200 years apart, one continuous story of humanity''s interstellar course - expansion-era first contact
+  with the V''Dan and the predatory Salik (Ambassador MacKenzie''s diplomatic trilogy), the alliance, and the two Salik wars
+  (Ia''s military pentalogy, whose precognitive mission is to steer humanity''s survival). No single-mode leaf honestly holds
+  the whole: military leaves fail the diplomatic prequel trilogy; first-contact leaves fail the war pentalogy. The civilization-level
+  Salik/V''Dan encounter is the through-story from The Terrans to Damnation, which is the future-history gate: ''a sustained
+  future course of interstellar human civilization''. Precedent tenants with the same mixed contact/war chronicle shape in
+  one timeline: CoDominium (Falkenberg military + Mote first contact), the Humanx Commonwealth (thranx first contact + later
+  adventures), Alliance-Union (war and diplomacy across one future history). Wobble disclosed: each era''s foreground is single-mode
+  (diplomacy, then one officer''s career); the civilization course is the connective frame, judged at the whole-fiction level.
+  Walk: Science fiction > Futurist SF > Spacefaring fiction > Future history in space.'
 books:
 - title: A Soldier's Duty
   year: 2011
@@ -33,6 +33,15 @@ books:
 - title: Damnation
   year: 2014
   cover_url: cover-theirs-not-reason-why-5.jpg
+- title: The Terrans
+  year: 2015
+  cover_url: cover-theirs-not-reason-why-6.jpg
+- title: The V'Dan
+  year: 2015
+  cover_url: cover-theirs-not-reason-why-7.jpg
+- title: The Blockade
+  year: 2016
+  cover_url: cover-theirs-not-reason-why-8.jpg
 cover_curation:
   status: complete
   source: Penguin Random House publisher
@@ -48,7 +57,7 @@ cover_curation:
   - https://images1.penguinrandomhouse.com/cover/9780425276914
   - https://images2.penguinrandomhouse.com/cover/9780425276938
   - https://images1.penguinrandomhouse.com/cover/9780698175839
-intake: ten-k walk v5 (queue ids MC04375, MC04376, MC04379, MC04378, MC04377)
+intake: ten-k walk v5 (queue ids MC04375, MC04376, MC04379, MC04378, MC04377, MC04381, MC04382, MC04380)
 placement_history:
 - date: '2026-10-29'
   to: future-history-in-space
@@ -59,10 +68,11 @@ placement_history:
   reason: 'Whole-fiction gate re-check ordered by main (2026-11-03 ~10:52): Future history in space fails as governing mode
     (military career and war-plan, not civilization''s course); single-fiction correction under existing authority.'
 - date: '2026-11-03'
-  reason: 'Card separation: First Salik War trilogy removed to its own fiction under the separate-named-series precedent,
-    after main''s gate challenge (2026-11-03 ~11:03); the pentalogy remains at Star stripes on the officer''s-climb gate.'
   from: star-stripes
-  to: star-stripes
+  to: future-history-in-space
+  reason: 'Main''s 11:03 gate rulings: star-stripes rejected (diplomatic prequels fail every military gate); the two-card
+    separation was unauthorized (whole-shared-universe = one fiction, phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX). Full whole-fiction
+    walk returns the card to Future history in space as the only honest existing leaf.'
 classification_sources:
 - https://jeanjohnson.net/index.php/theirs-not-to-reason-why/
 - https://jeanjohnson.net/index.php/the-first-salik-war/
