@@ -1,0 +1,31 @@
+id: soldiers
+title: Soldiers
+authors:
+- John Dalmas
+first_published: 2000
+canonical_genre: alien-war-grunts
+placement_status: accepted
+placement_rationale: 'Dalmas''s Soldiers (Baen, first published December 2000 per baen.com; ISFDB''s 2001-05 is the later
+  printing): after centuries of high-tech wars, galactic humanity''s Commonwealth of Worlds has concluded that war is psychotic
+  - until an armada of more than 14,000 warships arrives, wiping every inhabited planet clean for alien colonists, and humanity
+  must relearn how to be soldiers or go extinct (Baen publisher copy; blurbs by David Brin and William C. Dietz). Root-down:
+  Science fiction -> Futurist SF -> Spacefaring fiction (galactic Commonwealth among the stars) -> Military science fiction
+  -> Ground-pounders (the soldier''s-eye war) -> Alien-war grunts, a grim war against an alien enemy. Rejected: modern-day
+  alien-invasion-fiction (fails the modern-day ancestor gate - future galactic setting, no Earth campaign); Space navy/Space
+  armada (the enemy armada is the threat, the story is soldiers, not the bridge); Super space soldier (society relearns soldiering;
+  individuals are not remade). Singleton: ISFDB title record 25053 lists no series.'
+books:
+- title: Soldiers
+  year: 2000
+  cover_url: cover-soldiers-1.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-soldiers-1.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04708)
+placement_history:
+- date: '2026-10-04'
+  to: alien-war-grunts
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
