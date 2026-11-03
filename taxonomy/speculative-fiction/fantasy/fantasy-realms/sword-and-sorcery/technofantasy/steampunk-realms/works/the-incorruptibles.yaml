@@ -1,0 +1,38 @@
+id: the-incorruptibles
+title: The Incorruptibles
+authors:
+- John Hornor Jacobs
+first_published: 2014
+canonical_genre: steampunk-realms
+placement_status: accepted
+placement_rationale: 'Complete trilogy (Gollancz 2014-2017): The Incorruptibles, Foreign Devils, Infernal Machines. An independent
+  fantasy world: Rume is a Rome-analog industrial empire and the Hardscrabble Territories its Wild-West-analog frontier, so
+  the real-earth ancestor gate fails and weird-west-fantasy (period/industrial-age) is out. Steam technology is central to
+  the worldbuilding: the plot of book 1 turns on the Cornelian, a paddlewheel steamer powered by a bound demon, and Ruman
+  industry runs on harnessed daemons - imp-lit lamps, hellfire bullets, daemon-driven engines (Reactor, SFFWorld, FantasyBookReview,
+  Grimdark reviews). Mercenaries Fisk and half-dvergar Shoe hire on to guard the governor''s family upriver against the immortal
+  ''stretchers'', then get pulled into the empire''s wars in books 2-3. steampunk-realms reads ''independent fantasy worlds
+  where steam-powered technology is central; magic may coexist; steam plus magic remains here rather than Magitech'' - magitech
+  loses on that explicit steam-priority clause. Adventure-forward mercenary frame fits the sword-and-sorcery lineage above
+  technofantasy (SFFWorld compares Fafhrd and the Gray Mouser). First published 2014.'
+books:
+- title: The Incorruptibles
+  year: 2014
+  cover_url: cover-the-incorruptibles.jpg
+- title: Foreign Devils
+  year: 2015
+  cover_url: cover-foreign-devils.jpg
+- title: Infernal Machines
+  year: 2017
+  cover_url: cover-infernal-machines.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-incorruptibles.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04740, MC04738, MC04739)
+placement_history:
+- date: '2026-11-03'
+  to: steampunk-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
