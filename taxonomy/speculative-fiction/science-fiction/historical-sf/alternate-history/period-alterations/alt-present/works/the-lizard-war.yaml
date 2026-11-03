@@ -3,7 +3,7 @@ title: The Lizard War
 authors:
 - John Dalmas
 first_published: 1989
-canonical_genre: warzone-earth
+canonical_genre: alt-present
 placement_status: accepted
 placement_rationale: 'Dalmas''s Lizard War fiction (Baen; ISFDB series: The Lizard War 12943, Dec 1989, David Mattingly jacket;
   The Helverti Invasion 24689, Nov 2003). In an alternate timeline branching from the 1983 KAL-007 shootdown, a global war
@@ -35,3 +35,9 @@ placement_history:
 - date: '2026-10-04'
   to: warzone-earth
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-03'
+  from: warzone-earth
+  to: alt-present
+  reason: 'Ancestor-gate correction (modern-day-sf requires the recognizable present): the whole fiction is set in an alternate
+    timeline forking 1 Sept 1983 (KAL-007, Baen copy), an altered near-present - alt-present''s gate exactly. Both volumes
+    share the timeline, so the whole fiction moves. Flagged in warzone-earth qualification (main 2026-11-03).'

@@ -3,7 +3,7 @@ title: Ninth City Burning
 authors:
 - J. Patrick Black
 first_published: 2016
-canonical_genre: warzone-earth
+canonical_genre: future-war
 placement_status: accepted
 placement_rationale: 'Walk: Science fiction > Alien fiction > Alien invasion fiction > Alien conquest. Five hundred years
   into an open alien war that took the cities and the sky, human teenagers are trained to wield the invaders'' own power as
@@ -28,3 +28,10 @@ placement_history:
   to: warzone-earth
   reason: 'Alien conquest fiction split into Fallen Earth and Warzone Earth on the curator''s approval; re-walked root-down:
     this card sits in Warzone Earth (a contested war for the ground).'
+- date: '2026-11-03'
+  from: warzone-earth
+  to: future-war
+  reason: 'Ancestor-gate correction (modern-day-sf requires the recognizable present): the story is set 500 years after the
+    invasion on a future Earth (Kirkus; Penguin Random House copy; author interviews). future-war''s gate: war transformed
+    by technology and fought on Earth, Earthbound conflict the core - the 500-year war for Earth is the whole story. Flagged
+    in warzone-earth qualification (main 2026-11-03).'

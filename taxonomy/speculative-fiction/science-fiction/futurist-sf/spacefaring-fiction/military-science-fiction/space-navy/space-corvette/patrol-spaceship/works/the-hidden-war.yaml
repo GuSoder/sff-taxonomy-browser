@@ -1,0 +1,46 @@
+id: the-hidden-war
+title: The Hidden War
+authors:
+- Michael Armstrong
+first_published: 1994
+canonical_genre: patrol-spaceship
+placement_status: accepted
+placement_rationale: 'Michael Armstrong''s The Hidden War (TSR, 1994): fighter pilot Krim, last survivor of the Beat asteroid
+  Jack, is freed after 15 years and enlists in the Solarian Alliance''s hidden Oort-cloud patrol, flying telepresence ''poddies''
+  against what the Alliance believes are probes of the approaching Terrorons - but the alien menace is a hoax: the Beats fabricated
+  the broadcasts to give hedonistic Earth a common enemy (Schlock Value full review, 2017-03-12; fictiondb publisher copy).
+  Root-down: Science fiction -> Futurist SF (undefined-future spacefaring society) -> Spacefaring fiction -> Military science
+  fiction (the review calls out the enlistment-training-combat MilSF structure) -> Space navy -> Space corvette (the pilot
+  and his craft, not a fleet) -> Patrol spaceship: regular service, escort and war errands far from the fleet. Rejected: Alien
+  conquest/warzone-earth (no real invasion - the aliens are fabricated; also fails modern-day-sf''s recognizable-present gate);
+  Penal spaceship (Krim is freed and enlisted for his skills; the ship is no sentence or dumping ground); Space academy (training
+  is the middle act, not the frame). Wobble moderate: the poddies are expendable telepresence craft rather than a single crewed
+  ship, but the pilot-and-patrol engine governs.'
+books:
+- title: The Hidden War
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/9163667-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9163667-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06843)
+placement_history:
+- date: '2026-10-04'
+  to: alien-conquest-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-11'
+  from: alien-conquest-fiction
+  to: warzone-earth
+  reason: 'Alien conquest fiction split into Fallen Earth and Warzone Earth on the curator''s approval; re-walked root-down:
+    this card sits in Warzone Earth (a contested war for the ground).'
+- date: '2026-11-03'
+  from: warzone-earth
+  to: patrol-spaceship
+  reason: 'Ancestor-and-aboutness correction: the ''evil alien race'' is a hoax - the Beats fabricated the Terroron broadcasts
+    to give hedonistic Earth a common enemy (Schlock Value full review, 2017-03-12); never alien conquest. Real story engine:
+    ex-prisoner Krim enlists in the Solarian Alliance service and flies telepresence fighter patrol in the Oort cloud - undefined-future
+    military SF of regular service far from the fleet. modern-day-sf ancestor fails (future spacefaring setting). Destination
+    verified against whole-book review, main 2026-11-03.'
