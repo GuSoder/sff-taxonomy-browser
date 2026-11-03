@@ -1564,3 +1564,9 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Trigger: main's whole-fiction challenge on the MC04671 completeness walk. Grounding: AMOD = springer-contact culture clash on Wilson/Nansen, no mind-copying (Kirkus, Wikipedia, Reactor, finfar.org); EMoG = Briand diplomacy/disaster, no mind-copying (ISFDB flap synopsis); psypyx copied-minds content confined to books 3-4 (TMoS Kirkus + christian-sauve + Prometheus reviews; TAoM per series arc). Future-of-earth ancestor fails for books 1-2 (no Earth at all).
 - Whole-fiction governing mode: post-scarcity Council of Humanity intervenes in isolated cultures; moral authority + collective choice (reunion by force, psypyx vote, invasion unity) under material abundance. Tenant parallel: Banks's Culture. Wobble disclosed: social-manners register vs space-opera ancestor.
 - copied-minds 9->8 cards, post-scarcity-politics 1->2. Cards 2,669 / books 6,193 unchanged. verify_local green.
+
+## 2026-11-03 Birmingham sweep MC04677-87
+- Dave vs. the Monsters (MC04677/79/81): already_in_tree, 3 novels complete at paranormal-aftermath; series shorts (A Protocol for Monsters, Soul Full of Guns) excluded.
+- Axis of Time (MC04678/80/86 placed): 11j completeness - added Axis of Time Reloaded novels WW3.1 (2023, Amazon B0CJCJBP96), WW3.2 (2025, B0FQBMVP8K, Dragon finalist per ISFDB), WW3.3 (2026, B0GNLTSBLQ); same time-thrown Multinational Force, Timetribe gate holds. Covers = Amazon ebook jackets, localized. Card 3->6 books; tree 6,193 -> 6,196. Stalin's Hammer novellas + 2017 omnibus excluded (MC04682 excluded_novella).
+- The Cruel Stars (MC04683/85 already_in_tree; MC04684 skipped_forthcoming): The Forever Dead publishes 2026-11-24 (PRH 9781984820587); one-shot wake set for 2026-11-25 to add it to the starbridge card.
+- MC04687 Without Warning: already_in_tree (Disappearance card).

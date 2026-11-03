@@ -18,13 +18,22 @@ books:
 - title: Final Impact
   year: 2007
   cover_url: https://covers.openlibrary.org/b/id/210797-L.jpg
+- title: World War 3.1
+  year: 2023
+  cover_url: cover-world-war-3-1.jpg
+- title: World War 3.2
+  year: 2025
+  cover_url: cover-world-war-3-2.jpg
+- title: World War 3.3
+  year: 2026
+  cover_url: cover-world-war-3-3.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/12594231-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC04686, MC04678, MC04680)
+intake: ten-k walk v5 (queue ids MC04686, MC04678, MC04680, MC04682)
 placement_history:
 - date: '2026-10-04'
   to: time-strays
@@ -35,3 +44,8 @@ placement_history:
     / phonemsg-01M48P8QX73JHE0BP8CADP4MGY; names workshopped in his messages 2:57-3:25 PM).
   from: time-strays
   to: timetribe
+- date: '2026-11-03'
+  reason: '11j completeness from queue rows MC04678/80/86: ISFDB shows the shared universe continuing as Axis of Time
+    Reloaded - World War 3.1 (2023), 3.2 (2025, Dragon Award finalist) and 3.3 (Feb 2026), all published novels with
+    Kolhammer''s time-thrown Multinational Force, so the Timetribe gate still governs. The Stalin''s Hammer volumes (Rome
+    2012, Cairo and Paris 2016, omnibus 2017) are novellas and stay excluded under the no-novellas rule (queue MC04682).'
