@@ -1,0 +1,40 @@
+id: the-yngling-saga
+title: The Yngling Saga
+authors:
+- John Dalmas
+first_published: 1971
+canonical_genre: wild-ruins
+placement_status: accepted
+placement_rationale: 'Earth, 2801: centuries after the Apocalypse, civilization has rebuilt as violent neoviking tribes and
+  the psi-gifted Nils Jarnhann, the Yngling, serves as their lawgiver. The Yngling (1971) pits him against the telepathic
+  tyrant Kazi and his hypnoconditioned Orc armies; Homecoming (1984) brings back the Star Men of Earth''s old star colony
+  (''Earth''s greeting to its colonists - learn war or die!'', jacket tagline); The Yngling and the Circle of Power (1992,
+  Baen Original, with in-book essays on the Psychome and 29th-century Scandinavia) and The Yngling in Yamato (1994, ''Northman
+  versus Samurai in Post-Apocalypse Japan'', back cover) continue the saga. Wilderness and barbarism have reclaimed the world
+  and no one recovers what was lost: wild-ruins, not lost-knowledge (the Star Men come from off-world, not from old Earth''s
+  knowledge), not post-holocaust-survival (settled successor societies, not the living aftermath). Queue row MC04715 is The
+  Orc Wars, the Baen omnibus of books 1-2 (Baen page: Published 7/1/1992; queue year 2011 is the ebook).'
+books:
+- title: The Yngling
+  year: 1971
+  cover_url: cover-the-yngling-saga-1.jpg
+- title: Homecoming
+  year: 1984
+  cover_url: cover-the-yngling-saga-2.jpg
+- title: The Yngling and the Circle of Power
+  year: 1992
+  cover_url: cover-the-yngling-saga-3.jpg
+- title: The Yngling in Yamato
+  year: 1994
+  cover_url: cover-the-yngling-saga-4.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-yngling-saga-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue id MC04715 (The Orc Wars omnibus of books 1-2))
+placement_history:
+- date: '2026-11-03'
+  to: wild-ruins
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
