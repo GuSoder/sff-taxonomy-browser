@@ -20,19 +20,24 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/8446472-L.jpg
 - title: Trial by Fire
   year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/11732628-L.jpg
 - title: Raising Caine
   year: 2015
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781476780931-lg.jpg
 - title: Caine's Mutiny
   year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8809704-L.jpg
 - title: Marque of Caine
   year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10161980-L.jpg
 - title: Mission Critical
   year: 2023
+  cover_url: https://www.baen.com/media/catalog/product/9/7/9781982192600-lg_1.jpg
 cover_curation:
   status: complete
-  source: Open Library / publisher
+  source: Open Library / Baen publisher CDN
   selected_url: https://covers.openlibrary.org/b/id/8446472-L.jpg
-  visually_reviewed_on: '2026-10-04'
+  visually_reviewed_on: '2026-11-03'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC01564, MC01572, MC01570, MC01563, MC01568, MC01569)
 placement_history:
