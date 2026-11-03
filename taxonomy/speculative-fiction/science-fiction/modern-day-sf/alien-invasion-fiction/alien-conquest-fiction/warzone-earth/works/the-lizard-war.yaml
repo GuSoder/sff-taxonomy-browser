@@ -1,0 +1,37 @@
+id: the-lizard-war
+title: The Lizard War
+authors:
+- John Dalmas
+first_published: 1989
+canonical_genre: warzone-earth
+placement_status: accepted
+placement_rationale: 'Dalmas''s Lizard War fiction (Baen; ISFDB series: The Lizard War 12943, Dec 1989, David Mattingly jacket;
+  The Helverti Invasion 24689, Nov 2003). In an alternate timeline branching from the 1983 KAL-007 shootdown, a global war
+  has crippled Earth''s civilization; lizard-like aliens move in to take over, expecting easy pickings, but secret galactic
+  agents have trained Earth''s mystic warrior brotherhood (the Order of Saint Higuchi), and the aliens are driven off (Baen
+  publisher copy). Years later the Helverti - a furry chaos-cult species - invade, plotting to plunge humanity''s tribes into
+  war: mystic warriors vs alien technology, again for the Earth itself. Root-down: Science fiction -> Modern day SF (recognizable-present
+  Earth, an alternate-1983 timeline like tenant Worldwar''s 1942) -> Alien invasion fiction -> Alien conquest fiction (open
+  force, armies land) -> Warzone Earth: the war is still a war, humans contest the planet and win. Rejected: Fallen Earth
+  (the invaders never take the world - they are driven off); Alien infiltration/extraction (open invasion, not hidden); spacefaring
+  Military SF / Alien-war grunts (the fight is for Earth, not a galactic campaign - SFE''s ''Military SF'' tag does not move
+  the setting). Whole fiction grounded per volume (Baen pages for both; ISFDB records). Queue row MC04710 (Helverti, queue
+  year 2001 wrong - first pub Nov 2003 per Baen and ISFDB); The Lizard War (1989) is the completeness add.'
+books:
+- title: The Lizard War
+  year: 1989
+  cover_url: cover-the-lizard-war-1.jpg
+- title: The Helverti Invasion
+  year: 2003
+  cover_url: cover-the-lizard-war-2.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-lizard-war-1.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids lizard-war-1, MC04710)
+placement_history:
+- date: '2026-10-04'
+  to: warzone-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
