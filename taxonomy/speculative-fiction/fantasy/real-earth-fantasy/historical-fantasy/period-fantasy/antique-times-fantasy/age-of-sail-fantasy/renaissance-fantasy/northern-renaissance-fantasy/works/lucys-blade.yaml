@@ -1,0 +1,29 @@
+id: lucys-blade
+title: Lucy's Blade
+authors:
+- John Lambshead
+first_published: 2007
+canonical_genre: northern-renaissance-fantasy
+placement_status: accepted
+placement_rationale: 'Standalone novel (Baen 2007; no sequel in publisher or ISFDB listings). Elizabethan England: spymaster
+  Sir Francis Walsingham, facing Spanish plots against Queen Elizabeth, has Dr. John Dee summon a demon for answers; the summoning
+  goes wrong and the demon possesses Walsingham''s orphaned niece, Lady Lucy Dennys, who becomes the blade of the title (Baen
+  publisher copy; Amazing Stories and Fantasy Literature reviews). Real earth > historical > period > antique times > age
+  of sail > Renaissance; northern-renaissance-fantasy''s gate names ''Elizabethan London and Ireland'' outright - the exact
+  case. Not alternate-history-fantasy (history is the stage, not a fork; the demon is the hidden element). Not mediterranean
+  or pan-european (the story''s home is the English court). First published 2007.'
+books:
+- title: Lucy's Blade
+  year: 2007
+  cover_url: cover-lucys-blade.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-lucys-blade.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04749)
+placement_history:
+- date: '2026-11-03'
+  to: northern-renaissance-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
