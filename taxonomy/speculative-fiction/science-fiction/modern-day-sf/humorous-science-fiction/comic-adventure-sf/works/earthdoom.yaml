@@ -1,0 +1,24 @@
+id: earthdoom
+title: Earthdoom!
+authors:
+- John Grant
+- David Langford
+first_published: 1987
+canonical_genre: comic-adventure-sf
+placement_status: accepted
+placement_rationale: "Standalone novel (Grafton, May 1987 per ISFDB title 188728; queue year 2020 is the Baen ebook). An explicit parody of the bottom-basement catastrophe-SF novel: the Earth tilts into a new Ice Age, rabid lemmings race for Europe, a time-travelling Hitler clones himself in Devonshire, demonic possession erupts in the USA and a hostile alien envoy broadcasts its contempt - every disaster at once, played for laughs (Baen copy; christian-sauve.com review: 'a parody of the type of bottom-basement catastrophe Science Fiction novels... you won't be able to read another Disaster Novel without giggling'). Gate distinction (curator challenge 2026-11-03): this is GENRE parody, not social/institutional satire - the comedy runs on a ridiculous, fast-moving pile-up of every catastrophe at once, 'countless vignettes of destruction, dozens of unfolding subplots' (Sauve), with the disaster-novel spoof as its texture rather than an argument aimed at how people, institutions and beliefs behave. Accepted tenant precedent: Anonymous Rex 'parodies noir and human social habits' and sits in comic-adventure-sf, not satirical-sf; genre-parody romps ride with comic adventure. Langford & Grant's companion parody Guts! (2001, horror spoof) is a separate standalone, not a shared universe. Setting is contemporary-to-writing Britain/USA: modern-day-sf ancestry holds."
+books:
+- title: Earthdoom!
+  year: 1987
+  cover_url: cover-earthdoom.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-earthdoom.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04721)
+placement_history:
+- date: '2026-11-03'
+  to: comic-adventure-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
