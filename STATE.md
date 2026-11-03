@@ -1543,3 +1543,7 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - All three rows already owned by The Century Next Door series card at rewired-minds (intake line listed all three ids; ISFDB series 714 confirms 4 novels). Queue years are reprints (Candle 2000, KC 1995, SSB&B 2002 first pubs).
 - 11j completeness gap found: card was missing book 1, Orbital Resonance (1991). Added to works yaml + index.html node (cover OL 603493, Tor 1992 pb; rejected OL 9793086 photo-of-book and PRH placeholder); first_published 1995 -> 1991. Tree books 6,190 -> 6,191. Leaf stays at 9 cards (existing card, no new placement).
 - index.html edit done line-based (prefix + json + preserved tail) after the earlier regex trap; verify_local green.
+
+## 2026-11-03 MC04667 Daybreak Zero + MC04668 Directive 51 + MC04672 The Last President — already_in_tree
+- All three owned by the Daybreak trilogy card at chemical-catastrophe; all three ISFDB series-28030 volumes present, no completeness gap. Tsv-only change, no tree change.
+- Cursor: MC04670 Mother of Storms (own card at rain-drowned-worlds; verify) and MC04671 The Armies of Memory (Thousand Cultures card at copied-minds lists only Merchants of Souls + Armies of Memory — check ISFDB whether A Million Open Doors / Earth Made of Glass are missing = likely 11j completeness fix).
