@@ -6,15 +6,15 @@ first_published: 1994
 canonical_genre: alt-wwii
 placement_status: accepted
 placement_rationale: 'Turtledove''s Worldwar fiction (the Worldwar tetralogy, the Colonization trilogy and Homeward Bound;
-  eight novels, one shared universe, one card per rule 11j): the reptilian Race invades Earth on 30 May 1942, mid-Second-World-War;
-  Axis and Allies must cooperate against it; the tetralogy tells the changed war on its fronts to a stalemate with the Race
-  holding half the planet; Colonization follows the world it leaves behind (1960s cold war with the Race''s colonists) and
-  Homeward Bound reaches 2031 (Wikipedia, Worldwar series). Root-down: Science fiction > Historical SF > Alternate history
-  (identifiable fork: the Race''s arrival) > Period alterations (fork within living memory of the story) > Alt WWII, as widened
-  2026-11-03 with the curator''s ''Approved'' (phonemsg-01M6GRETKSYG4HS6CDKP2ZBYR2) to include continuations showing the world
-  the changed war leaves behind. Rejected: Modern day SF / Warzone Earth (the 1942 fork is not the recognizable present -
-  the earlier placement failed the ancestor gate); Alt postwar (the fork is mid-war, not the war''s end); Hidden history SF
-  (the arrival is open and remakes the record). Whole fiction moves together; no book separated.'
+  eight novels, all eight now on the card, one shared universe per rule 11j): the reptilian Race invades Earth on 30 May 1942,
+  mid-Second-World-War; Axis and Allies must cooperate against it; the tetralogy tells the changed war on its fronts to a
+  stalemate with the Race holding half the planet; Colonization follows the world it leaves behind (1960s cold war with the
+  Race''s colonists) and Homeward Bound reaches 2031 (Wikipedia, Worldwar series). Root-down: Science fiction > Historical
+  SF > Alternate history (identifiable fork: the Race''s arrival) > Period alterations (fork within living memory of the story)
+  > Alt WWII, as widened 2026-11-03 with the curator''s ''Approved'' (phonemsg-01M6GRETKSYG4HS6CDKP2ZBYR2) to include continuations
+  showing the world the changed war leaves behind. Rejected: Modern day SF / Warzone Earth (the 1942 fork is not the recognizable
+  present - the earlier placement failed the ancestor gate); Alt postwar (the fork is mid-war, not the war''s end); Hidden
+  history SF (the arrival is open and remakes the record). Whole fiction moves together; no book separated.'
 books:
 - title: In the Balance
   year: 1994
@@ -31,6 +31,12 @@ books:
 - title: Second Contact
   year: 2000
   cover_url: https://covers.openlibrary.org/b/id/209533-L.jpg
+- title: Down to Earth
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/209534-L.jpg
+- title: Aftershocks
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/209535-L.jpg
 - title: Homeward Bound
   year: 2004
   cover_url: https://covers.openlibrary.org/b/id/210852-L.jpg
@@ -40,7 +46,8 @@ cover_curation:
   selected_url: https://covers.openlibrary.org/b/id/208187-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC03747, MC03795, MC03798, MC03770, MC03767, MC03743)
+intake: 'ten-k walk v5 (queue ids MC03747, MC03795, MC03798, MC03770, MC03767, MC03743); completeness add 2026-11-03: Down
+  to Earth (2000, ISFDB 20086) and Aftershocks (2001, ISFDB 22834), jackets OCR-verified English print (OL 209534/209535)'
 placement_history:
 - date: '2026-10-04'
   to: alien-conquest-fiction
