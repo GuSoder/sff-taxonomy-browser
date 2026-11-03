@@ -1662,3 +1662,6 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Def: fast-moving criminal or terrorist threat is the engine (conspiracies, blackmail, hostage crises, sabotage inside the settlement) vs Space mystery's case engine. Seed tenant: Outer Earth (3 books incl Tracer completeness add).
 - space-dash back to 9 works; freeze dissolved; no split needed. verify_local green (820 nodes, 2675 cards / 6215 books).
 - DISCLOSED: new leaf has no portrait webp (portrait pipeline outside intake scope); node image="" renders dark background. May want a portrait later.
+
+## 2026-11-03 Portrait: 873-space-station-thrillers.webp shipped
+- Two 1024x1536 variants generated (smart tier, 2:3): A = courier chased through crowded concourse (rejected: reads as space-dash chase cousin); B = hooded saboteur planting a blinking device on a reactor conduit, security sweeping from a catwalk, Earth through the viewport (PICKED: sabotage is the distinguishing act vs space-mystery's case-work and space-dash's chase). Content checklist passed: genre legible at a glance, no franchise silhouettes, no bows, gloved hands clean on the device, plausible station scale, no readable text. Root file 873-space-station-thrillers.webp; genre.yaml image+portrait set; index.html node image set. verify_local green.
