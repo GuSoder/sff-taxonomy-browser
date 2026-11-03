@@ -21,13 +21,22 @@ books:
 - title: Honeyed Words
   year: 2011
   cover_url: https://images.penguinrandomhouse.com/cover/9780765324689
+- title: Forged in Fire
+  year: 2012
+  cover_url: cover-forged-in-fire.jpg
+- title: Night Terrors
+  year: 2016
+  cover_url: cover-night-terrors.jpg
+- title: Rainbow Brigade
+  year: 2020
+  cover_url: cover-rainbow-brigade.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/8668451-L.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC03996, MC03997)
+intake: ten-k walk v5 (queue ids MC03996, MC03997, MC04665)
 placement_history:
 - date: '2026-10-04'
   to: found-magic
@@ -37,3 +46,6 @@ placement_history:
   to: attic-talismans
   reason: 'Split of Found magic at ten (phonemsg-01M4KFBY8W7A8EP5Q8AW9DKRG7). A broken sword that turns out to be magic: the
     artifact is the way in.'
+- date: '2026-11-03'
+  reason: '11j completeness fix from queue row MC04665 (Forged in Fire): the ISFDB series record (29561) lists five novels; added Forged
+    in Fire (2012), Night Terrors (2016, Wordfire) and Rainbow Brigade (2020) to the existing series card. Series card, rule 11j.'
