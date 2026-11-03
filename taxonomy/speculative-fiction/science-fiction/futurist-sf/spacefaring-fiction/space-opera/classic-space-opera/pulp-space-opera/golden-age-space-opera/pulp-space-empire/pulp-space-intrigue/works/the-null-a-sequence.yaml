@@ -1,0 +1,45 @@
+id: the-null-a-sequence
+title: The Null-A Sequence
+authors:
+- A. E. van Vogt
+- John C. Wright
+first_published: 1948
+canonical_genre: pulp-space-intrigue
+placement_status: accepted
+placement_rationale: 'One shared universe across authors (curator directive 2026-10-30, phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX):
+  van Vogt''s original-wave Null-A sequence - The World of Null-A (serial 1945, book 1948), The Pawns of Null-A (1956; also
+  printed as The Players of Null-A), Null-A Three (1984) - plus John C. Wright''s authorized continuation Null-A Continuum
+  (2008, ''in the style of van Vogt'', Wikipedia), one Gilbert Gosseyn story. The engine is the galactic power struggle around
+  the Games fought with schemes, not fleets: manufactured identities, hidden agents of the Greatest Empire, state manhunts
+  across Venus and Earth, conspiracy within conspiracy - the pulp-space-intrigue gate verbatim (''the fight is fought with
+  schemes: feuds, diplomacy, espionage and state manhunts rather than fleets''); remove the rival-power structure and the
+  plot collapses (Empire, not Odyssey). Walk: Science fiction > Futurist SF > Spacefaring fiction > Space opera > Classic
+  space opera > Pulp space opera > Golden age space opera > Pulp space empire > Pulp space intrigue. Era gate read per main''s
+  2026-11-03 doctrine: the fiction IS the original pulp wave; the 2008 authorized continuation is a later annex in the same
+  mode, disclosed as a wobble rather than disqualifying the whole fiction by publication year. Wobble disclosed: Gosseyn''s
+  psi-grade extra brain is toolset, not governing mode. Queue-year note: MC04692 lists 2015 (reprint); Continuum first published
+  Tor 2008 (SFE).'
+books:
+- title: The World of Null-A
+  year: 1948
+  cover_url: cover-null-a-seq-1.jpg
+- title: The Pawns of Null-A
+  year: 1956
+  cover_url: cover-null-a-seq-2.jpg
+- title: Null-A Three
+  year: 1984
+  cover_url: cover-null-a-seq-3.jpg
+- title: Null-A Continuum
+  year: 2008
+  cover_url: cover-null-a-seq-4.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-null-a-seq-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids the-world-of-null-a, the-pawns-of-null-a, null-a-three, MC04692)
+placement_history:
+- date: '2026-11-03'
+  to: pulp-space-intrigue
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
