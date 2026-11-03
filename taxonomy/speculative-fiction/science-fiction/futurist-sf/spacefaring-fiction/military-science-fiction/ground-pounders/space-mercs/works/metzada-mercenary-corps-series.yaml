@@ -1,0 +1,38 @@
+id: metzada-mercenary-corps-series
+title: Metzada Mercenary Corps series
+authors:
+- Joel Rosenberg
+first_published: 1984
+canonical_genre: space-mercs
+placement_status: accepted
+placement_rationale: 'Rosenberg''s Thousand Worlds universe (ISFDB series 4301 Metzada Mercenary Corps; Wikipedia bibliography):
+  Ties of Blood and Silver (1984, thief tale on Oroga) and Emile and the Dutchman (1986, Contact Service episodes) establish
+  the universe; Not for Glory (1988) and Hero (1990) follow the Metzadan Mercenary Corps itself, a hired regiment selling
+  ground war to whoever pays (Signet jacket: ''In the wars of other worlds, killing was their business''). Walk: Science fiction
+  > Futurist > Spacefaring fiction > Military SF > Ground-pounders > Space mercs (hired unit, contract and pay drive the story).
+  Not Space marine corps (no state Corps), not Alien-war grunts (a job for a paymaster, not a grim species war). Whole fiction
+  judged by its governing merc mode (11j); Ties enters as a completeness volume. Wobble low.'
+books:
+- title: Ties of Blood and Silver
+  year: 1984
+  cover_url: cover-ties-of-blood-and-silver.jpg
+- title: Emile and the Dutchman
+  year: 1986
+  cover_url: cover-emile-and-the-dutchman.jpg
+- title: Not for Glory
+  year: 1988
+  cover_url: cover-not-for-glory.jpg
+- title: Hero
+  year: 1990
+  cover_url: cover-hero.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-ties-of-blood-and-silver.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04659, MC04660, MC04661; Ties of Blood and Silver completeness volume)
+placement_history:
+- date: '2026-11-03'
+  to: space-mercs
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
