@@ -3,7 +3,7 @@ title: The Thick and the Lean
 authors:
 - Chana Porter
 first_published: 2023
-canonical_genre: space-dystopias
+canonical_genre: planetary-dystopias
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction -> Science fiction -> Futurist -> Spacefaring fiction -> Space dystopias. Human colony on an alien two-moon planet:
   religious and corporate purity culture makes eating taboo, appetite pills and implants police bodies, and class/caste structure constrains chef and cyberthief.
@@ -23,3 +23,7 @@ cover_curation:
 placement_walk: Speculative fiction {Fantasy, Science fiction} -> Science fiction {Historical, Futurist, Modern day, Atemporal} -> Futurist {Hard sci-fi, Future of
   Earth fiction, Spacefaring fiction, Alien fiction, Otherworldly fiction} -> Spacefaring fiction {Classic space opera, Military science fiction, New space opera,
   Future history in space, Space techno fiction, Generation starships, Space dystopias, Space colonies} -> Space dystopias
+placement_history:
+- date: '2026-11-03'
+  to: planetary-dystopias
+  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, 2026-11-03): the oppressive order is housed on a world surface.'

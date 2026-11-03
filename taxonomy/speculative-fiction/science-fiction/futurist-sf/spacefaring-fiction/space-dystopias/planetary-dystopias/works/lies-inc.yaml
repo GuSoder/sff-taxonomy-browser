@@ -3,7 +3,7 @@ title: Lies, Inc.
 authors:
 - Philip K. Dick
 first_published: 1966
-canonical_genre: space-dystopias
+canonical_genre: planetary-dystopias
 placement_status: accepted
 placement_rationale: 'Philip K. Dick''s The Unteleported Man (1966, novella 1964; expanded as Lies, Inc., the queue''s row;
   Wikipedia): teleportation (''telpor'') has made spaceships obsolete, forty million people have been sent one way to the
@@ -26,6 +26,9 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC07767)
 placement_history:
+- date: '2026-11-03'
+  to: planetary-dystopias
+  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, 2026-11-03): the oppressive order is housed on a world surface.'
 - date: '2026-10-04'
   to: space-dystopias
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

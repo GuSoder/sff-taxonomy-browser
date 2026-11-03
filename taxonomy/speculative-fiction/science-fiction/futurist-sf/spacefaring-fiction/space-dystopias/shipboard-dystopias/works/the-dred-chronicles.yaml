@@ -3,7 +3,7 @@ title: The Dred Chronicles
 authors:
 - Ann Aguirre
 first_published: 2013
-canonical_genre: space-dystopias
+canonical_genre: shipboard-dystopias
 placement_status: accepted
 placement_rationale: 'Dred Chronicles: prison-ship city Perdition ruled by inmates; closed oppressive off-Earth society.'
 books:
@@ -24,6 +24,9 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC00680, MC00678, MC00674)
 placement_history:
+- date: '2026-11-03'
+  to: shipboard-dystopias
+  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, 2026-11-03): the oppressive order is housed inside a vessel.'
 - date: '2026-10-04'
   to: space-dystopias
   reason: 'Intake from the 10k list: placed by a root-down walk and moved from the staging overlay into the live tree (curator

@@ -3,7 +3,7 @@ title: Red Rising
 authors:
 - Pierce Brown
 first_published: 2014
-canonical_genre: space-dystopias
+canonical_genre: planetary-dystopias
 placement_status: accepted
 placement_rationale: 'Root-down traversal: Speculative fiction -> Science fiction
   -> Futurist -> Spacefaring fiction, because the story begins on Mars and expands
@@ -43,3 +43,7 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-20'
   review_method: one-pass exact-title review
+placement_history:
+- date: '2026-11-03'
+  to: planetary-dystopias
+  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, 2026-11-03): the oppressive order is housed on a world surface.'

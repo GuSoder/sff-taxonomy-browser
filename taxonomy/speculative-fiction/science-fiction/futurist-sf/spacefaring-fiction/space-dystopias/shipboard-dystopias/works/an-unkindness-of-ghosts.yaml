@@ -3,7 +3,7 @@ title: An Unkindness of Ghosts
 authors:
 - Rivers Solomon
 first_published: 2017
-canonical_genre: space-dystopias
+canonical_genre: shipboard-dystopias
 placement_status: accepted
 placement_rationale: SFE and Akashic set the novel aboard the multigenerational starship
   Matilda, but the defining engine is its brutal, racially stratified slavery regime;
@@ -18,3 +18,7 @@ cover_curation:
   selected_url: https://www.akashicbooks.com/uploads/UnkindnessofGhosts-509x800.jpg
   shows_english_title: true
   review_method: one-pass official publisher
+placement_history:
+- date: '2026-11-03'
+  to: shipboard-dystopias
+  reason: 'Re-walked root-down in the Space dystopias split (hull vs surface axis; curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, 2026-11-03): the oppressive order is housed inside a vessel.'

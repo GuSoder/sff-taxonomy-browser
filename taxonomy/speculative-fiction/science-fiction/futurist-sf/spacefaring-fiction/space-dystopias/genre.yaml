@@ -1,17 +1,10 @@
 id: space-dystopias
 label: Space dystopias
 parent: spacefaring-fiction
-children: []
+children:
+- shipboard-dystopias
+- planetary-dystopias
 image: 153-space-dystopias.webp
-definition: 'Spacefaring human futures where the social order itself is the horror: closed, oppressive societies off Earth.'
+definition: 'Spacefaring human futures where the social order itself is the horror: closed, oppressive societies off Earth. Umbrella since 2026-11-03: split-with-umbrella into Shipboard dystopias and Planetary dystopias by where the oppressive order is housed - hull vs surface (curator "Approved" (phonemsg-01M6G08HR34RJ3N23TD9A0TZP6, 2026-11-03 7:06 AM CET) over the posted split; the names are the proposed ones he approved).'
 status: accepted
-works:
-- red-rising
-- a-time-of-changes
-- an-unkindness-of-ghosts
-- dead-souls
-- the-thick-and-the-lean
-- the-dred-chronicles
-- fortress-sol
-- the-last-contract-of-isako
-- lies-inc
+works: []
