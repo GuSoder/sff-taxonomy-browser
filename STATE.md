@@ -1559,3 +1559,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-03 MC04675 After America + MC04676 Angels of Vengeance — already_in_tree
 - The Disappearance card at alt-present holds all 3 series books (Without Warning 2008/9, After America 2010, Angels of Vengeance 2012; PRH series page + FictionDB confirm 3-book series). No gap. Tsv-only change.
+
+## 2026-11-03 Thousand Cultures moved: copied-minds -> post-scarcity-politics
+- Trigger: main's whole-fiction challenge on the MC04671 completeness walk. Grounding: AMOD = springer-contact culture clash on Wilson/Nansen, no mind-copying (Kirkus, Wikipedia, Reactor, finfar.org); EMoG = Briand diplomacy/disaster, no mind-copying (ISFDB flap synopsis); psypyx copied-minds content confined to books 3-4 (TMoS Kirkus + christian-sauve + Prometheus reviews; TAoM per series arc). Future-of-earth ancestor fails for books 1-2 (no Earth at all).
+- Whole-fiction governing mode: post-scarcity Council of Humanity intervenes in isolated cultures; moral authority + collective choice (reunion by force, psypyx vote, invasion unity) under material abundance. Tenant parallel: Banks's Culture. Wobble disclosed: social-manners register vs space-opera ancestor.
+- copied-minds 9->8 cards, post-scarcity-politics 1->2. Cards 2,669 / books 6,193 unchanged. verify_local green.
