@@ -1556,3 +1556,6 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-03 MC04673 The Merchants of Souls — already_in_tree
 - Owned by the Thousand Cultures card at copied-minds (book 3; intake id MC04673 already on the card). Tsv-only change.
+
+## 2026-11-03 MC04675 After America + MC04676 Angels of Vengeance — already_in_tree
+- The Disappearance card at alt-present holds all 3 series books (Without Warning 2008/9, After America 2010, Angels of Vengeance 2012; PRH series page + FictionDB confirm 3-book series). No gap. Tsv-only change.
