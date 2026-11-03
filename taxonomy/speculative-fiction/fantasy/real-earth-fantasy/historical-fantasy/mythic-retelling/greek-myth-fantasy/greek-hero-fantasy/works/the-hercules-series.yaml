@@ -1,0 +1,36 @@
+id: the-hercules-series
+title: The Hercules series
+authors:
+- John Gregory Betancourt
+first_published: 1997
+canonical_genre: greek-hero-fantasy
+placement_status: accepted
+placement_rationale: 'Betancourt''s three-novel Hercules (Tor, 1997-2001; ISFDB series 5078): The Wrath of Poseidon (1997-06,
+  Tor pb 0-812-53910-9), The Vengeance of Hera (1997), The Gates of Hades (2001). New adventures of Heracles and Atalanta
+  sailing with Jason and the Argonauts - sea monsters at Troy, a cyclops and Hera''s flying myserae, the descent to Hades
+  - with the gods'' debts and vendettas driving the plot (detailed per-book accounts at gwthomas.org/john-gregory-betancourts-hercules/,
+  including the author''s own series history). Greek hero fantasy''s gate exactly: the heroes and their cycles retold - ''Heracles
+  and his labors'', and here the Argonaut cycle. Queue row MC04722 (''Hercules'', 2013) is the Tor ebook reissue of book 1
+  (ISBN 978-1-4668-5385-0, ISFDB pub 786978, 2013-09-24); the fiction is the whole trilogy, first published 1997. Not the
+  Hercules: The Legendary Journeys TV tie-ins (those are by Timothy Boggs and others).'
+books:
+- title: The Wrath of Poseidon
+  year: 1997
+  cover_url: cover-the-hercules-series-1.jpg
+- title: The Vengeance of Hera
+  year: 1997
+  cover_url: cover-the-hercules-series-2.jpg
+- title: The Gates of Hades
+  year: 2001
+  cover_url: cover-the-hercules-series-3.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-hercules-series-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04722, the-vengeance-of-hera, the-gates-of-hades)
+placement_history:
+- date: '2026-11-03'
+  to: greek-hero-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
