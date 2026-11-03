@@ -2,13 +2,19 @@ id: thousand-cultures
 title: Thousand Cultures
 authors:
 - John Barnes
-first_published: 2001
+first_published: 1992
 canonical_genre: copied-minds
 placement_status: accepted
 placement_rationale: Giraut Leones, an agent of the Office of Special Projects, works a far future where personalities are
   recorded into psypyxes and aintellects blur human and machine mind; the books turn on who may copy, trade and entertain
   themselves with recorded souls. Copied minds and rewritten identity are the Remade minds gate.
 books:
+- title: A Million Open Doors
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/603277-L.jpg
+- title: Earth Made of Glass
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/182486-L.jpg
 - title: The Merchants of Souls
   year: 2001
   cover_url: https://covers.openlibrary.org/b/id/183663-L.jpg
@@ -31,3 +37,8 @@ placement_history:
   reason: Split of Remade minds by what happens to the mind; re-walked root-down into Copied minds (curator "Approved" (phonemsg-01M466ZJ4DM0JQCFBKZR8K3R1X,
     2026-10-05 4:20 PM)).
   from: remade-minds
+- date: '2026-11-03'
+  reason: '11j completeness from queue row MC04671 (The Armies of Memory): recheck against the ISFDB series record (Thousand
+    Cultures, 750) showed four novels; added book 1, A Million Open Doors (1992), and book 2, Earth Made of Glass (1998),
+    and corrected first_published to 1992. The two series shorts (Canso de Fis de Jovent, The Little White Nerves Went
+    Last) stay excluded under the no-shorts rule. Placement unchanged.'
