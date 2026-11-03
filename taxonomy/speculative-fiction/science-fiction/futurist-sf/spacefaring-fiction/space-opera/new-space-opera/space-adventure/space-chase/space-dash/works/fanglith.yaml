@@ -1,0 +1,33 @@
+id: fanglith
+title: Fanglith
+authors:
+- John Dalmas
+first_published: 1985
+canonical_genre: space-dash
+placement_status: accepted
+placement_rationale: 'Prey-side pursuit across both volumes. In Fanglith (1985) a family of political refugees fleeing the
+  Empire of Human Worlds'' Thought Police is stranded on ''the galaxy''s most barbaric planet'' - revealed to the reader as
+  11th-century Earth - and the children, with the ship''s computer and a telepathic wolf, must save their parents from the
+  pursuers (baen.com/fanglith.html). In Return to Fanglith (1987) the Empire''s fleets reconquer the colony planets and Larn
+  and Deneen must again flee their home and establish a rebel base (worldswithoutend.com synopsis). Flight, hiding and staying
+  ahead of imperial pursuit drive both books - the leaf''s guarded-family-on-the-run mode verbatim; the medieval-Earth venue
+  is the stage, not the mode (SFE dalmas_john: Dalmas transforms space-opera venues into arenas where ironies have free play).
+  Tenant precedent: A Roil of Stars (Baen 1991, same fugitive-between-empires profile).'
+books:
+- title: Fanglith
+  year: 1985
+  cover_url: cover-fanglith-1.jpg
+- title: Return to Fanglith
+  year: 1987
+  cover_url: cover-fanglith-2.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-fanglith-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC04706, return-to-fanglith)
+placement_history:
+- date: '2026-11-03'
+  to: space-dash
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
