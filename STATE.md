@@ -1610,3 +1610,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Walk: SFE aboutness - five schoolchildren at a Welsh boarding school are gods of Greek/Titan blood imprisoned by the Olympian order; fully released each commands a unique alternate cosmos; war in heaven between ultimate Order and Chaos; mode "shifts between heroic fantasy and space opera" (sf-encyclopedia.com/entry/wright_john_c). Fit: modern-greek-myth gate ("powers and bloodlines of Greek myth remain active within ordinary present-day life"); umbrella's Not-Mythic-retelling line respected (original story, not a retold named myth). Wobble disclosed: final volume escalates to cosmic space-opera-vocabulary war; present-day Earth frame holds. Leaf 4->5.
 - Covers: 3 distinct verified English Tor print jackets localized (Amazon P-pattern: 0765311313, 0765314967, 076531648X; Titans jacket confirms series name "The fantastic climax of The Chronicles of Chaos"). Visually reviewed all 3.
 - 2,672 cards / 6,206 books. Cursor next: MC04692 Null-A Continuum, then MC04694-97 already_in_tree (Eschaton card).
+
+## 2026-11-03 Placed: Null-A Continuum -> retro-space-opera (MC04692)
+- Singleton (1 book), John C. Wright, first pub Tor 2008 (queue row 2015 = reprint; SFE). Continuation of van Vogt's Null-A sequence, deliberate golden-age pulp mode in 2008 = the retro-space-opera gate verbatim ("twenty-first-century space opera that deliberately looks backward"). Rejected: golden-age (era-bound), psionics (Earth-gated; Null-A is interstellar). Leaf 5->6.
+- Cover: verified English Tor print jacket localized (Amazon 0765316293, Sci Fi Essential edition), visually reviewed.
+- 2,673 cards / 6,207 books.
