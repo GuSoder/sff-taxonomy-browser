@@ -1,0 +1,37 @@
+id: cry-pilot-trilogy
+title: Cry Pilot trilogy
+authors:
+- Joel Dane
+first_published: 2019
+canonical_genre: future-war
+placement_status: accepted
+placement_rationale: 'Javelin squad''s war against unknown biomechanical horrors (Remorts/lampreys) boiling out of the terrafixing,
+  fought on a future Earth of megacities and corporate military with CAV machines and expendable cry pilots - war transformed
+  by technology, fought on Earth (future war). Re-walked 2026-11-03 after the Spacefaring ancestor gate was challenged: the
+  fiction is fundamentally about Earth''s repair and defense, not travel, settlement, conflict or civilization beyond Earth
+  (Kill Orbit''s single off-world mission is one excursion in the final volume).'
+books:
+- title: Cry Pilot
+  year: 2019
+  cover_url: cover-cry-pilot.jpg
+- title: Burn Cycle
+  year: 2020
+  cover_url: cover-burn-cycle.jpg
+- title: Kill Orbit
+  year: 2020
+  cover_url: cover-kill-orbit.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-cry-pilot.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids cry-pilot, burn-cycle, kill-orbit)
+placement_history:
+- date: '2026-11-03'
+  to: alien-war-grunts
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-03'
+  to: future-war
+  reason: 'Moved after main challenged the Spacefaring ancestor fit: books 1-2 are Earthbound and the war originates on Earth;
+    root boundaries beat the fitting military leaf.'
