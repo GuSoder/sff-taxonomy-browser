@@ -1,0 +1,40 @@
+id: the-arne-haugen-universe
+title: The Arne Haugen universe
+authors:
+- John Dalmas
+first_published: 1988
+canonical_genre: alt-present
+placement_status: accepted
+placement_rationale: 'One branched timeline, two novels. The author''s foreword to The Puppet Master declares the stories
+  are set in a time line that branched from ours sometime after World War Two, transformed by the geogravitic power converter
+  and ''the new physics'' - and the GPC is Arne Haugen''s own Duluth Technologies invention in The General''s President (1988),
+  whose 1994 story world already diverges from known history (the USSR extant, Gorbachev dead in office, scalar-resonance
+  weather weapons; prologue framed as a 2034 history textbook). The General''s President gives the altered near-present''s
+  political origin; The Puppet Master (2001) works its street level, PI Martti Seppanen solving crimes in a tech-transformed
+  Los Angeles (Baen copy). Altered near-presents, not a named period: alt-present; the branch (post-WWII) lies within living
+  memory of both story presents, satisfying Period alterations. ISFDB groups the universe as ''Arne Haugen'' (genuine shared
+  continuity, confirmed from the foreword); SFE''s singleton listing is publication form. The Baen 2001 Puppet Master volume
+  also contains two Seppanen shorts (A Most Singular Murder, The Case of the Duplicate Beauties), excluded from the card per
+  the shorts rule.'
+books:
+- title: The General's President
+  year: 1988
+  cover_url: cover-the-arne-haugen-universe-1.jpg
+- title: The Puppet Master
+  year: 2001
+  cover_url: cover-the-puppet-master-1.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-the-arne-haugen-universe-1.jpg
+  visually_reviewed_on: '2026-11-03'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue id MC04716; The General's President added for universe completeness)
+placement_history:
+- date: '2026-11-03'
+  to: alt-present
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-03'
+  to: alt-present
+  reason: Reworked from standalone the-puppet-master card after shared continuity with The General's President was established
+    from the volume foreword (geogravitic power converter).
