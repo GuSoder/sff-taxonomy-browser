@@ -1547,3 +1547,6 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 ## 2026-11-03 MC04667 Daybreak Zero + MC04668 Directive 51 + MC04672 The Last President — already_in_tree
 - All three owned by the Daybreak trilogy card at chemical-catastrophe; all three ISFDB series-28030 volumes present, no completeness gap. Tsv-only change, no tree change.
 - Cursor: MC04670 Mother of Storms (own card at rain-drowned-worlds; verify) and MC04671 The Armies of Memory (Thousand Cultures card at copied-minds lists only Merchants of Souls + Armies of Memory — check ISFDB whether A Million Open Doors / Earth Made of Glass are missing = likely 11j completeness fix).
+
+## 2026-11-03 MC04670 Mother of Storms — already_in_tree
+- Standalone (1994), own card at rain-drowned-worlds, intake id MC04670 already on the card; no gap. Tsv-only change.
