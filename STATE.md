@@ -1713,3 +1713,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-04 Audit The Spare Man -> Comic space fiction10, FROZEN
 - Own-call single fiction move on actual author murder-comedy account plus independent reviews. Space techno9 unfreezes; Comic10 frozen. Space PI blocked by its settlement ancestor: all action aboard transient cruise liner. No definition changed. Bill whole-series completeness/time-travel issue uncovered during mandatory split audit, pending source-grounded resolution before serving a forced split.
+
+
+## 2026-11-04 Bill whole-fiction completeness and explicit exception
+The curator kept the entire seven-novel fiction in Comic space fiction as an explicit exception to the any-time-travel rule: "If it’s not until book six I think the time travel browsers will be annoyed by five books of his comic stuff" (phonemsg-01M6KEGWWB8QRRQ7H8MJ0GRZJC), then "keep" (phonemsg-01M6KEHW5PZSP7DCECBYK0HFBC, 2026-11-04 15:14 CET). Proposed Time door widening dropped; no definition changed.
+- Expanded1 ->7 novels, six books added, no fiction count change. All7 English jackets inspected/localized. Comic space fiction remains10 FROZEN, next single decision is its actual-content split; noMC04762 before decision/live closeout.

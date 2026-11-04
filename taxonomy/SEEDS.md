@@ -86,3 +86,7 @@ Under Earthly comic fantasy (Folktale), for Slayers of Old. Full walk found no h
 
 ## Space psychological SF declined (2026-11-04)
 The curator declined a proposed new Spacefaring child for Planetfall: "Nah, no new lvl 3 seed just for this" (phonemsg-01M6KDBRD4JPSB0RCST9HNZW0V). No seed created. Whole four-book fiction retained in Surface colony life as its least-distorting existing home, with Earthbound After Atlas and shipboard Atlas Alone explicitly recorded as substantial straddles. No definitions widened. The rejection is not permission for future level-3 seeds of this shape.
+
+
+## Time door widening withdrawn (2026-11-04)
+The curator kept the entire seven-novel fiction in Comic space fiction as an explicit exception to the any-time-travel rule: "If it’s not until book six I think the time travel browsers will be annoyed by five books of his comic stuff" (phonemsg-01M6KEGWWB8QRRQ7H8MJ0GRZJC), then "keep" (phonemsg-01M6KEHW5PZSP7DCECBYK0HFBC, 2026-11-04 15:14 CET). Proposed Time door widening dropped; no definition changed.
