@@ -1698,3 +1698,6 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-04 Placed The Dragon Waiting (MC04758) -> Alt Renaissance fantasy (3)
 - 1983 standalone, John M. Ford. Openly alternate Renaissance Europe, magical/vampire machinery sustaining Byzantine expansion; not crusading Christendom, not a horror engine. Sources: Wikipedia, Reactor Jo Walton review, Locus Paul Di Filippo review (URLs in work yaml). English Gollancz Fantasy Masterworks reprint jacket, OL380130, inspected and localized. Next MC04759.
+
+## 2026-11-04 Placed The Last Hot Time (MC04759) -> Big-city fae (9)
+- Ford standalone, December 2000 (ISFDB); 2001 queue date is edition. MC04763 2025 reprint marked already_in_tree. Modern Chicago with gangster-era aesthetics, not actual historical setting (WELL author interview); returned Faerie society and exiled elves shape urban institutions. Borderworld wobble disclosed, no many-world/crossing itinerary established. English Tor jacket OL182420 inspected and localized. Sources in yaml. Next MC04760 The Scholars of Night. Big-city fae now on freeze-watch at 9.
