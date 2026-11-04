@@ -82,3 +82,7 @@ Approved phonemsg-01M66CBRKJ52Z51K11KQX891ZD on proposal phonemsg-01M66C9BDQQSDV
 
 ## Parody fantasy (seeded 2026-11-02)
 Under Earthly comic fantasy (Folktale), for Slayers of Old. Full walk found no honest leaf (all four siblings fail on frame; urban fantasy line fails on engine). The honest slot is the Earth-side counterpart of Parody realms ("the genre's own furniture"), not an age-based singleton - carve widened from the seed's premise (retired Chosen Ones) to Earth-set trope parody/homage per the Body swap doctrine. Comedy-as-governing-engine evidence from reviews, not marketing (psillustrated "obvious homage", booksbonesbuffy "humor galore", WSJ via PRH). Ceiling today: one fiction; single-card leaves legal. Curator Approved phonemsg-01M6DXPT3F6ZNZXEKTA0Y72HR6 on proposal phonemsg-01M6DPTVV1QYVD7142SHZ5QTDH.
+
+
+## Space psychological SF declined (2026-11-04)
+The curator declined a proposed new Spacefaring child for Planetfall: "Nah, no new lvl 3 seed just for this" (phonemsg-01M6KDBRD4JPSB0RCST9HNZW0V). No seed created. Whole four-book fiction retained in Surface colony life as its least-distorting existing home, with Earthbound After Atlas and shipboard Atlas Alone explicitly recorded as substantial straddles. No definitions widened. The rejection is not permission for future level-3 seeds of this shape.
