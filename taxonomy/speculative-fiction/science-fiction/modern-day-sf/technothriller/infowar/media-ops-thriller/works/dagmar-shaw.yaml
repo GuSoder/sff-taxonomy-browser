@@ -1,0 +1,44 @@
+id: dagmar-shaw
+title: Dagmar Shaw
+authors:
+- Walter Jon Williams
+first_published: 2009
+canonical_genre: media-ops-thriller
+placement_status: accepted
+placement_rationale: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+  > Infowar > Media ops thriller. The whole Dagmar Shaw fiction turns games, crowds and participatory narratives
+  into tools for changing events and public behaviour. The inherited thriller is organized around technically mediated
+  control of what is known and believed; the decisive information mechanism selects this leaf over its siblings.
+  Series stays whole. Source read: https://www.walterjonwilliams.net/books/this-is-not-a-game.'
+books:
+- title: This Is Not a Game
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/10657015-L.jpg
+- title: Deep State
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/10657015-L.jpg
+- title: The Fourth Wall
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/10657015-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10657015-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC00165, MC00040, MC00149)
+placement_history:
+- date: '2026-10-04'
+  to: infowar
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-04'
+  from: infowar
+  to: media-ops-thriller
+  reason: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+    > Infowar > Media ops thriller. The whole Dagmar Shaw fiction turns games, crowds and participatory narratives
+    into tools for changing events and public behaviour. The inherited thriller is organized around technically
+    mediated control of what is known and believed; the decisive information mechanism selects this leaf over its
+    siblings. Series stays whole. Source read: https://www.walterjonwilliams.net/books/this-is-not-a-game. Infowar
+    split at ten fictions by the information mechanism, with the original retained as umbrella. The curator supplied
+    the shorter names Crypto thriller, Surveil thriller, Media ops thriller in reply to the served split (phonemsg-01M6KCKZSWFQ73YGEG6KHV04GF,
+    2026-11-04 14:40 CET).'

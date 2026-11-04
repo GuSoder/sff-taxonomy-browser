@@ -1,0 +1,38 @@
+id: zeroes
+title: Zeroes
+authors:
+- Chuck Wendig
+first_published: 2015
+canonical_genre: surveil-thriller
+placement_status: accepted
+placement_rationale: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+  > Infowar > Surveil thriller. Hackers are drawn into a secret surveillance programme whose artificial intelligence
+  gathers information and exerts control. The inherited thriller is organized around technically mediated control
+  of what is known and believed; the decisive information mechanism selects this leaf over its siblings. Series
+  stays whole. Source read: https://www.kirkusreviews.com/book-reviews/chuck-wendig/zer0es/.'
+classification_sources:
+- https://www.harpercollins.com/products/zer0es-chuck-wendig
+- https://www.kirkusreviews.com/book-reviews/chuck-wendig/zer0es/
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/id/8598428-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-10-17'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-10-17'
+  to: infowar
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M54NW04SEYDB64EDSQHK8438).
+    Queue id MC01847.'
+- date: '2026-11-04'
+  from: infowar
+  to: surveil-thriller
+  reason: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+    > Infowar > Surveil thriller. Hackers are drawn into a secret surveillance programme whose artificial intelligence
+    gathers information and exerts control. The inherited thriller is organized around technically mediated control
+    of what is known and believed; the decisive information mechanism selects this leaf over its siblings. Series
+    stays whole. Source read: https://www.kirkusreviews.com/book-reviews/chuck-wendig/zer0es/. Infowar split at
+    ten fictions by the information mechanism, with the original retained as umbrella. The curator supplied the
+    shorter names Crypto thriller, Surveil thriller, Media ops thriller in reply to the served split (phonemsg-01M6KCKZSWFQ73YGEG6KHV04GF,
+    2026-11-04 14:40 CET).'

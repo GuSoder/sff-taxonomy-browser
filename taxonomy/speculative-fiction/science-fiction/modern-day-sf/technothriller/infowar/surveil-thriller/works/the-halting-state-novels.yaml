@@ -1,0 +1,43 @@
+id: the-halting-state-novels
+title: The Halting State novels
+authors:
+- Charles Stross
+first_published: 2007
+canonical_genre: surveil-thriller
+placement_status: accepted
+placement_rationale: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+  > Infowar > Surveil thriller. Halting State and Rule 34 stay one fiction: network crime and espionage in the first,
+  profiling and behavioural manipulation by AI in the second. Wobble substantial: the first also fits compromised-information
+  crime, but the whole-fiction monitoring and profiling mechanism selects Surveil thriller. The inherited thriller
+  is organized around technically mediated control of what is known and believed; the decisive information mechanism
+  selects this leaf over its siblings. Series stays whole. Source read: https://crookedtimber.org/2012/03/07/nudge-science-fiction-ii-charles-strosss-rule-34/.'
+books:
+- title: Halting State
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/5541286-L.jpg
+- title: Rule 34
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/11701742-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/5541286-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01604, MC01609)
+placement_history:
+- date: '2026-10-04'
+  to: infowar
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-04'
+  from: infowar
+  to: surveil-thriller
+  reason: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+    > Infowar > Surveil thriller. Halting State and Rule 34 stay one fiction: network crime and espionage in the
+    first, profiling and behavioural manipulation by AI in the second. Wobble substantial: the first also fits compromised-information
+    crime, but the whole-fiction monitoring and profiling mechanism selects Surveil thriller. The inherited thriller
+    is organized around technically mediated control of what is known and believed; the decisive information mechanism
+    selects this leaf over its siblings. Series stays whole. Source read: https://crookedtimber.org/2012/03/07/nudge-science-fiction-ii-charles-strosss-rule-34/.
+    Infowar split at ten fictions by the information mechanism, with the original retained as umbrella. The curator
+    supplied the shorter names Crypto thriller, Surveil thriller, Media ops thriller in reply to the served split
+    (phonemsg-01M6KCKZSWFQ73YGEG6KHV04GF, 2026-11-04 14:40 CET).'

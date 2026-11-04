@@ -1,0 +1,39 @@
+id: pattern-recognition
+title: Pattern Recognition
+authors:
+- William Gibson
+first_published: 2003
+canonical_genre: media-ops-thriller
+placement_status: accepted
+placement_rationale: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+  > Infowar > Media ops thriller. The investigation, viral circulation and commercial appropriation of mysterious
+  online footage make media the decisive mechanism. Wobble: the protagonist investigates the footage rather than
+  manufacturing propaganda. The inherited thriller is organized around technically mediated control of what is known
+  and believed; the decisive information mechanism selects this leaf over its siblings. Series stays whole. Source
+  read: https://www.penguinrandomhouse.com/books/289017/pattern-recognition-by-william-gibson/.'
+books:
+- title: Pattern Recognition
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/7997178-L.jpg
+cover_curation:
+  selected_url: https://covers.openlibrary.org/b/id/7997178-L.jpg
+  shows_english_title: true
+provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
+placement_history:
+- date: '2026-10-06'
+  reason: Split of Technothriller by the thriller engine; re-walked root-down into Infowar (curator "Approved" (phonemsg-01M48HCXES0WY2S9TMJYHC6PKV,
+    2026-10-06 2:00 PM; names workshopped in his messages 1:36-2:00 PM, parent word dropped by his own ruling)).
+  from: technothriller
+  to: infowar
+- date: '2026-11-04'
+  from: infowar
+  to: media-ops-thriller
+  reason: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+    > Infowar > Media ops thriller. The investigation, viral circulation and commercial appropriation of mysterious
+    online footage make media the decisive mechanism. Wobble: the protagonist investigates the footage rather than
+    manufacturing propaganda. The inherited thriller is organized around technically mediated control of what is
+    known and believed; the decisive information mechanism selects this leaf over its siblings. Series stays whole.
+    Source read: https://www.penguinrandomhouse.com/books/289017/pattern-recognition-by-william-gibson/. Infowar
+    split at ten fictions by the information mechanism, with the original retained as umbrella. The curator supplied
+    the shorter names Crypto thriller, Surveil thriller, Media ops thriller in reply to the served split (phonemsg-01M6KCKZSWFQ73YGEG6KHV04GF,
+    2026-11-04 14:40 CET).'

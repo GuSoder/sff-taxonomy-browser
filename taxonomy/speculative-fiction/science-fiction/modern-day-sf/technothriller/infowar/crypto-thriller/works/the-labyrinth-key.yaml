@@ -1,0 +1,41 @@
+id: the-labyrinth-key
+title: The Labyrinth Key
+authors:
+- Howard V. Hendrix
+first_published: 2004
+canonical_genre: crypto-thriller
+placement_status: accepted
+placement_rationale: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+  > Infowar > Crypto thriller. The shared fiction, including Spears of God, centers a quantum cryptographic arms
+  race and access to secrets. The inherited thriller is organized around technically mediated control of what is
+  known and believed; the decisive information mechanism selects this leaf over its siblings. Series stays whole.
+  Source read: https://www.penguinrandomhouse.com/books/78517/the-labyrinth-key-by-howard-hendrix/.'
+books:
+- title: The Labyrinth Key
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/210737-L.jpg
+- title: Spears of God
+  year: 2006
+  cover_url: https://images.penguinrandomhouse.com/cover/9780345495488
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/210737-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03871, MC03863)
+placement_history:
+- date: '2026-10-04'
+  to: infowar
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-04'
+  from: infowar
+  to: crypto-thriller
+  reason: 'Root-down split walk 2026-11-04: Speculative fiction > Science fiction > Modern day SF > Technothriller
+    > Infowar > Crypto thriller. The shared fiction, including Spears of God, centers a quantum cryptographic arms
+    race and access to secrets. The inherited thriller is organized around technically mediated control of what
+    is known and believed; the decisive information mechanism selects this leaf over its siblings. Series stays
+    whole. Source read: https://www.penguinrandomhouse.com/books/78517/the-labyrinth-key-by-howard-hendrix/. Infowar
+    split at ten fictions by the information mechanism, with the original retained as umbrella. The curator supplied
+    the shorter names Crypto thriller, Surveil thriller, Media ops thriller in reply to the served split (phonemsg-01M6KCKZSWFQ73YGEG6KHV04GF,
+    2026-11-04 14:40 CET).'
