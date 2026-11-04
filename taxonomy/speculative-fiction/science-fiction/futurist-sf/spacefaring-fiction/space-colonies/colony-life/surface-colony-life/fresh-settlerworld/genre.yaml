@@ -1,0 +1,27 @@
+id: fresh-settlerworld
+label: Fresh settlerworld
+parent: surface-colony-life
+children: []
+image: 881-fresh-settlerworld.webp
+portrait: 881-fresh-settlerworld.webp
+definition: 'A newly settled world where the settlers are the only life of their kind: no native people,
+  fauna or prior ruins, and the colony''s daily life is humanity making an empty world home. Covers young
+  roughing-it settlements and long-established lone colonies alike - a four-generation Moon city, a generations-old
+  road society, terraformed Mars. Not Prehabited world (there the world''s own native life shapes colony
+  life), not Space habitat life (the colony is a built habitat in space).'
+status: accepted
+works:
+- desolation-road
+- the-outposter
+- destinys-road
+- the-homecoming-saga
+- mirabile
+- growing-up-weightless
+ruling: Split of Surface colony life at ten cards by whether the world was already lived-in, names coined
+  by the curator ("Prehabited world / Fresh settlerworld", 2026-11-04 1:40:41 PM CET, phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS,
+  after his iterations phonemsg-01M6K8FSE5AGVQYK7YWD1E5BPB, phonemsg-01M6K8NVZ8AEHFW6YGRRCS4HJE, phonemsg-01M6K8T1RGZ48X1V1RSFS22K5W);
+  umbrella kept per the standing default.
+history:
+- date: '2026-11-04'
+  change: Created by the Surface colony life split at ten cards; the curator's own name ("Prehabited world
+    / Fresh settlerworld", phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).

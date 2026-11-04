@@ -1,0 +1,26 @@
+id: prehabited-world
+label: Prehabited world
+parent: surface-colony-life
+children: []
+image: 880-prehabited-world.webp
+portrait: 880-prehabited-world.webp
+definition: 'A colony world that was already lived-in when the settlers came: the world has life of its
+  own - native people, fauna, a working biosphere or the ruins of what came before - and that life shapes
+  the colony''s daily rhythm. The natives can be people, fauna, biosphere or ruins. Not Fresh settlerworld
+  (there the settlers are the world''s only life), not Space habitat life (the colony is a built habitat
+  in space), not Space colony politics (a contest for power drives the story), not Space mystery (a case
+  does).'
+status: accepted
+works:
+- hella
+- remnant-population
+- planetfall
+- the-voices-of-heaven
+ruling: Split of Surface colony life at ten cards by whether the world was already lived-in, names coined
+  by the curator ("Prehabited world / Fresh settlerworld", 2026-11-04 1:40:41 PM CET, phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS,
+  after his iterations phonemsg-01M6K8FSE5AGVQYK7YWD1E5BPB, phonemsg-01M6K8NVZ8AEHFW6YGRRCS4HJE, phonemsg-01M6K8T1RGZ48X1V1RSFS22K5W);
+  umbrella kept per the standing default.
+history:
+- date: '2026-11-04'
+  change: Created by the Surface colony life split at ten cards; the curator's own name ("Prehabited world
+    / Fresh settlerworld", phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).

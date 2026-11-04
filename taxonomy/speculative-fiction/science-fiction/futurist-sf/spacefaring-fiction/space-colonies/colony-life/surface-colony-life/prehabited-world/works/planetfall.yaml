@@ -1,0 +1,62 @@
+id: planetfall
+title: Planetfall
+authors:
+- Emma Newman
+first_published: 2015
+canonical_genre: prehabited-world
+placement_status: accepted
+placement_rationale: 'Penguin: four linked standalones in a world where a genius escapes to the stars.
+  Reactor on book 1: ~1,000 colonists follow Lee Suh-Mi ''in what can best be described as a pilgrimage
+  of faith''; twenty years on, the established colony''s civic life - leadership, printer economy, gates,
+  a newcomer''s arrival - forms the arena, and Before Mars'' Mars-base institutions likewise. Space-colonies
+  def: established off-Earth settlements whose civic life forms the story''s arena. Bend recorded: After
+  Atlas is Earth-bound - the same universe''s Earth half, carried on the series card (the curator''s EXECUTE
+  phonemsg-01M3M8NBMVXJT4096ZBBCN565B after dry-run walk; spaceship-drama set aside on its cozy clause,
+  theological-space-opera a distant third).'
+classification_sources:
+- https://www.penguinrandomhouse.com/series/PN3/a-planetfall-novel/
+- https://www.penguinrandomhouse.com/books/556331/atlas-alone-by-emma-newman/
+cover_curation:
+  status: complete
+  selected_url: https://images4.penguinrandomhouse.com/smedia/9780425282397
+  shows_english_title: true
+  review_method: one-pass official publisher series
+books:
+- title: Planetfall
+  first_published: 2015
+  cover_url: https://images4.penguinrandomhouse.com/smedia/9780425282397
+- title: After Atlas
+  first_published: 2016
+  cover_url: https://images3.penguinrandomhouse.com/smedia/9780425282403
+- title: Before Mars
+  first_published: 2018
+  cover_url: https://images3.penguinrandomhouse.com/smedia/9780399587320
+- title: Atlas Alone
+  first_published: 2019
+  cover_url: https://images2.penguinrandomhouse.com/smedia/9780399587344
+placement_history:
+- date: '2026-09-23'
+  to: alien-delving
+  reason: Mirror sync from live index.html card data; no reclassification.
+- date: '2026-09-28'
+  to: held
+  reason: 'Walk-out from the alien-delving split: never delves (colony/survival engine).'
+- date: '2026-09-28'
+  to: space-colonies
+  reason: 'The curator''s EXECUTE phonemsg-01M3M8NBMVXJT4096ZBBCN565B after destination dry-run: space-colonies
+    over spaceship-drama.'
+- date: '2026-10-05'
+  from: space-colonies
+  to: colony-life
+  reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a
+    case, a struggle for power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR,
+    2026-10-05 7:39 AM; child renamed Space mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+- date: '2026-10-12'
+  from: colony-life
+  to: surface-colony-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval;
+    re-walked: this card sits in Surface colony life.'
+- date: '2026-11-04'
+  to: prehabited-world
+  reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's
+    own names (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).

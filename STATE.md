@@ -1689,3 +1689,9 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Grounding: Kirkus (1993-10-15 release), reactormag.com reread, Tor/Forge excerpt, worldswithoutend. Settled independent Luna, coming-of-age engine (train trip, growing up, father's water symphony); council politics backdrop only. Philip K. Dick Award winner (Tor Essentials jacket). Cover: OL 12565335 (2022 Tor Essentials reprint jacket, genuine English print jacket; rejected OL 7994189 = Bantam title page). Localized cover-growing-up-weightless.jpg.
 - surface-colony-life hits 10 -> FROZEN pending split proposal (intake pauses when served).
 - MC04757 excluded_collection (Heat of Fusion and Other Stories, 2004).
+
+## 2026-11-04 Split: Surface colony life (10) -> Prehabited world (4) / Fresh settlerworld (6), umbrella kept
+- Gustav coined the names himself: "Prehabited world / Fresh settlerworld" (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS, 1:40:41 PM CET, verified on phone channel; iterations phonemsg-01M6K8FSE5AGVQYK7YWD1E5BPB, phonemsg-01M6K8NVZ8AEHFW6YGRRCS4HJE, phonemsg-01M6K8T1RGZ48X1V1RSFS22K5W). No Approve block needed - his own naming. Names used exactly as written (singular).
+- prehabited-world: hella, remnant-population, planetfall, the-voices-of-heaven (natives can be people, fauna, biosphere or ruins - in def). fresh-settlerworld: desolation-road, the-outposter, destinys-road, the-homecoming-saga, mirabile, growing-up-weightless (def covers young and established lone colonies: Luna 4 generations, Destiny's Road generations old, terraformed Mars).
+- Mirabile wording fixed: creatures are mutated Earth-brought life, not natives.
+- Portraits 880 (prehabited-world) and 881 (fresh-settlerworld) wired. Umbrella link: https://gusoder.github.io/sff-taxonomy-browser/#surface-colony-life
