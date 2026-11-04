@@ -25,16 +25,25 @@ placement_rationale: 'Root-down audit 2026-11-04: Speculative fiction > Science 
 books:
 - title: The Legacy of Heorot
   year: 1987
+  cover_url: cover-heorot-legacy.jpg
+  shows_english_title: true
 - title: Beowulf's Children
   year: 1995
+  cover_url: cover-heorot-beowulf.jpg
+  shows_english_title: true
 - title: Starborn & Godsons
   year: 2020
+  cover_url: cover-heorot-starborn.jpg
+  shows_english_title: true
 cover_curation:
   status: complete
-  source: Open Library / publisher
-  selected_url: https://covers.openlibrary.org/b/id/9930182-L.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
+  visually_reviewed_on: '2026-11-04'
+  review_method: Each full jacket inspected individually, distinct English print jackets; Beowulfs Children uses
+    2021 Baen reprint.
+  sources:
+  - https://covers.openlibrary.org/b/id/9930182-L.jpg
+  - https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982125547/beowulfs-children-9781982125547_lg.jpg
+  - https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982124489/starborn-and-godsons-9781982124489_lg.jpg
 intake: ten-k walk v5 (queue ids MC05875, MC05845, MC05868)
 placement_history:
 - date: '2026-10-04'
