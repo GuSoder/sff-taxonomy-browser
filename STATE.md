@@ -1704,3 +1704,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-04 Placed The Scholars of Night MC04760 -> Infowar (10, FROZEN)
 - 1988 standalone (2021 queue reprint); thin speculative scope admitted by current mundane Technothriller gate. Conflicting reviews surfaced, sources in yaml. English Tor jacket OL10375014 inspected; OL10891155 placeholder and OL12706141 library banner rejected. Infowar at ten, intake paused, split proposal being prepared immediately. process.md reconciled to place tenth then freeze, matching SPLITTING.md and verified September26 original on not delaying to an eleventh.
+
+
+## 2026-11-04 Placed Web of Angels MC04761 -> Space techno fiction10, FROZEN
+- Ford1980 standalone,2024 Tor reprint, Doctorow introduction not coauthor. Intergalactic Web manipulation and control govern; proto-cyberpunk is a substantial texture, but Modern-day ancestor fails. Full sibling walk and four sources in YAML. English publisher2024 paperback jacket inspected/localized324x500. Tenth placed, intake paused, split preparation now. NextMC04762 only after decision/live closeout.
+- Planetfall seed declined: "Nah, no new lvl 3 seed just for this" phonemsg-01M6KDBRD4JPSB0RCST9HNZW0V. Retained Surface colony life9 with substantial Earth/ship psychological straddles explicit, no definition change.8e79d371 live QA complete.
