@@ -1684,3 +1684,8 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - Gustav "Approved" (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4, 11:25 AM, verified on phone channel) + Ballard move ("Ballad move also", phonemsg-01M6K1FRCP7JJ3GMGRME5WD3EA). Dissolve overrides split-with-umbrella default per his "I don't mean split in that way" (phonemsg-01M6H4GH0N5N6RQ2P0H025FT55). Names Evocation/Illusionist/Witchcraft/Shaman PI are his own.
 - evocation-pi (the-dresden-files, case-files-of-justis-fearsson) / illusionist-pi (dog-days) / necromancer-pi (felix-castor, eric-carter, nightwise) / psychic-pi (stealing-the-elf-kings-roses, the-broken-hearts-agency) / witchcraft-pi (diana-tregarde-investigations) / shaman-pi (sacred-ground). mage-pi retired to taxonomy/_retired/2026-11-04-mage-pi; redirect mage-pi -> occult-pi in index.html; occult-pi now has 8 children.
 - Portraits 874-879 wired (A-variants picked from A/B pairs after full-size review: no bows, no text, clean hands, genre legible).
+
+## 2026-11-04 Placed: Growing Up Weightless (MC04756, 1 book) -> surface-colony-life [10TH WORK - LEAF FROZEN]
+- Grounding: Kirkus (1993-10-15 release), reactormag.com reread, Tor/Forge excerpt, worldswithoutend. Settled independent Luna, coming-of-age engine (train trip, growing up, father's water symphony); council politics backdrop only. Philip K. Dick Award winner (Tor Essentials jacket). Cover: OL 12565335 (2022 Tor Essentials reprint jacket, genuine English print jacket; rejected OL 7994189 = Bantam title page). Localized cover-growing-up-weightless.jpg.
+- surface-colony-life hits 10 -> FROZEN pending split proposal (intake pauses when served).
+- MC04757 excluded_collection (Heat of Fusion and Other Stories, 2004).
