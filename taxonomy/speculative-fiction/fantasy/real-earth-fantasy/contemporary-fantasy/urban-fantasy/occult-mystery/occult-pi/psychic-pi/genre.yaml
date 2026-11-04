@@ -1,0 +1,20 @@
+id: psychic-pi
+label: Psychic PI
+parent: occult-pi
+children: []
+works:
+- stealing-the-elf-kings-roses
+- the-broken-hearts-agency
+image: 877-psychic-pi.webp
+portrait: 877-psychic-pi.webp
+definition: Occult PIs whose gift is inborn and inward - Sight, empathy, truth-reading - rather than a learned craft. Not
+  Evocation PI (learned direct casting) and not Illusionist PI (woven appearances).
+status: accepted
+ruling: curator "Approved" (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4, 2026-11-04 11:25 AM CET) of the six-leaf split of Mage PI;
+  Ballard to Necromancer PI approved separately ("Ballad move also", phonemsg-01M6K1FRCP7JJ3GMGRME5WD3EA); names Evocation
+  PI, Illusionist PI, Witchcraft PI and Shaman PI are the curator's own (phonemsg-01M6K1DXXWNV3DTX94FQSHYJ1D, phonemsg-01M6K195VXCE1BM3GQ8B71CAW0,
+  phonemsg-01M6H4JS6EGE06WS9B8VFBBF0F). Mage PI dissolved - a scoped override of the split-with-umbrella default per the curator's
+  "I don't mean split in that way" (phonemsg-01M6H4GH0N5N6RQ2P0H025FT55).
+history:
+- date: '2026-11-04'
+  change: Created by the Mage PI six-way split; curator "Approved" (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4).

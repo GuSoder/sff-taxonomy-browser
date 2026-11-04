@@ -3,7 +3,7 @@ title: Nightwise
 authors:
 - R. S. Belcher
 first_published: 2015
-canonical_genre: mage-pi
+canonical_genre: necromancer-pi
 placement_status: accepted
 placement_rationale: 'Laytham Ballard, a burned-out magician and occult investigator for hire, works cases outside any police
   or state service. A private occult investigator: Occult PI.'
@@ -25,5 +25,9 @@ placement_history:
 - date: '2026-10-12'
   from: occult-pi
   to: mage-pi
-  reason: 'Occult PI split into Mage PI / Monster PI / PI meets Magic on the curator''s approval; re-walked root-down:
-    this card sits in Mage PI.'
+  reason: 'Occult PI split into Mage PI / Monster PI / PI meets Magic on the curator''s approval; re-walked root-down: this
+    card sits in Mage PI.'
+- date: '2026-11-04'
+  from: mage-pi
+  to: necromancer-pi
+  reason: Mage PI six-way split; curator "Approved" (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4).

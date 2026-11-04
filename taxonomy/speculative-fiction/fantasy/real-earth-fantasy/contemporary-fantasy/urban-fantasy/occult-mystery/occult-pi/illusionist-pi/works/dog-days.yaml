@@ -3,7 +3,7 @@ title: Dog Days
 authors:
 - John Levitt
 first_published: '2007'
-canonical_genre: mage-pi
+canonical_genre: illusionist-pi
 placement_status: accepted
 placement_rationale: 'San Francisco urban fantasy: Mason, a trained magic practitioner (mentored by Eli) and jazz guitarist,
   does freelance enforcement case-work for Victor, the Bay Area''s chief magical enforcer, with his ifrit familiar Lou. Each
@@ -39,3 +39,7 @@ placement_history:
 - date: '2026-11-03'
   to: mage-pi
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-04'
+  from: mage-pi
+  to: illusionist-pi
+  reason: Mage PI six-way split; curator "Approved" (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4).

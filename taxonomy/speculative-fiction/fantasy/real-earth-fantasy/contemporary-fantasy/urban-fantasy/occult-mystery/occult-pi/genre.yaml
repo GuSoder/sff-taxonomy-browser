@@ -2,7 +2,12 @@ id: occult-pi
 label: Occult PI
 parent: occult-mystery
 children:
-- mage-pi
+- evocation-pi
+- illusionist-pi
+- necromancer-pi
+- psychic-pi
+- witchcraft-pi
+- shaman-pi
 - monster-pi
 - pi-meets-magic
 works: []
@@ -19,3 +24,5 @@ history:
 - date: '2026-10-12'
   change: Renamed from Occult consultants (id occult-consultants) to Occult PI on the curator's "Rename" (2026-10-12 11:42:23
     AM CEST), to match its children Mage PI, Monster PI and PI meets magic; old id kept as a redirect.
+- date: '2026-11-04'
+  change: "Mage PI dissolved into six leaves (Evocation, Illusionist, Necromancer, Psychic, Witchcraft, Shaman PI); curator ''Approved'' (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4)."

@@ -3,7 +3,7 @@ title: Case Files of Justis Fearsson
 authors:
 - David B. Coe
 first_published: 2014
-canonical_genre: mage-pi
+canonical_genre: evocation-pi
 placement_status: accepted
 placement_rationale: 'Walk: Justis Fearsson is a weremyste who wields powerful magic that helps him in his work as a private
   detective, though each full moon he loses control of his sorcery and mind (author''s site, davidbcoe.com/fearsson/spell-blind).
@@ -29,3 +29,7 @@ placement_history:
 - date: '2026-10-04'
   to: mage-pi
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-04'
+  from: mage-pi
+  to: evocation-pi
+  reason: Mage PI six-way split; curator "Approved" (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4).

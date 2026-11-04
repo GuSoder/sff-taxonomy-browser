@@ -3,13 +3,13 @@ title: Sacred Ground
 authors:
 - Mercedes Lackey
 first_published: 1994
-canonical_genre: mage-pi
+canonical_genre: shaman-pi
 placement_status: accepted
 placement_rationale: 'Mercedes Lackey''s Sacred Ground (1994; Macmillan, Kirkus, Rambles): Jennifer Talldeer, Osage and Cherokee,
   is a Tulsa private investigator and an apprentice shaman learning a warrior''s magics from her grandfather, a medicine man;
   an insurance-fraud case at a mall site opens onto a desecrated burial ground. Walk: Real-earth fantasy > Urban fantasy >
-  Occult mystery fiction > Occult PI > Mage PI (a trained shaman who works cases for hire). Standalone, separate from
-  the Diana Tregarde series. Sources: Kirkus, Macmillan, Rambles; not read.'
+  Occult mystery fiction > Occult PI > Mage PI (a trained shaman who works cases for hire). Standalone, separate from the
+  Diana Tregarde series. Sources: Kirkus, Macmillan, Rambles; not read.'
 books:
 - title: Sacred Ground
   year: 1994
@@ -24,3 +24,7 @@ placement_history:
 - date: '2026-10-04'
   to: mage-pi
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-04'
+  from: mage-pi
+  to: shaman-pi
+  reason: Mage PI six-way split; curator "Approved" (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4).

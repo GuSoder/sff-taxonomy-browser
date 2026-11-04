@@ -9,17 +9,7 @@ definition: 'Occult PI who are themselves trained practitioners: the investigato
   or non-human) and not PI meets Magic (the investigator is an ordinary or untrained human who meets magic from outside its
   practice).'
 status: accepted
-works:
-- the-dresden-files
-- felix-castor
-- eric-carter
-- nightwise
-- diana-tregarde-investigations
-- sacred-ground
-- the-broken-hearts-agency
-- case-files-of-justis-fearsson
-- stealing-the-elf-kings-roses
-- dog-days
+works: []
 ruling: 'Split of Occult PI, approved by the curator ("Execute", phonemsg-01M4Q8PYNHZBPN276YRXKQZD65, 2026-10-12
   7:17 AM CEST) after the intake''s "Approve split?" question; axis and names are the curator''s own ("phonemsg-01M4Q8NC7MK8STQWRARQJ75G3W":
   Mage PI / Monster PI / PI meets Magic): what the investigator is - trained practitioner, creature, or ordinary human meeting
@@ -27,3 +17,5 @@ ruling: 'Split of Occult PI, approved by the curator ("Execute", phonemsg-01M4Q8
 history:
 - date: '2026-10-12'
   change: Created by the Occult PI split; curator "Execute" (phonemsg-01M4Q8PYNHZBPN276YRXKQZD65).
+- date: '2026-11-04'
+  change: "Dissolved into six leaves under Occult PI (Evocation, Illusionist, Necromancer, Psychic, Witchcraft, Shaman PI); curator ''Approved'' (phonemsg-01M6K1FBZPJ1AF6KPYB2EDXTA4), Ballard move (phonemsg-01M6K1FRCP7JJ3GMGRME5WD3EA), dissolve override of split-with-umbrella per curator (phonemsg-01M6H4GH0N5N6RQ2P0H025FT55). Id redirects to occult-pi; portrait 665-mage-pi.webp kept at repo root."
