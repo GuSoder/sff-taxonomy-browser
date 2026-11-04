@@ -2,8 +2,8 @@ id: frontier-planets
 label: Frontier planets
 parent: colonial-worlds
 children: []
-image: 663-frontier-planets.webp
-portrait: 663-frontier-planets.webp
+image: 880-prehabited-world.webp
+portrait: 880-prehabited-world.webp
 definition: 'Colonial fiction of settlers on alien ground that is already alive and already someone''s: homesteads, treaties,
   displacement and uneasy sharing with the natives. The settlement reading. Not Planet plunder (the colonial power is there
   to strip the world).'
@@ -25,3 +25,5 @@ history:
   change: Created by the Colonial worlds split; curator "Execute" (phonemsg-01M4NWSBHS43Z4JTNSCDTC74SR).
 - date: '2026-10-11'
   change: The Solar Cycle moved out to Dying earth on the curator's "Yes" (phonemsg-01M4NXWDN7RT1YN1MCWYANSGZ1).
+- date: '2026-11-04'
+  change: Portrait replaced with the former Prehabited world megafauna settler image at the curator's request (phonemsg-01M6KBNHX7D4AY12RMWJN45STJ).
