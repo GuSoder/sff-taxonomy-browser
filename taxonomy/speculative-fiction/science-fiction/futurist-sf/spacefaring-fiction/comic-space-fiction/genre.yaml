@@ -1,5 +1,5 @@
 id: comic-space-fiction
-label: Comic space fiction
+label: Comic space future
 parent: spacefaring-fiction
 children: []
 works:
@@ -14,11 +14,16 @@ works:
 - the-spare-man
 - wasp
 image: 569-comic-space-fiction.webp
-definition: Comic science fiction fundamentally about travel, settlement, conflict or civilization beyond Earth,
-  where comedy, parody or satire governs rather than supplies incidental relief. Includes planetary colony comedies
-  and comic military adventures as well as interstellar travel; not restricted to space opera. Stable futuristic
-  off-Earth settings meet the Futurist and Spacefaring gates; time travel and timeless constructed realities still
-  follow their Atemporal gates.
+definition: Comic science fiction set in a future of travel, settlement, conflict or civilization beyond Earth,
+  where comedy, parody or satire governs the story. Includes planetary colony comedies, comic military adventures
+  and interstellar journeys. Its worlds are stable futuristic settings beyond Earth. Bill, the Galactic Hero remains
+  here as a whole fiction by the curator’s explicit exception of 4 November 2026, including the time travel in its
+  sixth novel.
 status: accepted
 ruling: Owner ordered new Comic space fiction as Spacefaring child 8 after the Space opera bundle, October 7 2026
   10:36:53, phonemsg-01M4AR4A5WR9NSBVV611XE7B1F
+history:
+- date: '2026-11-04'
+  change: Renamed from Comic space fiction to the curator’s own Comic space future (phonemsg-01M6KQKEP17D9YX9PE91HR3JTJ).
+    Positive definition reworded to state the future setting explicitly. Scope, ten fictions, portrait, stable id
+    and Bill exception unchanged. Split remains proposed, not approved.

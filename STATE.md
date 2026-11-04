@@ -1718,3 +1718,7 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 ## 2026-11-04 Bill whole-fiction completeness and explicit exception
 The curator kept the entire seven-novel fiction in Comic space fiction as an explicit exception to the any-time-travel rule: "If it’s not until book six I think the time travel browsers will be annoyed by five books of his comic stuff" (phonemsg-01M6KEGWWB8QRRQ7H8MJ0GRZJC), then "keep" (phonemsg-01M6KEHW5PZSP7DCECBYK0HFBC, 2026-11-04 15:14 CET). Proposed Time door widening dropped; no definition changed.
 - Expanded1 ->7 novels, six books added, no fiction count change. All7 English jackets inspected/localized. Comic space fiction remains10 FROZEN, next single decision is its actual-content split; noMC04762 before decision/live closeout.
+
+
+## 2026-11-04 Comic space future rename
+Curator phonemsg-01M6KQKEP17D9YX9PE91HR3JTJ supplied name. Label and positive definition updated, no membership or portrait change, Bill exception retained. Stable id comic-space-fiction preserved. Ten fictions frozen; split still unapproved, intake cursor MC04762 paused.

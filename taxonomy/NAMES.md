@@ -336,3 +336,7 @@ Split of Surface colony life at ten cards by whether the world was already lived
 
 ## Crypto thriller / Surveil thriller / Media ops thriller (2026-11-04)
 Infowar split at ten fictions by the information mechanism, with the original retained as umbrella. The curator supplied the shorter names Crypto thriller, Surveil thriller, Media ops thriller in reply to the served split (phonemsg-01M6KCKZSWFQ73YGEG6KHV04GF, 2026-11-04 14:40 CET). Names used exactly, singular and without dashes. Positive definitions, 3/4/3 membership. Portraits883B/884A/885A selected after full-size A/B inspection: cipher device, watched pedestrian, competing media representations.
+
+
+## Comic space future (curator, 2026-11-04)
+Renamed from Comic space fiction by the curator’s own message “Comic Space Future” (phonemsg-01M6KQKEP17D9YX9PE91HR3JTJ, 17:52 CET), rendered in sentence case. Three words by his own choice after the two-word workshop. Carries comedy, space and future explicitly. Positive definition reworded, scope unchanged. Stable id comic-space-fiction retained for existing links. Bill’s explicit whole-fiction exception retained. Split decision remains open.
