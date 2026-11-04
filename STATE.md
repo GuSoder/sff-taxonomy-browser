@@ -1701,3 +1701,6 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 
 ## 2026-11-04 Placed The Last Hot Time (MC04759) -> Big-city fae (9)
 - Ford standalone, December 2000 (ISFDB); 2001 queue date is edition. MC04763 2025 reprint marked already_in_tree. Modern Chicago with gangster-era aesthetics, not actual historical setting (WELL author interview); returned Faerie society and exiled elves shape urban institutions. Borderworld wobble disclosed, no many-world/crossing itinerary established. English Tor jacket OL182420 inspected and localized. Sources in yaml. Next MC04760 The Scholars of Night. Big-city fae now on freeze-watch at 9.
+
+## 2026-11-04 Placed The Scholars of Night MC04760 -> Infowar (10, FROZEN)
+- 1988 standalone (2021 queue reprint); thin speculative scope admitted by current mundane Technothriller gate. Conflicting reviews surfaced, sources in yaml. English Tor jacket OL10375014 inspected; OL10891155 placeholder and OL12706141 library banner rejected. Infowar at ten, intake paused, split proposal being prepared immediately. process.md reconciled to place tenth then freeze, matching SPLITTING.md and verified September26 original on not delaying to an eleventh.
