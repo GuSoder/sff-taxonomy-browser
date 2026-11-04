@@ -1695,3 +1695,6 @@ Gustav Approved 2026-11-03 8:53 AM (phonemsg-01M6G6BGVG8PQY0B71JGM5W99Z, verifie
 - prehabited-world: hella, remnant-population, planetfall, the-voices-of-heaven (natives can be people, fauna, biosphere or ruins - in def). fresh-settlerworld: desolation-road, the-outposter, destinys-road, the-homecoming-saga, mirabile, growing-up-weightless (def covers young and established lone colonies: Luna 4 generations, Destiny's Road generations old, terraformed Mars).
 - Mirabile wording fixed: creatures are mutated Earth-brought life, not natives.
 - Portraits 880 (prehabited-world) and 881 (fresh-settlerworld) wired. Umbrella link: https://gusoder.github.io/sff-taxonomy-browser/#surface-colony-life
+
+## 2026-11-04 Placed The Dragon Waiting (MC04758) -> Alt Renaissance fantasy (3)
+- 1983 standalone, John M. Ford. Openly alternate Renaissance Europe, magical/vampire machinery sustaining Byzantine expansion; not crusading Christendom, not a horror engine. Sources: Wikipedia, Reactor Jo Walton review, Locus Paul Di Filippo review (URLs in work yaml). English Gollancz Fantasy Masterworks reprint jacket, OL380130, inspected and localized. Next MC04759.
