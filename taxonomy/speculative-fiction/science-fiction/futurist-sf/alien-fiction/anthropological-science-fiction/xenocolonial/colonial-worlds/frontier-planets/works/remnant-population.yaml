@@ -1,0 +1,52 @@
+id: remnant-population
+title: Remnant Population
+authors:
+- Elizabeth Moon
+first_published: 1996
+canonical_genre: frontier-planets
+placement_status: accepted
+placement_rationale: 'Root-down audit 2026-11-04: Speculative fiction > Science fiction > Futurist SF > Alien fiction
+  > Anthropological science fiction > Xenocolonial > Colonial worlds > Frontier planets. Ofelia stays when the company
+  evacuates her colony; the returning reconnaissance crew is killed, native sentients make contact, and her understanding
+  of them challenges the returning human experts. This is a colonial cultural encounter, not merely a colony routine
+  interrupted late by contact. The human settlement on native ground and the sharing of that ground select Colonial
+  worlds and Frontier planets over Alien dominions or Planet plunder. Rejected: Space colonies > Colony life > Prehabited
+  world, because her solitary domestic independence prepares the cross-cultural encounter but does not displace
+  it as the novel''s engine; alien discovery alone omits the colonial relationship. Wobble: her old age, solitude
+  and self-determination remain substantial. Sources read: PRH publisher description and Booklist endorsement (alien
+  anthropology), https://www.penguinrandomhouse.com/books/116496/remnant-population-by-elizabeth-moon/; not the
+  novel itself.'
+books:
+- title: Remnant Population
+  year: 1996
+  cover_url: cover-moon-remnant.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-moon-remnant.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02869)
+placement_history:
+- date: '2026-10-04'
+  to: colony-life
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: colony-life
+  to: surface-colony-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked:
+    this card sits in Surface colony life.'
+- date: '2026-11-04'
+  to: prehabited-world
+  reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's own names
+    (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).
+- date: '2026-11-04'
+  from: prehabited-world
+  to: frontier-planets
+  reason: 'Audit correction: first contact and colonial cultural encounter govern; individual-fiction move covered
+    by curator trust phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX.'
+sources:
+- url: https://www.penguinrandomhouse.com/books/116496/remnant-population-by-elizabeth-moon/
+  read_on: '2026-11-04'
+  supports: Colonial setting, Ofelia staying behind, reconnaissance crew deaths, first contact; Booklist describes
+    alien anthropology.

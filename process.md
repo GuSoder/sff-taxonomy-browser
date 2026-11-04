@@ -11,7 +11,7 @@ Ruling of 2026-10-09 (curator message phonemsg-01M4GD863CV2Z9QWVMDSNPBY4Y).
 ## Proposals
 - Proposals go out as soon as the book is walked. They are not batched.
 - Only one decision is open with the curator at a time. The next proposal follows once the previous one is answered and, for splits, live and linked.
-- Reason: image generation is limited to 50 per day, so the curator needs time to think over approvals early. The intake keeps running behind the open proposal.
+- Reason: image generation is limited to 50 per day, so the curator needs time to think over approvals early. Intake pauses while the proposal is open.
 
 ## The only cross-off
 - Non-fiction with no proof of speculative content is crossed off the list and the walk moves on.

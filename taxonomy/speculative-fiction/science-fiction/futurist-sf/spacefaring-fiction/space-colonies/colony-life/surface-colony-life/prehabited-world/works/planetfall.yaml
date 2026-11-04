@@ -5,14 +5,13 @@ authors:
 first_published: 2015
 canonical_genre: prehabited-world
 placement_status: accepted
-placement_rationale: 'Penguin: four linked standalones in a world where a genius escapes to the stars.
-  Reactor on book 1: ~1,000 colonists follow Lee Suh-Mi ''in what can best be described as a pilgrimage
-  of faith''; twenty years on, the established colony''s civic life - leadership, printer economy, gates,
-  a newcomer''s arrival - forms the arena, and Before Mars'' Mars-base institutions likewise. Space-colonies
-  def: established off-Earth settlements whose civic life forms the story''s arena. Bend recorded: After
-  Atlas is Earth-bound - the same universe''s Earth half, carried on the series card (the curator''s EXECUTE
-  phonemsg-01M3M8NBMVXJT4096ZBBCN565B after dry-run walk; spaceship-drama set aside on its cozy clause,
-  theological-space-opera a distant third).'
+placement_rationale: 'Penguin: four linked standalones in a world where a genius escapes to the stars. Reactor on
+  book 1: ~1,000 colonists follow Lee Suh-Mi ''in what can best be described as a pilgrimage of faith''; twenty
+  years on, the established colony''s civic life - leadership, printer economy, gates, a newcomer''s arrival - forms
+  the arena, and Before Mars'' Mars-base institutions likewise. Space-colonies def: established off-Earth settlements
+  whose civic life forms the story''s arena. Bend recorded: After Atlas is Earth-bound - the same universe''s Earth
+  half, carried on the series card (the curator''s EXECUTE phonemsg-01M3M8NBMVXJT4096ZBBCN565B after dry-run walk;
+  spaceship-drama set aside on its cozy clause, theological-space-opera a distant third).'
 classification_sources:
 - https://www.penguinrandomhouse.com/series/PN3/a-planetfall-novel/
 - https://www.penguinrandomhouse.com/books/556331/atlas-alone-by-emma-newman/
@@ -48,15 +47,26 @@ placement_history:
 - date: '2026-10-05'
   from: space-colonies
   to: colony-life
-  reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a
-    case, a struggle for power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR,
-    2026-10-05 7:39 AM; child renamed Space mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
+  reason: Split of Space colonies, split-with-umbrella, by what drives the story inside the colony (a case, a struggle
+    for power, or settled life); curator "Approved" (phonemsg-01M459648MQ2WPAZNMNVV512BR, 2026-10-05 7:39 AM; child
+    renamed Space mystery, phonemsg-01M45985VR35G9EGGEX4169X0F, 7:40 AM).
 - date: '2026-10-12'
   from: colony-life
   to: surface-colony-life
-  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval;
-    re-walked: this card sits in Surface colony life.'
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked:
+    this card sits in Surface colony life.'
 - date: '2026-11-04'
   to: prehabited-world
-  reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's
-    own names (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).
+  reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's own names
+    (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).
+placement_audit:
+  date: '2026-11-04'
+  status: known-mismatch-awaiting-structural-decision
+  finding: 'Whole fiction is four linked novels, not just Planetfall: After Atlas is an Earth procedural, Before
+    Mars a Mars psychological thriller, Atlas Alone a shipboard trauma/VR/revenge thriller. Prehabited world does
+    not describe the whole. Psychological SF fails Modern-day ancestor; Future social SF fails Earthbound gate.
+    No move executed and no definitions changed while Infowar split decision is open.'
+  sources:
+  - https://enewman.co.uk/books-index/
+  - https://paulsemel.com/exclusive-interview-atlas-alone-author-emma-newman/
+  - https://enewman.co.uk/before-mars-2/

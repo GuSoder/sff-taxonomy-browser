@@ -1,0 +1,56 @@
+id: the-legacy-of-heorot
+title: The Legacy of Heorot
+authors:
+- Larry Niven
+- Jerry Pournelle
+- Steven Barnes
+first_published: 1987
+canonical_genre: planet-ecology-fiction
+placement_status: accepted
+placement_rationale: 'Root-down audit 2026-11-04: Speculative fiction > Science fiction > Futurist SF > Hard SF
+  > Planetary science > Planet ecology fiction. One Heorot fiction, all three novels: The Legacy of Heorot makes
+  the grendels'' predator life cycle the colony''s central mistaken assumption; Beowulf''s Children expands to the
+  mainland ecosystem and the second generation''s conflict with the damaged first generation; Starborn & Godsons
+  adds a technologically superior human settler faction and contact with tool-using native sentients while Avalon''s
+  biology and colonial viability remain the through-line. Niven describes biologist Jack Cohen''s designed mainland
+  ecology and its crab-template species; Baen explicitly calls the series hard SF and describes the brutal ecology
+  as its governing constraint. Planet ecology, rather than Planet expedition: the invented living system itself
+  supplies the recurring revelations, not a mission engineering itinerary on a known world. Rejected: Frontier planets
+  under Anthropological SF because cultural encounter does not govern the first two novels; Prehabited world under
+  Colony life because ordinary routines are not the engine of these ecological danger/revelation plots. Wobble moderate
+  to high: survival and action are substantial, and book three genuinely bends toward native cultural encounter
+  and a human colonial takeover. Do not claim the whole fiction has only non-sentient predators. Sources read: Niven
+  reminiscence, Baen series press release, Beowulf''s Children review, detailed Starborn & Godsons review; not the
+  novels themselves.'
+books:
+- title: The Legacy of Heorot
+  year: 1987
+- title: Beowulf's Children
+  year: 1995
+- title: Starborn & Godsons
+  year: 2020
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9930182-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05875, MC05845, MC05868)
+placement_history:
+- date: '2026-10-04'
+  to: frontier-planets
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-04'
+  from: frontier-planets
+  to: planet-ecology-fiction
+  reason: 'Whole-fiction audit: Avalons rigorous invented ecology governs, with cultural contact and a human colonial
+    takeover as the third-book straddle; individual-fiction trust phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX.'
+sources:
+- url: https://www.baen.com/Chapters/9781982124489/9781982124489___4.htm
+  read_on: '2026-11-04'
+- url: https://www.baen.com/prstarborngodsons
+  read_on: '2026-11-04'
+- url: https://english.netmassimo.com/2022/08/29/beowulfs-children-aka-the-dragons-of-heorot-by-larry-niven-jerry-pournelle-and-steven-barnes/
+  read_on: '2026-11-04'
+- url: https://wampuscatenterprises.com/2020/08/27/series-review-the-legacy-of-heorot-part-3/
+  read_on: '2026-11-04'
