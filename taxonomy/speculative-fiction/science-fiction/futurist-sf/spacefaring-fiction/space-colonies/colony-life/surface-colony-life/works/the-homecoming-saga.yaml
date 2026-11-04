@@ -3,10 +3,10 @@ title: The Homecoming Saga
 authors:
 - Orson Scott Card
 first_published: 1992
-canonical_genre: fresh-settlerworld
+canonical_genre: surface-colony-life
 placement_status: accepted
-placement_rationale: 'Settled life on Harmony: a community under the Oversoul, its faith, families and
-  secrets, and the long trek to the ships.'
+placement_rationale: 'Settled life on Harmony: a community under the Oversoul, its faith, families and secrets,
+  and the long trek to the ships.'
 books:
 - title: The Memory of Earth
   year: 1992
@@ -37,9 +37,15 @@ placement_history:
 - date: '2026-10-12'
   from: colony-life
   to: surface-colony-life
-  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval;
-    re-walked: this card sits in Surface colony life.'
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked:
+    this card sits in Surface colony life.'
 - date: '2026-11-04'
   to: fresh-settlerworld
-  reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's
-    own names (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).
+  reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's own names
+    (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).
+- date: '2026-11-04'
+  from: fresh-settlerworld
+  to: surface-colony-life
+  reason: Dissolved Prehabited world and Fresh settlerworld back into Surface colony life on the curator's explicit
+    dissolve (phonemsg-01M6KC2485HR58QAEQYGPY5APW, 2026-11-04 14:30 CET); native-life axis withdrawn because it
+    blurred the distinction from Alien fiction.

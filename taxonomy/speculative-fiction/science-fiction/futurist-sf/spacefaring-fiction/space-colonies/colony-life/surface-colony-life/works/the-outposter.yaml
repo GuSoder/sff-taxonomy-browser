@@ -1,0 +1,46 @@
+id: the-outposter
+title: The Outposter
+authors:
+- Gordon R. Dickson
+first_published: 1972
+canonical_genre: surface-colony-life
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space
+  colonies > Colony life. Mark Ten Roos leads a group of colonists pushed out from an overcrowded Earth, called
+  garbage by those who sent them, in their attempt to settle a new planet and become economically self-sufficient
+  from Earth while learning to defend themselves against alien raiders (Wikipedia; ISFDB title 3766, Lippincott
+  flap, serialized in Analog 1971). Settling a world and building a community''s life there is the story, which
+  is the leaf''s definition. Rejected: Colony politics (at nine; the contest is not for power inside the colony),
+  Space combat (defence is one strand), Colonial worlds (Xenocolonial, an anthropological frame). Wobble: moderate;
+  the self-sufficiency from Earth and the raider war carry the plot, and Colony life is aimed at settled routines
+  years after the founding. Year is the 1972 first edition (the queue showed 2018).'
+books:
+- title: The Outposter
+  year: 1972
+  cover_url: https://covers.openlibrary.org/b/id/10414603-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10414603-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03509)
+placement_history:
+- date: '2026-10-04'
+  to: colony-life
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-12'
+  from: colony-life
+  to: surface-colony-life
+  reason: 'Colony life split into Space habitat life / Surface colony life on the curator''s approval; re-walked:
+    this card sits in Surface colony life.'
+- date: '2026-11-04'
+  to: fresh-settlerworld
+  reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's own names
+    (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).
+- date: '2026-11-04'
+  from: fresh-settlerworld
+  to: surface-colony-life
+  reason: Dissolved Prehabited world and Fresh settlerworld back into Surface colony life on the curator's explicit
+    dissolve (phonemsg-01M6KC2485HR58QAEQYGPY5APW, 2026-11-04 14:30 CET); native-life axis withdrawn because it
+    blurred the distinction from Alien fiction.

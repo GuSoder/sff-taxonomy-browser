@@ -3,7 +3,7 @@ title: Planetfall
 authors:
 - Emma Newman
 first_published: 2015
-canonical_genre: prehabited-world
+canonical_genre: surface-colony-life
 placement_status: accepted
 placement_rationale: 'Penguin: four linked standalones in a world where a genius escapes to the stars. Reactor on
   book 1: ~1,000 colonists follow Lee Suh-Mi ''in what can best be described as a pilgrimage of faith''; twenty
@@ -59,6 +59,12 @@ placement_history:
   to: prehabited-world
   reason: Surface colony life split at ten cards by whether the world was already lived-in; the curator's own names
     (phonemsg-01M6K96VKMNGQWMXX7FYZKH4WS).
+- date: '2026-11-04'
+  from: prehabited-world
+  to: surface-colony-life
+  reason: Dissolved Prehabited world and Fresh settlerworld back into Surface colony life on the curator's explicit
+    dissolve (phonemsg-01M6KC2485HR58QAEQYGPY5APW, 2026-11-04 14:30 CET); native-life axis withdrawn because it
+    blurred the distinction from Alien fiction.
 placement_audit:
   date: '2026-11-04'
   status: known-mismatch-awaiting-structural-decision
