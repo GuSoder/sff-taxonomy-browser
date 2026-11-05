@@ -1735,3 +1735,7 @@ Commit64cc8b38 deployed successfully. Umbrella and all3 leaves pixel-checked, al
 
 ## 2026-11-05 MC04762 duplicate; Starfinder MC04764 placed
 MC04762 is Growing Up Weightless2022 reissue of existing MC04756, marked already_in_tree. MC04763 already marked duplicate. Starfinder2009 (queue2010 paperback) -> Steampunk realms5; one published Skylords novel, no invented trilogy completion. Full source-read root-down walk and quest/technology wobble in YAML. English PRH paperback jacket inspected and localized. NextMC04765 Bronze Knight whole-fiction audit.
+
+
+## 2026-11-05 Bronze Knight whole4 placed -> Champion of Realm6
+All4 novels (Eyes of God, Devil's Armor, Sword of Angels, Forever Knight) one fiction; shared world and continuation verified by publisher and detailed reviews of each volume. Continuing protector of Grimhold/Inhumans and war leadership beat exiled opening phase, personal grief, artifact quest and court politics; substantial wobble explicit in source-read walk. First novel2002 per contemporary Locus vs2001 copyright/date in ISFDB title preserved. Four English jackets inspected/localized; blank/placeholder OL3/4 rejected, paperbacks accepted. Next sequentialMC04768 Tyrants and Kings, not yet classified. Starfinder6a90afa4 live QA complete and delivered.
