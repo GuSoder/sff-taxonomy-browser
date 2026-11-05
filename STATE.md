@@ -1786,3 +1786,6 @@ Source-read remaining whole7 including Council, retained all with explicit whole
 
 ## MC04785 TransDimensional Hunter whole4 restored, Future war8
 Explicit future blocks Warzone Earth ancestor. Primary particle-perception mechanism does not establish parallel Earths. No false multiverse move. All4 English Baen lowres fronts localized, no new fiction. Next unresolved MC04788 Citadel.
+
+## MC04788 Troy Rising whole3 restored to Starbridge9
+Earth resistance4->3, whole interstellar fleet campaign not first premise. Citadel2011 missing restored, bundle2020 and second edition2023 phantom entries removed.2026 authorized anthology noted, Ringo novella/short novel length ambiguity not counted as fourth conventional novel. Next MC04789 Citizens.
