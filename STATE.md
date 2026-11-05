@@ -1826,3 +1826,6 @@ Originalphonemsg-01M6P4575KPNQ79ZFW7NV9A5HF permitsignoring12secblip, notglobalr
 ## Approved Future history in space split2026-11-05
 Curator Approved phonemsg-01M6P4XYQJCZ647JS4PF6F0A6D, 2026-11-05 16:23, on final names block phonemsg-01M6P4RCBZS1BJ6H7QZYCJ169W. Original umbrella retained zero direct fictions; actual whole-fiction partition 3/4/3, not per-volume placements.
 Star empire chronicles3 / Star alliance chronicles4 / Star diaspora chronicles3. Threepixelinspectedportraits890-892, original38umbrella retained.835nodes/2711fictions/6328books. NextMC04838 afterdeployandliveQA.
+
+## 2026-11-05 MC04838 Redshirts whole1 -> Time door2
+Integralplannedpastjourneythroughblackholeandback, not builttimeapparatus; Scripted4->3, TimeDoor1->2. No definition changes.2013Englishprintfrontlocal,2012firstyearretained.835nodes/2711fictions/6328books unchanged. NextMC04839 ShadowWarNightDragons prologuerow, inspectformat.
