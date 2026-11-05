@@ -1747,3 +1747,7 @@ Jackal1999/Grand Design2000/Saints2001, publisher series complete, contemporary 
 
 ## 2026-11-05 Tristopolis whole6 -> Hard science fantasy8
 Primary BSFA author rigorous-physics/solar-system-divergence statement + UK publisher scientific rationale decide disputed root. Detailed per-volume engines, cop-to-PI transition, SF/Fantasy/New weird/alt-history alternatives and substantial unproved-physics caveat recorded. Six English jackets inspected/localized; Dark=Black Blood one novel, not two. Tyrants67b93d56 live QA done3 jackets, parent sent10:53. NextMC04775 A Trip to Venus.
+
+
+## 2026-11-05 A Trip to Venus1897 -> Scientific adventure8
+MC04775 queue2013 reprint, original1897. Root-down historical scientific marvel voyage wins over planetary romance and modern Hard SF. Original English decorated cloth front inspected/localized. NextMC04776 Books of the Shaper whole trilogy.
