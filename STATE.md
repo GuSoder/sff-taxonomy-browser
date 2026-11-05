@@ -1907,3 +1907,6 @@ EveryownnovelresearchedincludingOutcast/Exiledending,originalcavegodsnotinvented
 
 ## MC04894-95ShadowWarriorwhole2->PulpSwordSorcery10FROZEN
 Eachnovelownengine/Slaversfinal37read. StatedNehonIgulbookmap/narrative FantasyRealms, earlyNinjaalternateEarth/JapanKoreablurbwobbleexplicit. Slavers2014eARC/2015print. BothEnglishprintfrontslocal.835/2728/6376. STOPnextintake;reinterrogateall10/PulpS&Ssplitbeforeproceeding.
+
+## FrozenPulpS&Sreinterrogation:TowerFear->Tinderbox8
+WholeoriginalclimaxopenLivingrebellion/occupiedcityregimechangeconfirmsPolitical/Rebel/Tinderbox,notoldPWlabelonlyS&S. Pulp10->9,noPulpSplitgate. Counts835/2728/6376unchanged. Remainingboundedwhole-fictionbookscoperepairsPulp:BlackCompany/Hanuvar/Imaro/ThievesWorld/Fafhrdformats;noothermoveornewgenreapproved.
