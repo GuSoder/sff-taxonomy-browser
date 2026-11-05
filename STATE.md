@@ -1841,3 +1841,6 @@ All3owncausalplotsverified,Flowphysicalstartravel nottime/parallelproof, MemoryR
 
 ## MC04860/61format skips, MC04862Moonwhole1 -> Satirical8
 PresidentBrainshort2010,Unlockednovella2014 sourceverified. Moonauthorcalls episodicnovel,notcollectionskip. Societalcrisisresponse/comedygoverns,Impact5->4/Satirical7->8; no actualhit, resets. Fantasyrootanddisasterwobblesexplicit,noattestedmagic/time. English2025Torfrontlocal. NextMC04863CrawlersJohnShirley.
+
+## MC04863Crawlerswhole1 -> Technocrisis9
+2003firstnot2007ebook. Humanmilitarynanocolony containment/hiveassimilation; noaliens,nogenedesign/medicalnanos/naturalzombiepathogen. StrongCreaturefeature/pulpwobble recorded; explicittechnicalaccount/rationalizedsystemkeepsTechnothriller. English2003DelReyprintfrontlocal.835/2712/6329. NextMC04864Armor.
