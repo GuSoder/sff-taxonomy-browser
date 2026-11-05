@@ -1810,3 +1810,6 @@ Contemporary open mechanical invasion not conscious imperial motive, significant
 
 ## MC04831 short, MC04832 Fuzzy Nation1 retained Planet plunder5
 Author explicitly separate reboot continuity not Piper merge; extraction/personhood court conflict whole. CurrentTor2022English front local first2011 unchanged. AfterCoup author2008short-story skipped. Next04833 HeadOn/LockIn universe.
+
+## MC04833/34/59 LockIn2 retained Cyborgs8
+Bothnovels independently researched mediated humanembodiment,policeprocedural and Agora/neuralreality straddles explicit. BothEnglishprint fronts localized, LockIn2015reprint(first2014). Unlockednovella not counted. Next04835Metatropolis anthologyskip then04836MonstersOhio.
