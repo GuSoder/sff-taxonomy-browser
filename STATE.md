@@ -1767,3 +1767,7 @@ MC04781 plus later same fiction rows reconciled MC04781,MC04787,MC04794,MC04802,
 
 ## 2026-11-05 active Posleen duplicate/edition reconciliation
 MC04782/83 existing whole12 Legacy Aldenata in Warzone Earth, not new fiction. Removed erroneous13th-card2013 revised edition into first-book edition metadata, publisher verified. Same-fiction queue rows reconciled: MC04782,MC04783,MC04786,MC04793,MC04796,MC04797,MC04798,MC04809,MC04811,MC04814,MC04827,MC04829,MC04830. No reclassification/full corpus audit. Totals831/2710/6303. NextMC04784 Against the Tide / Council Wars, inspect existing card first.
+
+
+## 2026-11-05 FREEZE Future war10 Council Wars whole4 restored/rewalked
+ActiveMC04784 entire4 source-read, missing2003 first added, fiction start2003 fixed, all4 covers localized. Whole war across naval/ground/resource struggle beats first book knowledge village; significant final space raid caveat. Moved Lost knowledge keepers7->6 to Future war9->10. INTAKE PAUSED pending cluster audit and split proposal, no proposal served yet. Other9 need independent whole-fiction/root audit; preliminary evidence some may leave, don't force partition. Paladin+Posleen22d141da still deployment/liveQA awaited.
