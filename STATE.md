@@ -1874,3 +1874,6 @@ Well World scope3->10 novels restored, same Classic leaf after full walk. All10 
 
 ## MC04872 Millennium whole1 -> PostApocalypticFantasy9
 1983firstnot1999reprint. Originalfinalcreatorvoice/freewill/evolution/Eden checkedprimary+EBSCO,notmeregodlikeAI;Fantasyrootbeforetimegate. LastAgealreadyfallenEarth/secwarspollution,notbiblicalangel/demonapocalypse.1983investigation/CouncilGateProjectstrongstraddlesrecorded.1999AceEnglishprintfrontlocal.835/2718/6361. Next04873PersistenceVisionformat then04874SlowApocalypse.
+
+## MC04873-78 resolved, SlowApocalypsewhole1->ChemicalCatastrophe4
+Persistence1978shortcollectionexcluded;Slow2012oilmaterialfailure->Chemical4 afterwholecitycollapse/caravan/recoverywalk;printAce2012ISBNfrontlocal. Titan/WizardalreadyGaea3notduplicatecards. WiswellDIY2022/MissMyself2024explicitshortsexcludedownauthor/publisher.835/2719/6362. Next04879.

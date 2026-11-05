@@ -4871,12 +4871,12 @@ MC04869	Blue Champagne	John Varley	1988	Ace	PRH randomhousebooks.com API	1			ski
 MC04870	Dark Lightning	John Varley	2014	Ace	PRH randomhousebooks.com API	1		A Thunder and Lightning Novel	placed	0	wholeThunderLightning4(2003/06/08/14);time-distortion4->5;blackfieldtime/age/ratesoverrideRetro;all4Englishprintfrontslocal
 MC04871	Demon	John Varley	1987	Ace	PRH randomhousebooks.com API	1		Gaia	placed	0	wholeGaea3(1979/80/84)->ClassicPlanetaryRomance10;biotechfantasysurface;HardSF/BDOwobbleswhole3;all3Englishprintfrontslocal;freezeandsplit
 MC04872	Millennium	John Varley	1999	Ace	PRH randomhousebooks.com API	1			placed	0	1983whole1->PostApocalypticFantasy9;originalendingBigComputeractualcreatorGodnotmereAI;futureEarthfallen;1999AceEnglishprintfrontlocal
-MC04873	Persistence Of Vision	John Varley	1988	Ace	PRH randomhousebooks.com API	1			new	0	
-MC04874	Slow Apocalypse	John Varley	2012	Ace	PRH randomhousebooks.com API	1			new	0	
-MC04875	Titan	John Varley	1987	Ace	PRH randomhousebooks.com API	1		Gaia	new	0	
-MC04876	Wizard	John Varley	1987	Ace	PRH randomhousebooks.com API	1		Gaia	title_collision_diff_author	0	
-MC04877	D.I.Y.	John Wiswell	2022	Tor Books	Macmillan/Tor	1	Fantasy		new	0	
-MC04878	I'll Miss Myself	John Wiswell	2024	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
+MC04873	Persistence Of Vision	John Varley	1988	Ace	PRH randomhousebooks.com API	1			excluded_collection	0	AuthorbibliographyCollections1978;ToddKlein9earlyshorts;1988reprintnotnovel;https://varley.net/fiction/bibliography/;https://kleinletters.com/Blog/rereading-the-persistence-of-vision-by-john-varley/
+MC04874	Slow Apocalypse	John Varley	2012	Ace	PRH randomhousebooks.com API	1			placed	0	whole2012standalone1->ChemicalCatastrophe4;oilphysicalfailure,nothumaninfection;EnglishAceprintfrontlocal
+MC04875	Titan	John Varley	1987	Ace	PRH randomhousebooks.com API	1		Gaia	covered	0	WholeGaea3alreadyplacedClassicPlanetaryRomancee3301e78;Titan1979Wizard1980Demon1984;1987paperbackreprintnotnewnovel;https://varley.net/fiction/bibliography/
+MC04876	Wizard	John Varley	1987	Ace	PRH randomhousebooks.com API	1		Gaia	covered	0	WholeGaea3alreadyplacedClassicPlanetaryRomancee3301e78;Titan1979Wizard1980Demon1984;1987paperbackreprintnotnewnovel;https://varley.net/fiction/bibliography/
+MC04877	D.I.Y.	John Wiswell	2022	Tor Books	Macmillan/Tor	1	Fantasy		excluded_short	0	DIYexplicitshortstorybyownpublisher/author;32pebooksnotnovels;https://torpublishinggroup.com/d-i-y/?format=ebook&isbn=9781250870209
+MC04878	I'll Miss Myself	John Wiswell	2024	Tor Books	Macmillan/Tor	1	Science Fiction		excluded_short	0	IllMissMyselfexplicitshortstorybyownpublisher/author;32pebooksnotnovels;https://johnwiswell.substack.com/p/new-story-day-ill-miss-myself-at
 MC04879	Phantom View	John Wiswell	2025	Tor Books	Macmillan/Tor	1	Fantasy		new	0	
 MC04880	The Dragon Has Some Complaints	John Wiswell	2026	DAW	PRH randomhousebooks.com API	1			new	0	
 MC04881	The Three OClock Dragon	John Wiswell	2023	Tor Books	Macmillan/Tor	1	Fantasy		new	0	
