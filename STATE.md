@@ -1922,3 +1922,6 @@ Added SilverSpike1989 andnowreleasedTheyCryNov3,2026. PreserveuserS&ShomeOct4pho
 
 ## 2026-11-05 Fafhrd current-fiction cover stabilization
 Localized all7legacyEnglishprintfronts after intermittentexternalloadfailures. Two poor photographs replaced with cleanpublisherDarkHorseflatprintfronts. Countsunchanged835/2728/6381. All8localEnglishjacketsinspected,noformatdeletion.
+
+## 2026-11-05 Imaro four novels
+AddedTrailBohu1985/NaamaWar2009afterwholefourwalk. Pulp9remains,lateepic/hiddenheirwobbleexplicitnotignored. Dossouyeauthor2017separateworldnotmerge. Counts835/2728/6383. TwoaddedEnglishpaperbackfrontsinspected/localized.
