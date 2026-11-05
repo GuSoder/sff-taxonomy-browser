@@ -1913,3 +1913,6 @@ WholeoriginalclimaxopenLivingrebellion/occupiedcityregimechangeconfirmsPolitical
 
 ## 2026-11-05 Fafhrd scope completion
 Added Bailey Swords Against the Shadowland1998,onePulpfictioneightdisplayedbooks,2009EnglishDarkHorseprintjacketinspected/localized. Sixlegacycollectionsleftunchanged:ownerexclusionoriginalnotfound,deletionwithdrawn19:52. Counts835/2728/6377.
+
+## 2026-11-05 Hanuvar whole-fiction completion
+Added vols1/3, three published episodic novels, Pulp9 unchanged. Vol4 not released. Corrected old revenge/army rationale using each novel. Counts835/2728/6379. Two added English publisher print jackets inspected and localized.
