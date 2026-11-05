@@ -1862,3 +1862,6 @@ BlueChampagnepublisher8storycollectionskip; wholeThunderLightning4 -> TimeDistor
 
 ## MC04871Gaea3 -> ClassicPlanetaryRomance10
 Whole3plotsandbiotechrootchecked,HardScienceFantasyknownphysicsnotcertified,BDOlosingfirst-bookroute.1987paperbacklineTitan/Wizardand1984originalDemonprintfrontsactualpixelslocal.835/2718/6343.INTAKEFROZENmandatorysplitat10;proposalresearchnext,noquestionservedyet.
+
+## 2026-11-05 bounded Classic planetary romance repair batch1
+NorthwestSmith all-shortstorycollection excluded+preserved exclusionrecord. WholeSpaceTrilogy3->ModernBiblicalMyth3, literalworkingChristianpowers; wholeKane3->DIYrewind9, actualpasttrip + laterprivaterebuild controlswholefiction. BoththreebookfrontsetsEnglishprintlocalized/pixelchecked. Classic10->7; no split warranted. Rhiannon mechanism/sharedBrackettSolarSystem scope still underresearch, no move yet. Intake remains frozen until leaf settled. No definition changes.
