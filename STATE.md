@@ -1743,3 +1743,7 @@ All4 novels (Eyes of God, Devil's Armor, Sword of Angels, Forever Knight) one fi
 
 ## 2026-11-05 Tyrants and Kings whole3 -> War of humanity7
 Jackal1999/Grand Design2000/Saints2001, publisher series complete, contemporary Locus dates checked. Per-volume military/hero/political engine and author theme-shift evidence recorded; substantial political statecraft/Richius hero wobble not hidden. Whole-world ensemble war wins over the first-book-only warrior reading. Three English print jackets inspected/localized. Bronze Knight ba3eed6d live QA complete all4 covers, parent closeout delivered10:49. NextMC04772, MC04771 already on Bronze Knight.
+
+
+## 2026-11-05 Tristopolis whole6 -> Hard science fantasy8
+Primary BSFA author rigorous-physics/solar-system-divergence statement + UK publisher scientific rationale decide disputed root. Detailed per-volume engines, cop-to-PI transition, SF/Fantasy/New weird/alt-history alternatives and substantial unproved-physics caveat recorded. Six English jackets inspected/localized; Dark=Black Blood one novel, not two. Tyrants67b93d56 live QA done3 jackets, parent sent10:53. NextMC04775 A Trip to Venus.
