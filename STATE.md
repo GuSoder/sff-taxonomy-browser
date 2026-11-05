@@ -1819,3 +1819,6 @@ PublishedUSNov3UKNov5confirmed author/currentpublisher. Satirehumanpredators/kin
 
 ## MC04837 OldMansWar7 moved Futurehistory valid9 nominal10
 Wholecivilizationchronicle not supersoldieronly;all7Englishfrontslocal. SlowGods knowninvalidFuturistroot12secbackwards,nohonestterminalTimeTravelleaf,pendingcuratordiscussion;excludeinvalidtenantfromsplitcount.832/2711/6328unchanged. No nextintake untilSlowdecision.
+
+## SlowGods scopednonintegralblip ruling2026-11-05
+Originalphonemsg-01M6P4575KPNQ79ZFW7NV9A5HF permitsignoring12secblip, notglobalrulechange. Rootcaveatremoved,Futurehistoryvalid10freeze,splitrequiredbefore04838.832/2711/6328unchanged.
