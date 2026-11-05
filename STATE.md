@@ -1933,3 +1933,6 @@ Abbey-only card completed to11novels including samecontinuitySacredBand; movedPu
 
 ## 2026-11-05 Raven/Elves samefiction
 Consolidatedalreadyexisting7+3novelcardsunderauthorprimarysameworldevidence. Whole10walkSoldier9unchanged(removeElves/addcombinedRaven),Pulp8->7. Counts835/2727/6393. All10Englishprintfrontsinspected/localized. Awaitdeploy/liveQA.
+
+## 2026-11-05 FinalPulpboundedscopewalks
+Anji1publishedretainedPulp,Jan2027sequelnotadded. SwordDancer8allpublisherplotsrecheckedretainedPulp(personalpair/familymagicaladventurenotarmies). Pulpnow7afterTower/Thieves/Ravenmoves;nofrozenleafremains,noquestionopen. AwaitRaven/Elves16c38232deployQAthenresumeMC04896.
