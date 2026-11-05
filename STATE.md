@@ -1916,3 +1916,6 @@ Added Bailey Swords Against the Shadowland1998,onePulpfictioneightdisplayedbooks
 
 ## 2026-11-05 Hanuvar whole-fiction completion
 Added vols1/3, three published episodic novels, Pulp9 unchanged. Vol4 not released. Corrected old revenge/army rationale using each novel. Counts835/2728/6379. Two added English publisher print jackets inspected and localized.
+
+## 2026-11-05 Black Company thirteen novels
+Added SilverSpike1989 andnowreleasedTheyCryNov3,2026. PreserveuserS&ShomeOct4phonemsg-01M4365QDXX624V0Y07SSC1VBA;latearcworldbuildingwobbleexplicit. Counts835/2728/6381. TwoEnglishTorprintfrontsinspected/localized.

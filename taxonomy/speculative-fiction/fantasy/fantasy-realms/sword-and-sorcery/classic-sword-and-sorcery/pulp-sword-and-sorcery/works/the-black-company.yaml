@@ -3,13 +3,14 @@ title: The Black Company
 authors:
 - Glen Cook
 first_published: 1984
-last_published: 2025
+last_published: 2026
 canonical_genre: pulp-sword-and-sorcery
 placement_status: accepted
 included_titles:
 - The Black Company
 - Shadows Linger
 - The White Rose
+- The Silver Spike
 - Shadow Games
 - Dreams of Steel
 - Bleak Seasons
@@ -18,6 +19,7 @@ included_titles:
 - Soldiers Live
 - Port of Shadows
 - Lies Weeping
+- They Cry
 cover_curation:
   status: complete
   source: Open Library
@@ -47,15 +49,109 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/14838541-L.jpg
   - title: Lies Weeping
     url: https://covers.openlibrary.org/b/id/15139060-L.jpg
+  latest_added_review: 2026-11-05 two added English print fronts inspected and localized; earlier eleven covers
+    not re-certified
+  latest_added_sources:
+  - https://www.blackgate.com/wp-content/uploads/2018/06/oie_11558360wYZzXP1.jpg
+  - https://mpd-biblio-covers.imgix.net/9781250405913.jpg
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/sword-and-sorcery/golden-age-sword-and-sorcery
     to match live tree; placement unchanged on site.'
   previous_canonical_genre: golden-age-sword-and-sorcery
 - date: '2026-09-26'
-  change: Golden Age S&S hidden by the curator's 19:52 ruling; card moved up to Pulp S&S, which now holds these works directly.
+  change: Golden Age S&S hidden by the curator's 19:52 ruling; card moved up to Pulp S&S, which now holds these
+    works directly.
 - date: '2026-10-08'
-  reason: Folded Port of Shadows (2018) and Lies Weeping (2025) into the series fiction under rule 11j; same leaf, no placement
-    change. The omnibuses Annals, Chronicles, Books of the South, The Many Deaths and The Return of the Black Company are
-    editions of volumes already on the card. They Cry (Macmillan on-sale date 2026-11-03) is unpublished and held. Intake
-    MC03471, MC03475, MC03459, MC03461, MC03479, MC03481, MC03482.
+  reason: Folded Port of Shadows (2018) and Lies Weeping (2025) into the series fiction under rule 11j; same leaf,
+    no placement change. The omnibuses Annals, Chronicles, Books of the South, The Many Deaths and The Return of
+    the Black Company are editions of volumes already on the card. They Cry (Macmillan on-sale date 2026-11-03)
+    is unpublished and held. Intake MC03471, MC03475, MC03459, MC03461, MC03479, MC03481, MC03482.
+- date: '2026-11-05'
+  reason: '2026-11-05 active-fiction scope completion: thirteen published novels. Added The Silver Spike (September1989)
+    and They Cry (November3,2026US hardcover, ownTor ISBN9781250405913). October8 note that They Cry is unpublished
+    is now stale, preserved only as dated history. Tor current full bibliography explicitly includes SilverSpike
+    and both PitilessRain novels. UK2027edition and stale expectedpublication labels do not supersede USoriginalon-sale.
+    NoSummerGrass/DarknessKnowsplannednovelsoromnibusduplicateadded. EnglishTorprintfronts SilverSpike1989/Berdak
+    andTheyCry2026 inspected flat/readable/localized. Samefictionnotnewcard. SilverSpikeownengine: northernleftbehindRaven/Case/Darling/Silent,graverobberstaketheDominator''ssoulspikefromOldFatherTree,quarantinedOar,wizardarmsraceandLimperrevenge,convergentbattleandbloodyends;notcorecompanycampaignbutsharedcontinuityexplicitpublisher.
+    LiesWeepingnewengine: armedcampinHsien,Arkana/Shukratannalists,distantreconnaissance,ruins,localromance/intrigue,CroakerasSteadfastGuardianexploringhistoryandLadyseekingdaughter''ssoul.
+    TheyCryownTor: girlsreturnwithpowerfulnewmagic,politicalandsupernaturalplots,theirguard''shumanityandrisk,SoulcatcherimprisonmentandHsienpowerbalance;independentreviewnotfound,soonlypublisherplotclaimed.
+    EarlierwholearcgroundedStrangeHorizonsretrospectiveandpublisher: NorthmercenaryserviceforLadythenrebellion,Dominatorreturn;SouthKhatovar/institutionalhistoryquest,Shadowmasters/Deceivers/Kina,Companysieges,leadershipstasis/Sleepers,WaterSleepsundergroundinSoulcatcher''scity,SoldiersLivePyrrhicvictory/Croakerbodyexchange.
+    RootFantasypositiveTaken/goddess/magic,nottechnologizedSF;FantasyrealmsthroughinventedNorth/SouthandHsien/GlitteringPlainotherworlds,noEarthparallel-earthevidenceorhistoricalfork.
+    MagicalstasisandCroaker''sastraltimevisionnotscience-fictiontimemachineengine. Wholefictionmilitaryandworldbuildingoverlapstrong,especiallylatebooks''explorationnotcombat;donotpretendallthirteenaresamedirectadventure.
+    ExistingS&Shomemaintainedbyuser''sexplicitOct4phonemsg-01M4365QDXX624V0Y07SSC1VBA: BlackCompanyshouldbesomewhereinS&S.
+    PulpdefinitionitselfnamesBlackCompany. ThisisnotanewMilitary/Soldiermoveandnotpermissiontowidengates. Whole-fictionauthorityphonemsg-01M66AQB0JEGYRYN8Q7XTWHVDXcoversmissingnovelsinthesamefiction.
+    Counts9Pulpfictionunchanged.'
+books:
+- title: The Black Company
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/6978703-L.jpg
+  shows_english_title: true
+- title: Shadows Linger
+  year: 1984
+  cover_url: https://covers.openlibrary.org/b/id/6874911-L.jpg
+  shows_english_title: true
+- title: The White Rose
+  year: 1985
+  cover_url: https://covers.openlibrary.org/b/id/603159-L.jpg
+  shows_english_title: true
+- title: The Silver Spike
+  year: 1989
+  cover_url: cover-black-company-silver-spike.jpg
+  shows_english_title: true
+- title: Shadow Games
+  year: 1989
+  cover_url: https://covers.openlibrary.org/b/id/603518-L.jpg
+  shows_english_title: true
+- title: Dreams of Steel
+  year: 1990
+  cover_url: https://covers.openlibrary.org/b/id/603084-L.jpg
+  shows_english_title: true
+- title: Bleak Seasons
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/603953-L.jpg
+  shows_english_title: true
+- title: She Is the Darkness
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/182506-L.jpg
+  shows_english_title: true
+- title: Water Sleeps
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/182508-L.jpg
+  shows_english_title: true
+- title: Soldiers Live
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/604076-L.jpg
+  shows_english_title: true
+- title: Port of Shadows
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/14838541-L.jpg
+- title: Lies Weeping
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15139060-L.jpg
+- title: They Cry
+  year: 2026
+  cover_url: cover-black-company-they-cry.jpg
+  shows_english_title: true
+placement_rationale: '2026-11-05 active-fiction scope completion: thirteen published novels. Added The Silver Spike
+  (September1989) and They Cry (November3,2026US hardcover, ownTor ISBN9781250405913). October8 note that They Cry
+  is unpublished is now stale, preserved only as dated history. Tor current full bibliography explicitly includes
+  SilverSpike and both PitilessRain novels. UK2027edition and stale expectedpublication labels do not supersede
+  USoriginalon-sale. NoSummerGrass/DarknessKnowsplannednovelsoromnibusduplicateadded. EnglishTorprintfronts SilverSpike1989/Berdak
+  andTheyCry2026 inspected flat/readable/localized. Samefictionnotnewcard. SilverSpikeownengine: northernleftbehindRaven/Case/Darling/Silent,graverobberstaketheDominator''ssoulspikefromOldFatherTree,quarantinedOar,wizardarmsraceandLimperrevenge,convergentbattleandbloodyends;notcorecompanycampaignbutsharedcontinuityexplicitpublisher.
+  LiesWeepingnewengine: armedcampinHsien,Arkana/Shukratannalists,distantreconnaissance,ruins,localromance/intrigue,CroakerasSteadfastGuardianexploringhistoryandLadyseekingdaughter''ssoul.
+  TheyCryownTor: girlsreturnwithpowerfulnewmagic,politicalandsupernaturalplots,theirguard''shumanityandrisk,SoulcatcherimprisonmentandHsienpowerbalance;independentreviewnotfound,soonlypublisherplotclaimed.
+  EarlierwholearcgroundedStrangeHorizonsretrospectiveandpublisher: NorthmercenaryserviceforLadythenrebellion,Dominatorreturn;SouthKhatovar/institutionalhistoryquest,Shadowmasters/Deceivers/Kina,Companysieges,leadershipstasis/Sleepers,WaterSleepsundergroundinSoulcatcher''scity,SoldiersLivePyrrhicvictory/Croakerbodyexchange.
+  RootFantasypositiveTaken/goddess/magic,nottechnologizedSF;FantasyrealmsthroughinventedNorth/SouthandHsien/GlitteringPlainotherworlds,noEarthparallel-earthevidenceorhistoricalfork.
+  MagicalstasisandCroaker''sastraltimevisionnotscience-fictiontimemachineengine. Wholefictionmilitaryandworldbuildingoverlapstrong,especiallylatebooks''explorationnotcombat;donotpretendallthirteenaresamedirectadventure.
+  ExistingS&Shomemaintainedbyuser''sexplicitOct4phonemsg-01M4365QDXX624V0Y07SSC1VBA: BlackCompanyshouldbesomewhereinS&S.
+  PulpdefinitionitselfnamesBlackCompany. ThisisnotanewMilitary/Soldiermoveandnotpermissiontowidengates. Whole-fictionauthorityphonemsg-01M66AQB0JEGYRYN8Q7XTWHVDXcoversmissingnovelsinthesamefiction.
+  Counts9Pulpfictionunchanged.'
+classification_sources:
+- https://torpublishinggroup.com/they-cry/?format=hardback&isbn=9781250405913
+- https://torpublishinggroup.com/the-silver-spike/
+- https://www.isfdb.org/cgi-bin/pl.cgi?47315=
+- https://books.google.com/books/about/The_Silver_Spike.html?id=WB9VlSDxjJ4C
+- https://www.blackgate.com/2018/06/12/an-end-to-the-end-the-silver-spike-by-glen-cook/
+- https://agreenmanreview.com/books/glen-cooks-the-books-of-the-south-shadow-games-dreams-of-steel-the-silver-spike/
+- https://strangehorizons.com/wordpress/non-fiction/lies-weeping-by-glen-cook/
