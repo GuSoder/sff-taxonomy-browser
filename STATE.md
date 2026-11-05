@@ -1755,3 +1755,7 @@ MC04775 queue2013 reprint, original1897. Root-down historical scientific marvel 
 
 ## 2026-11-05 Books of the Shaper whole3 -> War of immortals4
 MC04776/77/78 actual2012/2013/2013. Deathless sorcerers and Old Breed world-war vs personal quest/mage-training/mythology alternatives recorded with substantial wobble. Complete self-contained trilogy verified against author; early io9 four-volume plan rejected. Three English Orbit covers inspected/localized. NextMC04779 Those Who Walk in Darkness.
+
+
+## 2026-11-05 Soledad O Roark whole2 -> Orwellian statesmanship6
+MC04779/80 originals2003/2006, contradictory FF2004 rejected. Near-future gate rules out Superhero under Modern-day; ideological law criminalizes powered people and legal/extralegal police killing binds both novels, substantial noir/superhero wobble explicit. Two English jackets inspected/localized. Shaper042407cf liveQA/parent delivered11:04; Venus also delivered. NextMC04781 A Deeper Blue, check scope/eligibility before deeper research.
