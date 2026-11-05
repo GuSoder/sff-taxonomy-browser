@@ -1856,3 +1856,6 @@ PresidentBrainshort2010,Unlockednovella2014 sourceverified. Moonauthorcalls epis
 
 ## MC04867/68SeasonsOfChangewhole2 -> RetroSpaceOpera6
 SummerEnd2022/Fall2025not2020. Authorcurrentseries2,thirdinprogressJuly2026. WholeDavefreight/family/ventureandBenrescue/Venuswarchecked,HardSFOrbital/Western/Drama wobblesexplicit. EnglishS&S2023MMsummer/2025TPfallfrontslocal.835/2716/6336.NextMC04869.
+
+## MC04869/70Varley
+BlueChampagnepublisher8storycollectionskip; wholeThunderLightning4 -> TimeDistortion5. Localblackfieldtime/age/ratesgoverningtemporalpriorityoverstrongRetro. LastinventionFTLreader-sourcednotpublisherphysics. All4Englishprintfrontslocal.835/2717/6340.NextMC04871DemonwholeGaea3.
