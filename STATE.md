@@ -1925,3 +1925,5 @@ Localized all7legacyEnglishprintfronts after intermittentexternalloadfailures. T
 
 ## 2026-11-05 Imaro four novels
 AddedTrailBohu1985/NaamaWar2009afterwholefourwalk. Pulp9remains,lateepic/hiddenheirwobbleexplicitnotignored. Dossouyeauthor2017separateworldnotmerge. Counts835/2728/6383. TwoaddedEnglishpaperbackfrontsinspected/localized.
+
+Imaro live QA followup: new2visible; old2cardshadnojacketsandheroSFPLsticker. RecoveredcleanNightShadeprintfrontsandlocalizedboth. Awaitlatestdeploybeforecompletion.

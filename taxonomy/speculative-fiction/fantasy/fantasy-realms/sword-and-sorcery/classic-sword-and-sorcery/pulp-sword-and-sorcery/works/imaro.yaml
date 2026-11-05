@@ -25,8 +25,12 @@ placement_rationale: '2026-11-05 whole four-novel reinterrogation and scope repa
 books:
 - title: Imaro
   year: 1981
+  cover_url: cover-imaro-1.jpg
+  shows_english_title: true
 - title: The Quest for Cush
   year: 1984
+  cover_url: cover-imaro-2.jpg
+  shows_english_title: true
 - title: The Trail of Bohu
   year: 1985
   cover_url: cover-imaro-trail-bohu.jpg
@@ -38,15 +42,21 @@ books:
 cover_curation:
   status: complete
   source: Open Library (Night Shade 2006)
-  selected_url: https://covers.openlibrary.org/b/id/12967351-L.jpg
+  selected_url: cover-imaro-1.jpg
   shows_english_title: true
   visually_reviewed_on: '2026-10-17'
-  review_method: contact-sheet one-pass
+  review_method: '2026-11-05: existing book1 card lacked per-volume cover and hero was a library-stickered scan.
+    Replaced with clean flat Night Shade English print front from BlackGate tour; supplied distinct NightShade QuestforCush
+    flatprintfront to book2. Both visually inspected and localized; all4novels now have distinct jackets.'
   added_sources:
   - https://www.blackgate.com/wp-content/uploads/2020/11/imaro3_1.jpg
   - https://www.blackgate.com/wp-content/uploads/2009/12/naama-war.jpg
   added_review: Two added English paperback flatfronts inspected complete/localized. DAW1985TrailBohu andSwordSoul2009NaamaWar.
     Earlier2coverspreserved.
+  additional_sources:
+  - https://www.blackgate.com/2020/12/07/imaro-series-tour-guide/
+  - https://www.blackgate.com/wp-content/uploads/2008/05/saunders_imaro_nightshade_cover.jpg
+  - https://www.blackgate.com/wp-content/uploads/2008/05/imaro_cush_nightshade.jpg
 intake: ten-k walk v5 (queue ids MC01578 MC01579)
 placement_history:
 - date: '2026-10-17'
