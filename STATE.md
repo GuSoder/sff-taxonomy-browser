@@ -1919,3 +1919,6 @@ Added vols1/3, three published episodic novels, Pulp9 unchanged. Vol4 not releas
 
 ## 2026-11-05 Black Company thirteen novels
 Added SilverSpike1989 andnowreleasedTheyCryNov3,2026. PreserveuserS&ShomeOct4phonemsg-01M4365QDXX624V0Y07SSC1VBA;latearcworldbuildingwobbleexplicit. Counts835/2728/6381. TwoEnglishTorprintfrontsinspected/localized.
+
+## 2026-11-05 Fafhrd current-fiction cover stabilization
+Localized all7legacyEnglishprintfronts after intermittentexternalloadfailures. Two poor photographs replaced with cleanpublisherDarkHorseflatprintfronts. Countsunchanged835/2728/6381. All8localEnglishjacketsinspected,noformatdeletion.

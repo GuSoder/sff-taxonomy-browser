@@ -36,8 +36,38 @@ cover_curation:
   latest_added_cover: https://images.darkhorse.com/covers/400/13/13465.jpg
   selected_url: https://covers.openlibrary.org/b/id/10185696-L.jpg
   shows_english_title: true
-  review_method: one-pass series search
+  review_method: All eight current-fiction English print jackets now inspected/localized. Existing Mayflower angled
+    3D shot for Swords of Lankhmar replaced by publisher DarkHorse2008 flatprintfront600x918; Swords Against Death
+    bookshelf photo replaced by publisher DarkHorse2007flatfront400x612. Other five sameprintfronts retained. No
+    collection removed.
   latest_added_review: EnglishDarkHorse2009printfront400x610fullyinspected,cleanflatjacket,localized;earlier7coversnotrecertified
+  localization_2026_11_05:
+  - title: Swords and Deviltry
+    url: https://covers.openlibrary.org/b/id/6454202-L.jpg
+    localized: cover-fafhrd-swords-and-deviltry.jpg
+  - title: Swords Against Death
+    url: https://covers.openlibrary.org/b/id/12373476-L.jpg
+    localized: cover-fafhrd-swords-against-death.jpg
+  - title: Swords in the Mist
+    url: https://covers.openlibrary.org/b/id/14192616-L.jpg
+    localized: cover-fafhrd-swords-in-the-mist.jpg
+  - title: Swords Against Wizardry
+    url: https://covers.openlibrary.org/b/id/9923765-L.jpg
+    localized: cover-fafhrd-swords-against-wizardry.jpg
+  - title: The Swords of Lankhmar
+    url: https://covers.openlibrary.org/b/id/10185696-L.jpg
+    localized: cover-fafhrd-the-swords-of-lankhmar.jpg
+  - title: Swords and Ice Magic
+    url: https://covers.openlibrary.org/b/id/284629-L.jpg
+    localized: cover-fafhrd-swords-and-ice-magic.jpg
+  - title: The Knight and Knave of Swords
+    url: https://covers.openlibrary.org/b/id/12064958-L.jpg
+    localized: cover-fafhrd-the-knight-and-knave-of-swords.jpg
+  replacement_sources:
+  - https://www.darkhorse.com/books/13-462/lankhmar-book-5-the-swords-of-lankhmar/
+  - https://images.darkhorse.com/covers/600/13/13462.jpg
+  - https://www.darkhorse.com/books/13-393/lankhmar-book-2-swords-against-death/
+  - https://images.darkhorse.com/covers/400/13/13393.jpg
 placement_history:
 - date: '2026-09-23'
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/sword-and-sorcery to match live tree;
@@ -66,31 +96,31 @@ placement_history:
 books:
 - title: Swords and Deviltry
   year: 1970
-  cover_url: https://covers.openlibrary.org/b/id/6454202-L.jpg
+  cover_url: cover-fafhrd-swords-and-deviltry.jpg
   shows_english_title: true
 - title: Swords Against Death
   year: 1970
-  cover_url: https://covers.openlibrary.org/b/id/12373476-L.jpg
+  cover_url: cover-fafhrd-swords-against-death.jpg
   shows_english_title: true
 - title: Swords in the Mist
   year: 1968
-  cover_url: https://covers.openlibrary.org/b/id/14192616-L.jpg
+  cover_url: cover-fafhrd-swords-in-the-mist.jpg
   shows_english_title: true
 - title: Swords Against Wizardry
   year: 1968
-  cover_url: https://covers.openlibrary.org/b/id/9923765-L.jpg
+  cover_url: cover-fafhrd-swords-against-wizardry.jpg
   shows_english_title: true
 - title: The Swords of Lankhmar
   year: 1968
-  cover_url: https://covers.openlibrary.org/b/id/10185696-L.jpg
+  cover_url: cover-fafhrd-the-swords-of-lankhmar.jpg
   shows_english_title: true
 - title: Swords and Ice Magic
   year: 1977
-  cover_url: https://covers.openlibrary.org/b/id/284629-L.jpg
+  cover_url: cover-fafhrd-swords-and-ice-magic.jpg
   shows_english_title: true
 - title: The Knight and Knave of Swords
   year: 1988
-  cover_url: https://covers.openlibrary.org/b/id/12064958-L.jpg
+  cover_url: cover-fafhrd-the-knight-and-knave-of-swords.jpg
   shows_english_title: true
 - title: Swords Against the Shadowland
   year: 1998
