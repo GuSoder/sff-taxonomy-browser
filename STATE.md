@@ -1739,3 +1739,7 @@ MC04762 is Growing Up Weightless2022 reissue of existing MC04756, marked already
 
 ## 2026-11-05 Bronze Knight whole4 placed -> Champion of Realm6
 All4 novels (Eyes of God, Devil's Armor, Sword of Angels, Forever Knight) one fiction; shared world and continuation verified by publisher and detailed reviews of each volume. Continuing protector of Grimhold/Inhumans and war leadership beat exiled opening phase, personal grief, artifact quest and court politics; substantial wobble explicit in source-read walk. First novel2002 per contemporary Locus vs2001 copyright/date in ISFDB title preserved. Four English jackets inspected/localized; blank/placeholder OL3/4 rejected, paperbacks accepted. Next sequentialMC04768 Tyrants and Kings, not yet classified. Starfinder6a90afa4 live QA complete and delivered.
+
+
+## 2026-11-05 Tyrants and Kings whole3 -> War of humanity7
+Jackal1999/Grand Design2000/Saints2001, publisher series complete, contemporary Locus dates checked. Per-volume military/hero/political engine and author theme-shift evidence recorded; substantial political statecraft/Richius hero wobble not hidden. Whole-world ensemble war wins over the first-book-only warrior reading. Three English print jackets inspected/localized. Bronze Knight ba3eed6d live QA complete all4 covers, parent closeout delivered10:49. NextMC04772, MC04771 already on Bronze Knight.
