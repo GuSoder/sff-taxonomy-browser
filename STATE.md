@@ -1763,3 +1763,7 @@ MC04779/80 originals2003/2006, contradictory FF2004 rejected. Near-future gate r
 
 ## 2026-11-05 Paladin of Shadows whole6 -> Spytech7
 MC04781 plus later same fiction rows reconciled MC04781,MC04787,MC04794,MC04802,MC04819,MC04823. Explicit Katya implants+invented super-smallpox primary samples settle SFF eligibility, all6 plots audited. All six Baen images lowres158-160x240 disclosed. NextMC04782 A Hymn Before Battle / Posleen universe. No structural proposal.
+
+
+## 2026-11-05 active Posleen duplicate/edition reconciliation
+MC04782/83 existing whole12 Legacy Aldenata in Warzone Earth, not new fiction. Removed erroneous13th-card2013 revised edition into first-book edition metadata, publisher verified. Same-fiction queue rows reconciled: MC04782,MC04783,MC04786,MC04793,MC04796,MC04797,MC04798,MC04809,MC04811,MC04814,MC04827,MC04829,MC04830. No reclassification/full corpus audit. Totals831/2710/6303. NextMC04784 Against the Tide / Council Wars, inspect existing card first.
