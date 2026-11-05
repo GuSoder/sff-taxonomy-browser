@@ -1930,3 +1930,6 @@ Imaro live QA followup: new2visible; old2cardshadnojacketsandheroSFPLsticker. Re
 
 ## 2026-11-05 Thieves World whole-fiction repair
 Abbey-only card completed to11novels including samecontinuitySacredBand; movedPulp8/BorderlandMultiverse6becauseactualEarthcrossingsviaLemuria,homegroundSanctuaryreturns. No standalonebooksplit, no newgenre. Excludednewcollection/novella/uncertaincontinuityrowswithsources. ElevenEnglishprintfrontsinspected/localized. Counts835/2728/6393. Awaitdeploy/liveQA.
+
+## 2026-11-05 Raven/Elves samefiction
+Consolidatedalreadyexisting7+3novelcardsunderauthorprimarysameworldevidence. Whole10walkSoldier9unchanged(removeElves/addcombinedRaven),Pulp8->7. Counts835/2727/6393. All10Englishprintfrontsinspected/localized. Awaitdeploy/liveQA.
