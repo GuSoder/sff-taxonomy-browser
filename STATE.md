@@ -1850,3 +1850,6 @@ PresidentBrainshort2010,Unlockednovella2014 sourceverified. Moonauthorcalls epis
 
 ## MC04865Vampire$whole1 -> VampireHunt6
 1990first=2008Vampiresretitle/reprint. Fullnovelplotnotfilm,literalblessedsilver/Damnedpredators;modernVatican-backedcommercialhunters. Armorcharactersseparatebyexplicitpublicationnote. English2008Acefrontlocal.835/2714/6331.NextMC04866.
+
+## MC04866DaysOfFuturePastwhole3 -> PostApocalypticFantasy8
+2016/17trilogynot2022newnovel,notPOI. ActualdivineforwardtimeFantasyrootfirst,wholefutureCaliforniacollapse/questincludingAybem/spacecleanupchecked. Cyborg/Moonfineplotreaderconfidenceexplicit. ThreeEnglishpaperbackfrontsISBNlinked/local.835/2715/6334.NextMC04867SometimesintheFall.
