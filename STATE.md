@@ -1871,3 +1871,6 @@ Stark and the Star Kings: whole connected BrackettSolarSystem/Stark/Skaith + Ham
 
 ## 2026-11-05 bounded Classic audit closeout
 Well World scope3->10 novels restored, same Classic leaf after full walk. All10 English print fronts local and pixel checked; Ghost StraightGate original text connects Well and colony home, no unsupported alternateEarth or time travel. Author noncanonical-final2 caveat recorded, same shared setting. Classic6; no split warranted. Other survivors checked: Gulliver explicitOldMarsruling, Columbus physicalVenusvoyage, Stonehenge physicalgalaxyworlds notprovenalternateEarth, Arkad Baen/Locushumanvisitorquest, Gaea alreadycomplete. No gate changes. Counts835genres/2717fictions/6360books.
+
+## MC04872 Millennium whole1 -> PostApocalypticFantasy9
+1983firstnot1999reprint. Originalfinalcreatorvoice/freewill/evolution/Eden checkedprimary+EBSCO,notmeregodlikeAI;Fantasyrootbeforetimegate. LastAgealreadyfallenEarth/secwarspollution,notbiblicalangel/demonapocalypse.1983investigation/CouncilGateProjectstrongstraddlesrecorded.1999AceEnglishprintfrontlocal.835/2718/6361. Next04873PersistenceVisionformat then04874SlowApocalypse.
