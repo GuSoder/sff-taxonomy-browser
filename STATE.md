@@ -1927,3 +1927,6 @@ Localized all7legacyEnglishprintfronts after intermittentexternalloadfailures. T
 AddedTrailBohu1985/NaamaWar2009afterwholefourwalk. Pulp9remains,lateepic/hiddenheirwobbleexplicitnotignored. Dossouyeauthor2017separateworldnotmerge. Counts835/2728/6383. TwoaddedEnglishpaperbackfrontsinspected/localized.
 
 Imaro live QA followup: new2visible; old2cardshadnojacketsandheroSFPLsticker. RecoveredcleanNightShadeprintfrontsandlocalizedboth. Awaitlatestdeploybeforecompletion.
+
+## 2026-11-05 Thieves World whole-fiction repair
+Abbey-only card completed to11novels including samecontinuitySacredBand; movedPulp8/BorderlandMultiverse6becauseactualEarthcrossingsviaLemuria,homegroundSanctuaryreturns. No standalonebooksplit, no newgenre. Excludednewcollection/novella/uncertaincontinuityrowswithsources. ElevenEnglishprintfrontsinspected/localized. Counts835/2728/6393. Awaitdeploy/liveQA.
