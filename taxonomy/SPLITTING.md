@@ -139,3 +139,7 @@ The default split shape keeps the original node as umbrella ("never dissolve the
 Surface colony life native-life children were dissolved the same day on explicit curator dissolve phonemsg-01M6KC2485HR58QAEQYGPY5APW; nine fictions restored to the parent, subdivision retired.
 
 | 2026-11-05 | Comic space future | Space cadet comedy3 / Space envoy comedy3 / Space gang comedy4 | Governing comic engine: military machinery / interspecies representation / mismatched-cast misadventure. The curator approved the served 3/3/4 split with his own Space gang comedy name (phonemsg-01M6NGYC97EQD2FQA1HECN3N27, 2026-11-05 10:34:21 CET, original Approved read live in its naming exchange). Comic space future stays as umbrella with zero direct fictions. Bill exception follows all seven volumes. Imperium overlaps military and diplomacy but whole-fiction fool/valet engine wins. |
+
+
+## Evil empire fantasy (2026-11-05)
+Seed rather than split: Rebel 2 to 3 children, no existing card moves. Samizdat6/Tinderbox8 unchanged, new1 fiction6 novels. Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF.

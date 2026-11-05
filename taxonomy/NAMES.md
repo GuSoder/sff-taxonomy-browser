@@ -347,3 +347,7 @@ The curator approved the served 3/3/4 split with his own Space gang comedy name 
 
 ## Post-alien devastation (2026-11-05)
 Curator coined Post alien devastation (phonemsg-01M6P0RVDEABC3PPZ0R9SFQX07), approved hyphenated displayed Post-alien devastation (phonemsg-01M6P0SNH05832F272PCXACRGQ). Post prefix essential: earlier Alien invasion survival hid its aftermath parent and confused him. His name overrides proposed Post-alien-invasion survival, and intentionally drops siblings survival suffix.
+
+
+## Evil empire fantasy (2026-11-05)
+Evil empire fantasy is the curator name; familiar trope not formal subgenre, Reagan/Star Wars and game studio/comic associations disclosed. Replaces rejected Coalition and Empire in revolt. No franchise imagery. Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF.

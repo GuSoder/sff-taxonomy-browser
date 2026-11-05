@@ -1939,3 +1939,6 @@ Anji1publishedretainedPulp,Jan2027sequelnotadded. SwordDancer8allpublisherplotsr
 
 ## MC04896-98 DragonLordswhole3->Parody9
 Eachnovelownpublisher/finishedreviewschecked. Metatextualheroicquestsendupwinswhole3overCaper/latePoliticalGodhood;latehumordisagreementexplicitnotfirstbookshortcut. ThreeEnglishOrbitprintfrontslocal/visuallyinspected. 835/2728/6396. No gate, next04899EmpireStorms3. Deploy/liveQAremaining.
+
+## MC04899-04904 Evil empire seed, wholeSkovron6
+Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF. Rebel2->3 children;Samizdat6/Tinderbox8unchanged,new1fiction6novels. Local6Englishprintfronts.836nodes/2729fictions/6402books. NextMC04905BarricadeJonWallace. Deploy/liveQAremaining.

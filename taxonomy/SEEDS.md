@@ -93,3 +93,7 @@ The curator kept the entire seven-novel fiction in Comic space fiction as an exp
 
 ## Post-alien devastation (2026-11-05)
 Fourth cause leaf under Post-holocaust survival, seeded for Gunpowder & Embers2020 whole1 on curator Approved phonemsg-01M6P0SNH05832F272PCXACRGQ. Name his phonemsg-01M6P0RVDEABC3PPZ0R9SFQX07; initial missing Post confused ancestor placement. Thirty-year living aftermath fails Ruined Earth farther-future, no gate change; pandemic/nuclear/mixed-unspecified cause siblings fail. Alien dominions cult strand real but independent frontier recovery-key quest governs whole; military space ancestor fails. Lost knowledge quest7->6.
+
+
+## Evil empire fantasy (2026-11-05)
+Third Rebel child, one fiction/six novels, no moves. Explicit parent widening from colonized peoples to peoples under imperial rule including own subjects, with systematic terror/control and wider-than-city resistance axis. Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF.

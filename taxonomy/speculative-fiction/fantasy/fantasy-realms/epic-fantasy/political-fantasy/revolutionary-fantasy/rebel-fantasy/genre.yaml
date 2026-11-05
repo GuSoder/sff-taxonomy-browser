@@ -5,14 +5,25 @@ parent: revolutionary-fantasy
 children:
 - samizdat-fantasy
 - tinderbox-fantasy
+- evil-empire-fantasy
 works: []
 image: 305-rebel-fantasy.webp
 portrait: 305-rebel-fantasy.webp
-definition: 'Rebel fantasy of open revolt: colonized peoples take up arms, magic and banners against the occupying empire. Resistance-mode test: if the colonized
-  fight the empire in open revolt, it is Rebel fantasy; if the story''s resistance works by subversion from within the imperial order (infiltration, conspiracy, turning),
-  it is Insurgent fantasy. Umbrella since 2026-09-26: split-with-umbrella into Samizdat fantasy and Tinderbox fantasy by resistance engine (the curator ruling phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1).'
-status: leaf
+definition: 'Rebel fantasy of open resistance: peoples under imperial rule, including an empire''s own subjects, take up arms,
+  magic and common cause against imperial domination. Resistance-mode test: open resistance across communities belongs here;
+  subversion organized through turning the imperial machine from within belongs to Insurgent fantasy. Partitioned by governing
+  resistance engine: Samizdat fantasy (erased culture and memory), Tinderbox fantasy (the occupied-city street rising), Evil
+  empire fantasy (wider resistance against systematic imperial terror and control). The broadened subject scope was explicitly
+  approved 2026-11-05; inherited children keep their own narrower gates.'
+status: accepted
 history:
 - date: '2026-09-25'
-  change: Anti-colonial fantasy umbrella dissolved (the curator ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y); lifted directly under Revolutionary fantasy. The resistance-mode test stays in this def.
-ruling: 'Split-with-umbrella 2026-09-26 (phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1): two children by resistance engine - Samizdat fantasy (memory war: erased names, forbidden texts) and Tinderbox fantasy (open rising in the streets). Phoenix Extravagant moved to Insurgent fantasy (mode test re-applied); The Unconquered Country to the hanging list (no revolt engine).'
+  change: Anti-colonial fantasy umbrella dissolved (the curator ruling phonemsg-01M3D6BN40R19Y8KGXB8P9898Y); lifted directly
+    under Revolutionary fantasy. The resistance-mode test stays in this def.
+- date: '2026-11-05'
+  change: Seeded Evil empire fantasy; broadened colonized peoples to peoples under imperial rule, including own subjects.
+    Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87
+    and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF.
+ruling: 'Split-with-umbrella 2026-09-26 (phonemsg-01M3E8956VEW8AJ2Y7D9JVSQA1): two children by resistance engine - Samizdat
+  fantasy (memory war: erased names, forbidden texts) and Tinderbox fantasy (open rising in the streets). Phoenix Extravagant
+  moved to Insurgent fantasy (mode test re-applied); The Unconquered Country to the hanging list (no revolt engine).'
