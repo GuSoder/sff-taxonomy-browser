@@ -1722,3 +1722,9 @@ The curator kept the entire seven-novel fiction in Comic space fiction as an exp
 
 ## 2026-11-04 Comic space future rename
 Curator phonemsg-01M6KQKEP17D9YX9PE91HR3JTJ supplied name. Label and positive definition updated, no membership or portrait change, Bill exception retained. Stable id comic-space-fiction preserved. Ten fictions frozen; split still unapproved, intake cursor MC04762 paused.
+
+
+## 2026-11-05 Comic space future split executed
+The curator approved the served 3/3/4 split with his own Space gang comedy name (phonemsg-01M6NGYC97EQD2FQA1HECN3N27, 2026-11-05 10:34:21 CET, original Approved read live in its naming exchange). Comic space future stays as umbrella with zero direct fictions.
+- Cadet: Bill all7, Rats/Bats both, Wasp. Envoy: Condomnauts, Magnificent Wilf, whole Dilbia. Gang: Chilling Effect all3, Gods of Sagittarius, Spare Man, Imperium all3. All10 fictions and their21 volumes preserved. Bill explicit exception retained on its card, child definition and umbrella.
+- Portraits886B/887B/888B selected after full-size A/B review, no bows/text, concealed human hands. Positive definitions and ten updated root-down walks. Local QA then live deployment QA required before resuming MC04762.

@@ -1,24 +1,18 @@
 id: comic-space-fiction
 label: Comic space future
 parent: spacefaring-fiction
-children: []
-works:
-- bill-the-galactic-hero
-- condomnauts
-- fault-tolerance
-- rats-bats-and-vats
-- the-gods-of-sagittarius
-- the-imperium-series
-- the-magnificent-wilf
-- the-right-to-arm-bears
-- the-spare-man
-- wasp
+children:
+- space-cadet-comedy
+- space-envoy-comedy
+- space-gang-comedy
+works: []
 image: 569-comic-space-fiction.webp
 definition: Comic science fiction set in a future of travel, settlement, conflict or civilization beyond Earth,
   where comedy, parody or satire governs the story. Includes planetary colony comedies, comic military adventures
   and interstellar journeys. Its worlds are stable futuristic settings beyond Earth. Bill, the Galactic Hero remains
   here as a whole fiction by the curator’s explicit exception of 4 November 2026, including the time travel in its
-  sixth novel.
+  sixth novel. Umbrella since 5 November 2026, divided by governing comic engine into Space cadet comedy, Space
+  envoy comedy and Space gang comedy.
 status: accepted
 ruling: Owner ordered new Comic space fiction as Spacefaring child 8 after the Space opera bundle, October 7 2026
   10:36:53, phonemsg-01M4AR4A5WR9NSBVV611XE7B1F
@@ -27,3 +21,7 @@ history:
   change: Renamed from Comic space fiction to the curator’s own Comic space future (phonemsg-01M6KQKEP17D9YX9PE91HR3JTJ).
     Positive definition reworded to state the future setting explicitly. Scope, ten fictions, portrait, stable id
     and Bill exception unchanged. Split remains proposed, not approved.
+- date: '2026-11-05'
+  change: The curator approved the served 3/3/4 split with his own Space gang comedy name (phonemsg-01M6NGYC97EQD2FQA1HECN3N27,
+    2026-11-05 10:34:21 CET, original Approved read live in its naming exchange). Comic space future stays as umbrella
+    with zero direct fictions.
