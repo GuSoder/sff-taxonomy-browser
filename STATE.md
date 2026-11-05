@@ -1807,3 +1807,6 @@ Die-off9->8; simultaneous plague+mini-ice-age,22chapter long company extraction 
 
 ## MC04825 Von Neumanns War whole1 retained Warzone Earth4
 Contemporary open mechanical invasion not conscious imperial motive, significant engineering/hardSF straddle explicit. Mars biosphere-killing assertion removed as unverified. One English front local. Next new04831 After the Coup novella eligibility first;04832 Fuzzy Nation.
+
+## MC04831 short, MC04832 Fuzzy Nation1 retained Planet plunder5
+Author explicitly separate reboot continuity not Piper merge; extraction/personhood court conflict whole. CurrentTor2022English front local first2011 unchanged. AfterCoup author2008short-story skipped. Next04833 HeadOn/LockIn universe.

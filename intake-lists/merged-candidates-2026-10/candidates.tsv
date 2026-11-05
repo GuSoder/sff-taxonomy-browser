@@ -4829,8 +4829,8 @@ MC04827	Watch on the Rhine	John Ringo	2005	Baen	Baen category pages	1			duplicat
 MC04828	We Shall Rise	John Ringo	2021	Baen	Baen category pages	1			skip-anthology	0	; shared Black Tide anthology ancillary metadata already recorded MC04801,not separate novel card
 MC04829	When the Devil Dances	John Ringo	2002	Baen	Baen category pages	1			duplicate-existing-fiction	0	; already represented Legacy Aldenata whole12 in Warzone Earth; revised editions not extra novels
 MC04830	Yellow Eyes	John Ringo	2006	Baen	Baen category pages	1			duplicate-existing-fiction	0	; already represented Legacy Aldenata whole12 in Warzone Earth; revised editions not extra novels
-MC04831	After the Coup	John Scalzi	2010	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
-MC04832	Fuzzy Nation	John Scalzi	2011	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
+MC04831	After the Coup	John Scalzi	2010	Tor Books	Macmillan/Tor	1	Science Fiction		skip-short-story	0	; authorJuly20 2008 identifies After the Coup short story OldMansWar,2010ebook not first,not separate novel card; https://whatever.scalzi.com/2008/07/20/new-short-story-at-torcom-now-live/
+MC04832	Fuzzy Nation	John Scalzi	2011	Tor Books	Macmillan/Tor	1	Science Fiction		placed	0	; existing separate-continuity reboot whole1 retained Planet plunder5,author explicit no Piper merge; EnglishTor2022front local first2011
 MC04833	Head On	John Scalzi	2018	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
 MC04834	Lock In	John Scalzi	2014	Gollancz; Tor Books	Gollancz store; Macmillan/Tor	2	Science Fiction		new	0	author from tags (matches author seen elsewhere)
 MC04835	Metatropolis	John Scalzi	2010	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
