@@ -4,7 +4,7 @@ authors:
 - Isaac Asimov
 first_published: 1950
 last_published: 1998
-canonical_genre: future-history-in-space
+canonical_genre: star-empire-chronicles
 placement_status: accepted
 included_titles:
 - Foundation
@@ -40,17 +40,34 @@ cover_curation:
     url: https://covers.openlibrary.org/b/id/909032-L.jpg
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/future-history-in-space to match live tree; placement unchanged
-    on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/spacefaring-fiction/future-history-in-space
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: future-history-in-space
 - date: '2026-10-06'
-  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy we group shared universe books together''
-    (2026-10-06 9:55 AM)); merged: Foundation, Galactic Empire; re-walked root-down into future-history-in-space.'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in
+    this taxonomy we group shared universe books together'' (2026-10-06 9:55 AM)); merged: Foundation, Galactic
+    Empire; re-walked root-down into future-history-in-space.'
 - date: '2026-10-08'
-  reason: 'Folded Foundation and Chaos (Greg Bear, 1998): the first of the Second Foundation Trilogy, authorised by the Asimov estate and billed on gregbear.com as
-    a sequel to Asimov''s Foundation series. One universe, one fiction (rule 11j).'
-placement_rationale: 'Isaac Asimov''s Foundation future history as one fiction: the Galactic Empire novels and the Foundation books in one history of an empire''s
-  fall.'
+  reason: 'Folded Foundation and Chaos (Greg Bear, 1998): the first of the Second Foundation Trilogy, authorised
+    by the Asimov estate and billed on gregbear.com as a sequel to Asimov''s Foundation series. One universe, one
+    fiction (rule 11j).'
+- date: '2026-11-05'
+  from: future-history-in-space
+  to: star-empire-chronicles
+  reason: 'Root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Future history
+    in space > Star empire chronicles. Galactic Empire decline, psychohistory, Foundation crises and proposed successor
+    orders form one sustained imperial history. Existing Empire/Foundation novels and authorizedcontinuations remain
+    whole. Courtintrigue episodicstrands do not replace the civilizationalcourse. Curator Approved phonemsg-01M6P4XYQJCZ647JS4PF6F0A6D,
+    2026-11-05 16:23, on final names block phonemsg-01M6P4RCBZS1BJ6H7QZYCJ169W. Original umbrella retained zero
+    direct fictions; actual whole-fiction partition 3/4/3, not per-volume placements.'
+placement_rationale: 'Isaac Asimov''s Foundation future history as one fiction: the Galactic Empire novels and the
+  Foundation books in one history of an empire''s fall. Split2026-11-05: Root-down: Speculative fiction > Science
+  fiction > Futurist SF > Spacefaring fiction > Future history in space > Star empire chronicles. Galactic Empire
+  decline, psychohistory, Foundation crises and proposed successor orders form one sustained imperial history. Existing
+  Empire/Foundation novels and authorizedcontinuations remain whole. Courtintrigue episodicstrands do not replace
+  the civilizationalcourse. Curator Approved phonemsg-01M6P4XYQJCZ647JS4PF6F0A6D, 2026-11-05 16:23, on final names
+  block phonemsg-01M6P4RCBZS1BJ6H7QZYCJ169W. Original umbrella retained zero direct fictions; actual whole-fiction
+  partition 3/4/3, not per-volume placements.'
 books:
 - title: Pebble in the Sky
   year: 1950

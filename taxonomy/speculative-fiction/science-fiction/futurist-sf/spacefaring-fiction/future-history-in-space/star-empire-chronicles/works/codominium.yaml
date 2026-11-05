@@ -13,21 +13,27 @@ authors:
 - Doug McElwain
 - Mark Moeser
 first_published: 1974
-canonical_genre: future-history-in-space
+canonical_genre: star-empire-chronicles
 placement_status: accepted
-placement_rationale: 'Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Future history in space.
-  The whole CoDominium/Empire of Man universe narrates ten centuries: declining CoDominium and colonial contingency plans,
-  First Empire creation and destruction, Sauron/Haven resistance and Second Empire reintegration/contact. First contact fits
-  Mote alone, not the entire fiction. Military command/mercenary modes fit Falkenberg alone, not Mote or Outies; colony politics
-  fits selected worlds, not the whole historical course. No continuous single court or succession contest, closed oppressive
-  order as horror, rigorous scientific problem-solving or computation/identity-transfer engine spans all volumes. Shared universe
-  is one fiction under curator ruling phonemsg-01M483CARNEF5RBAW6KCCVW1ST and authority clarification phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
-  (2026-10-30). Original Future history in space definition unchanged. Expanded from existing Mote2 to16distinct novels, not16additions.
-  Sources: https://www.baen.com/Chapters/A9781982124175/A9781982124175___6.htm ; https://sf-encyclopedia.com/entry/pournelle_jerry
-  ; https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/series.html . Ending limits: Blood Vengeance, Cyborg Revolt,
-  Andromeda Flight and The Falkenberg Protectorate are grounded at publisher-premise level, not independently verified complete
-  endings. Birth of Fire/Exiles to Glory/High Justice are a separate no-FTL universe per Pournelle; anthologies, omnibuses,
-  source stories and reprints excluded. Outies2010ebook precedes2011paperback.'
+placement_rationale: 'Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Future history
+  in space. The whole CoDominium/Empire of Man universe narrates ten centuries: declining CoDominium and colonial
+  contingency plans, First Empire creation and destruction, Sauron/Haven resistance and Second Empire reintegration/contact.
+  First contact fits Mote alone, not the entire fiction. Military command/mercenary modes fit Falkenberg alone,
+  not Mote or Outies; colony politics fits selected worlds, not the whole historical course. No continuous single
+  court or succession contest, closed oppressive order as horror, rigorous scientific problem-solving or computation/identity-transfer
+  engine spans all volumes. Shared universe is one fiction under curator ruling phonemsg-01M483CARNEF5RBAW6KCCVW1ST
+  and authority clarification phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX (2026-10-30). Original Future history in space
+  definition unchanged. Expanded from existing Mote2 to16distinct novels, not16additions. Sources: https://www.baen.com/Chapters/A9781982124175/A9781982124175___6.htm
+  ; https://sf-encyclopedia.com/entry/pournelle_jerry ; https://archives.sbu.edu/carr/Pequod_Press_Website_Archive/series.html
+  . Ending limits: Blood Vengeance, Cyborg Revolt, Andromeda Flight and The Falkenberg Protectorate are grounded
+  at publisher-premise level, not independently verified complete endings. Birth of Fire/Exiles to Glory/High Justice
+  are a separate no-FTL universe per Pournelle; anthologies, omnibuses, source stories and reprints excluded. Outies2010ebook
+  precedes2011paperback. Split2026-11-05: Root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring
+  fiction > Future history in space > Star empire chronicles. CoDominium repression and decline, mercenary era,
+  WarWorld colonial aftermath, rise/fall/rebuilding of Empires of Man and Mote contact form one shared future history.
+  The CD begins as an alliance, but the whole course follows successive overarching orders rather than an enduring
+  federation. Curator Approved phonemsg-01M6P4XYQJCZ647JS4PF6F0A6D, 2026-11-05 16:23, on final names block phonemsg-01M6P4RCBZS1BJ6H7QZYCJ169W.
+  Original umbrella retained zero direct fictions; actual whole-fiction partition 3/4/3, not per-volume placements.'
 books:
 - title: The Mote in God's Eye
   year: 1974
@@ -99,8 +105,9 @@ cover_curation:
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
   status: complete
   visually_reviewed_on: '2026-10-30'
-  review_method: All16 covers inspected in contact sheet; King David and Battle of Sauron title-page images rejected and replaced
-    with publisher covers; two replacements inspected separately. Existing representative Mote cover preserved.
+  review_method: All16 covers inspected in contact sheet; King David and Battle of Sauron title-page images rejected
+    and replaced with publisher covers; two replacements inspected separately. Existing representative Mote cover
+    preserved.
   source_selected_url: https://covers.openlibrary.org/b/id/9261060-L.jpg
 provenance: Generated 2026-09-23 by mirror sync from live index.html card data; no reclassification.
 intake: ten-k walk v5 MC04506; existing Mote2 plus14distinct eligible novels
@@ -174,5 +181,14 @@ placement_history:
   from_title: The Mote in God's Eye
   to_title: CoDominium
   authority: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
-  reason: Shared universe consolidation, whole-fiction classification and14eligible novel additions under clarified individual
-    fiction authority; no new genre or definition change.
+  reason: Shared universe consolidation, whole-fiction classification and14eligible novel additions under clarified
+    individual fiction authority; no new genre or definition change.
+- date: '2026-11-05'
+  from: future-history-in-space
+  to: star-empire-chronicles
+  reason: 'Root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Future history
+    in space > Star empire chronicles. CoDominium repression and decline, mercenary era, WarWorld colonial aftermath,
+    rise/fall/rebuilding of Empires of Man and Mote contact form one shared future history. The CD begins as an
+    alliance, but the whole course follows successive overarching orders rather than an enduring federation. Curator
+    Approved phonemsg-01M6P4XYQJCZ647JS4PF6F0A6D, 2026-11-05 16:23, on final names block phonemsg-01M6P4RCBZS1BJ6H7QZYCJ169W.
+    Original umbrella retained zero direct fictions; actual whole-fiction partition 3/4/3, not per-volume placements.'

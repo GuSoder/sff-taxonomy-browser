@@ -1,17 +1,13 @@
 id: future-history-in-space
 label: Future history in space
 parent: spacefaring-fiction
-children: []
+children:
+- star-empire-chronicles
+- star-alliance-chronicles
+- star-diaspora-chronicles
 image: 38-future-history.webp
 definition: Works tracing a sustained future course of interstellar human civilization.
-status: accepted
-works:
-- slow-gods
-- alliance-union
-- foundation
-- island-worlds
-- the-humanx-commonwealth
-- poseidons-children
-- codominium
-- count-to-the-eschaton
-- theirs-not-to-reason-why-universe
+status: umbrella
+works: []
+approval: Curator Approved phonemsg-01M6P4XYQJCZ647JS4PF6F0A6D, 2026-11-05 16:23, on final names block phonemsg-01M6P4RCBZS1BJ6H7QZYCJ169W.
+  Original umbrella retained zero direct fictions; actual whole-fiction partition 3/4/3, not per-volume placements.
