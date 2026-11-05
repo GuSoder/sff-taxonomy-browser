@@ -1910,3 +1910,6 @@ Eachnovelownengine/Slaversfinal37read. StatedNehonIgulbookmap/narrative FantasyR
 
 ## FrozenPulpS&Sreinterrogation:TowerFear->Tinderbox8
 WholeoriginalclimaxopenLivingrebellion/occupiedcityregimechangeconfirmsPolitical/Rebel/Tinderbox,notoldPWlabelonlyS&S. Pulp10->9,noPulpSplitgate. Counts835/2728/6376unchanged. Remainingboundedwhole-fictionbookscoperepairsPulp:BlackCompany/Hanuvar/Imaro/ThievesWorld/Fafhrdformats;noothermoveornewgenreapproved.
+
+## 2026-11-05 Fafhrd scope completion
+Added Bailey Swords Against the Shadowland1998,onePulpfictioneightdisplayedbooks,2009EnglishDarkHorseprintjacketinspected/localized. Sixlegacycollectionsleftunchanged:ownerexclusionoriginalnotfound,parentwithdrewdeletion19:52. Counts835/2728/6377.
