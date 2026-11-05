@@ -2,38 +2,143 @@ id: the-saga-of-the-well-world
 title: The Saga of the Well World
 authors:
 - Jack L. Chalker
-first_published: 1993
+first_published: 1977
 canonical_genre: classic-planetary-romance
 placement_status: accepted
-placement_rationale: 'Full root-down walk: Science fiction (not fantasy: the Well World is a machine - a planet-sized computer
-  built by the vanished Markovians, and the transformations are its engineering) > Atemporal (not Futurist/Historical/Modern
-  day: the Well World sits outside any usable timeline, an invented world) > Science fantasy (SFE''s own words: ''a Science
-  and Sorcery world... a game-board'', transformation tropes out of science fantasy - fantasy surfaces on a scientific engine)
-  > Planetary romance (adventure on an exotic alien world or habitat carrying the sweep and furniture of fantasy: the Well
-  World''s hexes of alien races are exactly that) > Classic planetary romance (not Lost-colony - these are not descendants
-  of forgotten settlers; not Far-future - the heroes are not natives of a far future where Earth is forgotten: they are travelers
-  from human space - Nathan Brazil, the Watchers, the crews marooned there - who arrive at the Well World and adventure across
-  it. Visitor is how the hero stands to Earth). The three queue volumes of the saga: Echoes of the Well of Souls (Watchers
-  at the Well 1, 1993), The Sea Is Full of Stars (1999) and Ghost of the Well of Souls (2000), the concluding duology (SFE,
-  Wikipedia, ISFDB). One universe fiction per rule 11j; earlier volumes fold on as they surface.'
+placement_rationale: 'Bounded Classic planetary romance integrity repair, 2026-11-05. The whole Well World fiction
+  is ten novels, not just the three intake queue volumes previously displayed. SFE and the author''s own bibliography
+  establish the original five, Watchers at the Well three and final two. Shared setting remains one card. Caveat
+  preserved: Chalker calls The Sea Is Full of Stars and Ghost of the Well of Souls ''non-canonical'', with new characters
+  and no Brazil/Chang/Markovians, but explicitly calls them Well books, a two-volume story in new areas of the same
+  map. This is an author-written setting offshoot, not grounds to split one shared fiction into separate cards.
+  No unrelated Chalker fiction added; Watchers omnibus is not an extra novel.
+
+
+  Each book''s own engine read in publisher copy, corroborated by whole-series SFE and independent reviews. Midnight
+  (1977): Brazil''s freighter party answers a distress call, enters the Well, is transformed into hex species and
+  must reach its master control. Exiles (1978): syndicate head Antor Trellig seizes Zinder''s godlike computer;
+  hired Mavra Chang pursues him, and all are drawn to the Well and transformed amid a power struggle. Quest (1978):
+  Mavra, trapped in an altered body, seeks the hidden northern spaceship to reach orbiting Obie and reverse the
+  transformation while enemies plan her death and their escape. Return (1980): anti-Dreel superweapon damages reality''s
+  control; Chang and Obie search for Brazil, the surviving Markovian able to repair the Well. Twilight (1980): the
+  growing spatial rift threatens the Well; Brazil and Chang must cross a war-torn world to repair/reset its computer
+  before enemies kill them. Echoes (1993): an entity released from ancient prison threatens to corrupt the Well;
+  weary guardians are summoned again. Shadow (1994): Brazil and Chang return as estranged rivals and find impossible
+  changes to the programmed evolution of hexes and to Brazil himself. Gods (1994): Brazil''s will is invaded and
+  Chang is drugged/genetically altered and enslaved; the machine and companions must get its guardians back while
+  the ancient Kraang manipulates them. Sea (1999): star-liner passengers are drawn into Kincaid''s vendetta against
+  Josich, through a criminal cyberworld into the Well''s water hexes. Ghost (2000): Josich seeks eight pieces of
+  the Straight Gate while Core, Ming/Ari, Jaysu and O''Leary resist with an unexpected cloning ally. Ghost primary
+  text, part8, explicitly explains the paired Straight Gates as back-and-forth transport between the Well and the
+  travelers'' colony home among the stars; it is not evidence of alternate versions of Earth merely because the
+  blurb says ''between universes''.
+
+
+  Full actual-tree walk: Speculative fiction > Science fiction > Atemporal SF > Science fantasy > Planetary romance
+  > Classic planetary romance. Root: the apparent magic, transformations, godlike control and biological miracles
+  are engineered by a planet-sized computer and its mathematics, not literal supernatural powers. Gods publisher
+  explicitly says even the Well is only a machine. Historical, Modern day and Futurist lose the whole fiction''s
+  engineered world outside a usable Earth timeline and multiple recreated cosmoses; Watchers'' contemporary Earth
+  opening and the original books'' interstellar societies are real straddles, not separate placements. The any-time-travel
+  test was checked first: resets/re-creation and immortal survival across cosmic ages are not themselves proof that
+  a character travels backward or forward in time. No sourced actual temporal trip found in these own plots, so
+  no Time travel gate asserted. Parallel-world fiction is a serious losing route: the original Markovian substrate
+  and layered artificial cosmos are different scales of a constructed reality, not demonstrated parallel variants
+  of history; Ghost''s gate is explicitly to the same colony home. No invented parallel-Earth claim. Reincarnation
+  loses repeated mortal lives; Fabulation loses storytelling/form engine; New Weird loses that mode to conventional
+  adventure.
+
+
+  Science fantasy children tested: Hard science fantasy loses teleporting gates, variable physical laws and reality
+  construction; Old Mars loses the setting; Ozymandian tech is a substantial ancient-machine cousin, but traversal/adventure
+  across the actively maintained hex laboratory and the travelers'' body changes, not excavation or worship of a
+  buried technological ruin, is the sustained engine. Planetary romance: fantasy-shaped adventure on the exotic
+  engineered habitat, as SFE''s Science and Sorcery/game-board account supports. Its three children divide how the
+  hero stands to Earth: Lost-colony loses forgotten settler descendants as protagonists; Far-future loses native
+  far-future peoples with Earth forgotten; Classic fits arrivals from Earth/human space adventuring through the
+  hexes. Brazil is himself a hidden Markovian, a real visitor-identity wobble, not a claim that every protagonist
+  is an Earth-born human. Watchers opens on Earth; the final duo uses fresh arrivals. No definition changes, seed,
+  split or sweep. Six fictions remain in Classic.
+
+
+  Dates from SFE and author, not later edition dates. Return is 1980 per author and SFE, despite some secondary
+  lists saying1979. The ten localized English print fronts were inspected as actual pixels. First five are Baen
+  2002-2005 paperback reprints from publisher pages; Echoes Del Rey publisher front; Shadow clean Del Rey trade
+  front and Gods Del Rey mass-market front from ISBN-linked Open Library records; final two Del Rey fronts from
+  SFE. Rejected two misleading scans: Shadow with a library sticker and Gods title page, replacing both before publication.
+  No omnibus or audio covers.'
 books:
+- title: Midnight at the Well of Souls
+  year: 1977
+  cover_url: cover-well-world-1.jpg
+  shows_english_title: true
+- title: Exiles at the Well of Souls
+  year: 1978
+  cover_url: cover-well-world-2.jpg
+  shows_english_title: true
+- title: Quest for the Well of Souls
+  year: 1978
+  cover_url: cover-well-world-3.jpg
+  shows_english_title: true
+- title: The Return of Nathan Brazil
+  year: 1980
+  cover_url: cover-well-world-4.jpg
+  shows_english_title: true
+- title: Twilight at the Well of Souls
+  year: 1980
+  cover_url: cover-well-world-5.jpg
+  shows_english_title: true
 - title: Echoes of the Well of Souls
   year: 1993
-  cover_url: https://covers.openlibrary.org/b/id/207667-L.jpg
+  cover_url: cover-well-world-6.jpg
+  shows_english_title: true
+- title: Shadow of the Well of Souls
+  year: 1994
+  cover_url: cover-well-world-7.jpg
+  shows_english_title: true
+- title: Gods of the Well of Souls
+  year: 1994
+  cover_url: cover-well-world-8.jpg
+  shows_english_title: true
 - title: The Sea Is Full of Stars
   year: 1999
-  cover_url: https://covers.openlibrary.org/b/id/208331-L.jpg
+  cover_url: cover-well-world-9.jpg
+  shows_english_title: true
 - title: Ghost of the Well of Souls
   year: 2000
-  cover_url: https://covers.openlibrary.org/b/id/208330-L.jpg
+  cover_url: cover-well-world-10.jpg
+  shows_english_title: true
 cover_curation:
   status: complete
-  source: Open Library / publisher
-  selected_url: https://covers.openlibrary.org/b/id/207667-L.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
+  source: Baen first5 paperback reprint fronts, PRH Echoes print front, clean OpenLibrary Shadow/Gods print fronts,
+    SFE last2 print fronts
+  visually_reviewed_on: '2026-11-05'
+  review_method: All10 actual pixels inspected; library-sticker and titlepage scans rejected; localized
 intake: ten-k walk v5 (queue ids MC04067, MC04070, MC04068)
 placement_history:
 - date: '2026-10-04'
   to: classic-planetary-romance
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-05'
+  reason: Whole ten-novel scope restored from SFE/author bibliography; same Classic leaf after whole-fiction/root-down
+    walk; no genre mutation.
+cover_url: cover-well-world-1.jpg
+classification_sources:
+- https://sf-encyclopedia.com/entry/chalker_jack_l
+- http://www.jackchalker.com/jlc-bib.htm
+- https://en.wikipedia.org/wiki/Well_World
+- https://www.baen.com/midnight-at-the-well-of-souls.html
+- https://www.baen.com/exiles-at-the-well-of-souls.html
+- https://www.baen.com/quest-for-the-well-of-souls.html
+- https://www.baen.com/the-return-of-nathan-brazil.html
+- https://www.baen.com/twilight-at-the-well-of-souls.html
+- https://www.penguinrandomhouse.com/books/25837/echoes-of-the-well-of-souls-by-jack-l-chalker/
+- https://www.hachette.co.uk/titles/jack-l-chalker/shadow-of-the-well-of-souls/9780575100015/
+- https://www.hachette.co.uk/titles/jack-l-chalker/gods-of-the-well-of-souls/9780575100152/
+- https://www.penguinrandomhouse.com/books/25877/the-sea-is-full-of-stars-by-jack-l-chalker/
+- https://www.penguinrandomhouse.com/books/25842/ghost-of-the-well-of-souls-by-jack-l-chalker/
+- https://sfbook.com/echoes-of-the-well-of-souls.htm
+- https://sfreader.com/r/book-review/science-fiction/the-sea-is-full-of-stars-by-jack-l-chalker/
+- https://fictionbooks.top/ghost-of-the-well-of-souls-262930/read/part-8
+- https://sf-encyclopedia.com/gallery.php?id=Chalker-SeaFull.jpg
+- https://sf-encyclopedia.com/gallery.php?id=Chalker-GhostWell.jpg

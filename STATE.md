@@ -1868,3 +1868,6 @@ NorthwestSmith all-shortstorycollection excluded+preserved exclusionrecord. Whol
 
 ## 2026-11-05 bounded Rhiannon shared-fiction repair
 Stark and the Star Kings: whole connected BrackettSolarSystem/Stark/Skaith + HamiltonStarKings10novels -> Overclockian6; Classic6. Explicitsameuniverseauthorscrossover, exactprivateownertest, Reaverslinkedmindscoldrationalization verifiedprimary notgoddessreviewshorthand. TenEnglishprintfrontslocalized/pixelchecked, no genrechange. Intake frozen pending remaining Classic integrity closeout.
+
+## 2026-11-05 bounded Classic audit closeout
+Well World scope3->10 novels restored, same Classic leaf after full walk. All10 English print fronts local and pixel checked; Ghost StraightGate original text connects Well and colony home, no unsupported alternateEarth or time travel. Author noncanonical-final2 caveat recorded, same shared setting. Classic6; no split warranted. Other survivors checked: Gulliver explicitOldMarsruling, Columbus physicalVenusvoyage, Stonehenge physicalgalaxyworlds notprovenalternateEarth, Arkad Baen/Locushumanvisitorquest, Gaea alreadycomplete. No gate changes. Counts835genres/2717fictions/6360books.
