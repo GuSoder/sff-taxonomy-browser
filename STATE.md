@@ -1942,3 +1942,8 @@ Eachnovelownpublisher/finishedreviewschecked. Metatextualheroicquestsendupwinswh
 
 ## MC04899-04904 Evil empire seed, wholeSkovron6
 Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF. Rebel2->3 children;Samizdat6/Tinderbox8unchanged,new1fiction6novels. Local6Englishprintfronts.836nodes/2729fictions/6402books. NextMC04905BarricadeJonWallace. Deploy/liveQAremaining.
+
+Evil empire 1d916bcf live visually verified 21:41; portrait and six loaded jackets inspected, parent informed.
+
+## MC04905-04907 Kenstibec3->Nuked5
+Every novel own official/finished-review read. Nuclear ruins/rebuilding communities throughout, mixed-cause/artificial-human identity wobble explicit; no Robot gate widening. Three localized later English Gollancz print fronts inspected.836/2730/6405. NextMC04915FreeBastardswholeLotLands. Deploy/liveQAremaining.
