@@ -1783,3 +1783,6 @@ Allston2 were only tiny part, root missed psychic communication. Whole17 license
 
 ## Future war frozen audit COMPLETE, corrected7, split unnecessary
 Source-read remaining whole7 including Council, retained all with explicit whole-fiction wobbles: War Girls afterwar/space2, Cry Pilot space3, Forever Peace apocalypse/peace conspiracy. Three false tenants removed: Ninth City Burning multiverse, Ander Rade noir, Terminator time travel. No structural decision served or open. Resume ordered intake after MC04784 once latest deployment/liveQA complete.
+
+## MC04785 TransDimensional Hunter whole4 restored, Future war8
+Explicit future blocks Warzone Earth ancestor. Primary particle-perception mechanism does not establish parallel Earths. No false multiverse move. All4 English Baen lowres fronts localized, no new fiction. Next unresolved MC04788 Citadel.
