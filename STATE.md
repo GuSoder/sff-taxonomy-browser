@@ -1798,3 +1798,6 @@ Curator Approved phonemsg-01M6P0SNH05832F272PCXACRGQ15:11:24 to exact served see
 
 ## MC04801 Black Tide Rising whole11 -> Post-pandemic mutants6
 Whole shared world11 regular published novels2013-25 restored from6, first2013 fixed; Zombie virus7->6. Living aftermath/reconstruction whole outweighs outbreak portions in Graveyard/Valley/Gannon World, no ancestor edits. All11 English fronts local.4anthologies+2023graphic ancillary, King FlorCubaTamp delayed primary despite2025 catalogues, World We Forge2027 anthology partial/eARC excluded. NextMC04802 already Paladin; check04803.
+
+## MC04806/07 Special Circumstances whole2 retained Demon counter ops3
+Episodic volumes form caveat explicit, no internal-story extra cards; faith/damnation operational response strongest despite genuine Old Ones opening/finale and Queen astral rescue. Current secret-service direct Urban route repaired in rationale.2English Baen fronts local. Next new04813 Last Centurion.
