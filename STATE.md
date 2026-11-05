@@ -1816,3 +1816,6 @@ Bothnovels independently researched mediated humanembodiment,policeprocedural an
 
 ## MC04835Metatropolis anthology skip, MC04836MonstersofOhio1 SatiricalSF8
 PublishedUSNov3UKNov5confirmed author/currentpublisher. Satirehumanpredators/kindmonsters, causaluncertaintyrecorded no inventedalien/Cthulhu/fungus. Tor2026Englishfrontlocal.832/2711/6328. Next04837OldMansWarshareduniverse rewalk.
+
+## MC04837 OldMansWar7 moved Futurehistory valid9 nominal10
+Wholecivilizationchronicle not supersoldieronly;all7Englishfrontslocal. SlowGods knowninvalidFuturistroot12secbackwards,nohonestterminalTimeTravelleaf,pendingcuratordiscussion;excludeinvalidtenantfromsplitcount.832/2711/6328unchanged. No nextintake untilSlowdecision.
