@@ -1865,3 +1865,6 @@ Whole3plotsandbiotechrootchecked,HardScienceFantasyknownphysicsnotcertified,BDOl
 
 ## 2026-11-05 bounded Classic planetary romance repair batch1
 NorthwestSmith all-shortstorycollection excluded+preserved exclusionrecord. WholeSpaceTrilogy3->ModernBiblicalMyth3, literalworkingChristianpowers; wholeKane3->DIYrewind9, actualpasttrip + laterprivaterebuild controlswholefiction. BoththreebookfrontsetsEnglishprintlocalized/pixelchecked. Classic10->7; no split warranted. Rhiannon mechanism/sharedBrackettSolarSystem scope still underresearch, no move yet. Intake remains frozen until leaf settled. No definition changes.
+
+## 2026-11-05 bounded Rhiannon shared-fiction repair
+Stark and the Star Kings: whole connected BrackettSolarSystem/Stark/Skaith + HamiltonStarKings10novels -> Overclockian6; Classic6. Explicitsameuniverseauthorscrossover, exactprivateownertest, Reaverslinkedmindscoldrationalization verifiedprimary notgoddessreviewshorthand. TenEnglishprintfrontslocalized/pixelchecked, no genrechange. Intake frozen pending remaining Classic integrity closeout.
