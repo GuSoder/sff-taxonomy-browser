@@ -1751,3 +1751,7 @@ Primary BSFA author rigorous-physics/solar-system-divergence statement + UK publ
 
 ## 2026-11-05 A Trip to Venus1897 -> Scientific adventure8
 MC04775 queue2013 reprint, original1897. Root-down historical scientific marvel voyage wins over planetary romance and modern Hard SF. Original English decorated cloth front inspected/localized. NextMC04776 Books of the Shaper whole trilogy.
+
+
+## 2026-11-05 Books of the Shaper whole3 -> War of immortals4
+MC04776/77/78 actual2012/2013/2013. Deathless sorcerers and Old Breed world-war vs personal quest/mage-training/mythology alternatives recorded with substantial wobble. Complete self-contained trilogy verified against author; early io9 four-volume plan rejected. Three English Orbit covers inspected/localized. NextMC04779 Those Who Walk in Darkness.
