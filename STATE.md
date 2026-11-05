@@ -1829,3 +1829,6 @@ Star empire chronicles3 / Star alliance chronicles4 / Star diaspora chronicles3.
 
 ## 2026-11-05 MC04838 Redshirts whole1 -> Time door2
 Integralplannedpastjourneythroughblackholeandback, not builttimeapparatus; Scripted4->3, TimeDoor1->2. No definition changes.2013Englishprintfrontlocal,2012firstyearretained.835nodes/2711fictions/6328books unchanged. NextMC04839 ShadowWarNightDragons prologuerow, inspectformat.
+
+## 2026-11-05 MC04839/40format skips, MC04841AndroidsDream -> Spaceenvoy4
+NightDragonshortstory, MonstersOhioexcerpt skippedsourcegrounded. AndroidsDream1futureinterstellardiplomaticcomedy movedfromModernSatirical8->7 toSpaceEnvoy3->4, no gateedit;2019TorEnglishprintfrontlocal,2006firstyear.835/2711/6328 unchanged. Next04842EndAllThingscomponentrows, alreadywholeOMW7 coversnovels.

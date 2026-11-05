@@ -4837,9 +4837,9 @@ MC04835	Metatropolis	John Scalzi	2010	Tor Books	Macmillan/Tor	1	Science Fiction	
 MC04836	Monsters of Ohio	John Scalzi	2026	Tor Books	Macmillan/Tor	1	Science Fiction		placed	0	; whole1 SatiricalSF7->8, publishedUSNov3UKNov5nowverified,localEnglishTor2026front, creaturefeature/horrorrealwobble sourcescausaluncertaintyexplicit
 MC04837	Old Man's War Series	John Scalzi	2016	Tor Books	Macmillan/Tor	1	Science Fiction		placed	0	; whole7 rewalk Futurehistory valid9 nominal10 withknownSlowGodsroothold, no split;7Englishprintfrontslocal,first6reprints
 MC04838	Redshirts	John Scalzi	2012	Gollancz; Tor Books	Gollancz store; Macmillan/Tor	2	Science Fiction		placed	0	author from tags (matches author seen elsewhere); rewalk2026-11-05 Time door2 integralplannedblackholepastjourney; ordinaryshuttle notbuilttimeapparatus;singlebookwith3codas;English2013paperbackfrontlocal
-MC04839	Shadow War of the Night Dragons, Book One: The Dead City: Prologue	John Scalzi	2012	Tor Books	Macmillan/Tor	1	Fantasy		new	0	
-MC04840	Sneak Peek for Monsters of Ohio	John Scalzi	2026	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
-MC04841	The Android's Dream	John Scalzi	2007	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
+MC04839	Shadow War of the Night Dragons, Book One: The Dead City: Prologue	John Scalzi	2012	Tor Books	Macmillan/Tor	1	Fantasy		skip-short	0	; Author2012Hugoessay explicitlycalls AprilFoolstandaloneshortstory, mocknovelprologue;TorGoogleBooks32pp2012edition, original2011. https://whatever.scalzi.com/2012/04/07/hugo-nomination-thoughts-2012/
+MC04840	Sneak Peek for Monsters of Ohio	John Scalzi	2026	Tor Books	Macmillan/Tor	1	Science Fiction		skip-excerpt	0	; FreeSneakPeekexcerptnotnewwholebook;publisherownpeekpage and originalMonstersOhio alreadycoveredMC04836. https://torpublishinggroup.com/sneak-peek-for-monsters-of-ohio/
+MC04841	The Android's Dream	John Scalzi	2007	Tor Books	Macmillan/Tor	1	Science Fiction		placed	0	; whole1rewalk Spaceenvoycomedy3->4,Satirical8->7;2006originalqueue2007edition;2019TorEnglishprintfrontlocal,noothernovelestablished
 MC04842	The End of All Things #1: The Life of the Mind	John Scalzi	2015	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
 MC04843	The End of All Things #2: This Hollow Union	John Scalzi	2015	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
 MC04844	The End of All Things #3: Can Long Endure	John Scalzi	2015	Tor Books	Macmillan/Tor	1	Science Fiction		new	0	
