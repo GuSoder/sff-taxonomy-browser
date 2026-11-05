@@ -1804,3 +1804,6 @@ Episodic volumes form caveat explicit, no internal-story extra cards; faith/damn
 
 ## MC04813 Last Centurion whole1 -> Wasteland journeys5
 Die-off9->8; simultaneous plague+mini-ice-age,22chapter long company extraction and later reconstruction outweigh first9 catastrophe analysis. Final5 settlement/rebuilding real wobble, no definition stretch. English front local.04824/28 Black Tide anthologies skipped/already ancillary. Next substantive04825 Von Neumanns War.
+
+## MC04825 Von Neumanns War whole1 retained Warzone Earth4
+Contemporary open mechanical invasion not conscious imperial motive, significant engineering/hardSF straddle explicit. Mars biosphere-killing assertion removed as unverified. One English front local. Next new04831 After the Coup novella eligibility first;04832 Fuzzy Nation.
