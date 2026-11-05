@@ -29,6 +29,8 @@ assert len(ids)==len(set(ids)), 'FAIL: duplicate node ids'
 byid={n['id']:n for n in nodes}
 assert all('works' in n for n in nodes), 'FAIL: node missing works key (breaks rendering)'
 for n in nodes:
+    for w in n['works']:
+        assert isinstance(w.get('authors'),list), f'FAIL: authors must be list on {w.get("title")}'
     for c in n.get('children',[]):
         assert c in byid, f'FAIL: dangling child {c} on {n["id"]}'
     p=n.get('parent')
