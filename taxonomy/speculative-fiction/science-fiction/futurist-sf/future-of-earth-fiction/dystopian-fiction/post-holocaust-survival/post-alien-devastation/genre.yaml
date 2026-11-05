@@ -1,0 +1,19 @@
+id: post-alien-devastation
+label: Post-alien devastation
+parent: post-holocaust-survival
+children: []
+image: 889-post-alien-devastation.webp
+definition: 'Post-holocaust survival in the living aftermath of alien devastation: an alien invasion or intervention
+  has shattered human civilization, and people survive, adapt or recover in the alien-damaged world. Not Post-pandemic
+  survival (epidemic disease defines the aftermath), Post-nuclear survival (nuclear war does), or Terminal wastelands
+  (mixed or unspecified collapse); not Ruined Earth (farther-future inherited ruins), or invasion-as-battle and
+  colonial rule as the main story.'
+status: accepted
+works:
+- gunpowder-embers
+history:
+- date: '2026-11-05'
+  action: seed
+  approval_message_id: phonemsg-01M6P0SNH05832F272PCXACRGQ
+  note: Curator coined Post alien devastation, approved exact served seed under Post-holocaust survival. No parent
+    widened.

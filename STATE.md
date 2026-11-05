@@ -1792,3 +1792,6 @@ Earth resistance4->3, whole interstellar fleet campaign not first premise. Citad
 
 ## MC04789 Citizens skip, MC04790 Looking Glass whole4 to Patrol spaceship8
 Citizens Baen multi-author unrelated veterans anthology skipped. Looking Glass first-book-only Warzone home rejected whole; later3 navy exploration/combat ship. Full primary chapter7 resolves ordinary planetary gates same universe via substrate, Tuffy uncanny cosmology retained. Claws2008 corrected, all4 fronts localized. Warzone Earth5->4. Next MC04791.
+
+## 2026-11-05 MC04795 Post-alien devastation seed
+Curator Approved phonemsg-01M6P0SNH05832F272PCXACRGQ15:11:24 to exact served seed, name his. Gunpowder & Embers whole1 from Lost knowledge quest7->6, new1; PHS children3->4. First2020, eARC2019 not extra. No parent gate widened. Alien dominions whole-engine challenge checked/rejected, real cult strand recorded. Next MC04796.

@@ -90,3 +90,6 @@ The curator declined a proposed new Spacefaring child for Planetfall: "Nah, no n
 
 ## Time door widening withdrawn (2026-11-04)
 The curator kept the entire seven-novel fiction in Comic space fiction as an explicit exception to the any-time-travel rule: "If it’s not until book six I think the time travel browsers will be annoyed by five books of his comic stuff" (phonemsg-01M6KEGWWB8QRRQ7H8MJ0GRZJC), then "keep" (phonemsg-01M6KEHW5PZSP7DCECBYK0HFBC, 2026-11-04 15:14 CET). Proposed Time door widening dropped; no definition changed.
+
+## Post-alien devastation (2026-11-05)
+Fourth cause leaf under Post-holocaust survival, seeded for Gunpowder & Embers2020 whole1 on curator Approved phonemsg-01M6P0SNH05832F272PCXACRGQ. Name his phonemsg-01M6P0RVDEABC3PPZ0R9SFQX07; initial missing Post confused ancestor placement. Thirty-year living aftermath fails Ruined Earth farther-future, no gate change; pandemic/nuclear/mixed-unspecified cause siblings fail. Alien dominions cult strand real but independent frontier recovery-key quest governs whole; military space ancestor fails. Lost knowledge quest7->6.
