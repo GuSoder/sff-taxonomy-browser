@@ -1880,3 +1880,6 @@ Persistence1978shortcollectionexcluded;Slow2012oilmaterialfailure->Chemical4 aft
 
 ## MC04879-81 resolved: DragonHasSomeComplaintswhole1->CozyPeeps6
 PhantomViewexplicit7580wordnoveletteexcluded;ThreeOClockDragonshort18pexcluded. 2026Dragonwhole1 foundcare/rehabbonddespitemajorwar/godclimax;Soldier9stronglosingroute,notunit-as-story. Authorhypotheticalcrossoversnotsharedcontinuity. EnglishDAW2026hcfrontlocal.835/2720/6363. Next04882Chrysalids.
+
+## MC04882Chrysalidswhole1->Mutant5
+1955novelReBirthsamework. Primarypublishersglobalnuclearwar;wholemutationpuritypersecutionandFringesrescue,notpsiscienceprogramme. Noactualtimetripfromdream. EnglishNYRB2008paperbackfrontlocal.835/2721/6364. Next04883OutwardUrge.
