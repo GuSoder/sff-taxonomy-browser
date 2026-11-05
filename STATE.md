@@ -1813,3 +1813,6 @@ Author explicitly separate reboot continuity not Piper merge; extraction/personh
 
 ## MC04833/34/59 LockIn2 retained Cyborgs8
 Bothnovels independently researched mediated humanembodiment,policeprocedural and Agora/neuralreality straddles explicit. BothEnglishprint fronts localized, LockIn2015reprint(first2014). Unlockednovella not counted. Next04835Metatropolis anthologyskip then04836MonstersOhio.
+
+## MC04835Metatropolis anthology skip, MC04836MonstersofOhio1 SatiricalSF8
+PublishedUSNov3UKNov5confirmed author/currentpublisher. Satirehumanpredators/kindmonsters, causaluncertaintyrecorded no inventedalien/Cthulhu/fungus. Tor2026Englishfrontlocal.832/2711/6328. Next04837OldMansWarshareduniverse rewalk.
