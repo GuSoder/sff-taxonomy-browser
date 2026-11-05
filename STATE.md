@@ -1853,3 +1853,6 @@ PresidentBrainshort2010,Unlockednovella2014 sourceverified. Moonauthorcalls epis
 
 ## MC04866DaysOfFuturePastwhole3 -> PostApocalypticFantasy8
 2016/17trilogynot2022newnovel,notPOI. ActualdivineforwardtimeFantasyrootfirst,wholefutureCaliforniacollapse/questincludingAybem/spacecleanupchecked. Cyborg/Moonfineplotreaderconfidenceexplicit. ThreeEnglishpaperbackfrontsISBNlinked/local.835/2715/6334.NextMC04867SometimesintheFall.
+
+## MC04867/68SeasonsOfChangewhole2 -> RetroSpaceOpera6
+SummerEnd2022/Fall2025not2020. Authorcurrentseries2,thirdinprogressJuly2026. WholeDavefreight/family/ventureandBenrescue/Venuswarchecked,HardSFOrbital/Western/Drama wobblesexplicit. EnglishS&S2023MMsummer/2025TPfallfrontslocal.835/2716/6336.NextMC04869.
