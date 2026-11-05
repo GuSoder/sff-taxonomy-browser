@@ -1771,3 +1771,9 @@ MC04782/83 existing whole12 Legacy Aldenata in Warzone Earth, not new fiction. R
 
 ## 2026-11-05 FREEZE Future war10 Council Wars whole4 restored/rewalked
 ActiveMC04784 entire4 source-read, missing2003 first added, fiction start2003 fixed, all4 covers localized. Whole war across naval/ground/resource struggle beats first book knowledge village; significant final space raid caveat. Moved Lost knowledge keepers7->6 to Future war9->10. INTAKE PAUSED pending cluster audit and split proposal, no proposal served yet. Other9 need independent whole-fiction/root audit; preliminary evidence some may leave, don't force partition. Paladin+Posleen22d141da still deployment/liveQA awaited.
+
+## Future war audit: Ninth City Burning9->Multiverse invasion7
+Own Nov3 correction missed explicit interdimensional fronts. Root rewalk now supported by author+publisher+3 reviews. Future war10->9, no split proposal served; audit ongoing, no intake yet.
+
+## Future war audit: Ander Rade whole2 to Cyberpunk noir3
+Rogue2024 date fixed and Ghost Cell2025 restored, author confirms covert rather than geopolitical war; explicit2091 blocks Modern-day Spytech. Future war9->8. All English publisher covers localized. Intake still paused for Terminator scope audit.
