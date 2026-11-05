@@ -1780,3 +1780,6 @@ Rogue2024 date fixed and Ghost Cell2025 restored, author confirms covert rather 
 
 ## Frozen-leaf audit: Terminator whole17 to Time agency thrillers7
 Allston2 were only tiny part, root missed psychic communication. Whole17 licensed novels including divergent continuations restored; whole institutional time-displacement assassin/protection thriller wins, Dreams mental mechanism and Salvation war-only substantial wobbles. Future war8->7, no split gate. Continue audit remaining7 before next intake.
+
+## Future war frozen audit COMPLETE, corrected7, split unnecessary
+Source-read remaining whole7 including Council, retained all with explicit whole-fiction wobbles: War Girls afterwar/space2, Cry Pilot space3, Forever Peace apocalypse/peace conspiracy. Three false tenants removed: Ninth City Burning multiverse, Ander Rade noir, Terminator time travel. No structural decision served or open. Resume ordered intake after MC04784 once latest deployment/liveQA complete.
