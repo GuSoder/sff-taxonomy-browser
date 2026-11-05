@@ -1859,3 +1859,6 @@ SummerEnd2022/Fall2025not2020. Authorcurrentseries2,thirdinprogressJuly2026. Who
 
 ## MC04869/70Varley
 BlueChampagnepublisher8storycollectionskip; wholeThunderLightning4 -> TimeDistortion5. Localblackfieldtime/age/ratesgoverningtemporalpriorityoverstrongRetro. LastinventionFTLreader-sourcednotpublisherphysics. All4Englishprintfrontslocal.835/2717/6340.NextMC04871DemonwholeGaea3.
+
+## MC04871Gaea3 -> ClassicPlanetaryRomance10
+Whole3plotsandbiotechrootchecked,HardScienceFantasyknownphysicsnotcertified,BDOlosingfirst-bookroute.1987paperbacklineTitan/Wizardand1984originalDemonprintfrontsactualpixelslocal.835/2718/6343.INTAKEFROZENmandatorysplitat10;proposalresearchnext,noquestionservedyet.
