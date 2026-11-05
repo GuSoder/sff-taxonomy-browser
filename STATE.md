@@ -1947,3 +1947,8 @@ Evil empire 1d916bcf live visually verified 21:41; portrait and six loaded jacke
 
 ## MC04905-04907 Kenstibec3->Nuked5
 Every novel own official/finished-review read. Nuclear ruins/rebuilding communities throughout, mixed-cause/artificial-human identity wobble explicit; no Robot gate widening. Three localized later English Gollancz print fronts inspected.836/2730/6405. NextMC04915FreeBastardswholeLotLands. Deploy/liveQAremaining.
+
+Kenstibec45631bd7live3jacketsverified/reported21:45.
+
+## MC04915-16LotLandswhole3->Pulp8
+OwnGrey/True/Freepublisherandfinishedreviews,authorinterviewexplicitpersonal/pulpformevenwarbook;latePolitical/Militarywobblefullyrecordednotfirstbookshortcut.3EnglishPRHprintfrontslocal/inspected,latereditionsoriginal2015/2019/2021years.836/2731/6408. Next04917Howardshortscheck. Deploy/liveQAremaining.
