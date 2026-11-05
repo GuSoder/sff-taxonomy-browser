@@ -1728,3 +1728,10 @@ Curator phonemsg-01M6KQKEP17D9YX9PE91HR3JTJ supplied name. Label and positive de
 The curator approved the served 3/3/4 split with his own Space gang comedy name (phonemsg-01M6NGYC97EQD2FQA1HECN3N27, 2026-11-05 10:34:21 CET, original Approved read live in its naming exchange). Comic space future stays as umbrella with zero direct fictions.
 - Cadet: Bill all7, Rats/Bats both, Wasp. Envoy: Condomnauts, Magnificent Wilf, whole Dilbia. Gang: Chilling Effect all3, Gods of Sagittarius, Spare Man, Imperium all3. All10 fictions and their21 volumes preserved. Bill explicit exception retained on its card, child definition and umbrella.
 - Portraits886B/887B/888B selected after full-size A/B review, no bows/text, concealed human hands. Positive definitions and ten updated root-down walks. Local QA then live deployment QA required before resuming MC04762.
+
+
+## 2026-11-05 Comic split live QA complete; intake resumed
+Commit64cc8b38 deployed successfully. Umbrella and all3 leaves pixel-checked, all10 jackets visible in leaf captures, all card payloads preserved except placement notes. Parent closeout delivered10:41. No decision open.
+
+## 2026-11-05 MC04762 duplicate; Starfinder MC04764 placed
+MC04762 is Growing Up Weightless2022 reissue of existing MC04756, marked already_in_tree. MC04763 already marked duplicate. Starfinder2009 (queue2010 paperback) -> Steampunk realms5; one published Skylords novel, no invented trilogy completion. Full source-read root-down walk and quest/technology wobble in YAML. English PRH paperback jacket inspected and localized. NextMC04765 Bronze Knight whole-fiction audit.
