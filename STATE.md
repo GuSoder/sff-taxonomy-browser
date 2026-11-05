@@ -1777,3 +1777,6 @@ Own Nov3 correction missed explicit interdimensional fronts. Root rewalk now sup
 
 ## Future war audit: Ander Rade whole2 to Cyberpunk noir3
 Rogue2024 date fixed and Ghost Cell2025 restored, author confirms covert rather than geopolitical war; explicit2091 blocks Modern-day Spytech. Future war9->8. All English publisher covers localized. Intake still paused for Terminator scope audit.
+
+## Frozen-leaf audit: Terminator whole17 to Time agency thrillers7
+Allston2 were only tiny part, root missed psychic communication. Whole17 licensed novels including divergent continuations restored; whole institutional time-displacement assassin/protection thriller wins, Dreams mental mechanism and Salvation war-only substantial wobbles. Future war8->7, no split gate. Continue audit remaining7 before next intake.
