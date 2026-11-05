@@ -1877,3 +1877,6 @@ Well World scope3->10 novels restored, same Classic leaf after full walk. All10 
 
 ## MC04873-78 resolved, SlowApocalypsewhole1->ChemicalCatastrophe4
 Persistence1978shortcollectionexcluded;Slow2012oilmaterialfailure->Chemical4 afterwholecitycollapse/caravan/recoverywalk;printAce2012ISBNfrontlocal. Titan/WizardalreadyGaea3notduplicatecards. WiswellDIY2022/MissMyself2024explicitshortsexcludedownauthor/publisher.835/2719/6362. Next04879.
+
+## MC04879-81 resolved: DragonHasSomeComplaintswhole1->CozyPeeps6
+PhantomViewexplicit7580wordnoveletteexcluded;ThreeOClockDragonshort18pexcluded. 2026Dragonwhole1 foundcare/rehabbonddespitemajorwar/godclimax;Soldier9stronglosingroute,notunit-as-story. Authorhypotheticalcrossoversnotsharedcontinuity. EnglishDAW2026hcfrontlocal.835/2720/6363. Next04882Chrysalids.
