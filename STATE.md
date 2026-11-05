@@ -1844,3 +1844,9 @@ PresidentBrainshort2010,Unlockednovella2014 sourceverified. Moonauthorcalls epis
 
 ## MC04863Crawlerswhole1 -> Technocrisis9
 2003firstnot2007ebook. Humanmilitarynanocolony containment/hiveassimilation; noaliens,nogenedesign/medicalnanos/naturalzombiepathogen. StrongCreaturefeature/pulpwobble recorded; explicittechnicalaccount/rationalizedsystemkeepsTechnothriller. English2003DelReyprintfrontlocal.835/2712/6329. NextMC04864Armor.
+
+## MC04864Armorwhole1 -> AlienWarGrunts9
+1984firstnot2020reprint. Allfivepartsreviewed, Crowcolony/memorystrandgovernswaraftermath, Enginepsychologicalnotengineeredsoldierbody. StrongSuperSoldier/SpaceCaperwobblesexplicit;spatialTransit/memorynotactualtime. Vampire$authornoteexcludesidentity. English2020DAWprintfrontlocal.835/2713/6330.Next04865Vampires.
+
+## MC04865Vampire$whole1 -> VampireHunt6
+1990first=2008Vampiresretitle/reprint. Fullnovelplotnotfilm,literalblessedsilver/Damnedpredators;modernVatican-backedcommercialhunters. Armorcharactersseparatebyexplicitpublicationnote. English2008Acefrontlocal.835/2714/6331.NextMC04866.
