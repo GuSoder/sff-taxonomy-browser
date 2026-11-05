@@ -1801,3 +1801,6 @@ Whole shared world11 regular published novels2013-25 restored from6, first2013 f
 
 ## MC04806/07 Special Circumstances whole2 retained Demon counter ops3
 Episodic volumes form caveat explicit, no internal-story extra cards; faith/damnation operational response strongest despite genuine Old Ones opening/finale and Queen astral rescue. Current secret-service direct Urban route repaired in rationale.2English Baen fronts local. Next new04813 Last Centurion.
+
+## MC04813 Last Centurion whole1 -> Wasteland journeys5
+Die-off9->8; simultaneous plague+mini-ice-age,22chapter long company extraction and later reconstruction outweigh first9 catastrophe analysis. Final5 settlement/rebuilding real wobble, no definition stretch. English front local.04824/28 Black Tide anthologies skipped/already ancillary. Next substantive04825 Von Neumanns War.
