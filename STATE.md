@@ -1838,3 +1838,6 @@ NightDragonshortstory, MonstersOhioexcerpt skippedsourcegrounded. AndroidsDream1
 
 ## MC04858Interdependencywhole3 retainedGalacticcourts9
 All3owncausalplotsverified,Flowphysicalstartravel nottime/parallelproof, MemoryRoomdigitalnotancestorvisit. Singlethronecenterdespitemerchanthousesstrongwobble.2018/19/21EnglishTorfrontslocal,first2017/18/20. Not a tenthcard. Next04859LockInalreadywhole2rewalkcomplete,04860PresidentsBrainformat,04861Unlockednovellaalreadyancillary,04862MoonHitsEye.
+
+## MC04860/61format skips, MC04862Moonwhole1 -> Satirical8
+PresidentBrainshort2010,Unlockednovella2014 sourceverified. Moonauthorcalls episodicnovel,notcollectionskip. Societalcrisisresponse/comedygoverns,Impact5->4/Satirical7->8; no actualhit, resets. Fantasyrootanddisasterwobblesexplicit,noattestedmagic/time. English2025Torfrontlocal. NextMC04863CrawlersJohnShirley.
