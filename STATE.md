@@ -1795,3 +1795,6 @@ Citizens Baen multi-author unrelated veterans anthology skipped. Looking Glass f
 
 ## 2026-11-05 MC04795 Post-alien devastation seed
 Curator Approved phonemsg-01M6P0SNH05832F272PCXACRGQ15:11:24 to exact served seed, name his. Gunpowder & Embers whole1 from Lost knowledge quest7->6, new1; PHS children3->4. First2020, eARC2019 not extra. No parent gate widened. Alien dominions whole-engine challenge checked/rejected, real cult strand recorded. Next MC04796.
+
+## MC04801 Black Tide Rising whole11 -> Post-pandemic mutants6
+Whole shared world11 regular published novels2013-25 restored from6, first2013 fixed; Zombie virus7->6. Living aftermath/reconstruction whole outweighs outbreak portions in Graveyard/Valley/Gannon World, no ancestor edits. All11 English fronts local.4anthologies+2023graphic ancillary, King FlorCubaTamp delayed primary despite2025 catalogues, World We Forge2027 anthology partial/eARC excluded. NextMC04802 already Paladin; check04803.
