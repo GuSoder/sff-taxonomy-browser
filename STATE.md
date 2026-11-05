@@ -1789,3 +1789,6 @@ Explicit future blocks Warzone Earth ancestor. Primary particle-perception mecha
 
 ## MC04788 Troy Rising whole3 restored to Starbridge9
 Earth resistance4->3, whole interstellar fleet campaign not first premise. Citadel2011 missing restored, bundle2020 and second edition2023 phantom entries removed.2026 authorized anthology noted, Ringo novella/short novel length ambiguity not counted as fourth conventional novel. Next MC04789 Citizens.
+
+## MC04789 Citizens skip, MC04790 Looking Glass whole4 to Patrol spaceship8
+Citizens Baen multi-author unrelated veterans anthology skipped. Looking Glass first-book-only Warzone home rejected whole; later3 navy exploration/combat ship. Full primary chapter7 resolves ordinary planetary gates same universe via substrate, Tuffy uncanny cosmology retained. Claws2008 corrected, all4 fronts localized. Warzone Earth5->4. Next MC04791.
