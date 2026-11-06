@@ -2121,3 +2121,6 @@ Merge Eva/Alliana cards under author-confirmed Rivelle Realm title. Whole3 ordin
 
 ## MC05013 Tessa Miyata whole2 2026-11-06
 ExistingSlipintomythcard7unchanged,addSoUnlucky2024toNoHero2023. Bothownprimary/completedreviews,firstaccidentaldiscoveryvslaterinvitationwobbleexplicit,2EnglishprintfrontsQA.846/2761/6546. NextMC05014 NightsEdge.
+
+## NightEdge MC05014-05017/05019 whole4 2026-11-06
+OrdinaryCozypeeps7->8,4publishednovels2013/14/24/25,DragonWilliamnovellaskip,unpublishedTwistnotadded. All4ownengines/primary/completedreviews/rootwalk/EnglishcoversQA.846/2762/6550. NextMC05018TradePactuniverse.
