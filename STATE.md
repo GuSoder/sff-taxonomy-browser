@@ -1977,3 +1977,7 @@ Fifth Post-holocaust survival child; native proliferating life rather than disea
 
 ### 2026-11-06 A Strange and Ancient Name
 MC04940standalone1 -> Medieval Fey1->2;reverseportalwobblepreserved;primarysample7chaptersread;1993nominalfirsteditionvsDec1992release;2015ebookqueue. English235x375originalfrontinspected. NextMC04941PrinceoftheSidhe2. 838/2737/6452.
+
+
+### 2026-11-06 Prince of the Sidhe
+MC04941/46whole2 -> Celtic6->7;bothownprimarysamples/synopsesread;reverseportal/secondSaxonwarwobbleexplicit.1995/96originalnotqueueebookyears.235x375Englishfrontsvisuallyinspected. 838/2738/6454. NextMC04943Highlandertieinskip then44KingsSon.
