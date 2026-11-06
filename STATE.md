@@ -2161,3 +2161,6 @@ Whole1publishednovelSecretsEverlight2026, plannedCurseHeartthornnotpublished. Co
 
 ## MC05043-45ReignRemnants2026-11-06
 Soulbond6->7,whole2publishedWind2025Sea2026,futureRealm2027notadded. Ownbothnovelsreviewsandliteralpreviewbond.850/2770/6576. NextMC05046.
+
+## MC05046-48Leong2026-11-06
+Isle2027futureSKIP,Keeper2025+Teller2024oneprimaryexplicitsharedworldfiction2,CozyPeeps8->9. Bothindependentplotreviewsandprimaryinterviews, noemptygenre.850/2771/6578. NextMC05049.
