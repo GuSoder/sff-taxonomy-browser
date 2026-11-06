@@ -2033,3 +2033,6 @@ WatchingEvilDead skipnonfiction perPRHownlifewritingguide. MorrisBakerwhole2orig
 
 ## Shadow Magic trilogy, 2026-11-06
 MC04967-04969 whole3 -> Necromancer4. Full per-volume engines and mystery/setting wobbles recorded in walk-mc04967-04969.md. Three English print jackets localized and inspected.839nodes/2749fictions/6481books. NextMC04970.
+
+## Amenkor shared universe, 2026-11-06
+MC04970-04971 whole9 -> Channeled hard magic9. Author explicit all3sameworld, each trilogy ownengines grounded. Fullwalk, time/politicalrivals and thinBreathreviewcaveat in walk-mc04970-04971.md. Nine English print fronts localized, currentreprints disclosed.839nodes/2750fictions/6490books. NextMC04972.
