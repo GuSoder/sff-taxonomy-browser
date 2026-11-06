@@ -1997,3 +1997,7 @@ IllustratedEric49duplicatealreadyDiscworld. Whole10Dragonsitter2012-2019->Mythic
 
 ###2026-11-06HouseBottomLake
 MC04956standalone2016->Feralhouse3->4;inexplicableactivehouseagency,notdeadownerclaim.Romance/MR/portalwobblesexplicit.2021Englishpaperbackjacketlocalized.838/2742/6468,nextMC04957Daphne.
+
+
+### 2026-11-06 Daphne
+MC04957 Daphne (2022) -> Vengeful spirits8->9. Specific returning dead woman hunts thinking victims. Cameo/geography scope and Vengeance torment overlap recorded, no gate change. Official English2023paperback jacket localized.838/2743/6469. NextMC04958Goblin.
