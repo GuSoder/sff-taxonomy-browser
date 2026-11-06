@@ -2076,3 +2076,6 @@ FORCEDScientificAdventure8to9. NaturalcometvsTechMarvelgatewobble explicit. No s
 
 ## MC04987 Paris in the Twentieth Century
 FutureSocialSF7to8. Written1863future1960, firstpub1994. Corporateefficiencycrushesartist, Dystopiarivalsfailchildgates.1997DelReyEnglishprintfront.841/2759/6514.NextMC04988.
+
+## MC04988 Baltimore Gun Club whole3
+Existing EarthMoon2 folds NorthPole sequel1889. Orbital mechanics7 unchanged. Three distinct English print fronts inspected/localized. Third terrestrial axial-dynamics straddle explicit.841/2759/6515. Next MC04989.
