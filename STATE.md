@@ -1989,3 +1989,7 @@ MC04943Highlandertie skip;44standalone1994 -> Celtic7->8;45BardsTale tie skip;46
 
 ###2026-11-06RyanLaing
 MC04947/48whole2(2006/2007)->Cyberpunknoir4->5;ownprimary/revieweach,authorizedsamplesboth,metaverse/cyborg/alienorigin/dystopianwobblesrecorded.EnglishPRHfrontsmatchedpaperbacks,localized302x450.838/2740/6457.NextMC04949IllustratedEric(existingDiscworldcheck),50Dragonsitterwhole.
+
+
+###2026-11-06Dragonsitter
+IllustratedEric49duplicatealreadyDiscworld. Whole10Dragonsitter2012-2019->Mythicfarce5->6,actuallegendarybeingscomicgate,notinheritedfamily/place.10ownpublishersynopses,finishedreviewseach,10Englishprintfrontslocalizedandinspected.838/2741/6467.
