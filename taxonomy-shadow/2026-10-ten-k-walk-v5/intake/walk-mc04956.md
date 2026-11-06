@@ -1,68 +1,45 @@
-# Daphne, MC04957, 2026-11-06
+# A House at the Bottom of a Lake, MC04956, 2026-11-06
+Standalone2016 novella in existing Feral house3->4. No new leaf/gatechange. Queue2021 is DelRey paperback reissue, originalThisIsHorror2016 attestedoriginalpublisher and contemporaneous2017review. No universe linkattested to BirdBox/Malorie/Incidents; SFE listsindividual and actualauthor/publisher namesownJames/Amelia story. SFE erroneously repeatsBirdBoxfilm sentence underLake, contradicted by sameentry and allprimary, not used. Authorityexistingfictiontrustphonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX.
 
-Place Josh Malerman's 2022 novel as one fiction in existing Vengeful spirits, 8 -> 9. Queue year 2023 is the paperback reprint. No new genre or definition change. An identifiable dead woman returns as a murderous presence attached to those thinking about her. Anxiety, basketball, the investigation and competing versions of her history are substantial, but the returning ghost is the story's engine. This is not a claim that the legend's initial sympathetic account is the final truth.
+## Positive source evidence and caveat
+Ownauthorblurb+PRHdescription, publisherauthorizedopening chapter, originalpublisherannouncement, Kirkus, GothicacademicLauraKremmelHorrorHomeroom, HGL, RogersReads, WellReadTart, Sherobin and finishedGoodreads/Redditreaders read. Morethan6sources/3types; not fullnovelread. Both17, firstdatecanoeing discoverssunkenhouse inthirdlake. Scubadivesregularly, fullyfurnishedobjects defywater, insidepoolcontainsdifferentwater, dressesdance, doorsopen/close, rearrangementandpresence. Youngloveandaddictiontohouse are inseparable. Author/publisher warns emptyhouse notunoccupied. Reviewers emphasize metaphor, notallfindscary. Not puremundanehorror: literal impossiblehouse shared byboth and materialeffects; ambiguitycause/ending not evidence nofantasticpremise.
+Kremmeldescribes pleasure/addiction then fear, explainerdeliberatelywithheld. Finishedaccountsagree housevanishes then apparentneighborhoodmanifestation aftercouplebreakup; reappearance beckonsreturn. Readerexplanationsdiverge: housekeepscoupleinsideillusion, houseencouragesloverreunion, obsessionpreventslettinggo, separateparallelreality, relationshiponlymetaphor. Noendinginterpretationpresentedasfact. Waxfigure isnotidentifieddeadowner/demon/alien, norinventedmassofpastvictims. Feralhousefits agency-leveluneasiness of houseitself beckoning/manipulatingdomesticspace, not claimthatfigureprovesdefinitive sentientevil. Substantialwobble: figurecouldbeindependentoccupant, causeambiguous; placeitselfliteralactiveimpossiblearchitecture strongestpositiveevidence, no specificdeadperson/pastrecording identified.
 
-## Scope and evidence
+## Rootdown fullwalk
+Speculative -> Fantasy by impossibleinhabitedhouse, magicnotphysics; noSFexplanationtime/aliensupported. Fantasyroots: ourcontemporaryEarthhardwarestore/phones/scubagear/mountains; notinventedrealms. HeartfantasyRomantasytemptinglovecentralbutFantasyrealmsancestorfailed. Portaltestmandatory: canoetunnel physicallyconnectsEarthlakes, notattestedportal; divinghousedoorenterssameEarthwaterhouse, no establishedseparateworld/cosmology. Anchoredthreshold alone notenough forEldritchdoorsVisionarythresholds. Perception/youngloveselfknowledge strong but no crossingtoanotherrealityestablished; ambiguousreaderendingparalleltheorynotfact. Whimsicaldoors notbrightchildren'squest, Fairydoors notFaerie, Nightmaredoors notstoryrealm, Transportingtomesnone, RiftsOtherworld nothiddenmythicworld/society, Wainscotnoadjacentsecretcivilization, Worldbleedsnocrossworldleak, Multiverseno, Planetaryno. Earthrootedhouse canbesupernaturallyimpossiblewithoutnewworld. RealEarth -> Contemporary notpast/future, timeundatedbutpresentproper; noearliereraorretoldmyth.
+Contemporarychildren: mythictraditionsnotretoldnoractivegods, moderninventedmythnopantheoncosmology. Comingofageone-timemagicaleventtempting, but adolescentsnotdiscoverownpowers/bloodline/school/swap; foundmagicAttictalismansplacefindstrong,butexperienceisloveandhaunting notabilitydevelopment/adultidentitytraining; agealonecannotforceit. Domesticmagichouseinheritedplace/pactfails noinheritanceorfamilyline, magicfamilyfails ordinaryteens. Folktalenothumorousoranimalsociety. MRcompetingrealities/ontologicaltemptingliterarymetaphorandnohoworwhy; butstrangenessisacknowledgedandprobedscubaexploration, fearfulfascination notmarvelquietlyacceptedinsideordinarylife. Notcommunal/sensory/metamorphosis/darkMRsociety. Urbaninstitutionalmagicfails isolatedlakehouse, nooccultcaseload/city/fae/publicintegration. Darkfantasyplacehorrorvsfollowingtormentbothconsidered: unholylandtown/woodritesnotcore, hellnone; placehousemorespecific underSupernatural'sHauntedhouse. Waxfigurefollows/imagesoutside canbewobble butdemonic/Satanic/eldergod/primordial/vengeful/impostoridentitiesnotattested; houseanchorswholeobsessionratherthannamedpursuer.
+Supernatural -> Hauntedhouse explicitplace-anchoredhauntingspansghostedANDghostlesshouses, no needinventdeadperson. EvilDealsnopactdamnation, Surrealafterlifenoestablisheddeadprotagonists, Undyingnocheatdeath, vampire/werewolfnone; Ghoststoriesspecificdeadreturnnotidentified. Hauntedhousechildren: Classicends1977not2016; Fungalhorror nofungi; Contemporaryera positive. Threechildren: Housebounddeadrequire specificdeadperson, none; Residualhaunting traumarecordreplayswithoutagent, none; Feralhouse domesticplacegonewild dangerousnotnecessarilyevil, guarding/devouringown; animated/rearranged/becomingattached-toexporershousefitspositivegate. Not widenedforunderwaterhome, no specificpredatoryintentasserted. Count3->4. Wholesinglefictionkept, literaryromanceandthreshold/MR/independentoccupantwobblesrecorded.
 
-Read own-author page, PRH page and authorized opening chapter, Locus, Kirkus, Looking Glass Reads, HorrorFam, Fiction Majorette and Ghostvillehero finished reviews, two author interviews, Booklist's Spin a Black Yarn review, Western SFA Pictures of You review and reader discussion. More than six sources and three types. Not a full-novel read. Spoiler-summary aggregators were search leads only and are not used to ground the ending or hidden identities.
-
-The town of Samhattan recurs. In TIH512, Malerman says Daphne was originally to open Spin a Black Yarn, then was extracted and expanded into a novel. Spin's five remaining stories take place in or near Samhattan, about an hour from Goblin. He describes putting Randy Scotts from The Givens Sensor Board into Argyle, and says Daphne/Ben Evans are mentioned. These establish continuity among some short fiction, but do not establish that Daphne's novel continues their plot or that all the novels share one governing world-story. Locus and Booklist use broad mythos/universe language, while Western SFA describes town names mentioned in passing. Readers disagree about whether this is a Goblin universe and describe its connection as general geography. Under DUPLICATES.md's express cameo exception, keep independent novels separate rather than coalescing Goblin, Pearl, Incidents Around the House, Pictures of You and all Samhattan fiction on town references alone. The publisher/author lists no Daphne sequel. No other Daphne card exists. The later Spin and Goblin rows will get their own whole-fiction assessment, not automatic exclusion as collections. The actual serial-killer crossover within Spin is preserved as a scope lead, not dismissed.
-
-Kit Lamb and her friends are Samhattan basketball players in the summer before college. A sleepover story about dead Daphne feeds Kit's panic. The seven-foot, denim-clad figure smells of smoke and whiskey and murders those who think about her, including teammates. The book also follows a detective uncovering the truth behind conflicting local legends. Sources agree on genuine supernatural slasher/ghost violence, not only a psychological metaphor or human copycat. Author calls Daphne an embodiment of a panic attack: the more Kit thinks about her, the closer it comes. The metaphor does not cancel the fantastic events. Locus notes sympathy changes with further revelations. Kirkus calls the ending convoluted; Fiction Majorette thinks the threads resolve; no invented finale details used.
-
-## Full root-down walk
-
-Speculative fiction -> Fantasy, not SF: a dead woman's summoned return, no scientific explanation. Fantasy's three children considered: Real earth fantasy positive because Michigan, ordinary schools, basketball and contemporary society; Fantasy realms fails because no independent invented universe; Portal fantasy fails because no crossing or exchange between Earth and another world. Ghost appearance is not itself a portal journey. All door/rift/tome routes consequently fail their crossing ancestor, not a reason to invent an unseen secondary world.
-
-Real earth fantasy -> Contemporary fantasy. The author's present-day social world and named contemporary sports figures are in the authorized sample. Historical backstory behind the legend is not a historical setting engine; future speculation is absent. No named earlier era overrides the present frame.
-
-Contemporary's children considered: Contemporary mythic fantasy fails gods/retold cultural mythology; this is a newly written town ghost story, not an attested inherited myth cycle. Magical coming-of-age is a real wobble because Kit faces adulthood, relationships and panic through an extraordinary encounter, but she does not learn a found artifact's enchantment, an inherited gift, a magic school or body swap. Believing the basketball rim answers questions is a shared superstition; the ball/rim is not established as a magical talisman or carrier of the dead. Mental attention summoning a ghost is not a developed personal magic talent. Domestic fantasy fails family magic/place inheritance. Folktale fails comic or animal tale engines. Magic realism fails ordinary acceptance: characters doubt, fear and investigate the monster and crimes. Urban fantasy is a stronger wobble: police investigate supernatural deaths in a city. However Kit and the threatened team are the central point of view, not a professional occult caseload or institutional magic system. City institutions provide the setting, not its defining fantasy engine. No Faerie founders, urban paranormal integration, secret-service mission, modern frontier or exorcist occupation.
-
-Dark fantasy's Torment -> Vengeance torment is the strongest rival: a vengeful presence hunts people wherever they go. This broad mechanism is genuinely met, and existing slasher/ghost examples overlap. Supernatural fantasy -> Ghost stories -> Revenants is more specific because this is explicitly the return of the named dead woman Daphne, rather than an unidentified avenging power or bond. Do not change either gate to eliminate their overlap. Unholy-ground/cursed-town is a wobble because Samhattan hides a bad history, but the killer follows people's thoughts and pursues particular victims; the place is not an autonomous unholy force waiting for arrivals. No forest/ritual, hell or generalized monster landscape.
-
-Supernatural's children: Ghost stories positive by returning dead. No bargain with evil, afterlife setting, vampires, werewolves, quest to cheat aging/death or broad supernatural ensemble. Haunted house fails because killings occur across the town and houses are not the agent. Ghost stories' four children: Revenants positive, a specific dead woman remains purposefully tied to living memory/fear. Lessons beyond the grave fails companionship/teaching as governing purpose. Ghost speakers fails living mediums' vocation/gift. Haunted objects fails portable dead-bearing object; the rim superstition is not proof of one. Revenants' two children: Ghosts & grief fails melancholy returned-lover/child/witness relation as the primary register; Vengeful spirits positively fits the murderous, outward menacing/retributive return. Menace suffices under actual wording; no requirement that Daphne's actions are morally justified. Place ninth fiction, not tenth, so no split now.
-
-## Cover and date
-
-Official PRH English paperback ISBN9780593157039 front, 300x450. Actual pixels inspected: red DAPHNE / A NOVEL / JOSH MALERMAN, dark denim-clad figure, no audio label, no foreign text, no sticker or placeholder. This is a 2023 reprint front, not claimed original hardcover. Localize. Original year2022 agrees author, PRH, Locus, SFE and contemporaneous reviews. Kirkus's advance release date Aug23 differs from author's actual Sep20 launch recollection; use year only.
+## Cover
+CurrentofficialPRH paperbackISBN9780593237779,299x450 flatEnglishfront, title/author visible, canoeaboveunderwaterhouse, actualpixelsinspected.2021reprintfront disclosed, notoriginal2016printingclaim. Noaudio/nonEnglish/stickers/placeholders. Localized.
 
 ## Sources
-- https://joshmalerman.com/books/daphne/
-- https://www.penguinrandomhouse.com/books/617779/daphne-by-josh-malerman/
-- https://locusmag.com/review/gabino-iglesias-reviews-daphne-by-josh-malerman/
-- https://www.kirkusreviews.com/book-reviews/josh-malerman/daphne-malerman/
-- https://horrorfam.com/daphne-josh-malerman-review/
-- http://www.lookingglassreads.com/12659
-- http://fictionmajorette.blogspot.com/2022/09/daphne-josh-malerman.html
-- https://ghostvillehero.net/2022/10/09/review-daphne-by-josh-malerman/
-- https://www.robertestahl.com/interviews/joshmalerman
-- https://the-line-up.com/josh-malerman-daphne-influences
-- https://www.thisishorror.co.uk/tih-512-josh-malerman-on-half-the-house-is-haunted-argyle-and-samhattan/
-- https://joshmalerman.com/books/spin-a-black-yarn/
-- https://joshmalerman.com/books/goblin/
-- https://www.booklistonline.com/products/9777256
-- https://locusmag.com/review/pictures-of-you-by-josh-malerman-review-by-gabino-iglesias/
-- https://westernsfa.org/Book_Nook/Books-2026/Pictures_of_You.php
-- https://www.reddit.com/r/horrorlit/comments/1dnsjfs/josh_malerman_goblin_universe/
-- https://www.cemeterydance.com/extras/how-i-spend-my-halloween-josh-malerman/
+- https://joshmalerman.com/books/a-house-at-the-bottom-of-a-lake/
+- https://www.penguinrandomhouse.com/books/653291/a-house-at-the-bottom-of-a-lake-by-josh-malerman/
+- https://www.thisishorror.co.uk/horror-publishing-brand-new-josh-malerman-novella/
+- https://sf-encyclopedia.com/entry/malerman_josh
+- https://www.kirkusreviews.com/book-reviews/josh-malerman/a-house-at-the-bottom-of-a-lake/?page=2
+- https://www.horrorhomeroom.com/josh-malerman-house-bottom-lake/
+- https://www.horrorgeeklife.com/2021/03/26/a-house-at-the-bottom-of-a-lake-review/
+- https://www.wellreadtart.com/book-review-of-a-house-at-the-bottom-of-a-lake/
+- https://rogersreads.com/review-of-a-house-at-the-bottom-of-a-lake-by-josh-malerman/
+- https://sherobinreview.wordpress.com/2021/06/28/a-house-at-the-bottom-of-a-lake-by-josh-malerman/
+- https://www.goodreads.com/questions/1284912-i-know-this-is-a-stupid-question-but-i
+- https://www.goodreads.com/book/32712167/questions
+- https://www.reddit.com/r/horrorbookclub/comments/5zkmob/finished_thread_a_house_at_the_bottom_of_a_lake/
 
 
 ## Sources
-- https://joshmalerman.com/books/daphne/
-- https://www.penguinrandomhouse.com/books/617779/daphne-by-josh-malerman/
-- https://locusmag.com/review/gabino-iglesias-reviews-daphne-by-josh-malerman/
-- https://www.kirkusreviews.com/book-reviews/josh-malerman/daphne-malerman/
-- https://horrorfam.com/daphne-josh-malerman-review/
-- http://www.lookingglassreads.com/12659
-- http://fictionmajorette.blogspot.com/2022/09/daphne-josh-malerman.html
-- https://ghostvillehero.net/2022/10/09/review-daphne-by-josh-malerman/
-- https://www.robertestahl.com/interviews/joshmalerman
-- https://the-line-up.com/josh-malerman-daphne-influences
-- https://www.thisishorror.co.uk/tih-512-josh-malerman-on-half-the-house-is-haunted-argyle-and-samhattan/
-- https://joshmalerman.com/books/spin-a-black-yarn/
-- https://joshmalerman.com/books/goblin/
-- https://www.booklistonline.com/products/9777256
-- https://locusmag.com/review/pictures-of-you-by-josh-malerman-review-by-gabino-iglesias/
-- https://westernsfa.org/Book_Nook/Books-2026/Pictures_of_You.php
-- https://www.reddit.com/r/horrorlit/comments/1dnsjfs/josh_malerman_goblin_universe/
-- https://www.cemeterydance.com/extras/how-i-spend-my-halloween-josh-malerman/
+- https://joshmalerman.com/books/a-house-at-the-bottom-of-a-lake/
+- https://www.penguinrandomhouse.com/books/653291/a-house-at-the-bottom-of-a-lake-by-josh-malerman/
+- https://www.thisishorror.co.uk/horror-publishing-brand-new-josh-malerman-novella/
+- https://sf-encyclopedia.com/entry/malerman_josh
+- https://www.kirkusreviews.com/book-reviews/josh-malerman/a-house-at-the-bottom-of-a-lake/?page=2
+- https://www.horrorhomeroom.com/josh-malerman-house-bottom-lake/
+- https://www.horrorgeeklife.com/2021/03/26/a-house-at-the-bottom-of-a-lake-review/
+- https://www.wellreadtart.com/book-review-of-a-house-at-the-bottom-of-a-lake/
+- https://rogersreads.com/review-of-a-house-at-the-bottom-of-a-lake-by-josh-malerman/
+- https://sherobinreview.wordpress.com/2021/06/28/a-house-at-the-bottom-of-a-lake-by-josh-malerman/
+- https://www.goodreads.com/questions/1284912-i-know-this-is-a-stupid-question-but-i
+- https://www.goodreads.com/book/32712167/questions
+- https://www.reddit.com/r/horrorbookclub/comments/5zkmob/finished_thread_a_house_at_the_bottom_of_a_lake/
