@@ -2130,3 +2130,6 @@ Ordinary Hard alien8->9. Three shared-world trilogies; nine first publication ye
 
 ## Galactic Center whole6 root repair2026-11-06
 Hardalien9->8,Hardtimetravel3->4,missingGreatSkyRiver1987/SailingBrightEternity1995added. All6ownprimary/completedreviews,actualphysicsera-transferbeatsFuturist.846/2763/6561. ScopedrepairbeforeWebShifters,nobroadcorpossweep.
+
+## Web Shifters whole6 2026-11-06
+Ordinary Hard alien8->9 after Galactic Center correction. Web Shifters+Library one universe, six novels1998/2000/2003/2018/2020/2021. OnlyThingFear novella skipMC05036.846/2764/6567. NextMC05023.
