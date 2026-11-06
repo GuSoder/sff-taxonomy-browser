@@ -2188,3 +2188,6 @@ SilvercloakSagaChanneled10to9;Timemagic3to4.Nosplitproposalserved,gatecancelled.
 
 ## MC05055BrideiChronicles6Nov
 3novels,2004/2005/2007,Celtic8to9.850/2775/6584.Nostructuralgate.NextMC05056Sevenwaters.
+
+## MC05056Sevenwatersshareduniverse6Nov
+ExistingWarriorBards3expandedto12novels,Sevenwaters6+BlackthornGrim3+WarriorBards3,sourcedsharedcontinuityandownengines.Celtic9unchanged.850/2775/6593.NextMC05061Foxmask.
