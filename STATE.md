@@ -2009,3 +2009,7 @@ MC04958 Goblin(2017) -> Cursed towns6->7. One linked novel6novellas plusframe, o
 
 ### 2026-11-06 Inspection
 MC04959 Inspection(2019) -> Sociological SF5->6. Pairedcohortconditioningexperiment,primaryauthorrejectssupernatural. RecognizablepresentchosenwithSFENearFuturelabelwobblerecorded. OfficialEnglish2019paperbackfront.838/2745/6471. NextMC04960MaloriewholeBirdBox2.
+
+
+### 2026-11-06 Bird Box
+MC04960 Malorie2021paperback -> wholeBirdBox2014/Malorie2020,Post-apocalypticfantasy9->10. SFalienlabelvssupernaturalrootwobbledisclosed.838/2746/6473. ALLINTAKEFROZENpendingPostapocalypticfantasysplit;nextMC04961notwalked.
