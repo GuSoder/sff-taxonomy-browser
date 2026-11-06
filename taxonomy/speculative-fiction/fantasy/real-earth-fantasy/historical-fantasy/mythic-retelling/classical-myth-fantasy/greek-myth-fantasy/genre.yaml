@@ -1,6 +1,6 @@
 id: greek-myth-fantasy
 label: Greek myth fantasy
-parent: mythic-retelling
+parent: classical-myth-fantasy
 children:
 - greek-hero-fantasy
 - greek-god-fantasy
@@ -11,3 +11,7 @@ definition: 'Fantasy that retells or reimagines named figures and narratives fro
 status: accepted
 works: []
 ruling: curator "Approved" (phonemsg-01M46G5R302AEC66RZJABDYAAC, 2026-10-05 7:00 PM)
+history:
+- date: '2026-11-06'
+  change: Bundled under classical-myth-fantasy; ownerApprovedphonemsg-01M6RFDYE1AG8KVCEN1G519KVK; existing definition,works,portrait
+    unchanged.

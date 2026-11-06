@@ -1,6 +1,6 @@
 id: irish-myth-fantasy
 label: Irish myth fantasy
-parent: mythic-retelling
+parent: celtic-myth-fantasy
 children: []
 image: 899-irish-myth-fantasy.webp
 definition: Fantasy retelling or reimagining inherited Irish myths, legendary figures and narrative cycles in their mythic
@@ -17,3 +17,6 @@ history:
 - date: '2026-11-06'
   change: Seeded for Watson Ulster Cycle, one fiction/two novels. Mythic retelling8to9, no moves/gate changes. Portrait899B
     selected after full-size A/B review.
+- date: '2026-11-06'
+  change: Bundled under celtic-myth-fantasy; ownerApprovedphonemsg-01M6RFDYE1AG8KVCEN1G519KVK; existing definition,works,portrait
+    unchanged.

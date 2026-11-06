@@ -1,6 +1,6 @@
 id: roman-myth-fantasy
 label: Roman myth fantasy
-parent: mythic-retelling
+parent: classical-myth-fantasy
 children: []
 works:
 - mother-of-rome
@@ -11,3 +11,7 @@ definition: 'Fantasy that retells the myths and legends of Rome: the founding of
   2026-10-05 7:07 PM)).'
 status: accepted
 ruling: curator "Approved" (phonemsg-01M46GHPYKRK6WMTS04WQQ1JBH, 2026-10-05 7:07 PM)
+history:
+- date: '2026-11-06'
+  change: Bundled under classical-myth-fantasy; ownerApprovedphonemsg-01M6RFDYE1AG8KVCEN1G519KVK; existing definition,works,portrait
+    unchanged.
