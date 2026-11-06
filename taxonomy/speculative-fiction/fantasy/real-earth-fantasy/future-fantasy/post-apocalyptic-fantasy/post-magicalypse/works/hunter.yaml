@@ -3,7 +3,7 @@ title: Hunter
 authors:
 - Mercedes Lackey
 first_published: 2015
-canonical_genre: post-apocalyptic-fantasy
+canonical_genre: post-magicalypse
 placement_status: accepted
 placement_rationale: 'Lackey''s Hunter trilogy (Hunter 2015, Elite 2016, Apex 2017, Disney-Hyperion; mercedeslackey.com, Kirkus,
   PW, SLJ): long ago the barriers between our world and the Otherworld were ripped open, and it took centuries to rebuild
@@ -23,7 +23,14 @@ placement_rationale: 'Lackey''s Hunter trilogy (Hunter 2015, Elite 2016, Apex 20
   the sources place it on our Earth centuries after the Otherworld barriers tore open (Lackey site: ''our world'', ''centuries
   to bring back civilization''; Booklist: ''A biblical-level event disrupts Earth''), so Earth''s future: Future fantasy.
   Wobble: the publisher''s ''futuristic'' wording leans YA dystopia, but magic and monsters cause the catastrophe, so Fantasy
-  not Futurist SF.'
+  not Futurist SF.
+
+
+  Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy > Post-apocalyptic
+  fantasy > Post Magicalypse. The whole Hunter/Elite/Apex trilogy lives centuries after the compound Diseray culminated in
+  Otherworld breakthrough. The breach and magical Othersiders materially remake the world; it is not claimed to be the only
+  disaster. Missing Elite bibliography correction remains separate. Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3; cause
+  axis, no root/ancestor gate changes and no bibliography repairs bundled.'
 books:
 - title: Hunter
   year: 2015
@@ -49,5 +56,14 @@ placement_history:
 - date: '2026-10-24'
   from: future-fantasy
   to: post-apocalyptic-fantasy
-  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
-    fate: {REASONS[wid]}.'
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds fate: {REASONS[wid]}.'
+- date: '2026-11-06'
+  from: post-apocalyptic-fantasy
+  to: post-magicalypse
+  reason: 'Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy
+    > Post-apocalyptic fantasy > Post Magicalypse. The whole Hunter/Elite/Apex trilogy lives centuries after the compound
+    Diseray culminated in Otherworld breakthrough. The breach and magical Othersiders materially remake the world; it is not
+    claimed to be the only disaster. Missing Elite bibliography correction remains separate. Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3;
+    cause axis, no root/ancestor gate changes and no bibliography repairs bundled.'
+classification_sources:
+- https://fantasyliterature.com/reviews/hunter/

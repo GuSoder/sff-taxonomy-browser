@@ -3,7 +3,7 @@ title: The Jewel in the Skull
 authors:
 - Michael Moorcock
 first_published: 1967
-canonical_genre: post-apocalyptic-fantasy
+canonical_genre: fantasy-after-disaster
 placement_status: accepted
 placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Future fantasy -> Post-apocalyptic fantasy.
   Publisher locates Hawkmoon on old Earth in an alternate far future; Black Gate independently identifies post-holocaust Earth.
@@ -14,7 +14,14 @@ placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Real earth fantasy
   the Dark Empire/Runestaff conflict; Castle Brass continues the same character''s reality-changing family quests. Publisher
   plot copy and specialist bibliography checked, not full-text reading of every novel. Owner Approved phonemsg-01M626T2N022Q780BNWDX1H1E2,
   2026-10-28 22:31 CET, following move plus six-entry-to-seven-distinct-novel reconciliation proposal phonemsg-01M625BZ5FB0MVM3N59YC6D5SV.
-  One fiction retained; overlapping omnibus labels removed, seven unique novels listed.'
+  One fiction retained; overlapping omnibus labels removed, seven unique novels listed.
+
+
+  Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy > Post-apocalyptic
+  fantasy > Fantasy after Disaster. Whole seven-novel Hawkmoon follows magical Runestaff/realm power struggles and later family
+  recovery on post-holocaust Earth after the Tragic Millennium''s wars. No supernatural cause of that original collapse established;
+  detailed nuclear timeline from licensed RPG not imported as novel fact. Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3;
+  cause axis, no root/ancestor gate changes and no bibliography repairs bundled.'
 books:
 - title: The Jewel in the Skull
   year: 1967
@@ -60,6 +67,14 @@ placement_history:
   to: post-apocalyptic-fantasy
   reason: 'Owner Approved phonemsg-01M626T2N022Q780BNWDX1H1E2: move and seven-distinct-novel reconciliation after explicit
     proposal phonemsg-01M625BZ5FB0MVM3N59YC6D5SV.'
+- date: '2026-11-06'
+  from: post-apocalyptic-fantasy
+  to: fantasy-after-disaster
+  reason: 'Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy
+    > Post-apocalyptic fantasy > Fantasy after Disaster. Whole seven-novel Hawkmoon follows magical Runestaff/realm power
+    struggles and later family recovery on post-holocaust Earth after the Tragic Millennium''s wars. No supernatural cause
+    of that original collapse established; detailed nuclear timeline from licensed RPG not imported as novel fact. Owner Approved
+    phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3; cause axis, no root/ancestor gate changes and no bibliography repairs bundled.'
 classification_sources:
 - https://www.hachette.co.uk/titles/michael-moorcock/hawkmoon-the-history-of-the-runestaff/9780575108691/
 - https://www.blackgate.com/2012/10/03/hawkmoon-gets-some-respect-with-tor-reprints/

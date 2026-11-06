@@ -2013,3 +2013,7 @@ MC04959 Inspection(2019) -> Sociological SF5->6. Pairedcohortconditioningexperim
 
 ### 2026-11-06 Bird Box
 MC04960 Malorie2021paperback -> wholeBirdBox2014/Malorie2020,Post-apocalypticfantasy9->10. SFalienlabelvssupernaturalrootwobbledisclosed.838/2746/6473. ALLINTAKEFROZENpendingPostapocalypticfantasysplit;nextMC04961notwalked.
+
+
+### 2026-11-06 approved Post-apocalyptic cause split
+Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3. Original umbrella0, Post Magicalypse6 / Fantasy after Disaster4, two new leaves/portraits896A/897B. Counts840/2746/6473 unchanged cards/books. No scope repairs bundled. Greek/Ancient Greece follows separately before MC04961.

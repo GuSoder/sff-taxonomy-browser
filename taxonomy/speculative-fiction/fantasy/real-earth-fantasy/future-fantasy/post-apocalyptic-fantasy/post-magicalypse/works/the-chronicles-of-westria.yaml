@@ -3,7 +3,7 @@ title: The Chronicles of Westria
 authors:
 - Diana L. Paxson
 first_published: 1982
-canonical_genre: post-apocalyptic-fantasy
+canonical_genre: post-magicalypse
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy > Real Earth fantasy > Future fantasy. Per the author''s own series page (diana-paxson.com/writing/westria):
   the Chronicles of Westria are set in ''an alternate future California in which a Cataclysm has destroyed our civilization
@@ -13,7 +13,14 @@ placement_rationale: 'Root-down: Fantasy > Real Earth fantasy > Future fantasy. 
   is a remade California, not a secondary world). One card; the shorts (''When Coyote Came to Town'', ''The Name of a King'')
   are excluded per the shorts rule. Years are first publication per the author''s bibliography and Open Library: 1982-2006.
   Queue carries only book 7 (MC02588, The Golden Hills of Westria, Tor 2006; westria.org confirms it as the seventh novel);
-  books 1-6 folded onto the series card.'
+  books 1-6 folded onto the series card.
+
+
+  Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy > Post-apocalyptic
+  fantasy > Post Magicalypse. The author''s published When Coyote Came to Town explicitly says Earth''s old powers rose in
+  wrath against human destruction and destroyed most works of man. The eight-volume royal and Jewel campaigns inhabit that
+  supernatural aftermath. Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3; cause axis, no root/ancestor gate changes and
+  no bibliography repairs bundled.'
 books:
 - title: Lady of Light
   year: 1982
@@ -53,5 +60,14 @@ placement_history:
 - date: '2026-10-24'
   from: future-fantasy
   to: post-apocalyptic-fantasy
-  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
-    fate: {REASONS[wid]}.'
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds fate: {REASONS[wid]}.'
+- date: '2026-11-06'
+  from: post-apocalyptic-fantasy
+  to: post-magicalypse
+  reason: 'Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy
+    > Post-apocalyptic fantasy > Post Magicalypse. The author''s published When Coyote Came to Town explicitly says Earth''s
+    old powers rose in wrath against human destruction and destroyed most works of man. The eight-volume royal and Jewel campaigns
+    inhabit that supernatural aftermath. Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3; cause axis, no root/ancestor
+    gate changes and no bibliography repairs bundled.'
+classification_sources:
+- https://westria.org/extras/extrascoyote/

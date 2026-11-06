@@ -360,3 +360,7 @@ Earlier broad franchise prohibitions must not be inferred from rejected exact-na
 
 ## Post-infestation survival (2026-11-06)
 Fifth Post-holocaust survival child; native proliferating life rather than disease or aliens defines the living aftermath. One fiction/two novels Invasive Species/Slavemakers, no moves or gate widening. Descriptive sibling-pattern coinage, not established literary term; Post-Infestation alone is an existing C. A. Gleason short-work title, not exact full-name collision or trademark proof. Honest ceiling1; Triffids/Green Brain look-alikes excluded, other leads unverified. Approved phonemsg-01M6QVDV36P8KNNCE3XX2NV0FC08:16:02CET on served seed phonemsg-01M6QS3TTT4Y9KER6AWG0Q8KNW and axis phonemsg-01M6QS3X004KV8DH41RQ2FH9FJ. Portrait895 A selected, two local English flat jackets inspected.
+
+
+## Post Magicalypse / Fantasy after Disaster (2026-11-06)
+Curator names phonemsg-01M6R18WTMDHW68V7758RMVX50; Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3 on phonemsg-01M6R1BB29MXBMTY6F4MY44KZK. Both carry aftermath plus fantasy. Cause axis6/4, supernatural causation may combine with technology. Magicalypse standalone short-fiction-project usage disclosed, not trademark proof; full names no exact named-property hit in checked search. Earlier mission names and Cursed-world withdrawn.

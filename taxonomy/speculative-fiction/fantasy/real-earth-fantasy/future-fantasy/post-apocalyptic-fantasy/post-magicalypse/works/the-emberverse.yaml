@@ -3,13 +3,20 @@ title: The Emberverse
 authors:
 - S. M. Stirling
 first_published: 2004
-canonical_genre: post-apocalyptic-fantasy
+canonical_genre: post-magicalypse
 placement_status: accepted
 placement_rationale: 'S. M. Stirling''s Emberverse (Wikipedia lists genres alternate history, science fiction, post-apocalyptic
   and fantasy): after the Change stops electricity, firearms and engines worldwide, the later books bring supernatural powers
   (a CUT High Seeker with supernatural powers in The Sword of the Lady, Wikipedia), so real magic is in the series. Moved
   from Wasteland settlements on the curator''s no-magic-in-science-fiction ruling. Walk: Fantasy > Real-earth fantasy > Future
-  fantasy (Earth''s own future after a catastrophe, with magic). Soft: the supernatural arrives gradually across 15 novels.'
+  fantasy (Earth''s own future after a catastrophe, with magic). Soft: the supernatural arrives gradually across 15 novels.
+
+
+  Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy > Post-apocalyptic
+  fantasy > Post Magicalypse. The Change suppresses high-energy technology; the later whole-fiction Powers disclosure makes
+  supernatural intervention material to the fall, not merely magic discovered afterward. Nantucket scope correction remains
+  separate. Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3; cause axis, no root/ancestor gate changes and no bibliography
+  repairs bundled.'
 books:
 - title: Dies the Fire
   year: 2004
@@ -64,5 +71,15 @@ placement_history:
 - date: '2026-10-24'
   from: future-fantasy
   to: post-apocalyptic-fantasy
-  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds
-    fate: {REASONS[wid]}.'
+  reason: 'Split of Future fantasy at ten (curator "Approved" phonemsg-01M5Q7PP3ADGWRZ6RP7ME3H2CY) by the worlds fate: {REASONS[wid]}.'
+- date: '2026-11-06'
+  from: post-apocalyptic-fantasy
+  to: post-magicalypse
+  reason: 'Root-down whole-fiction split walk 2026-11-06: Speculative fiction > Fantasy > Real earth fantasy > Future fantasy
+    > Post-apocalyptic fantasy > Post Magicalypse. The Change suppresses high-energy technology; the later whole-fiction Powers
+    disclosure makes supernatural intervention material to the fall, not merely magic discovered afterward. Nantucket scope
+    correction remains separate. Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3; cause axis, no root/ancestor gate changes
+    and no bibliography repairs bundled.'
+classification_sources:
+- https://emberverse.fandom.com/wiki/Change
+- https://scifi.stackexchange.com/questions/15488/in-s-m-stirlings-emberverse-series-is-it-ever-revealed-what-actually-caused
