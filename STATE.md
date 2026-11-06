@@ -2197,3 +2197,6 @@ ExistingWarriorBards3expandedto12novels,Sevenwaters6+BlackthornGrim3+WarriorBard
 
 ## MC05062 Heart's Blood, 6 November
 Standalone2009, Medieval haunting3to4, Celtic remains9. Author ghost-story/setting distinction and full ancestor walk recorded.850/2777/6596. No structural gate. Nextunfinishedrow from _done and candidate list.
+
+## MC05071 Broken Trust,6November
+Threepublishednovels2020/21/22,Hardsciencefantasy8to9;Modern-dayancestorofSociologicalSFfails.850/2778/6599. No structuralgate.NextMC05074PerfectionofTheresaWatkins.
