@@ -112,3 +112,6 @@ Owner Approved phonemsg-01M6R6XHAGWZG1ZSCC0172NF3J on served block phonemsg-01M6
 
 ## Frankish myth fantasy (2026-11-06)
 Owner Approved phonemsg-01M6RBADZY44A1905AKNNNKVQ2 on served block phonemsg-01M6RB81NF95V4PHRQEPM6KXA9, after choosing name phonemsg-01M6RB7S1H5SS8JZVAT3DRBKQH. Mythic retelling7to8, Kingdom of the Grail2000 one fiction/one novel, no moves/gate changes. Matter of France tradition, not historical Franks in general; Arthur/Grail hybrid wobble explicit. Descriptive sibling-pattern name chosen by owner, not claimed formal genre or trademark clearance. Supersedes proposed Carolingian/Charlemagne labels. Honest ceiling1, Three Hearts stays portal. Portrait898A selected after visual review of two variants.
+
+## Irish myth fantasy (2026-11-06)
+Approved phonemsg-01M6RCX3V80P0GQAY2C6YDT81Z on served block phonemsg-01M6RCVMYF1DWH36NXS4C36EHS. Mythic retelling8to9, one connected Watson Ulster Cycle fiction/two novels2009/2011. Primary Raven excerpt explicitly reacts to Deirdre flight. No existing moves/gate changes. Descriptive sibling-pattern label, no exact named-property collision shown, not trademark clearance. Portrait899B selected after full-size A/B inspection, two English print fronts localized.842/2760/6517. NextMC04990.

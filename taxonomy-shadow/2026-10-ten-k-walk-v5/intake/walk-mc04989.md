@@ -1,0 +1,45 @@
+# MC04989 Watson Irish myth fiction - 2026-11-06
+Approved Irish myth fantasy seed under Mythic retelling. Original user Approved phonemsg-01M6RCX3V80P0GQAY2C6YDT81Z, replying in same authenticated conversation to exact proposal phonemsg-01M6RCVMYF1DWH36NXS4C36EHS, both read. One fiction/two novels, no existing moves or gate changes. Parentcorrected earlierforcedCelticidea: rootboundariesbeatlowerdefinition; no forcedcontradiction. Parentclarified level4parent maytakelevel5child, nolevel4parentwidening. MythicRetelling8->9children seed, notshallowexception. Same shape as Frankish.
+
+## Whole scope and each own engine
+One fiction, two novels: The Swan Maiden2009 and The Raven Queen2011. Currentauthor says standalonebutbestreadasaset; interview2009callsfirstof2partseries. Crucialpositiveprimarycontinuity: authorized Raven excerpt explicitly has Maeve react to flightofDeirdre fromConor, sameeventshapeswarresponse. This is not just sharedinheritedmythnames. Dalriada3 not included: authorcontrastsRomanwarhistoryinScotlandwithIrishUlsterCyclebooks; no positivesharedfictioncontinuity found merelysameera/author. Reassess ifactualcrossoverfound.
+SwanMaiden: Deirdre bornunderprophecybeautybringsUlsterdown, Conorhides/possesseshertoavertit, shamanessmagicnatureeducation, elopeswithNaisiandbrothers, royallustpursuesacrossIrelandScotland, tragedyfulfillsprophecy. Individualagency/fate/love/clanloyalty sourceDeirdreofSorrows.
+RavenQueen: MaevefleesConor/thirdmarriage, fatherdiesandsuccessionstruggle, winsConnachtthroughalliancesandbattle, Ruanblinddruid'shealing/spirit/faeconnectionandloveconflictwithherpreemptivewar, CattleRaidCooley/heroCuchulainn/FerDiad shapedasmythretelling. Notjust genericCelticperiodromance. SidhebridgeThisworld/Otherworld andactualhealing/aurasarepositivefantasy, evenauthor's'quantumphysicsfairies' phrase doesnotestablishSFengine.
+
+## Root walk
+Speculative>Fantasy: visions,curse/fae/spirithealing as enactedmagic, notrigorousscientificprediction. RealearthIreland/Scotland/Connacht/Ulaid, notindependentsecondaryworld. Portalfantasy rejected wholeengine not Earthoutsiderjourneytoanotherworld; OtherworldpartofhistoricalEarth-rootedcosmology. Historical notpresent/future; IronAge anchoredimaginedancientpast and inheritedmyth. Mythicretelling pass: namedfiguresDeirdre/Naisi/Conor/Maeve/CuchulainnandnamedUlsterCyclestories are sourceitself. Periodfantasyrival realarchaeologicalgroundingbut mythgivesplot; authorexplicitcontrastDalriadahistory. Secrethistorynotomittedsecretcauseofdocumentedevents;AlternateHistorynopositivefork.
+MythicRetelling's8childrenread: Arthurian(Arthur/Camelot/Avalon/Grail),Greek,Norse,Mayan,Biblical,Roman,Slavic,Frankish(MatterFrance) all failIrishUlsterCycle. No IrishArthurianequivalenceinferred. ModernCelticmyth failscontemporaryancestor. PeriodCelticfantasy'sleafCelticmyth/sidhe/heroiclegendwouldmatchbut ancestorDarkAge requirespostRoman/medieval, notIronAge; prohibitedforcedplacement. ClassicalAntiquityonlyGreek/Roman, notsamecentury=Rome. Prehistoric explicitimaginedhuntergatherer/lostmagicalcivilizationsandnotCeltichistoricalcultures, nohonestfit. Need no parentwidening.
+
+## Seed slot/ceiling
+Irish myth fantasy: Fantasy retelling or reimagining inherited Irish myths, legendary figures and narrative cycles in their mythic or historical-age worlds. Not modernmythaliveinpresent; notCelticcultureasperiodsettingalone; notArthur/GrailorWelshMatterBritainjustbecauseCeltic. Scope includesUlster,Mythological,Fenian,CyclesKingswhenactualinheritedIrishsourcegoverns, notonlyWatson'swomenorIronAge. Honestverifiedceilingtoday1fiction2novels; noexistingmovesclaimed. SongIrelandlookalikealreadyTimeDistortionbecauseoffworldSF/timeengine; cannotmovebytitle. OtherIrishwriters/booksarekinleadsnotverifiedmembers, noadditionalmoves.
+Name Irish myth fantasy: descriptivesiblingpattern, notclaimedestablishedcriticalheadword. ExactphrasewebsearchfounddescriptorinBalorcomicpressheadlineandothers, noexactnamednovel/game/seriespropertyshown. This is nottrademarkregistryclearance. Needfetchmaterialnaminghitifusedasformalattestation. Parentchosesiblingpattern. Nohard3kindfictionnamesruleassumed.
+
+## Dates/covers
+PublisherSwanFeb24,2009; RavenFeb22,2011. FantasyLiteraturemetadata2010contradictsownMarch2011review/publisher2011; usepublisherdate. 2distinctEnglishflatBantamprintfrontspixelinspected13:20:26. Files/downloads/raven/{swan,raven}.jpg, notlocalizeduntilapproval.
+https://images3.penguinrandomhouse.com/cover/9780553384642
+https://images4.penguinrandomhouse.com/cover/9780553384659
+
+## Sources ledger
+Author/currentownscope/story/continuity:
+https://www.juleswatson.com/books
+https://www.juleswatson.com/the-raven-queen
+https://www.juleswatson.com/the-swan-maiden
+https://www.juleswatson.com/inspiration
+AuthorizedprimaryRavenexcerpt, directDeirdreflightreference:
+https://juleswatson.com/ravenqueenexcerpt.html
+Authorinterviews2009/2011,2partseriesvsDalriadaandhistory/mythdistinction:
+https://writerunboxed.com/2009/05/22/interview-with-jules-watson-part-1/
+https://writerunboxed.com/2011/01/22/writing-historical-fantasy-a-conversation-with-jules-watson/
+Publisherssynopsis/printdates/covers:
+https://www.penguinrandomhouse.com/books/187358/the-swan-maiden-by-jules-watson/
+https://www.penguinrandomhouse.com/books/187359/the-raven-queen-by-jules-watson/
+CompletedindependentreviewsSwanfulltragicengineandRavenpower/love/faeengine:
+https://agreenmanreview.com/books/jules-watsons-the-swan-maiden/
+https://historicalnovelsociety.org/reviews/the-raven-queen/
+https://fantasyliterature.com/reviews/the-raven-queen/
+https://freshfiction.com/review.php?id=29412
+Bibliography2011andtwo-relatedbooks corroboration:
+https://www.fictiondb.com/book/the-raven-queen~jules-watson~281511.htm
+Captures /tmp/raven-sources{1,2,3,4}.txt, /tmp/raven-bibliography.txt. Source3interviewpart2 guessedURLwas404/notused. No claimthatall2009/2011reviewersagreeaesthetically: HNSpraises whileFantasyLiteraturecriticizesheroine/prose, bothagreeplot.
+
+Portrait899B selected after full-size A/B pixel inspection. Swan/raven/sacredlake/ancientqueen, no weapons, hands hidden, coherent anatomy. Definition tradition-wide rather than female-protagonist singleton.
