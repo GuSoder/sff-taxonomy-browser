@@ -368,3 +368,6 @@ Curator names phonemsg-01M6R18WTMDHW68V7758RMVX50; Approved phonemsg-01M6R1CA7FD
 
 ### Whole Sipstrassi / Ancient Greece retirement2026-11-06
 Owner Approved phonemsg-01M6R3B5CZRVQVGNWBVEKKB40N, accepting ruinedfuture frame. GreekSeries2 merged into StonesPower4 plus Bloodstone1994 = seven novels/one fiction in Post Magicalypse. AncientGreece retired, oldid redirectsPostMagicalypse; Classicalantiquity retained overRoman only.839nodes/2745fictions/6474books; netcards-1, books+1. Title/idStonesofPower unchanged.
+
+## Ancient Greece fantasy re-created2026-11-06
+Owner Approved phonemsg-01M6R6XHAGWZG1ZSCC0172NF3J on served block phonemsg-01M6R65GJ2H0EJWS3W5C98BCFS. Classical antiquity1to2children, one fiction/two confirmed Tarr novels, no moves/gate widening. Descriptive regional-era label, not formal critical genus; no exact named-property hit in checked search, not registry clearance. Stable id ancient-greece-history-fantasy preserves old ancient-greece-fantasy redirect to Post Magicalypse; retired YAML intact. Original portrait761 reused after full-size inspection. LordTwoLands1993 disputed possible continuation uncounted; no sharedworld inferred merely from historical Alexander.
