@@ -1,0 +1,58 @@
+# King's Son, Magic's Son, MC04944 (2026-11-06)
+Place standalone1994 in existing Celtic fantasy7->8. No gate change. Skip preceding MC04943 Highlander The Captive Soul as media tie-in, established SFE bibliography. MC04945 The Chaos Gate likewise is Bard's Tale game tie-in (SFE), not confused with Bardic Voices. MC04946 already folded whole Prince of the Sidhe. Next real WALK MC04947 Echelon.
+
+## Scope and evidence
+Standalone: SFE individual titles, publisher single novel, reader says ending ties up without sequel. Named different cast Aidan/Estmere, not Ardagh or Hauberin fiction. First-printing front matter inspected: June1994, ISBN0671876023, Clyde Caldwell art. Queue2015 is ebook republication. Own synopsis, nine-chapter publisher-authorized sample, bibliographic source, finished reviews and adaptation bibliography read. Sources span primary/publisher, reference, scholar's curated retellings list, reader reviews. Full novel not read, no such claim.
+
+Aidan ap Nia, son of Cymra witch and king, raised in nature magic, learns father's identity and vows to dying mother to serve royal half-brother Estmere. Ailanna faerie romance and oath to Lord of Faerie create competing obligations. Court distrust and rival demonic magician threaten brother. Finished Thriftbooks reviewer details imprisonment, fairy rescue, blamed royal wife's death, later match for brother and defeating wicked king; one reviewer incorrectly thinks no known source tale. Author/scholar Valerie Estelle Frankel list explicitly identifies Child ballad King Estmere, corroborated Wikipedia ballad entry and dated reader recommendation. Primary ballad version read at Bartleby: King Estmere and magical younger brother disguise as harper/boy to save bride from rival King of Spain, return merry England. Sherman's novel substantially expands this kernel and shifts younger brother Alder/Adler to Aidan, adds his Faerie love/vows. Exact source matters but doesn't itself force new genre.
+
+Actual novel's opening names Cymra (West Country), Cymraeth, Anglic lands east, waves of peoples settling ancient west, pagan Goddess alongside new triple male deity in east; these are renamed Welsh/British cultural landscape, not an arbitrary invented planet. Published finished review calls pagan Wales resemblance; another calls this Earth. Do not invent historical year or equate legendary Estmere with documented monarch. Historic legendary Britain, not calendared chronicle. Fits Celtic gate's explicit Celtic myth AND early-medieval Ireland/Wales/Britain, not solely precise historical reconstruction. Existing Celtic Sistersong is also ballad retelling in post-Roman Britain. No rule makes all named-ballad adaptations depart honest period/cultural homes. No new ballad shelf needed or existing moves claimed. Potential Ballad fantasy naming research found mostly music/verse meanings and one low-authority literary tag, so not treated as established subgenre. Thomas Rhymer already has independent existing Portal leaf; no move based only on source type.
+
+## Full walk
+Speculative -> Fantasy literal white magic, fae, griffins, demon pacts. Not scientific premise or time travel. Three Fantasy roots: Fantasy realms tempting secondary-world names, but Cymra/Cymraeth/Anglic and old-British cultural geography plus English source legend anchor Earth; no wholly independent invented universe. Epic grand struggle/destiny or S&S pulp adventure surface are not reason to ignore honest Earth-rooted gate. Fairytale fantasy tests: no familiar fairy-tale inverted villain/damsel/viewpoint; no tale transferred to different era/culture (ballad's legendary Britain stays mythic Britain); no tale becoming original cosmology, no sequel after source ending, no wholly invented fairytale. Ballad retelling isn't automatic Fairy-tale expansion by generic expansion wording; ancestor is recognizable fairy tale, not any traditional narrative. Not Comedy, Gothic realms nor counterculture Far shores because Earth's renamed British roots. Heart fantasy romance strong, but competing brother-duty action rather than couple's courtship governs whole, and that branch's fantasy-realms ancestry also fails.
+Portal fantasy: Faerie visits and vows substantial, but whole is mortal magician's ongoing obligations between established Faerie love and human family court; not discovery of hidden world as governing contract. Whimsical bright anchored-door child story no; Eldritch anchored threshold not established; Transporting tomes no; Rifts Multiverse many worlds no, Otherworld summoned/stumbled discovery no (native magically skilled protagonist), Wainscot hidden adjacency reveal not whole spine, World bleeds leak without travel no, Planetary magical planet no. Do not alter gates to force portal flavor.
+Real earth fantasy -> Historical (legendary past/cultural old Britain), not author's Contemporary or future. Historical children: Mythic retelling ancestor passes inherited King Estmere source but all seven exact children fail: Arthur/Camelot/Grail absent, no Greek/Norse/Mayan/Biblical/Roman/Slavic figures/source. A theoretical ballad leaf would fit source type but overlaps period-cultural fit and isn't needed. Period's sibling Celtic explicitly draws on Celtic myth and early-medieval British culture, so read actual gate rather than assuming Mythic route exclusivity. Period -> Antique times, not Industrial or long multi-era chronicle. Antique -> Dark age, not prehistoric/classical, age-of-sail/Edo/Mughal/Abbasid. Dark age -> Celtic by Cymra/Goddess/western British folklore; not Viking seafaring/Scandinavian culture, High/Late Medieval feudal European church culture, Muslim-Iberian Andalusian, plague era. Secret history no documented event secretly explained, Alternate history no explicit divergent timeline. Celtic7->8, below tenth. Wobble explicit: Earth correspondence uses renaming rather than literal map, named English ballad source with Welsh inflection, strong romance and personal adventure. No structural change.
+
+## Cover
+Baen current official147x240 English flat front, Clyde Caldwell griffin and full title/author inspected. Matches original paperback front matter artist. Low resolution disclosed; no audio markers/stickers/title-page placeholder. No purchase or first-edition condition claim.
+
+## Sources read
+- https://www.baen.com/king-s-son-magic-s-son.html
+- https://www.goodreads.com/book/show/1963091.King_s_Son_Magic_s_Son
+- https://www.thriftbooks.com/w/kings-son-magics-son_josepha-sherman/932889/
+- https://sf-encyclopedia.com/entry/sherman_josepha
+- https://vefrankel.wordpress.com/fairy-tales-online/novel-length-fairytales/
+- https://en.wikipedia.org/wiki/King_Estmere
+- https://www.bartleby.com/lit-hub/the-oxford-book-of-ballads/41-king-estmere/
+- http://balladindex.org/Ballads/C060.html
+- https://www.reddit.com/r/suggestmeabook/comments/tc6145/young_man_adventurer_embarks_on_the_classic/
+- https://www.baen.com/Chapters/9781625794475/9781625794475___1.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___2.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___3.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___4.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___5.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___6.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___7.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___8.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___9.htm
+
+
+## Sources read
+- https://www.baen.com/king-s-son-magic-s-son.html
+- https://www.goodreads.com/book/show/1963091.King_s_Son_Magic_s_Son
+- https://www.thriftbooks.com/w/kings-son-magics-son_josepha-sherman/932889/
+- https://sf-encyclopedia.com/entry/sherman_josepha
+- https://vefrankel.wordpress.com/fairy-tales-online/novel-length-fairytales/
+- https://en.wikipedia.org/wiki/King_Estmere
+- https://www.bartleby.com/lit-hub/the-oxford-book-of-ballads/41-king-estmere/
+- http://balladindex.org/Ballads/C060.html
+- https://www.reddit.com/r/suggestmeabook/comments/tc6145/young_man_adventurer_embarks_on_the_classic/
+- https://www.baen.com/Chapters/9781625794475/9781625794475___1.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___2.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___3.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___4.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___5.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___6.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___7.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___8.htm
+- https://www.baen.com/Chapters/9781625794475/9781625794475___9.htm
