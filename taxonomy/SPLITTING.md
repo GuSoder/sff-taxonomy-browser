@@ -145,3 +145,7 @@ Surface colony life native-life children were dissolved the same day on explicit
 Seed rather than split: Rebel 2 to 3 children, no existing card moves. Samizdat6/Tinderbox8 unchanged, new1 fiction6 novels. Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF.
 
 | 2026-11-06 | Post-apocalyptic fantasy | Post Magicalypse6 / Fantasy after Disaster4 | Cause of collapse, supernatural material agency vs secular disaster with fantasy afterward; owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3; umbrella zero direct cards. Sipstrassi bomb/timegate, Hunter compound disaster and BirdBox unknown ontology qualified. |
+
+
+## Hard alien approved split 2026-11-06
+Owner Approved phonemsg-01M6S4TM1Y2DM2DRBGVSNQBC55 on block phonemsg-01M6S4SAEKZCGJVVCRF0S99606, direct authenticated read20:19:43CET. Biology6 / engineering3(Expanse whole9, Final Architecture3, Algebraist1) / physics1(Vinge whole3). Original umbrella0, three new children and portraits905-907. Names iterated by owner; earlier Dominion clashed with existing Alien dominions, all earlier proposals superseded. Biology keeps Uplift despite engineered uplift, physics keeps wholeVinge despite Blight technology. Counts850/2768/6573 unchanged books/cards. No extra fiction, scope repair or existing ancestor gate change.

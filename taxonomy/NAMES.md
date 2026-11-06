@@ -383,3 +383,7 @@ Approved originalphonemsg-01M6RHKZ46K3FRD9QN028GH4RG onphonemsg-01M6RHFMFHDPTM16
 
 ## Time tangles2026-11-06
 Timeslips2->3children, level7 sibling toTimebleeds/Timestrays. WholeKefahuchi3movedHardalien9->8, onefictionceiling1, ownerApprovedphonemsg-01M6RNXAQVSV7X4H28X67WFJQW actualread.847/2764/6567. Newportrait904 inspected, threeEnglishprintcoverslocalized(NovaSwinglowresolution). Noexistinggatechange; nootherfiction. Newcoinage; nearTimeTanglesingularEagar1976/TangledinTimeLaskydisclosed, noexactpluralgenreusageestablished ortrademarkclaim.
+
+
+## Hard alien approved split 2026-11-06
+Owner Approved phonemsg-01M6S4TM1Y2DM2DRBGVSNQBC55 on block phonemsg-01M6S4SAEKZCGJVVCRF0S99606, direct authenticated read20:19:43CET. Biology6 / engineering3(Expanse whole9, Final Architecture3, Algebraist1) / physics1(Vinge whole3). Original umbrella0, three new children and portraits905-907. Names iterated by owner; earlier Dominion clashed with existing Alien dominions, all earlier proposals superseded. Biology keeps Uplift despite engineered uplift, physics keeps wholeVinge despite Blight technology. Counts850/2768/6573 unchanged books/cards. No extra fiction, scope repair or existing ancestor gate change.
