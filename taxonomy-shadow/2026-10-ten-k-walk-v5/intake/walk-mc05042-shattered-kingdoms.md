@@ -1,0 +1,21 @@
+# MC05042 Shattered Kingdoms,2026-11-06
+One published novel: The Secrets of Everlight, Julie Hall, Ace2026-10-06,496pages. Author's October18 interview calls The Curse of Heartthorn the second book in this duet and still being drafted. It is not added as a published volume. Author's current series shelf lists only Secrets. No connection to her other series assumed.
+
+## Root walk
+Speculative fiction > Fantasy > Fantasy realms > Heart fantasy > Romantasy > Bonded romantasy > Bargain bond romantasy > Court bond romantasy. Existing leaf3->4.
+Literal fae/magic in invented Vaeloria, not historical Earth despite a review's historical-fantasy label and Bridgerton inspiration; not Earth-crossing portal fantasy. Not SF. Romance remains co-equal with the investigation and political threats: author gives the disguise/love-identity reveal and rejection/kidnapping ending in detailed spoiler interview. The courtship mystery resolves but the couple's arc and larger conflict carry forward. Not cozy, horse, inherited fairytale retelling, epic quest or Gothic crime investigation as spine. The initial fairy-tale/Bachelor glamour is not proof of a canon retelling.
+The lovers start tied by a courtly bargain: Rowan's contract is bought by Neo, and freedom/reward is conditioned on posing as a visiting princess to expose the prince's would-be assassin. Spoiler author interview confirms Neo and Dryden are one man, not a genuine rival love triangle. The bargain to impersonate a royal suitor therefore ties her directly to the beloved prince. Court bond rather than Duty bond: the initial tie is the freedom-for-service agreement and assigned princess role, not two independent people merely sharing a quest. Not Soul bond: no innate mate/blood bond established. Not Magic bond: fae make the deal, but its mechanism is court/contract and the suitor role, not supernatural curse enforcement. No forced actual marriage claimed.
+Not Enemies-to-lovers and Crown-slave/Crown-outlaw merely because the author lists an enemies trope or Rowan begins indentured and steals. The prince buys her out and recruits her to protect him; opposed camps are not the governing starting relationship. Podcast introduction explicitly says he buys her contract and sets her free; promotional copy and some reviews frame freedom as earned after the job. This tension is disclosed rather than inventing exact legal emancipation timing. Under either description, the plot tie is the agreement/role. Existing court-bond Arcana Academy also distinguishes royal freedom-for-service fake-bride bargain from crown-enemy status, but that example is a consistency check, not permission or a substitute for this novel's own sources.
+
+## Evidence
+Publisher and author product copy, author shelf, two detailed author interviews (one with spoilers/endgame), four completed reviews read. No full novel read. Podcast auto-transcript has proper-name glitches but the author directly confirms Neo/Dryden identity, the romance structure, rejection, resolved courtship-season assassination plot and subsequent kidnapping. Future sequel claims are plans, not present events. Only the published book counted.
+https://www.penguinrandomhouse.com/books/818434/the-secrets-of-everlight-by-julie-hall/
+https://www.juliehallauthor.com/products/the-secrets-of-everlight-paperback
+https://www.juliehallauthor.com/collections/shattered-kingdoms-series
+https://www.juliehallauthor.com/pages/books
+https://thenerddaily.com/julie-hall-the-secrets-of-everlight-author-interview/
+https://www.buzzsprout.com/2573414/episodes/19923208-usa-today-bestselling-romantasy-author-julie-hall-x-main-chapter
+https://www.gamevortex.com/psillustrated/sound_rev.php/954
+https://sassyreviews.com/bookshelf/secrets-everlight/
+http://rusticreadinggal.blogspot.com/2026/10/review-secrets-of-everlight-shattered.html
+http://www.ismellsheep.com/2026/10/book-review-secrets-of-everlight.html
