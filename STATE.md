@@ -2070,3 +2070,6 @@ TimeDistortion5to6. Unequal-rateDanuCities engineeredSF, actualtextending govern
 
 ## MC04985 CaptainNemo whole3
 Existing20kcard folds Castaways/Island bypositiveprimarycontinuity. ScientificAdventure8unchanged.3Englishprintfrontsinspected/localized.841/2757/6512.NextMC04986.
+
+## MC04986 Off on a Comet
+FORCEDScientificAdventure8to9. NaturalcometvsTechMarvelgatewobble explicit. No shallowseed/widening.1877onebookMint2021jacket.841/2758/6513.NextMC04987.
