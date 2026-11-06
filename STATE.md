@@ -2194,3 +2194,6 @@ ExistingWarriorBards3expandedto12novels,Sevenwaters6+BlackthornGrim3+WarriorBard
 
 ## MC05061LightIsles6Nov
 2novels2002/2003Viking5to6.Bridei05066/68covered,Sevenwaters05067omnibusexcluded.850/2776/6595.NextMC05062HeartsBlood.MalformedVikinggenreYAMLhistorynormalizedtothelivefivecardsplusLightIsles;nootherbranchchanged.
+
+## MC05062 Heart's Blood, 6 November
+Standalone2009, Medieval haunting3to4, Celtic remains9. Author ghost-story/setting distinction and full ancestor walk recorded.850/2777/6596. No structural gate. Nextunfinishedrow from _done and candidate list.
