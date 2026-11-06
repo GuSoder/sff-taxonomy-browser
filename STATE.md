@@ -2200,3 +2200,6 @@ Standalone2009, Medieval haunting3to4, Celtic remains9. Author ghost-story/setti
 
 ## MC05071 Broken Trust,6November
 Threepublishednovels2020/21/22,Hardsciencefantasy8to9;Modern-dayancestorofSociologicalSFfails.850/2778/6599. No structuralgate.NextMC05074PerfectionofTheresaWatkins.
+
+## MC05075 Silent Gods,6November
+Two published novels2019/2021;Channeledhardmagic9to10;thirdbookexplicitcurrent2027preorderexcluded.850/2779/6601. Frozen at10;split research before further intake.
