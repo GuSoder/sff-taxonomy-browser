@@ -1,0 +1,27 @@
+# The Evermore Trilogy, MC05050-51, 6 November2026
+One published novel Rose in Chains(2025), Julie Soto. Vine of Hearts remains future26NovemberUK/1DecemberUS2026, explicitly author-confirmed; no future sequel added or classified as read. Three-volume plan is not three published novels. Card title The Evermore Trilogy, not the source fanfic name. No sharedworld merger with Harry Potter: independent published characters/world, not authorized franchise continuity. Hardcover standard English front from publisher inspected at full size and localized.
+
+## Own plot and evidence
+Rose: defeated princess Briony sold as enslaved heartspring to Toven Hearst, a powerful heir/member of Bomard's ruling ten families, after Mallow's crown conquers Evermore. Longstanding school antagonism/crush crosses wartime enmity and current ownership, while Hearst family hides its aid to her. Romance is slow-burn/coequal with resistance stakes, affirmed by author/publisher, Paste, Grimdark and AAR completed reviews. Toven is not merely a footsoldier across battle lines: he inherits a place in the line for the Seat and acts within crown power. Enslavement is literal, not a negotiated employment contract.
+Important countercheck: Toven does NOT complete a heartspring magical bond with Briony in this published novel. SuperSummary's full ending/quote/character analyses state she is already bonded to her brother Rory, who is alive; Mallow knows Toven has not bonded her and demands it. His final promise is future, not an accomplished magical soulbond. Author's future Vine marketing cannot retroactively make it so. No full-novel read claimed.
+
+## Root-down walk
+Speculative fiction > Fantasy > Fantasy realms > Heart fantasy > Romantasy > Enemies-to-lovers romantasy > Crown enemies romantasy > Crown-slave romantasy1->2.
+Literal heart/mind magic in invented Evermore/Bomard, not SF, real historicalEarth or Earth-crossingPortal. Romance shapes the present captivity/past-school two timelines and the desire/conflict, not only military/political emancipation. Gothic setting is tone, no reason to override romance engine; not a myth retelling because a reviewer invokes Beauty/Beast.
+Bonded romantasy genuine strong wobble: pair physically tied by purchase and captivity. But that parent describes an imposed shared arrangement rather than opposed sides, while Crown-slave explicitly takes a crown's enslaved enemy and romance crossing that ownership. Crown-slave's more exact slavery gate wins over treating violent ownership as a bargain. Soulbond fails published actuality: no lover bond completed. Bargainbond fails: no negotiated bargain or arranged marriage binds them; purchase of an enemy person is the wall. Dutybond fails: no shared quest/duty initiates their romance. Enemies starts in opposing royal peoples; Crown passes because Toven belongs to the ruling succession families and serves Mallow's power, not merely a peer foe. Royal enemies weak because both are dynastic, but the present slavery is the distinctive existing leaf; Crown-outlaw fails because she is held, not at large. No definitions widened.
+
+## Bibliography and caveats
+US hardcover publisher metadata464p,July8 2025, ISBN9781538775813; library actual444p difference may be pagination convention/edition. No page-count inference needed for genre. Primary author dates for future Vine trump generic2026 row. Existing tree checked for Soto/Evermore/Rose, none found. Ordinary whole-fiction grant phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX directly reread this run.
+
+Sources read:
+https://www.juliesotowrites.com/books
+https://juliesotowrites.substack.com/p/hit-may-baby-one-more-time
+https://shop.hachettebookgroup.com/products/rose-in-chains-standard-edition
+https://allaboutromance.com/book-review/rose-in-chains-by-julie-soto/
+https://www.pastemagazine.com/books/julie-soto/rose-in-chains-review-romantasy-dark-romance
+https://www.grimdarkmagazine.com/review-rose-in-chains-by-julie-soto/
+https://www.commonsensemedia.org/book-reviews/rose-in-chains-the-evermore-trilogy-book-1
+https://www.supersummary.com/rose-in-chains/part-3-chapter-43-epilogue-summary/
+https://www.supersummary.com/rose-in-chains/major-character-analysis/
+https://www.supersummary.com/rose-in-chains/important-quotes/
+https://lib.byu.edu/search/byu/record/cat.7797071.item.31197241914701
