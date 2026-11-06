@@ -2109,3 +2109,6 @@ Magicpolitics1to2Dynastic8to7. ExistingScarscardexpanded7, allindividualenginesr
 
 ## MC04998-05000 Galactic Milieu whole8 -2026-11-06
 Classic time agencies8to9. OnecardPliocene4+Intervention+Milieu3;each ownenginechecked. DatesJack1992/Golden1982resolved.8Englishpublisher2013reprintcoversQA. Structureunchanged.846nodes/2761fictions/6541volumes. NextMC05001.
+
+## MC05001-05004 Rampart Worlds whole3 -2026-11-06
+Spacehunt8to9;each ownengine/positiveNewancestorchecked.3EnglishprintjacketsQA. BorealrowMC05003foldedalreadyincluded.846/2762/6544. NextMC05005.
