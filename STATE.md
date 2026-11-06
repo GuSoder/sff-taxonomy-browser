@@ -2054,3 +2054,6 @@ OriginalownerApprovedphonemsg-01M6R6XHAGWZG1ZSCC0172NF3J read. AncientGreecefant
 
 ## MC04980 DevilBargain whole2
 Altcrusade1to2,sharedscopeconfirmed2002/2003,PrideKingsindependentpercompletedcomparativereviewnotmerged. Bothownenginesread,2localRocEnglishprintjacketsinspected.840nodes/2753fictions/6501books.NextMC04981.
+
+## MC04981 William Conqueror whole2
+MedievalFey2to3,2004/2005notebook2007. Bothownenginesread,Otherworldrestoration/landbondpositive;Arthurstraddleexplicit,historicaleventspreserved,nosecret-themepremise.2localEnglishRocfrontsinspected,Ritebordercroponly.840/2754/6503.NextMC04982.
