@@ -2176,3 +2176,6 @@ Rose2025onepublishednovelCrownslave1->2,Vinefutureexcluded. Publishedlovermagicb
 
 ## MC05053-54Brooks,2026-11-06
 OnepublishedFae2025placedOtherworldSummonings9->10,MermDec1futureexcluded. Entrancearchitecturethinbutpositiveprincecallingbinding;noanchoreddoorasserted.850/2774/6581.INTAKEFROZEN:splitresearchOtherworldSummoningsbeforeMC05055.
+
+## Requiredfrozenmemberrootwalkcorrection6Nov
+ImajicaOtherworld->Worldhopper9to10;DarkWorldOtherworld->Mirror8to9.Otherworld10to8cancelledsplit;activefreezeWorldhopper10.INTAKEPAUSEDbeforeMC05055.850/2774/6581unchanged.
