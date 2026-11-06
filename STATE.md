@@ -2212,3 +2212,6 @@ All3novels grounded;Usurper3unchanged. Correctyears2019/2023/2025 and false miss
 
 ## MC05081 Vampirates universe,6November
 Author-confirmedshareduniverse:6Vampirates+3PirateAcademynovels,DeadDeepnovellaexcluded. Allnineindependentlygrounded. Climate-createdoceanicfutureEarth;FantasyafterDisaster4to5. NineEnglishlocaljackets.850/2780/6610.
+
+## MC05082 Quantum Gravity,6November
+Fivepublishednovels2006/2007/2008/2009/2011,wholefictionWorldhopper9to10. FiveEnglishlocaljackets.850/2781/6615. INTAKEFROZEN: interrogatefrozenmembers,thensplitsubmit. Noeleventh.

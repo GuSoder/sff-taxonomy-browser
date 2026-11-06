@@ -1,0 +1,51 @@
+# Quantum Gravity, 6 November 2026
+
+Five published novels form one fiction. Place in Worldhopper multiverse fantasy, nine to ten, then freeze intake and interrogate the frozen members for a split. The author explicitly lists five and calls book five the finale; unwritten plans for seven are not published books. Natural History's two novels are a separate SF sequence, and Salvation's Fire belongs to the separate After the War shared world. No folding from author identity alone.
+
+## Each novel's own engine and publication
+
+Keeping It Real (2006): the Quantum Bomb opened Earth/Otopia to other realms. Lila Black, mutilated during a diplomatic mission and rebuilt as a nuclear-powered cyborg, must protect elven rock musician Zal against threats that involve his defiance of racial boundaries. She becomes entangled in a magical Game and crosses to Alfheim. The publisher, BellaOnline's completed review and later critical recaps independently establish the protection mission, body/identity conflict, actual magic and interrealm stakes. Original 2006 is SFE's first Gollancz record, confirmed by contemporary sequel review; 2010 ebook/2017 paperback are later editions.
+
+Selling Out (2007): Lila investigates Zal's capacity to mix elven and demonic magic, traveling to Demonia under cover as a tourist-guide researcher, while Zal explores elemental Zoomenon. Her secret resident necromancer, Agency surveillance, parents and sister, blood debts and demon codes create personal as well as diplomatic dangers. Two independent completed reviews, Strange Horizons and SFFWorld, plus SFRevu's detailed review establish this volume's own shift beyond the first's bodyguard plot. Its realms are not merely background races in Otopia. SFE and contemporary May 2007 hardcover review establish original year, not 2008 Australian paperback.
+
+Going Under (2008): Lila's married life in Demonia, demon duels, a Mothkin infestation of Otopia and the Agency's next mission send the cast toward Faery/Umeval. The raw and violent realm is neither conventional fairy court nor simple Earth counterpart. Kari Sperring's completed Strange Horizons review specifically describes the prolonged Demonia opening, journey into Faery, expanding viewpoints and Lila's constrained autonomy; it warns against flattening the novel into a generic action romp. Original year is 2008, SFE and early-2009 review of the volume, not November 2009 paperback.
+
+Chasing the Dragon (2009): Lila returns from Under after fifty Otopian years although it felt brief to her. Her altered home has new cyborgs modeled after her, changed Agency leadership, dead and returned relations, missing Zal, sentenced Teazle and increasingly unstable realms. Markus Thierstein's completed review independently details the changed bodies, worlds and cosmology, the Fates and dragons, and the new crisis rather than inferring the first novel's engine. Publisher ebook and SFE establish 2009, not paperback 2010. The author identifies the fourth volume and planned but unwritten later books; current publisher's generic ten-years-after-Bomb copy does not erase the independently described time jump.
+
+Down to the Bone (2011): Lila must enter death's realm with her dead lover and the AI in her head, while she, Zal and Teazle confront their linked crises and larger evil. Author's finale page, publisher and two completed reviews, SFBook and Concatenation, independently ground the actual death-realm mission and closure. SFBook's reviewer explicitly entered at volume five, useful independent corroboration without pretending familiarity with the earlier books. Original 2011 from publisher ebook and SFE. The author explains seven books were initially planned but publisher closed at five, leaving some dragon/Other loose ends; no fabricated sixth or seventh included.
+
+## Actual root-down walk
+
+Speculative fiction > Fantasy: elves, demons, aetheric magic, possession, faerie and the land of the dead are materially real, alongside advanced cyborg machinery. The scientific-sounding Quantum Bomb is the opening premise, not a known-physics account of every miracle. Author calls the series SF/F/romance; SFE says its Hard SF premise is not examined closely. That marketing mix does not force the Atemporal > Science fantasy branch: its explicit atemporal gate fails the near-future Earth, and Hard science fantasy's known-physics/no-teleportation gate fails actual interrealm crossings and magic. No adding a tenth there merely because cyborgs are prominent.
+
+Fantasy > Portal fantasy: whole-fiction action is organized by exchange among Earth/Otopia and five other realms, their political relations, differing magic and Lila's crossings. Earth is explicitly present, so this is not Fantasy realms. Real earth fantasy > Future is the strongest neighboring path, because Otopia is future Earth and society is changed by a spectacular event. But a quantum accident is not by itself proof that civilization ended: technology and governments continue, and this series's main action ranges into Demonia, Zoomenon, Alfheim, Faery and death. Do not label it Post Magicalypse merely because 'Bomb' sounds apocalyptic. The author's Earth framing and future chronology are preserved while the more specific crossing engine governs the root choice. Likewise the romance and identity threads matter, but neither makes a secondary-world Romantasy ancestor true.
+
+Portal > Fantasy rifts: channels between worlds, not a magical book acting as the passage, a single whimsical door adventure or primarily eldritch forbidden access. Fantasy rifts > Multiverse fantasy: a six-realm cosmology, not one hidden Otherworld, a leak nobody travels through, or planets in our normal universe. The changing political and personal relations across several realms are indispensable to every volume. Multiverse > Gateway: realms are genuinely distinct, not counterpart Earths or meetings with alternate selves. Gateway > Worldhopper: no fixed home border governs the whole story. Otopia is one base but volume two's Demonia/Zoomenon, three's Demonia/Faery, four's dispersed and transformed cast and five's death-realm mission make the cosmology itself the stage. Borderland is the main wobble, since Lila works for Otopia's agency and returns home, but the sustained multi-realm cast and missions outweigh a home-ground reading across all five volumes.
+
+## Caveats and consequences
+
+Full novels not read. Each volume's own primary plot and completed independent review were read; classification is a whole-fiction judgment, not a repetition of one publisher synopsis. Otopia's history and some alleged scientific explanations remain complicated, but no source read supports a known-physics placement. The initial 2021 future is judged against original 2006 publication, not today's calendar. No exact fictional year is needed for display.
+
+Five distinct English print-front publisher jackets localized and actual-pixel inspected; edition years on the card are original publication, not cover edition. Worldhopper accepts the tenth, then freezes. No eleventh and no new genre until a sourced split proposal is served and approved. Counts after placement: 850 genres, 2,781 fictions, 6,615 books.
+
+## Sources read
+https://justinarobson.co.uk/quantum-gravity/
+https://justinarobson.blogspot.com/p/justinas-books.html
+https://sf-encyclopedia.com/entry/robson_justina
+https://www.hachette.com.au/justina-robson/keeping-it-real-quantum-gravity-book-one
+https://www.hachette.com.au/justina-robson/selling-out-quantum-gravity-book-two
+https://www.hachette.com.au/justina-robson/going-under-quantum-gravity-book-three
+https://www.hachette.com.au/justina-robson/chasing-the-dragon-quantum-gravity-book-four
+https://www.hachette.com.au/justina-robson/down-to-the-bone-quantum-gravity-book-five
+https://justinarobson.co.uk/quantum-gravity/quantum-gravity-2-selling/
+https://justinarobson.co.uk/quantum-gravity/quantum-gravity-4-chasing-dragon/
+https://justinarobson.co.uk/quantum-gravity/quantum-gravity-5-chasing-dragon/
+https://www.bellaonline.com/articles/art29988.asp
+https://strangehorizons.com/wordpress/non-fiction/reviews/selling-out-by-justina-robson/
+https://www.sffworld.com/2007/04/bookreview351/
+https://www.sfrevu.com/php/Review-id.php?id=5195
+https://strangehorizons.com/wordpress/non-fiction/reviews/going-under-by-justina-robson/
+https://thierstein.net/index.php/reviews/103-justina-robson-chasing-the-dragon
+https://www.blackgate.com/2009/05/22/not-so-short-fiction-review-17-epic-fantasy-chick-lit-division-justina-robsons-quantum-gravity-series/
+https://sfbook.com/down-to-the-bone.htm
+http://www.concatenation.org/frev/robson_down_to_the_bone.html
