@@ -2030,3 +2030,6 @@ PicturesofYou skippurehorror5sourcesread;SpinBlackYarn skipcollection PRHfive no
 
 ## MC04965-04966 2026-11-06
 WatchingEvilDead skipnonfiction perPRHownlifewritingguide. MorrisBakerwhole2original2022/2023->AltColdWar6; firstandsequelownengines/current2scopefullwalkinwalk-mc04966.md.839nodes/2748fictions/6478books. NextMC04967BurningMagic.
+
+## Shadow Magic trilogy, 2026-11-06
+MC04967-04969 whole3 -> Necromancer4. Full per-volume engines and mystery/setting wobbles recorded in walk-mc04967-04969.md. Three English print jackets localized and inspected.839nodes/2749fictions/6481books. NextMC04970.
