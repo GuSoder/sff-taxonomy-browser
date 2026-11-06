@@ -2057,3 +2057,7 @@ Altcrusade1to2,sharedscopeconfirmed2002/2003,PrideKingsindependentpercompletedco
 
 ## MC04981 William Conqueror whole2
 MedievalFey2to3,2004/2005notebook2007. Bothownenginesread,Otherworldrestoration/landbondpositive;Arthurstraddleexplicit,historicaleventspreserved,nosecret-themepremise.2localEnglishRocfrontsinspected,Ritebordercroponly.840/2754/6503.NextMC04982.
+
+## Frankish myth fantasy (2026-11-06)
+Owner Approved phonemsg-01M6RBADZY44A1905AKNNNKVQ2 on served block phonemsg-01M6RB81NF95V4PHRQEPM6KXA9, after choosing name phonemsg-01M6RB7S1H5SS8JZVAT3DRBKQH. Mythic retelling7to8, Kingdom of the Grail2000 one fiction/one novel, no moves/gate changes. Matter of France tradition, not historical Franks in general; Arthur/Grail hybrid wobble explicit. Descriptive sibling-pattern name chosen by owner, not claimed formal genre or trademark clearance. Supersedes proposed Carolingian/Charlemagne labels. Honest ceiling1, Three Hearts stays portal. Portrait898A selected after visual review of two variants.
+841nodes/2755fictions/6504novels. NextMC04983 afterliveQA.
