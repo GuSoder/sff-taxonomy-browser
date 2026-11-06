@@ -1956,3 +1956,7 @@ OwnGrey/True/Freepublisherandfinishedreviews,authorinterviewexplicitpersonal/pul
 
 ### 2026-11-06 - Freakbusters seed
 Curator Approved phonemsg-01M6QP475PE22GXJBJ47QNJGCX (2026-11-06 06:43:24 CET) on served seed phonemsg-01M6QP3KVJ3F0C4BQ5D25N0981. Name proposed by curator phonemsg-01M6QNZWX6H9KH73VZ7QSYBS1B. No existing gate changes. Onefiction33novels, eighthUrbanfantasychild; actualmagicboundary, wholefictionstraddles, containercaptionsandper-volumeQAexplicit.3priorHoward/Deadlandsskiprowsrecoveredexactly.
+
+
+### 2026-11-06 - Bartimaeus
+MC04923-26 four anthology skips; MC04927-29 one fiction/four novels placed in Paranormal bureau5->6. Full whole-fiction walk and4English jacket QA; no structural change. Next MC04930.
