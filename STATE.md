@@ -2067,3 +2067,6 @@ HoundFalcon3+Alamut2sameworld confirmedpublisher/reviews. MedievalFey3to4, all5o
 
 ## MC04984 Song of Ireland
 TimeDistortion5to6. Unequal-rateDanuCities engineeredSF, actualtextending governs. Quartet4mythcyclesthematic, notpositivecontinuity. 2006onebook,2014TorEnglishpaperback.841/2757/6510.NextMC04985.
+
+## MC04985 CaptainNemo whole3
+Existing20kcard folds Castaways/Island bypositiveprimarycontinuity. ScientificAdventure8unchanged.3Englishprintfrontsinspected/localized.841/2757/6512.NextMC04986.
