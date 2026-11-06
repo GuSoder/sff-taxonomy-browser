@@ -1973,3 +1973,7 @@ MC04936nonfiction skip;37whole3novels -> Alt diesel fantasy8->9;38anthology skip
 ## Post-infestation survival (2026-11-06)
 Fifth Post-holocaust survival child; native proliferating life rather than disease or aliens defines the living aftermath. One fiction/two novels Invasive Species/Slavemakers, no moves or gate widening. Descriptive sibling-pattern coinage, not established literary term; Post-Infestation alone is an existing C. A. Gleason short-work title, not exact full-name collision or trademark proof. Honest ceiling1; Triffids/Green Brain look-alikes excluded, other leads unverified. Approved phonemsg-01M6QVDV36P8KNNCE3XX2NV0FC08:16:02CET on served seed phonemsg-01M6QS3TTT4Y9KER6AWG0Q8KNW and axis phonemsg-01M6QS3X004KV8DH41RQ2FH9FJ. Portrait895 A selected, two local English flat jackets inspected.
 838nodes/2736fictions/6451novels. NextWALKMC04940. Deploy/liveQA pending.
+
+
+### 2026-11-06 A Strange and Ancient Name
+MC04940standalone1 -> Medieval Fey1->2;reverseportalwobblepreserved;primarysample7chaptersread;1993nominalfirsteditionvsDec1992release;2015ebookqueue. English235x375originalfrontinspected. NextMC04941PrinceoftheSidhe2. 838/2737/6452.
