@@ -351,3 +351,8 @@ Curator coined Post alien devastation (phonemsg-01M6P0RVDEABC3PPZ0R9SFQX07), app
 
 ## Evil empire fantasy (2026-11-05)
 Evil empire fantasy is the curator name; familiar trope not formal subgenre, Reagan/Star Wars and game studio/comic associations disclosed. Replaces rejected Coalition and Empire in revolt. No franchise imagery. Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF.
+
+
+## Freakbusters and exact trademark clarification (2026-11-06)
+Evocative curator Ghostbusters riff, not an established genre term. Exact FreakBusters podcast name disclosed; no confirmed exact trademark found, not registry clearance. His naming correction phonemsg-01M6QP25Z5BWFNAZ97Q5JM14GS: only perfect trademark clashes block, not riffs. Honest ceiling one verified connected fiction; no kin or existing moves claimed. Curator Approved phonemsg-01M6QP475PE22GXJBJ47QNJGCX (2026-11-06 06:43:24 CET) on served seed phonemsg-01M6QP3KVJ3F0C4BQ5D25N0981. Name proposed by curator phonemsg-01M6QNZWX6H9KH73VZ7QSYBS1B. No existing gate changes.
+Earlier broad franchise prohibitions must not be inferred from rejected exact-name cases. Riffs are fine by this explicit user correction. Rejected along naming workshop: Weird science counter ops (too long), Weird science defence (urban setting not apparent), Urban weird science (superseded by curator name).

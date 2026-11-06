@@ -1952,3 +1952,7 @@ Kenstibec45631bd7live3jacketsverified/reported21:45.
 
 ## MC04915-16LotLandswhole3->Pulp8
 OwnGrey/True/Freepublisherandfinishedreviews,authorinterviewexplicitpersonal/pulpformevenwarbook;latePolitical/Militarywobblefullyrecordednotfirstbookshortcut.3EnglishPRHprintfrontslocal/inspected,latereditionsoriginal2015/2019/2021years.836/2731/6408. Next04917Howardshortscheck. Deploy/liveQAremaining.
+
+
+### 2026-11-06 - Freakbusters seed
+Curator Approved phonemsg-01M6QP475PE22GXJBJ47QNJGCX (2026-11-06 06:43:24 CET) on served seed phonemsg-01M6QP3KVJ3F0C4BQ5D25N0981. Name proposed by curator phonemsg-01M6QNZWX6H9KH73VZ7QSYBS1B. No existing gate changes. Onefiction33novels, eighthUrbanfantasychild; actualmagicboundary, wholefictionstraddles, containercaptionsandper-volumeQAexplicit.3priorHoward/Deadlandsskiprowsrecoveredexactly.

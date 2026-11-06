@@ -97,3 +97,8 @@ Fourth cause leaf under Post-holocaust survival, seeded for Gunpowder & Embers20
 
 ## Evil empire fantasy (2026-11-05)
 Third Rebel child, one fiction/six novels, no moves. Explicit parent widening from colonized peoples to peoples under imperial rule including own subjects, with systematic terror/control and wider-than-city resistance axis. Curator Approved phonemsg-01M6PPVJW7A9SR7WZTTXFCJJS9 (2026-11-05 21:36:55 CET) on served seed phonemsg-01M6PPTVYMHK32JQGQ00DV3B87 and explicit axis/parent widening phonemsg-01M6PPTY4TDKTG7YDTQK1AHV08; name supplied by curator phonemsg-01M6PPRMHAN041VVB1M7TVEYCF.
+
+
+## Freakbusters (2026-11-06)
+Eighth Urban fantasy child;1connectedfiction33novels. Curator Approved phonemsg-01M6QP475PE22GXJBJ47QNJGCX (2026-11-06 06:43:24 CET) on served seed phonemsg-01M6QP3KVJ3F0C4BQ5D25N0981. Name proposed by curator phonemsg-01M6QNZWX6H9KH73VZ7QSYBS1B. No existing gate changes. Urban fantasy whose recurring engine is a covert protection service fighting weaponized weird science: engineered monsters, transformed bodies and reality-threatening inventions in a world where the supernatural is real. The dominant threat is made or exploited through science, not occult power. Not Occult secret service (its recurring enemy is occult); not Occult mystery (a criminal or client caseload); not Modern technomancy (magic itself runs through the technology).
+Substantialwholefictionstraddlesdisclosed; noexistingmoves/gatechanges.
