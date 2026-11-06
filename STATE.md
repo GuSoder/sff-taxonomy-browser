@@ -2112,3 +2112,6 @@ Classic time agencies8to9. OnecardPliocene4+Intervention+Milieu3;each ownenginec
 
 ## MC05001-05004 Rampart Worlds whole3 -2026-11-06
 Spacehunt8to9;each ownengine/positiveNewancestorchecked.3EnglishprintjacketsQA. BorealrowMC05003foldedalreadyincluded.846/2762/6544. NextMC05005.
+
+## MC05005-05009Purewhole3andshorts2026-11-06
+ExistingMutantfictioncardretained,addBurn2014,all3ownengines/rootwalk/EnglishcoversQA.3Torshortsskipped.846/2762/6545. NextMC05010.
