@@ -2142,3 +2142,6 @@ Whole1novel2001not2021reissue, Exoplanetexpeditions4->5afterownprimary+interview
 
 ## SpeciesImperativewhole3 2026-11-06
 MC05024/27/33,Hardalien8->9,no10trigger.3novels2004/2005/2006,everyownprimary/completedreviewandrootwalk.847/2766/6571. NextMC05031ShadowyDreamspendingeligibility.
+
+## Consistency2026-11-06
+Hardalien/HardtimetravelgenreworklistsreconciledtoexistingactualworksfilesandbrowserafterCenter/KefmovesandClan/Webadds; noadditionalmoves. MC05031SpeciesImperativeomnibusSKIPofficialauthorproofalreadyread. NextMC05035TheGossamerMage,thenMC05039ToEachThisWorld,notShadowyDreams/AllFleshGrass(mistakenmonitorhint).
