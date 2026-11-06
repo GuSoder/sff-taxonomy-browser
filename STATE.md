@@ -2027,3 +2027,6 @@ Whole1->Creaturefeature2;2019original/2021retitle/2022paperback; no-pretenseanim
 
 ## MC04962-04964 2026-11-06
 PicturesofYou skippurehorror5sourcesread;SpinBlackYarn skipcollection PRHfive novellas. UnburyCarolwhole1original2018->Fairytaledamselinversion4, rootsettingandrescuerole qualifiedinwalk-mc04964.md;WeirdWestremains9/no split.839/2747/6476. NextMC04965WatchingEvilDead.
+
+## MC04965-04966 2026-11-06
+WatchingEvilDead skipnonfiction perPRHownlifewritingguide. MorrisBakerwhole2original2022/2023->AltColdWar6; firstandsequelownengines/current2scopefullwalkinwalk-mc04966.md.839nodes/2748fictions/6478books. NextMC04967BurningMagic.
