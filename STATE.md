@@ -2017,3 +2017,7 @@ MC04960 Malorie2021paperback -> wholeBirdBox2014/Malorie2020,Post-apocalypticfan
 
 ### 2026-11-06 approved Post-apocalyptic cause split
 Owner Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3. Original umbrella0, Post Magicalypse6 / Fantasy after Disaster4, two new leaves/portraits896A/897B. Counts840/2746/6473 unchanged cards/books. No scope repairs bundled. Greek/Ancient Greece follows separately before MC04961.
+
+
+### Whole Sipstrassi / Ancient Greece retirement2026-11-06
+Owner Approved phonemsg-01M6R3B5CZRVQVGNWBVEKKB40N, accepting ruinedfuture frame. GreekSeries2 merged into StonesPower4 plus Bloodstone1994 = seven novels/one fiction in Post Magicalypse. AncientGreece retired, oldid redirectsPostMagicalypse; Classicalantiquity retained overRoman only.839nodes/2745fictions/6474books; netcards-1, books+1. Title/idStonesofPower unchanged.

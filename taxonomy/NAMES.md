@@ -364,3 +364,7 @@ Fifth Post-holocaust survival child; native proliferating life rather than disea
 
 ## Post Magicalypse / Fantasy after Disaster (2026-11-06)
 Curator names phonemsg-01M6R18WTMDHW68V7758RMVX50; Approved phonemsg-01M6R1CA7FDFP5DZYVRHYQC4C3 on phonemsg-01M6R1BB29MXBMTY6F4MY44KZK. Both carry aftermath plus fantasy. Cause axis6/4, supernatural causation may combine with technology. Magicalypse standalone short-fiction-project usage disclosed, not trademark proof; full names no exact named-property hit in checked search. Earlier mission names and Cursed-world withdrawn.
+
+
+### Whole Sipstrassi / Ancient Greece retirement2026-11-06
+Owner Approved phonemsg-01M6R3B5CZRVQVGNWBVEKKB40N, accepting ruinedfuture frame. GreekSeries2 merged into StonesPower4 plus Bloodstone1994 = seven novels/one fiction in Post Magicalypse. AncientGreece retired, oldid redirectsPostMagicalypse; Classicalantiquity retained overRoman only.839nodes/2745fictions/6474books; netcards-1, books+1. Title/idStonesofPower unchanged.
