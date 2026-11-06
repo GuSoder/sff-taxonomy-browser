@@ -2179,3 +2179,6 @@ OnepublishedFae2025placedOtherworldSummonings9->10,MermDec1futureexcluded. Entra
 
 ## Requiredfrozenmemberrootwalkcorrection6Nov
 ImajicaOtherworld->Worldhopper9to10;DarkWorldOtherworld->Mirror8to9.Otherworld10to8cancelledsplit;activefreezeWorldhopper10.INTAKEPAUSEDbeforeMC05055.850/2774/6581unchanged.
+
+## RequiredWorldhoppermemberrootwalk6Nov
+MillenniumRuleWorldhopper10to9;Channeledhardmagic9to10.ActivefreezeChanneledhardmagic10.NounservedWorldhopperproposal;intakepausedbeforeMC05055.Counts850/2774/6581unchanged.
