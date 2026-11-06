@@ -2064,3 +2064,6 @@ Owner Approved phonemsg-01M6RBADZY44A1905AKNNNKVQ2 on served block phonemsg-01M6
 
 ## MC04983 Rhiyana5 whole fiction
 HoundFalcon3+Alamut2sameworld confirmedpublisher/reviews. MedievalFey3to4, all5ownenginesread;authorpsi-mutantoriginwobbleexplicitagainstactualnarratedfantasy/publicroyalpolitics.5Englishprintfrontsinspected/localized.841/2756/6509.NextMC04984.
+
+## MC04984 Song of Ireland
+TimeDistortion5to6. Unequal-rateDanuCities engineeredSF, actualtextending governs. Quartet4mythcyclesthematic, notpositivecontinuity. 2006onebook,2014TorEnglishpaperback.841/2757/6510.NextMC04985.
