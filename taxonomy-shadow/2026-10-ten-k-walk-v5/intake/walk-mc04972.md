@@ -1,0 +1,36 @@
+# The Bloodless Queen, MC04972, 2026-11-06
+
+Whole standalone2025 to existing Perilous fairy doors, 6 to 7. Not merged with the Forever Sea duology: the author, bibliography and publisher describe this as a new book on altered Earth, distinct from the invented grass sea. One English hardcover front from PRH9780756419196 displayed, title/author verified, localized. Original publication8July2025 from publisher. No new genre or gate change.
+
+## Content and sources
+
+In the alternate1987, world leaders fence half the land into Harbors. On each autumnal equinox, people who die become murderous, increasingly alien fae and head into the preserves. Present-day Midwest Fencers Calidore and Evangeline have magical prime-number tattoos and government duty to maintain the boundaries. Their daughter Winnie is deliberately killed on the equinox to force Evangeline into the Harbor and through its Threshold Tree. Their response is a rescue/recovery mission into Faerie, seeking and bargaining with the Bloodless Queen over their child and death. Each Harbor has a Threshold Tree; a previous powerful Fencer sent through it did not return as human. This is a fixed physical passage to a faerie realm, not simply woods as scary wilderness.
+
+Finished reviews disagree sharply about pacing/quality, and those opinions do not decide classification. The Nameless Zine supplies explicit Tree/other-realm and plot-spoiler evidence; JamReads confirms the parents venture and bargain with the Queen; LitStack describes the plan to kill her/steal power to recover Winnie. Do not collapse a proposed plan into a claim it succeeds or adopt the reviewer's assertion that the Queen is pointless. Primary author interview calls the heart life/loss in a small family and names magical prime tattoos and weird faeries. MathFiction quotes the novel's2027 fictional history excerpt, demonstrating near-future framing rather than a book entirely set in1987. Its opinions about mathematics or political figures are not adopted as real-world claims.
+
+## Root-down walk
+
+Speculative fiction > Fantasy > Portal fantasy > Eldritch doors > Perilous fairy doors.
+
+Root SF is a serious marketing rival: publisher and some reviews call this near-future SF/eco SF, mathematicians study primes, and there is counterfactual political history. But actual magic, faerie resurrection, a faerie queen, supernatural passage and power without a scientific explanation make the positive Fantasy root. A prime-number tattoo is not scientific causation merely because mathematical. GameVortex explicitly says no explanation beyond magic; MathFiction's quoted numbers are spontaneously appearing gifts, not technological devices. SF Historical/AltColdWar would misclassify a magic-caused Reagan fork as secular counterfactual; FuturistEcoSF would mistake the conservation premise for a scientific engine. No literal time travel established; retrospective historical excerpts are not time travel.
+
+Fantasy setting fork: Earth explicitly remains Earth, with1987 divergence and near-present/near-future main plot. No independent Fantasy realms setting. Portal wins over Real earth because the fixed Threshold Tree, entry into Faerie and recovery mission materially organize the climactic action. RealEarthContemporary/Future has much of the lead-in, but it is not the strongest whole mechanism. The1987 setup does not make Historical fantasy when bulk follows present-day parents. FutureFantasy would need an honest future leaf: this is not a civilization-ending apocalypse, biblical end, vampire future or psi-only world. Do not widen PostMagicalypse just because preserves changed society; governments, jobs, family and institutions persist. No need futurefae seed because an existing portal mechanism fits.
+
+RealEarth rivals tested: Contemporary myth has fae but its ancient Celtic/etc living-myth taxonomy is weaker than explicit dangerous crossing. Domestic family/grief is emotional center, but magic is not chiefly inherited household or family craft. DarkFantasyHauntedwilds captures terrifyingHarbors but misses a true Faerie realm reached through the Trees. SupernaturalUndying captures returneddead but the parents' crossing and bargaining are more specific; SurrealAfterlife risks treatingFaerie as merely disembodiedlife/dream. Urban covers governmentinstitutions but no citylife focus; MagicalComingofAge fails adultparents; MagicRealism fails shock and deliberate study/defense of alien magic; Folktale fails tale/moral governingform. No need seed.
+
+Portal siblings: fixed tree is an anchored physical threshold, not textual transport. Grothendieck's influential ecological book helped set the fences but is not a book that carries the protagonists across, so TransportingTomes fails. FantasyRifts's unanchoredtears/hiddenworld and WorldBleeds fail because a specific passage exists and humans cross. Otherworld/Wainscot would understate actual passage; summoning may be the government's coercive motive, but it does not ritually carry them, and the portal apparatus governs. MultipleHarbors do not prove manyworldcosmology. No separatephysicalplanet.
+
+Eldritch rather than Whimsical: adultgrief, bodyhorror, murder, predatoryfae and perilousbargain, not childbrightadventure. Eldritchchildren: Perilousfairydoors positively opens into Faerie itself, whose Queen, bargains, alien nature and peril define the destination. NightmareDoors would incorrectly call it merelystorybuilt nightmare rather than explicitFaerie. UncannyThresholds/QuestThresholds is the strongest rival for the parents' rescue mission, but the namedFaerie/Queen/bargain gives the more specific siblingfit; do not chooseQuest merelytoforceits10thsplit. VisionaryThresholds innergrief important but outwardrescue isactualtask, not chieflycontemplation. HorrorFaerie can be monstrous and stillFaerie; no need conventionalhandsomeelves or traditionalCelticmyth. Confidence moderate-high. Rootmarketing/lateportal/pacingwobbles retained, no fullnovelread. All six source pages below and primary interview read, plusauthorhomepage/bibliography forscope.
+
+## Sources
+- https://www.penguinrandomhouse.com/books/744333/the-bloodless-queen-by-joshua-phillip-johnson/
+- https://thenerddaily.com/joshua-phillip-johnson-the-bloodless-queen-interview/
+- https://www.thefictionfox.com/post/review-the-bloodless-queen-joshua-philip-johnson
+- https://jamreads.com/reviews/the-bloodless-queen-by-joshua-phillip-johnson
+- https://www.gamevortex.com/gamevortex/sound_rev.php/838
+- https://www.litstack.com/bloodless-queen-joshua-phillip-johnson/
+- https://thenamelesszine.org/Books-2025/Bloodless_Queen.php
+- https://kasmana.people.charleston.edu/MATHFICT/mfview.php?callnumber=mf1743
+- https://www.fantasticfiction.com/j/joshua-johnson/
+- https://www.joshuaphillipjohnson.com/
+- https://images3.penguinrandomhouse.com/cover/9780756419196
