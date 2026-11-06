@@ -2001,3 +2001,7 @@ MC04956standalone2016->Feralhouse3->4;inexplicableactivehouseagency,notdeadowner
 
 ### 2026-11-06 Daphne
 MC04957 Daphne (2022) -> Vengeful spirits8->9. Specific returning dead woman hunts thinking victims. Cameo/geography scope and Vengeance torment overlap recorded, no gate change. Official English2023paperback jacket localized.838/2743/6469. NextMC04958Goblin.
+
+
+### 2026-11-06 Goblin
+MC04958 Goblin(2017) -> Cursed towns6->7. One linked novel6novellas plusframe, onebook, wholeplaceengine. Prestoandmundanehorrorwobbles explicit;cameosnotallMalermanmerge. OfficialEnglish2022paperbackfront.838/2744/6470. NextMC04959Inspection.
