@@ -2094,3 +2094,6 @@ Ownerphonemsg-01M6RGDGKMRV87X7WJ8Y9E2F35keeps8fornow; Europe/beyondEuropeblock01
 
 ## MC04993-96, 2026-11-06
 Embodiment unpublished Nov10 skipped current Nov6. Phoenix Hoard whole3 placed LivingCity3to4; every volume own engine, clan legacy/Tokyo straddle explicit,3 English print jackets localized/inspected.845nodes/2760fictions/6523books. NextMC04997.
+
+## MC04997 Boreal Moon whole3,2026-11-06
+DynasticMagic9to10FROZEN. ALLintakepausedforimmediatesplitaudit. 2003/2004/2006firstyearsverified,everyownenginewalked,3EnglishVoyagerjacketsinspected/localized.845nodes/2761fictions/6526books. NextMC04998onlyafterapprovedsplitlive.
