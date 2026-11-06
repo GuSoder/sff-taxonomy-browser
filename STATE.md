@@ -2051,3 +2051,6 @@ Main11:13:25resumeafterWhiteRatQA. MC04975editionexistingBabel4. MC04976-77exist
 
 ## Approved Ancient Greece seed2026-11-06
 OriginalownerApprovedphonemsg-01M6R6XHAGWZG1ZSCC0172NF3J read. AncientGreecefantasynewstableidancient-greece-history-fantasy underClassicalantiquity1to2, oldredirectuntouched. ConfirmedAlexander2(Tarr2004/2008), Lord1993disputednotadded. Portrait761reusedafterQA;2localEnglishprintcovers.840nodes/2752fictions/6499books. NextMC04980afterliveQA.
+
+## MC04980 DevilBargain whole2
+Altcrusade1to2,sharedscopeconfirmed2002/2003,PrideKingsindependentpercompletedcomparativereviewnotmerged. Bothownenginesread,2localRocEnglishprintjacketsinspected.840nodes/2753fictions/6501books.NextMC04981.

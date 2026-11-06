@@ -1,0 +1,37 @@
+# MC04980: Devil's Bargain whole2, 6 November2026
+Decision: existing Alt crusade fantasy1->2. No structuralchange/gatewidening.
+
+Scope: Devil's Bargain2002 + House of War2003 confirmedcontinuity. PublisherRoccopyinGoogleBooks explicitly “returns to the world” and namesSioned/Richard/Sinan; completedRamblesreviewcallsitduologybook2andhasallreturningfictionalcharacters. ISFDBRichardCoeurdeLiongroupsPrideofKings2001withthem, but fullcomparativeGreenManreviewexplicitlysaysPrideisindependentwithnoconnectionorcontinuity, differentfictionalcastandmagicalcrownengine. Do notmergebecauseRichardhistoricalpersonappears. Pridewasreadfortheboundarybutisnotaddedoutofqueue.
+
+Firstownengine:1191ThirdCrusade; Eleanor'sSinanbargaintobuyRichardvictorywillcosthissoul. Sioned, Richard'sillegitimatehalfsister, hasWelshfaerySightandAnjoudemonicmagic; sheworkswithAhmadandjinnagainstSinan. RichardwinsJerusalem, unlikehistory. PublisherprimaryPRH, HNScompletedreviewandPWread.
+Secondownengine:aboutadecadeafter, RichardisKingofJerusalem; Sioned/Ahmad'sdaughterTelerihasinheritedmagic;deadSinanreturnsandcapturesher/attacksbeloved. BereavedfamilyandmultifaithmagiciansseekthelostArkoftheCovenanttodefeathim. Richardmustrelyonmagichedetests. BooksforaBuckandRamblescompletedreviewspluspublishercopyread; notmerelygenericCrusadeswar.
+
+Rootwalk: Speculativefiction > Fantasy(actualsorcery,jinnandreturnedSinan) ratherthanSF/rationalizedhistoricalorpsychologicalhorror. Fantasy > Realearthfantasy, Richard/Saladin/actualCrusadesEarth, notinventedFantasyrealms/Portal. RealEarth > Historical, notrealpresent/future. Historical > Alternatehistoryfantasy: explicitmagicalforkRichardwinsandrulesJerusalem, sequel'slastingalternativekingdom. NotPeriod'sdocumentedhistoryasstageunrewritten; notSecretHistory'ssecrecyitselfmainthesis, notinheritedMythicretellingaswholefiction. Welshfaeryheritage/CelticbloodlineismechanismnotwholeCelticstory. NotinventedworldRomantasy/Statecraft/QuestbecauseEarthsettinggatefailsbeforetropes; genuineSioned/AhmadromanceandArkquestarerecordedstraddles. AltHistorychildren: AltcrusadepositivemedievalChristendomandLevant/holywarreworkedbymagic. AltMing,spiceroute,Renaissance,flintlock,diesel,swashbucklerfailtheirperiod/geographicframes. ChosenAltcrusadealreadyexplicitlyEuropeandLevant, noleafrewrite. OneexistingfictionTheDevilsmeansresult2, nosplit.
+
+Wobble: Houseisdeeplyfamily/questdrivenandmuchfirstbooktracksrealhistory, butmagiccreatesalternativeJerusalemkingdomandthatongoingpublicorderiswholeduologyframe. NoforcedPrideuniversefold. Bibliographicgroupingcontradictionexplicit, completedcomparativereviewmorepreciseaboutactualcontinuitythanaggregatedserieslabel.
+
+Sourcesread:
+https://www.penguinrandomhouse.com/books/290458/devils-bargain-by-judith-tarr/
+Primarypublisher2002synopsis,actualmagicandsoulbargain.
+https://books.google.com/books/about/House_of_War.html?id=QEK-PAAACAAJ
+Roc2003copy,primarytextviacatalog,explicitsharedworld.
+https://www.fictiondb.com/book/house-of-war~judith-tarr~120536.htm
+Rocpaperbackcopy/ISBN9780451529008/2003.
+https://agreenmanreview.com/books/judith-tarrs-devils-bargain-house-of-war-and-pride-of-kings/
+Completedcomparativereview, independentno-continuityPrideboundaryandwhole2engines.
+https://www.rambles.net/tarr_warhouse03.html
+Completedreview22May2004,duology,alternativekingdom,familyandArkengine.
+http://booksforabuck.com/sfpages/sf_04/house_war.html
+Completedreview19April2004,returnedSinan/childhostage/Arkmagic/alternativemultifaithkingdom.
+https://historicalnovelsociety.org/reviews/devils-bargain/
+CompletedreviewMay2003,1191settingandSionedpowers.
+https://www.publishersweekly.com/pw/print/20020923/24494-sf-fantasy-horror-notes.html
+ContemporarySep2002reviewalternativehistoricalfantasy/ThirdCrusade.
+https://www.isfdb.org/cgi-bin/pe.cgi?14371=
+BibliographiccontradictionRichard3labelpreserved,notsilentlytreatedascontinuityproof.
+
+Covers: bothEnglishRocprintfrontsreadandvisuallyinspectedatfullsize. DevilGreenManreview225x300front,HouseRambles1500imagefront. Localized,noaudio/titlepage/sticker. SourceimageURLs:
+https://agreenmanreview.com/wp-content/uploads/2022/01/JudithTarr_DevilsBargain-225x300.jpg
+https://m.media-amazon.com/images/I/81Zbb-USa2L._SL1500_.jpg
+
+Authority: ongoingorderedintakephonemsg-01M43MYMGAMQTNA3CY402KK7FB andwholefictionjudgmentgrantphonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX, originalsread. Noaudienceoraccountchange;publishexistingprojectpath. Nothingstructuralcreated.
