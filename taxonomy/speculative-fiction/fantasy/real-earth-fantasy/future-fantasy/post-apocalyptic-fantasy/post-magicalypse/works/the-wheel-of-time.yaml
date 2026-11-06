@@ -24,41 +24,25 @@ included_titles:
 - New Spring
 cover_curation:
   status: complete
-  source: Open Library
-  shows_english_title: true
-  visually_reviewed_on: '2026-09-19'
-  review_method: one-pass complete coordinated Darrell K. Sweet/Michael Whelan series review
-  selected_covers:
-  - title: The Eye of the World
-    url: https://covers.openlibrary.org/b/isbn/9780312850098-L.jpg
-  - title: The Great Hunt
-    url: https://covers.openlibrary.org/b/id/182352-L.jpg
-  - title: The Dragon Reborn
-    url: https://covers.openlibrary.org/b/id/603239-L.jpg
-  - title: The Shadow Rising
-    url: https://covers.openlibrary.org/b/id/603240-L.jpg
-  - title: The Fires of Heaven
-    url: https://covers.openlibrary.org/b/id/603821-L.jpg
-  - title: Lord of Chaos
-    url: https://covers.openlibrary.org/b/id/182398-L.jpg
-  - title: A Crown of Swords
-    url: https://covers.openlibrary.org/b/isbn/9780312857677-L.jpg
-  - title: The Path of Daggers
-    url: https://covers.openlibrary.org/b/id/182462-L.jpg
-  - title: Winter's Heart
-    url: https://covers.openlibrary.org/b/isbn/9780312864255-L.jpg
-  - title: Crossroads of Twilight
-    url: https://covers.openlibrary.org/b/id/604208-L.jpg
-  - title: Knife of Dreams
-    url: https://covers.openlibrary.org/b/isbn/9780812577563-L.jpg
-  - title: The Gathering Storm
-    url: https://covers.openlibrary.org/b/isbn/9780765302304-L.jpg
-  - title: Towers of Midnight
-    url: https://covers.openlibrary.org/b/isbn/9780765325945-L.jpg
-  - title: A Memory of Light
-    url: https://covers.openlibrary.org/b/isbn/9780765325952-L.jpg
-  - title: New Spring
-    url: https://covers.openlibrary.org/b/isbn/9780765306296-L.jpg
+  source: Existing English print jacket selections, localized from Open Library full-size originals
+  source_urls:
+  - https://covers.openlibrary.org/b/isbn/9780312850098-L.jpg
+  - https://covers.openlibrary.org/b/id/182352-L.jpg
+  - https://covers.openlibrary.org/b/id/603239-L.jpg
+  - https://covers.openlibrary.org/b/id/603240-L.jpg
+  - https://covers.openlibrary.org/b/id/603821-L.jpg
+  - https://covers.openlibrary.org/b/id/182398-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780312857677-L.jpg
+  - https://covers.openlibrary.org/b/id/182462-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780312864255-L.jpg
+  - https://covers.openlibrary.org/b/id/604208-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780812577563-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780765302304-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780765325945-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780765325952-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780765306296-L.jpg
+  visually_reviewed_on: '2026-11-06'
+  review_method: All15 actual pixel contact sheet, English print fronts verified
 placement_history:
 - date: '2026-10-04'
   from: hard-magic
@@ -161,3 +145,64 @@ classification_sources:
 - https://torpublishinggroup.com/series/wheel-of-time/
 - https://torpublishinggroup.com/the-world-of-robert-jordans-the-wheel-of-time/?format=hardback&isbn=9781250846402
 - https://torpublishinggroup.com/a-memory-of-light/?format=hardback&isbn=9780765325952
+books:
+- title: The Eye of the World
+  year: 1990
+  cover_url: cover-wheel-01.jpg
+  shows_english_title: true
+- title: The Great Hunt
+  year: 1990
+  cover_url: cover-wheel-02.jpg
+  shows_english_title: true
+- title: The Dragon Reborn
+  year: 1991
+  cover_url: cover-wheel-03.jpg
+  shows_english_title: true
+- title: The Shadow Rising
+  year: 1992
+  cover_url: cover-wheel-04.jpg
+  shows_english_title: true
+- title: The Fires of Heaven
+  year: 1993
+  cover_url: cover-wheel-05.jpg
+  shows_english_title: true
+- title: Lord of Chaos
+  year: 1994
+  cover_url: cover-wheel-06.jpg
+  shows_english_title: true
+- title: A Crown of Swords
+  year: 1996
+  cover_url: cover-wheel-07.jpg
+  shows_english_title: true
+- title: The Path of Daggers
+  year: 1998
+  cover_url: cover-wheel-08.jpg
+  shows_english_title: true
+- title: Winter's Heart
+  year: 2000
+  cover_url: cover-wheel-09.jpg
+  shows_english_title: true
+- title: Crossroads of Twilight
+  year: 2002
+  cover_url: cover-wheel-10.jpg
+  shows_english_title: true
+- title: Knife of Dreams
+  year: 2005
+  cover_url: cover-wheel-11.jpg
+  shows_english_title: true
+- title: The Gathering Storm
+  year: 2009
+  cover_url: cover-wheel-12.jpg
+  shows_english_title: true
+- title: Towers of Midnight
+  year: 2010
+  cover_url: cover-wheel-13.jpg
+  shows_english_title: true
+- title: A Memory of Light
+  year: 2013
+  cover_url: cover-wheel-14.jpg
+  shows_english_title: true
+- title: New Spring
+  year: 2004
+  cover_url: cover-wheel-15.jpg
+  shows_english_title: true

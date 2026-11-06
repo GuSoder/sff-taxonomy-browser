@@ -2206,3 +2206,6 @@ Two published novels2019/2021;Channeledhardmagic9to10;thirdbookexplicitcurrent20
 
 ## Wheel of Time frozen-member root correction,6November
 Channeled10to9,PostMagicalypse6to7. All15retained. Jordan explicit Earthfutureandpast plus magicalBreaking; no structuralproposalserved.850/2779/6601. Intake resumesMC05077afterliveQA.
+
+## MC05078/79/80 Eidyn existing-card repair,6November
+All3novels grounded;Usurper3unchanged. Correctyears2019/2023/2025 and false missing-son mission;3Englishlocalpublisherjackets. Fourth2027preorderexcluded.850/2779/6601.
