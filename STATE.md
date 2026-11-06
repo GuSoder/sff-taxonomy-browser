@@ -1964,3 +1964,7 @@ MC04923-26 four anthology skips; MC04927-29 one fiction/four novels placed in Pa
 
 ### 2026-11-06 - The Wicked Sea
 MC04930shortstory/31unpublished2027 skipped;MC04932onepublishednovel -> Magic bond romantasy7->8. ExplicitdifferentworldfromBitten. Fullwalk/tetherbargainvsinnate/EnglishcoverQA; nextMC04933.
+
+
+### 2026-11-06 - The Great Undead War
+MC04936nonfiction skip;37whole3novels -> Alt diesel fantasy8->9;38anthology skip. Allthreeenginesread;2026sameuniversespinoffunexplainedtime-eratransfer/HUDsubstantialstraddle;magicrootfirst. NextWALKMC04939.
