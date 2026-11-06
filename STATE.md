@@ -2173,3 +2173,6 @@ Burn whole-novel counterpartEarth secondhalf overturns opening-only oldwalk: mov
 
 ## MC05050-51 Evermore,2026-11-06
 Rose2025onepublishednovelCrownslave1->2,Vinefutureexcluded. Publishedlovermagicbondnotcompleted,slaverywallwithcrownheir.850/2773/6580.NextMC05052.
+
+## MC05053-54Brooks,2026-11-06
+OnepublishedFae2025placedOtherworldSummonings9->10,MermDec1futureexcluded. Entrancearchitecturethinbutpositiveprincecallingbinding;noanchoreddoorasserted.850/2774/6581.INTAKEFROZEN:splitresearchOtherworldSummoningsbeforeMC05055.
