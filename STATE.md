@@ -2203,3 +2203,6 @@ Threepublishednovels2020/21/22,Hardsciencefantasy8to9;Modern-dayancestorofSociol
 
 ## MC05075 Silent Gods,6November
 Two published novels2019/2021;Channeledhardmagic9to10;thirdbookexplicitcurrent2027preorderexcluded.850/2779/6601. Frozen at10;split research before further intake.
+
+## Wheel of Time frozen-member root correction,6November
+Channeled10to9,PostMagicalypse6to7. All15retained. Jordan explicit Earthfutureandpast plus magicalBreaking; no structuralproposalserved.850/2779/6601. Intake resumesMC05077afterliveQA.
