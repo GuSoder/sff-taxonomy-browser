@@ -2118,3 +2118,6 @@ ExistingMutantfictioncardretained,addBurn2014,all3ownengines/rootwalk/Englishcov
 
 ## MC05010-05012 Rivelle Realm whole3 2026-11-06
 Merge Eva/Alliana cards under author-confirmed Rivelle Realm title. Whole3 ordinary Cozy peeps6->7, not merely firstbook Cozycraft or prequel Fairytaleepilogue. All own primary/completedreviews/rootwalk,3 English print jackets inspected/localized.846/2761/6545. NextMC05013.
+
+## MC05013 Tessa Miyata whole2 2026-11-06
+ExistingSlipintomythcard7unchanged,addSoUnlucky2024toNoHero2023. Bothownprimary/completedreviews,firstaccidentaldiscoveryvslaterinvitationwobbleexplicit,2EnglishprintfrontsQA.846/2761/6546. NextMC05014 NightsEdge.

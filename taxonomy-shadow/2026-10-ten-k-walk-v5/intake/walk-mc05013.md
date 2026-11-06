@@ -1,0 +1,39 @@
+# Tessa Miyata whole two, MC05013 - 2026-11-06
+
+Retain existing Slip into myth card, rename fiction title Tessa Miyata, add missing Tessa Miyata Is So Unlucky2024 to No Hero2023. One shared two, not standalone secondcard. No structure/tenth; leaf7unchanged. Two Englishprintfronts fromauthoractualpixelsinspected/localized.
+
+## Every novel own engine
+No Hero2023: twelve-year-old JapaneseAmericanTessa seesinvisiblemaskedwoman, losesfriendsthroughbullying, afterparents'deathvisitsJapanesepaternalgrandparentsfromCalifornia. Forced tospendtimewithJin, heirloomdarumabreaks andreleasesancientsamuraiTairaMasakado. KitsuneKitarisesfrombracelet, spiritenergy/weapontraining, appealtoSevenLuckyGods, saveTokyo/familyandhiddenCityofLegends. Firstnovelcompletedreviewsdifferentiateunusualcompassionateunderdogfromgenericbattlehero, whilestillactionforward. AuthorrecapexplicitDojoofManyDoorsandtwomagicaltoriitolearnku/spiritenergyandforgehinokiweapons. Thesearelocaltrainingthresholds, notproofwholeinitialcrossinganchoredtoonephysicaldoor. Ownreviewsconfirmendingnotonlyblurb.
+So Unlucky2024: twomonthslaterObonfestival, enchantedtalkinginvitationturnsorigamitigerandcarriesTessatotheAcademyofGods inlastmagicalcity. Tessa/JincompeteinCyclefive-trialtournamentonKit'sbehalfagainstimmortalclans; victorsimmortalized/losingKitceasestoexistandmortalsforget. FriendsMimi/Hachi, origamiguardiansTora/Ryu; GodHunterswantseparategodsandmortals, sabotageandfinaltwistchangeJin/Tessarelationship. Completedreaderreviewsactualendingbittersweet/friendshipseparation, primaryauthorinterviewconfirmsacademyportabledininghalldoorsleadanywhereinJapan. Do not callsecondanaccidentalarrival orordinaryschoolroutine; tournamentandrescuefriendareitsownengine.
+ScopeauthorofficiallistsTessa1/2asexplicitsequelwithsameprotagonists; currenthome2, noauthor-onlyRivellemerge. FirstyearsverifiedKirkusAug22,2023/Aug20,2024notebook/reprintyears. Firsttitlecardwasmissingsecondpublishedvolume.
+
+## Actual root walk
+Speculative->Fantasy literalJapanesegods/spirits/ku/mythicweapons, notSFtechnologyorpsychicstudies. StablemythicworldnotNewweird/fabulationregister.
+Fantasy3: PortalfantasybestwholeEarthTokyoandhiddenlastmagicalcityexchange, access/return/beingtrappedorcutoftfromlovedonesgoverns. Fantasyrealmsfailswhollyinventeduniverse, Tokyo/California/JapanareEarth. RealEarthstrongrivalespeciallyContemporarymythic/Urban: godsattackrealTokyo,butconcealedcitybecomesreachedsettingoftraining/battle,secondwholeacademyanddooraccess notonlygodswithinordinaryurbanlife. Notregularhouseholdorpolicework. Do nottreattoriiitselfasevidenceoneEarthdoororganizeswhole.
+Portal4: Fantasyriftsonehiddenmythicworldrevealedwins, ratherthanTransportingtomesnobook/textactcarryingcrossing. Whimsical/Eldritchdoorsstrongrivalsbutnotoneanchoredphysicalthresholdgoverningfiction: rupturefrombrokendollfirst, mobileorigamitigerinvitationsecond, multipleregionaldininghalldoorsandinternaltrainingtorii. ChildfriendlyaloneinsufficientWhimsical; dark/olderadultregisterabsentEldritch.
+Fantasyrifts4: OtherworldwinsonehiddenCityofLegends/mythicJapaneseorderbehindTokyo. Multiversefailsmany-worldcosmology, severaltrainingarenasanddoorstolocationsarenotseparateparallelcosmology. Planetaryfailsotherplanet; Worldbleedsseriousfirstescapedgodbutprotagonistsalsojourneyintohiddencity,notleakwithoutdestination.
+Otherworld3: Stumblingsretainedforthefiction'sgoverninginitialdiscovery: accidentalbrokenheirloomandruptureintomyth. Summoningsseriouswobble: secondentryexplicitinvitation/summons,butitisreturntotheknownworldestablishedbyaccident,notrewritingfirstinitiationascalled. Wainscotrivalgodsbesidehumans,butcitycanbelost/inaccessible, actualjourneysandthresholds areplot,notmereadjacentsecretpopulation. Evidenceforexactfirstphysicalcrossingnotfullyavailableinmarketing;completedreviewsandcatalogexplicitlycallfirstaccidentalhiddenworlddiscovery, actualinternaldoorconfirmnotusedtolaunderfirstentrymechanism. Thisiswholefictionjudgment, notpretendingeachvolumehasidenticalarrival.
+Stumblings2: SlipintomythpasseslivingJapanesegodsandspirits(TairaMasakado,kitsune,SevenLuckyGods,Takamagahara), notSlipintorealmunattestedinventedepicworld. Noancestor/leafgatechanged, noseedneeded.7cardsunchanged.
+
+## Sources read
+Ownprimaryboth:
+https://julieabebooks.com/tessa
+https://julieabebooks.com/tessa-2
+https://julieabebooks.com/
+Primaryauthorguestpost/book2recapandexcerpt, actualtorii/invitation/doorfacts:
+https://thenerddaily.com/julie-abe-tessa-miyata-interview/
+Ownfirstcompletedreviewsanddates:
+https://www.kirkusreviews.com/book-reviews/julie-abe/tessa-miyata-is-no-hero/
+https://koosreviews.com/2023/08/21/tessa-miyata-is-no-hero-2023/
+https://www.eyerollingdemigod.com/2023/08/blog-tour-tessa-miyata-is-no-hero-by.html
+https://www.btsb.com/utilities/BookDetails.php?TitleNo=040251
+https://www.goodreads.com/book/show/63076973-tessa-miyata-is-no-hero
+Ownsecondcompletedreview/date:
+https://www.kirkusreviews.com/book-reviews/julie-abe/tessa-miyata-is-so-unlucky/
+https://www.goodreads.com/book/show/203163938-tessa-miyata-is-so-unlucky
+Primaryauthorfeatureonsecond:
+https://www.yayomg.com/fiercely-fictional/fiercely-fictional-tessa-miyata/
+Authorflatprintfronts:
+https://images.squarespace-cdn.com/content/v1/5d43c95b69c7600001fa823d/c5f79aa4-b9a9-487c-b7ae-22470de4ead1/Tessa+Miyata+Is+No+Hero+-+Julie+Abe+-+Official+Cover.png
+https://images.squarespace-cdn.com/content/v1/5d43c95b69c7600001fa823d/f5449c01-1cdd-464f-afef-54cf95e7a0fd/Tessa+Miyata+is+So+Unlucky+by+Julie+Abe.jpg
+AuthorityoriginalauthenticatediMessage+46705084862 commissionphonemsg-01M43MYMGAMQTNA3CY402KK7FB andordinarysharedfictiongrantphonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX reread15:20:52CET2026-11-06. No structurechange. Existingcardordinarywhole2repair.
