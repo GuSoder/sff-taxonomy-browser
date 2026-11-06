@@ -2158,3 +2158,6 @@ Owner Approved phonemsg-01M6S4TM1Y2DM2DRBGVSNQBC55 on block phonemsg-01M6S4SAEKZ
 
 ## MC05042ShatteredKingdoms2026-11-06
 Whole1publishednovelSecretsEverlight2026, plannedCurseHeartthornnotpublished. Courtbond3->4; author spoilerinterview resolvesNeoDrydenidentity and bargainengine.850/2769/6574.
+
+## MC05043-45ReignRemnants2026-11-06
+Soulbond6->7,whole2publishedWind2025Sea2026,futureRealm2027notadded. Ownbothnovelsreviewsandliteralpreviewbond.850/2770/6576. NextMC05046.

@@ -1,0 +1,23 @@
+# MC05043-45 The Reign of Remnants,2026-11-06
+One fiction, two published novels: The Wind Weaver2025(first hardcoverApr8, not2026paperback), The Sea Spinner2026(Apr28). The Realm Reaper is the announced finale, publisher dateFeb4 2027, not included as published. Its first queue row is marked future-volume-not-added; adjacent two published rows folded into same card. Author and publisher establish a single continuing trilogy/world, not three separate fictions.
+
+## Per novel
+WindWeaver: hunted half-fae Rhya rescued/captured by CommanderScythe/Penn, travels north, discovers she is Air Remnant in prophecy, magic training, Penn romance and battleFyremas. Completed Caffeinated review and publisher read, not just-series-name. SeaSpinner: postbattleCaeldera grief, Penn isolates her while rebuilding/revenge; Rhya lands in WaterCourt, Soren mentors her windpower, romance changes towardSoren, weddinggathering/attack/otherRemnant discovery/kidnappingcliffhanger. Own completed Smexy/Caffeinated/GirlWhoReads reviews read. Does not inherit firstbook captive-enemy romance unchanged.
+
+## Root walk
+Speculative fiction > Fantasy > Fantasy realms > Heart fantasy > Romantasy > Bonded romantasy > Soul bond romantasy6->7.
+Literal maegic/fae and inventedAnwyvn, not SF, realEarth historical/contemporary, or Earthportal (inworldportal is insufficient). Romance emotional choice/PennSoren shift is coequal with prophecy/world stakes across both publishednovels, not merely secondary rescuequest, politicalfantasy, or onehero's training. Bonded: elementalRemnants tied by innate magic/marks. SeaSpinner chapterone reproduced with review explicitly calls it Remnant bond: invisible tether connects heart/psyche, locates other, shares feelings/power/pain. Publisher sequel says another voice calls, another bond pulls, magic bindsRhya/Soren. Therefore literal bodily/soul connection, not just figurative fatedquest.
+Not Crownslave or Crownoutlaw: Rhya is initially hunted and Penn initiallycaptor, but worldmultiplelovers and secondbookSoren shift cannot be forced through firstbook imprisonment. Not EnemyLines/RoyalEnemies: no rivalroyalhousecouple as wholeengine. Not Dutybond: prophecy/sharedmission exists, but innate link predates chosen cooperation and concretely links lovers' bodies/minds. Not Bargainbond or Magicbond: no imposeddeal/sentence/curse creates the link. Not generic epicfledglingmage simplybecausepowertraining, nor PortalFantasy simplybecauseRhya uses portal.
+
+## Evidence and caveats
+Publisher+authorbibliography, publisherindividualbookpages, threecompletedreviewoutlets over bothnovels, previewchapter. No fullnovelread. Final2027 volume futureplot not counted as currentfact. No inventedfinalromanticHEA or claimbondselectsoneexclusivepartner. Soulbond permits literal bonds among elementalRemnants, not only one soulmatepair. Covers two distinct officialEnglishprintjacketimages, pixelinspected; WindWeaver jacket is2026paperback while firstpublication2025 explicitly retained. Ordinarysinglefictiongrant directlyread userphonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX.
+https://www.juliejohnsonbooks.com/books
+https://www.penguin.co.uk/series/REIREM/the-reign-of-remnants
+https://www.penguinrandomhouse.com/books/755244/the-wind-weaver-by-julie-johnson/
+https://www.penguinrandomhouse.com/books/755245/the-sea-spinner-by-julie-johnson/
+https://www.penguin.co.uk/books/462170/the-realm-reaper-by-johnson-julie/9780241694770
+https://caffeinatedbookreviewer.com/2025/04/the-wind-weaver-by-julie-johnson.html
+https://smexybooks.com/2026/04/review-the-sea-spinner-by-julie-johnson.html
+https://caffeinatedbookreviewer.com/2026/05/the-sea-spinner-by-julie-johnson.html
+https://www.girl-who-reads.com/2026/04/the-sea-spinner-by-julie-johnson-review.html
+http://gizmosreviews.blogspot.com/2026/05/review-sea-spinner-by-julie-johnson.html
