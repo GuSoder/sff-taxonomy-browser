@@ -2124,3 +2124,6 @@ ExistingSlipintomythcard7unchanged,addSoUnlucky2024toNoHero2023. Bothownprimary/
 
 ## NightEdge MC05014-05017/05019 whole4 2026-11-06
 OrdinaryCozypeeps7->8,4publishednovels2013/14/24/25,DragonWilliamnovellaskip,unpublishedTwistnotadded. All4ownengines/primary/completedreviews/rootwalk/EnglishcoversQA.846/2762/6550. NextMC05018TradePactuniverse.
+
+## Clan Chronicles whole nine, 2026-11-06
+Ordinary Hard alien8->9. Three shared-world trilogies; nine first publication years1997/1999/2002/2007/2008/2009/2015/2016/2017. Every volume own primary and completed review; actual root walk; nine English print fronts inspected/localized. No time travel established, dimensional teleportation not era travel.846/2763/6559. Next MC05020 Web Shifters.
