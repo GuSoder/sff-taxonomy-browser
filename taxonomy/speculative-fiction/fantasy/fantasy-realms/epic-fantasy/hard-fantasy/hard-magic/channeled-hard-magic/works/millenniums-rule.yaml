@@ -78,16 +78,16 @@ placement_rationale: '# Millennium''s Rule whole-fiction root correction, 6 Nove
 books:
 - title: Thief's Magic
   year: 2014
-  cover_url: https://covers.openlibrary.org/b/id/10280002-L.jpg
+  cover_url: cover-millennium-thiefs-magic.jpg
 - title: Angel of Storms
   year: 2015
-  cover_url: https://covers.openlibrary.org/b/id/9338775-L.jpg
+  cover_url: cover-millennium-angel-of-storms.jpg
 - title: Successor's Promise
   year: 2017
-  cover_url: https://covers.openlibrary.org/b/id/8407732-L.jpg
+  cover_url: cover-millennium-successors-promise.jpg
 - title: Maker's Curse
   year: 2020
-  cover_url: https://covers.openlibrary.org/b/id/11130457-L.jpg
+  cover_url: cover-millennium-makers-curse.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -189,3 +189,4 @@ classification_sources:
 - https://reactormag.com/book-review-thiefs-magic-trudi-canavan/
 - https://fantasy-faction.com/2014/thiefs-magic-by-trudi-canavan
 - https://trudicanavan.com/books/millenniums-rule-series/successors-promise/successors-promise-excerpt/
+cover_url: cover-millennium-thiefs-magic.jpg
