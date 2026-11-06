@@ -2073,3 +2073,6 @@ Existing20kcard folds Castaways/Island bypositiveprimarycontinuity. ScientificAd
 
 ## MC04986 Off on a Comet
 FORCEDScientificAdventure8to9. NaturalcometvsTechMarvelgatewobble explicit. No shallowseed/widening.1877onebookMint2021jacket.841/2758/6513.NextMC04987.
+
+## MC04987 Paris in the Twentieth Century
+FutureSocialSF7to8. Written1863future1960, firstpub1994. Corporateefficiencycrushesartist, Dystopiarivalsfailchildgates.1997DelReyEnglishprintfront.841/2759/6514.NextMC04988.
