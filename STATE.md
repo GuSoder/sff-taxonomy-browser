@@ -2215,3 +2215,6 @@ Author-confirmedshareduniverse:6Vampirates+3PirateAcademynovels,DeadDeepnovellae
 
 ## MC05082 Quantum Gravity,6November
 Fivepublishednovels2006/2007/2008/2009/2011,wholefictionWorldhopper9to10. FiveEnglishlocaljackets.850/2781/6615. INTAKEFROZEN: interrogatefrozenmembers,thensplitsubmit. Noeleventh.
+
+## Focused Moorcock Multiverse recovery,6November2026
+Fourteen fragments40bookrows consolidated to1fiction68published English novels after primary/publisher/specialist/completed-review grounding. Mirror9to10frozen;Worldhopper10to8.850genres/2768fictions/6643books. MotherLondon untouched;DistantSuns no direct continuity;Swindle tie-in andFrench-onlyElric excluded explicitly. No split or ancestor changes. Intake remains frozen pending Mirror split.
