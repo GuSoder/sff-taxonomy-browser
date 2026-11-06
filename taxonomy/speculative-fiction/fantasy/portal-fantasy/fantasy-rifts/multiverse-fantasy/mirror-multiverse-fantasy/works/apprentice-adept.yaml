@@ -12,13 +12,46 @@ placement_rationale: 'Piers Anthony''s Apprentice Adept (Split Infinity, Blue Ad
 books:
 - title: Split Infinity
   year: 1980
-  cover_url: https://covers.openlibrary.org/b/id/6564851-L.jpg
+  authors:
+  - Piers Anthony
+  cover_url: cover-apprentice-adept-01.jpg
+  shows_english_title: true
 - title: Blue Adept
   year: 1981
-  cover_url: https://covers.openlibrary.org/b/id/6981493-L.jpg
+  authors:
+  - Piers Anthony
+  cover_url: cover-apprentice-adept-02.jpg
+  shows_english_title: true
 - title: Juxtaposition
   year: 1982
-  cover_url: https://covers.openlibrary.org/b/isbn/9780345301963-L.jpg
+  authors:
+  - Piers Anthony
+  cover_url: cover-apprentice-adept-03.jpg
+  shows_english_title: true
+- title: Out of Phaze
+  year: 1987
+  authors:
+  - Piers Anthony
+  cover_url: cover-apprentice-adept-04.jpg
+  shows_english_title: true
+- title: Robot Adept
+  year: 1988
+  authors:
+  - Piers Anthony
+  cover_url: cover-apprentice-adept-05.jpg
+  shows_english_title: true
+- title: Unicorn Point
+  year: 1989
+  authors:
+  - Piers Anthony
+  cover_url: cover-apprentice-adept-06.jpg
+  shows_english_title: true
+- title: Phaze Doubt
+  year: 1990
+  authors:
+  - Piers Anthony
+  cover_url: cover-apprentice-adept-07.jpg
+  shows_english_title: true
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -36,3 +69,186 @@ placement_history:
   reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
     or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
     fantasy and Gateway multiverse fantasy), relayed by the parent.
+cover_url: cover-apprentice-adept-01.jpg
+shows_english_title: true
+inventory_review_2026_11_06:
+  novels: 7
+  scope: Whole shared fiction, published prose novels only; no duplicate omnibuses, collections, graphic works or future announcements.
+  sources: '# Source ledger,6November2026
+
+
+    Fetchedpagesbelowareevidence,notallclaimsendorsed. Rawfilesretainfulltext.
+
+
+    - https://www.kirkusreviews.com/book-reviews/piers-anthony/out-of-phaze/ | raw/mirror-adeptend-reviews.txt
+
+    - https://www.publishersweekly.com/978-0-399-13529-3 | raw/mirror-adeptend-reviews.txt
+
+    - https://books.google.com/books/about/Robot_Adept.html?id=odIwtqONdrUC | raw/mirror-adeptlastplots.txt
+
+    - https://books.google.com/books/about/Unicorn_Point.html?id=mkUgAQAAIAAJ | raw/mirror-adeptlastplots.txt
+
+    - https://www.ebsco.com/research-starters/history/amber-series-roger-zelazny/ | raw/mirror-ambercycles-dark.txt
+
+    - https://fantasyliterature.com/reviews/the-dark-world/ | raw/mirror-ambercycles-dark.txt
+
+    - https://read.macmillan.com/torforge/schwab-shades-of-magic | raw/mirror-ambercycles-dark.txt
+
+    - https://www.thechroniclesofamber.com/amber-chronology | raw/mirror-amberfull.txt
+
+    - https://en.wikipedia.org/wiki/The_Chronicles_of_Amber | raw/mirror-amberfull.txt
+
+    - https://www.sfsite.com/11a/ca163.htm | raw/mirror-amberprequelsreviews.txt
+
+    - https://www.sfsite.com/09a/am135.htm | raw/mirror-amberprequelsreviews.txt
+
+    - https://www.bewilderingstories.com/issue130/books.html | raw/mirror-amberprequelsreviews.txt
+
+    - https://www.encyclopedia.com/arts/educational-magazines/betancourt-john-gregory-1963 | raw/mirror-amberprequelsreviews.txt
+
+    - https://torpublishinggroup.com/twice-lived/?format=hardcover&isbn=9781250810328 | raw/mirror-finalmember-evidence.txt
+
+    - https://strangehorizons.com/non-fiction/twice-lived-by-joma-west/ | raw/mirror-finalmember-evidence.txt
+
+    - http://www.galactium.com/books_ShadowsOfAmber.html | raw/mirror-finalmember-evidence.txt
+
+    - https://fromtheheartofeurope.eu/shadows-of-amber-by-john-betancourt/ | raw/mirror-finalmember-evidence.txt
+
+    - https://xanth.fandom.com/wiki/Apprentice_Adept | raw/mirror-gatesources.txt
+
+    - https://tvtropes.org/pmwiki/pmwiki.php/Literature/ApprenticeAdept | raw/mirror-gatesources.txt
+
+    - https://www.abebooks.com/9780399133596/Robot-Adept-Apprentice-Anthony-Piers-0399133593/plp | raw/mirror-gatesources.txt
+
+    - https://www.1eonline.info/d/d/edwardbond.htm | raw/mirror-gatesources.txt
+
+    - https://www.penguinrandomhouse.com/series/5BD/the-book-of-dust/ | raw/mirror-hdm-amberpub.txt
+
+    - http://catdir.loc.gov/catdir/description/hc042/99036983.html | raw/mirror-hdm-amberpub.txt
+
+    - https://lizardyoga.wordpress.com/2025/11/03/the-rose-field-review-with-spoilers/ | raw/mirror-latest-reviews.txt
+
+    - https://reactormag.com/book-review-the-fragile-threads-of-power-by-v-e-schwab/ | raw/mirror-latest-reviews.txt
+
+    - https://global.penguinrandomhouse.com/announcements/philip-pullman-announces-epic-finale-to-lyras-story-in-vol-three-of-the-book-of-dust/
+    | raw/mirror-members1.txt
+
+    - https://www.veschwab.com/threads | raw/mirror-members1.txt
+
+    - https://en.wikipedia.org/wiki/Apprentice_Adept | raw/mirror-members1.txt
+
+    - https://lareviewofbooks.org/article/concept-over-character | raw/mirror-members2.txt
+
+    - https://www.quillquotes.com/quill-quotes-book-club/burn-final-discussion/ | raw/mirror-members2.txt
+
+    - https://cdn.paizo.com/blog/it-s-a-dark-dark-world | raw/mirror-members2.txt
+
+    - https://galaxypress.com/l-ron-hubbard-bestselling-novels/slaves-of-sleep/ | raw/mirror-members2.txt
+
+    - https://galaxypress.com/original-publications/the-masters-of-sleep-1950-october/ | raw/mirror-members2.txt
+
+    - https://www.penguinrandomhouse.com/series/APA/apprentice-adept/ | raw/mirror-members3.txt
+
+    - http://www.haffnerpress.com/book/dark-worlds-tales-of-heroic-fantasy/ | raw/mirror-members3.txt
+
+    - https://www.penguin.co.uk/books/413582/his-dark-materials-by-philip-pullman/9781841593425 | raw/mirror-members4.txt
+
+    - https://torpublishinggroup.com/last-exit/?format=trade&isbn=9780765335739 | raw/mirror-members4.txt
+
+    - https://hipiers.net/books/ | raw/mirror-members5.txt
+
+    - http://ereads.com/ecms/authorname/Piers-Anthony | raw/mirror-members5.txt
+
+    - https://www.ibooksinc.com/titles/9781596871182.html | raw/mirror-members5.txt
+
+    - https://www.veschwab.com/shades | raw/mirror-schwabmore.txt
+
+    - https://read.macmillan.com/torforge/fragile-threads-of-power-v-e-schwab/ | raw/mirror-schwabmore.txt
+
+    '
+  mirror_reinterrogation: '# Mirror10 frozen member check, 6 November2026 22:47CET
+
+
+    No inventory/structural mutation yet. LiveHEAD95de60f counts850/2768/6643. Moorcock68liveQAcomplete, all68loaded/visible
+    over6overlappingviews. Parenthas6screens.
+
+
+    ## Whole-fiction matrix
+
+
+    | Fiction | Published novels currently grounded | Mirror relation and actual engine | Root / boundary |
+
+    |---|---:|---|---|
+
+    | His Dark Materials |6: NorthernLights1995,SubtleKnife1997,AmberSpyglass2000,LaBelleSauvage2017,SecretCommonwealth2019,RoseField2025|LyraOxford
+    /WillEarth and differentworlds;Dust/souls,waragainstreligiousauthority;BookDust infancyrescue thenadultLyra/daemonseparationandroses;RoseFieldreturnsinterworldwindows,multiworldcapitalism|ActualEarthviaWill.
+    BookDustmostlyLyraEarthdoesnotseparatefiction. Worldcomparison/cosmologicalconflictmoresustainedthanmeetingsameperson.|
+
+    | Chronicles of Amber |14: Zelazny10(1970-91),Betancourt4(2002-05). Need EACHoriginalnovelownplotandcoversbeforeinventorywrite.|CorwinEarthamnesia/Amberthrone/Patternrepair;MerlinSFprogrammer/magic/GhostWheel/AmberChaosparentage;Oberonprequelsfamilythreat/Patterncreation/Chaoswar/monsterattack.|Earthexplicitbothoriginalcycles.
+    Shadowrealitiescentral,notprimarilycharacterslivingtwocounterpartlives. Prequelspublisherauthorizedbutauthorwishescontroversial;includeunderwholefictionrule,notmediatiein.
+    No5thpublished.|
+
+    | Shades of Magic |4: original3plusFragileThreadsPower2023. Currentcard3missingfourth. Graphicnovelsexcludedshort/graphicformat,
+    no2026sequelpublishedfound(authorpageonlyfirst;latestdatedsearchsaysnextTBD/2027)|ParallelLondonsmagicabundance/deprivation;KellLila/Hollandcross;blackstone/Osaron;laterTesdeviceandmagicalwaning,WhitequeenbloodreligionandRedmonarchyrebellion.|GreyLondonrealGeorgeIIIEarth,magicalcrossingsnotinventedonly.
+    Worldpowerbalanceprimary.|
+
+    | Last Exit |1,2022|Zelda/collegefriendsreturn10yearsafterfailure,alternateAmericas/Rot,Salrescue,Americanroadmyths.|ModernEarthexplicit.
+    Crossroadsworldrepair/contrastprimary,notanotherZeldaidentity. PriorwholewalkrichandpublisherplusLocusread.|
+
+    | Apprentice Adept |7,authorbibliography. Currentcard3missinglast4.|StileProtonserf/murderedBlueAdeptdouble;Gamesandmagic;Juxtapositionworldenergybalance/separation.
+    OutPhazeMachrobot/Banemagebodyswapandforbiddenloves;RobotAdeptsplitloyaltiesandcontest;UnicornPointchildrenFlach/Nepejointabilities/recombineworlds;PhazeDoubtHectareconquestspyLysanderandNepeFlachresistance.|Notwhollyinvented:actualSplitInfinitytext17Earthreferences,parentsreturntoEarth,Earthimporthorses/plants,music;StilesaysneverbeenEarth.
+    TVTropesCoracleEarthbackstoryonlysecondarynotprimaryverified. CurrentPortaldefallowsSYSTEMthatincludesEarth,actualtextexplicitlydoes,soEarthabsencefromscenesnotautomaticfailure.
+    Noancestorwidening. Counterpartpairsrulethroughallgenerations,withworldstakesgenuineoverlap.|
+
+    | Slaves of Sleep |2,1939/1950|JanPalmerEarth/Tigerjinnworld,JanAlice/Wanna;curse,worldthreatandpersonalfusion;sequeloldercouplereunitesandJan/Tigermasterbothday/night.|ExplicitEarth;counterpartidentitiesorganize,notastralillusion.
+    Publisheractuallyreadboth. Currentcardusescombinedomnibusfrontforboth,needsdistinctvolumeEnglishfronts.|
+
+    | Twice Lived |1,2024|Samefetusin2mothers,thenLily/Canna2families,randomshifts/settling/griefandidentity,bothvalid;clinicaltheorydoesnotgiveascientifictransfermechanism.|ParallelordinaryEarths,unexplainedphysicalcrossing,fantasypublisher.
+    CompleteStrangeHorizonsreviewreadagain. Individualself/familyprimary.|
+
+    | Burn |1,2020|Part11957dragonAmerica/prophecy;Part2actual1957Earthcounterparts,deadmotheralive,dragonhuman,doubledeaths,Malcolmreturnfirstworld.|WholebookPortal/Mirror,notfirsthalfAltDiesel.
+    Clawmagic/goddess,noscientificengine. Alternatepersonallivesprimarybutgoddesscosmicthreatoverlap.|
+
+    | Dark World |1,1946|WWIIEdwardBond/Ganelonbody/mindprobabilitycounterparts,rebel/Covenchoice,needfire,mutantLlyr.|MutationrationalizationsareadmixturepercompletedFerberreview,notwholeengineengineering;publishercallsfantasy.
+    Earthexplicit,identity/moralbattleprimary.|
+
+    | Moorcock Multiverse |68,finalreportrepo|EternalChampionincarnations,recurringCornelius/vonBek/otheridentities,andlawchaosworldsystems.
+    Eachsubseriesownenginegroundedinpriorreport.|Earthmanystrands,cosmologywholeMirror. Mostdifficultsplitassignment:personalincarnationsversusworldorderbothdefining;donotforce5/5justfornumbers.|
+
+
+    ## Candidate axes, NOT final/proposed
+
+    1. What the mirroring foregrounds: counterpart selves (Adept,Slaves,Twice,Burn,DarkWorld,Moorcock)=6; counterpartworlds(HDM,Amber,Shades,LastExit)=4.
+    Originalidea5/5hadmiscount:6selvesnot5! MoorcockcouldgoWorldsfor5/5butneedspositivewholefictioncase,notcountoptimization.
+    It may genuinelyfavorworldcosmologyaswhole68,whileincarnationsarecommonthread,soinspectcarefully.
+
+    2. Pairedworldvspluralworld=5/5 (Adept,Slaves,Twice,Burn,Dark vsrest) but numericfurniturecouldbearbitrary. Needactualengineinterpretation,two-worldidentityversusmany-worldbalance;Adeptworldmerging/finalalienplanetmustremainwhole.
+
+    3. Scaleintimatevsworldstakesnotclean:Slaves/Burn/Darkhaveworldstakes,Twiceonlypurelyintimate. Reject.
+
+    4. Mechanismbodyexchangevsphysicaltravelnotclean:Adeptboth,Slavesdreamidentity,Moorcockall;poorwholefictionaxis. Reject.
+
+
+    ## Remaining
+
+    FinishAmberpernovelgrounding and fourteenEnglishcovers;Adeptfourmissingcovers;Shadesfourthcover;Slavesseparatefronts.
+    Rewalkfullleafafterinventorygrounding,don''tlowerancestorrequirementsoraddanyotherfiction. No currentuserdecision. Namingdoctrinefullyreadthisrun,needsfusedparenthintandfreshaxis,notstackMirrorMultiverseX.
+    Latestexacttrademarkrulingoverridesoldbroadfranchisebans. Allcurrentrepowritesunchangedexcept6oldverdictrowsintentionallynotcommitted.
+
+
+    22:48 followup: Amberpernovelgrounding progressed. Readfirst~5500-6500charsofReactorNinePrinces,GunsAvalon,HandOberon,CourtsChaos,TrumpsDoom,BloodAmber,SignChaos,PrinceChaos;WikiSignUnicornfirst6500andKnightShadowsfull.
+    Fullretrievedpagesinraw/mirror-amber-five-novels.txt,three-more.txt,lasttwo.txt. NEEDreadremainingendsforeachReactorplotnotassumecompletedfromhead.
+    NinePrincesamnesia/Earth/shadowtravel/Pattern,thenarmy/dungeon;GunsrougetransformedEarthammo/shadowAvalonandChaosincursion;SignUnicornfamilymurder/framing/Brandrescue/truePattern;HandOberonblooddamagedPattern/Dworkin/Oberonrevealed;CourtsOberonrepair/CorwinnewPattern/Brandend;TrumpsMerlinannualassassinations/Julia/magic/GhostWheel;BloodJasraKeep4Worlds/tyiga/Jurt;SignChaosLukeWonderlanddrughallucinationcreatesrealshadow/Chaosroyalsuccession;KnightPatternvsLogrusghostworld;PrinceChaosMerlinsuccession/parentsmachinations/Corwinrescue.
+    AllremainactualshadowcosmologywithEarth,notprimarilysamepersonotherlife.
+
+    '
+  cover_curation: All actual pixels reviewed. Split Infinity and Blue Adept stickered scans replaced; Out of Phaze blank cloth
+    replaced. Slaves of Sleep standalone Dell print front, Masters omnibus front explicitly disclosed.
+  cover_sources:
+  - https://images1.penguinrandomhouse.com/cover/9780345354914
+  - https://images1.penguinrandomhouse.com/cover/9780345352453
+  - https://covers.openlibrary.org/b/isbn/9780345301963-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780441644650-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780399133596-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780399134333-L.jpg
+  - https://covers.openlibrary.org/b/isbn/9780399135293-L.jpg

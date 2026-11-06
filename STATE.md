@@ -2218,3 +2218,6 @@ Fivepublishednovels2006/2007/2008/2009/2011,wholefictionWorldhopper9to10. FiveEn
 
 ## Focused Moorcock Multiverse recovery,6November2026
 Fourteen fragments40bookrows consolidated to1fiction68published English novels after primary/publisher/specialist/completed-review grounding. Mirror9to10frozen;Worldhopper10to8.850genres/2768fictions/6643books. MotherLondon untouched;DistantSuns no direct continuity;Swindle tie-in andFrench-onlyElric excluded explicitly. No split or ancestor changes. Intake remains frozen pending Mirror split.
+
+## Mirror10 inventory repair,6November2026
+Amber14, ApprenticeAdept7, Shades4, Slaves2. +18novels,850genres/2768fictions/6661books. MastersEnglishomnibusfrontdisplayexplicit. No split or ancestor changes; intake frozen pending Mirror split approval.
