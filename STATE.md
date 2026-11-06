@@ -2185,3 +2185,6 @@ MillenniumRuleWorldhopper10to9;Channeledhardmagic9to10.ActivefreezeChanneledhard
 
 ## RequiredChanneledmemberrootwalk6Nov
 SilvercloakSagaChanneled10to9;Timemagic3to4.Nosplitproposalserved,gatecancelled.IntakeresumesatMC05055afterliveQA.Counts850/2774/6581unchanged.Millennium4authorEnglishjacketslocalizedafterpixelinspection.
+
+## MC05055BrideiChronicles6Nov
+3novels,2004/2005/2007,Celtic8to9.850/2775/6584.Nostructuralgate.NextMC05056Sevenwaters.
