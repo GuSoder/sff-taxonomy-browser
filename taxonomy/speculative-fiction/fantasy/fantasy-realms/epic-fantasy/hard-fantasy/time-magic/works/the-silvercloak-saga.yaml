@@ -67,13 +67,17 @@ placement_rationale: '# The Silvercloak Saga whole-fiction correction, 6 Novembe
 books:
 - title: Silvercloak
   year: 2025
+  cover_url: cover-silvercloak.jpg
+  shows_english_title: true
 - title: Turncloak
   year: 2026
+  cover_url: cover-turncloak.jpg
+  shows_english_title: true
 cover_curation:
   status: complete
-  source: Open Library / publisher
+  source: EnglishpublisherflatfrontsUSSilvercloakUKTurncloak
   selected_url: https://images4.penguinrandomhouse.com/cover/9780593974018
-  visually_reviewed_on: '2026-10-04'
+  visually_reviewed_on: '2026-11-06'
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC05736, MC05737)
 placement_history:
