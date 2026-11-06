@@ -1,0 +1,1 @@
+MC05077 The City of Mirrors,JustinCronin: existing The Passage wholetrilogy card already includes thirdnovel2016 under Post-pandemic mutants. No card/book/genre changes. Fetched current WorldCat firsteditionrecord confirms author,title,2016 and PassageTrilogybook3. https://search.worldcat.org/title/city-of-mirrors-a-novel/oclc/921863845 . Queue2024isreissue,notnewfiction.
