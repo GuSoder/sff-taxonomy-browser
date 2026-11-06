@@ -2164,3 +2164,6 @@ Soulbond6->7,whole2publishedWind2025Sea2026,futureRealm2027notadded. Ownbothnove
 
 ## MC05046-48Leong2026-11-06
 Isle2027futureSKIP,Keeper2025+Teller2024oneprimaryexplicitsharedworldfiction2,CozyPeeps8->9. Bothindependentplotreviewsandprimaryinterviews, noemptygenre.850/2771/6578. NextMC05049.
+
+## MC05049 Death in Verse, 2026-11-06
+Placed1novel in Alt diesel9->10. INTAKE FROZEN: split research/approve question now required. Do not walk MC05050 until split approved/executed/live.850/2772/6579.

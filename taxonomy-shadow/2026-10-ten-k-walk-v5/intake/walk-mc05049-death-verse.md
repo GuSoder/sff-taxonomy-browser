@@ -1,0 +1,27 @@
+# Death in Verse, MC05049, 6 November 2026
+
+One published novel, Julie Lew, first 22 September 2026. Author's release-day and October tour reports establish actual publication despite stale publisher 'Coming Soon' label. Publisher hardcover 352 pages conflicts with Kirkus 336; use publisher edition count, not a claim that the review is another novel. English print front from author's own page inspected at full size. No evidence of a shared universe with The Wives of Herrick Hall, and no such merger inferred.
+
+## Independent story evidence
+Author describes an alternate 1920s America and a locked-island mystery. Read the first two chapters published by Reactor: dated 28 December 1920; Manhattan Upper West Side, ordinary schools and telephones, publicly regulated poetry magic. The Consortium governs legal practice, authorizes female practitioners, has corporate/governmental writers and district auditors investigating farmers' illegal spells. Bronte is explicitly a nonmagical 'normie' who knows all this, not an initiate discovering a hidden world. Seven invitees brought to Radley must finish a spell within six days as killings begin. Kirkus completed review confirms mystery rather than school training. Utopia and Breaking Out of Dreams completed reviews confirm family/ambition, institutional coercion, multiple viewpoints and murder resolution, including powerful employers developing war spells. Full novel not read.
+
+## Actual root-down walk
+Speculative fiction > Fantasy > Real Earth fantasy > Historical fantasy > Alternate history fantasy > Alt diesel fantasy, 9 to 10. The tenth freezes the leaf and initiates its split before any next intake.
+
+Literal poetry spells, not technological or psychological SF. Our Earth, explicitly alternate America with Manhattan and the Atlantic, not an independently invented world, so Fantasy realms/Gothic realms/Fantasy mystery fail above their attractive mystery leaves. A murder investigation does not override the setting ancestor. Historical 1920, not Modern occult/Workplace occultism or Occult PI, whose contemporary root fails. Not retelling inherited myth. Secret history fails: poetry magic is publicly known, taught, legally regulated and used in ordinary business, agriculture and government. No hidden explanation of documented events.
+
+Period fantasy is the genuine wobble: electricity, clothes, racism and university power evoke the era. But the primary excerpt supplies a society openly reorganized by magic with its own regulatory and employment machinery, not incidental supernatural intrusion onto an unchanged historical stage. Author's alternate-America description agrees. Alt diesel accepts machine-age 1910s-1950s from Europe to America, including publicly magical counterhistories and non-war plots. The island is not a reason to force Bowler hat or Gatsby: the latter's Jazz Age big-city money/speakeasy engine is absent, and the openly rewritten magical legal order is the higher-priority distinction. It is not a world-war campaign. No existing genre definition is changed.
+
+## Sources read
+- Author bibliography / print front: https://julielew.com/books/death-in-verse/
+- Actual publication, 22 September: https://julielew.beehiiv.com/p/death-in-verse-out-now
+- Post-release author tour, 20 October: https://julielew.beehiiv.com/p/my-first-book-tour
+- Hardcover bibliographic details: https://www.hbgacademic.com/titles/julie-lew/death-in-verse/9781454966715/
+- Primary two-chapter text, 13 May: https://reactormag.com/cover-reveal-and-excerpt-death-in-verse-by-julie-lew/
+- Primary author alternate-America statement, 14 February: https://cmrosens.com/women-in-horror-month/julie-lew/
+- Second author interview, 6 May: https://cmrosens.com/2026/05/06/author-spotlight-gothic-horror-author-julie-lew/
+- Kirkus completed critical review, 3 August: https://www.kirkusreviews.com/book-reviews/julie-lew/death-in-verse/
+- Completed review, 28 September: https://utopia-state-of-mind.com/review-death-in-verse-by-julie-lew/
+- Completed review, 13 October: http://breakingoutofdreams.blogspot.com/2026/10/book-review-death-in-verse-by-julie-lew.html
+
+Placement authority: original single-fiction grant phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX read directly in this run, and original tenth-card commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB.
