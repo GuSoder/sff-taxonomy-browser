@@ -2061,3 +2061,6 @@ MedievalFey2to3,2004/2005notebook2007. Bothownenginesread,Otherworldrestoration/
 ## Frankish myth fantasy (2026-11-06)
 Owner Approved phonemsg-01M6RBADZY44A1905AKNNNKVQ2 on served block phonemsg-01M6RB81NF95V4PHRQEPM6KXA9, after choosing name phonemsg-01M6RB7S1H5SS8JZVAT3DRBKQH. Mythic retelling7to8, Kingdom of the Grail2000 one fiction/one novel, no moves/gate changes. Matter of France tradition, not historical Franks in general; Arthur/Grail hybrid wobble explicit. Descriptive sibling-pattern name chosen by owner, not claimed formal genre or trademark clearance. Supersedes proposed Carolingian/Charlemagne labels. Honest ceiling1, Three Hearts stays portal. Portrait898A selected after visual review of two variants.
 841nodes/2755fictions/6504novels. NextMC04983 afterliveQA.
+
+## MC04983 Rhiyana5 whole fiction
+HoundFalcon3+Alamut2sameworld confirmedpublisher/reviews. MedievalFey3to4, all5ownenginesread;authorpsi-mutantoriginwobbleexplicitagainstactualnarratedfantasy/publicroyalpolitics.5Englishprintfrontsinspected/localized.841/2756/6509.NextMC04984.
