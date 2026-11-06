@@ -1960,3 +1960,7 @@ Curator Approved phonemsg-01M6QP475PE22GXJBJ47QNJGCX (2026-11-06 06:43:24 CET) o
 
 ### 2026-11-06 - Bartimaeus
 MC04923-26 four anthology skips; MC04927-29 one fiction/four novels placed in Paranormal bureau5->6. Full whole-fiction walk and4English jacket QA; no structural change. Next MC04930.
+
+
+### 2026-11-06 - The Wicked Sea
+MC04930shortstory/31unpublished2027 skipped;MC04932onepublishednovel -> Magic bond romantasy7->8. ExplicitdifferentworldfromBitten. Fullwalk/tetherbargainvsinnate/EnglishcoverQA; nextMC04933.
