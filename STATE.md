@@ -2115,3 +2115,6 @@ Spacehunt8to9;each ownengine/positiveNewancestorchecked.3EnglishprintjacketsQA. 
 
 ## MC05005-05009Purewhole3andshorts2026-11-06
 ExistingMutantfictioncardretained,addBurn2014,all3ownengines/rootwalk/EnglishcoversQA.3Torshortsskipped.846/2762/6545. NextMC05010.
+
+## MC05010-05012 Rivelle Realm whole3 2026-11-06
+Merge Eva/Alliana cards under author-confirmed Rivelle Realm title. Whole3 ordinary Cozy peeps6->7, not merely firstbook Cozycraft or prequel Fairytaleepilogue. All own primary/completedreviews/rootwalk,3 English print jackets inspected/localized.846/2761/6545. NextMC05013.
