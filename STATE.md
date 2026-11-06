@@ -1985,3 +1985,7 @@ MC04941/46whole2 -> Celtic6->7;bothownprimarysamples/synopsesread;reverseportal/
 
 ### 2026-11-06 Kings Son Magics Son
 MC04943Highlandertie skip;44standalone1994 -> Celtic7->8;45BardsTale tie skip;46alreadywholeSidhe2. Balladsource/renamedBritain/romancewobbleexplicit;nooverlappingseed.9chaptersauthorizedsampleinspected,originalEnglish147x240front.838/2739/6455,nextMC04947Echelon/Empyre.
+
+
+###2026-11-06RyanLaing
+MC04947/48whole2(2006/2007)->Cyberpunknoir4->5;ownprimary/revieweach,authorizedsamplesboth,metaverse/cyborg/alienorigin/dystopianwobblesrecorded.EnglishPRHfrontsmatchedpaperbacks,localized302x450.838/2740/6457.NextMC04949IllustratedEric(existingDiscworldcheck),50Dragonsitterwhole.
