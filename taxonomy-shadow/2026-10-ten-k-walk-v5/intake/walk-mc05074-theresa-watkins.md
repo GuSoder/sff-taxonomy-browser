@@ -1,0 +1,1 @@
+MC05074 The Perfection of Theresa Watkins,JustinC.Key2020. Skip-shortwork,notanovel. ISFDBexplicitTypeSHORTFICTION,lengthshortstory;Reactorpublishesstorywithauthor/editor/illustratorand23Sep2020date. Separateebookchapbookisnotanadditionalnovel. Sourcesread:https://www.isfdb.org/cgi-bin/title.cgi?2792020= and https://reactormag.com/the-perfection-of-theresa-watkins-justin-c-key/ .
