@@ -1,0 +1,60 @@
+# Vampirates universe: MC05081, 6 November 2026
+
+Place one shared-fiction card containing nine published novels in Fantasy after Disaster, four to five fictions. The author explicitly identifies Pirate Academy as part of the Vampirates universe, not merely a similar series; its three novels therefore stay with the six main Vampirates novels. Dead Deep is the World Book Day short novella and is excluded under the intake's form rule. No separate Pirate Academy card. No newer fourth Academy novel appears in the current author or publisher series lists; the US 2026 books are editions of the original UK 2024/2025 novels, not additions.
+
+## Independently grounded constituents
+
+1. Demons of the Ocean (2005): Grace and Connor Tempest escape their father's repossessed home and are separated by shipwreck. Connor joins the Diablo's human pirates, Grace is sheltered aboard a vampire ship with a red deck and living-looking sails. Monster Librarian's completed review independently details both arcs, the human crew's old/new piracy dispute, Grace's captivity and mystery, and future setting. Original year from author's first-publication page and his podcast statement, not 2020 reissue.
+2. Tide of Terror (2006): a lethal raid shakes Connor's confidence and Grace arranges a Pirate Academy visit while her visions draw her back toward Lorcan and the vampire ship. Sidorio's renegade violence grows. Feeling Fictional and critical Arkham completed reviews independently describe these two arcs, the Academy/Federation contrast and unresolved vampire mystery. Author's first UK publication page gives 2006; secondary lists often use US 2007/2008 dates incorrectly.
+3. Blood Captain (2007): Moonshine's arrival and a raid force Connor into moral violence; Grace takes blinded Lorcan to Sanctuary, meets Mosh Zu, and discovers her own healing abilities. Feeling Fictional's completed review independently confirms the distinct journeys and difficult recovery, not just inherited first-book characteristics. Author's first UK date and Scholastic agree September 2007; US 2008/2009 editions explain conflicting dates.
+4. Black Heart (2009): Lady Lola and Sidorio threaten the seas, the twins' ancestry divides them, and the Federation creates a dedicated vampire-hunting crew under Cheng Li after an Academy attack. Vampires.com's completed review confirms changing perspectives, the hunters' mission and opposing family allegiance, and material vampire folklore rather than merely metaphorical pirates. Original year from author publication page.
+5. Empire of Night (2010): Sidorio and Lola build their bloodthirsty empire; Grace and Connor must spy on their actual father for different factions, while Nocturnals and Federation seek an alliance. Feeling Fictional's completed review independently confirms opposed allegiances, moral ambiguity and preparation for war. The author's current page uses Empire of the Night as US title, but UK cover and original-publication page use Empire of Night; these are one novel.
+6. Immortal War (2011): the allied Federation and Nocturnals fight Sidorio and Lola, Connor as warrior and Grace as healer, with prophecy, newly developing abilities, returning allies and costly final battles. Feeling Fictional's June 2011 completed review independently confirms the whole finale and its different roles, not inferred from volume five. Original year from author's first UK publication page, not US 2012 or 2021 reprint.
+7. Pirate Academy: New Kid on Deck (2024): Jacoby and Jasmine's privileged pirate-school life is disrupted by the mysterious outsider Neo and threats from the League of True Pirates. Red Reading Hub and ReadingZone completed reviews independently confirm the classroom loyalties, missing parents, class privilege and attack, rather than assuming that every shared-universe volume centers vampires. Original UK 2024 predates US 2026 edition.
+8. Pirate Academy: Missing at Sea (2024): five student crews take an unsupervised Oceans Bound challenge; Jasmine's uncle escapes prison and dangerous sabotage replaces the teachers' tasks. Red Reading Hub independently describes the class rivalry, leadership selection, snakes and spiders, and rescue by other students. ReadingZone gives UK July 2024. A catalogue snippet mispairs the first two books' dates, not used for ordering.
+9. Pirate Academy: Sword Echoes (2025): a teacher defects, Jasmine and Jacoby seek her father amidst League danger, while Neo follows his dead mother's trail to a sword whose memories and powers connect to his family. Book Craic's completed review independently covers all three paths and the actual magical sword. Author and current PRH list this as book three; the contemporaneous May 2025 launch review proves original year despite US June 2026 edition.
+
+## Root-down walk and wobble
+
+Speculative fiction > Fantasy: genuinely supernatural vampires, psychic contact, healing and magical swords, not SF biotechnology or a hoax. The Academy novels have less overt magic in their first two volumes, but the third's sword and explicit shared universe settle the whole-fiction scope. A juvenile audience and illustrations are not a blanket exclusion or a separate genre.
+
+Fantasy > Real earth fantasy: current author explicitly says the shipwreck is off Australia's east coast. His interview and podcast say the future setting was a deliberate choice. This is not an invented nautical secondary world merely borrowing Earth names, and no portal crossing governs it. Historical/Gunpowder/Nautical fantasy are tempting surface fits because of sailing ships and swashbuckling, but their ancestor cannot override the explicit future Earth.
+
+Real earth > Future fantasy: author says 2512 for Vampirates and 2507 for Academy. Older reviews say 2505 for the original first novel; no exact fictional calendar year is needed for the card, and the discrepancy does not affect the unambiguous future branch. Not historical or contemporary merely because technology looks old.
+
+Future > Post-apocalyptic fantasy: author states in the podcast that global warming and rising seas created the conditions for a new dawn of piracy. Arkham independently describes seas covering most of Earth, and ReadingZone calls the Academy a future world of risen waters where pirates rule. This is a rebuilt maritime society, not simply a normal protected future city facing returned vampires. Vampire future's explicit never-fell/protected-city gate fails. End-times' biblical apocalypse and psionic society branches fail: these are vampire/healer powers within oceanic fantasy, not their specified world engines.
+
+Post-apocalyptic > Fantasy after Disaster: secular climate-driven sea rise reorganized geography and human society, while real supernatural agency governs life afterward. Author's own causal explanation is climate, not vampire magic, a deity, or a magical breach causing the inundation. Post Magicalypse therefore fails its causal gate. No definition change is required.
+
+The main wobble is whether the post-flood backdrop is material enough, given the adventure and family-identity engines rather than reconstruction as a theme. The existing parent explicitly includes rebuilt worlds and does not require survival scavenging in every novel. Here the climate-created ocean order makes piracy, its Federation and Academies, sea control and vampire/human factions possible across all nine books. That is material, unlike a merely stated far-future date. Conversely this does not justify broadening Vampire future to absorb any future vampire story.
+
+## Scope, cover and confidence notes
+
+Six main-series volumes plus three Academy novels are one fiction on direct author authority. Dead Deep is excluded as novella even though the new author page labels it book seven. Allies & Assassins is a separate secondary-world series, not folded in from common authorship. Every published novel has its own primary plot and an independently completed review. Full novels were not read; this is source-grounded classification, and the causal flood judgment is disclosed. Current author/publisher lists checked November 2026. Covers are nine distinct English flat print fronts, localized and actual-pixel contact-sheet inspected: six UK reissue jackets from the author and three US publisher Academy jackets. Original publication years are retained despite later jacket editions.
+
+## Sources read
+https://justinsomper.com/books/vampirates/
+https://justinsomper.com/books/pirate-academy/
+https://www.vampirates.co.uk/books/explore-the-vampirates-series/
+https://www.vampires.com/exclusive-interview-with-vampirates-captain-justin-somper/
+https://www.listennotes.com/podcasts/author-in-your/combining-worlds-with-justin-Jrdh5btB0Za/
+https://www.monsterlibrarian.com/TheCirculationDesk/march-12-book-review-vampirates-demons-of-the-ocean-vampirates-1-by-justin-somper/
+http://www.feelingfictional.com/2010/04/review-vampirates-tide-of-terror-justin.html
+https://arkhamreviews.wordpress.com/2014/05/08/vampirates-dead-deep-tide-of-terror/
+http://www.feelingfictional.com/2011/05/review-blood-captain-justin-somper.html
+https://www.vampires.com/review-black-heart-by-justin-somper/
+http://www.feelingfictional.com/2011/06/review-empire-of-night-justin-somper.html
+http://www.feelingfictional.com/2011/06/review-immortal-war-justin-somper.html
+https://redreadinghub.blog/2024/07/11/pirate-academy-new-kid-on-deck-missing-at-sea/
+https://bookcraic.blog/2025/05/29/review-pirate-academy-sword-echoes/
+https://www.readingzone.com/books/new-kid-on-deck-pirate-academy-1/
+https://www.readingzone.com/books/missing-at-sea-pirate-academy-2/
+https://www.penguinrandomhouse.com/series/PIA/pirate-academy/
+https://www.vampirates.co.uk/buy/demons-of-the-ocean-2/
+https://www.vampirates.co.uk/buy/book-2-tide-of-terror/
+https://www.vampirates.co.uk/buy/blood-captain-3/
+https://shop.scholastic.co.uk/products/Vampirates-Blood-Captain-Justin-Somper-9781416901020
+https://www.vampirates.co.uk/buy/black-heart-3/
+https://www.vampirates.co.uk/buy/empire-of-night-2/
+https://www.vampirates.co.uk/buy/immortal-war-2/
+https://www.vampirates.co.uk/buy/dead-deep-world-book-day-2007-2/

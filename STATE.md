@@ -2209,3 +2209,6 @@ Channeled10to9,PostMagicalypse6to7. All15retained. Jordan explicit Earthfuturean
 
 ## MC05078/79/80 Eidyn existing-card repair,6November
 All3novels grounded;Usurper3unchanged. Correctyears2019/2023/2025 and false missing-son mission;3Englishlocalpublisherjackets. Fourth2027preorderexcluded.850/2779/6601.
+
+## MC05081 Vampirates universe,6November
+Author-confirmedshareduniverse:6Vampirates+3PirateAcademynovels,DeadDeepnovellaexcluded. Allnineindependentlygrounded. Climate-createdoceanicfutureEarth;FantasyafterDisaster4to5. NineEnglishlocaljackets.850/2780/6610.
