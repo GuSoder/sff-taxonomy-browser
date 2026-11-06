@@ -1,0 +1,56 @@
+# Inspection, MC04959, 2026-11-06
+
+Place Josh Malerman's standalone Inspection (2019) in existing Sociological SF, 5 -> 6. No new genre or gate change. The controlled groups are the experiment: boys and girls raised separately with all knowledge of the other sex removed, to see whether concentrated intellectual development will result. Their curiosity and revolt undo the administrators' design. It is speculative social science with horror violence, not a supernatural school story.
+
+## Grounding and scope
+
+Own author and PRH pages, PRH authorized opening chapter, NPR, LitReactor, Vol1Brooklyn, Bookreporter, Fantasy Literature, SFE, and three author interviews read. More than six sources and three source types. Not a full novel read. No sequel or shared-world continuation established; geographic Malerman references alone do not make a universe under DUPLICATES.md's cameo exception. No existing Inspection card found.
+
+Richard/D.A.D. and Marilyn/M.O.M. raise26boys and26girls in two isolated Michigan towers. Missing children have been sent to the Corner. The remaining boys are24 in the authorized opening and NPR; publisher's26 names the original cohort, not a contradiction to silently fix. Daily physical inspections, invented diseases, false tree-origin lessons and censored fiction maintain an artificial social world. Two hired writers produce boys-only and girls-only leisure novels; Needs reveals women to the boys, while K's curiosity discovers the other tower. Both groups rebel violently. These are ordinary children and criminal adults in an extraordinary controlled social experiment, not genetic creations, clones or magic-born children. Literal tree-birth is their imposed false belief, not a fantastic fact. Staff seeming to read thoughts is coercion/paranoia, not attested psi. K's photographic memory is not proof of supernatural power. No specific Corner contents or hidden identities invented from synopsis summaries.
+
+Author interview says he deliberately gave up adding a ghost or demon to the Corner. He calls the story more Frankenstein than1984 and a mad scientist's misguided vision rather than an intended dystopian canon entry. Primary first draft2007, published2019 with expanded girls' viewpoint. This explains intellectual genealogy, not a historical setting claim.
+
+## Time and category contradiction
+
+SFE calls it Near Future. Most detailed sources, primary interviews and authorized sample instead describe an ordinary modern Michigan outside the secret experiment, with an author employed privately and able to leave for the real world, no future regime or advanced technology. The dystopia is the enclosed social laboratory, not the entire country. Use Modern-day SF as recognizable-present speculative experiment, with this SFE disagreement recorded. No exact calendar year asserted. If a supported explicit future setting emerges, redo the ancestor walk; do not fabricate a date to make this shelf fit. The alternative future-social-SF route was tested, not ignored.
+
+## Full root-down walk
+
+Speculative fiction -> Science fiction. The experiment extrapolates social/psychological conditioning and its consequences. Having no high technology does not make social SF non-speculative. Published critical coverage explicitly calls it SF. Fantasy fails supernatural mechanism: primary author rejects ghosts/demons, origin-tree story is a lie, vampire comparison is metaphor, books reveal information rather than transport readers to another world. No time travel appears in the sources or sample.
+
+Science fiction's four setting branches considered. Historical SF fails because there is no celebrated past-era world, alternative-history fork or extraordinary hidden event inserted into a named past; a2007first draft does not make the2019modern story period SF. Futurist SF is the strongest temporal rival given SFE's NearFuture label, but the story does not depend on an extrapolated future society/science. Huxleyan control, Orwellian censorship and Dystopian rebellion all have thematic overlap, but their future-Earth dystopian ancestor is not positively established. Nor is one hidden school equivalent to a totalitarian regime over all society. Future social SF could fit if future setting were established, not just because the author explores psychology. Atemporal SF fails cross-era/time-travel/parallel-world/science-fantasy/NewWeird alternate-reality engines; being undated is not being unplaceable when the outside world is recognizable. Modern-day SF positive: modern Earth, secret experimental enclaves in northern Michigan, no changed public world needed.
+
+Modern-day's eight children: Alien invasion/First contact fail extraterrestrials; Apocalyptic fiction fails catastrophe ending the world; Bioengineering fails deliberate gene/nano intervention, because social isolation and teaching rather than altered bodies are the experiment. Humorous SF fails governing comic/satirical register despite grotesque irony. Technothriller fails technical systems/detail, code/spy gear/engineering crisis; the crisis is social control collapsing. Social dystopia-modern is a genuine rival: a closed enclave's designed order breaks into violence. Its Ballardian child is stronger than classic-midcentury canon, media spectacle, algorithmic surveillance or power inversion, all of which fail. Yet this is explicitly a controlled sociological experiment in genius and gender ignorance rather than the broader pathologies of a present-day leisure/corporate/tower-block society rotting into tribal life. Use the more direct Social science fiction route, not alter Ballardian's gate to capture all enclosed violent settings.
+
+Soft SF positive because social sciences govern rather than physical engineering. Its children: Social SF positive in group conditioning, development, sex/gender awareness and manufactured social knowledge. Pseudoscience fails evidentiary claims of psi/cryptids: administrator's bad hypothesis is a failed human-science experiment, not a paranormal power posed as science. Pulp SF fails superhero/creature spectacle as core; bloodshed does not make it a creature feature. Social SF's two children: Psychological SF is a real wobble because intellectual development and individual perception matter. But no one person's intelligence enhancement, drug state, engineered desire or rewritten cognition is the governing subject. The paired cohorts, administrators' comparative design, shared information regime and collective rebellion make Sociological SF positive. Its actual gate explicitly includes a sealed college and says the collective is the experiment. Existing Catherine House and Hellstrom's Hive are helpful analogues, not replacement evidence. Sociological SF5->6, no split.
+
+## Cover and date
+
+PRH English paperback ISBN9781524797010, Sep17,2019, same original publication year as March2019 first release. Official299x450 flatfront inspected: green tower/black trees, INSPECTION/JOSH MALERMAN/A NOVEL, no audio, non-English text, stickers or placeholder. Localize one jacket for one book.
+
+## Sources
+- https://joshmalerman.com/books/inspection/
+- https://www.penguinrandomhouse.com/books/562316/inspection-by-josh-malerman/
+- https://sf-encyclopedia.com/entry/malerman_josh
+- https://www.npr.org/2019/04/27/717506059/inspection-doesnt-quite-live-up-to-its-surprising-premise
+- https://litreactor.com/reviews/inspection-by-josh-malerman/
+- https://www.vol1brooklyn.com/2019/07/22/coming-of-age-amidst-sinister-experiments-a-review-of-josh-malermans-inspection/
+- https://www.bookreporter.com/reviews/inspection
+- https://fantasyliterature.com/reviews/inspection/
+- https://fplobserver.wordpress.com/2019/03/19/josh-malerman-interview-inspections-mad-scientists/
+- https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/79400-opening-the-box-pw-talks-with-josh-malerman.html
+- https://www.metrotimes.com/arts/bird-box-author-josh-malerman-goes-to-the-woods-of-northern-michigan-in-inspection-21495379/
+
+
+## Sources
+- https://joshmalerman.com/books/inspection/
+- https://www.penguinrandomhouse.com/books/562316/inspection-by-josh-malerman/
+- https://sf-encyclopedia.com/entry/malerman_josh
+- https://www.npr.org/2019/04/27/717506059/inspection-doesnt-quite-live-up-to-its-surprising-premise
+- https://litreactor.com/reviews/inspection-by-josh-malerman/
+- https://www.vol1brooklyn.com/2019/07/22/coming-of-age-amidst-sinister-experiments-a-review-of-josh-malermans-inspection/
+- https://www.bookreporter.com/reviews/inspection
+- https://fantasyliterature.com/reviews/inspection/
+- https://fplobserver.wordpress.com/2019/03/19/josh-malerman-interview-inspections-mad-scientists/
+- https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/79400-opening-the-box-pw-talks-with-josh-malerman.html
+- https://www.metrotimes.com/arts/bird-box-author-josh-malerman-goes-to-the-woods-of-northern-michigan-in-inspection-21495379/

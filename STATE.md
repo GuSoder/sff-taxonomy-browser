@@ -2005,3 +2005,7 @@ MC04957 Daphne (2022) -> Vengeful spirits8->9. Specific returning dead woman hun
 
 ### 2026-11-06 Goblin
 MC04958 Goblin(2017) -> Cursed towns6->7. One linked novel6novellas plusframe, onebook, wholeplaceengine. Prestoandmundanehorrorwobbles explicit;cameosnotallMalermanmerge. OfficialEnglish2022paperbackfront.838/2744/6470. NextMC04959Inspection.
+
+
+### 2026-11-06 Inspection
+MC04959 Inspection(2019) -> Sociological SF5->6. Pairedcohortconditioningexperiment,primaryauthorrejectssupernatural. RecognizablepresentchosenwithSFENearFuturelabelwobblerecorded. OfficialEnglish2019paperbackfront.838/2745/6471. NextMC04960MaloriewholeBirdBox2.
