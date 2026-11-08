@@ -1,25 +1,28 @@
 id: soldier-fantasy
 label: Soldier fantasy
 parent: military-fantasy
-children: []
-works:
-- we-rule-the-night
-- the-poppy-war
-- havemercy
-- signal-airship
-- dragonmaster
-- the-god-fragments
-- the-videssos-series
-- the-dragon-jousters
-- the-raven-and-elves
-- the-company
+children:
+- aerial-soldier-fantasy
+- ground-soldier-fantasy
+works: []
 image: 514-soldier-fantasy.webp
 definition: 'Military fantasy of one fighting unit: dragon corps, elite warriors, battlemages and special squads
   followed from the inside; the unit is the story. Not Army fantasy (the whole war is the story), not Warrior hero
   (one fighter''s armed power is the story). Split 2026-10-06 from Military fantasy at nine fictions (curator "Approved"
-  (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)).'
+  (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)). Split 2026-11-08 at
+  ten into Aerial soldier fantasy / Ground soldier fantasy, by the unit's fighting
+  ground - the air or the land (5/5; curator "Approved" phonemsg-01M6Y334M716YN9FC8NDQBPSM8).
+  Umbrella: zero direct cards.'
 status: accepted
-ruling: curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM)
+ruling: 'curator "Approved" (phonemsg-01M47TWX4A1F8ZSQAST4KXA7QR, 2026-10-06 7:27 AM).
+  Split at ten cards after The Company became the tenth; approved by the curator''s
+  "Approved" (phonemsg-01M6Y334M716YN9FC8NDQBPSM8, 2026-11-08 6:25 PM CET, after the
+  examples and Military fantasy path clarification). Axis: the unit''s fighting ground
+  - air or land.'
 history:
 - date: '2026-11-08'
   change: 'Received The Company, 9 to 10; frozen immediately for split examination.'
+- date: '2026-11-08'
+  change: 'Split into Aerial soldier fantasy / Ground soldier fantasy (5/5), now an
+    umbrella with 0 direct fictions; the curator''s "Approved" (phonemsg-01M6Y334M716YN9FC8NDQBPSM8,
+    2026-11-08 6:25 PM CET).'
