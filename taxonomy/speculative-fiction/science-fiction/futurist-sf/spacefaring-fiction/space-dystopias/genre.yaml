@@ -1,18 +1,16 @@
 id: space-dystopias
 label: Space dystopias
 parent: spacefaring-fiction
-children: []
+children:
+- spaceship-dystopias
+- space-station-dystopias
+- planetary-dystopias
 image: 153-space-dystopias.webp
-definition: 'Spacefaring human futures where the social order itself is the horror: closed, oppressive societies off Earth. Split 2026-11-03 into Shipboard/Planetary dystopias at ten fictions (curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6), dissolved the same day on his conditional approval (phonemsg-01M6GH9KVDQT9W738983QDKK1E): with Red Rising moved to Insurgent space opera, the merged leaf holds nine fictions.'
+definition: 'Spacefaring human futures where the social order itself is the horror: closed, oppressive societies off Earth.
+  Split 2026-11-03 into Shipboard/Planetary dystopias at ten fictions (curator Approved phonemsg-01M6G08HR34RJ3N23TD9A0TZP6),
+  dissolved the same day on his conditional approval (phonemsg-01M6GH9KVDQT9W738983QDKK1E): with Red Rising moved to Insurgent
+  space opera, the merged leaf holds nine fictions. Split 2026-11-08 at ten into Spaceship dystopias / Space station dystopias
+  / Planetary dystopias, by where the closed oppressive society dwells (2/2/6; curator Approved phonemsg-01M6XFNS3D62HD0GFE04SRM7A8).
+  Umbrella: zero direct cards.'
 status: accepted
-works:
-- a-time-of-changes
-- dead-souls
-- fortress-sol
-- lies-inc
-- the-last-contract-of-isako
-- the-thick-and-the-lean
-- an-unkindness-of-ghosts
-- the-dred-chronicles
-- the-fortress-at-the-end-of-time
-- the-switch
+works: []

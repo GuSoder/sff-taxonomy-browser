@@ -1,0 +1,12 @@
+id: space-station-dystopias
+label: Space station dystopias
+parent: space-dystopias
+children: []
+image: 909-space-station-dystopias.webp
+definition: 'Space dystopias where the closed oppressive society lives in a fixed orbital installation: a military station,
+  a sealed orbital ring, a habitat city in space. Not vessels under way (Spaceship dystopias) or world surfaces (Planetary
+  dystopias).'
+status: accepted
+works:
+- the-fortress-at-the-end-of-time
+- the-switch
