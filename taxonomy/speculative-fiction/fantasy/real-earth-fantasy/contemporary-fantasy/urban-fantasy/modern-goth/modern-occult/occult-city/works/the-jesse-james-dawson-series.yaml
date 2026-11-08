@@ -1,0 +1,47 @@
+id: the-jesse-james-dawson-series
+title: The Jesse James Dawson series
+authors:
+- K. A. Stewart
+first_published: 2010
+canonical_genre: occult-city
+placement_status: accepted
+placement_rationale: 'Ten-k walk (MC05102-MC05104). Whole fiction: the Jesse James Dawson series, FIVE novels per FantasticFiction
+  and Goodreads (FictionDB''s 3-book list is stale, frozen 2012): A Devil in the Details (2010), A Shot in the Dark (2011),
+  A Wolf at the Door (2012), A Snake in the Grass (2014), A Line in the Sand (2016). Books 4-5 folded in as series completion
+  beyond the queue''s three ids. ''Star Struck'' on Penguin''s series page is page noise (it names no separate title in any
+  bibliography), not a sixth book. Engine (PRH publisher copy; Open Book Society review): Jesse is a modern ''Champion'' who
+  fights demons to free repentant souls from hastily signed contracts - his own brother''s bargain opened the hidden world;
+  by book 3 a Hollywood starlet carries 276 sold souls and an all-out demon war looms. Root-down: speculative fiction > fantasy
+  > real-earth-fantasy > contemporary-fantasy > urban-fantasy (hidden demons within the modern US - cities, Hollywood) > modern-goth
+  > modern-occult > occult-city: the hidden demonic economy of soul-contracts organizes the streets and escalates into open
+  demon war. Controlling precedent: Sandman Slim (hell-stained wisecracking demon-fighter in a hidden supernatural city) sits
+  in this leaf. Not occult-mystery (Jesse is no investigator with a badge or clients; he fights, he doesn''t detect), not
+  deal-with-the-devil (the bargains are the prey, not the protagonist''s deal), not demonic-torment (no single attached tormentor).
+  occult-city 7 -> 8.'
+books:
+- title: A Devil in the Details
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6449308-L.jpg
+- title: A Shot in the Dark
+  year: 2011
+  cover_url: https://m.media-amazon.com/images/I/51m3Yv+mpWL._SL500_.jpg
+- title: A Wolf at the Door
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7710094-L.jpg
+- title: A Snake in the Grass
+  year: 2014
+  cover_url: https://m.media-amazon.com/images/I/51HkJ3g+gSL._SL500_.jpg
+- title: A Line in the Sand
+  year: 2016
+  cover_url: https://m.media-amazon.com/images/I/51Dfq4bRoNL._SL500_.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6449308-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05102, MC05103, MC05104, MC05103b, MC05104b)
+placement_history:
+- date: '2026-10-04'
+  to: occult-city
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
