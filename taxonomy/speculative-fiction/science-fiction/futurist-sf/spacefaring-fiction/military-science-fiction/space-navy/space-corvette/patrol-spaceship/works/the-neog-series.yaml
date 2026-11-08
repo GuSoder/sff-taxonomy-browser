@@ -1,0 +1,42 @@
+id: the-neog-series
+title: The NeoG series
+authors:
+- K. B. Wagers
+first_published: 2020
+canonical_genre: patrol-spaceship
+placement_status: accepted
+placement_rationale: 'Ten-k walk (MC05095-MC05098). Whole fiction: the NeoG series (Harper Voyager), four novels in one series
+  per ISFDB and Goodreads: A Pale Light in the Black (2020), Hold Fast Through the Fire (2021), The Ghosts of Trappist (2023),
+  And the Mighty Will Fall (2024). Publisher copy: ''a military force patrolling and protecting space inspired by the real-life
+  mission of the U.S. Coast Guard'' - the Near-Earth Orbital Guard and Interceptor Team Zuma''s Ghost (HarperCollins; ReadingReality;
+  Wonderland). Root-down: speculative fiction > science fiction > futurist-sf > spacefaring-fiction (patrols across near-Earth
+  space and out to the Trappist system) > military-science-fiction (a uniformed service: ranks, interservice Boarding Games,
+  boarding actions) > space-navy (ship crews and patrol work) > space-corvette (the one small ship and her crew out on their
+  own) > patrol-spaceship: regular service - the NeoG IS the service and Zuma''s Ghost its patrol interceptor; not Privateer
+  spaceship (no letter of marque or outlaw flag), not Penal spaceship (no convict crew). Not space-mystery/space-cop: book
+  1''s smuggling case is one errand inside the unit''s story; the engine is the crew and the service, not a detective case.
+  patrol-spaceship 8 -> 9.'
+books:
+- title: A Pale Light in the Black
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10306400-L.jpg
+- title: Hold Fast Through the Fire
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11985334-L.jpg
+- title: The Ghosts of Trappist
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14148276-L.jpg
+- title: And the Mighty Will Fall
+  year: 2024
+  cover_url: https://www.harpercollins.com/cdn/shop/files/9780063115262_ef2c4e9d-0bce-43cf-81b5-fc60ac6c415f_1200x1200.jpg?v=1793228760
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10306400-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05095, MC05096, MC05097, MC05098)
+placement_history:
+- date: '2026-10-04'
+  to: patrol-spaceship
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
