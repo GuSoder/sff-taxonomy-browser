@@ -1,0 +1,59 @@
+id: rogue-agent
+title: Rogue Agent
+authors:
+- K. E. Mills
+first_published: 2008
+canonical_genre: absurd-realms
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction -> Fantasy (wizardry and sorcery with no scientific-engine frame)
+  -> Fantasy realms (the invented world of New Ottosland and Melissande''s Bordeken, not recognizable Earth or a portal
+  journey from Earth) -> Comic fantasy realms (comedy is the governing engine, not incidental relief: the premise is a
+  Third Grade wizard accidentally powered up by a factory explosion, the voice is a World of Snark led by Reg the
+  deadpan queen-turned-bird; Publishers Weekly calls book one droll and whimsical, the Dominion Post reads it as almost
+  fantasy satire, the Herald Sun as Harry Potter for grown-ups) -> Absurd realms: the invented world itself carries the
+  joke through absurd transposed institutions - the Ottosland Department of Thaumaturgy whose field wizards are literally
+  titled janitors, the socially Serious Business Cake and Pastry Guild, the zany backwater polity of New Ottosland. Not
+  Parody realms: no inherited story material, quest script or genre furniture is the thing being sent up. Sidebar
+  disclosed per book: Wizard Squared (book 3) turns genuinely dark - a parallel-universe Gerald as tyrant, torture and
+  character deaths - but the comic voice persists and the fiction is famous for its bumbling accidental-wizard comedy,
+  so it rides under the whole-fiction main engine (curator ruling phonemsg-01M6XKB91QD65FFYNC4FDMM2H4). One series
+  fiction under rule11j: the queue listed only The Accidental Sorcerer (MC05111); the remaining three novels are folded
+  in as series completion.'
+books:
+- title: The Accidental Sorcerer
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/8542962-L.jpg
+  authors:
+  - K. E. Mills
+- title: Witches Incorporated
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6447819-L.jpg
+  authors:
+  - K. E. Mills
+- title: Wizard Squared
+  year: 2010
+  cover_url: https://m.media-amazon.com/images/I/51tgPHerUlL._SL500_.jpg
+  authors:
+  - K. E. Mills
+- title: Wizard Undercover
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7547336-L.jpg
+  authors:
+  - K. E. Mills
+cover_curation:
+  status: complete
+  source: Orbit print jackets via Open Library scans; Wizard Squared via Amazon image linked from its ISFDB entry
+  selected_url: https://covers.openlibrary.org/b/id/8542962-L.jpg
+  visually_reviewed_on: '2026-11-08'
+  review_method: contact-sheet inspection of all four jackets; Tantor audio editions rejected
+  shows_english_title: true
+intake: ten-k walk v5 (queue id MC05111)
+placement_history:
+- date: '2026-11-08'
+  to: absurd-realms
+  reason: 'Intake from the 10k list: placed by a root-down walk under the single-fiction autonomy grant (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).'
+classification_sources:
+- https://en.wikipedia.org/wiki/The_Accidental_Sorcerer
+- https://www.fantasticfiction.com/m/k-e-mills/rogue-agent/
+- https://tvtropes.org/pmwiki/pmwiki.php/Literature/RogueAgent
+- https://www.isfdb.org/cgi-bin/pe.cgi?25674=
