@@ -3,7 +3,7 @@ title: The Hail Bristol Universe
 authors:
 - K. B. Wagers
 first_published: 2016
-canonical_genre: galactic-courts
+canonical_genre: galactic-thrones
 placement_status: accepted
 placement_rationale: 'Ten-k walk (MC05105-MC05110). Whole fiction: the Hail Bristol Universe (Orbit), ONE series per ISFDB
   (series record 51298) spanning two consecutive trilogies with the same protagonist and universe: The Indranan War - Behind
@@ -47,3 +47,7 @@ placement_history:
 - date: '2026-10-04'
   to: galactic-courts
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-08'
+  from: galactic-courts
+  to: galactic-thrones
+  reason: 'Galactic courts split into Galactic thrones / Galactic dynasties / Galactic courtiers on the curator''s Approved (phonemsg-01M6XRWEVEV3KS64PPZ04M3P3S, 2026-11-08 3:27 PM CET); re-walked: this card sits in Galactic thrones.'

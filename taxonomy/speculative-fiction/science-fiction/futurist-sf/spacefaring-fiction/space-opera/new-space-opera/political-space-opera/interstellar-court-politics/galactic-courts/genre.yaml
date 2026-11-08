@@ -1,23 +1,17 @@
 id: galactic-courts
 label: Galactic courts
 parent: interstellar-court-politics
-children: []
+children:
+- galactic-thrones
+- galactic-dynasties
+- galactic-courtiers
 image: 668-galactic-courts.webp
 portrait: 668-galactic-courts.webp
 definition: 'Interstellar court politics in which the throne and its court are the arena: an emperor, an empire''s ruling
   circle, envoys, heirs and the audience chamber decide who rules. Not Galactic houses (families, clans or houses hold the
-  power, with no single throne at the center).'
+  power, with no single throne at the center). Split 2026-11-08 at ten into Galactic thrones / Galactic dynasties / Galactic courtiers, by what a browser comes for (5/2/3; curator Approved phonemsg-01M6XRWEVEV3KS64PPZ04M3P3S). Umbrella: zero direct cards.'
 status: accepted
-works:
-- the-sun-eater
-- teixcalaan
-- the-vorkosigan-saga
-- the-interdependency
-- the-splinter-in-the-sky
-- the-stars-undying
-- a-confusion-of-princes
-- the-realm-universe
-- the-hail-bristol-universe
+works: []
 ruling: 'Split of Interstellar court politics at ten cards, approved by the curator''s "Execute" (2026-10-12 9:12:57 AM CEST,
   relayed with his own names Galactic courts / Galactic houses), after the intake''s "Approve split?" question; names are
   the curator''s own. Axis: who holds the power - the throne and its court, or families and clans. Triggered by the Liaden
@@ -26,3 +20,5 @@ history:
 - date: '2026-10-12'
   change: Created by the Interstellar court politics split; the curator's "Execute" (phonemsg-01M4QFA6PFPJK23XYEV1TGSCV5, 2026-10-12 9:12:57 AM CEST, relayed with
     his own names Galactic courts / Galactic houses).
+- date: '2026-11-08'
+  change: Split into Galactic thrones / Galactic dynasties / Galactic courtiers (5/2/3), now an umbrella with 0 direct fictions; the curator's Approved (phonemsg-01M6XRWEVEV3KS64PPZ04M3P3S, 2026-11-08 3:27 PM CET, after the name-clash double-check).
