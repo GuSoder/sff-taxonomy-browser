@@ -4,7 +4,7 @@ subtitle: Slaves of Sleep & The Masters of Sleep
 authors:
 - L. Ron Hubbard
 first_published: 1939
-canonical_genre: mirror-multiverse-fantasy
+canonical_genre: slip-into-myth
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy -> Portal fantasy -> Fantasy rifts -> Multiverse fantasy -> Mirror multiverse fantasy.
   Jan Palmer, a 1939 American heir, frees the Ifrit Zongri from a jar and is cursed with eternal wakefulness; whenever he
@@ -43,6 +43,13 @@ placement_history:
   from: pulp-fantasy
   to: mirror-multiverse-fantasy
   reason: 'Moved on the curator''s instruction (phonemsg-01M4VEABVXWDT6MH2EW3R3CFVV). Wobble recorded: only two worlds.'
+- date: '2026-11-08'
+  from_genre: mirror-multiverse-fantasy
+  to: slip-into-myth
+  reason: "World-mirroring audit, curator instruction 'Recheck all of them if there actually is mirroring of worlds' (phonemsg-01M6X9BMM3Y4Y1D7ZJKXXS4ECE). Strict test: are the fiction's worlds counterparts of one another? Evidence (Wikipedia; Galaxy Press) attests a parallel Ifrit-ruled Arabian-Nights world, but nothing shows the worlds are versions of each other; the mirror relation is person-level only (Jan/Tiger). Fails Mirror's gate under the strict test; moved under ordinary whole-fiction move authority. Honest home: one hidden world behind ours, the traveler thrown in by curse and sleep without being called (Otherworld stumblings), and the world is a living story tradition, the Arabian Nights (Slip into myth). Mirror 10->9, Slip into myth 7->8. No gate or definition change."
+  sources:
+  - https://en.wikipedia.org/wiki/Slaves_of_Sleep
+  - https://galaxypress.com/slaves-of-sleep-a-fantasy-tale-of-arabian-mythology/
 cover_url: cover-slaves-of-sleep-01.jpg
 shows_english_title: true
 inventory_review_2026_11_06:

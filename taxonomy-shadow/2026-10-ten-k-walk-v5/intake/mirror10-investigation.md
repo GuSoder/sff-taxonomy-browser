@@ -145,3 +145,9 @@ Fetchedpagesbelowareevidence,notallclaimsendorsed. Rawfilesretainfulltext.
 - https://www.ibooksinc.com/titles/9781596871182.html | raw/mirror-members5.txt
 - https://www.veschwab.com/shades | raw/mirror-schwabmore.txt
 - https://read.macmillan.com/torforge/fragile-threads-of-power-v-e-schwab/ | raw/mirror-schwabmore.txt
+
+## Audit outcome, 8 November 2026 - split withdrawn, two members moved
+
+Curator instruction phonemsg-01M6X9BMM3Y4Y1D7ZJKXXS4ECE ("Recheck all of them if there actually is mirroring of worlds"), strict test: are the fiction's WORLDS counterparts of one another, distinct from mirrored selves and from single alternate-history settings.
+
+Result: 8 of 10 pass with explicit world-mirroring (Amber, His Dark Materials, Shades of Magic, Last Exit, Apprentice Adept, Twice Lived, Burn, The Dark World). Slaves of Sleep fails on evidence (parallel Ifrit-ruled world, no world-versioning; mirror is person-level) and moved to Slip into myth (7->8). Moorcock Multiverse is mixed - real counterpart strands (The Wrecks of Time's Earth zero to fifteen; Bastable's crossed alternate 20th centuries) but distinct signature realms and single-setting alternate histories - and moved to Worldhopper multiverse fantasy (8->9). Mirror 10->8; the selves/worlds split proposal (Doppelganger/Echo multiverse fantasy) is withdrawn as resting on a false ten-fiction premise. Moves under the standing whole-fiction grant (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX); no gate or definition changed.

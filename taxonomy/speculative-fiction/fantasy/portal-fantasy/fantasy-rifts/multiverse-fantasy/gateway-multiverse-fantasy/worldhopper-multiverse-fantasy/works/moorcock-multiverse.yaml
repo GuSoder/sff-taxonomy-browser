@@ -7,7 +7,7 @@ authors:
 - Mark Hodder
 - Carter Kaplan
 first_published: 1965
-canonical_genre: mirror-multiverse-fantasy
+canonical_genre: worldhopper-multiverse-fantasy
 placement_status: accepted
 books:
 - title: Elric of Melniboné
@@ -1488,3 +1488,10 @@ placement_history:
   to: mirror-multiverse-fantasy
   reason: Focused whole-fiction recovery authorized under owner phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX;14fragments40rows->1fiction68actualnovels.
     Mirror9to10frozen;Worldhopper10to8;no ancestor changes.
+- date: '2026-11-08'
+  from_genre: mirror-multiverse-fantasy
+  to: worldhopper-multiverse-fantasy
+  reason: "World-mirroring audit, curator instruction 'Recheck all of them if there actually is mirroring of worlds' (phonemsg-01M6X9BMM3Y4Y1D7ZJKXXS4ECE). Strict test: are the fiction's worlds counterparts of one another? Mixed. Genuine counterpart-world strands exist: The Wrecks of Time (Hachette copy: 'Earth zero to Earth fifteen - which was the real one?') and the Bastable trilogy (crossed 'alternate versions of the 20th century'). But the signature strands are distinct invented realms (Melnibone, Corum's planes) bound by incarnation, and Gloriana is a single alternate-history setting with no counterpart crossing. Whole-fiction fit for Mirror fails the strict test; Worldhopper is the honest existing leaf - no single home ground, the cast ranges across many realms, the multiverse itself is the stage; already the recorded serious alternative of 6 November. The earlier 'adjacent universes near-identical' author claim could not be re-grounded to an exact Moorcock quote and is withdrawn. Mirror 9->8, Worldhopper 8->9. The pending Mirror selves/worlds split proposal (Doppelganger/Echo multiverse fantasy) is withdrawn as resting on a false ten-fiction membership premise. No gate or definition change."
+  sources:
+  - https://www.hachette.co.uk/titles/michael-moorcock/the-wrecks-of-time/9780575092785/
+  - https://en.wikipedia.org/wiki/A_Nomad_of_the_Time_Streams
