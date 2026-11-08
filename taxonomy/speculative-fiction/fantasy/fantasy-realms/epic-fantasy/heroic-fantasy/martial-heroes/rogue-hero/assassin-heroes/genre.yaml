@@ -1,26 +1,23 @@
 id: assassin-heroes
 label: Assassin heroes
 parent: rogue-hero
-children: []
+children:
+- contract-assassins
+- sworn-assassins
 image: 757-assassin-heroes.webp
 definition: 'Rogue hero fantasy whose protagonist kills for a living: the guild assassin, the king''s killer, the contract
   blade whose stealth and deception serve the knife. Not Thief heroes (the protagonist steals and survives by cunning). Split
   of Rogue hero at ten cards by assassin vs thief (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21 9:07
-  PM).'
-status: provisional
-ruling: Split of Rogue hero at ten cards by assassin vs thief (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21
-  9:07 PM); the original stays umbrella.
-works:
-- the-realm-of-the-elderlings
-- the-dead-cat-tail-assassins
-- the-wounded-kingdom
-- dragaera
-- night-angel
-- the-fade
-- heart-of-the-world
-- starless
-- the-chronicles-of-ghadid
-- the-loyal-opposition-trilogy
+  PM). Split 2026-11-08 at ten into Contract assassins / Sworn assassins, by who owns
+  the blade - the trade is the story vs the bond is the story (5/5; curator "Approved"
+  phonemsg-01M6XZJMDCZE9CGVE71DD4RPJV). Umbrella: zero direct cards.'
+status: accepted
+ruling: 'Split of Rogue hero at ten cards by assassin vs thief (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21
+  9:07 PM); the original stays umbrella. Split at ten cards after The Loyal Opposition
+  trilogy became the tenth; approved by the curator''s "Approved" (phonemsg-01M6XZJMDCZE9CGVE71DD4RPJV,
+  2026-11-08 5:24 PM CET). Axis: who owns the blade - paid contracts (the trade is
+  the story) vs sworn service (the bond is the story).'
+works: []
 history:
 - date: '2026-10-21'
   change: Created in the split of Rogue hero at ten cards (curator "Approved", phonemsg-01M5FXS1N4FNEYH167QJTBD7WF, 2026-10-21
@@ -28,3 +25,7 @@ history:
 - date: '2026-11-08'
   change: 'Received The Loyal Opposition trilogy, 9 to 10; frozen immediately for
     split examination.'
+- date: '2026-11-08'
+  change: 'Split into Contract assassins / Sworn assassins (5/5), now an umbrella
+    with 0 direct fictions; the curator''s "Approved" (phonemsg-01M6XZJMDCZE9CGVE71DD4RPJV,
+    2026-11-08 5:24 PM CET).'
