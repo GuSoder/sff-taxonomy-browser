@@ -1,0 +1,32 @@
+id: natural-history
+title: Natural History
+authors:
+- Justina Robson
+first_published: 2003
+canonical_genre: successor-species
+placement_status: accepted
+placement_rationale: 'Ten-k walk (MC05087, MC05088). Whole fiction: Robson''s Stuff-universe sequence (Wikipedia and ISFDB
+  list the ''Natural History (Stuff Universe)'' series as Natural History 2003 + Living Next Door to the God of Love 2005).
+  Root-down: science fiction (far-future engineered humanity, alien Stuff) > futurist-sf > technomorphosis (the human form
+  remade is the engine) > posthuman > remade-bodies (bodily/biological transformation, not mind-copying) > successor-species:
+  the Forged are humanity''s deliberately engineered successor species and the sequence''s core tension is their standing
+  versus unevolved humanity, with Unity/Stuff rewriting biology across generations. Not altered-flesh (individual body redesign;
+  here the question is species succession), not cyborgs (no machine hybrid).'
+books:
+- title: Natural History
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/8760777-L.jpg
+- title: Living Next Door to the God of Love
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/8668771-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8760777-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05088, MC05087)
+placement_history:
+- date: '2026-10-04'
+  to: successor-species
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
