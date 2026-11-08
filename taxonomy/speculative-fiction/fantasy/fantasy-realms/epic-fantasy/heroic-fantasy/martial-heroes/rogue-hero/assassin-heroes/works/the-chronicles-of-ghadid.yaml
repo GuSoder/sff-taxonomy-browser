@@ -1,0 +1,37 @@
+id: the-chronicles-of-ghadid
+title: The Chronicles of Ghadid
+authors:
+- K. A. Doore
+first_published: 2019
+canonical_genre: assassin-heroes
+placement_status: accepted
+placement_rationale: 'Ten-k walk (MC05099-MC05101). Whole fiction: The Chronicles of Ghadid (Tor), one trilogy per the author''s
+  site and Tor: The Perfect Assassin (2019), The Impossible Contract (2019), The Unconquered City (2020) - loosely-connected
+  stories following three cousins of the Basbowen family of assassins in the desert city of Ghadid, where water is dearer
+  than blood and wild spirits are deadlier than knives (kadoore.com; Tor; Reactor). Root-down: speculative fiction > fantasy
+  > fantasy-realms (invented secondary world) > epic-fantasy (Tor calls it high fantasy; city-spanning stakes with spirits
+  and ghuls) > heroic-fantasy > martial-heroes > rogue-hero (the protagonists'' power is stealth, deception and the contract
+  blade) > assassin-heroes: a family of professional killers-for-hire who correct injustice for a fee and become the city''s
+  protectors. Not dynastic-assassins (they are not aimed at a ruling line or great families; Ghadid''s own order is the arena).
+  assassin-heroes 8 -> 9.'
+books:
+- title: The Perfect Assassin
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8575231-L.jpg
+- title: The Impossible Contract
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/10118277-L.jpg
+- title: The Unconquered City
+  year: 2020
+  cover_url: https://kadoore.com/wp-content/uploads/2019/10/cover_the-unconquered-city.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8575231-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05099, MC05100, MC05101)
+placement_history:
+- date: '2026-10-04'
+  to: assassin-heroes
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
