@@ -1,22 +1,31 @@
 id: fairytale-transplant
 label: Fairytale transplant
 parent: fairytale-fantasy
-definition: Fiction that relocates a familiar fairytale into a different historical period, culture, or contemporary setting.
+definition: 'Fiction that relocates a familiar fairytale into a different historical
+  period, culture, or contemporary setting. Split 2026-11-08 at ten into Redated
+  fairytales / Updated fairytales / Otherworlded fairytales, by where the new telling
+  lands (4/5/1; curator Approved phonemsg-01M6XXTVBEH5JV4WYJHVE7P5GZ). Umbrella:
+  zero direct cards.'
 status: accepted
-taxonomy_note: Provisional descriptive coinage for revision mode; no single established critical term cleanly covers this group.
-children: []
+taxonomy_note: Provisional descriptive coinage for revision mode; no single established
+  critical term cleanly covers this group.
+children:
+- redated-fairytales
+- updated-fairytales
+- otherworlded-fairytales
 image: 226-fairy-tale-transplant.webp
-works:
-- mapping-the-bones
-- dark-and-deepest-red
-- gingerbread
-- red-hood
-- summer-in-the-city-of-roses
-- castle-of-the-cursed
-- jasmyn
-- enchantment
-- fishbone-cinderella
-- rory-thorne-universe
+works: []
+ruling: 'Split at ten cards after The Rory Thorne Universe became the tenth; approved
+  by the curator''s "Approved" (phonemsg-01M6XXTVBEH5JV4WYJHVE7P5GZ, 2026-11-08 4:53
+  PM CET, after the naming walk). Names are the curator''s own coinage - Redated /
+  Updated / Otherworlded - smoothed from his Redated / Todayed / Otherworled (phonemsg-01M6XXS9WX976V138H71JH3GJ6).
+  Axis: where the new telling lands - a dated historical era, contemporary life, or
+  an invented world.'
 history:
 - date: '2026-11-08'
-  change: 'Received The Rory Thorne Universe, 9 to 10; frozen immediately for split examination. Curator boundary ruling (real fairy magic is Fantasy, not SF): phonemsg-01M6XV98C5QQJMV0SG7MW59N40.'
+  change: 'Received The Rory Thorne Universe, 9 to 10; frozen immediately for split
+    examination. Curator boundary ruling (real fairy magic is Fantasy, not SF): phonemsg-01M6XV98C5QQJMV0SG7MW59N40.'
+- date: '2026-11-08'
+  change: 'Split into Redated fairytales / Updated fairytales / Otherworlded fairytales
+    (4/5/1), now an umbrella with 0 direct fictions; the curator''s Approved (phonemsg-01M6XXTVBEH5JV4WYJHVE7P5GZ,
+    2026-11-08 4:53 PM CET).'
