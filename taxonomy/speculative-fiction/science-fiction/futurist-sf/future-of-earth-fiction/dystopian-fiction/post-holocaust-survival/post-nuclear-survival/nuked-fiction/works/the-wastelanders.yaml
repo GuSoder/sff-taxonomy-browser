@@ -1,0 +1,41 @@
+id: the-wastelanders
+title: The Wastelanders
+authors:
+- K. S. Merbeth
+first_published: 2016
+canonical_genre: nuked-fiction
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist SF > Future of Earth fiction > Dystopian
+  fiction > Post-holocaust survival > Post-nuclear survival > Nuked fiction. One fiction under rule 11j: Bite (2016)
+  and Raid (2017) are Orbit''s Wastelanders #1 and #2 (isfdb series record; the 2018 "The Wastelanders" is their
+  combined omnibus - skip-omnibus row), one post-holocaust world, and Raid''s Clementine hunts the raider king from
+  Bite''s story. The cause is named by the publisher: Orbit announced Bite as "a lawless, post-nuclear world"
+  (quoted by Reactor; Starburst: "the nuclear wasteland of the near future"), so Post-nuclear survival over
+  Terminal wastelands (mixed/unspecified). Within it: the bomb is long past tense and the fiction lives in the
+  rebuilt brutal working world - ramshackle towns, trade, raider crews making a living in the rubble; that is the
+  Nuked fiction gate word for word. Not Nuke time fiction (no blast moment or fresh fallout), not Mutant fiction
+  (no nuclear-born mutation).'
+classification_sources:
+- https://reactormag.com/need-a-ride-bite-by-k-s-merbeth/ (Orbit acquisition announcement quoted)
+- https://www.starburstmagazine.com/reviews/bite/
+- https://craigdilouie.com/wastelanders-by-k-s-merbeth/
+- https://www.isfdb.org/cgi-bin/title.cgi?2829982 (series + omnibus records)
+cover_curation:
+  status: complete
+  source: Black Gate hosted jacket scan (Bite, Lauren Panepinto design) + Hachette AU CDN (Raid, Orbit UK)
+  selected_url: https://www.blackgate.com/wp-content/uploads/2017/04/Bite-K-S-Merbeth.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-11-09'
+  review_method: contact sheet of both jackets (distinct designs, English titles)
+books:
+- title: Bite
+  year: 2016
+  cover_url: https://www.blackgate.com/wp-content/uploads/2017/04/Bite-K-S-Merbeth.jpg
+- title: Raid
+  year: 2017
+  cover_url: https://cdn.hachette.com.au/books/440/9780356507736.jpg
+intake: ten-k walk v5 (queue ids MC05152, MC05153, MC05154)
+placement_history:
+- date: '2026-11-09'
+  to: nuked-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk; omnibus row skipped (rule: no omnibus cards).'
