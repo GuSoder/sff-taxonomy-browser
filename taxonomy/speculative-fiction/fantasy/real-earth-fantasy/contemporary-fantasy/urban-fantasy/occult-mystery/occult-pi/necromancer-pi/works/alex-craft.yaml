@@ -1,0 +1,55 @@
+id: alex-craft
+title: Alex Craft
+authors:
+- Kalayna Price
+first_published: 2010
+canonical_genre: necromancer-pi
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-earth fantasy > Contemporary fantasy > Urban fantasy >
+  Occult mystery > Occult PI > Necromancer PI. One fiction under rule 11j: Roc/Ace''s Alex Craft series, seven novels
+  (Grave Witch 2010, Grave Dance 2011, Grave Memory 2012, Grave Visions 2016, Grave Ransom 2017, Grave Destiny 2019,
+  Grave War 2020; isfdb series record 27907, verified against the queue''s single Grave Dance row - series completion
+  folds the rest; the 2013 series-linked short Ruby Red excluded as short fiction). Alex Craft is a grave witch working
+  as a private investigator in Nekros City, raising shades of the dead to solve crimes - Wikipedia: "an urban fantasy
+  series about a witch who solves crimes by speaking to the dead". Her working tool IS the dead: the Necromancer PI
+  gate word for word. Not Witchcraft PI: her case tool is necromancy (shade-raising), not a witch''s craft of ritual
+  and will; "grave witch" names her kind, not her method.'
+classification_sources:
+- https://en.wikipedia.org/wiki/Kalayna_Price
+- https://www.isfdb.org/cgi-bin/pe.cgi?27907 (series record, 7 novels)
+- https://www.penguinrandomhouse.com/books/307822/grave-dance-by-kalayna-price/
+cover_curation:
+  status: complete
+  source: OpenLibrary scans (Roc, volumes 1-5) + Penguin Random House CDN (volumes 6-7)
+  selected_url: https://covers.openlibrary.org/b/id/6609028-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-11-09'
+  review_method: contact sheet of all seven jackets (distinct designs, English titles; OpenLibrary''s Grave Destiny
+    entry rejected as the audio edition - "Read by Emily Durante" - and replaced with the Ace print jacket)
+books:
+- title: Grave Witch
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6609028-L.jpg
+- title: Grave Dance
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7622350-L.jpg
+- title: Grave Memory
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8272447-L.jpg
+- title: Grave Visions
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/7592919-L.jpg
+- title: Grave Ransom
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10226427-L.jpg
+- title: Grave Destiny
+  year: 2019
+  cover_url: https://images2.penguinrandomhouse.com/cover/9780451416599
+- title: Grave War
+  year: 2020
+  cover_url: https://images2.penguinrandomhouse.com/cover/9781984805959
+intake: ten-k walk v5 (queue id MC05175)
+placement_history:
+- date: '2026-11-09'
+  to: necromancer-pi
+  reason: 'Intake from the 10k list: placed by a root-down walk (single-fiction placement grant); full seven-novel series folded.'
