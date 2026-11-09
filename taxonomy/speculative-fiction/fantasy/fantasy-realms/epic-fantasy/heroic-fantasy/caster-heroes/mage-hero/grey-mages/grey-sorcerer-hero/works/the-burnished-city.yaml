@@ -3,11 +3,13 @@ title: The Burnished City
 authors:
 - Davinia Evans
 first_published: 2022
-canonical_genre: grey-wizard-hero
+canonical_genre: grey-sorcerer-hero
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Caster heroes > Mage hero > Grey
-  mages. Per the author''s site and Hachette: Siyon Velo, a slum-born petty alchemist in the city of Bezim, accidentally commits
-  an act of impossible magic and has to master it. His art is alchemy bent by wild, undefined magic. Soft: it is also a city
+  mages > Grey sorcerer hero. Per the author''s site and Hachette: Siyon Velo, a slum-born petty alchemist in the city of Bezim,
+  accidentally commits an act of impossible magic and has to master it. Bezim''s own divide is learned alchemy (sanctioned
+  trade) versus innate sorcery (notorious, born); the fiction is famous for the sorcery - his anomalous inborn power defines
+  the series from its title Notorious Sorcerer on. The alchemy he trained in rides along as craft. Soft: it is also a city
   caper (Caper fantasy, Thief heroes).'
 books:
 - title: Notorious Sorcerer
@@ -24,6 +26,12 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC02498, MC02500, MC02499)
 placement_history:
+- date: '2026-11-09'
+  to: grey-sorcerer-hero
+  reason: 'Moved from grey-wizard-hero on the main agent''s placement call under the curator''s standing single-fiction
+    move grant: the defining power is Siyon''s innate anomalous sorcery (the series opens on Notorious Sorcerer), not his
+    learned alchemical trade; the earlier wizard-side weighting of craft over the defining power was the wrong pick.
+    No gate change.'
 - date: '2026-11-09'
   to: grey-wizard-hero
   reason: 'Grey Mages split by access to the art (learned subject vs innate power) on the curator''s instruction
