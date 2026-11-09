@@ -3,7 +3,7 @@ title: Earthsea
 authors:
 - Ursula K. Le Guin
 first_published: 1968
-canonical_genre: grey-mages
+canonical_genre: grey-sorcerer-hero
 placement_status: accepted
 placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches Mage Hero,
   not merely the setting or tone.'
@@ -160,6 +160,10 @@ books:
   - cover_url: https://covers.openlibrary.org/b/id/9055173-L.jpg
     credit: HMH, 2012
 placement_history:
+- date: '2026-11-09'
+  to: grey-sorcerer-hero
+  reason: 'Grey Mages split by access to the art (learned subject vs innate power) on the curator''s instruction
+    phonemsg-01M6ZH5HTSDW3VTT3YPZF61AJ5; both leaf names his own.'
 - date: '2026-10-06'
   reason: Split of Mage hero by the life stage of the mage (fledgling or graybeard); re-walked root-down into Fledgling mage
     (curator "So, execute?" (2026-10-06 11:21:41 PM, phonemsg-01M49HFYZCXFQ4SDE0S7RQN2MF) over the life-stage split of Mage

@@ -1,25 +1,17 @@
 id: grey-mages
 label: Grey Mages
 parent: mage-hero
-children: []
+children:
+- grey-wizard-hero
+- grey-sorcerer-hero
 image: 683-grey-mages.webp
 portrait: 683-grey-mages.webp
 definition: 'Mage hero fantasy where the hero''s art sits between the poles or is not yet defined: names, nature and beast
   bonds, wild magic, glamours and visions, a gift that is never pinned to death or healing. Colour names the art, not the
   hero''s morality. Not Black Mages (death, blood, demons, forbidden sorcery), not White Mages (healing and restoring arts),
   not Bard hero (power is performance).'
-status: accepted
-works:
-- magelight
-- nevermoor
-- earthsea
-- animist
-- the-obsidian-universe
-- the-wild-hunt
-- micah-grey
-- the-burnished-city
-- mage-heart
-- mystic
+status: umbrella
+works: []
 ruling: 'Dissolve of Fledgling mage (9) and Graybeard mage (4) and re-division of Mage hero by the hero''s art, approved by
   the curator''s "Execute on this axis instead" (2026-10-12 5:20:14 PM CEST, phonemsg-01M4RB6ESST3S5DDH4VP9A7HK0, on his own
   names Black Mages / Grey Mages / White Mages); names are the curator''s own. Supersedes the 2026-10-06 life-stage split
@@ -29,6 +21,13 @@ ruling: 'Dissolve of Fledgling mage (9) and Graybeard mage (4) and re-division o
   and undead tip it Black), Unraveller (restorative rather than classic healing), The Scholomance (El''s foretold dark sorcery),
   The Wild Hunt (the Gift is never defined).'
 history:
+- date: '2026-11-09'
+  change: 'Split with umbrella at ten fictions into Grey wizard hero (3) and Grey sorcerer hero (7) on the curator''s
+    D&D access axis; his instruction "Ok, can you split it Grey wizard hero, Grey sorcerer hero"
+    (phonemsg-01M6ZH5HTSDW3VTT3YPZF61AJ5, 2026-11-09 7:50 AM CET) on the delivered 3/7 mapping
+    (phonemsg-01M6ZH2X3XC1YHRGG9Q0ZJ3M14); both names his own. The Burnished City (mixed: learned alchemy plus an
+    innate anomaly) rides wizard-side on its craft; Animist''s lack of an innate prerequisite is unattested, not
+    proven.'
 - date: '2026-10-12'
   change: Created by the dissolve of Fledgling mage and Graybeard mage and re-division of Mage hero by art; the curator's
     "Execute on this axis instead" (2026-10-12 5:20:14 PM CEST, phonemsg-01M4RB6ESST3S5DDH4VP9A7HK0, on his own names Black
