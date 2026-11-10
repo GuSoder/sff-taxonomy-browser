@@ -1,18 +1,10 @@
 id: rivals-to-lovers-romantasy
 label: Rivals-to-lovers romantasy
 parent: enemies-to-lovers-romantasy
-children: []
-works:
-- divine-rivals
-- hart-and-mercy
-- nemesis-mine
-- the-court-of-venus
-- fire-power
-- one-for-my-enemy
-- crowns-of-nyaxia
-- heartstone
-- maggie-and-arthurs-magic-moment
-- thieves-of-dragemor
+children:
+- prize-rivals-romantasy
+- bad-blood-romantasy
+works: []
 image: 483-rivals-to-lovers-romantasy.webp
 definition: 'Enemies-to-lovers romantasy where the lovers are rivals: peers set against each other in a feud, a contest or
   a long competition - rival journalists, a marshal and an undertaker, a hero and a villain staging a feud, rival magicians
@@ -21,3 +13,7 @@ definition: 'Enemies-to-lovers romantasy where the lovers are rivals: peers set 
   ten cards (curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG, 2026-10-05 3:32 PM)).'
 status: accepted
 ruling: curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG, 2026-10-05 3:32 PM)
+history:
+- date: '2026-11-10'
+  change: Split-with-umbrella at ten fictions into Prize rivals romantasy (4) and Bad blood romantasy (6); curator "Approved"
+    (phonemsg-01M72ZDX6CA74C2M5HHCBNVCT2, 2026-11-10 3:57:38 PM CET) on the block with those exact names (serve phonemsg-01M72YGVRHE66XJCR2SCVY5YS6).
