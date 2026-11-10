@@ -1,0 +1,31 @@
+id: sarah-canary
+title: Sarah Canary
+authors:
+- Karen Joy Fowler
+first_published: 1991
+canonical_genre: hidden-history-sf
+placement_status: accepted
+placement_rationale: 'Standalone debut novel (1991, Henry Holt; Nebula and Tiptree nominee; Gollancz SF Masterworks 2012).
+  Washington Territory, 1873: Chinese railworker Chin Ah Kin is ordered to escort away a strange, wordless woman - Sarah Canary
+  - and the chase through asylums, freak shows and mob violence never settles what she is: asylum patient, Alaskan wild woman,
+  fugitive murderess, or something not human at all. She vanishes unrecorded. The book''s whole engine is that unresolved
+  nonhuman mystery inside documented history - the hidden-history-sf shape (isfdb tags: first contact, science fiction; SF
+  Masterworks canonization); same shelf-shape as tenant Camouflage (concealed nonhumans passing through real history). Rejected:
+  period-sf (no retro-futurist era aesthetics - the marker is period aesthetics, absent here), alternate-history (no divergence
+  from known history), alien-arrival under modern-day-sf (contemporary branch, and her nature is never confirmed as alien),
+  proto-sf (a 1991 novel, not written in its own era).'
+books:
+- title: Sarah Canary
+  year: 1991
+  cover_url: cover-sarah-canary.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-sarah-canary.jpg
+  visually_reviewed_on: '2026-11-10'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05213)
+placement_history:
+- date: '2026-11-10'
+  to: hidden-history-sf
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
