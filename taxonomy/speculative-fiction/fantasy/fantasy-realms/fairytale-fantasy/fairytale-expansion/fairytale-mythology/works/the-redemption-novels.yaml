@@ -1,0 +1,38 @@
+id: the-redemption-novels
+title: The Redemption novels
+authors:
+- Karen Lord
+first_published: 2010
+canonical_genre: fairytale-mythology
+placement_status: accepted
+placement_rationale: 'Shared-universe card (one fiction, two novels). Karen Lord''s own bibliography groups them as The Redemption
+  Novels (karenlord.wordpress.com menu); the same Undying cast carries both books - Chance (the indigo djombi lord of the
+  first book), the Trickster, Patience - and WWEnd calls Unraveling ''a loose sequel ... appearances by some of the same characters'';
+  PRH markets the matched 2024 pair (Unraveling jacket: ''Author of Redemption in Indigo''). Redemption in Indigo (2010, Small
+  Beer Press; Mythopoeic Fantasy Award) openly retells the Senegalese folk tale of Ansige the glutton: Paama leaves Ansige
+  and the undying djombi hand her the Chaos Stick, and the inherited tale grows into an original cosmology of undying ones,
+  tricksters and chaos lore built around the story (Small Beer: ''a clever, contemporary fairy tale ... inspired by a Senegalese
+  folk tale''). Unraveling (2024, Random House Worlds) continues inside that cosmology: forensic therapist Miranda Ecuovo
+  is seized by Chance to hunt the rogue Undying behind a serial killer, through labyrinths of memory and dream (PRH). The
+  fiction''s overarching shape is the original mythology grown out of the folk tale - the fairytale-mythology shape; same
+  shelf-shape as tenant Spinning Silver. Rejected: mythic-retelling under historical fantasy (real-Earth gate; Makendha and
+  the City are invented places), modern-african-myth (contemporary-present gate; Redemption''s setting is timeless folkloric),
+  fairytale-epilogue (the new cosmology, not the tale''s aftermath, carries the fiction).'
+books:
+- title: Redemption in Indigo
+  year: 2010
+  cover_url: cover-redemption-in-indigo.jpg
+- title: Unraveling
+  year: 2024
+  cover_url: cover-unraveling.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-redemption-in-indigo.jpg
+  visually_reviewed_on: '2026-11-10'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05215, MC05218)
+placement_history:
+- date: '2026-11-10'
+  to: fairytale-mythology
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
