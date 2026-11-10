@@ -3,7 +3,7 @@ title: Generation V
 authors:
 - M. L. Brennan
 first_published: 2013
-canonical_genre: oldfangs-fantasy
+canonical_genre: vampire-dynasty-fantasy
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Real earth fantasy > Contemporary fantasy > Vampire fantasy > Vampire worlds. Fortitude
   Scott, a young vampire in St. Louis who refuses to feed on people, is pulled into the feuds, lineages and territorial order
@@ -39,3 +39,7 @@ placement_history:
     phonemsg 3:47:57 PM)).
   from: vampire-world
   to: oldfangs-fantasy
+- date: '2026-11-10'
+  to: vampire-dynasty-fantasy
+  reason: 'Oldfangs split-with-umbrella (curator phonemsg-01M72PTF4V8MGB1AG51FN9ZM4Y): the vampire order here is the blood
+    family/house.'

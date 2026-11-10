@@ -1,24 +1,16 @@
 id: oldfangs-fantasy
 label: Oldfangs fantasy
 parent: vampire-world
-children: []
-works:
-- generation-v
-- his-fathers-son
-- last-blood
-- twilight-forever-rising
-- vampire-memories
-- the-shadow-world
-- sabina-kane
-- night-huntress-universe
-- the-dark-days-series
-- cassandra-palmer-universe
+children:
+- vampire-dynasty-fantasy
+- vampire-court-fantasy
+works: []
 image: 534-oldfangs-fantasy.webp
 definition: 'Vampire world fantasy told from inside the vampires'' own dynasties: families, covens and orders with lineages,
-  laws and feuds, where the vampires have long been what they are. Split 2026-10-06 from Vampire world at ten fictions
-  (curator "Approved" (2026-10-06 3:56:05 PM) of the posted proposal phonemsg-01M48QYWYR135CH07YWEBKXVPV / phonemsg-01M48QYZS10V6BPSF3AGSM2QPV;
-  names workshopped in his messages 3:47-3:55 PM (Fangs out is his coinage; singular Vampire world is his rename request
-  phonemsg 3:47:57 PM)).'
+  laws and feuds, where the vampires have long been what they are. Split 2026-10-06 from Vampire world at ten fictions (curator
+  "Approved" (2026-10-06 3:56:05 PM) of the posted proposal phonemsg-01M48QYWYR135CH07YWEBKXVPV / phonemsg-01M48QYZS10V6BPSF3AGSM2QPV;
+  names workshopped in his messages 3:47-3:55 PM (Fangs out is his coinage; singular Vampire world is his rename request phonemsg
+  3:47:57 PM)).'
 status: accepted
 ruling: curator "Approved" (phonemsg-01M48R01R1YERM0002ND6VD85R, 2026-10-06 3:56:05 PM) of the posted proposal phonemsg-01M48QYWYR135CH07YWEBKXVPV
   / phonemsg-01M48QYZS10V6BPSF3AGSM2QPV; names workshopped in his messages 3:47-3:55 PM (Fangs out is his coinage; singular
@@ -28,5 +20,10 @@ history:
   change: Moved out to Monster PI,9to8. Whole-five-novel Joe Pitt detective-fiction correction under user grant phonemsg-01M63B6PTVDTX8TZVYPSWGTJGP;
     metadata unchanged.
 - date: '2026-10-29'
-  change: Argeneau moved to approved Nanomedicine fiction after whole37 SF rewalk; 9 to 8 fictions. Curator Approved
-    phonemsg-01M63K1BY3YCSN9H1N87PQVCPZ, 2026-10-29 11:24:37 CET, on proposal phonemsg-01M63K0E8D5QFSMP7ZZ3RP9079.
+  change: Argeneau moved to approved Nanomedicine fiction after whole37 SF rewalk; 9 to 8 fictions. Curator Approved phonemsg-01M63K1BY3YCSN9H1N87PQVCPZ,
+    2026-10-29 11:24:37 CET, on proposal phonemsg-01M63K0E8D5QFSMP7ZZ3RP9079.
+- date: '2026-11-10'
+  change: 'Split-with-umbrella at ten fictions into Vampire dynasty fantasy (5) and Vampire court fantasy (5); curator "Approved"
+    (phonemsg-01M72PTF4V8MGB1AG51FN9ZM4Y, 2026-11-10 1:27:12 PM CET) on the revised block naming Vampire dynasty fantasy (his
+    objection phonemsg-01M72PSBGPZ39YSK3YKP06YECT: "bloodline" could read newfangs). In the same execution the Last Blood
+    card was completed to the full House of Comarre series (5 novels) and renamed.'
