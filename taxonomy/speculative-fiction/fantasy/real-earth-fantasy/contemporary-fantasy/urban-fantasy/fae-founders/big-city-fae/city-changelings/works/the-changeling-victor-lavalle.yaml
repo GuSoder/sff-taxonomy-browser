@@ -3,7 +3,7 @@ title: The Changeling
 authors:
 - Victor LaValle
 first_published: 2017
-canonical_genre: big-city-fae
+canonical_genre: city-changelings
 placement_status: accepted
 placement_rationale: 'Root-down: Fantasy -> Real earth fantasy -> Urban fantasy -> Fae founders. PRH calls it a dark fairy
   tale of New York full of magic, myth and loss; Time and USA Today ground witches, trolls and the old changeling myth remade
@@ -25,3 +25,6 @@ placement_history:
   from: fae-founders
   to: big-city-fae
   reason: 'Split of Fae founders at ten (phonemsg-01M4GFFT79H8HEKZ19P4G9BX2E). Faerie child-substitution in New York: fits.'
+- date: '2026-11-10'
+  to: city-changelings
+  reason: Re-walked in the Big-city fae split (curator "Approved" phonemsg-01M72T41GQHDFJNNB8ZG3XAE4Q).

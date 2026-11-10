@@ -1,18 +1,10 @@
 id: big-city-fae
 label: Big-city fae
 parent: fae-founders
-children: []
-works:
-- war-for-the-oaks
-- october-daye
-- the-changeling-victor-lavalle
-- dreams-and-shadows
-- the-witch-king
-- bedlams-bard
-- the-autumn-castle
-- newford
-- the-last-hot-time
-- the-fever-series
+children:
+- city-changelings
+- city-fae-courts
+works: []
 definition: 'Fae founders set in the big city: old Faerie courts, bargains and changelings surviving inside a modern metropolis,
   with the city as the stage.'
 status: accepted
@@ -21,3 +13,8 @@ ruling: 'Curator split approved ("Approved" phonemsg-01M4GFFT79H8HEKZ19P4G9BX2E,
   Down placed as the tenth.'
 image: 622-big-city-fae.webp
 portrait: 622-big-city-fae.webp
+history:
+- date: '2026-11-10'
+  change: Split-with-umbrella at ten fictions into City changelings (4) and City fae courts (6); curator "Approved" (phonemsg-01M72T41GQHDFJNNB8ZG3XAE4Q,
+    2026-11-10 2:24:52 PM CET) on the block with those exact names (city-feel steer phonemsg-01M72SZYWGH3FB0KJYJWZKEV21; "fantasy"
+    dropped on phonemsg-01M72T241EKVYZ7CSPZ1AKQEH9).
