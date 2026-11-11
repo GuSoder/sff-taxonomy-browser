@@ -4,7 +4,7 @@ authors:
 - Gardner Dozois
 - George Alec Effinger
 first_published: 1975
-canonical_genre: space-hunt
+canonical_genre: galactic-treasure-hunt
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction > Space opera > New
   space opera > Space adventure > Space chase. Per the Baen blurb: the most addictive drug in the universe is sold only by
@@ -36,3 +36,7 @@ placement_history:
   to: space-hunt
   reason: 'Split of Space chase at ten (phonemsg-01M4K7J43GDSDE9TJE4MGY09B6). A detective and an alien ex-servant track the
     drug to its source: the trail is the story.'
+- date: '2026-11-11'
+  from: space-hunt
+  to: galactic-treasure-hunt
+  reason: "Space hunt split at ten cards: curator 'Approved' (phonemsg-01M75BD0CCF1DTBSEX83ZECCGF, 2026-11-11 2:05 PM CET) on the served block Interstellar manhunt / Galactic treasure hunt, by whether the trail leads to a who or a what."

@@ -3,7 +3,7 @@ title: In Fury Born
 authors:
 - David Weber
 first_published: 1992
-canonical_genre: space-hunt
+canonical_genre: interstellar-manhunt
 placement_status: accepted
 placement_rationale: 'Weber''s In Fury Born (2005), the expanded rewrite of Path of the Fury (1992): one story, so one fiction.
   Alicia DeVries, a decorated ex-commando, survives a raid by planet-wrecking pirates who tortured and murdered her family;
@@ -33,3 +33,7 @@ placement_history:
 - date: '2026-10-04'
   to: space-hunt
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-11'
+  from: space-hunt
+  to: interstellar-manhunt
+  reason: "Space hunt split at ten cards: curator 'Approved' (phonemsg-01M75BD0CCF1DTBSEX83ZECCGF, 2026-11-11 2:05 PM CET) on the served block Interstellar manhunt / Galactic treasure hunt, by whether the trail leads to a who or a what."

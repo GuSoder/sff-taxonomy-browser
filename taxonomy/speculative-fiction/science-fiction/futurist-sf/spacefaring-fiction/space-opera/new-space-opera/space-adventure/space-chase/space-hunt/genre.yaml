@@ -1,22 +1,17 @@
 id: space-hunt
 label: Space hunt
 parent: space-chase
-children: []
-works:
-- nightmare-blue
-- red-star-hustle
-- the-billion-worlds
-- man-kzin-wars
-- in-fury-born
-- ambits-run
-- the-universe-after
-- mind-snare
-- rampart-worlds
-- tales-of-the-three-kings
+children:
+- interstellar-manhunt
+- galactic-treasure-hunt
+works: []
 definition: 'Space chase in which the story is following the trail: a tracker, bounty hunter, detective or treasure-seeker
   after a drug, a weapon, a quarry or a hidden hoard, where clues, maps and the next lead drive the story. Not Space dash
   (there the story is the prey''s flight).'
 status: accepted
+history:
+- date: '2026-11-11'
+  change: 'Split 2026-11-11 at ten cards into Interstellar manhunt / Galactic treasure hunt (curator "Approved", phonemsg-01M75BD0CCF1DTBSEX83ZECCGF).'
 ruling: Split approved by the curator ("Execute", phonemsg-01M4K7J43GDSDE9TJE4MGY09B6, 2026-10-10 5:40 PM CEST, over the proposal
   of the hunted and the hunters; Space dash named by him at 5:39 PM after a workshop of escape words). Man-Kzin Wars arrived
   as the tenth card in Space hunt.
