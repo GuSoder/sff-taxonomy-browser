@@ -3,7 +3,7 @@ title: The Memory War
 authors:
 - Karen Osborne
 first_published: 2020
-canonical_genre: big-dumb-relics
+canonical_genre: wreck-delving
 placement_status: accepted
 placement_rationale: SFE calls the sequence Hard SF Space Opera with military elements, set across corporate-dominated inhabited
   space and driven by an ancient alien weapon and civilization. Macmillan centers an interstellar alien war, corporate intrigue,
@@ -38,3 +38,8 @@ placement_history:
     (curator "Ok, approved" (phonemsg-01M46K9QKMFS5P99YSW8ZQFTSF, 2026-10-05 7:55 PM)).
   from: big-dumb-objects
   to: big-dumb-relics
+- date: '2026-11-11'
+  from: big-dumb-relics
+  to: wreck-delving
+  reason: 'Curator ruling (phonemsg-01M75A4AFRHNJCB39DNWFWEBQP): browsers judge by names and books; a salvage pilot working
+    war wreckage reads as Wreck delving. Big dumb relics drops to 9 (watch); Dead/Waking split withdrawn.'
