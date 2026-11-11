@@ -14,11 +14,14 @@ classification_sources:
 intake: 'gap-2022 #277 (LocusRec2023 sweep)'
 cover_curation:
   status: complete
-  source: Apple Books (Saga Doubles edition)
-  selected_url: https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/d6/47/79/d6477998-aae5-0d1a-809e-38bd89bafe3e/9781668099162.jpg/1200x1800bb.jpg
+  source: S&S/Saga Doubles composite jacket, Red Star Hustle half cropped and locally served
+  source_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668099162/red-star-hustle-apprehension-9781668099162_hr.jpg
+  selected_url: covers/red-star-hustle/red-star-hustle.jpg
   shows_english_title: true
-  visually_reviewed_on: '2026-09-28'
-  review_method: batch montage one-pass
+  visually_reviewed_on: '2026-11-11'
+  review_method: 'direct image inspection: RED STAR HUSTLE title and Sam J. Miller byline dominant
+    on the cropped half; replaces the 2026-09-28 pick, which led with the Apprehension (Kowal) side
+    of the tete-beche double.'
 placement_history:
 - date: '2026-09-28'
   to: space-adventure
