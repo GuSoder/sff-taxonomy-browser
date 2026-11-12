@@ -6,12 +6,11 @@ authors:
 - Eric Flint
 - Walter H. Hunt
 first_published: 2018
-canonical_genre: alt-flintlock-fantasy
+canonical_genre: alt-american-flintlock
 placement_status: accepted
-placement_rationale: 'Kevin J. Anderson and Sarah A. Hoyt''s Arcane America (Uncharted): after a magical battle destroys Halley''s
-  Comet in 1759, the Sundering cuts the New World off from the Old and fills America with magic; in 1803 Meriwether Lewis
-  sets out across a changed continent (Baen, Booklist). Openly rewritten history of the musket age and early American frontier,
-  with magic as the engine: Alt flintlock fantasy.'
+placement_rationale: 'Kevin J. Anderson and Sarah A. Hoyt''s Arcane America (Uncharted): after a magical battle destroys Halley''s Comet in 1759, the Sundering cuts
+  the New World off from the Old and fills America with magic; in 1803 Meriwether Lewis sets out across a changed continent (Baen, Booklist). Openly rewritten history
+  of the musket age and early American frontier, with magic as the engine: Alt flintlock fantasy.'
 books:
 - title: Uncharted
   year: 2018
@@ -32,10 +31,12 @@ placement_history:
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
 - date: '2026-10-07'
   to: alt-flintlock-fantasy
-  reason: 'Council of Fire folds into existing Arcane America under shared-universe rule 11j. Root-down: speculative fiction
-    > fantasy (real magic) > real-earth fantasy (American history) > historical fantasy > alternate-history fantasy (1759
-    Sundering openly rewrites history) > Alt flintlock fantasy (musket-age America). Not secret history, invented-world dynastic
-    fantasy, or SF alternate history: magic transforms the world.'
+  reason: 'Council of Fire folds into existing Arcane America under shared-universe rule 11j. Root-down: speculative fiction > fantasy (real magic) > real-earth fantasy
+    (American history) > historical fantasy > alternate-history fantasy (1759 Sundering openly rewrites history) > Alt flintlock fantasy (musket-age America). Not
+    secret history, invented-world dynastic fantasy, or SF alternate history: magic transforms the world.'
+- date: '2026-11-12'
+  to: alt-american-flintlock
+  reason: 'Moved in the Alt flintlock split (curator "Approved", phonemsg-01M7757167N7C4BRYXM45ZE537): Alt American flintlock / Alt European flintlock as served.'
 sources:
 - https://www.baen.com/council-of-fire.html
 cover_reviews:

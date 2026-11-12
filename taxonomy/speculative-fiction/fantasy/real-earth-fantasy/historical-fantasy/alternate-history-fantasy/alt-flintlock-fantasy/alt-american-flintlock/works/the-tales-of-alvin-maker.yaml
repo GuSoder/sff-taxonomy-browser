@@ -4,7 +4,7 @@ authors:
 - Orson Scott Card
 first_published: 1987
 last_published: 2003
-canonical_genre: alt-flintlock-fantasy
+canonical_genre: alt-american-flintlock
 placement_status: accepted
 included_titles:
 - Seventh Son
@@ -41,3 +41,6 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/historical-fantasy/alternate-history-fantasy to match live tree; placement unchanged on
     site.'
   previous_canonical_genre: alternate-history-fantasy
+- date: '2026-11-12'
+  to: alt-american-flintlock
+  reason: 'Moved in the Alt flintlock split (curator "Approved", phonemsg-01M7757167N7C4BRYXM45ZE537): Alt American flintlock / Alt European flintlock as served.'

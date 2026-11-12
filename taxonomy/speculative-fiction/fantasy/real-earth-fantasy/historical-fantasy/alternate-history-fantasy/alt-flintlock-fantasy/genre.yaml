@@ -1,22 +1,18 @@
 id: alt-flintlock-fantasy
 label: Alt flintlock fantasy
 parent: alternate-history-fantasy
-children: []
+children:
+- alt-american-flintlock
+- alt-european-flintlock
 image: 330-alt-flintlock-fantasy.webp
-definition: 'Alternate history fantasy of the musket age, roughly the 17th century to the Napoleonic and Regency years, in Europe and
-  the early American frontier: armies, courts and empires of powder and sail, and magic is the engine: history is openly rewritten and
-  the world runs on magic.'
+definition: 'Alternate history fantasy of the musket age, roughly the 17th century to the Napoleonic and Regency years, in
+  Europe and the early American frontier: armies, courts and empires of powder and sail, and magic is the engine: history
+  is openly rewritten and the world runs on magic.'
 status: accepted
-ruling: Created by the curator's 2026-09-23 23:01 ruling ("Lock that in too, Alt Spice Route fantasy also. Alt Diesel fantasy is also
-  ok, execute?"); names locked by him.
-works:
-- the-tales-of-alvin-maker
-- temeraire
-- sorcerer-royal
-- angel-mage
-- arcane-america
-- the-witchy-war
-- the-shadow-histories
-- the-book-of-gold
-- the-geomagician-duology
-- the-spiritwalker-trilogy
+ruling: Created by the curator's 2026-09-23 23:01 ruling ("Lock that in too, Alt Spice Route fantasy also. Alt Diesel fantasy
+  is also ok, execute?"); names locked by him.
+works: []
+history:
+- date: '2026-11-12'
+  change: Split 2026-11-12 at ten cards into Alt American flintlock / Alt European flintlock, 3/7 mapping as served (curator
+    "Approved", phonemsg-01M7757167N7C4BRYXM45ZE537).

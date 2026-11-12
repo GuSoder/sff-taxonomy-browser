@@ -4,7 +4,7 @@ authors:
 - Naomi Novik
 first_published: 2006
 last_published: 2016
-canonical_genre: alt-flintlock-fantasy
+canonical_genre: alt-european-flintlock
 placement_status: accepted
 included_titles:
 - His Majesty's Dragon
@@ -46,3 +46,6 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/historical-fantasy/alternate-history-fantasy to match live tree; placement unchanged on
     site.'
   previous_canonical_genre: alternate-history-fantasy
+- date: '2026-11-12'
+  to: alt-european-flintlock
+  reason: 'Moved in the Alt flintlock split (curator "Approved", phonemsg-01M7757167N7C4BRYXM45ZE537): Alt American flintlock / Alt European flintlock as served.'

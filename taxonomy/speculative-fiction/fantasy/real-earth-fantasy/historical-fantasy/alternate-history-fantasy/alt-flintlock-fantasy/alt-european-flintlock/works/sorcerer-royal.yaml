@@ -4,7 +4,7 @@ subtitle: Sorcerer to the Crown / The True Queen
 authors:
 - Zen Cho
 first_published: 2015
-canonical_genre: alt-flintlock-fantasy
+canonical_genre: alt-european-flintlock
 placement_status: accepted
 placement_rationale: 'Root-down: SFE explicitly identifies an Alternate History Regency Britain where magic is openly practiced and England trades with Fairyland;
   PRH/Pan Macmillan center its Sorcerer Royal, magical institutions, declining magic, Faerie politics and a contender for Fairy''s throne. This passes Fantasy ->
@@ -28,3 +28,7 @@ books:
 - title: The True Queen
   first_published: 2019
   cover_url: https://images1.penguinrandomhouse.com/cover/9780425283417
+placement_history:
+- date: '2026-11-12'
+  to: alt-european-flintlock
+  reason: 'Moved in the Alt flintlock split (curator "Approved", phonemsg-01M7757167N7C4BRYXM45ZE537): Alt American flintlock / Alt European flintlock as served.'
