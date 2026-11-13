@@ -3,10 +3,10 @@ title: Realm Breaker
 authors:
 - Victoria Aveyard
 first_published: 2021
-canonical_genre: revival-quest-fantasy
+canonical_genre: reimagined-quest-fantasy
 placement_status: accepted
-placement_rationale: Corayne, last of a forgotten blood, and a ragtag band of Companions cross the realm to stop the darkness
-  tearing the world apart; the company on the road is the engine.
+placement_rationale: Corayne, last of a forgotten blood, and a ragtag band of Companions cross the realm to stop the darkness tearing the world apart; the company
+  on the road is the engine.
 books:
 - title: Realm Breaker
   year: 2021
@@ -29,7 +29,11 @@ placement_history:
   to: fellowship-quest-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
 - date: '2026-10-06'
-  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Revival quest fantasy (curator
-    "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).
+  reason: Split of Fellowship quest fantasy by era and sensibility; re-walked root-down into Revival quest fantasy (curator "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5,
+    2026-10-06 8:39 AM)).
   from: fellowship-quest-fantasy
   to: revival-quest-fantasy
+- date: '2026-11-13'
+  to: reimagined-quest-fantasy
+  reason: 'Moved in the Revival quest fantasy split (curator "Approved", phonemsg-01M7A8VM16T4DPNBV4H6A05QZA): Reimagined quest fantasy / Throwback quest fantasy
+    as served.'

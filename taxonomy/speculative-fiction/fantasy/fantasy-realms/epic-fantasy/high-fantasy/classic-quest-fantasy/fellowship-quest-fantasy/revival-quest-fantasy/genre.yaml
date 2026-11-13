@@ -1,21 +1,17 @@
 id: revival-quest-fantasy
 label: Revival quest fantasy
 parent: fellowship-quest-fantasy
-children: []
-works:
-- quest-for-the-fallen-star
-- realm-breaker
-- the-sorcerers-song
-- the-annals-of-lindormyn
-- the-symphony-of-ages
-- the-book-of-forbidden-wisdom
-- the-elder-scrolls-the-infernal-city
-- the-tides-of-fate
-- moonfall
-- the-witch-roads
+children:
+- reimagined-quest-fantasy
+- throwback-quest-fantasy
 image: 522-revival-quest-fantasy.webp
 definition: 'Fellowship quest fantasy of the later revival: the companions'' journey against the ancient dark rebuilt for
   new readers and casts, from the late 1990s on. Split 2026-10-06 from Fellowship quest fantasy at nine fictions (curator
   "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)).'
 status: accepted
 ruling: curator "Approved" (phonemsg-01M47Z08P4BX8552H5Z14PCQA5, 2026-10-06 8:39 AM)
+works: []
+history:
+- date: '2026-11-13'
+  change: Split 2026-11-13 at ten cards into Reimagined quest fantasy / Throwback quest fantasy, 5/5 sensibility split as
+    served (curator "Approved", phonemsg-01M7A8VM16T4DPNBV4H6A05QZA).
