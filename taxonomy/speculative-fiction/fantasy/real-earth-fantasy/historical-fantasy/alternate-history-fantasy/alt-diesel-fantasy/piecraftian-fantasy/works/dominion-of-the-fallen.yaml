@@ -4,7 +4,7 @@ authors:
 - Aliette de Bodard
 first_published: 2015
 last_published: 2019
-canonical_genre: alt-diesel-fantasy
+canonical_genre: piecraftian-fantasy
 placement_status: accepted
 placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Real earth fantasy -> Historical fantasy -> Alternate history fantasy. The author grounds
   a Paris devastated by a magical war, governed by rival Houses of Fallen angels, magicians and dragons; the openly rewritten world and magical politics govern over
@@ -32,3 +32,8 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-22'
   review_method: one-pass complete series review
+placement_history:
+- date: '2026-11-14'
+  from: alt-diesel-fantasy
+  to: piecraftian-fantasy
+  reason: Alt diesel fantasy split at ten cards; curator "Approved" (phonemsg-01M7DMQ4Z7DMSXE02DEY0RH48N).

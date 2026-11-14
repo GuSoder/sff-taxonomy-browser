@@ -3,7 +3,7 @@ title: Dead Djinn Universe
 authors:
 - P. Djèlí Clark
 first_published: 2016
-canonical_genre: alt-diesel-fantasy
+canonical_genre: ottensian-fantasy
 placement_status: accepted
 placement_rationale: SFE calls the Ministry of Alchemy sequence detective fiction in an Alternate-World Egypt where supernatural creatures interact with society.
   Clark's official synopsis says al-Jahiz opened the veil between magical and mundane realms forty years before 1912, transforming the world; working magic openly
@@ -32,3 +32,7 @@ placement_history:
   note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/fantasy-realms/epic-fantasy/historical-fantasy/alternate-history-fantasy to match live
     tree; placement unchanged on site.'
   previous_canonical_genre: alternate-history-fantasy
+- date: '2026-11-14'
+  from: alt-diesel-fantasy
+  to: ottensian-fantasy
+  reason: Alt diesel fantasy split at ten cards; curator "Approved" (phonemsg-01M7DMQ4Z7DMSXE02DEY0RH48N).

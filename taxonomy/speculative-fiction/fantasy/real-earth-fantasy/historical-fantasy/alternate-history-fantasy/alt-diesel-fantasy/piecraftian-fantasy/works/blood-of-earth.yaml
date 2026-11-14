@@ -3,12 +3,11 @@ title: Blood of Earth
 authors:
 - Beth Cato
 first_published: 2016
-canonical_genre: alt-diesel-fantasy
+canonical_genre: piecraftian-fantasy
 placement_status: accepted
-placement_rationale: 'Alternate 1906 San Francisco where geomancers hold the earthquakes at bay and the United Pacific alliance
-  of Japan and America is at war with China; magic is the engine of a rewritten early-machine-age history, told across the
-  Blood of Earth trilogy (Breath of Earth, Call of Fire, Roar of Sky). Walked root-down: Fantasy -> Alternate history fantasy
-  -> Alt diesel fantasy.'
+placement_rationale: 'Alternate 1906 San Francisco where geomancers hold the earthquakes at bay and the United Pacific alliance of Japan and America is at war with
+  China; magic is the engine of a rewritten early-machine-age history, told across the Blood of Earth trilogy (Breath of Earth, Call of Fire, Roar of Sky). Walked
+  root-down: Fantasy -> Alternate history fantasy -> Alt diesel fantasy.'
 books:
 - title: Breath of Earth
   year: 2016
@@ -30,3 +29,7 @@ placement_history:
 - date: '2026-10-04'
   to: alt-diesel-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-14'
+  from: alt-diesel-fantasy
+  to: piecraftian-fantasy
+  reason: Alt diesel fantasy split at ten cards; curator "Approved" (phonemsg-01M7DMQ4Z7DMSXE02DEY0RH48N).
