@@ -3,7 +3,7 @@ title: The Brotherhood of the Wheel
 authors:
 - R. S. Belcher
 first_published: 2016
-canonical_genre: magic-counter-ops
+canonical_genre: templar-fantasy
 placement_status: accepted
 placement_rationale: 'The Templars went underground as the Brethren, a network of truckers and state troopers who secretly
   guard the American highways against serial killers, murder cults and monsters. A hidden service that contains occult threats:
@@ -30,3 +30,7 @@ placement_history:
   from: occult-secret-service
   to: magic-counter-ops
   reason: 'Split of Occult secret service by what the service fights (curator "Approved" (phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP, 2026-10-27 4:01 PM CET) over the posted 2/2/6 threat-axis split; the counter ops names are his, refined from his Threat Unit coinages in the same thread).'
+- date: '2026-11-15'
+  from: magic-counter-ops
+  to: templar-fantasy
+  reason: Split of Magic counter ops at ten cards into Spook fantasy / Templar fantasy / Sorcerer's society (curator's own axis and names, phonemsg-01M7G94A2QAQ9GS0DE4C5JGF2W).

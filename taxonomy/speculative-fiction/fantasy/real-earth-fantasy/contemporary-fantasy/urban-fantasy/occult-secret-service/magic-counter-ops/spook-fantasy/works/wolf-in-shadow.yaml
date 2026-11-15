@@ -3,7 +3,7 @@ title: Wolf in Shadow
 authors:
 - John Lambshead
 first_published: 2013
-canonical_genre: magic-counter-ops
+canonical_genre: spook-fantasy
 placement_status: accepted
 placement_rationale: 'Standalone novel (Baen 2013; no sequel in publisher or ISFDB listings). Modern East End London: the
   layers of two thousand years of violent history slide over one another and spill out in avalanches that warp the real world;
@@ -31,3 +31,7 @@ placement_history:
 - date: '2026-11-03'
   to: magic-counter-ops
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-15'
+  from: magic-counter-ops
+  to: spook-fantasy
+  reason: Split of Magic counter ops at ten cards into Spook fantasy / Templar fantasy / Sorcerer's society (curator's own axis and names, phonemsg-01M7G94A2QAQ9GS0DE4C5JGF2W).

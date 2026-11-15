@@ -1,18 +1,11 @@
 id: magic-counter-ops
 label: Magic counter ops
 parent: occult-secret-service
-children: []
-works:
-- the-rook-files
-- knight-watch
-- the-brotherhood-of-the-wheel
-- pax-arcana
-- twenty-palaces
-- unorthodox-chronicles
-- city-of-others
-- jaz-parks
-- wolf-in-shadow
-- nola-ogrady
+children:
+- spook-fantasy
+- templar-fantasy
+- sorcerers-society
+works: []
 image: 829-magic-counter-ops.webp
 definition: 'Occult secret service whose enemy is dangerous magic itself: rogue sorcerers, magical outbreaks and mythic creatures crossing
   into the world. Not Eldritch counter ops (cosmic outsiders) and not Demon counter ops (the diabolic).'
@@ -22,3 +15,5 @@ ruling: curator "Approved" (phonemsg-01M5YY46GJ4DNZSJYN0CTAD9EP, 2026-10-27 4:01
 history:
 - date: '2026-10-27'
   change: Split out of Occult secret service at ten cards by what the service fights (same approval).
+- date: '2026-11-15'
+  change: Split 2026-11-15 at ten cards into Spook fantasy (6) / Templar fantasy (3) / Sorcerer's society (1) on the curator's own axis and names (phonemsg-01M7G94A2QAQ9GS0DE4C5JGF2W); stays on as pure umbrella.

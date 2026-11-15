@@ -3,7 +3,7 @@ title: Nola O'Grady
 authors:
 - Katharine Kerr
 first_published: 2011
-canonical_genre: magic-counter-ops
+canonical_genre: spook-fantasy
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real-earth fantasy > Contemporary fantasy > Urban fantasy
   > Occult secret service > Magic counter ops. Present-day San Francisco: Nola O''Grady is a psychic agent of an Agency ''so
@@ -37,3 +37,7 @@ placement_history:
 - date: '2026-11-14'
   to: magic-counter-ops
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-15'
+  from: magic-counter-ops
+  to: spook-fantasy
+  reason: Split of Magic counter ops at ten cards into Spook fantasy / Templar fantasy / Sorcerer's society (curator's own axis and names, phonemsg-01M7G94A2QAQ9GS0DE4C5JGF2W).
