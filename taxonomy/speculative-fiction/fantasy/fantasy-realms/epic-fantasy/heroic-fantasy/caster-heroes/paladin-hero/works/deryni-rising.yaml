@@ -1,8 +1,9 @@
 id: deryni-rising
-title: Deryni Rising
+title: The Deryni universe
 authors:
 - Katherine Kurtz
 first_published: 1970
+last_published: 2014
 canonical_genre: paladin-hero
 placement_status: accepted
 placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches Paladin Hero, not merely the setting or tone.'
@@ -20,5 +21,57 @@ books:
 - title: High Deryni
   year: 1973
   cover_url: https://covers.openlibrary.org/b/id/2404612-L.jpg
+- id: camber-of-culdi
+  title: Camber of Culdi
+  year: 1976
+  cover: 4998640
+- id: saint-camber
+  title: Saint Camber
+  year: 1978
+  cover: 11081972
+- id: camber-the-heretic
+  title: Camber the Heretic
+  year: 1981
+  cover: 206923
+- id: the-bishops-heir
+  title: The Bishop's Heir
+  year: 1984
+  cover: 13116110
+- id: the-kings-justice
+  title: The King's Justice
+  year: 1985
+  cover: 10201090
+- id: the-quest-for-saint-camber
+  title: The Quest for Saint Camber
+  year: 1986
+  cover: 11449933
+- id: the-harrowing-of-gwynedd
+  title: The Harrowing of Gwynedd
+  year: 1989
+  cover: 4056506
+- id: king-javans-year
+  title: King Javan's Year
+  year: 1992
+  cover: 7000806
+- id: the-bastard-prince
+  title: The Bastard Prince
+  year: 1994
+  cover: 7007773
+- id: king-kelsons-bride
+  title: King Kelson's Bride
+  year: 2000
+  cover: 283849
+- id: in-the-kings-service
+  title: In the King's Service
+  year: 2003
+  cover: 284088
+- id: childe-morgan
+  title: Childe Morgan
+  year: 2006
+  cover: 284257
+- id: the-kings-deryni
+  title: The King's Deryni
+  year: 2014
+  cover: 8740932
 cover_curation:
   audit_2026_09_23: 'Series cover audit: one Open Library author search, single pass, reviewed by eye.'
