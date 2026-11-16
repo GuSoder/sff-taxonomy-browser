@@ -5,6 +5,7 @@ status: umbrella
 definition: Pure umbrella for survival fiction set in the catastrophe’s living aftermath, partitioned by defining cause where
   named and by the governing wasteland condition where causes are mixed or unspecified.
 children:
+- post-freeze-survival
 - post-pandemic-survival
 - post-nuclear-survival
 - terminal-wastelands
@@ -12,3 +13,5 @@ children:
 - post-infestation-survival
 image: 115-post-holocaust-survival.webp
 works: []
+- date: '2026-11-16'
+  change: Post-freeze survival seeded by the curator (phonemsg-01M7HKHQAWN7T0RZ9PVXM1E3R9).
