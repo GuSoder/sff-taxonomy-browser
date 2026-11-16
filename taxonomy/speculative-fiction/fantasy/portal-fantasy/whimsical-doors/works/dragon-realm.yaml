@@ -1,0 +1,39 @@
+id: dragon-realm
+title: Dragon Realm
+authors:
+- Katie Tsang
+- Kevin Tsang
+first_published: 2020
+canonical_genre: whimsical-doors
+placement_status: accepted
+placement_rationale: Complete 5-novel MG series (Dragon Mountain 2020, Dragon Legend 2021, Dragon City 2021, Dragon Rising
+  2022, Dragon Destiny 2022, S&S; the 2023 World Book Day special is a short, excluded). Billy Chan and friends pass through
+  the dragon cave in the mountains of China into the Dragon Realm - an anchored physical threshold and a bright, child-friendly
+  adventure, the whimsical-doors gate verbatim.
+books:
+- title: Dragon Mountain
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10968180-L.jpg
+- title: Dragon Legend
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11944014-L.jpg
+- title: Dragon City
+  year: 2021
+  cover_url: https://images-us.bookshop.org/ingram/9781454936015.jpg
+- title: Dragon Rising
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13812795-L.jpg
+- title: Dragon Destiny
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/15258976-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10968180-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids dragon-mountain, dragon-legend, dragon-city, dragon-rising, dragon-destiny)
+placement_history:
+- date: '2026-11-16'
+  to: whimsical-doors
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

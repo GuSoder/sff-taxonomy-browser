@@ -1,0 +1,32 @@
+id: the-desert-rising-series
+title: The Desert Rising series
+authors:
+- Kelley Grant
+first_published: 2015
+canonical_genre: invented-worship
+placement_status: accepted
+placement_rationale: 'Complete trilogy (Desert Rising 2015, The Obsidian Temple 2015, The World Weavers 2016, Harper Voyager
+  Impulse). Secondary-world desert fantasy whose heart is its invented religion: squabbling deities, the all-powerful One,
+  temple politics and feli cats who channel the gods'' voices - a mythology built from scratch, not a real-world retelling
+  (PW starred: ''squabbling deities and cultural clashes form the heart'').'
+books:
+- title: Desert Rising
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/10310550-L.jpg
+- title: The Obsidian Temple
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/12576038-L.jpg
+- title: The World Weavers
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10376720-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10310550-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids desert-rising, the-obsidian-temple, the-world-weavers)
+placement_history:
+- date: '2026-11-16'
+  to: invented-worship
+  reason: 'Intake from the 10k list: placed by a root-down walk (initially dropped on the Invented mythology umbrella, moved to the Invented worship leaf on verify failure) (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

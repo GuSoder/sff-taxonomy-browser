@@ -1,0 +1,31 @@
+id: wicked-games
+title: Wicked Games
+authors:
+- Kaylie Smith
+first_published: 2024
+canonical_genre: magic-bond-romantasy
+placement_status: accepted
+placement_rationale: 'Complete trilogy (Phantasma 2024, Enchantra 2025, Daemonica 2026, Forever). Deadly supernatural games
+  frame each book, but the spine is the romance: in Phantasma, Ophelia seals a blood bargain with the phantom Blackwell -
+  a supernatural bargain that binds the lovers, the magic-bond gate verbatim (''a crossroads bargain sealed by magic'').'
+books:
+- title: Phantasma
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14842920-L.jpg
+- title: Enchantra
+  year: 2025
+  cover_url: https://covers.openlibrary.org/b/id/15115281-L.jpg
+- title: Daemonica
+  year: 2026
+  cover_url: https://images-us.bookshop.org/ingram/9781538774816.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14842920-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids phantasma, enchantra, daemonica)
+placement_history:
+- date: '2026-11-16'
+  to: magic-bond-romantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
