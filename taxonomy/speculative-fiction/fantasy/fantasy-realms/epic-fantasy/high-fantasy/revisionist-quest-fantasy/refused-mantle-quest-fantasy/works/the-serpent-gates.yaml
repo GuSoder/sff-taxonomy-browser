@@ -3,9 +3,11 @@ title: The Serpent Gates
 authors:
 - A. K. Larkwood
 first_published: 2020
-canonical_genre: revisionist-quest-fantasy
+canonical_genre: refused-mantle-quest-fantasy
 placement_status: accepted
-placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> High fantasy -> Revisionist quest fantasy. Tor calls it an epic fantasy quest about an orc priestess rejecting ordained sacrifice to become a wizard’s assassin; gods, debts and a stolen holy relic revise heroic destiny around coercion, loyalty and betrayal.'
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> High fantasy ->
+  Revisionist quest fantasy. Tor calls it an epic fantasy quest about an orc priestess rejecting ordained sacrifice to become
+  a wizard’s assassin; gods, debts and a stolen holy relic revise heroic destiny around coercion, loyalty and betrayal.'
 classification_sources:
 - https://torpublishinggroup.com/the-serpent-gates/?format=ebook&isbn=9781250372390
 - https://us.macmillan.com/series/theserpentgates
@@ -31,3 +33,9 @@ book_covers:
   - title: The Thousand Eyes
     year: 2022
     cover_url: cover-the-thousand-eyes.jpg
+placement_history:
+- date: '2026-11-16'
+  to: refused-mantle-quest-fantasy
+  from: revisionist-quest-fantasy
+  reason: Re-walked in the freeze split of Revisionist quest fantasy at ten, curator approval phonemsg-01M7JRHFN6XG1A7AHM0EDPRMS1
+    (2026-11-16 7:05 PM CET, "I said approved!" - earlier approval lost in transit) of the served split proposal.

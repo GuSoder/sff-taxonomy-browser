@@ -5,15 +5,10 @@ definition: Quest narratives that keep the journey while interrogating, reversin
   template and its ideals.
 image: 255-revisionist-quest-fantasy.webp
 status: accepted
-children: []
-works:
-- the-last-unicorn
-- salvation-s-fire
-- tess-of-the-road
-- the-breath-of-the-sun
-- the-serpent-gates
-- the-lands-of-the-firstborn
-- the-nightward
-- a-chorus-of-dragons
-- tales-of-the-forever-sea
-- shroud-of-prophecy
+children:
+- refused-mantle-quest-fantasy
+- aftermath-quest-fantasy
+works: []
+history:
+- date: '2026-11-16'
+  change: "Split at ten cards into Refused-mantle quest fantasy (5: the appointed role refused, lost or broken) and Aftermath quest fantasy (5: the story begins where the classic quest ends); split-with-umbrella, this node keeps the def and prior history. Curator 'I said approved!' (phonemsg-01M7JRHFN6XG1A7AHM0EDPRMS1, 2026-11-16 7:05 PM CET; his earlier approval was lost in transit) of the served proposal; names as proposed."

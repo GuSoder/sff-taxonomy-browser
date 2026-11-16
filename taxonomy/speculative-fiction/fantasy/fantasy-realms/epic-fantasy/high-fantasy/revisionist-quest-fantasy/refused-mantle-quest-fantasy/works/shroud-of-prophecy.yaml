@@ -3,7 +3,7 @@ title: Shroud of Prophecy
 authors:
 - Kel Kade
 first_published: 2019
-canonical_genre: revisionist-quest-fantasy
+canonical_genre: refused-mantle-quest-fantasy
 placement_status: accepted
 placement_rationale: 'Complete trilogy (Fate of the Fallen 2019, Destiny of the Dead 2022, Sanctum of the Soul 2025, Tor).
   The chosen one Mathias dies at the start and his best friend Aaslo, an ordinary forester, must carry the world-saving journey
@@ -30,3 +30,8 @@ placement_history:
 - date: '2026-11-16'
   to: revisionist-quest-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-16'
+  to: refused-mantle-quest-fantasy
+  from: revisionist-quest-fantasy
+  reason: Re-walked in the freeze split of Revisionist quest fantasy at ten, curator approval phonemsg-01M7JRHFN6XG1A7AHM0EDPRMS1
+    (2026-11-16 7:05 PM CET, "I said approved!" - earlier approval lost in transit) of the served split proposal.
