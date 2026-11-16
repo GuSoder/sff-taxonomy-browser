@@ -1,18 +1,18 @@
 id: modern-african-myth
 name: Modern African myth
-definition: 'Contemporary mythic fantasy rooted in West African traditions and their Caribbean diaspora: the Orisha of the
-  Yoruba tradition, the Anansi spider-trickster tradition of West Africa and the Caribbean, and the figures of Jamaican
-  myth and folklore. Bundled from the tradition leaves on the curator''s approval (phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB,
-  2026-10-27), grouping the umbrella''s children by their ethnical or geographical roots.'
+definition: 'Contemporary mythic fantasy rooted in African traditions and their diaspora: the Orisha of the Yoruba tradition, the Anansi spider-trickster tradition of West Africa and the Caribbean, the figures of Jamaican myth and folklore, and the gods and revenants of ancient Egypt. Bundled from the tradition leaves on the curator''s approval (phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB, 2026-10-27), grouping the umbrella''s children by their ethnical or geographical roots; Egyptian moved inside the African umbrella by his ruling (phonemsg-01M7HD0D4GKV9X56YTJKE6A4W1, 2026-11-16).'
 parent: contemporary-mythic-fantasy
 label: Modern African myth
 children:
 - modern-orisha-myth
 - modern-anansi-myth
 - modern-jamaican-myth
+- modern-egyptian-myth
 image: 821-modern-african-myth.webp
 status: provisional
 works: []
 history:
 - date: '2026-10-27'
   change: Seeded as a bundle half-umbrella (West African roots and Caribbean diaspora) under Contemporary mythic fantasy, curator phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB.
+- date: '2026-11-16'
+  change: Modern Egyptian myth seeded inside this umbrella by the curator's ruling (phonemsg-01M7HD0D4GKV9X56YTJKE6A4W1); definition widened from West African + Caribbean diaspora to all African traditions.
