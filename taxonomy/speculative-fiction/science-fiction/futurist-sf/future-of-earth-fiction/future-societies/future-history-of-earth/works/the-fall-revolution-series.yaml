@@ -1,0 +1,36 @@
+id: the-fall-revolution-series
+title: The Fall Revolution series
+authors:
+- Ken MacLeod
+first_published: 1995
+canonical_genre: future-history-of-earth
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist SF > Future of Earth fiction > Future societies > Future history of
+  Earth. Four linked novels tracing a sustained future course of Earth and Earthbound humanity: balkanized 21st-century Britain
+  and its mercenaries (The Star Fraction), the aftermath out to New Mars (The Stone Canal), the 24th-century Solar Union''s
+  standoff with the posthuman Outwarders (The Cassini Division), and a divergent alternate future of a green counter-revolution
+  (The Sky Road). Prometheus Award winners; idea-driven political futures of the human race. Solar-system scale, not interstellar.'
+books:
+- title: The Star Fraction
+  year: 1995
+  cover_url: https://covers.openlibrary.org/b/id/77433-L.jpg
+- title: The Stone Canal
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/77435-L.jpg
+- title: The Cassini Division
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/183194-L.jpg
+- title: The Sky Road
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/909048-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/77433-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids the-star-fraction, the-stone-canal, MC05448, MC05453)
+placement_history:
+- date: '2026-11-16'
+  to: future-history-of-earth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
