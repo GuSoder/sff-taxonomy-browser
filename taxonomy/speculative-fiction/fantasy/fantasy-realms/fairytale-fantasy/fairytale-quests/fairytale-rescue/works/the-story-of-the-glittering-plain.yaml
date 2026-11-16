@@ -1,0 +1,27 @@
+id: the-story-of-the-glittering-plain
+title: The Story of the Glittering Plain
+authors:
+- William Morris
+first_published: 1891
+canonical_genre: fairytale-rescue
+placement_status: accepted
+placement_rationale: 'Actual-tree walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> High fantasy ->
+  Fairytalesque quest fantasy. The Morris Archive places Hallblithe in a wholly imagined romance-world; his stolen beloved
+  sends him through northern islands to the immortal Glittering Plain. Abduction, enchanted undying land and impossible rescue
+  quest supply original fairy-tale grammar.'
+classification_sources:
+- http://morrisarchive.lib.uiowa.edu/introduction-glitteringplain
+- https://www.gutenberg.org/ebooks/2565
+cover_curation:
+  status: complete
+  source: Project Gutenberg exact-title edition
+  selected_url: cover-the-story-of-the-glittering-plain.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-09-22'
+  review_method: one-pass exact-title review
+placement_history:
+- date: '2026-11-16'
+  to: fairytale-rescue
+  from: fairytalesque-quest-fantasy
+  reason: 'Re-walked in the curator restructure: Fairytale quests split at ten into his named leaves, curator ruling phonemsg-01M7HR9TZ9XTRE35KPMGYB7QE2
+    (2026-11-16 9:41 AM CET, his own restructure and coinages: Fairytale quests / Fairytale rescue / Fairytale curselifts).'

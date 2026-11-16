@@ -3,7 +3,7 @@ title: Marabel and the Book of Fate
 authors:
 - Tracy Barrett
 first_published: 2018
-canonical_genre: fairytalesque-quest-fantasy
+canonical_genre: fairytale-rescue
 placement_status: accepted
 placement_rationale: Princess Marabel of Magikos sets out on a quest to save her twin brother, in an original kingdom with
   a unicorn, a fate-book and fairy-tale rules; an impossible task and enchanted objects drive it.
@@ -22,3 +22,8 @@ placement_history:
 - date: '2026-10-04'
   to: fairytalesque-quest-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-16'
+  to: fairytale-rescue
+  from: fairytalesque-quest-fantasy
+  reason: 'Re-walked in the curator restructure: Fairytale quests split at ten into his named leaves, curator ruling phonemsg-01M7HR9TZ9XTRE35KPMGYB7QE2
+    (2026-11-16 9:41 AM CET, his own restructure and coinages: Fairytale quests / Fairytale rescue / Fairytale curselifts).'

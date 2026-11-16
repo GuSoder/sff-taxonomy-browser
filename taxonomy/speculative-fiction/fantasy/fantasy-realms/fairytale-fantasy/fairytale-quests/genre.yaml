@@ -1,0 +1,14 @@
+id: fairytale-quests
+label: Fairytale quests
+parent: fairytale-fantasy
+definition: Original-world quests shaped by fairy-tale grammar - curses, impossible tasks, witches and enchanted objects - without retelling a specific inherited
+  tale.
+image: 256-fairytale-quests.webp
+status: accepted
+children:
+- fairytale-rescue
+- fairytale-curselifts
+works: []
+history:
+- date: '2026-11-16'
+  change: "Moved from High fantasy to under Fairytale fantasy, renamed Fairytale quests, and split at ten cards into Fairytale rescue (5: person-recovery quests) and Fairytale curselifts (5: curse-breaking quests); split-with-umbrella, this node keeps the original def and prior history. Curator's own restructure and coinages (ruling phonemsg-01M7HR9TZ9XTRE35KPMGYB7QE2, 2026-11-16 9:41 AM CET). Old id fairytalesque-quest-fantasy retired; old #fairytalesque-quest-fantasy fragment dies with the rename (accepted by the curator)."
