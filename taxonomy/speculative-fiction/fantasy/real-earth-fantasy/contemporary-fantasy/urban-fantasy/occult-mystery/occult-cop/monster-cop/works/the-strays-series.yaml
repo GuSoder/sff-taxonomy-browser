@@ -1,0 +1,30 @@
+id: the-strays-series
+title: The Strays series
+authors:
+- Kelly Meding
+first_published: 2018
+canonical_genre: monster-cop
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real earth fantasy > Contemporary fantasy > Urban fantasy > Occult mystery > Occult
+  cop > Monster cop. Shiloh Harrison, a half-djinn U.S. Marshal in the federal Paranormal Investigators Unit, works cases
+  in an openly paranormal America: vampires snatched and frightened in book one, werewolves going missing in book two, with
+  skinwalkers, incubi, goddesses and fae policed alongside. A sworn unit with badges and bureaucracy in an open many-species
+  world.'
+books:
+- title: Stray Magic
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8814939-L.jpg
+- title: Stray Moon
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/8652969-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8814939-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05427, MC05428)
+placement_history:
+- date: '2026-11-16'
+  to: monster-cop
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

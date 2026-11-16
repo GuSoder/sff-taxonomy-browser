@@ -1,0 +1,34 @@
+id: the-engines-of-light-trilogy
+title: The Engines of Light trilogy
+authors:
+- Ken MacLeod
+first_published: 2000
+canonical_genre: star-alliance-chronicles
+placement_status: accepted
+placement_rationale: 'Walk: Science fiction > Futurist SF > Spacefaring fiction > Future history in space > Star alliance
+  chronicles. From a mid-21st-century socialist Europe''s first contact with alien cosmonauts to the far side of the galaxy,
+  where Earth-descended colonists in the Second Sphere trade and scheme among saurs, krakens, the merchant empire of Nova
+  Babylonia and the galaxy''s god-like older powers. Across the trilogy the changing relations among these distinct peoples
+  and powers govern, over two centuries of interstellar civilizational course. Not first contact alone: two of three volumes
+  are far-future Second Sphere books, and the near-future contact is the origin story of the alliance politics.'
+books:
+- title: Cosmonaut Keep
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/886084-L.jpg
+- title: Dark Light
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/886120-L.jpg
+- title: Engine City
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/524109-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/886084-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05440, MC05441, engine-city)
+placement_history:
+- date: '2026-11-16'
+  to: star-alliance-chronicles
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
