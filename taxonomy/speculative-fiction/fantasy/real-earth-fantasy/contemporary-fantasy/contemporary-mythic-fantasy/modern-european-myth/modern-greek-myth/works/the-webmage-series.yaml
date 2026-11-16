@@ -1,0 +1,38 @@
+id: the-webmage-series
+title: The WebMage series
+authors:
+- Kelly McCullough
+first_published: 2006
+canonical_genre: modern-greek-myth
+placement_status: accepted
+placement_rationale: 'Walk: Fantasy > Real earth fantasy > Contemporary fantasy > Mythic fantasy > Modern European myth >
+  Modern Greek myth. Ravirn, umpteenth great-grandson of the Greek Fate Lachesis, is a hacker-sorcerer in a 21st century where
+  the Fates run destiny on the Fate Core server and magic has gone digital; Zeus, Hades, Persephone, the Furies and Eris all
+  play. Greek-myth powers and bloodlines active in ordinary present-day life.'
+books:
+- title: WebMage
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/284367-L.jpg
+- title: Cybermancy
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1230935-L.jpg
+- title: CodeSpell
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6425145-L.jpg
+- title: MythOS
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6425151-L.jpg
+- title: SpellCrash
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6389568-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284367-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids webmage, cybermancy, MC05419, mythos, spellcrash)
+placement_history:
+- date: '2026-11-16'
+  to: modern-greek-myth
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
