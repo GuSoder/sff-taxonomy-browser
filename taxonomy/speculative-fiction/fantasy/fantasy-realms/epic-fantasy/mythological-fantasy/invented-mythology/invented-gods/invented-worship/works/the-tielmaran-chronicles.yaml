@@ -1,0 +1,32 @@
+id: the-tielmaran-chronicles
+title: The Tielmaran Chronicles
+authors:
+- Katya Reimann
+first_published: 1996
+canonical_genre: invented-worship
+placement_status: accepted
+placement_rationale: Complete trilogy (Wind from a Foreign Sky 1996, A Tremor in the Bitter Earth 1998, Prince of Fire and
+  Ashes 2002, Tor; queue years are reissues). Tielmark survives by Prince Clarin's three-hundred-year-old pact with the twelve
+  divinities, renewed each generation when the prince marries a woman of common blood - the nation's story turns on its people's
+  living covenant with an invented divine order, the invented-worship gate.
+books:
+- title: Wind from a Foreign Sky
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/603802-L.jpg
+- title: A Tremor in the Bitter Earth
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/182544-L.jpg
+- title: Prince of Fire and Ashes
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/603804-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/603802-L.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids wind-from-a-foreign-sky, a-tremor-in-the-bitter-earth, prince-of-fire-and-ashes)
+placement_history:
+- date: '2026-11-16'
+  to: invented-worship
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
