@@ -1,0 +1,32 @@
+id: shroud-of-prophecy
+title: Shroud of Prophecy
+authors:
+- Kel Kade
+first_published: 2019
+canonical_genre: revisionist-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Complete trilogy (Fate of the Fallen 2019, Destiny of the Dead 2022, Sanctum of the Soul 2025, Tor).
+  The chosen one Mathias dies at the start and his best friend Aaslo, an ordinary forester, must carry the world-saving journey
+  himself - the quest is kept while the destiny template is interrogated and reversed (Paste: ''overturns the Chosen One trope'';
+  Den of Geek: ''subverts the hero''s journey''), the revisionist gate verbatim.'
+books:
+- title: Fate of the Fallen
+  year: 2019
+  cover_url: https://images-us.bookshop.org/ingram/9781250293794.jpg
+- title: Destiny of the Dead
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/12685171-L.jpg
+- title: Sanctum of the Soul
+  year: 2025
+  cover_url: https://images-us.bookshop.org/ingram/9781250293893.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images-us.bookshop.org/ingram/9781250293794.jpg
+  visually_reviewed_on: '2026-11-16'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids fate-of-the-fallen, destiny-of-the-dead, sanctum-of-the-soul)
+placement_history:
+- date: '2026-11-16'
+  to: revisionist-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
