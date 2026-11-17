@@ -1,18 +1,10 @@
 id: enemy-lines-romantasy
 label: Enemy lines romantasy
 parent: enemies-to-lovers-romantasy
-children: []
-works:
-- fire-metal
-- the-witches-of-halstett
-- the-halfling-saga
-- riders-of-earth-and-sky
-- sung-in-shadow
-- the-pearls-and-the-crown
-- immortal
-- the-hurricane-wars-series
-- the-sacred-space-between
-- the-kingdom-of-the-wicked-universe
+children:
+- battle-lines-romantasy
+- blood-lines-romantasy
+works: []
 image: 485-enemy-lines-romantasy.webp
 definition: Enemies-to-lovers romantasy where the lovers stand on opposite sides of a war, treaty or coven divide, as in behind
   enemy lines. The enmity comes from their sides, not from a personal rivalry or a throne. Not Rivals-to-lovers romantasy
@@ -21,3 +13,9 @@ definition: Enemies-to-lovers romantasy where the lovers stand on opposite sides
   3:32 PM)).
 status: accepted
 ruling: curator "Approved" (phonemsg-01M4648EQ6WS79416FZNS2FEPG, 2026-10-05 3:32 PM)
+history:
+- date: '2026-11-17'
+  change: 'Split at ten cards into Battle lines romantasy (6: an open war or broken treaty between states or peoples) and
+    Blood lines romantasy (4: an inherited enmity of house, faith or coven); split-with-umbrella, this node keeps the def
+    and prior history. Curator ''Approved'' (phonemsg-01M7MPZ5VCN8B88DC3916YM2WH, 2026-11-17 1:16 PM CET) of the served proposal;
+    names as proposed.'

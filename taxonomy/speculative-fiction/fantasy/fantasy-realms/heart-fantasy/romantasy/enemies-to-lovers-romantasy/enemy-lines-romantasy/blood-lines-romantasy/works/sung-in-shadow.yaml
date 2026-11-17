@@ -3,7 +3,7 @@ title: Sung in Shadow
 authors:
 - Tanith Lee
 first_published: 1983
-canonical_genre: enemy-lines-romantasy
+canonical_genre: blood-lines-romantasy
 placement_status: accepted
 placement_rationale: 'Tanith Lee''s Sung in Shadow (1983; Penguin Random House description and ISFDB), a retelling of Romeo
   and Juliet in the invented land of Santa Verensa, a Renaissance-Italy-like world: the great aristocratic Houses live by
@@ -29,3 +29,7 @@ placement_history:
 - date: '2026-10-04'
   to: enemy-lines-romantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-17'
+  to: blood-lines-romantasy
+  from: enemy-lines-romantasy
+  reason: Re-walked in the freeze split of Enemy lines romantasy at ten, curator approval phonemsg-01M7MPZ5VCN8B88DC3916YM2WH

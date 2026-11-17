@@ -3,7 +3,7 @@ title: The Halfling Saga
 authors:
 - Melissa Blair
 first_published: 2022
-canonical_genre: enemy-lines-romantasy
+canonical_genre: battle-lines-romantasy
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Romantasy > Enemies-to-lovers romantasy > Enemy lines. Keera, the king''s Halfling assassin,
   is sent to hunt the rebel known as the Shadow; the two stand on opposite sides of the king''s war on magical peoples before
@@ -32,3 +32,7 @@ placement_history:
 - date: '2026-10-04'
   to: enemy-lines-romantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-17'
+  to: battle-lines-romantasy
+  from: enemy-lines-romantasy
+  reason: Re-walked in the freeze split of Enemy lines romantasy at ten, curator approval phonemsg-01M7MPZ5VCN8B88DC3916YM2WH
