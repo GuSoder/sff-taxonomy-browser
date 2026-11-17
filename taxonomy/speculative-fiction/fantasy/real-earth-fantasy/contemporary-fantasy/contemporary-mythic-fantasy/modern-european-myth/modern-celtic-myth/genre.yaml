@@ -5,8 +5,11 @@ children:
 - modern-albion-myth
 - modern-gaulish-myth
 - arthur-returned
+- modern-irish-myth
 works: []
-definition: 'Contemporary mythic fantasy in which the old Celtic powers stay alive in present-day life, partitioned by which side of the water: Modern Albion myth (the island, Britain), Modern Gaulish myth (the continent, old Gaul), and Arthur returned (Britain''s Arthurian legend alive in the present).'
+definition: 'Contemporary mythic fantasy in which the old Celtic powers stay alive in present-day life, partitioned by which
+  side of the water: Modern Albion myth (the island, Britain), Modern Gaulish myth (the continent, old Gaul), Arthur returned
+  (Britain''s Arthurian legend alive in the present), and Modern Irish myth (Ireland''s old powers, wherever they wake).'
 status: umbrella
 ruling: 'Curator ruling ("Execute" phonemsg-01M4JS149E5JX87808WVW8DGAJ, 2026-10-10 1:26 PM CEST; shape agreed in phonemsg-01M4JS02JJ9488ZT8A3G4PE2AM):
   Modern Celtic myth is a new umbrella over Modern Albion myth (moved in unchanged, 7 cards) and the seeded Modern Gaulish
@@ -16,3 +19,7 @@ portrait: 629-modern-celtic-myth.webp
 history:
 - date: '2026-10-10'
   change: Created as an umbrella over Modern Albion myth and Modern Gaulish myth (phonemsg-01M4JS149E5JX87808WVW8DGAJ).
+- date: '2026-11-17'
+  change: 'Fourth child seeded: Modern Irish myth (Ireland and its diaspora had no home in the island/continent partition);
+    curator "Approved" (phonemsg-01M7NPCDG7JZ1HQM1FBN4XNQ5Y, 2026-11-17 10:25 PM CET) on the served seed proposal; Iron Druid
+    universe is its first member.'
