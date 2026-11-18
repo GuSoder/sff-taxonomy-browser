@@ -1,0 +1,34 @@
+id: superheroes-anonymous
+title: Superheroes Anonymous
+authors:
+- Lexie Dunne
+first_published: 2014
+canonical_genre: superhero-fiction
+placement_status: accepted
+placement_rationale: 'Chicago, where everyone has a superhero and a supervillain target: Gail Godwin survives her villain''s
+  attacks, gets powers of her own and is drafted into the hero establishment across four novels of powered heroes, villains
+  and the institutions around them - Superhero fiction.'
+books:
+- title: Superheroes Anonymous
+  year: 2014
+  cover_url: https://www.fictiondb.com/covers/978/006/9780062369116.jpg
+- title: Supervillains Anonymous
+  year: 2015
+  cover_url: https://www.fictiondb.com/covers/978/006/9780062369147.jpg
+- title: How to Save the World
+  year: 2016
+  cover_url: https://www.fictiondb.com/covers/978/006/9780062471703.jpg
+- title: '#Herofail'
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/11054609-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://www.fictiondb.com/covers/978/006/9780062369116.jpg
+  visually_reviewed_on: '2026-11-18'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06005, MC06006, MC06004, MC06003)
+placement_history:
+- date: '2026-11-18'
+  to: superhero-fiction
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

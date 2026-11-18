@@ -68,3 +68,9 @@ MC05521	skip-novelette	isfdb title 1128220: SHORTFICTION, length novelette (Tor.
 MC05522	skip-novella	isfdb title 2019752: SHORTFICTION, length novella (Tor.com 2016).
 MC05840	skip-anthology	The Monster Hunter Files (Baen 2017): short-fiction anthology set in the MHI universe.
 MC05841	skip-omnibus	The Monster Hunters (Baen 2012): omnibus reprint of MHI/Vendetta/Alpha.
+MC05992	skip-short-fiction	isfdb author bibliography lists The Need for Air (2018) under Short Fiction; Tor.com/Reactor online story
+MC05993	skip-short-fiction	isfdb author bibliography lists The Three Lives of Sonata James (2016) under Short Fiction; Tor.com original online story
+MC05995	skip-novella	The Map of Tiny Perfect Things (queue row shows raw ISBN 9780316281225); isfdb title 2834393 type CHAPBOOK, 128pp standalone novella (Little, Brown 2021)
+MC05996	skip-children	Middle-grade novel (Little, Brown Books for Young Readers 2022), sequel to The Silver Arrow; intake precedent skip-children (MC00287, MC00321, MC00387, MC00441)
+MC05997	skip-children	Middle-grade novel (Little, Brown Books for Young Readers 2020), Kate and Tom Pearce ages ~11; intake precedent skip-children
+MC05999	skip-short-fiction	Friedrich the Snow Man (Lewis Shiner) is a Reactor/Tor.com online short story (2013)
