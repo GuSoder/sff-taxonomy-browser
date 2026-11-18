@@ -1,0 +1,27 @@
+id: the-body-scout
+title: The Body Scout
+authors:
+- Lincoln Michel
+first_published: 2021
+canonical_genre: cyberpunk-noir
+placement_status: accepted
+placement_rationale: 'Near-future New York ruled by biotech and pharmaceutical giants who field chemically augmented athletes
+  - the Monsanto Mets, the Pyramid Sphinxes; body-hacker scout Kobo investigates his brother''s murder through the wreckage
+  of corporate high-tech power. Hardboiled crime thriller where invasive technology changes bodies: Cyberpunk noir. (Wobble
+  noted: the tech is biotech rather than network tech; the noir leaf''s own gate - ''invasive technology changes bodies and
+  identities'' - covers it.)'
+books:
+- title: The Body Scout
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/11981964-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/11981964-L.jpg
+  visually_reviewed_on: '2026-11-18'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06048)
+placement_history:
+- date: '2026-11-18'
+  to: cyberpunk-noir
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
