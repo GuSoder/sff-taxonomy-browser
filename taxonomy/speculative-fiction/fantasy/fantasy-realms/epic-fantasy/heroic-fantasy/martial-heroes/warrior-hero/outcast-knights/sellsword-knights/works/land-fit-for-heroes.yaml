@@ -3,7 +3,7 @@ title: Land Fit for Heroes
 authors:
 - Richard K. Morgan
 first_published: 2008
-canonical_genre: outcast-knights
+canonical_genre: sellsword-knights
 placement_status: accepted
 placement_rationale: 'Richard K. Morgan''s A Land Fit for Heroes (The Steel Remains 2008, The Cold Commands 2011, The Dark
   Defiles 2014; Morgan''s site, PRH, ISFDB, Wikipedia; one series, one card): Ringil Eskiath, a washed-up mercenary and war
@@ -29,6 +29,10 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC05800, MC05798, MC05799)
 placement_history:
+- date: '2026-11-18'
+  from: outcast-knights
+  to: sellsword-knights
+  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved" (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits in sellsword-knights.'
 - date: '2026-10-04'
   to: outcast-knights
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

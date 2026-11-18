@@ -3,7 +3,7 @@ title: Graceling Realm
 authors:
 - Kristin Cashore
 first_published: 2008
-canonical_genre: outcast-knights
+canonical_genre: grudge-knights
 placement_status: accepted
 placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches Warrior Hero,
   not merely the setting or tone.'
@@ -26,6 +26,10 @@ books:
   year: 2022
   cover_url: https://covers.openlibrary.org/b/id/14021478-L.jpg
 placement_history:
+- date: '2026-11-18'
+  from: outcast-knights
+  to: grudge-knights
+  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved" (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits in grudge-knights.'
 - date: '2026-10-12'
   from: warrior-hero
   to: outcast-knights

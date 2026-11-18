@@ -1,25 +1,17 @@
 id: outcast-knights
 label: Outcast knights
 parent: warrior-hero
-children: []
+children:
+- sellsword-knights
+- grudge-knights
 image: 681-outcast-knights.webp
 portrait: 681-outcast-knights.webp
 definition: 'Warrior hero fantasy where the fighter is sworn to no one: cast out, defected, exiled or
   masterless, and fighting for his own reasons, a fee, a grudge or survival. Not Champion knights (there
   the fighter fights for a people, a crown or a cause), not Ranger hero (tracker and wilderness skill),
-  not Rogue hero (stealth and cunning).'
-status: accepted
-works:
-- cold-counsel
-- graceling-realm
-- land-fit-for-heroes
-- the-witcher
-- the-sea-hag
-- the-bloodsworn-saga
-- the-fencer-trilogy
-- the-scavenger-trilogy
-- that-dark-infinity
-- duellists-trilogy
+  not Rogue hero (stealth and cunning). Umbrella since 2026-11-18, partitioned by why the masterless fighter fights: Sellsword knights (the trade) and Grudge knights (the personal war).'
+status: umbrella
+works: []
 ruling: 'Split of Warrior hero at ten cards (Land Fit for Heroes held at the gate), approved by the curator''s
   "Approved" (2026-10-12 4:36:07 PM CEST, phonemsg-01M4R8NNR9VE8N9T8T2PXE3BQM, on his own names Champion
   knights / Outcast knights), after the intake''s "Approve split?" question; names are the curator''s
@@ -28,6 +20,8 @@ ruling: 'Split of Warrior hero at ten cards (Land Fit for Heroes held at the gat
   as a king''s weapon), Godkiller (Kissen is an independent professional rather than cast out), Drenai
   Saga (Druss wanders), The Burning (revenge first, champion later).'
 history:
+- date: '2026-11-18'
+  change: 'Split with umbrella at ten cards into Sellsword knights (5) and Grudge knights (5) by why the masterless fighter fights; curator "Approved" (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N) on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR.'
 - date: '2026-10-12'
   change: Created by the Warrior hero split; the curator's "Approved" (2026-10-12 4:36:07 PM CEST, phonemsg-01M4R8NNR9VE8N9T8T2PXE3BQM,
     on his own names Champion knights / Outcast knights).

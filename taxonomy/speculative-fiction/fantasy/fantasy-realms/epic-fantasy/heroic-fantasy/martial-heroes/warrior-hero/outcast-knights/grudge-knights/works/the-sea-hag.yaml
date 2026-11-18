@@ -3,7 +3,7 @@ title: The Sea Hag
 authors:
 - David Drake
 first_published: 1988
-canonical_genre: outcast-knights
+canonical_genre: grudge-knights
 placement_status: accepted
 placement_rationale: 'Baen (baen.com/the-sea-hag-second-edition.html) blurb: Dennis flees the crystal walls of Emath when
   he learns the truth behind the city his father rules, and in the jungle his sword arm is tested by monsters before a final
@@ -22,6 +22,10 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC02291)
 placement_history:
+- date: '2026-11-18'
+  from: outcast-knights
+  to: grudge-knights
+  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved" (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits in grudge-knights.'
 - date: '2026-10-04'
   to: outcast-knights
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

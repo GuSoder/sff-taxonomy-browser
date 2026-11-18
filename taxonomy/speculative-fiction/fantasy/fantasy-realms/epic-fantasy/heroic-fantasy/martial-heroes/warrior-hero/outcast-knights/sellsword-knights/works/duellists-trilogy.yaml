@@ -4,7 +4,7 @@ authors:
 - Julia Knight
 first_published: 2015
 last_published: 2015
-canonical_genre: outcast-knights
+canonical_genre: sellsword-knights
 placement_status: accepted
 books:
 - title: Swords and Scoundrels
@@ -48,6 +48,10 @@ cover_curation:
   source: OrbitUKpublisherprintfront
   note: Three English flat Orbit print jackets, distinct/localized.
 placement_history:
+- date: '2026-11-18'
+  from: outcast-knights
+  to: sellsword-knights
+  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved" (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits in sellsword-knights.'
 - date: '2026-11-18'
   to: outcast-knights
   reason: 'Pruned from caper-fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF; rename rejected, phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): re-walk placed it in outcast-knights.'

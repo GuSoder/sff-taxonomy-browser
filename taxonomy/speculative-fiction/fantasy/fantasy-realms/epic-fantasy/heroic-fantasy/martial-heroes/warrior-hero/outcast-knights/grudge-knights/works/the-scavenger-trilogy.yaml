@@ -3,7 +3,7 @@ title: The Scavenger trilogy
 authors:
 - K. J. Parker
 first_published: 2001
-canonical_genre: outcast-knights
+canonical_genre: grudge-knights
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic
   fantasy > Martial heroes > Warrior hero > Outcast knights. Poldarn is the most masterless fighter in
@@ -37,3 +37,8 @@ books:
 - title: Memory
   year: 2003
   cover_url: https://covers.openlibrary.org/b/id/886171-L.jpg
+placement_history:
+- date: '2026-11-18'
+  from: outcast-knights
+  to: grudge-knights
+  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved" (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits in grudge-knights.'
