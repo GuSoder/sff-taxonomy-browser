@@ -1,0 +1,25 @@
+id: the-alchemists-door
+title: The Alchemist's Door
+authors:
+- Lisa Goldstein
+first_published: 2002
+canonical_genre: untold-magic
+placement_status: accepted
+placement_rationale: 'Prague in the 1580s under Rudolf II: Rabbi Judah Loew shapes the golem to defend the ghetto while John
+  Dee and Edward Kelley hunt alchemical power and a demon moves between them - magic works inside documented history and history
+  never told it: Untold magic.'
+books:
+- title: The Alchemist's Door
+  year: 2002
+  cover_url: https://covers.openlibrary.org/b/id/6798320-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6798320-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06062)
+placement_history:
+- date: '2026-10-04'
+  to: untold-magic
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
