@@ -3,7 +3,7 @@ title: Karen Memory
 authors:
 - Elizabeth Bear
 first_published: 2015
-canonical_genre: steampunk-adventure
+canonical_genre: steampunk-mystery
 placement_status: accepted
 placement_rationale: Karen Memory, a seamstress at a Seattle brothel in a gold-rush frontier city full of steam-powered machines
   and sewing-machine exoskeletons, shelters a runaway and takes on a murderer.
@@ -34,5 +34,8 @@ placement_history:
     > Steampunk adventure. Steampunk in which a character journey, mystery or mission drives the story inside a steam-powered
     world, whether alternate Earth or wholly invented. Not Steampunk history, where the transformation of historical events,
     nations and industrial power is the central subject.'
+- date: '2026-11-18'
+  to: steampunk-mystery
+  reason: 'Re-walked root-down into Steampunk mystery when Steampunk adventure split at ten cards by what drives the story (curator "Approved" phonemsg-01M7QAA7EE764QQ41B05Y8NK53 on serve phonemsg-01M7QA5ZWZE0A88TRMC9E99WN3).'
 sources:
 - https://www.elizabethbear.com/post/the-long-awaited-full-length-sequel-to-karen-memory

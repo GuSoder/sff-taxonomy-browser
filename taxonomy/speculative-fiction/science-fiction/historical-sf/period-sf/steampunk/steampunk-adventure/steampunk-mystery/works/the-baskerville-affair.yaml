@@ -1,0 +1,44 @@
+id: the-baskerville-affair
+title: The Baskerville Affair
+authors:
+- Emma Jane Holloway
+first_published: 2013
+canonical_genre: steampunk-mystery
+placement_status: accepted
+placement_rationale: 'Full root-down walk: Science fiction (steam-era machinery is the engine; the sorcery is the empire''s
+  enemy, and magic that can run machines is the prize) > Historical > Period SF > Steampunk, which holds alternate or actual-history
+  Victorian settings: Evelina Cooper, Sherlock Holmes''s niece, lives in a Victorian era ruled by a council of steam barons,
+  with automatons and mechanical power as the real monarch. Fantasy side checked and rejected (Gaslight fantasy is for folklore
+  and magic first; here the machines come first), and Steampunk stays at its own level by the standing rule. PRH (https://www.penguinrandomhouse.com/books/220305/a-study-in-silks-by-emma-jane-holloway/).
+  The short stories (The Baskerville Tales, MC02943) are held. Steampunk is now ten fictions.'
+books:
+- title: A Study in Silks
+  year: 2013
+  cover_url: cover-baskerville.jpg
+- title: A Study in Darkness
+  year: 2013
+- title: A Study in Ashes
+  year: 2013
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: cover-baskerville.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC02942, MC02941, MC02940)
+placement_history:
+- date: '2026-10-04'
+  to: steampunk
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: steampunk
+  to: steampunk-adventure
+  reason: 'Curator Execute (phonemsg-01M4AP0TGCEPRNZD2F0JM46PZE) on October 7 2026 at 10:00 after choosing Steampunk history and Steampunk adventure. Approved 5/5
+    mapping; Angel Maker source-confirmed Karen Memory sequel folded under rule 11j, leaving 5/4. Root-down walk: Speculative
+    fiction > Science fiction (Steampunk gate includes science fantasy and invented worlds) > Historical > Period SF > Steampunk
+    > Steampunk adventure. Steampunk in which a character journey, mystery or mission drives the story inside a steam-powered
+    world, whether alternate Earth or wholly invented. Not Steampunk history, where the transformation of historical events,
+    nations and industrial power is the central subject.'
+- date: '2026-11-18'
+  to: steampunk-mystery
+  reason: 'Re-walked root-down into Steampunk mystery when Steampunk adventure split at ten cards by what drives the story (curator "Approved" phonemsg-01M7QAA7EE764QQ41B05Y8NK53 on serve phonemsg-01M7QA5ZWZE0A88TRMC9E99WN3).'

@@ -1,31 +1,29 @@
-id: the-baskerville-affair
-title: The Baskerville Affair
+id: gideon-smith
+title: Gideon Smith
 authors:
-- Emma Jane Holloway
+- David Barnett
 first_published: 2013
-canonical_genre: steampunk-adventure
+canonical_genre: steampunk-quest
 placement_status: accepted
-placement_rationale: 'Full root-down walk: Science fiction (steam-era machinery is the engine; the sorcery is the empire''s
-  enemy, and magic that can run machines is the prize) > Historical > Period SF > Steampunk, which holds alternate or actual-history
-  Victorian settings: Evelina Cooper, Sherlock Holmes''s niece, lives in a Victorian era ruled by a council of steam barons,
-  with automatons and mechanical power as the real monarch. Fantasy side checked and rejected (Gaslight fantasy is for folklore
-  and magic first; here the machines come first), and Steampunk stays at its own level by the standing rule. PRH (https://www.penguinrandomhouse.com/books/220305/a-study-in-silks-by-emma-jane-holloway/).
-  The short stories (The Baskerville Tales, MC02943) are held. Steampunk is now ten fictions.'
+placement_rationale: 'Alternate 1890 Britain of airships, clockwork automata and an imperial hero: a Yorkshire fisherman sets
+  out for London, then America and the Ripper''s London. Victorian retrofuturist adventure (Steampunk).'
 books:
-- title: A Study in Silks
+- title: Gideon Smith and the Mechanical Girl
   year: 2013
-  cover_url: cover-baskerville.jpg
-- title: A Study in Darkness
-  year: 2013
-- title: A Study in Ashes
-  year: 2013
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334244
+- title: Gideon Smith and the Brass Dragon
+  year: 2014
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334251
+- title: Gideon Smith and the Mask of the Ripper
+  year: 2015
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334268
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: cover-baskerville.jpg
+  selected_url: https://images.penguinrandomhouse.com/cover/700jpg/9780765334244
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC02942, MC02941, MC02940)
+intake: ten-k walk v5 (queue ids MC02187, MC02185, MC02186)
 placement_history:
 - date: '2026-10-04'
   to: steampunk
@@ -39,3 +37,6 @@ placement_history:
     > Steampunk adventure. Steampunk in which a character journey, mystery or mission drives the story inside a steam-powered
     world, whether alternate Earth or wholly invented. Not Steampunk history, where the transformation of historical events,
     nations and industrial power is the central subject.'
+- date: '2026-11-18'
+  to: steampunk-quest
+  reason: 'Re-walked root-down into Steampunk quest when Steampunk adventure split at ten cards by what drives the story (curator "Approved" phonemsg-01M7QAA7EE764QQ41B05Y8NK53 on serve phonemsg-01M7QA5ZWZE0A88TRMC9E99WN3).'

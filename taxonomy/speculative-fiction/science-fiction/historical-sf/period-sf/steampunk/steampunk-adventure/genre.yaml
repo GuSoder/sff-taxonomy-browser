@@ -1,23 +1,16 @@
 id: steampunk-adventure
 label: Steampunk adventure
 parent: steampunk
-children: []
-works:
-- newbury-and-hobbes
-- the-baskerville-affair
-- clockwork-earth
-- the-space-machine
-- the-iron-assassin
-- gideon-smith
-- karen-memory
-- all-men-of-genius
-- the-chronicles-of-light-and-shadow
-- bannon-clare
+children:
+- steampunk-mystery
+- steampunk-quest
+works: []
 image: 566-steampunk-adventure.webp
 definition: Steampunk in which a character journey, mystery or mission drives the story inside a steam-powered world,
   whether alternate Earth or wholly invented. Not Steampunk history, where the transformation of historical events,
-  nations and industrial power is the central subject.
-status: accepted
+  nations and industrial power is the central subject. Umbrella since 2026-11-18, partitioned by what drives the
+  story: Steampunk mystery (the case) and Steampunk quest (the journey or mission).
+status: umbrella
 ruling: Curator Execute (phonemsg-01M4AP0TGCEPRNZD2F0JM46PZE) on October 7 2026 at 10:00 after choosing Steampunk
   history and Steampunk adventure. Approved 5/5 mapping; Angel Maker source-confirmed Karen Memory sequel folded
   under rule 11j, leaving 5/4.
@@ -26,3 +19,5 @@ history:
   change: 'Curator Execute phonemsg-01M62829EPMQX2VJ5NKE1TNKYE on proposal phonemsg-01M6281DBDVP6D9HFMZ9PSKBN4,
     2026-10-28: three mechanism children, five existing fictions moved, existing book lists unchanged; no general
     intake.'
+- date: '2026-11-18'
+  change: 'Split with umbrella at ten cards into Steampunk mystery (5) and Steampunk quest (5) by what drives the story; curator "Approved" (phonemsg-01M7QAA7EE764QQ41B05Y8NK53) on serve phonemsg-01M7QA5ZWZE0A88TRMC9E99WN3.'
