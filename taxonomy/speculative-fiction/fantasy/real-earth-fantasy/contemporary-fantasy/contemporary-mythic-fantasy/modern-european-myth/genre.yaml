@@ -2,7 +2,7 @@ id: modern-european-myth
 name: Modern European myth
 definition: 'Contemporary mythic fantasy rooted in the old traditions of Europe: the Celtic powers of the island and the
   continent (Modern Celtic myth, with Arthur returned), the gods and bloodlines of Greek myth, and the gods and monsters
-  of the old North. Bundled from the tradition leaves on the curator''s approval (phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB,
+  of the old North, plus the Slavic spirits and powers (Modern Slavic myth). Bundled from the tradition leaves on the curator''s approval (phonemsg-01M5YMZ8N3YH8ADVH2CFPX9GRB,
   2026-10-27), grouping the umbrella''s children by their ethnical or geographical roots.'
 parent: contemporary-mythic-fantasy
 label: Modern European myth
@@ -10,6 +10,7 @@ children:
 - modern-celtic-myth
 - modern-greek-myth
 - modern-norse-myth
+- modern-slavic-myth
 image: 820-modern-european-myth.webp
 status: provisional
 works: []
