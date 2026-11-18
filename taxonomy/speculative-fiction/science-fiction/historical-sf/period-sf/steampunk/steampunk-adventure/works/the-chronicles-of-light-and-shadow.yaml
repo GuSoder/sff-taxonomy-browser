@@ -1,0 +1,31 @@
+id: the-chronicles-of-light-and-shadow
+title: The Chronicles of Light and Shadow
+authors:
+- Liesel Schwarz
+first_published: 2013
+canonical_genre: steampunk-adventure
+placement_status: accepted
+placement_rationale: Elle Chance, airship pilot in a steampunk alternate early-1900s Europe, is chased through three novels
+  of aerial derring-do, alchemy, absinthe fairies and shadowy cabals. Character mission and adventure drive the story inside
+  the steam-powered world - Steampunk adventure.
+books:
+- title: A Conspiracy of Alchemists
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7767660-L.jpg
+- title: A Clockwork Heart
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/11605418-L.jpg
+- title: Sky Pirates
+  year: 2014
+  cover_url: https://covers.openlibrary.org/b/id/8754259-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7767660-L.jpg
+  visually_reviewed_on: '2026-11-18'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06010, MC06009, MC06011)
+placement_history:
+- date: '2026-11-18'
+  to: steampunk-adventure
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
