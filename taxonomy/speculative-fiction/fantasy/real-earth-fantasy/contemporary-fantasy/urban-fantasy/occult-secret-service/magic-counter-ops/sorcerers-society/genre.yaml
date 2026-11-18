@@ -4,6 +4,7 @@ parent: magic-counter-ops
 children: []
 works:
 - twenty-palaces
+- the-spi-files
 image: 942-sorcerers-society.webp
 definition: 'Magic counter ops run by a private society of sorcerers policing its own kind: hunting rogue magicians and executing those whose magic endangers the secret. Not Spook fantasy (state services) or Templar fantasy (knightly orders).'
 status: provisional
