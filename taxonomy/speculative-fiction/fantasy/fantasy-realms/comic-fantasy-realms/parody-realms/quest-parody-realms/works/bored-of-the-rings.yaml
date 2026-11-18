@@ -4,7 +4,7 @@ authors:
 - Henry Beard
 - Douglas C. Kenney
 first_published: 1969
-canonical_genre: parody-realms
+canonical_genre: quest-parody-realms
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Comic fantasy realms. A 1969 Harvard Lampoon
   parody of The Lord of the Rings, written by Henry Beard and Douglas Kenney, with boggies for hobbits and the ring quest
@@ -30,3 +30,7 @@ placement_history:
 - date: '2026-10-27'
   to: parody-realms
   reason: 'Comic fantasy realms split at ten cards (curator approval phonemsg-01M5YNYMEG0VPS33MRRR37B0FB): story-shape-as-joke half.'
+- date: '2026-11-18'
+  to: quest-parody-realms
+  from: parody-realms
+  reason: Re-walked in the freeze split of Parody realms at ten, curator approval phonemsg-01M7PZHMA67GJ2H4GS8K4VBAF1

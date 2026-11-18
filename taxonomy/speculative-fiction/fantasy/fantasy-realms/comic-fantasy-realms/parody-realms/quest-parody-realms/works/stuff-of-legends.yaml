@@ -3,7 +3,7 @@ title: Stuff of Legends
 authors:
 - Ian Gibson
 first_published: 2010
-canonical_genre: parody-realms
+canonical_genre: quest-parody-realms
 placement_status: accepted
 placement_rationale: 'Walk: Speculative fiction > Fantasy > Fantasy realms > Comic fantasy realms > Parody realms. An aged
   barbarian hero is dragged out of retirement by an eager young man, an Elvish guardian and a bard-for-hire; PW calls it
@@ -27,3 +27,7 @@ placement_history:
 - date: '2026-10-27'
   to: parody-realms
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-18'
+  to: quest-parody-realms
+  from: parody-realms
+  reason: Re-walked in the freeze split of Parody realms at ten, curator approval phonemsg-01M7PZHMA67GJ2H4GS8K4VBAF1

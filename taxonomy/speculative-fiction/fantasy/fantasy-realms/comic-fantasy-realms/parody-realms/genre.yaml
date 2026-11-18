@@ -1,21 +1,24 @@
 id: parody-realms
 label: Parody realms
 parent: comic-fantasy-realms
-children: []
+children:
+- quest-parody-realms
+- fairytale-parody-realms
 image: 822-parody-realms.webp
-definition: Comic fantasy realms whose governing joke sends up inherited story material - a specific text, the fairy-tale
-  or epic-quest script, the Dark Lord and the chosen one, the genre's own furniture. Not Absurd realms (the invented world
-  itself, its institutions and customs and wordplay, is the joke). Split from Comic fantasy realms at ten cards (curator approval
-  phonemsg-01M5YNYMEG0VPS33MRRR37B0FB, 2026-10-27); a fiction that spans both follows its whole-fiction main engine (his caveat).
+definition: 'Comic fantasy realms whose governing joke sends up inherited story material - a specific
+  text, the fairy-tale or epic-quest script, the Dark Lord and the chosen one, the genre''s own furniture.
+  Not Absurd realms (the invented world itself, its institutions and customs and wordplay, is the joke).
+  Split from Comic fantasy realms at ten cards (curator approval phonemsg-01M5YNYMEG0VPS33MRRR37B0FB,
+  2026-10-27); a fiction that spans both follows its whole-fiction main engine (his caveat). Split 2026-11-18
+  at ten cards by which script the joke sends up: Quest parody realms (the epic-quest script - the Dark
+  Lord, the chosen one, the quest furniture) or Fairytale parody realms (the fairy-tale and royal-romance
+  script); a fiction spanning both follows its whole-fiction main engine. Curator ''Approved'' (phonemsg-01M7PZHMA67GJ2H4GS8K4VBAF1,
+  2026-11-18 10:24 AM CET); names as served.'
 status: provisional
-works:
-- bored-of-the-rings
-- charming-tales
-- mysterium
-- dragonforged
-- dark-lord-davi
-- im-afraid-youve-got-dragons
-- every-inch-a-king
-- stuff-of-legends
-- the-dragon-lords
-- the-tales-of-pell-trilogy
+works: []
+history:
+- date: '2026-11-18'
+  change: 'Split at ten cards into Quest parody realms (7: the epic-quest script - Dark Lord, chosen one,
+    quest furniture) and Fairytale parody realms (3: the fairy-tale and royal-romance script); split-with-umbrella,
+    this node keeps the def and prior history. Curator ''Approved'' (phonemsg-01M7PZHMA67GJ2H4GS8K4VBAF1,
+    2026-11-18 10:24 AM CET) of the served proposal (phonemsg-01M7PZH6SMC0E5H3C0PEWEZJ2Z); names as served.'
