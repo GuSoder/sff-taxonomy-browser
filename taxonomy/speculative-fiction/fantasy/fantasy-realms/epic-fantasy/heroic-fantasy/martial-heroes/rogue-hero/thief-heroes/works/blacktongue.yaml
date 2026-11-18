@@ -1,0 +1,22 @@
+id: blacktongue
+title: Blacktongue
+authors:
+- [Christopher Buehlman]
+first_published: 2021
+canonical_genre: thief-heroes
+placement_status: accepted
+placement_rationale: 'Root-down (2026-11-18 re-walk): Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero > Thief heroes. Kinch Na Shannack is a professional thief indebted to the Takers Guild, trained in lock-picking, lying, traps and small magics; the roadside robbery he attempts launches the journey, and the wisecracking thief survives by cunning - the leaf''s exact gate (the professional thief, the cutpurse, the bandit passing as a hero). Moved out of Caper fantasy on the curator''s direction: Caper stays an established genre and the non-score books belong in the dedicated thief/rogue genres (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF, phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18). Rejected: caper-fantasy (no big score - the guild debt and the road drive it), pulp-sword-and-sorcery (a modern thief-hero novel, not the pulp lineage).'
+classification_sources:
+- https://us.macmillan.com/series/blacktongue
+- https://us.macmillan.com/books/9781250799975/theblacktonguethief/
+- https://us.macmillan.com/books/9781250887672/thedaughterswar/
+- https://christopherbuehlmanauthor.com/book/the-blacktongue-thief/
+books:
+- {title: The Blacktongue Thief, first_published: 2021, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250799975.jpg'}
+- {title: The Daughters' War, first_published: 2024, cover_url: 'https://mpd-biblio-covers.imgix.net/9781250887672.jpg'}
+- {title: The Thrice-Bound Fool, first_published: 2026, cover_url: ''}
+cover_curation: {status: complete, source: Macmillan, record_url: 'https://us.macmillan.com/series/blacktongue', selected_url: 'https://mpd-biblio-covers.imgix.net/9781250799975.jpg', visually_reviewed_on: '2026-09-21', shows_english_title: true, display_eligible: true, candidates_visually_reviewed: 2, selection_rule: one-pass official series review}
+placement_history:
+- date: '2026-11-18'
+  to: thief-heroes
+  reason: 'Pruned from caper-fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF; rename rejected, phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): re-walk placed it in thief-heroes.'

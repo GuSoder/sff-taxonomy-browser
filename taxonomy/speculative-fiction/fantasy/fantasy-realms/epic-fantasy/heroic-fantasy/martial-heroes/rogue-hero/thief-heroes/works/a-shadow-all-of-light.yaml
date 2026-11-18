@@ -1,0 +1,26 @@
+id: a-shadow-all-of-light
+title: A Shadow All of Light
+authors:
+- Fred Chappell
+first_published: 2016
+canonical_genre: thief-heroes
+placement_status: accepted
+placement_rationale: 'Root-down (2026-11-18 re-walk): Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero > Thief heroes. In the Italianate port of Tardocco, Falco apprentices to the shadow-thief Maestro Astolfo and his henchman Mutano, learning the thieving trade itself - cons, capers and cases in a city where shadows are stolen, bought and sold. The promise is the making of a professional thief surviving by cunning: the leaf''s gate. Moved out of Caper fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF, phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): episodic apprenticeship cases, not a score. Rejected: caper-fantasy (no one big job), whimsical doors and cozy fantasy (the engine is the con and the trade, not comfort).'
+books:
+- title: A Shadow All of Light
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/8457200-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8457200-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03194)
+placement_history:
+- date: '2026-11-18'
+  to: thief-heroes
+  reason: 'Pruned from caper-fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF; rename rejected, phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): re-walk placed it in thief-heroes.'
+- date: '2026-10-04'
+  to: caper-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
