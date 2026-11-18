@@ -1,0 +1,25 @@
+id: half-caster-heroes
+label: Half-caster heroes
+parent: heroic-fantasy
+children:
+- paladin-hero
+- spellsword-heroes
+- arcane-trickster-heroes
+image: 964-half-caster-heroes.webp
+definition: 'Heroic fantasy whose protagonist''s primary power joins steel to his own magic: the knight with a gift,
+  the swordsman who casts, the assassin with a spell. Not Caster heroes (magic is the whole kit), not Martial heroes
+  (no magic of his own). Umbrella, partitioned by how the magic is held: Paladin hero (sacred or oath-bound office),
+  Spellsword heroes (the fighter whose own kit includes magic), Arcane trickster heroes (the stealth artist whose
+  own kit includes magic).'
+status: umbrella
+works: []
+ruling: 'Curator restructure approved ("Approved" phonemsg-01M7QDHA1C8RYENNG9JD7MD334, 2026-11-18 2:28 PM CET, on
+  his "Propose the full reorganization including that next split" phonemsg-01M7QDC6NW9DB0HY0YT3PCNNJZ): Half-caster
+  heroes umbrella created beside Caster heroes and Martial heroes after the half-caster audit (16 cards whose hero
+  joins steel to his own magic); the Outcast knights branch is dissolved, its mundane five re-merged as Free blades.
+  Umbrella name is the curator''s own coinage (“a Half-caster genre next to Martial and Caster heroes”, phonemsg-01M7QD6EQKAX5E73ABQXG88EC7).'
+history:
+- date: '2026-11-18'
+  change: Created in the Half-caster heroes restructure (curator "Approved", phonemsg-01M7QDHA1C8RYENNG9JD7MD334).
+    Paladin hero moved in whole from Caster heroes; Spellsword heroes and Arcane trickster heroes seeded from the
+    martial and rogue branches.

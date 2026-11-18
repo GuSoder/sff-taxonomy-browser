@@ -1,0 +1,25 @@
+id: free-blades
+label: Free blades
+parent: warrior-hero
+children: []
+image: 967-free-blades.webp
+definition: 'Warrior-hero fantasy whose mundane fighter is sworn to no one: masterless, cast out, defected or exiled,
+  fighting for a fee, a grudge or survival with steel alone. Not Champion knights (sworn to a people, crown or cause),
+  not Spellsword heroes (his kit includes magic of his own), not Rogue hero (stealth and cunning).'
+status: provisional
+works:
+- the-fencer-trilogy
+- duellists-trilogy
+- cold-counsel
+- the-scavenger-trilogy
+- the-sea-hag
+ruling: 'Curator restructure approved ("Approved" phonemsg-01M7QDHA1C8RYENNG9JD7MD334, 2026-11-18 2:28 PM CET, on
+  his "Propose the full reorganization including that next split" phonemsg-01M7QDC6NW9DB0HY0YT3PCNNJZ): Half-caster
+  heroes umbrella created beside Caster heroes and Martial heroes after the half-caster audit (16 cards whose hero
+  joins steel to his own magic); the Outcast knights branch is dissolved, its mundane five re-merged as Free blades.
+  Name as served (the masterless sword).'
+history:
+- date: '2026-11-18'
+  change: 'Re-merge of the dissolved Outcast knights branch’s mundane five in the Half-caster heroes restructure
+    (curator "Approved", phonemsg-01M7QDHA1C8RYENNG9JD7MD334): The Fencer Trilogy, Duellists Trilogy, Cold Counsel,
+    The Scavenger Trilogy, The Sea Hag.'

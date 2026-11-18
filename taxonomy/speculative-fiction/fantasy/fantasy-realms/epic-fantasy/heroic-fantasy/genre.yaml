@@ -3,10 +3,14 @@ label: Heroic fantasy
 parent: epic-fantasy
 children:
 - caster-heroes
+- half-caster-heroes
 - martial-heroes
 - npc-heroes
 image: 1-3-heroic-fantasy.webp
-definition: "Hero-centered fantasy organized as an RPG-class tree by the protagonist\u2019s primary power source: spellcraft, martial skill, or no adventuring\
-  \ class."
+definition: 'Hero-centered fantasy organized as an RPG-class tree by the protagonist’s primary power source: spellcraft,
+  martial skill, the two joined in one hero, or no adventuring class.'
 status: accepted
 works: []
+history:
+- date: '2026-11-18'
+  change: Half-caster heroes umbrella added between Caster heroes and Martial heroes (curator "Approved", phonemsg-01M7QDHA1C8RYENNG9JD7MD334).

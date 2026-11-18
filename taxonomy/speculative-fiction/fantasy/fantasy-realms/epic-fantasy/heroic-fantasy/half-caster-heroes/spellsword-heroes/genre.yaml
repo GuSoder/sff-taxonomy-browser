@@ -1,0 +1,29 @@
+id: spellsword-heroes
+label: Spellsword heroes
+parent: half-caster-heroes
+children: []
+image: 965-spellsword-heroes.webp
+definition: Half-caster fantasy whose fighter's own kit includes magic - learned spells, a born gift, a hosted spirit
+  or god-blood - wielded alongside the sword. Not Paladin hero (the magic is a sacred or oath-bound office), not
+  Arcane trickster heroes (the trade is stealth), not Martial heroes (no magic of his own).
+status: provisional
+works:
+- the-elenium
+- the-tamuli
+- ravens-shadow
+- the-bronze-knight
+- the-witcher
+- that-dark-infinity
+- land-fit-for-heroes
+- the-bloodsworn-saga
+- graceling-realm
+ruling: 'Curator restructure approved ("Approved" phonemsg-01M7QDHA1C8RYENNG9JD7MD334, 2026-11-18 2:28 PM CET, on
+  his "Propose the full reorganization including that next split" phonemsg-01M7QDC6NW9DB0HY0YT3PCNNJZ): Half-caster
+  heroes umbrella created beside Caster heroes and Martial heroes after the half-caster audit (16 cards whose hero
+  joins steel to his own magic); the Outcast knights branch is dissolved, its mundane five re-merged as Free blades.
+  Name as served (the attested RPG name: D&D, Elder Scrolls, Dragonlance).'
+history:
+- date: '2026-11-18'
+  change: 'Seeded with 9 cards in the Half-caster heroes restructure (curator "Approved", phonemsg-01M7QDHA1C8RYENNG9JD7MD334):
+    The Elenium, The Tamuli, Raven’s Shadow, The Bronze Knight, The Witcher, That Dark Infinity, Land Fit for Heroes,
+    The Bloodsworn Saga, Graceling Realm. Freeze watch at 9.'

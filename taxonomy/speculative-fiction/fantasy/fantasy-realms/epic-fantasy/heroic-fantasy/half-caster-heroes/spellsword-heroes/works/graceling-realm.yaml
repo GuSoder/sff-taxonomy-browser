@@ -1,0 +1,45 @@
+id: graceling-realm
+title: Graceling Realm
+authors:
+- Kristin Cashore
+first_published: 2008
+canonical_genre: spellsword-heroes
+placement_status: accepted
+placement_rationale: 'Classified by the curator''s RPG-class partition: the hero''s primary power source matches
+  Warrior Hero, not merely the setting or tone.'
+cover_url: https://covers.openlibrary.org/b/id/6311836-L.jpg
+shows_english_title: true
+books:
+- title: Graceling
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6311836-L.jpg
+- title: Fire
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/10193559-L.jpg
+- title: Bitterblue
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/8564330-L.jpg
+- title: Winterkeep
+  year: 2021
+  cover_url: https://covers.openlibrary.org/b/id/10582304-L.jpg
+- title: Seasparrow
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/14021478-L.jpg
+placement_history:
+- date: '2026-11-18'
+  from: grudge-knights
+  to: spellsword-heroes
+  reason: 'Half-caster heroes restructure approved by the curator ("Approved" phonemsg-01M7QDHA1C8RYENNG9JD7MD334,
+    2026-11-18 2:28 PM CET, on his "Propose the full reorganization including that next split" phonemsg-01M7QDC6NW9DB0HY0YT3PCNNJZ);
+    re-walked: this card sits in spellsword-heroes (a Grace is born magic; Katsa''s is delivered martially).'
+- date: '2026-11-18'
+  from: outcast-knights
+  to: grudge-knights
+  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved"
+    (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits
+    in grudge-knights.'
+- date: '2026-10-12'
+  from: warrior-hero
+  to: outcast-knights
+  reason: 'Warrior hero split into Champion knights / Outcast knights on the curator''s approval; re-walked: this
+    card sits in Outcast knights.'

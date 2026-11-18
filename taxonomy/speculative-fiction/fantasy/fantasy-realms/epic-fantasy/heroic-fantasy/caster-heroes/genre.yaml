@@ -5,10 +5,13 @@ children:
 - bard-hero
 - mage-hero
 - cleric-hero
-- paladin-hero
 - warlock-hero
 image: 189-caster-heroes.webp
-definition: Heroic fantasy whose protagonist’s primary power source is spellcraft, sacred power, magical performance or an empowered oath; setting and tone do not
-  decide the class.
+definition: Heroic fantasy whose protagonist’s primary power source is spellcraft, sacred power or magical performance;
+  setting and tone do not decide the class.
 status: accepted
 works: []
+history:
+- date: '2026-11-18'
+  change: Paladin hero moved whole to the new Half-caster heroes umbrella (curator "Approved", phonemsg-01M7QDHA1C8RYENNG9JD7MD334);
+    the leaf is the D&D half-caster archetype.

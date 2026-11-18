@@ -4,7 +4,7 @@ authors:
 - Julia Knight
 first_published: 2015
 last_published: 2015
-canonical_genre: sellsword-knights
+canonical_genre: free-blades
 placement_status: accepted
 books:
 - title: Swords and Scoundrels
@@ -19,7 +19,15 @@ books:
   year: 2015
   cover_url: cover-knight-duellists-warlords.jpg
   shows_english_title: true
-placement_rationale: 'Root-down (2026-11-18 re-walk): Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Warrior hero > Outcast knights. Sibling duellists Kacha and Vocho are cast out of their guild after a fatal protection job and live masterless - highway robbery, gambling scams, a commissioned bandit manhunt - fighting for a fee, a grudge and survival, their primary power the duel itself. The leaf''s gate: cast out, exiled or masterless, fighting for his own reasons, a fee, a grudge or survival; The Witcher and The Fencer Trilogy are the shelf neighbors. Moved out of Caper fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF, phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): the scams ride along on what is really a swordplay series. Not Rogue hero (the gate excludes stealth-and-cunning primaries: their power is the blade). This placement lands the leaf''s tenth - freeze and split proposal follow at once.'
+placement_rationale: 'Root-down (2026-11-18 re-walk): Speculative fiction > Fantasy > Fantasy realms > Epic fantasy
+  > Heroic fantasy > Martial heroes > Warrior hero > Outcast knights. Sibling duellists Kacha and Vocho are cast
+  out of their guild after a fatal protection job and live masterless - highway robbery, gambling scams, a commissioned
+  bandit manhunt - fighting for a fee, a grudge and survival, their primary power the duel itself. The leaf''s gate:
+  cast out, exiled or masterless, fighting for his own reasons, a fee, a grudge or survival; The Witcher and The
+  Fencer Trilogy are the shelf neighbors. Moved out of Caper fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF,
+  phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): the scams ride along on what is really a swordplay series. Not
+  Rogue hero (the gate excludes stealth-and-cunning primaries: their power is the blade). This placement lands the
+  leaf''s tenth - freeze and split proposal follow at once.'
 classification_sources:
 - https://www.hachette.com.au/series/duellists-trilogy
 - https://www.hachette.co.uk/titles/julia-knight/swords-and-scoundrels/9780356504070/
@@ -49,13 +57,22 @@ cover_curation:
   note: Three English flat Orbit print jackets, distinct/localized.
 placement_history:
 - date: '2026-11-18'
+  from: sellsword-knights
+  to: free-blades
+  reason: 'Half-caster heroes restructure approved by the curator ("Approved" phonemsg-01M7QDHA1C8RYENNG9JD7MD334,
+    2026-11-18 2:28 PM CET, on his "Propose the full reorganization including that next split" phonemsg-01M7QDC6NW9DB0HY0YT3PCNNJZ);
+    re-walked: this card sits in free-blades (Kacha and Vocho are mundane expelled duellists living by the sword).'
+- date: '2026-11-18'
   from: outcast-knights
   to: sellsword-knights
-  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved" (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits in sellsword-knights.'
+  reason: 'Outcast knights split at ten cards into Sellsword knights / Grudge knights on the curator''s "Approved"
+    (phonemsg-01M7QC96K2EDWTZAG4SHBSNC4N on serve phonemsg-01M7QC7ENH69JT3091SFVSW1CR); re-walked: this card sits
+    in sellsword-knights.'
 - date: '2026-11-18'
   to: outcast-knights
-  reason: 'Pruned from caper-fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF; rename rejected, phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): re-walk placed it in outcast-knights.'
+  reason: 'Pruned from caper-fantasy on the curator''s direction (phonemsg-01M7QBJCFS32SPR9JJ0ZNWMJQF; rename rejected,
+    phonemsg-01M7QC0JAV7SJCPSTEFHBZD4DD, 2026-11-18): re-walk placed it in outcast-knights.'
 - date: '2026-11-06'
   to: caper-fantasy
-  reason: MC04990-92 Whole3 robbery/scams/banditmanhunt intimatecriminaladventure. Caper9to10 frozen immediate split required.
-    No gates changed.
+  reason: MC04990-92 Whole3 robbery/scams/banditmanhunt intimatecriminaladventure. Caper9to10 frozen immediate split
+    required. No gates changed.

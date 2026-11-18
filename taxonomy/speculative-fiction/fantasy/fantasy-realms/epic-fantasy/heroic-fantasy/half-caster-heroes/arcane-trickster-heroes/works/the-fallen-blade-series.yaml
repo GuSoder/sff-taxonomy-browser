@@ -3,13 +3,13 @@ title: The Fallen Blade series
 authors:
 - Kelly McCullough
 first_published: 2011
-canonical_genre: sworn-assassins
+canonical_genre: arcane-trickster-heroes
 placement_status: accepted
-placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero > Assassin
-  heroes > Sworn assassins. Aral Kingslayer was a Blade of Namara, temple assassin of the goddess of Justice - he killed for
-  his goddess, never for money. After her murder and his order''s destruction he scrapes by as a shadow jack, but the series''
-  engine is the bond: his oath to the dead goddess, the justice she stood for, and the vengeance he finally takes in her name.
-  Bond, not trade.'
+placement_rationale: 'Walk: Fantasy > Fantasy realms > Epic fantasy > Heroic fantasy > Martial heroes > Rogue hero
+  > Assassin heroes > Sworn assassins. Aral Kingslayer was a Blade of Namara, temple assassin of the goddess of
+  Justice - he killed for his goddess, never for money. After her murder and his order''s destruction he scrapes
+  by as a shadow jack, but the series'' engine is the bond: his oath to the dead goddess, the justice she stood
+  for, and the vengeance he finally takes in her name. Bond, not trade.'
 books:
 - title: Broken Blade
   year: 2011
@@ -37,6 +37,13 @@ cover_curation:
   review_method: contact-sheet one-pass
 intake: ten-k walk v5 (queue ids MC05418, MC05416, crossed-blades, MC05417, drawn-blades, darkened-blade)
 placement_history:
+- date: '2026-11-18'
+  from: sworn-assassins
+  to: arcane-trickster-heroes
+  reason: 'Half-caster heroes restructure approved by the curator ("Approved" phonemsg-01M7QDHA1C8RYENNG9JD7MD334,
+    2026-11-18 2:28 PM CET, on his "Propose the full reorganization including that next split" phonemsg-01M7QDC6NW9DB0HY0YT3PCNNJZ);
+    re-walked: this card sits in arcane-trickster-heroes (Aral''s goddess-bond and shadow familiar are his own magic;
+    the delivery is the assassin''s trade).'
 - date: '2026-11-16'
   to: sworn-assassins
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

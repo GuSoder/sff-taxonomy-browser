@@ -1,0 +1,15 @@
+id: paladin-hero
+label: Paladin hero
+parent: half-caster-heroes
+children: []
+image: 195-paladin-hero.webp
+definition: Half-caster fantasy whose protagonist’s primary power joins martial office to sacred or oath-bound magic.
+status: accepted
+works:
+- deryni-rising
+- paksworld
+- the-war-god
+history:
+- date: '2026-11-18'
+  change: Moved whole from Caster heroes to the new Half-caster heroes umbrella (curator "Approved", phonemsg-01M7QDHA1C8RYENNG9JD7MD334);
+    by D&D reckoning the paladin is the half-caster archetype.
