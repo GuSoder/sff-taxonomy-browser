@@ -1,30 +1,31 @@
 id: magic-bond-romantasy
 label: Magic bond romantasy
 parent: bargain-bond-romantasy
-children: []
+children:
+- bride-bond-romantasy
+- curse-bond-romantasy
 image: 818-magic-bond-romantasy.webp
 portrait: 818-magic-bond-romantasy.webp
-definition: 'Bargain bond romantasy in which the imposed tie answers to a supernatural power: a god''s or fae''s or monster''s
-  claim, a crossroads bargain sealed by magic, a prophecy or a curse that binds the lovers. The lovers must live inside what
-  magic holds them to. Not Court bond romantasy (the tie is a court''s law: arranged or diplomatic marriage, a mortal prince''s
-  bargain), not Soul bond romantasy (the bond is innate magic in the blood between the lovers, not an imposed claim from outside
-  the pair).'
-status: provisional
-ruling: Split of Bargain bond romantasy at ten cards by what enforces the tie - a court's law or an imposed magic claim (curator
-  "Approved" (phonemsg-01M5Y0DZCRQ6PWR5WKZVE292Q0, 2026-10-27 7:23 AM CET) of the split as served (phonemsg-01M5XYMC8E2NVW33FDZBEQAJM9),
-  his own name Magic bond romantasy (phonemsg-01M5Y0DET26Z730VBQQF37NNCP) after he found Supernatural bond long (phonemsg-01M5Y0D64EECNHQ8YZEVX9NBKB)).
-works:
-- otherworldly
-- the-maid-and-the-crocodile
-- the-wilderwood-duology
-- a-curse-of-crows-and-serpents
-- king-of-ravens
-- tigers-curse
-- married-to-magic
-- the-wicked-sea
-- wicked-games
-- heartstring-duet
+definition: 'Bargain bond romantasy in which the imposed tie answers to a supernatural power: a god''s or fae''s
+  or monster''s claim, a crossroads bargain sealed by magic, a prophecy or a curse that binds the lovers. The lovers
+  must live inside what magic holds them to. Not Court bond romantasy (the tie is a court''s law: arranged or diplomatic
+  marriage, a mortal prince''s bargain), not Soul bond romantasy (the bond is innate magic in the blood between
+  the lovers, not an imposed claim from outside the pair). Umbrella since 2026-11-19, partitioned by what the bargain
+  takes as its price: Bride bond romantasy (the heroine herself, wed or sacrificed to the power) and Curse bond
+  romantasy (a deed the bound pair must perform).'
+status: umbrella
+works: []
+ruling: Split of Bargain bond romantasy at ten cards by what enforces the tie - a court's law or an imposed magic
+  claim (curator "Approved" (phonemsg-01M5Y0DZCRQ6PWR5WKZVE292Q0, 2026-10-27 7:23 AM CET) of the split as served
+  (phonemsg-01M5XYMC8E2NVW33FDZBEQAJM9), his own name Magic bond romantasy (phonemsg-01M5Y0DET26Z730VBQQF37NNCP)
+  after he found Supernatural bond long (phonemsg-01M5Y0D64EECNHQ8YZEVX9NBKB)). Split at ten cards into Bride bond
+  romantasy / Curse bond romantasy by what the bargain takes as its price (curator "Approved" (phonemsg-01M7RRR1K9GEXW48S92ZFZ04PZ,
+  2026-11-19 3:04 AM CET) on the split as served (Bride bond 4 / Curse bond 6, phonemsg-01M7QP8HJ8KQY7GH82K59ZMMQ8)).
 history:
 - date: '2026-10-27'
   change: Created in the split of Bargain bond romantasy at ten cards (curator "Approved" (phonemsg-01M5Y0DZCRQ6PWR5WKZVE292Q0,
     2026-10-27 7:23 AM CET)).
+- date: '2026-11-19'
+  change: Split with umbrella at ten cards into Bride bond romantasy (4) and Curse bond romantasy (6), partitioned
+    by what the bargain takes as its price (curator "Approved" (phonemsg-01M7RRR1K9GEXW48S92ZFZ04PZ, 2026-11-19
+    3:04 AM CET) on the split as served (Bride bond 4 / Curse bond 6, phonemsg-01M7QP8HJ8KQY7GH82K59ZMMQ8)).
