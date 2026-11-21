@@ -1,19 +1,21 @@
 id: occult-city
 label: Occult city
 parent: modern-occult
-children: []
-works:
-- kraken
-- arcane-underworld
-- our-lady-of-darkness
-- sandman-slim
-- book-of-night
-- the-crescent-city-novels
-- the-bookshop-below
-- the-jesse-james-dawson-series
-- matthew-swift-universe
-- the-jessie-shimmer-series
+children:
+- occult-underworlds
+- haunted-cities
+- cursed-markets
+- city-soul-trade
+- possessed-citizens
+works: []
 image: 436-occult-city.webp
-definition: 'Modern occult fantasy where the city itself and its hidden magical economy organize the story: urban arcana, cursed city lore, and occult dealings on
-  the streets. Split from Modern Occult under the curator''s harmonized names (phonemsg-01M3P9RM636KMZRM7J0PR29XGC, 2026-09-29).'
-status: accepted
+definition: 'Modern occult fantasy where the city itself and its hidden magical economy organize the story: urban arcana,
+  cursed city lore, and occult dealings on the streets. Split from Modern Occult under the curator''s harmonized names (phonemsg-01M3P9RM636KMZRM7J0PR29XGC,
+  2026-09-29). Umbrella since 2026-11-21: split at ten cards into Occult underworlds (the city''s hidden occult society as
+  an underworld: cults, crews, crimelords), Haunted cities (the city''s own dead, gods and history pressing on the present),
+  Cursed markets (occult goods - shadows, grimoires - bought, sold and stolen), City soul trade (souls wagered, damned and
+  carried back, Hell''s economy on the streets), Possessed citizens (outside powers wearing city people); curator ''Approved''
+  (phonemsg-01M7ZMBZ3BKBCT6D9WZDTHSPXC, 2026-11-21), City soul trade named on curator ''Approved'' on his correction ''Soul
+  bargains don''t spell city'' (phonemsg-01M7ZMDCC68SBJH7H9QMR42BMD, 2026-11-21).'
+status: umbrella
+ruling: curator 'Approved' (phonemsg-01M7ZMBZ3BKBCT6D9WZDTHSPXC, 2026-11-21); City soul trade on phonemsg-01M7ZMDCC68SBJH7H9QMR42BMD

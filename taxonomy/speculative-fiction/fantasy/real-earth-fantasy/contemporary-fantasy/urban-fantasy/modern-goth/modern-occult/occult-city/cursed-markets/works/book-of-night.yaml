@@ -3,10 +3,10 @@ title: Book of Night
 authors:
 - Holly Black
 first_published: 2022
-canonical_genre: occult-city
+canonical_genre: cursed-markets
 placement_status: accepted
-placement_rationale: Gloamists manipulate shadows for theft and murder inside a contemporary underground economy
-  of grimoires; occult system embedded in modern professions and organized social life.
+placement_rationale: Gloamists manipulate shadows for theft and murder inside a contemporary underground economy of grimoires;
+  occult system embedded in modern professions and organized social life.
 classification_sources: []
 intake: 'gap-2022 tier-2 #44 (LocusRec2022-Fantasy)'
 books:
@@ -29,3 +29,9 @@ placement_history:
   from: modern-occult
   to: occult-city
   reason: Curator harmonized-names ruling phonemsg-01M3P9RM636KMZRM7J0PR29XGC.
+- date: '2026-11-21'
+  from: occult-city
+  to: cursed-markets
+  reason: Curator-approved five-way split of Occult city (curator 'Approved' (phonemsg-01M7ZMBZ3BKBCT6D9WZDTHSPXC, 2026-11-21);
+    City soul trade named on curator 'Approved' on his correction 'Soul bargains don't spell city' (phonemsg-01M7ZMDCC68SBJH7H9QMR42BMD,
+    2026-11-21)).
