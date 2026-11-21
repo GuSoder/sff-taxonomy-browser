@@ -1,0 +1,32 @@
+id: the-grim-company
+title: The Grim Company
+authors:
+- Luke Scull
+first_published: 2013
+canonical_genre: tinderbox-fantasy
+placement_status: accepted
+placement_rationale: 'The gods are dead and the Magelords who killed them rule as tyrants: Dorminia under Salazar''s mind-reading
+  Augmentors is an occupied city ready to ignite, and a band of antiheroes - a barbarian swordsman, a failed mage, an assassin
+  - is swept into the White Lady''s liberation plot as open revolt brews in the streets. Grimdark occupied-city rebellion,
+  the tinderbox shape.'
+books:
+- title: The Grim Company
+  year: 2013
+  cover_url: https://images-na.ssl-images-amazon.com/images/P/042526484X.01.LZZZZZZZ.jpg
+- title: Sword of the North
+  year: 2015
+  cover_url: https://images-na.ssl-images-amazon.com/images/P/0425264866.01.LZZZZZZZ.jpg
+- title: Dead Man's Steel
+  year: 2016
+  cover_url: https://images-na.ssl-images-amazon.com/images/P/0425264890.01.LZZZZZZZ.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://images-na.ssl-images-amazon.com/images/P/042526484X.01.LZZZZZZZ.jpg
+  visually_reviewed_on: '2026-11-21'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06157, MC06156, MC06155)
+placement_history:
+- date: '2026-11-21'
+  to: tinderbox-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
