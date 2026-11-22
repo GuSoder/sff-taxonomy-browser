@@ -1,7 +1,7 @@
 queue:
 - MC06293
 - MC06294
-status: placed;deployment/liveQA pending
+status: complete;a72433f3ddeploy45073751289success/livepixels22:46CET
 leaf: isolationist-fantasy
 before_count: 6
 after_count: 7
@@ -95,3 +95,4 @@ front:
   visually_reviewed_on: '2026-11-22'
   review_method: flatEnglishfrontpixelsinspectedcontactsheet;remotehotlinksonly,noartfilesinrepo
   rejected: authorcurrentwebsite406;equivalentobservedsourceURLswork
+live_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=a72433f3d-2246#isolationist-fantasy/beyond-the-ruby-veil
