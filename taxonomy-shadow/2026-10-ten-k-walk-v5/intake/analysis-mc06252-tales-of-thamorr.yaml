@@ -1,7 +1,7 @@
 queue: MC06252
 title: Tales of Thamorr
 author: M. J. Kuhn
-status: placed locally; deployment/live QA pending
+status: live and pixel verified
 leaf: caper-fantasy
 before_count: 6
 after_count: 7
@@ -182,3 +182,17 @@ preflight: https://gusoder.github.io/sff-taxonomy-browser/?preflight=mc06252-200
 authority:
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+live_verification:
+  date: '2026-11-22'
+  commit: 88c54d0655afd1b03934097609e2c357d6ba9c26
+  leaf_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=88c54d065-2006#caper-fantasy
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=88c54d065-2007f#caper-fantasy/tales-of-thamorr
+  deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45058539230
+  deployment_status: completed/success
+  counts:
+  - 921
+  - 2942
+  - 7222
+  pixels: Mobile seven-fiction header and full new seventh tile inspected; tablet whole two-book page, full English fronts
+    and2021/2023 captions inspected. Images decoded258x400 and267x400. Existing six fictions, all other nodes, definition
+    and portrait unchanged.

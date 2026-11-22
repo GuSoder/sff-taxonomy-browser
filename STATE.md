@@ -2350,3 +2350,11 @@ Seonag and the Seawolves excluded as short fiction: Tor32pages and ISFDB8456-wor
 
 ## MC06252 Tales of Thamorr,2026-11-22
 Kuhn's Among Thieves2021/Thick as Thieves2023 one shared world, not Hulick, into existing Caper fantasy6->7. Eleven source pages, full author first-ending recap and completed sequel/duology criticism; real half-caster, politics, pirate and bond rivals retained. Two full English fronts inspected/localized. No structure/portrait change.921/2942/7222 pending deployment/live QA. NextMC06253.
+
+
+## Tales of Thamorr live closeout,2026-11-22 20:07 CET
+Exact88c54d065 Pages deployment succeeded; actual921/2942/7222, Caper7 and two-book Kuhn fiction verified. Phone header/new seventh tile and complete tablet two-book page inspected; both English fronts loaded with2021/2023 captions. No structure, definition or portrait change. No open decision; nextMC06253.
+
+
+## MC06253/MC06254 Thieves & Kings,2026-11-22
+One M. K. Lobb duology2025/2026 into existing Gaslight technomancy5->6. Sixteen read source pages, including primary manufacturing opening and completed final-book criticism. Real1851 London, not realms Caper; alternate-history, SF Steampunk and magician-craft alternatives retained. Two450x675 complete English publisher fronts inspected/localized. No structure/portrait change.921/2943/7224 pending deployment/live QA. NextMC06260.
