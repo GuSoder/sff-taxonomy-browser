@@ -1,6 +1,6 @@
 queue: MC06228
 date: '2026-11-22'
-status: approved seed executed; awaiting deployment and live QA
+status: placed; approved seed live and pixel verified
 fiction: Veneficas Americana
 author: M. K. Hobson
 published_novels:
@@ -110,8 +110,9 @@ sources:
   url: https://www.isfdb.org/cgi-bin/pe.cgi?28011=
 - title: 'The Warlock''s Curse (Veneficas Americana, #3) by M.K. Hobson | Goodreads — goodreads.com'
   url: https://www.goodreads.com/book/show/12675334-the-warlock-s-curse
-execution: Approved leaf and three-novel world written. Two full-size portraits judged, A chosen; served WebP and master1024x1536,
-  private Drive master archive. Three English fronts pixel-inspected. Await actual live QA; no other fiction changed.
+execution: Approved Fantasy-side seed live. Eight Alternate history children, one new fiction/three confirmed novels. Two
+  full-size variants judged, A selected; master and served WebP1024x1536 inspected. All three local English covers loaded
+  and complete live cards/captions inspected after scrolling. No open decision.
 approval:
   proposal: phonemsg-01M81BF0HKQ3YTFSR8V404N70Z
   approval: phonemsg-01M81W5K2T08G1GHN11KXAF6YG
@@ -149,3 +150,11 @@ book_cover_sources:
   local: cover-veneficas-americana-3.jpg
   width: 316
   height: 475
+live_urls:
+  umbrella: https://gusoder.github.io/sff-taxonomy-browser/?verified=3a470aa80-150650#alternate-history-fantasy
+  leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=3a470aa80-150650#alt-steampunk-fantasy
+  fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=3a470aa80-150650#alt-steampunk-fantasy/veneficas-americana
+deployment:
+  commit: 3a470aa80cfec19fb535f4980a08a325327fe468
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45036363750
+  conclusion: success

@@ -2298,3 +2298,9 @@ Three verified novels2010/2011/2012, one family world spanning1876/1910.2015 com
 
 ## Approved MC06228 Alt steampunk fantasy seed,2026-11-22
 Original textual approval phonemsg-01M81W5K2T08G1GHN11KXAF6YG to served block phonemsg-01M81BF0HKQ3YTFSR8V404N70Z. Eighth Alternate history fantasy child under the explicit Fantasy root, one Veneficas Americana fiction/three verified novels2010/2011/2012. Whole-world walk and moderate Period-boundary caveat retained. Novella and undated fourth excluded, no new publication assertion. Portrait978A selected from two inspected full-size variants; master/served WebP1024x1536, private master archive. Three localized English fronts inspected. Prior MC06227 covered-ledger documentation included, no extra fiction or structural repair. Counts918/2936/7209; awaiting deployment/live QA, then resume next unfinished row without another go. No decision open.
+
+## Alt steampunk live QA,2026-11-22 16:10 CET
+Actual918/2936/7209; explicit Fantasy breadcrumb,8umbrella children,1fiction/3novels and all3cover loads verified. New portrait and full3bookcards/captions inspected after scrolling; no source art sent to chat. Successful deployment3a470aa80. Finished umbrella/leaf/fiction URLs and4QAimages delivered in closeout. No open decision; next unfinished row resumes without another go.
+
+## MC06230/31 Seven Faceless Saints,2026-11-22
+Complete published two-novel duology2023/2024 in Second-chance romantasy,1->2. Original individual-fiction trust reread. Full root sibling walk, secondary-world gate explicitly sourced, first-book detective/second-book divine-war shift and romance/political/mythological rivals recorded with moderate confidence. Two complete English fronts inspected and localized; no structural/image/definition change. MC06229 Native Star already covered by the just-live Veneficas Americana world.918/2937/7211 pending deployment/live QA; no open decision.

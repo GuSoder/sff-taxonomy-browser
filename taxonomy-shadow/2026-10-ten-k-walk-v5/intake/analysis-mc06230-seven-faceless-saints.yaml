@@ -1,0 +1,170 @@
+queue: MC06230
+covered_queue: MC06231
+title: Seven Faceless Saints
+author: M. K. Lobb
+status: placed locally; awaiting deploy/live QA
+leaf: second-chance-romantasy
+before_count: 1
+after_count: 2
+scope: Complete two-published-novel duology2023/2024. Same-author London heist project is separately grounded and not this
+  universe. No other work added.
+whole_content:
+- title: Seven Faceless Saints
+  year: 2023
+  content: Former childhood sweethearts Roz and Damian, separated by war and her father's execution by his father, reunite
+    through an official inquiry into murders ignored until a privileged disciple dies. Their renewed romance, the inherited
+    saintly caste order and rebellion are co-equal strands, and the mystery exposes Chaos.
+- title: Disciples of Chaos
+  year: 2024
+  content: The rebellion has not remade the hierarchy. Arrests and forced military service send the couple and companions
+    out of Ombrazia to rescue friends through enemy territory. Damian changes under Chaos, and the history of Chaos and Patience
+    turns the fate of their recovered love into the climax. Completed-reader accounts establish that the book ends the duology;
+    the second volume is not another official murder case.
+walk: 'Speculative fiction > Fantasy > Fantasy realms > Heart fantasy > Romantasy > Second-chance romantasy.
+
+  Root gate: the saints, inherited magic and divine return are literal supernatural mechanisms. No SF branch supplies their
+  explanation, and this is neither mundane crime nor historical fiction. Fantasy/setting gate: the author explicitly describes
+  the published books as secondary-world fantasy and says the real historical elements were cut. Ombrazia and Brechaat are
+  invented; Florence/guild inspiration is not Earth provenance. Real earth fantasy fails; Portal fantasy fails because no
+  Earth crossing structures the story.
+
+  Fantasy realms full sibling walk: Epic fantasy is a serious rival because the class order, rebellion, war and invented saints
+  matter. Political/Revolutionary/Overthrow/Proletariat fits the oppressive caste conflict but does not govern the coupled
+  whole as well as the lost lovers and what divine conflict does to them. Magic politics is not just any magic-caste society;
+  it requires regulation of power to govern. Military fantasy is not merely an ongoing war or a traumatized ex-soldier; organized
+  campaigns are not the duology''s spine. High fantasy is not a journey merely because book2 leaves the city, and Heroic fantasy
+  is not character-class adventure. Invented mythology/Invented gods is another real rival: Invented worship has9 fictions
+  and Invented godhood5. These are not rejected to avoid ten. The gods'' lore becomes pivotal in book2, but the sustained
+  subject across the two is Roz and Damian''s human relationship and its survival; the sources do not establish sustained
+  divine-existence experience as the whole-fiction center. Mythlike past is weaker once Chaos acts; Mythic power struggle
+  fails its real-tradition beings gate. Hard fantasy is not supplied by differentiated saintly powers alone.
+
+  Sword and Sorcery fails its combat/adventure-first gate: no heist/gang job, pirate enterprise, formal competition, planetary
+  adventure or governing machine mechanism. Fairytale fantasy fails both recognizable-tale revision and original fairy-tale
+  grammar. Gothic realms is an honest tonal rival: book1''s official murder inquiry suggests Fantasy mystery/Detective fantasy,
+  but book2 leaves the series-of-cases model for flight, rescue, war and the changing beloved. It is not two novels of an
+  official sleuth''s work. Godforsaken realms is plausible because Chaos and the dark saintly order matter, but supernatural
+  dread alone is not the governing continuous relationship engine. No ghost-witness, hired-gumshoe, isolated-enclosure, feeding,
+  manners or necromantic-engineering gate fits better. Far shores fantasy fails its non-Western counterpart/about-ness gate;
+  Italian inspiration is not that gate. Comic fantasy realms fails its governing comedy/parody test.
+
+  Heart fantasy passes: a broken childhood romance, painfully renewed, stays co-equal with the external stakes; the sequel
+  directly threatens the returned lover''s identity and their bond. This is not a minor romantic decoration on two self-contained
+  murder cases. Cozy fails the comfort/low-intensity gate and Horse fails the primary horse-partner bond. Within Romantasy,
+  Second-chance is the precise start: they were already childhood sweethearts, torn apart by war, silence and the execution
+  of her father by his father, before the first chapter. The mystery reunites them, and the second volume tests the recovered
+  love under Damian''s transformation and the saintly lovers'' history. Enemies-to-lovers is a marketing description of their
+  hostility now, but its Crown-enemies/Crown-outlaw furniture is less exact than the tree''s explicit lost-love-return gate.
+  Friends-to-lovers is not an existing friendship first becoming romance. Bonded/Sworn-duty/Chance-duty has the shared inquiry
+  but does not explain their pre-existing broken romance; no imposed marriage, deal or literal pair soul-bond is established
+  as their initial tie. Polyamorous fails the more-than-two romantic spine gate.
+
+  Decision: one complete two-novel Seven Faceless Saints fiction in the existing Second-chance romantasy leaf,1->2 fictions.
+  No definition, image, name, new node or sibling placement changes. Moderate confidence, with Detective fantasy, Proletariat
+  fantasy and Invented worship/godhood as the material rejected rivals, not a claim those themes are absent.'
+confidence: Moderate. Primary author interviews and completed readers make the returned couple continuous across both volumes,
+  but book1 has substantial institutional mystery and class politics; one reviewer gives its romance less weight. Book2 turns
+  toward travel, rescue and active divine myth rather than another official case. Marketing calls the couple enemies-to-lovers,
+  while their prior romance makes the existing Second-chance gate more exact. No automatic assignment from a trope label or
+  the presence of gods.
+sources:
+- title: Author current bibliography
+  url: https://mklobb.com/about
+  type: author primary
+  read: full page fetched2026-11-22
+  claims: 2023/2024 sequence; subsequent separately named projects
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Author first-book account
+  url: https://mklobb.com/seven-faceless-saints
+  type: author primary
+  read: full page fetched2026-11-22
+  claims: past couple, duty inquiry, saintly hierarchy
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Author unrelated London project
+  url: https://mklobb.com/to-steal-from-thieves
+  type: author primary
+  read: full page fetched2026-11-22
+  claims: separate Great Exhibition story; not folded into Ombrazia
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Publisher final-volume description
+  url: https://titanbooks.com/71543-disciples-of-chaos/
+  type: publisher primary
+  read: full page fetched2026-11-22
+  claims: two-book conclusion; flight, arrests, war, changing Damian;2024 UK publication
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Publisher first-volume description
+  url: https://shop.hachettebookgroup.com/products/seven-faceless-saints-9780316387163
+  type: publisher primary
+  read: full page fetched2026-11-22
+  claims: childhood romance renewed under a shared murder inquiry
+  confidence: high for explicit scope/events; interpretation moderate
+- title: First-book author interview
+  url: https://www.pastemagazine.com/books/m-k-lobb/seven-faceless-saints-m-k-lobb-interview
+  type: author interview/edited publication
+  read: full page fetched2026-11-22
+  claims: former sweethearts; three-part mystery/romance/social critique; real-history elements removed
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Final-volume author interview
+  url: https://thenerddaily.com/mk-lobb-disciples-of-chaos-interview/
+  type: author interview/edited publication
+  read: full page fetched2026-11-22
+  claims: explicitly different from book1, expanded politics/world, romantic angst retained, duology conclusion
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Independent first-book review
+  url: https://twincitiesgeek.com/2023/02/worldbuilding-partially-saves-seven-faceless-saints-from-its-cast/
+  type: independent review
+  read: full page fetched2026-11-22
+  claims: official investigator, magic caste, war trauma; gives romance less weight than some other accounts
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Completed final-volume spoiler reading
+  url: https://forthenovellovers.wordpress.com/2024/02/22/major-spoilers-ahead-disciples-of-chaos-by-m-k-lobb-seven-faceless-saints-book-2/
+  type: completed reader review
+  read: full page fetched2026-11-22
+  claims: full northern rescue arc, Chaos transformation, saints' lovers myth, climactic sacrifice and ending
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Completed final-volume reading
+  url: https://www.theweatherwriter.com/post/book-review-disciples-of-chaos-by-m-k-lobb
+  type: completed reader review
+  read: full page fetched2026-11-22
+  claims: duology conclusion, couple's trust/love under divine transformation
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Completed final-volume romance reading
+  url: https://writingtheuniverse.com/2025/02/19/book-review-disciples-of-chaos-seven-faceless-saints-2/
+  type: completed reader review
+  read: full page fetched2026-11-22
+  claims: continued couple-centered arc and concluded romantic outcome
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Dissenting completed final-volume reading
+  url: http://www.thecovercontessa.com/2024/01/arc-review-disciples-of-chaos-seven.html
+  type: completed reader review
+  read: full page fetched2026-11-22
+  claims: romance pulling apart during transformation, sacrifice and ending; dislikes execution but corroborates the structure
+  confidence: high for explicit scope/events; interpretation moderate
+- title: Catalog reprint of first-book reader response
+  url: https://bookclubs.com/books/disciples-of-chaos-seven-faceless-saints-2-444058
+  type: reader/community catalog
+  read: full page fetched2026-11-22
+  claims: first-book former romance and central return arc; page heading is book2 but this reader response is about book1,
+    not evidence for book2 events
+  confidence: high for explicit scope/events; interpretation moderate
+covers:
+- title: Seven Faceless Saints
+  year: 2023
+  source: https://shop.hachettebookgroup.com/cdn/shop/files/9780316387163_530x@2x.jpg?v=1793552600
+  local: cover-lobb-seven-faceless-saints.jpg
+  dimensions:
+  - 661
+  - 1000
+- title: Disciples of Chaos
+  year: 2024
+  source: https://m.media-amazon.com/images/I/515xtVicWEL._SL500_.jpg
+  local: cover-lobb-disciples-of-chaos.jpg
+  dimensions:
+  - 330
+  - 500
+  outer_cdn_fetch: Outer and inner Titan publisher image endpoints returned403; used separately observed Bookclubs catalog/CDN
+    English front.
+authority:
+  intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
+  individual_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+  verification: Original attributed authenticated user messages read2026-11-22 16:12 CET.
