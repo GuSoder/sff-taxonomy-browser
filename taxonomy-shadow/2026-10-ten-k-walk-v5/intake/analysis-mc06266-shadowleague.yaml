@@ -4,7 +4,7 @@ queue:
 - MC06272
 title: Shadowleague
 author: Maggie Furey
-status: placed locally; deployment/live QA pending
+status: deployed and live visually verified
 leaf: ozymandian-tech
 before_count: 8
 after_count: 9
@@ -307,3 +307,15 @@ authority:
   reason: Standing sourced intake and entrusted whole-fiction judgment, one card per shared world.
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+deployment:
+  commit: 4104dbf506718a875c5da61889b2914edc96b43f
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45062780868
+  conclusion: success
+  verified_live:
+  - 921
+  - 2946
+  - 7231
+  leaf_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=4104dbf50-2051#ozymandian-tech
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=4104dbf50-2051f#ozymandian-tech/shadowleague
+  pixel_qa: Phone9-fiction header, new ninth tile and complete tablet3-book page inspected22November20:51CET; all three English
+    fronts and1999/2001/2002 captions loaded. Original Eye front/title retained.
