@@ -1,0 +1,27 @@
+id: geopolitical-fantasy
+label: Geopolitical fantasy
+parent: political-fantasy
+children: []
+image: 977-geopolitical-fantasy.webp
+definition: 'Political fantasy organized around relations and contests among states, empires or rival polities: their changing
+  balance of power across borders and its effects on people within them. Not merely a map, historical resemblance or war in
+  the background. Court intrigue retains internal ruling-court contests and ruler-level governance; Revolutionary fantasy
+  takes a governing liberation or overthrow movement; Election fantasy takes mass franchise; Magic politics takes public authority
+  over supernatural power.'
+status: accepted
+works:
+- sarantine-world
+approval:
+  proposal: phonemsg-01M816R1TJ108NCC641SSYB2K4
+  approval: phonemsg-01M816YHQXXAPQ6V5ASZMW9C6E
+  date: '2026-11-22'
+portrait:
+  master: portrait-master.png
+  dimensions:
+  - 1024
+  - 1536
+  drive_file_id: 14h0YWk0J_WvrN8FvWEWY6NDh6fD6qm5Q
+  drive_url: https://drive.google.com/file/d/14h0YWk0J_WvrN8FvWEWY6NDh6fD6qm5Q/view?usp=drivesdk&authuser=gusoder%40gmail.com
+  qa: 'Actual pixels inspected: map, rival cities, fleets and distinct standards, ordinary harbor traffic. Hidden hands, no
+    bows/arrows/quivers, no text. Full-resolution served WebP.'
+naming_source: https://civilianreader.com/2015/09/20/interview-with-seth-dickinson/
