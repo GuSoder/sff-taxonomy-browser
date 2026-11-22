@@ -1,6 +1,6 @@
 # Court spies threshold: Kay shared-world resolution
 
-2026-11-22, 09:42 CET. Status: one seed proposal served, confirmed by the current project record at 09:42:45 CET. Not approved. No genre or fiction mutation made. Intake remains frozen after MC06168-77.
+2026-11-22. Status: approved at 09:46:17 CET in phonemsg-01M816YHQXXAPQ6V5ASZMW9C6E, executed in 087483a41, live verified at 09:51-09:52 CET. The proposal and pre-execution research below are preserved as the decision record. Intake gate is complete and the walk resumes.
 
 ## Decision
 
@@ -94,3 +94,14 @@ Booklist's fetched Brightness page returned only a generic landing page. It is n
 Grand Illusion still has four novels in the current shelf. The frozen-member research found Premier is now published: Tor lists the fifth/final novel on sale 2026-11-03, while the author page gives 2026-11-13. Both are before the current 2026-11-22 check. The exact first-on-sale date differs, but the earlier unreleased exclusion is stale either way. This is a companion correction to complete after the open seed gate, not another fiction, proposed genre or queue intake. No book has been added during the pause. The seed arithmetic above deliberately excludes this future correction.
 
 Sources read live: https://torpublishinggroup.com/premier/?format=hardback&isbn=9781250427144 and https://www.lemodesittjr.com/the-books/the-grand-illusion/premier/ . The plot concerns Dekkard's Security Committee, a witness murder, corporate corruption and a conspiracy within the Council of Sixty-Six. Do not assume that a Council alone proves the mass-franchise gate of Election fantasy. Reconcile the whole fiction before any placement correction, without widening this into a side audit.
+
+## Execution and live closeout, 09:52 CET
+
+Approved seed and consolidation shipped in087483a41. Source metadata cleanup f4476cbee retained the archive ID without an account-specific Drive URL. Actual live counts917/2931/7189, Court spies7, Political fantasy5children, Geopolitical1fiction, Sarantine world8books. All eight live book images loaded. Master and live served image are both1024x1536. Actual live genre and fiction pixels inspected; readable titles, correct breadcrumb, correct book covers, distinct genre portrait. No portrait sent to the curator in chat.
+
+Verified umbrella: https://gusoder.github.io/sff-taxonomy-browser/?verified=087483a41-085111#political-fantasy
+Verified fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=087483a41-085111#geopolitical-fantasy/sarantine-world
+Served full-resolution portrait: https://gusoder.github.io/sff-taxonomy-browser/977-geopolitical-fantasy.webp
+Deployment record: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45004610375
+
+Standing intake resumes without another go. First finish the already-identified Grand Illusion companion release correction through the same full-fiction check, then the next unfinished intake row. No structural decision is open.
