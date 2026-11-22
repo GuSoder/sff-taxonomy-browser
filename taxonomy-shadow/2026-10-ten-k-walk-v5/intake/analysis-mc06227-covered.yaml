@@ -1,0 +1,29 @@
+queue: MC06227
+verdict: covered by existing complete fiction
+fiction: kefahuchi-tract
+leaf: time-tangles
+books:
+- title: Light
+  year: 2002
+  authors:
+  - M. John Harrison
+  cover_url: cover-kefahuchi-1.jpg
+  shows_english_title: true
+  cover_source: https://covers.openlibrary.org/b/id/370096-L.jpg
+- title: Nova Swing
+  year: 2006
+  cover_url: cover-kefahuchi-2.jpg
+  shows_english_title: true
+  cover_source: https://covers.openlibrary.org/b/id/4673282-L.jpg
+- title: 'Empty Space: A Haunting'
+  year: 2012
+  cover_url: cover-kefahuchi-3.jpg
+  shows_english_title: true
+  cover_source: https://covers.openlibrary.org/b/id/8737935-L.jpg
+check: Actual live3-book page and data read2026-11-22 10:53CET; no new classification or structural change. Current publisher
+  author bio independently names Light, Nova Swing, Empty Space as trilogy. Existing full-source root walk and prior structural
+  history remain intact.
+sources:
+- https://www.simonandschuster.com/authors/M-John-Harrison/219208040
+- https://www.penguinrandomhouse.com/series/EAD/kefahuchi-tract/
+live_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=1a614f296-covered#time-tangles/kefahuchi-tract
