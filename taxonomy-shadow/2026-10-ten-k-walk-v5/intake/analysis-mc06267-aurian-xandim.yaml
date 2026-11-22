@@ -5,7 +5,7 @@ queue:
 - MC06271
 title: Aurian Universe
 author: Maggie Furey
-status: placed locally; deployment/live QA pending; intake frozen at ten
+status: deployed and live visually verified; intake frozen at ten
 leaf: grey-sorcerer-hero
 before_count: 9
 after_count: 10
@@ -366,3 +366,18 @@ authority:
   reason: Standing intake and entrusted whole-fiction judgment. Tenth fiction freezes intake for required split proposal.
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+deployment:
+  sha: ebd8500664b43bdb55d516adfd0385d4803626a1
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45064345862
+  status: success
+live_qa:
+  date: '2026-11-22T21:09:20+01:00'
+  counts:
+  - 921
+  - 2947
+  - 7237
+  leaf_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=ebd850066-2107#grey-sorcerer-hero
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=ebd850066-2108f#grey-sorcerer-hero/aurian-universe
+  inspected: Phone ten-fiction header, tenth tile, complete six-book tablet page with all English fronts loaded and original-year
+    captions.
+  next: Required sourced ten-fiction leaf review before split proposal; no further intake, no structural decision open.
