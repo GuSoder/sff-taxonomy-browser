@@ -3,7 +3,7 @@ queue:
 - MC06262
 title: Salvaged shared universe
 author: Madeleine Roux
-status: placed locally; deployment/live QA pending
+status: deployed and live visually verified
 leaf: alien-horror
 before_count: 6
 after_count: 7
@@ -258,3 +258,15 @@ preflight: https://gusoder.github.io/sff-taxonomy-browser/?preflight=mc06261-202
 authority:
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+deployment:
+  commit: 043c4c8f79c54b58e770f442306319586dd20dfa
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45060763673
+  conclusion: success
+  verified_live:
+  - 921
+  - 2944
+  - 7226
+  leaf_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=043c4c8f7-2029#alien-horror
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=043c4c8f7-2030f#alien-horror/salvaged
+  pixel_qa: Phone7-fiction header, new seventh tile, full tablet2-book page. Both English fronts and2019/2021 captions inspected22November20:30CET;
+    parent sent3attachments.

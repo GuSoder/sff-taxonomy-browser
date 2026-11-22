@@ -2368,3 +2368,10 @@ Thieves & Kings closeout: deployment45059649827 successful forc147e5b3d7ad64bea9
 
 ## MC06261/MC06262 Salvaged universe,2026-11-22
 One Roux shared world, Salvaged2019/Reclaimed2021, confirmed in two edited author interviews and later Q&A. Sixteen read pages; full-root, ending-aware walk into existing Alien horror6->7. Moderate confidence with memory/space-tech rival and exact second-book mechanism caveat. Two English Ace fronts inspected/localized, source300x450/298x450. No structure/portrait change.921/2944/7226 pending deployment/live QA. NextMC06265 A Dark Sacrifice.
+
+
+## Salvaged live closeout,2026-11-22 20:30 CET
+043c4c8f7 deployment45060763673 successful. Actual921/2944/7226; Alien horror7, one2-book world, both full English fronts and2019/2021 captions inspected on live phone/tablet. Parent sent3QAattachments and verified links. No open decision.
+
+## MC06265 The Rune of Unmaking,2026-11-22
+One Madeline Howard/Teresa Edgerton world with Hidden Stars2004/A Dark Sacrifice2007.13read pages; no projected third/fourth counted. Full-root/company-quest, ending-aware walk into existing Throwback quest fantasy6->7, with hidden-heir, reimagined and dark rivals retained. Two full English fronts inspected/localized. No structure, definition, portrait or unrelated card changes.921/2945/7228 pending deployment/live QA. NextMC06266 Echo of Eternity.
