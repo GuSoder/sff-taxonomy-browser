@@ -2431,3 +2431,9 @@ One published 2024 novel, future trilogy installments excluded;16readpages,full-
 
 ## MC06279-81 Obsidian Throne,22November2026
 2publishednovels2025/2026,2027conclusionexcluded,onefiction;18readpages/full-rootending-awarewalk:Dynastic magic7to8,moderateconfidence,Magicpolitics/Palaceinsurgents/Katharivals.2Englishauthorfrontsinspected/localized.921/2952/7245pendingdeployment/liveQA.NextMC06282TheObakeCode.
+
+21:55 ObsidianThrone3ec8a2ca4 deploy45069013592success,live921/2952/7245,Dynasticmagic8,mobileheader/newtile/tablet2bookpixelsverified. ContinuingMC06282Obake,sharedwithHammajangLuck.
+
+
+## MC06282 TheObakeCode,22November2026
+OneexistingHammajangLuckfictionexpandedto2publishednovels2024/2026,2027prequelexcluded;18readpages/full-rootending-awarewalk:Spacecaper8to7,Cyberheist6to7,moderateconfidence,Noir/Neural/Cyborgsrivals.2Englishpublisherfrontsinspected/localized.921/2952/7246pendingdeployment/liveQA.NextMC06283-84MalindaLoAsh/Huntress.

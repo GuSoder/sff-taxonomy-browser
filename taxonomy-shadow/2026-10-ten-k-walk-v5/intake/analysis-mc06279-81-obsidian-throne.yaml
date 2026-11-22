@@ -3,7 +3,7 @@ queue:
 - MC06280
 - MC06281
 fiction: Obsidian Throne
-status: placed locally;deployment/liveQA pending
+status: deployed/live pixel-verified22November2026 21:55CET
 leaf: dynastic-magic
 before_count: 7
 after_count: 8
@@ -787,3 +787,8 @@ preflight:
       title: Boreal Moon
       year: 2003
   url: https://gusoder.github.io/sff-taxonomy-browser/?preflight=obsidian-2153#dynastic-magic
+commit: 3ec8a2ca44653ab27f22ae3045d9d9ac6698ee07
+deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45069013592
+live_leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=3ec8a2ca4-2155#dynastic-magic
+live_fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=3ec8a2ca4-2155f#dynastic-magic/obsidian-throne
+qa: Mobile8header,newfront,tablet2bookfiction with2025/2026andbothdecodedEnglishfrontsinspected
