@@ -1,4 +1,4 @@
-status: applied locally, deployment/live QA pending
+status: prior completion superseded by root/copyright correction,deploy/liveQA pending
 counts:
 - 921
 - 2955
@@ -303,3 +303,82 @@ sources:
   url: https://www.penguinrandomhouse.com/books/827565/the-jewel-and-the-comet-by-tim-pratt/
   type: primary or completed criticism; see content notes
   read_on: '2026-11-22'
+commit: bd92d32b170338a18b4b9048de102daecc846e50
+actions: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45072441719
+live_verified:
+  counts:
+  - 921
+  - 2955
+  - 7259
+  multiverse_espionage: 9
+  alternate_worlds: 6
+  repaired_sequence_images: 15
+  note: all four repaired pages inspected actual pixels, all15 fronts decoded, Rabbit new page inspected; unrelated Alternateworlds
+    images were loading in immediate final sample,not claimed verified
+intake: paused until final correctionQA
+formation_correction: 'Correction22November2026 under the owner’s original root rules: magic divides Fantasy from SF (phonemsg-01M2GE2Q8NP01AFPRYMZ01XXE4,14September;
+  phonemsg-01M2M9MCQAX50N3C1FQ5CP2AZK,16September). Invented realms require Fantasy unless actual fabulation (phonemsg-01M61WBFZHYBJVT7CTS9A5VD3V,28October).
+  Prior claim that an organizing SF cosmology overrides local magic is withdrawn, not a valid exception.
+
+  Published whole fiction: Transmentation | Transience2025 and Transmentation | Transgression2026, one shared-world card.
+  Transformation2027 unpublished, not counted. ManyWorlds shortfiction acknowledged, not another novel. The author''s interview
+  confirms the invented trans-dimensional ecosystem; no Earth inclusion established. Completed Locus sequel criticism explicitly
+  describes local magic and a gun-and-wand-slinger in a magical Western. No checked primary or complete critical source explains
+  this as disguised technology. The first-volume nonmagical description of mind-transfer applies to that mechanism, not all
+  acts in the sequel. Do not transform a reviewer''s genre label into evidence that the spells are technical.
+
+  Actual root walk: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Geopolitical fantasy.
+  Fantasy wins genuine local magical action and invented realms. Real earth fantasy loses absent established our-Earth anchor;
+  Portal fantasy loses its required Earth end, so Worldhopper multiverse fantasy cannot be used even though its travel pattern
+  resembles this story. SF parallelworlds loses strict root magic rule, and no hidden-tech or old-proto exception established.
+  Fabulation/Retconned worlds is seriously tested: proxies retrospectively acquire local histories, but not a character deliberately
+  revising the past they inhabit as governing plot; physical rival polities'' conflict is foreground, not literary reality/narrative
+  revision. That one explanatory device does not make spellcasting disappear.
+
+  Fantasy realms siblings: Epic fits worldbuilding,cosmic system,many worlds and political stakes. Sword/sorcery and its Technofantasy/Magitech
+  child are real rivals given proxies and technology, but the entire published narrative is not adventure machinery powered
+  by magic: institutional expansion,resistance and control among polities govern. Fairytale,Gothic,Farshores,Comic and Heart
+  lose governing inherited tale,dread,culturaltradition,comedy or intimatebond engines.
+
+  Within Epic: Political wins over Heroicchampion,Highquest,Hardmagic,Inventedgods/Mythology and Militarycampaign. The books
+  follow agents,committees,mercenaries,foreignresidents and leaders around BurelHird''s annexation and competing WitheredStem,OfTala,Firmare,Harraka
+  societies. Independent complete sequel review confirms undeclared coldwar and contested dependencies. Within Political:
+  Courtintrigue addresses onecourt''s insiders and rule,Revolutionary governs liberation/overthrow,Election massfranchise,Magicpolitics
+  publicauthority over who may wield supernaturalpower. Here the governing contest is external rivalpolities across borders,not
+  merely licensing casters or succession. Geopoliticalfantasy explicitly holds changing balances of states/empires and effects
+  on people. No leaf or ancestor definition widened. Moderateconfidence: collective genremixing and proxyontology remain genuine
+  contrary evidence,not authority to violate the owner''s rootrule.
+
+  Sources read: https://locusmag.com/review/transmentation-transgression-by-darkly-lem-review-by-jake-casella-brookins/ ;
+  http://www.shaviro.com/Blog/?p=2017 ; https://paulsemel.com/exclusive-interview-transmentation-transgression-authors-josh-eure-and-craig-lincoln-of-darkly-lem/
+  ; https://www.blackstonepublishing.com/products/book-g1b6 ; https://www.josheure.com/books/transgression . No fullnovelreading
+  claimed.'
+cover_correction:
+  rule: phonemsg-01M28GZY85SG5VDBK3K3VCR27P
+  removed_files:
+  - cover-transmentation-transgression.jpg
+  - cover-merchant-the-hidden-family.jpg
+  - cover-merchant-the-clan-corporate.jpg
+  - cover-merchant-the-merchants-war.jpg
+  - cover-merchant-the-revolution-business.jpg
+  - cover-merchant-the-trade-of-queens.jpg
+  - cover-merchant-empire-games.jpg
+  - cover-merchant-dark-state.jpg
+  - cover-merchant-invisible-sun.jpg
+  - cover-doors-of-sleep.jpg
+  - cover-the-jewel-and-the-comet.jpg
+  - cover-prison-of-sleep.jpg
+  hotlinks:
+    cover-transmentation-transgression.jpg: https://www.blackstonepublishing.com/cdn/shop/files/g1b6-Rectangle-cover.jpg?v=1786378044&width=1600
+    cover-merchant-the-hidden-family.jpg: https://m.media-amazon.com/images/I/51zFEGo-fgL._SY445_SX342_FMwebp_.jpg
+    cover-merchant-the-clan-corporate.jpg: https://m.media-amazon.com/images/I/51iONVvl+GL._SY445_SX342_FMwebp_.jpg
+    cover-merchant-the-merchants-war.jpg: https://m.media-amazon.com/images/I/51M7SZO6ofL._SY445_SX342_FMwebp_.jpg
+    cover-merchant-the-revolution-business.jpg: https://m.media-amazon.com/images/I/51G9GdFSclL._SY445_SX342_FMwebp_.jpg
+    cover-merchant-the-trade-of-queens.jpg: https://m.media-amazon.com/images/I/51Ev-RAr+mL._SY445_SX342_FMwebp_.jpg
+    cover-merchant-empire-games.jpg: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-384/edition/9781447246282.jpg
+    cover-merchant-dark-state.jpg: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-384/edition/9781447247586.jpg
+    cover-merchant-invisible-sun.jpg: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-384/edition/9781447247623.jpg
+    cover-doors-of-sleep.jpg: https://images1.penguinrandomhouse.com/cover/9780857668745
+    cover-the-jewel-and-the-comet.jpg: https://images1.penguinrandomhouse.com/cover/9781836730224
+    cover-prison-of-sleep.jpg: https://images4.penguinrandomhouse.com/cover/9780857669421
+  history: No destructive history rewrite attempted

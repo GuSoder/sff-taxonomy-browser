@@ -42,35 +42,35 @@ books:
   shows_english_title: true
 - title: The Hidden Family
   year: 2005
-  cover_url: cover-merchant-the-hidden-family.jpg
+  cover_url: https://m.media-amazon.com/images/I/51zFEGo-fgL._SY445_SX342_FMwebp_.jpg
   shows_english_title: true
 - title: The Clan Corporate
   year: 2006
-  cover_url: cover-merchant-the-clan-corporate.jpg
+  cover_url: https://m.media-amazon.com/images/I/51iONVvl+GL._SY445_SX342_FMwebp_.jpg
   shows_english_title: true
 - title: The Merchants’ War
   year: 2007
-  cover_url: cover-merchant-the-merchants-war.jpg
+  cover_url: https://m.media-amazon.com/images/I/51M7SZO6ofL._SY445_SX342_FMwebp_.jpg
   shows_english_title: true
 - title: The Revolution Business
   year: 2009
-  cover_url: cover-merchant-the-revolution-business.jpg
+  cover_url: https://m.media-amazon.com/images/I/51G9GdFSclL._SY445_SX342_FMwebp_.jpg
   shows_english_title: true
 - title: The Trade of Queens
   year: 2010
-  cover_url: cover-merchant-the-trade-of-queens.jpg
+  cover_url: https://m.media-amazon.com/images/I/51Ev-RAr+mL._SY445_SX342_FMwebp_.jpg
   shows_english_title: true
 - title: Empire Games
   year: 2017
-  cover_url: cover-merchant-empire-games.jpg
+  cover_url: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-384/edition/9781447246282.jpg
   shows_english_title: true
 - title: Dark State
   year: 2018
-  cover_url: cover-merchant-dark-state.jpg
+  cover_url: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-384/edition/9781447247586.jpg
   shows_english_title: true
 - title: Invisible Sun
   year: 2021
-  cover_url: cover-merchant-invisible-sun.jpg
+  cover_url: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-384/edition/9781447247623.jpg
   shows_english_title: true
 cover_curation:
   status: complete

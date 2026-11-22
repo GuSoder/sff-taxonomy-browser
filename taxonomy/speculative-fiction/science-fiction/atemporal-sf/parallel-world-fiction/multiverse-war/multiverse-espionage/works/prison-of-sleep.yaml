@@ -246,7 +246,7 @@ intake: 'gap-2022 #272 (LocusRec2022-SF)'
 cover_curation:
   status: complete
   source: Open Library
-  selected_url: cover-doors-of-sleep.jpg
+  selected_url: https://images1.penguinrandomhouse.com/cover/9780857668745
   shows_english_title: true
   visually_reviewed_on: '2026-09-28'
   review_method: batch montage one-pass
@@ -287,11 +287,11 @@ placement_history:
 books:
 - title: Doors of Sleep
   year: 2021
-  cover_url: cover-doors-of-sleep.jpg
+  cover_url: https://images1.penguinrandomhouse.com/cover/9780857668745
   shows_english_title: true
 - title: Prison of Sleep
   year: 2022
-  cover_url: cover-prison-of-sleep.jpg
+  cover_url: https://images4.penguinrandomhouse.com/cover/9780857669421
   shows_english_title: true
 scope_rechecked_on: '2026-11-22'
 confidence: Moderate; contrary evidence and whole-scope limits recorded.

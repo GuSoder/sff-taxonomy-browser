@@ -2457,3 +2457,7 @@ One1977standalone,Multiverseespionage9to10.Covertparallelworldconquest,moderatec
 
 ## Multiverse espionage content-first recheck,22November2026
 Rabbit to existing Alternate worlds after completed-content review; espionage10to9,split trigger withdrawn,no structural change. Four scopes repaired,six net novels,921/2955/7259.Deployment/liveQA pending,intake remains frozen until verified.
+
+
+## Root/copyright correction22:35CET
+Formationwhole2 moves to existing Geopoliticalfantasy,espionage9to8,geopolitical1to2.SFcosmologydoesnotoverridemagicrule.Twelvefrontfilesfromthisrecheckremovedfromcurrenttree,replacedwithinspectedsourcehotlinks.Noothercoveraudit/historyrewrite.921/2955/7259.Deploy/liveQA pending,intakepaused.

@@ -276,7 +276,7 @@ books:
   shows_english_title: true
 - title: The Jewel and the Comet
   year: 2026
-  cover_url: cover-the-jewel-and-the-comet.jpg
+  cover_url: https://images1.penguinrandomhouse.com/cover/9781836730224
   shows_english_title: true
 scope_rechecked_on: '2026-11-22'
 confidence: Moderate; contrary evidence and whole-scope limits recorded.
