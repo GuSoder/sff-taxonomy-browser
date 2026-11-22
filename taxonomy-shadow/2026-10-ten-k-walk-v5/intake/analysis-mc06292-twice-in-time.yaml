@@ -1,6 +1,6 @@
 queue:
 - MC06292
-status: placed;deployment/liveQA pending
+status: complete;72929363edeploy45073436147success/livepixels22:42CET
 leaf: diy-rewind
 before_count: 6
 after_count: 7
@@ -100,3 +100,4 @@ front:
   source: Baen publisher product page
   visually_reviewed_on: '2026-11-22'
   review_method: actual145x240Englishflatfrontpixels;remotehotlinkonly,nocoverfileinrepository
+live_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=72929363e-2242#diy-rewind/twice-in-time
