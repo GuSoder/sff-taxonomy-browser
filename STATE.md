@@ -2453,3 +2453,7 @@ Centenalrows86/87coveredalready,TearTracks88shortskippedpublisher/ISFDB.MossaPle
 
 ## MC06291 TheBeyonders,22November2026
 One1977standalone,Multiverseespionage9to10.Covertparallelworldconquest,moderateconfidence,first4primarychapters/completedcriticismread.English411x680Baenfrontinspected.921/2955/7253pendingdeployment/liveQA.INTAKEFROZENAT10,content-firstsplitnext,noMC06292beforedecision.
+
+
+## Multiverse espionage content-first recheck,22November2026
+Rabbit to existing Alternate worlds after completed-content review; espionage10to9,split trigger withdrawn,no structural change. Four scopes repaired,six net novels,921/2955/7259.Deployment/liveQA pending,intake remains frozen until verified.

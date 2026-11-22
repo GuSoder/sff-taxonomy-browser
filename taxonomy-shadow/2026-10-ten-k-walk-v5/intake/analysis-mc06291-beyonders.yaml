@@ -1,6 +1,6 @@
 queue:
 - MC06291
-status: placedlocally;deployment/liveQA pending
+status: complete;deployment success/livepixelQA22November2026at22:21CET
 leaf: multiverse-espionage
 before_count: 9
 after_count: 10
@@ -257,3 +257,12 @@ preflight:
       title: Zero World
       year: 2015
   url: https://gusoder.github.io/sff-taxonomy-browser/?preflight=beyonders-2218#multiverse-espionage
+deployment:
+  sha: ec45cc4ee183313142c8eeb08490a858b1688dd9
+  run_url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45071516098
+  live_counts:
+  - 921
+  - 2955
+  - 7253
+  leaf_count: 10
+  english_fronts_loaded: true
