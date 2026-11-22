@@ -2240,3 +2240,6 @@ The Questing Road2010 and Bastet's Daughters2017: one author-linked Aradia unive
 
 ## MC06166-67 Fallen Peaks, 2026-11-22
 MC06166 Breeze Felt at Moonrise verified future March9 2027; skip unreleased. MC06167 The Dollmakers2024 is the only published novel in author-confirmed Fallen Peaks world. Scripted hard magic6to7 for the learned inscribed Marks; full realm and Epic partition, small-scale/system-mystery caveats in analysis. Front panel cropped from author English spread and pixel-inspected. 916nodes/2935fictions/7178books. Next MC06168-77 Flewelling, whole-world check, not the stale prep's two-card assumption. Intake active, no decision open.
+
+## MC06168-77 Nightrunner and Tamir, 2026-11-22
+Ten novels, author-confirmed one Skala universe, not stale prep's two cards. Court spies9to10 after full whole-fiction walk with personal-story/Tamir-war wobbles preserved. Ten correct English front jackets localized and pixel-inspected. 916nodes/2936fictions/7188books. ALL INTAKE FROZEN: prepare Court spies split, no next row until approval and completed split. No structural changes yet.

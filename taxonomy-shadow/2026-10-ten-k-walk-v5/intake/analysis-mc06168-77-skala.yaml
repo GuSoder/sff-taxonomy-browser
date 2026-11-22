@@ -1,0 +1,147 @@
+fiction: nightrunner-and-tamir
+verdict: placed-tenth-intake-frozen
+leaf: court-spies
+threshold: 9to10; split required before any further intake
+walk: 'Whole-fiction walk MC06168-77, 2026-11-22. Nightrunner and Tamir are ONE fiction: Flewelling explicitly says she wrote
+  the Tamir Triad in the same world in her Risingshadow interview and describes it as the earlier history of Nightrunner''s
+  queens. The stale prep''s two-card assumption is rejected under the owner''s one-shared-universe rule. Seven Nightrunner
+  novels plus three Tamir novels; Glimpses is expressly a short-story collection, not an eleventh novel. First publication
+  years from FictionDB agree with publication order, not queue paperback years: Hidden Warrior2003 and Oracle''s Queen2006,
+  not2008. The2027 PRH Luck in the Shadows paperback is a reissue, not a new novel. Literal wizardry, dead-god resurrection,
+  alchemical homunculi and gender-concealing magic make Fantasy, not scientific extrapolation. Fantasy > Fantasy realms: Skala,
+  Plenimar and Aurenen are an invented world; Shards of Time has otherworldly crossings but no Earth is established, so Portal
+  fails. No recognizable historical Earth makes Real earth fail. Among all realm children, Sword and sorcery/Caper and Heroic/Rogue/Thief
+  are strong rivals for Alec and Seregil''s nightrunning, but do not describe Tamir''s royal-child concealment and restoration;
+  theft is their trade, not the shared world''s whole narrative. Fairytale revision, identifiable Far shores counterpart,
+  Comedy and Horse fail. Heart/Romantasy is a genuine rival for the central Alec/Seregil relationship and Tamir/Ki, but neither
+  series has courtship as its sole governing external plot; espionage, succession and supernatural conspiracies repeatedly
+  drive the stakes. Cozy fails the horror, torture, invasion and civil-war register. Gothic/Dark realms is a genuine tonal
+  rival, especially Bone Doll''s haunting and Shadows Return, but adventure and political action govern the full fiction rather
+  than dread itself; the ghost/locked-room investigation of Shards is not all ten books. Epic passes through wars, international
+  diplomacy, royal power and an extended internally realized history. Epic > Political fantasy is more exact than High/Classic
+  quest, though Stalking Darkness has a prophecy and artifact quest: recurring concealed identities, rulers'' secret networks,
+  queen-and-country missions, court faction and royal legitimacy define the shared society. Hard fantasy loses: magic is vital,
+  but no one explicit rule/cost system organizes all ten; Military is strong in Oracle''s Queen but not the governing series
+  mode; Mythological loses because these are invented gods, not a retelling of inherited sacred myth. Political > Court intrigue:
+  insiders and covert actors work around Skala''s ruling queens and the courts of its allies/enemies. Not Election (no mass
+  franchise), Revolutionary (not a sustained anti-regime liberation movement across the fiction), or Magic politics (control
+  of access to magic is not the governing public contest). Court intrigue > Court spies: Seregil/Alec work as covert agents
+  for wizards, nobles and queens; the Tamir prehistory turns on a hidden royal identity and a secret wizard/witch conspiracy
+  inside the ruling dynasty before the reveal and war. This does not relabel Tamir a professional spy or claim every scene
+  occurs in a palace. Dynastic intrigue is a genuine rival for all three Tamir books and Casket of Souls, but most of Nightrunner
+  is not a contender''s struggle for a crown; Court statecraft loses because the protagonists mostly uncover/defeat covert
+  plots, not conduct government as rulers. Court spies'' current definition includes conspiracy and covert manipulation, not
+  only a salaried spy job. Confidence moderate: Shadows Return and The White Road are conspicuously personal captivity/homunculus
+  stories, and Oracle''s Queen becomes open civil war; they are not falsely described as court-spy missions. The common fiction
+  still repeatedly returns to covert political action around Skala''s courts, more consistently than a thief-class label could
+  include Tamir. Existing leaf Court spies9to10. No structural edit; all intake freezes now for the split proposal.'
+books:
+- queue_id: MC06170
+  title: Luck in the Shadows
+  year: 1996
+  has_magic: true
+  is_real_earth: false
+  engine: Alec meets imprisoned Seregil, becomes his apprentice, and enters espionage and a brewing-war conspiracy.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- queue_id: MC06173
+  title: Stalking Darkness
+  year: 1997
+  has_magic: true
+  is_real_earth: false
+  engine: Seregil and Alec confront Mardus's plan to assemble the Helm and resurrect dead god Seriamaius amid Skala/Plenimar
+    war; prophecy and secret artifact quest.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- queue_id: MC06177
+  title: Traitor's Moon
+  year: 1999
+  has_magic: true
+  is_real_earth: false
+  engine: Queen Idralain recalls the exiled duo to aid Klia's diplomatic mission to Aurenen; Seregil's past and covert betrayals
+    threaten the alliance.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- queue_id: MC06171
+  title: Shadows Return
+  year: 2008
+  has_magic: true
+  is_real_earth: false
+  engine: On an assignment toward Aurenen the pair are abducted and enslaved; Alec's lineage is exploited by an alchemist
+    to create Sebrahn. Personal captivity plot, not falsely called palace intrigue.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- queue_id: MC06176
+  title: The White Road
+  year: 2010
+  has_magic: true
+  is_real_earth: false
+  engine: The fugitives seek the truth of Sebrahn while kin and old enemies pursue Alec and the homunculus. Personal aftermath/protection
+    plot.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- queue_id: MC06168
+  title: Casket of Souls
+  year: 2012
+  has_magic: true
+  is_real_earth: false
+  engine: Covert agents uncover a plot setting Queen Phoria against Klia while a supernatural plague spreads through Rhiminee.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- queue_id: MC06172
+  title: Shards of Time
+  year: 2014
+  has_magic: true
+  is_real_earth: false
+  engine: The queen sends the duo to investigate the locked-room murders on Korous; ancient evil and a passage between worlds
+    threaten the living, without Earth inclusion.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- queue_id: MC06174
+  title: The Bone Doll's Twin
+  year: 2001
+  has_magic: true
+  is_real_earth: false
+  engine: Under a king murdering female royal heirs, wizards and a witch hide the future queen as a boy using the sacrificed
+    twin brother; haunted childhood and secret succession conspiracy.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/TMR/tamir-triad/
+- queue_id: MC06169
+  title: Hidden Warrior
+  year: 2003
+  has_magic: true
+  is_real_earth: false
+  engine: Tobin learns the hidden female identity and future queenship, must maintain the disguise among the prince's companions,
+    with loyal squire Ki and covert magical protectors.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/TMR/tamir-triad/
+- queue_id: MC06175
+  title: The Oracle's Queen
+  year: 2006
+  has_magic: true
+  is_real_earth: false
+  engine: Tamir is publicly revealed and must win legitimacy and allegiance against cousin Korin; the secret succession plot
+    becomes civil war.
+  sources:
+  - https://lynnflewelling.com/books/
+  - https://www.penguinrandomhouse.com/series/TMR/tamir-triad/
+sources:
+- https://lynnflewelling.com/books/
+- https://www.penguinrandomhouse.com/series/RNR/nightrunner/
+- https://www.penguinrandomhouse.com/series/TMR/tamir-triad/
+- https://www.risingshadow.net/articles/interviews/40-an-interview-with-lynn-flewelling
+- https://fantasyliterature.com/reviews/the-oracles-queen/
+- https://www.reddit.com/r/Fantasy/comments/icn8d7/review_discussion_the_nightrunner_series_by_lynn/
+- https://www.fictiondb.com/author/lynn-flewelling~33321.htm
+excluded:
+- title: Glimpses
+  reason: Author identifies it as short-story collection, not novel.
