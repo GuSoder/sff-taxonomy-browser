@@ -145,3 +145,9 @@ sources:
 excluded:
 - title: Glimpses
   reason: Author identifies it as short-story collection, not novel.
+
+threshold_review: '2026-11-22 09:42 CET: frozen-member continuity research found three Kay fragments in the raw ten-card shelf. The resulting complete eight-novel Kay world needs one seed proposal, not a false Court spies split. No structural mutation yet; see analysis-court-spies-kay-shared-world.md. Intake remains frozen.'
+live_verification:
+  date: '2026-11-22 09:41 CET'
+  url: https://gusoder.github.io/sff-taxonomy-browser/?verified=8e017a379-084139#court-spies/nightrunner-and-tami-r
+  result: 'Ten novels present, all ten live covers loaded. Actual page screenshot inspected; title and first cover row readable. Full ten-cover local contact sheet inspected before deployment.'
