@@ -2358,3 +2358,13 @@ Exact88c54d065 Pages deployment succeeded; actual921/2942/7222, Caper7 and two-b
 
 ## MC06253/MC06254 Thieves & Kings,2026-11-22
 One M. K. Lobb duology2025/2026 into existing Gaslight technomancy5->6. Sixteen read source pages, including primary manufacturing opening and completed final-book criticism. Real1851 London, not realms Caper; alternate-history, SF Steampunk and magician-craft alternatives retained. Two450x675 complete English publisher fronts inspected/localized. No structure/portrait change.921/2943/7224 pending deployment/live QA. NextMC06260.
+
+
+## MC06260 publication eligibility,2026-11-22
+Publisher and publisher-supplied NetGalley catalog both schedule the debut for27April2027, still future as of22November2026. Publisher explicitly offers preorder; an available NetGalley EPUB is an advance review copy. Excluded from current published-novel intake, not assigned a genre or put into a proposed new leaf. No audience-based exclusion, cover work, card or count change. Continue MC06261 Reclaimed.
+
+Thieves & Kings closeout: deployment45059649827 successful forc147e5b3d7ad64bea98701dc362032cd5a6929d9. Live921nodes/2943fictions/7224books. Six-fiction Gaslight technomancy and one two-book card verified. Phone header/new sixth tile and full tablet page inspected with loaded English fronts and2025/2026 captions. No open decision.
+
+
+## MC06261/MC06262 Salvaged universe,2026-11-22
+One Roux shared world, Salvaged2019/Reclaimed2021, confirmed in two edited author interviews and later Q&A. Sixteen read pages; full-root, ending-aware walk into existing Alien horror6->7. Moderate confidence with memory/space-tech rival and exact second-book mechanism caveat. Two English Ace fronts inspected/localized, source300x450/298x450. No structure/portrait change.921/2944/7226 pending deployment/live QA. NextMC06265 A Dark Sacrifice.

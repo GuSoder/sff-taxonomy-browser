@@ -3,7 +3,7 @@ queue:
 - MC06254
 title: Thieves & Kings
 author: M. K. Lobb
-status: placed locally; deployment/live QA pending
+status: deployed and live pixel-verified
 leaf: gaslight-technomancy
 before_count: 5
 after_count: 6
@@ -228,3 +228,9 @@ preflight: https://gusoder.github.io/sff-taxonomy-browser/?preflight=mc06253-201
 authority:
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+commit: c147e5b3d7ad64bea98701dc362032cd5a6929d9
+deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45059649827
+live_leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=c147e5b3d-2017#gaslight-technomancy
+live_fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=c147e5b3d-2018f#gaslight-technomancy/thieves-kings
+live_checks: 921nodes/2943fictions/7224books, exactly one two-book card in six-fiction leaf,450x675 served fronts loaded.
+  Actual phone header/new sixth tile and full tablet two-book page inspected.
