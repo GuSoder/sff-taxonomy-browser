@@ -1,0 +1,145 @@
+id: sisters-of-isis
+title: Sisters of Isis
+authors:
+- Lynne Ewing
+first_published: 2007
+canonical_genre: modern-egyptian-myth
+placement_status: accepted
+placement_rationale: 'MC06178 is The Summoning by Lynne Ewing, not the Kelley Armstrong novel of the same title. Whole fiction:
+  the four published Sisters of Isis novels, The Summoning2007, Divine One2007, Enchantress2007 and The Haunting2008. ISFDB
+  author bibliography and individual first editions corroborate the four-book boundary. Sisters of Isis Volume1 (2011) is
+  an omnibus containing the first two novels, not a fifth novel. Wikipedia''s Divine One section heading says2008, contradicted
+  by its own2007 publication field, the2007 Hyperion first edition and Spokane''s2007 MARC record; use2007. No claim that
+  the unfinished series has a resolved ending. Publisher-distributed Hoopla description calls this an all-new series following
+  Daughters of the Moon. A common author and that marketing comparison do not establish a literal bridge to Daughters of the
+  Moon/Sons of the Dark; no source found establishes one, so do not fold the author''s entire bibliography.
+
+
+  Literal speculative engine: three fifteen-year-olds in modern Washington, D.C. inherit pharaonic powers of transformation,
+  learn spells from the Book of Thoth and confront Egyptian supernatural forces. The mythology is active, not merely historical
+  decoration: Divine One brings Apep from the Netherworld into D.C. through the Cult of Anubis; Enchantress concerns lost/control
+  of powerful Egyptian magic and the adversary Shaitan; The Haunting''s apparently useful ghost is a dangerous Egyptian mut.
+  The series uses a fictionalized modern adaptation of Egyptian tradition, not a claim of historical religious accuracy.
+
+
+  Root walk: Speculative fiction > Fantasy, rather than Science fiction. Magic, pharaonic gifts, divine powers and dangerous
+  dead are the literal explanation; no scientific or technological mechanism is asserted. Modern day SF has the right time
+  but the wrong mechanism; Historical SF, Futurist SF and Atemporal SF likewise cannot account for this engine. Fantasy >
+  Real earth fantasy: named Washington, D.C. and ordinary present-day schools/family life anchor the world. Fantasy realms
+  fails that setting. Portal is a genuine rival because Apep comes from the Netherworld, and Fantasy rifts/World bleeds explicitly
+  allows leakage without a human journey. However, the whole fiction''s engine is living Egyptian powers, bloodlines and mythology
+  active in everyday D.C., not the opening/crossing/management of a threshold as the recurring organizing premise. An underworld
+  origin or a summoned serpent alone does not move every modern myth fiction to Portal. Book of Thoth is a spell source, not
+  established as a transporting tome. Real-earth''s own definition explicitly permits afterlife/parallel-dimension excursions.
+
+
+  Real earth > Contemporary rather than Historical or Future: the teenagers'' everyday world is the author''s modern capital,
+  not a retelling set in ancient Egypt, a real past era or a speculative future. Ancient ancestors and gods are not a historical
+  setting. Contemporary''s full eight-way partition: Contemporary mythic wins because named inherited Egyptian cosmology remains
+  a living causal force. Magical coming-of-age is the strongest rival: teens discover inherited transformation and spellcraft,
+  so Birthright magic/Wildblood has a genuine local fit. But all four books'' world is defined more specifically by surviving
+  Egyptian powers and adversaries, not just adolescent self-discovery. Domestic/Magic family also fits their sisterhood and
+  growing mutual support, but these are initially unrelated girls, and the recurring public supernatural threats are not centered
+  on running a household or multigenerational home. Urban fantasy fits D.C. as stage, but no municipal secret-double/living-city,
+  public integration, fae ecology, professional criminal caseload, state occult service or weird-science protection agency
+  governs the fiction. Modern Goth/Occult city is not a catch-all for an ancient cult in a modern city: here the inherited
+  myth is the engine rather than a Gothic city''s particular historical debt or occult economy. Dark fantasy has threat/pursuit,
+  especially book4, but dread/torment is not the whole series'' organizing mode. Supernatural/Ghost stories fits The Haunting
+  alone, while the other novels concern pharaonic gifts, Apep and Egyptian magic rather than a recurring generic haunting;
+  no vampire, werewolf, dragon, undying or soul-bargain engine. Contemporary magical realism fails the explicit discovery,
+  named spellcraft and struggle over supernatural forces. Folktale fails the repeated teen/mythic adventure form rather than
+  a humorous/animal tale and its moral engine. Confidence high for the specific modern-myth leaf, with coming-of-age and portal-leakage
+  wobbles preserved.
+
+
+  Contemporary mythic''s full tradition partition: Egyptian inherited tradition, not an original cosmology, Chinese, Navajo,
+  biblical, or European myth. Modern African myth already has an explicit Modern Egyptian myth child. The umbrella''s older
+  West-Africa/Caribbean-only description is stale, not an exclusion: original curator message phonemsg-01M7HD0D4GKV9X56YTJKE6A4W1
+  on2026-11-16 explicitly says Egyptian belongs inside Africa; the existing leaf YAML records that ruling. Follow that specific
+  current structure without inventing a fresh seed or changing ancestor definitions. Within Africa, Orisha/Yoruba, Anansi
+  and Jamaican traditions do not supply this fiction''s pharaonic/Book-of-Thoth/Apep engine. Existing Modern Egyptian myth''s
+  canonical definition expressly covers ancient Egypt''s gods, powers and revenants active in ordinary present-day life. Exact
+  fit,1to2 fictions. The embedded node omitted that already-approved canonical definition, so sync its existing wording as
+  metadata only, not a broadened/new definition. No new node, structure, portrait or human decision required.'
+books:
+- title: The Summoning
+  year: 2007
+  cover_url: cover-sisters-isis-the-summoning.jpg
+- title: Divine One
+  year: 2007
+  cover_url: cover-sisters-isis-divine-one.jpg
+- title: Enchantress
+  year: 2007
+  cover_url: cover-sisters-isis-enchantress.jpg
+- title: The Haunting
+  year: 2008
+  cover_url: cover-sisters-isis-the-haunting.jpg
+book_traits:
+- title: The Summoning
+  year: 2007
+  engine: Sudi joins Meri and Dalila after Abdel identifies their pharaonic inheritance; transformation and Egyptian spellcraft
+    intrude into ordinary D.C. life.
+  sources:
+  - https://shop.hachettebookgroup.com/products/the-summoning-9781423164302
+  - https://www.hoopladigital.com/ebook/the-summoning-lynne-ewing/13791692
+- title: Divine One
+  year: 2007
+  engine: The girls confront Apep, a Netherworld serpent brought into Washington by the Cult of Anubis. Meri family/political
+    and romantic troubles do not displace that Egyptian supernatural engine.
+  sources:
+  - https://catalog.spokanelibrary.org/catalog/Record/79d34ad1-3b8c-529c-9854-eebcc95866d3
+  - https://www.isfdb.org/cgi-bin/title.cgi?212351=
+- title: Enchantress
+  year: 2007
+  engine: Sheltered Dalila must recover/control powerful magic after a serious mistake; inherited transformation and Book-of-Thoth
+    spellcraft remain the premise, with Shaitan the adversary named by the catalog description.
+  sources:
+  - https://catalog.spokanelibrary.org/catalog/Record/cc5f8202-b123-45b9-9760-10a80051eba5
+  - https://www.librarything.com/work/3982726/t/Enchantress
+  - https://www.isfdb.org/cgi-bin/title.cgi?646245=
+- title: The Haunting
+  year: 2008
+  engine: Sudi tries to use an apparently helpful ghost for spying and pranks, then discovers a dangerous Egyptian mut whose
+    violent plan threatens the world.
+  sources:
+  - https://www.fantasticfiction.com/e/lynne-ewing/haunting.htm
+  - https://www.isfdb.org/cgi-bin/pl.cgi?265587=
+classification_sources:
+- https://shop.hachettebookgroup.com/products/the-summoning-9781423164302
+- https://www.hoopladigital.com/ebook/the-summoning-lynne-ewing/13791692
+- https://catalog.spokanelibrary.org/catalog/Record/79d34ad1-3b8c-529c-9854-eebcc95866d3
+- https://catalog.spokanelibrary.org/catalog/Record/cc5f8202-b123-45b9-9760-10a80051eba5
+- https://www.librarything.com/work/3982726/t/Enchantress
+- https://www.fantasticfiction.com/e/lynne-ewing/haunting.htm
+- https://www.isfdb.org/cgi-bin/title.cgi?211521=
+- https://www.isfdb.org/cgi-bin/title.cgi?212351=
+- https://www.isfdb.org/cgi-bin/title.cgi?646245=
+- https://www.isfdb.org/cgi-bin/pl.cgi?265587=
+- https://isfdb.org/cgi-bin/ea.cgi?27928=
+- https://www.isfdb.org/cgi-bin/pl.cgi?362304=
+- https://en.wikipedia.org/wiki/Sisters_of_Isis
+book_cover_sources:
+  the-summoning:
+    metadata: https://openlibrary.org/books/OL8493334M.json
+    image: https://ia902809.us.archive.org/view_archive.php?archive=/18/items/l_covers_0008/l_covers_0008_53.zip&file=0008536355-L.jpg
+  divine-one:
+    metadata: https://openlibrary.org/books/OL8493335M.json
+    image: https://ia601003.us.archive.org/view_archive.php?archive=/17/items/olcovers181/olcovers181-L.zip&file=1817723-L.jpg
+  enchantress:
+    metadata: https://openlibrary.org/books/OL9567460M.json
+    image: https://ia801003.us.archive.org/view_archive.php?archive=/17/items/olcovers181/olcovers181-L.zip&file=1817812-L.jpg
+  the-haunting:
+    metadata: https://openlibrary.org/books/OL21557650M.json
+    image: https://ia800507.us.archive.org/view_archive.php?archive=/8/items/l_covers_0009/l_covers_0009_49.zip&file=0009498880-L.jpg
+cover_curation:
+  status: complete
+  source: ISBN-resolved Open Library editions, localized English first-edition fronts
+  selected_url: cover-sisters-isis-the-summoning.jpg
+  visually_reviewed_on: '2026-11-22'
+  review_method: 'Four-cover contact sheet inspected: matching author, four correct distinct English titles, numbered-series
+    fronts. Haunting scan has a small library label at the lower-left edge; title/art remain readable.'
+intake: ten-k walk v5 MC06178
+placement_history:
+- date: '2026-11-22'
+  to: modern-egyptian-myth
+  reason: Whole-fiction root walk under individual-fiction authority; existing leaf1to2, no structural change.

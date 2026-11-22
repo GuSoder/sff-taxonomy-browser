@@ -2259,3 +2259,9 @@ Verified live umbrella has5children; new genre has1fiction, Sarantine world has8
 
 ## Grand Illusion complete-five correction, 2026-11-22
 Published Premier2026 added; Tor Nov3 vs authorNov13, both past. All5plots and full whole-fiction walk grounded; false mages explanation removed. Existing Election fantasy1to2 for mass-franchise/party/legislative engine; imperial Legalist prequel and science-fantasy/steampunk wobbles preserved. Court spies7to6. Five English jackets localized and pixel-inspected. No structural change, no open decision. Counts917nodes/2931fictions/7190books. Continue next unfinished intake row afterMC06168-77 while deployment QA runs.
+
+## Grand Illusion live QA, 2026-11-22 10:01 CET
+Live five-book fiction and all five cover loads verified; screenshot and inspected cover sheet sent to parent. Counts917/2931/7190. No open decision.
+
+## MC06178 Sisters of Isis, 2026-11-22
+Four novels2007/2007/2007/2008, one fiction. Existing Modern Egyptian myth1to2 after complete root/partition walk; pharaonic inheritance, Apep and Egyptian dead active in modernD.C. Strong coming-of-age and portal-leakage rivals recorded.2011 omnibus not counted; Divine One incorrect2008 heading corrected from first-edition/library evidence. No unproven merger with Ewing other series. Existing canonical leaf definition synced into embedded node, no ancestor definitions changed. Four English jackets localized and pixel-inspected, minor lower-left library label on Haunting scan recorded. Counts917/2932/7194; awaiting live QA. Intake active, no structural question.
