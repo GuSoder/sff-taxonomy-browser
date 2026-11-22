@@ -2405,3 +2405,11 @@ Tenreadsourcepages and full-root whole-two-book review changes Magelight from Gr
 
 ##MC06273/MC06274 MagpieandtheWolf,22November2026
 Onecompleted2novelMaggieRapierfiction2025/2026,Court bond romantasy4->5,moderateconfidence.17readpages,full-root/ending-awarewalk;PiratefantasyandCursebondrivalsretained.2completeEnglishpublisherfrontsinspected/localized292x450. Nostructure/definition/portraitchange.921/2948/7240pendingdeployment/liveQA.NextMC06275AnExcessMale.
+
+
+##MagpieandtheWolf livecloseout,22November2026 21:31CET
+f8fa8864a1820f9673c24fee39f4cc484f95cf0a deployment45066492561success. Actual921/2948/7240;Court bond5;phoneheader/newfifthtileandfulltablet2bookpagepixelinspected,allleafcoversloaded,Englishfronts2025/2026legible. Nostructure/definition/portraitchange.Noquestionopen.NextMC06275/MC06276AnExcessMale.
+
+
+## MC06275/MC06276 An Excess Male,22November2026
+One standalone2017novel, invertedtitleduplicate;14readcontentpages+coverarchive, whole-rootending-awarewalk:Orwellian statesmanship6to7,moderateconfidence,Patriarchalrivalretained.Englishfront600x894inspected/localized. No structure/definition/portraitchange.921/2949/7241pendingdeployment/liveQA. NextMC06277TheRepublicofMemory.

@@ -2,7 +2,7 @@ queue:
 - MC06273
 - MC06274
 fiction: The Magpie and the Wolf
-status: placed locally;deployment/liveQA pending
+status: deployed/live-verified, no decision open
 leaf: court-bond-romantasy
 before_count: 4
 after_count: 5
@@ -244,3 +244,13 @@ preflight:
     fictions: 2947
     nodes: 921
     url: https://gusoder.github.io/sff-taxonomy-browser/#court-bond-romantasy
+live_verification:
+  sha: f8fa8864a1820f9673c24fee39f4cc484f95cf0a
+  deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45066492561
+  counts:
+  - 921
+  - 2948
+  - 7240
+  leaf_count: 5
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=f8fa8864a-2130f#court-bond-romantasy/the-magpie-and-the-wolf
+  pixel_QA: 390x844phone5header;390x2200phone5tilesallloaded;820x1400complete2bookpage2025/2026Englishfrontsinspected21:30CET
