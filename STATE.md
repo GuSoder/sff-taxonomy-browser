@@ -2425,3 +2425,9 @@ Safinalivecloseout21:45CET:517251035correctivecommit,Pages45067951732success,921
 
 ## MC06278 Wildersongs,22November2026
 One published 2024 novel, future trilogy installments excluded;16readpages,full-rootending-awarewalk:Soul bond romantasy7to8,moderateconfidence,Bard/Badblood/Cozypeepsrivals.1650x2475Englishauthorfrontinspected/localized.No structure/definition/portraitchange.921/2951/7243pendingdeployment/liveQA.NextMC06279-81MaithreeWijesekara.
+
+21:51 Wildersongs f562a9245 deploy45068615823success, live921/2951/7243,Soulbond8, mobileheader/newfront/tabletfictionpixelsverified. All8frontsdecode. Existing Standalonecaptiononone-bookseriesreported,norendererchange. ContinuingMC06279-81ObsidianThrone.
+
+
+## MC06279-81 Obsidian Throne,22November2026
+2publishednovels2025/2026,2027conclusionexcluded,onefiction;18readpages/full-rootending-awarewalk:Dynastic magic7to8,moderateconfidence,Magicpolitics/Palaceinsurgents/Katharivals.2Englishauthorfrontsinspected/localized.921/2952/7245pendingdeployment/liveQA.NextMC06282TheObakeCode.

@@ -1,7 +1,7 @@
 queue:
 - MC06278
 fiction: Wildersongs
-status: placed locally; deployment/liveQA pending
+status: deployed and live pixel-verified22November2026 21:51CET
 leaf: soul-bond-romantasy
 before_count: 7
 after_count: 8
@@ -478,3 +478,9 @@ preflight:
       title: The Reign of Remnants
       year: 2025
   url: https://gusoder.github.io/sff-taxonomy-browser/?preflight=doocy-2148#soul-bond-romantasy
+commit: f562a92451483c5441722a7fe20e1a4fda0f21bc
+deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45068615823
+live_leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=f562a9245-2151#soul-bond-romantasy
+live_fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=f562a9245-2151f#soul-bond-romantasy/wildersongs
+qa: Mobile8header, final loaded new front and tablet1bookfiction/background pixels inspected. All8frontsdecoded. Existing
+  renderer says Standalone fiction for one-published-book series, caveat reported, not changed.
