@@ -2479,3 +2479,9 @@ a72433f3d/45073751289success,settledlivefullEnglishfrontsinspectedwithnestedpane
 
 ## MC06295/96Hammerjack22:47CET
 One2005/2006twonovelsequence,Cyberpunknoir7to8,921/2958/7264.Allactualsiblingsandposthumanrivalswalked,lateclimaxcommunityconfidencepreserved.Newfrontshotlinkedonly,pixelsinspected.Deploy/liveQApending.
+
+## Hammerjack verified22:49CET
+248cbbd2b/45074045841success. Both live full fronts and2005/2006 labels inspected; Cyberpunk noir breadcrumb,921/2958/7264. Browser released and monitor deleted.
+
+## MC06297 Nocturne for a Dangerous Man22:50CET
+One1999standalone, Cyberpunk noir8to9,921/2959/7265. Root/ancestor/rival walk recorded. No literal magic established; ancestor-voices caveat tested against completed reader explicitly without magic.300x465 Englishfront inspected, hotlinked only. Deploy/liveQA pending.

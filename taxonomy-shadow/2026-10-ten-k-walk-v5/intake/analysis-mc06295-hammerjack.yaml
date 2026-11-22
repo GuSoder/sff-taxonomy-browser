@@ -1,7 +1,7 @@
 queue:
 - MC06295
 - MC06296
-status: placed;deployment/liveQA pending
+status: complete;248cbbd2b deploy45074045841 success, live full fronts22:49CET
 leaf: cyberpunk-noir
 before_count: 7
 after_count: 8
@@ -87,3 +87,4 @@ front:
   source: PenguinRandomHousepublisherproductpages
   visually_reviewed_on: '2026-11-22'
   review_method: actual300x450Englishflatfrontpixelsinspected;remotehotlinksonly,noartinrepo
+live_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=248cbbd2b-2249#cyberpunk-noir/hammerjack
