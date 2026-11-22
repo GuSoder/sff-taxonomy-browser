@@ -6,7 +6,7 @@ queues:
 - MC06250
 title: Wolfsangel
 author: M. D. Lachlan
-status: placed locally; deployment and live pixel QA pending
+status: live and pixel verified
 leaf: norse-fantasy
 before_count: 4
 after_count: 5
@@ -265,3 +265,17 @@ preflight: https://gusoder.github.io/sff-taxonomy-browser/?preflight=mc06246-195
 authority:
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+live_verification:
+  date: '2026-11-22'
+  commit: e60c691d8dc88ac9b6c243f42e10e2ce950cea83
+  leaf_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=e60c691d8-1957#norse-fantasy
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=e60c691d8-1956f#norse-fantasy/wolfsangel
+  deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45057708396
+  deployment_status: completed/success
+  counts:
+  - 921
+  - 2941
+  - 7220
+  pixels: Phone-width five-fiction header and full new fifth tile inspected; tablet full five-book page with all English fronts
+    and original-year captions inspected. Five images decoded at their source sizes. Prior four fictions and existing portrait/definition
+    unchanged.

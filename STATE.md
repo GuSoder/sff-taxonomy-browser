@@ -2338,3 +2338,15 @@ Original textual approval phonemsg-01M828DGVHEHQWXFN8F54KEY8C on served question
 
 ## MC06246-MC06250 Wolfsangel,2026-11-22
 One five-published-novel shared world,2010/2011/2012/2015/2018, into existing Norse fantasy4->5. Source-backed whole-root walk includes Norman and WWII later volumes, real Long chronicle/Werewolf/Godgame/Alt diesel rivals and SFE ambiguity; no sixth novel inferred from contract. Five current English publisher fronts inspected/localized. No structure, definition or portrait change.921/2941/7220 pending deployment/live QA. Next MC06251.
+
+
+## Wolfsangel live closeout,2026-11-22 19:57 CET
+Exact e60c691d8 deployment succeeded; actual921/2941/7220 and Norse fantasy5 verified. Phone-width header/new fifth tile and complete tablet five-book page inspected; all five English fronts loaded with correct2010/2011/2012/2015/2018 captions. No structure or portrait change, no open decision.
+
+
+## MC06251 eligibility,2026-11-22
+Seonag and the Seawolves excluded as short fiction: Tor32pages and ISFDB8456-word novelette,2019. No app/count change. NextMC06252 Among Thieves.
+
+
+## MC06252 Tales of Thamorr,2026-11-22
+Kuhn's Among Thieves2021/Thick as Thieves2023 one shared world, not Hulick, into existing Caper fantasy6->7. Eleven source pages, full author first-ending recap and completed sequel/duology criticism; real half-caster, politics, pirate and bond rivals retained. Two full English fronts inspected/localized. No structure/portrait change.921/2942/7222 pending deployment/live QA. NextMC06253.
