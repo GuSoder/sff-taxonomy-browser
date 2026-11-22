@@ -2234,3 +2234,6 @@ Author-confirmed same world as Sistersong (Riva descendant, returning characters
 
 ## MC06147-49 Selcouth universe, 2026-11-22
 Three published novels2024/2025/2026, one author-confirmed world. Magic family fantasy6to7, existing definition includes coven-mates/found kin; full eight-child Contemporary partition and domestic-vs-personal-trial/town-curse wobbles recorded in analysis-mc06147-49-selcouth.yaml. Three English print jackets localized and pixel-inspected. 916nodes/2933fictions/7175books. Next unfinished WALK row MC06163 The Questing Road. Intake active, no decision open.
+
+## MC06163 Aradia, 2026-11-22
+The Questing Road2010 and Bastet's Daughters2017: one author-linked Aradia universe, two published novels. Whole-fiction alternate-Egypt inclusion changes the lone-book quest candidate to Portal > Fantasy rifts > Multiverse > Gateway > Borderland6to7. Moderate borderland/worldhopper and source-detail limits recorded, no invented Bastet plot. No genre change. 916nodes/2934fictions/7177books. Next MC06166 future-date check and MC06167 The Dollmakers. Intake active, no decision open.
