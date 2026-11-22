@@ -2375,3 +2375,11 @@ One Roux shared world, Salvaged2019/Reclaimed2021, confirmed in two edited autho
 
 ## MC06265 The Rune of Unmaking,2026-11-22
 One Madeline Howard/Teresa Edgerton world with Hidden Stars2004/A Dark Sacrifice2007.13read pages; no projected third/fourth counted. Full-root/company-quest, ending-aware walk into existing Throwback quest fantasy6->7, with hidden-heir, reimagined and dark rivals retained. Two full English fronts inspected/localized. No structure, definition, portrait or unrelated card changes.921/2945/7228 pending deployment/live QA. NextMC06266 Echo of Eternity.
+
+
+## Rune of Unmaking live closeout,2026-11-22 20:40 CET
+665b5c889 deployment45061698518 successful. Actual921/2945/7228; Throwback quest fantasy7, one2-book world; phone header, new seventh tile and complete tablet page inspected, both full English fronts with2004/2007 captions. No structure/definition/portrait change. No open decision. ContinueMC06266 Echo of Eternity, Shadowleague scope/date/mechanism research underway.
+
+
+## MC06266/MC06270/MC06272 Shadowleague,2026-11-22
+One3-novel Maggie Furey world, originals1999/2001/2002. Eye/Echo one third novel, later US edition notnewbook.18read sources; full-root/ending-aware walk into existing Ozymandian tech8->9, with fantasy-quest, Hard science fantasy, Planet ecology and Big dumb worlds rivals retained. Aurian/Xandim notsilentlyfolded. Three full English fronts inspected/localized; original-English Eye front matchescaption. No structure/definition/portrait/unrelatedcard change.921/2946/7231 pendingdeployment/liveQA. NextunfinishedMC06267 Exodus of the Xandim, requiring whole Aurian/Xandim scope research.

@@ -2,7 +2,7 @@ queue:
 - MC06265
 title: The Rune of Unmaking
 author: Madeline Howard
-status: placed locally; deployment/live QA pending
+status: deployed and live visually verified
 leaf: throwback-quest-fantasy
 before_count: 6
 after_count: 7
@@ -224,3 +224,15 @@ authority:
   reason: Standing sourced intake, entrusted whole-fiction judgment and one shared world per card.
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+deployment:
+  commit: 665b5c889b3bb3921835f5a4b03ad2a32107afae
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45061698518
+  conclusion: success
+  verified_live:
+  - 921
+  - 2945
+  - 7228
+  leaf_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=665b5c889-2039#throwback-quest-fantasy
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=665b5c889-2040f#throwback-quest-fantasy/the-rune-of-unmaking
+  pixel_qa: Phone7-fiction header, new seventh tile and complete tablet2-book page inspected22November20:40CET. Both English
+    fronts loaded;2004/2007 captions correct.
