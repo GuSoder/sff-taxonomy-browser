@@ -2310,3 +2310,12 @@ Exact8a2a364e8 deploy succeeded, actual918/2937/7211 and2fictions in Second-chan
 
 ## MC06232 Blood Over Bright Haven,2026-11-22
 Original2023 standalone,2025 queue year is paperback edition. Full rooted whole-ending walk and8sources; Scripted hard magic7->8, consistent coded mapping/siphoning and its hidden cost. Real politics/siphon-mage/magitech/isolationist rivals retained. Distinct from existing Kaigen world. One current publisher English front inspected/localized. No structural change.918/2938/7212 pending deploy/live QA.
+
+## MC06232 live closeout,2026-11-22 16:30 CET
+Exact bda43fc4f deploy succeeded; actual918/2938/7212,8Scripted fictions and correct one-book page verified. Live new tile/standalone background/title pixels and clean English front inspected,300x450 decoded and stored2023 confirmed. No structural or portrait changes. Verified links/4QAimages delivered; no open decision.
+
+## MC06242/43 eligibility,2026-11-22
+Lucky Girl is publisher/ISFDB-confirmed novella; The Little Witch is publisher32-page/ISFDB short fiction (short story/novelette subtype immaterial). Excluded on length/form under standing scope, not horror or audience. No app/card/count change; next MC06244 Time Trials.
+
+## MC06244 Time Trials,2026-11-22
+One continuing two-published-novel Rothman/Butler fiction,2023/2024 rather than queue2020. Legal primary Ice Trials chapter1 exposes computational temporal-test administration and reverses initial unexplained-slip lead. Full root walk: existing Time agency thrillers8->9, no structure or image change.13 source pages considered, including explicit exclusion of DNF as completion evidence. Two clean publisher English fronts inspected/localized.918/2939/7214 pending deployment/live QA.

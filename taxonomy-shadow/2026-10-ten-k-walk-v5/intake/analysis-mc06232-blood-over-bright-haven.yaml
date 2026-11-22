@@ -1,7 +1,7 @@
 queue: MC06232
 title: Blood Over Bright Haven
 author: M. L. Wang
-status: placed locally; awaiting deployment/live QA
+status: placed; deployed and actual live/pixel QA complete
 leaf: scripted-hard-magic
 before_count: 7
 after_count: 8
@@ -130,3 +130,13 @@ preflight: https://gusoder.github.io/sff-taxonomy-browser/?preflight=1795361152
 authority:
   intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+deployment:
+  commit: bda43fc4f28123fd64a6bc0cf62f75b4486b9514
+  conclusion: success
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45038471626
+live_urls:
+  leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=bda43fc4f-1629#scripted-hard-magic
+  fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=bda43fc4f-1629#scripted-hard-magic/blood-over-bright-haven
+live_qa: Actual918/2938/7212 and8fictions. Eighth leaf card opens the correct standalone1-book page; background decoded300x450,
+  stored year2023, full English front and live pixels inspected. Standalone page has no year caption by design; no false caption
+  claim. Existing portrait unchanged.
