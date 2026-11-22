@@ -1,7 +1,7 @@
 queue:
 - MC06285
 fiction: The Centenal Cycle
-status: placed locally;deployment/liveQA pending
+status: complete;exact deployment success and livepixels inspected22November2026at22:12CET
 leaf: future-social-sf
 before_count: 8
 after_count: 9
@@ -492,3 +492,12 @@ preflight:
       title: Paris in the Twentieth Century
       year: 1994
   url: https://gusoder.github.io/sff-taxonomy-browser/?preflight=older-2209#future-social-sf
+deployment:
+  sha: adf4f2f0027230b4dfd6a7292805df7c5fe6d09c
+  run_url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45070577643
+  live_counts:
+  - 921
+  - 2954
+  - 7251
+  leaf_count: 9
+  images: 9leaf/3novelEnglishfrontsdecodedandinspectedmobile/tablet

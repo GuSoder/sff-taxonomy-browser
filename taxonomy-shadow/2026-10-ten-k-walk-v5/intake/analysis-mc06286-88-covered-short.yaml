@@ -1,0 +1,11 @@
+rows:
+  MC06286: NullStates2017includedCentenalCycle
+  MC06287: StateTectonics2018includedCentenalCycle
+  MC06288: TearTracks2015shortstory,notnovel
+date: '2026-11-22'
+action: Queue reconciliation only,no book/card mutation
+sources:
+- url: https://torpublishinggroup.com/tear-tracks/?format=ebook&isbn=9780765384591
+  claim: 32pages21October2015ebook,standaloneshortfiction
+- url: https://isfdb.org/cgi-bin/title.cgi?1965577=
+  claim: SHORTFICTION/shortstory2015
