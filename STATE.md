@@ -2437,3 +2437,7 @@ One published 2024 novel, future trilogy installments excluded;16readpages,full-
 
 ## MC06282 TheObakeCode,22November2026
 OneexistingHammajangLuckfictionexpandedto2publishednovels2024/2026,2027prequelexcluded;18readpages/full-rootending-awarewalk:Spacecaper8to7,Cyberheist6to7,moderateconfidence,Noir/Neural/Cyborgsrivals.2Englishpublisherfrontsinspected/localized.921/2952/7246pendingdeployment/liveQA.NextMC06283-84MalindaLoAsh/Huntress.
+
+
+## MC06283-84 Ash/Huntress,22November2026
+Onefiction2novels2009/2011,TheFox2011shortreadandacknowledgednotthirdnovel;20readpages/full-rootwalk:Fairytalemythology8to9,moderateconfidence,Ash-onlyinversion/Huntress-onlyquest-romancerivals.2Englishauthorfrontsinspected/localized.921/2953/7248pendingdeployment/liveQA.NextMC06285Infomocracy.

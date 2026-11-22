@@ -1,7 +1,7 @@
 queue:
 - MC06282
 fiction: Hammajang Luck
-status: expanded/moved locally;deployment/liveQA pending
+status: complete;deployment succeeded and live pixels inspected22November2026at22:00CET
 from_leaf: space-caper
 leaf: cyberheist
 counts:
@@ -548,3 +548,14 @@ previous_app:
   year: 2024
   placement_note: Paroled thief assembles a crew for one last heist on Kepler Station to pay for her niece's cancer treatment
     - 'Ocean's 8 with a space opera twist' (PW). The caper's daring and momentum drive the story. Space adventure.
+deployment:
+  sha: d9d230d1978d976bd53458ad0428c2cc7f68b5e0
+  run_url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45069421620
+  live_counts:
+  - 921
+  - 2952
+  - 7246
+  source_count: 7
+  target_count: 7
+  new_english_fronts_loaded: true
+  one_shared_world_card: true
