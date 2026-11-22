@@ -2228,3 +2228,6 @@ Amber14, ApprenticeAdept7, Shades4, Slaves2. +18novels,850genres/2768fictions/66
 - Straddles disclosed: Kraken also runs a prophecy trade (underworld society wins - the ecology is the book); Sandman Slim also works the occult underground (the damnation engine wins); Matthew Swift also draws magic from the city itself (possession is the premise: dead man + blue electric angels); Crescent City's luck-as-currency rhymes with Cursed markets (the haunting source - Katrina's dead and city gods - is the Modern Goth trait that keeps it in Haunted cities).
 - Portraits 972-976 generated, judged in-house per the 2026-10-21 rule, masters to Drive.
 - Counts: 916 nodes (911+5), 2,932 cards and 7,171 books unchanged. Intake walk remains paused.
+
+## MC06146 Song of the Huntress, 2026-11-22
+Author-confirmed same world as Sistersong (Riva descendant, returning characters), folded as second novel under existing card. Full whole-fiction root walk and sources in analysis-mc06146-song-huntress.yaml. Celtic stays9, no split. 916nodes/2932fictions/7172books. Next MC06147-49 Lucy Jane Wood, not yet walked. Intake active, no open decision.

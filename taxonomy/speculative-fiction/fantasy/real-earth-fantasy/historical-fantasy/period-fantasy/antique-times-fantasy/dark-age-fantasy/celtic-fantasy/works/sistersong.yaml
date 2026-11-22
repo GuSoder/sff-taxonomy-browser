@@ -5,11 +5,30 @@ authors:
 first_published: 2021
 canonical_genre: celtic-fantasy
 placement_status: accepted
-placement_rationale: 'Root-down: Pan Macmillan sets the novel in magical ancient Britain after Roman withdrawal, among warring tribes, bards, land magic
-  and Myrdhin. It passes Fantasy -> Real earth fantasy -> Historical fantasy -> Period fantasy -> Celtic fantasy. Although it reimagines The Twa Sisters
-  ballad, the documented post-Roman British era and Celtic-British magical culture supply the stage, while the ballad supplies the plot.'
+placement_rationale: 'Whole-fiction root-down walk: Fantasy, not SF (working land magic, Myrdhin and the Otherworld); Real
+  earth fantasy, not an independently invented realm (post-Roman and eighth-century Britain). Historical rather than Contemporary
+  or Future. Period fantasy governs the shared world: the historical Briton/Saxon cultural stage, land-sovereignty magic and
+  changing religions bind both novels. Secret history fails as the defining engine (not a hidden cabal explaining documented
+  events); Alternate history fails (no divergent historical system). Mythic retelling is the strongest rival: Sistersong reimagines
+  The Twa Sisters, Huntress reimagines Herla. The author says Huntress starts where the myth ends and invents its plot; neither
+  novel is confined to a Welsh or Irish inherited cycle. The shared historical culture remains the least-distorting whole-fiction
+  home. Period > Antique times rather than Industrial age; Dark age rather than Prehistoric, Classical antiquity, Age of sail,
+  Edo, Mughal or Abbasid; Celtic rather than Viking, Medieval, Andalusian or Plague. Herla has a Roman-era origin, but Huntress
+  is principally eighth-century Wessex/Dumnonia, not a cross-era chronicle. Portal fantasy is a substantial rival because
+  Annwn and Herla''s displacement are real; the whole fiction is not organized around a visitor''s journey across worlds,
+  but the magical fate of this historical Britain. No gate widened. Author interviews explicitly confirm the same world, returning
+  characters and a descendant of Riva, not merely a shared folklore motif; the shared-universe rule therefore folds MC06146
+  into existing sistersong rather than creating a tenth Celtic fiction.'
 classification_sources:
 - https://www.panmacmillan.com/authors/lucy-holland/sistersong/9781529039030
+- https://www.panmacmillan.com/authors/lucy-holland/song-of-the-huntress/9781529077438
+- https://www.panmacmillan.com/authors/lucy-holland/song-of-the-huntress/9781529077445
+- https://www.wildlingpress.com/pub-club-blog/challenging-the-dominant-narrative-an-interview-with-lucy-holland
+- https://www.runalongtheshelves.net/interviews/2021/5/17/interviewing-lucy-hounsom
+- https://historicalnovelsociety.org/reviews/song-of-the-huntress/
+- https://www.oxfordstudent.com/2024/05/30/a-sapphic-mythical-retelling-song-of-the-huntress-in-review/
+- https://thequaintbooknook.wordpress.com/2024/05/23/author-chat-lucy-holland-2/
+- https://lucyhounsom.co.uk/about/
 cover_curation:
   status: complete
   source: Pan Macmillan
@@ -19,6 +38,28 @@ cover_curation:
   review_method: one-pass official-publisher review
 placement_history:
 - date: '2026-09-23'
-  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/historical-fantasy/period-fantasy/celtic-fantasy to match
-    live tree; placement unchanged on site.'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/historical-fantasy/period-fantasy/celtic-fantasy
+    to match live tree; placement unchanged on site.'
   previous_canonical_genre: celtic-fantasy
+- date: '2026-11-22'
+  to: celtic-fantasy
+  reason: MC06146 folded as second novel of the existing fiction under owner one-universe rule (phonemsg-01M483CARNEF5RBAW6KCCVW1ST;
+    phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX), originals inspected. No genre change.
+books:
+- title: Sistersong
+  year: 2021
+  cover_url: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-640/edition/9781529039030.jpg
+- title: Song of the Huntress
+  year: 2024
+  cover_url: cover-song-of-the-huntress.jpg
+shared_universe_evidence:
+  relationship: Author explicitly identifies the same world and direct descent from Riva, approximately 180 years later.
+  sources:
+  - https://www.wildlingpress.com/pub-club-blog/challenging-the-dominant-narrative-an-interview-with-lucy-holland
+  - https://www.runalongtheshelves.net/interviews/2021/5/17/interviewing-lucy-hounsom
+book_cover_curation:
+  Song of the Huntress:
+    source_url: https://ik.imagekit.io/panmac/tr:f-auto,di-placeholder_portrait_aMjPtD9YZ.jpg,w-640/edition/9781529077438.jpg
+    local_file: cover-song-of-the-huntress.jpg
+    visually_reviewed_on: '2026-11-22'
+    review: English flat print jacket, title and author correct, complete crop, 640x972.
