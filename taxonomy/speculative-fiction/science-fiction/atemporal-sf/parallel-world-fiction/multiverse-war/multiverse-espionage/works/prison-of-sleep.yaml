@@ -250,6 +250,14 @@ cover_curation:
   shows_english_title: true
   visually_reviewed_on: '2026-09-28'
   review_method: batch montage one-pass
+  prison_repair:
+    source_page: https://www.penguinrandomhouse.com/books/697257/prison-of-sleep-by-tim-pratt/
+    source_url: https://images4.penguinrandomhouse.com/cover/9780857669421
+    dimensions:
+    - 281
+    - 450
+    pixel_inspected_on: '2026-11-22'
+    reason: Existing OpenLibrary front failed live decode; localized inspected English publisher front.
 placement_history:
 - date: '2026-09-28'
   to: multiverse-war
@@ -283,7 +291,7 @@ books:
   shows_english_title: true
 - title: Prison of Sleep
   year: 2022
-  cover_url: https://covers.openlibrary.org/b/isbn/9780857669421-L.jpg
+  cover_url: cover-prison-of-sleep.jpg
   shows_english_title: true
 scope_rechecked_on: '2026-11-22'
 confidence: Moderate; contrary evidence and whole-scope limits recorded.
