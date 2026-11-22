@@ -2304,3 +2304,9 @@ Actual918/2936/7209; explicit Fantasy breadcrumb,8umbrella children,1fiction/3no
 
 ## MC06230/31 Seven Faceless Saints,2026-11-22
 Complete published two-novel duology2023/2024 in Second-chance romantasy,1->2. Original individual-fiction trust reread. Full root sibling walk, secondary-world gate explicitly sourced, first-book detective/second-book divine-war shift and romance/political/mythological rivals recorded with moderate confidence. Two complete English fronts inspected and localized; no structural/image/definition change. MC06229 Native Star already covered by the just-live Veneficas Americana world.918/2937/7211 pending deployment/live QA; no open decision.
+
+## MC06230/31 live closeout,2026-11-22 16:22 CET
+Exact8a2a364e8 deploy succeeded, actual918/2937/7211 and2fictions in Second-chance romantasy verified. Full2English live fronts/captions inspected. Completed-fiction link and3QAimages delivered; no open decision, next MC06232.
+
+## MC06232 Blood Over Bright Haven,2026-11-22
+Original2023 standalone,2025 queue year is paperback edition. Full rooted whole-ending walk and8sources; Scripted hard magic7->8, consistent coded mapping/siphoning and its hidden cost. Real politics/siphon-mage/magitech/isolationist rivals retained. Distinct from existing Kaigen world. One current publisher English front inspected/localized. No structural change.918/2938/7212 pending deploy/live QA.

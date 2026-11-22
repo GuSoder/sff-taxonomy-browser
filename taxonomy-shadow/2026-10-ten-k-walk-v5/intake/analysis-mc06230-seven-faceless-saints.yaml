@@ -2,7 +2,7 @@ queue: MC06230
 covered_queue: MC06231
 title: Seven Faceless Saints
 author: M. K. Lobb
-status: placed locally; awaiting deploy/live QA
+status: placed; deployed and actual live/pixel QA complete
 leaf: second-chance-romantasy
 before_count: 1
 after_count: 2
@@ -168,3 +168,13 @@ authority:
   intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   individual_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
   verification: Original attributed authenticated user messages read2026-11-22 16:12 CET.
+deployment:
+  commit: 8a2a364e8280cf0f59a44c60b1a1b3907819d859
+  conclusion: success
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45037637031
+live_urls:
+  leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=8a2a364e8-1621#second-chance-romantasy
+  fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=8a2a364e8-1621#second-chance-romantasy/seven-faceless-saints
+live_qa: Actual918/2937/7211,2fictions in unchanged leaf, one complete2-book fiction2023/2024. Both local English fronts decoded
+  at661x1000 and330x500. Full live covers and captions inspected after scrolling. No structure, definition or existing portrait
+  changed.
