@@ -2413,3 +2413,9 @@ f8fa8864a1820f9673c24fee39f4cc484f95cf0a deployment45066492561success. Actual921
 
 ## MC06275/MC06276 An Excess Male,22November2026
 One standalone2017novel, invertedtitleduplicate;14readcontentpages+coverarchive, whole-rootending-awarewalk:Orwellian statesmanship6to7,moderateconfidence,Patriarchalrivalretained.Englishfront600x894inspected/localized. No structure/definition/portraitchange.921/2949/7241pendingdeployment/liveQA. NextMC06277TheRepublicofMemory.
+
+Livecloseout21:38CET:7c8e9192d,Pages45067316241success,921/2949/7241;phone7header+bottomnewfrontandtabletstandalonepagepixelinspected,all7coversdecoded.Onefictiononly.Noquestion.NextMC06277.
+
+
+## MC06277 The Song of the Safina,22November2026
+Onepublished2026novel,2027conclusionexcluded;13readpages,full-rootending-awarewalk:New star journey7to8,moderateconfidence,Spaceshipdystopias/Mysteriesrivals.267x400Englishpublisherfrontinspected/localized. No structure/definition/portraitchange.921/2950/7242pendingdeployment/liveQA.NextMC06278SorceryandSmallMagics.

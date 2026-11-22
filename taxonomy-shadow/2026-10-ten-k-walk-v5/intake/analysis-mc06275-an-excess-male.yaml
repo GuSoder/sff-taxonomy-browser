@@ -2,7 +2,7 @@ queue:
 - MC06275
 - MC06276
 fiction: An Excess Male
-status: placed locally; deployment/liveQA pending
+status: deployed and live visually verified 22November2026 21:38CET
 leaf: orwellian-statesmanship
 before_count: 6
 after_count: 7
@@ -419,3 +419,9 @@ preflight:
         title: Those Who Walk in Darkness
         year: 2003
     url: https://gusoder.github.io/sff-taxonomy-browser/?verified=f8fa8864a-excess-preflight#orwellian-statesmanship
+commit: 7c8e9192d7737f0cdb5cc2ab77f5e5a66805cc40
+deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45067316241
+live_leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=7c8e9192d-2138#orwellian-statesmanship
+live_fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=7c8e9192d-2138f#orwellian-statesmanship/an-excess-male
+qa: Phone header seven; bottom phone new English front fully loaded; tablet standalone one-book page background loaded. All
+  seven leaf cover images decoded. Pixel inspected.
