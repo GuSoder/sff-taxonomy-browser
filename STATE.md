@@ -2397,3 +2397,11 @@ Aurian closeout21:09CET: ebd8500664b43bdb55d516adfd0385d4803626a1 action45064345
 
 ## Magelight frozen-leaf correction,22November2026
 Tenreadsourcepages and full-root whole-two-book review changes Magelight from Grey sorcerer hero10->9 to existing Polyamorous romantasy2->3. Consent, freechoice and quartet equilibrium cause premise, release and sequel rebonding/climax; RPG heroic adventure retained as real contrary evidence, moderateconfidence. No structural split manufactured. Two Englishfronts reinspected/localized; existingYAMLsecondbook restored to appcard.921/2947/7238pendingdeployment/liveQA. Intake remains frozen until correctionverified. No node/definition/portrait/unrelatedfictionchange.
+
+
+##Magelight correction livecloseout,22November2026 21:22CET
+9296bf06241202fe3252c48084bbd91914b86547 deployment45065539475success. Live921/2947/7238;Grey9withoutMagelight,Polyamorous3,one2bookcard2025/2026. Wholephoneleaf3covers,tablet2bookpageandGrey9headerpixelinspected;parent3attachments/exactlinks. No structure/definition/portraitchange. Tenfictiontriggerwithdrawnonsourcedwholefictioncorrection. Noquestionopen,intakeresumes. Otherreviewleadsremainunverifiedandnotchanged.
+
+
+##MC06273/MC06274 MagpieandtheWolf,22November2026
+Onecompleted2novelMaggieRapierfiction2025/2026,Court bond romantasy4->5,moderateconfidence.17readpages,full-root/ending-awarewalk;PiratefantasyandCursebondrivalsretained.2completeEnglishpublisherfrontsinspected/localized292x450. Nostructure/definition/portraitchange.921/2948/7240pendingdeployment/liveQA.NextMC06275AnExcessMale.

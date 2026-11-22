@@ -1,6 +1,6 @@
 fiction: Magelight
 queue: MC05169
-status: single-fiction correction applied locally; deployment/liveQA pending; intake remains frozen until closeout
+status: deployed/live-verified; Grey9threshold withdrawn; intake resumes, no decision open
 old_leaf: grey-sorcerer-hero
 new_leaf: polyamorous-romantasy
 old_count:
@@ -116,3 +116,15 @@ sources:
 - https://www.simonandschuster.net/books/Blood-on-the-Sand/Kacey-Ezell/Magelight/9781668073230
 authority: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
 no_structure_or_definition_change: true
+live_verification:
+  sha: 9296bf06241202fe3252c48084bbd91914b86547
+  deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45065539475
+  counts:
+  - 921
+  - 2947
+  - 7238
+  grey_count: 9
+  polyamorous_count: 3
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=9296bf062-2120f#polyamorous-romantasy/magelight
+  pixel_QA: Complete390x1800leaf3loadedcovers;820x1400two-bookEnglishfronts2025/2026;390x844Grey9header inspected22November21:21CET
+  reported_parent: true
