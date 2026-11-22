@@ -2265,3 +2265,9 @@ Live five-book fiction and all five cover loads verified; screenshot and inspect
 
 ## MC06178 Sisters of Isis, 2026-11-22
 Four novels2007/2007/2007/2008, one fiction. Existing Modern Egyptian myth1to2 after complete root/partition walk; pharaonic inheritance, Apep and Egyptian dead active in modernD.C. Strong coming-of-age and portal-leakage rivals recorded.2011 omnibus not counted; Divine One incorrect2008 heading corrected from first-edition/library evidence. No unproven merger with Ewing other series. Existing canonical leaf definition synced into embedded node, no ancestor definitions changed. Four English jackets localized and pixel-inspected, minor lower-left library label on Haunting scan recorded. Counts917/2932/7194; awaiting live QA. Intake active, no structural question.
+
+## Sisters of Isis live QA, 2026-11-22 10:06 CET
+Verified4-book fiction, all4cover loads, Egyptian2fiction leaf and actual live totals917/2932/7194. Final page/cover sheet sent to parent. No open decision.
+
+## MC06216-18 Fair Folk trilogy, 2026-11-22
+Three published novels2024/2025/2026, one fiction. Full root walk chooses existing Perilous fairy doors7to8, not a shortcut from the romantasy label. Primary excerpt names Fodla/Tailteann and independent reader explicitly identifies mythological Ireland: moderate Earth-anchor judgment recorded, no fabricated historical century. Recurring named forest gate supports anchored threshold; no unverified physical material asserted. Book2 deeper-Faerie tournament and book3 interior possession/two-realm war retained as wobbles. Three clean English fronts pixel-inspected after replacing a watermarked agency thumbnail. Counts917/2933/7197. Existing Bloodless Queen work/app membership was absent from the local genre list and has been synced, not counted as a new fiction. Await deployment QA; no structural change or decision, continue next unfinished MC06223 Ler.
