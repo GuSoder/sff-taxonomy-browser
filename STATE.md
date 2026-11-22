@@ -2419,3 +2419,9 @@ Livecloseout21:38CET:7c8e9192d,Pages45067316241success,921/2949/7241;phone7heade
 
 ## MC06277 The Song of the Safina,22November2026
 Onepublished2026novel,2027conclusionexcluded;13readpages,full-rootending-awarewalk:New star journey7to8,moderateconfidence,Spaceshipdystopias/Mysteriesrivals.267x400Englishpublisherfrontinspected/localized. No structure/definition/portraitchange.921/2950/7242pendingdeployment/liveQA.NextMC06278SorceryandSmallMagics.
+
+Safinalivecloseout21:45CET:517251035correctivecommit,Pages45067951732success,921/2950/7242,eightfrontsdecoded,phoneheader/bottomandtabletfictionpixelinspected. Repositoryworks8/historypreserved,exactappdelta.Newfrontmodestresolution;existingonebookUIStandalonecaptionisnotclaimseriescomplete.NextMC06278.
+
+
+## MC06278 Wildersongs,22November2026
+One published 2024 novel, future trilogy installments excluded;16readpages,full-rootending-awarewalk:Soul bond romantasy7to8,moderateconfidence,Bard/Badblood/Cozypeepsrivals.1650x2475Englishauthorfrontinspected/localized.No structure/definition/portraitchange.921/2951/7243pendingdeployment/liveQA.NextMC06279-81MaithreeWijesekara.

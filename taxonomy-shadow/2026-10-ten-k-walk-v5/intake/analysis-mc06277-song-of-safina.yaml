@@ -1,7 +1,7 @@
 queue:
 - MC06277
 fiction: The Song of the Safina
-status: placed locally;deployment/liveQA pending
+status: deployed and live pixel verified22Nov2026 21:45CET
 leaf: new-star-journey
 before_count: 7
 after_count: 8
@@ -333,3 +333,9 @@ preflight:
       title: Learning the World
       year: 2005
   url: https://gusoder.github.io/sff-taxonomy-browser/?verified=7c8e9192d-safina-preflight#new-star-journey
+commit: 517251035c6561b6cc3100a433da0559a6519df5
+deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45067951732
+live_leaf: https://gusoder.github.io/sff-taxonomy-browser/?verified=517251035-2145#new-star-journey
+live_fiction: https://gusoder.github.io/sff-taxonomy-browser/?verified=517251035-2145f#new-star-journey/the-song-of-the-safina
+qa: Phone8header,phonebottomEnglishfront,tabletfictionpagepixelinspected;all8imagesdecoded. Publisher267x400frontsoftasbackground.
+  ExistingonebookUIcallsitStandalonefictiondespiteseriescard;futurebooknotadded. Correction517251035fixesnewslugfromhistorytoworkslist,actual8parityverified.
