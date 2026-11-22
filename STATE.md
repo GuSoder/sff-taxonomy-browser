@@ -2271,3 +2271,9 @@ Verified4-book fiction, all4cover loads, Egyptian2fiction leaf and actual live t
 
 ## MC06216-18 Fair Folk trilogy, 2026-11-22
 Three published novels2024/2025/2026, one fiction. Full root walk chooses existing Perilous fairy doors7to8, not a shortcut from the romantasy label. Primary excerpt names Fodla/Tailteann and independent reader explicitly identifies mythological Ireland: moderate Earth-anchor judgment recorded, no fabricated historical century. Recurring named forest gate supports anchored threshold; no unverified physical material asserted. Book2 deeper-Faerie tournament and book3 interior possession/two-realm war retained as wobbles. Three clean English fronts pixel-inspected after replacing a watermarked agency thumbnail. Counts917/2933/7197. Existing Bloodless Queen work/app membership was absent from the local genre list and has been synced, not counted as a new fiction. Await deployment QA; no structural change or decision, continue next unfinished MC06223 Ler.
+
+## Fair Folk live QA, 2026-11-22 10:14 CET
+Verified3-book fiction, all3cover loads, Perilous fairy doors8 and actual live totals917/2933/7197. Final page and cover sheet sent to parent. No open decision.
+
+## MC06223 Ler trilogy, 2026-11-22
+Three novels1975/1977/1979,2006omnibus not a fourth book; Gameplayers chronologically first but published second. Full-world root changes initial Earthborn candidate: Klesh has actual oracular temporal perception and ancient Cretus mind contact with future Meure. Existing any-SF-temporal-element ruling, original phonemsg-01M36M8K4DB3B8Y8T1GAQ6ARF0 recovered. Existing Mind over time7to8; artifact-focus/storage-vs-crossing and SF/metaphysics wobbles recorded, no invented machine or verified-full-English-text claim. Three600px English DAW fronts from SFE gallery pixel-inspected. Counts917/2934/7200. Await deployment QA. Intake active, no structural decision. Next MC06224 Transformer trilogy, not yet walked.
