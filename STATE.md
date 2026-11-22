@@ -2441,3 +2441,7 @@ OneexistingHammajangLuckfictionexpandedto2publishednovels2024/2026,2027prequelex
 
 ## MC06283-84 Ash/Huntress,22November2026
 Onefiction2novels2009/2011,TheFox2011shortreadandacknowledgednotthirdnovel;20readpages/full-rootwalk:Fairytalemythology8to9,moderateconfidence,Ash-onlyinversion/Huntress-onlyquest-romancerivals.2Englishauthorfrontsinspected/localized.921/2953/7248pendingdeployment/liveQA.NextMC06285Infomocracy.
+
+
+## MC06285 TheCentenalCycle,22November2026
+Onefiction3novels2016/17/18,NarrativeDisorder2017shortreadandacknowledgednotnovel;18readpages/fullrootwalk:FutureSocialSF8to9,moderateconfidence,RevolutionaryCyberpunk/utopianprojectrivals.3Englishfrontsinspected/localized.921/2954/7251pendingdeployment/liveQA.

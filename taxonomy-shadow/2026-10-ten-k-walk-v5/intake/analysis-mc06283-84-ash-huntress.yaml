@@ -2,7 +2,7 @@ queue:
 - MC06283
 - MC06284
 fiction: Ash / Huntress
-status: placed locally;deployment/liveQA pending
+status: complete;deployment succeeded and livepixels inspected22November2026at22:06CET
 leaf: fairytale-mythology
 before_count: 8
 after_count: 9
@@ -446,3 +446,12 @@ preflight:
       title: The Sleepy Hollow Duet
       year: 2023
   url: https://gusoder.github.io/sff-taxonomy-browser/?preflight=lo-2203#fairytale-mythology
+deployment:
+  sha: 5bc735c00d82bb2cc41005667211a2771131216c
+  run_url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45070057496
+  live_counts:
+  - 921
+  - 2953
+  - 7248
+  target_count: 9
+  new_english_fronts_loaded: true
