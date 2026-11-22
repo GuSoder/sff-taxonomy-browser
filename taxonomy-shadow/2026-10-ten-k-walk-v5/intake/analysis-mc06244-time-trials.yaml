@@ -3,7 +3,7 @@ title: Time Trials
 authors:
 - M. A. Rothman
 - D. J. Butler
-status: placed locally; deployment/live QA pending
+status: placed; exact deployment and actual live/pixel QA complete
 leaf: time-agency-thrillers
 before_count: 8
 after_count: 9
@@ -189,3 +189,31 @@ authority:
   intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
   originals_reread: 2026-11-22 16:35 CET, verified owner phone/iMessage
+deployment:
+  commit: be94e28d20cea064fbd2c45143f736b021bb5b9c
+  url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45039619150
+  conclusion: success
+  verified_on: 2026-11-22 16:42 CET
+live_qa:
+  leaf_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=be94e28d2-1642#time-agency-thrillers
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=be94e28d2-1642b#time-agency-thrillers/time-trials
+  counts:
+  - 918
+  - 2939
+  - 7214
+  leaf_fictions: 9
+  book_count: 2
+  decoded_english_front_dimensions:
+  - - 263
+    - 400
+  - - 263
+    - 400
+  actual_pixels: Nine-fiction leaf header, new ninth tile, correct two-book fiction header, then both complete live fronts
+    and2023/2024 captions inspected. Hash-only navigation initially retained stale leaf DOM; resolved with fresh full-query
+    navigation and verified actual fiction content.
+  screenshots:
+  - /downloads/cloud-browser-20261122-154203.png
+  - /downloads/cloud-browser-20261122-154209.png
+  - /downloads/cloud-browser-20261122-154249.png
+  - /downloads/cloud-browser-20261122-154258.png
+  - /downloads/time-trials-cover-qa.jpg
