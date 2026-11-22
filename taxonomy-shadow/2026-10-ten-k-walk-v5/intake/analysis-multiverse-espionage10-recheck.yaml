@@ -1,4 +1,4 @@
-status: prior completion superseded by root/copyright correction,deploy/liveQA pending
+status: complete;9325d7a4cdeployed/livepixels22:38CET
 counts:
 - 921
 - 2955
@@ -315,7 +315,7 @@ live_verified:
   repaired_sequence_images: 15
   note: all four repaired pages inspected actual pixels, all15 fronts decoded, Rabbit new page inspected; unrelated Alternateworlds
     images were loading in immediate final sample,not claimed verified
-intake: paused until final correctionQA
+intake: active,noopenstructuralgate;espionage8/geopolitical2
 formation_correction: 'Correction22November2026 under the owner’s original root rules: magic divides Fantasy from SF (phonemsg-01M2GE2Q8NP01AFPRYMZ01XXE4,14September;
   phonemsg-01M2M9MCQAX50N3C1FQ5CP2AZK,16September). Invented realms require Fantasy unless actual fabulation (phonemsg-01M61WBFZHYBJVT7CTS9A5VD3V,28October).
   Prior claim that an organizing SF cosmology overrides local magic is withdrawn, not a valid exception.
@@ -382,3 +382,12 @@ cover_correction:
     cover-the-jewel-and-the-comet.jpg: https://images1.penguinrandomhouse.com/cover/9781836730224
     cover-prison-of-sleep.jpg: https://images4.penguinrandomhouse.com/cover/9780857669421
   history: No destructive history rewrite attempted
+live_verification:
+  deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45073018584
+  url: https://gusoder.github.io/sff-taxonomy-browser/?verified=9325d7a4c-2238#geopolitical-fantasy/transmentation-transience
+  counts:
+  - 921
+  - 2955
+  - 7259
+  fronts: all12hotlinksloaded,actualpixelsinspectedallMerchantrows+Formation+Zaxony+Knife
+  history: No rewrite or forcepush,parent22:36:39instruction

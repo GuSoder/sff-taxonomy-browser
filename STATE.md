@@ -2461,3 +2461,9 @@ Rabbit to existing Alternate worlds after completed-content review; espionage10t
 
 ## Root/copyright correction22:35CET
 Formationwhole2 moves to existing Geopoliticalfantasy,espionage9to8,geopolitical1to2.SFcosmologydoesnotoverridemagicrule.Twelvefrontfilesfromthisrecheckremovedfromcurrenttree,replacedwithinspectedsourcehotlinks.Noothercoveraudit/historyrewrite.921/2955/7259.Deploy/liveQA pending,intakepaused.
+
+## Formation/hotlinkcorrection verified22:38CET
+9325d7a4c,Pages45073018584success,live921/2955/7259,all12hotlinkedfrontsinspected,espionage8/geopolitical2.Browserreleased,nostructuraldecision.Intakeresumed.
+
+## MC06292TwiceinTime22:40CET
+One1940standalonenovel,later2015Baenpackageeditionnotnewnovel.First3authorizedchaptersexplicitlyexplainsorceryasmechanicaltrickery/hypnosis,privatebuiltreflectorbacktoRenaissanceItaly.RootwalktoexistingDIYrewind6to7,921/2956/7260.FrontEnglishpublisherhotlink,pixelsinspected,noimagerepofile.Deploy/liveQApending.
