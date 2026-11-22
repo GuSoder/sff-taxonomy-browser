@@ -2237,3 +2237,6 @@ Three published novels2024/2025/2026, one author-confirmed world. Magic family f
 
 ## MC06163 Aradia, 2026-11-22
 The Questing Road2010 and Bastet's Daughters2017: one author-linked Aradia universe, two published novels. Whole-fiction alternate-Egypt inclusion changes the lone-book quest candidate to Portal > Fantasy rifts > Multiverse > Gateway > Borderland6to7. Moderate borderland/worldhopper and source-detail limits recorded, no invented Bastet plot. No genre change. 916nodes/2934fictions/7177books. Next MC06166 future-date check and MC06167 The Dollmakers. Intake active, no decision open.
+
+## MC06166-67 Fallen Peaks, 2026-11-22
+MC06166 Breeze Felt at Moonrise verified future March9 2027; skip unreleased. MC06167 The Dollmakers2024 is the only published novel in author-confirmed Fallen Peaks world. Scripted hard magic6to7 for the learned inscribed Marks; full realm and Epic partition, small-scale/system-mystery caveats in analysis. Front panel cropped from author English spread and pixel-inspected. 916nodes/2935fictions/7178books. Next MC06168-77 Flewelling, whole-world check, not the stale prep's two-card assumption. Intake active, no decision open.
