@@ -1,4 +1,4 @@
-status: approved and executed locally, deployment/live QA pending
+status: approved split live and pixel verified; intake resumes
 date: '2026-11-22'
 umbrella: projected-realities
 axis: 'Form of the projection in the main reading experience: traversed counterworld, psychic past haunting lived reality,
@@ -150,3 +150,21 @@ portrait_selection:
       street. Observer's hands are hidden.
     master: mindscape-outbreaks-b.png
     drive_file_id: 1voHo6F5VJi42pSMKpEO0NP9IFmLzmnAe
+live_verification:
+  date: '2026-11-22'
+  commit: 797475f83fbc63eba486d5354e68d5f3560c1a80
+  deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45056363445
+  deployment_status: completed/success
+  umbrella_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=797475f83-1944u#projected-realities
+  counts:
+  - 921
+  - 2940
+  - 7215
+  distribution:
+  - 5
+  - 3
+  - 2
+  qa: Actual narrow-phone leaf screenshots show all three distinct portraits and5/3/2 headers. Tablet-width umbrella shows
+    all three named buttons/portraits. Original parent has zero direct fictions and original portrait. All four portrait assets
+    decode1024x1536; ten existing cover assets loaded without failure. Old Celestial deep link correctly resolves to its moved
+    Mindscape treks page, which shows one standalone book. Books/authors/years/covers exact-preserved.

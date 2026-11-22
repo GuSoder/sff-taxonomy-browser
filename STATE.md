@@ -2331,3 +2331,10 @@ Ten live fictions. One proposal for review: Mindscape treks5 / Mindscape hauntin
 
 ## Approved Projected realities split,2026-11-22
 Original textual approval phonemsg-01M828DGVHEHQWXFN8F54KEY8C on served question phonemsg-01M81ZXKARF43DR54A10QEEEZH. Original umbrella and portrait retained, zero direct fictions. Mindscape treks5 / Mindscape hauntings3 / Mindscape outbreaks2, all ten rewalked with source-backed current rationale/history and real boundaries retained. Names use the existing compound mindscape; no new fused word or broad definition of the parent invented. Three original1024x1536 portraits, each selected after viewing two variants; full-size masters privately archived, served WebPs full size. Existing books/authors/years/covers unchanged.921nodes/2940fictions/7215books, deployment/live QA pending. Deliver finished verified umbrella before next proposal, then resume standing intake.
+
+## Projected realities split live closeout,2026-11-22
+797475f83fbc63eba486d5354e68d5f3560c1a80 deployed successfully; actual live921/2940/7215. Original umbrella0direct fictions, approved children5/3/2, all three new1024x1536 portrait assets and ten existing covers loaded. Phone-width leaf pixels, full umbrella navigation and moved Celestial standalone/old-link resolution inspected. No open decision, no browser/wake left after closeout. Deliver verified finished umbrella before next proposal, then resume MC06246.
+
+
+## MC06246-MC06250 Wolfsangel,2026-11-22
+One five-published-novel shared world,2010/2011/2012/2015/2018, into existing Norse fantasy4->5. Source-backed whole-root walk includes Norman and WWII later volumes, real Long chronicle/Werewolf/Godgame/Alt diesel rivals and SFE ambiguity; no sixth novel inferred from contract. Five current English publisher fronts inspected/localized. No structure, definition or portrait change.921/2941/7220 pending deployment/live QA. Next MC06251.
