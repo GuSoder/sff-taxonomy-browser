@@ -1,0 +1,11 @@
+queue:
+- MC06290
+status: skip,notnovel
+sources:
+- url: http://www.manishmelwani.com/bibliography-1
+  claim: Authorcallsnovelette
+- url: https://torpublishinggroup.com/the-dominion-of-leviathan/?format=ebook&isbn=9781250849472
+  claim: shortstory32pages;1900on-saleplaceholderrejected
+- url: https://www.isfdb.org/cgi-bin/title.cgi?3021527=
+  claim: SHORTFICTION/novelette13April2022
+read_on: '2026-11-22'

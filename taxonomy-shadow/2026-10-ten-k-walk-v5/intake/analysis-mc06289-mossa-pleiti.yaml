@@ -1,6 +1,6 @@
 queue:
 - MC06289
-status: placed locally;deployment/liveQA pending
+status: complete;deployment succeeded and livepixelQA22November2026at22:16CET
 leaf: space-cop
 before_count: 6
 after_count: 6
@@ -289,3 +289,12 @@ preflight:
       title: Grasp the Stars
       year: 2004
   url: https://gusoder.github.io/sff-taxonomy-browser/?preflight=mossa-2214#space-cop
+deployment:
+  sha: 7b00ed03d496db0c4cce9f50d536c21ff1680bb3
+  run_url: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45071037736
+  live_counts:
+  - 921
+  - 2954
+  - 7252
+  target_count: 6
+  book_fronts_loaded: true
