@@ -1,7 +1,7 @@
 queue: MC06245
 title: Celestial
 author: M. D. Lachlan
-status: placed locally; tenth fiction, intake frozen for split; deployment/live QA pending
+status: live and pixel verified; tenth fiction, intake frozen for split proposal
 leaf: projected-realities
 before_count: 9
 after_count: 10
@@ -174,3 +174,16 @@ preflight: https://gusoder.github.io/sff-taxonomy-browser/?preflight=mc06245-165
 authority:
   standing_intake: phonemsg-01M43MYMGAMQTNA3CY402KK7FB
   single_fiction_trust: phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX
+live_verification:
+  date: '2026-11-22'
+  commit: 7443bc07216925fe0665855a16cd836974139010
+  umbrella_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=7443bc072-1657#projected-realities
+  fiction_url: https://gusoder.github.io/sff-taxonomy-browser/?verified=7443bc072-1657b#projected-realities/celestial
+  deployment: https://github.com/GuSoder/sff-taxonomy-browser/actions/runs/45040920145
+  deployment_status: completed/success
+  counts:
+  - 918
+  - 2940
+  - 7215
+  pixels: Ten-fiction header, tenth tile, one-book standalone page and original English source front inspected. No new genre
+    art.

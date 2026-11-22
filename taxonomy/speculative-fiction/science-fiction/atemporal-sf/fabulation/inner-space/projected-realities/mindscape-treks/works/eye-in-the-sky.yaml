@@ -1,0 +1,92 @@
+id: eye-in-the-sky
+title: Eye in the Sky
+authors:
+- Philip K. Dick
+first_published: 1957
+canonical_genre: mindscape-treks
+placement_status: accepted
+placement_rationale: 'Speculative fiction > Science fiction > Atemporal SF > Fabulation > Inner space > Projected realities
+  > Mindscape treks.
+
+  The mundane1959 laboratory accident is the physical frame, not a reason to make the whole belief-shaped narrative a period-history
+  novel. Eight participants experience successive worlds governed by individual beliefs and fears. A consistent physical extrapolation
+  or a future social order is not the main form, so Futurist and Modern-day technical/psychological research shelves lose
+  to Atemporal Fabulation. These are not stable independent parallel worlds, actual rival gods, or demonstrated historical
+  time travel. Fantasy is a substantial surface rival because of miracles and curses, but the worlds are constituted by the
+  participants'' minds rather than a confirmed external magical cosmology. Inner space passes because psyche materially shapes
+  what the group experiences. Visionary minds would reveal an independent hidden world; Psychogeographic fabulation is chiefly
+  a psyche-shaped personal geography. Here the group must pass through identifiable competing mind-worlds and return, so shared
+  Projected realities is more exact.
+
+  Approved child walk: A lab accident traps eight people in successive worlds governed by different participants'' beliefs
+  and fears. Their route is through these competing constructed worlds and back out, not simply ordinary life colored by regret.
+
+  Sibling test: Treks is chiefly traversal/investigation/escape of an identifiable psyche-shaped counterworld; Hauntings is
+  the psychic past deforming lived present relationships and recognition; Outbreaks is material projection spreading into
+  ordinary shared places. Best-fit whole-book operation, not mutually exclusive metaphysical ingredients. Mindscape treks
+  is selected for the source-backed main operation above. The existing broad experimental Fabulation route and its recorded
+  conventional-genre/ontological caveats are retained.
+
+  Textual split approval2026-11-22; all original book editions, authors, years and covers preserved.'
+books:
+- title: Eye in the Sky
+  year: 1957
+  cover_url: https://covers.openlibrary.org/b/id/6295100-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6295100-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07759)
+placement_history:
+- date: '2026-10-04'
+  to: projected-realities
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-22'
+  from: projected-realities
+  to: mindscape-treks
+  reason: A lab accident traps eight people in successive worlds governed by different participants' beliefs and fears. Their
+    route is through these competing constructed worlds and back out, not simply ordinary life colored by regret.
+  root_down_walk: 'Speculative fiction > Science fiction > Atemporal SF > Fabulation > Inner space > Projected realities >
+    Mindscape treks.
+
+    The mundane1959 laboratory accident is the physical frame, not a reason to make the whole belief-shaped narrative a period-history
+    novel. Eight participants experience successive worlds governed by individual beliefs and fears. A consistent physical
+    extrapolation or a future social order is not the main form, so Futurist and Modern-day technical/psychological research
+    shelves lose to Atemporal Fabulation. These are not stable independent parallel worlds, actual rival gods, or demonstrated
+    historical time travel. Fantasy is a substantial surface rival because of miracles and curses, but the worlds are constituted
+    by the participants'' minds rather than a confirmed external magical cosmology. Inner space passes because psyche materially
+    shapes what the group experiences. Visionary minds would reveal an independent hidden world; Psychogeographic fabulation
+    is chiefly a psyche-shaped personal geography. Here the group must pass through identifiable competing mind-worlds and
+    return, so shared Projected realities is more exact.
+
+    Approved child walk: A lab accident traps eight people in successive worlds governed by different participants'' beliefs
+    and fears. Their route is through these competing constructed worlds and back out, not simply ordinary life colored by
+    regret.
+
+    Sibling test: Treks is chiefly traversal/investigation/escape of an identifiable psyche-shaped counterworld; Hauntings
+    is the psychic past deforming lived present relationships and recognition; Outbreaks is material projection spreading
+    into ordinary shared places. Best-fit whole-book operation, not mutually exclusive metaphysical ingredients. Mindscape
+    treks is selected for the source-backed main operation above. The existing broad experimental Fabulation route and its
+    recorded conventional-genre/ontological caveats are retained.
+
+    Textual split approval2026-11-22; all original book editions, authors, years and covers preserved.'
+  sources:
+  - https://www.ebsco.com/research-starters/history/eye-sky-philip-k-dick/
+  - https://2013philipkdick.philipdick.com/works_novels_eyeinthesky.html
+  structural_approval: &id001
+    proposal: phonemsg-01M81ZXKARF43DR54A10QEEEZH
+    approval: phonemsg-01M828DGVHEHQWXFN8F54KEY8C
+    date: '2026-11-22'
+    scope: Approved Projected realities split into Mindscape treks / Mindscape hauntings / Mindscape outbreaks,5/3/2. Original
+      Projected realities retained as umbrella, all ten fictions preserved.
+previous_placement_rationale: 'Philip K. Dick''s Eye in the Sky (Ace, 1957; Wikipedia): in 1959 a malfunction of the Belmont
+  Bevatron leaves eight visitors unconscious and then trapped in a series of unreal worlds shaped in turn by each one''s fears
+  and beliefs, among them a geocentric believer''s world of miracles and curses and a paranoid woman''s. Walk: Science fiction
+  > Atemporal > Fabulation > Inner space > Projected realities (belief, memory and fear project a shared competing reality
+  whose boundary cannot be stabilized). Tried: Godgame (the powers are the minds of the eight, not rival gods).'
+classification_sources:
+- https://www.ebsco.com/research-starters/history/eye-sky-philip-k-dick/
+- https://2013philipkdick.philipdick.com/works_novels_eyeinthesky.html
+structural_approval: *id001

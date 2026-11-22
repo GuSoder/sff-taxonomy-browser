@@ -1,7 +1,7 @@
 id: projected-realities
 name: Projected realities
 parent: inner-space
-status: leaf
+status: umbrella
 label_status: taxonomy-coinage
 label_note: Taxonomy coinage for realities materially projected by memory, trauma or desire rather than reached as stable
   parallel worlds.
@@ -9,16 +9,19 @@ definition: Fabulation in which trauma, memory or desire projects a competing sh
   world cannot be stabilized.
 portrait: 248-projected-realities.webp
 label: Projected realities
-children: []
+children:
+- mindscape-treks
+- mindscape-hauntings
+- mindscape-outbreaks
 image: 248-projected-realities.webp
-works:
-- the-houses-of-time
-- destroy-all-monsters
-- peaces
-- the-unconsoled
-- the-unlimited-dream-company
-- the-wind-up-bird-chronicle
-- time-out-of-joint
-- prophet
-- eye-in-the-sky
-- celestial
+works: []
+approval:
+  proposal: phonemsg-01M81ZXKARF43DR54A10QEEEZH
+  approval: phonemsg-01M828DGVHEHQWXFN8F54KEY8C
+  date: '2026-11-22'
+  scope: Approved Projected realities split into Mindscape treks / Mindscape hauntings / Mindscape outbreaks,5/3/2. Original
+    Projected realities retained as umbrella, all ten fictions preserved.
+split_distribution:
+  Mindscape treks: 5
+  Mindscape hauntings: 3
+  Mindscape outbreaks: 2
