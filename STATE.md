@@ -2231,3 +2231,6 @@ Amber14, ApprenticeAdept7, Shades4, Slaves2. +18novels,850genres/2768fictions/66
 
 ## MC06146 Song of the Huntress, 2026-11-22
 Author-confirmed same world as Sistersong (Riva descendant, returning characters), folded as second novel under existing card. Full whole-fiction root walk and sources in analysis-mc06146-song-huntress.yaml. Celtic stays9, no split. 916nodes/2932fictions/7172books. Next MC06147-49 Lucy Jane Wood, not yet walked. Intake active, no open decision.
+
+## MC06147-49 Selcouth universe, 2026-11-22
+Three published novels2024/2025/2026, one author-confirmed world. Magic family fantasy6to7, existing definition includes coven-mates/found kin; full eight-child Contemporary partition and domestic-vs-personal-trial/town-curse wobbles recorded in analysis-mc06147-49-selcouth.yaml. Three English print jackets localized and pixel-inspected. 916nodes/2933fictions/7175books. Next unfinished WALK row MC06163 The Questing Road. Intake active, no decision open.
