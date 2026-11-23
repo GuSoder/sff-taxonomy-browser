@@ -2488,3 +2488,5 @@ One1999standalone, Cyberpunk noir8to9,921/2959/7265. Root/ancestor/rival walk re
 
 ## Traveller,23November2026
 MC06298 Agent of the Imperium expanded to oneTravellercard14novels. Star empire chronicles3to4,921/2960/7279. Positive evidence futurehistory;300millennia nottime-travel proof,criticambiguityretained. Twelveinspectedfronts,twoexplicitcoverabsences(ALongWayHome,SingersWarOrigin). Noartstored. Nocturne3882b5317/45074348709liveQAcompletedpreviously. Travellerdeploy/liveQApending.
+
+TravellerliveQAcaughtDiasporawikihotlinkblocked;replacedwithinspectedidenticalpublisherstoreCDNfront. Deployment6019b6659success45145690833;follow-upcoverrepairdeploypending.
