@@ -2586,3 +2586,6 @@ Ozymandian original-member audit final desktop/mobile live QA succeeded19:07, cl
 
 ## Raven Trade whole-fiction intake23November19:32CET
 Dragon Ops deployment45237325846success and desktop/mobile live QA complete19:24. Raven Trade two published2023/2025 novels placed together Godforsaken realms8to9 after whole-fiction bargain-source walk; no structural change. Four adjacent short works skipped, MC06356reason corrected from audience to short-work; Alistair Fall2027unpublished held. Both agent-hosted English fronts inspected/hotlinked. Totals927/2977/7364, awaiting deploy/liveQA.
+
+## Lady Trent whole-six intake23November19:42CET
+RavenTrade deployment45239466663success and desktop/mobile actual pixels verified19:35. LadyTrent fiveMemoirs plus same-world TurningDarkness2019 together in NPC heroes2to3. Later28October owner root rule personally recovered before action: independent fantasy world does not enterSF solely because nonmagical. Fullrationale records SFE scientific reading, author nonmagicalworld, Manners/Technofantasy/Quest/HardFantasy rivals and moderate NPCfineleaf fit. Six English authorfronts inspected/hotlinked, no structuralchange. Totals927/2978/7370, awaiting deploy/liveQA.
