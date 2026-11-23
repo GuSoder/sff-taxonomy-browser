@@ -2612,3 +2612,6 @@ The Forever Engine expanded into creator-confirmed Space1889 shared universe,1to
 
 ## Days of Cain rewalk23November21:49CET
 Direct audit repaired obsolete early1990s cutoff rejection. One1997novel moved Time agency thrillers10to9 -> Classic time agencies9to10under existing through1990s gate. Classic now frozen for direct membership audit/split; no later queue intake. Counts930/2981/7390unchanged. No structural approval open. Deployment/liveQA pending.
+
+## Timedivers direct rewalk23November21:58CET
+Whole2novel fiction Classic time agencies10to9 -> Mind over time8to9. Mental navigation precedes Guard institution and no causal machine exists. Classic split trigger cancelled, no structure change. Timegod expanded edition1993with originalFires1982metadata; creator English illustrated front restored by hotlink only. Oxford Dog first year1997corrected. Totals930/2981/7390unchanged. Deployment/liveQA pending.
