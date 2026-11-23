@@ -2571,3 +2571,6 @@ Mandatory audit: direct author rejects disguised-SF reading of genuine life-forc
 
 ## Empire/Swords root and scope correction23November18:48CET
 Original Ozymandian audit: actual magic after technologically initiated nuclear-era Change. Empire of the East retained as fiction identity, whole15novel shared world restored,14missingbooks added. Ozymandian9to8, Fantasy after Disaster4to5. No definitions or nodes changed. Totals927/2975/7358. INTAKE REMAINS FROZEN for remaining original-member audit.
+
+## Time of Heroes scope correction23November18:52CET
+Original-member audit retains Ozymandian8, adds Serpent2021, corrects Storm2018to2019. Author completed-scope SF account and finished reviews support technological-engine reading.927/2975/7359. Original-member audit still frozen, Invoker sequel and remaining scope checks next.

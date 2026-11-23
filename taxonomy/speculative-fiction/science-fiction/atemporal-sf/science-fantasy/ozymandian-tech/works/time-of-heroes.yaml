@@ -5,18 +5,84 @@ authors:
 first_published: 2017
 canonical_genre: ozymandian-tech
 placement_status: accepted
-placement_rationale: 'Baen (baen.com/the-spark.html) and Locus review (locusmag.com/review/carolyn-cushman-reviews-the-spark-by-david-drake/):
-  a far future where shattered worlds are joined by a strange Road, remnants of an ancient empire whose broken artifacts a
-  few Makers can reshape; a Leader rebuilds order and Champions like Pal fight the monsters. Arthurian in shape (Publishers
-  Weekly: Arthurian legend with far-future super science), but the wonders are the Ancients'' technology, so Ozymandian tech.
-  Walk: Speculative fiction > Science fiction > Atemporal SF > Science fantasy > Ozymandian tech. Soft call.'
+placement_rationale: '# Time of Heroes scope check
+
+  23 November 2026
+
+
+  Retain Ozymandian tech, add The Serpent2021 as third novel and correct The Storm2018 to2019. The Spark2017 remains unchanged.
+  One shared fiction, not three cards. No new genre or definition. Ozymandian remains8, total books7358to7359.
+
+
+  Author current series index and independent ISFDB series list both contain exactly these three novels. Author''s6July2021newsletter
+  explicitly calls the whole series Arthurian romances in far-future SF, with a fantasy feel. This is stronger evidence than
+  assuming monsters or a mythic-looking Road must be literal magic. It does not by itself rule out every supernatural possibility,
+  but the publisher''s third-novel description positively keeps Maker Pal repairing the Ancients'' tools. Finished Serpent
+  reviews describe the same lost machines and adventure-in-the-shattered-cosmos premise, not a final-volume revelation that
+  reverses ontology. The Upstream review''s teasing no-magic headline and references to witches are not ignored; its actual
+  account explains Makers as restorers of Ancient machinery and describes a psychic dog rapport, not deities or independent
+  spells. Residual uncertainty is retained rather than claiming every marvel has been physically explained.
+
+
+  Whole fiction: Spark follows rural Pal''s move to Dun Add and use of Ancient weapons; Storm continues the Champions'' Arthurian-style
+  travels, adapted from Chretien and the Prose Lancelot; Serpent has Pal on patrol restoring order, recovering an Ancient
+  artifact and finding the Maker Irene. Jon''s fragmented Commonwealth is held together through travel and the useful remains
+  of the former universe. The books need not have a single continuous quest to form one setting.
+
+
+  Root walk: speculative > SF rather than Fantasy, given positive author account of the completed scope and machinery frame;
+  Atemporal Science fantasy rather than an ordinary technological-progression futurist story, because the fantasy-surface,
+  remote-human-future/technological-engine setting is covered by the original17September ancestor ruling; Ozymandian because
+  recovering and reshaping Ancient technology is the continuing engine. A historical Arthurian shelf fails because source
+  legend is not story date. Fantasy portal fails an actual Earth-origin portal story and literal magic evidence. Hard science
+  fantasy is a live rival, but the engine is surviving old works rather than a new engineered-magic society. Dying-earth is
+  not selected on a ruined setting alone, with no moribund-sun frame. Moderate confidence in retained fine placement.
+
+
+  Year repair: The Storm''s author''s webpage was posted in June2018 but explicitly says publication January2019. Do not confuse
+  post date with book publication. The Serpent''s author page was posted September2020 but explicitly says6July2021, confirmed
+  by Baen''s distributor. Current series index and ISFDB independently show2017/2019/2021. No later fourth novel found in
+  those current full series lists. No omnibus, short story or reprint added.
+
+
+  The Serpent publisher English front visually inspected23November2026. Retain the two existing fronts unless live QA shows
+  failure. Cover hotlinks only; no repository image download. Final live3front QA required.
+
+
+  Sources read:
+
+  - https://david-drake.com/2021/newsletter-121/
+
+  - https://david-drake.com/topic/books-series/time-of-heroes/
+
+  - https://david-drake.com/2017/the-spark/
+
+  - https://david-drake.com/2018/the-storm/
+
+  - https://david-drake.com/2020/the-serpent/
+
+  - https://www.simonandschuster.com/books/The-Serpent/David-Drake/Time-of-Heroes/9781982125578
+
+  - https://www.baen.com/the-serpent.html
+
+  - https://www.isfdb.org/cgi-bin/pe.cgi?52536=
+
+  - https://upstreamreviews.substack.com/p/the-serpent-drake
+
+  - https://popculthq.com/book-review-baen-books-the-serpent/
+
+  '
 books:
 - title: The Spark
   year: 2017
   cover_url: https://pictures.abebooks.com/isbn/9781481482769-us.jpg
 - title: The Storm
-  year: 2018
+  year: 2019
   cover_url: https://pictures.abebooks.com/isbn/9781481483698-us.jpg
+- title: The Serpent
+  year: 2021
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982125578/the-serpent-9781982125578_lg.jpg
+  shows_english_title: true
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -28,3 +94,18 @@ placement_history:
 - date: '2026-10-04'
   to: ozymandian-tech
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-23'
+  to: ozymandian-tech
+  reason: Original-member audit retains whole-fiction leaf, adds missing third novel and corrects Storm publication year from
+    post date.
+classification_sources:
+- https://david-drake.com/2021/newsletter-121/
+- https://david-drake.com/topic/books-series/time-of-heroes/
+- https://david-drake.com/2017/the-spark/
+- https://david-drake.com/2018/the-storm/
+- https://david-drake.com/2020/the-serpent/
+- https://www.simonandschuster.com/books/The-Serpent/David-Drake/Time-of-Heroes/9781982125578
+- https://www.baen.com/the-serpent.html
+- https://www.isfdb.org/cgi-bin/pe.cgi?52536=
+- https://upstreamreviews.substack.com/p/the-serpent-drake
+- https://popculthq.com/book-review-baen-books-the-serpent/
