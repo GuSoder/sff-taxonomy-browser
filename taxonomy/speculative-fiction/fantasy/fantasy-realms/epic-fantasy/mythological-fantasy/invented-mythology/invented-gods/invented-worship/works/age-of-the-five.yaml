@@ -5,16 +5,18 @@ authors:
 first_published: 2005
 canonical_genre: invented-worship
 placement_status: accepted
-placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy
-  -> Invented mythology -> Invented gods -> Invented worship. The invented divine order is encountered through priesthood,
-  competing faith, service and disillusionment. The human relationship to the gods, rather than sustained experience
-  of being a deity, organizes the trilogy. Worship includes questioning and refusal, not devotion alone. User Approved
-  phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing
-  book lists unchanged.'
+placement_rationale: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented
+  mythology -> Invented gods -> Invented worship. The invented divine order is encountered through priesthood, competing faith,
+  service and disillusionment. The human relationship to the gods, rather than sustained experience of being a deity, organizes
+  the trilogy. Worship includes questioning and refusal, not devotion alone. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3,
+  2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing book lists unchanged.'
 books:
 - title: Priestess of the White
   year: 2005
   cover_url: https://covers.openlibrary.org/b/id/36748-L.jpg
+- title: Last of the Wilds
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/isbn/9780060815912-L.jpg
 - title: Voice of the Gods
   year: 2006
   cover_url: https://covers.openlibrary.org/b/isbn/9780061261152-L.jpg
@@ -32,15 +34,19 @@ placement_history:
 - date: '2026-10-12'
   from: invented-mythology
   to: invented-gods
-  reason: 'Invented mythology split into Invented gods / Mythlike past on the curator''s approval; re-walked: this card
-    sits in Invented gods.'
+  reason: 'Invented mythology split into Invented gods / Mythlike past on the curator''s approval; re-walked: this card sits
+    in Invented gods.'
 - date: '2026-10-29'
   from: invented-gods
   to: invented-worship
-  reason: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented
-    mythology -> Invented gods -> Invented worship. The invented divine order is encountered through priesthood, competing
-    faith, service and disillusionment. The human relationship to the gods, rather than sustained experience of being
-    a deity, organizes the trilogy. Worship includes questioning and refusal, not devotion alone. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3,
+  reason: 'Walk: Speculative fiction -> Fantasy -> Fantasy realms -> Epic fantasy -> Mythological fantasy -> Invented mythology
+    -> Invented gods -> Invented worship. The invented divine order is encountered through priesthood, competing faith, service
+    and disillusionment. The human relationship to the gods, rather than sustained experience of being a deity, organizes
+    the trilogy. Worship includes questioning and refusal, not devotion alone. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3,
     2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY. Existing book lists unchanged.'
+- date: '2026-11-23'
+  to: invented-worship
+  reason: Scoped tenth-member audit restores missing middle novel. Author trilogy list and Blackwells2006edition verified;
+    actual English front inspected. No placement or structure change.
 classification_sources:
 - https://www.trudicanavan.com/books/age-of-the-five/voice-of-the-gods/
