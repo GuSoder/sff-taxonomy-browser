@@ -1,0 +1,61 @@
+# Sovereign Stone, whole-fiction walk
+23 November 2026
+
+## Verdict
+One fiction, three published novels, existing Throwback quest fantasy7to8. Original years2000/2001/2003. No structural change. Moderate-to-high confidence; serious rivals are the opening dynastic villain origin, dark register and the later company's divided routes.
+
+## Scope and content
+Hickman's author bibliography separates Sovereign Stone from Dragonlance and lists Well of Darkness, Guardians of the Lost, Journey into the Void. Contemporary Kirkus/PW establish2000/2001/2003.2004paperbacks and2009ebooks are later editions. Larry Elmore's Loerem is an independently invented world, not Krynn. Elmore's interview differs from game-centered accounts about which project came first; production order does not change separate-world identity.
+
+Well: King Tamaros seeks peace among human and nonhuman countries linked by magic portals through Dominion Lords and the four-part Sovereign Stone. Prince Dagnarus and whipping-boy Gareth grow into a destructive partnership; forbidden Void magic, soul-feeding Vrykyl and a corrupted investiture lead to Tamaros's death, Helmos's rejection of Dagnarus and civil war. This genuinely is a villain-origin court novel, not already a traveling fellowship.
+
+Guardians: two centuries later the human Stone fragment is recovered. Its dying bearer entrusts it to a mixed traveling group while Dagnarus returns and Vrykyl infiltrate the nations. Shadamehr, Alise, Jessan, Bashae, Wolfram and others carry or seek fragments through hostile lands. PW explicitly identifies classic quest tradition.
+
+Journey: multiple groups converge with the fragments at Old Vinnengael's Portal of the Gods. Shadamehr's apparent death/restoration, Raven's captivity, Wolfram/Ranessa's recovery errand and the ship journey are substantial strands. Completed criticism reaches the ending: rebel Vrykyl K'let uses the dagger against Dagnarus; it supplies the fifth/Void portion and the Stone returns to the gods. Ordinary combat by the company is not the whole resolution. Reviews disagree sharply on whether this is satisfying or anticlimactic, but agree that the later books become a conventional artifact/company quest rather than continue the opening villain-origin form.
+
+Ancillary fiction is not falsely erased: Shadamehr and the Old Wives Tale, Weis/Perrin, Dragon264October1999, reprinted under a punctuation variant in Masters of Fantasy2004; Envoys of Shadamehr, Weis, quickstart framing story; The Smell of Blood, Perrin, Game TradeAugust2002; A Night at the Temple, Forbeck2014. Jamie Chambers has further same-world short-fiction credits whose individual titles were not recovered. Current intake scope skips short works, anthologies and game material as book-row additions. These remain same-world context, not extra novels or separate fiction cards. Complete verified novel sequence is claimed, not exhaustive retrieval of every short/game text. Perrin's bibliography gives2000for Shadamehr, conflicting with his homepage and contemporary issue indexing's1999. No unwritten sequel inferred from epilogue loose ends.
+
+## Root-down and rivals
+Speculative fiction > Fantasy: literal god-given armor, Void sorcery, resurrection, soul-feeding undead and dragons. No scientific explanation/future frame.
+
+Fantasy > Fantasy realms: creator/publisher evidence establishes Loerem, invented countries and races. PW final review loosely says reign on Earth but itself names Loerem; that isolated generic phrase is not an Earth geography/history anchor. No crossing from Earth: portals connect invented lands/worlds. Not Real earth or Portal fantasy.
+
+Fantasy realms > Epic: multi-country, multi-race, multi-century world-order struggle. Sword and sorcery is serious, including Kirkus's broad label and Shadamehr's adventure, but not the intimate episodic form of the whole novels. Artifact recovery/convergence resolves the originating catastrophe. No governing fairy-tale source/grammar. Far shores has counterpart elf culture but not culture-aboutness. Gothic has Void dread and soul-eaters, but final reading contract is heroic adventure, not sustained enclosure/menace/appetite. Comic and Heart lack governing comedy, romance, care-community or horse bond.
+
+Epic > High: consequential journeys recover and reunite the Stone. Political/Dynastic magic strongly describes the first novel and Dagnarus's continuing prize, but later protagonists do not govern, negotiate cross-border alliances or conduct one court's maneuvers: they carry/recover fragments and converge against him. Military has invasions/captivity, not continuing unit/ranks/campaign organization. Heroic has warriors/casters but no one class-defined protagonist organizing the ensemble. Mythological has gods/divine history, not mythology itself or gods' own narrative. Hard has elemental rules, not scientific rule investigation; criticism notes inconsistencies. High's concrete journey gate fits.
+
+High > Classic: villain protagonism, rebel undead and intervention complicate morality, but do not make the published whole Refused-mantle or Aftermath revisionism. Completed criticism explicitly finds a familiar quest conclusion, including critics disappointed by that return to convention.
+
+Classic > Fellowship: groups split and reunite to transport/recover fragments against ancient darkness. Not necessarily one uninterrupted marching party. Destiny's marked-one rise applies locally to Shadamehr and the opening Dagnarus story, not the whole ensemble. Dark quest is substantial through deaths, soul-feeding and painful sacrifice, but no predominantly dying Gothic world or consuming quester-cost contract; reviews retain action, wit and conventional heroic resolution.
+
+Fellowship > Revival: first novel2000, later than founding-line Evergreen's late1980scutoff; ancillary fiction begins late1990s, also not founding era.
+
+Revival > Throwback: contemporary professional reviews explicitly locate Tolkien/Eddings/Brooks's dark lord, mixed-race company, magical object and classic high-heroic continuation. Reimagined is real because race cultures differ and the opening follows villains, but those changes finally inhabit the inherited quest voice and resolution. Hostile criticism complains specifically that promised subversion yields to formula. Positive Throwback fit, not capacity avoidance. Seven to eight, no tenth threshold.
+
+## Covers and limits
+Correct flat English fronts inspected: Hoopla Harper Well and Guardians, Readings Journey. Harper Australia first-two assets are Cover To Be Revealed placeholders, rejected, including older image-service route. Hotlinks only. Live host QA required after deployment. Ending-aware source research, not claimed full-novel reading. Short-fiction uncertainty retained without pretending it changes three-novel count.
+
+## Sources
+- https://trhickman.com/my-works/ . Primary author bibliography, three novels and separate Dragonlance.
+- https://www.harperreach.com/products/well-of-darkness-the-sovereign-stone-trilogy-margaret-weistracy-hickman-9780006486145/ . Primary opening/trilogy/Stone.
+- https://www.harpercollins.com.au/9780061755620/well-of-darkness/ . Later ebook metadata; rejected placeholder.
+- https://www.hoopladigital.com/series/sovereign-stone/4718058742 . Harper-distributed descriptions, all three and final journeys.
+- https://www.hoopladigital.com/ebook/guardians-of-the-lost-margaret-weis/12455942 . Synopsis and actual front.
+- https://www.hoopladigital.com/ebook/well-of-darkness-margaret-weis/12455935 . First synopsis/front lead, actual front separately inspected.
+- https://www.kirkusreviews.com/book-reviews/margaret-weis/well-of-darkness/ . Completed professional review, issueAugust2000, opening succession/Void.
+- https://www.kirkusreviews.com/book-reviews/margaret-weis/guardians-of-the-lost/ . Completed professional2001, fragment bearer/company.
+- https://www.kirkusreviews.com/book-reviews/margaret-weis/journey-into-the-void/ . Completed professional2003, gathering/quest conclusion.
+- https://www.publishersweekly.com/9780061051791 . Completed professional17September2001, classic quest/altered cultures.
+- https://www.publishersweekly.com/9780061051784 . Completed professional2June2003, Tolkien/Eddings/Brooks/artifact rescue/war.
+- https://ossuslibrary.tripod.com/Bk_Fantasy/JourneyIntoTheVoid.htm . Completed independent2006, detailed ending and travelers, negative on plot.
+- https://mrsgiggles.com/journey-into-the-void-by-margaret-weis-and-tracy-hickman/ . Completed independent16October2003, villain-origin to conventional quest, strongly negative quality judgment.
+- https://www.winterwind-productions.com/issue1/elmore2.htm . Creator interview, world identity.
+- https://donperrin.com/ . Primary author homepage, Shadamehr1999.
+- https://donperrin.com/bibliography/ . Primary bibliography, Blood2002, quickstart1998, conflicting Shadamehr2000.
+- https://www.isfdb.org/cgi-bin/pl.cgi?261030= . Dragon264October1999contents.
+- https://www.isfdb.org/cgi-bin/title.cgi?864910= .2004variant/reprint.
+- https://www.baen.com/Chapters/0743488229/0743488229_toc.htm . Primary anthology contents; no claim full paid text retrieved.
+- https://www.forbeck.com/2014/04/03/free-sovereign-stone-fiction/ . Primary author, Temple2014same-world short.
+- https://thealexandrian.net/wordpress/25857/roleplaying-games/rpgnet-reviews-sovereign-stone-quickstart-rules . Completed review names Envoys framing story/function.
+- https://www.onarollpodcast.com/guests/jamiechambers . Creator bio, additional short credits, individual titles unresolved.
+- https://www.readings.com.au/product/9780006486169/9780006486169 . Retail publisher description and observed English third front,2004reprint not original year.

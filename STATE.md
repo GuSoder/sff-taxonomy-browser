@@ -2553,3 +2553,6 @@ User phonemsg-01M84MHXS02WDJYYW5B2EBE47Q requested more clearly fantasy. Edited 
 
 ## Superseding Space fantasy fresh-start request23November17:46CET
 User phonemsg-01M84MP9NNVPJ6YKJJQ1MB17TN supersedes original edit, asks fresh without nebula woman. Fresh1024x1536 image generated without reference: dragon and starship through magic gateway, stone orbital castle and fully robed elder. Pixels inspected, no pinup, distinct new composition. v3 asset. v2 intermediate no longer referenced. Await liveQA and parent completion.
+
+## Sovereign Stone whole3novels23November18:07CET
+Existing Throwback quest7to8. Full novel scope2000/2001/2003, ancillary shorts acknowledged not extra novel rows. First-volume dynastic villain origin and dark register tested against whole traditional fragment/company quest. Three correct English fronts inspected/hotlinked, publisher placeholders rejected.927/2973/7340, awaitingdeploy/liveQA. Spacefresh3447d6943liveverified and parentnotified.

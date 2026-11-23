@@ -1,0 +1,23 @@
+- https://trhickman.com/my-works/ . Primary author bibliography, three novels and separate Dragonlance.
+- https://www.harperreach.com/products/well-of-darkness-the-sovereign-stone-trilogy-margaret-weistracy-hickman-9780006486145/ . Primary opening/trilogy/Stone.
+- https://www.harpercollins.com.au/9780061755620/well-of-darkness/ . Later ebook metadata; rejected placeholder.
+- https://www.hoopladigital.com/series/sovereign-stone/4718058742 . Harper-distributed descriptions, all three and final journeys.
+- https://www.hoopladigital.com/ebook/guardians-of-the-lost-margaret-weis/12455942 . Synopsis and actual front.
+- https://www.hoopladigital.com/ebook/well-of-darkness-margaret-weis/12455935 . First synopsis/front lead, actual front separately inspected.
+- https://www.kirkusreviews.com/book-reviews/margaret-weis/well-of-darkness/ . Completed professional review, issueAugust2000, opening succession/Void.
+- https://www.kirkusreviews.com/book-reviews/margaret-weis/guardians-of-the-lost/ . Completed professional2001, fragment bearer/company.
+- https://www.kirkusreviews.com/book-reviews/margaret-weis/journey-into-the-void/ . Completed professional2003, gathering/quest conclusion.
+- https://www.publishersweekly.com/9780061051791 . Completed professional17September2001, classic quest/altered cultures.
+- https://www.publishersweekly.com/9780061051784 . Completed professional2June2003, Tolkien/Eddings/Brooks/artifact rescue/war.
+- https://ossuslibrary.tripod.com/Bk_Fantasy/JourneyIntoTheVoid.htm . Completed independent2006, detailed ending and travelers, negative on plot.
+- https://mrsgiggles.com/journey-into-the-void-by-margaret-weis-and-tracy-hickman/ . Completed independent16October2003, villain-origin to conventional quest, strongly negative quality judgment.
+- https://www.winterwind-productions.com/issue1/elmore2.htm . Creator interview, world identity.
+- https://donperrin.com/ . Primary author homepage, Shadamehr1999.
+- https://donperrin.com/bibliography/ . Primary bibliography, Blood2002, quickstart1998, conflicting Shadamehr2000.
+- https://www.isfdb.org/cgi-bin/pl.cgi?261030= . Dragon264October1999contents.
+- https://www.isfdb.org/cgi-bin/title.cgi?864910= .2004variant/reprint.
+- https://www.baen.com/Chapters/0743488229/0743488229_toc.htm . Primary anthology contents; no claim full paid text retrieved.
+- https://www.forbeck.com/2014/04/03/free-sovereign-stone-fiction/ . Primary author, Temple2014same-world short.
+- https://thealexandrian.net/wordpress/25857/roleplaying-games/rpgnet-reviews-sovereign-stone-quickstart-rules . Completed review names Envoys framing story/function.
+- https://www.onarollpodcast.com/guests/jamiechambers . Creator bio, additional short credits, individual titles unresolved.
+- https://www.readings.com.au/product/9780006486169/9780006486169 . Retail publisher description and observed English third front,2004reprint not original year.
