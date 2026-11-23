@@ -2568,3 +2568,6 @@ Mandatory audit recovers completed-series author explanation of apparent magic a
 
 ## Corean Chronicles root correction23November18:33CET
 Mandatory audit: direct author rejects disguised-SF reading of genuine life-force magic. Whole8novels moved Ozymandian10to9 -> Magic politics3to4. No definitions changed. INTAKE REMAINS FROZEN for completion of original ten-member audit. Totals927/2975/7344.
+
+## Empire/Swords root and scope correction23November18:48CET
+Original Ozymandian audit: actual magic after technologically initiated nuclear-era Change. Empire of the East retained as fiction identity, whole15novel shared world restored,14missingbooks added. Ozymandian9to8, Fantasy after Disaster4to5. No definitions or nodes changed. Totals927/2975/7358. INTAKE REMAINS FROZEN for remaining original-member audit.
