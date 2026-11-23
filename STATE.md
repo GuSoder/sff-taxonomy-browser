@@ -2508,3 +2508,6 @@ Whole2novel fiction2017/2020, Terms of Service8to9.924/2964/7286. Author/publish
 
 ## Skinners23November14:28CET
 Existing Paranormal fantasy7to8, one fiction/seven novels,924/2965/7293. Urban seed and reciprocal edit withdrawn after user objection. No definition changes. Learned check: test accepted ancestor plus actual existing leaf membership before naming; do not skip blank-definition legacy leaves or let proposed hook anchor route. All7 fronts inspected, low-resolution Goodreads hotlinks only. Deployment/liveQA pending.
+
+## MC06309 Sword of Michael23November14:39CET
+Existing Quest thresholds9to10,924/2966/7294. Freeze intake for split now. Primary anchored oak portal in chapter3, soul travel; publisher and completed-review Hell rescue. Modern biblical myth/Paranormal/Satanic torment genuine rivals recorded. One novel2014, no shared fiction guessed. Baen English front inspected/hotlinked. Deploy/liveQA pending.

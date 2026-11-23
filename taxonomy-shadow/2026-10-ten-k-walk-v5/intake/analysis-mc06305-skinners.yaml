@@ -3,7 +3,7 @@ queue:
 - MC06306
 - MC06307
 - MC08881
-status: placed in existing Paranormal fantasy; deployment/live QA pending
+status: live-complete
 fiction: Skinners
 novels: 7
 source_urls:
@@ -282,3 +282,8 @@ front:
   visually_reviewed_on: '2026-11-23'
   review_method: All seven flat English fronts pixel inspected in contact sheet. Correct titles and author. Low-resolution
     series thumbnails112x180 approximately; no cover bytes stored in repository.
+deployment:
+  commit: a42875aacdd3c90f4235180610e98bfdadef2d69
+  run: 45184353863
+  result: success
+  verified: 2026-11-23 14:33CET desktop/mobile fiction and book7; all7 images loaded
