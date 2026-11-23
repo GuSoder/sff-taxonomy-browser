@@ -1,7 +1,7 @@
 queue:
 - MC06300
 - MC06301
-status: placed with approved split; deployment/live QA pending
+status: live-complete; commit 2c5e65cac; deployment 45153268445; desktop and mobile pixels verified 2026-11-23
 leaf: economic-futures
 counts:
 - 924

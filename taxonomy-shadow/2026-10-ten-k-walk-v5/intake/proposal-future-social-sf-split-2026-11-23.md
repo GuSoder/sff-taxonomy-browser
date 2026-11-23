@@ -1,6 +1,6 @@
 # Future social SF split recommendation, 23 November 2026
 
-Approved phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ on phonemsg-01M83WMY3009BP9Q8C8XKWJNP8. Executed mapping5/3/2 with umbrella0cards. Deployment/live QA pending.
+Approved phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ on phonemsg-01M83WMY3009BP9Q8C8XKWJNP8. Executed mapping5/3/2 with umbrella0cards. Deployment 45153268445 succeeded at commit 2c5e65cac; desktop and mobile live pixels verified 2026-11-23.
 
 Approve split?:
 Future social SF
@@ -41,6 +41,6 @@ Name checks: searched full three proposed names separately and with novel/series
 
 Scope checks: author confirms Archform/Flash shared world; current author bibliography lists these separately from other SF. Older lists Centenal's three novels separately from Mossa/Pleiti and serial projects. SFE2026 places both Pohl works as individual titles, not Heechee; omnibus BiPohl is not shared-world proof. Martineck publisher distinguishes the two Freeworld books from Tongue Trade; no sequel inferred. Schiffman bibliographic results show only edition variants of Game of the Gods, not a published second novel. Solar Lottery's World of Chance is a textual version, not another fiction. Paris is one published novel, not merged with other Verne merely by author. No existing scope/book-count changes proposed by the split. Some official pages retain stale dates or edition dates, recorded rather than copied into first-publication metadata.
 
-Earthweb cover: actual149x240Baen English front visually inspected at /tmp/deep-research/earthweb/front-original.jpg. Full title and Marc Stiegler visible, flat front, no crop or spine. Hotlink from original primary product https://www.baen.com/media/catalog/product/0/6/067157809X-med.jpg . No image saved in repository. Live shelf QA still owed after actual placement/deployment. Existing genre portrait remains required. Existing historical repository covers are not erased by this task; no history rewrite.
+Earthweb cover: actual149x240Baen English front visually inspected at /tmp/deep-research/earthweb/front-original.jpg. Full title and Marc Stiegler visible, flat front, no crop or spine. Hotlink from original primary product https://www.baen.com/media/catalog/product/0/6/067157809X-med.jpg . No image saved in repository. Live shelf and fiction-page pixels verified after deployment at commit 2c5e65cac on 2026-11-23. Existing genre portrait remains required. Existing historical repository covers are not erased by this task; no history rewrite.
 
 Execution after approval: first recover original compact proposal and user's textual reply, recheck current todo/repository state, verify all parent/child definitions before move, keep whole fictions, mirror repository/app, record histories and approval IDs, original new portraits inspected at1024x1536, hotlink-only new cover, validate, publish and inspect actual live pixels. If parent elects to publish Earthweb under existing leaf before structural approval, that is individual placement within the standing grant, but still freeze at ten and serve this proposal immediately, never put an eleventh there. This preparation does not itself authorize structure.
