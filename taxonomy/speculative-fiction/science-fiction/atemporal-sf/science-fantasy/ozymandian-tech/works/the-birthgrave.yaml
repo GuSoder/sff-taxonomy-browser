@@ -5,29 +5,67 @@ authors:
 first_published: 1975
 canonical_genre: ozymandian-tech
 placement_status: accepted
-placement_rationale: 'Tanith Lee''s The Birthgrave (DAW, 1975; Wikipedia), first of the Birthgrave Trilogy, with Hunting the White Witch (published 1978 as Quest
-  for the White Witch, ISFDB series number 3, the queue''s row) folded in; Shadowfire (Vazkor, Son of Vazkor, 1978, book two, the queue''s row) is folded in as well:
-  a nameless woman wakes in a dormant volcano with no memory, a face the villagers call inhuman, and healing powers, and follows the mysterious Karrakaz to a jade
-  that may hold her past; she is worshipped as a goddess in a decadent civilization, serves the sorcerer-conqueror Vazkor, and learns she belongs to the Old Ones,
-  a lost omnipotent people who ruled the world as cruel gods, and the world is later revealed to be one of many visited by the ''hollow star'' exploration ship; the
-  third book follows Vazkor''s son hunting the White Witch, his mother, last of the Old Race. Walk: Atemporal > Science fantasy > Ozymandian tech (the fantasy surface
-  is built on the remains of an ancient, high-tech people, whose survivors and works are taken for gods and magic). Tried: Dying earth (a decadent far age, but the
-  Old Ones'' ship is the reveal) and Classic planetary romance (the hero is a native, not an Earth visitor). Wobble: Dying earth, at nine, is the alternative leaf.
-  Source: Wikipedia, PRH and ISFDB.'
+placement_rationale: '# Original Ozymandian ten-member audit, closing checks
+
+  23 November 2026
+
+
+  ## Birthgrave: focused repair
+
+  Retain one three-novel fiction in Ozymandian tech. Correct displayed order to The Birthgrave1975, Shadowfire1978, Hunting
+  the White Witch1978. Shadowfire is the English alternate title of Vazkor, Son of Vazkor; Hunting is the English alternate
+  title of Quest for the White Witch. No extra novels or editions counted, no year changes. Publisher itself identifies Shadowfire
+  as book two and Hunting as the concluding book. All three publisher English fronts were inspected at actual pixels; they
+  are flat fronts with correct title/author, replacing a first-book Wikimedia URL that currently rejects the direct fetch
+  and filling the two previously absent fronts. These are later-edition jackets; captions give original-work years, not jacket-edition
+  publication. No jacket is passed off as a first edition. Repository cover downloads forbidden, only hotlinks used.
+
+
+  SFE explicitly calls the first ending a non-supernatural explanation delivered by Earthmen in a spaceship. EBSCO''s complete
+  three-book plot follows the heroine''s son through inherited powers, apparent death/resurrection and final reunion without
+  an independent god/spell explanation. The first-volume voice Karrakaz is her own suppressed identity, not proof of a deity.
+  The fantasy surface and lost superior race remain material across the fiction. Root: speculative > SF > Atemporal > Science
+  fantasy > Ozymandian, under the original remote-future/fantasy-surface ancestor ruling. Fantasy is a serious surface rival
+  because of the powers and apparent divinity, not rejected by marketing label alone. Hard science fantasy lacks a demonstrated
+  known-physics constraint; a recovering-legacy/race premise is stronger. No need to seed or move to a future-Earth leaf merely
+  because Earthmen arrive.
+
+
+  Sources read:
+
+  - https://www.penguinrandomhouse.com/series/743/the-birthgrave-trilogy/
+
+  - https://www.isfdb.org/cgi-bin/pe.cgi?4243=
+
+  - https://sf-encyclopedia.com/entry/lee_tanith
+
+  - https://www.ebsco.com/research-starters/womens-studies-and-feminism/birthgrave-trilogy-tanith-lee
+
+
+  '
 books:
 - title: The Birthgrave
   year: 1975
-  cover_url: https://upload.wikimedia.org/wikipedia/en/d/d0/Birthgrave_Barr_cover_1975.jpg
-- title: Hunting the White Witch
-  year: 1978
+  cover_url: https://images2.penguinrandomhouse.com/cover/9780756411053
+  shows_english_title: true
 - title: Shadowfire
   year: 1978
+  cover_url: https://images2.penguinrandomhouse.com/cover/9780698404601
+  shows_english_title: true
+  alternate_titles:
+  - Vazkor, Son of Vazkor
+- title: Hunting the White Witch
+  year: 1978
+  cover_url: https://images1.penguinrandomhouse.com/cover/9780698404618
+  shows_english_title: true
+  alternate_titles:
+  - Quest for the White Witch
 cover_curation:
   status: complete
-  source: Open Library / publisher
-  selected_url: https://upload.wikimedia.org/wikipedia/en/d/d0/Birthgrave_Barr_cover_1975.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
+  selected_url: https://images2.penguinrandomhouse.com/cover/9780756411053
+  source: Current publisher English fronts, later editions; original novel years retained
+  visually_reviewed_on: '2026-11-23'
+  review_method: All three actual flat English fronts inspected in contact sheet; live QA follows
 intake: ten-k walk v5 (queue ids MC09382, MC09371)
 placement_history:
 - date: '2026-10-04'

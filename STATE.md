@@ -2577,3 +2577,6 @@ Original-member audit retains Ozymandian8, adds Serpent2021, corrects Storm2018t
 
 ## Invoker scope/evidence correction23November18:57CET
 Original-member audit: Dance2026 appended to Song2025 under existing fiction identity. Specific25Sept spirits-versus-tech uncertainty ruling retained, sequel ontology still unresolved and contrary soul evidence explicitly recorded. Ozymandian8,927/2975/7360. Third2027unpublished excluded. Remaining original-member scope checks precede unfreeze.
+
+## Ozymandian original-member audit close23November19:05CET
+Eightfictions remain. Birthgrave2/3order corrected,threepublisherEnglishfronts; Gloriousprimaryauthor expresslynotmagic, unpublishedsequelnotadded; Shadowleagueinvalidmagic-toleranceclause removed, machineworld/psievidence retained. Downworld/Dreaming scopeunchanged. Totals927/2975/7360. FinalBirthgrave liveQA required before normalintakeresumes. Invokerremainsunderoriginalspecificprovisionalruling withnewcontraryevidencedisclosed. No structuralquestionneeded.
