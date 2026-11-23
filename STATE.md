@@ -2600,3 +2600,6 @@ New Alchemists liveQA caught incorrect global onebook standalone label. Added ex
 
 ## Mythic two-bundle and Aztec seed23November2026
 OwnerApproved phonemsg-01M84XAHTRQZF58THVF1MN5451 on phonemsg-01M84X7PAPD3MXHG5ABQ1C91BF. Chivalric myth fantasy holds Arthurian/Frankish intact; Mesoamerican myth fantasy holds Mayan intact and new Aztec leaf for Lareswhole2. Mythic9to8. Partialbundles, twoNEWumbrellas, no exception; original10/12ruling recovered. Names descriptive source-family labels, exactgenus/trademarkclaimnotmade. Threeoriginal1024x1536portraits, two variantspernode inspected; selectedfirstsuccessfulvariants. Masters privately archived. BothEnglishpublisherfronts hotlinked,2023/2025. Noexistingfictionleafmove or ancestor gatechange. Totals930/2981/7375, deploy/liveQA pending.
+
+## Xuya scope and Activation23November21:20CET
+Owner included-books temporal ruling phonemsg-01M850W64E1MFDAN0BQD84RRP9 applied. Xuya two existing novels consolidated in Spaceship drama9 unchanged, Galactic houses4to3; no novellas added. Activation Degradation2021 standalone placed as Drama tenth, INTAKE FROZEN for split. Counts930nodes/2981fictions/7376books. No structural change. Full source walks/audits in intake. Deployment/liveQA pending.

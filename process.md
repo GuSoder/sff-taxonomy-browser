@@ -69,3 +69,6 @@ Original phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX, after the CoDominium move/consolid
 
 ## Juvenile scope reconciliation, 2026-10-30
 The checklist's former blanket "children's books" phrase was agent-authored in commit80c75a6a, without an owner source. It cannot create a user ban. Original owner instructions included Juvenile SF under Upbeat SF (phonemsg-01M2GVQ0VM5KEENS8AW0TG8VK1, September14), then moved its existing juvenile fiction into Golden Age Space opera while dissolving that audience genre (phonemsg-01M2Z56W6WC8MQ8ACBWN9DKYH1 and phonemsg-01M2Z5M2Q0QWH43WH2ESHBBPAH, September20). Starswarm is therefore judged on content, not silently excluded for being a Heinlein-style YA/juvenile novel. This reconciles this placement against actual originals; it does not invent a new global age policy, reopen old exclusions, or authorize unrelated corpus repairs.
+
+## Included-book temporal scope,23November2026
+Owner original phonemsg-01M850W64E1MFDAN0BQD84RRP9: temporal placement is judged from the books included in the taxonomy. An excluded small novella with time travel does not force the included novels to Atemporal. Rationale: the rule prevents ambiguity among Historical, Modern and Futurist when included books cross time. This is not permission to add novellas or ignore time travel in included books. Applied to Xuya two existing novels, no short work added.

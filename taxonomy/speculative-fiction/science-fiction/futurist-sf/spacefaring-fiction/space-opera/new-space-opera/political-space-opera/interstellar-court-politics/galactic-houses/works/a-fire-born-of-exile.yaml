@@ -3,8 +3,8 @@ title: A Fire Born of Exile
 authors:
 - Aliette de Bodard
 first_published: 2023
-canonical_genre: galactic-houses
-placement_status: accepted
+canonical_genre: spaceship-drama
+placement_status: merged
 placement_rationale: 'Standalone Xuya space opera (PW, Locus): a scholar returns to the Scattered Pearls Belt for Monte Cristo-style
   revenge among its elite households. Politics through courts and personal networks.'
 classification_sources:
@@ -23,3 +23,8 @@ placement_history:
   to: galactic-houses
   reason: 'Interstellar court politics split into Galactic courts / Galactic houses on the curator''s approval; re-walked:
     this card sits in Galactic houses.'
+- date: '2026-11-23'
+  to: spaceship-drama
+  reason: One Xuya world consolidated as xuya. Owner included-books temporal ruling phonemsg-01M850W64E1MFDAN0BQD84RRP9. No
+    novella added.
+merged_into: xuya
