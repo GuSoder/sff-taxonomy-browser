@@ -2592,3 +2592,6 @@ RavenTrade deployment45239466663success and desktop/mobile actual pixels verifie
 
 ## Eternal Lovers23November19:53CET
 Whole2novels in Paranormal neighbours6to7. DeathsLover originalWitchingHour2012 retitled2013 countedonce; Redemption2014. FullprimaryexcerptpublicSanFran, bothfinishedreviews, rivalsrecorded. Bothpublisherfrontsinspected/hotlinked. Totals927/2979/7372 awaitingdeploy/liveQA. LadyTrent45241279361success anddesktop/mobile all6frontsverified19:46.
+
+## The New Alchemists23November20:00CET
+Red City2025 wholepublishedfiction in Occult underworlds2to3. Silver DawnUS27April2027/UK29April2027 excludedforthcoming. Fullwalk andrivalsrecorded. Totals927/2980/7373 awaitingdeploy/liveQA. Eternal Lovers45243436123success desktop/mobilebothfrontsverified19:57.
