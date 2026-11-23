@@ -2541,3 +2541,6 @@ Tielmaran whole3 moved to existing Dynastic magic8to9; Invented worship10to9. Au
 
 ## Space fantasy23November2026
 Approved Space fantasy seed executed locally,927nodes/2970fictions/7328books. Seven English fronts inspected and hotlinked, portrait987A full-resolution1024x1536 and private Drive master. One new leaf, disclosed Future parent-summary change; no other moves. Await deployment/live pixel QA; main will deliver live Future umbrella link before next proposal. Original approval phonemsg-01M84JVHRFBAZPMP1CT76D96X7 on phonemsg-01M84J9EDD8QESBRJXTCHJVX8H.
+
+## Dragon Brigade whole6 23November17:30CET
+ExistingGeopolitical2to3, no structural change. Author/publisher explicit sameworld DragonCorsairs3plusBrigade3. Originalyears2011/2013/2014/2017/2018/2019,2020bundleexcluded. Magitech/court/militaryrivals seriouslytested against sustainednationalrelationswhole6. SixEnglishfrontsinspected/hotlinked,2Sigilpublisherplaceholdersrejected.927/2971/7334; awaitingdeploy/liveQA. Spacefantasy38a304e6cdeploy45215778210success, actualumbrella/leafportrait/7fronts desktopmobileverified, parentdeliveredcompletion. Noapprovalopen.

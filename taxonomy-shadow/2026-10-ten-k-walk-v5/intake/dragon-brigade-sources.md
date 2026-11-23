@@ -1,0 +1,17 @@
+- Tor Dragon Corsairs ebundle: https://torpublishinggroup.com/the-dragon-corsairs/?format=ebook&isbn=9781250800770 . Primary, explicit same Dragon Brigade world and later3scope.
+- PRH Shadow Raiders: https://www.penguinrandomhouse.com/books/307028/shadow-raiders-by-margaret-weis/ . Primary magical world/technology, competing empires,2011ebook/2012paperback, observed front.
+- Tor Seventh Sigil: https://torpublishinggroup.com/the-seventh-sigil/?format=trade&isbn=9781250750570 . Primary finale/contramagic/alliance, no functional cover returned.
+- Author Spymaster/Booklist: https://margaretweis.com/blogs/news/like-spymaster-share-your-love . Primary author plus reproduced independent review,2017. War-to-fiscal/succession continuity and crystalline fuel.
+- Author Privateer: https://margaretweis.com/blogs/news/privateer-coming-august-2018 . Primary publication confirmation.
+- Publisher Kingmaker: https://openroadmedia.com/ebook/kingmaker/9781466877979 . Primary coup/hostage/alliance plot.
+- PW Storm Riders: https://www.publishersweekly.com/9780765333490 . Completed independent review2013, national schemes becoming common defense.
+- Kirkus Storm Riders: https://www.kirkusreviews.com/book-reviews/margaret-weis/storm-riders-weis/ . Completed independent review2013, Church concealment, multiple national agents, magical machines.
+- PW Seventh Sigil: https://www.publishersweekly.com/9780765333506 . Completed independent review2014, two nations' representatives and alliance.
+- PW Privateer: https://www.publishersweekly.com/9780765381095 . Completed independent review2018, international engagement as peace mechanism.
+- PW Kingmaker: https://www.publishersweekly.com/9780765381118 . Completed independent review2019, four-faction coup amid looming cross-border war.
+- GMS Shadow Raiders: https://www.gmsmagazine.com/shadow-raiders-the-dragon-brigade-volume-1/ . Completed independent reader/reviewer2011, magical everyday infrastructure, multiple factions and state/clergy tension.
+- Seventh Sigil completed reader: http://grandfatherswish.blogspot.com/2015/06/book-review-seventh-sigil-dragon.html . Confirms resolved trilogy, national alliance/campaign and priest's heresy strand.
+- Kingmaker completed reader: https://thenamelesszine.org/Books-2019/Kingmaker.php . Independent2019, third-country invasion scheme and strong quality dissent; consistent plot support.
+- Storm metadata: https://www.isfdb.org/cgi-bin/pl.cgi?418296= . First hardcover16July2013.
+- Privateer metadata: https://isfdb.org/cgi-bin/title.cgi?2391277= . First2018,2020omnibus distinction.
+- Sigil metadata/front: https://www.goodreads.com/book/show/20519010-the-seventh-sigil . Catalog front,2014original consistent with contemporary PW.
