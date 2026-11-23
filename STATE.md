@@ -2485,3 +2485,6 @@ One2005/2006twonovelsequence,Cyberpunknoir7to8,921/2958/7264.Allactualsiblingsan
 
 ## MC06297 Nocturne for a Dangerous Man22:50CET
 One1999standalone, Cyberpunk noir8to9,921/2959/7265. Root/ancestor/rival walk recorded. No literal magic established; ancestor-voices caveat tested against completed reader explicitly without magic.300x465 Englishfront inspected, hotlinked only. Deploy/liveQA pending.
+
+## Traveller,23November2026
+MC06298 Agent of the Imperium expanded to oneTravellercard14novels. Star empire chronicles3to4,921/2960/7279. Positive evidence futurehistory;300millennia nottime-travel proof,criticambiguityretained. Twelveinspectedfronts,twoexplicitcoverabsences(ALongWayHome,SingersWarOrigin). Noartstored. Nocturne3882b5317/45074348709liveQAcompletedpreviously. Travellerdeploy/liveQApending.
