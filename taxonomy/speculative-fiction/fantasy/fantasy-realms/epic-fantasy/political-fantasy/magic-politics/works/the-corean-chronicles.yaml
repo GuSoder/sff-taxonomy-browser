@@ -124,8 +124,10 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/524149-L.jpg
 - title: Darknesses
   year: 2003
+  cover_url: https://www.lemodesittjr.com/images/corean-chronicles/Darknesses_sm.jpg
 - title: Scepters
   year: 2004
+  cover_url: https://www.lemodesittjr.com/images/corean-chronicles/Scepters_sm.jpg
 - title: Alector's Choice
   year: 2005
   cover_url: https://covers.openlibrary.org/b/id/524646-L.jpg
@@ -137,14 +139,17 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/524759-L.jpg
 - title: The Lord-Protector's Daughter
   year: 2008
+  cover_url: https://www.lemodesittjr.com/images/corean-chronicles/Lord_Protectors_Daughter.jpg
 - title: Lady-Protector
   year: 2011
+  cover_url: https://www.lemodesittjr.com/wp-content/uploads/2011/01/Lady-ProtectorFinal-108x160.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
   selected_url: https://covers.openlibrary.org/b/id/524646-L.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
+  visually_reviewed_on: '2026-11-23'
+  review_method: Actual author-hosted English front pixels inspected23November2026; four missing book fronts repaired via
+    hotlinks, no repository cover files.
 intake: ten-k walk v5 (queue ids MC05688, MC05671, MC05786, MC05663, MC05668, MC05704, MC05778, MC05765)
 placement_history:
 - date: '2026-10-04'
