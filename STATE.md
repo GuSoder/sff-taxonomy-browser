@@ -2589,3 +2589,6 @@ Dragon Ops deployment45237325846success and desktop/mobile live QA complete19:24
 
 ## Lady Trent whole-six intake23November19:42CET
 RavenTrade deployment45239466663success and desktop/mobile actual pixels verified19:35. LadyTrent fiveMemoirs plus same-world TurningDarkness2019 together in NPC heroes2to3. Later28October owner root rule personally recovered before action: independent fantasy world does not enterSF solely because nonmagical. Fullrationale records SFE scientific reading, author nonmagicalworld, Manners/Technofantasy/Quest/HardFantasy rivals and moderate NPCfineleaf fit. Six English authorfronts inspected/hotlinked, no structuralchange. Totals927/2978/7370, awaiting deploy/liveQA.
+
+## Eternal Lovers23November19:53CET
+Whole2novels in Paranormal neighbours6to7. DeathsLover originalWitchingHour2012 retitled2013 countedonce; Redemption2014. FullprimaryexcerptpublicSanFran, bothfinishedreviews, rivalsrecorded. Bothpublisherfrontsinspected/hotlinked. Totals927/2979/7372 awaitingdeploy/liveQA. LadyTrent45241279361success anddesktop/mobile all6frontsverified19:46.
