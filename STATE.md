@@ -2529,3 +2529,6 @@ Whole2published2013/2014, earlier projected4/3notcounted. SF genetic emotional w
 
 ## Burroughs correction23November16:27CET
 Whole Wild Boys/Port/Red Night5 moved to existing Undying6to7. Dystopian rebellion10to9, false split trigger removed; Alternate worlds loses1. Literal death-escape/possession/revival recurs across whole, political/collage straddles retained. No seed/definition/portrait change. Shallow Surrealist seed withdrawn before user delivery. Port1975actual issue(1973imprint), Place1983limited(1984trade). English5fronts inspected/hotlinked; no storedcovers.926/2968/7305. Deploy/liveQA pending. Rocha finding still unexecuted, no unrelated intake yet.
+
+## Rocha The Sectors correction23November16:35CET
+Whole15Beyond9/Riders3/Librarians3 in sameworld per primaryauthor, current card expanded/retitledTheSectors stablemercenary-librariansid.2024omnibusremoved, futureHunter/Gabe/6excluded. ExistingDystopianrebellionretained9, substantialRidersaftermathstraddleexplicit.15Englishfrontsactualpixelsinspected/hotlinked. No newgenre/gate/portrait,926/2968/7316. Oldcardslugredirectpreserved. Deploy/liveQA pending. Burroughsfbf2a044cdeployed45205535405success actualdesktop/mobile5coverQAcomplete.
