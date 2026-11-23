@@ -2627,3 +2627,5 @@ FivePenalties deploy45267840703success and actual desktop/mobileQA complete. MC0
 
 ## Daughter from the Dark23November22:37CET
 VitaNostra liveQA complete desktop/mobile,MagicSchool9,deploy45268875807success. MC06384Daughter2020English(original2006)toMagicFamily7to8,moderatefoundfamilyengine and Torment/Portaloverlapnoted. PipercyclecompanionBurnedTower1998shortexcluded,not extraeligiblevolumeorVitamerge. EnglishfrontWLT300x453inspectedhotlinkonly,publisherfront403. No gate/node change. Totals930/2984/7399. Deploy/liveQApending. NextMC06387-91FelixGomezwholefiction.
+
+Daughter coverQA22:40: originalWLT hotlink failed browserload, repaired to sameEnglishGoodreads265x400jacket, individuallypixelsinspected/browserloadverified. Redeploy/liveQA pending, no placementchange.

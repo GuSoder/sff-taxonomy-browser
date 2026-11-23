@@ -159,15 +159,16 @@ books:
 - title: Daughter from the Dark
   year: 2020
   original_publication_year: 2006
-  cover_url: https://worldliteraturetoday.org/sites/default/files/2020/spring/dyachenkodaughter.jpg
+  cover_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566881228l/45730152.jpg
   shows_english_title: true
   edition_note: Selected English Harper Voyager print translation; original2006
 cover_curation:
   status: complete
-  source: World Literature Today review, English2020print front
-  selected_url: https://worldliteraturetoday.org/sites/default/files/2020/spring/dyachenkodaughter.jpg
+  source: Goodreads English2020front, independently matched to WLT jacket
+  selected_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566881228l/45730152.jpg
   visually_reviewed_on: '2026-11-23'
-  review_method: Actual300x453pixels, flat illustrated English front. Publisherimage403; reviewhost hotlink only.
+  review_method: Actual265x400pixels inspected. WLT and publisher image failed browser load, Goodreads image browser-loaded
+    at265x400. Hotlink only.
 intake: ten-k walk v5 MC06384 novel-only scope; short Burned Tower excluded
 placement_history:
 - date: '2026-11-23'

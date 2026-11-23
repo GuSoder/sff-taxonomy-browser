@@ -61,3 +61,5 @@ BurnedTower short-novella form1998: https://fantlab.ru/work1056
 Creator legal BurnedTower excerpt, not full novel evidence: https://dyachenkowriters.com/the-burned-tower/
 
 Thematic VitaNostra connection explicitly treated as reader conjecture, not merged: https://blackforestbasilisks.com/2020/04/06/review-of-daughter-from-the-dark-by-marina-and-sergey-dyanchenko-translated-by-julia-hersey-and-contemplations-on-connections-to-vita-nostra/
+
+Live QA cover repair22:40CET: WLTimage failed browserload despite localretrieval, publisheralsofailed. Switched to independently observed sameEnglish2020jacket on Goodreads265x400, actualpixelsinspected and browserimage loadverified. Hotlink https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566881228l/45730152.jpg . No otherplacementchange.
