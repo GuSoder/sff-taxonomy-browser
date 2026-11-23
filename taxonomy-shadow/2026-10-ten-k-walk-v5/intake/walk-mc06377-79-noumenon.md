@@ -1,0 +1,70 @@
+# Noumenon whole-fiction intake,23November2026
+
+## Decision
+Place one fiction Noumenon, Marina J. Lostetter, all three published novels Noumenon2017, Noumenon Infinity2018, Noumenon Ultra2020, in existing Hard time travel4to5. No structural change. QueueMC06377-79folded together, no separate series-title card. Totals930nodes/2982fictions/7393novels. Moderate confidence at fine leaf, with Time distortion and institutional Time machines serious alternatives.
+
+## Whole-fiction scope
+Creator's current series page lists all three. Her2020interview calls the trilogy complete, closes its arc and treats any future stories as possible independent work rather than an announced fourth novel. Current publisher/distributor still calls Ultra the epic trilogy conclusion. Current search found no released fourth.2018creator interview explicitly says Lifeboats collection stories are unrelated; no short fiction imported.2021creator interview explicitly conceptualized Activation Degradation as a different universe despite hypothetical ability to connect them. Five Penalties is her separate fantasy series, not part of this continuity. Publisher first releases1August2017,14August2018,18August2020; UK2018/2020dates differ by days only. Kirkus essay's July2017header loses to publisher1August and contemporaneous PWAugust. All three marketed and reviewed as novels, mosaic narrative does not make them anthology skips.
+
+## Each novel, not just its blurb
+Noumenon: a Planet United mission launches a nine-ship clone civilization to investigate variable star LQ Pyx. AI C/I.C.C. persists while clone generations change. The journey exposes coercion and reproductive class division; the return sees the Pit's prison labor and revolt. Reaching Earth is not the final discovery: separated societies cannot integrate, Earth seeks I.C.C., and Esper helps fake its destruction so the convoy can leave again to investigate the Nest and finish its work. Metallic-hydrogen circuitry is investigated rather than treated as magic. Completed detailed reader chronology covers this late return and departure, independently supported by Williams and professional reviews. Do not repeat Strange Horizons' inaccurate implication that first book ends at first star arrival; full chronology and first-book reviews contradict that summary.
+Noumenon Infinity: juxtaposes Convoy Seven's relaunch to finish the Web with Convoy Twelve's experimental drive work near Earth. Scientific patron Kaufman manipulated target data to redirect the mission. A drive accident hurls Twelve into the far future, where apparent aliens are humanity's descendants. Vanhi subsequently disappears from others' time for days while experiencing no gap. Seven splits around the Nest's Nataré trail, religious/clone identity conflicts develop, and completion of the Web reveals a planet-creation function, not simply an energy plant. The two strands join through the artifacts' real purpose and evolved humans. SFRevu, PW, Williams, Strange Horizons and completed OBS account ground both strands and late reveals.
+Noumenon Ultra:100000years later I.C.C. awakens on the new planet among unexpected native life. Convoy Twelve survivors and evolved humans confront new activations, shields and failures threatening spacetime. Vanhi's subdimensional tie is deteriorating, limiting her forward skips. The Pentatheem megastructure network is ultimately a bidirectional project for beings in different subdimensions to meet, not just a human Dyson sphere. Pentatheem survive in altered form; evolved humans, native beings and I.C.C. must cooperate to repair/understand the system. Final Vanhi resolution and encounters anchor a cosmic mystery in particular lives. Completed Paul Weimer review explicitly supplies final reveal and ending evaluation; creator interview confirms found-family solving the interstellar riddle. Not claiming full primary novel reads.
+
+## Actual root-down walk and rivals
+Speculative fiction > Science fiction. Earth-origin humans, AI, clone engineering, subdimensional physical research and alien infrastructure. Religion/immortality language does not establish literal gods or magic; clone religion and temporal side effects have technological origins. Not independent invented-world Fantasy or literal-magic override.
+Science fiction > Atemporal SF > Time travel fiction. Strong FuturistSF/Spacefaring/Generation-starships, artifact exploration and future history surface, but ANY actual SF temporal displacement sorts here under the standing rule. This is not merely generations elapsing or nonlinear chapter headings. Convoy Twelve's experiment jumps physical people to the distant future and Vanhi repeatedly leaves the current moment. This later-book fact governs the entire shared fiction, not the first novel alone.2017onwardfuture setting cannot erase it. Historical/Modernfail, parallel-dimension contact at the end does not erase chronological travel.
+Time travel fiction > Hard time travel. The experimental physical mechanism is an investigated central mystery. Public Infinity sample describes an SDengine for phasing out of normal spacetime, separate AI-controlled drive systems, new time currents, dimension compatibility for energy versus matter and increasingly fast subdimensional routes. Twelve's research accident and the later diagnosis of Vanhi's subdimensional relationship are actual temporal consequences. HardSF here means a developed invented physical model, not proof that real physics permits these engines. Professional reviews explicitly describe sustained technical explanations and forefront hardSF; judgment is based on that content plus actual sample, not label alone. The samples do not reach the accident, so its outcome is sourced to completed reviewers. Hardtime current members ThousandEarths and GalacticCenter demonstrate cosmological temporal expeditions can qualify without a conventional past-visit plot.
+Time distortion is strongest rival: first novel has differential ship/Earth aging, later different time experiences shape identity and loss. This is retained. But the whole arc adds actual experimental relocation/episodic future displacement through a detailed subdimension model, not merely stable regions/worlds running unequal ongoing clocks. Do not claim ordinary relativity alone proves conventional time travel. Hard's physical-investigation gate is more specific to the trilogy's changing temporal mystery.
+Time machines/agency also plausible: Planet United owns engines, funds missions. But the missions are astronomical exploration/experimental propulsion rather than an organization running temporal operations. Temporal displacement is an accident with continuing physical consequences and the final problem is cosmic interdimension engineering, not ownership/agency procedure. Like GalacticCenter's engineered wormholes, built technology alone does not make an era-patrol story. Institution is not denied; this is a moderate fine-leaf decision, not a narrowed definition. Homebrew fails a private inventor's personal time device.
+Time travel disorders: Vanhi's continuing bodily side effect is real, but an intrinsic biological or medical condition is not the whole-fiction cause; tested SDengineering and external physical dimension coupling are prior. MindoverTimefails an altered consciousness as the crossing mechanism; I.C.C. being sentient does not turn a physical engine into mental travel. Timeslipsfails unexplained/natural carrying shift; this is experimentally engineered spacetime. Loopsfail verified repeated reliving: a clone line or narrative return to earlier chapter dates is not the same person resetting history; reader phrase back-and-forth living is insufficient to override specific physical mechanism. Ancestralfails kinship determining temporal destination despite important descendants and cloning. No taken substance, unexplained standing door, or keeper-run outside-time social hub. No new seed needed.
+
+## Sources, titles/types and claims
+Primary creator bibliography, current page read23November2026; trilogy and English fronts:
+https://lostetter.wordpress.com/noumenon/
+Primary author interview2020; complete scope, each volume's connection, finale purpose and no committed fourth:
+https://paulsemel.com/exclusive-interview-noumenon-ultra-author-marina-j-lostetter/
+Primary author interview2018; Lifeboats unrelated and mosaic structure:
+https://paulsemel.com/exclusive-interview-noumenon-infinity-author-marina-j-lostetter/
+Primary author interview2021; Activation explicitly different universe:
+https://paulsemel.com/exclusive-interview-activation-degradation-author-marina-lostetter/
+Publisher first-edition pages, publication dates and novel descriptions:
+https://www.harpercollins.com/products/noumenon-marina-j-lostetter?variant=40970535993378
+https://www.harpercollins.com/products/noumenon-infinity-marina-j-lostetter
+https://www.harpercollins.com/products/noumenon-ultra-marina-j-lostetter
+Publisher UKInfinity supplies fuller actual synopsis:
+https://harpervoyagerbooks.co.uk/products/noumenon-infinity-noumenon-book-2-marina-j-lostetter-9780008223403/
+Publisher UltraUKscope/completion:
+https://www.harperreach.com/products/noumenon-ultra-noumenon-book-3-marina-j-lostetter-9780008412852/
+Distributor primary publisher copy, final phenomenon:
+https://openroadmedia.com/ebook/noumenon-ultra/9780062895738
+Public retailer trial PDF of Infinity, copyrightHarper2018and explicit trial-end notice. Primary sample, not full novel; engine/compatible dimensions. Fetched text works; direct network download stalled, no binary-read claim:
+https://fictionbook.ru/trial/txt/39793641.a6.pdf
+Contemporaneous professionalPWreviews, full synopsis read:
+https://publishersweekly.com/9780062497840
+https://www.publishersweekly.com/9780062497864
+Professional completed Infinityreview2019; developed technical model, timelines, disability/contact. First-book ending summary corrected against other sources:
+https://strangehorizons.com/wordpress/non-fiction/reviews/noumenon-infinity-by-marina-j-lostetter/
+SFRevu SamLubell2018completed Infinity, precise accident and Vanhi mechanism:
+https://www.sfrevu.com/php/Review-id.php?id=18035
+AnthonyG.Williams2019completed both novels, differential clocks, research/mission distinction and ending:
+https://sciencefictionfantasy.blogspot.com/2019/03/noumenon-and-noumenon-infinity-by.html
+Completed first-book reviewer2018, detailed chronology through Earthreturn and second departure. Lower-levelreader evidence used for full ending, not sole mechanism:
+https://amandanerd.wordpress.com/2018/07/01/noumenon-marina-j-lostetter/
+Completed UltraPaulWeimerreview2023, subdimension biology, final purpose, Vanhi deterioration and ending:
+http://www.nerds-feather.com/2023/12/microreview-noumenon-ultra-by-marina-j.html
+Completed reader reviews2018/2020, corroborate convoy dislocation and finale, not treated as primary:
+https://openbooksociety.com/article/noumenon-infinity-by-marina-j-lostetter-book-review/
+https://openbooksociety.com/article/noumenon-ultra-noumenon-book-3-by-marina-j-lostetter-book-review/
+https://thequilltolive.com/2020/09/16/noumenon-ultra-every-ending-is-a-new-beginning/
+https://primmlife.com/2018/08/14/review-noumenon-infinity/
+https://www.kirkusreviews.com/news-and-features/articles/noumenon/
+
+## Cover inspection
+All three creator-hosted US print front designs pixel-inspected23November2026. Distinct English title/author, illustrated flat fronts, no audio badge/type-only/omnibus. Sizes259x389,266x400,266x400. Adequate readable thumbnails; modest resolution. Hotlink only, no bytes in repository.
+https://lostetter.wordpress.com/wp-content/uploads/2011/08/noumenon_comp3.jpg?w=259&h=389
+https://lostetter.wordpress.com/wp-content/uploads/2018/01/nouemenoninfinity_revised-small.jpg?w=266&h=400
+https://lostetter.wordpress.com/wp-content/uploads/2020/01/noumenonultra_c-1.jpg?w=266&h=400
+
+## Caveats
+No complete primary trilogy read. Public copyright-bearing trial supplies physical model but not whole ending; completed critics carry that coverage, with their provenance clear. Hardtime versus TimeDistortion and machine-owner overlap remains moderate. New physics is developed fictional physics, not validated real theory. No backwards travel or repeated loop inferred solely from FTL or clone lineage. No new genre definition, force push or cover storage. User singlefiction grant personally recovered original phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX, ordinary placement authorized; no structural approval inferred.
