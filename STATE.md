@@ -2490,3 +2490,6 @@ One1999standalone, Cyberpunk noir8to9,921/2959/7265. Root/ancestor/rival walk re
 MC06298 Agent of the Imperium expanded to oneTravellercard14novels. Star empire chronicles3to4,921/2960/7279. Positive evidence futurehistory;300millennia nottime-travel proof,criticambiguityretained. Twelveinspectedfronts,twoexplicitcoverabsences(ALongWayHome,SingersWarOrigin). Noartstored. Nocturne3882b5317/45074348709liveQAcompletedpreviously. Travellerdeploy/liveQApending.
 
 TravellerliveQAcaughtDiasporawikihotlinkblocked;replacedwithinspectedidenticalpublisherstoreCDNfront. Deployment6019b6659success45145690833;follow-upcoverrepairdeploypending.
+
+## Travellercomplete10:23CET,Davidssling10:27CET
+Travellerf7720a023/45146124140success,liveall14cards12frontsand2honestabsencesverifieddesktop/mobile;genreportraitunchanged. DavidSlingMC06299placedFuturewar8to9,1988not2015orSFE1984.921/2961/7280. Fulltemporalrivalsandplotwalk,YAMLparityandinspectedBaenfront. Deployment/liveQApending.

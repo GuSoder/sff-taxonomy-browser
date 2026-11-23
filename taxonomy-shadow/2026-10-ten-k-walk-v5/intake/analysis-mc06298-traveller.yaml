@@ -1,6 +1,6 @@
 queue:
 - MC06298
-status: placed; deployment/live QA pending
+status: complete; commitf7720a023 deployment45146124140 success,livepixelQA23November10:23CET
 leaf: star-empire-chronicles
 before_count: 3
 after_count: 4
@@ -202,3 +202,19 @@ sources:
   read: 2026-11-22/23; roles and caveats in rationale
 - url: http://rpg.drivethrustuff.com/product/103838/Yesterday%27s-Hero%2C-Traveller-Fiction
   read: 2026-11-22/23; roles and caveats in rationale
+live_url: https://gusoder.github.io/sff-taxonomy-browser/?qa=f7720a023-final#star-empire-chronicles/traveller
+live_qa:
+  counts:
+  - 921
+  - 2960
+  - 7279
+  leaf_fictions: 4
+  fronts_loading: 12
+  explicit_unavailable:
+  - A Long Way Home
+  - 'Singers War: Origin'
+  checks:
+  - 'Actual tall shelf pixels: all14cards,12fronts,twohonestabsences'
+  - 'Individual missingbookpages: neutralbackground,correctauthor/year,explicitnotice,noborrowedfront'
+  - Mobile390x844shelfandmissingpageinspected
+  - Existinggenreportraitinspected;unchanged
