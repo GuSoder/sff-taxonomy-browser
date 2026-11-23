@@ -2574,3 +2574,6 @@ Original Ozymandian audit: actual magic after technologically initiated nuclear-
 
 ## Time of Heroes scope correction23November18:52CET
 Original-member audit retains Ozymandian8, adds Serpent2021, corrects Storm2018to2019. Author completed-scope SF account and finished reviews support technological-engine reading.927/2975/7359. Original-member audit still frozen, Invoker sequel and remaining scope checks next.
+
+## Invoker scope/evidence correction23November18:57CET
+Original-member audit: Dance2026 appended to Song2025 under existing fiction identity. Specific25Sept spirits-versus-tech uncertainty ruling retained, sequel ontology still unresolved and contrary soul evidence explicitly recorded. Ozymandian8,927/2975/7360. Third2027unpublished excluded. Remaining original-member scope checks precede unfreeze.

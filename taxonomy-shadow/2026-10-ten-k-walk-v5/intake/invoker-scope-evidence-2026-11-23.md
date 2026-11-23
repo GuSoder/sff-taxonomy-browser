@@ -1,0 +1,29 @@
+# Invoker two-volume scope and ontology check
+23 November 2026
+
+Retain the specifically approved Ozymandian tech placement provisionally under the original spirits-versus-tech uncertainty. Add published sequel A Dance of Burning Blades2026 to the existing A Song of Legends Lost fiction identity, with Song2025 as first novel. No rename or new node. Third novel A Storm of Shattered Souls is still future2027 and excluded. Ozymandian8 unchanged, books7359to7360.
+
+This is not a finding that every spirit is a machine, nor permission to ignore real magic in SF. The exact25September exchange was recovered: the user asked for reviewers who shared the hypothesis of a later science-fantasy reveal, was told the ancestor voices might be spirits or Scathed technology, asked for a new sibling of Hard science fantasy about the ancient high-tech culture, selected Ozymandian tech and expressly instructed execution. The original placement was knowingly under uncertainty. Later global no-magic-in-SF rulings remain active, but the sequel evidence has not resolved the original mystery cleanly enough to silently reverse that specific decision.
+
+New evidence must be carried forward. Every Book a Doorway's finished sequel review explicitly thinks nonhuman spirits and human souls objectively coexist with techwork. This is serious contrary evidence, not dismissed because the review labels the book science fantasy. That same review emphasizes unresolved layers, an underplane with strata, mistaken assumptions and more reveals to come. JamReads' finished sequel review calls the continuing mechanism progressively exposed ancient technology and does not settle an independent supernatural ontology. Neither has the authority of a completed text's explicit explanation. The author's long first-book spoiler summary describes curses, ancestors and souls alongside programmers, technical interventions in Bonds, machine-artifacts, memory transfer and human-origin Greybloods. It preserves the mixed terminology rather than clearly demonstrating an afterlife outside technical explanation. The unvetted AfriSummary plot account is a corroborative lead only; its neural-block/Intelligence account is not used to overturn better sources. No claim to have read either full novel.
+
+Whole-fiction aboutness remains very strongly the suppressed legacy of the Scathed. Book one reveals that humans themselves were the supposedly vanished precursors and that Ahiki rule depends on destroying and withholding that heritage. Book two expands rebellion, techwork, Greyblood origins, clans and the underplane. Fighting for stolen history, restoring knowledge and connecting living communities to their ancestors ties the many viewpoints together. It is not a move to Hard science fantasy simply because more machines are exposed: buried old works remain central rather than becoming a newly engineered magical order.
+
+Root walk: speculative fiction > SF provisionally under the title-specific ruling, with Fantasy explicitly a live competing root if independent supernatural agency is established. Atemporal > Science fantasy covers the fantasy-surface/technological-engine premise under the17September ancestor ruling. Ozymandian tech is the approved match to Scathed remains and continuing recovery of their works. A supposed conventional secondary-world epic destination cannot be finalized while the spirits-versus-tech premise remains open. A future-Earth claim is not established; no move to Fantasy after Disaster or a dying-sun future is inferred from a lost civilization alone. Quest/war/political themes are material but not a reason to skip the root question. Portal fantasy lacks a governing Earth-to-other-realm crossing. No new seed or definition is needed to append the second novel under the existing specific ruling.
+
+Publication reconciliation: the author's static book page incorrectly repeats2025 dates. Her dated26November2025cover announcement says7April2026UK and9June2026North America; current Orbit/Hachette confirms7April2026UK, while current US distributor now says11August2026. All establish2026, not2025. The earlier UK publication governs first year; the American later cover is not evidence of a different novel. The third novel publisher currently lists20July2027US, so it is not added in November2026.
+
+Cover: US publisher image was inspected and rejected as a rendered3D book mockup, not a flat front. The actual UK publisher flat English front was independently inspected and selected. Existing Song English front retained. QA images stay in private research only, cover hotlinks only in repository. Final actual live2front verification required.
+
+Confidence: high two published novels/years/shared fiction; moderate retained fine leaf under original ruling; root ontology unresolved and must not be reported as proven technology-only. Revisit when stronger explicit text/author explanation or final volume resolves the ontology, not by treating marketing labels as proof.
+
+Sources read:
+- https://www.mhayinde.com/asoll-summary
+- https://www.mhayinde.com/a-dance-of-burning-blades
+- https://www.mhayinde.com/post/a-dance-of-burning-blades-cover-reveal
+- https://www.hachette.co.uk/titles/m-h-ayinde/a-dance-of-burning-blades/9780356525334/
+- https://www.simonandschuster.com/books/A-Dance-of-Burning-Blades/M-H-Ayinde/Invoker-Trilogy/9781668086858
+- https://www.simonandschuster.com/books/A-Storm-of-Shattered-Souls/M-H-Ayinde/Invoker-Trilogy/9781668086889
+- https://everybookadoorway.com/harder-better-faster-stronger-a-dance-of-burning-blades-by-m-h-ayinde/
+- https://jamreads.com/reviews/a-dance-of-burning-blades-the-invoker-2-by-m-h-ayinde
+- Low-trust corroborative lead only: https://afrisummary.com/a-dance-of-burning-blades-by-m-h-ayinde/
