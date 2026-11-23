@@ -1,0 +1,19 @@
+- Author first book/current FAQ: https://www.marimancusi.com/new-dragon-city.html
+- Author prequel: https://www.marimancusi.com/dawn-of-the-dragons.html
+- Publisher whole series and three front URLs: https://hachettebookgroupusdistribution.com/series/mari-mancusi/new-dragon-city/
+- Publisher sequel UK edition/date: https://www.hachette.co.uk/titles/mari-mancusi/war-of-the-wings/9780316603379/
+- Publisher-supplied NetGalley sequel/date: https://www.netgalley.com/catalog/book/848007
+- Kirkus first completed review: https://www.kirkusreviews.com/book-reviews/mari-mancusi/new-dragon-city/
+- Kirkus prequel completed review: https://www.kirkusreviews.com/book-reviews/mari-mancusi/dawn-of-the-dragons/
+- Kirkus series dates: https://www.kirkusreviews.com/book-series/new-dragon-city/
+- Author2025interview/ending intent: https://cynthialeitichsmith.com/2025/05/authors-interview-meredith-davis-mari-mancusi-on-creating-series-connections/
+- Author2022interview: https://yabookscentral.com/author-chat-with-mari-mancusi-new-dragon-city-plus-giveaway-us-only/
+- Completed first-book review: https://www.thechildrensbookreview.com/new-dragon-city-by-mari-mancusi-book-review/
+- Completed prequel review: https://www.thechildrensbookreview.com/dawn-of-the-dragons-by-mari-mancusi-book-review/
+- Completed first-book editor reviews: https://yabookscentral.com/new-dragon-city/
+- Completed prequel review: https://yabookscentral.com/middle-grade-review-dawn-of-the-dragons-by-mari-mancusi/
+- Completed sequel review: https://yabookscentral.com/middle-grade-review-war-of-the-wings-new-dragon-city-2-by-mari-mancusi/
+- Opposing completed first-book review/ending/healing: https://medium.com/@vi0letpages01/new-dragon-city-review-media-musings-02c103aa99c1
+- SF counterlabel: https://www.commonsensemedia.org/book-reviews/new-dragon-city
+- Prequel whole-sequence review: https://www.commonsensemedia.org/book-reviews/dawn-of-the-dragons-new-dragon-city
+- Prequel origin/context review: https://ashleighmeikle.com.au/2025/12/01/dawn-of-the-dragons-by-mari-mancusi/

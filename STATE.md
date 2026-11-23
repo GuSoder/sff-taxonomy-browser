@@ -2559,3 +2559,6 @@ Existing Throwback quest7to8. Full novel scope2000/2001/2003, ancillary shorts a
 
 ## The Glare whole standalone23November18:13CET
 Existing Psychological SF7to8. Whole-book author/trade convergence on technological conditioning, not cursed-media fantasy; Media ops/Neural/Metaverse/Rewired rivals tested with ancestor gates. Exact ending not invented. Correct author-hosted English front inspected/hotlinked.927/2974/7341, awaitingdeploy/liveQA.
+
+## New Dragon City whole3novels23November18:19CET
+Post Magicalypse9to10: INTAKE FROZEN FOR IMMEDIATE SPLIT AUDIT. Whole2022/2025/2026fiction, magical healing/bond and collapse caused by dragons. Report discloses CSM SF label, contemporary-prequel rival and elapsed-time discrepancy.927/2975/7344, awaitingdeploy/liveQA. No structural approval open yet; audit next.
