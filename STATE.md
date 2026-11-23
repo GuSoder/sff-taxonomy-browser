@@ -2520,3 +2520,6 @@ Whole two novels1997/1999 in existing Mayan myth fantasy1to2. Operative named go
 
 ## MC06312-14 Spectre War23November15:36CET
 Whole3published novels2015/2017/2022 placed existing Space combat. Direct author interview found existing Injection Burn2 is same Dire Earth universe as existing Darwin3, consolidated as whole5 under original Post-pandemic mutants with substantial later offworld straddle. Space combat9to8to9; no split, no gate changes. Total926/2967/7299. Covers hotlinked only,3English fronts inspected. Deployment/live QA pending.
+
+## MC06315-22 scope and Evie Scelan23November15:50CET
+Hodges32pagepicturebook and Killjoy short/novella/collection rows skipped by format, not audience. Danielle third2025also novella. Ronald whole3novels2009/2010/2010 placed existing Psychic PI3to4, author confirms human-return ancestor/inherited scent paidfinder. No seed/structure/othermove.926/2968/7302.3English fronts inspected and hotlinked, Spiral lowerres. Prior7ed6ad71Spectre/Dire deploy success and live pixels verified. Current deployment/liveQA pending.
