@@ -1,0 +1,50 @@
+# The Glare: whole-fiction walk
+23 November 2026
+
+## Verdict
+Place Margot Harrison's The Glare (2020), one standalone novel, in existing Psychological SF, 7 to 8 fictions. No structural change. Whole-story confidence moderate-to-high. The speculative device is screen-mediated conditioning that bends perception and conduct. Horror is the experience, not proof of magic. The novel's mind-warping code remains speculative even though its social-media conditioning draws on real psychology.
+
+## Scope and identity
+Author's book page gives 14 July 2020, Little, Brown Books for Young Readers, ISBN9781368005654. Her biography presents it as her second YA novel, distinct from The Killer in Me. Standalone bibliographies agree. No sequel/shared-universe connection found. One book row, not her entire bibliography. YA is not an exclusion.
+
+## Mechanism evidence
+The author's June2020 blog explicitly presents the book as SF/mystery/horror. Her July2020 NYT essay describes the human compulsion loop as the destructive engine, rejecting software as antagonist. Her November2020 interview discusses research into variable rewards, addiction and brain-computer interfaces. These do not individually disclose every ending detail, and the interview's research discussion does not prove an implanted interface in this novel.
+
+Kirkus's completed-book criticism explicitly classifies it as horror/science fiction and locates its effects in conditioning and augmented-reality-style psychological manipulation. Bulletin of the Center for Children's Books discusses nightmare delusions and mind-warping code, finding a resolved rather than permanently unexplained ending. Verbicide considers game-transfer/Tetris-like phenomena as an explanation for the apparently escaped Randoms, deliberately withholding the final answer. Seven Days describes Pavlovian phone nudges and unreliable reality, but discloses Harrison's staff relationship with the newspaper, so it is not treated as wholly independent confirmation. School Library Journal and Laura Stevenson both corroborate contemporary technological suspense, without supplying the full twist.
+
+The apparently deadly game legend is not independent proof that thirteen deaths activate a supernatural curse. No read source establishes literal ghosts. Pirate full-text search snippets were encountered during research but are excluded from the verdict. The precise identity/revelation at the ending is not asserted here. The convergent author and completed-review evidence is sufficient for the psychological-technology mechanism without inventing an ending synopsis.
+
+## Full root-down walk
+1. Speculative fiction rather than ordinary crime: speculative mind-warping code and the game's induced delusions are central, not merely incidental smartphones. Real psychological inspiration does not make this non-SFF. Conversely, do not classify as Fantasy because the advertising resembles cursed-media horror.
+2. Science fiction rather than Fantasy: the sources converge on conditioning, addictive reinforcement, cognitive game-transfer and engineered perception. Literal magic is not established. Modern technomancy, ghostly torment and horror-fantasy leaves therefore fail their Fantasy ancestor.
+3. Modern-day SF rather than Historical SF: recognizable contemporary California/Arizona and screen culture, not an evocation of a past technological era. Rather than Futurist SF: no extrapolated future society, pervasive direct-neural infrastructure or future Earth transformation is established. Rather than Atemporal SF: no literal time travel, parallel worlds, reincarnation or experimental reality-unplaceability. Repressed childhood memories and nightmare incursions do not equal time travel or a fabulated ontology.
+4. Modern-day SF siblings: not Alien invasion or First contact, with no alien encounter; not Apocalyptic fiction, with a personal/local horror mystery rather than world catastrophe; not Bioengineering, with no central engineered organism; not Humorous SF; not Social dystopia, since a society-wide coercive order is not the narrative setting. Technothriller is the serious rival, addressed below. Soft SF wins because the individual psyche is the experiment rather than technical operational detail.
+5. Soft SF: Social science fiction, not Pseudoscience fiction (no supported paranormal ability or cryptid), and not Pulp SF (not superhero or creature-feature spectacle).
+6. Social science fiction: Psychological SF rather than Sociological SF. The subject is Hedda's and the other players' altered perception, recovered trauma, compulsion and responses to suggestion. The book studies individual minds under technological pressure, not a group/social experiment as its primary subject.
+7. Existing Psychological SF directly names technology-shaped desire and altered perception. Its current seven fictions provide room for the eighth. No child exists to walk deeper; no new definition is needed.
+
+## Serious rivals
+- Technothriller > Infowar > Media ops thriller: there is circulating dangerous media and manipulation, but the public-belief/participatory-narrative operational mechanism is secondary to conditioning of individual minds. Not cryptographic secrets or surveillance as decisive mechanism. The book is not mainly a technical systems crisis (Technocrisis) or espionage (Spytech).
+- Futurist SF > Future-of-Earth > Techno fiction > Cyberpunk > Neural fiction: brain-interface research is not evidence of direct-to-brain access as a journey into altered reality, nor does it establish the necessary futurist ancestor.
+- Cyberpunk > Metaverse: a first-person shooter is not automatically an inhabited shared immersive avatar world. Conventional screens plus pathological game transfer are the supported device. No extrapolated metaverse society is established.
+- Postcyberpunk > Terms of Service: network dependency is thematic, but an algorithmic ranking/surveillance order as a society's air is not the story's primary engine.
+- Rewired minds: individual minds are indeed affected, but that shelf inherits a futurist posthuman transformation context that this present-day psychological horror does not satisfy.
+- Atemporal > Fabulation > projected realities: the unreliable perceptions are studied as conditioning/delusions within contemporary reality, not autonomous externalized psyche-worlds or experimental storytelling.
+
+## Cover
+Actual flat English hardcover front from the author's own book page inspected at399x599. It shows the correct title and Margot Harrison above a cracked/glitched face. Hotlink only; no cover bytes enter the repository. Source URL: https://margotharrison.com/wp-content/uploads/2020/01/glare-cover.png?w=399 . No placeholder or unrelated edition.
+
+## Caveats
+No full authorized text/ending synopsis was acquired. The report avoids unverified claims about exactly who runs the servers or the final revelation. A source proving literal supernatural beings would force a fresh root walk; none of the read author/trade sources supports that. This is a sourced whole-book classification, not a claim that every speculative scientific detail is feasible.
+
+## Sources read
+- Author book/metadata/front: https://margotharrison.com/the-book/the-glare/
+- Author SF/mystery/horror framing,10June2020: https://margotharrison.com/2020/06/10/can-you-beat-the-game/
+- Author first-person cyber-horror essay,18July2020: https://www.nytimes.com/2020/07/18/books/review/cyber-horror-virtual-life-uncanny-valley.html
+- Author research interview,24November2020: https://katyadebecerra.com/2020/11/24/interview-with-margot-harrison-author-of-the-glare-and-the-killer-in-me/
+- Kirkus,1May2020, completed-book trade review: https://www.kirkusreviews.com/book-reviews/margot-harrison/glare-harrison/
+- Alaine Martaus, Bulletin,July/August2020, accessible review excerpt: https://muse.jhu.edu/article/758345/summary
+- Jackson Ellis, Verbicide,30November2020, completed review: https://verbicidemagazine.com/glare-margot-harrison-book-review/
+- William Alexander, Seven Days,9September2020, staff relationship disclosed: https://www.sevendaysvt.com/arts-culture/book-review-the-glare-by-margot-harrison-31174641/
+- Ted McCoy, School Library Journal,1June2020, completed review: https://www.slj.com/review/the-glare
+- Laura Stevenson, completed review: http://www.lauracstevenson.org/harrison.html

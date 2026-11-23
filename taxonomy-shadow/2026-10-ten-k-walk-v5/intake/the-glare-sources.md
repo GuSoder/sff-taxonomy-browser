@@ -1,0 +1,13 @@
+- Author book/metadata/front: https://margotharrison.com/the-book/the-glare/
+- Author SF/mystery/horror framing,10June2020: https://margotharrison.com/2020/06/10/can-you-beat-the-game/
+- Author first-person cyber-horror essay,18July2020: https://www.nytimes.com/2020/07/18/books/review/cyber-horror-virtual-life-uncanny-valley.html
+- Author research interview,24November2020: https://katyadebecerra.com/2020/11/24/interview-with-margot-harrison-author-of-the-glare-and-the-killer-in-me/
+- Kirkus,1May2020, completed-book trade review: https://www.kirkusreviews.com/book-reviews/margot-harrison/glare-harrison/
+- Alaine Martaus, Bulletin,July/August2020, accessible review excerpt: https://muse.jhu.edu/article/758345/summary
+- Jackson Ellis, Verbicide,30November2020, completed review: https://verbicidemagazine.com/glare-margot-harrison-book-review/
+- William Alexander, Seven Days,9September2020, staff relationship disclosed: https://www.sevendaysvt.com/arts-culture/book-review-the-glare-by-margot-harrison-31174641/
+- Ted McCoy, School Library Journal,1June2020, completed review: https://www.slj.com/review/the-glare
+- Laura Stevenson, completed review: http://www.lauracstevenson.org/harrison.html
+
+- Author bibliography: https://margotharrison.com/about-me/
+- Standalone bibliography corroboration: https://www.bookseriesinorder.com/margot-harrison/

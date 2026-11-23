@@ -2556,3 +2556,6 @@ User phonemsg-01M84MP9NNVPJ6YKJJQ1MB17TN supersedes original edit, asks fresh wi
 
 ## Sovereign Stone whole3novels23November18:07CET
 Existing Throwback quest7to8. Full novel scope2000/2001/2003, ancillary shorts acknowledged not extra novel rows. First-volume dynastic villain origin and dark register tested against whole traditional fragment/company quest. Three correct English fronts inspected/hotlinked, publisher placeholders rejected.927/2973/7340, awaitingdeploy/liveQA. Spacefresh3447d6943liveverified and parentnotified.
+
+## The Glare whole standalone23November18:13CET
+Existing Psychological SF7to8. Whole-book author/trade convergence on technological conditioning, not cursed-media fantasy; Media ops/Neural/Metaverse/Rewired rivals tested with ancestor gates. Exact ending not invented. Correct author-hosted English front inspected/hotlinked.927/2974/7341, awaitingdeploy/liveQA.
