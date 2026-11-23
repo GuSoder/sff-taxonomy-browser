@@ -1,0 +1,61 @@
+# The Raven's Trade whole-fiction walk
+23 November 2026
+
+Place Marianne Gordon's completed Raven's Trade duology in Godforsaken realms, 8 to 9. One fiction, two novels: The Gilded Crown (first UK publication2023, not its2024 US release) and The Antlered King (2025). The whole arc follows Hellevir's increasingly costly bargains with the being who rules Death, her coerced protection of a princess, and the moral and bodily cost of refusing to let people go. No structural change is needed.
+
+## Whole-fiction evidence
+
+Both publisher descriptions make the recurring supernatural bargain causal: Hellevir can enter the half-light of death, but bringing souls back requires the ruler of the afterlife to grant them, at the cost of parts of her body and soul. The creator's interviews frame the book as the burden and sacrifice of the gift, its exploitation by elites, and the truth of Death's identity. The sequel leaves the first court setting for exile, civil-war choices, a search for Death's treasures and riddles, and the ethics of resurrection, forgiveness and second chances. Finished sequel criticism confirms that death and the afterlife remain its center, rather than extrapolating that from the first novel.
+
+Finished reader accounts describe the final sacrifice and Hellevir's succession to Death's role. That endpoint supports the whole arc's negotiation with a consuming supernatural office, but the placement does not depend on treating one reader's exact ending interpretation as primary text. The publisher's completed-scope account and trade review establish the continuing engine independently. No full novels were read, and exact ending claims remain reader-review evidence.
+
+## Root-down walk
+
+Speculative fiction > Fantasy: literal resurrection, spirits, bodily/soul payment and a personified afterlife establish supernatural causation. There is no science or simulation rationalization in the sources read.
+
+Fantasy > Fantasy realms: the Chron, Rochidain and invented political and religious setting are not identifiable Earth history. English folklore is inspiration, not proof of Earth. The afterlife is entered from this invented world, so Portal fantasy's Earth ancestor gate fails. Real earth fantasy is not established merely by medieval herbalism or familiar ravens.
+
+Fantasy realms > Gothic realms: the governing register is the burden, confinement, dark bargain and accumulating loss of self beneath Hellevir's gift, rather than triumphant adventure or a magic-user's mastery. The creator describes anxiety and lack of agency, publisher copy makes every resurrection consume more of her, and finished criticism treats the completed arc as dark tragedy, moral sacrifice and unavoidable death. This is not a claim that every scene is horror or that Death is simply evil. The power is ambiguous, sometimes intimate and ultimately morally complicated; its price and the consequences of trying to defeat death remain the dark governing pressure.
+
+Gothic realms > Dark realms > Godforsaken realms: the supernatural pressure is the dark power and the bargains made with it. The afterlife's ruler grants each return, takes flesh/soul and sets the treasures/riddles. It is not chiefly a haunted house or a place retaining its ghosts, so Haunted realms is weaker; it is not predatory feeding by living creatures or a consuming estate, so Hungry realms is weaker. Body cost alone does not make a vampire-appetite narrative. Godforsaken realms names bargains with dark powers, not a requirement that the power be a morally irredeemable villain. Death's later complexity is recorded, not denied.
+
+Other Gothic branches fail: no necromancy-as-engineering or occult apparatus for Technomancy; no sealed world's institutional stasis for Isolationist fantasy; no British-imperial manners engine; assassination and uncovering identity matter, but Hellevir's ongoing vocation is not an occult investigator's casework. She is forced to preserve the victim, not principally hired to solve a murder.
+
+## Close rivals and caveats
+
+- Epic > Heroic > Caster > Mage > Black Mages > Necromancer is the obvious word-based temptation. Hellevir really is called a necromancer, and she talks with spirits and raises the dead. But the sources explicitly say lives can only be granted by the afterlife ruler and every one is bargained for. This is not simply her own learned dark craft, the Necromancer/Mage gate. The whole arc is the price and moral dependence, not developing a kit of spells. Cleric hero is a real source-of-power rival because of the accepted supernatural burden, but the narrative is not service to a deity through a sacred calling or an adventuring cleric's vocation. Her eventual relation to Death does not retroactively turn the whole duology into a class-mastery narrative. Warlock hero requires a demonic source, not established here. White Mage is not licensed by benevolent intent; the act is death bargaining, not ordinary restoration craft.
+- Political fantasy is strong: attempted succession murder, royal coercion, religious conflict and civil war determine many choices. But the same ethical debt and Death relationship persist beyond court, and the completed sequel's central questions are life, punishment, sacrifice and forgiveness. There is no mass-franchise election or state-to-state geopolitical engine. Magic politics would overstate a public regulation contest: this is exploitation of one costly gift, not primarily who is legally permitted to wield magic. Court intrigue underdescribes the off-court and afterlife arc.
+- Romantasy cannot be dismissed merely because the ending is sad. The local gate is romantic love as the spine, not happy ending. Hellevir and Sullivain's tragic, coercive attachment is genuinely central, especially in the sequel, and several finished readers call it a love story. Other finished reviewers explicitly reject a romance-first reading. The whole two-book bargain extends to animals, family and strangers, moral responsibility and Death's identity, so a romance leaf is less stable than the dark-power bargain. No romance with Death is invented; completed reviews describe intimacy and mentorship, not an actual consummated love triangle. Duty bond, soul bond and crown bondage are therefore serious subordinate tests rather than the chosen ancestor.
+- Fairytale fantasy is a real rival: folklore inspiration, spirits, ravens, impossible treasures and riddles. No recognizable single inherited tale was established, so inversion, transplant and expansion would invent one. Invented fairytales and Fairytale quests were tested: fable language and tasks support them, but the whole duology is governed by recurring coercive sacrifice and moral consequence, not a discrete missing-person rescue or lifted enchantment. Do not label generic death bargaining a curse just to fit a task leaf.
+- High fantasy's heroic journey template does not govern the first court-bound book and understates the same sacrifice engine. Military campaigns are not the focal institution. Hard fantasy's consistent costs are not a procedural investigation of magic as science. Invented mythology is present but not deep-time creation chronicle; mythic power struggle from real tradition fails both the invented setting and human focal arc. Sword and Sorcery's combat celebration, Comic, Cozy and Far shores cultural aboutness also fail.
+
+Fine-leaf confidence moderate, strongest wobble versus the tragic romantic and folkloric readings. Positive fit is a consuming supernatural bargain and its dread, not the label dark fantasy alone. No gate or definition is widened.
+
+## Scope and cover curation
+
+Current agent bibliography identifies The Raven's Trade as a duology:2023/2025. Author's December2023 announcement confirms first already published; UK original record gives23November2023. US2024 is a later territorial publication, not the work year. Second US18February2025 and UK27February2025 both agree on2025. Alistair Fall and the Restless Dead is a different new detective series, publisher due27April2027, so excluded as unpublished rather than folded into this universe. No positive shared-world link was found to another existing fiction.
+
+Both official agent-hosted flat English fronts inspected at full contact-sheet size. Correct title, author and matching visual family, no 3D mockups, no cover assets in repository. Use observed URLs from front-urls.json. Hotlink only, live desktop/mobile inspection required after publishing.
+
+## Sources read
+
+- Agent completed bibliography and separate2027series: https://www.ki-agency.co.uk/authors/marianne-gordon
+- Agent first work/year and synopsis: https://www.ki-agency.co.uk/books/the-gilded-crown
+- Agent completed sequel/year and synopsis: https://www.ki-agency.co.uk/books/the-antlered-king
+- Author2023publication announcement: https://blog.mariannegordon.co.uk/2023/12/my-book-has-published-gilded-crown-book.html
+- Original publisher acquisition and folklore scope, projected date superseded: https://corporate.harpercollins.co.uk/press-releases/harpervoyager-acquires-new-folklore-inspired-duology-by-marianne-gordon-from-anne-perry-at-the-ki-agency/
+- First US publisher record: https://www.harperacademic.com/book/9780063248762/the-gilded-crown/
+- Sequel US publisher record: https://www.harpercollins.com/products/the-antlered-king-marianne-gordon
+- Sequel publisher/finished ARC reviews: https://www.netgalley.com/catalog/book/493074
+- Finished trade sequel review: https://www.libraryjournal.com/review/the-antlered-king-1813557
+- Finished first review: https://www.grimdarkmagazine.com/review-the-gilded-crown-by-marianne-gordon/
+- Primary creator interview: https://emwigstersbookshelf.com/author-spotlight-interview-with-marianne-gordon/
+- Primary creator interview: https://thenerddaily.com/marianne-gordon-the-gilded-crown-interview/
+- Finished sequel readers, ending evidence and competing romance interpretations: https://www.goodreads.com/book/show/213656335-the-antlered-king
+-2027novel publisher confirmation: https://www.penguinrandomhouse.com/books/815993/alistair-fall-and-the-restless-dead-by-marianne-gordon/
+
+## Adjacent intake exclusions
+
+MC06354 In the Greenwood, MC06355 Some Gods of El Paso, MC06356 The Girlfriend's Guide to Gods and MC06357 The Tallest Doll in New York City are short stories, confirmed by their original publisher. Correct MC06356's stale agent-authored picture/kids reason to short-work, not a juvenile ban. MC06358 Alistair Fall remains unpublished at the current23November2026check; hold-unpublished rather than a skipped fictional adult novel.
+
+Sources: https://reactormag.com/in-the-greenwood-mari-ness/ ; https://torpublishinggroup.com/some-gods-of-el-paso/?format=ebook ; https://torpublishinggroup.com/the-girlfriends-guide-to-gods/?format=ebook ; https://torpublishinggroup.com/the-tallest-doll-in-new-york-city/?format=ebook

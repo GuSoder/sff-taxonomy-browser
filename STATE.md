@@ -2583,3 +2583,6 @@ Eightfictions remain. Birthgrave2/3order corrected,threepublisherEnglishfronts; 
 
 ## Dragon Ops whole-fiction intake23November19:20CET
 Ozymandian original-member audit final desktop/mobile live QA succeeded19:07, closed at8; normal intake resumed. Dragon Ops two published2020/2021 novels placed together in Private metaverse2to3. Full root walk, public-access/Neural/LitRPG rival tests recorded without broadening definitions. Both English fronts inspected/hotlinked. Totals927/2976/7362. Await deployment and live desktop/mobile QA. No structural question.
+
+## Raven Trade whole-fiction intake23November19:32CET
+Dragon Ops deployment45237325846success and desktop/mobile live QA complete19:24. Raven Trade two published2023/2025 novels placed together Godforsaken realms8to9 after whole-fiction bargain-source walk; no structural change. Four adjacent short works skipped, MC06356reason corrected from audience to short-work; Alistair Fall2027unpublished held. Both agent-hosted English fronts inspected/hotlinked. Totals927/2977/7364, awaiting deploy/liveQA.
