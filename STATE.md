@@ -2603,3 +2603,6 @@ OwnerApproved phonemsg-01M84XAHTRQZF58THVF1MN5451 on phonemsg-01M84X7PAPD3MXHG5A
 
 ## Xuya scope and Activation23November21:20CET
 Owner included-books temporal ruling phonemsg-01M850W64E1MFDAN0BQD84RRP9 applied. Xuya two existing novels consolidated in Spaceship drama9 unchanged, Galactic houses4to3; no novellas added. Activation Degradation2021 standalone placed as Drama tenth, INTAKE FROZEN for split. Counts930nodes/2981fictions/7376books. No structural change. Full source walks/audits in intake. Deployment/liveQA pending.
+
+## Acorna whole-fiction membership repair23November21:28CET
+Restored eight missing eligible novels and Scarborough authorship; whole10novel Acorna moved from Spaceship drama10to9 to Time agency thrillers9to10. Drama split cancelled, threshold transfers to Time agency thrillers. INTAKE FROZEN there pending membership audit/split. Moderate institutional ownership and light-adventure register caveats documented in intake/acorna-whole-fiction-membership-audit.md. No structural mutation. Counts930nodes/2981fictions/7384books. No later queue row researched. Deployment/liveQA pending.
