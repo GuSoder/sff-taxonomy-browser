@@ -36,6 +36,6 @@ Existing eight rows remain: Legacies2002; Darknesses2003; Scepters2004; Alector'
 - https://www.lemodesittjr.com/the-books/corean-chronicles/alectors-choice/
 - https://www.lemodesittjr.com/the-books/corean-chronicles/cadmians-choice/
 - https://www.lemodesittjr.com/the-books/corean-chronicles/soarers-choice/
-- https://www.lemodesittjr.com/the-books/corean-chronicles/the-lord-protectors-daughter/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/lord-protectors-daughter/
 - https://www.lemodesittjr.com/the-books/corean-chronicles/lady-protector/
 - Reference mechanism detail, secondary to author: https://en.wikipedia.org/wiki/The_Corean_Chronicles
