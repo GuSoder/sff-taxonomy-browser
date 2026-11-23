@@ -2550,3 +2550,6 @@ Existing Magic politics2to3. Full root conflict and rivals recorded; invented co
 
 ## Space fantasy portrait correction23November17:44CET
 User phonemsg-01M84MHXS02WDJYYW5B2EBE47Q requested more clearly fantasy. Edited original master as input, preserving golden space city/planet/ships, made crowned robed spellcaster and large dragon immediately visible. Actual1024x1536 master and servedWebP, no downscale; new v2 asset avoids stale image cache. No taxonomy/content moves. Private edited master archived separately, old master retained. Await liveQA.
+
+## Superseding Space fantasy fresh-start request23November17:46CET
+User phonemsg-01M84MP9NNVPJ6YKJJQ1MB17TN supersedes original edit, asks fresh without nebula woman. Fresh1024x1536 image generated without reference: dragon and starship through magic gateway, stone orbital castle and fully robed elder. Pixels inspected, no pinup, distinct new composition. v3 asset. v2 intermediate no longer referenced. Await liveQA and parent completion.
