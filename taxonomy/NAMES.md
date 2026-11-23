@@ -422,3 +422,6 @@ Original textual approval phonemsg-01M828DGVHEHQWXFN8F54KEY8C on served question
 
 ## Future social SF split,2026-11-23
 Political futures5 / Cultural futures3 / Economic futures2. Subject of future social inquiry: public power and political violence / language,art and public meaning / access,value and exchange. Original umbrella retained0cards. Textual approval phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ on phonemsg-01M83WMY3009BP9Q8C8XKWJNP8. Whole Archform/Flash and Centenal retained; Earthweb1999/revised2018 is one novel. All the Lives He Led political-violence ending and Archform persuasion crossover are explicit wobbles. Plain descriptive labels, not formal critical genera or trademark clearance. Original portraits982-984, masters privately retained, no portrait in chat. Deployment/live QA pending.
+
+## Space fantasy23November2026
+Space fantasy attested Mythcreants2025, BookRiot2021, EspritSF glossary. Ordinary usage overlaps science fantasy; this tree keeps genuine supernatural agency vs scientific-engine boundary explicit. No trademark claim. Original approval phonemsg-01M84JVHRFBAZPMP1CT76D96X7 on phonemsg-01M84J9EDD8QESBRJXTCHJVX8H.
