@@ -2517,3 +2517,6 @@ Realm-saving portals4 / Personal quest portals6, umbrella0. Approval phonemsg-01
 
 ## MC06310 Sky Knife23November15:14CET
 Whole two novels1997/1999 in existing Mayan myth fantasy1to2. Operative named gods/ritual cosmos passes same reimagining standard as existing member; historical-mystery Period wobble explicit. No seed/definition change.926/2967/7296. Two English fronts inspected and hotlinked. Deployment/liveQA pending.
+
+## MC06312-14 Spectre War23November15:36CET
+Whole3published novels2015/2017/2022 placed existing Space combat. Direct author interview found existing Injection Burn2 is same Dire Earth universe as existing Darwin3, consolidated as whole5 under original Post-pandemic mutants with substantial later offworld straddle. Space combat9to8to9; no split, no gate changes. Total926/2967/7299. Covers hotlinked only,3English fronts inspected. Deployment/live QA pending.

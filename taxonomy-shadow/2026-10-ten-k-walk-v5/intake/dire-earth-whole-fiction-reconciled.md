@@ -1,0 +1,35 @@
+# Dire Earth whole-fiction reconciliation, 23 November 2026
+
+Verdict: consolidate the existing three-novel The Darwin Elevator card and two-novel Injection Burn card into one Dire Earth fiction, retaining the original stable id the-darwin-elevator and existing Post-pandemic mutants placement. All five books and cover URLs remain. No genre definition changes, new books or other-fiction moves. Space combat9to8; Post-pandemic mutants remains6. Total fiction count decreases1, book count unchanged.
+
+## Why this is mandatory, not threshold engineering
+This was discovered while interrogating all nine existing Space combat members for the prospective Spectre War split. The older Darwin YAML acknowledges the sequel duology but treats a separately named series as a separate fiction. The owner's original phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX makes a shared universe one fiction. A new marketing entry point cannot override that rule.
+
+The author explicitly confirms in PRH's2017 interview that the two new books are in his Dire Earth universe, have the same characters, and form a new entry point into the same series. His current site says Beyond Dire Earth picks up after The Plague Forge. Fantastic Fiction numbers the five novels1through5. The novella The Dire Earth is excluded from novel count; unrelated Zero World stays separate. No tenuous name-based identity inference is involved.
+
+## Full root-down walk
+Speculative fiction > Science fiction > Futurist SF > Future of Earth fiction > Dystopian futures > Post-holocaust survival > Post-pandemic survival > Post-pandemic mutants.
+
+SF not Fantasy: alien plague, immune survivors, elevators, ships and alien technology, no sourced literal magic. Futurist passes the23rd-century future; Historical and Modern day fail period; Atemporal fails no governing time travel or alternate-reality frame. This is not rigorous-science Hard SF. Alien fiction is a serious rival through the Builders' artifacts and mystery, but contact/exploration does not displace human survival and action across the whole sequence.
+
+Future of Earth is the chosen whole-fiction anchor because the foundational three novels sustain an infection-remade Earth's survival, settlements, resource salvage and the search for humanity's future. Spacefaring is the substantial later two-volume straddle: the same survivors leave aboard an alien ship to rescue an alien world. These two volumes honestly fit Space combat in isolation, including an improvised mixed crew, blockade and battles on Carthage. But retaining them there separately is disallowed, and moving all five to a space-battle shelf would bury the three novels introducing and sustaining the plague-remade Earth. This is a moderate-confidence whole-fiction judgment, not a claim the later novels occur on Earth or remain plague-survival stories.
+
+Within Future of Earth, Dystopian futures describes the collapsed world rather than a rigorous social-science study, utopia, psi-led society, technological identity/computation future or organized future war. Within dystopias, Post-holocaust survival passes immediate living aftermath, versus a closed totalitarian system, future social satire, remote Ruined Earth or terminal Dying Earth. Post-pandemic distinguishes the infection cause from nuclear devastation, alien devastation alone, invasive native species, or mixed unspecified wasteland. The Builders caused the plague, but the mechanism actually remaking the population is infection. Post-pandemic mutants passes transformed subhumans and continuing immune/remade population. Recovery is a substantial companion strand, yet the existing definition explicitly says eventual cure/recovery does not erase the whole-fiction mode. No nanotechnological mechanism is asserted.
+
+Spacefaring alternative checked: Military SF fails institutional warfare mode for the improvised crew; Navy/Command/Academy/infantry are not sustained whole-series viewpoints. Space opera > New space opera > Space adventure > Space combat is the genuine competing whole-fiction route, supported by action throughout, but its beyond-Earth ancestor is substantially weaker for the foundational three novels than the original aftermath home is for the five-volume core. Space caper/chase do not capture the full five-book sequence; Space colonies and generation ships are not settled civic or ship-society stories; techno/posthuman, space dystopia and comic branches fail overriding engine. Future history is not an epochal chronicle. No existing leaf fits every volume perfectly; the shared-world rule requires disclosing this straddle rather than splitting the fiction.
+
+## Read sources
+- https://www.penguinrandomhouse.com/authors/161666/jason-m-hough/ : primary author interview explicitly confirms shared universe and continuing cast; new entry point does not create separate fiction.
+- https://www.jasonhough.com/book/beyond-dire-earth : primary author continuation synopsis.
+- https://www.fantasticfiction.com/h/jason-m-hough/dire-earth-cycle/ : five-novel sequence; prequel short work separate.
+- https://sf-encyclopedia.com/entry/hough_jason_m : reference distinguishes story arcs, confirms space-opera turn, not a disconnected universe.
+- https://www.penguinrandomhouse.com/books/220299/the-darwin-elevator-by-jason-m-hough/ : immune scavengers, infection-remade Earth, failing elevator.
+- https://www.penguinrandomhouse.com/books/220300/the-exodus-towers-by-jason-m-hough/ : Brazilian survivor colony, immunes and subhumans.
+- https://www.penguinrandomhouse.com/books/220303/the-plague-forge-by-jason-m-hough/ : artifact search across plague-remade Earth.
+- https://www.penguinrandomhouse.com/books/240565/injection-burn-by-jason-m-hough/ : offworld rescue/blockade and mixed crew.
+- https://www.penguinrandomhouse.com/books/240566/escape-velocity-by-jason-m-hough/ : Carthage military compounds, survival and return to Earth.
+- https://locusmag.com/review/paul-di-filippo-reviews-jason-s-hough/ : completed first-two review, zombie action, survival, social divisions, alien mystery and old-school adventure coexist.
+- https://kellyjensenwrites.com/2013/09/17/review-the-plague-forge/ : completed trilogy review, answers and a clear beginning for a changed next story.
+
+## Scope and audit
+This is confined to the exact duplicate encountered in the threshold audit. No broader author cleanup, Zero World change, new image or structural change. Existing covers are already inspected hotlinks. Title Dire Earth covers the full connected fiction; stable original card id avoids breaking its saved link. The retired Injection Burn fragment is archived with its whole-fiction destination. The two existing genre portraits remain.
