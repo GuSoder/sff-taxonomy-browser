@@ -2565,3 +2565,6 @@ Post Magicalypse9to10: INTAKE FROZEN FOR IMMEDIATE SPLIT AUDIT. Whole2022/2025/2
 
 ## Psalms of Isaak root correction23November18:26CET
 Mandatory audit recovers completed-series author explanation of apparent magic as advanced technology. Whole5novels moved Post Magicalypse10to9 -> Ozymandian tech9to10. Original17Sept Science fantasy ancestor intent checked. No definitions changed. INTAKE REMAINS FROZEN for immediate Ozymandian member audit/split. Totals927/2975/7344.
+
+## Corean Chronicles root correction23November18:33CET
+Mandatory audit: direct author rejects disguised-SF reading of genuine life-force magic. Whole8novels moved Ozymandian10to9 -> Magic politics3to4. No definitions changed. INTAKE REMAINS FROZEN for completion of original ten-member audit. Totals927/2975/7344.

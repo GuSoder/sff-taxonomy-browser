@@ -1,0 +1,41 @@
+# Corean Chronicles: frozen-member correction
+23 November 2026
+
+## Decision
+Move one existing eight-novel fiction from Ozymandian tech10to9 into existing Magic politics3to4. All titles, dates, covers and scope remain unchanged. No genre, portrait, definition or hierarchy changes. The audit remains active for Empire of the East and the other original frozen members before new intake resumes.
+
+## Evidence
+The prior note called the Alectors' life-force machinery a technological explanation for the whole world. That is not what the author says. In the2012 Far Beyond Reality interview, Modesitt describes the Corean system as a Gaian planetary life-force web and explicitly rejects the claim that his logical magic is disguised SF. His2005 SFFWorld interview describes both Alucius's era and the ancient Alector era as fantasy based on life-force magic. Current official Legacies copy positively identifies supernatural creatures and magical powers. The prequel is not a scientific unmasking of the magic: the Alectors' engineered infrastructure itself uses Talent and planetary life force. Space travel and machinery do not negate this magic.
+
+## Whole-fiction content
+- Legacies/Darknesses/Scepters: Alucius's family hides his Talent because political elites would exploit it. He is conscripted, magically enslaved, escapes, commands troops, and fights against renewed old-world weapons and an enslaving power. Talent gives rulers power over people and makes its bearer a target for control.
+- Alector's Choice/Cadmian's Choice/Soarer's Choice: the Duarchy reserves Talent for the Alectors, with human Mykel facing death if his gift is discovered. Dainyl and Mykel face political and military conspiracy inside a planetary order farming life force to maintain the Alectors and their machinery. Rival worlds and the choice to abandon Corus put that system's public power at issue.
+- The Lord-Protector's Daughter/Lady-Protector: Mykella discovers an old power during a succession crisis and must govern a financially ruined, invasion-threatened state. The resurfacing power brings the possibility of the old enemy's return. Court statecraft is particularly strong here, but this two-book phase remains part of the same world, not a separate fiction.
+
+## Root-down walk and rivals
+Speculative fiction > Fantasy, because actual life-force magic and supernatural creatures are explicitly established. The author rejects the rationality-equals-SF inference. Science fantasy/Ozymandian therefore fails the root even though technological remnants are real.
+
+Fantasy > Fantasy realms: Corus is an invented world, not positively identified as Earth. Interplanetary travel among invented worlds does not satisfy Portal fantasy's Earth gate. Real-earth Post Magicalypse is not reached merely because the later era follows a magical collapse.
+
+Fantasy realms > Epic fantasy: the whole eight-book world spans wars, power structures, intergenerational history and planetary systems. Sword and sorcery/Technofantasy/Magitech are serious rivals because life-force-powered infrastructure and martial action matter. But this whole fiction is not primarily adventure-forward artifact/machinery exploits: it repeatedly examines who governs, who is allowed power and who is consumed by that power. Far shores lacks an established counterpart-culture organizing gate; Heart fantasy lacks a bond/comfort spine; Gothic realms lacks a governing dread register; Fairytale fantasy lacks a folktale transformation engine; Comic lacks comedy.
+
+Epic > Political fantasy: authority over supernatural ability and its material support organizes all three eras. Military fantasy fits the six earlier books strongly, but neither the full duology nor the shared mechanism is simply war seen from the ranks. Heroic fantasy singles out a protagonist's class, whereas this fiction varies protagonists and eras. High fantasy's consequential journey is not the shared form. Mythological fantasy's divine experience is not established. Hard fantasy/Hard magic/Channeled hard magic is a genuine close rival: explicit life-force rules, limits and overdraw costs are central and well documented. However, the defining reading experience across all eight is power exercised through institutions, enslavement, ruling castes and government, rather than one consistent casting discipline investigated as the main subject. The restricted monopoly and exploitation remain present across the timeline and encompass the political duology better.
+
+Political > Magic politics: the existing definition requires public authority over supernatural power, who may wield and control it. It is not simply politically active magicians. This requirement is positively met in the Talent monopoly, enslavement and planetary farming order. Court intrigue/Court statecraft fits Mykella especially and Dainyl substantially, but not all the Alucius-era relation of hidden Talent to servitude. Revolutionary fantasy catches resistance to exploitation but no single continuous liberation movement governs all eight. Geopolitical fantasy catches rival states/worlds but not the central internal monopoly. Election fantasy has no mass-franchise engine. Moderate confidence in leaf, high confidence in Fantasy root. No attempt to choose a destination merely to avoid Channeled reaching ten.
+
+## Scope and limits
+Existing eight rows remain: Legacies2002; Darknesses2003; Scepters2004; Alector's Choice2005; Cadmian's Choice2006; Soarer's Choice2006; The Lord-Protector's Daughter2008; Lady-Protector2011. Existing English cover hotlinks remain untouched. Current series bibliography and official descriptions align with those three cycles. No full novel reading claimed. This is a focused root correction found during the mandatory ten-member audit, under the user's30October single-fiction judgment grant, not a structural proposal.
+
+## Sources read
+- Direct author2012 genre and life-force explanation: https://farbeyondreality.com/2012/05/22/author-interview-l-e-modesitt-jr/
+- Direct author2005 full two-trilogy description: https://www.sffworld.com/2005/04/scifiint_162/
+- Author's2010 magic explanation reproduced in critical overview: https://reactormag.com/a-beginners-guide-to-the-fantasy-worlds-of-l-e-modesitt-jr/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/legacies/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/darknesses/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/scepters/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/alectors-choice/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/cadmians-choice/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/soarers-choice/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/the-lord-protectors-daughter/
+- https://www.lemodesittjr.com/the-books/corean-chronicles/lady-protector/
+- Reference mechanism detail, secondary to author: https://en.wikipedia.org/wiki/The_Corean_Chronicles
