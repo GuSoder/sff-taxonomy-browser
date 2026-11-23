@@ -2544,3 +2544,6 @@ Approved Space fantasy seed executed locally,927nodes/2970fictions/7328books. Se
 
 ## Dragon Brigade whole6 23November17:30CET
 ExistingGeopolitical2to3, no structural change. Author/publisher explicit sameworld DragonCorsairs3plusBrigade3. Originalyears2011/2013/2014/2017/2018/2019,2020bundleexcluded. Magitech/court/militaryrivals seriouslytested against sustainednationalrelationswhole6. SixEnglishfrontsinspected/hotlinked,2Sigilpublisherplaceholdersrejected.927/2971/7334; awaitingdeploy/liveQA. Spacefantasy38a304e6cdeploy45215778210success, actualumbrella/leafportrait/7fronts desktopmobileverified, parentdeliveredcompletion. Noapprovalopen.
+
+## Dragonvarld whole3 23November17:40CET
+Existing Magic politics2to3. Full root conflict and rivals recorded; invented counterpart world supported by contemporary reviews over uncited Earth-name web claim. Original2003/2004/2005. Three OpenRoad fronts inspected/hotlinked.927/2972/7337, awaiting deployment and live QA. No structural change or open approval.

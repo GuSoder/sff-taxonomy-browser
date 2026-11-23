@@ -1,0 +1,17 @@
+# Source ledger
+- https://openroadmedia.com/ebook/mistress-of-dragons/9781429915182 . Primary Tor-distributed description, world balance and three-title scope.
+- https://www.hoopladigital.com/ebook/the-dragons-son-margaret-weis/13989656 . Tor publisher description via library distributor; twins, secrecy and Parliament conflict. Its 2007 ebook edition is not original year.
+- https://www.hoopladigital.com/ebook/master-of-dragons-margaret-weis/13983523 . Tor primary description via distributor; concluding trilogy, hybrid enslavement army versus Parliament's precepts. Later ebook year not original.
+- https://openroadmedia.com/ebook/master-of-dragons/9781429915205 . Primary same final synopsis and observed cover asset.
+- https://www.publishersweekly.com/9780765304681 . Contemporary completed professional review, 28 April 2003; Parliament, non-interference, Seth and investigation.
+- https://www.publishersweekly.com/9780765304698 . Contemporary completed review, 2004; similar-to-Earth wording, separated twins, inherited magic, Draconas upholding law.
+- https://www.publishersweekly.com/9780765304704 . Completed review, 26 September 2005; concluding sequence, human kingdom and finale.
+- https://www.sfrevu.com/ISSUES/2003/0306/Book%20-%20Mistress%20of%20Dragons/Review.htm . Contemporary June 2003 completed review; new created world, Draconas balancing human relationships with Parliament rules.
+- https://fantasyliterature.com/reviews/the-dragons-son/ . Completed independent review; years-six-to-sixteen growth and magical pursuit.
+- https://fantasyliterature.com/reviews/master-of-dragons/ . Completed independent final-volume criticism, strongly negative on logic; confirms Anora, breeding and non-interference contest.
+- https://journal.finfar.org/articles/margaret-weis-a-literary-biography/ . Academic biography, Fafnir 3(3), 2016, pp51-62; whole-trilogy scope and law/transfer summary.
+- https://locusmag.com/index/yr2003/b55.htm . Contemporary bibliographic index, Mistress first hardcover May2003, later SFBC reprint.
+- https://www.locusmag.com/index/yr2004/t73.htm . Contemporary index, Son first hardcover July2004; Mistress2004 paperback reprint.
+- https://www.locusmag.com/index/yr2005/t46.htm . Contemporary index, Master first hardcover November2005; Son2005 paperback reprint.
+- https://en.wikipedia.org/wiki/Dragonvarld . Community encyclopedia, unsourced Earth-name claim kept as conflict, not adopted as established geography.
+- https://tvtropes.org/pmwiki/pmwiki.php/Literature/Dragonvarld . Community secondary setting/plot reference, corroborative only.
