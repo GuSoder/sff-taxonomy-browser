@@ -1,0 +1,21 @@
+id: personal-quest-portals
+label: Personal quest portals
+parent: quest-thresholds
+children: []
+image: 986-personal-quest-portals.webp
+definition: Anchored-threshold adventures organized around finding or rescuing particular people, reuniting a family or lovers,
+  escaping pursuers or surviving a hostile otherworld. The wider realm may be affected, but a public campaign to save or liberate
+  it does not govern the whole fiction. Not Realm-saving portals, where the sustained public struggle governs.
+status: accepted
+works:
+- the-ship-of-ishtar
+- the-ten-thousand-doors-of-january
+- the-book-of-doors
+- the-staircase-in-the-woods
+- there-are-doors
+- the-sword-of-michael
+creation:
+  date: '2026-11-23'
+  approval_message: phonemsg-01M84B0ESGSGKHX0BW106W5S01
+  proposal_message: phonemsg-01M84AMWMA896F2X52GN1J71T5
+  split_from: quest-thresholds

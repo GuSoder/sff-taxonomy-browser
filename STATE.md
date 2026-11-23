@@ -2511,3 +2511,6 @@ Existing Paranormal fantasy7to8, one fiction/seven novels,924/2965/7293. Urban s
 
 ## MC06309 Sword of Michael23November14:39CET
 Existing Quest thresholds9to10,924/2966/7294. Freeze intake for split now. Primary anchored oak portal in chapter3, soul travel; publisher and completed-review Hell rescue. Modern biblical myth/Paranormal/Satanic torment genuine rivals recorded. One novel2014, no shared fiction guessed. Baen English front inspected/hotlinked. Deploy/liveQA pending.
+
+## Quest thresholds approved split23November
+Realm-saving portals4 / Personal quest portals6, umbrella0. Approval phonemsg-01M84B0ESGSGKHX0BW106W5S01.926/2966/7294. Whole scopes/covers unchanged, truthful Dreamland caveat retained. Two original1024x1536portraits, selected after inspecting two variants each; masters private. Local checks complete; deploy/liveQA pending. No next intake until verified umbrella delivered.

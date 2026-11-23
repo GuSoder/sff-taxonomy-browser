@@ -1,0 +1,23 @@
+date: '2026-11-23'
+approval: phonemsg-01M84B0ESGSGKHX0BW106W5S01
+proposal: phonemsg-01M84AMWMA896F2X52GN1J71T5
+mapping:
+  Game of Shadows: realm-saving-portals
+  The Eldarn Sequence: realm-saving-portals
+  Dreamland: realm-saving-portals
+  The Lion of Farside: realm-saving-portals
+  The Ship of Ishtar: personal-quest-portals
+  The Ten Thousand Doors of January: personal-quest-portals
+  The Book of Doors: personal-quest-portals
+  The Staircase in the Woods: personal-quest-portals
+  There Are Doors: personal-quest-portals
+  The Sword of Michael: personal-quest-portals
+counts:
+- 926
+- 2966
+- 7294
+portraits:
+- 985-realm-saving-portals.webp
+- 986-personal-quest-portals.webp
+portrait_masters: Privately archived outside repository
+verification: local assertions complete; deployment/live QA pending

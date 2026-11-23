@@ -158,3 +158,6 @@ Original textual approval phonemsg-01M828DGVHEHQWXFN8F54KEY8C on served question
 
 ## Future social SF split,2026-11-23
 Political futures5 / Cultural futures3 / Economic futures2. Subject of future social inquiry: public power and political violence / language,art and public meaning / access,value and exchange. Original umbrella retained0cards. Textual approval phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ on phonemsg-01M83WMY3009BP9Q8C8XKWJNP8. Whole Archform/Flash and Centenal retained; Earthweb1999/revised2018 is one novel. All the Lives He Led political-violence ending and Archform persuasion crossover are explicit wobbles. Plain descriptive labels, not formal critical genera or trademark clearance. Original portraits982-984, masters privately retained, no portrait in chat. Deployment/live QA pending.
+
+## Quest thresholds split,2026-11-23
+Realm-saving portals4 / Personal quest portals6, governing public versus personal stakes. Original umbrella0and original portrait retained. Approval phonemsg-01M84B0ESGSGKHX0BW106W5S01 on phonemsg-01M84AMWMA896F2X52GN1J71T5. Dreamland three-volume scope and inherited Portal exception explicitly surfaced; There Are Doors Visionary/psychological wobble retained. All book lists and covers unchanged. Original1024x1536portraits selected after two variants per child.926/2966/7294. Deployment/liveQA pending.

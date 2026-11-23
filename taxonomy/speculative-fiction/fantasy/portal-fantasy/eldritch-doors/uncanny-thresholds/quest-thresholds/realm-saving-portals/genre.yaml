@@ -1,0 +1,20 @@
+id: realm-saving-portals
+label: Realm-saving portals
+parent: quest-thresholds
+children: []
+image: 985-realm-saving-portals.webp
+definition: Anchored-threshold adventures in which crossing draws the protagonists into defending, freeing or preserving an
+  otherworld's people or political order. Personal rescues and return-home plots may launch the story, but the whole fiction
+  becomes a public struggle for the realm. Not Personal quest portals, where particular people, relationships or the escaping
+  party remain the governing stakes.
+status: accepted
+works:
+- game-of-shadows
+- the-eldarn-sequence
+- dreamland
+- the-lion-of-farside
+creation:
+  date: '2026-11-23'
+  approval_message: phonemsg-01M84B0ESGSGKHX0BW106W5S01
+  proposal_message: phonemsg-01M84AMWMA896F2X52GN1J71T5
+  split_from: quest-thresholds
