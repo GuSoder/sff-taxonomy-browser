@@ -2523,3 +2523,6 @@ Whole3published novels2015/2017/2022 placed existing Space combat. Direct author
 
 ## MC06315-22 scope and Evie Scelan23November15:50CET
 Hodges32pagepicturebook and Killjoy short/novella/collection rows skipped by format, not audience. Danielle third2025also novella. Ronald whole3novels2009/2010/2010 placed existing Psychic PI3to4, author confirms human-return ancestor/inherited scent paidfinder. No seed/structure/othermove.926/2968/7302.3English fronts inspected and hotlinked, Spiral lowerres. Prior7ed6ad71Spectre/Dire deploy success and live pixels verified. Current deployment/liveQA pending.
+
+## Icons tenth23November16:00CET
+Whole2published2013/2014, earlier projected4/3notcounted. SF genetic emotional weapons and2087Earth rebellion, not present-day Earth resistance. Dystopian rebellion9to10, FROZEN, intake paused for immediate split-member audit and proposal. Alien dominions cultural-accommodation rival explicit, moderate verdict.926/2969/7304.2English publisher fronts pixel-inspected/hotlinked. No structure/definition/portrait change. Deploy/liveQA pending. Prior Evie1b606e876 deployed success, desktop/mobile liveQA complete.
