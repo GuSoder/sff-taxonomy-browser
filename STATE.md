@@ -2562,3 +2562,6 @@ Existing Psychological SF7to8. Whole-book author/trade convergence on technologi
 
 ## New Dragon City whole3novels23November18:19CET
 Post Magicalypse9to10: INTAKE FROZEN FOR IMMEDIATE SPLIT AUDIT. Whole2022/2025/2026fiction, magical healing/bond and collapse caused by dragons. Report discloses CSM SF label, contemporary-prequel rival and elapsed-time discrepancy.927/2975/7344, awaitingdeploy/liveQA. No structural approval open yet; audit next.
+
+## Psalms of Isaak root correction23November18:26CET
+Mandatory audit recovers completed-series author explanation of apparent magic as advanced technology. Whole5novels moved Post Magicalypse10to9 -> Ozymandian tech9to10. Original17Sept Science fantasy ancestor intent checked. No definitions changed. INTAKE REMAINS FROZEN for immediate Ozymandian member audit/split. Totals927/2975/7344.
