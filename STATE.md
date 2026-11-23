@@ -2535,3 +2535,6 @@ Whole15Beyond9/Riders3/Librarians3 in sameworld per primaryauthor, current card 
 
 ## Dragonships tenth23November16:44CET
 Whole4novels2009/2010/2012/2016 in existing Invented worship9to10. Four versus obsolete sixbookplan. Positive human relationship to invented active gods across whole; official Doom godhood wobble retained. AnthologiesMC06325/26skipped.926/2969/7320. FourEnglishfronts inspected/hotlinked, Secret/Rage titlepages rejected. FROZEN intake for immediate tenfiction audit and splitproposal. No newgenre/definition/portrait. Deploy/liveQA pending. Rocha0ae60cd27deploy45207056717success and desktop/mobile15covers/oldslugQAcomplete.
+
+## Invented worship false tenth resolved23November16:52CET
+Tielmaran whole3 moved to existing Dynastic magic8to9; Invented worship10to9. Author explicitly names kingship as wholetrilogy theme; completed finalreview sacred Kinghood/royal legitimacy/ritual andcoven positivefit over faith/service. Worship realstraddle retained. No structure/definition/portrait changes. Separately missingLastoftheWilds restored2006frontinspected.926/2969/7321. Deploy/liveQA pending. Dragonships8df2e42be deploy45208516575success desktop/mobile4frontsQAcomplete. Resume intake after correctionliveQA, no approval open.
