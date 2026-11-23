@@ -2595,3 +2595,5 @@ Whole2novels in Paranormal neighbours6to7. DeathsLover originalWitchingHour2012 
 
 ## The New Alchemists23November20:00CET
 Red City2025 wholepublishedfiction in Occult underworlds2to3. Silver DawnUS27April2027/UK29April2027 excludedforthcoming. Fullwalk andrivalsrecorded. Totals927/2980/7373 awaitingdeploy/liveQA. Eternal Lovers45243436123success desktop/mobilebothfrontsverified19:57.
+
+New Alchemists liveQA caught incorrect global onebook standalone label. Added explicit series_in_progress data and conditional UI branch to show published Red City card/year and accurate series status, no other fiction affected. Totals unchanged.
