@@ -2526,3 +2526,6 @@ Hodges32pagepicturebook and Killjoy short/novella/collection rows skipped by for
 
 ## Icons tenth23November16:00CET
 Whole2published2013/2014, earlier projected4/3notcounted. SF genetic emotional weapons and2087Earth rebellion, not present-day Earth resistance. Dystopian rebellion9to10, FROZEN, intake paused for immediate split-member audit and proposal. Alien dominions cultural-accommodation rival explicit, moderate verdict.926/2969/7304.2English publisher fronts pixel-inspected/hotlinked. No structure/definition/portrait change. Deploy/liveQA pending. Prior Evie1b606e876 deployed success, desktop/mobile liveQA complete.
+
+## Burroughs correction23November16:27CET
+Whole Wild Boys/Port/Red Night5 moved to existing Undying6to7. Dystopian rebellion10to9, false split trigger removed; Alternate worlds loses1. Literal death-escape/possession/revival recurs across whole, political/collage straddles retained. No seed/definition/portrait change. Shallow Surrealist seed withdrawn before user delivery. Port1975actual issue(1973imprint), Place1983limited(1984trade). English5fronts inspected/hotlinked; no storedcovers.926/2968/7305. Deploy/liveQA pending. Rocha finding still unexecuted, no unrelated intake yet.
