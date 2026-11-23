@@ -2547,3 +2547,6 @@ ExistingGeopolitical2to3, no structural change. Author/publisher explicit samewo
 
 ## Dragonvarld whole3 23November17:40CET
 Existing Magic politics2to3. Full root conflict and rivals recorded; invented counterpart world supported by contemporary reviews over uncited Earth-name web claim. Original2003/2004/2005. Three OpenRoad fronts inspected/hotlinked.927/2972/7337, awaiting deployment and live QA. No structural change or open approval.
+
+## Space fantasy portrait correction23November17:44CET
+User phonemsg-01M84MHXS02WDJYYW5B2EBE47Q requested more clearly fantasy. Edited original master as input, preserving golden space city/planet/ships, made crowned robed spellcaster and large dragon immediately visible. Actual1024x1536 master and servedWebP, no downscale; new v2 asset avoids stale image cache. No taxonomy/content moves. Private edited master archived separately, old master retained. Await liveQA.
