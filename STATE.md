@@ -2606,3 +2606,6 @@ Owner included-books temporal ruling phonemsg-01M850W64E1MFDAN0BQD84RRP9 applied
 
 ## Acorna whole-fiction membership repair23November21:28CET
 Restored eight missing eligible novels and Scarborough authorship; whole10novel Acorna moved from Spaceship drama10to9 to Time agency thrillers9to10. Drama split cancelled, threshold transfers to Time agency thrillers. INTAKE FROZEN there pending membership audit/split. Moderate institutional ownership and light-adventure register caveats documented in intake/acorna-whole-fiction-membership-audit.md. No structural mutation. Counts930nodes/2981fictions/7384books. No later queue row researched. Deployment/liveQA pending.
+
+## Space1889 whole-fiction membership repair23November21:42CET
+The Forever Engine expanded into creator-confirmed Space1889 shared universe,1to7novels. Six eligible novels restored;8shorter episodes excluded with contradictory Abattoir classification explicitly adjudicated from creator title-specific novella description. Same Time agency thrillers10 remains frozen for membership audit/split. Counts930nodes/2981fictions/7390books. No new structural proposal. No later intake. Deployment/liveQA pending.
