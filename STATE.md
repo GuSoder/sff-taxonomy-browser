@@ -2609,3 +2609,6 @@ Restored eight missing eligible novels and Scarborough authorship; whole10novel 
 
 ## Space1889 whole-fiction membership repair23November21:42CET
 The Forever Engine expanded into creator-confirmed Space1889 shared universe,1to7novels. Six eligible novels restored;8shorter episodes excluded with contradictory Abattoir classification explicitly adjudicated from creator title-specific novella description. Same Time agency thrillers10 remains frozen for membership audit/split. Counts930nodes/2981fictions/7390books. No new structural proposal. No later intake. Deployment/liveQA pending.
+
+## Days of Cain rewalk23November21:49CET
+Direct audit repaired obsolete early1990s cutoff rejection. One1997novel moved Time agency thrillers10to9 -> Classic time agencies9to10under existing through1990s gate. Classic now frozen for direct membership audit/split; no later queue intake. Counts930/2981/7390unchanged. No structural approval open. Deployment/liveQA pending.
