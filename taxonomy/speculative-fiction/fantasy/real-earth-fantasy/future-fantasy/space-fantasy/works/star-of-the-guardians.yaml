@@ -152,15 +152,15 @@ books:
   shows_english_title: true
 - title: The Knights of the Black Earth
   year: 1995
-  cover_url: https://www.risingshadow.net/images/book-4551/the-knights-of-the-black-earth-margaret-weis-don-perrin.webp
+  cover_url: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1677792062i/1032214.jpg
   shows_english_title: true
 - title: Robot Blues
   year: 1996
-  cover_url: https://www.risingshadow.net/images/book-4552/robot-blues-margaret-weis-don-perrin.webp
+  cover_url: https://covers.openlibrary.org/b/isbn/0451455819-L.jpg
   shows_english_title: true
 - title: Hung Out
   year: 1998
-  cover_url: https://www.risingshadow.net/images/book-4553/hung-out-margaret-weis-don-perrin.webp
+  cover_url: https://covers.openlibrary.org/b/isbn/0451456181-L.jpg
   shows_english_title: true
 classification_sources:
 - https://sf-encyclopedia.com/entry/weis_margaret
@@ -191,9 +191,9 @@ cover_curation:
   - https://images2.penguinrandomhouse.com/cover/9780553763430
   - https://images2.penguinrandomhouse.com/cover/9780553763447
   - https://images3.penguinrandomhouse.com/cover/9780553763454
-  - https://www.risingshadow.net/images/book-4551/the-knights-of-the-black-earth-margaret-weis-don-perrin.webp
-  - https://www.risingshadow.net/images/book-4552/robot-blues-margaret-weis-don-perrin.webp
-  - https://www.risingshadow.net/images/book-4553/hung-out-margaret-weis-don-perrin.webp
+  - https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1677792062i/1032214.jpg
+  - https://covers.openlibrary.org/b/isbn/0451455819-L.jpg
+  - https://covers.openlibrary.org/b/isbn/0451456181-L.jpg
   visually_reviewed_on: '2026-11-23'
-  review_method: 'Actual seven-cover sheet inspected: distinct complete English fronts. Four PRH publisher fronts and three
-    Rising Shadow catalog fronts. Hotlinked only, not stored in repository.'
+  review_method: Actual English fronts inspected. Live QA rejected RisingShadow branded fallbacks. Knights Goodreads flat
+    front; RobotBlues/HungOut OpenLibrary ISBN fronts. Knights ISBN titlepage and secondhand photo rejected. Hotlinked only.
