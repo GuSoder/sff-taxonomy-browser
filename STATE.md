@@ -2505,3 +2505,6 @@ Gentle Seduction skipped short work. Magic Time whole3novel trilogy2001/2002/200
 
 ## MC06304 QualityLand23November11:30CET
 Whole2novel fiction2017/2020, Terms of Service8to9.924/2964/7286. Author/publisher/primary samples/completed criticism rootwalk. Satirical SF fails Modern day ancestor; dystopian and machine-mind rivals preserved. Sequel German original honest, no English edition invented. Two hotlinked fronts inspected; no cover art added. Deploy/liveQA pending.
+
+## Skinners23November14:28CET
+Existing Paranormal fantasy7to8, one fiction/seven novels,924/2965/7293. Urban seed and reciprocal edit withdrawn after user objection. No definition changes. Learned check: test accepted ancestor plus actual existing leaf membership before naming; do not skip blank-definition legacy leaves or let proposed hook anchor route. All7 fronts inspected, low-resolution Goodreads hotlinks only. Deployment/liveQA pending.

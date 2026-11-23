@@ -179,3 +179,9 @@ front:
   review_method: UK440x625 and US199x300 parcel designs inspected; UK4/10 selected. Sequel author1498x2421 and review507x820
     same pink/black front inspected; author3/10 selected. Full title/correct author, flat fronts; sequel German subtitle marked.
     Hotlinks only.
+
+live_verification:
+  commit: a7bcf3eebff4ae27aa6fb4c669c4b01ed3827db4
+  status: complete
+  url: https://gusoder.github.io/sff-taxonomy-browser/?qa=a7bcf3eeb-1132#terms-of-service/qualityland
+  checks: Desktop and mobile actual pixels, both hotlinks loaded, sequel page book2of2 with author2020;924nodes2964fictions7286books;TermsOfService9.
