@@ -2597,3 +2597,6 @@ Whole2novels in Paranormal neighbours6to7. DeathsLover originalWitchingHour2012 
 Red City2025 wholepublishedfiction in Occult underworlds2to3. Silver DawnUS27April2027/UK29April2027 excludedforthcoming. Fullwalk andrivalsrecorded. Totals927/2980/7373 awaitingdeploy/liveQA. Eternal Lovers45243436123success desktop/mobilebothfrontsverified19:57.
 
 New Alchemists liveQA caught incorrect global onebook standalone label. Added explicit series_in_progress data and conditional UI branch to show published Red City card/year and accurate series status, no other fiction affected. Totals unchanged.
+
+## Mythic two-bundle and Aztec seed23November2026
+OwnerApproved phonemsg-01M84XAHTRQZF58THVF1MN5451 on phonemsg-01M84X7PAPD3MXHG5ABQ1C91BF. Chivalric myth fantasy holds Arthurian/Frankish intact; Mesoamerican myth fantasy holds Mayan intact and new Aztec leaf for Lareswhole2. Mythic9to8. Partialbundles, twoNEWumbrellas, no exception; original10/12ruling recovered. Names descriptive source-family labels, exactgenus/trademarkclaimnotmade. Threeoriginal1024x1536portraits, two variantspernode inspected; selectedfirstsuccessfulvariants. Masters privately archived. BothEnglishpublisherfronts hotlinked,2023/2025. Noexistingfictionleafmove or ancestor gatechange. Totals930/2981/7375, deploy/liveQA pending.

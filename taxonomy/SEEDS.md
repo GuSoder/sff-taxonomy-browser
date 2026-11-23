@@ -130,3 +130,6 @@ Approved phonemsg-01M81W5K2T08G1GHN11KXAF6YG on served block phonemsg-01M81BF0HK
 
 ## Space fantasy23November2026
 Space fantasy fifth Future fantasy child approved. Entry gate unchanged; world-fate summary replaced with explicit five positive categories. Shallow-branch exception expressly disclosed and accepted. One Guardians/MagForce7 universe7novels, no other moves. Grimdark comment denotes growth potential only. Original approval phonemsg-01M84JVHRFBAZPMP1CT76D96X7 on phonemsg-01M84J9EDD8QESBRJXTCHJVX8H.
+
+## Mythic two-bundle and Aztec seed23November2026
+OwnerApproved phonemsg-01M84XAHTRQZF58THVF1MN5451 on phonemsg-01M84X7PAPD3MXHG5ABQ1C91BF. Chivalric myth fantasy holds Arthurian/Frankish intact; Mesoamerican myth fantasy holds Mayan intact and new Aztec leaf for Lareswhole2. Mythic9to8. Partialbundles, twoNEWumbrellas, no exception; original10/12ruling recovered. Names descriptive source-family labels, exactgenus/trademarkclaimnotmade. Threeoriginal1024x1536portraits, two variantspernode inspected; selectedfirstsuccessfulvariants. Masters privately archived. BothEnglishpublisherfronts hotlinked,2023/2025. Noexistingfictionleafmove or ancestor gatechange. Totals930/2981/7375, deploy/liveQA pending.

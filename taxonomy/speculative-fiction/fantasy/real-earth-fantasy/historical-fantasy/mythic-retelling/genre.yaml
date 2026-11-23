@@ -2,12 +2,11 @@ id: mythic-retelling
 label: Mythic retelling
 parent: historical-fantasy
 children:
-- arthurian-fantasy
+- chivalric-myth-fantasy
 - norse-fantasy
-- mayan-myth-fantasy
+- mesoamerican-myth-fantasy
 - biblical-fantasy
 - slavic-myth-fantasy
-- frankish-myth-fantasy
 - classical-myth-fantasy
 - celtic-myth-fantasy
 - japanese-myth-fantasy
@@ -25,3 +24,6 @@ history:
     phonemsg-01M4VCYKYR0PFWFYS8C3H6YVT6).
 - date: '2026-11-06'
   change: Greek/Roman bundled Classical; Irish/Welsh bundled Celtic,9to8children, ownerApprovedphonemsg-01M6RFDYE1AG8KVCEN1G519KVK.
+- date: '2026-11-23'
+  change: Approved2bundle+Aztecseed phonemsg-01M84XAHTRQZF58THVF1MN5451 on phonemsg-01M84X7PAPD3MXHG5ABQ1C91BF. Existingfictionsunchanged,
+    Lareswhole2added.

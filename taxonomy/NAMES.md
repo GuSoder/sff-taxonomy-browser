@@ -425,3 +425,6 @@ Political futures5 / Cultural futures3 / Economic futures2. Subject of future so
 
 ## Space fantasy23November2026
 Space fantasy attested Mythcreants2025, BookRiot2021, EspritSF glossary. Ordinary usage overlaps science fantasy; this tree keeps genuine supernatural agency vs scientific-engine boundary explicit. No trademark claim. Original approval phonemsg-01M84JVHRFBAZPMP1CT76D96X7 on phonemsg-01M84J9EDD8QESBRJXTCHJVX8H.
+
+## Mythic two-bundle and Aztec seed23November2026
+OwnerApproved phonemsg-01M84XAHTRQZF58THVF1MN5451 on phonemsg-01M84X7PAPD3MXHG5ABQ1C91BF. Chivalric myth fantasy holds Arthurian/Frankish intact; Mesoamerican myth fantasy holds Mayan intact and new Aztec leaf for Lareswhole2. Mythic9to8. Partialbundles, twoNEWumbrellas, no exception; original10/12ruling recovered. Names descriptive source-family labels, exactgenus/trademarkclaimnotmade. Threeoriginal1024x1536portraits, two variantspernode inspected; selectedfirstsuccessfulvariants. Masters privately archived. BothEnglishpublisherfronts hotlinked,2023/2025. Noexistingfictionleafmove or ancestor gatechange. Totals930/2981/7375, deploy/liveQA pending.
