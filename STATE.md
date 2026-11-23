@@ -2493,3 +2493,6 @@ TravellerliveQAcaughtDiasporawikihotlinkblocked;replacedwithinspectedidenticalpu
 
 ## Travellercomplete10:23CET,Davidssling10:27CET
 Travellerf7720a023/45146124140success,liveall14cards12frontsand2honestabsencesverifieddesktop/mobile;genreportraitunchanged. DavidSlingMC06299placedFuturewar8to9,1988not2015orSFE1984.921/2961/7280. Fulltemporalrivalsandplotwalk,YAMLparityandinspectedBaenfront. Deployment/liveQApending.
+
+## Future social SF approved23November11:02CET
+Approval phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ on phonemsg-01M83WMY3009BP9Q8C8XKWJNP8. Split5/3/2, umbrella0; Earthweb MC06300/301one1999novel revised2018. Counts924/2962/7281. Original portraits982-984 pending installation/QA. No history rewrite. Deployment/live QA pending.

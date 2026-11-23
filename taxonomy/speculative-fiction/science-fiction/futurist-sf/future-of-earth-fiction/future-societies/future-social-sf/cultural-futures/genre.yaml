@@ -1,0 +1,18 @@
+id: cultural-futures
+label: Cultural futures
+parent: future-social-sf
+children: []
+image: 983-cultural-futures.webp
+definition: Future Earth societies examined through the production, transmission and valuation of language, art and public
+  meaning. Artistic or communicative work opens the social order to view, including mediated persuasion and the political
+  uses of culture. Public power or exchange may be present, but expression and shared meaning are the governing social subject.
+status: accepted
+works:
+- the-tongue-trade
+- archform-beauty
+- paris-in-the-twentieth-century
+creation:
+  date: '2026-11-23'
+  approval_message: phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ
+  proposal_message: phonemsg-01M83WMY3009BP9Q8C8XKWJNP8
+  split_from: future-social-sf

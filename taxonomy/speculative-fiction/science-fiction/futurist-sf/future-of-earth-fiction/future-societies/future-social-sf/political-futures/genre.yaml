@@ -1,0 +1,21 @@
+id: political-futures
+label: Political futures
+parent: future-social-sf
+children: []
+image: 982-political-futures.webp
+definition: 'Future Earth societies examined through the rules and relationships of public power: legitimacy, citizenship,
+  diplomacy and political violence. Political institutions and their tests organize the whole fiction, including informal
+  violence rather than elections alone. Cultural expression or economic exchange can matter, but public power is the governing
+  social subject.'
+status: accepted
+works:
+- solar-lottery
+- adiamante
+- game-of-the-gods
+- the-centenal-cycle
+- all-the-lives-he-led
+creation:
+  date: '2026-11-23'
+  approval_message: phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ
+  proposal_message: phonemsg-01M83WMY3009BP9Q8C8XKWJNP8
+  split_from: future-social-sf

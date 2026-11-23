@@ -1,0 +1,17 @@
+id: economic-futures
+label: Economic futures
+parent: future-social-sf
+children: []
+image: 984-economic-futures.webp
+definition: Future Earth societies examined through access to goods, paid services, expertise and markets. Systems of value
+  and exchange organize everyday cooperation and exclusion, including distributed knowledge markets rather than financial
+  trading alone. Public power and culture may matter, but economic participation is the governing social subject.
+status: accepted
+works:
+- the-age-of-the-pussyfoot
+- earthweb
+creation:
+  date: '2026-11-23'
+  approval_message: phonemsg-01M83XQ6MRNDS72B1K5DAEXRWJ
+  proposal_message: phonemsg-01M83WMY3009BP9Q8C8XKWJNP8
+  split_from: future-social-sf
