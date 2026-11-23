@@ -2532,3 +2532,6 @@ Whole Wild Boys/Port/Red Night5 moved to existing Undying6to7. Dystopian rebelli
 
 ## Rocha The Sectors correction23November16:35CET
 Whole15Beyond9/Riders3/Librarians3 in sameworld per primaryauthor, current card expanded/retitledTheSectors stablemercenary-librariansid.2024omnibusremoved, futureHunter/Gabe/6excluded. ExistingDystopianrebellionretained9, substantialRidersaftermathstraddleexplicit.15Englishfrontsactualpixelsinspected/hotlinked. No newgenre/gate/portrait,926/2968/7316. Oldcardslugredirectpreserved. Deploy/liveQA pending. Burroughsfbf2a044cdeployed45205535405success actualdesktop/mobile5coverQAcomplete.
+
+## Dragonships tenth23November16:44CET
+Whole4novels2009/2010/2012/2016 in existing Invented worship9to10. Four versus obsolete sixbookplan. Positive human relationship to invented active gods across whole; official Doom godhood wobble retained. AnthologiesMC06325/26skipped.926/2969/7320. FourEnglishfronts inspected/hotlinked, Secret/Rage titlepages rejected. FROZEN intake for immediate tenfiction audit and splitproposal. No newgenre/definition/portrait. Deploy/liveQA pending. Rocha0ae60cd27deploy45207056717success and desktop/mobile15covers/oldslugQAcomplete.
