@@ -1,0 +1,31 @@
+# Sky Knife whole-fiction walk, 23 November 2026
+
+Verdict: existing Mayan myth fantasy, 1 to 2 fictions. One connected fiction, Sky Knife (1997) and Serpent & Storm (1999), Marella Sands. No new leaf, definition change or other fiction move.
+
+## Scope and sources
+Fantastic Fiction, LibraryThing's two-item series and WWEnd agree on the two novels. Locus corroborates the 1999 sequel. The intake's 2015 is an ebook date, not first publication. No shared world with the author's other series is established.
+
+## Root-down walk
+Speculative fiction > Fantasy > Real earth fantasy > Historical fantasy > Mythic retelling > Mayan myth fantasy.
+
+Fantasy, not Science fiction: actual priestly spells, the magical Hand of God obsidian blade, an undead attacker and summoned flying serpent are described by a completed sequel review. The publisher synopsis and first-book readers also treat magic as actual, not historical superstition. Historical, Modern day, Futurist and Atemporal SF therefore lose; divine visions and marvels are not given technological explanations. No experimental-reality frame makes Fabulation a better engine.
+
+Fantasy's setting fork: real Tikal and Teotihuacan belong to Earth's inherited historical/mythological universe. Fantasy realms fails the invented-world ancestor, including Far shores/Fifth sun, Epic, Sword and sorcery, Gothic, Fairytale, Comic and Heart. A Maya-inspired invented world would be different. Portal fantasy fails: travel between historical cities, divine apparitions and visions do not establish an Earth/otherworld portal as the governing adventure.
+
+Real earth time fork: Historical passes the ancient settings and inherited mythic world. Contemporary and Future fail, notwithstanding modern publication dates. This is not a contemporary occult investigator or urban service series.
+
+Historical siblings: Mythic retelling is selected because inherited Mayan gods and cosmology operate, not merely because a priest appears in a documented city. The completed sequel review identifies the priest's god Itzamna, and the Library Journal review reproduced by AbeBooks explicitly identifies divine magic and miracles as manifest in everyday life. Marie Brennan's Strange Horizons essay uses both books as examples of an ancient Mayan worldview in which sacrifice is necessary and sometimes beneficial. Text-check corroboration on a non-authorized-looking mirror shows named death god Cizin appearing and actively confronted, not only characters believing in him. That mirror is secondary corroboration, not the sole basis of the verdict, and no text from it is reproduced here.
+
+The strongest wobble is Period fantasy: historical cities, politics and murder investigations are substantial, not decorative. But original human protagonists and invented plots do not exclude Mythic retelling's reimagining side. Existing Mayan member Gods of Jade and Shadow also tells a new human story involving an inherited death god and underworld. Requiring a transcription of an existing myth for Sky Knife would apply a new stricter standard and ignore the existing leaf's explicit cosmology scope. No claim is made that Sky Knife retells a particular Popol Vuh narrative. Confidence moderate, reflecting this real straddle.
+
+Period tested through all children: Antique times is the era rival. Industrial age fails the period; Long chronicle fails the absence of an era-crossing life/family/place chronicle. Antique's seven current children do not supply a closer honest leaf: Dark age is medieval/post-Roman European traditions; Prehistoric is imagined prehistory rather than Classic Maya city civilization; Classical antiquity explicitly Greece/Rome; Age of sail is early modern, with Virreinato later colonial Americas; Edo is Tokugawa Japan; Mughal is South Asia; Abbasid is the caliphate. This missing geographic period slot would support a seed only if the existing myth gate actually failed. It does not justify seeding merely for convenience.
+
+Secret history fails its ancestor: magic is an operative part of priestly/cultural life, not a hidden explanation of documented historical events with secrecy as the main theme. A concealed murder culprit is not that gate. Its Arcane peoples, Occult cabals and Untold magic children inherit the failed condition. Alternate history fantasy fails an established openly divergent magical historical timeline: no such alternate geopolitical world is evidenced. Its Crusade/Ming/Spice route/Flintlock/Diesel/Renaissance/Swashbuckler/Steampunk children are not era matches either.
+
+Mythic retelling's children: Mayan myth fantasy passes the named Mayan divine figures, operative ritual cosmos and myth reimagining. Norse, Arthurian, Biblical, Slavic, Frankish, Classical, Celtic and Japanese traditions are not the governing inherited source. Teotihuacan makes the sequel a substantial cross-cultural Mesoamerican straddle, not evidence that every deity or city is Maya; the continuing Maya priest and divine framework anchor the whole fiction. No claim that Teotihuacan is an Aztec capital, as one Locus description loosely suggests.
+
+## Covers and execution
+Two current retailer English flat fronts inspected at full size: clear correct title and author, one dark jaguar/stone design and one serpent/stone design. Only hotlink URLs enter the repository. Existing leaf portrait and other cards remain unchanged. Counts after placement expected: 926 nodes, 2967 fictions, 7296 books. No split threshold.
+
+## Alternatives checked, not executed
+Mesoamerican fantasy is an attested broad term, used by Aliette de Bodard for Obsidian and Blood and in critical discussion. It also covers invented worlds in common use, so any Period seed would need a historical-world restriction. Obsidian and Blood is a possible kin only, not silently added or moved during this row. No seed needed after the existing-fit test.

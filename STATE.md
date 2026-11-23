@@ -2514,3 +2514,6 @@ Existing Quest thresholds9to10,924/2966/7294. Freeze intake for split now. Prima
 
 ## Quest thresholds approved split23November
 Realm-saving portals4 / Personal quest portals6, umbrella0. Approval phonemsg-01M84B0ESGSGKHX0BW106W5S01.926/2966/7294. Whole scopes/covers unchanged, truthful Dreamland caveat retained. Two original1024x1536portraits, selected after inspecting two variants each; masters private. Local checks complete; deploy/liveQA pending. No next intake until verified umbrella delivered.
+
+## MC06310 Sky Knife23November15:14CET
+Whole two novels1997/1999 in existing Mayan myth fantasy1to2. Operative named gods/ritual cosmos passes same reimagining standard as existing member; historical-mystery Period wobble explicit. No seed/definition change.926/2967/7296. Two English fronts inspected and hotlinked. Deployment/liveQA pending.
