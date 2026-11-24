@@ -2727,3 +2727,6 @@ Nyx Fortuna completedtrilogy3novels2013/13/14, ModernGreekmyth7to8. Rootdown tes
 
 ## MC06494-95,24November2026
 EnchantedLibrary non-novel format skip, no age exclusion.7Sykos one2016novel, ownerApproved17:19modern-day Apocalyptic/Pandemic/Zombie/virus route. Meteor-virus confirmed creatorinterview; neuroscience immunity/device recovery distinguished; exact finale uncertain. Superseded futureseed not created.937nodes/3006fictions/7544books, Zombievirus7to8. OriginalEnglish418x676front pixelchecked/hotlinked. Deploy/liveQA pending.
+
+## MC06496,24November2026
+CityofBones one1995standalone,2023preferredrevision notsecondnovel. Secondaryworldauthornote excludesEarthPostMagicalypse; magicalancientengine adventuregoverns over Gothic/caper/classrivals. Magitech2to3,937/3007/7545. Englishpublisherfront1613pxinspected/hotlinked. No structure/definitionchange. Deploy/liveQA pending.
