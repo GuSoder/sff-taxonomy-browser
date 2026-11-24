@@ -1,0 +1,61 @@
+# Radio Freefall whole-fiction walk
+24 November 2026
+
+## Verdict
+MC06561, Matthew Jarpe, one original 2007 novel to existing Cultural futures, 3 to 4 fictions. No structure change. Actual route: Speculative fiction > Science fiction > Futurist SF > Future of Earth fiction > Future societies > Future social SF > Cultural futures. The rock band's career and digitally mediated public feeling govern the novel; networked corporate power and an orbital independence struggle are strong rivals, not the whole reading experience. This is a close decision against Cyberpunk, not a denial of the creator's own cyberpunk label.
+
+## Scope and dates
+ISFDB lists Radio Freefall as Jarpe's only published novel, original Tor August2007, paperback November2008. First-edition retailer and Goodreads corroborate7August2007. Queue2008 is reprint. Creator's August2007interview discusses a possible lunar sequel and a written biotech prequel about the origin of the Witch drug, neither demonstrated published. Do not turn plans into books. No other Jarpe novel or shared-world card found by author/title/content scan of current tree. Only this novel included, no shorts, no planned sequel or author-wide grouping.
+
+## Finished narrative
+Aqualung, an older blues musician with concealed technological past, rebuilds the Snake Vendors into a world-famous rock band. His Machine reads crowd response and adjusts the mood of live music; Feedback makes performance an exchange with listeners rather than merely amplified songs. Touring, drug use, band relationships and public identity supply much of the book. Meanwhile former WebCense programmer Quin Taber tracks the Digital Carnivore, a distributed intelligence arising from code connected to Aqualung's past. Taber's tethered AI Molly poses an ethical problem in a world that otherwise recognizes AI independence. The Colonel works for the record company. These are real machine intelligences, not magical gods even when AIs regard the Carnivore religiously.
+
+Cheeseman's WebCense monopoly manipulates information and governments toward Unification. The Nationalists resist; Aqualung gradually joins the struggle rather than beginning as its revolutionary leader. Pursuit drives him toward the Moon but into the Freefall orbital settlement. The final act brings the band, programmers, AIs and Unification confrontation together. Creator says Aqualung declines to use his Machine to impose the preferred political answer, instead using a talk-show broadcast to persuade people across political boundaries. Music remains central to character and public expression but is not a secret mind-control weapon that wins the revolution. The book ends with the possibility of a new lunar civilization, not a completed second novel about constructing it.
+
+This outline is based on completed independent reviews, not the singularity-and-secession jacket alone. Sauve and Orzel separately warn that marketing misrepresents a rock-band novel with a late orbital act as a Moon-is-a-Harsh-Mistress revolution from the outset. SFRevu review and creator interview substantiate the Machine, record-company AI, original-code mystery and final public broadcast. Stewart has read through the conclusion and reports political resolution without a last-minute hidden superweapon. No full-book mirror used.
+
+## Actual root-down gates
+Speculative: yes, future AIs, engineered recreational virus, orbital habitation and crowd-feedback technology.
+Science fiction over Fantasy: future extrapolated science, not supernatural music or literal divinity. Carnivore's religious standing among AIs does not make it a god. Creator's hard-SF-cyberpunk self-description corroborates, but not the sole proof.
+SF children: Futurist passes2030s projected from a1990s manuscript published2007. Not a historical-period celebration, no present-day setting, no temporal/world crossing or atemporal cosmos. Actual orbiting habitat does not make time travel.
+Futurist children: Future of Earth wins, focused Earth-descended public life, media, network society and power. Hard SF is a serious creator-label rival but no rigorous orbital/planetary engineering, matter transmission or conceptual physics puzzle governs. Scientific plausibility is not the whole hard-SF gate. Alien fiction fails, no organizing aliens. Spacefaring is strong in the late Freefall crisis and ending toward Luna, but not dominant through the band/music and net investigation; Breakaway space colonies would reproduce precisely the jacket error warned about by two completed reviewers. No military campaign, interstellar saga, colony mystery or closed-space oppressive society governs the whole.
+Future of Earth siblings: Future war fails, no campaign-centered combat; Psionics fails, sound engineering is not psi. Utopia fails, no better-order examination as central premise. Dystopia is a serious background: Unification is an emerging corporate takeover rather than sustained life under an already-established totalitarian state. Totalitarian children require conditioning-centered order, pervasive state truth policing or rebellion against the regime already in power. No social-dystopia overcrowding, childlessness, climate, patriarchy or civil-war premise; no aftermath, ruined or terminal Earth. Broad oppressive mood is not enough to widen these leaves.
+Techno fiction is the strongest rival parent: AI, cyberpunk networks and invasive technical power are real. Machine minds > AI > AI awakening fits the Carnivore's emergence and origin puzzle but misses the band and broad mediated human life; AI overlords fails because the human corporate despot is the would-be ruler, Rogue AI fails because the Carnivore is not a machine-enemy survival tale. Robots fails embodiment. Technomorphosis loses because transformation into posthuman bodies/society is not the whole arc; the jacket's uncertain singularity is not a verified core event.
+Cyberpunk passes substantial surface/plot evidence, acknowledged by creator and critics. All actual children tested: no immersive avatar/metaverse governing world, no game mechanics/litrpg, no direct-to-brain neural passage. Cyberpunk noir has concealment, mob danger and investigation, but no sleuth case, operative assignments or continuing alienated flight dominates over the socially embedded band career and public struggle. Postcyberpunk is the closest cyberpunk child. Terms of service fits ordinary lives inside information power but not the main band/public-expression subject; Cyberheist fits Taber's intrusion/sabotage subplot but not a central crew/job/heist. Revolutionary cyberpunk needs building an alternative networked order, not merely overthrow or secession. Creator reserves the new lunar civilization for a possible sequel. Do not import its unwritten institution-building backwards. Existing San Angeles note admits loose fit; that prior wobble does not broaden an approved definition. No need to force another merely anti-corporate rebellion there.
+Future societies passes a near-future social order tested through musicians, communication and political manipulation rather than a sustained chronology. Future history of Earth fails, no long historical course. Future social SF passes. All three actual children tested: Political futures is strong because Unification and resistance matter, but two completed critics and creator establish band/music/public persuasion as primary common experience. Economic futures loses: record business/corporate monopoly matter but allocation, exchange and work institutions are not sole subject. Cultural futures explicitly includes music/art, transmission of public meaning and mediated political persuasion. Aqualung's public voice, the Machine's ethical limit and his band's career connect the opening to the political ending. Existing Archform: Beauty/Flash is a useful close comparator: technological amplification and electoral/political persuasion do not automatically displace its art/music/media subject. Paris's excluded artist and Tongue Trade's mediation further establish the leaf's subject without demanding nontechnical culture. This is a positive existing fit, not a new music-SF seed or a definition edit.
+
+## Wobble and evidence limits
+Creator explicitly calls it hard-SF-cyberpunk, and several readers foreground AIs and rebellion. Those labels are retained, not dismissed. Classification here chooses the actual tree's more precise dominant social subject rather than a publisher category. No claim that the entire novel is rock music or that the ending lacks genuine resistance. Were the only evidence jacket secession copy, Breakaway might look strongest, but finished reviews and creator discussion change that assessment. No missing root or child widened to avoid a seed.
+
+## Cover
+Exact Goodreads-served John Harris English flat front, 314x475, title and Matthew Jarpe visible, no audio/omnibus mark. Pixel inspected24November2026, hotlink only, no bytes committed. URL observed in fetched Goodreads page, not constructed:
+https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312042687i/1472123.jpg
+
+## Source notes
+Primary creator interview, SFRevu,1August2007: talks about ending, refusing coercive Machine use, talk-show broadcast, cyberpunk inspirations, proposed sequels/prequel, origin of drug:
+https://www.sfrevu.com/php/Review-id.php?id=5792
+Finished independent SFRevu review, Ernest Lilley,2007: band career, record-company AI, Carnivore and final concert/broadcast:
+https://www.sfrevu.com/php/Review-id.php?id=5498
+Completed critical review, Christian Sauve,28September2007: rock novel with late space act, critique of misleading jacket and caricature government:
+https://www.christian-sauve.com/2007/09/radio-freefall-matthew-jarpe/
+Completed independent review, Chad Orzel,26March2008: two narrative threads, politics late, music does not save revolution:
+https://chadorzel.com/principles/2008/03/26/matthew-jarpe-radio-freefall-l/
+Anders Monsen, Prometheus26:1,Fall2007, completed review: AI personhood, Molly tethering, concert feedback, Freefall and lunar politics:
+https://www.lfs.org/newsletter/026/01/RadioFreefall.shtml
+Fantasy Book Critic,8August2007, completed review: world and musical technologies, crime-noir elements, final assessment:
+https://fantasybookcritic.blogspot.com/2007/08/radio-freefall-by-matthew-jarpe.html
+Jim Stewart,31July2007, community completed reading: ending resolved, Nationalists and open-ended political meaning:
+http://jimnstewart.blogspot.com/2007/07/politics-of-radio-freefall.html
+Bibliography original2007 versus2008reprint, only published novel in author bibliography:
+https://www.isfdb.org/cgi-bin/title.cgi?646197=
+https://isfdb.org/cgi-bin/ea.cgi?18890=
+Retail first-edition metadata,2007,320pp, synopsis treated as limited marketing not full plot:
+https://www.amazon.com/Radio-Freefall-Matthew-Jarpe/dp/0765317842
+Goodreads metadata/cover and community finished reviews by Man Ching, Kate, Kris Sellgren, Thomas and Nathaniel Hunter, whose distinct emphases support both primary band and AI/cyberpunk readings:
+https://goodreads.com/book/show/1472123.Radio_Freefall
+Bibliographic/publisher-synopsis aggregator2007, no extra sequel:
+https://www.fantasticfiction.com/j/matthew-jarpe/radio-freefall.htm
+
+Original commission and individual-fiction authority inspected24November2026: phonemsg-01M43MYMGAMQTNA3CY402KK7FB, phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX. Whole-fiction theme-first rule phonemsg-01M6XKB91QD65FFYNC4FDMM2H4. Existing leaf3to4; no structural approval required.
+
+Cover314x475pixel-inspected24November2026: correct English title and Matthew Jarpe, flat2007novel front, no audio or omnibus strip. Hotlinked only.
