@@ -2646,3 +2646,6 @@ Time agency missions4/20novels, Time agency manhunts3/19, Time agency mysteries3
 Moved the one Avalon fiction from Arthur reimagined9->8 to Long chronicle fantasy5->6. Added seven occult novels and two original Atlantis book volumes,16published volumes/15underlying novels total. No duplicate Fall of Atlantis omnibus. Bradley/Paxson/Edghill author credits corrected. Existing seven book records/fronts unchanged, nine new hotlinks only. No definition or structure change.933nodes/2984fictions/7431books. Deployment/live QA pending. Also reconciled already-completed queue rows and excluded Comeuppance novella.
 
 Prior Time agency split deployment45335013424was successful and live desktop/mobile verified24November06:44; its earlier pending wording is historical, not current.
+
+## Firebrand intake,24November2026
+The Firebrand1987, separate from Avalon absent a narrative bridge, placed Greek hero fantasy7->8. Whole-ending sources, original edition and three front options checked. Hotlink front only.933nodes/2985fictions/7432books. Avalon deployment45337338661success and desktop/mobile/scrolled addition pixels plus16loaded fronts verified07:04. Firebrand deployment/live QA pending.
