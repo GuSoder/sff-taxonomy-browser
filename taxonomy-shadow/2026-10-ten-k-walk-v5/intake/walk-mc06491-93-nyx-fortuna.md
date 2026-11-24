@@ -1,0 +1,52 @@
+# Nyx Fortuna whole-fiction walk
+24 November 2026
+
+## Verdict
+Nyx Fortuna, Marlene Perez. One completed fiction, three novels: Strange Fates (2013), Dark Descent (2013), Fortune's Favors (2014). Modern Greek myth, 7 to 8. No seed, split or definition change.
+
+## Corpus
+The author's current bibliography explicitly lists a Nyx Fortuna trilogy with these three titles. Orbit's August 11, 2014 announcement calls Fortune's Favors the third and final installment. Goodreads independently lists three primary works. Do not use ISFDB series34300 as the corpus source: its current page mixes Perez with unrelated Michelle Manus novels sharing the same series name. No evidence those are connected. No extra short excerpt or translation counted.
+
+Years come from the publication announcements and publisher products. Orbit announced Strange Fates out that day March5,2013 as an e-only original, earlier than the March19 print edition and the March7 date on NYJournalofBooks. Dark Descent launched December2013, Fortune's Favors August12,2014. The year-level metadata is unaffected by paperback/e-book day differences. Preserve the apostrophe and plural in Fortune's Favors, not the intake typo Fortunes Favors or early projected singular title.
+
+## Whole-fiction plot evidence
+Strange Fates: Nyx, son of the forgotten fourth Fate Lady Fortuna, comes to Minneapolis to confront his mother's killers, the other three Fates. He wants the life-thread that keeps him unable to age or die. Present-day gods operate through mundane institutions: the Fates' ambrosia/soda business, a missing scientist, mortal Elizabeth's missing brother, and magical inhabitants of the city's lakes. Finished NYJournalofBooks and In Bed With Books reviews report his priorities shift from revenge and wanting death toward attachment and protection. This is more than an immortal wearing a mythic name.
+
+Dark Descent: Elizabeth has betrayed him, cousin Claire goes missing, and the Fates threaten Elizabeth unless Nyx brings Claire back. He enters the underworld of Minneapolis and Hecate's prison. The consequence is not just a hypothetical cover hook: the following novel's primary synopsis explicitly confirms that saving Claire released Hecate.
+
+Fortune's Favors: the freed Hecate threatens the world and the Wyrd family. Nyx must ally with the very Fates he formerly wanted to kill to return Hecate to her underworld prison. Orbit explicitly identifies this as the final installment. A finished reader review describes a sad, rushed resolution and continued Minneapolis setting, but does not establish the exact final deaths or Nyx's ultimate lifespan. Those details remain unverified and are not invented here. The placement does not rely on a claimed immortality cure or happily-ever-after.
+
+## Root-down walk and rival gates
+1. Speculative fiction to Fantasy. Actual Fates, life-threads, Hecate and divine magic; not a technological account or non-speculative metaphor.
+2. Fantasy to Real earth fantasy. Contemporary Minneapolis and its attached mythic underworld are the anchor. Not a free-standing invented fantasy universe. Portal fantasy considered at the parent, not ignored: Dark Descent genuinely crosses into an underworld and the finale attempts Hecate's return, but the trilogy's governing structure is a family of gods and their son active in present-day human life, not discovery or exchange among independent worlds. The current Real earth definition explicitly admits excursions into an afterlife/parallel dimension. No blanket rule found that one such excursion forces Portal, unlike the explicit any-SF-time-travel rule. Not books transporting readers, bright doors, a multiworld cosmology or whimsical tourism.
+3. Real earth to Contemporary. Present-day city, business venture and modern relationships. Flashback snippets recount an immortal's earlier life, but the sustained action is contemporary, not a documented historical-era narrative or future aftermath of magic. Historical mythic retelling rejected: this is a new modern story using inherited gods, not a reenactment of an ancient myth.
+4. Contemporary to Contemporary mythic. The inherited Fates, divine bloodline, literal fate-thread and Hecate drive all three volumes. The lore is adapted, including a forgotten fourth Fate and mixed Greek/Roman terminology, but not an entirely authored cosmology without a named tradition.
+5. Contemporary rivals: Urban fantasy is a meaningful rival because Minneapolis lakes, businesses and neighborhoods supply more than a city label. Yet the available urban leaves do not govern: Nyx is not a cop, hired PI, state operative, fae city-builder, monster-removal business, Western lawman or protagonist in a publicly magical civic order. A search for a missing relative/scientist is not alone a professional occult case. Gothic menace/horror is not the sustained reading contract; revenge, banter, romance and divine-family adventure are. Magical coming-of-age, domestic, magic realism, folktale and comedy as governing mode also fail.
+6. Supernatural/Undying seriously considered, not skipped. Nyx's imposed inability to die and desire to recover his thread are central in volume1, unlike incidental immortal gods. The whole trilogy shifts to kinship, betrayal, rescue and the fate of Hecate/the Fates. The original September23 immortality sorting must be read with its context: the owner explicitly restricted that remap to Nocturne and excluded outside branches (phonemsg-01M36GPB8KANFEKE95685V1VEB), then chose central death/aging as a Supernatural gate within it (phonemsg-01M36H3G66PCX9583K1MFJA4X7). It is not evidence for erasing the independently approved Contemporary mythic branch whenever a mythic protagonist is immortal. Undying's deathlessness-without-bargain is an honest component, but the whole fiction is more specifically inherited gods/bloodlines in modern life than an account of unnatural preservation or necromantic return. Surreal afterlife is also weaker: this is not predominantly an after-death protagonist's experience or lesson; the underworld is a living god-descendant's rescue mission. Evil deals, ghost and vampire registers do not govern.
+7. Contemporary mythic to Modern European myth to Modern Greek myth. Classical Fates, Hecate, naiads and the divine line are the named tradition; Fortuna is the Roman name and the text freely combines Greek/Roman material. The tree's existing Greek leaf is the Greco-Roman tradition home, not a reason to seed a separate Roman leaf for one adapted name. Not Celtic/Arthurian, Norse, Slavic, African, Chinese, Navajo, biblical or wholly invented myth.
+
+Confidence: good. Strongest wobble is Undying at volume1, followed by Portal at volume2. The whole completed trilogy and the original scoped Nocturne context support Modern Greek myth without claiming an exception to an absolute owner rule.
+
+## Covers and QA
+Two English fronts408x612 from the author's current site, final front1060x1590 from the current Hachette shop HTML noscript img, all pixel-inspected together. Correct title/author/volume association. Orbit's old announcement image URLs now404 despite appearing in fetched text; not used. Hachette UK product pages for volumes2/3 currently return missingbook.png, also rejected. Hachette shop's literal lazyload {width} URL is not a working cover; the actual observed noscript src was used, not a guessed transformation. Cover bytes remain temporary, hotlinks only in repository.
+
+## Sources read
+- https://www.marleneperez.com/books.html , current creator bibliography, completed trilogy/corpus.
+- https://www.marleneperez.com/strange-fates.html , creator synopsis and English front.
+- https://www.marleneperez.com/dark-descent.html , creator synopsis and English front.
+- https://www.marleneperez.com/fortunes-favors.html , creator confirmed release consequence/third plot.
+- https://www.orbitbooks.net/tag/nyx-fortuna/ , primary dated publication announcements, trilogy complete, plot links, March5original release.
+- https://www.orbitbooks.net/tag/strange-fates/ , creator interview on immortal protagonist/emotional growth, contemporary myth framing.
+- https://www.hachette.co.uk/titles/marlene-perez/dark-descent/9780316404129/ , primary2013date and plot, placeholder cover not used.
+- https://www.hachette.co.uk/titles/marlene-perez/fortunes-favors/9780316334693/ , primaryAugust2014date and plot, placeholder cover not used.
+- https://shop.hachettebookgroup.com/products/fortunes-favors , primary plot and actual noscript cover source read from HTML.
+- https://shop.hachettebookgroup.com/products/strange-fates-9780316233545 , primary plot, lazyload template not used as image.
+- https://www.goodreads.com/series/96990-nyx-fortuna , three-work bibliography corroboration.
+- https://www.nyjournalofbooks.com/book-review/strange-fates , finished critical review, modern myth, business, relationships and changing purpose.
+- http://inbedwithbooks.blogspot.com/search/label/strange%20fates , finished2013critical review, four houses, missing scientist and changed priorities.
+- http://closeencounterswiththenightkind.blogspot.com/2013/03/review-strange-fates-by-marlene-perez.html , finished2013reception, mythological beings and viewpoint twists.
+- https://www.goodreads.com/book/show/18170150-dark-descent , thin finished reception, not sufficient to claim exact ending.
+- https://www.allbookstores.com/Fortune-Favors-Nyx-Fortuna-Perez/9780316334693 , completed reader reception, sad/rushed ending, exact final outcomes not supplied.
+
+## Execution
+Original intake commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB, individual-fiction trust phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX. Existing current counts937/3004/7540; expected937/3005/7543. Modern Greek myth7to8, no capacity gate. No other fiction, definition or structure change.

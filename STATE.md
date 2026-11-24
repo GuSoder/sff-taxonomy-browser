@@ -2721,3 +2721,6 @@ To Mars via the Moon one novel in Old Mars1to2.1910actual contemporary review ve
 
 ## MC06485-90,24November2026
 Girdlegard: The Dwarves and the Alfar, one shared fiction15novelvolumes2003-25, Reimagined quest5to6. Return/Herz actualpartpairs separately represented, Englisheditions not extra books, four Germanoriginals retained with correctlanguageflags, shortcollection excluded. Fullrootdown including laterAlfar/Herz and rivalmilitary/political/dark/revisionist tests in audit.937nodes/3004fictions/7540books. No structure/definition edits.15publisherfronts pixelchecked hotlinkedonly. Deploy/liveQA pending.
+
+## MC06491-93,24November2026
+Nyx Fortuna completedtrilogy3novels2013/13/14, ModernGreekmyth7to8. Rootdown tests UnderworldPortal/Undying against originalscopedNocturnerules, no exactfinaldeath/lifespan invented. ThreeEnglishfronts pixelchecked hotlinkedonly.937nodes/3005fictions/7543books. No structure/definition changes. Deploy/liveQA pending.
