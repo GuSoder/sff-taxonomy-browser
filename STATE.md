@@ -2670,3 +2670,6 @@ MC06422-28one5novel fiction2008-2014, Time door2->3. Root-specific author demyst
 
 ## Kingdom of Oak and Steel,24November2026
 MC06429one published2025novel, Detective fantasy8->9. Actual occult case, invented world and official investigator. Shadow Queen MC06430not counted, verified1December2026future release, publication follow-up retained.933/2991/7445. HunterKiss125a45345343414090success actual desktop/mobile five fronts verified. Kingdom deploy/live QA pending.
+
+## Clade,24November2026
+MC06440-41one2novel fiction2003/2004, Post-climate society1->2. Creator-confirmed shared world, functioning engineered ecotecture response, no inheritedgene shortcut. SFE broader corpus grouping conflicts with creator; Idolon/Till not folded.933/2992/7447. Kingdom45344811224success actualdesktop/mobileQA. Clade deploy/liveQA pending.
