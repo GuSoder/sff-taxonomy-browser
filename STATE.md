@@ -2772,3 +2772,6 @@ Creator-bound Baroque3/Cryptonomicon/Fall plus REAMDE now one six-novel fiction 
 
 ## MC06524/26,24November2026
 Glamourist Histories complete5novels2010-2015 to existing Alt European flintlock8to9. Creator confirms magicglass changes Quatre Bras and removes Waterloo; final Antigua plot and familymarriage spine checked.937/3015/7572. No structure or definition change. FiveEnglish1920pxcreator fronts hotlinked/pixelchecked. MC06525/27shortformat exclusions recorded. Deploy/liveQA pending.
+
+## MC06528,24November2026
+Four novels of creator-confirmed Rosenblum future to existing Psionics9to10. Intake freezes for all-ten split audit before next row.937nodes/3016fictions/7576books. Root-down moderate-confidence judgment and source limits preserved in walk-mc06528-rosenblums-future.md. No definition or structure change. Four distinct English fronts hotlinked and pixel inspected. Deployment/live QA pending.
