@@ -2694,3 +2694,6 @@ Standalone Siege of Wonder1976 placed Borderland8to9.937nodes/2996fictions/7455b
 
 ## MC06447 shared-fiction completion,24November2026
 Ring of Fire/Assiti83original novels in Timetribe7. Duplicate Age of sail card removed,7to6.937nodes/2995fictions/7494books. No new node or definition edit. Original2019Up-time novel included once, not2026reprint. Anthology/collection errors removed; independently catalogued hybrid title novels counted without bonus stories. English hotlinked fronts pixel-checked, no cover bytes committed. Deploy/liveQA pending.
+
+## MC06448 The Book of Joby,24November2026
+Standalone2007 in Satanic torment4to5. Hard walk retains Modern biblical myth and Arthur returned as genuine rivals; personalized Lucifer pursuit is narrower engine. Announced2004release was canceled, per author.937nodes/2996fictions/7495books. No structure/definition edit. English author-hosted front pixel-inspected, hotlinked only. Deploy/liveQA pending.
