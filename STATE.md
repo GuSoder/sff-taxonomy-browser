@@ -2736,3 +2736,6 @@ Home/Rapport shortworks excluded under currentintakescope. Ile-Rien one sharedfi
 
 ## MC06500,24November2026
 The Emilie Adventures one two-novel fiction2013/2014,2025omnibus notextra. Steampunk realms5to6, independent secondaryworld, steam-and-magic vessels and aetheric expeditions govern both. Two creator Englishfrontshotlinked and pixel-inspected,modest250px source.937/3009/7552. No newstructure/definition. Deploy/liveQA pending.
+
+## MC06504,24November2026, ten gate
+Wheel of Infinite2000standalone,2024revision notextra. Detective fantasy9to10, official templeinvestigation/uncannyritualsabotage, fullgod/magic/fabulationrivals audited.937/3010/7553. No newstructure/definition. INTAKE PAUSED: Detective fantasytenfiction splitresearch/approvalrequired. Deploy/liveQA pending.
