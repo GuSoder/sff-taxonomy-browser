@@ -2709,3 +2709,6 @@ Broken Empire and Abeth one connected15novel fiction2011-2022in Hard time travel
 
 ## MC06465-68,24November2026
 The Library one connected4novel fiction2023-2026in Time crossroads2to3. Includes Bookshop Book2026. Original-format years verified.937nodes/3000fictions/7520books. Temporal precedence resolved from original context before mutation; initial Fabulation rival rejected. No structure/definition edits.4English fronts pixel-checked, hotlinked only. Deploy/liveQA pending.
+
+## MC06474-76,24November2026
+Quest Kids one completed3novel fiction2022/2023/2025in Quest parody realms7to8. Hybrid prose/comics novel form verified, no age-only skip.937nodes/3001fictions/7523books. No structure/definition edits.3English fronts pixel-checked, hotlinked only. Deploy/liveQA pending.
