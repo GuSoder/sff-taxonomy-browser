@@ -109,3 +109,5 @@ Nineteen exact observed English-front hotlinks, official Hachette/NightShade cov
 - https://www.goodreads.com/author/257412.Matthew_Hughes/questions
 
 Primary creator roster and interviews for universe boundary and first dates; publishers for concrete magic, edition dates and covers; independent Black Gate/Nicoll/Amazing/Challenging Destiny/Robert Runte reviews for completed-narrative checking; Goodreads author/reader exchange for reading order and connections; SFE/ISFDB/FF for bibliography, contradictions retained below.
+
+LiveQA24November2026 found ten A&Rretailer images broken in Chrome despite HTTP200directdownloads. Replaced them with exact observed publisher/KobofrontURLs; allnineteenimageURLsconfirmedloadcrosssiteinactualbrowserbeforepush. KoboCDNfailsdirectrequestsbutworksbrowser, oppositeofA&R. No imagebytescommitted. Finalactualdesktop/mobilepixelsstillrequired.

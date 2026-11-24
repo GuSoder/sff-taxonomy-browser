@@ -288,6 +288,11 @@ placement_rationale: '# Archonate whole-universe walk
   Goodreads author/reader exchange for reading order and connections; SFE/ISFDB/FF for bibliography, contradictions retained
   below.
 
+
+  LiveQA24November2026 found ten A&Rretailer images broken in Chrome despite HTTP200directdownloads. Replaced them with exact
+  observed publisher/KobofrontURLs; allnineteenimageURLsconfirmedloadcrosssiteinactualbrowserbeforepush. KoboCDNfailsdirectrequestsbutworksbrowser,
+  oppositeofA&R. No imagebytescommitted. Finalactualdesktop/mobilepixelsstillrequired.
+
   '
 books:
 - title: Fools Errant
@@ -324,7 +329,7 @@ books:
   shows_english_title: true
 - title: The Other
   year: 2011
-  cover_url: https://www.angusrobertson.com.au/images/3618/9781473225459.jpg?width=150
+  cover_url: https://www.hachette.co.uk/wp-content/uploads/2018/10/hbg-title-the-other-6.jpg?w=442
   shows_english_title: true
 - title: A Wizard’s Henchman
   year: 2016
@@ -332,39 +337,39 @@ books:
   shows_english_title: true
 - title: A God in Chains
   year: 2019
-  cover_url: https://www.angusrobertson.com.au/images/9781770532021.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/62fcc7d0-93bc-4709-9f27-b7ffd7326bcb/353/569/90/False/a-god-in-chains-1.jpg
   shows_english_title: true
 - title: Passengers & Perils
   year: 2022
-  cover_url: https://www.angusrobertson.com.au/images/5644/9781927880227.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/f66251a0-d2e7-4987-a689-dde1d12918c5/200/300/90/false/passengers-perils.jpg
   shows_english_title: true
 - title: Baldemar
   year: 2022
-  cover_url: https://www.angusrobertson.com.au/images/0364/9781927880203.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/790281de-19b8-4650-8e3e-ad978dfa5480/353/569/90/False/baldemar.jpg
   shows_english_title: true
 - title: The Ghost-Wrangler
   year: 2023
-  cover_url: https://www.angusrobertson.com.au/images/1848/9781927880258.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/d66f1799-f023-413b-bffe-3366eef9310e/353/569/90/False/the-ghost-wrangler.jpg
   shows_english_title: true
 - title: A God in Hiding
   year: 2023
-  cover_url: https://www.angusrobertson.com.au/images/2691/9781927880357.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/762a872b-eeb6-49b8-bea7-c278f43b1fde/200/300/90/false/a-god-in-hiding.jpg
   shows_english_title: true
 - title: The One
   year: 2024
-  cover_url: https://www.angusrobertson.com.au/images/7558/9781927880395.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/6a971728-70cf-4fec-aae2-4280355bbef2/353/569/90/False/the-one-122.jpg
   shows_english_title: true
 - title: Margolyam
   year: 2024
-  cover_url: https://www.angusrobertson.com.au/images/5101/9781927880418.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/dbba4ea3-17e4-445a-8332-b9ff7f80f5d5/353/569/90/False/margolyam.jpg
   shows_english_title: true
 - title: Henchmen
   year: 2025
-  cover_url: https://www.angusrobertson.com.au/images/7136/9781927880456.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/4378a5e3-5cba-480c-8397-c99d8ed826f3/200/300/90/false/henchmen-4.jpg
   shows_english_title: true
 - title: Yalum
   year: 2025
-  cover_url: https://www.angusrobertson.com.au/images/4476/9781927880500.jpg?width=150
+  cover_url: https://cdn.kobo.com/book-images/5121361e-c48e-4806-8360-1f8f3baafea1/353/569/90/False/yalum.jpg
   shows_english_title: true
 cover_url: https://www.hachette.co.uk/wp-content/uploads/2018/10/hbg-title-fools-errant-5.jpg?w=439
 shows_english_title: true
@@ -438,7 +443,7 @@ classification_sources:
 - https://www.goodreads.com/author/257412.Matthew_Hughes/questions
 cover_curation:
   status: complete
-  source: Publisher/creator/SFE/reviewer/Australianretailer Englishfronts
+  source: Publisher/SFE/BlackGate/Kobo observed Englishfronts; A&Rfailslive
   selected_url: https://www.hachette.co.uk/wp-content/uploads/2018/10/hbg-title-fools-errant-5.jpg?w=439
   shows_english_title: true
   visually_reviewed_on: '2026-11-24'
