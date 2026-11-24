@@ -2730,3 +2730,6 @@ EnchantedLibrary non-novel format skip, no age exclusion.7Sykos one2016novel, ow
 
 ## MC06496,24November2026
 CityofBones one1995standalone,2023preferredrevision notsecondnovel. Secondaryworldauthornote excludesEarthPostMagicalypse; magicalancientengine adventuregoverns over Gothic/caper/classrivals. Magitech2to3,937/3007/7545. Englishpublisherfront1613pxinspected/hotlinked. No structure/definitionchange. Deploy/liveQA pending.
+
+## MC06497-99,06501-03,24November2026
+Home/Rapport shortworks excluded under currentintakescope. Ile-Rien one sharedfive-novelfiction1993-2005,2024omnibus notextra. Technomancy6to7: actualsoulapparatus governs whole beyond court/crime/warvariety. FiveEnglishfrontshotlinked and inspected.937/3008/7550. No newstructure/definition. Deploy/liveQA pending.
