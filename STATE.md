@@ -2739,3 +2739,6 @@ The Emilie Adventures one two-novel fiction2013/2014,2025omnibus notextra. Steam
 
 ## MC06504,24November2026, ten gate
 Wheel of Infinite2000standalone,2024revision notextra. Detective fantasy9to10, official templeinvestigation/uncannyritualsabotage, fullgod/magic/fabulationrivals audited.937/3010/7553. No newstructure/definition. INTAKE PAUSED: Detective fantasytenfiction splitresearch/approvalrequired. Deploy/liveQA pending.
+
+## Palace world corpus/root correction,24November2026
+Frozen Detective fantasy audit revealed one-book Palace card omitted creator-bound Horn SF trilogy and three Palace sequels. Seven included novels now one Palace of Dreams world card in existing Hidden lander romance. Human colony origins/AI/genetic copying/secret engineering positively sourced. Bloodmagic wording retained as a caveat, no demonstrated non-psi effect in sources read. Detective fantasy10to9 cancels split; Hidden lander5to6.937/3010/7559. No new node/definition/coverbytes. Deploy/liveQA pending; no next intake until checked.
