@@ -2757,3 +2757,6 @@ Dreki: My Icelandic Dragon2025standalone,queueyearblankfilled. Contemporary drag
 
 ## The Commission shared-fiction repair,24November2026
 Existing Lucy Blade2007andWolf Shadow2013consolidated in Spook fantasy. Northern Renaissance9to8, Spook6unchanged.937/3013/7563. Positive Wolf spellwork defeats SF-only Lilith reading. No structural/definitionchange. Deploy/liveQA pending.
+
+## MC06518,24November2026
+A Rose by Any Other Name2024 standalone to existing Northern Renaissance8to9. Literal periodbeliefmagic, Elizabethan England personal emancipation through final trial. Secret history/Fabulation/Mythicretelling rivals checked.937/3014/7564. No structural or definition change. Deploy/liveQA pending.
