@@ -2781,3 +2781,6 @@ Psionics ten-card audit found false Earth-centered claim. Three-novel Cat moved 
 
 ## Psionics ten-card gate audit closed,24November2026
 Cat correction live QA complete; remaining nine whole-fictions reviewed, no further placement move. Psionics9, no split trigger. Gabriel first release corrected1992to1986German, with1992English edition note. Counts unchanged937/3016/7576. Bibliographic deploy/live QA pending before intake MC06529resumes.
+
+## Jennifer Scales MC06533-38,24November2026
+Whole six-novel Davidson/Alongi fiction in Contemporary dragons2to3, dates2005/06/07/09/10/11. RealEarth/Contemporary/Supernatural root walk and full-corpus rivals in intake ledger. MC06529-32 existing-edition/omnibus/shortwork cross-offs included.937nodes/3017fictions/7582books. No structural gate. Deployment and live desktop/mobile QA pending before next mutation.
