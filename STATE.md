@@ -2769,3 +2769,6 @@ Ghost Talkers2016 standalone to existing Occult cabals9to10. Literal spirits in 
 
 ## Enoch Root shared-fiction corpus repair,24November2026
 Creator-bound Baroque3/Cryptonomicon/Fall plus REAMDE now one six-novel fiction in existing Copied minds. Occult cabals10to9 cancels its split trigger; Crypto thriller loses one card, Copied minds9unchanged.937/3014/7567. Owner whole-fiction/defining-subset instructions applied; simulation explanation deliberately ambiguous, not invented demystification. Two inherited cover gallery pages corrected to actual observed image sources. No structure or definition changes. Deploy/liveQA pending; no further mutation until checked.
+
+## MC06524/26,24November2026
+Glamourist Histories complete5novels2010-2015 to existing Alt European flintlock8to9. Creator confirms magicglass changes Quatre Bras and removes Waterloo; final Antigua plot and familymarriage spine checked.937/3015/7572. No structure or definition change. FiveEnglish1920pxcreator fronts hotlinked/pixelchecked. MC06525/27shortformat exclusions recorded. Deploy/liveQA pending.
