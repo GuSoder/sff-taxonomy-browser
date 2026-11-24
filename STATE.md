@@ -2703,3 +2703,6 @@ Five novels2007/08/09/10/12 in Space caper7to8. Jump Gate Twist omnibus folded, 
 
 ## MC06455-57,24November2026
 Wild Side and Transhuman are edited anthologies, excluded. Academy of Kindness one novel2026 in Paladin hero3to4; divine retributive office plus own magic and trained killing. Medium wobble Arcane trickster recorded; no unproved shared-universe merge. Sequel25March2027excluded.937nodes/2998fictions/7501books. No structure/definition edit. Publisher English front pixel-checked, hotlinked only. Deploy/liveQA pending.
+
+## MC06458-64+69-73,24November2026
+Broken Empire and Abeth one connected15novel fiction2011-2022in Hard time travel6to7. Includes off-queue Impossible Times2019. Corrected queue paperback years to originals.937nodes/2999fictions/7516books. No structure/definition edits.15English fronts pixel-checked, hotlinked only. Deploy/liveQA pending.

@@ -1,0 +1,94 @@
+# Broken Empire and Abeth connected fiction,24November2026
+
+## Decision
+One connected fiction, Broken Empire and Abeth,15published novels2011-2022, in Hard time travel6to7. No structural change. The five trilogies are not separate cards under the owner's shared-universe rule. Moderate confidence in fine leaf, strong confidence in corpus unity and temporal ancestor. The familiar fantasy appearance is deliberately misleading; root classification follows established underlying explanation, not marketing.
+
+## Corpus, not queue editions
+Primary PRH product pages expose original ebooks alongside later paperbacks. The queue dates for all12of those novels are paperback years, one year later than originals. Use:
+- Broken Empire: Prince of Thorns2011, King of Thorns2012, Emperor of Thorns2013.
+- Red Queen's War: Prince of Fools2014, The Liar's Key2015, The Wheel of Osheim2016.
+- Book of the Ancestor: Red Sister2017, Grey Sister2018, Holy Sister2019.
+- Impossible Times: One Word Kill2019, Limited Wish2019, Dispel Illusion2019.
+- Book of the Ice: The Girl and the Stars2020, The Girl and the Mountain2021, The Girl and the Moon2022.
+
+The three Impossible Times novels belong even though not in the present queue block. Creator2022Endings essay explicitly describes fifteen novels linked across these five trilogies and recurring Doctor Taproot. This is not a fan universe inferred from repeated motifs. Creator2023interview explicitly says Library has no connection to his other works: its all-realities conceit and playful epigraphs are not shared continuity evidence. Daughter of Crows has no established creator connection to these fifteen and remains separate. Short-story collections Road Brothers, Tales of Abeth and The Red Queen's Ward, novellas Bound/Thaw/The New World and omnibuses do not increase novel count. No future work assumed. One Word Kill had April2019First Reads availability before official1May; author documents that. Limited Wish28May2019and Dispel Illusion14November2019ebook/31Decemberprint are all2019. Fantasy Book Review casually calls Dispel a novella but ISFDB/author describe a novel trilogy, supported by full separate book publication; do not let one loose reviewer term silently exclude it.
+
+## Whole-novel coverage
+Prince of Thorns: Jorg leaves a violent road-band to reclaim princely power and avenge murdered family, discovering relics and apparent supernatural forces in a world later established as future Earth. King of Thorns: defending his kingdom against Arrow, helping Gog and recovering suppressed memories unfold across several narrative times, with Builder data echoes and Taproot revealing the technological layer. Flashbacks are not themselves the temporal gate. Emperor of Thorns: imperial election and Dead King's army converge with Jorg's discovery of AI factions and the reality-altering Builder catastrophe; his final sacrifice answers both personal vengeance and threatened world.
+
+Prince of Fools: cowardly Jalan is bound to Snorri and reluctantly journeys north in a larger Red Queen/Blue Lady conflict. Liar's Key: the pair pursue the door into death, with the undead and Loki seeking the key, culminating in the entrance into Hell. Wheel of Osheim: Jalan's return and flashbacks of Hell converge on stopping the ancient Wheel from destroying reality; his journey overlaps and explains the forces behind Jorg's saga. Apparent mythic gods/ghosts do not override the established engineered reality frame.
+
+Red Sister: Nona's convent training and endangered friendships unfold on ice-bound Abeth, with hereditary gifts, lost settler technology and a mechanical moon. Grey Sister: stolen shipheart and Hessa's death propel her out of the school into revenge, persecution and imperial manipulation. Holy Sister: shiphearts, the Ark, war over shrinking habitable land and Nona's rescue mission converge; artificial moon controls and gate travel matter to the conclusion.
+
+One Word Kill:1980sNick, cancer and gaming friends confront an older self whose intervention is tied to Mia's future brain injury. Limited Wish: university Nick faces splintering histories, another version of events and potentially catastrophic paradox. Dispel Illusion: mathematical/experimental invention, space-time mechanics, time trails, a laboratory loop and1992/2011/1986interventions close the causal circuit, changing the interpretation of earlier events. Corporate funding and coercion are real, but this is not a professional temporal patrol series.
+
+Girl and the Stars: Yaz follows her brother into the pit and discovers a buried remnant society, apparent demons and mechanical hunters. Girl and the Mountain: escaping the Black Rock priesthood reveals technological gods, AI, surviving Missing machinery and gateways into the Corridor, connecting to the convent. Girl and the Moon: Yaz and friends confront Seus and Ark/moon control, cross between the Ice and Ancestor eras through Hayes gates, and conclude the shared histories, with Taproot linking the contemporary scientist to future Earth and Abeth. Completed critical accounts establish the final-book temporal travel; do not derive it merely from the author's nonlinear presentation.
+
+## Full root-down walk
+Speculative fiction > Science fiction. The author explicitly says his2014work wears fantasy clothes but is future technology with no magic. This is corroborated beyond a generic science-is-magic philosophy by Emperor's data echoes, AI conflict and modified reality, the genetically inherited Abeth gifts and its manufactured moon/AI cities, plus the exact scientist/gate continuity developed in Impossible Times. Completed Emperor and Moon reviews identify the same technological/quantum foundation. That supports demystification here; author profession or an unexplained spaceship alone would not. Some reviews retain literal magic terminology, a real presentation conflict preserved rather than erased.
+
+Science fiction > Atemporal SF > Time travel fiction. Actual science-side era crossing occurs in the included Impossible Times novels and across the Abeth eras, so the owner's any-time-travel rule takes priority over the2011anchor's future-Earth setting. Futurist Ruined Earth is the strongest surface rival for Jorg; Dying Earth for Abeth, but neither can split a connected fiction or ignore temporal travel. Atemporal Science fantasy captures the reading surface, but its siblings yield to explicit Time travel. Hard science fantasy also requires known physics/no teleportation, which these reality-altering gates cannot pass. Parallel-world fiction is important to Nick's causal model but cannot suppress actual travel through time.
+
+Time travel > Hard time travel. The concrete physical/mathematical mechanism is central: quantum/multiple-world consistency, space-time coordinates and Earth's motion, time trails/copies, differential experimental time and causal constraints. Across the larger fiction these engineered temporal pathways explain how the supposedly disconnected epochs join. The leaf is not a claim that all fifteen read as hard-SF laboratory novels. It is the positive temporal mechanism that remains when the whole fiction is kept together.
+
+## Serious temporal rivals
+Time machines, especially institutional apparatus, is real. Nick invents a device with corporate funding, and far-future cultures inherit gate infrastructure. However no one organization owns the whole fiction's time system: remove Guilder's company and Nick/Taproot's discovery and the inherited Hayes-gate system still have owners and stories. This is not an operative/patrol institutional mission engine. DIY rewind describes Nick's personal backward task but not the full spread of inherited machinery, forward services and far-future cross-era gate use. Hard time travel retains the common physical mechanism across that variety. Time door requires standing unexplained rather than built pathways; Hayes gates are named after their inventor and developed as technology, so not unexplained. Time loops occur but do not govern the whole fiction. Mind over time fails: consciousness/data echoes participate but actual temporal apparatus and bodily crossings are established. Ancestral/disorder/tonic/slip/crossroads routes lack their causal or hub engines. Fine-leaf wobble moderate, not a forced seed and not threshold avoidance.
+
+## Sources, fetched
+Primary creator continuity and explanation:
+https://www.grimdarkmagazine.com/mark-lawrence-endings/
+https://www.marklawrence.buzz/2022/04/the-girl-and-moon-has-risen.html
+https://www.grimdarkmagazine.com/an-interview-with-mark-lawrence-2023/
+https://www.marklawrence.buzz/2014/11/in-space-there-is-no-chosen-one.html
+https://paulsemel.com/exclusive-interview-the-girl-and-the-moon-author-mark-lawrence/
+https://www.marklawrence.buzz/2019/04/
+https://www.marklawrence.buzz/2019/06/
+https://www.marklawrence.buzz/2019/11/
+
+Primary publisher corpus and date/formats:
+https://www.penguinrandomhouse.com/series/ANV/the-broken-empire/
+https://www.penguinrandomhouse.com/series/BPM/the-red-queens-war/
+https://www.penguinrandomhouse.com/series/KCE/book-of-the-ancestor/
+https://www.penguinrandomhouse.com/series/9BI/the-book-of-the-ice/
+https://www.penguinrandomhouse.com/books/308315/prince-of-thorns-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/308316/king-of-thorns-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/308317/emperor-of-thorns-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/314392/prince-of-fools-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/314393/the-liars-key-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/314394/the-wheel-of-osheim-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/534042/red-sister-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/534164/grey-sister-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/534257/holy-sister-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/607951/the-girl-and-the-stars-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/607952/the-girl-and-the-mountain-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/607953/the-girl-and-the-moon-by-mark-lawrence/
+https://www.isfdb.org/cgi-bin/title.cgi?2529157=
+
+Completed critical coverage, including ends rather than only blurbs:
+https://www.grimdarkmagazine.com/review-prince-of-thorns-by-mark-lawrence/
+https://www.grimdarkmagazine.com/review-king-of-thorns-by-mark-lawrence/
+https://www.grimdarkmagazine.com/review-emperor-of-thorns-by-mark-lawrence/
+https://shaunalawless.com/2021/09/21/book-review-emperor-of-thorns-broken-empire-with-spoilers/
+https://www.denofgeek.com/books/prince-of-fools-we-speak-with-broken-empire-creator-mark-lawrence/
+https://www.grimdarkmagazine.com/review-liars-key-mark-lawrence/
+https://www.grimdarkmagazine.com/review-wheel-osheim-mark-lawrence/
+https://www.grimdarkmagazine.com/review-red-sister-by-mark-lawrence/
+https://www.grimdarkmagazine.com/review-grey-sister-by-mark-lawrence/
+https://www.grimdarkmagazine.com/review-holy-sister-by-mark-lawrence/
+https://www.grimdarkmagazine.com/review-the-girl-and-the-stars-by-mark-lawrence/
+https://www.grimdarkmagazine.com/review-the-girl-and-the-mountain-by-mark-lawrence/
+https://novelnotions.net/2022/03/25/book-review-the-girl-and-the-moon-the-book-of-the-ice-3-by-mark-lawrence/
+https://beforewegoblog.com/review-the-girl-and-the-moon-by-mark-lawrence/
+https://britishfantasysociety.org/the-girl-and-the-moon-by-mark-lawrence-from-harpercollinsuk-bookreview-fantasy-scifi/
+https://fantasy-hive.co.uk/2018/08/one-word-kill-by-mark-lawrence/
+https://bibliosanctum.com/2019/06/15/book-review-limited-wish-by-mark-lawrence/
+https://fantasy-hive.co.uk/2019/09/dispel-illusion-by-mark-lawrence-book-review/
+https://fantasyliterature.com/reviews/dispel-illusion/
+https://www.fantasybookreview.co.uk/Mark-Lawrence/Dispel-Illusion.html
+http://www.freeman.org.uk/2020/09/01/dispel-illusion/
+https://sciencefictionfantasy.blogspot.com/2020/09/dispel-illusion-by-mark-lawrence.html
+
+Community continuity hypothesis was useful for triage only, superseded by creator confirmation; unauthorized full-book search hits were not opened. No novel mirror used.
+
+## Covers
+Twelve actual PRH product-page fronts and three current retailer fronts from https://www.tgjonesonline.co.uk/search/search?Series=Impossible+Times . All fifteen labelled actual cover pixels inspected24November2026, matching English titles and author, no box sets/spines/interiors. PRH and distributor hotlinks only; no cover bytes committed. Contact sheet retained as research evidence. Three2019volumes ordered by series rather than alphabetically in final shelf.
