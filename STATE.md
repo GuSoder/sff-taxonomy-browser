@@ -2697,3 +2697,6 @@ Ring of Fire/Assiti83original novels in Timetribe7. Duplicate Age of sail card r
 
 ## MC06448 The Book of Joby,24November2026
 Standalone2007 in Satanic torment4to5. Hard walk retains Modern biblical myth and Arthur returned as genuine rivals; personalized Lucifer pursuit is narrower engine. Announced2004release was canceled, per author.937nodes/2996fictions/7495books. No structure/definition edit. English author-hosted front pixel-inspected, hotlinked only. Deploy/liveQA pending.
+
+## MC06449-54 Jon and Lobo,24November2026
+Five novels2007/08/09/10/12 in Space caper7to8. Jump Gate Twist omnibus folded, shorts excluded. Sixth announced novel not verified published, excluded.937nodes/2997fictions/7500books. No structure/definition edit. Five publisher English fronts pixel-checked, hotlinked only. Deploy/liveQA pending.
