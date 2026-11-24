@@ -2775,3 +2775,6 @@ Glamourist Histories complete5novels2010-2015 to existing Alt European flintlock
 
 ## MC06528,24November2026
 Four novels of creator-confirmed Rosenblum future to existing Psionics9to10. Intake freezes for all-ten split audit before next row.937nodes/3016fictions/7576books. Root-down moderate-confidence judgment and source limits preserved in walk-mc06528-rosenblums-future.md. No definition or structure change. Four distinct English fronts hotlinked and pixel inspected. Deployment/live QA pending.
+
+## Cat correction,24November2026
+Psionics ten-card audit found false Earth-centered claim. Three-novel Cat moved intact to existing Planet plunder5to6; Psionics10to9, no gate or structure change. Actual three-novel/root-down rival audit in audit-psionics-cat-root-correction.md.937nodes/3016fictions/7576books unchanged. Other nine audit still active before intake resumes. Deployment/live QA pending.
