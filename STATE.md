@@ -2682,3 +2682,6 @@ Cybernoir sleuths 4 fictions/4 novels; Cybernoir operatives 4/7; Cybernoir fugit
 
 ## Till Human Voices duplicate reconciliation24November2026
 MC06443 alreadypresent Unmoored selves7; retained after fullwhole-novelcompare. Across-era memorysharing notproof of historicalcommunication; exactfinalontologyuncertain. InitialMindOverTimeinferencewithdrawn beforeanywrite. Existinglive data/frontunchanged.936/2993/7448. Queue reconciled, no tenth/nodechange. NextMC06444wholefiction.
+
+## Legends of the Red Sun24November2026
+MC06444-45onefour-novel fiction2009/2010/2011/2012, Borderland multiverse fantasy7->8. Whole dimensionalborder/invasion/refugeesettlementengine; literalmagicFantasy, farfutureEarthmoderate. TheReefexcludedagainstsecondaryinferencebyexplicitcreatornoconnection. TentativeDyingEarthseedwithdrawn beforemutation afterdeeperpositivewalk, noshallowexception/gatechange. Fourpublisherfrontsactualpixelsinspectedhotlinksonly.936/2994/7452. Deploy/liveQApending.
