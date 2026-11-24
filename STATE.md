@@ -2715,3 +2715,6 @@ Quest Kids one completed3novel fiction2022/2023/2025in Quest parody realms7to8. 
 
 ## MC06477-83,24November2026
 Five verified scope exclusions6477-81, one Dark Enterprises fiction6482in Corporate fantasy1to2, one2025novel, ongoing flag. Connected6483Messy As Hell future12January2027excluded and unprocessed, publication wake recorded.937nodes/3002fictions/7524books. No structure/definition edits. English front pixel-checked, hotlink only. Deploy/liveQA pending.
+
+## MC06484,24November2026
+To Mars via the Moon one novel in Old Mars1to2.1910actual contemporary review versus1911imprint preserved caveat. Reincarnated-son ending and original owner proto-SF carve-out researched explicitly.937nodes/3003fictions/7525books. No structural/definition edits, hotlinked English publisher front pixel-checked. Deploy/liveQA pending.
