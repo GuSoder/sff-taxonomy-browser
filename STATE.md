@@ -2733,3 +2733,6 @@ CityofBones one1995standalone,2023preferredrevision notsecondnovel. Secondarywor
 
 ## MC06497-99,06501-03,24November2026
 Home/Rapport shortworks excluded under currentintakescope. Ile-Rien one sharedfive-novelfiction1993-2005,2024omnibus notextra. Technomancy6to7: actualsoulapparatus governs whole beyond court/crime/warvariety. FiveEnglishfrontshotlinked and inspected.937/3008/7550. No newstructure/definition. Deploy/liveQA pending.
+
+## MC06500,24November2026
+The Emilie Adventures one two-novel fiction2013/2014,2025omnibus notextra. Steampunk realms5to6, independent secondaryworld, steam-and-magic vessels and aetheric expeditions govern both. Two creator Englishfrontshotlinked and pixel-inspected,modest250px source.937/3009/7552. No newstructure/definition. Deploy/liveQA pending.
