@@ -2718,3 +2718,6 @@ Five verified scope exclusions6477-81, one Dark Enterprises fiction6482in Corpor
 
 ## MC06484,24November2026
 To Mars via the Moon one novel in Old Mars1to2.1910actual contemporary review versus1911imprint preserved caveat. Reincarnated-son ending and original owner proto-SF carve-out researched explicitly.937nodes/3003fictions/7525books. No structural/definition edits, hotlinked English publisher front pixel-checked. Deploy/liveQA pending.
+
+## MC06485-90,24November2026
+Girdlegard: The Dwarves and the Alfar, one shared fiction15novelvolumes2003-25, Reimagined quest5to6. Return/Herz actualpartpairs separately represented, Englisheditions not extra books, four Germanoriginals retained with correctlanguageflags, shortcollection excluded. Fullrootdown including laterAlfar/Herz and rivalmilitary/political/dark/revisionist tests in audit.937nodes/3004fictions/7540books. No structure/definition edits.15publisherfronts pixelchecked hotlinkedonly. Deploy/liveQA pending.
