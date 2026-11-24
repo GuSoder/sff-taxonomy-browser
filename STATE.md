@@ -2742,3 +2742,6 @@ Wheel of Infinite2000standalone,2024revision notextra. Detective fantasy9to10, o
 
 ## Palace world corpus/root correction,24November2026
 Frozen Detective fantasy audit revealed one-book Palace card omitted creator-bound Horn SF trilogy and three Palace sequels. Seven included novels now one Palace of Dreams world card in existing Hidden lander romance. Human colony origins/AI/genetic copying/secret engineering positively sourced. Bloodmagic wording retained as a caveat, no demonstrated non-psi effect in sources read. Detective fantasy10to9 cancels split; Hidden lander5to6.937/3010/7559. No new node/definition/coverbytes. Deploy/liveQA pending; no next intake until checked.
+
+## MC06512,24November2026
+Today I Am Carey2019standalone,queue2018corrected. Being robot7to8, embodied narrator selfhood across eightyyears. Robotrelations/Androids strongest rivals audited.937/3011/7560. No newstructure/definition. MC06505through11 format exclusions recorded. Deploy/liveQA pending.
