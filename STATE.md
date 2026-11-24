@@ -2706,3 +2706,6 @@ Wild Side and Transhuman are edited anthologies, excluded. Academy of Kindness o
 
 ## MC06458-64+69-73,24November2026
 Broken Empire and Abeth one connected15novel fiction2011-2022in Hard time travel6to7. Includes off-queue Impossible Times2019. Corrected queue paperback years to originals.937nodes/2999fictions/7516books. No structure/definition edits.15English fronts pixel-checked, hotlinked only. Deploy/liveQA pending.
+
+## MC06465-68,24November2026
+The Library one connected4novel fiction2023-2026in Time crossroads2to3. Includes Bookshop Book2026. Original-format years verified.937nodes/3000fictions/7520books. Temporal precedence resolved from original context before mutation; initial Fabulation rival rejected. No structure/definition edits.4English fronts pixel-checked, hotlinked only. Deploy/liveQA pending.

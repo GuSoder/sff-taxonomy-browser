@@ -1,0 +1,78 @@
+# The Library connected fiction, 24 November 2026
+
+## Decision
+One fiction, The Library, four published novels, in Time crossroads, taking that leaf from two to three. No repository definition or structural change. Strong corpus confidence and moderate fine-leaf confidence. An initial Textual trespass candidate was withdrawn before mutation after recovering the full contextual temporal rule. The positive shared concept is the Library and its Exchange, an inter-era repository and hub whose custodians and disputed purpose govern the fiction.
+
+## Corpus and original publication
+- The Book That Wouldn't Burn, 2023. PRH lists original ebook 9 May 2023 beside paperback 5 March 2024.
+- The Book That Broke the World, 2024. Original ebook/audio 9 April 2024 beside paperback 4 March 2025.
+- The Book That Held Her Heart, 2025. Original hardcover/ebook 8 April 2025 beside paperback 10 March 2026.
+- The Bookshop Book, 2026. Published 20 October 2026, 224-page novel. Primary publisher places it explicitly in the Library world. It is not a nonfiction books-about-books entry and not a novella merely because shorter than the trilogy.
+
+All four have Mark Lawrence as author. The queue's later trilogy years are paperback editions, not original release years. No omnibus, short story, short-story collection or future volume added.
+
+Creator interview of 2023 explicitly says Library has no connection to his other work. Its capacity to contain all realities and its playful epigraphs do not authenticate a shared continuity with every story mentioned. A November 2026 Grimdark Magazine Bookshop reviewer describes tangential Broken Empire connections, but cites Easter eggs rather than a creator reversal or a new continuity revelation. Preserve that conflict, do not silently merge the fifteen connected earlier novels. The 2026 Reddit AMA result claims author identity, but that account's authorship was not independently authenticated; it is not needed as authority or decisive continuity evidence. Primary publisher and creator interview independently cover the relevant corpus.
+
+## Four-novel reading evidence
+The first novel follows Livira, a refugee who becomes a librarian, and Evar, confined with his adopted siblings in a chamber of the immense Library. The Mechanism immerses people in books; the Exchange crosses places and eras. Their apparently shared situation hides a separation in time and species. Livira writes a book that survives the Library's conflagration; its interventions and the search for one another govern the following books. Finished GDM and SFcrowsnest reviews were read, alongside the later volumes' recaps of this ending. SFcrowsnest expressly leaves the technology-versus-magic question open at volume one. That uncertainty cannot settle the completed fiction alone.
+
+The second novel separates Livira from Evar and follows Arpix and the refugee party, alongside Celcha and Hellet in an earlier age. Species persecution and the rival positions on whether the Library should preserve or withhold accumulated knowledge cause violence across centuries. Livira must enter her own writing to recover her book. The climax disperses the principal cast through the Library's temporal/world pathways. Fantasy Hive's finished review explains the first-book revelation, the Exchange, ghostly past visits, future displacement and the interwoven causal plots.
+
+The third novel sends Livira's group into the distant past, Evar's into the Vaults beneath the Library, and Yute and Kerrol into 1930s Germany, where Anne's bookshop and persecution become part of the resolution, not merely epigraph references to Earth. The Library conflict is between preserving all knowledge, destroying the Library to break humanity's repeated self-destruction, and finding a less centralized alternative. Livira's paradoxical book contains realities of its own; its movement through history injures the Library and its written contents become lived places. The book can rupture reality and its conclusion intertwines the scattered groups, an argument about knowledge and the lovers' eventual reunion. Pixelated Geek provides explicit mechanism/ending evidence; Fantasy Hive, Fantasy Literature and Critiquing Chemist provide independent completed accounts. Eyrie's negative review was also read, so enthusiasm is not being substituted for plot evidence. The final work is still an adventure, but its written reality is literal rather than a metaphor for reading.
+
+The fourth novel follows fourteen-year-old Red Archer in an English bookshop and Rose Penrose fleeing between literary worlds. Rose is not simply a girl teleported into a book: the Cornell completed review explains that her grieving mother wrote her into existence after a daughter's murder. The pursuer and bookworm follow through the layers of written reality. Rose and Red encounter worlds from Great Expectations, The Wind in the Willows, Wonderland and Oz. The story explicitly makes every book a world and every world part of a book; characters acknowledge that recursion. FanFiAddict, Fantasy Literature, SFF Insiders and Cornell independently cover the completed novel and its ties to Library figures. Cornell mistakenly dates the original trilogy 2024-2026; that bibliographic error is rejected in favor of publisher original-format dates. Its specific first-hand account of the recursive mechanism is corroborated by the other reviews' authored-girl/book-world account. A generic automated plot-summary search result was not used to supply the ending.
+
+## Root-down walk
+Speculative fiction: literal impossible book worlds, authored people and lived text, not nonfiction or realist ambiguity.
+
+Science fiction versus Fantasy: the owner's original September 27 messages, including phonemsg-01M3HVHZ8ZBEX0Y2C9DNTS6W6K, phonemsg-01M3HW2V6S28RFJTTXA59557BM and phonemsg-01M3HW9WCZ4QDHEJT75TK5M314, identify fiction made real as Books in books fabulation and reject a requirement for scientific explanation, magic or a special literary posture. Rose's authored existence, recursive book-world ontology and Livira's reality-bearing text are that case. This is not an inference that all fantasy libraries are SF, nor a claim that Lawrence's profession proves the Library technological. His own fantasy marketing and the first review's android analogy are insufficient by themselves. The positive root mechanism is authored reality, which the owner's rule admits through Fabulation even for invented settings.
+
+Science fiction > Atemporal SF > Time travel fiction: actual crossings between eras occur in the included novels. The complete original September 23 exchange was recovered: the agent had asked whether time-machine books follow their era or Time travel fiction, and owner phonemsg-01M36KSYMPH311TW0XPC53GP9Z answered Atemporal. His follow-up phonemsg-01M36M8K4DB3B8Y8T1GAQ6ARF0 broadened it to any SF temporal element. Thus the contextual original supports the explicit lower Time travel fiction direction in the live gate. Initial concern that the original governed only the umbrella is resolved against that narrower reading. September 29's reality-revision Fabulation ruling does not explicitly exempt an actual traveler crossing eras. The Library has genuine within-history time travel, not just book settings with different dates. Its metaphysical surface does not erase that after the authored-reality root admission. Historical, Modern and Futurist cannot contain the chronology; other Atemporal children remain rivals but temporal precedence selects Time travel fiction.
+
+Time travel fiction > Time crossroads: the Library and Exchange connect eras, shelter people separated by centuries and provide a shared meeting ground beyond any one era. Geraldine Pinch's completed trilogy retrospective explicitly identifies the Exchange as the place people of different eras meet, distinguishes it from the Mechanism, and describes its pool entrances, its temporal rules and the guiding/custodial figures. The author confirms its Wood Between the Worlds influence. The main trilogy's struggle is over whether to preserve, destroy or reform this central repository and its control of knowledge. That is a hub and keeper engine, not one portal used for an unrelated mission. The Bookshop Book extends the same Library's custodians and book-world circuitry; the whole-fiction rule allows the famous common Library concept without demanding all four plots have the identical itinerary.
+
+Serious temporal rivals: Time machines requires a built temporal apparatus and its owner. The Library contains a box-like Mechanism for book immersion and suspended experience, but finished reviews separately identify the Exchange as the inter-era hub. A building said to be founded by Irad is not by itself evidence that all temporal passages are built machines. No source read establishes a professional agency's temporal apparatus as the whole-fiction engine. Time door captures the standing entrances but not the shared hub, its keepers and its conflict, so Time crossroads is more specific to what the story is about. Hard time travel requires a developed physical mechanism, not merely the well-explained ghost/future rules of this metaphysical space. Timeslips requires an uncontrolled event rather than accessible chosen pathways. Mind over time is not the explanation for the bodily arrivals and visits; Time travel disorders and Time tonics have no medical/substance cause. Ancestral travel is not organized by kinship; loops do not govern the whole fiction; time distortion is not the traveler's relative-rate engine. No leaf is stretched to avoid a cap.
+
+## Fabulation rival, initially proposed then withdrawn
+Fabulation > Books in books > Textual trespass has strong positive evidence: actual texts within the story, Livira's reality-bearing book, Rose's authored existence and her crossing through recognizable literary works. Written worlds and Scripted books in books are also meaningful readings. Nevertheless the full original contextual time rule and the live Time travel fiction gate take priority once actual SF-side temporal crossings are established. The initial thematic preference was not shipped as an exception. No definition was changed to make the preferred result work, and no new global precedence rule was invented. This records why the most tempting alternate path was rejected rather than deleting the conflicting evidence.
+
+## Fantasy-side rival walk
+If read as independent magical worlds, Fantasy > Portal fantasy passes now because final-volume Germany and Bookshop's England are actual Earth, not inferred from familiar species. Fantasy realms alone cannot describe the included Earth exchange. Portal children split by crossing mechanism. Transporting tomes is the strongest rival because texts carry crossings, and its seven current fictions include The Starless Sea. The Library's books, however, literally constitute nested worlds and people, unlike merely leading to an independently existing magic destination. Owner's specific authored-reality ruling selects Fabulation before this fork. Anchored adult thresholds also fit portions, leading toward Quest thresholds and its realm-saving or personal quests, but no one standing door governs the four books. Fantasy rifts > Multiverse > Gateway > Worldhopper describes their roaming, yet ignores the more specific textual structure. Mirror multiverse's counterparts occur, but are not the sole or main whole-fiction stage. No new genre is needed.
+
+## Covers and verification
+Four publisher-front URLs came directly from the corresponding PRH pages. Labelled contact sheet actual pixels inspected 24 November 2026: all show matching English title, Mark Lawrence, distinct full fronts, no spines, box sets or interiors. Hotlinks only; no cover bytes in repository. Source contact sheet and images remain outside the repository. Live visual verification follows deployment, not inferred from source images.
+
+## Sources read
+Primary corpus, dates and cover fronts:
+https://www.penguinrandomhouse.com/series/FQ7/the-library-trilogy/
+https://www.penguinrandomhouse.com/books/690434/the-book-that-wouldnt-burn-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/690442/the-book-that-broke-the-world-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/690453/the-book-that-held-her-heart-by-mark-lawrence/
+https://www.penguinrandomhouse.com/books/815801/the-bookshop-book-by-mark-lawrence/
+
+Creator interviews:
+https://www.grimdarkmagazine.com/an-interview-with-mark-lawrence-2023/
+https://fantasy-hive.co.uk/2023/05/interview-with-mark-lawrence-the-book-that-wouldnt-burn/
+https://www.collectiblebookvault.com/post/author-interview-mark-lawrence
+
+Completed critical accounts:
+https://www.grimdarkmagazine.com/review-the-book-that-wouldnt-burn-by-mark-lawrence/
+https://sfcrowsnest.info/the-book-that-wouldnt-burn-the-library-trilogy-book-1-by-mark-lawrence-book-review/
+https://fantasy-hive.co.uk/2024/04/the-book-that-broke-the-world-by-mark-lawrence-book-review/
+https://www.grimdarkmagazine.com/review-the-book-that-held-her-heart-by-mark-lawrence/
+https://pixelatedgeek.com/2025/05/review-the-book-that-held-her-heart-the-library-trilogy-3/
+https://fantasy-hive.co.uk/2025/03/the-book-that-held-her-heart-by-mark-lawrence-book-review/
+https://fantasyliterature.com/reviews/the-book-that-held-her-heart/
+https://www.eyrie.org/~eagle/reviews/books/0-593-43799-3.html
+https://critiquingchemist.com/2025/12/24/the-book-that-held-her-heart-by-mark-lawrence/
+https://www.grimdarkmagazine.com/review-the-bookshop-book-by-mark-lawrence/
+https://fanfiaddict.com/review-the-bookshop-book-by-mark-lawrence/
+https://fantasyliterature.com/reviews/the-bookshop-book/
+https://www.sffinsiders.com/blog/review-the-bookshop-book-by-mark-lawrence
+https://www.cornellsun.com/article/2026/10/references-and-recursions-mark-lawrence-s-the-bookshop-book
+https://geraldinepinch.co.uk/fantasy-reads-the-book-that-wouldnt-burn/
+https://dearauthor.com/book-reviews/overall-b-reviews/b-minus-reviews/review-the-book-that-wouldnt-burn-by-mark-lawrence/
+https://fantasy-hive.co.uk/2023/05/the-book-that-wouldnt-burn-by-mark-lawrence-book-review-2/
+https://thenamelesszine.org/Books-2024/Book_That_Broke_The_World.php
+
+No unauthorized full-book mirror used. No claimed Reddit identity relied on. No new genre, gate change or structural exception executed.
