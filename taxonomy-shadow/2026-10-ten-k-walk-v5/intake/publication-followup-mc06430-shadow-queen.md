@@ -1,0 +1,1 @@
+The Shadow Queen, MC06430. Confirm current publication on or after1December2026 using Hachette US/UK and creator. One series with existing Kingdom of Oak and Steel. Not marked done, not counted before publication. Sources and full root-down walk in walk-mc06429-30-kingdom-of-oak-and-steel.md. Recheck whole-fiction placement when adding.

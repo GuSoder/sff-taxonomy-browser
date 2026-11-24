@@ -2667,3 +2667,6 @@ MC06418-21one whole4novel fiction1995/1997/2000/2003, Fantasy after Disaster5->6
 
 ## Hunter Kiss,24November2026
 MC06422-28one5novel fiction2008-2014, Time door2->3. Root-specific author demystification aliens/genetic engineering/quantum roads, includednovel time travel. Accessarmor vs standing passage distinction/moderateconfidence explicit.2011Mortal Bone creator date, shorts excluded.933/2990/7444. DragonQuartet live45342078629success actual desktop/mobile4fronts verified. HunterKiss deploy/live QA pending.
+
+## Kingdom of Oak and Steel,24November2026
+MC06429one published2025novel, Detective fantasy8->9. Actual occult case, invented world and official investigator. Shadow Queen MC06430not counted, verified1December2026future release, publication follow-up retained.933/2991/7445. HunterKiss125a45345343414090success actual desktop/mobile five fronts verified. Kingdom deploy/live QA pending.
