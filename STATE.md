@@ -2766,3 +2766,6 @@ The Book of Gothel2022 standalone to existing Occult cabals8to9. Literal folk ma
 
 ## MC06523,24November2026
 Ghost Talkers2016 standalone to existing Occult cabals9to10. Literal spirits in a covert WWI intelligence service. WWI period and Untold magic rivals audited. Occult cabals9to10. Intake frozen; split research initiated.937/3016/7566. No structural or definition change. Deploy/liveQA pending.
+
+## Enoch Root shared-fiction corpus repair,24November2026
+Creator-bound Baroque3/Cryptonomicon/Fall plus REAMDE now one six-novel fiction in existing Copied minds. Occult cabals10to9 cancels its split trigger; Crypto thriller loses one card, Copied minds9unchanged.937/3014/7567. Owner whole-fiction/defining-subset instructions applied; simulation explanation deliberately ambiguous, not invented demystification. Two inherited cover gallery pages corrected to actual observed image sources. No structure or definition changes. Deploy/liveQA pending; no further mutation until checked.
