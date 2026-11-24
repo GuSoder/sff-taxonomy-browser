@@ -2688,3 +2688,6 @@ MC06444-45onefour-novel fiction2009/2010/2011/2012, Borderland multiverse fantas
 
 ## Dying Earth fantasy approved seed, 24 November 2026
 Approval phonemsg-01M86HT00TX8J9A8EDS8PG7WSG on proposal phonemsg-01M86D789ST7WBV4WQ5RDJNQT7, explicit shallow exception. One connected Geston fiction, Lords of the Starship1967 and Out of the Mouth of the Dragon1969. No existing moves/renames, no reciprocal Post-apocalyptic override. SF Dying earth unchanged. Future child-list summary alone extended. New full-resolution1024x1536 portrait, English publisher fronts hotlinked only.937nodes/2995fictions/7454books. MC06446 remains partial until standalone Siege1976 walk complete. Deployment/live QA pending.
+
+## MC06446 Siege independent walk, 24 November 2026
+Standalone Siege of Wonder1976 placed Borderland8to9.937nodes/2996fictions/7455books. Existing leaf, no definition change. Earth/actualMagic primary-grounded; dimensional geography moderate from source convergence, NYT physical border caveat preserved. Publisher front pixel-inspected and hotlinked. MC06446complete: connected1967/1969pair plus separate1976novel, not one omnibus fiction. DayStar excluded. Deploy/liveQA pending.
