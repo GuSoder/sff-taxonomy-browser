@@ -2787,3 +2787,6 @@ Whole six-novel Davidson/Alongi fiction in Contemporary dragons2to3, dates2005/0
 
 ## Operation Bounce House MC06545,24November2026
 Whole2026standalone to Breakaway space colonies8to9. Actual endingAIrestraint and colony concert checked, rootFuturist/Spacefaring/Spacecolonies/Politics, no merge toDCC or LitRPG error. MC06539-42short illustrated earlychapter format; MC06543-44realistic sports cross-offs included.937nodes/3018fictions/7583books. No structural gate. Deployment and desktop/mobileQA pending before next mutation.
+
+## The Lovely Dark MC06559,24November2026
+Whole2023novel to Afterreal edges4to5. Coma/hospital ending corroborated, not jacket-only Worldsreading. Greek/portal/ghost/Fabulation rivals checked. MC06546-58novelization/novella/omnibus/short/collection cross-offs included.937nodes/3019fictions/7584books. No structural gate. Deployment and desktop/mobileQA pending before next mutation.
