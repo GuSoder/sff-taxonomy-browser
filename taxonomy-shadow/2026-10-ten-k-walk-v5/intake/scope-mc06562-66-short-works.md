@@ -1,0 +1,8 @@
+# MC06562-66 scope cross-offs,24November2026
+No new fiction for these entries. Existing scope excludes short works/novellas; self-contained ebooks do not make novels.
+- MC06562 Now We Paint Worlds2021: publisher explicitly short story32pages, not the preparatory memo's unsupported novella label. https://torpublishinggroup.com/now-we-paint-worlds/?format=ebook&isbn=9781250823427
+- MC06563 The Last Novelist2017: publisher32pages/sciencefictionstory; ISFDB SHORTFICTION shortstory. https://torpublishinggroup.com/the-last-novelist-or-a-dead-lizard-in-the-yard/?format=ebook&isbn=9780765395696 https://www.isfdb.org/cgi-bin/title.cgi?2163696=
+- MC06564 The Rainseekers2026: author launch17February2026explicitlynovella, publisherbioalsoMarsnovella160pages. Published but excludedform, not unpublished hold. https://matthewkressel.substack.com/p/the-rainseekers-launches-today https://torpublishinggroup.com/the-rainseekers/?format=trade&isbn=9781250392435
+- MC06565 Everything's Fine2020: ISFDB SHORTFICTION shortstory4735words, publisher2020shortfictionroundup includesit. https://www.isfdb.org/cgi-bin/title.cgi?2758710= https://reactormag.com/tor-com-original-short-fiction-2020/
+- MC06566 Beauty Belongs to the Flowers2011: ISFDB SHORTFICTION novelette, authorexplicitstory, publisherTor.ComOriginal. https://www.isfdb.org/cgi-bin/title.cgi?1388677= https://www.matthewsanbornsmith.com/beauty-belongs-to-the-flowers/ https://torpublishinggroup.com/beauty-belongs-to-the-flowers/
+All citedpagesfetched24November2026. No unauthorizedstorymirrorused. MC06567ActsOfCaine opensfourbookfiction; followingMC06568/MC06576/MC06577covered, not separatecards.

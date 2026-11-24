@@ -1,0 +1,69 @@
+# The Acts of Caine whole-fiction walk
+24 November 2026
+
+## Verdict and scope
+One four-novel fiction to existing Mirror multiverse fantasy9to10. Freeze intake immediately for required ten-member audit and split proposal. No eleventh placement. Four original novels: Heroes Die1998, Blade of Tyshalle2001, Caine Black Knife2008, Caine's Law2012. Publisher's series listing, SFE and ISFDB agree. Matthew Stover and Matthew Woodring Stover are one author, not two fictions. Queue MC06567/06568/06576/06577 all covered by this fiction. The projected Act of Faith Trilogy, comic, possible further stories and unrelated Barra/StarWars/GodOfWar books are not imported. In the Sorrows is excluded short fiction. Several reviews say Heroes Die1997, but original edition ISFDB1998, SFE1998 and publisher copyright-era evidence prevail; do not copy review error or use1999paperback. Blade2008currentebook is not its2001original. Caine's Law2012, not the2013UKdigital reissue.
+
+## Whole narratives and root evidence
+Future Earth is a corporate caste dictatorship. Hari Michaelson plays Caine, a star Actor physically transferred into Overworld for violent adventures whose sensory experience is transmitted to Earth. The audience's experience is mediated/virtual, not Overworld itself: real people die there and real sorcery changes the two worlds. Creator2013 explicitly says the fantasy worlds are parallel dimensions of Earth; the books are dual-world SF/fantasy hybrids comparable to Apprentice Adept. Finished reader accounts corroborate same-place/different-phase Earths, not merely a door to an unrelated invented cosmos. Original2001interview acknowledges a multitude of realities. No claim that literary allusions share universes with their source books.
+
+Heroes Die: rescuing Shanna/Pallas Ril from Ma'elKoth intersects studio demands for assassination and ratings, turning the action star against rulers on both sides. Blade of Tyshalle: Hari's crippled retirement and family crisis grow into Earth's exploitation of Overworld, plague and confrontation with gods. Completed series and CaineBlackKnife reviews confirm a recreated Overworld, Ma'elKoth's ascension and severed main connection after its ending. Caine Black Knife alternates the old Boedecken adventure that made Caine famous with his return to find adopted ogrillo brother Orbek and the consequences of the slaughter. This is not a separate younger-Caine fiction or a complete trilogy ending; its cliffhanger resolves in Caine's Law. Final novel uses actual altered realities and time, not just ordinary flashback order: the horse-witch remembers events that have unhappened; versions of Caine meet the consequences of their choices, family and gods across rewritten histories. Publisher, creator, Kirkus, SFFWorld and completed Wertzone/Neth reviews agree on temporal/reality alteration even while reviewers find the sequence confusing. Creator says the last two were planned as one work but became two novels. Neither one generic assassin story nor four simulated videogames adequately describes the whole.
+
+## Actual tree root-down walk
+Speculative fiction passes other-dimensional Earth and magic.
+Fantasy over Science fiction: real magic, divine ascension, recreation of the world, horse-witch and altered realities survive the whole ending. Scientific transfer/thoughtmitters and future caste Earth are substantial, but no source establishes all magic as illusion or scientific explanation. SF Cyberpunk/Neural fiction/Metaverse/totalitarian rebellion describe the Earth framing and audience technology, not physical magical Overworld. Time travel in final novel does not negate this root.
+Fantasy children: Portal fantasy passes genuine Earth included and repeated consequential exchange with its parallel Earth, including exploitation, rescue, return and severing connections. Fantasy realms > Grimdark/Sword and Sorcery captures violence and many Overworld scenes but fails invented-universe-only ancestor; actual future Earth is not an optional marketing conceit. Real earth fantasy > Future fantasy is a serious rival for future Earth frame but does not organize the sustained dual-world exchange. Its Postapocalyptic/Endtimes/Vampire/Psi/Space/DyingEarth children fail as whole: no rebuilding after magic apocalypse as governing experience, no Christian endtimes/vampire social order/psi substitute, no spacefaring civilization, no terminal deep-time sun. Historical and Contemporary fail futureEarth. Caine's time alteration matters within the portal cosmology; no new AtemporalFantasy branch invented, nor an SF time-travel placement for literalFantasy.
+Portal children: Whimsical doors fails adult/brutal tone and no central anchored doorway. Eldritch doors/Uncanny thresholds/Quest thresholds are serious rescue/adventure rivals, but their anchored physical threshold is not demonstrated as the governing route: actors are transported by changing their dimensional phase and re-materializing, not stepping through a standing wall-door/archway. A studio's machinery or a transfer room is not automatically a threshold. No text/book/map does the transporting, so Transporting tomes fails. Fantasy rifts passes opened channels between worlds, including technological access to an actual magical counterpart; approved node does not demand the machinery be magical.
+Fantasy rifts children: World bleeds fails because people physically travel. Planetary portal fails because the destination is a parallel Earth, not another physical planet in the same universe. Otherworld fantasy is a serious two-world rival, but its one hidden mythic world is weaker than explicit parallel-Earth phase cosmology, future technicEarth/magicalEarth contrast, and later alternate realities. Its summoning/stumbling/wainscot children also do not fit the deliberate studio transfers. No summoner calls Hari from Overworld, no accidental slip launches the premise, no mere hidden adjacency without crossing.
+Multiverse fantasy passes the system of parallel Earth realities. Two explored worlds can form this system: existing Apprentice Adept and The Dark World establish that counterpart relation, not an invented minimum of three destinations, governs. Mirror multiverse fantasy wins because worlds are versions of Earth in the same place/different phase, their technological/magical difference and the travelling persona are the premise. Caine's Law further turns on versions of lives and altered timelines. Do not claim every resident has a demonstrated double. Gateway multiverse is rival but its distinct joined realms lack this counterpart relationship. Its Borderland would fit a home-tethered exploitative crossing if the worlds were distinct; Worldhopper fails because the cast does not primarily roam destination after destination. The creator explicitly compares his dual world form with Apprentice Adept, already in Mirror, supporting rather than merely guessing the relation.
+
+## Wobble
+No book is forced to be only a multiverse story. Critics often emphasize grimdark, violence, addiction, media ethics and personal rescue. Caine itself is a played persona, not simply a discovered biological double. Mirror's fit is the explicit worlds-as-counterpart-Earth relation and alternate reality outcomes, not a false assertion that Caine/Hari are independent twin people. The final novel is complex and reader interpretations of its exact timeline disagree; no detailed speculative chronology is promoted to fact. Sources suffice for physical crossing, actual magic and parallel worlds. No definition widened. Ten-member audit must check both ancestor eligibility and within-leaf fit before inventing a split axis.
+
+## Covers
+Four exact official publisher hotlinks, English flat fronts pixel-inspected24November2026,270x450/260x450/298x450/301x450. Correct titles/author, no audio/omnibus mark. Hotlinked only, no cover bytes committed. Publisher URLs observed on fetched series and Blade product pages, not assembled:
+https://images2.penguinrandomhouse.com/cover/9780345421456
+https://images4.penguinrandomhouse.com/cover/9780345516398
+https://images4.penguinrandomhouse.com/cover/9780345455871
+https://images4.penguinrandomhouse.com/cover/9780345532541
+
+## Sources
+Primary publisher current four-book series, actualmagic and dualworld arcs:
+https://www.penguinrandomhouse.com/series/D8J/the-acts-of-caine/
+Primary creator2013interview, parallel dimensions of Earth, direct ApprenticeAdept comparison, changing narrative genres, finaltime-travel book:
+https://fantasy-faction.com/2013/matthew-stover-interview
+Primary creator2012interview, actual/metaphoric gods, lasttwooriginallyonework, unpublishedpossibleActOfFaithtrilogy:
+https://roqoodepot.wordpress.com/interviews/matthew-stover-on-caines-law/
+Primary creator2001interview, titlehistory and multitude of realities:
+https://fantasticmetropolis.com/i/stover/
+SFE bibliography updated12October2026, four original novels:
+https://sf-encyclopedia.com/entry/stover_matthew
+ISFDB bibliography/authoralias and original publicationdates:
+https://isfdb.org/cgi-bin/ea.cgi?119296=
+https://www.isfdb.org/cgi-bin/title.cgi?12555=
+https://www.isfdb.org/cgi-bin/title.cgi?22033=
+https://www.isfdb.org/cgi-bin/pl.cgi?377581=
+Publisher current product/cover pages,1999/2008reprintdates not originaldates:
+https://www.penguinrandomhouse.com/books/174355/heroes-die-by-matthew-woodring-stover/
+https://www.penguinrandomhouse.com/books/174354/blade-of-tyshalle-by-matthew-stover/
+Completed whole-series2018review updated2025, changing four-book arcs and actualvsvirtual distinction:
+https://www.grimdarkmagazine.com/review-acts-of-caine-matthew-stover/
+Completed independent CaineBlackKnife2008review, Overworld recreated/severedconnection andactualdualpast/presentarc:
+https://www.sffworld.com/2008/10/bookreview488/
+Completed finalnovel2012review, actualchangingtimelines/horsewitch andregret:
+https://www.sffworld.com/2012/04/bookreview833/
+Kirkus2012completedfinalnovelreview, godichor/horsewitch/rememberingunhappenedevents:
+https://www.kirkusreviews.com/book-reviews/matthew-stover/caines-law/
+Completed Wertzone2013review, time travel and alternate timelines, closure:
+https://thewertzone.blogspot.com/2013/09/caines-law-by-matthew-woodring-stover.html
+Community completed Neth2014finalnovelreview, wholepersonalrescuearcsandfinalclosure:
+http://nethspace.blogspot.com/2014/03/review-caines-law-by-matthew-stover.html
+Completed originalnovelcritics, humantransferandmagicnotjustVR:
+https://www.sfsite.com/01b/hero49.htm
+https://www.publishersweekly.com/978-0-345-42104-3
+https://sfreader.com/r/book-review/fantasy/heroes-die-by-matthew-woodring-stover/
+https://fantasybookcritic.blogspot.com/2008/10/heroes-die-by-matthew-stover-reviewed.html
+Community finishedreaderaccounts, parallelEarthresonanceandalternatephaseworlds:
+https://www.goodreads.com/book/show/311864.Heroes_Die
+
+Authority originals inspected24November2026: phonemsg-01M43MYMGAMQTNA3CY402KK7FB normalintake/tenfictionfreeze; phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX individual/sharedfictionjudgment; phonemsg-01M6XKB91QD65FFYNC4FDMM2H4 wholefictiongenre-first/definingconcept rule. No structure authorized by this placement.
