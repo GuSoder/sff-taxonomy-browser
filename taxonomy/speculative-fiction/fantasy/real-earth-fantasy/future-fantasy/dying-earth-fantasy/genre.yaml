@@ -1,0 +1,28 @@
+id: dying-earth-fantasy
+label: Dying Earth fantasy
+parent: future-fantasy
+children: []
+image: 988-dying-earth-fantasy.webp
+definition: Future fantasy on a terminal, deep-time Earth, where world-weariness, the exhaustion of the world and its remnant
+  civilizations govern the fiction, and genuine magic, gods or supernatural agency remain real. Ancient civilizations and
+  lost machines may lie behind the present, but the positive subject is the world's immense age and final decline, not merely
+  an unexplained disaster. Not SF Dying earth when its wonders are technological or genuinely ambiguous; not End-times fantasy's
+  biblical apocalypse, Vampire future's future-city vampire return, Psionic fantasy's psychic order or Space fantasy's sustained
+  spacefaring civilization. Recurring Earth-to-otherworld crossings belong to Portal fantasy when that exchange governs the
+  whole fiction.
+status: accepted
+works:
+- lords-of-the-starship
+approval:
+  proposal: phonemsg-01M86D789ST7WBV4WQ5RDJNQT7
+  approval: phonemsg-01M86HT00TX8J9A8EDS8PG7WSG
+  date: '2026-11-24'
+  scope: Explicit shallow exception under Future fantasy. One connected Geston pair, two novels. No existing moves/renames;
+    no reciprocal definition override. Future child-list summary addition only.
+portrait:
+  dimensions:
+  - 1024
+  - 1536
+  selection: Original beautiful digital artwork selected after actual pixel inspection; terminal red sun, remnant civilizations
+    and visible supernatural agency.
+  qa: Master and served WebP inspected at full1024x1536, no text or bows.

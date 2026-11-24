@@ -2685,3 +2685,6 @@ MC06443 alreadypresent Unmoored selves7; retained after fullwhole-novelcompare. 
 
 ## Legends of the Red Sun24November2026
 MC06444-45onefour-novel fiction2009/2010/2011/2012, Borderland multiverse fantasy7->8. Whole dimensionalborder/invasion/refugeesettlementengine; literalmagicFantasy, farfutureEarthmoderate. TheReefexcludedagainstsecondaryinferencebyexplicitcreatornoconnection. TentativeDyingEarthseedwithdrawn beforemutation afterdeeperpositivewalk, noshallowexception/gatechange. Fourpublisherfrontsactualpixelsinspectedhotlinksonly.936/2994/7452. Deploy/liveQApending.
+
+## Dying Earth fantasy approved seed, 24 November 2026
+Approval phonemsg-01M86HT00TX8J9A8EDS8PG7WSG on proposal phonemsg-01M86D789ST7WBV4WQ5RDJNQT7, explicit shallow exception. One connected Geston fiction, Lords of the Starship1967 and Out of the Mouth of the Dragon1969. No existing moves/renames, no reciprocal Post-apocalyptic override. SF Dying earth unchanged. Future child-list summary alone extended. New full-resolution1024x1536 portrait, English publisher fronts hotlinked only.937nodes/2995fictions/7454books. MC06446 remains partial until standalone Siege1976 walk complete. Deployment/live QA pending.
