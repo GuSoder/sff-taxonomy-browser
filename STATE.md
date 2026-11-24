@@ -2649,3 +2649,6 @@ Prior Time agency split deployment45335013424was successful and live desktop/mob
 
 ## Firebrand intake,24November2026
 The Firebrand1987, separate from Avalon absent a narrative bridge, placed Greek hero fantasy7->8. Whole-ending sources, original edition and three front options checked. Hotlink front only.933nodes/2985fictions/7432books. Avalon deployment45337338661success and desktop/mobile/scrolled addition pixels plus16loaded fronts verified07:04. Firebrand deployment/live QA pending.
+
+## Beyond Enemies,24November2026
+MC06412 one standalone2024novel placed Space techno fiction9->10. Intake frozen immediately for split preparation. Ground-pounders infantry ancestor prevents tank/engineered-soldier shortcut; legal clone and neural-load mechanisms checked. No structural changes.933nodes/2986fictions/7433books. Deploy/live QA pending.
