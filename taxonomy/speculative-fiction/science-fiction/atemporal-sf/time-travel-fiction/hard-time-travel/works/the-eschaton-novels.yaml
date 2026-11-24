@@ -1,0 +1,136 @@
+id: the-eschaton-novels
+title: The Eschaton novels
+authors:
+- Charles Stross
+first_published: 2003
+canonical_genre: hard-time-travel
+placement_status: accepted
+placement_rationale: '# Eschaton split-participant ancestor correction,24November2026
+
+
+  ## Decision
+
+  Move The Eschaton novels, one fiction/two existing novels, Space techno fiction10->9 to Hard time travel5->6. Split trigger
+  cancelled, no new genre or definition. Books,years,authors,fronts and ID unchanged. This is the direct participant rewalk
+  required before a split, not a sweep of unrelated fiction.
+
+
+  ## Evidence that changes the old walk
+
+  The old placement described scattering humanity across space but omitted that it is also millennia into the past. Strange
+  Horizons and NESFA both explicitly describe that founding act. More importantly this is not solely backstory or a hypothetical
+  consequence of FTL: Singularity Sky''s fleet carries out a closed-timelike itinerary thousands of years forward and back
+  toward the Festival''s arrival, with Martin''s small drive-calculation offset preventing a wider forbidden causal intervention.
+  Infinity Plus describes the forward/backward fleet mechanism and its consequences; complete plot account identifies the4000yearjump.
+  LFS independent completed review describes the deliberate past-directed military intervention. The Eschaton''s ban on rival
+  causality violations does not mean time travel is absent. Iron Sunrise continues this world''s causal constraints and its
+  star-killing device is explicitly called an illegal causality violation in Stross''s own FAQ. No novella is needed to reach
+  the temporal result.
+
+
+  Owner original phonemsg-01M36M8K4DB3B8Y8T1GAQ6ARF0 directly recovered24November: SF-side time travel sorts Atemporal, including
+  any such element. Included-book refinement phonemsg-01M850W64E1MFDAN0BQD84RRP9 directly recovered: excluded novellas cannot
+  determine included novels'' temporal placement. Here the travel is in the two included novels, so the exception does not
+  save Futurist. Individual-fiction discretion phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX covers the move, no structural action claimed.
+
+
+  ## Whole-fiction scope
+
+  Current author FAQ, updated7October2025and inspected24November2026, lists exactly two Eschaton novels and says no further
+  books because of internal consistency issues. Keep Singularity Sky2003and Iron Sunrise2004. Timelike Diplomacy is their
+  omnibus, not a third novel. Accelerando and Glasshouse are independent novels, not this world. FAQ prose/dates support existing
+  metadata; Wikipedia introductory sequel-year error is not adopted. No scope/cover change needed. Original author2013crib
+  states these are consciously space opera; that marketing description cannot override the owner''s temporal gate.
+
+
+  ## Root-down walk
+
+  Speculative fiction > Science fiction: nanotechnology, AI, engineered organisms and explicitly calculated drives, not literal
+  divine/magical agency. Fantasy-looking Festival gifts and Russian-folklore forms are technological fabrication. Science
+  fiction > Atemporal SF > Time travel fiction: actual forward/backward travel and causal intervention in included novels
+  defeat Historical/Modern/Futurist, even though the setting reads interstellar future. Parallel-world fiction fails alternate
+  histories as organizing mechanism; Science fantasy fails fantasy surface as the governing whole, and the same time gate
+  still has priority. Fabulation fails arbitrary textual or psychologically unstable reality: the clocks/drives and causal
+  rules are explicit technical plot conditions.
+
+
+  Time travel fiction > Hard time travel: relativity, lightcones, closed timelike paths, calculated space-time trajectories
+  and constrained causal intervention are central, and the campaign''s physical route and covert tiny offset make the difference
+  between prohibited and permissible history. Iron Sunrise''s causal weapon and Eschaton enforcement retain the same physical
+  stakes. This is speculative SF physics, not a claim its quantum communications are actually correct science; reviewers identify
+  handwaving. Hard is the mechanism-centered narrative gate, not certified real physics. Confidence moderate at this fine
+  leaf, high at Atemporal.
+
+
+  Time machines/Time travel agency is the strongest alternative: the New Republic owns the fleet''s built drives and the protagonist
+  works under institutions. However the whole fiction is not an institution owning a dedicated temporal apparatus and dispatching
+  agents into eras. General interstellar drives, Eschaton''s own interventions and causal weaponry operate through physically
+  constrained routes. The question is how the causal geometry works, not a patrol/project''s temporal mission program. Hard
+  time travel therefore fits better than stretching the apparatus-owner gate around every military starship. Within Agency,
+  Classic''s pulp/patrol sensibility and Revival''s literary-emotional core are weaker;2003/2004dates alone do not prove Thrillers.
+  No institutional child used just because physical machinery exists.
+
+
+  Time distortion fails because unequal rate is not all that occurs: explicit forward/back temporal routing and causal interference
+  matter. Time loops fails repeated lived span. Ancestral fails kinship. Mind over time fails consciousness as cause; disorders,
+  tonics, unexplained doors/slips and crossroads fail their mechanisms. No new leaf required.
+
+
+  ## Sources read
+
+  - Current author corpus/omnibus/no continuation: http://www.accelerando.org/fiction/faq.html
+
+  - Author plot/causality violation synopsis: https://www.antipope.org/charlie/fiction/faq.html
+
+  - Author project intent/history: https://www.antipope.org/charlie/blog-static/2013/05/crib-sheet-singularity-sky.html
+
+  - Independent completed review, temporal colony seeding: https://strangehorizons.com/wordpress/non-fiction/reviews/cyberpunk-festivals-and-nanotech-genies-singularity-sky-by-charles-stross/
+
+  - Independent completed review, forward/back fleet trajectory: https://www.infinityplus.co.uk/nonfiction/singularitysky.htm
+
+  - Independent completed review, physics/time travel/causal constraints: https://data.nesfa.org/reviews/Olson/SingularitySky.html
+
+  - Independent completed review, intended past military intervention: https://www.lfs.org/blog/review-charles-stross-singularity-sky-offers-cornucopia-of-cutting-edge-sf-and-libertarian-vision/
+
+  - Complete plot detail,4000yearjump and drive offset, not adopted erroneous sequel year: https://en.wikipedia.org/wiki/Singularity_Sky
+
+  - Second-novel completed review: https://www.eyrie.org/~eagle/reviews/books/0-441-01296-5.html
+
+
+  No full-book mirror used. Existing fronts remain unchanged and were previously inspected; no new edition search needed for
+  an unchanged manifest. Deployment/live QA pending.
+
+  '
+books:
+- title: Singularity Sky
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/284094-L.jpg
+- title: Iron Sunrise
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/284156-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/284094-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC01612, MC01605)
+placement_history:
+- date: '2026-10-04'
+  to: techno-fiction-in-space
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-24'
+  from: techno-fiction-in-space
+  to: hard-time-travel
+  reason: 'Split participant ancestor audit: explicit forward/back travel and causal engineering in included novels; owner
+    temporal rule applies.'
+classification_sources:
+- http://www.accelerando.org/fiction/faq.html
+- https://www.antipope.org/charlie/fiction/faq.html
+- https://www.antipope.org/charlie/blog-static/2013/05/crib-sheet-singularity-sky.html
+- https://strangehorizons.com/wordpress/non-fiction/reviews/cyberpunk-festivals-and-nanotech-genies-singularity-sky-by-charles-stross/
+- https://www.infinityplus.co.uk/nonfiction/singularitysky.htm
+- https://data.nesfa.org/reviews/Olson/SingularitySky.html
+- https://www.lfs.org/blog/review-charles-stross-singularity-sky-offers-cornucopia-of-cutting-edge-sf-and-libertarian-vision/
+- https://en.wikipedia.org/wiki/Singularity_Sky
+- https://www.eyrie.org/~eagle/reviews/books/0-441-01296-5.html
