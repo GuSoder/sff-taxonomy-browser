@@ -1,0 +1,17 @@
+id: cybernoir-fugitives
+label: Cybernoir fugitives
+parent: cyberpunk-noir
+children: []
+image: 996-cybernoir-fugitives.webp
+definition: Cyberpunk noir driven by an outsider's continuing struggle to evade, escape or turn against the high-tech powers
+  hunting and using them. Identities, bodies and loyalties are expendable as pursuit and survival carry the story beyond any
+  single case or assignment. Counterattack can change the system without making institution-building the governing experience.
+status: accepted
+works:
+- avery-cates
+- the-shockwave-rider
+creation:
+  date: '2026-11-24'
+  split_from: cyberpunk-noir
+  approval_message: phonemsg-01M86AZ327Z576EN1BR6RS8H05
+  proposal_message: phonemsg-01M86AYMZMQ5FSPK86A0CPHDSR

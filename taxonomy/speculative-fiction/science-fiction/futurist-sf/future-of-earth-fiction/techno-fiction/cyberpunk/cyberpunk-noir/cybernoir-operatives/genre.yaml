@@ -1,0 +1,20 @@
+id: cybernoir-operatives
+label: Cybernoir operatives
+parent: cyberpunk-noir
+children: []
+image: 995-cybernoir-operatives.webp
+definition: Cyberpunk noir driven by dangerous field assignments carried out by assassins, mercenaries or corporate and government
+  agents. Protection, infiltration and counterterror operations expose betrayals by their handlers, while invasive technology
+  makes the operatives useful and expendable. The mission and its compromised execution govern, rather than a primarily retrospective
+  case or a continuing life on the run.
+status: accepted
+works:
+- rogue-sequence
+- scion
+- ryan-laing
+- hammerjack
+creation:
+  date: '2026-11-24'
+  split_from: cyberpunk-noir
+  approval_message: phonemsg-01M86AZ327Z576EN1BR6RS8H05
+  proposal_message: phonemsg-01M86AYMZMQ5FSPK86A0CPHDSR

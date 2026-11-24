@@ -1,0 +1,20 @@
+id: cybernoir-sleuths
+label: Cybernoir sleuths
+parent: cyberpunk-noir
+children: []
+image: 994-cybernoir-sleuths.webp
+definition: Cyberpunk noir driven by an investigation into a killing, disappearance or abduction. Professional or reluctant
+  sleuths follow leads through corrupt technological power to find a person or expose the crime. Invasive technology is both
+  evidence and danger. A paid rescue belongs here when solving the case governs the whole story, rather than a sequence of
+  operational assignments.
+status: accepted
+works:
+- noir
+- the-body-scout
+- nocturne-for-a-dangerous-man
+- idolon
+creation:
+  date: '2026-11-24'
+  split_from: cyberpunk-noir
+  approval_message: phonemsg-01M86AZ327Z576EN1BR6RS8H05
+  proposal_message: phonemsg-01M86AYMZMQ5FSPK86A0CPHDSR
