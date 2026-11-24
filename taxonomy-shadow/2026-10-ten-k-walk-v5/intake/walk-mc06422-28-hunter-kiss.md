@@ -1,0 +1,68 @@
+# Hunter Kiss whole-fiction walk
+24November2026,MC06422-28
+
+## Decision
+One five-novel fiction, Hunter Kiss, in existing Time door2to3. No new genre, definition change or corpus outside the active fiction. Totals933nodes/2990fictions/7444books. Root choice is deliberately not the publisher-marketing shelf: Liu explicitly explains the supposed demons/gods and supernatural bloodline scientifically as aliens and engineered biology. Classification confidence moderate-high for SF/Atemporal and moderate for Time door, with the access armor distinction below. The whole fiction remains strongly urban-fantasy in style and emotional concern.
+
+## Scope and dates
+The Iron Hunt2008, Darkness Calls2009, A Wild Light2010, The Mortal Bone2011, Labyrinth of Stars2014. Current creator bibliography/pages, PRH series numbered five, ISFDB and Goodreads five-primary-work listing agree. Creator's December2011release and ISFDB establish Mortal Bone2011; a review's2012listing is not a new work. Hunter Kiss2009is an ebook republication of the2007prequel novella. Armor of Roses2010and The Silver Voice2011are novella/short story, their2011ebook bundle not a novel. From the Desk of Grant Cooperon is promotional short material. None included in book count or used to force time placement. No specific continuity bridge to Dirk & Steele established; separate series on creator site, no merge from author or paranormal motifs. No existing Liu Hunter Kiss card/book found in current full tree.
+
+## Whole novels and ending
+Iron Hunt: Maxine, her living tattoo bodyguards and lover Grant defend contemporary Seattle against possessors escaping a failing extradimensional prison. A murdered investigator's link to Maxine draws her into her unknown family history, Jack, avatars and the Labyrinth. Completed Book Smugglers review establishes an actual dangerous journey through its passages and return, not only metaphor or stories about elsewhere. Its apparent demon-versus-human duty is progressively overturned.
+Darkness Calls: Grant's past and a priest's mission lure him into danger; Maxine faces the Skinner/Erl King and her own destructive inheritance to save him. More than ordinary city detective cases. Author's2009interview explicitly says this included novel has actual time travel and genetic engineering; completed readers establish time/space jumps associated with the silver ring/sword access armor. Their confusion is disclosed, not evidence of no crossing.
+A Wild Light: Maxine wakes beside Jack's apparent corpse with memory of Grant erased, investigates and rebuilds trust. The reveal is not simply that supernatural monsters become bigger: humanity and the protagonists were genetically manipulated by alien Aetar, while Maxine was bred as the living prison of the Reaper Kings and something more dangerous lives within her. Her heritage, choice and relationships determine her response to that power. End establishes new knowledge and relationship commitments, not scientific elimination of the book's emotional mysteries. Completed reviews and retrospective author account used, no claim every ambiguity is solved.
+The Mortal Bone: honeymoon at mother's Texas farm is broken by artifacts/severing of the bond with the five boys. Freedom tempts them back to their old identity as Reaper Kings; Maxine's kinship with them and refusal of indiscriminate killing transform the fight. Completed readers and the fifth-book legal creator excerpt establish the prison has fallen, four clans live at the farm, Grant is bonded to almost a thousand of them, and this is no longer a succession of independent demon hunts. No date or missing-novel invention.
+Labyrinth of Stars: pregnant Maxine, Grant and demon refugees are attacked with an Aetar plague. Seeking the Devourer/cure takes Maxine through the Labyrinth and across time/worlds, with an inward bargain against the power she carries. Final completed reviewers disclose a radical family/identity change, loss of the armor-bearing arm, Jack's disturbing past and a hopeful but incompletely closed endpoint. Some call it satisfying; others expected another novel and call it a cliffhanger. Do not invent childbirth, complete extermination of Aetar, restored Earth or final fate of every family member. The governing endpoint remains preserving her family and transformed relationship to the demons, not an ongoing professional bounty-hunter franchise. Full novel not read; lawful creator excerpts, author explanations and completed independent/community reviews used. Unauthorized fullbook mirrors not opened or used as primary evidence.
+
+## Root-down walk
+Speculative fiction > Science fiction. This is a real demystification, not a guess that any god could be an alien. Liu's2010Human Magic author essay (preserved Amazon-exclusive republication) explicitly identifies demons as aliens, godlike beings as aliens manipulating organic matter, the bloodline powers as genetic engineering and human arrival via an interdimensional highway. She invokes Clarke's Third Law and advanced biology, distinguishing literal capabilities from metaphorical human love/courage as magic. The independent2011Mallozzi interview confirms the aliens/mental DNA manipulation/engineered humanity, and her2014UFIinterview confirms alien worlds/quantum roads/experiment;2014Reactor asks directly about the genetic-engineering premise. These corroborations make this more than one copied blog's claim. Generic Urban Fantasy labeling and narrator/reviewer words magic,god,soul are a genuine Fantasy wobble but do not override specific causal explanation. Psychic manipulation is speculative SF here, not proven known physics. No demand for every apparent god to be demystified is invented: the author actually supplies the controlling explanation. Fantasy>Real earth>Contemporary Urban/ModernGoth/OccultMystery would fit presentation and early hunts if the root were different; Portal>Rifts>Multiverse>Gateway>Borderland would fit the Earth home plus many-world Labyrinth if supernatural. Neither bypasses root. Fantasy realms independently fails actual Seattle/Texas Earth inclusion.
+
+Science fiction > Atemporal SF. Included novel Darkness Calls has literal time travel independently confirmed by creator2009interview and completed readers; included final novel also travels back in time, confirmed OBS and other completed reviews. Not flashback, trauma-memory, inherited recollection or excluded novella alone. Thus not Modern day SF despite substantial Seattle/Texas; not Historical/Futurist inferred from arrival dates; any SF time travel applies before those. The whole-universe science-fantasy appearance does not bypass the explicit Time travel rule.
+
+Atemporal > Time travel fiction. Time travel is an actual element even though family/identity and alien moral conflict govern the whole. Not parallel-world-only fiction, where switching realities rather than eras would be sufficient. Not Science fantasy's hard-science leaf, which preserves known physics and excludes teleportation; this cosmology has psychic biomanipulation and quantum routes through time/space. Not reincarnation or merely fabulation/subjective reconstruction.
+
+Time travel > Time door. The Labyrinth is an existing network of routes through time and space, used for deliberate rescue/cure journeys. Current creator legal finale extract explicitly calls it a quantum highway connecting countless worlds, with doors opening; earlier completed review establishes actual entry/traversal/return. Creator2014interview says quantum roads crisscross time/space, and completed final reviewers establish deliberate entry to find the Devourer. The organic silver ring/sword/armor serves as access/key, and early jumps can be accidental or unfamiliar; this is a real wobble, not an always-effortless voluntary crossing claim. No evidence the highway was built or that a manufactured time machine carries her. Calling a sentient organic key a laboratory time machine would invent mechanism. Time door does not require no unusual key or exclusively intentional early trips: the standing passage and chosen later missions are the positive fit. Not Time crossroads: Labyrinth traversal is an outward rescue/cure task, not a waystation society and keepers' business. Not Hard time travel: quantum language is no rigorous physical model. Not Ancestral time travel: maternal inheritance determines the stakes, not which era the route can reach; the system links countless worlds/times, not just her family. Not Time travel disorders: access armor and standing highway, no intrinsic medical disease causing it. Not Mind over time: bodily routes not altered consciousness. Not Time tonics: no consumed agent. Not Timeslips/Time tangles: the whole uses a continuing navigable network rather than people solely pulled by uncontrolled natural forces. Not Time machines, either private or institutional: no built chrononaut apparatus or organization owns the crossing. Definition unchanged, moderate mechanism confidence preserved.
+
+## Front curation
+One bounded author/publisher candidate pass,ten actual English flat fronts inspected in a montage. Creator350x563Darkness Calls wins on resolution over publisher279x450; other four publisher279x450fronts beat creator256/260px. Same original illustrated tattooed Asian heroine designs across alternatives: blue Iron Hunt, gold Darkness Calls, red Wild Light, purple Mortal Bone with Grant, orange Labyrinth. Full title/author readable, no photographed books or sticker. No omnibus/short cover used. Selected score7.5/10, recognizable and coherent editions rather than invented finer art. Only cover hotlinks committed, no cover bytes. Art credits not asserted from a search engine's unauthorized book mirror.
+
+## Sources
+# Sources read,24November2026
+- https://marjoriemliu.com/novels/
+- https://www.penguinrandomhouse.com/series/BA8/a-hunter-kiss-novel/
+- https://www.goodreads.com/series/45080-hunter-kiss
+- https://www.isfdb.org/cgi-bin/pe.cgi?25142=
+- http://marjoriemliu.com/novels/the-iron-hunt/
+- http://marjoriemliu.com/novels/darkness-calls/
+- http://marjoriemliu.com/novels/a-wild-light/
+- http://marjoriemliu.com/novels/the-mortal-bone/
+- http://marjoriemliu.com/novels/labyrinth-of-stars/
+- http://fangfiction.blogspot.com/2012/02/marjorie-m-lius-hunter-kiss-series.html
+- https://kddidit.com/2015/05/08/book-review-marjorie-m-lius-labyrinth-of-stars/
+- https://openbooksociety.com/article/labyrinth-of-stars-hunter-kiss-by-marjorie-m-liu-obs-book-review/
+- http://www.abookobsession.com/2014/03/review-labyrinth-of-stars-by-marjorie-m.html
+- https://www.thebooksmugglers.com/2008/08/book-review-iron-hunt.html
+- https://www.thebooksmugglers.com/2009/07/book-review-darkness-calls-by-majorie-m-liu.html
+- https://fantasyliterature.com/reviews/a-wild-light/
+- https://locusmag.com/feature/marjorie-liu-hopeless-romantic/
+- http://urbanfantasyinvestigations.blogspot.com/2014/02/interview-giveaway-labyrinth-of-stars.html
+- https://thenamelesszine.org/Books-2014/Labyrinth_of_Stars.php
+- https://www.penguinrandomhouse.com/books/309078/labyrinth-of-stars-by-marjorie-m-liu/
+- https://www.tumblr.com/blogsguide/967268824/nyt-bestseller-marjorie-m-liu-on-a-wild-light
+- https://reactormag.com/the-pop-quiz-at-the-end-of-the-universe-marjorie-liu/
+- https://gizmodo.com/marjorie-m-liu-says-you-should-never-let-genre-get-in-5659846
+- https://josephmallozzi.com/2011/12/26/december-26-2011-author-marjorie-m-liu-drops-by-to-tell-us-about-the-new-hunter-kiss-book-and-astonishing-x-men-snow-monkeys-al-most-there-mailbag/
+- https://whatever.scalzi.com/2014/03/07/the-big-idea-marjorie-m-liu-2/
+- http://trrcreading.blogspot.com/2009/06/interview-with-author-marjorie-m-lui.html
+- https://www.penguinrandomhouse.com/books/301474/darkness-calls-by-marjorie-m-liu/
+- https://www.goodreads.com/book/show/5531637-darkness-calls
+- http://cromely.blogspot.com/2010/05/book-review-53-darkness-calls.html
+- http://mardel-rabidreader.blogspot.com/2010/07/darkness-calls-review.html
+- http://donttrustfaires.blogspot.com/2014/04/labyrinth-of-stars.html
+- https://www.goodreads.com/book/show/15810845-labyrinth-of-stars
+- http://openbooksociety.com/article/la...
+- https://www.goodreads.com/book/show/11018851-the-mortal-bone
+- https://www.goodreads.com/book/show/7196830-a-wild-light
+Creator/publisher primary: scope,dates,legal excerpts. Author interviews2010/2011/2014: mechanism/demystification. Completed independent reviews and Goodreads readers: whole plots, ending and disagreement. Goodreads not a substitute for creator mechanism.
+
+Individual-fiction authority originals inspected this run: phonemsg-01M43MYMGAMQTNA3CY402KK7FB and phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX. Included-book temporal source phonemsg-01M850W64E1MFDAN0BQD84RRP9. No structural permission invoked. Deployment and actual desktop/mobile five-jacket QA owed.
