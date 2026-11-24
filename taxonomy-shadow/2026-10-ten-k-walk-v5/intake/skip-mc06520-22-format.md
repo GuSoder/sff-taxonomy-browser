@@ -1,0 +1,3 @@
+MC06520 The Mothers of Voorhisville, Mary Rickert2014: novella, excluded. Reactor and SFWA novella category. https://reactormag.com/the-mothers-of-voorhisville-mary-rickert/ ; https://nebulas.sfwa.org/nominated-work/the-mothers-of-voorhisville/
+MC06521 Articulated Restraint, Mary Robinette Kowal2019: creator lists under The Short Stories on Lady Astronaut series page. Excluded short work. https://maryrobinettekowal.com/lady-astronaut-series/
+MC06522 Forest of Memory, Mary Robinette Kowal2016: creator explicitly calls it a novella; excluded. https://maryrobinettekowal.com/writing/forest-of-memory/

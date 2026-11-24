@@ -2763,3 +2763,6 @@ A Rose by Any Other Name2024 standalone to existing Northern Renaissance8to9. Li
 
 ## MC06519,24November2026
 The Book of Gothel2022 standalone to existing Occult cabals8to9. Literal folk magic, clandestine female tradition beneath medieval religious/royal record. Medieval folklore and Mythicretelling rivals audited.937/3015/7565. No structural or definition change. Deploy/liveQA pending.
+
+## MC06523,24November2026
+Ghost Talkers2016 standalone to existing Occult cabals8to9. Literal spirits in a covert WWI intelligence service. WWI period and Untold magic rivals audited. Occult cabals9to10. Intake frozen; split research initiated.937/3016/7566. No structural or definition change. Deploy/liveQA pending.
