@@ -2751,3 +2751,6 @@ The Black Opera2012standalone,queueyearblankfilled. Alt European flintlock7to8, 
 
 ## MC06516,24November2026
 Grunts!1992standalone,queue1995editioncorrected. Quest parody realms8to9, blackcomedy genreparody through laterarmsindustry/election/Bugwar. Absurdrealms/Portalfantasy strongest rivals audited.937/3013/7562. No newstructure/definition. BlackOpera auditfilename corrected without historyrewrite. Deploy/liveQA pending.
+
+## MC06517,24November2026
+Dreki: My Icelandic Dragon2025standalone,queueyearblankfilled. Contemporary dragons1to2, contemporaryEarthdragonreturn through Siggyillness/deathanddragonreturn. ModernNorsemyth/Magicfamily strongest rivals audited.937/3014/7563. No newstructure/definition. No automaticjuvenileexclusion. Deploy/liveQA pending.
