@@ -1,18 +1,11 @@
 id: time-agency-thrillers
 label: Time agency thrillers
 parent: time-travel-agency
-children: []
-works:
-- for-king-and-country
-- space-1889
-- the-gordian-protocol
-- written-in-time
-- terminator-3-novels
-- company-town
-- end-of-the-world-blues
-- time-trials
-- acorna
-- the-chaos-function
+children:
+- time-agency-missions
+- time-agency-manhunts
+- time-agency-mysteries
+works: []
 image: 477-time-agency-thrillers.webp
 definition: 'Time travel agency stories in the action-thriller register: operatives, labs and rival factions run the apparatus,
   and the plot is a chase, a mission or a conspiracy across time. Not Classic time agencies (the classic pulp and patrol sensibility),
@@ -26,3 +19,15 @@ history:
     Action-thriller register retained; no new node.
 - date: '2026-10-30'
   change: Written in Time ordinary intake5->6; corporate apparatus and rival temporal faction thriller; no definition change.
+- date: '2026-11-24'
+  action: split-with-umbrella
+  children:
+  - time-agency-missions
+  - time-agency-manhunts
+  - time-agency-mysteries
+  distribution:
+  - 4
+  - 3
+  - 3
+  approval_message: phonemsg-01M860T8HJWF9ZGD1WCAATQSG0
+  proposal_message: phonemsg-01M857SZS2Q64K2DG5ZXVB64PD

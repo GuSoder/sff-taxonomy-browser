@@ -1,0 +1,18 @@
+id: time-agency-mysteries
+label: Time agency mysteries
+parent: time-agency-thrillers
+children: []
+image: 993-time-agency-mysteries.webp
+definition: 'Time agency thrillers carried by inquiry: an unexplained murder, disappearance, threat or identity problem unfolds
+  into temporal interference or an institution''s concealed manipulation. Institutional time-machine apparatus is inherited
+  from the parent. Pursuit and violence follow discoveries rather than replacing inquiry as the reading engine.'
+status: accepted
+works:
+- the-gordian-protocol
+- company-town
+- end-of-the-world-blues
+creation:
+  date: '2026-11-24'
+  split_from: time-agency-thrillers
+  approval_message: phonemsg-01M860T8HJWF9ZGD1WCAATQSG0
+  proposal_message: phonemsg-01M857SZS2Q64K2DG5ZXVB64PD

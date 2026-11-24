@@ -1,0 +1,18 @@
+id: time-agency-manhunts
+label: Time agency manhunts
+parent: time-agency-thrillers
+children: []
+image: 992-time-agency-manhunts.webp
+definition: 'Time agency thrillers carried by pursuit: tracking, escaping, protecting a target from or recovering control
+  from a specific temporal intruder or fugitive. The quarry may be human, cyborg or the carrier of an interface to institutional
+  apparatus. Investigation can occur, but hunter versus hunted is the central contest.'
+status: accepted
+works:
+- for-king-and-country
+- terminator-3-novels
+- the-chaos-function
+creation:
+  date: '2026-11-24'
+  split_from: time-agency-thrillers
+  approval_message: phonemsg-01M860T8HJWF9ZGD1WCAATQSG0
+  proposal_message: phonemsg-01M857SZS2Q64K2DG5ZXVB64PD

@@ -1,0 +1,19 @@
+id: time-agency-missions
+label: Time agency missions
+parent: time-agency-thrillers
+children: []
+image: 991-time-agency-missions.webp
+definition: 'Time agency thrillers carried by an expedition, rescue or intervention: a team must reach, survive or change
+  a historical situation using institutional time-machine apparatus. Protagonists need not be willing or salaried operatives.
+  The organizing task is situational intervention rather than following one quarry or chiefly solving an unexplained crime.'
+status: accepted
+works:
+- space-1889
+- written-in-time
+- time-trials
+- acorna
+creation:
+  date: '2026-11-24'
+  split_from: time-agency-thrillers
+  approval_message: phonemsg-01M860T8HJWF9ZGD1WCAATQSG0
+  proposal_message: phonemsg-01M857SZS2Q64K2DG5ZXVB64PD
