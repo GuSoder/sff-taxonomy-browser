@@ -2778,3 +2778,6 @@ Four novels of creator-confirmed Rosenblum future to existing Psionics9to10. Int
 
 ## Cat correction,24November2026
 Psionics ten-card audit found false Earth-centered claim. Three-novel Cat moved intact to existing Planet plunder5to6; Psionics10to9, no gate or structure change. Actual three-novel/root-down rival audit in audit-psionics-cat-root-correction.md.937nodes/3016fictions/7576books unchanged. Other nine audit still active before intake resumes. Deployment/live QA pending.
+
+## Psionics ten-card gate audit closed,24November2026
+Cat correction live QA complete; remaining nine whole-fictions reviewed, no further placement move. Psionics9, no split trigger. Gabriel first release corrected1992to1986German, with1992English edition note. Counts unchanged937/3016/7576. Bibliographic deploy/live QA pending before intake MC06529resumes.
