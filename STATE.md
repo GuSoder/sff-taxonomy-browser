@@ -2754,3 +2754,6 @@ Grunts!1992standalone,queue1995editioncorrected. Quest parody realms8to9, blackc
 
 ## MC06517,24November2026
 Dreki: My Icelandic Dragon2025standalone,queueyearblankfilled. Contemporary dragons1to2, contemporaryEarthdragonreturn through Siggyillness/deathanddragonreturn. ModernNorsemyth/Magicfamily strongest rivals audited.937/3014/7563. No newstructure/definition. No automaticjuvenileexclusion. Deploy/liveQA pending.
+
+## The Commission shared-fiction repair,24November2026
+Existing Lucy Blade2007andWolf Shadow2013consolidated in Spook fantasy. Northern Renaissance9to8, Spook6unchanged.937/3013/7563. Positive Wolf spellwork defeats SF-only Lilith reading. No structural/definitionchange. Deploy/liveQA pending.
