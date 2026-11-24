@@ -2790,3 +2790,6 @@ Whole2026standalone to Breakaway space colonies8to9. Actual endingAIrestraint an
 
 ## The Lovely Dark MC06559,24November2026
 Whole2023novel to Afterreal edges4to5. Coma/hospital ending corroborated, not jacket-only Worldsreading. Greek/portal/ghost/Fabulation rivals checked. MC06546-58novelization/novella/omnibus/short/collection cross-offs included.937nodes/3019fictions/7584books. No structural gate. Deployment and desktop/mobileQA pending before next mutation.
+
+## Archonate MC06560,24November2026
+Nineteennovelwholefiction to Spacefantasy1to2. Actualmagic, Earthprovenance, sharedpre/postchangeuniverse; terminalEarthrivalchecked. Collections/novellas/omnibusseparated.937nodes/3020fictions/7603books. No structuralgate. Deploymentanddesktop/mobileQApendingbeforenextmutation.
