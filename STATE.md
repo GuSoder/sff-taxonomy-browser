@@ -2691,3 +2691,6 @@ Approval phonemsg-01M86HT00TX8J9A8EDS8PG7WSG on proposal phonemsg-01M86D789ST7WB
 
 ## MC06446 Siege independent walk, 24 November 2026
 Standalone Siege of Wonder1976 placed Borderland8to9.937nodes/2996fictions/7455books. Existing leaf, no definition change. Earth/actualMagic primary-grounded; dimensional geography moderate from source convergence, NYT physical border caveat preserved. Publisher front pixel-inspected and hotlinked. MC06446complete: connected1967/1969pair plus separate1976novel, not one omnibus fiction. DayStar excluded. Deploy/liveQA pending.
+
+## MC06447 shared-fiction completion,24November2026
+Ring of Fire/Assiti83original novels in Timetribe7. Duplicate Age of sail card removed,7to6.937nodes/2995fictions/7494books. No new node or definition edit. Original2019Up-time novel included once, not2026reprint. Anthology/collection errors removed; independently catalogued hybrid title novels counted without bonus stories. English hotlinked fronts pixel-checked, no cover bytes committed. Deploy/liveQA pending.
