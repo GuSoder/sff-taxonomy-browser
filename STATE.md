@@ -2760,3 +2760,6 @@ Existing Lucy Blade2007andWolf Shadow2013consolidated in Spook fantasy. Northern
 
 ## MC06518,24November2026
 A Rose by Any Other Name2024 standalone to existing Northern Renaissance8to9. Literal periodbeliefmagic, Elizabethan England personal emancipation through final trial. Secret history/Fabulation/Mythicretelling rivals checked.937/3014/7564. No structural or definition change. Deploy/liveQA pending.
+
+## MC06519,24November2026
+The Book of Gothel2022 standalone to existing Occult cabals8to9. Literal folk magic, clandestine female tradition beneath medieval religious/royal record. Medieval folklore and Mythicretelling rivals audited.937/3015/7565. No structural or definition change. Deploy/liveQA pending.
