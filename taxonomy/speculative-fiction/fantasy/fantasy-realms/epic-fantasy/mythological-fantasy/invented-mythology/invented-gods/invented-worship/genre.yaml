@@ -1,26 +1,19 @@
 id: invented-worship
 label: Invented worship
 parent: invented-gods
-children: []
+children:
+- defying-invented-gods
+- invented-god-quests
 image: 848-invented-worship.webp
 definition: 'Invented gods fiction centered on people''s relationship with an invented divine order: faith, service, refusal
   and resistance, including divine absence and the search for a god. Worship here does not require devotion by every character
   or ongoing worship in every volume. A sustained experience-of-divinity subject takes priority in Invented godhood.'
-status: accepted
+status: umbrella
 portrait: 848-invented-worship.webp
-works:
-- age-of-the-five
-- thunderer
-- warring-gods
-- green
-- the-forsaken-trilogy
-- the-godslayer-chronicles
-- the-gossamer-mage
-- the-desert-rising-series
-- dragonships-of-vindras
-- the-legacy-trilogy-matthew-ward
-ruling: User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29 10:12:55 CET, on proposal phonemsg-01M63EVKM8YJTFEGBET40H0ECY.
-  Existing book lists unchanged.
+works: []
+ruling: Owner Approved phonemsg-01M89BYTCKGT0M2Q0P1H0GNJ3R (25 November2026,13:47 CET) on replacement proposal phonemsg-01M894D9XVVQQ5SY84GTEYC501,
+  Defying invented gods7 / Invented god quests3. Original approval and proposal inspected; replaces earlier names, not their
+  undertaking axis. Original umbrella and portrait retained with zero direct fictions.
 history:
 - date: '2026-10-29'
   change: Created by approved thematic split of Invented gods. User Approved phonemsg-01M63EY2NEY9NK5J96CYD682N3, 2026-10-29
