@@ -110,13 +110,41 @@ placement_rationale: '# Wolf''s Empire root correction, 25 November 2026
 books:
 - title: 'Wolf''s Empire: Gladiator'
   year: 2016
-  cover_url: https://covers.openlibrary.org/b/id/10213306-L.jpg
+  cover_url: https://file770.com/wp-content/uploads/Wolfs-Empire-Gladiator-finished-art-624x948.jpg
+  shows_english_title: true
 cover_curation:
   status: complete
-  source: Open Library / publisher
-  selected_url: https://covers.openlibrary.org/b/id/10213306-L.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
+  selected_url: https://file770.com/wp-content/uploads/Wolfs-Empire-Gladiator-finished-art-624x948.jpg
+  rating: 8
+  visually_reviewed_on: '2026-11-25'
+  review_method: Four actual flat fronts inspected in one sheet. Same Daniel Dociu art, preferred624x948File770 reproduction
+    over235x357Bookwraiths and325x500PW/OpenLibrary. Both English title and authors visible; quote-free edition tiebreak,
+    no cover bytes committed. Existing OpenLibrary background failed in live browser.
+  candidates:
+  - url: https://covers.openlibrary.org/b/id/10213306-L.jpg
+    rating: 8
+    shows_english_title: true
+    selected: false
+    reason: Same detailed colorful Daniel Dociu interstellar gladiator painting; File770 largest retrieved flat front and
+      no review quotation.
+  - url: https://bookwraiths.com/wp-content/uploads/2016/07/wolfs-empire.jpg?w=235&h=357
+    rating: 8
+    shows_english_title: true
+    selected: false
+    reason: Same detailed colorful Daniel Dociu interstellar gladiator painting; File770 largest retrieved flat front and
+      no review quotation.
+  - url: https://file770.com/wp-content/uploads/Wolfs-Empire-Gladiator-finished-art-624x948.jpg
+    rating: 8
+    shows_english_title: true
+    selected: true
+    reason: Same detailed colorful Daniel Dociu interstellar gladiator painting; File770 largest retrieved flat front and
+      no review quotation.
+  - url: https://www.publishersweekly.com/cover/9780765337740
+    rating: 8
+    shows_english_title: true
+    selected: false
+    reason: Same detailed colorful Daniel Dociu interstellar gladiator painting; File770 largest retrieved flat front and
+      no review quotation.
 intake: ten-k walk v5 (queue ids MC01887)
 placement_history:
 - date: '2026-10-04'
@@ -135,3 +163,5 @@ classification_sources:
 - https://amazingstories.com/2016/07/review-wolfs-empire-gladiator-claudia-christian-morgan-grant-buchanan/
 - https://bookwraiths.com/2016/07/09/wolfs-empire-gladiator/
 - https://www.isfdb.org/cgi-bin/title.cgi?2004316=
+cover_url: https://file770.com/wp-content/uploads/Wolfs-Empire-Gladiator-finished-art-624x948.jpg
+shows_english_title: true
