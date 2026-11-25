@@ -1,0 +1,45 @@
+# Commander Halley: MC06607-608
+25 November 2026
+
+## Verdict and corpus
+One fiction, Commander Halley, two novels: Time Future1999 and Time Past2002. Time agency mysteries3to4. Exclude short Playing Possum even though author interview places it in the same universe. Do not invent a third novel from an old review's wish. Author interview, SFE and bibliography list the two published novels. Time Future's2001USedition is not its original publication. Bookcovers carry English volume titles, fiction requires series-label overlay.
+
+## Whole-fiction evidence
+Humanity is a junior member of a Confederacy whose four dominant alien species monopolize jump drives. Halley commands damaged, blockaded Jocasta station. A century-old Earth sleeper ship arrives impossibly, an alien trader is murdered, a supposedly extinct engineered killer appears, and Invidi devices and hidden motives drive her inquiry. The second novel continues the same Calypso/Invidi puzzle: while testing acquired alien jump technology, Halley is stranded just before2023firstcontact. Murdoch joins her; they must survive, contact the Invidi and return. Later revelations involve jump points shifted through time and the aliens' hidden intervention in Earth history, alongside station independence and interspecies power.
+
+SFE explicitly calls the stolen FTL drive a Time Machine. Steve Cooper's contemporary2002review reads both novels and explains that the second completes the time-spanning Invidi/Calypso mystery, rather than starting an unrelated historical adventure. Michael Rawdon corroborates the drive experiment and arrival in2023. Do not take his phrase time loop to mean the repeated reliving trope: he describes a causal puzzle, not successive retries of a lived span.
+
+## Full root-down walk
+Speculative fiction > Science fiction > Atemporal SF > Time travel fiction > Time machines > Time travel agency > Time agency thrillers > Time agency mysteries.
+
+SF not Fantasy: constructed space stations, engineered aliens, cryogenics, FTL hardware and its temporal function govern. Alien telepathy is SF-treated communication, not verified sorcery. The explicit machine-temporal explanation prevents simply treating psychic contact as magic.
+
+Temporal gate: a future station setting initially suggests Futurist/Spacefaring/Space opera, especially human disadvantage in interspecies politics. Historical or Modern-day2023Australia describes only an episode from a future traveller's frame. Included actual travel across a century requires Atemporal under the owner's any-SF-time-travel rule, before thematic space-opera preference. Bothnovels stay one fiction. No excluded story used to force this result.
+
+Atemporal siblings: Fabulation does not fit a stable technological world merely because mysteries are withheld; New Weird's material genre hybridity is not the engine; Science fantasy lacks a fantasy surface with scientific foundation as the governing promise; Reincarnation absent; Parallel-world fiction does not explain the concrete journey into Earth's own firstcontact past. Time travel fiction wins.
+
+Time travel children: Hard time travel would overstate rigorous physical derivation from the reviews' intricate jump-point plotting. Ancestral time travel overweights Halley's great-grandmother/Alvarez background; she arrives after her historical heroine's death, not chiefly to explore her family line. Time loops would mistake causal closure for repeated reliving. Mind over time mistakes Invidi temporal perception for Halley's constructed propulsion mechanism. Disorders, Tonics, Distortion, Crossroads and unexplained Time door/Timeslips fail their causes: an engineered drive moves the traveller. A standing jump point is part of that technological system, not an unexplained door nobody built. Time machines fits.
+
+Owner test: the drive is alien civilizational technology monopolized by the Four Worlds; acquisition/testing by a station commander does not turn it into a lone inventor's private garage device. Institutional control and Invidi intervention remain the contested basis for who can travel and why. Remove those civilizations/programmes and there is no independent private inventor's apparatus owner. Time travel agency in this taxonomy includes factions/corporate/dynastic apparatus, not only a literal office called Time Bureau. Homebrew/DIY rewind is a genuine rival from Halley's personally testing a captured drive, but making or privately owning the machine is not established; the whole story's hidden institutional manipulation is explicit.
+
+Agency children: Classic time agencies is a rival at1999publication, and the characters are space-station officials. Yet this is not a pulp patrol or academic-tour premise. Time agency revival lacks the post2010literary/emotional agency frame. The action-thriller/mystery register, institutional conspiracy and peril earn Time agency thrillers, whose old datebound was explicitly widened and no longer excludes on era alone.
+
+Thriller children: Missions is real, since returning home and preventing station disaster are tasks. Manhunts captures threats but no single pursued temporal quarry carries bothbooks. Mysteries wins: the impossible sleeper ship, locked-room murder, alien coercion and concealed temporal manipulation organize the entire connected story. Halley's2023survival follows her inquiry rather than replacing it with a commissioned historical intervention. Moderate owner-test/missions wobble retained. No definition changes.
+
+## Covers
+One combinedauthor sweep plus exact publisherfronts, all actualpixelsinspected. Time Future: detailed JimBurns spacecraft/station painting, firstAustralianGregBridges edition exists but no superior verifiedfront obtained. Time Past: detailed JimBurns spacecraft/alien hardware painting. Publisher385x640and384x640hotlinksselected, English title/author visible. Sameart alternatives largerSFReviewsFuture800x1357and smallerreviewcopies considered; largerSFReviews hasmorejpeg/scancontrast andnear-edge type, choose cleanpublisherfronts. Scores8and8. Seriesfictionusesfirstbookartwithoverlay. No uniformillustrator claim about the originalAustralianfirstbook edition, no coverbytescommitted.
+
+## Sources
+https://sf-encyclopedia.com/entry/mcarthur_maxine
+https://www.infinityplus.co.uk/nonfiction/intgmmm.htm
+https://www.hachettebookgroup.com/titles/maxine-mcarthur/time-future/9780446609630/
+https://www.hachettebookgroup.com/titles/maxine-mcarthur/time-past/9780446609647/
+https://fanac.org/fanzines/Ethel_the_Aardvark/Ethel%20the%20Aardvark%20103_AS2.pdf (SteveCooper, printedpages6-7)
+http://www.leftfield.org/~rawdon/books/sf/mcarthur_maxine/
+http://infinityplus.co.uk/nonfiction/timefuture.htm
+https://www-users.york.ac.uk/~ss44/books/pages/m/MaxineMcArthur.htm
+https://www.risingshadow.net/book/15034-time-future
+https://www.risingshadow.net/book/15035-time-past
+https://www.isfdb.org/cgi-bin/pl.cgi?238601=
+https://www.isfdb.org/cgi-bin/title.cgi?22820=
+https://sfreviews.com/displays/Maxine%20McArthur_1999_Time%20Future.htm
