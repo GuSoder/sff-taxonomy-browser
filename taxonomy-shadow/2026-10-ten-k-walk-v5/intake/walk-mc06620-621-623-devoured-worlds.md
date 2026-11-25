@@ -1,0 +1,62 @@
+# The Devoured Worlds, whole-trilogy walk
+25 November 2026
+
+## Verdict and corpus
+One completed three-novel fiction to existing Time travel disorders,2to3. No new structure. Positive route: Speculative fiction > Science fiction > Atemporal SF > Time travel fiction > Time travel disorders.
+
+The Blighted Stars2023, The Fractured Dark2023, The Bound Worlds2024. Creator explicitly calls these one completed trilogy; ISFDB original first novel date, publisher second novel record and final novel authorized excerpt agree with these years. Queue MC06620/MC06621/MC06623, not order by queue number. The First Omega MC06622 is a separate2021novella, explicitly called that by Hachette, so excluded from novel intake, not folded or held for a genre. The Two Lies of Faven Sythe MC06624 is separate standalone, not imported into this shared universe. Earlier draft titles Extinction Burst and The Rift Between Stars are not extra novels. No omnibus, short form or future placeholders.
+
+## Every novel and finale
+The Blighted Stars begins with Naira Sharp's infiltration of the Mercator dynasty and an ecological disaster on a supposedly habitable cradle. She and geologist heir Tarquin survive a wreck, misprinting and violence, and discover the spread of canus through the neural pathways and material technology sustaining human civilization. Relkatite mining, caste privilege, disposable printed bodies and the shroud's dead planets are continuing engines, not incidental wallpaper.
+
+The Fractured Dark follows their alliance after Sixth Cradle, a retreat to blighted Earth, the disappearance of Acaelus with fuel supplies, family power struggles and Naira's compromised neural map. Her most recent print lacks memories of the developing relationship. The struggle against Acaelus reaches its resolution here rather than being saved for the third book. Her prolonged double printing leaves her map cracked, not simply a conventionally heroic psychic awakening.
+
+The Bound Worlds asks what happens after victory: Tarquin governs Mercator and a Seventh Cradle settlement; Naira lives with temporal destabilization and resists a cure that might erase part of her. The colony is attacked, navigation/agricultural positioning fails as physical dimensions expand, and the remaining habitable world faces freezing isolation. Future Tarquin's efforts to prevent that outcome lead to tyranny and unethical map experiments. Naira's defection and assassination of him in a future branch leave the disaster unresolved. A future Naira returns to prevent that assassination so another solution can be found. Tarquin ultimately suffers catastrophic cracking through double printing; Fletcher repairs his map and he is reprinted to reunite with Naira. This ending description is grounded in an identified completed reader's spoiler account, not claimed as a full primary-novel reading. Independent completed reviews corroborate actual time travel and future messages.
+
+## Positive temporal mechanism, primary evidence
+The authorized Orbit sample hosted by BingeBooks contains much more than a vague future-visions blurb. At a powercore ceremony Naira sees another version of herself warning about a bomb. Later she describes scars corresponding to an experimental suppressor-pathway configuration DrBracken has designed but not yet fitted, and supplies a correction to that design. The doctor discusses Naira's temporally destabilized mind, sensory systems overridden by slipping memories, and the likelihood that this same condition opens perception to the future. Their current hypothesis is that the powercore resonates with and amplifies her ability to slip. Naira's involuntary experiences alternate among past events and an unfamiliar living person previously seen dead. A normal traumatic flashback is explicitly insufficient to account for the not-yet-existing pathway information. The ordinary early flashback scene alone was not used as proof.
+
+This is positive evidence of time perception/interaction caused by her damaged neural state. It is not an inference that every printed human travels in time, nor that every remembered scene actually changes the past. Bracken's explanation remains an in-story developing hypothesis at the sample point; the later completed reviews establish real future contact/travel, rather than leaving the whole matter hallucination. The complete device engineering of the final intervention is not claimed to have been reconstructed from this opening.
+
+## Root and temporal siblings
+SF rather than Fantasy: Earth-descended human civilization, actual Earth in the second novel, neurotechnology, alien fungus, printed bodies and q-field physics supply the speculative account. Canus is an alien/material intelligence, not demonstrated supernatural divinity. Real quantum rigor is not claimed, but scientifically loose speculation is not automatically magic under the owner's rule44. No independent fantasy universe is inferred. No fiction/text authors the world and no character edits history as an act of narration, so Fabulation is not the root answer merely because a future can be altered.
+
+Atemporal rather than Futurist: most of this fiction is far-future space action, but the owner explicitly prioritizes any SF temporal travel/communication in an included novel over date/theme sorting. Both the primary future-self contact and completed ending satisfy that gate. Historical/Modern-day do not describe its setting. Within Atemporal, Time travel fiction beats Parallel world fiction: variants are present, but access across times and interaction with the impending future are concrete, not simply travel between coexisting alternative Earths. Reincarnation fails: printing is technological continuity and transfer, not repeated soul-lives. Science fantasy/New Weird do not override an established temporal engine.
+
+## Time travel siblings, strongest rival
+Time travel disorders positively fits the traveler's temporally destabilized neural map, caused by trauma and prolonged double printing and managed with medicine, imaging and experimental suppressor pathways. The condition is acquired through technology, but the current intrinsic condition enables the slipping, much as the existing Yesterday Is History develops its ability after a transplant. It is not necessary for the disorder to be inherited from birth. No leaf definition changes.
+
+Mind over time is the strongest experiential rival because Naira's consciousness spans past and future and she encounters a future self. Its parent expressly excludes a bodily condition; the primary medical mechanism therefore beats the phenomenological resemblance to Time-spanning minds. Temporal telepathy would describe the cross-era encounter while omitting the diagnosed cause. Psychic time journeys fails will/concentration/hypnotic access as method; Naira's symptoms are involuntary and medical, not a practiced mental expedition.
+
+Time machines is a serious apparatus rival because powercores and printing technology are central to the wider story and a core amplifies the first evidenced encounter. But no accessed evidence makes the ceremony powercore a purposely operated time vehicle or an institution's temporal transport programme. Bracken explicitly discusses amplification of an existing temporal condition, not the creation of an agency-owned journey. Do not run the owner test before establishing that there is such an apparatus. Hard time travel loses because the complicated q-field/cosmology is not independently established as rigorous physical extrapolation; reviewers repeatedly flag compressed explanations. Complexity alone is not hardness.
+
+Timeslips is tempting because the text calls Naira's experience slipping, but its gate is unexplained/natural transfer rather than a diagnosed intrinsic disorder. Timestranded lacks a sustained life stranded in another era; Timetribe lacks a displaced community; Timetide's unscheduled returns are a surface resemblance, not the better causal class. Time bleeds fails nobody travelling, and Time tangles fails uncommanded forces as explanation in preference to the specific medical cause. Time loops fails repeated reliving of a bounded interval as organizing structure: alternative outcomes and future intervention do not by themselves establish a loop fiction. Ancestral time travel fails kinship fixing destination. Time distortion fails different clock rates as engine; the universe's spatial expansion is not itself time travel. Time crossroads lacks a keeper-run hub outside time. Time tonics fails a substance producing the crossing: Naira's administered drugs suppress symptoms, rather than transport her. Time door fails a standing unexplained passage used at will: a visible figure in a powercore is not proof of walking through a permanent natural door.
+
+## Counterfactual future placement and wobble
+Without the included temporal event, Futurist > Spacefaring > Space opera would be the sensible broad route. Survival, revolutionary infiltration, ecological alien horror, dynasty politics and romance all matter. Space combat would overread the soldier protagonist, and a first-book conspiracy label would omit the second/third-book transformation into rebuilding and cosmic survival. The author expressly calls the finale an examination of systemic exploitation after defeating the old antagonist. This whole-fiction breadth is retained, but none overrides the owner's time-travel priority. The third volume's diagnosis plus actual time contact is the reason for the chosen existing leaf, not a claim that all three books are chiefly medical time-travel romances.
+
+## Covers
+One series-wide cover search. Six actual flat fronts inspected: creator's three and Black Gate's2026three. All use Jaime Jones artwork, independently credited by Black Gate. First creator image1800x2775 selected over389x600duplicate; Fractured Dark382x600BlackGate over310x454creator; Bound Worlds386x600BlackGate over300x468creator. Detailed atmospheric colored landscapes, human figures, spacecraft/planets. Scores8/8/8.5. English titles and correct author legible. Individual fronts do not supply the complete series title, so fiction card requires The Devoured Worlds overlay. No cover bytes enter repository. Initial extraction caught the wrong source order and was corrected before selection/mutation; corrected six-front sheet visually checked.
+
+## Sources read
+https://www.meganokeefe.com/books
+https://www.isfdb.org/cgi-bin/ea.cgi?203092=
+https://www.isfdb.org/cgi-bin/title.cgi?3162960=
+https://shop.hachettebookgroup.com/products/the-fractured-dark-9780316291347
+https://bingebooks.com/book/the-bound-worlds
+https://paulsemel.com/exclusive-interview-the-bound-worlds-author-megan-e-okeefe/
+https://www.libraryjournal.com/review/the-bound-worlds-1803413
+https://meggatzabookclub.wordpress.com/2024/05/02/the-bound-worlds-by-megan-e-okeefe/
+https://www.librarything.com/reviews/walterqchocobo
+https://pilebythebed.com/index.php/2024/the-bound-worlds-by-megan-okeefe/
+https://app.thestorygraph.com/reviews/171fe8e1-203a-42bc-b57d-27c3ac4cd743
+https://bloggingwithdragons.com/book-review-the-bound-worlds/
+https://theseawrites.wordpress.com/2024/08/11/review-the-bound-worlds-by-megan-e-okeefe/
+https://infinitefreetime.com/2025/06/05/review-the-devoured-worlds-trilogy-by-megan-e-okeefe/
+https://amazingstories.com/2025/04/more-addictive-space-adventures/
+https://www.blackgate.com/2026/01/17/rich-horton-on-the-blighted-stars-by-megan-okeefe/
+https://www.blackgate.com/2023/07/25/new-treasures-emthe-devoured-worldsem-by-megan-e-okeefe/
+https://www.hachette.co.uk/titles/megan-e-okeefe/the-first-omega/9780356517148/
+
+## Authority and limits
+Individual fiction/book placement and shared-universe consolidation entrusted by authenticated owner message phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX, personally recovered25November19:06. No structural mutation. Source mix includes primary creator, authorized novel sample, publisher, bibliographic records and completed professional/independent/community reviews. No unauthorized full-book mirrors or fanfiction treated as novel evidence. Confidence high for SF/time gate and medical access, moderate for the secondary-source ending details. Library Journal's anticipatory May2024date conflicts with actual June25publication and is not used as original publication date.
