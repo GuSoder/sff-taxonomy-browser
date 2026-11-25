@@ -1,0 +1,50 @@
+# The Protectorate whole-fiction walk, MC06618/619/625
+25 November 2026
+
+## Scope and verdict
+One fiction, three published novels by Megan E. O'Keefe: Velocity Weapon (2019), Chaos Vector (2020), Catalyst Gate (2021). Author groups all three as The Protectorate trilogy; Black Gate supplies exact dates 11 June 2019, 28 July 2020, 22 June 2021 and confirms Orbit editions. No common-universe evidence connects Devoured Worlds or Faven Sythe, so those remain separate pending intake. The First Omega is explicitly a novella in Hachette's own description and is excluded by form, not treated as part of this fiction.
+
+Place Space combat, nine to ten. Stop intake immediately after this placement, retain the original node until a split proposal is approved. No structural change is authorized by the placement. The cap is a consequence, not a reason to misplace the fiction.
+
+## Whole-fiction evidence
+Sanda Greeve wakes after an attack on her gunship aboard enemy smartship Light of Berossus, Bero. Biran enters the Keepers' political/technological hierarchy and thieves led by Jules discover a hidden lab. Gate access underlies a cold war between Ada Prime and Icarion. Burrowed Books' completed spoiler review explicitly resolves the supposed 230-year gap as Bero's lie: the strands are in approximately the same timeframe. Templeton Gate independently records its reviewer's original time-portal theory and says the reveal was different. Its later trilogy addenda do speculate about future origins of the technology, but this remains the reviewer's hypothesis, not an established plot fact. Do not promote it into time travel.
+
+The sequel follows Sanda and Tomas fleeing after freeing the smartship, seeking coordinates beyond a dead gate while enemies want the implant in Sanda's skull. The final novel's publisher gives the continuing enemy as ancient alien intelligence Rainier and her clones, with Sanda and a crew of fighters, hackers and spies fighting to stop humanity's destruction. Pile by the Bed, Sifa Elizabeth, FanFiAddict and The Quill to Live all read the finale; they agree on continuing fights, dangerous reversals, Sanda's active military heroism, and Biran/Jules' linked intrigue. The Quill identifies the action's breathless pace and systemic escalation; Pile describes punch-first risk-taking and the crew's fight against Rainier, with Biran weeding out clones and Jules facing a biological weapon's aftermath.
+
+Rainier's precise ontology remains source-divided: alien intelligence, AI and hybrid descriptions coexist. Templeton explicitly says its corporeal versus machine origins and the Waiting remain partly unexplained. This is a real qualification, not license to invent gods or a fully explained scientific theory. No included-book temporal crossing was established in the completed trilogy reviews read. Flashbacks and a false timestamp do not meet that gate.
+
+## Root-down walk
+Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Space opera > New space opera > Space adventure > Space combat.
+
+Root: Science fiction, not Fantasy. Starships, technological gates, implants, machine personalities, biological weaponry and alien intelligence explain the story's speculative frame. No literal supernatural magic established. Unexplained advanced alien powers are not by themselves proof of magic or mythology. No authored-fiction/reality-text mechanism for Fabulation.
+
+Temporal: Futurist, not Historical or Modern-day, since human interstellar civilization and Keepers are thousands of years after Earth's first gate. Prime Year 3541 is a fictional calendar, not a Gregorian date to repeat as our year. Atemporal is a serious rival from the publisher's apparent 230-year jump, but the completed spoiler review says this gap is fabricated by Bero. Even long genuine cryosleep would not itself prove travel into the past. The final-volume sources read establish no travel or communication across time. The reviewer's speculative far-future explanation is preserved as speculation, not a fact. No parallel-world, reincarnation or science-fantasy gate demonstrated.
+
+Futurist siblings: Spacefaring, because starfaring warfare, gate access and the survival of interstellar humanity are the arena. Hard SF loses to the action/intrigue story despite gate/AI ideas, with no rigorous scientific-extrapolation promise across the trilogy. Future of Earth would erase its multi-system theater. Alien fiction is a meaningful rival from Rainier and gate origins, but this is primarily Sanda/Biran/Jules' human conflict and adventure, not the sustained experience of contact or alien society.
+
+Spacefaring siblings: Space opera wins over Military science fiction. Sanda is a military protagonist and commands a powerful ship, but the trilogy interleaves escape, criminal discovery, conspiracy and political secrets rather than sustained fleet campaigns, infantry service, officer formation or command logistics. Space command would overread her command of a small ad hoc crew. Space navy would make Bero a naval-service procedural; Ground-pounders would overread one heroine's fighting. Space academy concerns Biran's initial promotion only, not three books' center. Space techno fiction is a substantial rival because gates, implants and AI matter to every twist, but the publisher and completed readers consistently foreground the action conflict rather than identity transfer, computing or network practice as the reading experience. No move there just because an AI is important. Future history in space overstates civilizational chronicle: the connected immediate crises and protagonists drive it. Generation starships lacks a multigeneration voyage; Space dystopias would substitute a closed oppressive society for the fight against Rainier; Space colonies would pin an interstellar story to civic life in one settlement; Comic space fiction loses because quips are not the governing comic mode.
+
+Space opera: New, a contemporary self-aware space opera published 2019-2021, not original pulp-wave fiction or a demonstrated deliberate nostalgic throwback. Evergreen is an economic gate restricted by the owner's clarification, not a synonym for well-reviewed or enduring. No evidence for that gate.
+
+New space opera siblings: Space adventure rather than Political space opera. Gate monopoly, Biran's Keepers intrigue, and Rainier's subversion are substantial politics, but the governing trio fight to discover and defeat an ancient intelligence's humanity-ending scheme. This is not mainly competing courts/houses, a contested throne, post-scarcity intervention or replacement of orders after collapse. Insurgent space opera is the strongest political rival because insiders expose a corrupt hierarchy, but overthrowing that hierarchy as the primary collective political undertaking is less well supported than the action against Rainier. Treating all conflict with secret institutional power as revolution would flatten the distinction. Theological space opera would turn partly unexplained aliens into a sacred quest, not established. Space soap opera's romance and found-family bonds are real, but fighting and peril do not merely supply relationship stakes here. Space western lacks a sustained frontier-lawless-livelihood promise despite thieves and a mixed crew.
+
+Space adventure siblings: Space combat. The whole trilogy grows into Sanda's crew fighting a powerful enemy, with rescues, battles, bodily peril and repeated confrontation. Space caper describes Jules' initial thief job and covert operations, not a continuing planned heist/con. Space chase is a genuine wobble: Chaos Vector begins with fugitives, coordinates and a pursued implant. Across all three, however, flight becomes the means of facing Rainier, not a sustained escape-to-freedom story. Space hunt's following clues and seeking coordinates is also present, but not more central than the fighting and danger the completed finale reviews stress. No claim that every chapter is combat. Place by whole-fiction engine, not Sanda's occupational label alone. Space combat reaches ten; split is now owed before any further intake.
+
+## Cover curation
+One series-wide cover search, author and Black Gate edition fronts compared in a six-front actual-pixel contact sheet. All three are the same Sparth artwork, credited by Black Gate and SFE. Author copies are 210x315 with white border. Black Gate supplies 600x900 / 583x900 / 583x900 flat fronts with no physical-book mockup, selected for larger clean reproduction. Scores 7.5 / 8 / 8: detailed spacecraft with strong red/gold color, partly schematic rather than full painterly realism. English volume titles and author visible. Fiction card must overlay The Protectorate because individual jackets do not carry the complete series label prominently. Hotlinks only, no cover bytes in the repository. Live pixels remain an operational publication check.
+
+## Sources
+https://www.meganokeefe.com/books
+https://www.blackgate.com/2021/12/31/the-protectorate-trilogy-by-megan-e-okeefe/
+https://sf-encyclopedia.com/entry/okeefe_megan_e
+https://www.isfdb.org/cgi-bin/ea.cgi?203092=
+https://www.burrowedbooks.com/book/velocity-weapon-okeefe/
+http://templetongate.net/protectorate.htm
+https://shop.hachettebookgroup.com/products/chaos-vector
+https://shop.hachettebookgroup.com/products/catalyst-gate
+https://pilebythebed.com/index.php/2021/catalyst-gate-by-megan-okeefe/
+https://sifaelizabethreads.wordpress.com/2021/07/07/book-review-catalyst-gate-by-megan-okeefe/
+https://fanfiaddict.com/review-catalyst-gate-the-protectorate-3-by-megan-e-okeefe/
+https://thequilltolive.com/2021/07/08/catalyst-gate-megan-okeefe-book-review/
+https://www.fantasybookreview.co.uk/Megan-E-O-Keefe/Catalyst-Gate.html
+https://www.hachette.co.uk/titles/megan-e-okeefe/the-first-omega/9780356517148/
