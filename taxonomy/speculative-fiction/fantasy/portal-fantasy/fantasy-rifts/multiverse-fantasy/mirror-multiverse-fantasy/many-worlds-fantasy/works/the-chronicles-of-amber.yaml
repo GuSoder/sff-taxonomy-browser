@@ -4,11 +4,33 @@ authors:
 - Roger Zelazny
 - John Gregory Betancourt
 first_published: 1970
-canonical_genre: mirror-multiverse-fantasy
+canonical_genre: many-worlds-fantasy
 placement_status: grounded
 placement_rationale: 'SFE (zelazny_roger): Amber is the plane of greater fundamental reality and Earth one of its shadows;
   Corwin travels from shadow-Earth to Amber - classic portal fantasy. Fiction entry covers the Amber sequence (Corwin + Merlin),
-  initiated by Nine Princes in Amber (1970).'
+  initiated by Nine Princes in Amber (1970).
+
+
+  ## Approved Mirror subdivision, 25 November 2026
+
+
+  Root-down rewalk: Speculative fiction > Fantasy > Portal fantasy > Fantasy rifts > Multiverse fantasy > Mirror multiverse
+  fantasy > Many worlds fantasy. All existing ancestor-gate evidence above remains in force. No book, author, year or cover
+  is changed.
+
+
+  Fourteen included novels share royal power and family conflict across walkable shadows of reality. The indefinitely many
+  counterpart versions, not a single recurring world pair or a second personal life, are the famous defining stage.
+
+
+  Sibling selection is prioritized by the famous whole-fiction invitation: personal alternate life first when that is the
+  central experience; otherwise recurring counterpart pair versus a chain of counterpart destinations. It does not claim count
+  is irrelevant or every subplot disjoint.
+
+
+  Explicit owner confirmation phonemsg-01M891XDFQ58K7WMTY1GWSATDW (2026-11-25 10:52 CET) resolves the older reply-target ambiguity
+  and approves revised proposal phonemsg-01M88MHYPTY2JPQSGH7QAMVF51, Twin worlds fantasy / Many worlds fantasy / Parallel
+  lives fantasy, 4/4/2, Burn in Twin.'
 classification_source: SFE entry zelazny_roger
 cover:
   source: openlibrary
@@ -34,6 +56,14 @@ placement_history:
   reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
     or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
     fantasy and Gateway multiverse fantasy), relayed by the parent.
+- date: '2026-11-25'
+  from: mirror-multiverse-fantasy
+  to: many-worlds-fantasy
+  reason: Fourteen included novels share royal power and family conflict across walkable shadows of reality. The indefinitely
+    many counterpart versions, not a single recurring world pair or a second personal life, are the famous defining stage.
+    Explicit owner confirmation phonemsg-01M891XDFQ58K7WMTY1GWSATDW (2026-11-25 10:52 CET) resolves the older reply-target
+    ambiguity and approves revised proposal phonemsg-01M88MHYPTY2JPQSGH7QAMVF51, Twin worlds fantasy / Many worlds fantasy
+    / Parallel lives fantasy, 4/4/2, Burn in Twin.
 books:
 - title: Nine Princes in Amber
   year: 1970

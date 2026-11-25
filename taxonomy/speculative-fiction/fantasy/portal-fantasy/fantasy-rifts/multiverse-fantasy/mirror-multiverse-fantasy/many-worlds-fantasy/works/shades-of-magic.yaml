@@ -1,78 +1,94 @@
-id: apprentice-adept
-title: Apprentice Adept
+id: shades-of-magic
+title: Shades of Magic
 authors:
-- Piers Anthony
-first_published: 1980
-canonical_genre: mirror-multiverse-fantasy
+- V. E. Schwab
+first_published: 2015
+canonical_genre: many-worlds-fantasy
 placement_status: accepted
-placement_rationale: 'Piers Anthony''s Apprentice Adept (Split Infinity, Blue Adept, Juxtaposition): Stile, a game-playing
-  citizen of the science planet Proton, crosses into Phaze, the magic world that shares its place, and the plot runs across
-  the two parallel worlds and their counterparts. Root-down: Fantasy -> Portal fantasy -> Fantasy rifts -> Multiverse fantasy;
-  a system of paired worlds, science and magic, with the story moving between them.'
-books:
-- title: Split Infinity
-  year: 1980
-  authors:
-  - Piers Anthony
-  cover_url: cover-apprentice-adept-01.jpg
-  shows_english_title: true
-- title: Blue Adept
-  year: 1981
-  authors:
-  - Piers Anthony
-  cover_url: cover-apprentice-adept-02.jpg
-  shows_english_title: true
-- title: Juxtaposition
-  year: 1982
-  authors:
-  - Piers Anthony
-  cover_url: cover-apprentice-adept-03.jpg
-  shows_english_title: true
-- title: Out of Phaze
-  year: 1987
-  authors:
-  - Piers Anthony
-  cover_url: cover-apprentice-adept-04.jpg
-  shows_english_title: true
-- title: Robot Adept
-  year: 1988
-  authors:
-  - Piers Anthony
-  cover_url: cover-apprentice-adept-05.jpg
-  shows_english_title: true
-- title: Unicorn Point
-  year: 1989
-  authors:
-  - Piers Anthony
-  cover_url: cover-apprentice-adept-06.jpg
-  shows_english_title: true
-- title: Phaze Doubt
-  year: 1990
-  authors:
-  - Piers Anthony
-  cover_url: cover-apprentice-adept-07.jpg
-  shows_english_title: true
+placement_rationale: 'Schwab and Tor describe Antari magicians traveling between parallel Londons whose magic differs, with
+  Kell repeatedly escaping or carrying others from one London to another. The magical inter-world crossing is the trilogy''s
+  defining mechanism, fitting Fantasy rifts.
+
+
+  ## Approved Mirror subdivision, 25 November 2026
+
+
+  Root-down rewalk: Speculative fiction > Fantasy > Portal fantasy > Fantasy rifts > Multiverse fantasy > Mirror multiverse
+  fantasy > Many worlds fantasy. All existing ancestor-gate evidence above remains in force. No book, author, year or cover
+  is changed.
+
+
+  The four included novels share the four counterpart Londons and their shifting magic, trade, smuggling and threats. Several
+  recognizable versions of one city are the famous defining stage, without any claim that the number is infinite.
+
+
+  Sibling selection is prioritized by the famous whole-fiction invitation: personal alternate life first when that is the
+  central experience; otherwise recurring counterpart pair versus a chain of counterpart destinations. It does not claim count
+  is irrelevant or every subplot disjoint.
+
+
+  Explicit owner confirmation phonemsg-01M891XDFQ58K7WMTY1GWSATDW (2026-11-25 10:52 CET) resolves the older reply-target ambiguity
+  and approves revised proposal phonemsg-01M88MHYPTY2JPQSGH7QAMVF51, Twin worlds fantasy / Many worlds fantasy / Parallel
+  lives fantasy, 4/4/2, Burn in Twin.'
+classification_sources:
+- https://www.veschwab.com/shades
+- https://torpublishinggroup.com/a-darker-shade-of-magic/?format=trade&isbn=9781250891211
+- https://us.macmillan.com/series/shadesofmagic
 cover_curation:
-  status: complete
-  source: Open Library / publisher
-  selected_url: https://covers.openlibrary.org/b/id/6564851-L.jpg
-  visually_reviewed_on: '2026-10-04'
-  review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC07816, MC07808, MC07813)
+  status: ranked
+  selected_url: https://covers.openlibrary.org/b/id/7410930-L.jpg
+  shows_english_title: true
+  review_method: one-pass
+books:
+- title: A Darker Shade of Magic
+  year: 2015
+  authors:
+  - V. E. Schwab
+  cover_url: cover-shades-of-magic-01.jpg
+  shows_english_title: true
+- title: A Gathering of Shadows
+  year: 2016
+  authors:
+  - V. E. Schwab
+  cover_url: cover-shades-of-magic-02.jpg
+  shows_english_title: true
+- title: A Conjuring of Light
+  year: 2017
+  authors:
+  - V. E. Schwab
+  cover_url: cover-shades-of-magic-03.jpg
+  shows_english_title: true
+- title: The Fragile Threads of Power
+  year: 2023
+  authors:
+  - V. E. Schwab
+  cover_url: cover-shades-of-magic-04.jpg
+  shows_english_title: true
+partition_note: Repartitioned from Fantasy rifts under the curator's 2026-09-20 ruling (Multiverse fantasy = many-worlds system;
+  Otherworld fantasy = one hidden world revealed).
 placement_history:
-- date: '2026-10-04'
-  to: multiverse-fantasy
-  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/portal-fantasy/multiverse-fantasy
+    to match live tree; placement unchanged on site.'
+  previous_canonical_genre: Multiverse fantasy
 - date: '2026-10-04'
   from: multiverse-fantasy
   to: mirror-multiverse-fantasy
   reason: Split of Multiverse fantasy at ten cards, split-with-umbrella, by how the worlds relate (counterparts of one another,
     or distinct realms joined by a crossing); curator "Approved", 2026-10-04 10:02 PM (after the proposal naming Mirror multiverse
     fantasy and Gateway multiverse fantasy), relayed by the parent.
-cover_url: cover-apprentice-adept-01.jpg
+- date: '2026-11-25'
+  from: mirror-multiverse-fantasy
+  to: many-worlds-fantasy
+  reason: The four included novels share the four counterpart Londons and their shifting magic, trade, smuggling and threats.
+    Several recognizable versions of one city are the famous defining stage, without any claim that the number is infinite.
+    Explicit owner confirmation phonemsg-01M891XDFQ58K7WMTY1GWSATDW (2026-11-25 10:52 CET) resolves the older reply-target
+    ambiguity and approves revised proposal phonemsg-01M88MHYPTY2JPQSGH7QAMVF51, Twin worlds fantasy / Many worlds fantasy
+    / Parallel lives fantasy, 4/4/2, Burn in Twin.
+cover_url: cover-shades-of-magic-01.jpg
 shows_english_title: true
 inventory_review_2026_11_06:
-  novels: 7
+  novels: 4
   scope: Whole shared fiction, published prose novels only; no duplicate omnibuses, collections, graphic works or future announcements.
   sources: '# Source ledger,6November2026
 
@@ -245,10 +261,7 @@ inventory_review_2026_11_06:
   cover_curation: All actual pixels reviewed. Split Infinity and Blue Adept stickered scans replaced; Out of Phaze blank cloth
     replaced. Slaves of Sleep standalone Dell print front, Masters omnibus front explicitly disclosed.
   cover_sources:
-  - https://images1.penguinrandomhouse.com/cover/9780345354914
-  - https://images1.penguinrandomhouse.com/cover/9780345352453
-  - https://covers.openlibrary.org/b/isbn/9780345301963-L.jpg
-  - https://covers.openlibrary.org/b/isbn/9780441644650-L.jpg
-  - https://covers.openlibrary.org/b/isbn/9780399133596-L.jpg
-  - https://covers.openlibrary.org/b/isbn/9780399134333-L.jpg
-  - https://covers.openlibrary.org/b/isbn/9780399135293-L.jpg
+  - https://covers.openlibrary.org/b/id/7410930-L.jpg
+  - https://covers.openlibrary.org/b/id/7990183-L.jpg
+  - https://covers.openlibrary.org/b/id/7990184-L.jpg
+  - https://d827xgdhgqbnd.cloudfront.net/wp-content/uploads/2023/03/08113258/Fragile-Threads-final-scaled.jpg
