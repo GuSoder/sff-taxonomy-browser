@@ -1,3 +1,5 @@
+SUPERSEDED 25 November 2026: subsequent completed-Soulfire research establishes shared cosmology/crossover. See walk-mc06570-75-legacy-soulfire.md and current canonical rationale. This historical first-trilogy walk is not the current scope or placement.
+
 # The Legacy Trilogy whole-fiction walk, 25 November 2026
 
 ## Scope and evidence
