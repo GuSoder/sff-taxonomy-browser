@@ -1,0 +1,41 @@
+# MC06628 The Need, Megan Mostyn-Brown, 2026
+26 November 2026
+
+## Identity and corpus
+New standalone debut novel, not Helen Phillips' The Need2019 already in Multiverse selves. Exact author/title checked against every current card/book. Publisher first publication22September2026; creator interviews confirm debut, no verified sequel to add. Novel is published, not future-publication monitoring. Current reader-present upstate New York/NYC with TikTok, social media, contemporary medical/genetics research.
+
+## Root uncertainty resolved without erasing it
+Natural inherited disorder requires human flesh for survival; elite Armstrong family treats trait as superiority, oppresses unmodified relatives and seeks gene therapy to give it to Rosie. Creator explicitly researched genetic labs/gene therapy/anemia with a genetics professor. This is positive speculative-biological evidence, not an assumption that a horror imprint means SF.
+
+Vera sees murdered mother-in-law Celeste. LARB calls the haunting literal, and another finished reviewer calls it part ghost story. Legal Google Books preview explicitly has Vera ask whether this is guilt or descent into madness. Publisher describes sanity unraveling; creator says she loves unreliable narrators. Nothing accessed independently establishes an externally acting dead spirit or makes hallucination the conclusive resolution. Therefore record genuine ambiguity, not proven hallucination and not dismissing the literal-ghost critic. Owner original30September09:39:25 phonemsg-01M3RM21XYVYNPRKB11M7VY69V says no proof of magic plus SF tropes goes SF-side;25September ambiguity rule36 supports uncertain rather than established magic. Apply that to the demonstrated genetics/gene-therapy frame. A later clear literal-spirit event would move the whole fiction to Fantasy; no permanent exemption to no-magic granted. No fabricated scientific explanation of Celeste. Confidence moderate, preserved for future correction.
+
+## Full root-down actual-tree walk
+Speculative fiction > Science fiction > Modern day SF > Bioengineering > Genetic engineering > Genetic caste fiction.
+
+Fantasy tested first: real Earth, not invented realm or portal. If Celeste is positively supernatural, Contemporary fantasy's appropriate bodily/haunting branch would require rewalk; fantasy is not ruled out forever. Current evidence supports technological/biological horror with unresolved guilt apparition under owner's ambiguity rule, not proven fantasy magic. Not Fabulation: no fiction entering reality, character editing authored reality, unstable narrative ontology or manufactured storyworld. Multiple unreliable narrators alone do not make Books in books or inner-space reality projection.
+
+SF temporal children: recognizable present explicitly wanted by creator. No intentional historical frame, far-future society or spacefaring anchor. No actual time travel/parallel-world travel shown; family history and changing POV do not establish it. Thus Modern day rather than Historical/Futurist/Atemporal. Not Helen Phillips' multiverse novel despite identical title.
+
+Modern day children all checked: no aliens/invasion/contact; apocalypse is not unfolding; not comic-adventure/romcom/satirical SF as governing mode even with black humor. Social dystopia's entire society inversion/surveillance/spectacle is not its engine: an elite secret family and gene conversion, not a total designed regime. Technothriller has a geneticist and research but not technical-detail crisis/spytech/infowar as whole reading. Soft SF > Creature feature is a plausible biological-horror rival, but the cannibals are human-family subjects with concrete hereditary mechanism and a deliberate gene-engineering project, not pulp creatures coming at humans without scientific pretence. Psychological/social SF could express family trauma/class, but the manipulated inherited human trait is more specific. No psychic powers or cryptozoological hidden animal premise.
+
+Bioengineering: intended gene therapy to turn unmodified Rosie into the family's designated human kind drives pursuit and conflict. Merely finding a natural cannibal mutation would not by itself satisfy deliberate engineering; positive conversion experiment is essential. No medical nanomachines. Genetic engineering rather than cloning: no duplicated person or replacement body. Not Hard genetic SF, where the scientific research/mechanism itself is the subject: Joaquin's experiments serve forced kinship and genetic rank, not a rigorous laboratory-discovery novel. Genetic caste fiction's designed/enhanced kinds and divide/forced enhancement fits the elite inheritable kind's demand to alter a resistant unmodified family member. Do not pretend original disorder was engineered or that every cannibal chooses power. Talia's resistance, Sam's uncontrolled hunger and Rosie's refusal show the divide's personal stakes. Family/class horror rather than generic inherited superpowers.
+
+## Former hold and mandatory destination audit
+Current row held while Genetic caste's nine and reached Huxleyan/Rewired/Space-tech destinations were checked. Genetic caste's old nine had invalid members, now3before this placement: Sorrowland,Fledgling,Altered. No fabricated ten-card split. Finite exposed corrections completed separately: time/mind and period/ancestor repairs, shared universes merged, approved Space-tech6/4split live then subsequent Hanuman placement. This row is not marked done until actual placement commit. No new seed/split/gate/portrait necessary. All prior holds and root ambiguity retained here rather than erased.
+
+## Cover
+Flat English front observed at Penguin UK image URL and actual327x500pixels inspected26November: two open red mouths, correct author/title readable. Hotlink only, no cover bytes in repository. Not the unrelated Helen Phillips front. URL: https://cdn.penguin.co.uk/dam-assets/books/9780857508461/9780857508461-jacket-large.jpg
+
+## Sources actually read
+Publisher/dated corpus: https://www.penguinrandomhouse.com/books/803620/the-need-by-megan-mostyn-brown/
+Creator genetics/research and unreliable narration: https://friendsandfiction.substack.com/p/a-conversation-with-megan-mostyn
+Creator present-day biological premise: https://pophorror.com/interview-with-the-need-author-megan-mostyn-brown/
+Creator drafting/deleted perspectives: https://www.writersdigest.com/megan-mostyn-brown-writing-this-book-really-made-me-fall-in-love-with-writing-again
+Critical dissent, literal haunting and conversion research: https://lareviewofbooks.org/article/need-megan-mostyn-brown-cannibal-horror-femgore-consumption/
+Finished review genetic conversion/ghost overlap: https://mariehendry.substack.com/p/review-the-need-by-megan-mostyn-brown
+Finished review inheritance/rank: https://gnofhorror.com/the-need-by-megan-mostyn-brown-review/
+Legal limited book-preview uncertainty: https://books.google.com/books?id=F22-EQAAQBAJ&jscmd=SearchWithinVolume2&q=guilt%20tormenting
+No full-novel read claimed; no unauthorized full-book mirror. Source excerpts from legal publisher preview are limited, not completeness proof.
+
+## Authority
+Original4October2026phonemsg-01M43MYMGAMQTNA3CY402KK7FB authorizes original-tree hard-walk intake, with structural approval stops only if needed. Original30Octoberphonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX delegates individual-fiction judgment. Both recovered personally. No new structural approval inferred.
