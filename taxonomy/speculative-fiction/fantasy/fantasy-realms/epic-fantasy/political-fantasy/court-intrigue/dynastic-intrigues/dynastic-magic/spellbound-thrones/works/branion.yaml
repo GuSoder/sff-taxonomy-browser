@@ -1,15 +1,18 @@
-id: blood-of-the-four
-title: Blood of the Four
+id: branion
+title: Branion
 authors:
-- Christopher Golden
-- Tim Lebbon
-first_published: 2018
-canonical_genre: dynastic-magic
+- Fiona Patton
+first_published: 1997
+canonical_genre: spellbound-thrones
 placement_status: accepted
-placement_rationale: 'Golden and Lebbon''s Blood of the Four (2018): Quandis''s royal house rules by claimed descent from
-  the Four, sorcerers-turned-gods, and Princess Phela seizes the throne meaning to master that magic and make her rule divine
-  - dynastic intrigue where gods and magic are the dynasty''s own weapon. Walk: Fantasy > Fantasy realms > Epic fantasy >
-  Political fantasy > Court intrigue > Dynastic intrigues > Dynastic magic. Sources: kirkusreviews.com, timlebbon.net.
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Court
+  intrigue > Dynastic intrigues > Dynastic magic. One four-book series in one world (the Branion series, Penguin Random House;
+  The Stone Prince is Book 1 of 4), so one fiction (rule 11j). Per PRH: the royal line of Branion wields the Flame, a magic
+  that none can stand against and that destroys an untrained vessel, and the family intrigue around Queen Melesandra, Crown
+  Prince Demnor and the heirs who answer to other Aspects (Wind, Sea, Oaks) is the story. The ruling line''s magic is the
+  instrument and the stake, which is the Dynastic magic definition. Rejected: Dynastic favor (regard of the ruler is secondary
+  to the Flame), Hidden heir quest (not one marked heir). Wobble: Dynastic wars is the second reading for The Golden Sword''s
+  war. Years are the DAW first editions, not the queue''s reissue years.
 
 
   # Dynastic magic current-nine bounded destination audit,26November2026
@@ -67,20 +70,65 @@ placement_rationale: 'Golden and Lebbon''s Blood of the Four (2018): Quandis''s 
   This audit supplies percard retentions not blanketallcleanclaim. Legacy unrelated malformedYAML not touched. Freeze after
   tenth and textualsplit proposal before any nextintake.
 
-  '
+
+
+  ## Approved Dynastic magic subdivision,26November2026
+
+
+  Root-down rewalk: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Court intrigue > Dynastic
+  intrigues > Dynastic magic > Spellbound thrones. Existing whole-fiction source evidence retained. Positive literal magic,not
+  established technological demystification; invented fantasy realms,not actual Earth inferred from Tudor/Celtic analogues.
+  No cross-world journey or reality-authoring engine established. At Epic fantasy,political contests over rule outweigh isolated
+  hero progression,quests and domestic comfort. At Political fantasy,the ruling-line succession and court/house struggle take
+  priority over public magical regulation,revolutionary or insurgent programs and international statecraft alone. At Court
+  intrigue,the dynasty and legitimacy are the sustained prize,not a single courtier profession. At Dynastic intrigues,magical
+  capacity or supernatural royal conditions are the repeated instrument,not ordinary field war,assassination,murder mystery,spy
+  apparatus or favor trading. Existing per-fiction temporal/root qualifications remain; gods,prophecies,narrative time gaps
+  and ancestral memory are not by themselves literal time travel. No ancestor gate changed. Full per-member novel walks and
+  exact sources remain in the preserved prior rationale,audit-dynastic-magic-destination-2026-11-26.md and audit-dragon-prince-2026-11-26.md.
+
+
+  Whole four novels: the rightful sovereign is a vessel for the Living Flame,a divine presence with its own claims,amid competing
+  religions and elemental loyalties. Royal heredity is a real Sorcerer dynasties overlap,but actual divine indwelling and
+  its conditions on legitimacy take priority over ordinary inherited fire spellcraft.
+
+
+  Approved positive distinction: ruling families wielding magical capacity versus sovereignty bound to supernatural powers
+  and conditions. Local crossovers retained,not a claim of mutually absent themes. Whole shared fictions retained; no book,title,author,year
+  or hotlinked cover changed.
+
+
+  Owner Approved phonemsg-01M8CAS2A1N6XY2CT5QX6WTMG5,26November2026at17:24:50CET, immediately following final proposal phonemsg-01M8CAQCJH6E4V3QN8DJ40GEN9.
+  Both originals inspected in authenticated conversation context. Earlier names rejected, this approves Sorcerer dynasties
+  and Spellbound thrones only.'
 books:
-- title: Blood of the Four
-  year: 2018
+- title: The Stone Prince
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/683366-L.jpg
+- title: The Painter Knight
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/683400-L.jpg
+- title: The Granite Shield
+  year: 1999
+  cover_url: https://covers.openlibrary.org/b/id/683452-L.jpg
+- title: The Golden Sword
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/683506-L.jpg
 cover_curation:
   status: complete
-  source: Open Library (Harper Voyager 2018)
-  selected_url: https://covers.openlibrary.org/b/id/8600842-L.jpg
-  shows_english_title: true
-  visually_reviewed_on: '2026-10-17'
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/683366-L.jpg
+  visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC01798)
+intake: ten-k walk v5 (queue ids MC03155, MC03152, MC03151, MC03149)
 placement_history:
-- date: '2026-10-17'
+- date: '2026-10-04'
   to: dynastic-magic
-  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB; obvious
-    placement, no question per phonemsg-01M54NW04SEYDB64EDSQHK8438).'
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-26'
+  from: dynastic-magic
+  to: spellbound-thrones
+  reason: 'Whole four novels: the rightful sovereign is a vessel for the Living Flame,a divine presence with its own claims,amid
+    competing religions and elemental loyalties. Royal heredity is a real Sorcerer dynasties overlap,but actual divine indwelling
+    and its conditions on legitimacy take priority over ordinary inherited fire spellcraft.'
+  authority: phonemsg-01M8CAS2A1N6XY2CT5QX6WTMG5

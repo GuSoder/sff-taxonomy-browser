@@ -1,18 +1,20 @@
-id: branion
-title: Branion
+id: queens-of-elben
+title: Queens of Elben
 authors:
-- Fiona Patton
-first_published: 1997
-canonical_genre: dynastic-magic
+- Holly Race
+first_published: 2025
+canonical_genre: spellbound-thrones
 placement_status: accepted
 placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Court
-  intrigue > Dynastic intrigues > Dynastic magic. One four-book series in one world (the Branion series, Penguin Random House;
-  The Stone Prince is Book 1 of 4), so one fiction (rule 11j). Per PRH: the royal line of Branion wields the Flame, a magic
-  that none can stand against and that destroys an untrained vessel, and the family intrigue around Queen Melesandra, Crown
-  Prince Demnor and the heirs who answer to other Aspects (Wind, Sea, Oaks) is the story. The ruling line''s magic is the
-  instrument and the stake, which is the Dynastic magic definition. Rejected: Dynastic favor (regard of the ruler is secondary
-  to the Flame), Hidden heir quest (not one marked heir). Wobble: Dynastic wars is the second reading for The Golden Sword''s
-  war. Years are the DAW first editions, not the queue''s reissue years.
+  intrigue > Dynastic intrigues > Dynastic magic. In the invented kingdom of Elben the king must marry six queens and magically
+  bind each to one of the island''s palaces or the kingdom falls; the court teems with dragons and strange magic, and in book
+  two the king has stolen his wives'' magic to prolong his reign (Hachette Book Group; author site hollyrace.com; Orbit UK).
+  A Tudor court retold in an invented realm, where magic is the instrument of the ruling line, the leaf''s definition. Rejected:
+  Dynastic favor (the queens vie for favor but the binding magic is the engine), Dynastic spy games (Seymour spies, the stakes
+  are the magic), Crown enemies romantasy (sapphic romance is present but the court is the story), Court statecraft (not ruler-level
+  governance). Wobble: moderate; Boleyn and Seymour''s alliance and romance pull toward Romantasy and the favor contest toward
+  Dynastic favor. Sources: Hachette, hollyrace.com, Orbit UK. Years: Six Wild Crowns Jun 10, 2025 (US and UK); Six Savage
+  Thrones Jun 16, 2026.
 
 
   # Dynastic magic current-nine bounded destination audit,26November2026
@@ -70,28 +72,59 @@ placement_rationale: 'Root-down: Speculative fiction > Fantasy > Fantasy realms 
   This audit supplies percard retentions not blanketallcleanclaim. Legacy unrelated malformedYAML not touched. Freeze after
   tenth and textualsplit proposal before any nextintake.
 
-  '
+
+
+  ## Approved Dynastic magic subdivision,26November2026
+
+
+  Root-down rewalk: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Court intrigue > Dynastic
+  intrigues > Dynastic magic > Spellbound thrones. Existing whole-fiction source evidence retained. Positive literal magic,not
+  established technological demystification; invented fantasy realms,not actual Earth inferred from Tudor/Celtic analogues.
+  No cross-world journey or reality-authoring engine established. At Epic fantasy,political contests over rule outweigh isolated
+  hero progression,quests and domestic comfort. At Political fantasy,the ruling-line succession and court/house struggle take
+  priority over public magical regulation,revolutionary or insurgent programs and international statecraft alone. At Court
+  intrigue,the dynasty and legitimacy are the sustained prize,not a single courtier profession. At Dynastic intrigues,magical
+  capacity or supernatural royal conditions are the repeated instrument,not ordinary field war,assassination,murder mystery,spy
+  apparatus or favor trading. Existing per-fiction temporal/root qualifications remain; gods,prophecies,narrative time gaps
+  and ancestral memory are not by themselves literal time travel. No ancestor gate changed. Full per-member novel walks and
+  exact sources remain in the preserved prior rationale,audit-dynastic-magic-destination-2026-11-26.md and audit-dragon-prince-2026-11-26.md.
+
+
+  Whole two published novels: the king binds six wives to six palaces and steals their power under a sacred-marital system;
+  gods,rotting land and queens breaking the bonds challenge his sovereignty. Royal magical capacity is present,but the binding
+  arrangement sustains the throne. Unpublished third book excluded. Elben is invented despite Tudor inspiration.
+
+
+  Approved positive distinction: ruling families wielding magical capacity versus sovereignty bound to supernatural powers
+  and conditions. Local crossovers retained,not a claim of mutually absent themes. Whole shared fictions retained; no book,title,author,year
+  or hotlinked cover changed.
+
+
+  Owner Approved phonemsg-01M8CAS2A1N6XY2CT5QX6WTMG5,26November2026at17:24:50CET, immediately following final proposal phonemsg-01M8CAQCJH6E4V3QN8DJ40GEN9.
+  Both originals inspected in authenticated conversation context. Earlier names rejected, this approves Sorcerer dynasties
+  and Spellbound thrones only.'
 books:
-- title: The Stone Prince
-  year: 1997
-  cover_url: https://covers.openlibrary.org/b/id/683366-L.jpg
-- title: The Painter Knight
-  year: 1998
-  cover_url: https://covers.openlibrary.org/b/id/683400-L.jpg
-- title: The Granite Shield
-  year: 1999
-  cover_url: https://covers.openlibrary.org/b/id/683452-L.jpg
-- title: The Golden Sword
-  year: 2001
-  cover_url: https://covers.openlibrary.org/b/id/683506-L.jpg
+- title: Six Wild Crowns
+  year: 2025
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2025/12/9780316572934.jpg
+- title: Six Savage Thrones
+  year: 2026
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/03/9780316572897.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: https://covers.openlibrary.org/b/id/683366-L.jpg
+  selected_url: https://www.hachettebookgroup.com/wp-content/uploads/2025/12/9780316572934.jpg
   visually_reviewed_on: '2026-10-04'
   review_method: contact-sheet one-pass
-intake: ten-k walk v5 (queue ids MC03155, MC03152, MC03151, MC03149)
+intake: ten-k walk v5 (queue ids MC03861, MC03860)
 placement_history:
 - date: '2026-10-04'
   to: dynastic-magic
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-26'
+  from: dynastic-magic
+  to: spellbound-thrones
+  reason: 'Whole two published novels: the king binds six wives to six palaces and steals their power under a sacred-marital
+    system; gods,rotting land and queens breaking the bonds challenge his sovereignty. Royal magical capacity is present,but
+    the binding arrangement sustains the throne. Unpublished third book excluded. Elben is invented despite Tudor inspiration.'
+  authority: phonemsg-01M8CAS2A1N6XY2CT5QX6WTMG5
