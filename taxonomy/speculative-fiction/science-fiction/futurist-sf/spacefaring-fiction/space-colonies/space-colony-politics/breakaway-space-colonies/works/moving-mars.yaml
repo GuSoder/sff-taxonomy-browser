@@ -5,12 +5,76 @@ authors:
 first_published: 1993
 canonical_genre: breakaway-space-colonies
 placement_status: accepted
-placement_rationale: Martian colonists, led by a young woman in a Mars of clans and universities, fight for independence from
-  Earth's political order, using a physics breakthrough that can move a planet.
+placement_rationale: 'Martian colonists, led by a young woman in a Mars of clans and universities, fight for independence
+  from Earth''s political order, using a physics breakthrough that can move a planet.
+
+
+  # Moving Mars / Slant continuity correction, 26 November 2026
+
+
+  Creator explicitly lists Queen of Angels, Heads, Moving Mars and Slant as one future in Strikes and Spares. SFE calls this
+  Quantum Logic and links later Quantico/Mariposa as backstory; creator interview discusses the same Earth/Moon/Mars societal
+  history. Only Moving Mars1993 and Slant1997 are in the present taxonomy. Consolidate those two included novels, preserve
+  the existing earliest Moving Mars card label and both exact fronts, do not silently add Queen, Heads, Quantico or Mariposa.
+  Heads is a novella and excluded in any case. No claim the excluded books carry no temporal or magical complications.
+
+
+  Whole-fiction root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Space colonies > Space
+  colony politics > Breakaway space colonies. Nanotechnology, therapeutic brain modification, emergent AI and quantum-information
+  physics, not proven literal magic. Included Earth2050s/Mars2171-on future, neither writer-present nor period history. Narrative
+  recollection, distant instantaneous matter displacement and long future chronology are not actual time travel; completed
+  plot accounts show no temporal crossing. Atemporal therefore fails. No invented all-anomalies-explained requirement.
+
+
+  Actual whole-corpus common theme is technological and informational power changing who may govern human lives, across Earth
+  and its offworld descendants. Hard SF is a strong rival: quantum logic Thinkers in both and information physics in Moving
+  Mars. But its concrete children do not contain both stories honestly: Slant is not orbital engineering, planetary ecology,
+  matter-transmission problem-solving, alien cosmos or recognition of a rigorous world/mind-model. World models describes
+  Moving Mars'' late information revelation but not Slant''s therapy conspiracy as a whole; no new singleton justified. Future
+  of Earth > Techno > Rewired minds describes Slant well but fails to hold Moving Mars'' colony independence subject; treating
+  all future Earth-descendants as Earthbound repeats the known ancestor error. Machine minds also misses the politics; Space
+  techno has substantive interface/identity overlaps but is not a general technological-power bin. Future history in space
+  lacks an honest empire/alliance/diaspora child; no sustained interstellar history here. Not military service, generations
+  aboard ships, comedy, closed-space-regime horror or alien contact.
+
+
+  Apply original owner8November13:50:16 phonemsg-01M6XKB91QD65FFYNC4FDMM2H4: an actual overarching-theme home first, otherwise
+  a defining famous concept in a subset may carry the fiction. Moving Mars'' award-winning planetary liberation is its title-level
+  famous concept and an existing exact home. Retain Breakaway space colonies whole rather than pretend Slant is a colony rebellion.
+  Within Space colonies, civic power struggle not crime case or ordinary settled life; within colony politics, external Earth
+  domination and independence rather than internal power struggle. Martian institutions and Casseia''s political career carry
+  the novel from student protest to Earth''s nanotech attack and the final relocation of Mars. The quantum means enables liberation,
+  not a reason to recast the whole fiction as matter transport. Slant''s rejection of an elite takeover provides a genuine
+  freedom/governance resonance but is NOT claimed to satisfy the colony gate independently. This is a disclosed subset fallback,
+  not an endpoint rule or every-book assertion. Confidence high on continuity, moderate on reader home. No established leaf
+  captures both novels'' broad technological power theme better without weakening its gates.
+
+
+  Slant completed: compulsory nano-therapy breaks down amid an Omphalos cryonics conspiracy, Mary Choy/Martin Burke/Jill and
+  multiple new characters converge; emerging AIs and conspirators rework social and individual agency. David Langford and
+  Cosma Shalizi independently describe thriller and social critique, not a hidden Martian setting. Moving Mars completed:
+  colonial corporate clans debate unity/independence, Casseia negotiates with Earth, QL Thinkers enable changed matter properties,
+  Phobos demonstration escalates crisis, Earth nanotech kills Mars'' president and Casseia authorizes relocating Mars10000lightyears
+  away. No claim Slant''s psychotherapy alone is this whole fiction.
+
+
+  Authority original phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX delegates individual fiction/books and states shared universe is
+  one fiction; original subset rule above personally recovered. Two cards to one, two novels preserved; no added title, author,
+  date, cover bytes, definition, art or structure. Old Slant route retained by book slug within Moving Mars card.
+
+
+  Sources read: https://gregbear.com/pages/strikes.php ; https://sf-encyclopedia.com/entry/bear_greg ; https://www.infinityplus.co.uk/nonfiction/intgb.htm
+  ; https://gregbear.com/books/movingmars.php ; https://www.gregbear.com/books/slant.php ; https://www.kirkusreviews.com/book-reviews/greg-bear/moving-mars/
+  ; https://ansible.uk/writing/slant.html ; https://bactra.org/reviews/slant/ ; https://en.wikipedia.org/wiki/Moving_Mars
+
+  '
 books:
 - title: Moving Mars
   year: 1993
   cover_url: https://covers.openlibrary.org/b/id/1443170-L.jpg
+- title: Slant
+  year: 1997
+  cover_url: https://covers.openlibrary.org/b/id/182416-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -27,3 +91,68 @@ placement_history:
   to: breakaway-space-colonies
   reason: Split of Colony politics at ten (phonemsg-01M4G1TCPKRNMNBYRHD1Z3Y10Q). Martian clans and universities fight for
     independence from Earth using a physics breakthrough that can move a planet.
+- date: '2026-11-26'
+  action: shared-fiction consolidation
+  absorbed_id: slant
+  prior_rationale: In a mid-21st-century world rebuilt by nanotechnology and mind therapy, Jack Giffey plans to break into
+    the Omphalos in Green Idaho, where a mind-altering power is at stake (Slant, in the world of Queen of Angels).
+  reason: '# Moving Mars / Slant continuity correction, 26 November 2026
+
+
+    Creator explicitly lists Queen of Angels, Heads, Moving Mars and Slant as one future in Strikes and Spares. SFE calls
+    this Quantum Logic and links later Quantico/Mariposa as backstory; creator interview discusses the same Earth/Moon/Mars
+    societal history. Only Moving Mars1993 and Slant1997 are in the present taxonomy. Consolidate those two included novels,
+    preserve the existing earliest Moving Mars card label and both exact fronts, do not silently add Queen, Heads, Quantico
+    or Mariposa. Heads is a novella and excluded in any case. No claim the excluded books carry no temporal or magical complications.
+
+
+    Whole-fiction root-down: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Space colonies >
+    Space colony politics > Breakaway space colonies. Nanotechnology, therapeutic brain modification, emergent AI and quantum-information
+    physics, not proven literal magic. Included Earth2050s/Mars2171-on future, neither writer-present nor period history.
+    Narrative recollection, distant instantaneous matter displacement and long future chronology are not actual time travel;
+    completed plot accounts show no temporal crossing. Atemporal therefore fails. No invented all-anomalies-explained requirement.
+
+
+    Actual whole-corpus common theme is technological and informational power changing who may govern human lives, across
+    Earth and its offworld descendants. Hard SF is a strong rival: quantum logic Thinkers in both and information physics
+    in Moving Mars. But its concrete children do not contain both stories honestly: Slant is not orbital engineering, planetary
+    ecology, matter-transmission problem-solving, alien cosmos or recognition of a rigorous world/mind-model. World models
+    describes Moving Mars'' late information revelation but not Slant''s therapy conspiracy as a whole; no new singleton justified.
+    Future of Earth > Techno > Rewired minds describes Slant well but fails to hold Moving Mars'' colony independence subject;
+    treating all future Earth-descendants as Earthbound repeats the known ancestor error. Machine minds also misses the politics;
+    Space techno has substantive interface/identity overlaps but is not a general technological-power bin. Future history
+    in space lacks an honest empire/alliance/diaspora child; no sustained interstellar history here. Not military service,
+    generations aboard ships, comedy, closed-space-regime horror or alien contact.
+
+
+    Apply original owner8November13:50:16 phonemsg-01M6XKB91QD65FFYNC4FDMM2H4: an actual overarching-theme home first, otherwise
+    a defining famous concept in a subset may carry the fiction. Moving Mars'' award-winning planetary liberation is its title-level
+    famous concept and an existing exact home. Retain Breakaway space colonies whole rather than pretend Slant is a colony
+    rebellion. Within Space colonies, civic power struggle not crime case or ordinary settled life; within colony politics,
+    external Earth domination and independence rather than internal power struggle. Martian institutions and Casseia''s political
+    career carry the novel from student protest to Earth''s nanotech attack and the final relocation of Mars. The quantum
+    means enables liberation, not a reason to recast the whole fiction as matter transport. Slant''s rejection of an elite
+    takeover provides a genuine freedom/governance resonance but is NOT claimed to satisfy the colony gate independently.
+    This is a disclosed subset fallback, not an endpoint rule or every-book assertion. Confidence high on continuity, moderate
+    on reader home. No established leaf captures both novels'' broad technological power theme better without weakening its
+    gates.
+
+
+    Slant completed: compulsory nano-therapy breaks down amid an Omphalos cryonics conspiracy, Mary Choy/Martin Burke/Jill
+    and multiple new characters converge; emerging AIs and conspirators rework social and individual agency. David Langford
+    and Cosma Shalizi independently describe thriller and social critique, not a hidden Martian setting. Moving Mars completed:
+    colonial corporate clans debate unity/independence, Casseia negotiates with Earth, QL Thinkers enable changed matter properties,
+    Phobos demonstration escalates crisis, Earth nanotech kills Mars'' president and Casseia authorizes relocating Mars10000lightyears
+    away. No claim Slant''s psychotherapy alone is this whole fiction.
+
+
+    Authority original phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX delegates individual fiction/books and states shared universe is
+    one fiction; original subset rule above personally recovered. Two cards to one, two novels preserved; no added title,
+    author, date, cover bytes, definition, art or structure. Old Slant route retained by book slug within Moving Mars card.
+
+
+    Sources read: https://gregbear.com/pages/strikes.php ; https://sf-encyclopedia.com/entry/bear_greg ; https://www.infinityplus.co.uk/nonfiction/intgb.htm
+    ; https://gregbear.com/books/movingmars.php ; https://www.gregbear.com/books/slant.php ; https://www.kirkusreviews.com/book-reviews/greg-bear/moving-mars/
+    ; https://ansible.uk/writing/slant.html ; https://bactra.org/reviews/slant/ ; https://en.wikipedia.org/wiki/Moving_Mars
+
+    '
