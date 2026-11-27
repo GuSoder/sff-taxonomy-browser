@@ -1,0 +1,46 @@
+id: humanitys-fire
+title: Humanity's Fire
+authors:
+- Michael Cobley
+first_published: 2009
+canonical_genre: star-alliance-chronicles
+placement_status: accepted
+placement_rationale: 'Path: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Future history in
+  space > Star alliance chronicles. Humanity''s Fire is one shared universe of five novels (Seeds of Earth 2009, The Orphaned
+  Worlds 2010, The Ascendant Stars 2011, Ancestral Machines 2016, Splintered Suns 2018; ISFDB series 26221, Wikipedia, the
+  author''s agency page), a sustained future history that begins when Earth''s last colony ships scatter after the Swarm war.
+  What organizes the whole corpus is the web of alliances and enmities among peoples: the lost human colony on Darien and
+  its Uvovo neighbours against the Sendruka Hegemony and the Brolturan Compact, with the Imisil Mergence and ancient machine
+  minds in the wings, and how those pacts form, break and hold across the books. Rivals rejected: Star diaspora chronicles
+  (the dispersal is the first book''s premise, but the history that follows is about the settled powers and their pacts, not
+  about movement), Alien dominions (the Uvovo are allies and the humans are not held under alien rule), Space combat (battle
+  recurs, but no single fight organizes five books). Wobble: Star diaspora chronicles for the colony-ship origin. Ancestral
+  Machines (2016) and Splintered Suns (2018) are standalone-labelled sequels in the same universe and are kept in the fiction.
+  Seeds of Earth, The Ascendant Stars and the five-book count were added from the shared universe, not only the queue.'
+books:
+- title: Seeds of Earth
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/10967325-L.jpg
+- title: The Orphaned Worlds
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/8782640-L.jpg
+- title: The Ascendant Stars
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/7606584-L.jpg
+- title: Ancestral Machines
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/10185035-L.jpg
+- title: Splintered Suns
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/10716673-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8782640-L.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids corpus, MC06851, corpus, MC06849, MC06850)
+placement_history:
+- date: '2026-11-27'
+  to: star-alliance-chronicles
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

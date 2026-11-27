@@ -1,0 +1,58 @@
+id: the-firestar-universe
+title: The Firestar Universe
+authors:
+- Michael Flynn
+first_published: 1996
+canonical_genre: star-diaspora-chronicles
+placement_status: accepted
+placement_rationale: 'Path: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Future history in
+  space > Star diaspora chronicles. Nine novels of one shared future history: the Firestar tetralogy (Firestar 1996, Rogue
+  Star 1998, Lodestar 2000, Falling Stars 2001), The Wreck of the River of Stars (2003), set later in the same universe (Rambles
+  review, LFS review), and the Spiral Arm sub-series that ISFDB files under the Firestar Universe (The January Dancer 2008,
+  Up Jim River 2010, In the Lion''s Mouth 2012, On the Razor''s Edge 2013); ISFDB series 27845 and 27846, Locus obituary.
+  What organizes the corpus is humanity''s move out from Earth: the push into near space, the aging solar-system ships, then
+  a scattered human spiral arm that has half forgotten its origin. Rivals rejected: Star alliance chronicles (the Spiral Arm
+  has rival polities, but the near-future books are about building a space economy, not alliances), Star empire chronicles
+  (no overarching empire holds the history), Breakaway space colonies (the arena is the whole expansion, not one colony against
+  Earth). Wobble: Star alliance chronicles for the Spiral Arm half. Excluded: the Prudence and Fortitude and Maiden Flight
+  stories (short fiction) and In the Country of the Blind (1990), which ISFDB files in its own Sarah Beaumont series and which
+  is linked to Firestar only by one reviewer''s remark; it is walked separately.'
+books:
+- title: Firestar
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/9341220-L.jpg
+- title: Rogue Star
+  year: 1998
+  cover_url: https://covers.openlibrary.org/b/id/182600-L.jpg
+- title: Lodestar
+  year: 2000
+  cover_url: https://covers.openlibrary.org/b/id/182601-L.jpg
+- title: Falling Stars
+  year: 2001
+  cover_url: https://covers.openlibrary.org/b/id/183387-L.jpg
+- title: The Wreck of the River of Stars
+  year: 2003
+  cover_url: https://covers.openlibrary.org/b/id/523840-L.jpg
+- title: The January Dancer
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/6948023-L.jpg
+- title: Up Jim River
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/14855681-L.jpg
+- title: In the Lion's Mouth
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/10223762-L.jpg
+- title: On the Razor's Edge
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/10340270-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/9341220-L.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids MC06856, corpus, corpus, MC06855, MC06861, MC06860, MC06862, MC06858, MC06859)
+placement_history:
+- date: '2026-11-27'
+  to: star-diaspora-chronicles
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

@@ -1,0 +1,1 @@
+MC06852 Nine Dragons (Michael Connelly, 2009): fourteenth Harry Bosch novel, a Los Angeles and Hong Kong police procedural. Crime, mystery and thriller, no speculative element. Out of scope for the speculative fiction taxonomy. Sources: https://en.wikipedia.org/wiki/Nine_Dragons_(novel) and https://www.michaelconnelly.com/writing/ninedragons/ . Not placed.
