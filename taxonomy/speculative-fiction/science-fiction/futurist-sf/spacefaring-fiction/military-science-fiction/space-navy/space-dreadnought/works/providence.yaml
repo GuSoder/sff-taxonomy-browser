@@ -1,0 +1,59 @@
+id: providence
+title: Providence
+authors:
+- Max Barry
+first_published: 2020
+canonical_genre: space-dreadnought
+placement_status: accepted
+placement_rationale: 'Approved seed 2026-11-27 (owner phonemsg-01M8ESBPW1NCQQRKVTX9285X17 on served question phonemsg-01M8EFQAFNE47R6E70RW42QKMT),
+  rewalk after Patrol spaceship''s positive gate failed on the word small. Path: Speculative fiction > Science fiction > Futurist
+  SF > Spacefaring fiction > Military science fiction > Space navy > Space dreadnought. Whole novel (Putnam, 31 March 2020):
+  Providence Five, one three-mile warship of a five-ship Providence class, four crew, a four-year mission alone deep in the
+  salamanders'' territory; the first third is life aboard and the war''s public image, then the siege where the ship and its
+  machine mind fail and the crew fight on (Wikipedia, Penguin Random House, complete-review, Locus reviews by Paul Di Filippo
+  and Ian Mond). The ship, not a fleet, is the story, and her scale carries the war. Rejected: Patrol spaceship and Space
+  corvette (small-ship gate fails), Space armada (no fleet, admiral or career), Space combat (crew breakdown first, siege
+  second), Spaceship drama (cooperation and found family is the opposite), Spaceship dystopias (not a society). Wobble: single
+  seed fiction; the machine mind is texture, not the gate.'
+cover_curation:
+  status: ranked
+  selected_url: https://images4.penguinrandomhouse.com/cover/9780593085196
+  shows_english_title: true
+  review_method: one-pass
+classification_source:
+- https://sf-encyclopedia.com/entry/barry_max
+- https://en.wikipedia.org/wiki/Providence_(Barry_novel)
+placement_history:
+- date: '2026-09-25'
+  change: Moved to space-navy in the military-science-fiction four-way split (the curator ruling).
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/science-fiction/military-science-fiction to match live
+    tree; placement unchanged on site.'
+  previous_canonical_genre: space-navy
+- date: '2026-10-06'
+  reason: Split of Space navy by the kind of ship (state war fleet or one ship on her own); re-walked root-down into Space
+    corvette (curator "Ok, execute" (2026-10-06 10:45:16 PM) over the posted 5/5 split of Space navy (phonemsg-01M49F2NVVPBBVAG6VDTSS7JRC,
+    10:39:29 PM; the names Space armada and Space corvette are his, accepted in his 10:43:39 PM "Perfect" over phonemsg-01M49F8NR0W486JJRD7EFRYP3R)).
+  from: space-navy
+  to: space-corvette
+- date: '2026-10-27'
+  from: space-corvette
+  to: patrol-spaceship
+  reason: Split of Space corvette at ten cards by the crew's mandate - regular service, commerce war, or the punished and
+    unwanted; re-walked root-down. A warship built to protect humanity and her four-person crew on the war mission their AI
+    plots (PRH and maxbarry.com); regular service, not an outlaw crew. Earlier same-day note claiming a corporate operator
+    was unsupported by the sources and is corrected here. (Curator approval phonemsg-01M5YV0H7Q8BYW6P8KDJXXCNRX, 2026-10-27;
+    spaceship names follow his steering phonemsg-01M5YT8DD2ZSMM1FM5APMQHCVJ.)
+- date: '2026-11-27'
+  from: patrol-spaceship
+  to: space-dreadnought
+  reason: 'Approved seed 2026-11-27 (owner phonemsg-01M8ESBPW1NCQQRKVTX9285X17 on served question phonemsg-01M8EFQAFNE47R6E70RW42QKMT),
+    rewalk after Patrol spaceship''s positive gate failed on the word small. Path: Speculative fiction > Science fiction >
+    Futurist SF > Spacefaring fiction > Military science fiction > Space navy > Space dreadnought. Whole novel (Putnam, 31
+    March 2020): Providence Five, one three-mile warship of a five-ship Providence class, four crew, a four-year mission alone
+    deep in the salamanders'' territory; the first third is life aboard and the war''s public image, then the siege where
+    the ship and its machine mind fail and the crew fight on (Wikipedia, Penguin Random House, complete-review, Locus reviews
+    by Paul Di Filippo and Ian Mond). The ship, not a fleet, is the story, and her scale carries the war. Rejected: Patrol
+    spaceship and Space corvette (small-ship gate fails), Space armada (no fleet, admiral or career), Space combat (crew breakdown
+    first, siege second), Spaceship drama (cooperation and found family is the opposite), Spaceship dystopias (not a society).
+    Wobble: single seed fiction; the machine mind is texture, not the gate.'

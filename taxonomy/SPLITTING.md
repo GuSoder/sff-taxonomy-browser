@@ -194,3 +194,8 @@ Sorcerer dynasties5fictions24novels / Spellbound thrones5fictions14novels. Origi
 ## Space tech wars seed, 27 November 2026
 Owner approved phonemsg-01M8EFB2148ZEKF77RNZ85XMS3 ("Approved", 27 November 2026, 1:23:02 PM CET, authenticated iMessage from the owner), answering the served seed question phonemsg-01M8EEY77ACFY70D0R1ZHYEB8J (1:16:02 PM CET). Name settled over three iterations: Relic politics, Space precursor politics, Space tech wars.
 New fifth leaf under Political space opera (siblings: Interstellar court politics, Revolutionary space opera, Post-scarcity politics, Space succession opera), single seed Newton's Wake. Names rejected: Relic politics (reads holy objects or fantasy loot out of context), Space precursor politics (too long, unclear), Old tech wars (reads as obsolete equipment), plain Tech wars (reads as the chip industry). Gate: the technology is the prize, not a tool of the war.
+
+
+## Space dreadnought seed, 27 November 2026
+Owner approved phonemsg-01M8ESBPW1NCQQRKVTX9285X17 ("Yess, hell yes, approved", 27 November 2026, 4:18:09 PM CET, authenticated iMessage from the owner), answering the served seed question phonemsg-01M8EFQAFNE47R6E70RW42QKMT (1:29:44 PM CET).
+New third child of Space navy (siblings Space armada, Space corvette), single seed Providence. Axis: the unit that carries the story (the fleet, the one small ship, the one capital ship). Name is the established naval term and completes the armada / corvette ladder. Gate is the capital ship and her crew on their own, not hull size and not the ship machine mind.
