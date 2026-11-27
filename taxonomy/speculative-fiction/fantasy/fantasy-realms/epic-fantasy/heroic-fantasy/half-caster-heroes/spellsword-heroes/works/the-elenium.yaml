@@ -10,7 +10,12 @@ placement_rationale: 'PRH (penguinrandomhouse.com/books/44915/the-elenium-by-dav
   knights (fights for a queen and realm in her service; not Outcast knights, not a fellowship journey against an ancient dark).
   Corpus completed 27 Nov: the Elenium is three novels (Wikipedia, Eddings bibliography, chiark Eddings pages): The Diamond
   Throne 1989, The Ruby Knight 1990, The Sapphire Rose 1991; the card had only the last two, with later-edition years. Earlier
-  book metadata unchanged otherwise.'
+  book metadata unchanged otherwise. Consolidated 27 Nov with The Tamuli under the whole-shared-universe rule: The Tamuli
+  is the direct sequel of The Elenium (Wikipedia), same hero Sparhawk, Pandion Knight and Queen''s Champion (later Prince
+  Consort), same world and companions, six novels in all: The Diamond Throne 1989, The Ruby Knight 1990, The Sapphire Rose
+  1991, Domes of Fire 1992, The Shining Ones 1993, The Hidden City 1994. The Tamuli card is retired into this fiction with
+  all its books kept. The Elenium and The Tamuli are the two Eddings series of one story, as the Belgariad card holds sequels
+  and prequels in one fiction.'
 books:
 - title: The Diamond Throne
   year: 1989
@@ -21,6 +26,15 @@ books:
 - title: The Sapphire Rose
   year: 1991
   cover_url: https://covers.openlibrary.org/b/id/207867-L.jpg
+- title: Domes of Fire
+  year: 1992
+  cover_url: https://covers.openlibrary.org/b/id/382536-L.jpg
+- title: The Shining Ones
+  year: 1993
+  cover_url: https://covers.openlibrary.org/b/id/208190-L.jpg
+- title: The Hidden City
+  year: 1994
+  cover_url: https://covers.openlibrary.org/b/id/208234-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -43,3 +57,5 @@ placement_history:
   to: champion-of-crown
   reason: Moved in the split of Champion knights at ten cards (curator "Approved" (phonemsg-01M5H1AJ4ST4ZBKPMCHGMC6F31, 2026-10-22
     7:28 AM)).
+- date: '2026-11-27'
+  change: 'Consolidated The Tamuli (3 books) into this fiction: same hero and world, direct sequel; no book dropped.'
