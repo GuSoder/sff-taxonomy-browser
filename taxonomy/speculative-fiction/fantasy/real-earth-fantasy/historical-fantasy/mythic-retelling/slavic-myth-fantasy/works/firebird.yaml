@@ -1,0 +1,31 @@
+id: firebird
+title: Firebird
+authors:
+- Mercedes Lackey
+first_published: 1996
+canonical_genre: slavic-myth-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Historical fantasy > Mythic retelling
+  > Slavic myth fantasy (leaf id slavic-myth-fantasy). Mercedes Lackey''s Firebird (1996; Tor 2008 edition is the queue row
+  MC06732): Ilya, despised middle son of a minor Russian tsar, meets the Firebird, with Baba Yaga-style magic, a sorcerer
+  holding an enchanted princess and a rescue quest (Kirkus, ''reworking of an Old Russian folk tale''; Bookloons; Tethyan
+  review). It is a single novel; the Fairy Tale grouping with The Black Swan is a publisher label, not a shared world (Lackey''s
+  own site files The Black Swan as a standalone novel, no shared characters or setting), so the fictions are separate. Whole-author
+  check: no other Lackey book shares this world. Slavic myth fantasy fits by its definition (firebird, the retold folklore
+  of the Slavic peoples). Tried: Redated fairytales (the tale keeps its Russia), Fairytale mythology. Sources: https://www.kirkusreviews.com/book-reviews/mercedes-lackey/firebird-2/
+  ; http://www.bookloons.com/cgi-bin/Review.ASP?bookid=9044 ; https://tethyanbooks.blogspot.com/2011/10/review-firebird-by-mercedes-lackey.html'
+books:
+- title: Firebird
+  year: 1996
+  cover_url: https://covers.openlibrary.org/b/id/182477-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/182477-L.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids MC06732)
+placement_history:
+- date: '2026-11-27'
+  to: slavic-myth-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
