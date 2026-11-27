@@ -5,9 +5,12 @@ authors:
 first_published: 2020
 canonical_genre: multiverse-selves
 placement_status: accepted
-placement_rationale: SFE centers its 380 interacting Parallel Worlds and travel possible
-  only where the traveler's Doppelganger is dead; cross-world identity and movement
-  are the governing mechanism.
+placement_rationale: 'Whole shared universe audited (two novels, Johnson site, SFE, PRH, Reactor and Locus reviews): The Space Between Worlds (2020) and Those Beyond
+  the Wall (2024, MC06832, billed standalone but set in the same world, a mirror image of the first). Both rest on the same multiverse mechanism: travel between Earths
+  only where the traveler''s counterpart is dead, with other selves met along the way; in book 2 the gruesome deaths in Wiley City and Ashtown trace to that crossing.
+  Full root path: Speculative fiction > Science fiction > Atemporal SF > Parallel world fiction > Multiverse odyssey > Multiverse selves, unchanged by this fold.
+  Wobble recorded: Those Beyond the Wall is mostly about revolution and class (Reactor: ''This book isn''t about technology''), so Multiverse selves fits it less
+  tightly than the first novel; no other leaf fits both and no ancestor is widened. Novels only.'
 classification_sources:
 - https://sf-encyclopedia.com/entry/johnson_micaiah
 - https://www.penguinrandomhouse.com/books/610612/the-space-between-worlds-by-micaiah-johnson/
@@ -18,9 +21,15 @@ cover_curation:
   review_method: one-pass
 placement_history:
 - date: '2026-09-28'
-  change: 'Moved to multiverse-odyssey in the parallel-world-fiction split by what
-    the crossing serves (the curator ruling: split greenlit "Do it" 2026-09-28 11:57
+  change: 'Moved to multiverse-odyssey in the parallel-world-fiction split by what the crossing serves (the curator ruling: split greenlit "Do it" 2026-09-28 11:57
     CEST, names locked in the phonemsg-01M3KQ53CJENKAF3B1533ZFAX7 exchange).'
 - date: '2026-10-28'
   to: multiverse-selves
-  reason: 'Multiverse odyssey split by what the crossing serves (one person vs the self); curator Approved phonemsg-01M61FRGN8WAGVWT1PBXB4CC1H.'
+  reason: Multiverse odyssey split by what the crossing serves (one person vs the self); curator Approved phonemsg-01M61FRGN8WAGVWT1PBXB4CC1H.
+books:
+- title: The Space Between Worlds
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/10723957-L.jpg
+- title: Those Beyond the Wall
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14594786-L.jpg
