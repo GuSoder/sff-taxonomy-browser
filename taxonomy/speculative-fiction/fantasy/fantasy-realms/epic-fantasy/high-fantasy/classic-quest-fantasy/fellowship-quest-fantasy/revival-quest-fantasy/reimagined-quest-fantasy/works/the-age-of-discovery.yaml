@@ -1,0 +1,44 @@
+id: the-age-of-discovery
+title: The Age of Discovery
+authors:
+- Michael A. Stackpole
+first_published: 2005
+canonical_genre: reimagined-quest-fantasy
+placement_status: accepted
+placement_rationale: 'Whole shared universe audited (Stackpole''s bibliography, Wikipedia, Penguin Random House series page,
+  Publishers Weekly, FantasticFiction): the Age of Discovery trilogy in Nalenyr, three novels, A Secret Atlas (2005), Cartomancy
+  (2006), The New World (2007). Queue rows MC06833, MC06834, MC06841. Stackpole''s DragonCrown War, Once a Hero, Eyes of Silver,
+  Talion and other rows are separate worlds and are walked on their own. The royal cartographer''s family of Nalenyr maps
+  the post-cataclysm world, with the wild magic left by the Time of Black Ice, ancient weapons and martial schools; book 2
+  sends a company to awaken the old heroes against a nameless invader, and book 3 closes on the grandchildren facing the ancient
+  enemy, gods and champions in the final conflict. Full root path: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy
+  > High fantasy > Classic quest fantasy > Fellowship quest fantasy > Revival quest fantasy > Reimagined quest fantasy. Fits
+  Reimagined (not Throwback) because the heroes are mapmakers and explorers, the register is age-of-sail exploration with
+  an unconventional wild-magic system, not the dark lord and destined company of the classic style (Publishers Weekly: wild
+  magic and the adventure of exploration in the age of sail). Evergreen fails on date. Rivals rejected: Geopolitical fantasy
+  (state contests are strong in book 1 but not the whole corpus); Mythic power struggle (gods enter only in book 3 and are
+  invented, not traditional); Martial heroes (the jaecai are one strand, not the cast); Destiny quest (no hidden heir or marked
+  rise); Throwback, because that leaf has nine cards and the fit is wrong anyway. Wobble recorded: no exploration or cartography
+  leaf exists, so the leaf fits the ancient-enemy company quest in books 2 and 3 more than the mapmaking of book 1. No split,
+  no new node.'
+books:
+- title: A Secret Atlas
+  year: 2005
+  cover_url: https://covers.openlibrary.org/b/id/373332-L.jpg
+- title: Cartomancy
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/6601154-L.jpg
+- title: The New World
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/370060-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/373332-L.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids MC06833, MC06834, MC06841)
+placement_history:
+- date: '2026-11-27'
+  to: reimagined-quest-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
