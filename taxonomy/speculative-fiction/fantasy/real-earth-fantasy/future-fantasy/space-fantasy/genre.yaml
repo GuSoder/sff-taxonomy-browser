@@ -1,27 +1,27 @@
 id: space-fantasy
-label: Space fantasy
+label: Sol & Sorcery
 parent: future-fantasy
 children: []
 image: 987-space-fantasy-v3.webp
 definition: Future fantasy in which humanity's civilization extends beyond Earth and genuine magic, gods or supernatural agency
-  act within its interplanetary or interstellar life. Space travel, inhabited worlds and their wider conflicts are sustained
-  parts of the fiction, rather than a single alien visitor or a brief trip away from Earth. Not Post-apocalyptic fantasy's
-  Earth-collapse aftermath, End-times fantasy's biblical apocalypse, Vampire future's future-city vampire return or Psionic
-  fantasy's psychic social order. Not SF Science fantasy, where apparently fantastic effects have scientific engines; not
-  independently invented Fantasy realms merely decorated with stars.
+  shape life on other worlds. This includes both sustained interplanetary or interstellar civilization and the local societies
+  of settled worlds where spaceflight is ancestral history rather than the ongoing life of the fiction. Not independently
+  invented Fantasy realms, SF wonders with scientific or pseudoscientific engines, or Portal fantasy governed by crossings
+  between Earth and another world.
 status: accepted
 works:
 - star-of-the-guardians
 - archonate
 - moonstorm
+- exiles
 approval:
   proposal: phonemsg-01M84J9EDD8QESBRJXTCHJVX8H
   approval: phonemsg-01M84JVHRFBAZPMP1CT76D96X7
   date: '2026-11-23'
   scope: One Space fantasy leaf under Future fantasy, one Guardians shared universe seven novels, and disclosed parent organizing-summary
     replacement. Explicit shallow-branch exception. Grimdark remark is prospective growth, not additional moves or structure.
-ceiling: One confirmed shared universe, seven novels. Positive spacefaring future-supernatural slot, not restricted to monarchy,
-  Christian theology or mercenaries. No unverified existing moves.
+ceiling: Four confirmed shared fictions, thirty novels. Includes sustained spacefaring civilization and local worlds settled
+  by future humanity with genuine supernatural agency; no independent invented-universe or scientific-marvel widening.
 portrait:
   dimensions:
   - 1024
@@ -31,3 +31,17 @@ portrait:
   selection: A chosen after inspecting two full-size generated variants. Clear city, spacecraft, inhabited planet and literal
     celestial spirit; B giant reaching figure more ambiguous and hand-heavy.
   qa: Master and served WebP full-resolution1024x1536. Actual pixels inspected, no text, no prominent hands or weapon anatomy.
+definition_history:
+- date: '2026-11-27'
+  authority: phonemsg-01M8E575KW241656G54J954J5P
+  reason: Owner approved label rename (proposal phonemsg-01M8E56SCJNBE094AEQNTZV0ZS). Id, parent, definition and portrait unchanged.
+  previous_label: Space fantasy
+- date: '2026-11-26'
+  authority: phonemsg-01M8CGJAWMX3ENJPJEHDJCJ3WV
+  reason: Owner directed scope widening instead of split for Exiles; no children created.
+  previous: Future fantasy in which humanity's civilization extends beyond Earth and genuine magic, gods or supernatural agency
+    act within its interplanetary or interstellar life. Space travel, inhabited worlds and their wider conflicts are sustained
+    parts of the fiction, rather than a single alien visitor or a brief trip away from Earth. Not Post-apocalyptic fantasy's
+    Earth-collapse aftermath, End-times fantasy's biblical apocalypse, Vampire future's future-city vampire return or Psionic
+    fantasy's psychic social order. Not SF Science fantasy, where apparently fantastic effects have scientific engines; not
+    independently invented Fantasy realms merely decorated with stars.

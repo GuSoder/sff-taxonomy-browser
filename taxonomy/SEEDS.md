@@ -133,3 +133,9 @@ Space fantasy fifth Future fantasy child approved. Entry gate unchanged; world-f
 
 ## Mythic two-bundle and Aztec seed23November2026
 OwnerApproved phonemsg-01M84XAHTRQZF58THVF1MN5451 on phonemsg-01M84X7PAPD3MXHG5ABQ1C91BF. Chivalric myth fantasy holds Arthurian/Frankish intact; Mesoamerican myth fantasy holds Mayan intact and new Aztec leaf for Lareswhole2. Mythic9to8. Partialbundles, twoNEWumbrellas, no exception; original10/12ruling recovered. Names descriptive source-family labels, exactgenus/trademarkclaimnotmade. Threeoriginal1024x1536portraits, two variantspernode inspected; selectedfirstsuccessfulvariants. Masters privately archived. BothEnglishpublisherfronts hotlinked,2023/2025. Noexistingfictionleafmove or ancestor gatechange. Totals930/2981/7375, deploy/liveQA pending.
+
+## Space fantasy widening, no split (2026-11-26)
+Owner instruction phonemsg-01M8CGJAWMX3ENJPJEHDJCJ3WV after count clarification: widen rather than split. Proposed Spacefaring fantasy / Planetary fantasy children dropped. Existing Space fantasy retains its portrait/location and admits local settled futurehuman worlds as well as sustained spacefaring civilization. Exiles one fiction/two novels added, existing three/twenty-eight unchanged. Future enumeration updated explicitly, no new children or genre names.
+
+## Space fantasy renamed Sol & Sorcery (2026-11-27)
+Owner approved label rename `phonemsg-01M8E575KW241656G54J954J5P` after proposal `phonemsg-01M8E56SCJNBE094AEQNTZV0ZS`. Reasoning: Sol anchors humanity's Earth-origin universe, "& Sorcery" gives the Sword-and-Sorcery rhythm Leiber's genre name used. Id space-fantasy, parent, definition and portrait unchanged. Historical records keep the former name.
