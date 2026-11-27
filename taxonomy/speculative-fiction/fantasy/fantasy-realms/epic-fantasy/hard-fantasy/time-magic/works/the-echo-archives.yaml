@@ -5,10 +5,10 @@ authors:
 first_published: 2024
 canonical_genre: time-magic
 placement_status: accepted
-placement_rationale: 'Echo Archives (Melissa Caruso): the Echo-lords'' year-turning party loops through deeper Echoes while
-  Hound investigator Kembral Thorne alone remembers each round (The Last Hour Between Worlds), continued in The Last Soul
-  Among Wolves. Same characters and world across the trilogy, so one fiction (rule 11j). The loop is the load-bearing engine
-  and its mechanism is magic. Book 3, The Last Star in the Void (November 10, 2026), is held as unpublished.'
+placement_rationale: 'Echo Archives (Melissa Caruso): the Echo-lords'' year-turning party loops through deeper Echoes while Hound investigator Kembral Thorne alone
+  remembers each round (The Last Hour Between Worlds), continued in The Last Soul Among Wolves. Same characters and world across the trilogy, so one fiction (rule
+  11j). The loop is the load-bearing engine and its mechanism is magic. Book 3, The Last Star in the Void (Orbit, published November 10, 2026, per Hachette Book Group
+  and ISFDB), folded in on 27 November 2026 as the trilogy''s conclusion in the same world.'
 classification_sources: []
 intake: gap-2022 tier-2 chunk n=351-365
 cover_curation:
@@ -21,9 +21,11 @@ placement_history:
 - date: '2026-09-28'
   change: Placed in intake batch n=351-365.
 - date: '2026-10-06'
-  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy
-    we group shared universe books together'' (2026-10-06 9:55 AM)); merged: The Last Hour Between Worlds; re-walked root-down
-    into time-magic.'
+  reason: 'Shared universe collapsed onto one fiction (rule 11j; curator phonemsg-01M483CARNEF5RBAW6KCCVW1ST ''in this taxonomy we group shared universe books together''
+    (2026-10-06 9:55 AM)); merged: The Last Hour Between Worlds; re-walked root-down into time-magic.'
+- date: '2026-11-27'
+  reason: Book 3, The Last Star in the Void, published 10 November 2026 (Orbit), folded into the same fiction; queue MC06664. Cover hotlinked from Hachette Book Group
+    and inspected.
 books:
 - title: The Last Hour Between Worlds
   year: 2024
@@ -31,3 +33,6 @@ books:
 - title: The Last Soul Among Wolves
   year: 2025
   cover_url: https://www.hachette.co.uk/wp-content/uploads/2025/02/hbg-title-the-last-soul-among-wolves-3-46.jpg
+- title: The Last Star in the Void
+  year: 2026
+  cover_url: https://www.hachettebookgroup.com/wp-content/uploads/2026/11/9780316585873.jpg
