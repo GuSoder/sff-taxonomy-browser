@@ -1,0 +1,35 @@
+id: the-amber-throne
+title: The Amber Throne
+authors:
+- Michael Johnston
+first_published: 2017
+canonical_genre: dynastic-wars
+placement_status: accepted
+placement_rationale: 'Path: Speculative fiction > Fantasy > Fantasy realms > Epic fantasy > Political fantasy > Court intrigue
+  > Dynastic intrigues > Dynastic wars. A two-novel story told as two halves (Soleri 2017, Silence of the Soleri 2021; the
+  author calls it one story in two novels, Paul Semel interviews, Tor series name The Amber Throne), described as King Lear
+  in ancient Egypt. It follows the fall of the Soleri empire through the Hark-Wadi ruling family of the Harkan kingdom, a
+  house splintering under its father''s and king''s choices while the four subject kingdoms go to war (Rising Shadow review,
+  publisher blurb, Lit Stack review of the second book). The ruling family and the war it brings drive the whole corpus, so
+  Dynastic wars. Rivals rejected: Rebel fantasy (the contest is the ruling houses'' own, not an occupied people''s uprising),
+  Dynastic assassins and Dynastic favor (the fight is fought with armies, not poison or regard), Geopolitical fantasy (the
+  family, not the balance among states, organizes the books). Wobble: Dynastic magic, since the Soleri rite and sun-cult magic
+  recur, and Geopolitical fantasy. Two novels only; the planned novella and standalone are unpublished or off scope.'
+books:
+- title: Soleri
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/10710481-L.jpg
+- title: Silence of the Soleri
+  year: 2021
+  cover_url: https://images.booksense.com/images/752/387/9780765387752.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10710481-L.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids MC06873, MC06872)
+placement_history:
+- date: '2026-11-27'
+  to: dynastic-wars
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
