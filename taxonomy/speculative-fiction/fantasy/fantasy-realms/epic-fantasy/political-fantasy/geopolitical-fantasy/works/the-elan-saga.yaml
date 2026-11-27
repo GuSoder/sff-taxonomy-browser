@@ -22,8 +22,9 @@ placement_rationale: 'Path: Speculative fiction > Fantasy > Fantasy realms > Epi
   heroes (fits only the Riyria rogues, not the founding books), Dynastic wars (the contest is among peoples and powers, not
   one ruling house), Rebel fantasy, Invented mythology (the gods matter, but the history of states governs). Wobble: Thief
   heroes for the Riyria books, and Dynastic wars. Two source conflicts: Percepliquis is dated 2012 by ISFDB and 2011 by the
-  author''s omnibus list, and I used the ISFDB first-publication year. The Emerald Storm and Out of the Ashes have no clean
-  cover image and show without one.'
+  author''s omnibus list, and I used the ISFDB first-publication year. Covers for The Emerald Storm (Amazon listing) and Out
+  of the Ashes (Apple Books listing) are hotlinked from those retailer pages; Open Library holds only a title page for the
+  first and nothing for the second.'
 books:
 - title: The Crown Conspiracy
   year: 2008
@@ -36,6 +37,7 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/7584712-L.jpg
 - title: The Emerald Storm
   year: 2010
+  cover_url: https://m.media-amazon.com/images/I/41e8gkXanML._SY425_.jpg
 - title: Wintertide
   year: 2010
   cover_url: https://covers.openlibrary.org/b/id/11026889-L.jpg
@@ -86,6 +88,7 @@ books:
   cover_url: https://covers.openlibrary.org/b/id/15155327-L.jpg
 - title: Out of the Ashes
   year: 2026
+  cover_url: https://is1-ssl.mzstatic.com/image/thumb/Publication221/v4/58/1d/4c/581d4ca6-f851-3be7-652d-981a5f8c33d4/0004464869.jpg/600x600bb.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
