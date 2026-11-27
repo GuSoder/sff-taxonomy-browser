@@ -199,3 +199,8 @@ New fifth leaf under Political space opera (siblings: Interstellar court politic
 ## Space dreadnought seed, 27 November 2026
 Owner approved phonemsg-01M8ESBPW1NCQQRKVTX9285X17 ("Yess, hell yes, approved", 27 November 2026, 4:18:09 PM CET, authenticated iMessage from the owner), answering the served seed question phonemsg-01M8EFQAFNE47R6E70RW42QKMT (1:29:44 PM CET).
 New third child of Space navy (siblings Space armada, Space corvette), single seed Providence. Axis: the unit that carries the story (the fleet, the one small ship, the one capital ship). Name is the established naval term and completes the armada / corvette ladder. Gate is the capital ship and her crew on their own, not hull size and not the ship machine mind.
+
+
+## Space ace seed, 27 November 2026
+Owner approved phonemsg-01M8FDZ9YVW4XZFJ5K0VTKXK21 ("Approved", 27 November 2026, 10:18:23 PM CET, authenticated iMessage from the owner), answering the served seed question phonemsg-01M8FDWE36WPKYNR6B1V2J946X (10:16:49 PM CET) after the owner suggested the name Space ace (phonemsg-01M8FDVHYJ3MV4BJE89S5KPQSH).
+New fifth child of Military science fiction (siblings Ground-pounders, Space navy, Space academy, Space command), single seed The Hidden War. Name suggested by the owner; established term for the fighter pilot. Gate is the skilled pilots war including remote craft, no kill-count requirement and no superlative.
