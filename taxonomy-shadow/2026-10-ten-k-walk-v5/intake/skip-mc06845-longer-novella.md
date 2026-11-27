@@ -1,0 +1,1 @@
+MC06845 Longer (Michael Blumlein, 2019): Tor.com Publishing novella, described by Tor.com and the author's site as a novella. Excluded under the novels-only rule (novellas excluded, phonemsg-01M850W64E1MFDAN0BQD84RRP9). Sources: https://reactormag.com/cover-reveal-michael-blumlein-longer/ and http://michaelblumlein.com/tor-com/ . Not placed.
