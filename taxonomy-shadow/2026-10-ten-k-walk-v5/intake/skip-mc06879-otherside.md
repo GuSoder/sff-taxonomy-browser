@@ -1,0 +1,1 @@
+MC06879 Otherside (Michael Mammay): sixth Planetside book, unpublished and announced for 2027 (author site https://www.michaelmammay.com/books/). Not a published novel yet; not placed. Revisit on release.

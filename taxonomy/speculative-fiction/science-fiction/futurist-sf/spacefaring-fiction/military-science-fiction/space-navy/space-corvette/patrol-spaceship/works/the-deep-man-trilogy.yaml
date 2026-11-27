@@ -1,0 +1,39 @@
+id: the-deep-man-trilogy
+title: The Deep Man Trilogy
+authors:
+- Michael Mersault
+first_published: 2022
+canonical_genre: patrol-spaceship
+placement_status: accepted
+placement_rationale: 'Path: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Military science fiction
+  > Space navy > Space corvette > Patrol spaceship. Three novels (ISFDB series 77450: The Deep Man 2022, The Silent Hand 2023,
+  The Presence Malign 2025; the queue''s 2020 year for the third is wrong) following Captain Saef Sinclair-Maru and his bodyguard
+  Inga in the Imperial Fleet of the Myriad Worlds: an under-equipped frigate on an imperial mission, the IMS Hightower on
+  a rescue of a trapped Legion force, then, relieved and hunted, the privateer cruiser Salahdiin against the genocidal Presence
+  Malign (Baen blurbs for all three, S&S series page). One ship and her crew drive each book, not the fleet, so Space corvette,
+  and the first two books are regular navy service errands, so Patrol spaceship. Rivals rejected: Starbridge (admirals and
+  fleet theatres are not the arc), Star stripes (Saef''s career is not a climb, he is relieved and leaves the navy), Privateer
+  spaceship (only the third book, with a letter of marque). The Redline Heist is the Doomsday Artifacts series in a different
+  setting and is placed separately. Wobble: real. The third book is a privateer story, which would put the whole card in Privateer
+  spaceship; I weighed two navy books against one.'
+books:
+- title: The Deep Man
+  year: 2022
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982125844/the-deep-man-9781982125844_lg.jpg
+- title: The Silent Hand
+  year: 2023
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982192952/the-silent-hand-9781982192952_lg.jpg
+- title: The Presence Malign
+  year: 2025
+  cover_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668072738/the-presence-malign-9781668072738_lg.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982125844/the-deep-man-9781982125844_lg.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids MC06884, MC06887, MC06885)
+placement_history:
+- date: '2026-11-27'
+  to: patrol-spaceship
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

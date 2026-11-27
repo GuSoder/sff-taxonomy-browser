@@ -1,0 +1,46 @@
+id: planetside
+title: Planetside
+authors:
+- Michael Mammay
+first_published: 2018
+canonical_genre: space-pi
+placement_status: accepted
+placement_rationale: 'Path: Speculative fiction > Science fiction > Futurist SF > Spacefaring fiction > Space colonies > Space
+  mystery > Space PI. Five novels about Colonel Carl Butler, retired or semi-retired, whom powerful friends and rich clients
+  pull into investigating a disappearance (a councilor''s son on Cappa Base in Planetside, a missing scientist in Colonyside,
+  two missing heirs in Darkside, deaths behind the Taug mission in Blindside); the author''s own label is the Carl Butler
+  (Planetside) series of science fiction mysteries (michaelmammay.com/books and blog; SF Encyclopedia entry). Whole-series
+  audit: the five published novels are Planetside 2018, Spaceside 2019, Colonyside 2020 (ISFDB 2020-12-29; one reference shows
+  2021), Darkside 2024, Blindside 2026. Otherside, a sixth, is unpublished (due 2027) so it is skipped; The Misfit Soldier,
+  Generation Ship and The Weight of Command are other worlds, outside this card. The solving drives each book, so Space mystery;
+  Butler works it on a friend''s or client''s errand rather than under a badge, so Space PI. Rivals rejected: Space cop (official
+  badge, true only of the opening assignment in Planetside), Space command and the Military SF leaves (the books are investigations,
+  not campaigns), Space colony politics (the case, not a power contest, is the engine). Wobble: Planetside opens on an Army
+  assignment, which leans Space cop; the later four are plainly unofficial.'
+books:
+- title: Planetside
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/10307301-L.jpg
+- title: Spaceside
+  year: 2019
+  cover_url: https://covers.openlibrary.org/b/id/12008438-L.jpg
+- title: Colonyside
+  year: 2020
+  cover_url: https://covers.openlibrary.org/b/id/12697779-L.jpg
+- title: Darkside
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14836083-L.jpg
+- title: Blindside
+  year: 2026
+  cover_url: https://i0.wp.com/www.michaelmammay.com/wp-content/uploads/2026/01/Blindside-Cover-amazon.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/10307301-L.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids MC06880, MC06881, MC06876, MC06877, MC06875)
+placement_history:
+- date: '2026-11-27'
+  to: space-pi
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'

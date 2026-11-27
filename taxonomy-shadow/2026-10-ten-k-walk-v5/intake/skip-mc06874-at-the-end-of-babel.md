@@ -1,0 +1,1 @@
+MC06874 At the End of Babel (Michael Livingston, 2015): Tor.com Original, a short story (ISFDB type novelette, 27 pages). Not a novel. Sources: https://www.isfdb.org/cgi-bin/title.cgi?1965511= and https://www.goodreads.com/book/show/25328128-at-the-end-of-babel . Not placed.
