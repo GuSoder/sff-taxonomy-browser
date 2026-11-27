@@ -1,0 +1,45 @@
+id: a-course-in-magic
+title: A Course in Magic
+authors:
+- Melissa Marr
+first_published: 2024
+canonical_genre: otherworld-summonings
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Portal fantasy > Fantasy rifts > Otherworld fantasy > Otherworld
+  summonings. Melissa Marr''s two-book A Course in Magic (Remedial Magic 2024, Reluctant Witch 2025; FictionDB, readingorderlist
+  and the author''s site list exactly these two novels). Whole-corpus check against the Portal gate (starts on or includes
+  Earth): Ellie, a librarian in Ligonier, Pennsylvania, learns she is a witch and is teleported by Prospero into Crenshaw,
+  a hidden pocket-universe city-state where witches learn the craft at a magical community college (Bookpage; Tor; ''a portal
+  fantasy... pulled into the pocket universe of Crenshaw'', Kb Lincoln); Reluctant Witch stays in Crenshaw, which is dying,
+  and has magic spilling into our world (Marr interview, The Nerd Daily). The exchange between Earth and one hidden world
+  organizes both books, so Portal fantasy governs, and the school sits inside the other world, so it is not Magic school (the
+  Contemporary entry point does not settle it). Otherworld, not Multiverse (one hidden world); Summonings, not Stumblings
+  (a powerful witch carries her across), not Wainscot (there is a crossing). Moved from Magic school 2026-11-27 (ten to nine).
+  Sources: https://www.bookpage.com/reviews/remedial-magic-melissa-marr-book-review/ ; https://torpublishinggroup.com/remedial-magic/?format=trade&isbn=9781250884138
+  ; https://torpublishinggroup.com/reluctant-witch/?format=trade&isbn=9781250884152 ; https://kblincoln.wordpress.com/2025/04/01/book-review-fantasy-3-75-stars-remedial-magic-by-melissa-marr/
+  ; https://thenerddaily.com/melissa-marr-reluctant-witch-interview/ .'
+books:
+- title: Remedial Magic
+  year: 2024
+  cover_url: https://covers.openlibrary.org/b/id/14587965-L.jpg
+- title: Reluctant Witch
+  year: 2025
+  cover_url: https://m.media-amazon.com/images/I/51DJvOnN-XL._SL500_.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/14587965-L.jpg
+  visually_reviewed_on: '2026-11-27'
+  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
+intake: ten-k walk v5 (queue ids MC06685, MC06684)
+placement_history:
+- date: '2026-11-27'
+  to: magic-school
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-27'
+  from: magic-school
+  to: otherworld-summonings
+  reason: 'Whole two-book corpus meets the Portal fantasy gate: starts on present-day Earth (Ligonier, Pennsylvania), the
+    protagonist is carried by a witch into the hidden pocket-world city-state of Crenshaw, and Reluctant Witch continues the
+    Earth/Crenshaw exchange (magic spilling into our world). Otherworld summonings fits a way across set by a powerful witch;
+    the school is inside the other world.'
