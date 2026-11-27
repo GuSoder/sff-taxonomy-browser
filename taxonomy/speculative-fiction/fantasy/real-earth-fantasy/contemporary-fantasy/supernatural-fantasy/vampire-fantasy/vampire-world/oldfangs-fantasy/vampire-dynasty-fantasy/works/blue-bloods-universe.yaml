@@ -2,49 +2,87 @@ id: blue-bloods-universe
 title: Blue Bloods universe
 authors:
 - Melissa de la Cruz
-first_published: 2011
+first_published: 2006
 canonical_genre: vampire-dynasty-fantasy
 placement_status: accepted
-placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Contemporary fantasy > Supernatural
-  fantasy > Vampire fantasy > Vampire world > Oldfangs fantasy > Vampire dynasty fantasy. Queue MC06669-72 are four novels
-  from Melissa de la Cruz''s Blue Bloods universe: the three Beauchamp Family witch novels (Witches of East End 2011, Serpent''s
-  Kiss 2012, Winds of Salem 2013) and the adult vampire spin-off Vampires of Manhattan (2014). ISFDB records The Beauchamp
-  Family as a sub-series of Blue Bloods Universe, Kirkus (2011) and the Blue Bloods fan wiki call it a spin-off in the Blue
-  Bloods world, and Wikipedia lists Witches of East End and Vampires of Manhattan as spin-offs of Blue Bloods. By the consolidation
-  rule one shared universe is one fiction, so they are held together here. The universe''s engine is the old-money Manhattan
-  vampire families, the Blue Bloods (Van Alen, Force, Llewellyn), secretly reborn angels with ancestral bonds, lines and feuds;
-  the witches and werewolves live alongside them. The unqueued core Blue Bloods novels (Blue Bloods 2006 onward) and Wolf
-  Pact are part of this same fiction but were not in the candidate queue, so only the four queued books are itemised. Magic
-  is literal in every volume (vampire and witch powers are real), so Fantasy, and set in contemporary New York and the Hamptons
-  with the supernatural hidden, so not Publicly paranormal. Alternatives tested: Vampire court fantasy (the Conclave is one
-  institution, but the books are told from inside the families, not the senate); Newfangs fantasy (Sky''s first turning is
-  only the opening of book 1 of nine); Magic family fantasy would fit the Beauchamp trilogy alone but would split the shared
-  universe and cannot take Vampires of Manhattan; Paranormal neighbours requires an open society and this world is secret.
-  Soft spots: the Beauchamp books sit in a vampire leaf because the universe, not the single series, is the fiction; and the
-  OL year for Vampires of Manhattan (2014) was not checked against a publisher page. Sources: https://isfdb.stoecker.eu/cgi-bin/pe.cgi?29287=
-  ; https://isfdb.org/cgi-bin/pe.cgi?32742= ; https://en.wikipedia.org/wiki/Blue_Bloods_(novel_series) ; https://www.kirkusreviews.com/news-and-features/articles/melissa-de-la-cruz-witches-east-end/
-  ; https://bluebloodsuniverse.fandom.com/wiki/Beauchamp_Family_series ; https://publishersweekly.com/pw/authorpage/melissa-de-la-cruz.html
-  ; Open Library editions for covers. Not a full-novel read.'
+placement_rationale: 'Root-down: Speculative fiction > Fantasy > Real earth fantasy > Contemporary fantasy > Supernatural fantasy > Vampire fantasy > Vampire world
+  > Oldfangs fantasy > Vampire dynasty fantasy. One shared universe is one fiction, so all seventeen titles of ISFDB''s Blue Bloods Universe (https://isfdb.org/cgi-bin/pe.cgi?32742=)
+  are itemised: the nine-book core (Blue Bloods 2006 to After Death 2023; Wikipedia counts seven in the original run, then After Life 2022 and After Death 2023 as
+  a new duology on ISFDB and the author''s site), the companions Bloody Valentine and Keys to the Repository (2010), the werewolf spin-off Wolf Pact (2012, issued
+  in four parts, itemised as one book), the Beauchamp Family witch trilogy (Witches of East End 2011, Serpent''s Kiss 2012, Winds of Salem 2013) and the adult spin-off
+  The New Blue Bloods Coven (Vampires of Manhattan 2014, White Nights 2017). Left out as non-books: the Blue Bloods Books I-III omnibus (2014), the four Wolf Pact
+  parts, the short story Shelter Island (2007) and the graphic novel. Content decides the leaf. The Blue Bloods are an old-money Manhattan society of vampires, secretly
+  angels reborn across the centuries, bound in houses and families (Van Alen, Force, Llewellyn, Duchesne) with elders, heirs, bondings, feuds and succession, and
+  the stories are told from inside those houses (Schuyler, Mimi, Bliss, Jack). So the vampires long have been what they are (Oldfangs), and the houses, not a senate,
+  drive the plot (Dynasty over Court: the Conclave and the Committee are a backdrop, not the engine). Magic is literal throughout (vampire, angel and witch powers
+  are real), so Fantasy; the supernatural is hidden in contemporary New York and the Hamptons, so not Publicly paranormal or Fangs out. Alternatives tested: Vampire
+  court fantasy (politics is not the engine); Newfangs fantasy (Schuyler''s awakening opens book 1 of seventeen and the arc is bigger than the turning); Magic family
+  fantasy (fits only the Beauchamp trilogy and would split the shared universe); Paranormal neighbours (the world is secret). Soft spot for the curator: the leaf
+  definition says houses are made and adopted by the bite, never born, while Blue Bloods are born angels who awaken at fifteen and carry bloodlines. The house-from-inside
+  engine is what the leaf is about and no other leaf fits better, so it is placed here; the clause may want a small wording change (for example ''made and adopted
+  by the bite, or inherited through blood''), which is the curator''s to approve. Sources: https://isfdb.org/cgi-bin/pe.cgi?32742= ; https://isfdb.stoecker.eu/cgi-bin/pe.cgi?29287=
+  ; https://en.wikipedia.org/wiki/Blue_Bloods_(novel_series) ; https://melissa-delacruz.com/book-series/blue-bloods/ ; https://melissa-delacruz.com/book/white-nights/
+  ; https://www.kirkusreviews.com/book-reviews/melissa-de-la-cruz/vampires-of-manhattan/ ; https://www.kirkusreviews.com/news-and-features/articles/melissa-de-la-cruz-witches-east-end/
+  ; https://bluebloodsuniverse.fandom.com/wiki/Beauchamp_Family_series ; Open Library for covers. Reference-level audit, not a full read of all seventeen.'
 books:
+- title: Blue Bloods
+  year: 2006
+  cover_url: https://covers.openlibrary.org/b/id/544947-L.jpg
+- title: Masquerade
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/1479643-L.jpg
+- title: Revelations
+  year: 2008
+  cover_url: https://covers.openlibrary.org/b/id/7020840-L.jpg
+- title: The Van Alen Legacy
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/7028724-L.jpg
+- title: Misguided Angel
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6649911-L.jpg
+- title: Bloody Valentine
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6675767-L.jpg
+- title: Keys to the Repository
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/7020841-L.jpg
+- title: Lost in Time
+  year: 2011
+  cover_url: https://covers.openlibrary.org/b/id/6937031-L.jpg
 - title: Witches of East End
   year: 2011
   cover_url: https://covers.openlibrary.org/b/id/10823475-L.jpg
+- title: Wolf Pact
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/7289801-L.jpg
 - title: Serpent's Kiss
   year: 2012
   cover_url: https://covers.openlibrary.org/b/id/8443397-L.jpg
 - title: Winds of Salem
   year: 2013
   cover_url: https://covers.openlibrary.org/b/id/9000773-L.jpg
+- title: The Gates of Paradise
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/7732036-L.jpg
 - title: Vampires of Manhattan
   year: 2014
   cover_url: https://covers.openlibrary.org/b/id/9459477-L.jpg
+- title: White Nights
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8565941-L.jpg
+- title: After Life
+  year: 2022
+  cover_url: https://covers.openlibrary.org/b/id/13790988-L.jpg
+- title: After Death
+  year: 2023
+  cover_url: https://covers.openlibrary.org/b/id/14369853-L.jpg
 cover_curation:
   status: complete
   source: Open Library / publisher
-  selected_url: https://covers.openlibrary.org/b/id/9459477-L.jpg
+  selected_url: https://covers.openlibrary.org/b/id/544947-L.jpg
   visually_reviewed_on: '2026-11-27'
-  review_method: contact-sheet one-pass, Open Library hotlink and Hachette cover inspected
-intake: ten-k walk v5 (queue ids MC06672, MC06669, MC06671, MC06670)
+  review_method: contact-sheet inspection of all 17 Open Library hotlinks; Revelations and After Death swapped after a title page and a wrong cover were seen
+intake: ten-k walk v5 (queue ids MC06672, MC06669, MC06671, MC06670; core titles added by whole-fiction audit)
 placement_history:
 - date: '2026-11-27'
   to: vampire-dynasty-fantasy
