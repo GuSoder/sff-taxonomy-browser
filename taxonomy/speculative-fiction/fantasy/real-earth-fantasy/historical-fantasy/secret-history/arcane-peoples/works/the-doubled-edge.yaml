@@ -6,11 +6,14 @@ authors:
 first_published: 2005
 canonical_genre: arcane-peoples
 placement_status: accepted
-placement_rationale: 'Mercedes Lackey and Roberta Gellis''s Doubled Edge (Scepter''d Isle) novels (This Scepter''d Isle, Ill Met by Moonlight, And Less Than Kind,
-  By Slanderous Tongues): the Seleighe and Unseleighe Sidhe wage a hidden war across Tudor England, steering Elizabeth''s survival and the fate of the throne while
-  ordinary people never see them (publisher pages, Publishers Weekly). A concealed magical truth explains documented history and the secrecy is the point: Secret
-  history.'
+placement_rationale: 'Mercedes Lackey and Roberta Gellis''s Doubled Edge (Scepter''d Isle) novels (This Scepter''d Isle, Ill
+  Met by Moonlight, And Less Than Kind, By Slanderous Tongues): the Seleighe and Unseleighe Sidhe wage a hidden war across
+  Tudor England, steering Elizabeth''s survival and the fate of the throne while ordinary people never see them (publisher
+  pages, Publishers Weekly). A concealed magical truth explains documented history and the secrecy is the point: Secret history.'
 books:
+- title: This Scepter'd Isle
+  year: 2004
+  cover_url: https://covers.openlibrary.org/b/id/479550-L.jpg
 - title: Ill Met by Moonlight
   year: 2005
   cover_url: https://covers.openlibrary.org/b/id/479551-L.jpg
@@ -20,8 +23,6 @@ books:
 - title: By Slanderous Tongues
   year: 2007
   cover_url: https://covers.openlibrary.org/b/id/759890-L.jpg
-- title: This Scepter'd Isle
-  year: 2004
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -34,8 +35,9 @@ placement_history:
   to: secret-history
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
 - date: '2026-10-06'
-  reason: Split of Secret history by what the hidden truth is; re-walked root-down into Arcane peoples (curator "Ok, approved" (phonemsg-01M48WVSYY2A3WW6EH3W6TBTRX,
-    2026-10-06 5:21 PM) of the final set stated in phonemsg-01M48WTPYFEQY7GTG3CDMKCDB348R1 (Arcane peoples / Secret cabals / Untold magic) over the card lists posted
-    in phonemsg-01M48WEXEM23B9MM9743PXMKT8; names workshopped in his messages 5:09-5:20 PM).
+  reason: Split of Secret history by what the hidden truth is; re-walked root-down into Arcane peoples (curator "Ok, approved"
+    (phonemsg-01M48WVSYY2A3WW6EH3W6TBTRX, 2026-10-06 5:21 PM) of the final set stated in phonemsg-01M48WTPYFEQY7GTG3CDMKCDB348R1
+    (Arcane peoples / Secret cabals / Untold magic) over the card lists posted in phonemsg-01M48WEXEM23B9MM9743PXMKT8; names
+    workshopped in his messages 5:09-5:20 PM).
   from: secret-history
   to: arcane-peoples
