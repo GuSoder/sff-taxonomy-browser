@@ -2,7 +2,7 @@ id: seven-brothers
 title: Seven Brothers
 authors:
 - Curt Benjamin
-first_published: 2002
+first_published: 2001
 canonical_genre: hidden-heir-quest-fantasy
 placement_status: accepted
 placement_rationale: 'Walk: Fantasy > Epic fantasy > High fantasy > Classic quest fantasy > Destiny quest. Llesho, last of
@@ -10,14 +10,17 @@ placement_rationale: 'Walk: Fantasy > Epic fantasy > High fantasy > Classic ques
   brothers and face a destiny beyond mortal power; the marked one''s rise is the spine.'
 books:
 - title: The Prince of Shadow
-  year: 2002
+  year: 2001
   cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756400545
 - title: Prince of Dreams
-  year: 2003
+  year: 2002
   cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9781101157510
 - title: The Gates of Heaven
-  year: 2004
+  year: 2003
   cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756401986
+- title: Lords of Grass and Thunder
+  year: 2005
+  cover_url: https://images.penguinrandomhouse.com/cover/700jpg/9780756403423
 cover_curation:
   status: complete
   source: Open Library / publisher
@@ -33,4 +36,14 @@ placement_history:
   reason: Split of Destiny quest fantasy by birthright or humble origin; re-walked root-down into Hidden heir quest fantasy
     (curator "Approved" (phonemsg-01M47ZKTV6B58K5ZBRQC18Z9CS, 2026-10-06 8:49 AM)).
   from: destiny-quest-fantasy
+  to: hidden-heir-quest-fantasy
+- date: '2026-11-27'
+  reason: 'Whole-universe fold 2026-11-27. ISFDB files Lords of Grass and Thunder (2005) in the Seven Brothers Universe series
+    with Seven Brothers as a sub-series (https://www.isfdb.org/cgi-bin/title.cgi?172403=); the DAW cover reads ''set in the
+    universe of Seven Brothers'' and a character carries over, so under the shared-universe-is-one-fiction grant (phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX)
+    it is one card. Years verified against ISFDB (Prince of Shadow 2001-09, Prince of Dreams 2002, Gates of Heaven 2003, Lords
+    2005-04); the old 2002/2003/2004 were reissue years. Placement stays where the series spine is: Llesho''s hidden-heir
+    rise. Wobble: Lords is a clan-succession story (Tayy and his uncle Mergen), which would sit in Dynastic wars alone, but
+    the universe card goes with the series spine.'
+  from: dynastic-wars (Lords of Grass and Thunder card)
   to: hidden-heir-quest-fantasy
