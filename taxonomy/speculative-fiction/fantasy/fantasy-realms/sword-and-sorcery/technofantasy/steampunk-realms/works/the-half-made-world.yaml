@@ -1,0 +1,49 @@
+id: the-half-made-world
+title: The Half-Made World
+authors:
+- Felix Gilman
+first_published: 2010
+canonical_genre: steampunk-realms
+placement_status: accepted
+placement_rationale: 'Rewalk 2026-11-28 (second): the curator''s root rule puts any literal magic on the Fantasy
+  branch (2026-09-14 ruling, ''No fucking magic in my sci-fi'' 2026-09-16), and this world has demons, spirits and
+  Folk magic, so the New Weird/Far weird route under Science fiction is closed despite the attested label. Root-down:
+  Speculative fiction > Fantasy > Fantasy realms (the half-made world is independently invented, not Earth) > Sword
+  and sorcery (adventure-forward chase across the frontier) > Technofantasy (technology central to the worldbuilding:
+  the Line''s railroad and thirty-eight Engines) > Steampunk realms (steam-led industrial machinery; steam plus
+  magic stays here, not Magitech). Perschon (Reactor): ''pure weird western, with a whole lot of steampunk''. Sibling
+  witness: The Incorruptibles, same secondary-world demonic-western mode. Rejected: godforsaken-realms (dark powers
+  present, but the leaf is dread-gothic and this is adventure-war); epic umbrella children (no engine fit); godforsaken''s
+  dread gate fails ''more than adventure''. One duology in one world, one fiction (rule 11j); MC03135 Lightbringers
+  and Rainmakers is a Tor.com short story in the same world, not folded.'
+books:
+- title: The Half-Made World
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6672721-L.jpg
+- title: The Rise of Ransom City
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/10305721-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6672721-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03136, MC03138)
+placement_history:
+- date: '2026-10-04'
+  to: weird-west-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-28'
+  from_genre: weird-west-fantasy
+  to: far-weird
+  reason: 'Ancestor-gate failure: secondary world, not documented-era Earth. Honest existing leaf under the attested
+    New Weird tradition; autonomous card move under the re-walk grant.'
+- date: '2026-11-28'
+  from_genre: far-weird
+  to: steampunk-realms
+  reason: 'Curator''s magic dividing line: literal demons/spirits/magic cannot sit under Science fiction; the attested
+    New Weird label does not override the root rule. Rewalk to the honest Fantasy leaf.'
+classification_sources:
+- https://reactormag.com/demons-and-deities/
+- https://cultofthenew.com/2011/05/26/the-half-made-world/
