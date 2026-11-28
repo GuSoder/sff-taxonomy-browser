@@ -1,0 +1,48 @@
+id: migration
+title: Migration
+authors:
+- James P. Hogan
+first_published: 2010
+canonical_genre: new-star-voyage
+placement_status: accepted
+placement_rationale: 'After a civilizational collapse, the nation-state of Sofi builds a generation starship
+  that grows into a flotilla of variously run city-states, frontier towns, religious monasteries, pleasure
+  resorts and academic retreats; the story''s engine is which kind of civilization to build and the old
+  social patterns reasserting themselves aboard (Baen blurb). Social order and conflict across a long
+  voyage: Starship societies. Not Starship mysteries: no concealed-truth investigation governs the plot.
+
+
+  New star journey split, 2026-11-28 (owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9, authenticated
+  iMessage, 3:09:50 PM CET, answering the served split block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC): New
+  star voyage. The engine is which civilization to build among the flotilla''s city-states, monasteries
+  and resorts, and the old social patterns reasserting themselves aboard; the world aboard decides the
+  book.'
+books:
+- title: Migration
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/isbn/1439133522-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library
+  selected_url: https://covers.openlibrary.org/b/isbn/1439133522-L.jpg
+  visually_reviewed_on: '2026-10-28'
+  review_method: single-image visual check (Baen 2010 paperback)
+intake: ten-k walk v5 (queue ids MC04222)
+placement_history:
+- date: '2026-10-28'
+  to: voyage-societies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: starship-societies
+  to: new-star-journey
+  reason: 'Mission split of Starship societies (Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1,
+    2026-10-28 10:32, approving the three-way mission split of Starship societies): one new home (single
+    destination world).'
+- date: '2026-11-28'
+  from: new-star-journey
+  to: new-star-voyage
+  reason: 'New star journey split, 2026-11-28 (owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9, authenticated
+    iMessage, 3:09:50 PM CET, answering the served split block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC): New
+    star voyage. The engine is which civilization to build among the flotilla''s city-states, monasteries
+    and resorts, and the old social patterns reasserting themselves aboard; the world aboard decides the
+    book.'

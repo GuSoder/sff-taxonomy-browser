@@ -1,0 +1,61 @@
+id: the-ark
+title: The Ark
+authors:
+- Paul Chafe
+first_published: 2007
+canonical_genre: new-star-voyage
+placement_status: accepted
+placement_rationale: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring
+  fiction > Generation starships > Starship societies. The universe covers construction politics, then
+  descendant theocracy, oppression and the struggle for freedom; recovering the mission is part of the
+  social transformation. The ship remains the multi-generation community and story setting; the approved
+  story-engine partition selects this child.
+
+
+  New star journey split, 2026-11-28 (owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9, authenticated
+  iMessage, 3:09:50 PM CET, answering the served split block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC): New
+  star voyage. From construction politics through the descendant theocracy to the struggle for freedom,
+  the society the people make aboard carries the series; recovering the mission is part of that social
+  transformation, not a landing plot.'
+books:
+- title: 'Genesis: The Ark'
+  year: 2007
+  cover_url: https://covers.openlibrary.org/b/id/2787297-L.jpg
+- title: 'Exodus: The Ark'
+  year: 2009
+  cover_url: https://covers.openlibrary.org/b/id/6715713-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/2787297-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC07637, MC07636)
+placement_history:
+- date: '2026-10-04'
+  to: generation-starships
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-07'
+  from: generation-starships
+  to: voyage-societies
+  reason: 'Source-read root-down: Speculative fiction > Science fiction > Futurist > Spacefaring fiction
+    > Generation starships > Starship societies. The universe covers construction politics, then descendant
+    theocracy, oppression and the struggle for freedom; recovering the mission is part of the social transformation.
+    The ship remains the multi-generation community and story setting; the approved story-engine partition
+    selects this child. Curator split ruling phonemsg-01M4ARYY80J2CA9X9WBW65TVY9'
+- date: '2026-10-28'
+  from: starship-societies
+  to: new-star-journey
+  reason: 'Mission split of Starship societies (Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1,
+    2026-10-28 10:32, approving the three-way mission split of Starship societies): one new home (single
+    destination world).'
+- date: '2026-11-28'
+  from: new-star-journey
+  to: new-star-voyage
+  reason: 'New star journey split, 2026-11-28 (owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9, authenticated
+    iMessage, 3:09:50 PM CET, answering the served split block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC): New
+    star voyage. From construction politics through the descendant theocracy to the struggle for freedom,
+    the society the people make aboard carries the series; recovering the mission is part of that social
+    transformation, not a landing plot.'
+classification_sources:
+- https://www.baen.com/exodus-the-ark.html

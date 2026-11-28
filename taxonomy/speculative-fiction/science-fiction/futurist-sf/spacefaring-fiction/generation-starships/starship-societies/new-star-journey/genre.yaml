@@ -1,23 +1,29 @@
 id: new-star-journey
 label: New star journey
 parent: starship-societies
-children: []
-works:
-- the-ark
-- migration
-- aurora
-- calypso
-- jacobs-ladder
-- the-medusa-cycle
-- learning-the-world
-- the-song-of-the-safina
-- the-world-gives-way
-- generation-ship
+children:
+- new-star-landfall
+- new-star-voyage
+works: []
 image: 834-new-star-journey.webp
-definition: 'Generation-starship societies whose founding mission is one new home: a single destination world the ship was launched to reach and settle. The mission may be forgotten, hijacked, interrupted, failed at the planet or fulfilled, and the story can be about any of those turns; what defines the shelf is that the ship exists to arrive. Not Star seeding, where one vessel delivers settlements to many stars, and not Vagabond starship, where the ship itself is the permanent home.'
-status: accepted
-ruling: 'Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1, 2026-10-28 10:32, approving the three-way mission split of Starship societies'
+definition: 'Generation-starship societies whose founding mission is one new home: a single destination
+  world the ship was launched to reach and settle. The mission may be forgotten, hijacked, interrupted,
+  failed at the planet or fulfilled, and the story can be about any of those turns; what defines the shelf
+  is that the ship exists to arrive. Not Star seeding, where one vessel delivers settlements to many stars,
+  and not Vagabond starship, where the ship itself is the permanent home. Split 2026-11-28 by what decides
+  the book into New star landfall (the destination) and New star voyage (the society aboard the crossing),
+  owner approved phonemsg-01M8H7VAFZQBVKVG482MNPWJV9; umbrella with zero direct cards.'
+status: umbrella
+ruling: Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1, 2026-10-28 10:32, approving the three-way
+  mission split of Starship societies Split at ten works 2026-11-28 (owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9,
+  answering served block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC) into New star landfall (the destination
+  decides the book) and New star voyage (the society aboard the crossing decides the book); leaf became
+  umbrella and shed all works.
 history:
 - date: '2026-10-28'
-  change: >-
-    Seeded by the approved mission split of Starship societies: New star journey (one new home), Star seeding (many settlements), Vagabond starship (the ship itself as home).
+  change: 'Seeded by the approved mission split of Starship societies: New star journey (one new home),
+    Star seeding (many settlements), Vagabond starship (the ship itself as home).'
+- date: '2026-11-28'
+  change: Split at ten works into New star landfall (4) and New star voyage (6) by what decides the book;
+    owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9, 2026-11-28 15:09:50 CET. Leaf became umbrella
+    and shed all works.

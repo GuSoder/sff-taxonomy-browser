@@ -1,0 +1,49 @@
+id: aurora
+title: Aurora
+authors:
+- Kim Stanley Robinson
+first_published: 2015
+canonical_genre: new-star-landfall
+placement_status: accepted
+placement_rationale: 'Kim Stanley Robinson''s Aurora (2015; Wikipedia, Guardian): a generation ship of
+  twenty-four biomes and some two thousand people, launched from Earth in 2545 for Tau Ceti and narrated
+  largely by the ship''s artificial intelligence, reaches the system after about 160 years and seven generations,
+  and the community splits over what to do when the colony plan fails. Walk: Spacefaring > Generation
+  starships > Starship societies (the social order and its conflicts across the voyage). Tried Starship
+  mysteries (the ship hides no secret that drives the plot). Sources: Wikipedia, Guardian; not read.
+
+
+  New star journey split, 2026-11-28 (owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9, authenticated
+  iMessage, 3:09:50 PM CET, answering the served split block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC): New
+  star landfall. The book''s crisis is the colony plan''s failure at Tau Ceti and the community''s schism
+  over what to do there; the destination decides the book. Borderline: much of the novel is the crossing
+  and the turn back toward Earth, but the arrival and its failure break the mission and drive every choice.'
+books:
+- title: Aurora
+  year: 2015
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/7425787-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC05557)
+placement_history:
+- date: '2026-10-04'
+  to: voyage-societies
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-10-28'
+  from: starship-societies
+  to: new-star-journey
+  reason: 'Mission split of Starship societies (Curator "Approved" phonemsg-01M60XN6AH4JFMWCCAVXFWNPG1,
+    2026-10-28 10:32, approving the three-way mission split of Starship societies): one new home (single
+    destination world).'
+- date: '2026-11-28'
+  from: new-star-journey
+  to: new-star-landfall
+  reason: 'New star journey split, 2026-11-28 (owner "Approved" phonemsg-01M8H7VAFZQBVKVG482MNPWJV9, authenticated
+    iMessage, 3:09:50 PM CET, answering the served split block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC): New
+    star landfall. The book''s crisis is the colony plan''s failure at Tau Ceti and the community''s schism
+    over what to do there; the destination decides the book. Borderline: much of the novel is the crossing
+    and the turn back toward Earth, but the arrival and its failure break the mission and drive every
+    choice.'

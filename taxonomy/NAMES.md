@@ -471,3 +471,8 @@ New third child of Space navy (siblings Space armada, Space corvette), single se
 ## Space ace seed, 27 November 2026
 Owner approved phonemsg-01M8FDZ9YVW4XZFJ5K0VTKXK21 ("Approved", 27 November 2026, 10:18:23 PM CET, authenticated iMessage from the owner), answering the served seed question phonemsg-01M8FDWE36WPKYNR6B1V2J946X (10:16:49 PM CET) after the owner suggested the name Space ace (phonemsg-01M8FDVHYJ3MV4BJE89S5KPQSH).
 New fifth child of Military science fiction (siblings Ground-pounders, Space navy, Space academy, Space command), single seed The Hidden War. Name suggested by the owner; established term for the fighter pilot. Gate is the skilled pilots war including remote craft, no kill-count requirement and no superlative.
+
+
+## New star journey split, 28 November 2026
+Owner approved phonemsg-01M8H7VAFZQBVKVG482MNPWJV9 ("Approved", 28 November 2026, 3:09:50 PM CET, authenticated iMessage from the owner), answering the served split block phonemsg-01M8GVGAHGMBR409BF7YPM7FTC (11:34:07 AM CET) naming New star landfall and New star voyage.
+New star journey (10) becomes an umbrella with zero direct cards and two children. Axis: what decides the book - the destination (New star landfall, 4: Aurora, Generation Ship, Learning the World, Calypso) or the society the people make aboard the crossing (New star voyage, 6: The Ark, Migration, Jacob's Ladder, The Medusa Cycle, The Song of the Safina, The World Gives Way). Both names keep the parent's "new star" (rule 4f); "voyage" reads directional toward the one new home. Earlier pairs the owner rejected: Planetfall/Shipborn (phonemsg-01M8FEN368JJXZBKGGCWR2232K) and New star landfall/New star passage (phonemsg-01M8GVCCGB2VKWH9XZ595M90X9, "Passage sounds like they pass by the star").
