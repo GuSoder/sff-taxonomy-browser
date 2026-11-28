@@ -1,0 +1,45 @@
+id: the-shadow
+title: The Shadow
+authors:
+- Lila Bowen
+first_published: 2015
+canonical_genre: alt-western-fantasy
+placement_status: accepted
+placement_rationale: 'Root-down: Speculative fiction > Fantasy (magic, monsters) > Real earth fantasy (a divergent
+  version of our Texas, not an independently invented universe) > Historical fantasy > Alternate history fantasy
+  > Alt western fantasy. Author: Rhett grew up in Durango, ''an 1800s alt-history version of Texas''; ''the world
+  is made up and the history is fuzzy''. A rewritten 1800s frontier running on monsters and magic, so it fails Period
+  fantasy''s documented-era gate and is not Weird West. Wake of Vultures to Treason of Hawks, one fiction. Sources:
+  https://www.apexbookcompany.com/blogs/apex-magazine/interview-with-author-lila-bowen and https://historicalnovelsociety.org/reviews/wake-of-vultures/.'
+books:
+- title: Wake of Vultures
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8506424-L.jpg
+- title: Conspiracy of Ravens
+  year: 2016
+  cover_url: https://covers.openlibrary.org/b/id/13091597-L.jpg
+- title: Malice of Crows
+  year: 2017
+  cover_url: https://covers.openlibrary.org/b/id/8841462-L.jpg
+- title: Treason of Hawks
+  year: 2018
+  cover_url: https://covers.openlibrary.org/b/id/8780604-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/8506424-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC06015, MC06012, MC06013, MC06014)
+placement_history:
+- date: '2026-10-04'
+  to: weird-west-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-28'
+  from_genre: weird-west-fantasy
+  to: alt-western-fantasy
+  reason: Fitting leaf now exists (owner-approved seed, phonemsg-01M8HRN9VEJ6TVM73E905Z4WX5); alt-history Texas
+    fails the documented-era gate. Autonomous card move after completed walk.
+classification_sources:
+- https://www.apexbookcompany.com/blogs/apex-magazine/interview-with-author-lila-bowen
+- https://historicalnovelsociety.org/reviews/wake-of-vultures/
