@@ -1,0 +1,45 @@
+id: the-devils-west
+title: The Devil's West
+authors:
+- Laura Anne Gilman
+first_published: 2015
+canonical_genre: weird-west-fantasy
+placement_status: accepted
+placement_rationale: 'Simon & Schuster''s Devil''s West series page lists the trilogy: Silver on the Road (2015, #1),
+  The Cold Eye (2017, #2), Red Waters Rising (2018, #3), with Isobel, the Devil''s Left Hand, riding the magical land
+  of the Territory. Simon & Schuster and Publishers Weekly place the story in an alternate nineteenth-century North
+  America whose western Territory is alive, full of magic and governed by the Devil, with mad magicians, ghosts and
+  twisted animal spirits. SFE attests Weird West for fusions of fantasy/horror and classic Western motifs. One trilogy
+  in one world, one fiction; card folded from the Red Waters Rising row to the whole trilogy on the shared-universe
+  audit of 2026-11-28 (fold authority phonemsg-01M66AQB0JEGYRYN8Q7XTWHVDX).'
+books:
+- title: Silver on the Road
+  year: 2015
+  cover_url: https://covers.openlibrary.org/b/id/8571041-L.jpg
+- title: The Cold Eye
+  year: 2017
+  cover_url: https://www.publishersweekly.com/cover/9781481429719
+- title: Red Waters Rising
+  year: 2018
+  cover_url: https://www.publishersweekly.com/cover/9781481429757
+classification_sources:
+- https://www.simonandschuster.com/series/The-Devils-West
+- https://www.simonandschuster.net/books/Red-Waters-Rising/Laura-Anne-Gilman/The-Devils-West/9781481429757
+- https://www.publishersweekly.com/9781481429757
+- https://sf-encyclopedia.com/entry/deadlands
+cover_curation:
+  status: complete
+  source: Open Library / Publishers Weekly / Saga Press, pixel-inspected
+  selected_url: https://covers.openlibrary.org/b/id/8571041-L.jpg
+  shows_english_title: true
+  visually_reviewed_on: '2026-11-28'
+placement_history:
+- date: '2026-09-23'
+  note: 'Mirror sync: file moved from taxonomy/speculative-fiction/fantasy/real-earth-fantasy/historical-fantasy/period-fantasy/weird-west-fantasy to match
+    live tree; placement unchanged on site.'
+  previous_canonical_genre: weird-west-fantasy
+- date: '2026-11-28'
+  note: 'Whole-fiction fold: the card represented only Red Waters Rising (2018); the fiction is the Devil''s West
+    trilogy (Silver on the Road 2015, The Cold Eye 2017, Red Waters Rising 2018, per the Simon & Schuster series
+    page). Card retitled The Devil''s West, first_published 2015, books list of three novels. No universe shared
+    with any other member of the leaf.'

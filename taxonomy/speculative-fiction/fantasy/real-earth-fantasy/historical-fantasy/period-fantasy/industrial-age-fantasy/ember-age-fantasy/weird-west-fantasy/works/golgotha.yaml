@@ -2,13 +2,16 @@ id: golgotha
 title: Golgotha
 authors:
 - R. S. Belcher
-first_published: 2014
+first_published: 2013
 canonical_genre: weird-west-fantasy
 placement_status: accepted
-placement_rationale: 'Golgotha, Nevada, an 1870s frontier town where the lawman, the mayor and the saloon keeper hide monsters,
-  angels and old magic behind the gunsmoke. The nineteenth-century American frontier remade through magic and monsters: Weird
-  west fantasy.'
+placement_rationale: 'Golgotha, Nevada, an 1870s frontier town where the lawman, the mayor and the saloon
+  keeper hide monsters, angels and old magic behind the gunsmoke. The nineteenth-century American frontier
+  remade through magic and monsters: Weird west fantasy.'
 books:
+- title: The Six-Gun Tarot
+  year: 2013
+  cover_url: https://covers.openlibrary.org/b/id/10206380-L.jpg
 - title: The Shotgun Arcana
   year: 2014
   cover_url: https://covers.openlibrary.org/b/id/10231748-L.jpg
@@ -26,3 +29,6 @@ placement_history:
 - date: '2026-10-04'
   to: weird-west-fantasy
   reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-28'
+  note: 'Corpus completion: The Six-Gun Tarot (2013), the series'' first novel per the Tor Publishing
+    Group Golgotha series page, was missing; added. Card title stays Golgotha (the series name).'
