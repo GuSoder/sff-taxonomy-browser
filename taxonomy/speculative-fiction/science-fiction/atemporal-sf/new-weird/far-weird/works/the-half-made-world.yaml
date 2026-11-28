@@ -1,0 +1,41 @@
+id: the-half-made-world
+title: The Half-Made World
+authors:
+- Felix Gilman
+first_published: 2010
+canonical_genre: far-weird
+placement_status: accepted
+placement_rationale: 'Rewalk 2026-11-28: the world is not Earth at all (a secondary, literally half-made world),
+  so Real earth fantasy fails at the root; the Weird West leaf''s period-fantasy ancestor requires a documented
+  era. New Weird is the attested frame: science, magic, horror and grotesquerie mingled in an invented geography
+  (the Line''s thirty-eight immortal Engines, the demon Guns, the Folk); Cult of the New names it New Weird outright,
+  Reactor''s Perschon calls it ''pure weird western, with a whole lot of steampunk''. Far weird over Home weird
+  (the world itself is invented). Sibling witness: The Etched City, same mingled-mode secondary-world western register.
+  One duology in one world, one fiction (rule 11j); MC03135 Lightbringers and Rainmakers is a Tor.com short story
+  in the same world, not folded.'
+books:
+- title: The Half-Made World
+  year: 2010
+  cover_url: https://covers.openlibrary.org/b/id/6672721-L.jpg
+- title: The Rise of Ransom City
+  year: 2012
+  cover_url: https://covers.openlibrary.org/b/id/10305721-L.jpg
+cover_curation:
+  status: complete
+  source: Open Library / publisher
+  selected_url: https://covers.openlibrary.org/b/id/6672721-L.jpg
+  visually_reviewed_on: '2026-10-04'
+  review_method: contact-sheet one-pass
+intake: ten-k walk v5 (queue ids MC03136, MC03138)
+placement_history:
+- date: '2026-10-04'
+  to: weird-west-fantasy
+  reason: 'Intake from the 10k list: placed by a root-down walk (curator commission phonemsg-01M43MYMGAMQTNA3CY402KK7FB).'
+- date: '2026-11-28'
+  from_genre: weird-west-fantasy
+  to: far-weird
+  reason: 'Ancestor-gate failure: secondary world, not documented-era Earth. Honest existing leaf under the attested
+    New Weird tradition; autonomous card move under the re-walk grant.'
+classification_sources:
+- https://cultofthenew.com/2011/05/26/the-half-made-world/
+- https://reactormag.com/demons-and-deities/
